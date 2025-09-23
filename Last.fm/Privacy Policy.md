@@ -13,18 +13,18 @@ For additional information, if you are located in California (USA), please also 
 
 **Table of Contents**
 
-* [INFORMATION WE COLLECT ABOUT YOU](#information-we-collect-about-you)
-* [HOW WE USE YOUR INFORMATION AND WHY](#how-we-use-your-information-and-why)
-* [WHOM WE SHARE YOUR INFORMATION WITH AND WHY](#who-we-share-your-information-with-and-why)
-* [YOUR CHOICES, RIGHTS, AND CONTROLS](#your-choices,-rights,-and-controls)
-* [INTERNATIONAL TRANSFERS](#international-transfers)
-* [CHILDREN'S PRIVACY](#children’s-privacy)
-* [RETENTION](#retention)
-* [COOKIES AND OTHER TRACKING TECHNOLOGIES](#cookies-and-other-tracking-technologies)
-* [PROTECTING YOUR INFORMATION](#protecting-your-information)
-* [CHANGES TO THIS POLICY](#changes-to-this-policy)
-* [CONTACT US](#contact-us)
-* [ADDITIONAL INFORMATION: US STATES](#additional-information-us-states)
+*   [INFORMATION WE COLLECT ABOUT YOU](#information-we-collect-about-you)
+*   [HOW WE USE YOUR INFORMATION AND WHY](#how-we-use-your-information-and-why)
+*   [WHOM WE SHARE YOUR INFORMATION WITH AND WHY](#who-we-share-your-information-with-and-why)
+*   [YOUR CHOICES, RIGHTS, AND CONTROLS](#your-choices,-rights,-and-controls)
+*   [INTERNATIONAL TRANSFERS](#international-transfers)
+*   [CHILDREN'S PRIVACY](#children’s-privacy)
+*   [RETENTION](#retention)
+*   [COOKIES AND OTHER TRACKING TECHNOLOGIES](#cookies-and-other-tracking-technologies)
+*   [PROTECTING YOUR INFORMATION](#protecting-your-information)
+*   [CHANGES TO THIS POLICY](#changes-to-this-policy)
+*   [CONTACT US](#contact-us)
+*   [ADDITIONAL INFORMATION: US STATES](#additional-information-us-states)
 
 INFORMATION WE COLLECT ABOUT YOU
 --------------------------------
@@ -124,12 +124,12 @@ We process your personal information to provide you with the Paramount Services,
 
 We use registration information, information you provide offline, billing and payment information, and your messages and feedback to provide the Paramount Services. These activities include the following: 
 
-* Creating and managing your account, subscriptions, and registrations
-* Authenticating your account or verifying your identity
-* Providing you with the services that you request, customer support, and account updates
-* Completing any transactions you request
-* Performing any of our contractual obligations to you
-* Communicating with you and responding to your questions related to your account or subscription
+*   Creating and managing your account, subscriptions, and registrations
+*   Authenticating your account or verifying your identity
+*   Providing you with the services that you request, customer support, and account updates
+*   Completing any transactions you request
+*   Performing any of our contractual obligations to you
+*   Communicating with you and responding to your questions related to your account or subscription
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -137,10 +137,10 @@ For the above purposes, we process your personal information when it is **necess
 
 We also use registration information, information and content you post, your messages and feedback, information collected through social media, and information you provide when you do business with us to manage our relationship with you. These activities include the following:
 
-* Managing social media interactions and user-generated content (such as posts or comments you submit on public platforms), enabling interactive features, and personalizing the Paramount Services and content
-* Managing our audience relationships, shows, and events
-* Managing our relationships with current or prospective partners, corporate customers and vendors, and other business partner personnel
-* Communicating with you and responding to your questions that are not related to your account our subscription
+*   Managing social media interactions and user-generated content (such as posts or comments you submit on public platforms), enabling interactive features, and personalizing the Paramount Services and content
+*   Managing our audience relationships, shows, and events
+*   Managing our relationships with current or prospective partners, corporate customers and vendors, and other business partner personnel
+*   Communicating with you and responding to your questions that are not related to your account our subscription
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -150,13 +150,13 @@ For the above purposes, we process your personal information when this is **nece
 
 We use all categories of personal information to analyze and understand how the Paramount Services are operating. These activities include the following:
 
-* Auditing related to counting unique visitors, verifying how Paramount Services are displayed, and compliance
-* Determining and managing the effectiveness of our non-personalized advertising and marketing
-* Performing data analytics, research, and optimization
-* Learning more about our audiences
-* Generating insights about our audiences and creating groups of similar audiences (“segments”)
-* Performing accounting, auditing, and other internal functions
-* Recognizing and understanding the preferences, interests, and demographic information of our audiences so that we can personalize your experience with the Paramount Services
+*   Auditing related to counting unique visitors, verifying how Paramount Services are displayed, and compliance
+*   Determining and managing the effectiveness of our non-personalized advertising and marketing
+*   Performing data analytics, research, and optimization
+*   Learning more about our audiences
+*   Generating insights about our audiences and creating groups of similar audiences (“segments”)
+*   Performing accounting, auditing, and other internal functions
+*   Recognizing and understanding the preferences, interests, and demographic information of our audiences so that we can personalize your experience with the Paramount Services
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -164,8 +164,8 @@ For the above purposes, we process your personal information when this is **nece
 
 We also use online activities and preferences, online identifiers, location data, and information from our partners and from other sources to analyze and understand how digital advertising is served on the Paramount Services and Third-Party Services. These activities include the following:
 
-* Tracking ad impressions, verifying positioning and quality of ad impressions, and personalized advertising-related auditing compliance.
-* Determining and managing the effectiveness of our personalized advertising and marketing.
+*   Tracking ad impressions, verifying positioning and quality of ad impressions, and personalized advertising-related auditing compliance.
+*   Determining and managing the effectiveness of our personalized advertising and marketing.
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -175,9 +175,9 @@ For the above purposes, we process your personal information when you have given
 
 We use all categories of personal information to improve the Paramount Services. These activities include the following:
 
-* Undertaking internal research for technological development and demonstration
-* Undertaking activities to verify or maintain the quality or safety of our services and to improve, upgrade, or enhance them
-* Debugging to identify and repair errors
+*   Undertaking internal research for technological development and demonstration
+*   Undertaking activities to verify or maintain the quality or safety of our services and to improve, upgrade, or enhance them
+*   Debugging to identify and repair errors
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -187,9 +187,9 @@ For the above purposes, we process your personal information when this is **nece
 
 We use your registration information, billing and payment information, online activities and preferences, online identifiers, location data, information provided by third parties, and information we derive to deliver and display and target personalized ads. These activities include the following:
 
-* Recognizing and understanding your preferences, interests, and demographic information so that we can personalize the ads we deliver to you (this may involve converting your information to hashed identifiers)
-* Generating insights about our audiences and creating segments that we can use to help us deliver targeted and personalized ads to you
-* Running personalized advertising and marketing campaigns for our own or third-party products and services, including by sending promotional messages and newsletters
+*   Recognizing and understanding your preferences, interests, and demographic information so that we can personalize the ads we deliver to you (this may involve converting your information to hashed identifiers)
+*   Generating insights about our audiences and creating segments that we can use to help us deliver targeted and personalized ads to you
+*   Running personalized advertising and marketing campaigns for our own or third-party products and services, including by sending promotional messages and newsletters
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -197,9 +197,9 @@ For the above purposes, we process your personal information when you have given
 
 We also use your registration information, information you provide offline, information provided by third parties, and information we derive to deliver marketing campaigns. These activities include the following:
 
-* Managing contests, giveaways, competitions, sweepstakes, offers, or promotions, including verifying your eligibility and selecting winners
-* Delivering non-personalized advertising shown as part of your current interaction with us
-* Running non-personalized advertising and marketing campaigns for our own or third-party products and services, including by sending promotional messages and newsletters
+*   Managing contests, giveaways, competitions, sweepstakes, offers, or promotions, including verifying your eligibility and selecting winners
+*   Delivering non-personalized advertising shown as part of your current interaction with us
+*   Running non-personalized advertising and marketing campaigns for our own or third-party products and services, including by sending promotional messages and newsletters
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -209,8 +209,8 @@ For the above purposes, we process your personal information when this is **nece
 
 We use all categories of personal information to manage safety and security on the Paramount Services. These activities include the following:
 
-* Conducting security monitoring and access controls to our premises, including CCTV/security cameras
-* Preventing fraud and other illegal activity, claims, and other liabilities
+*   Conducting security monitoring and access controls to our premises, including CCTV/security cameras
+*   Preventing fraud and other illegal activity, claims, and other liabilities
 
 ##### LEGAL BASIS (EEA, UK, SWITZERLAND)
 
@@ -280,13 +280,13 @@ To exercise any of these rights or choices, please visit our [Privacy Rights Cen
 
 Depending on where you live, you may have the following rights regarding your personal information:
 
-* The right to confirm whether and how we process your personal information
-* The right to request access to, and a copy of, the information we hold about you, including details as to how we process your personal information, and in some states you also have the right to receive information on the categories of third parties or specific third parties with whom we might share your personal information
-* The right to object to or restrict our processing of your personal information
-* The right to request the erasure or deletion of your personal information
-* The right to correct, amend, or update your personal information
-* The right to request that we transfer (port) your personal information to another company or third party
-* The right to withdraw your consent to processing your personal information
+*   The right to confirm whether and how we process your personal information
+*   The right to request access to, and a copy of, the information we hold about you, including details as to how we process your personal information, and in some states you also have the right to receive information on the categories of third parties or specific third parties with whom we might share your personal information
+*   The right to object to or restrict our processing of your personal information
+*   The right to request the erasure or deletion of your personal information
+*   The right to correct, amend, or update your personal information
+*   The right to request that we transfer (port) your personal information to another company or third party
+*   The right to withdraw your consent to processing your personal information
 
 For additional information about the additional rights that may be available to you if you live in certain US states, please see “[Additional Information: US States](#additional-information:-us-states)”.
 
@@ -324,18 +324,18 @@ Although most browsers and devices accept cookies by default, their settings usu
 
 Below are links to the cookie opt-out pages of common web browsers. If your web browser is not listed here, you should review your web browser terms to learn more about your cookie choices.
 
-* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)
-* [Apple Safari](https://support.apple.com/en-gb/105082)
-* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
-* [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+*   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)
+*   [Apple Safari](https://support.apple.com/en-gb/105082)
+*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+*   [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
 ##### Analytics provider opt-outs
 
 To opt out of certain tracking by our analytics providers, you may visit the links below:
 
-* [Google Analytics](https://tools.google.com/dlpage/gaoptout) 
-* [Adobe Omniture](https://www.adobe.com/privacy/opt-out.html) 
-* [Nielsen](https://www.nielsen.com/digitalprivacy) 
+*   [Google Analytics](https://tools.google.com/dlpage/gaoptout) 
+*   [Adobe Omniture](https://www.adobe.com/privacy/opt-out.html) 
+*   [Nielsen](https://www.nielsen.com/digitalprivacy) 
 
 Some of the Paramount Services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen’s digital measurement products, please review Nielsen’s privacy statement [here](https://www.nielsen.com/digitalprivacy) .
 
@@ -343,11 +343,11 @@ Some of the Paramount Services may feature Nielsen proprietary measurement softw
 
 We, our service providers, business partners, and other third parties may use interest-based advertising. This means that we may collect information about you on the Paramount Services and on Third-Party Services to help serve advertising relevant to your interests across your devices, browsers, and on and off the Paramount Services. For more information on the choices that may be available to you to opt out of receiving interest-based advertising, please visit:
 
-* [Digital Advertising Alliance (US)](https://www.aboutads.info/choices/)
-* [Digital Advertising Alliance (Canada)](https://youradchoices.ca/en/tools)
-* [Digital Advertising Alliance (Australia)](https://www.youronlinechoices.com.au/)
-* [Digital Advertising Alliance (EU)](https://www.youronlinechoices.com/)
-* [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1)
+*   [Digital Advertising Alliance (US)](https://www.aboutads.info/choices/)
+*   [Digital Advertising Alliance (Canada)](https://youradchoices.ca/en/tools)
+*   [Digital Advertising Alliance (Australia)](https://www.youronlinechoices.com.au/)
+*   [Digital Advertising Alliance (EU)](https://www.youronlinechoices.com/)
+*   [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1)
 
 You can also opt out of interest-based advertising with some of the third-party partners we use, such as Google ([https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)). Please note that if you opt out of interest-based advertising, some information will still be collected for other purposes, such as research, analytics, and internal operations. You will also continue to receive contextual advertisements, but they may be less relevant to your interests.
 
@@ -389,24 +389,24 @@ You can manage how these tracking technologies are used by adjusting your device
 
 #### TRACKING TECHNOLOGIES AND PURPOSES
 
-* **Cookies**: Cookies are small data files stored on your browser or device. They may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”).
-* **Pixels**: Pixels are small images on a web page or in an email. Pixels collect information about your browser or device and can set cookies on your browser.
-* **Local Storage**: Local storage allows data about your browser or device to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
-* **SDKs**: SDKs (also known as “software development kits”) are blocks of code, typically provided by our partners, which may be installed in our applications. SDKs may help us understand how you interact with our applications and may collect information about the device and network you use to access our applications, such as the advertising ID associated with your device or information about how you interact with our applications.
+*   **Cookies**: Cookies are small data files stored on your browser or device. They may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”).
+*   **Pixels**: Pixels are small images on a web page or in an email. Pixels collect information about your browser or device and can set cookies on your browser.
+*   **Local Storage**: Local storage allows data about your browser or device to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
+*   **SDKs**: SDKs (also known as “software development kits”) are blocks of code, typically provided by our partners, which may be installed in our applications. SDKs may help us understand how you interact with our applications and may collect information about the device and network you use to access our applications, such as the advertising ID associated with your device or information about how you interact with our applications.
 
 The purposes for which we and our partners use cookies and similar technologies generally fall into the following categories:
 
-* **Essential**: Examples include carrying out or facilitating the transmission of communications over a network, and technologies that are strictly necessary to provide an online service (e.g., our website or a service on our website).
-* **Functional**: Examples include helping ensure the Paramount Services function correctly, remembering your settings and preferences (such as your language preferences), helping to identify and prevent security risks, or helping us understand and improve our services.
-* **Analytics and Performance**: Examples include collecting information about how you interact with the Paramount Services and personalizing content for you.
-* **Marketing and Advertising**: Examples include collecting information about your use of the Paramount Services, interactions with advertisements, your browsing habits, and other preferences so that we can deliver more relevant and meaningful advertising to you on the Paramount Services or on Third-Party Services.
-* **Social Media**: Examples include “social cookies,” which enable you to share content with your friends on social media platforms, such as Facebook or Twitter.
+*   **Essential**: Examples include carrying out or facilitating the transmission of communications over a network, and technologies that are strictly necessary to provide an online service (e.g., our website or a service on our website).
+*   **Functional**: Examples include helping ensure the Paramount Services function correctly, remembering your settings and preferences (such as your language preferences), helping to identify and prevent security risks, or helping us understand and improve our services.
+*   **Analytics and Performance**: Examples include collecting information about how you interact with the Paramount Services and personalizing content for you.
+*   **Marketing and Advertising**: Examples include collecting information about your use of the Paramount Services, interactions with advertisements, your browsing habits, and other preferences so that we can deliver more relevant and meaningful advertising to you on the Paramount Services or on Third-Party Services.
+*   **Social Media**: Examples include “social cookies,” which enable you to share content with your friends on social media platforms, such as Facebook or Twitter.
 
 On our child-directed services, we do not use (or allow our partners to use) automatically-collected information, such as IP addresses, cookie identifiers, and other device identifiers, other than to support our internal operations, which include the following:
 
-* Providing children with access to features and activities on those services
-* Customizing content and improve those services
-* Serving contextual advertising and limiting how often you or your child see a particular advertisement on those services
+*   Providing children with access to features and activities on those services
+*   Customizing content and improve those services
+*   Serving contextual advertising and limiting how often you or your child see a particular advertisement on those services
 
 PROTECTING YOUR INFORMATION
 ---------------------------
@@ -446,18 +446,18 @@ Where a brand does this or otherwise “sells” your personal information, we w
 
 The following types of personal information may be processed for purposes of targeted advertising, and may have been “shared” or “sold” in the 12-month period prior to the last modified date of the privacy policy:
 
-* **Registration Information and Online Identifiers**: Names and aliases; email address; IP address; unique identifiers
-* **Commercial information**: Information about transactions or content choices made on or in connection with the Paramount Services
-* **Online Activities and Preferences**: Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences
-* **Location data**: Information related to your location, including your IP address
-* **Social Media Information**: Social media statuses and updates, pictures, and references to your online presence
+*   **Registration Information and Online Identifiers**: Names and aliases; email address; IP address; unique identifiers
+*   **Commercial information**: Information about transactions or content choices made on or in connection with the Paramount Services
+*   **Online Activities and Preferences**: Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences
+*   **Location data**: Information related to your location, including your IP address
+*   **Social Media Information**: Social media statuses and updates, pictures, and references to your online presence
 
 Each category of personal information listed above is “shared” with or “sold” to the following third parties to help us target and deliver personalized ads to you on the Paramount Services and Third-Party Services as described in this policy:
 
-* **Business partners** (e.g., marketing companies, sponsors working with us on co-branded promotions)
-* **Advertisers and other advertising partners** (e.g., agencies, publishers, and advertising networks)
-* **Social media companies**
-* **Parties to a corporate transaction** (e.g., if we are involved in the purchase, sale, lease, or other acquisition of our systems containing personal information)
+*   **Business partners** (e.g., marketing companies, sponsors working with us on co-branded promotions)
+*   **Advertisers and other advertising partners** (e.g., agencies, publishers, and advertising networks)
+*   **Social media companies**
+*   **Parties to a corporate transaction** (e.g., if we are involved in the purchase, sale, lease, or other acquisition of our systems containing personal information)
 
 We do not have actual knowledge that we “sell” or “share” personal information of individuals under the age of 16.
 
@@ -475,9 +475,9 @@ In the U.S., there may be instances where we process information that is conside
 
 In certain U.S. States, in addition to the rights described in the **Your Choices, Rights, and Controls** section of this Privacy Policy, you also have the following rights:
 
-* **Opt out of Sale/Sharing/Targeted Advertising**. You have the right to opt out of the processing of your personal information for purposes of targeted advertising, and the sale or sharing (for cross-context behavioral advertising purposes) of your personal information. Note that if you submit an opt-out request, you will still see ads on our services, though they might be less relevant to you. These ads may be based on historical information or information “shared” or “sold” by other sources. Please note that, when you use these tools on our services, you may need to renew your choices each time you clear your cookies or use a new browser or device. You may also need to make this choice separately for some of our services. You also can update your browser settings to make certain choices about third-party cookies.
-* **Non-discrimination**. We will not discriminate against you based on your exercise of any of the rights described above.
-* **Appeal**. If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision by responding directly in your request or by opening a new request and selecting ‘General Privacy Request’ and indicating that you are appealing our response to your previous request.
+*   **Opt out of Sale/Sharing/Targeted Advertising**. You have the right to opt out of the processing of your personal information for purposes of targeted advertising, and the sale or sharing (for cross-context behavioral advertising purposes) of your personal information. Note that if you submit an opt-out request, you will still see ads on our services, though they might be less relevant to you. These ads may be based on historical information or information “shared” or “sold” by other sources. Please note that, when you use these tools on our services, you may need to renew your choices each time you clear your cookies or use a new browser or device. You may also need to make this choice separately for some of our services. You also can update your browser settings to make certain choices about third-party cookies.
+*   **Non-discrimination**. We will not discriminate against you based on your exercise of any of the rights described above.
+*   **Appeal**. If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision by responding directly in your request or by opening a new request and selecting ‘General Privacy Request’ and indicating that you are appealing our response to your previous request.
 
 In those states where it is applicable, you or your authorized agent may submit a request to exercise any of the above rights by visiting our [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) or by calling us at (888) 841-3343. To opt out of the sale or sharing of your personal information, or our processing of your personal information for purposes of targeted advertising, click on the Your Privacy Choices link in the footer of the relevant websites or in the settings menu of the relevant mobile or online applications. Note that your choice to opt out is device- or browser-specific and you will need to manage your preferences for each device or browser you use. You may also need to make this choice separately on different Paramount Services.
 
@@ -495,12 +495,12 @@ Details on the information we may have collected about you during the 12-month p
 
 We may use your personal information for the purposes described in “[How We Use Your Information & Why](#how-we-use-your-information-and-why)” and for the following business purposes:
 
-* Providing you with access to Paramount Services
-* Analyzing the Paramount Services
-* Improving the Paramount Services
-* Personalized advertising and marketing
-* Managing safety and security
-* Legal obligations and permissions
+*   Providing you with access to Paramount Services
+*   Analyzing the Paramount Services
+*   Improving the Paramount Services
+*   Personalized advertising and marketing
+*   Managing safety and security
+*   Legal obligations and permissions
 
 **“Shine the Light” and “Eraser” Laws**. Residents of the State of California may request a list of all third parties to whom we have disclosed certain information during the preceding year for those third parties’ direct marketing purposes.
 
