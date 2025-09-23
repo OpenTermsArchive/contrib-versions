@@ -11,24 +11,24 @@ For individuals in the European Economic Area, United Kingdom, or the United Sta
 
 This privacy policy is intended to help you understand:
 
-* [Information we collect](#information-we-collect)
-* [How we use information](#how-we-use-information)
-* [How we disclose information](#how-we-disclose-information)
-* [How we store and secure information](#how-we-store-and-secure-information)
-* [How long we keep information](#how-long-we-keep-information)
-* [How to access and control your information](#how-to-access-and-control-your-information)
-* [Our policy towards children](#our-policy-towards-children)
-* [Regional disclosures](#regional-disclosures)
-* [Changes to our privacy policy](#changes-to-our-privacy-policy)
-* [How to contact us](#how-to-contact-us)  
+*   [Information we collect](#information-we-collect)
+*   [How we use information](#how-we-use-information)
+*   [How we disclose information](#how-we-disclose-information)
+*   [How we store and secure information](#how-we-store-and-secure-information)
+*   [How long we keep information](#how-long-we-keep-information)
+*   [How to access and control your information](#how-to-access-and-control-your-information)
+*   [Our policy towards children](#our-policy-towards-children)
+*   [Regional disclosures](#regional-disclosures)
+*   [Changes to our privacy policy](#changes-to-our-privacy-policy)
+*   [How to contact us](#how-to-contact-us)  
      
 
 We offer additional policies tailored for specific audiences and use cases. These include:
 
-* [Cookies & Tracking Notice](https://www.atlassian.com/legal/cookies#cookies-and-other-tracking-technologies)
-* [Atlassian Careers Privacy Notice](https://www.atlassian.com/legal/careers-privacy-notice#what-this-notice-covers) – for job applicants
-* [Former Workplace Privacy Notice](https://www.atlassian.com/legal/formerworkforceprivacynotice#what-this-notice-covers) – for past employees
-* [Demographic Survey Privacy Notice](https://www.atlassian.com/legal/diversity-survey-privacy-notice#information-we-collect) – for voluntary survey data  
+*   [Cookies & Tracking Notice](https://www.atlassian.com/legal/cookies#cookies-and-other-tracking-technologies)
+*   [Atlassian Careers Privacy Notice](https://www.atlassian.com/legal/careers-privacy-notice#what-this-notice-covers) – for job applicants
+*   [Former Workplace Privacy Notice](https://www.atlassian.com/legal/formerworkforceprivacynotice#what-this-notice-covers) – for past employees
+*   [Demographic Survey Privacy Notice](https://www.atlassian.com/legal/diversity-survey-privacy-notice#information-we-collect) – for voluntary survey data  
      
 
 This privacy policy describes Atlassian’s data practices as a controller of personal information. Please note that this privacy policy does not apply to the extent that we process personal information in the role of a processor or service provider on behalf of our customers, as further specified in the [Data Processing Addendum](https://www.atlassian.com/legal/data-processing-addendum) entered into with those customers. When Atlassian processes personal information on behalf of our customers (such as your employer, if applicable), the customer is the controller of the personal information processed and manages those accounts and any Service sites. In such cases, Atlassian acts as a processor or service provider on behalf of our customer and handles your information according to the instructions of that organization. We are not responsible for the privacy or security practices of our customers, which may differ from those described in this privacy policy. For more information about how an Atlassian customer uses your personal information, or to exercise the rights you may have with respect to that information, please contact that organization directly.
@@ -36,12 +36,12 @@ This privacy policy describes Atlassian’s data practices as a controller of pe
 Privacy policy overview
 -----------------------
 
-* Atlassian collects information directly from you when you provide it to us, automatically when you use our Services, and from other sources including other users of the Services, other services you link to your account, other Atlassian companies, partners, and third-party providers.
-* How we use information depends on which Services you use, how you use them, and any preferences you have communicated to us. We use information for a range of purposes described below, including to provide the Services and personalize your experience, to develop and improve our Services, to communicate with you, to conduct marketing and promotional activities, to provide customer support, to maintain Service safety and security, to protect our interests and rights, with your consent, and to aggregate or de-identify data.
-* We disclose information as described below, including to service providers, Atlassian partners, providers of third-party services, for compliance with enforcement requests and applicable laws, to enforce our terms and policies and our rights, to Atlassian affiliated companies or in connection with business transfers, as well as with your consent. Additionally, when you use the Services, we disclose certain information about you to other Service users as described in more detail below.
-* Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
-* In the “[Regional disclosures](https://www.atlassian.com/legal/privacy-policy#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
-* We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](https://www.atlassian.com/legal/privacy-policy#how-to-contact-us)” section.
+*   Atlassian collects information directly from you when you provide it to us, automatically when you use our Services, and from other sources including other users of the Services, other services you link to your account, other Atlassian companies, partners, and third-party providers.
+*   How we use information depends on which Services you use, how you use them, and any preferences you have communicated to us. We use information for a range of purposes described below, including to provide the Services and personalize your experience, to develop and improve our Services, to communicate with you, to conduct marketing and promotional activities, to provide customer support, to maintain Service safety and security, to protect our interests and rights, with your consent, and to aggregate or de-identify data.
+*   We disclose information as described below, including to service providers, Atlassian partners, providers of third-party services, for compliance with enforcement requests and applicable laws, to enforce our terms and policies and our rights, to Atlassian affiliated companies or in connection with business transfers, as well as with your consent. Additionally, when you use the Services, we disclose certain information about you to other Service users as described in more detail below.
+*   Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
+*   In the “[Regional disclosures](https://www.atlassian.com/legal/privacy-policy#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
+*   We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](https://www.atlassian.com/legal/privacy-policy#how-to-contact-us)” section.
 
 Information we collect
 ----------------------
@@ -209,18 +209,18 @@ Regional disclosures
 
 Depending on where you live, you may have specific privacy rights that apply to you. The following privacy representations and disclosures are intended to supplement the main privacy policy and provide additional information about those rights and other information relevant to data subjects located in the following jurisdictions.
 
-* For data subjects located in the European Economic Area or the United Kingdom, please refer to the European Economic Area and United Kingdom privacy disclosures below.
-* For residents of the United States, please refer to the U.S. State privacy disclosures below.  
+*   For data subjects located in the European Economic Area or the United Kingdom, please refer to the European Economic Area and United Kingdom privacy disclosures below.
+*   For residents of the United States, please refer to the U.S. State privacy disclosures below.  
      
 
 **European Economic Area and United Kingdom privacy disclosures**
 
 If you are an individual in the European Economic Area (EEA) or United Kingdom (UK), we collect and process information about you only where we have legal bases for doing so under applicable data protection laws. The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
 
-* We need it to provide you the Services and personalise your experience, provide customer support and to maintain Service safety and security;
-* It satisfies a legitimate interest (which is not overridden by your data protection interests), such as to develop and improve our Services, to conduct marketing and promotional activities and to protect our legal rights and interests;
-* You give us consent to do so for a specific purpose; or
-* We need to process your data to comply with a legal obligation.
+*   We need it to provide you the Services and personalise your experience, provide customer support and to maintain Service safety and security;
+*   It satisfies a legitimate interest (which is not overridden by your data protection interests), such as to develop and improve our Services, to conduct marketing and promotional activities and to protect our legal rights and interests;
+*   You give us consent to do so for a specific purpose; or
+*   We need to process your data to comply with a legal obligation.
 
 If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we have a legitimate interest to do so, you have the right to object to that use, though, in some cases, this may mean no longer using the Services. 
 
@@ -229,21 +229,21 @@ The following chart identifies the applicable legal basis for each processing pu
 |     |     |
 | --- | --- |
 | Purpose (see the [How we use information](https://www.atlassian.com/legal/privacy-policy#how-we-use-information) section for more detail) | Legal basis |
-| * To provide the Services and personalize your experience;<br>* To develop and improve the Services, including machine learning and artificial intelligence model training;<br>* To communicate with you about the Services;<br>* To conduct marketing and promotional activities;<br>* To provide customer support;<br>* Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>* Protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies;<br>* Detect and prevent fraud, illegal activity, or violations of the terms of our agreements and our Service policies, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and<br>* Aggregate or de-identify data. | Legitimate interests (Article 6(1)(f) GDPR) |
-| * To provide the Services and personalize your experience;<br>* To develop and improve the Services;<br>* Communicate with you about changes to our terms, conditions, or policies; or to respond to your inquiries, comments, feedback, or questions;<br>* Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>* Process payments;<br>* Detect and prevent fraud, illegal activity, or violations of Service policies, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and<br>* Protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies. | Contractual necessity (Article 6(1)(b) GDPR) |
-| * To develop and improve the Services;<br>* Publish testimonials or featured customer stories; and<br>* To conduct marketing and promotional activities (where you have provided consent to receive such marketing or promotions). | Consent (where legally required) (Article 6(1)(a) GDPR) |
-| * To maintain Service safety and security;<br>* Detect and prevent fraud, illegal activity, or violations of the terms of our agreements and our Service policies;<br>* Authenticate account credentials, as necessary to log you into the Services and help protect the security of your account; and<br>* Comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies. | Compliance with a legal obligation (Article 6(1)(c) GDPR) |
+| *   To provide the Services and personalize your experience;<br>*   To develop and improve the Services, including machine learning and artificial intelligence model training;<br>*   To communicate with you about the Services;<br>*   To conduct marketing and promotional activities;<br>*   To provide customer support;<br>*   Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>*   Protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies;<br>*   Detect and prevent fraud, illegal activity, or violations of the terms of our agreements and our Service policies, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and<br>*   Aggregate or de-identify data. | Legitimate interests (Article 6(1)(f) GDPR) |
+| *   To provide the Services and personalize your experience;<br>*   To develop and improve the Services;<br>*   Communicate with you about changes to our terms, conditions, or policies; or to respond to your inquiries, comments, feedback, or questions;<br>*   Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>*   Process payments;<br>*   Detect and prevent fraud, illegal activity, or violations of Service policies, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and<br>*   Protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies. | Contractual necessity (Article 6(1)(b) GDPR) |
+| *   To develop and improve the Services;<br>*   Publish testimonials or featured customer stories; and<br>*   To conduct marketing and promotional activities (where you have provided consent to receive such marketing or promotions). | Consent (where legally required) (Article 6(1)(a) GDPR) |
+| *   To maintain Service safety and security;<br>*   Detect and prevent fraud, illegal activity, or violations of the terms of our agreements and our Service policies;<br>*   Authenticate account credentials, as necessary to log you into the Services and help protect the security of your account; and<br>*   Comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliated companies, you, or other parties, including to enforce this privacy policy and any other agreements or policies. | Compliance with a legal obligation (Article 6(1)(c) GDPR) |
 
 Where applicable under local law and subject to applicable exceptions, you have the following rights regarding your personal information:
 
-* To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format);
-* To object to how we process your personal information;
-* To update or correct your personal information;
-* To request that we delete certain personal information we hold about you;
-* To restrict how we process certain personal information about you;
-* To request that we transfer your information to a third-party provider of services;
-* To withdraw your consent at any time (where you have provided consent for the processing of your personal information); and
-* To lodge a complaint with the relevant supervisory authority.
+*   To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format);
+*   To object to how we process your personal information;
+*   To update or correct your personal information;
+*   To request that we delete certain personal information we hold about you;
+*   To restrict how we process certain personal information about you;
+*   To request that we transfer your information to a third-party provider of services;
+*   To withdraw your consent at any time (where you have provided consent for the processing of your personal information); and
+*   To lodge a complaint with the relevant supervisory authority.
 
 If you have a complaint or concern about your personal information, we encourage you to contact us first, and we will do our best to resolve your concern. You can submit inquiries to the appropriate representative here:
 
@@ -292,14 +292,14 @@ The table below describes the categories of personal information we collected in
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Category of Information | Purpose(s) for Collecting & Disclosing | Recipients of Disclosures for Business Purposes | Recipients of “Sales” or “Sharing” |
-| **Identifiers**, such as name, email address, unique identifiers associated with user or user account, IP Address | * Operate, maintain, and improve the Services<br>* Verify your account credential as needed to log you into the Services and help safeguard your account’s security<br>* Service access controls<br>* Process payments<br>* Develop and improve our Services<br>* Conduct marketing and promotional activities<br>* For safety and security<br>* Debugging<br>* Customer support | * Atlassian Companies<br>* Atlassian Partners<br>* Service Providers<br>* Third-Party Apps | Third Party Advertising Providers |
-| **Commercial information**, such as purchase details, transaction records, billing information, billing address, payment card details | * Operate, maintain, and improve the Services;<br>* Process payments;<br>* Develop and improve our Services;<br>* Conduct marketing and promotional activities;<br>* For safety and security;<br>* Debugging;<br>* Customer support | * Atlassian Companies<br>* Atlassian Partners<br>* Service Providers | \-NA- |
-| **Internet or other electronic network activity information**, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address | * Operate, maintain, and improve the Services | * Atlassian Companies<br>* Atlassian Partners<br>* Event Sponsors<br>* Service Providers | \-NA- |
-| **Visual and audio information**, such as your image, video and audio recording, with your permission | * Operate, maintain, and improve the Services | * Atlassian Companies<br>* Atlassian Partners<br>* Event Sponsors<br>* Service Providers | \-NA- |
-| **Professional or employment information**, such as job title, company name, company domain | * Operate, maintain, and improve the Services;<br>* Conduct marketing and promotional activities;<br>* Detecting security incidents;<br>* Debugging;<br>* Customer support | * Atlassian Companies<br>* Atlassian Partners<br>* Service Providers | \-NA- |
-| **Geolocation data**, such as your approximate location, IP address, time zone | * Operate, maintain, and improve the Services;<br>* Conduct marketing and promotional activities;<br>* Customer support | * Atlassian Companies<br>* Atlassian Partners<br>* Service Providers | Third Party Advertising Providers |
-| **Inferences** (drawn about you based on other personal information we collect), such as preferences, interests, user behavior data | * Operate, maintain, and improve the Services;<br>* Conduct marketing and promotional activities | * Atlassian Companies<br>* Service Providers | Third Party Advertising Providers |
-| **Sensitive personal information**, such as login credentials and passwords | * Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>* Service access controls | * Atlassian Companies<br>* Service Providers | \-NA- |
+| **Identifiers**, such as name, email address, unique identifiers associated with user or user account, IP Address | *   Operate, maintain, and improve the Services<br>*   Verify your account credential as needed to log you into the Services and help safeguard your account’s security<br>*   Service access controls<br>*   Process payments<br>*   Develop and improve our Services<br>*   Conduct marketing and promotional activities<br>*   For safety and security<br>*   Debugging<br>*   Customer support | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Service Providers<br>*   Third-Party Apps | Third Party Advertising Providers |
+| **Commercial information**, such as purchase details, transaction records, billing information, billing address, payment card details | *   Operate, maintain, and improve the Services;<br>*   Process payments;<br>*   Develop and improve our Services;<br>*   Conduct marketing and promotional activities;<br>*   For safety and security;<br>*   Debugging;<br>*   Customer support | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Service Providers | \-NA- |
+| **Internet or other electronic network activity information**, such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address | *   Operate, maintain, and improve the Services | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Event Sponsors<br>*   Service Providers | \-NA- |
+| **Visual and audio information**, such as your image, video and audio recording, with your permission | *   Operate, maintain, and improve the Services | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Event Sponsors<br>*   Service Providers | \-NA- |
+| **Professional or employment information**, such as job title, company name, company domain | *   Operate, maintain, and improve the Services;<br>*   Conduct marketing and promotional activities;<br>*   Detecting security incidents;<br>*   Debugging;<br>*   Customer support | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Service Providers | \-NA- |
+| **Geolocation data**, such as your approximate location, IP address, time zone | *   Operate, maintain, and improve the Services;<br>*   Conduct marketing and promotional activities;<br>*   Customer support | *   Atlassian Companies<br>*   Atlassian Partners<br>*   Service Providers | Third Party Advertising Providers |
+| **Inferences** (drawn about you based on other personal information we collect), such as preferences, interests, user behavior data | *   Operate, maintain, and improve the Services;<br>*   Conduct marketing and promotional activities | *   Atlassian Companies<br>*   Service Providers | Third Party Advertising Providers |
+| **Sensitive personal information**, such as login credentials and passwords | *   Verify your account credentials as needed to log you into the Services and help safeguard your account’s security;<br>*   Service access controls | *   Atlassian Companies<br>*   Service Providers | \-NA- |
 
 If you have questions about the categories of information we may collect about you or the sources of such information, please see the “[Information we collect](https://www.atlassian.com/legal/privacy-policy#information-we-collect)” section. For more details about our processing activities, please see the “[How we use information](https://www.atlassian.com/legal/privacy-policy#how-we-use-information)” section. And for more information about how we may disclose information to third parties, please see the “[How we disclose information](https://www.atlassian.com/legal/privacy-policy#how-we-disclose-information)” section.
 
@@ -309,13 +309,13 @@ _**Retention:**_ How long we keep information we collect about you depends on th
 
 _**Your rights:**_ If you are a U.S. resident, you have the following rights regarding your personal information:
 
-* To request information about our processing of your personal information;
-* To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format);
-* To update or correct your personal information;
-* To request that we delete certain personal information we hold about you, subject to certain exceptions;
-* To opt out of the “sale” of personal information, the “sharing” of personal information or “targeted advertising” (as these terms are defined under applicable laws);
-* The right not to be discriminated against for exercising your rights; and
-* The right to appeal our decision to deny your request, if applicable.
+*   To request information about our processing of your personal information;
+*   To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format);
+*   To update or correct your personal information;
+*   To request that we delete certain personal information we hold about you, subject to certain exceptions;
+*   To opt out of the “sale” of personal information, the “sharing” of personal information or “targeted advertising” (as these terms are defined under applicable laws);
+*   The right not to be discriminated against for exercising your rights; and
+*   The right to appeal our decision to deny your request, if applicable.
 
 For more information on how to exercise these your rights, please see the “[How to access and control your information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-control-your-information)” section. We encourage you to manage your information, and to make use of the privacy controls we have included in our Services. In order to protect your information from unauthorized access or deletion, we may require you to provide additional information to verify your identity. If we cannot verify your identity, we may not be able to fulfill your request.
 
