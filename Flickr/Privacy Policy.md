@@ -23,17 +23,17 @@ Information You Provide to Us
 
 We collect information you provide directly to us. For example, we collect information when you:
 
-* Create an account and subscribe to our digital photography, media hosting or other services;
+*   Create an account and subscribe to our digital photography, media hosting or other services;
     
-* Purchase photo prints or other products or services;
+*   Purchase photo prints or other products or services;
     
-* Participate in a survey, contest or sweepstakes;
+*   Participate in a survey, contest or sweepstakes;
     
-* Contact us for any reason, such as to request help with the Services or to provide us with your comments/feedback; or
+*   Contact us for any reason, such as to request help with the Services or to provide us with your comments/feedback; or
     
-* Post information in connection with your photos (e.g., in a photo caption) or in other forums or interactive areas of the Services.
+*   Post information in connection with your photos (e.g., in a photo caption) or in other forums or interactive areas of the Services.
     
-* Otherwise communicate with Flickr.
+*   Otherwise communicate with Flickr.
     
 
 The types of information we may collect include your name, email address, postal address, phone number, fax number, credit card information, bank transfer information, title, gender, and other information you choose to provide.
@@ -44,15 +44,15 @@ Information We Collect Automatically When You Use the Services
 
 When you access or use our Services, we automatically collect information about your use of the Services, including:
 
-* Log Information: We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+*   Log Information: We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
     
-* Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, device identifiers and mobile network information.
+*   Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, device identifiers and mobile network information.
     
-* Location Information: With your consent, we may collect information about the location of your device. For example, we use your location information to provide you with the option to add POI data to your photo. For more details, please see "Your Choices" below.
+*   Location Information: With your consent, we may collect information about the location of your device. For example, we use your location information to provide you with the option to add POI data to your photo. For more details, please see "Your Choices" below.
     
-* Photo Location Information: When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the Flickr mobile application to add to your photo’s metadata.
+*   Photo Location Information: When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the Flickr mobile application to add to your photo’s metadata.
     
-* EXIF Data: Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location (as described above), among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data.
+*   EXIF Data: Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location (as described above), among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data.
     
 
 Object and Scene Type Recognition Technology
@@ -73,19 +73,19 @@ Our use of the following information, which we call “Photographer Personal Dat
 
 We use other information for the following purposes:
 
-* To analyze, personalize and improve our Services;
+*   To analyze, personalize and improve our Services;
     
-* To provide the products and Services you order;
+*   To provide the products and Services you order;
     
-* To respond to questions, concerns, or customer service inquiries;
+*   To respond to questions, concerns, or customer service inquiries;
     
-* To facilitate contests, sweepstakes and surveys;
+*   To facilitate contests, sweepstakes and surveys;
     
-* To enforce the legal terms that govern our business and commercial relationships;
+*   To enforce the legal terms that govern our business and commercial relationships;
     
-* To comply with law and legal process and protect rights, safety and property; and
+*   To comply with law and legal process and protect rights, safety and property; and
     
-* For other purposes requested or permitted by our users or other relevant individuals, such as website visitors.
+*   For other purposes requested or permitted by our users or other relevant individuals, such as website visitors.
     
 
 We also may use personal information to create appropriately aggregated or anonymized data, which is not subject to this Privacy Policy, and which we may use or disclose for any purpose.
@@ -94,15 +94,15 @@ Sharing of Information
 
 We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-* With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+*   With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
     
-* In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+*   In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
     
-* If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Flickr or others;
+*   If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Flickr or others;
     
-* In connection with, or in anticipation of, any merger, divestiture, consolidation, bankruptcy, sale of company assets, financing or acquisition of all or a portion of our business to another company, or other significant corporate event (in which case the acquiring entity may use the information pursuant to its own privacy policies and procedures, to the extent legally permissible); and
+*   In connection with, or in anticipation of, any merger, divestiture, consolidation, bankruptcy, sale of company assets, financing or acquisition of all or a portion of our business to another company, or other significant corporate event (in which case the acquiring entity may use the information pursuant to its own privacy policies and procedures, to the extent legally permissible); and
     
-* With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
+*   With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
     
 
 We may also share aggregated or anonymized information that does not directly identify you.
@@ -123,31 +123,31 @@ Legal Basis for Processing
 
 The laws in some jurisdictions require companies to tell you about the legal grounds that allow them to use or disclose your personal data. Where those laws apply, our legal grounds are:
 
-* Legitimate interests: We often handle personal data because it furthers the legitimate interests of Flickr (or of our customers, affiliates, business partners, or suppliers) in business activities such as the ones listed below, and because that handling of data does not unduly impact your interests, rights, and freedoms:
+*   Legitimate interests: We often handle personal data because it furthers the legitimate interests of Flickr (or of our customers, affiliates, business partners, or suppliers) in business activities such as the ones listed below, and because that handling of data does not unduly impact your interests, rights, and freedoms:
     
-    * Facilitating free speech, artistic expression, and journalism;
+    *   Facilitating free speech, artistic expression, and journalism;
         
-    * Providing customer service;
+    *   Providing customer service;
         
-    * Some of our marketing and advertising activities;
+    *   Some of our marketing and advertising activities;
         
-    * Analyzing and improving business activities;
+    *   Analyzing and improving business activities;
         
-    * Protecting business activities, individuals, and property (for example, protecting against abuse of our Services); and
+    *   Protecting business activities, individuals, and property (for example, protecting against abuse of our Services); and
         
-    * Managing risks and legal issues.
+    *   Managing risks and legal issues.
         
-* To honor our contractual commitments to the individual: Some of our handling of personal data is necessary to meet our contractual obligations to individuals, or to take steps at the person's request because we are planning to enter into a contract with them. For example, when we process an individual’s personal payment data for a subscription, we are relying on this basis.
+*   To honor our contractual commitments to the individual: Some of our handling of personal data is necessary to meet our contractual obligations to individuals, or to take steps at the person's request because we are planning to enter into a contract with them. For example, when we process an individual’s personal payment data for a subscription, we are relying on this basis.
     
-* Consent:
+*   Consent:
     
-    * If the law requires consent, and in some other cases, we handle personal data on the basis of consent. For example, we conduct some of our marketing-related activities on the basis of consent.
+    *   If the law requires consent, and in some other cases, we handle personal data on the basis of consent. For example, we conduct some of our marketing-related activities on the basis of consent.
         
-    * If the law allows, we may be able to infer consent from the circumstances.
+    *   If the law allows, we may be able to infer consent from the circumstances.
         
-* Legal compliance: We sometimes need to use and disclose personal data to comply with our legal obligations.
+*   Legal compliance: We sometimes need to use and disclose personal data to comply with our legal obligations.
     
-* Legal claims: Sometimes we use or disclose personal data because it is necessary to establish, exercise, or defend legal claims.
+*   Legal claims: Sometimes we use or disclose personal data because it is necessary to establish, exercise, or defend legal claims.
     
 
 We process a user’s Photographer Personal Data as the user’s “processor” (under the GDPR and similar laws) or “service provider” (under the California Consumer Privacy Act) as set forth in our agreement with the user.
@@ -278,11 +278,11 @@ California Privacy Rights
 
 This section describes rights under California law, but we plan to accept requests under this law from non-Californians, to the extent practicable and legally permissible. California law may permit you to request that we:
 
-* Provide you with a list of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we disclosed and (if applicable) “sold” personal information in the CCPA sense.
+*   Provide you with a list of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we disclosed and (if applicable) “sold” personal information in the CCPA sense.
     
-* Provide access to and/or a copy of certain information we hold about you.
+*   Provide access to and/or a copy of certain information we hold about you.
     
-* Delete certain information we have about you.
+*   Delete certain information we have about you.
     
 
 Certain information is exempt from such requests under applicable law. You also may have the right to receive information about the financial incentives that we offer to you (if any). You also have certain rights under the CCPA not to be subject to certain negative consequences for exercising CCPA rights.
