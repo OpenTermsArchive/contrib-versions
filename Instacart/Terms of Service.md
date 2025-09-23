@@ -173,10 +173,10 @@ You may have the option to send Instacart orders to third party recipients (“R
 
 **12.2 Sharing Recipient Data:** If you chose to provide Recipient information to Instacart, including:
 
-1. Contact information, including a Recipient’s name, address and telephone number;
-2. Information that identifies a Recipient’s relationship or association with you;
-3. Information about a Recipient’s food security, food assistance, and other benefits or programs in which the Recipient participates; and
-4. Information regarding the Recipient’s preferences, statuses, or other personal information;
+1.  Contact information, including a Recipient’s name, address and telephone number;
+2.  Information that identifies a Recipient’s relationship or association with you;
+3.  Information about a Recipient’s food security, food assistance, and other benefits or programs in which the Recipient participates; and
+4.  Information regarding the Recipient’s preferences, statuses, or other personal information;
 
 you are representing to Instacart that you have obtained the consent of the Recipient to share this information with Instacart. You agree to be responsible for collecting Recipient data and obtaining authorizations to the extent legally required from Recipients for Instacart to use Recipient data to complete the order, including, where applicable, authorizations sufficient for you to share Recipient data with Instacart without Instacart becoming a Business Associate of you, as such term is defined under HIPAA. Instacart has no responsibility or liability for the failure of you, or any third party, to obtain appropriate consent and/or authorization from a Recipient. Instacart will use Recipient data in the ordinary course of its business.
 
