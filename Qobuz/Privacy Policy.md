@@ -5,18 +5,18 @@ The protection of your personal data is very important to Xandrie, Qobuz’ pare
 
 As part of its business operations, Xandrie processes your personal data (hereinafter referred to as "processing"). Xandrie may collect your personal data:
 
-* directly from you, when you fill in a subscription form for one of our products or services (for example, for one of our music streaming subscriptions);
-* from our partners, provided that they have obtained your permission to transmit information about you to Xandrie
+*   directly from you, when you fill in a subscription form for one of our products or services (for example, for one of our music streaming subscriptions);
+*   from our partners, provided that they have obtained your permission to transmit information about you to Xandrie
 
 1\. What personal data does Xandrie collect about you?
 ------------------------------------------------------
 
 The following categories of personal data are mainly collected in the context of your contractual or commercial relation to Xandrie:
 
-* declarative personal data (data actively given by you; for example: while filling in a subscription form for one of our services)
-* personal data related to your use of Xandrie’s products and services (such as data collected by cookies on our websites)
-* personal data provided by a third party (provided that the third party has obtained your prior consent to share your data with Xandrie)
-* personal data inferred or calculated by Xandrie
+*   declarative personal data (data actively given by you; for example: while filling in a subscription form for one of our services)
+*   personal data related to your use of Xandrie’s products and services (such as data collected by cookies on our websites)
+*   personal data provided by a third party (provided that the third party has obtained your prior consent to share your data with Xandrie)
+*   personal data inferred or calculated by Xandrie
 
 Conditions relating to cookies or connection tracers can be found in our [**cookie policy**](https://www.qobuz.com/us-en/page/charte_cookies)
 
@@ -27,9 +27,9 @@ Conditions relating to cookies or connection tracers can be found in our [**cook
 
 In accordance with data protection regulations (General Data Protection Regulation No. 2016/679 as of 27 April 2016 and Act No. 78/17 as of 6 January 1978 as amended and the California Consumer Privacy Act of 2018 « SB-1121 » as amended), Xandrie collects your personal data on the basis of:
 
-* your consent where it is required (particularly in terms of commercial development);
-* a contract that you have signed with Xandrie (for example, a subscription to one of our music streaming services);
-* or when it is justified by legitimate interests
+*   your consent where it is required (particularly in terms of commercial development);
+*   a contract that you have signed with Xandrie (for example, a subscription to one of our music streaming services);
+*   or when it is justified by legitimate interests
 
 * * *
 
@@ -38,9 +38,9 @@ In accordance with data protection regulations (General Data Protection Regulati
 
 Personal data is stored for the time necessary for the purposes for which they are collected.
 
-* For subscribers to Xandrie’s products and services, personal data is stored for the length of the contract, in addition to periods of applicable legal requirements;
-* For potential customers, personal data is stored for 3 years after the last time of contact;
-* For web-browsers, personal data that is collected through cookies is stored for a maximum of 13 months from the time it is collected
+*   For subscribers to Xandrie’s products and services, personal data is stored for the length of the contract, in addition to periods of applicable legal requirements;
+*   For potential customers, personal data is stored for 3 years after the last time of contact;
+*   For web-browsers, personal data that is collected through cookies is stored for a maximum of 13 months from the time it is collected
 
 * * *
 
@@ -51,14 +51,14 @@ Any collected personal data, as well as personal data which is later obtained by
 
 The internal recipients of your data are:
 
-* Xandrie marketing department;
-* Xandrie data analysts;
-* Xandrie customer service
+*   Xandrie marketing department;
+*   Xandrie data analysts;
+*   Xandrie customer service
 
 The internal recipients of your data are:
 
-* Xandrie's subcontractors and service providers (technical service providers in charge of data hosting or IT developments, payment service providers, etc.) that are binded by a contract prohibiting them to retain, use or disclose your personal data for any purpose other than for the specific purpose of performing the services specified in the contract for the business;
-* Partners and third parties with whom you have authorized data sharing, that are not collected nor processed by Xandrie.
+*   Xandrie's subcontractors and service providers (technical service providers in charge of data hosting or IT developments, payment service providers, etc.) that are binded by a contract prohibiting them to retain, use or disclose your personal data for any purpose other than for the specific purpose of performing the services specified in the contract for the business;
+*   Partners and third parties with whom you have authorized data sharing, that are not collected nor processed by Xandrie.
 
 Xandrie is not responsible for the processing of your personal data that you have authorized from third parties and that is not shared with Xandrie, such as, for example, social networks. It is your responsibility to refer to the data protection policies of these third parties to check the conditions of the processing operations carried out, or to exercise your rights regarding these operations.
 
@@ -71,21 +71,21 @@ Personal data collected by Xandrie is used determinately, explicitly and legitim
 
 On the basis of a contract signed with you or with pre-contractual measures taken at your request, Xandrie carries out the following processing operations:
 
-* Subscriptions to Xandrie products and services;
-* Management of your commercial and contractual relations with Xandrie in the context of your subscriptions
-* Invoices and payments
+*   Subscriptions to Xandrie products and services;
+*   Management of your commercial and contractual relations with Xandrie in the context of your subscriptions
+*   Invoices and payments
 
 On the basis of a legitimate interest pursued by Xandrie, the following processing operations will be carried out so as to:
 
-* improve our products and services according to problems reported by you;
-* tailor the service towards your tastes as part of your subscription, according to your preferences;
-* manage any complaints
+*   improve our products and services according to problems reported by you;
+*   tailor the service towards your tastes as part of your subscription, according to your preferences;
+*   manage any complaints
 
 On the basis of a legitimate interest pursued by Xandrie, or your consent where it is required, Xandrie uses processing for the following:
 
-* Commercial development
-* Information on the products and services offered by Xandrie
-* Audience analytics (statistics and audience analysis) with information previously anonymized.
+*   Commercial development
+*   Information on the products and services offered by Xandrie
+*   Audience analytics (statistics and audience analysis) with information previously anonymized.
 
 * * *
 
