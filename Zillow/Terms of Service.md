@@ -27,21 +27,21 @@ Welcome and thank you for your interest in Zillow and the Zillow family of busin
 
 **5\. Prohibited Use.** BY USING THE SERVICES, YOU AGREE NOT TO:
 
-* reproduce, modify, distribute, display or otherwise provide access to, create derivative works from, decompile, disassemble, or reverse engineer any portion of the Services, except as explicitly permitted by any Product’s Terms to the extent applicable to that product’s Services;
-* provide/post/authorize a link to any of the Services (including but not limited to an agent profile page) from a third-party website that is not a real estate-related website owned or operated by a real estate or lending professional or institution;
-* remove or modify any copyright or other intellectual property notices that appear in the Services; use the Services in any way that is unlawful, or harms the Zillow Companies, its service providers,
-* suppliers, affiliates, or any other user;
-* use the Services in any way to discriminate against any individual or class of individuals protected under federal, state or local laws, or which may have a discriminatory impact against any individual or class of individuals, or which otherwise promotes illegal, racist or discriminatory activities or outcomes;
-* post, display, communicate, or otherwise make accessible to any third party on or through the Services (including but not limited to an agent profile page) a seller’s or listing agent’s offer of buyer agent compensation (including an amount, percentage, or that buyer agent compensation is offered at all), irrespective of whether such offer of compensation is connected to any specific property;
-* distribute or post spam or other unsolicited messages, chain letters, pyramid schemes, or similar communications through the Services;
-* impersonate another person, misrepresent your affiliation with another person or entity, or make any representation to any third party under false pretenses;
-* reproduce, publicly display, or otherwise make accessible on or through any other website, application, or service any reviews, ratings, or profile information about real estate, lending, or other professionals, underlying images of or information about real estate listings, or other data or content available through the Services, except as explicitly permitted by us for a particular portion of the Services;
-* upload invalid data, viruses, worms, or other software agents to the Services;
-* post, reproduce, publicly display, or otherwise make accessible any content, which we, in our sole judgement and discretion, consider illegal, offensive or objectionable including without limitation content that harasses, discriminates, demeans, threatens or disparages any individual or class of individuals;
-* interfere with, or compromise the system integrity or security of the Services, or otherwise bypass any measures we may use to prevent or restrict access to the Services;
-* conduct automated queries (including screen and database scraping, spiders, robots, crawlers, bypassing “captcha” or similar precautions, or any other automated activity with the purpose of  obtaining information from the Services) on the Services;
-* use any of the Zillow Companies’ trademarks as part of your screen name or email address on the Services;
-* access or use any of the Services to develop competitive products or services; or  attempt to, or permit or encourage any third party to, do any of the above.
+*   reproduce, modify, distribute, display or otherwise provide access to, create derivative works from, decompile, disassemble, or reverse engineer any portion of the Services, except as explicitly permitted by any Product’s Terms to the extent applicable to that product’s Services;
+*   provide/post/authorize a link to any of the Services (including but not limited to an agent profile page) from a third-party website that is not a real estate-related website owned or operated by a real estate or lending professional or institution;
+*   remove or modify any copyright or other intellectual property notices that appear in the Services; use the Services in any way that is unlawful, or harms the Zillow Companies, its service providers,
+*   suppliers, affiliates, or any other user;
+*   use the Services in any way to discriminate against any individual or class of individuals protected under federal, state or local laws, or which may have a discriminatory impact against any individual or class of individuals, or which otherwise promotes illegal, racist or discriminatory activities or outcomes;
+*   post, display, communicate, or otherwise make accessible to any third party on or through the Services (including but not limited to an agent profile page) a seller’s or listing agent’s offer of buyer agent compensation (including an amount, percentage, or that buyer agent compensation is offered at all), irrespective of whether such offer of compensation is connected to any specific property;
+*   distribute or post spam or other unsolicited messages, chain letters, pyramid schemes, or similar communications through the Services;
+*   impersonate another person, misrepresent your affiliation with another person or entity, or make any representation to any third party under false pretenses;
+*   reproduce, publicly display, or otherwise make accessible on or through any other website, application, or service any reviews, ratings, or profile information about real estate, lending, or other professionals, underlying images of or information about real estate listings, or other data or content available through the Services, except as explicitly permitted by us for a particular portion of the Services;
+*   upload invalid data, viruses, worms, or other software agents to the Services;
+*   post, reproduce, publicly display, or otherwise make accessible any content, which we, in our sole judgement and discretion, consider illegal, offensive or objectionable including without limitation content that harasses, discriminates, demeans, threatens or disparages any individual or class of individuals;
+*   interfere with, or compromise the system integrity or security of the Services, or otherwise bypass any measures we may use to prevent or restrict access to the Services;
+*   conduct automated queries (including screen and database scraping, spiders, robots, crawlers, bypassing “captcha” or similar precautions, or any other automated activity with the purpose of  obtaining information from the Services) on the Services;
+*   use any of the Zillow Companies’ trademarks as part of your screen name or email address on the Services;
+*   access or use any of the Services to develop competitive products or services; or  attempt to, or permit or encourage any third party to, do any of the above.
 
 **6\. Fees.**
 
@@ -179,21 +179,21 @@ C. Use of Content. Subject to the restrictions set forth in these Terms of Use, 
 
 5\. Prohibited Use. BY USING THE SERVICES, YOU AGREE NOT TO:
 
-* reproduce, modify, distribute, display or otherwise provide access to, create derivative works from, decompile, disassemble, or reverse engineer any portion of the Services, except as explicitly permitted by any Product’s Terms to the extent applicable to that product’s Services;
-* provide/post/authorize a link to any of the Services (including but not limited to an agent profile page) from a third-party website that is not a real estate-related website owned or operated by a real estate or lending professional or institution;
-* remove or modify any copyright or other intellectual property notices that appear in the Services;
-* use the Services in any way that is unlawful, or harms the Zillow Companies, its service providers, suppliers, affiliates, or any other user;
-* use the Services in any way to discriminate against any individual or class of individuals protected under federal, state or local laws, or which may have a discriminatory impact against any individual or class of individuals, or which otherwise promotes illegal, racist or discriminatory activities or outcomes;
-* distribute or post spam or other unsolicited messages, chain letters, pyramid schemes, or similar communications through the Services;
-* impersonate another person, misrepresent your affiliation with another person or entity, or make any representation to any third party under false pretenses;
-* reproduce, publicly display, or otherwise make accessible on or through any other website, application, or service any reviews, ratings, or profile information about real estate, lending, or other professionals, underlying images of or information about real estate listings, or other data or content available through the Services, except as explicitly permitted by us for a particular portion of the Services;
-* upload invalid data, viruses, worms, or other software agents to the Services;
-* post, reproduce, publicly display, or otherwise make accessible any content, which we, in our sole judgement and discretion, consider illegal, offensive or objectionable including without limitation content that harasses, discriminates, demeans, threatens or disparages any individual or class of individuals;
-* interfere with, or compromise the system integrity or security of the Services, or otherwise bypass any measures we may use to prevent or restrict access to the Services;
-* conduct automated queries (including screen and database scraping, spiders, robots, crawlers, bypassing “captcha” or similar precautions, or any other automated activity with the purpose of obtaining information from the Services) on the Services;
-* use any of the Zillow Companies’ trademarks as part of your screen name or email address on the Services;
-* access or use any of the Services to develop competitive products or services; or
-* attempt to, or permit or encourage any third party to, do any of the above.
+*   reproduce, modify, distribute, display or otherwise provide access to, create derivative works from, decompile, disassemble, or reverse engineer any portion of the Services, except as explicitly permitted by any Product’s Terms to the extent applicable to that product’s Services;
+*   provide/post/authorize a link to any of the Services (including but not limited to an agent profile page) from a third-party website that is not a real estate-related website owned or operated by a real estate or lending professional or institution;
+*   remove or modify any copyright or other intellectual property notices that appear in the Services;
+*   use the Services in any way that is unlawful, or harms the Zillow Companies, its service providers, suppliers, affiliates, or any other user;
+*   use the Services in any way to discriminate against any individual or class of individuals protected under federal, state or local laws, or which may have a discriminatory impact against any individual or class of individuals, or which otherwise promotes illegal, racist or discriminatory activities or outcomes;
+*   distribute or post spam or other unsolicited messages, chain letters, pyramid schemes, or similar communications through the Services;
+*   impersonate another person, misrepresent your affiliation with another person or entity, or make any representation to any third party under false pretenses;
+*   reproduce, publicly display, or otherwise make accessible on or through any other website, application, or service any reviews, ratings, or profile information about real estate, lending, or other professionals, underlying images of or information about real estate listings, or other data or content available through the Services, except as explicitly permitted by us for a particular portion of the Services;
+*   upload invalid data, viruses, worms, or other software agents to the Services;
+*   post, reproduce, publicly display, or otherwise make accessible any content, which we, in our sole judgement and discretion, consider illegal, offensive or objectionable including without limitation content that harasses, discriminates, demeans, threatens or disparages any individual or class of individuals;
+*   interfere with, or compromise the system integrity or security of the Services, or otherwise bypass any measures we may use to prevent or restrict access to the Services;
+*   conduct automated queries (including screen and database scraping, spiders, robots, crawlers, bypassing “captcha” or similar precautions, or any other automated activity with the purpose of obtaining information from the Services) on the Services;
+*   use any of the Zillow Companies’ trademarks as part of your screen name or email address on the Services;
+*   access or use any of the Services to develop competitive products or services; or
+*   attempt to, or permit or encourage any third party to, do any of the above.
 
 6\. Fees.
 
