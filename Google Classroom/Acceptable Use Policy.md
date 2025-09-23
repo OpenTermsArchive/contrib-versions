@@ -29,10 +29,10 @@ Do not create, upload or distribute content that exploits or abuses children. Th
 
 More broadly, Google prohibits the use of our products to endanger children. This includes but is not limited to, predatory behaviour towards children such as:
 
-* ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
-* ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
-* Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
-* Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
+*   ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+*   ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
+*   Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
+*   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
 
 We will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help or you have concerns that a child is or was being endangered on our products, you can [report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
 
@@ -66,10 +66,10 @@ Misleading content
 
 Do not distribute content that deceives, misleads or confuses users. This includes:
 
-* Misleading content related to civic and democratic processes: content that is demonstrably false and could significantly undermine participation or trust in civic or democratic processes. This includes information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records. It also includes incorrect claims that a political figure or government official has died, been involved in an accident or is suffering from a sudden serious illness
-* Misleading content related to harmful conspiracy theories: content that promotes or lends credibility to beliefs that individuals or groups are systematically committing acts that cause widespread harm. This content is contradicted by substantial evidence and has resulted in or incites violence.
-* Misleading content related to harmful health practices: misleading health or medical content that promotes or encourages others to engage in practices that may lead to serious physical or emotional harm to individuals, or serious public health harm.
-* Manipulated media: media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.  
+*   Misleading content related to civic and democratic processes: content that is demonstrably false and could significantly undermine participation or trust in civic or democratic processes. This includes information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records. It also includes incorrect claims that a political figure or government official has died, been involved in an accident or is suffering from a sudden serious illness
+*   Misleading content related to harmful conspiracy theories: content that promotes or lends credibility to beliefs that individuals or groups are systematically committing acts that cause widespread harm. This content is contradicted by substantial evidence and has resulted in or incites violence.
+*   Misleading content related to harmful health practices: misleading health or medical content that promotes or encourages others to engage in practices that may lead to serious physical or emotional harm to individuals, or serious public health harm.
+*   Manipulated media: media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.  
      
 
 Non-consensual explicit imagery (NCEI)
