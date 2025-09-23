@@ -7,17 +7,17 @@ Upon your notification, Waze may remove or disable access to any such content.
 
 To be effective, your notification of claimed infringement must be a written communication provided to the Copyright Agent that includes substantially the following:
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
     
-2. Identification of the copyrighted work claimed to be infringed via using the Website, or if multiple copyrighted works are covered by a single notification, a representative list of such works;
+2.  Identification of the copyrighted work claimed to be infringed via using the Website, or if multiple copyrighted works are covered by a single notification, a representative list of such works;
     
-3. Identification of the material that is claimed to infringe or to be the subject of infringing activity and that access to which is to be disabled, and information reasonably sufficient to permit Waze to locate the material, including the exact URI (Uniform resource Identifier) or coordinates on the Service's maps in which you discovered the copyrighted work claimed to be infringed;
+3.  Identification of the material that is claimed to infringe or to be the subject of infringing activity and that access to which is to be disabled, and information reasonably sufficient to permit Waze to locate the material, including the exact URI (Uniform resource Identifier) or coordinates on the Service's maps in which you discovered the copyrighted work claimed to be infringed;
     
-4. Information reasonably sufficient to permit Waze to contact you, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted;
+4.  Information reasonably sufficient to permit Waze to contact you, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted;
     
-5. A statement that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+5.  A statement that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
     
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+6.  A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
     
 
 Following receipt of your communication, Waze may ask you to provide further or supplemental information, prior to removing any content which was displayed on the Website, as Waze deems necessary to comply with the provisions of the DMCA. Waze may also provide the registered user who uploaded the allegedly infringing content with your contact details, in order for that person to be able to contact you directly and communicate with you regarding your notification.
@@ -26,13 +26,13 @@ Following receipt of your communication, Waze may ask you to provide further or 
 
 You may submit a counter notification to the Copyright Agent. To be effective, your counter notification must be a written communication provided to the Copyright Agent that includes substantially the following:
 
-1. Your physical or electronic signature;
+1.  Your physical or electronic signature;
     
-2. Identification of the material to which access has been disabled and the location at which the material appeared before access to it was disabled.
+2.  Identification of the material to which access has been disabled and the location at which the material appeared before access to it was disabled.
     
-3. A statement under penalty of perjury that you have a good faith belief that the material was disabled as a result of mistake or misidentification of the material to be disabled;
+3.  A statement under penalty of perjury that you have a good faith belief that the material was disabled as a result of mistake or misidentification of the material to be disabled;
     
-4. Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which you may be found, and that you will accept service of process from the person who provided notification or an agent of such person.
+4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which you may be found, and that you will accept service of process from the person who provided notification or an agent of such person.
     
 
 After receipt of a counter notification, Waze will promptly provide the person who submitted the claimed copyright infringement notification with a copy of the counter notification, and will inform that person that Waze will replace the removed material, or cease disabling access to that material 10 business days.
