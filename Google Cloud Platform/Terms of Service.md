@@ -1,4 +1,4 @@
-* [Home](https://cloud.google.com/)
+*   [Home](https://cloud.google.com/)
 
 Stay organized with collections Save and categorize content based on your preferences.
 
@@ -217,46 +217,46 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 14.19 _Definitions._
 
-* "Account" means Customer's Google Cloud Platform, SecOps Services, or Looker (original) Services account, as applicable.
-* "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering certain Services.
-* "Affiliate" means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a party.
-* "Anti-Bribery Laws" means all applicable commercial and public anti-bribery laws, including the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010, that prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. Government officials include: any government employees, candidates for public office, members of royal families, and employees of government-owned or government-controlled companies, public international organizations, and political parties.
-* "AUP" means the then-current acceptable use policy for the Services stated at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
-* "BAA" or "Business Associate Agreement" is an amendment to this Agreement covering the handling of Protected Health Information (as defined in HIPAA).
-* "Brand Features" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
-* "Branding Guidelines" means Google’s then-current Google branding guidelines at [https://services.google.com/fh/files/misc/external\_customer\_co\_branding\_eligibility.pdf](https://services.google.com/fh/files/misc/external_customer_co_branding_eligibility.pdf), as may be updated by Google from time to time.
-* "Cloud Data Processing Addendum" means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
-* "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under or in connection with this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
-* "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
-* "Customer Application" means a software program that Customer creates or hosts using the GCP Services or Looker (original) Services, as applicable.
-* "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account, and data that Customer or End Users derive from that data through their use of the Services.
-* "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services, including at [https://cloud.google.com/docs/](https://cloud.google.com/docs) and any Looker (original) user guides and manuals Google provides Customer for its internal use.
-* "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
-* "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
-* "Fee Accrual Period" means a calendar month or other period or billing frequency specified by Google in the Admin Console or in an Order Form.
-* "Fees" means the applicable fees for each Service, Software, TSS, and Third-Party Offerings, plus any applicable Taxes. The Fees for each GCP Service are stated at [https://cloud.google.com/skus/](https://cloud.google.com/skus) (incorporated into this Agreement by this reference).
-* “GCP Services” or “Google Cloud Platform Services” means the then-current services described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services).
-* "Google API" means any application programming interface provided by Google as part of the Services.
-* "High Risk Activities" means activities where the use or failure of the Services would reasonably be expected to lead to death, personal injury, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
-* "HIPAA" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued under it.
-* "including" means including but not limited to.
-* "Indemnified Liabilities" means any (i) settlement amounts approved by the indemnifying party, and (ii) damages and costs finally awarded against the indemnified party by a court of competent jurisdiction.
-* "Intellectual Property Rights" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
-* "Legal Process" means an information disclosure request made under law, governmental regulation, court order, subpoena, warrant, or other valid legal authority, legal procedure, or similar process.
-* "Liability" means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.
-* "Looker (original) Services" means the integrated business intelligence and embedded analytics platform (including the software components that connect to APIs) provided as either a deployment hosted by Google or a deployment hosted by Customer, as specified in the applicable Order Form. For clarity, Looker Studio and Looker (Google Cloud core) are GCP Services and are not Looker (original) Services.
-* "Notification Email Address" means the email address(es) designated by Customer in the Admin Console, or if none exists, the applicable Order Form.
-* "Order Form" means (a) an order form, statement of work, or other ordering document issued by Google under this Agreement and executed by Customer and Google; or (b) an order placed by Customer via a Google website or the Services, in each case specifying the Services Google will provide to Customer.
-* "Order Term" means the period of time starting on the Services Start Date for the Services and continuing for the period indicated on the Order Form unless terminated in accordance with this Agreement.
-* "Payment Due Date" means the payment due date set out in the applicable Order Form, or if not specified, 30 days from the invoice date.
-* "Project" means, as applicable:
+*   "Account" means Customer's Google Cloud Platform, SecOps Services, or Looker (original) Services account, as applicable.
+*   "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering certain Services.
+*   "Affiliate" means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a party.
+*   "Anti-Bribery Laws" means all applicable commercial and public anti-bribery laws, including the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010, that prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. Government officials include: any government employees, candidates for public office, members of royal families, and employees of government-owned or government-controlled companies, public international organizations, and political parties.
+*   "AUP" means the then-current acceptable use policy for the Services stated at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
+*   "BAA" or "Business Associate Agreement" is an amendment to this Agreement covering the handling of Protected Health Information (as defined in HIPAA).
+*   "Brand Features" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
+*   "Branding Guidelines" means Google’s then-current Google branding guidelines at [https://services.google.com/fh/files/misc/external\_customer\_co\_branding\_eligibility.pdf](https://services.google.com/fh/files/misc/external_customer_co_branding_eligibility.pdf), as may be updated by Google from time to time.
+*   "Cloud Data Processing Addendum" means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
+*   "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under or in connection with this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
+*   "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
+*   "Customer Application" means a software program that Customer creates or hosts using the GCP Services or Looker (original) Services, as applicable.
+*   "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account, and data that Customer or End Users derive from that data through their use of the Services.
+*   "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services, including at [https://cloud.google.com/docs/](https://cloud.google.com/docs) and any Looker (original) user guides and manuals Google provides Customer for its internal use.
+*   "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
+*   "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
+*   "Fee Accrual Period" means a calendar month or other period or billing frequency specified by Google in the Admin Console or in an Order Form.
+*   "Fees" means the applicable fees for each Service, Software, TSS, and Third-Party Offerings, plus any applicable Taxes. The Fees for each GCP Service are stated at [https://cloud.google.com/skus/](https://cloud.google.com/skus) (incorporated into this Agreement by this reference).
+*   “GCP Services” or “Google Cloud Platform Services” means the then-current services described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services).
+*   "Google API" means any application programming interface provided by Google as part of the Services.
+*   "High Risk Activities" means activities where the use or failure of the Services would reasonably be expected to lead to death, personal injury, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
+*   "HIPAA" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued under it.
+*   "including" means including but not limited to.
+*   "Indemnified Liabilities" means any (i) settlement amounts approved by the indemnifying party, and (ii) damages and costs finally awarded against the indemnified party by a court of competent jurisdiction.
+*   "Intellectual Property Rights" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
+*   "Legal Process" means an information disclosure request made under law, governmental regulation, court order, subpoena, warrant, or other valid legal authority, legal procedure, or similar process.
+*   "Liability" means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.
+*   "Looker (original) Services" means the integrated business intelligence and embedded analytics platform (including the software components that connect to APIs) provided as either a deployment hosted by Google or a deployment hosted by Customer, as specified in the applicable Order Form. For clarity, Looker Studio and Looker (Google Cloud core) are GCP Services and are not Looker (original) Services.
+*   "Notification Email Address" means the email address(es) designated by Customer in the Admin Console, or if none exists, the applicable Order Form.
+*   "Order Form" means (a) an order form, statement of work, or other ordering document issued by Google under this Agreement and executed by Customer and Google; or (b) an order placed by Customer via a Google website or the Services, in each case specifying the Services Google will provide to Customer.
+*   "Order Term" means the period of time starting on the Services Start Date for the Services and continuing for the period indicated on the Order Form unless terminated in accordance with this Agreement.
+*   "Payment Due Date" means the payment due date set out in the applicable Order Form, or if not specified, 30 days from the invoice date.
+*   "Project" means, as applicable:
     
     (i) a collection of Google Cloud Platform resources configured by Customer via the GCP Services; or
     
     (ii) an instance of the SecOps Services configured and used by Customer.
     
-* "SecOps Services" means the then-current services described at [https://cloud.google.com/terms/secops/services](https://cloud.google.com/terms/secops/services).
-* "Service Specific Terms" means, as applicable:
+*   "SecOps Services" means the then-current services described at [https://cloud.google.com/terms/secops/services](https://cloud.google.com/terms/secops/services).
+*   "Service Specific Terms" means, as applicable:
     
     (i) For GCP Services, the then-current terms specific to one or more Services stated at [cloud.google.com/terms/service-terms](https://cloud.google.com/terms/service-terms);
     
@@ -264,9 +264,9 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
     
     (iii) For Looker (original) Services, the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/looker/legal/customers/service-terms](https://cloud.google.com/terms/looker/legal/customers/service-terms).
     
-* "Services" means the GCP Services, SecOps Services, or Looker (original) Services, as applicable. In each case, Services exclude any Third-Party Offerings.
-* "Services Start Date" means either the start date described in the Order Form or, in the absence of any such date, the date Google makes the Services available to Customer.
-* "SLA" means, as applicable:
+*   "Services" means the GCP Services, SecOps Services, or Looker (original) Services, as applicable. In each case, Services exclude any Third-Party Offerings.
+*   "Services Start Date" means either the start date described in the Order Form or, in the absence of any such date, the date Google makes the Services available to Customer.
+*   "SLA" means, as applicable:
     
     (i) For GCP Services, each of the then-current service level agreements at [https://cloud.google.com/terms/sla](https://cloud.google.com/terms/sla);
     
@@ -274,20 +274,20 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
     
     (iii) For Looker (original) Services, each of the then-current service level agreements at [https://cloud.google.com/terms/looker/legal/customers/sla](https://cloud.google.com/terms/looker/legal/customers/sla).
     
-* "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the applicable Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
-* "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
-* "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
-* "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
-* "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms, and (c) third-party operating systems.
-* "Third-Party Legal Proceeding" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
-* "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
-* "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are available at, as applicable:
+*   "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the applicable Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
+*   "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
+*   "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
+*   "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
+*   "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms, and (c) third-party operating systems.
+*   "Third-Party Legal Proceeding" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
+*   "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
+*   "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are available at, as applicable:
     
     (i) For GCP Services and Looker (original) Services, [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg/); and
     
     (ii) For SecOps Services, [https://cloud.google.com/terms/secops/tssg](https://cloud.google.com/terms/secops/tssg).
     
-* "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
+*   "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
 
 **15. Regional Terms.** Customer agrees to the following modifications to this Agreement if Customer’s billing address is in the applicable region as described below:
 
