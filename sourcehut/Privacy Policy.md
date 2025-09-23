@@ -11,34 +11,34 @@ The only data we require of your account is your email address; a username of yo
 
 You may choose to give us additional information, which is shown publicly on the site. This includes:
 
-* Your location
-* A URL to any website
-* A short biography
+*   Your location
+*   A URL to any website
+*   A short biography
 
 You may omit or provide fictitious data for this information. The location shown on your profile is collected separately from your billing address, and may differ. (_You may set your public location to "The Internet", for example, despite providing an accurate billing address_).
 
 You may be required to provide the following information in order to successfully operate some parts of the service, some of which may be used to uniquely identify you:
 
-* SSH keys
-* PGP keys
-* Two-factor authorization keys
+*   SSH keys
+*   PGP keys
+*   Two-factor authorization keys
 
 You may delete this information at any time by visiting your [account details](https://meta.sr.ht/). If you provide a PGP key, you may choose to have email communications from SourceHut encrypted before being sent to you.
 
 We also obtain some information from your client as you use our services and store it for up to 30 days:
 
-* Your IP address
-* When you accessed the site
-* What you did on the site
+*   Your IP address
+*   When you accessed the site
+*   What you did on the site
 
 Some of this information is available to you as an [audit log](https://meta.sr.ht/security). You are not able to delete this information. The purpose of this data collection is to inform both you and SourceHut of any unknown activity on your account. If we permitted deletion of this information, someone who obtains unauthorized access to your account would be able to delete it, too.
 
 We also store various other kinds of information that you explicitly choose to give us, including (but not limited to):
 
-* repositories on git.sr.ht
-* tickets on todo.sr.ht
-* build logs and secrets on builds.sr.ht
-* email headers sent to lists.sr.ht
+*   repositories on git.sr.ht
+*   tickets on todo.sr.ht
+*   build logs and secrets on builds.sr.ht
+*   email headers sent to lists.sr.ht
 
 If you choose to use our paid services, we will store a token which is used to bill your payment method. Information like your credit card number cannot be recovered from this token. We will also retain a copy of your billing records (e.g. invoices) for up to 7 years, even if you delete your account, in compliance with European law.
 
@@ -56,9 +56,9 @@ Aside from information you choose to make public in the course of your use of So
 
 We permit user-generated content to include images from and links to third-party sites. On pages displaying this content, information may be sent to these third-parties. This information includes:
 
-* Your IP address
-* Information about your client, such as whether you use Firefox or Chrome
-* The URL on SourceHut you visited when you saw this content
+*   Your IP address
+*   Information about your client, such as whether you use Firefox or Chrome
+*   The URL on SourceHut you visited when you saw this content
 
 We are not responsible for any additional information your client may send to these third parties.
 
