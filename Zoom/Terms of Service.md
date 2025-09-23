@@ -195,14 +195,14 @@ To the extent not prohibited by applicable Law, you agree to indemnify, defend, 
 
 **ZOOM AND ITS AFFILIATES AND EACH OF THEIR LICENSORS, AND SUPPLIERS WILL NOT BE LIABLE FOR ANY:**
 
-* **SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES;**
-* **LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF BUSINESS OPPORTUNITY;**
-* **UNAUTHORIZED ACCESS TO, LOSS OF, DELETION OF, OR ALTERATION OF SYSTEM DATA, CUSTOMER CONTENT, OR CUSTOMER DATA;**
-* **COSTS RELATED TO THE PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;**
-* **TERMINATION, SUSPENSION, DISCONTINUANCE, OR DISCONNECTION OF THE SERVICES;**
-* **A FAILURE OF YOUR INTERNET SERVICES, DOWNTIME, OR MAINTENANCE;**
-* **OUR FAILURE TO PROVIDE TECHNICAL OR OTHER SUPPORT SERVICES; OR**
-* **DAMAGES, IN THE AGGREGATE FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT, EXCEEDING THE AMOUNT ACTUALLY PAID BY YOU FOR THE SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE EVENT OR CIRCUMSTANCES GIVING RISE TO SUCH CLAIMS.**
+*   **SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES;**
+*   **LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF BUSINESS OPPORTUNITY;**
+*   **UNAUTHORIZED ACCESS TO, LOSS OF, DELETION OF, OR ALTERATION OF SYSTEM DATA, CUSTOMER CONTENT, OR CUSTOMER DATA;**
+*   **COSTS RELATED TO THE PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;**
+*   **TERMINATION, SUSPENSION, DISCONTINUANCE, OR DISCONNECTION OF THE SERVICES;**
+*   **A FAILURE OF YOUR INTERNET SERVICES, DOWNTIME, OR MAINTENANCE;**
+*   **OUR FAILURE TO PROVIDE TECHNICAL OR OTHER SUPPORT SERVICES; OR**
+*   **DAMAGES, IN THE AGGREGATE FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT, EXCEEDING THE AMOUNT ACTUALLY PAID BY YOU FOR THE SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE EVENT OR CIRCUMSTANCES GIVING RISE TO SUCH CLAIMS.**
 
 **THESE EXCLUSION OF DAMAGES AND LIMITATIONS ON AVAILABLE DAMAGES APPLY TO ALL CLAIMS, OBLIGATIONS, AND LIABILITIES ARISING OUT OF OR RELATED TO THIS AGREEMENT, AND WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY), STATUTE, CONTRACT, OR ANY OTHER LEGAL THEORY, EVEN IF ZOOM, ITS AFFILIATES, OR OUR LICENSORS OR SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY THAT SUCH DAMAGES MAY BE INCURRED BY YOU AND EVEN IF YOUR REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.**
 
@@ -268,7 +268,7 @@ This Section 30 applies if you are a governmental or public entity, including th
 
 **31\. POLICIES; DATA PROCESSING ADDENDUM**
 
-**31.1 Privacy Statement**. You consent to and agree to our [Privacy Statement](https://explore.zoom.us/en/privacy/), and you are on notice of and acknowledge that our collection, sharing, and processing (which may include organizing, structuring, storing, using, or disclosing) of your personal data will be subject to our [Privacy Statement](https://explore.zoom.us/en/privacy/) and, if applicable, our [Global Data Processing Addendum](https://explore.zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf) and [US State Law Privacy Addendum](https://explore.zoom.us/en/us-privacy-addendum/#:~:text=Zoom%20shall%20not%20(a)%20Sell,Information%20for%20a%20Commercial%20Purpose).
+**31.1 Privacy Statement**. You consent to and agree to our [Privacy Statement](https://explore.zoom.us/en/privacy/), and you are on notice of and acknowledge that our collection, sharing, and processing (which may include organizing, structuring, storing, using, or disclosing) of your personal data will be subject to our [Privacy Statement](https://explore.zoom.us/en/privacy/) and, if applicable, our [Global Data Processing Addendum](https://explore.zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf) and [US State Law Privacy Addendum](https://explore.zoom.us/en/us-privacy-addendum/#:~:text=Zoom%20shall%20not%20\(a\)%20Sell,Information%20for%20a%20Commercial%20Purpose).
 
 **31.2 Guides, Notices, and Other Policies**. You consent to and agree to our applicable guides, statements, notices, and policies located at [zoom.us/legal](https://explore.zoom.us/en/trust/resources/), including our [Zoom Phone Acceptable Use Policy](https://explore.zoom.us/en/trust/zoom-phone-acceptable-use-policy/#:~:text=All%20usage%20of%20Zoom%20Phone,ordinary%20and%20reasonable%20business%20use.), [Zoom Phone Numbering Policy](https://explore.zoom.us/en/trust/zoom-phone-numbering-policy/), [Acceptable Use Guidelines](https://explore.zoom.us/en/community-standards/#:~:text=You%20may%20not%20upload%20or,or%20image%20without%20their%20permission.), [911 U.S. Notice](https://explore.zoom.us/en/e911/), [911 Canada Notice](https://explore.zoom.us/en/ca-e911/), [EU Emergency Calling Notice](https://explore.zoom.us/en/eu-emergency-calling-notice/), and [Government Requests Guide](https://explore.zoom.us/en/trust/government-requests-guide/), and you are on notice of and acknowledge that use of the Services by you or your End Users is subject to these guides, notices, and policies.
 
