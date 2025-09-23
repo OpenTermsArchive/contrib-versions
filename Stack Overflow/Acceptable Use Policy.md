@@ -55,5 +55,5 @@ You may not use any automated data-gathering means (including robots, spiders, s
 
 Your usage of automated data-gathering means is exempt from this policy if either:
 
-1. Such automated data-gathering is necessary for accessibility-related reasons.
-2. You have obtained our express written prior consent. (You may contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.)
+1.  Such automated data-gathering is necessary for accessibility-related reasons.
+2.  You have obtained our express written prior consent. (You may contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.)
