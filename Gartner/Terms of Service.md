@@ -48,11 +48,11 @@ User will not (i) violate the security of the Site nor attempt to gain unauthori
 **Claims of Copyright Infringement:**  
 We respect the intellectual property rights of others and will not tolerate infringing activity on our Sites. If you are a copyright owner or agent, and you believe your rights under applicable copyright laws are being infringed by us or another person or entity using our Sites or Services, you may submit to our **Designated Copyright Agent** ([ip@gartner.com](mailto:ip@gartner.com)) a written notification pursuant to the Digital Millennium Copyright Act ("DMCA") (17 U.S.C. § 512), which includes the following information:
 
-* A physical or electronic signature of a person authorized to act on behalf of the owner of the work(s) that has/have been allegedly infringed;
-* Identification of the work or material being infringed, or, if multiple works are covered by a single notification, a representative list of such works;
-* Your contact information, including phone number and e-mail address at which you may be contacted;
-* Your good faith statement that the use of the work or material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-* A statement that the information in your notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of the allegedly infringed copyright.
+*   A physical or electronic signature of a person authorized to act on behalf of the owner of the work(s) that has/have been allegedly infringed;
+*   Identification of the work or material being infringed, or, if multiple works are covered by a single notification, a representative list of such works;
+*   Your contact information, including phone number and e-mail address at which you may be contacted;
+*   Your good faith statement that the use of the work or material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+*   A statement that the information in your notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of the allegedly infringed copyright.
 
 We reserve the right to seek damages from any person who knowingly, materially submits a DMCA notification claim under this section in violation of the law.
 
@@ -63,6 +63,6 @@ Should you encounter content or activities on our site(s) which you believe to b
   
 When reporting such content or activities to us, please include the following information in your email:
 
-1. The subject line of your email should begin with the words "DSA Notice";
-2. A detailed description of the illegal or non-compliant content or activity along with its specific location on our site, including the URL or a screenshot of the content; and
-3. Your contact details so we can follow up with you, as necessary.
+1.  The subject line of your email should begin with the words "DSA Notice";
+2.  A detailed description of the illegal or non-compliant content or activity along with its specific location on our site, including the URL or a screenshot of the content; and
+3.  Your contact details so we can follow up with you, as necessary.
