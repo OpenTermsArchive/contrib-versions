@@ -10,39 +10,39 @@ Available in other languages:
 Effective date: June 2012  
 Last updated: April 8, 2024
 
-* [Who is Thomson Reuters and how can I contact you?](#ContactUs)
-* [What personal information do you collect and process?](#CollectProcess)
-* [How do you collect personal information?](#HowCollect)
-* [How do you use personal information?](#HowUse)
-* [Who do you share personal information with?](#WhoShare)
-* [Where do you store personal information?](#WhereStore)
-* [What steps do you take to secure personal information?](#SecurePI)
-* [How long do you retain personal information?](#Retention)
-* [What rights do I have over my personal information?](#RightsPI)
-* [Changes to this Privacy Statement](#ChangesStatement)
-* [California Consumer Request Metrics](#requestmetrics)
-* [Supplemental Privacy Statements](#SupplementalStatements)
-    * [European Data Privacy Framework Supplemental Statement](#EuropeanDataPrivacy)
-    * [California Statement](#california)
-    * [Supplemental Privacy Statement for Chinese Residents under PIPL (EN)](#SupplementalPrivacy)
-    * [Informational Content Privacy Statement](#InfoContent)
-    * [Public Records Privacy Statement](https://legal.thomsonreuters.com/en/legal-notices/privacy-records)
-    * [Cookie & IBA Statement](#CookieIBA)
+*   [Who is Thomson Reuters and how can I contact you?](#ContactUs)
+*   [What personal information do you collect and process?](#CollectProcess)
+*   [How do you collect personal information?](#HowCollect)
+*   [How do you use personal information?](#HowUse)
+*   [Who do you share personal information with?](#WhoShare)
+*   [Where do you store personal information?](#WhereStore)
+*   [What steps do you take to secure personal information?](#SecurePI)
+*   [How long do you retain personal information?](#Retention)
+*   [What rights do I have over my personal information?](#RightsPI)
+*   [Changes to this Privacy Statement](#ChangesStatement)
+*   [California Consumer Request Metrics](#requestmetrics)
+*   [Supplemental Privacy Statements](#SupplementalStatements)
+    *   [European Data Privacy Framework Supplemental Statement](#EuropeanDataPrivacy)
+    *   [California Statement](#california)
+    *   [Supplemental Privacy Statement for Chinese Residents under PIPL (EN)](#SupplementalPrivacy)
+    *   [Informational Content Privacy Statement](#InfoContent)
+    *   [Public Records Privacy Statement](https://legal.thomsonreuters.com/en/legal-notices/privacy-records)
+    *   [Cookie & IBA Statement](#CookieIBA)
 
 Your privacy is important. This Privacy Statement explains how we, the Thomson Reuters group of companies, handle your personal information in connection with the website; application, including a mobile application; product; or service that links to this Privacy Statement and the administration of the employment relationship with our employees — we call these our “Services.” It applies generally to the following groups:
 
-* Customers and users (including prospective customers and users)
-* Employees
-* Third party business partners
-* Other individuals who interact with us or whose personal information we maintain
+*   Customers and users (including prospective customers and users)
+*   Employees
+*   Third party business partners
+*   Other individuals who interact with us or whose personal information we maintain
 
 This Privacy Statement does not apply to any website, application, product, or service that links to its own privacy statement or that is offered by third parties, in which clicking on third-party links or enabling those connections may allow the third party to collect, use, or share data about you. We encourage you to read their respective privacy statements.
 
-* [To submit a do not sell or share my personal information and limit the use of my sensitive personal information or any other privacy request, please visit the Data Subject Request Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html)
-* [For California Consumers, please review our Supplemental Privacy Statement for California Consumers under CCPA/CPRA (“California Statement”)](#california)
-* [For our content that is distributed within our Services (with respect to personal information included in such content), please review our Informational Content Privacy Statement.](#content-distributed)
-* [For our Public Records Products (such as PeopleMap, Public Records on Westlaw, Company Investigator, Court Express, Batch Services, and CLEAR), please review our supplemental Public Records Privacy Statement.](https://legal.thomsonreuters.com/en/legal-notices/privacy-records)
-* [For more information on our use of cookies and other automated technologies as well as interest-based advertising, please review our Cookie & IBA Statement.](#cookies)
+*   [To submit a do not sell or share my personal information and limit the use of my sensitive personal information or any other privacy request, please visit the Data Subject Request Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html)
+*   [For California Consumers, please review our Supplemental Privacy Statement for California Consumers under CCPA/CPRA (“California Statement”)](#california)
+*   [For our content that is distributed within our Services (with respect to personal information included in such content), please review our Informational Content Privacy Statement.](#content-distributed)
+*   [For our Public Records Products (such as PeopleMap, Public Records on Westlaw, Company Investigator, Court Express, Batch Services, and CLEAR), please review our supplemental Public Records Privacy Statement.](https://legal.thomsonreuters.com/en/legal-notices/privacy-records)
+*   [For more information on our use of cookies and other automated technologies as well as interest-based advertising, please review our Cookie & IBA Statement.](#cookies)
 
 [Back to top](#toc)
 
@@ -93,13 +93,13 @@ For California residents, our required disclosures under CCPA/CPRA are as descri
 How do you collect personal information?
 ----------------------------------------
 
-* **Direct interactions.** You voluntarily provide your personal information when you interact with us, such as when you register for Services, fill in forms, communicate with us, apply for jobs, and work for us. In some cases, if you do not provide us with your personal information, we may not be able to provide you with our services, communicate with you, or respond to your inquiries.
+*   **Direct interactions.** You voluntarily provide your personal information when you interact with us, such as when you register for Services, fill in forms, communicate with us, apply for jobs, and work for us. In some cases, if you do not provide us with your personal information, we may not be able to provide you with our services, communicate with you, or respond to your inquiries.
     
-* **User contributions.** We collect your personal information when you or others upload, share, send, or input that information through our Services or networks or when you or they communicate with us.
+*   **User contributions.** We collect your personal information when you or others upload, share, send, or input that information through our Services or networks or when you or they communicate with us.
     
-* **Automatically.** We automatically collect personal information about you when you interact with us, such as when you use our Services, visit our offices or events, open emails or view advertisements from us, or communicate with us. We may collect some of this personal information by using cookies and other similar technologies and we recommend you review our Cookie & IBA Statement for more information.
+*   **Automatically.** We automatically collect personal information about you when you interact with us, such as when you use our Services, visit our offices or events, open emails or view advertisements from us, or communicate with us. We may collect some of this personal information by using cookies and other similar technologies and we recommend you review our Cookie & IBA Statement for more information.
     
-* **Third-party or publicly available sources.** We may receive your personal information from third parties, such as our third-party business partners, including data brokers and advertising partners; your organizations; governmental agencies who publish public records; and other publicly or generally available sources, including online websites.
+*   **Third-party or publicly available sources.** We may receive your personal information from third parties, such as our third-party business partners, including data brokers and advertising partners; your organizations; governmental agencies who publish public records; and other publicly or generally available sources, including online websites.
     
 
 [Back to top](#toc)
@@ -111,33 +111,33 @@ This section includes details of the purposes for which we use personal informat
 
 | **Purpose** | **Legal basis** |
 | --- | --- |
-| * To fulfill our contractual obligations, including registering your account and providing our Services, and to fulfill our obligations as an employer<br>    <br>* Communicate with you about our Services and process related transactions<br>    <br>* For any purpose, with your consent or to follow your instructions | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions |
-| * To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>* To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>* Develop new products, services, content, and other offerings <br>* Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>* Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
-| * Provide our Services to third parties where our Services and content include your personal information. Under some local privacy laws, this may constitute a “sale” of personal information. | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
-| * Send you personalized and interest-based advertising and marketing <br>* Improve and develop new marketing campaigns, segments, and materials<br>* To enable you to partake in a prize draw or competition or complete a survey | * As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
-| * Manage the applicant and employee relationship, such as for the application process, background checks, onboarding process, or employee management<br>* Provide, manage, or improve the benefits made available to employees<br>* To improve our employee experience<br>* Communicate with you regarding recruiting and alumni purposes, as well as human resources administration | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
-| * Exercise our rights and protect our or others’ rights or property <br>* Effectuate the sale, merger, acquisition, or other disposition of our business<br>* Advance our other commercial and economic interests as permitted by law<br>* For other purposes as required by or permitted by law | * To pursue legitimate interests<br>    <br>* To comply with our legal obligations<br>    <br>* To protect your vital interests or those of another person |
+| *   To fulfill our contractual obligations, including registering your account and providing our Services, and to fulfill our obligations as an employer<br>    <br>*   Communicate with you about our Services and process related transactions<br>    <br>*   For any purpose, with your consent or to follow your instructions | *   Our performance of a contract<br>    <br>*   As outlined in your consents or instructions |
+| *   To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>*   Develop new products, services, content, and other offerings <br>*   Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>*   Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | *   Our performance of a contract<br>    <br>*   As outlined in your consents or instructions<br>    <br>*   To pursue legitimate interests |
+| *   Provide our Services to third parties where our Services and content include your personal information. Under some local privacy laws, this may constitute a “sale” of personal information. | *   Our performance of a contract<br>    <br>*   As outlined in your consents or instructions<br>    <br>*   To pursue legitimate interests |
+| *   Send you personalized and interest-based advertising and marketing <br>*   Improve and develop new marketing campaigns, segments, and materials<br>*   To enable you to partake in a prize draw or competition or complete a survey | *   As outlined in your consents or instructions<br>    <br>*   To pursue legitimate interests |
+| *   Manage the applicant and employee relationship, such as for the application process, background checks, onboarding process, or employee management<br>*   Provide, manage, or improve the benefits made available to employees<br>*   To improve our employee experience<br>*   Communicate with you regarding recruiting and alumni purposes, as well as human resources administration | *   Our performance of a contract<br>    <br>*   As outlined in your consents or instructions<br>    <br>*   To pursue legitimate interests |
+| *   Exercise our rights and protect our or others’ rights or property <br>*   Effectuate the sale, merger, acquisition, or other disposition of our business<br>*   Advance our other commercial and economic interests as permitted by law<br>*   For other purposes as required by or permitted by law | *   To pursue legitimate interests<br>    <br>*   To comply with our legal obligations<br>    <br>*   To protect your vital interests or those of another person |
 
 [Back to top](#toc)
 
 Who do you share personal information with?
 -------------------------------------------
 
-* **Your organizations** **and contacts**.
+*   **Your organizations** **and contacts**.
     
-* **Affiliates** within the Thomson Reuters group of companies.
+*   **Affiliates** within the Thomson Reuters group of companies.
     
-* **Third-party business partners** that support our business, such as our content and other partners, vendors and subcontractors, analytics providers, advertising and marketing agencies, credit agencies, and other third parties we engage.
+*   **Third-party business partners** that support our business, such as our content and other partners, vendors and subcontractors, analytics providers, advertising and marketing agencies, credit agencies, and other third parties we engage.
     
-* **Third parties to market** their products or services to you.
+*   **Third parties to market** their products or services to you.
     
-* **Third-party customers and users** where the Services and content include your personal information, such as when we aggregate information from various public and private sources to create listings, reports, profiles, and directories — like attorney and legal professional directories — in which this content may be made available to all users of those Services. Under some local privacy laws, this may constitute a “sale” of personal information.
+*   **Third-party customers and users** where the Services and content include your personal information, such as when we aggregate information from various public and private sources to create listings, reports, profiles, and directories — like attorney and legal professional directories — in which this content may be made available to all users of those Services. Under some local privacy laws, this may constitute a “sale” of personal information.
     
-* With **governmental agencies and third parties involved in our sale or purchase of a business or assets**, including in connection with a merger, divestiture, restructuring, reorganization, bankruptcy, liquidation, dissolution, or other disposition of assets.
+*   With **governmental agencies and third parties involved in our sale or purchase of a business or assets**, including in connection with a merger, divestiture, restructuring, reorganization, bankruptcy, liquidation, dissolution, or other disposition of assets.
     
-* With **law enforcement, government agencies, or other third parties** in order to comply with any law, court order, legal request, or other legal process, as well as to enforce our agreements or protect the rights, property, or safety of our business, employees, customers, or others — including for the purposes of cybersecurity, fraud protection, and credit risk reduction.
+*   With **law enforcement, government agencies, or other third parties** in order to comply with any law, court order, legal request, or other legal process, as well as to enforce our agreements or protect the rights, property, or safety of our business, employees, customers, or others — including for the purposes of cybersecurity, fraud protection, and credit risk reduction.
     
-* With **others when necessary to fulfill your consents or to follow your instructions**.
+*   With **others when necessary to fulfill your consents or to follow your instructions**.
     
 
 [Back to top](#toc)
@@ -165,11 +165,11 @@ We retain personal information as required by our enterprise records retention s
 
 We take steps to permanently destroy any biometric data we maintain within the applicable timeframe specified by law or when it is no longer necessary to achieve the purpose for which it was collected or obtained, whichever occurs first. Initial purposes for collection may end, for example, when:
 
-* The individual’s identification has been verified
-* The individual’s employment is terminated
-* The individual last interacts with or cancels their account for the Service that uses biometric data
-* The contract that permitted the collection and use expires or is terminated
-* The consent that permitted the collection and use is withdrawn
+*   The individual’s identification has been verified
+*   The individual’s employment is terminated
+*   The individual last interacts with or cancels their account for the Service that uses biometric data
+*   The contract that permitted the collection and use expires or is terminated
+*   The consent that permitted the collection and use is withdrawn
 
 [Back to top](#toc)
 
@@ -178,11 +178,11 @@ What rights do I have over my personal information?
 
 Your local privacy laws **may** grant you rights with respect to your personal information, and we will not knowingly discriminate against you because you have exercised any of your privacy rights. These rights differ based on the local laws that apply to you but could include one or more of the following:
 
-* Right to **withdraw consent** — when we process your personal data based on your consent — without affecting the lawfulness of processing based on consent before its withdrawal. 
-* Right to **confirm** we process your personal information and, if so, to **access** — including, where possible, in a portable format — **correct**, **complete**, and **delete** your personal information. 
-* Right to **restrict or object to the processing** of certain personal information, including, where relevant, the right to opt out of our processing of your sensitive personal information and opt out of automated decision making or profiling that produces a legal or similarly significant effect. 
-* Right to **opt out of marketing emails** from us, in which you may email us or click the unsubscribe link at the bottom of each email that you receive from us.
-* Residents of certain U.S. states may also have the right to **opt out of the use of their personal information for profiling or targeted advertising**, including online behavioral advertising, and to **opt out of the sale or sharing of their personal information**, in which you may, in addition to the below, click the “Do not sell or share my personal information/limit the use of my sensitive personal information” link or change the cookie settings through our cookie banners. 
+*   Right to **withdraw consent** — when we process your personal data based on your consent — without affecting the lawfulness of processing based on consent before its withdrawal. 
+*   Right to **confirm** we process your personal information and, if so, to **access** — including, where possible, in a portable format — **correct**, **complete**, and **delete** your personal information. 
+*   Right to **restrict or object to the processing** of certain personal information, including, where relevant, the right to opt out of our processing of your sensitive personal information and opt out of automated decision making or profiling that produces a legal or similarly significant effect. 
+*   Right to **opt out of marketing emails** from us, in which you may email us or click the unsubscribe link at the bottom of each email that you receive from us.
+*   Residents of certain U.S. states may also have the right to **opt out of the use of their personal information for profiling or targeted advertising**, including online behavioral advertising, and to **opt out of the sale or sharing of their personal information**, in which you may, in addition to the below, click the “Do not sell or share my personal information/limit the use of my sensitive personal information” link or change the cookie settings through our cookie banners. 
 
 California residents may have the rights as described in our California Statement and requests for our Public Records Products can be submitted as described in our Public Records Privacy Statement.
 
@@ -192,9 +192,9 @@ To submit a request, you can contact us through our [Data Subject Rights Portal]
 
 You may appeal an adverse decision on your requests by emailing or writing to us, and you have the right to lodge a complaint to your local regulator or attorney general if you are not satisfied with our responses to your requests or how we manage your personal information. However, we encourage you to contact us first so we can address your concerns directly. Please note the following information:
 
-* In Argentina, the Agency for Access to Public Information, in its capacity as the supervisory authority of Law No. 25,326, has the power to deal with complaints and claims filed by those affected in their rights for breach of the regulations in force regarding the protection of personal data.
-* In South Africa, you may file a complaint with the Information Regulator via email at [PAIAComplaints@inforegulator.org.za](mailto:PAIAComplaints@inforegulator.org.za).
-* In the European Union, supervisory authorities and their contact information may be found at [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en).
+*   In Argentina, the Agency for Access to Public Information, in its capacity as the supervisory authority of Law No. 25,326, has the power to deal with complaints and claims filed by those affected in their rights for breach of the regulations in force regarding the protection of personal data.
+*   In South Africa, you may file a complaint with the Information Regulator via email at [PAIAComplaints@inforegulator.org.za](mailto:PAIAComplaints@inforegulator.org.za).
+*   In the European Union, supervisory authorities and their contact information may be found at [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en).
 
 [Back to top](#toc)
 
@@ -230,17 +230,17 @@ Supplemental Privacy Statements
 
 Depending on the specific Service you are using or specific interactions you have with us — such as when you apply for a job or work for us — we may provide different or supplemental privacy statements that describe and govern how we use your personal information. When we do so, those different or supplemental privacy statements apply to that specific Service or those specific interactions. Of note, please review these supplemental privacy statements:
 
-* For individuals located in the European Union, the United Kingdom, and Switzerland, please see our European Data Privacy Framework Supplemental Statement for how we transfer your personal data to the United States.
+*   For individuals located in the European Union, the United Kingdom, and Switzerland, please see our European Data Privacy Framework Supplemental Statement for how we transfer your personal data to the United States.
 
-* For California Consumers, please review our Supplemental Privacy Statement for California Consumers under CCPA/CPRA (California Statement).
+*   For California Consumers, please review our Supplemental Privacy Statement for California Consumers under CCPA/CPRA (California Statement).
 
-* For residents of China, please review our Supplemental Privacy Statement for Chinese Residents under PIPL
+*   For residents of China, please review our Supplemental Privacy Statement for Chinese Residents under PIPL
 
-* For our content that is distributed within our Services — with respect to personal information included in such content — please review our Informational Content Privacy Statement.
+*   For our content that is distributed within our Services — with respect to personal information included in such content — please review our Informational Content Privacy Statement.
 
-* For our Risk, Fraud, and Compliance products (“Public Records Products”) — such as PeopleMap, Public Records on Westlaw, Company Investigator, Court Express, Batch Services, and CLEAR — please review our supplemental Public Records Privacy Statement.
+*   For our Risk, Fraud, and Compliance products (“Public Records Products”) — such as PeopleMap, Public Records on Westlaw, Company Investigator, Court Express, Batch Services, and CLEAR — please review our supplemental Public Records Privacy Statement.
 
-* For more information on our use of cookies and other automated technologies, as well as interest-based advertising, please review our Cookie & IBA Statement.
+*   For more information on our use of cookies and other automated technologies, as well as interest-based advertising, please review our Cookie & IBA Statement.
 
 **European Data Privacy Framework Supplemental Statement**
 ----------------------------------------------------------
@@ -340,18 +340,18 @@ Your privacy rights
 
 If you are a California consumer, you may have one or more of the following rights under CCPA/CPRA:
 
-* Right to confirm we process your personal information and, if so, to request we disclose to you: 
-    * The categories of personal information we collected about you 
-    * The categories of sources from which the personal information is collected 
-    * The business or commercial purpose for collecting, selling, or sharing personal information 
-    * The categories of third parties to whom we disclose personal information 
-    * The specific pieces of personal information we have collected about you
-* Right to access — which may include a portable copy — correct, complete, or delete specific pieces of personal information we hold about you.
-* Right to limit our use and disclosure of your sensitive personal information.
-* Right to opt out of the sale of personal information, as sale is defined under CCPA/CPRA. 
-* Right to opt out of the sharing of personal information, as sharing is defined under CCPA/CPRA.
-* Right not to receive discriminatory treatment for exercising your rights under CCPA/CPRA.
-* Additionally, California Civil Code Section 1798.83 may permit you the right to request information regarding the personal information about you we disclose to third parties for the third parties’ direct marketing purposes.
+*   Right to confirm we process your personal information and, if so, to request we disclose to you: 
+    *   The categories of personal information we collected about you 
+    *   The categories of sources from which the personal information is collected 
+    *   The business or commercial purpose for collecting, selling, or sharing personal information 
+    *   The categories of third parties to whom we disclose personal information 
+    *   The specific pieces of personal information we have collected about you
+*   Right to access — which may include a portable copy — correct, complete, or delete specific pieces of personal information we hold about you.
+*   Right to limit our use and disclosure of your sensitive personal information.
+*   Right to opt out of the sale of personal information, as sale is defined under CCPA/CPRA. 
+*   Right to opt out of the sharing of personal information, as sharing is defined under CCPA/CPRA.
+*   Right not to receive discriminatory treatment for exercising your rights under CCPA/CPRA.
+*   Additionally, California Civil Code Section 1798.83 may permit you the right to request information regarding the personal information about you we disclose to third parties for the third parties’ direct marketing purposes.
 
 To make a request, you can contact us through our [Data Subject Rights Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html), by emailing us at privacy.issues@thomsonreuters.com, or by calling us at 866-633-7656. Requests to opt out of the sale and sharing of personal information can also be submitted by clicking this “Do not sell or share my personal information and limit the use of my sensitive personal information” link. See our Cookie Policy for more information on exercising your rights.
 
@@ -404,9 +404,9 @@ Some of our third-party business partners — and their business partners — ma
 
 In addition to the above, you may also be able to choose not to receive IBA from participating companies that participate with any of the following:
 
-* The Digital Advertising Alliance (DAA), in which you may opt out of IBA using this [DAA tool](https://optout.aboutads.info/?c=2&lang=EN) 
-* The Network Advertising Initiative (NAI), in which you may opt out of IBA using this [NAI Opt Out Tool](https://optout.networkadvertising.org/?c=1) and, for those in the EU/EEA, [this tool](https://www.youronlinechoices.com/)
-* The [AppChoices App](https://youradchoices.com/appchoices) for opting out on mobile devices
+*   The Digital Advertising Alliance (DAA), in which you may opt out of IBA using this [DAA tool](https://optout.aboutads.info/?c=2&lang=EN) 
+*   The Network Advertising Initiative (NAI), in which you may opt out of IBA using this [NAI Opt Out Tool](https://optout.networkadvertising.org/?c=1) and, for those in the EU/EEA, [this tool](https://www.youronlinechoices.com/)
+*   The [AppChoices App](https://youradchoices.com/appchoices) for opting out on mobile devices
 
 Certain mobile devices may have an advertising identifier that allows companies to serve IBA to a specific mobile device using that identifier. Depending on your specific device, you may be able to limit advertising or sharing of that advertising identifier. You can also reset the advertising identifier or choose to turn off the device’s location tracking — including precise geolocation tracking — on your mobile device or for certain applications. See your device manufacturer to understand which options are available to you. For more details on your choices regarding the use of your web browsing activity for IBA, you may also visit the following sites: [networkadvertising.org](https://thenai.org/), [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), [youradchoices.com](https://youradchoices.com/), and [youronlinechoices.eu](https://youronlinechoices.eu/). 
 
@@ -466,11 +466,11 @@ This Privacy Statement applies to customers and users (including prospective cus
 
 “Sensitive personal information” is defined in the PIPL as personal information, that, if leaked or if used illegally, is likely to cause harm to a natural person’s personal dignity or endanger his or her personal safety or the safety of his or her property, including information concerning biometrics, religious beliefs, particular capacity, medical treatments, health, financial accounts, tracking, as well as personal information of minors under the age of 14. Among the various categories of personal information we may collect as described in the “What personal information do you collect and process?” section of this Privacy Statement, the following may be considered as sensitive personal information:
 
-* **Account information including purchase history;** 
-* **Pictures, audio, and video recordings** 
-* **Identity information;**
-* **Financial information;**
-* **Legal information**
+*   **Account information including purchase history;** 
+*   **Pictures, audio, and video recordings** 
+*   **Identity information;**
+*   **Financial information;**
+*   **Legal information**
 
 We will process your sensitive personal information for the specific purposes as described in this Privacy Statement, and in a way that has the least impact on your personal rights and interests. **By interacting with us, you will be deemed as having consented to our collection and processing of your sensitive personal information in accordance with this Privacy Statement.**
 
@@ -482,11 +482,11 @@ The below table includes the relevant purposes for the personal information proc
 
 | **Purpose** | **Legal basis** |
 | --- | --- |
-| * To fulfill our contractual obligations, including registering your account and providing our Services<br>    <br>* Communicate with you about our Services and process related transactions<br>    <br>* For any purpose, with your consent or to follow your instructions | * Contract Basis<br>    <br>* Individual Consent |
-| * To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>* To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>* Develop new products, services, content, and other offerings <br>* Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>* Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | * Contract Basis<br>    <br>* Individual Consent |
-| * Provide our Services to third parties where our Services and content include your personal information.<br>* Send you personalized and interest-based advertising and marketing <br>* Improve and develop new marketing campaigns, segments, and materials<br>* To enable you to partake in a prize draw or competition or complete a survey | * Contract Basis<br>    <br>* Individual Consent<br>    <br><br>* Public Information Basis<br><br>* Individual Consent |
-| * Manage the applicant relationship, such as for the application process or background checks<br>* Communicate with you regarding recruiting purposes | * Contract Basis<br>    <br>* Individual Consent |
-| * Exercise our rights and protect our or others’ rights or property <br>* Effectuate the sale, merger, acquisition, or other disposition of our business<br>* Advance our other commercial and economic interests as permitted by law<br>* For other purposes as required by or permitted by law | * Legal Obligation Basis<br>    <br>* Emergency Basis<br>    <br>* Individual Consent |
+| *   To fulfill our contractual obligations, including registering your account and providing our Services<br>    <br>*   Communicate with you about our Services and process related transactions<br>    <br>*   For any purpose, with your consent or to follow your instructions | *   Contract Basis<br>    <br>*   Individual Consent |
+| *   To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>*   Develop new products, services, content, and other offerings <br>*   Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>*   Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>*   Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | *   Contract Basis<br>    <br>*   Individual Consent |
+| *   Provide our Services to third parties where our Services and content include your personal information.<br>*   Send you personalized and interest-based advertising and marketing <br>*   Improve and develop new marketing campaigns, segments, and materials<br>*   To enable you to partake in a prize draw or competition or complete a survey | *   Contract Basis<br>    <br>*   Individual Consent<br>    <br><br>*   Public Information Basis<br><br>*   Individual Consent |
+| *   Manage the applicant relationship, such as for the application process or background checks<br>*   Communicate with you regarding recruiting purposes | *   Contract Basis<br>    <br>*   Individual Consent |
+| *   Exercise our rights and protect our or others’ rights or property <br>*   Effectuate the sale, merger, acquisition, or other disposition of our business<br>*   Advance our other commercial and economic interests as permitted by law<br>*   For other purposes as required by or permitted by law | *   Legal Obligation Basis<br>    <br>*   Emergency Basis<br>    <br>*   Individual Consent |
 
 ### Sharing of personal information
 
@@ -496,23 +496,23 @@ We may share your personal information to the recipients as prescribed in the �
 
 As mentioned in the “Where do you store personal information?” section of this Privacy Statement, your personal information may be transferred outside of China. The details of the outbound provision of your personal information are set out below:
 
-* Recipient: Thomson Reuters Canada Limited
-* Country of the Recipient: Canada
-* Types of personal information: Please refer to the “What personal information do you collect and process?” section of this Privacy Statement
-* Purposes: Please refer to the “Legal basis and purposes for the processing of personal information” section of this China Statement
-* Contact information of the recipient: You may contact Thomson Reuters by emailing us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com "privacy.issues@thomsonreuters.com") or mailing to our Chief Compliance Officer and Data Protection Officer: Thomson Reuters, Landis + Gyr-Strasse 3, 6300 Zug, Switzerland.
+*   Recipient: Thomson Reuters Canada Limited
+*   Country of the Recipient: Canada
+*   Types of personal information: Please refer to the “What personal information do you collect and process?” section of this Privacy Statement
+*   Purposes: Please refer to the “Legal basis and purposes for the processing of personal information” section of this China Statement
+*   Contact information of the recipient: You may contact Thomson Reuters by emailing us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com "privacy.issues@thomsonreuters.com") or mailing to our Chief Compliance Officer and Data Protection Officer: Thomson Reuters, Landis + Gyr-Strasse 3, 6300 Zug, Switzerland.
 
 ### Your rights
 
 If you are resident in China, you may have one or more of the following rights under PIPL:
 
-* Right of access and copy: You have the right to access and copy the personal information concerning you.
-* Right to rectification: You have the right to request us to rectify inaccurate personal information concerning you or supplement incomplete personal information.
-* Right to erasure: You have the right to ask us to erase your personal information in certain circumstances specified under the applicable law. However, your right to erasure will not affect the lawfulness of our processing prior to the erasure request or processing based on the applicable legal bases.
-* Right to explanation: You have the right to require us to further explain our rules of processing of personal information to the extent that are unclear or not addressed in this Privacy Statement.
-* Right to transfer: You have the right to request us to transfer your personal information that we hold about you to another controller to the extent the conditions stipulated by the applicable law are fulfilled.
-* Right to withdraw your consent: If you have given your consent regarding certain types of processing activities, you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal or processing based on the applicable legal bases.
-* Other rights permitted by the applicable law.
+*   Right of access and copy: You have the right to access and copy the personal information concerning you.
+*   Right to rectification: You have the right to request us to rectify inaccurate personal information concerning you or supplement incomplete personal information.
+*   Right to erasure: You have the right to ask us to erase your personal information in certain circumstances specified under the applicable law. However, your right to erasure will not affect the lawfulness of our processing prior to the erasure request or processing based on the applicable legal bases.
+*   Right to explanation: You have the right to require us to further explain our rules of processing of personal information to the extent that are unclear or not addressed in this Privacy Statement.
+*   Right to transfer: You have the right to request us to transfer your personal information that we hold about you to another controller to the extent the conditions stipulated by the applicable law are fulfilled.
+*   Right to withdraw your consent: If you have given your consent regarding certain types of processing activities, you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal or processing based on the applicable legal bases.
+*   Other rights permitted by the applicable law.
 
 To submit a request, you can contact us through our [Data Subject Rights Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html "Data Subject Rights Portal") or email us at privacy.issues@thomsonreuters.com. Please provide us with enough information to verify your identity. We will use the information you provide to us to verify your request.
 
