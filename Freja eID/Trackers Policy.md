@@ -10,8 +10,8 @@ A cookie is a small text file that is stored on your computer and is created by 
 
 On this website, we use two different kinds of cookies.
 
-* A temporary cookie that is active only during the session when you browse the website. This is automatically removed when you turn off your browser.
-* A cookie that is permanently stored, used for remembering which language you have chosen or to collect statistic information about the use of the website.
+*   A temporary cookie that is active only during the session when you browse the website. This is automatically removed when you turn off your browser.
+*   A cookie that is permanently stored, used for remembering which language you have chosen or to collect statistic information about the use of the website.
 
 ### **CHATBOT USE**
 
