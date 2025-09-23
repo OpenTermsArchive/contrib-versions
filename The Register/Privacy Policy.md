@@ -5,14 +5,14 @@ _Last updated: April 2025_
 
 #### Quick Links:
 
-* [Scope and Additional Notices](#scope)
-* [What Information We Collect](#what-information)
-* [How We Collect Data](#how-we-collect)
-* [How and Why We Use Your Data](#how-we-use)
-* [International Transfers](#international)
-* [Your Rights](#your-rights)
-* [Security](#security)
-* [Contact Details](#contact)
+*   [Scope and Additional Notices](#scope)
+*   [What Information We Collect](#what-information)
+*   [How We Collect Data](#how-we-collect)
+*   [How and Why We Use Your Data](#how-we-use)
+*   [International Transfers](#international)
+*   [Your Rights](#your-rights)
+*   [Security](#security)
+*   [Contact Details](#contact)
 
 The Register ("The Register", "our", "we") is owned and operated by Situation Publishing Limited (a company registered in England with registered number 03403653) ("we", "us", "our"). We are the controller of your personal data collected through our website. We are committed to protecting and respecting your privacy.
 
@@ -28,16 +28,16 @@ By using our Website, you agree to this Policy. If you do not agree, please stop
 
 We collect personal data you provide directly and data collected automatically through your use of the Website, including:
 
-* **Identity Data:** Your name, date of birth, gender
-* **Contact Data:** Email address, phone number, billing address, delivery address
-* **Device Data:** Information about the device(s) on which you visit the Website, such as mobile operating system, unique device ID
-* **Financial Data:** Bank account and payment card details (where provided)
-* **Transaction Data:** Details about payments and products/services related to those transactions
-* **Technical Data:** IP address, login data, time zone, location, operating system, browser type and version
-* **Profile Data:** Username, password, interests, preferences, feedback, survey responses
-* **Location Data:** Data about where you access the Website from
-* **Usage Data:** Information about how you use and engage with the Website
-* **Marketing and Communications Data:** Your preferences for receiving marketing communications
+*   **Identity Data:** Your name, date of birth, gender
+*   **Contact Data:** Email address, phone number, billing address, delivery address
+*   **Device Data:** Information about the device(s) on which you visit the Website, such as mobile operating system, unique device ID
+*   **Financial Data:** Bank account and payment card details (where provided)
+*   **Transaction Data:** Details about payments and products/services related to those transactions
+*   **Technical Data:** IP address, login data, time zone, location, operating system, browser type and version
+*   **Profile Data:** Username, password, interests, preferences, feedback, survey responses
+*   **Location Data:** Data about where you access the Website from
+*   **Usage Data:** Information about how you use and engage with the Website
+*   **Marketing and Communications Data:** Your preferences for receiving marketing communications
 
 We do not generally collect or process special category personal data (such as information about your race, ethnic origins, political opinions, religious beliefs, health information, or biometric data). If we need to process such data, we will only do so where we have a valid reason, the law allows us to, and we will request your explicit consent where required.
 
@@ -55,11 +55,11 @@ When you interact with content or other users, we collect both data that you upl
 
 We collect personal data through technologies such as cookies and server logs when you visit the Website, including:
 
-* Information about your device and browser
-* Your IP address
-* Links clicked and pages viewed
-* Visit duration and interaction information
-* Navigation paths to and from the Website
+*   Information about your device and browser
+*   Your IP address
+*   Links clicked and pages viewed
+*   Visit duration and interaction information
+*   Navigation paths to and from the Website
 
 For more information on cookies used on the Website, please see our [Cookie Policy](https://www.theregister.com/Profile/cookies/).
 
@@ -71,10 +71,10 @@ We may receive information about you from third parties (including business part
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in these circumstances:
 
-* Where you have asked us to do so, or consented to us doing so
-* Where we need to do so to perform a contract with you
-* Where it is necessary for our legitimate interests (or those of a third party) and your rights do not override those interests
-* Where we need to comply with a legal or regulatory obligation
+*   Where you have asked us to do so, or consented to us doing so
+*   Where we need to do so to perform a contract with you
+*   Where it is necessary for our legitimate interests (or those of a third party) and your rights do not override those interests
+*   Where we need to comply with a legal or regulatory obligation
 
 #### Examples of how we use your data:
 
@@ -112,12 +112,12 @@ To unsubscribe from marketing messages, click the unsubscribe link at the bottom
 
 Depending on how and why you provide us with your personal data, we may share it in the following ways:
 
-* With our company group members (subsidiaries and holding companies)
-* With official bodies to prevent fraud or comply with legal requirements (government bodies, tax authorities, law enforcement)
-* With service providers who help us operate the Website and provide services
-* With analytics and search engine providers
-* With third parties whose content you have viewed or engaged with
-* With professional service providers (insurers, accountants, auditors, lawyers)
+*   With our company group members (subsidiaries and holding companies)
+*   With official bodies to prevent fraud or comply with legal requirements (government bodies, tax authorities, law enforcement)
+*   With service providers who help us operate the Website and provide services
+*   With analytics and search engine providers
+*   With third parties whose content you have viewed or engaged with
+*   With professional service providers (insurers, accountants, auditors, lawyers)
 
 We will not share your personal data with third parties for their direct marketing unless it relates to a specific activity you've consented to (e.g., sponsored webinars or whitepapers).
 
@@ -125,9 +125,9 @@ We reserve the right to publish correspondence sent to us unless you specificall
 
 We may also disclose your personal data:
 
-* To comply with legal obligations
-* To enforce our terms and conditions
-* To protect rights, property, or safety
+*   To comply with legal obligations
+*   To enforce our terms and conditions
+*   To protect rights, property, or safety
 
 ### Service Providers
 
@@ -137,9 +137,9 @@ Our service providers provide administrative, statistical, and technical service
 
 We may transfer your data to service providers based outside the UK or European Economic Area (EEA). Where we do this, we ensure appropriate safeguards are in place to protect your data:
 
-* Transfers to countries recognized by the European Commission as providing adequate protection
-* Transfers governed by Standard Contractual Clauses approved by the European Commission
-* Other appropriate cross-border transfer solutions that provide adequate protection
+*   Transfers to countries recognized by the European Commission as providing adequate protection
+*   Transfers governed by Standard Contractual Clauses approved by the European Commission
+*   Other appropriate cross-border transfer solutions that provide adequate protection
 
 By using our Website, you consent to these transfers. If you would like more information about our transfer mechanisms, please contact us.
 
@@ -147,10 +147,10 @@ By using our Website, you consent to these transfers. If you would like more inf
 
 We hold your personal data only as long as required to provide services and satisfy legal, regulatory, tax, accounting, or reporting requirements. To determine appropriate retention periods, we consider:
 
-* The amount, nature, and sensitivity of the data
-* Potential risk of harm from unauthorized use
-* Processing purposes and alternative means to achieve those purposes
-* Legal and regulatory requirements
+*   The amount, nature, and sensitivity of the data
+*   Potential risk of harm from unauthorized use
+*   Processing purposes and alternative means to achieve those purposes
+*   Legal and regulatory requirements
 
 You should expect us to keep your data for as long as you have a registered account. If you delete your account, we may need to keep some data for up to six years for compliance purposes.
 
@@ -162,12 +162,12 @@ We may anonymize your data for research or statistical purposes, in which case w
 
 We implement appropriate security measures to protect your data, including:
 
-* Secure servers (on our premises or in secure third-party data centers)
-* Encryption (SSL)
-* Password protection
-* Access limitations to employees, agents, and contractors on a need-to-know basis
-* Confidentiality obligations for those who access your data
-* Data breach procedures
+*   Secure servers (on our premises or in secure third-party data centers)
+*   Encryption (SSL)
+*   Password protection
+*   Access limitations to employees, agents, and contractors on a need-to-know basis
+*   Confidentiality obligations for those who access your data
+*   Data breach procedures
 
 If you have a password to access parts of our Website, you are responsible for keeping it confidential.
 
@@ -187,9 +187,9 @@ You can request that we correct inaccurate data or erase data that is no longer 
 
 You can ask us to stop processing your data in certain circumstances, such as:
 
-* If you contest the accuracy of the data
-* If our processing is unlawful but you don't want us to erase the data
-* If you need us to hold the data for legal claims even though we no longer need it
+*   If you contest the accuracy of the data
+*   If our processing is unlawful but you don't want us to erase the data
+*   If you need us to hold the data for legal claims even though we no longer need it
 
 #### Right to Data Portability
 
