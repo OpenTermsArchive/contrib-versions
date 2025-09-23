@@ -19,10 +19,10 @@ We may ask you to provide your personal information when you use the Site, such 
 
 The personal information you give us may include details such as:
 
-* Contact information (e.g., name, email address, company name and address);
-* Demographic and interests information (e.g., region, interests and preferences);
-* Other information you choose to share with us (e.g., when you submit a form); and/or
-* Transactional and activity information (e.g., requests and searches).
+*   Contact information (e.g., name, email address, company name and address);
+*   Demographic and interests information (e.g., region, interests and preferences);
+*   Other information you choose to share with us (e.g., when you submit a form); and/or
+*   Transactional and activity information (e.g., requests and searches).
 
 **Information automatically collected:**
 
@@ -32,21 +32,21 @@ We and our service providers may automatically obtain certain information when y
 
 Hearst may use the personal information we obtain in connection with the operation of the Site for a number of purposes, including, but not limited to:
 
-* Providing you with the Site, as well as information you may request;
-* Communicating with you, including by sending you marketing and advertising communications;
-* Developing and improving the Site and the services we provide and customizing the user experience;
-* Generating and analyzing statistics about your use of the Site and our offerings;
-* Backing up our systems (including for disaster recovery purposes) and enhancing the security of the Site 
-* Detecting, preventing, and responding to fraud or potentially illegal activities, violations of this Notice or the Terms of Use, violations of law, intellectual property infringement, or other misuse of the Site; and
-* Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas).
+*   Providing you with the Site, as well as information you may request;
+*   Communicating with you, including by sending you marketing and advertising communications;
+*   Developing and improving the Site and the services we provide and customizing the user experience;
+*   Generating and analyzing statistics about your use of the Site and our offerings;
+*   Backing up our systems (including for disaster recovery purposes) and enhancing the security of the Site 
+*   Detecting, preventing, and responding to fraud or potentially illegal activities, violations of this Notice or the Terms of Use, violations of law, intellectual property infringement, or other misuse of the Site; and
+*   Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas).
 
 **HOW WE PROVIDE PERSONAL INFORMATION TO OTHERS**
 
 Hearst may share the personal information we obtain from you through the Site:
 
-* With our affiliates and subsidiaries;
-* With your consent or otherwise at your direction; With vendors that provide services or handle transactions on our behalf; and
-* As we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Site or other individuals and entities, or to comply with or enforce applicable law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
+*   With our affiliates and subsidiaries;
+*   With your consent or otherwise at your direction; With vendors that provide services or handle transactions on our behalf; and
+*   As we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Site or other individuals and entities, or to comply with or enforce applicable law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
 
 We also reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation. We may share your information with third parties when you consent to or request such sharing.
 
@@ -56,16 +56,16 @@ We also reserve the right to transfer any of the information we have about you t
 
 Residents of states with applicable privacy laws are afforded certain rights with respect to their personal information. Depending on where you live, and subject to certain exceptions, you may be entitled to the rights described below with respect to the data we collect through the Site. Please note that if you submit a request to exercise any of the below rights (a “Privacy Rights Request”), we may request additional information to enable us to process your request. We will use the information you provide to make Privacy Rights Requests to verify your identity, locate your personal information that we may hold about you, and to fulfill your request. Except as otherwise directed below, please contact us at [ccparequestscorp@hearst.com](mailto:ccparequestscorp@hearst.com) to exercise your privacy rights.
 
-1. **Right to access your personal information**. Under applicable privacy laws, you have the right to know the types and the specific pieces of the personal information we have collected from you through the Site.
-2. **Right to delete your personal information**. In some circumstances, you may ask us to delete personal information we collected from you through the Site. Please note that this is not an absolute right under applicable privacy laws, and we may not be able to delete all or some of your personal information.
-3. **Right to correct your personal information.**You may request that we modify or update your personal information that we have collected from you through the Site if it is inaccurate. Please be aware that not all personal information is able to be corrected, and we reserve the right to deny a request to correct your information where exceptions apply. Please note that if you would like to correct the email you use to receive newsletters from us, you must unsubscribe from the newsletters and re-subscribe using your preferred email address.
-4. **Right to opt out**. Applicable privacy laws may provide you with the right to limit or opt out of the use of your personal information for certain purposes.
+1.  **Right to access your personal information**. Under applicable privacy laws, you have the right to know the types and the specific pieces of the personal information we have collected from you through the Site.
+2.  **Right to delete your personal information**. In some circumstances, you may ask us to delete personal information we collected from you through the Site. Please note that this is not an absolute right under applicable privacy laws, and we may not be able to delete all or some of your personal information.
+3.  **Right to correct your personal information.**You may request that we modify or update your personal information that we have collected from you through the Site if it is inaccurate. Please be aware that not all personal information is able to be corrected, and we reserve the right to deny a request to correct your information where exceptions apply. Please note that if you would like to correct the email you use to receive newsletters from us, you must unsubscribe from the newsletters and re-subscribe using your preferred email address.
+4.  **Right to opt out**. Applicable privacy laws may provide you with the right to limit or opt out of the use of your personal information for certain purposes.
 
 _Right to Opt Out of Sale/Targeted Advertising_: Certain state privacy laws provide eligible residents with the right to opt out of the “sale” or “sharing” of your personal information for “targeted advertising” purposes, as such terms are defined under applicable privacy laws. Please note that we do not sell the personal information we collected about you through this Site. 
 
 _Rights Regarding Sensitive Personal Information_: Certain pieces of personal information that we have about you may be considered “sensitive” under applicable laws. Depending on where you live, and subject to exceptions, you may have certain rights to opt in or opt out/limit the processing of personal information that may be considered sensitive under applicable privacy laws. Please note that we do not collect, use, or disclose “sensitive” personal information through the Site.
 
-5. **Right to be free from discrimination**. You may exercise any of the above rights without fear of being discriminated against.
+5.  **Right to be free from discrimination**. You may exercise any of the above rights without fear of being discriminated against.
 
 For additional information regarding our California-specific data practices, please see the section below titled [Notice at Collection/ Additional Information for California Residents](#_ADDITIONAL_INFO).  
 
@@ -109,20 +109,20 @@ The California Consumer Privacy Act, as amended by the California Privacy Rights
 
 For each of the categories listed above, we will retain your personal information for as long as needed or permitted, depending on the purpose for obtaining that data and consistent with applicable laws. We will keep your personal information for as long as we have a relationship with you (e.g. to provide you with the newsletters you subscribe to). Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
 
-* Maintain business records for analysis, understanding market trends, and/or audit purposes.
-* Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
-* Defend, establish, exercise, or bring any existing or potential legal claims.
-* Carry out fraud detection and prevention.
-* Address any complaints.
+*   Maintain business records for analysis, understanding market trends, and/or audit purposes.
+*   Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
+*   Defend, establish, exercise, or bring any existing or potential legal claims.
+*   Carry out fraud detection and prevention.
+*   Address any complaints.
 
 Residents of California may have the following rights:
 
 1\. Right to access your personal information.  Under the CCPA, you have the right to:
 
-* 2\. Know the categories of personal information, which we collect from you through the Site and the categories of sources from which we got the information\\
-* Know the business or commercial purposes for which we collect and provide personal information to others
-* Know the categories of third parties and other entities to whom we provide personal information; and
-* You may request to access the specific pieces of personal information that we collected about you through this Site.  
+*   2\. Know the categories of personal information, which we collect from you through the Site and the categories of sources from which we got the information\\
+*   Know the business or commercial purposes for which we collect and provide personal information to others
+*   Know the categories of third parties and other entities to whom we provide personal information; and
+*   You may request to access the specific pieces of personal information that we collected about you through this Site.  
 
 2\. Right to deletion.  Subject to certain exceptions, you may ask us to delete the personal information we collected about you through this Site. Please note that this is not an absolute right under applicable privacy laws, and we may not be able to delete all or some of your personal information. 
 
@@ -130,8 +130,8 @@ Residents of California may have the following rights:
 
 4\. Right to opt out. Applicable privacy laws may provide you with the right to limit or opt out of the use of your personal information for certain purposes.
 
-* _Right to Opt Out of Sale/Targeted Advertising_: Certain state privacy laws provide eligible residents with the right to opt out of the “sale” or “sharing” of your personal information for “targeted advertising” purposes, as such terms are defined under applicable privacy laws. Please note that we do not sell the personal information we collected about you through this Site. 
-* _Right to Limit Processing of Sensitive Personal Information_: Certain pieces of personal information are defined as “sensitive” under applicable privacy laws, and privacy laws afford eligible residents with the right to limit the use of such sensitive personal information only for certain purposes. Please note that we do not collect, use, or disclose “sensitive” personal information through the Site.
+*   _Right to Opt Out of Sale/Targeted Advertising_: Certain state privacy laws provide eligible residents with the right to opt out of the “sale” or “sharing” of your personal information for “targeted advertising” purposes, as such terms are defined under applicable privacy laws. Please note that we do not sell the personal information we collected about you through this Site. 
+*   _Right to Limit Processing of Sensitive Personal Information_: Certain pieces of personal information are defined as “sensitive” under applicable privacy laws, and privacy laws afford eligible residents with the right to limit the use of such sensitive personal information only for certain purposes. Please note that we do not collect, use, or disclose “sensitive” personal information through the Site.
 
 5\. Right to be free from discrimination.  You may exercise any of the above rights without fear of being denied goods or services.  
 
