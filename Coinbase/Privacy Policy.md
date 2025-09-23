@@ -10,15 +10,15 @@ If you reside outside of the UK and the European Economic Area (the “**EEA**�
 
 It is important that you understand how we use your information. You should read this page in full, but below are the key highlights and some helpful links:
 
-* Our goal is to simplify your crypto experience. If you do not wish for your personal information to be collected, used, or disclosed as described in this Privacy Policy, or you are under 18 years of age, you should stop accessing our Services.
-    * We collect and use your information in order to provide and improve our Services and your experience, protect the security and integrity of our platform, and meet our legal obligations.
+*   Our goal is to simplify your crypto experience. If you do not wish for your personal information to be collected, used, or disclosed as described in this Privacy Policy, or you are under 18 years of age, you should stop accessing our Services.
+    *   We collect and use your information in order to provide and improve our Services and your experience, protect the security and integrity of our platform, and meet our legal obligations.
     
-    * To learn more, explore [**Section 1. What Information We Collect**](#what-information-we-collect) and [**Section 2. How We Use Your Information**](#how-we-use-your-information).
-        * We share your information with other Coinbase companies, as well as trusted third parties and service providers, in order to offer our Services and fulfill legal requirements.
+    *   To learn more, explore [**Section 1. What Information We Collect**](#what-information-we-collect) and [**Section 2. How We Use Your Information**](#how-we-use-your-information).
+        *   We share your information with other Coinbase companies, as well as trusted third parties and service providers, in order to offer our Services and fulfill legal requirements.
     
-    * To learn more, explore [**Section 3. How And Why We Share Your Information**](#how-and-why-we-share-your-information).
-        * We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
-    * If you have any questions, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase) or at dpo@coinbase.com. See [**Section 9. How to Contact Us With Questions**](#how-to-contact-us-with-questions) for more information.
+    *   To learn more, explore [**Section 3. How And Why We Share Your Information**](#how-and-why-we-share-your-information).
+        *   We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
+    *   If you have any questions, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase) or at dpo@coinbase.com. See [**Section 9. How to Contact Us With Questions**](#how-to-contact-us-with-questions) for more information.
     
 
 1\. WHAT INFORMATION WE COLLECT
@@ -201,16 +201,16 @@ To facilitate our global operations, Coinbase, its Affiliates, third-party partn
 
 If you reside in the EEA, Switzerland, or the United Kingdom, we rely upon a variety of legal mechanisms to facilitate these transfers of your personal information (collectively, “**European Personal Data**”).
 
-* We rely primarily on the European Commission’s Standard Contractual Clauses to facilitate the international and onward transfer of European Personal Data to third countries, including from our EU operating entities to Coinbase, Inc. in the United States. For a copy of the Standard Contractual Clauses, please contact dpo@coinbase.com. * In addition, we may rely on certain exemptions provided for under data protection law for our international transfers. We also rely on [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) from the European Commission where available and exemptions provided for under data protection law. For example, because Coinbase operates and provides its Services globally, we need to share information with our Affiliates and to data centers outside the EEA in order to develop, offer, and improve our Services (Article 49(1)(b) GDPR). In addition, we may rely on certain exemptions for sharing personal information with law enforcement outside of the EEA in emergency situations (Article 49(1)(f) GDPR).
+*   We rely primarily on the European Commission’s Standard Contractual Clauses to facilitate the international and onward transfer of European Personal Data to third countries, including from our EU operating entities to Coinbase, Inc. in the United States. For a copy of the Standard Contractual Clauses, please contact dpo@coinbase.com. *   In addition, we may rely on certain exemptions provided for under data protection law for our international transfers. We also rely on [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) from the European Commission where available and exemptions provided for under data protection law. For example, because Coinbase operates and provides its Services globally, we need to share information with our Affiliates and to data centers outside the EEA in order to develop, offer, and improve our Services (Article 49(1)(b) GDPR). In addition, we may rely on certain exemptions for sharing personal information with law enforcement outside of the EEA in emergency situations (Article 49(1)(f) GDPR).
     
 
 EU-US, UK-US, and Swiss-US  Data Privacy Framework
 
 Coinbase complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (together referred to as the “Data Privacy Frameworks”) and the DPF Principles as set forth by the U.S. Department of Commerce. Coinbase has certified to the U.S. Department of Commerce that it adheres to:
 
-* the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF;
-    * the UK-U.S. Data Privacy Framework Principles (EU-UK DPF Principles) with regard to the processing of personal data received from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF; and
-    * the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  
+*   the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF;
+    *   the UK-U.S. Data Privacy Framework Principles (EU-UK DPF Principles) with regard to the processing of personal data received from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF; and
+    *   the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  
 
 In the context of an onward transfer, Coinbase has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as a service provider, partner and/or other third party to help us provide our Services on our behalf (as described in Section 4 of this policy). Coinbase remains liable under the DPF if any such third party processes personal data in a manner inconsistent with the DPF, unless Coinbase can prove that we are not responsible for the event giving rise to the damage. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/)  
 
@@ -224,24 +224,24 @@ The Federal Trade Commission has jurisdiction over Coinbase’s compliance with 
 
 Depending on where you live, you may be able to exercise certain privacy rights related to your personal information. For any of your privacy rights and choices referenced below, requests relating to your personal information can be made by logging into your account and going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or by submitting a request via our [Support Portal](https://help.coinbase.com/en) or at [dpo@coinbase.com](mailto:dpo@coinbase.com). If any of the rights listed below are not provided under law for your operating entity or jurisdiction, Coinbase has absolute discretion in providing you with these rights.
 
-* **Right to access and portability**_:_ 
+*   **Right to access and portability**_:_ 
     
-    * You may request that we provide you a copy of your personal information held by us through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights), or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase). * **Right to rectification**_:_ 
+    *   You may request that we provide you a copy of your personal information held by us through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights), or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase). *   **Right to rectification**_:_ 
     
-    * You may request us to rectify or update any of your personal information held by Coinbase that is incomplete or inaccurate by logging in to your account and clicking the Profile or My Account tab.
-        * **Right to deletion/erasure**_:_ 
+    *   You may request us to rectify or update any of your personal information held by Coinbase that is incomplete or inaccurate by logging in to your account and clicking the Profile or My Account tab.
+        *   **Right to deletion/erasure**_:_ 
     
-    * You may request to erase your personal information, subject to applicable law. If you close your Coinbase Account, we will retain or delete information associated with your account as described in [**Section 4. How Long We Keep Your Personal Information**](#how-long-we-keep-your-information)**.**
-        * **Right to withdraw your consent**_:_ 
+    *   You may request to erase your personal information, subject to applicable law. If you close your Coinbase Account, we will retain or delete information associated with your account as described in [**Section 4. How Long We Keep Your Personal Information**](#how-long-we-keep-your-information)**.**
+        *   **Right to withdraw your consent**_:_ 
     
-    * To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. The lawfulness of Coinbase’s processing before you withdraw your consent will not be affected by such withdrawal.
-        * **Right to object to or restrict processing**_:_ 
+    *   To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. The lawfulness of Coinbase’s processing before you withdraw your consent will not be affected by such withdrawal.
+        *   **Right to object to or restrict processing**_:_ 
     
-    * You may have the right to restrict or object to us using or transferring your personal information based on our legitimate interests, in the public interest, or for direct marketing. We may continue to process your personal information where permitted or required by applicable law. You can opt-out of receiving marketing communications from Coinbase through your account settings or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase).  * **Right to non-discrimination**: We will not discriminate against you for exercising any of your rights provided to you under law.
-    * **Right to lodge a complaint:**  
+    *   You may have the right to restrict or object to us using or transferring your personal information based on our legitimate interests, in the public interest, or for direct marketing. We may continue to process your personal information where permitted or required by applicable law. You can opt-out of receiving marketing communications from Coinbase through your account settings or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase).  *   **Right to non-discrimination**: We will not discriminate against you for exercising any of your rights provided to you under law.
+    *   **Right to lodge a complaint:**  
     
-    * If you reside in the EEA, Switzerland, or the UK, you have the right to lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country or state. In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: casework@ico.org.uk. In Ireland, the relevant data protection authority is the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, +353 017650100 / + 353 1800437737, email: info@dataprotection.ie or by using the following online form: [Forms for Data Protection](https://forms.dataprotection.ie/contact).
-        * If you reside in Australia or the Philippines, you may lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country. In Australia, the relevant data protection authority is the Office of the Australian Information Commissioner, and complaints may be made through their website at [www.oaic.gov.au](http://www.oaic.gov.au/). In the Philippines, the relevant data protection authority is the National Privacy Commission, email: complaints@privacy.gov.ph.
+    *   If you reside in the EEA, Switzerland, or the UK, you have the right to lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country or state. In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: casework@ico.org.uk. In Ireland, the relevant data protection authority is the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, +353 017650100 / + 353 1800437737, email: info@dataprotection.ie or by using the following online form: [Forms for Data Protection](https://forms.dataprotection.ie/contact).
+        *   If you reside in Australia or the Philippines, you may lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country. In Australia, the relevant data protection authority is the Office of the Australian Information Commissioner, and complaints may be made through their website at [www.oaic.gov.au](http://www.oaic.gov.au/). In the Philippines, the relevant data protection authority is the National Privacy Commission, email: complaints@privacy.gov.ph.
         
 
 To protect your privacy and security, we may take steps to verify your identity before complying with your request and we may decline your request if we are unable to verify your identity.
