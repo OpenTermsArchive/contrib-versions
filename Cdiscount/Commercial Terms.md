@@ -91,16 +91,16 @@ _Article 1 : CHAMP D'APPLICATION_
 
 Les présentes conditions générales de vente (ci-après « CGV ») s'appliquent à toute commande passée à distance par une personne physique disposant de la capacité juridique et agissant à titre personnel en qualité de consommateur auprès de CDISCOUNT, soit directement sur le site Internet de CDISCOUNT accessible à l’adresse suivante : www.cdiscount.com, soit par l’intermédiaire d'une application CDISCOUNT pour smartphones ou tablettes (ci-après, ensemble le « Site »), soit par téléphone :
 
-* depuis la France au 3979 (0.70cts€/ min + prix de l'appel) ;
-* depuis la Belgique au 0800 58 211 (numéro gratuit) ;
-* depuis l’Italie au 800 694 130 (numéro gratuit) ;
-* depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;
-* depuis l’Espagne au 0800 00 01 17 (numéro gratuit);
-* depuis le Luxembourg au 0800 40 234 (numéro gratuit);
-* depuis l'Autriche au 0800 70 10 07 (numéro gratuit);
-* depuis l'Irlande au 1 800 83 22 86 (numéro gratuit);
-* depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit);
-* depuis le Portugal au 0800 60 00 45 (numéro gratuit).
+*   depuis la France au 3979 (0.70cts€/ min + prix de l'appel) ;
+*   depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+*   depuis l’Italie au 800 694 130 (numéro gratuit) ;
+*   depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;
+*   depuis l’Espagne au 0800 00 01 17 (numéro gratuit);
+*   depuis le Luxembourg au 0800 40 234 (numéro gratuit);
+*   depuis l'Autriche au 0800 70 10 07 (numéro gratuit);
+*   depuis l'Irlande au 1 800 83 22 86 (numéro gratuit);
+*   depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit);
+*   depuis le Portugal au 0800 60 00 45 (numéro gratuit).
 
 **  
 1.2 Exclusions**
@@ -201,13 +201,13 @@ Aucune commande adressée à CDISCOUNT par un autre moyen, y compris par courrie
 
 Lors de la passation de votre commande, vous devez confirmer celle-ci par la technique dite du « double-clic » : après avoir sélectionné et ajouté des produits et/ou services à votre panier (premier clic), vous devez ensuite : 
 
-* contrôler votre panier et éventuellement corriger le contenu de celui-ci (exemple : identification et quantité de produits sélectionnés, prix correspondants, modalités et frais de livraison) ;
+*   contrôler votre panier et éventuellement corriger le contenu de celui-ci (exemple : identification et quantité de produits sélectionnés, prix correspondants, modalités et frais de livraison) ;
     
-* valider votre panier ;
+*   valider votre panier ;
     
-* accepter les CGV et votre obligation de paiement ;
+*   accepter les CGV et votre obligation de paiement ;
     
-* en cliquant à nouveau (deuxième clic) pour valider votre commande.
+*   en cliquant à nouveau (deuxième clic) pour valider votre commande.
     
 
   
@@ -218,9 +218,9 @@ Lors de la passation de votre commande, vous devez confirmer celle-ci par la tec
 
 Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en accusera réception en vous adressant un email de confirmation de commande comprenant :
 
-* le récapitulatif de votre commande,
-* son numéro,
-* les présentes CGV.
+*   le récapitulatif de votre commande,
+*   son numéro,
+*   les présentes CGV.
 
 **Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
@@ -515,9 +515,9 @@ En cas de retard dans la livraison, CDISCOUNT s’attachera à vous en informer.
 
 Vous pouvez également nous signaler vous-même le retard de livraison via votre Espace Client ou en contactant notre Service Client.
 
-CDISCOUNT s’engage à faire le nécessaire pour déterminer la cause du retard et trouver une solution adéquate en vue de la livraison effective des produits commandés dans les meilleurs délais.   
+CDISCOUNT s’engage à faire le nécessaire pour déterminer la cause du retard et trouver une solution adéquate en vue de la livraison effective des produits commandés dans les meilleurs délais. 
 
-6.2.4. Contact
+6.2.4. Contact  
 
 Pour le suivi de votre commande et le service après-vente, vous pouvez nous contacter :
 
@@ -780,9 +780,9 @@ La garantie légale de conformité s’applique indépendamment de la garantie c
 
 Pour bénéficier de la garantie légale de conformité ou de la garantie des vices cachés pour un produit directement vendu par Cdiscount, contactez notre Service Client :
 
-* En vous rendant sur le Service Client en ligne : les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « Mes commandes » et « Questions fréquentes (FAQ) » ;
+*   En vous rendant sur le Service Client en ligne : les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « Mes commandes » et « Questions fréquentes (FAQ) » ;
 
-* Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 18h :  
+*   Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 18h :  
     \- depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;   
     \- depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
     \- depuis l’Italie au 800 694 130 (numéro gratuit) ;   
@@ -796,7 +796,7 @@ Pour bénéficier de la garantie légale de conformité ou de la garantie des vi
 
 Afin d'optimiser le traitement de votre appel pensez à préparer l’email avec lequel vous avez passé votre commande et le numéro de la commande concernée. 
 
-* Par courrier (Merci de ne faire aucun retour de colis à cette adresse) Cdiscount.com / SGPN Service Client BP 90200 93472 Neuilly Sur Marne, FRANCE.
+*   Par courrier (Merci de ne faire aucun retour de colis à cette adresse) Cdiscount.com / SGPN Service Client BP 90200 93472 Neuilly Sur Marne, FRANCE.
 
  Afin d'optimiser le traitement de vos demandes, pensez à d'indiquer dans votre courrier votre nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée.
 
@@ -885,24 +885,24 @@ Les conditions et tarifs des garanties commerciales proposées par Cdiscount dif
 
 Vous trouverez ci-dessous la liste des garanties proposées :
 
-* Garantie Panne + Casse
-* Garantie Panne + Assistance
-* Garantie Casse / Casse Vol
+*   Garantie Panne + Casse
+*   Garantie Panne + Assistance
+*   Garantie Casse / Casse Vol
 
-* Téléphones, Tablettes, Ordinateurs portables
-* Bijoux
-* Matériel Transport enfant
-* Cycle
-* Matériel Fitness 
+*   Téléphones, Tablettes, Ordinateurs portables
+*   Bijoux
+*   Matériel Transport enfant
+*   Cycle
+*   Matériel Fitness 
 
-* Garantie Tache & Déchirure
+*   Garantie Tache & Déchirure
 
-* Textile
-* Canapé / Siège  
+*   Textile
+*   Canapé / Siège  
 
-* Garantie Erreur de Montage
-* 60 jours pour vous décider
-* 100 nuits pour vous décider
+*   Garantie Erreur de Montage
+*   60 jours pour vous décider
+*   100 nuits pour vous décider
 
 En cas de souscription à une garantie commerciale Cdiscount, vous disposez d'un délai de renonciation de trente (30) jours sur le contrat souscrit en vertu de l'article L. 112-10 du code des assurances.
 
@@ -946,13 +946,13 @@ Pour cela Cdiscount est adhérant aux différentes filières REP relevant de son
 
  Vous trouverez ci-dessous l’ensemble des éco-organismes et l'identifiant unique afférent de Cdiscount  :  
 
-* DEEE : FR001284\_05PK6G
-* DEA : FR001284\_1OPPFZ
-* Piles & batteries : FR001284\_06GBZN
-* Emballages : FR219492\_01YWKD
-* Textiles : FR219279\_11PREL
-* Jouets : FR219279\_12ZWAV
-* Articles de bricolage et de jardin : FR219279\_14BHBY
+*   DEEE : FR001284\_05PK6G
+*   DEA : FR001284\_1OPPFZ
+*   Piles & batteries : FR001284\_06GBZN
+*   Emballages : FR219492\_01YWKD
+*   Textiles : FR219279\_11PREL
+*   Jouets : FR219279\_12ZWAV
+*   Articles de bricolage et de jardin : FR219279\_14BHBY
 
 Pour les filières des Déchets d’Equipements Electriques et Electroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA) le montant de l’éco-participation est indiqué sur la fiche produit.
 
@@ -1041,11 +1041,11 @@ CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE »**
 
 Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") à « Cdiscount à volonté » (ci-après , le "**Service**") s’appliquent à tout abonnement (ci-après, l’ « **Abonnement** ») au Service par un particulier, et agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
 
-* directement sur son site internet accessible à l'adresse suivante : [www.cdiscount.com](https://www.cdiscount.com/) et par l'intermédiaire des applications Android ou IOS CDISCOUNT pour smartphones ou tablettes,
+*   directement sur son site internet accessible à l'adresse suivante : [www.cdiscount.com](https://www.cdiscount.com/) et par l'intermédiaire des applications Android ou IOS CDISCOUNT pour smartphones ou tablettes,
 
 (ci-après, ensemble le "**Site** "), ou,
 
-* par téléphone :
+*   par téléphone :
 
         \- depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;  
         - depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
@@ -1069,15 +1069,15 @@ L’Abonnement au Service permet à l’Abonné :
 
 De bénéficier :
 
-* de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
+*   de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
 
-* de prix réduits sur une sélection de produits ;
+*   de prix réduits sur une sélection de produits ;
 
-* du programme Cdiscount Famille ;
+*   du programme Cdiscount Famille ;
 
-* du privilège  « Ma cagnotte à volonté » , dans les conditions définies à l’article 9 ;
+*   du privilège  « Ma cagnotte à volonté » , dans les conditions définies à l’article 9 ;
 
-* Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné, et dont la disponibilité peut varier en cours d’Abonnement.
+*   Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné, et dont la disponibilité peut varier en cours d’Abonnement.
 
 De faire bénéficier : des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
 
@@ -1097,31 +1097,31 @@ La livraison offerte s’applique sur les modes de livraison listés ci-dessous 
 
 Modes de livraison express (entre 24heures et 72heures ouvrées):
 
-* TNT à domicile ou en point retrait
-* Chronopost à domicile sans rendez-vous
-* Chronopost en soirée
-* Points retraits Chronopost (relais et consignes)
-* Point retrait Blue Distrib'
-* Relais Colis Express
-* Points retrait Cdiscount express
+*   TNT à domicile ou en point retrait
+*   Chronopost à domicile sans rendez-vous
+*   Chronopost en soirée
+*   Points retraits Chronopost (relais et consignes)
+*   Point retrait Blue Distrib'
+*   Relais Colis Express
+*   Points retrait Cdiscount express
 
   Modes de livraison standard **:**
 
-* Colissimo / GLS
-* So colissimo
-* Mondial Relay
-* Relais Colis
+*   Colissimo / GLS
+*   So colissimo
+*   Mondial Relay
+*   Relais Colis
 
 **Pour une livraison en Belgique et au Luxembourg** :
 
    
 Mode de livraison express (entre 24heures et 72heures ouvrées) :
 
-* Chronopost à domicile sans rendez-vous
+*   Chronopost à domicile sans rendez-vous
 
 Modes de livraison standard :
 
-* Mondial Relay 
+*   Mondial Relay 
 
  Pour une livraison en Italie, Allemagne et Espagne :  
   
@@ -1164,10 +1164,10 @@ Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service 
   
 **3.2.** Dans le cas où :
 
-* l’Abonné ne bénéficie pas de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera réalisé au jour de la Date de souscription au Service.
+*   l’Abonné ne bénéficie pas de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera réalisé au jour de la Date de souscription au Service.
 
-* l’Abonné bénéficie de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service.
-* Afin de garantir le paiement du Service à l'issue de la Période d'essai telle que définie à l'article 4.1 ci-après, Cdiscount procédera à une empreinte bancaire du prix de l'Abonnement sur la carte bancaire que l'Abonné aura utilisée lors de la souscription au Service. En cas d'échec de l'empreinte bancaire, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné et la souscription au Service ne sera pas effective. En cas d'interruption de la Période d'essai par l'Abonné ou par Cdiscount, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné.
+*   l’Abonné bénéficie de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service.
+*   Afin de garantir le paiement du Service à l'issue de la Période d'essai telle que définie à l'article 4.1 ci-après, Cdiscount procédera à une empreinte bancaire du prix de l'Abonnement sur la carte bancaire que l'Abonné aura utilisée lors de la souscription au Service. En cas d'échec de l'empreinte bancaire, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné et la souscription au Service ne sera pas effective. En cas d'interruption de la Période d'essai par l'Abonné ou par Cdiscount, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné.
 
 En cas de reconduction de l'Abonnement conformément aux stipulations de l'article 5 ci-après, le paiement du prix de l'Abonnement sera exigible au jour du renouvellement de l'Abonnement.
 
@@ -1236,11 +1236,11 @@ Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le 
 
 Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé le jour de la date d’anniversaire de l’Abonnement :
 
-* sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné ou serait arrivée à expiration,  sur la dernière carte enregistrée dans l’Espace Client de l’Abonné ; ou
+*   sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné ou serait arrivée à expiration,  sur la dernière carte enregistrée dans l’Espace Client de l’Abonné ; ou
 
-* sur la dernière carte bancaire enregistrée sur le compte Paypal de l’Abonné utilisé pour le paiement de l’Abonnement initial ; ou
+*   sur la dernière carte bancaire enregistrée sur le compte Paypal de l’Abonné utilisé pour le paiement de l’Abonnement initial ; ou
 
-* sur la Cagnotte dont bénéficie l’Abonné dans les conditions définies à l’article 9, si le solde de la Cagnotte à la date d’anniversaire de l’Abonnement est suffisant.
+*   sur la Cagnotte dont bénéficie l’Abonné dans les conditions définies à l’article 9, si le solde de la Cagnotte à la date d’anniversaire de l’Abonnement est suffisant.
 
 Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l’Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
 
@@ -1285,13 +1285,13 @@ Ce droit de rétractation est exercé par écrit, par tout moyen, et notamment :
 
 Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où l’Abonné :
 
-* ne respecterait pas les stipulations des présentes CGA ;
+*   ne respecterait pas les stipulations des présentes CGA ;
 
-* ne s’acquitterait pas du montant de son Abonnement, au moment de la souscription ou lors de son renouvellement ;
+*   ne s’acquitterait pas du montant de son Abonnement, au moment de la souscription ou lors de son renouvellement ;
 
-* utiliserait le Service dans un but professionnel ;
+*   utiliserait le Service dans un but professionnel ;
 
-* ferait bénéficier un tiers de l’Abonnement au Service.
+*   ferait bénéficier un tiers de l’Abonnement au Service.
 
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
@@ -1592,12 +1592,12 @@ La nature des opérations réalisées sur les données à caractère personnel e
 
 Les données à caractère personnel traitées dans le cadre du Service sont exclusivement :
 
-* Nom et Prénom du Client ;
-* Adresse électronique du Client ;
-* Adresse postale du Client ;
-* Montant du don ;
-* Date du don ;
-* Projet bénéficiaire.
+*   Nom et Prénom du Client ;
+*   Adresse électronique du Client ;
+*   Adresse postale du Client ;
+*   Montant du don ;
+*   Date du don ;
+*   Projet bénéficiaire.
 
 Les données à caractère personnel sont conservées pendant une durée de 3 ans. Cette durée est justifiée par l’émission des reçus fiscaux.
 
