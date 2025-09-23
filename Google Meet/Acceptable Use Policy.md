@@ -24,10 +24,10 @@ Don't use Meet to create, upload or distribute content that exploits or abuses c
 
 More broadly, Meet prohibits the use of our products to endanger children. This includes but isn't limited to predatory behavior towards children such as:
 
-* ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
-* ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images); 
-* Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children) and 
-* Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).  
+*   ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+*   ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images); 
+*   Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children) and 
+*   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).  
 
 We will take appropriate action, which may include reporting to the National Centre for Missing and Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately.
 
