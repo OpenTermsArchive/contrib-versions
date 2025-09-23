@@ -40,10 +40,10 @@ In order to make a transaction on Steam (e.g. to purchase Subscriptions for Cont
 3.3 Other Data You Explicitly Submit  
 We will collect and process Personal Data whenever you explicitly provide it to us or send it as part of communication with others on Steam, e.g. in Steam Community Forums, chats, or when you provide feedback or other user generated content. This data includes:
 
-* Information that you post, comment or follow in any of our Content and Services;
-* Information sent through chat;
-* Information you provide when you request information or support from us or purchase Content and Services from us, including information necessary to process your orders with the relevant payment merchant or, in case of physical goods, shipping providers;
-* Information you provide to us when participating in competitions, contests and tournaments or responding to surveys, e.g. your contact details.
+*   Information that you post, comment or follow in any of our Content and Services;
+*   Information sent through chat;
+*   Information you provide when you request information or support from us or purchase Content and Services from us, including information necessary to process your orders with the relevant payment merchant or, in case of physical goods, shipping providers;
+*   Information you provide to us when participating in competitions, contests and tournaments or responding to surveys, e.g. your contact details.
 
 3.4 Your Use of the Steam Client and Websites  
 We collect a variety of information through your general interaction with the websites, Content and Services offered by Steam. Personal Data we collect may include, but is not limited to, browser and device information, data collected through automated electronic interactions and application usage data.  
@@ -71,11 +71,11 @@ We will only store your information as long as necessary to fulfil the purposes 
   
 In particular:  
 
-* If you terminate your Steam User Account, your Personal Data will be marked for deletion except to the degree legal requirements or other prevailing legitimate purposes dictate a longer storage.
-* In certain cases, Personal Data cannot be completely deleted in order to ensure the consistency of the gameplay experience or the Steam Community Market. For instance, matches you have played that affect other players' matchmaking data and scores will not be deleted; rather, your connection to these matches will be permanently anonymized.
-* Please note that Valve is required to retain certain transactional data under statutory commercial and tax law for a period of up to ten (10) years.
-* If you withdraw your consent on which a processing of your Personal Data or of the Personal Data of your child is based, we will delete your Personal Data or respectively the Personal Data of your child without undue delay to the extent that the collection and processing of the Personal Data was based on the withdrawn consent.
-* If you exercise a right to object to the processing of your Personal Data, we will review your objection and delete your Personal Data that we processed for the purpose to which you objected without undue delay, unless another legal basis for processing and retaining this data exists or unless applicable law requires us to retain the data.
+*   If you terminate your Steam User Account, your Personal Data will be marked for deletion except to the degree legal requirements or other prevailing legitimate purposes dictate a longer storage.
+*   In certain cases, Personal Data cannot be completely deleted in order to ensure the consistency of the gameplay experience or the Steam Community Market. For instance, matches you have played that affect other players' matchmaking data and scores will not be deleted; rather, your connection to these matches will be permanently anonymized.
+*   Please note that Valve is required to retain certain transactional data under statutory commercial and tax law for a period of up to ten (10) years.
+*   If you withdraw your consent on which a processing of your Personal Data or of the Personal Data of your child is based, we will delete your Personal Data or respectively the Personal Data of your child without undue delay to the extent that the collection and processing of the Personal Data was based on the withdrawn consent.
+*   If you exercise a right to object to the processing of your Personal Data, we will review your objection and delete your Personal Data that we processed for the purpose to which you objected without undue delay, unless another legal basis for processing and retaining this data exists or unless applicable law requires us to retain the data.
 
   
 **5\. Who Has Access to Data**  
@@ -182,20 +182,20 @@ Switzerland
   
 As a US-based company that operates a worldwide gaming service, we may transfer your personal data outside of the European Economic Area, the United Kingdom or Switzerland. In such case, we take additional steps to ensure your personal data is protected by appropriate legal safeguards, and that it is treated securely and in accordance with this Privacy Policy. In this respect, Valve has implemented appropriate contractual and organizational measures to ensure the confidentiality, security and integrity of user data in connection with its collection, processing and transfer. Measures we have taken include, among other things:
 
-* Minimization of data collection; in particular the possibility to set up and operate anonymous accounts
-* Pseudonymization of data
-* Industry-standard encryption
-* Provision of access to data on a need-to-know basis
-* The use of Standard Contractual Clauses in their version in force and approved by the European Commission and the UK ICO to safeguard transfers
-* Certification and participation in the DPF, set out in the DPF List available at https://www.dataprivacyframework.gov/s/participant-search
+*   Minimization of data collection; in particular the possibility to set up and operate anonymous accounts
+*   Pseudonymization of data
+*   Industry-standard encryption
+*   Provision of access to data on a need-to-know basis
+*   The use of Standard Contractual Clauses in their version in force and approved by the European Commission and the UK ICO to safeguard transfers
+*   Certification and participation in the DPF, set out in the DPF List available at https://www.dataprivacyframework.gov/s/participant-search
 
   
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Valve commits, free of charge to the affected individual, to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner�s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF., the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. Links to the website of each authority are available below.  
 
-* EU DPAs: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en)
-* UK ICO: [https://ico.org.uk/for-the-public/](https://ico.org.uk/for-the-public/)
-* GRA: [https://www.gra.gi/data-protection](https://www.gra.gi/data-protection)
-* FDPIC: [https://www.edoeb.admin.ch/edoeb/home.html](https://www.edoeb.admin.ch/edoeb/home.html)
+*   EU DPAs: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en)
+*   UK ICO: [https://ico.org.uk/for-the-public/](https://ico.org.uk/for-the-public/)
+*   GRA: [https://www.gra.gi/data-protection](https://www.gra.gi/data-protection)
+*   FDPIC: [https://www.edoeb.admin.ch/edoeb/home.html](https://www.edoeb.admin.ch/edoeb/home.html)
 
   
 The Federal Trade Commission has jurisdiction over Valve�s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).  
