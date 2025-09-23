@@ -31,34 +31,34 @@ We may collect the following types of information about you:
 
 Through our Services, we may collect and process information that can be used to identify or contact you as an individual known as your personal identifiable information (“PII”), including but not limited to:
 
-* first and second names
-* email address
-* professional experience
-* and other PII provided by you voluntarily when you use our Services
+*   first and second names
+*   email address
+*   professional experience
+*   and other PII provided by you voluntarily when you use our Services
 
 ### Technical Information
 
 We and/or our authorised external service providers may automatically collect technical data when you visit or interact with our Services. Technical data may include, in particular:
 
-* the URL of the site visited before using our Service
-* the time and date of user visits
-* IP address
-* the browser name and type
-* the type of computer or device accessing our Service
-* time spent on the Service and other similar technical information
+*   the URL of the site visited before using our Service
+*   the time and date of user visits
+*   IP address
+*   the browser name and type
+*   the type of computer or device accessing our Service
+*   time spent on the Service and other similar technical information
 
 In a limited number of cases it is possible to use technical data and identify you as an individual, thus making them PII, however, we never use technical data to identify you as an individual.
 
 We use technical data to:
 
-* Provide, operate, and maintain our Services
-* Improve, personalize, and expand our Services
-* Understand and analyze how you use our Services
-* Develop new products, services, features, and functionality
-* Communicate with you, either directly or through one of our partners, including for customer service
-* To provide you with updates and other information relating to the Services, and for marketing and promotional purposes
-* Send you emails
-* Find and prevent fraud
+*   Provide, operate, and maintain our Services
+*   Improve, personalize, and expand our Services
+*   Understand and analyze how you use our Services
+*   Develop new products, services, features, and functionality
+*   Communicate with you, either directly or through one of our partners, including for customer service
+*   To provide you with updates and other information relating to the Services, and for marketing and promotional purposes
+*   Send you emails
+*   Find and prevent fraud
 
 ### Cookies
 
@@ -79,11 +79,11 @@ We process your PII in order to:
 
 **Provide our Services to you.** This purpose includes mainly the following processing activities:
 
-* creating and providing your account from PII you provide upon registration;
-* informing you about updates and new features of our Service;
-* notifying you about updates of our Terms of Use and this Privacy Policy;
-* responding to you in relation to any queries you may have with respect to our Services;
-* resolving potential agreement-related troubleshooting problems and disputes.
+*   creating and providing your account from PII you provide upon registration;
+*   informing you about updates and new features of our Service;
+*   notifying you about updates of our Terms of Use and this Privacy Policy;
+*   responding to you in relation to any queries you may have with respect to our Services;
+*   resolving potential agreement-related troubleshooting problems and disputes.
 
 We process the email address, payment information and other data provided by you voluntarily when you use our Service.
 
@@ -95,8 +95,8 @@ There are several ways you can stop direct marketing communications from us: cli
 
 **Improve our Services.** This purpose includes the following processing activities using technical information:
 
-* to influence current and future features;
-* to prevent and detect security flaws and user interface issues.
+*   to influence current and future features;
+*   to prevent and detect security flaws and user interface issues.
 
 How we share your personal data
 -------------------------------
