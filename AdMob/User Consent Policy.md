@@ -10,13 +10,13 @@ For Google products used on any site, app or other property that is **under your
 
 You must obtain end users’ legally valid consent to:
 
-* the use of cookies or other local storage where legally required; and
-* the collection, sharing, and use of personal data for personalization of ads.
+*   the use of cookies or other local storage where legally required; and
+*   the collection, sharing, and use of personal data for personalization of ads.
 
 When seeking consent you must:
 
-* retain records of consent given by end users; and
-* provide end users with clear instructions for revocation of consent.
+*   retain records of consent given by end users; and
+*   provide end users with clear instructions for revocation of consent.
 
 You must clearly identify each party that may collect, receive, or use end users’ personal data as a consequence of your use of a Google product. You must also provide end users with prominent and easily accessible information about that party’s use of end users’ personal data.
 
@@ -27,4 +27,4 @@ If personal data of end users of a **third party property** is shared with Googl
 
 ### Help with the EU user consent policy
 
-* [More](https://www.google.com/about/company/user-consent-policy-help/)
+*   [More](https://www.google.com/about/company/user-consent-policy-help/)
