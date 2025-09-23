@@ -17,6 +17,6 @@ Next
 
 AfrikaansazərbaycanbosanskicatalàČeštinaCymraegDanskDeutscheestiEnglish (United Kingdom)English (United States)Español (España)Español (Latinoamérica)euskaraFilipinoFrançais (Canada)Français (France)GaeilgegalegoHrvatskiIndonesiaisiZuluíslenskaItalianoKiswahililatviešulietuviųmagyarMelayuNederlandsnorsko‘zbekpolskiPortuguês (Brasil)Português (Portugal)românăshqipSlovenčinaslovenščinasrpski (latinica)SuomiSvenskaTiếng ViệtTürkçeΕλληνικάбеларускаябългарскикыргызчақазақ тілімакедонскимонголРусскийсрпски (ћирилица)Українськаქართულიհայերեն‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎አማርኛनेपालीमराठीहिन्दीঅসমীয়াবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംසිංහලไทยລາວမြန်မာខ្មែរ한국어中文（香港）日本語简体中文繁體中文
 
-* [Help](https://support.google.com/accounts?hl=en-US&p=account_iph)
-* [Privacy](https://accounts.google.com/TOS?loc=GB&hl=en-US&privacy=true)
-* [Terms](https://accounts.google.com/TOS?loc=GB&hl=en-US)
+*   [Help](https://support.google.com/accounts?hl=en-US&p=account_iph)
+*   [Privacy](https://accounts.google.com/TOS?loc=GB&hl=en-US&privacy=true)
+*   [Terms](https://accounts.google.com/TOS?loc=GB&hl=en-US)
