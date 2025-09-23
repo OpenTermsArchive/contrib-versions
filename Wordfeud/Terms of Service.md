@@ -53,24 +53,24 @@ As a condition of your use of the Service, and without limiting your other oblig
 
 In furtherance of the foregoing, and as an example and not as a limitation, you agree not to use the Service in order to:
 
-1. post, upload, transmit or otherwise disseminate information that is obscene, indecent, vulgar, pornographic, sexual or otherwise objectionable
-2. defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or abuse anyone, hatefully, racially, ethnically or, in a reasonable person's view, otherwise offensive or objectionable
-3. violate the contractual, personal, intellectual property or other rights of any party including using, uploading, transmitting, distributing, or otherwise making available any information made available through the Service in any manner that infringes any copyright, trademark, patent, trade secret, or other right of any party (including rights of privacy or publicity)
-4. attempt to obtain passwords or other private information from other members
-5. improperly use support channels or complaint buttons to make false reports to Bertheussen IT
-6. use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third party software designed to modify or interfere with the Service or any Bertheussen IT game experience
-7. use the Service in order to design or assist in the design of cheats, automation software, bots, hacks, mods or any other unauthorized third party software designed to modify or interfere with the Service or any Bertheussen IT game experience
-8. without Bertheussen IT's express written consent, modify or cause to be modified any files that are a part of the Service
-9. disrupt, overburden, or aid or assist in the disruption or overburdening of (1) any computer or server used to offer or support the Service or any Bertheussen IT game environment (each a "Server"); or (2) the enjoyment of the Service or any Bertheussen IT game by any other person
-10. institute, assist or become involved in any type of attack, including without limitation distribution of a virus, denial of service attacks upon the Service, or other attempts to disrupt the Service or any other person's use or enjoyment of the Service
-11. attempt to gain unauthorized access to the Service, Accounts registered to others or to the computers, Servers, or networks connected to the Service by any means other than the user interface provided by Bertheussen IT, including but not limited to, by circumventing or modifying, attempting to circumvent or modify, or encouraging or assisting any other person to circumvent or modify, any security, technology, device, or software that is part of the Service
-12. interfere or attempt to interfere with the proper functioning of the Service or connect to or use the Service in any way not expressly permitted by these Terms of Service
-13. use any unauthorized third party software that accesses, intercepts, "mines", or otherwise collects information from or through the Service or that is in transit from or to the Service, including, without limitation, any software that reads areas of RAM or streams of network traffic used by the Service
-14. intercept, examine or otherwise observe any proprietary communications protocol used by a client, a Server, or the Service, whether through the use of a network analyzer, packet sniffer or other device
-15. make any automated use of the system, or take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure
-16. use, facilitate, create, or maintain any unauthorized connection to the Service, including without limitation (1) any connection to any unauthorized server that emulates, or attempts to emulate any part of the Service; or (2) any connection using programs, tools, or software not expressly approved by Bertheussen IT
-17. exploit, distribute or publicly inform other members of any game error, miscue or bug which gives an unintended advantage
-18. violate any applicable laws or regulations, or promote or encourage any illegal activity including, but not limited to, hacking, cracking or distribution of counterfeit software, or cheats or hacks for the Service
+1.  post, upload, transmit or otherwise disseminate information that is obscene, indecent, vulgar, pornographic, sexual or otherwise objectionable
+2.  defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or abuse anyone, hatefully, racially, ethnically or, in a reasonable person's view, otherwise offensive or objectionable
+3.  violate the contractual, personal, intellectual property or other rights of any party including using, uploading, transmitting, distributing, or otherwise making available any information made available through the Service in any manner that infringes any copyright, trademark, patent, trade secret, or other right of any party (including rights of privacy or publicity)
+4.  attempt to obtain passwords or other private information from other members
+5.  improperly use support channels or complaint buttons to make false reports to Bertheussen IT
+6.  use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third party software designed to modify or interfere with the Service or any Bertheussen IT game experience
+7.  use the Service in order to design or assist in the design of cheats, automation software, bots, hacks, mods or any other unauthorized third party software designed to modify or interfere with the Service or any Bertheussen IT game experience
+8.  without Bertheussen IT's express written consent, modify or cause to be modified any files that are a part of the Service
+9.  disrupt, overburden, or aid or assist in the disruption or overburdening of (1) any computer or server used to offer or support the Service or any Bertheussen IT game environment (each a "Server"); or (2) the enjoyment of the Service or any Bertheussen IT game by any other person
+10.  institute, assist or become involved in any type of attack, including without limitation distribution of a virus, denial of service attacks upon the Service, or other attempts to disrupt the Service or any other person's use or enjoyment of the Service
+11.  attempt to gain unauthorized access to the Service, Accounts registered to others or to the computers, Servers, or networks connected to the Service by any means other than the user interface provided by Bertheussen IT, including but not limited to, by circumventing or modifying, attempting to circumvent or modify, or encouraging or assisting any other person to circumvent or modify, any security, technology, device, or software that is part of the Service
+12.  interfere or attempt to interfere with the proper functioning of the Service or connect to or use the Service in any way not expressly permitted by these Terms of Service
+13.  use any unauthorized third party software that accesses, intercepts, "mines", or otherwise collects information from or through the Service or that is in transit from or to the Service, including, without limitation, any software that reads areas of RAM or streams of network traffic used by the Service
+14.  intercept, examine or otherwise observe any proprietary communications protocol used by a client, a Server, or the Service, whether through the use of a network analyzer, packet sniffer or other device
+15.  make any automated use of the system, or take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure
+16.  use, facilitate, create, or maintain any unauthorized connection to the Service, including without limitation (1) any connection to any unauthorized server that emulates, or attempts to emulate any part of the Service; or (2) any connection using programs, tools, or software not expressly approved by Bertheussen IT
+17.  exploit, distribute or publicly inform other members of any game error, miscue or bug which gives an unintended advantage
+18.  violate any applicable laws or regulations, or promote or encourage any illegal activity including, but not limited to, hacking, cracking or distribution of counterfeit software, or cheats or hacks for the Service
 
 These rules of use are not meant to be exhaustive, and Bertheussen IT reserves the right to determine what conduct it considers to be a violation of the Terms or improper use of the Service and to take action up to and including termination of your account and exclusion from further participation in the Service.
 
