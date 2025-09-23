@@ -20,18 +20,18 @@ If there is a contractual relationship between The Reach Group GmbH and the Inte
 
 Your data will be processed on the following legal bases:
 
-* With regard to data that you provide in forms, etc., with your consent, Art. 6 para. 1 lit. a) DSGVO
-* in relation to services which you make use of for the execution of a contract with you, Art. 6 para. 1 lit. b) DSGVO
-* otherwise, in particular for statistical data and online identifiers, on the basis of legitimate interests, Art. 6 para. 1 lit. f) DSGVO (see below)
+*   With regard to data that you provide in forms, etc., with your consent, Art. 6 para. 1 lit. a) DSGVO
+*   in relation to services which you make use of for the execution of a contract with you, Art. 6 para. 1 lit. b) DSGVO
+*   otherwise, in particular for statistical data and online identifiers, on the basis of legitimate interests, Art. 6 para. 1 lit. f) DSGVO (see below)
 
 3\. Justified interests
 -----------------------
 
 When processing your data, we pursue the following legitimate interests:
 
-* Improvement of our offer
-* Protection against misuse
-* statistics
+*   Improvement of our offer
+*   Protection against misuse
+*   statistics
 
 4\. Data sources
 ----------------
@@ -48,9 +48,9 @@ Data is transferred to third countries outside the European Union. This is done 
 
 We store your data,
 
-* if you have consented to the processing until you revoke your consent at the most,
-* if we need the data for the execution of a contract, at most as long as the contractual relationship with you exists or legal retention periods run,
-* if we use the data on the basis of a legitimate interest, but only as long as your interest in deletion or anonymization does not predominate.
+*   if you have consented to the processing until you revoke your consent at the most,
+*   if we need the data for the execution of a contract, at most as long as the contractual relationship with you exists or legal retention periods run,
+*   if we use the data on the basis of a legitimate interest, but only as long as your interest in deletion or anonymization does not predominate.
 
 7\. Purposes
 ------------
@@ -298,11 +298,11 @@ It goes without saying that The Reach Group GmbH will only cooperate with partne
 
 The Reach Group GmbH will pass on the data collected and stored with your consent to business partners and sponsors within the framework of contractual agreements, insofar as this is necessary in your interest, for example, in the case of a contest. Of course, our business partners and sponsors are requested to comply with the legal data protection regulations. We collect your data in the following cases:
 
-* Subscriptions to newsletters, reminders
-* Participation in contests, voting
-* Community membership, forums, chats
-* Participation in electronic payment procedures
-* Sending of further information
+*   Subscriptions to newsletters, reminders
+*   Participation in contests, voting
+*   Community membership, forums, chats
+*   Participation in electronic payment procedures
+*   Sending of further information
 
 Depending on the situation, name, address, gender, date of birth, client id, telephone number, fax number, bank details, method of payment and e-mail address are collected and stored. In the case of electronic payment procedures, data may be collected and stored in accordance with the respective procedure.
 
