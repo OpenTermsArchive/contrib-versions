@@ -70,25 +70,25 @@ _Community Rules and Restrictions_
 
 The Services may contain forums, communities, in-game chat features and/or other communication facilities which allow the Community to post, send and receive messages as well as other content that is related to our Services. By entering into these Terms and accepting the Community guidelines, you agree to comply with the following with respect to our Services:
 
-* Nothing you share with the Community, including but not limited to your Account username, avatar, User Generated Content or User Comments, may contain content that infringes on the intellectual property rights (including copyright, trademark, and patent rights), proprietary rights, trade secrets, personality rights, rights of publicity, privacy rights, contract rights or restrictions, or other right of any third-party;
-* To the extent that any third-party content is embodied in any content you share with the Community, including but not limited to User Generated Content and User Comments, you have acquired the necessary rights and licenses to reproduce the same;
-* You will not publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, vulgar, obscene, indecent or unlawful topic, name, material or information.
-* Our Player Code of Conduct located at **[https://palia.com/code-of-conduct](https://palia.com/code-of-conduct)** which is incorporated by reference into these Terms;
-* You will NOT harass other users. Harassment includes but is not limited to:
-    * Harvest or otherwise collect personal information about others without their consent;
-    * Publicly disclosing personally identifiable information of another End User or member of the Community;
-    * Stalking, doxing, griefing, threatening, bullying, impersonating or otherwise infringing on the privacy of any member of the Community;
-    * Promote or incite violence, disparaging, defaming, slandering, name-calling, hate speech, abuse or engaging in any form of discrimination against another member of the Community;
-    * Engaging in any act of sexual misconduct, including but not limited to sexual innuendo, sharing sexually explicit content (including but not limited to sexually explicit content in User Generated Content or User Comments), coercion, or making offensive or inappropriate advances or comments to a member of the Community;
-    * Misleads others into believing that you are an employee or contractor of Company;
-    * Spamming or making false claims, tickets, or reports about events or any third party, regardless of their standing with the Community or the Company; or
-    * Using exploits, hacks, or third-party tools to obtain an unfair advantage against other members of the Community in-Game.
-* You agree that the list of conduct identified as harassment above is not exhaustive. We reserve the right to determine what constitutes “harassment” in our sole and exclusive discretion;
-* You will not engage in acts of revenge, disparagement or retaliation against us for any feature contained in or modification made to the Game or our Services that you dislike. Your sole remedy for that is to stop playing the Game or stop using the Services;
-* You will not engage in solicitation or advertise other products or services to the Community without our prior written consent;
-* You will not evade or cause other End Users to evade any consequences imposed by Company under these Terms, including but not limited to creating alternate accounts;
-* You will not share with the Community any content which refers to drugs, alcohol or illegal activities; and
-* You may not distribute, sell, or otherwise exploit User Generated Content (including video streaming) commercially or otherwise without our prior consent (e-mail is sufficient).
+*   Nothing you share with the Community, including but not limited to your Account username, avatar, User Generated Content or User Comments, may contain content that infringes on the intellectual property rights (including copyright, trademark, and patent rights), proprietary rights, trade secrets, personality rights, rights of publicity, privacy rights, contract rights or restrictions, or other right of any third-party;
+*   To the extent that any third-party content is embodied in any content you share with the Community, including but not limited to User Generated Content and User Comments, you have acquired the necessary rights and licenses to reproduce the same;
+*   You will not publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, vulgar, obscene, indecent or unlawful topic, name, material or information.
+*   Our Player Code of Conduct located at **[https://palia.com/code-of-conduct](https://palia.com/code-of-conduct)** which is incorporated by reference into these Terms;
+*   You will NOT harass other users. Harassment includes but is not limited to:
+    *   Harvest or otherwise collect personal information about others without their consent;
+    *   Publicly disclosing personally identifiable information of another End User or member of the Community;
+    *   Stalking, doxing, griefing, threatening, bullying, impersonating or otherwise infringing on the privacy of any member of the Community;
+    *   Promote or incite violence, disparaging, defaming, slandering, name-calling, hate speech, abuse or engaging in any form of discrimination against another member of the Community;
+    *   Engaging in any act of sexual misconduct, including but not limited to sexual innuendo, sharing sexually explicit content (including but not limited to sexually explicit content in User Generated Content or User Comments), coercion, or making offensive or inappropriate advances or comments to a member of the Community;
+    *   Misleads others into believing that you are an employee or contractor of Company;
+    *   Spamming or making false claims, tickets, or reports about events or any third party, regardless of their standing with the Community or the Company; or
+    *   Using exploits, hacks, or third-party tools to obtain an unfair advantage against other members of the Community in-Game.
+*   You agree that the list of conduct identified as harassment above is not exhaustive. We reserve the right to determine what constitutes “harassment” in our sole and exclusive discretion;
+*   You will not engage in acts of revenge, disparagement or retaliation against us for any feature contained in or modification made to the Game or our Services that you dislike. Your sole remedy for that is to stop playing the Game or stop using the Services;
+*   You will not engage in solicitation or advertise other products or services to the Community without our prior written consent;
+*   You will not evade or cause other End Users to evade any consequences imposed by Company under these Terms, including but not limited to creating alternate accounts;
+*   You will not share with the Community any content which refers to drugs, alcohol or illegal activities; and
+*   You may not distribute, sell, or otherwise exploit User Generated Content (including video streaming) commercially or otherwise without our prior consent (e-mail is sufficient).
 
 We may change, block, or remove your username and/or avatar or remove your Account from all our Service(s) if your username, avatar, or content is found to go against these Terms in any way.
 
@@ -98,23 +98,23 @@ _Infringing Content_
 
 To the extent possible under International Law, we are not liable for any copyright infringement arising from any User Generated Content shared with the Community. However, under the Digital Millennium Copyright Act of 1998, we are able to provide the lawful owners of copyrighted works recourse in the event that their copyrights are infringed, provided our ability to do so is not superseded by the interests of any social media platform used to share copyrighted works (in such event, you should look for the take down procedure supplied by the social media platform). If you believe that your copyrights are being violated by User Generated Content, User Comments, or other materials located in the Game or on our Website or other Community channels under our direct control, please contact us so that we may investigate your claims, and, if appropriate, modify or remove the infringing material. We require the following information before we are able to investigate your claim:
 
-* An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright;
-* A description of the copyrighted work that you believe has been infringed;
-* A description of where the material that you claim is infringing is located or identified on the Website or in the Game or Community channels under our direct control, including a verifiable link to the material;
-* Your name, address, telephone number, and email address;
-* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law, and is not a permissible “fair use” of your work; and
-* A statement by you, made under penalty of perjury, that the information submitted to us is accurate and that you are the owner of the copyright or authorized to act on the owner's behalf.
+*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright;
+*   A description of the copyrighted work that you believe has been infringed;
+*   A description of where the material that you claim is infringing is located or identified on the Website or in the Game or Community channels under our direct control, including a verifiable link to the material;
+*   Your name, address, telephone number, and email address;
+*   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law, and is not a permissible “fair use” of your work; and
+*   A statement by you, made under penalty of perjury, that the information submitted to us is accurate and that you are the owner of the copyright or authorized to act on the owner's behalf.
 
 The above information should be provided to our registered DMCA agent for notice of claims of copyright or other intellectual property infringement, who can be reached at: dschnider@nolanheimann.com
 
 If you believe your content has been taken down pursuant to the above procedures in error, we require the following information sent to our agent referenced above before we can investigate your claim or re-post your content:
 
-* Your physical or electronic signature;
-* Your name, address, telephone number, and email address;
-* Identification of the material and its location before it was removed;
-* A statement under penalty of perjury that the material was removed by mistake or misidentification;
-* Your consent to the jurisdiction of a federal court in the district where you live (if you are in the U.S.), or your consent to the jurisdiction of a federal court in the district where your service provider is located (if you are not in the U.S.); and
-* Your consent to accept service of process from the party who submitted the takedown notice.
+*   Your physical or electronic signature;
+*   Your name, address, telephone number, and email address;
+*   Identification of the material and its location before it was removed;
+*   A statement under penalty of perjury that the material was removed by mistake or misidentification;
+*   Your consent to the jurisdiction of a federal court in the district where you live (if you are in the U.S.), or your consent to the jurisdiction of a federal court in the district where your service provider is located (if you are not in the U.S.); and
+*   Your consent to accept service of process from the party who submitted the takedown notice.
 
 Please note that pursuant to 17 U.S.C. § 512(f), any misrepresentation of material fact in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney’s fees incurred by us in connection with the written notification and allegation of copyright infringement.
 
@@ -122,10 +122,10 @@ _Website_
 
 To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our Website and the use of the Website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). Nothing in this disclaimer will:
 
-* Limit or exclude our or your liability for death or personal injury resulting from negligence;
-* Limit or exclude our or your liability for fraud or fraudulent misrepresentation;
-* Limit any of our or your liabilities in any way that is not permitted under applicable law; or
-* Exclude any of our or your liabilities that may not be excluded under applicable law.
+*   Limit or exclude our or your liability for death or personal injury resulting from negligence;
+*   Limit or exclude our or your liability for fraud or fraudulent misrepresentation;
+*   Limit any of our or your liabilities in any way that is not permitted under applicable law; or
+*   Exclude any of our or your liabilities that may not be excluded under applicable law.
 
 The limitations and exclusions of liability set out in this section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty.
 
@@ -135,24 +135,24 @@ _Trademarks_
 
 Company trademarks (**“Company Marks”**) may only be used: (1) in connection with the activities listed as acceptable in these Community Guidelines; AND (2) when the applicable policy associated with that activity specifically references your right to use the Company Marks pursuant to this policy.
 
-* You may use the Company Marks only for non-commercial purposes, except as permitted by the applicable policy or after obtaining our prior written consent.
-* The Company Marks may only be used in connection with high quality materials (e.g., websites).
-* Use the appropriate trademark symbol (™, ®) listed below the first time that a Company Mark appears in your material.
-* You should provide credit to us by using the credit lines associated with the Company Marks that you use (see below).
+*   You may use the Company Marks only for non-commercial purposes, except as permitted by the applicable policy or after obtaining our prior written consent.
+*   The Company Marks may only be used in connection with high quality materials (e.g., websites).
+*   Use the appropriate trademark symbol (™, ®) listed below the first time that a Company Mark appears in your material.
+*   You should provide credit to us by using the credit lines associated with the Company Marks that you use (see below).
 
 Do Not:
 
-* Alter a Company logo other than to adjust the overall size of the logo;
-* Modify or alter a Company Mark or logo or use them in a way that confuses the Company or its games with another brand, game, or game developer/publisher;
-* Use a Company Mark in a plural or possessive form;
-* Use a Company Mark or logo or any other confusingly similar marks on any apparel, product, toy, or any other merchandise;
-* Use a Company Mark in conjunction with your name or any other trademark or trade name unless expressly permitted to do so by us;
-* Use the Company Marks in a way that is deceptive, harmful, obscene or disparaging to others;
-* Present or feature any Company Mark on websites containing content or advertising associated with pornography, obscenity, violence, gambling, or illegal activities;
-* Use a Company Mark in the domain name of your website's URL;
-* Apply for trademark registration of a product, service, etc., with a name that includes a Company Mark or, any variation thereof;
-* Use a Company Mark in a manner that, in our sole opinion, is unlawful, misleading, defamatory, obscene, infringing, tortious, disparaging, abusive, or otherwise objectionable or inappropriate; or
-* Use a Company Mark in any manner that implies a relationship with, sponsorship, or endorsement by Company, unless otherwise authorized by us in writing.
+*   Alter a Company logo other than to adjust the overall size of the logo;
+*   Modify or alter a Company Mark or logo or use them in a way that confuses the Company or its games with another brand, game, or game developer/publisher;
+*   Use a Company Mark in a plural or possessive form;
+*   Use a Company Mark or logo or any other confusingly similar marks on any apparel, product, toy, or any other merchandise;
+*   Use a Company Mark in conjunction with your name or any other trademark or trade name unless expressly permitted to do so by us;
+*   Use the Company Marks in a way that is deceptive, harmful, obscene or disparaging to others;
+*   Present or feature any Company Mark on websites containing content or advertising associated with pornography, obscenity, violence, gambling, or illegal activities;
+*   Use a Company Mark in the domain name of your website's URL;
+*   Apply for trademark registration of a product, service, etc., with a name that includes a Company Mark or, any variation thereof;
+*   Use a Company Mark in a manner that, in our sole opinion, is unlawful, misleading, defamatory, obscene, infringing, tortious, disparaging, abusive, or otherwise objectionable or inappropriate; or
+*   Use a Company Mark in any manner that implies a relationship with, sponsorship, or endorsement by Company, unless otherwise authorized by us in writing.
 
 ###### License
 
@@ -162,16 +162,16 @@ _License Terms_
 
 We hereby grant you a non-exclusive, non-sublicensable, non-transferrable, revocable and limited right and license to access, download, or otherwise make use of the Game for your personal, non-commercial use solely in connection with an authorized Account. Continued use of the Game is contingent upon your compliance with the following:
 
-* You may not modify, distribute, transmit, display, perform, reproduce (except for one archival and backup copy as permitted by applicable laws), publish, license, create derivative works from, adapt, translate, sublicense, auction, rent, lease or sell all or any part of the Game, including Virtual Items. In addition, you may not hack, emulate, reverse engineer, decompile, or disassemble any part of the Game, including Virtual Items. All rights not expressly granted are reserved by us. You agree that you have no interest, monetary or otherwise, in any feature, content, or Intellectual Property contained in the Game.
-* Absent a valid distribution agreement between you and the Company, you may not commercially exploit the Game or otherwise make the Game available on any third-party network, FTP, internet website, torrent site, file-sharing service, intranet, or “cloud”, whereby individuals other than you may download and install the Game. You further agree that you will not link to any such third-party network, torrent, FTP, file-sharing service, intranet, or “cloud” that is not legally owned by us or our distributors, as applicable. For the sake of clarity, “commercially exploit” as used herein includes, but is not limited to, offers to perform in-Game services for other End Users in exchange for payment outside of the Game, or offers to sell Virtual Items, inclusive of redemption codes for Virtual Items or beta or early access, in exchange for payment outside of the Game.
-* You may not use cheats, automation software (bots), hacks, mods or any other unauthorized third-party software designed to modify the Game experience.
-* You may not share your Account details or give any other End User permission to use your Account for any reason.
-* You may not use any unauthorized third-party software that intercepts, “mines,” or otherwise collects information from or through the Game, including without limitation any software that reads areas of RAM used by the Game to store information about a character or the game environment; provided, however, that we may, at our sole and absolute discretion, allow the use of certain third-party user interfaces.
-* You may not modify or cause to be modified any files that are a part of the Game in any way not expressly authorized by us.
-* You may not provide or develop outside matchmaking services for the Game, or intercept, emulate or redirect the communication protocols used by us in any way, for any purpose, including without limitation unauthorized play over the internet, network play, or as part of content aggregation networks.
-* You may not facilitate, create or maintain any unauthorized connection to the Game or the Services, including without limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Services; and (b) any connection using programs or tools not expressly approved by us.
-* You may not violate any applicable law or regulation in connection with your use of the Game or Services.
-* You may not disrupt or assist in the disruption of (i) any computer used to support the Services (each a **“Server”**); or (ii) any other End User’s Game experience. ANY ATTEMPT BY YOU TO DISRUPT THE SERVICES OR UNDERMINE THE LEGITIMATE OPERATION OF THE GAME MAY BE A VIOLATION OF CRIMINAL AND CIVIL LAWS.
+*   You may not modify, distribute, transmit, display, perform, reproduce (except for one archival and backup copy as permitted by applicable laws), publish, license, create derivative works from, adapt, translate, sublicense, auction, rent, lease or sell all or any part of the Game, including Virtual Items. In addition, you may not hack, emulate, reverse engineer, decompile, or disassemble any part of the Game, including Virtual Items. All rights not expressly granted are reserved by us. You agree that you have no interest, monetary or otherwise, in any feature, content, or Intellectual Property contained in the Game.
+*   Absent a valid distribution agreement between you and the Company, you may not commercially exploit the Game or otherwise make the Game available on any third-party network, FTP, internet website, torrent site, file-sharing service, intranet, or “cloud”, whereby individuals other than you may download and install the Game. You further agree that you will not link to any such third-party network, torrent, FTP, file-sharing service, intranet, or “cloud” that is not legally owned by us or our distributors, as applicable. For the sake of clarity, “commercially exploit” as used herein includes, but is not limited to, offers to perform in-Game services for other End Users in exchange for payment outside of the Game, or offers to sell Virtual Items, inclusive of redemption codes for Virtual Items or beta or early access, in exchange for payment outside of the Game.
+*   You may not use cheats, automation software (bots), hacks, mods or any other unauthorized third-party software designed to modify the Game experience.
+*   You may not share your Account details or give any other End User permission to use your Account for any reason.
+*   You may not use any unauthorized third-party software that intercepts, “mines,” or otherwise collects information from or through the Game, including without limitation any software that reads areas of RAM used by the Game to store information about a character or the game environment; provided, however, that we may, at our sole and absolute discretion, allow the use of certain third-party user interfaces.
+*   You may not modify or cause to be modified any files that are a part of the Game in any way not expressly authorized by us.
+*   You may not provide or develop outside matchmaking services for the Game, or intercept, emulate or redirect the communication protocols used by us in any way, for any purpose, including without limitation unauthorized play over the internet, network play, or as part of content aggregation networks.
+*   You may not facilitate, create or maintain any unauthorized connection to the Game or the Services, including without limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Services; and (b) any connection using programs or tools not expressly approved by us.
+*   You may not violate any applicable law or regulation in connection with your use of the Game or Services.
+*   You may not disrupt or assist in the disruption of (i) any computer used to support the Services (each a **“Server”**); or (ii) any other End User’s Game experience. ANY ATTEMPT BY YOU TO DISRUPT THE SERVICES OR UNDERMINE THE LEGITIMATE OPERATION OF THE GAME MAY BE A VIOLATION OF CRIMINAL AND CIVIL LAWS.
 
 _Ownership and Independent Origin_
 
