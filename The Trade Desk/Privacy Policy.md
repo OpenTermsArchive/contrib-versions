@@ -55,9 +55,9 @@ We may automatically collect analytics data, such as browser type and language, 
 
 Any personal information you provide to us will only be used for the purposes for which you provided it, as disclosed at the time it was collected. For example: 
 
-* To respond to inquiries and provide requested information regarding our products and services;
-* To consider you for a role which you have applied for; 
-* To send you marketing communications related to our products, such as our newsletter, if you are a client or have chosen to receive it.
+*   To respond to inquiries and provide requested information regarding our products and services;
+*   To consider you for a role which you have applied for; 
+*   To send you marketing communications related to our products, such as our newsletter, if you are a client or have chosen to receive it.
 
 o If you no longer wish to receive marketing email communications, you can either follow the unsubscribe link and instructions contained in the emails you receive or you can request to unsubscribe at: [Preference Center | Update email preferences](https://pages.thetradedesk.com/Preference-Center.html).
 
@@ -67,10 +67,10 @@ We may disclose data, including your personal data, to companies that provide da
 
 We will also disclose your information:
 
-* As required by law, such as to comply with a subpoena, or similar legal process,
-* When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-* If the Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, in such case you will be notified via email and/​or a prominent notice on our websites of any change in ownership or uses of your information, as well as any choices you have regarding your information, or
-* With your permission, to another third party.
+*   As required by law, such as to comply with a subpoena, or similar legal process,
+*   When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+*   If the Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, in such case you will be notified via email and/​or a prominent notice on our websites of any change in ownership or uses of your information, as well as any choices you have regarding your information, or
+*   With your permission, to another third party.
 
 **UID2 and EUID**
 
@@ -96,9 +96,9 @@ Depending upon where you live, some states, countries or regions provide individ
   
 If you reside in a state, country or region that provides individuals such rights to their personal data and would like to access, correct, or request deletion of the personal data we have about you in connection with the scope of this privacy policy, please follow the steps indicated below, depending on your relationship to us:  
 
-* For Website visitors or general business contacts: please fill out and submit this [webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb)
-* For employment applicants through our Careers Page: fill out and submit the [TTD Applicant/​Employee Privacy Request webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/2da26cf0-fabe-431f-91a6-568f4fc5dc04).
-    * Please be aware that requesting a deletion of personal data will remove your entire profile information from the career site including any active job applications. This will also remove any subscriptions you might have made on the career site.
+*   For Website visitors or general business contacts: please fill out and submit this [webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb)
+*   For employment applicants through our Careers Page: fill out and submit the [TTD Applicant/​Employee Privacy Request webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/2da26cf0-fabe-431f-91a6-568f4fc5dc04).
+    *   Please be aware that requesting a deletion of personal data will remove your entire profile information from the career site including any active job applications. This will also remove any subscriptions you might have made on the career site.
 
 We will ask you to verify your identity once you submit your request. Should your request be denied, we will inform you of the reasons for denial, including any relevant exceptions or exemptions we relied upon when responding to your request. We will not discriminate against you if you exercise your rights under applicable law.
 
@@ -121,14 +121,14 @@ We may revise this policy at any time. However, if we make material changes, we 
 
 If you have a concern regarding our privacy practices, please contact us via the contact details supplied below.
 
-* Mail: The Trade Desk, Attention: Global Data Protection Officer (DPO)-Global Privacy Office, 42 N. Chestnut St., Ventura, CA 93001  
+*   Mail: The Trade Desk, Attention: Global Data Protection Officer (DPO)-Global Privacy Office, 42 N. Chestnut St., Ventura, CA 93001  
     
-* Email: dpo ((at)) thetradedesk ((dot)) com
+*   Email: dpo ((at)) thetradedesk ((dot)) com
 
 If, after reasonable efforts, you believe your concern has not been satisfactorily addressed by us, you may reach out to your local data protection authority.
 
-* If you are in the US, our privacy practices are regulated by the Federal Trade Commission or state-specific data protection authorities;
-* If you are in the EU, we recommend you contact you contact the Data Protection Authority in the Member State where you normally reside;
-* If you are in the UK, we recommend you contact the UK Information Commissioner’s Office (ICO).
+*   If you are in the US, our privacy practices are regulated by the Federal Trade Commission or state-specific data protection authorities;
+*   If you are in the EU, we recommend you contact you contact the Data Protection Authority in the Member State where you normally reside;
+*   If you are in the UK, we recommend you contact the UK Information Commissioner’s Office (ICO).
 
 «END OF POLICY»
