@@ -6,23 +6,23 @@ If you have questions or complaints regarding our privacy policy or practices, p
 
 Quick Reference:
 
-1. [How the NING Platform Operates](#1)
-2. [Collection of Personal Information](#2)
-3. [Passive Data Collection](#3)
-4. [Third Party Advertisers](#4)
-5. [Information Received From Third Party Sources](#5)
-6. [How NING Uses Personal Information](#6)
-7. [When NING Discloses Personal Information](#7)
-8. [Change of Ownership](#8)
-9. [Security](#9)
-10. [Children](#10)
-11. [Your Choices](#11)
-12. [Privacy Settings](#12)
-13. [Email Communications and Unsolicited Commercial Email](#13)
-14. [Third Party Services](#14)
-15. [International Users](#15)
-16. [Changes and Updates to This Privacy Policy](#16)
-17. [Contacting Us](#17)
+1.  [How the NING Platform Operates](#1)
+2.  [Collection of Personal Information](#2)
+3.  [Passive Data Collection](#3)
+4.  [Third Party Advertisers](#4)
+5.  [Information Received From Third Party Sources](#5)
+6.  [How NING Uses Personal Information](#6)
+7.  [When NING Discloses Personal Information](#7)
+8.  [Change of Ownership](#8)
+9.  [Security](#9)
+10.  [Children](#10)
+11.  [Your Choices](#11)
+12.  [Privacy Settings](#12)
+13.  [Email Communications and Unsolicited Commercial Email](#13)
+14.  [Third Party Services](#14)
+15.  [International Users](#15)
+16.  [Changes and Updates to This Privacy Policy](#16)
+17.  [Contacting Us](#17)
 
 **1\. How the NING Platform Operates**
 
@@ -80,18 +80,18 @@ We use industry standard security measures to protect against the loss, misuse, 
 
 The Children’s Online Privacy Protection Act (“COPPA”) protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personal Information through the NING Platform represents to us that he or she is 13 years of age or older. If we learn that Personal Information has been collected from a user under 13 years of age on or through the NING Platform, then we will take the appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 13 who has become a Member, please contact NING at [privacyinfo \[at\] ning \[dot\] com](mailto:privacyinfo@ning.com) to have that child’s account terminated and information deleted. The following are some resources that may help parents and legal guardians in monitoring and limiting your children’s access to certain types of material on the Internet. While we do not endorse these products, we provide information about them as a public service to our community.
 
-* [ConnectSafely](http://www.connectsafely.org/)
-* [The Family Online Safety Institute](http://www.fosi.org/)
-* [iKeepSafe](http://www.ikeepsafe.net/)
-* [OnGuard Online](http://www.onguardonline.gov/), maintained by the Federal Trade Commission
-* [Netsmartz.org](http://www.netsmartz.org/)
-* [The Child Safety Network](http://www.csn.org/)
-* [Cyber Sitter](http://www.cybersitter.com/)
-* [Common Sense Media](http://www.commonsensemedia.org/)
-* [WebWiseKids.org](http://www.webwisekids.org/)
-* [Center for Safe and Responsible Internet Use](http://www.embracecivility.org/)
-* [Cyber Angels](http://www.cyberangels.org/)
-* [Cyber Bullying US](http://www.cyberbullying.us/)
+*   [ConnectSafely](http://www.connectsafely.org/)
+*   [The Family Online Safety Institute](http://www.fosi.org/)
+*   [iKeepSafe](http://www.ikeepsafe.net/)
+*   [OnGuard Online](http://www.onguardonline.gov/), maintained by the Federal Trade Commission
+*   [Netsmartz.org](http://www.netsmartz.org/)
+*   [The Child Safety Network](http://www.csn.org/)
+*   [Cyber Sitter](http://www.cybersitter.com/)
+*   [Common Sense Media](http://www.commonsensemedia.org/)
+*   [WebWiseKids.org](http://www.webwisekids.org/)
+*   [Center for Safe and Responsible Internet Use](http://www.embracecivility.org/)
+*   [Cyber Angels](http://www.cyberangels.org/)
+*   [Cyber Bullying US](http://www.cyberbullying.us/)
 
 **11\. Your Choices**
 
@@ -107,19 +107,19 @@ We will retain your Personal Information and the personal information we process
 
 As a Network Creator, you control certain privacy settings on your Network (known as “Network Privacy Settings”). Network Creators can edit these settings at any time by signing in to your Network and clicking on “Privacy” from the “My Network” page. Network Creators can choose from the following Network Privacy Settings:
 
-* **Public**– Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options:
-    * **Everything** – Non-Members can see all pages of your Network.
-    * **Just the Main Page** – Non-Members will be prompted to sign up to your Network before they can see any page other than the Network’s main landing page.
-* **Private**– Your Network is only visible to Members. Anyone who visits your Network will first be directed to a Member sign in page. As to which non-Members will be able to sign up, there are two further options:
-    * **Anyone** – Anyone can sign up to be a Member.
-    * **Only Invited People** – The only people who can sign up to your Network are those who have received an invitation from a current Member or an invitation link from the Network Creator or an administrator of your Network.
+*   **Public**– Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options:
+    *   **Everything** – Non-Members can see all pages of your Network.
+    *   **Just the Main Page** – Non-Members will be prompted to sign up to your Network before they can see any page other than the Network’s main landing page.
+*   **Private**– Your Network is only visible to Members. Anyone who visits your Network will first be directed to a Member sign in page. As to which non-Members will be able to sign up, there are two further options:
+    *   **Anyone** – Anyone can sign up to be a Member.
+    *   **Only Invited People** – The only people who can sign up to your Network are those who have received an invitation from a current Member or an invitation link from the Network Creator or an administrator of your Network.
 
 To further enhance Network privacy, Network Creators can set “Private – Only Invited People” (as explained above), and then also check the “Approve new members before they can join” box on the “Controls” page. The “Controls” page is located under “Members” on the “My Network” page. Additionally, Members or Network Creators have their own individual privacy settings on each Network for certain categories of information, such as profile information, list of friends and content that you post. To adjust individual settings, sign in and click on “Settings” in the right hand column. This will take you to a “My Settings” page, where you’ll find a “Privacy” link on the left hand side. You may choose from the following individual privacy options for your profile page and friends; your blog, photos and videos; and your events:
 
-* **Anyone**– Anyone who is able to access the Network can view your profile and/or content.
-* **Members** – Only Members of the Network can view your profile and/or content.
-* **Just My Friends** – Only Members of the Network that you have added or accepted as a “Friend” can view your profile and/or content.
-* **Just Me** – Only you can view your content.
+*   **Anyone**– Anyone who is able to access the Network can view your profile and/or content.
+*   **Members** – Only Members of the Network can view your profile and/or content.
+*   **Just My Friends** – Only Members of the Network that you have added or accepted as a “Friend” can view your profile and/or content.
+*   **Just Me** – Only you can view your content.
 
 These settings are not retroactive, so if you’d like these privacy settings to apply to content you’ve uploaded in the past, you must update the privacy settings of the individual content item you previously uploaded. Even if you’ve changed your privacy settings as described above for your profile, certain portions of your basic profile page (such as your name and profile photo), will always be visible to people who can access the Network. The remaining portion of your basic profile (such as gender, location and age/birthday), can be hidden or disabled by accessing the “Profile” section of your Settings page. Regardless of the individual privacy settings selected by a Member, please note that Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
 
@@ -129,19 +129,19 @@ With NING 3.0 Networks, there is no single privacy setting on your Network to ma
 
 Network Creators can choose from the following Page Privacy Settings:
 
-* **Everyone (Public)**– This means that everyone (members and non-members alike) can view this page.
-* **Members**– Only Members of the Network can view this page; visitors will be prompted to sign in.
-* **Featured Members**– Only featured Members and Administrators of the Network can view this view page.
-* **Administrators**– Only Administrators of the Network can view this page.
-* **Member Category**– Only Members of a specific member category can view this page.
+*   **Everyone (Public)**– This means that everyone (members and non-members alike) can view this page.
+*   **Members**– Only Members of the Network can view this page; visitors will be prompted to sign in.
+*   **Featured Members**– Only featured Members and Administrators of the Network can view this view page.
+*   **Administrators**– Only Administrators of the Network can view this page.
+*   **Member Category**– Only Members of a specific member category can view this page.
 
 In addition, Network Creators can change the default privacy setting for all member profile pages on the Network. For example, if you want to prevent member profile pages from showing up in search results, you may wish to change the default privacy setting from “Everyone (Public)” to “Members.” You can edit the default Privacy Page Settings for member profiles by signing in to your Network, clicking on “Site & Pages” in the Social Site Manager and going to the General section of the Members page.
 
 Network Creators can choose from the following Privacy Page Settings for member profile pages:
 
-* **Everyone (Public)**– This means that everyone (members and non-members alike) can view member.
-* **Members**– Only Members of the Network can view member profile pages; visitors will be prompted to sign in.
-* **Friends**– Only friends can view member profile pages.
+*   **Everyone (Public)**– This means that everyone (members and non-members alike) can view member.
+*   **Members**– Only Members of the Network can view member profile pages; visitors will be prompted to sign in.
+*   **Friends**– Only friends can view member profile pages.
 
 Members and Network Creators can edit the personal privacy settings on their profile page to hide their age, gender or birthdate. You can also set your profile page to be visible to everyone (default), only members of the NING Network or just to your friends on the NING Network. To change the privacy of your profile page, click on the edit icon that looks like a pencil on the top right of your profile page. You should land on the “Profile” tab in your personal settings area. Choose the level of privacy you’d like from the “Profile Page Privacy” drop down and then update the page. Please see [here](https://www.ning.com/ning3help/control-the-privacy-settings-of-your-profile-page/) for more information on how to control the privacy settings of your profile page.
 
