@@ -14,10 +14,10 @@ Regardless of how you access timeanddate.com (mobile, web, etc.), you agree to b
 
 By creating an account on timeanddate.com, you agree that:
 
-* your account and password are personal to you and may not be used by anyone else to access timeanddate.com;
-* you will not do anything which would assist anyone who is not a registered user to gain access to any registration area of timeanddate.com;
-* you will not create registration accounts for the purpose of abusing the functionality of the site, or other users; nor will you seek to pass yourself off as another user; and
-* you agree to notify us immediately if you become aware any unauthorized use of your password or account identifiers by others.
+*   your account and password are personal to you and may not be used by anyone else to access timeanddate.com;
+*   you will not do anything which would assist anyone who is not a registered user to gain access to any registration area of timeanddate.com;
+*   you will not create registration accounts for the purpose of abusing the functionality of the site, or other users; nor will you seek to pass yourself off as another user; and
+*   you agree to notify us immediately if you become aware any unauthorized use of your password or account identifiers by others.
 
 Our paid services depend on you being [logged in](https://www.timeanddate.com/custom/modify.html) to access the paid-for content. A modern browser is required for full functionality of the website.
 
