@@ -1,8 +1,8 @@
 Privacy
 =======
 
-* [Home](https://n.vodafone.ie/)
-* Privacy
+*   [Home](https://n.vodafone.ie/)
+*   Privacy
 
 #### Get full control to manage your privacy
 
@@ -33,13 +33,13 @@ We are Vodafone Ireland and we are a member of the Vodafone Group. If you go to 
 
 In this privacy notice:
 
-* “Vodafone/we/us/our” means Vodafone Ireland;
+*   “Vodafone/we/us/our” means Vodafone Ireland;
     
-* “third party” means someone who is not you or us;
+*   “third party” means someone who is not you or us;
     
-* “partner organisation” means external third party business entity that provides value-added services; and
+*   “partner organisation” means external third party business entity that provides value-added services; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are registered in Ireland under company number 326967. Our main switchboard is (01) 2037000 or you can email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
@@ -64,52 +64,52 @@ The information we collect about you and how we collect it can vary depending on
 
 We will collect your personal information when you, for example:
 
-* sign up to any of our products or services;
+*   sign up to any of our products or services;
     
-* use our network or other Vodafone products or services;
+*   use our network or other Vodafone products or services;
     
-* contact us through various channels for support or ask for information about products or services;
+*   contact us through various channels for support or ask for information about products or services;
     
-* visit or browse our website; and
+*   visit or browse our website; and
     
-* if you are a non-Vodafone customer and contact a Vodafone customer or a Vodafone customer care team.
+*   if you are a non-Vodafone customer and contact a Vodafone customer or a Vodafone customer care team.
     
 
 From third parties
 
 Information collected not directly from you:
 
-* Information we obtain from other sources, such as credit agencies, fraud-prevention agencies, and from other data providers. This includes demographic data, interest-based data, and internet browsing behaviour.
+*   Information we obtain from other sources, such as credit agencies, fraud-prevention agencies, and from other data providers. This includes demographic data, interest-based data, and internet browsing behaviour.
     
 
 The types of information we may have, where applicable:
 
-1. Contact details: Such as your name, address, phone and/or mobile number and email address;
+1.  Contact details: Such as your name, address, phone and/or mobile number and email address;
     
-2. Financial details: Such as your credit or debit card information, information about your bank account and other banking information – for example, you’ll have to give us this information when you open an account with us. We’ll collect the data necessary to process a payment whenever you make a purchase;
+2.  Financial details: Such as your credit or debit card information, information about your bank account and other banking information – for example, you’ll have to give us this information when you open an account with us. We’ll collect the data necessary to process a payment whenever you make a purchase;
     
-3. Your traffic data: Every time you use your mobile phone, a record is kept. This includes the number you called or sent an SMS or MMS to, the length, date and time of that call, SMS or MMS, the amount of data you are using and your approximate location at the time that the communication takes place (based on the location of the nearest cell that you sent that call or message from). The same is also recorded every time you receive an incoming call or message. This is data we see as part of providing you with connectivity; we don’t, however, keep a record of the content of your calls or messages.
+3.  Your traffic data: Every time you use your mobile phone, a record is kept. This includes the number you called or sent an SMS or MMS to, the length, date and time of that call, SMS or MMS, the amount of data you are using and your approximate location at the time that the communication takes place (based on the location of the nearest cell that you sent that call or message from). The same is also recorded every time you receive an incoming call or message. This is data we see as part of providing you with connectivity; we don’t, however, keep a record of the content of your calls or messages.
     
-4. Information about your device or connectivity: such as IP address, IMEI and MSISDN.
+4.  Information about your device or connectivity: such as IP address, IMEI and MSISDN.
     
-5. Your location data: This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city;
+5.  Your location data: This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city;
     
-6. Your contact with us: Such as a note or recording of a call you make to one of our contact centres, a Live Chat, an email or letter sent, or other records of any contact with us;
+6.  Your contact with us: Such as a note or recording of a call you make to one of our contact centres, a Live Chat, an email or letter sent, or other records of any contact with us;
     
-7. Your account information: Such as your date of birth, gender, dates of payment owed or received, subscriptions you use, account numbers or other information related to your account or included in My Vodafone;
+7.  Your account information: Such as your date of birth, gender, dates of payment owed or received, subscriptions you use, account numbers or other information related to your account or included in My Vodafone;
     
-8. Credential information: We’ll collect passwords, hints, and similar security information used for authentication and access to accounts and services;
+8.  Credential information: We’ll collect passwords, hints, and similar security information used for authentication and access to accounts and services;
     
-9. Your preferences: for products, services and lifestyle activities when you tell us what they are, or we assume what they are, based on how you use the products and services;
+9.  Your preferences: for products, services and lifestyle activities when you tell us what they are, or we assume what they are, based on how you use the products and services;
     
-10. Cookies: See the [Cookie Policy](#cookies) for details on what we collect using cookies, web beacons and other technologies, including advertising data;
-    
-11. Your browsing history: If you have given your permission, Vodafone collects the categories of website you have browsed on your mobile, device or PC, for example Sports, Music or News. However, we don’t have a history of the sites you browse, as this is limited for a short period of time to enable the connection to be made. We use these interests to send you personalised marketing or show you personalised advertising. You can opt out of advertising and manage how we use cookies through the Cookie Settings which can be accessed via our [Cookies Policy](#cookies) or, in the case of marketing, your [Privacy Settings](#privacysettings).
-    
-12. Information about how you use our products and services: Such as the level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; or your viewing history if you use our VTV product for example.
-    
-13. Details of your use of the specific services or products: for example CIOT devices or VTV. You can refer to the specific privacy supplement for each product/service for more information on the data processed.
-    
+10.  Cookies: See the [Cookie Policy](#cookies) for details on what we collect using cookies, web beacons and other technologies, including advertising data;
+     
+11.  Your browsing history: If you have given your permission, Vodafone collects the categories of website you have browsed on your mobile, device or PC, for example Sports, Music or News. However, we don’t have a history of the sites you browse, as this is limited for a short period of time to enable the connection to be made. We use these interests to send you personalised marketing or show you personalised advertising. You can opt out of advertising and manage how we use cookies through the Cookie Settings which can be accessed via our [Cookies Policy](#cookies) or, in the case of marketing, your [Privacy Settings](#privacysettings).
+     
+12.  Information about how you use our products and services: Such as the level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; or your viewing history if you use our VTV product for example.
+     
+13.  Details of your use of the specific services or products: for example CIOT devices or VTV. You can refer to the specific privacy supplement for each product/service for more information on the data processed.
+     
 
 ### How we use your personal information and our lawful basis to do so
 
@@ -121,13 +121,13 @@ We may also use automated tools to assist with activities such as reconciling cu
 
 Whenever we use your personal information, we do so based on a specific lawful basis under data protection law listed below:
 
-1. The performance of your contract or to enter into the contract and to take action on your requests for example, so you can make calls and texts, and browse the internet on your phone, we process things like the numbers you dial, how much data you’re using and when you’re doing it so we can provide connectivity. This also enables us to generate your bill, based on your usage. We also may conduct credit checks when you apply for a product or service, which is operated on a bill pay basis to verify your suitability for entry into such a contract.
+1.  The performance of your contract or to enter into the contract and to take action on your requests for example, so you can make calls and texts, and browse the internet on your phone, we process things like the numbers you dial, how much data you’re using and when you’re doing it so we can provide connectivity. This also enables us to generate your bill, based on your usage. We also may conduct credit checks when you apply for a product or service, which is operated on a bill pay basis to verify your suitability for entry into such a contract.
     
-2. Legitimate interests of Vodafone for example, fraud prevention, maintaining the security of our network and services, direct marketing, and improvement of our services. Whenever we rely on this lawful basis to process your data, we assess our legitimate interests to make sure they do not override your rights. Additionally, in some cases you have the right to object to this processing. For more information, go to Your Rights at the end of this section.
+2.  Legitimate interests of Vodafone for example, fraud prevention, maintaining the security of our network and services, direct marketing, and improvement of our services. Whenever we rely on this lawful basis to process your data, we assess our legitimate interests to make sure they do not override your rights. Additionally, in some cases you have the right to object to this processing. For more information, go to Your Rights at the end of this section.
     
-3. Compliance with a mandatory legal obligation including for example accounting and tax requirements, which are subject to strict internal policies (such as retention periods), procedures.
+3.  Compliance with a mandatory legal obligation including for example accounting and tax requirements, which are subject to strict internal policies (such as retention periods), procedures.
     
-4. Consent where you have provided it by your own free will. Consent may be withdrawn at any time. See Your Rights at the end of this section for more information on how to do this.
+4.  Consent where you have provided it by your own free will. Consent may be withdrawn at any time. See Your Rights at the end of this section for more information on how to do this.
     
 
 Please see the table below for more information.
@@ -184,31 +184,31 @@ Under certain circumstances, it is necessary for us to process your personal inf
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group
+*   Companies in the Vodafone Group
     
-* Partners or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law;
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law;
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement;
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement;
     
-* Emergency services (if you make an emergency call), including your approximate location;
+*   Emergency services (if you make an emergency call), including your approximate location;
     
-* Third parties for joint promotions with that third party;
+*   Third parties for joint promotions with that third party;
     
-* Partner organisations we’ve carefully chosen so they can contact you about their products and services (which may or may not include Vodafone products and services). We’ll ask for your consent before sharing this information;
+*   Partner organisations we’ve carefully chosen so they can contact you about their products and services (which may or may not include Vodafone products and services). We’ll ask for your consent before sharing this information;
     
-* Other third parties when you are signing up to their service and it is used by them for authentication and fraud-prevention purposes;
+*   Other third parties when you are signing up to their service and it is used by them for authentication and fraud-prevention purposes;
     
-* Third parties that we advertise with, such as Facebook, in order to serve you advertisements online;
+*   Third parties that we advertise with, such as Facebook, in order to serve you advertisements online;
     
-* Third parties that we use to serve you marketing.
+*   Third parties that we use to serve you marketing.
     
 
 ### International Data Transfers
@@ -286,15 +286,15 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* Log in to your Privacy Settings to manage your permissions; your [Privacy Settings](#privacysettings) will also provide you with the ability to opt out or into receiving personalised marketing.
+*   Log in to your Privacy Settings to manage your permissions; your [Privacy Settings](#privacysettings) will also provide you with the ability to opt out or into receiving personalised marketing.
     
-* Contact our customer services team – see the [contact us page](https://n.vodafone.ie/support.html);
+*   Contact our customer services team – see the [contact us page](https://n.vodafone.ie/support.html);
     
-* Click the link at the end of a marketing email or text to unsubscribe;
+*   Click the link at the end of a marketing email or text to unsubscribe;
     
-* Tell the adviser if you receive a marketing call;
+*   Tell the adviser if you receive a marketing call;
     
-* Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
+*   Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
     
 
 Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) for guidance.
@@ -313,11 +313,11 @@ How to lodge a complaint
 
 If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support.html) team or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help, but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
     
-* Phone: +353 (1) 765 01 00 or 1800 437 737
+*   Phone: +353 (1) 765 01 00 or 1800 437 737
     
-* In writing: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland
+*   In writing: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland
     
 
 Privacy and products
@@ -391,87 +391,87 @@ Coverage, connectivity and data usage
 
 Information about network connectivity and quality for phone calls, internet and data services as experienced by you, as well as statistics about how much your device uses internet services and consumes data, such as:
 
-* the percentage of time your phone is on the network
+*   the percentage of time your phone is on the network
     
-* signal strength
+*   signal strength
     
-* areas of limited or no service
+*   areas of limited or no service
     
-* quality of the mobile overage (2G, 3G, 4G)
+*   quality of the mobile overage (2G, 3G, 4G)
     
-* call duration
+*   call duration
     
-* how the call ends
+*   how the call ends
     
-* regular tests of whether your device can connect to the internet
+*   regular tests of whether your device can connect to the internet
     
-* your upload and download speed
+*   your upload and download speed
     
-* how long it takes to set up a connection to the internet
+*   how long it takes to set up a connection to the internet
     
-* WiFi connection quality and MAC addresses of the Wi-Fi hot spots your device can see, and how congested they are
+*   WiFi connection quality and MAC addresses of the Wi-Fi hot spots your device can see, and how congested they are
     
-* hourly data use
+*   hourly data use
     
-* how much data your phone uses when its in standby mode
+*   how much data your phone uses when its in standby mode
     
-* how much data goes over Wi-Fi connections vs. the mobile network
+*   how much data goes over Wi-Fi connections vs. the mobile network
     
 
 Applications
 
 Statistics about applications on your devices, such as:
 
-* which apps are installed on your device
+*   which apps are installed on your device
     
-* which apps are started each day and for how long each app is used
+*   which apps are started each day and for how long each app is used
     
-* how much data is consumed by each app, how fast each app receives and transmits data and the type and quality of network used for the connection (for example cellular or WiFi and related signal strength)
+*   how much data is consumed by each app, how fast each app receives and transmits data and the type and quality of network used for the connection (for example cellular or WiFi and related signal strength)
     
 
 Device Information
 
 Technical information about your device, such as:
 
-* phone brand and model
+*   phone brand and model
     
-* operating system
+*   operating system
     
-* firmware version
+*   firmware version
     
-* hardware capabilities
+*   hardware capabilities
     
-* language and locale
+*   language and locale
     
-* battery state
+*   battery state
     
-* memory consumption
+*   memory consumption
     
-* time since last reboot
+*   time since last reboot
     
 
 What we do with this information
 
 We analyse the collected information to diagnose connectivity, coverage or connection quality problems, understand connectivity needs from the usage of mobile data, WiFi and apps, and use such insights to make improvements to our network and services. This may include, for example
 
-* Improving the quality of network through e.g. better understanding about the exact areas with low network performance or areas of high consumption of data which helps us prioritise new site implementation and otherwise improve the network performance;
+*   Improving the quality of network through e.g. better understanding about the exact areas with low network performance or areas of high consumption of data which helps us prioritise new site implementation and otherwise improve the network performance;
     
-* Helping us deal with performance issues caused by poorly performing devices;
+*   Helping us deal with performance issues caused by poorly performing devices;
     
-* Improving our commercial models and offers based on improved understanding the patterns related to the use of apps and connection quality;
+*   Improving our commercial models and offers based on improved understanding the patterns related to the use of apps and connection quality;
     
-* Improving the performance and design of MyVodafone by understanding which features of the app are popular and how those features perform on different types of devices.
+*   Improving the performance and design of MyVodafone by understanding which features of the app are popular and how those features perform on different types of devices.
     
 
 Providing you with personalized assistance and recommendations
 
 We may use the collected information to help us provide more personalized marketing communications to you. We may, for example
 
-* Recommend a new or a different bundle for you based on the way you use your connectivity services;
+*   Recommend a new or a different bundle for you based on the way you use your connectivity services;
     
-* Help you manage your data plans by showing you which apps consume more data;
+*   Help you manage your data plans by showing you which apps consume more data;
     
-* Recommend upgrades to your device or promote accessories.
+*   Recommend upgrades to your device or promote accessories.
     
 
 We may combine the collected information with other information we may hold of you.
@@ -488,9 +488,9 @@ What information we don’t collect
 
 We understand that some of the information we collect may be seen as sensitive. Therefore we have designed the app to reduce the sensitivity of the collected information. For example, we don’t collect information about:
 
-* any content of your communications, such as sms, email or chat content or your browsing history;
+*   any content of your communications, such as sms, email or chat content or your browsing history;
     
-* information about which features of the apps you use or what content you send, receive or otherwise consume through an app.
+*   information about which features of the apps you use or what content you send, receive or otherwise consume through an app.
     
 
 How long do we keep the information for?
@@ -507,13 +507,13 @@ Your choices
 
 Vodafone offers you choices and control over what information you are willing to share from your device. You may choose to:
 
-* Disable the sending of personal information about the quality and use of your connectivity services, location and apps;
+*   Disable the sending of personal information about the quality and use of your connectivity services, location and apps;
     
-* Disable the sending of any information about the quality and use of your connectivity services, location and apps;
+*   Disable the sending of any information about the quality and use of your connectivity services, location and apps;
     
-* Disable the sending of information about your use of MyVodafone;
+*   Disable the sending of information about your use of MyVodafone;
     
-* Disable push-notifications.
+*   Disable push-notifications.
     
 
 NOTE:
@@ -570,71 +570,71 @@ This application collects information about the way your phone interacts with ou
 
 This application will capture statistics about your connectivity for phone calls. This allows us to diagnose connectivity or connection quality problems and make improvements to our network in your area. We log:
 
-* the percentage of time your phone is on the network.
+*   the percentage of time your phone is on the network.
     
-* the cell ID and location of the phone masts used and how you move between them, when your phone is active.
+*   the cell ID and location of the phone masts used and how you move between them, when your phone is active.
     
-* signal strength areas of limited or no service.
+*   signal strength areas of limited or no service.
     
-* quality of the coverage (2G, 3G, 4G).
+*   quality of the coverage (2G, 3G, 4G).
     
 
 ### Internet connectivity
 
 This application will capture statistics about your connectivity for internet or data coverage. This allows us to diagnose connectivity or connection quality problems. We log:
 
-* every hour, a test of whether you can connect to the internet.
+*   every hour, a test of whether you can connect to the internet.
     
-* your upload and download speed.  
+*   your upload and download speed.  
     
-* the cell ID and location of the phone masts used and how you move between them, when your phone is active.  
+*   the cell ID and location of the phone masts used and how you move between them, when your phone is active.  
     
-* areas of limited or no service.  
+*   areas of limited or no service.  
     
-* quality of the coverage.  
+*   quality of the coverage.  
     
-* how long it takes to set up a connection to the internet.  
+*   how long it takes to set up a connection to the internet.  
     
-* Wi-Fi quality.
+*   Wi-Fi quality.
     
-* MAC addresses of the Wi-Fi hot spots your device can see
+*   MAC addresses of the Wi-Fi hot spots your device can see
     
 
 ### Call quality and usage
 
 The success or failure of your calling experience can be diagnosed using technical details about the network, your coverage, or your phone’s signal quality during a call. This helps us improve all aspects of your calling experience. We log:
 
-* the cell ID and location of phone masts serving your incoming and outgoing calls and other masts used if you change location during the call.
+*   the cell ID and location of phone masts serving your incoming and outgoing calls and other masts used if you change location during the call.
     
-* signal strength.
+*   signal strength.
     
-* call duration.
+*   call duration.
     
-* how the call ends.
+*   how the call ends.
     
-* quality of the coverage.
+*   quality of the coverage.
     
 
 ### Data usage
 
 So that we can diagnose the overall usage of the internet data use on different phone models we capture information about how much your device use internet services and consume data. This helps us improve device and network data efficiency for you and other customers based on real world data usage. We log:
 
-* hourly data use.
+*   hourly data use.
     
-* how much data your phone uses when in standby mode.
+*   how much data your phone uses when in standby mode.
     
-* how much data goes over Wi-Fi connections vs. the cellular network.
+*   how much data goes over Wi-Fi connections vs. the cellular network.
     
 
 ### Applications
 
 So that we can identify trends in data usage that help us allocate capacity for data heavy applications in your area, we assess the data use of the applications on your phone. We log:
 
-* what apps are installed on your phone.
+*   what apps are installed on your phone.
     
-* how long they are used.
+*   how long they are used.
     
-* how much data and how fast each app receives and transmits.
+*   how much data and how fast each app receives and transmits.
     
 
 ### Location
@@ -645,15 +645,15 @@ When we measure the items above related to coverage and usage, we know your roug
 
 The network and device improvements that this application is designed for do not require personal information. This means we do not log personal information, all network data is anonymised by the application before it is sent to Vodafone.
 
-* This app does not log your phone number.
+*   This app does not log your phone number.
     
-* This app does not log numbers you dial or that dial you.
+*   This app does not log numbers you dial or that dial you.
     
-* This app does not log any content of your communications.
+*   This app does not log any content of your communications.
     
-* This app does not log content, sender or receiver information of text messages on your device.
+*   This app does not log content, sender or receiver information of text messages on your device.
     
-* This app does not log the names of the Wi-Fi hot spots
+*   This app does not log the names of the Wi-Fi hot spots
     
 
 ### One Net app
@@ -670,9 +670,9 @@ What information we don’t collect
 
 We understand that some of the information we collect may be seen as sensitive. Therefore, we have designed the app to reduce the sensitivity of the collected information. For example, we don’t collect information about:
 
-* any content of your communications, such as sms, email or chat content, or your browsing history;
+*   any content of your communications, such as sms, email or chat content, or your browsing history;
     
-* information about which features of the apps you use or what content you send, receive or otherwise consume through an app.
+*   information about which features of the apps you use or what content you send, receive or otherwise consume through an app.
     
 
 What information we share
@@ -787,39 +787,39 @@ Information we collect about you
 
 The types of information we process about you and any devices you register with the service when you use Secure Net and the accompanying App are:
 
-* Your browsing activity on the network; Secure Net is a service that uses a process Domain Name System (DNS) Filtering on websites you are navigating to you in order to protect you from malicious sites and malware. This means for example, that if we know a certain website or app traffic has been blacklisted because it contains harmful content, we’ll warn you that you shouldn’t proceed to that site before you land on it. We do not use this information for other purposes;
+*   Your browsing activity on the network; Secure Net is a service that uses a process Domain Name System (DNS) Filtering on websites you are navigating to you in order to protect you from malicious sites and malware. This means for example, that if we know a certain website or app traffic has been blacklisted because it contains harmful content, we’ll warn you that you shouldn’t proceed to that site before you land on it. We do not use this information for other purposes;
     
-* Your phone number, tariff information and price plan;
+*   Your phone number, tariff information and price plan;
     
-* Information about devices that are set up to be protected by Secure Net or to be subject to parental controls. For example, we collect information on the type of connected device that you are using (such as whether it’s a mobile device, a laptop, a gaming console or smart home devices, and their manufacturers) and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
+*   Information about devices that are set up to be protected by Secure Net or to be subject to parental controls. For example, we collect information on the type of connected device that you are using (such as whether it’s a mobile device, a laptop, a gaming console or smart home devices, and their manufacturers) and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
     
-* If you activate the Secure Net cleaning tool, we will access data from your device to help remove security threats from your device;
+*   If you activate the Secure Net cleaning tool, we will access data from your device to help remove security threats from your device;
     
-* The names or nicknames you add when creating family profiles;
+*   The names or nicknames you add when creating family profiles;
     
-* If you are adding children’s profiles, we’ll ask for their age range – this is so we can restrict age-inappropriate content; and
+*   If you are adding children’s profiles, we’ll ask for their age range – this is so we can restrict age-inappropriate content; and
     
-* Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services. This could be your Vodafone ID credentials if you set up your login via this method.
+*   Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services. This could be your Vodafone ID credentials if you set up your login via this method.
     
 
 We’ll also get information about how you use our products and services, such as:
 
-* Details of your use of our services – for example, we can see whether or not a site has been blocked and keep a limited record of this information for service and customer care (see How long we keep your personal information for), or how often you interact with our online portal or App dashboard to see summaries of your threat protection or parental controls, or the sorts of parental controls you are setting; and
+*   Details of your use of our services – for example, we can see whether or not a site has been blocked and keep a limited record of this information for service and customer care (see How long we keep your personal information for), or how often you interact with our online portal or App dashboard to see summaries of your threat protection or parental controls, or the sorts of parental controls you are setting; and
     
-* We also collect anonymous analytics information on how our customers use the Secure Net App or the online portal in order to improve your experience and troubleshoot (for example, we can see whether certain functionalities are not working as intended and fix them or how much our customers use the parental control functionalities).
+*   We also collect anonymous analytics information on how our customers use the Secure Net App or the online portal in order to improve your experience and troubleshoot (for example, we can see whether certain functionalities are not working as intended and fix them or how much our customers use the parental control functionalities).
     
 
 When we collect your personal information
 
 We collect your personal information when:
 
-* You browse the internet on a mobile or fixed connection with any of your devices when you have an active Secure Net subscription;
+*   You browse the internet on a mobile or fixed connection with any of your devices when you have an active Secure Net subscription;
     
-* You activate and use the cleaning tool feature of the App.
+*   You activate and use the cleaning tool feature of the App.
     
-* You interact with the App or online Portal (where you can see what threats have been blocked or set any parental controls); and
+*   You interact with the App or online Portal (where you can see what threats have been blocked or set any parental controls); and
     
-* When content is blocked as a result of the security protections or when a parental control limits access to certain content.
+*   When content is blocked as a result of the security protections or when a parental control limits access to certain content.
     
 
 Vodafone will process your personal data based on:
@@ -853,19 +853,19 @@ How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 International data transfers
@@ -880,9 +880,9 @@ Browsing history
 
 We keep a limited record of your browsing history for service and customer care purposes only for 30 days. Vodafone does not repurpose your browsing for the purposes of marketing or personalised profiling.
 
-* For example, if you believe that we should not have blocked a site, we can check that for you; or
+*   For example, if you believe that we should not have blocked a site, we can check that for you; or
     
-* In order for you to be able to view a history of the protection provided (such as number of security threats blocked by the service) with the App or the Secure Net portal.
+*   In order for you to be able to view a history of the protection provided (such as number of security threats blocked by the service) with the App or the Secure Net portal.
     
 
 Keeping your personal information secure
@@ -955,11 +955,11 @@ Please also refer to the full Vodafone Ireland privacy policy on [this page.](ht
 
 Vodafone will collect and use your data, including usage statistics, to:
 
-* Improve the service;
+*   Improve the service;
     
-* Improve the security of the Vodafone Network; and
+*   Improve the security of the Vodafone Network; and
     
-* Provide you with a higher level of security and protection whilst you are on the Vodafone Network.
+*   Provide you with a higher level of security and protection whilst you are on the Vodafone Network.
     
 
 For how long do you keep my personal data?
@@ -990,11 +990,11 @@ This is the email address we will use for account recovery. Make sure you keep y
 
 Vodafone will collect and use your data, including usage statistics, to:  
 
-* Improve the service;
+*   Improve the service;
     
-* Improve the security of the Vodafone Network; and
+*   Improve the security of the Vodafone Network; and
     
-* Provide you with a higher level of security and protection whilst you are on the Vodafone Network.
+*   Provide you with a higher level of security and protection whilst you are on the Vodafone Network.
     
 
 Location information - Secure Net Find & Ring only  
@@ -1034,26 +1034,26 @@ Personal information we collect about you
 Information we collect about you  
 When you use the App and its features, for example check your broadband usage, view your data plans or interact with our customer care, information about such interactions is recorded on our servers. We also collect information about the quality and use of your connectivity services and apps. Personal data we collect includes;
 
-* Router MAC address
+*   Router MAC address
     
-* Router serial number
+*   Router serial number
     
-* MAC address of the devices connected to the router
+*   MAC address of the devices connected to the router
     
-* Unique line identifier
+*   Unique line identifier
     
-* Unique line identifier
+*   Unique line identifier
     
-* If you choose to name devices with personal names, we will store this data also.
+*   If you choose to name devices with personal names, we will store this data also.
     
 
 Vodafone will process your personal data based on:
 
-1. Vodafone’s legitimate business interests, for example, the analysis of app performance to enhance the product. Additionally, in some cases you have the right to object to this processing. For more information, visit the Your Choices section of this policy;
+1.  Vodafone’s legitimate business interests, for example, the analysis of app performance to enhance the product. Additionally, in some cases you have the right to object to this processing. For more information, visit the Your Choices section of this policy;
     
-2. In order to meet our contractual obligations where we have committed contractually to provide you with app services or;
+2.  In order to meet our contractual obligations where we have committed contractually to provide you with app services or;
     
-3. Consent you provide where Vodafone does not rely on another legal basis, for example the personalised data collection (if you have chosen to share this with us) for personalised services and offers. Consent is always presented to you separately and you can withdraw your consent at any time.
+3.  Consent you provide where Vodafone does not rely on another legal basis, for example the personalised data collection (if you have chosen to share this with us) for personalised services and offers. Consent is always presented to you separately and you can withdraw your consent at any time.
     
 
 ### Your Choices
@@ -1062,9 +1062,9 @@ App Settings
 
 The Gigabox app is one of the ways we put you in control as to how to manage your data sharing preferences. In your settings, you can choose:
 
-* Disable the sending of information about your use of the Gigabox app; or
+*   Disable the sending of information about your use of the Gigabox app; or
     
-* Disable push-notifications
+*   Disable push-notifications
     
 
 Please note: If you disable push-notifications, we may still send you marketing via SMS or email, or conduct telemarketing if we have your permission to do so. You can get in touch with us to opt out of marketing communications (such as email, SMS, phone or post).
@@ -1073,46 +1073,46 @@ Please note: If you disable push-notifications, we may still send you marketing 
 
 To assist our customer care services
 
-* We can advise you if you are having device performance or connectivity issues.
+*   We can advise you if you are having device performance or connectivity issues.
     
 
 To improve our networks and services  
 We analyse the collected information to diagnose connectivity, coverage or connection quality problems, understand connectivity needs from the usage of mobile data, Wi-Fi and apps, and use such insights to make improvements to our network and services. This may include, for example;
 
-* Helping us deal with performance issues caused by poorly performing devices;
+*   Helping us deal with performance issues caused by poorly performing devices;
     
-* Improving our commercial models and offers based on improved understanding the patterns related to the use of apps and connection quality;
+*   Improving our commercial models and offers based on improved understanding the patterns related to the use of apps and connection quality;
     
-* Improving the performance and design of the Gigabox app by understanding which features of the app are popular and how those features perform on different types of devices.
+*   Improving the performance and design of the Gigabox app by understanding which features of the app are popular and how those features perform on different types of devices.
     
 
 All personal identifiers are removed in the app before sending such information to Vodafone and we process the collected information anonymously. We do not intend to use the information to identify you or any other person personally and we have in place appropriate technical and organisational measures to prevent such from happening.
 
 If you disable the sending of information about your use of the Gigabox App, we still collect a reduced set of anonymous information every time the app is used (goes in foreground/background):
 
-* app version;
+*   app version;
     
-* app last update;
+*   app last update;
     
-* application ID;
+*   application ID;
     
-* device make and model;
+*   device make and model;
     
-* date and time the app went in foreground;
+*   date and time the app went in foreground;
     
-* date and time the app went in background;
+*   date and time the app went in background;
     
-* router model;
+*   router model;
     
-* router firmware version;
+*   router firmware version;
     
-* Anonymized Line Id;
+*   Anonymized Line Id;
     
-* Anonymized Router Serial Number
+*   Anonymized Router Serial Number
     
-* Usage information collection (on/off)
+*   Usage information collection (on/off)
     
-* App crashes information
+*   App crashes information
     
 
 Marketing and profiling  
@@ -1126,21 +1126,21 @@ How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Third parties for personalised marketing purposes, where you have given us your permission to do so;
+*   Third parties for personalised marketing purposes, where you have given us your permission to do so;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 ### International data transfers
@@ -1233,13 +1233,13 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* Contact our customer services team – see the [contact us](https://n.vodafone.ie/support.html) page;
+*   Contact our customer services team – see the [contact us](https://n.vodafone.ie/support.html) page;
     
-* Click the link at the end of a marketing email or text to unsubscribe;
+*   Click the link at the end of a marketing email or text to unsubscribe;
     
-* Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
+*   Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
     
-* Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com)
+*   Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com)
     
     for guidance.
     
@@ -1274,64 +1274,64 @@ Who we are
 
 We are Vodafone Ireland. We are a member of the Vodafone Group. In this privacy policy:
 
-* “we/us” means Vodafone Ireland;
+*   “we/us” means Vodafone Ireland;
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are registered in Ireland under company number 326967.
 
 Our lead supervisory authority is the Data Protection Commissioner.
 
-* Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
     
-* Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:00353761104800)
+*   Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:00353761104800)
     
-* In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
-* How to contact us Your opinion matters to us – if you have any queries about our Privacy Statement or practices, please contact us. Our main switchboard is [(01) 2037000](tel:0035312037000). You may contact our Data Protection Officer by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or writing to: Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
+*   How to contact us Your opinion matters to us – if you have any queries about our Privacy Statement or practices, please contact us. Our main switchboard is [(01) 2037000](tel:0035312037000). You may contact our Data Protection Officer by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or writing to: Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
     
 
 ### Personal information we collect about you
 
 Information we collect about you:
 
-* Your contact details, such as your phone number,  
+*   Your contact details, such as your phone number,  
     
-* Cookies: functional, performance and strictly necessary cookies, please see more details in the Cookies Policy section.
+*   Cookies: functional, performance and strictly necessary cookies, please see more details in the Cookies Policy section.
     
-* Data about the Device and SIM: IMSI (International Mobile Subscriber Identity), MSISDN from the device (phone number), make and model from the device.
+*   Data about the Device and SIM: IMSI (International Mobile Subscriber Identity), MSISDN from the device (phone number), make and model from the device.
     
 
 When we collect your personal information:  
   
 We collect your personal information when:
 
-* We collect your mobile phone number that you use to authenticate yourself. We don’t collect names, addresses or email addresses from your device but we do need access to certain browser attributes (see our Cookie Policy).
+*   We collect your mobile phone number that you use to authenticate yourself. We don’t collect names, addresses or email addresses from your device but we do need access to certain browser attributes (see our Cookie Policy).
     
-* We collect some information about your device and your use of Vodafone OneNumber (for example, language, equipment and usage statistics).
+*   We collect some information about your device and your use of Vodafone OneNumber (for example, language, equipment and usage statistics).
     
-* We’ll share some information with your Vodafone carriers and partners, and get some information back from them: your mobile number and other information about your tariff and the eligible services available to you.
+*   We’ll share some information with your Vodafone carriers and partners, and get some information back from them: your mobile number and other information about your tariff and the eligible services available to you.
     
 
   
 We’ll also get information about how you use our products and services, such as:
 
-* Details of your use of our services – for example, we can see whether our customers are actively using the service.
+*   Details of your use of our services – for example, we can see whether our customers are actively using the service.
     
-* We also collect aggregated analytics information on how our customers use OneNumber in order to improve your experience and troubleshoot.
+*   We also collect aggregated analytics information on how our customers use OneNumber in order to improve your experience and troubleshoot.
     
 
   
 Vodafone will process your personal data based on:
 
-1. Vodafone’s legitimate business interests, for example, fraud prevention, maintaining the security of our network and services, and improvement of our services. Whenever we rely on this lawful basis to process your data, we assess our business interests to make sure they do not override your rights. Additionally, in some cases you have the right to object to this processing. For more information, visit the Your Rights section of this policy.
+1.  Vodafone’s legitimate business interests, for example, fraud prevention, maintaining the security of our network and services, and improvement of our services. Whenever we rely on this lawful basis to process your data, we assess our business interests to make sure they do not override your rights. Additionally, in some cases you have the right to object to this processing. For more information, visit the Your Rights section of this policy.
     
-2. Consent you provide where Vodafone does not rely on another legal basis. Consent is always presented to you separately and you can withdraw your consent at any time. For example, we need your consent to process your data for marketing purposes.  
+2.  Consent you provide where Vodafone does not rely on another legal basis. Consent is always presented to you separately and you can withdraw your consent at any time. For example, we need your consent to process your data for marketing purposes.  
     
-3. Performance of your contract or to enter into the contract and to take action on your requests. For example, we process your account information and payment details for monthly billing of the service associated with the airtime plan.
+3.  Performance of your contract or to enter into the contract and to take action on your requests. For example, we process your account information and payment details for monthly billing of the service associated with the airtime plan.
     
 
 ### How we use your personal information
@@ -1352,13 +1352,13 @@ To opt out of Marketing messages or profiling: If you no longer want to receive 
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call [1800 200 234](tel:1800200234) to manage your marketing permissions and to opt out or into receiving personalised marketing.
+*   If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call [1800 200 234](tel:1800200234) to manage your marketing permissions and to opt out or into receiving personalised marketing.
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) for guidance.
+*   Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -1367,19 +1367,19 @@ Opting out does not mean that you won’t any longer receive service-related mes
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;  
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;  
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 ### International data transfers
@@ -1438,11 +1438,11 @@ If you wish to restrict the use of your data by Vodafone, please contact our Cus
 How to lodge a complaint  
 If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via vodafone.ie or by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
     
-* Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:353761104800)
+*   Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:353761104800)
     
-* In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 ### Our cookie policy
@@ -1467,13 +1467,13 @@ We use cookies and other similar tracking technologies to do a number of things.
 Cookies usually comprise of unique alphanumeric identifier that sits on your browser. In some cases, we won’t be able to link the information we collect by using a cookie back to you. They can, however, enable us to link that information back to you and your personal information, for example, when you log in, or choose to register for a service, or newsletter. We may also use cookies in order to provide you with personalised adverts based on your browsing behaviour.  
 We've put our cookies into the following categories, to make it easier for you to understand why we need them:
 
-1. Strictly necessary – these are used to help make our website work efficiently
+1.  Strictly necessary – these are used to help make our website work efficiently
     
-2. Performance – these are used to analyse the way our website works and how we can improve it
+2.  Performance – these are used to analyse the way our website works and how we can improve it
     
-3. Functionality – these help to enhance your experience by doing things like remembering products you've added to your basket.
+3.  Functionality – these help to enhance your experience by doing things like remembering products you've added to your basket.
     
-4. Targeting/advertising – these are used to share some information with third parties who we advertise with, so we know how you've reached our website. We can also use cookies to identify the parts of the website you’re interested in. We then use this information to show you adverts and pages we think may also be of interest to you, to tailor how we communicate with you, or to tailor the contents of the communications we send to you. If you prefer, you can opt out of these. Tailoring of content means it includes information reflecting the interest you’ve shown in the content of our web pages, or offers or promotions that we think may interest you, and to improve how we respond to your needs.
+4.  Targeting/advertising – these are used to share some information with third parties who we advertise with, so we know how you've reached our website. We can also use cookies to identify the parts of the website you’re interested in. We then use this information to show you adverts and pages we think may also be of interest to you, to tailor how we communicate with you, or to tailor the contents of the communications we send to you. If you prefer, you can opt out of these. Tailoring of content means it includes information reflecting the interest you’ve shown in the content of our web pages, or offers or promotions that we think may interest you, and to improve how we respond to your needs.
     
 
 In addition to the cookies we use on our websites, we also use cookies and similar technologies in some emails and push notifications we send to mobile devices from our apps. These help us to understand whether you have opened the email and how you have interacted with it. If you have enabled images, cookies may be set on your computer or mobile device. Cookies will also be set if you click on any link within the email.
@@ -1501,13 +1501,13 @@ This privacy statement explains the information that is collected by Vodafone th
 
 Some of our products are developed in partnership with specific third party partners, who will process your personal data as a data controller in their own right.
 
-* V-Pet, in partnership with [Kippy](https://www.kippy.eu/) or POD
+*   V-Pet, in partnership with [Kippy](https://www.kippy.eu/) or POD
     
-* V-Bag and V-Kids Watch in partnership with Alcatel
+*   V-Bag and V-Kids Watch in partnership with Alcatel
     
-* V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
+*   V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
     
-* V-Luggage and V-Mini, in partnership with [Trackimo](https://trackimo.com/).
+*   V-Luggage and V-Mini, in partnership with [Trackimo](https://trackimo.com/).
     
 
 We take the privacy of our users very seriously. We ask that you read this privacy statement carefully as it contains important information about how we will use your personal data.
@@ -1524,11 +1524,11 @@ We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us” means Vodafone Ireland Ltd.;
+*   “we/us” means Vodafone Ireland Ltd.;
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Vodafone Ireland, Mountain View, Leopardstown, Dublin 18. We are registered in Ireland under company number 326967.
@@ -1552,37 +1552,37 @@ Information we collect about you
 
 The types of information we process about you when you use your Connected Devices are:
 
-* Your Connected Device-generated data where it’s been provided by our partners (see Third party sources of data);
+*   Your Connected Device-generated data where it’s been provided by our partners (see Third party sources of data);
     
-* Your account information, such as the number of products you have with us and dates of payment owed or received;
+*   Your account information, such as the number of products you have with us and dates of payment owed or received;
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about the V-Sim connectivity we provide for Connected Devices, such as the data connections performed and the amount of data consumed;
+*   Information about the V-Sim connectivity we provide for Connected Devices, such as the data connections performed and the amount of data consumed;
     
-* Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
+*   Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
     
 
 We’ll also get information about how you use our products and services, such as:
 
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; and
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; and
     
-* Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices.
+*   Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices.
     
 
 When we collect your personal information
 
 We collect your personal information when:
 
-* You use any of your Connected Devices;
+*   You use any of your Connected Devices;
     
-* Device or app-generated data has been provided by our partners (see Third party sources of data);
+*   Device or app-generated data has been provided by our partners (see Third party sources of data);
     
-* You subscribe to marketing; or
+*   You subscribe to marketing; or
     
-* You contact our customer care teams with a question or complaint.
+*   You contact our customer care teams with a question or complaint.
     
 
 Third party sources of data
@@ -1609,13 +1609,13 @@ Vodafone will process your personal data based on:
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* to provide you with the connectivity you have requested for your Connected Devices;
+*   to provide you with the connectivity you have requested for your Connected Devices;
     
-* billing and customer care; and
+*   billing and customer care; and
     
-* identity verification.
+*   identity verification.
     
 
 2\. Marketing & profiling
@@ -1628,17 +1628,17 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
+*   If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
     
-* For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
-* Contact our customer services team via v.vodafone.com;
+*   Contact our customer services team via v.vodafone.com;
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -1653,30 +1653,30 @@ We will process your personal data in order to protect against and detect fraud,
 
 4\. Service improvement
 
-* We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
+*   We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
     
-* To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
+*   To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
     
-* To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
+*   To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
     
 
 ### How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 We also share aggregate performance information with third party V by Vodafone partners to understand how products and the V by Vodafone offering is performing commercially. For example, if we know that certain products are selling well, we can focus on partnering with more partners that cater to the market. This information does not identify you personally.
@@ -1727,18 +1727,18 @@ You will receive your information in a digital, machine-readable format.
 
 Right to object to use of personal data
 
-* If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
 
 How to lodge a complaint
 
 If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: info@dataprotection.ie
+*   Email: info@dataprotection.ie
     
-* Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
+*   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
-* In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 Right to restrict use of your data  
@@ -1768,11 +1768,11 @@ Who we are We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us” means Vodafone Ireland Ltd.;
+*   “we/us” means Vodafone Ireland Ltd.;
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Vodafone Ireland, Mountain View, Leopardstown, Dublin 18. We are registered in Ireland under company number 326967.
@@ -1791,28 +1791,28 @@ Information we collect about you
 
 The types of information we process about you when you use this site are:
 
-* Your contact details, such as name, address, phone number, and email address;
+*   Your contact details, such as name, address, phone number, and email address;
     
-* Your payment details, such as credit or debit card information and banking information;
+*   Your payment details, such as credit or debit card information and banking information;
     
-* The types of products you have purchased;
+*   The types of products you have purchased;
     
-* Any contact you have with us such as calls to us or if you email us; and
+*   Any contact you have with us such as calls to us or if you email us; and
     
-* Your website browsing information, such as how you are using our website or your IP address.
+*   Your website browsing information, such as how you are using our website or your IP address.
     
 
 When we collect your personal information
 
 We can collect your personal data when you:
 
-* Visit or browse this website;
+*   Visit or browse this website;
     
-* Purchase products and services from us;
+*   Purchase products and services from us;
     
-* Register your interest for future products and services; or
+*   Register your interest for future products and services; or
     
-* Contact us with a complaint or query.
+*   Contact us with a complaint or query.
     
 
 Third party sources of data
@@ -1835,15 +1835,15 @@ How we use your personal information
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* To process the products and services you’ve bought from us, and keep you updated with the progress of your order;
+*   To process the products and services you’ve bought from us, and keep you updated with the progress of your order;
     
-* To bill you for using our products and services, or to take the appropriate amount of credit from you;
+*   To bill you for using our products and services, or to take the appropriate amount of credit from you;
     
-* Contact you if the billing information you provided us with is about to expire or we’re not able to take payment;
+*   Contact you if the billing information you provided us with is about to expire or we’re not able to take payment;
     
-* To respond to any questions or concerns you may have about our network, products or services; and
+*   To respond to any questions or concerns you may have about our network, products or services; and
     
-* We will contact you with customer service messages to keep you updated with current information about products and services you’ve purchased. For example, changes to our terms and conditions, or letting you know about the status of your order.
+*   We will contact you with customer service messages to keep you updated with current information about products and services you’ve purchased. For example, changes to our terms and conditions, or letting you know about the status of your order.
     
 
 2\. Marketing and profiling
@@ -1856,17 +1856,17 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
+*   If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
     
-* For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
-* Contact our customer services team via v.vodafone.com;
+*   Contact our customer services team via v.vodafone.com;
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -1877,30 +1877,30 @@ Outside of the profiling we conduct for marketing purposes to tailor and persona
 
 This can sometimes use systems to make automated decisions based on personal information we have or are allowed to collect from others. The goal is to make the decisions as quick, efficient, fair and correct as possible, based on what we know. It can affect the products or services we may offer you now or in the future.
 
-* We will carry out a credit check when you apply for a contract for your products and services with us. Information on credit checks is included in our [Privacy Policy](https://n.vodafone.ie/privacy).
+*   We will carry out a credit check when you apply for a contract for your products and services with us. Information on credit checks is included in our [Privacy Policy](https://n.vodafone.ie/privacy).
     
-* If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll) This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
+*   If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll) This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
     
-* We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
+*   We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
     
 
 How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 We also share aggregate performance information with third party V by Vodafone partners to understand how products and the V by Vodafone offering is performing commercially. For example, if we know that certain products are selling well, we can focus on delivering more of the same. This information does not identify you personally.
@@ -1949,18 +1949,18 @@ You will receive your information in a digital, machine-readable format.
 
 Right to object to use of personal data
 
-* If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
 
 How to lodge a complaint
 
 If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: info@dataprotection.ie
+*   Email: info@dataprotection.ie
     
-* Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
+*   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
-* In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 Right to restrict use of your data
@@ -1985,13 +1985,13 @@ This privacy statement explains the information that is collected by Vodafone th
 
 Some of our products are developed in partnership with specific third party partners, who will process your personal data as a data controller in their own right.
 
-* V-Pet, in partnership with [Kippy](https://www.kippy.eu/)or POD
+*   V-Pet, in partnership with [Kippy](https://www.kippy.eu/)or POD
     
-* V-Bag and V-Kids Watch in partnership with Alcatel.
+*   V-Bag and V-Kids Watch in partnership with Alcatel.
     
-* V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
+*   V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
     
-* V-Luggage and V-Multi Tracker in partnership with [Trackimo](https://trackimo.com/).
+*   V-Luggage and V-Multi Tracker in partnership with [Trackimo](https://trackimo.com/).
     
 
 We take the privacy of our users very seriously. We ask that you read this privacy statement carefully as it contains important information about how we will use your personal data.
@@ -2010,11 +2010,11 @@ We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us”means Vodafone Ireland Ltd.;
+*   “we/us”means Vodafone Ireland Ltd.;
     
-* “third party”means someone who is not you or us; and
+*   “third party”means someone who is not you or us; and
     
-* “Vodafone Group”means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group”means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Vodafone Ireland, Mountain View, Leopardstown, Dublin 18. We are registered in Ireland under company number 326967.
@@ -2033,37 +2033,37 @@ Information we collect about you
 
 The types of information we process about you when you use your Connected Devices are:
 
-* Your Connected Device-generated data where it’s been provided by our partners (see Third party sources of data);
+*   Your Connected Device-generated data where it’s been provided by our partners (see Third party sources of data);
     
-* Your account information, such as the number of products you have with us and dates of payment owed or received;
+*   Your account information, such as the number of products you have with us and dates of payment owed or received;
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about the V-Sim connectivity we provide for Connected Devices, such as the data connections performed and the amount of data consumed;
+*   Information about the V-Sim connectivity we provide for Connected Devices, such as the data connections performed and the amount of data consumed;
     
-* Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
+*   Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
     
 
 We’ll also get information about how you use our products and services, such as:
 
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; and
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; and
     
-* Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices.
+*   Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices.
     
 
 When we collect your personal information
 
 We collect your personal information when:
 
-* You use any of your Connected Devices;
+*   You use any of your Connected Devices;
     
-* Device or app-generated data has been provided by our partners (see Third party sources of data);
+*   Device or app-generated data has been provided by our partners (see Third party sources of data);
     
-* You subscribe to marketing; or
+*   You subscribe to marketing; or
     
-* You contact our customer care teams with a question or complaint.
+*   You contact our customer care teams with a question or complaint.
     
 
 Third party sources of data
@@ -2090,13 +2090,13 @@ How we use your personal information
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* to provide you with the connectivity you have requested for your Connected Devices;
+*   to provide you with the connectivity you have requested for your Connected Devices;
     
-* billing and customer care; and
+*   billing and customer care; and
     
-* identity verification.
+*   identity verification.
     
 
 2\. Marketing & profiling
@@ -2109,17 +2109,17 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
+*   If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
     
-* For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
-* Contact our customer services team via v.vodafone.com;
+*   Contact our customer services team via v.vodafone.com;
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2134,30 +2134,30 @@ We will process your personal data in order to protect against and detect fraud,
 
 4\. Service improvement
 
-* We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
+*   We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
     
-* To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
+*   To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
     
-* To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
+*   To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
     
 
 How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 We also share aggregate performance information with third party V by Vodafone partners to understand how products and the V by Vodafone offering is performing commercially. For example, if we know that certain products are selling well, we can focus on partnering with more partners that cater to the market. This information does not identify you personally.
@@ -2208,11 +2208,11 @@ How to lodge a complaint
 
 If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: info@dataprotection.ie
+*   Email: info@dataprotection.ie
     
-* Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
+*   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
-* In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 Right to restrict use of your data If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
@@ -2239,11 +2239,11 @@ We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us” means Vodafone Ireland Ltd.;
+*   “we/us” means Vodafone Ireland Ltd.;
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Vodafone Ireland, Mountain View, Leopardstown, Dublin 18. We are registered in Ireland under company number 326967.
@@ -2274,73 +2274,73 @@ When our customers upload their address book to the V by Vodafone App, we collec
 
 We will receive the following information about you:
 
-* Your mobile phone number;
+*   Your mobile phone number;
     
-* Your full name; and
+*   Your full name; and
     
-* (If provided) your relationship to our customer (for example, mother or spouse)
+*   (If provided) your relationship to our customer (for example, mother or spouse)
     
 
 We will not use your data for purposes other than adding them to services when requested by the account holder.
 
 You can remove yourself as a Trusted Contact at any time by either:
 
-* Asking our customer to remove you from their list;
+*   Asking our customer to remove you from their list;
     
-* Asking an agent when you are contacted (please quote the ID provided in your SMS alert); or
+*   Asking an agent when you are contacted (please quote the ID provided in your SMS alert); or
     
-* Request removal via customer services via v.vodafone.com.
+*   Request removal via customer services via v.vodafone.com.
     
 
 Information we collect about you
 
 The types of information we process about you when you use your V by Vodafone App are:
 
-* Your name, address, mobile number, date of birth and email address;
+*   Your name, address, mobile number, date of birth and email address;
     
-* If we need to verify your identity, documentation such as a passport or other identification;
+*   If we need to verify your identity, documentation such as a passport or other identification;
     
-* Your account information, such as the number of connected SIMs you have with us and dates of payment owed or received;
+*   Your account information, such as the number of connected SIMs you have with us and dates of payment owed or received;
     
-* Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
+*   Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
     
-* Any photos you upload to personalise your Connected Devices’ accounts;
+*   Any photos you upload to personalise your Connected Devices’ accounts;
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services (see Marketing & profiling);
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about your mobile device each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
+*   Information about your mobile device each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
     
-* Information about your usage of the App, such as how often you use it; and
+*   Information about your usage of the App, such as how often you use it; and
     
-* Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
+*   Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
     
 
 We’ll also get information about how you use our products and services, such as:
 
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
     
-* Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices; and
+*   Details of your use of our services – for example, we can see the amount of data your devices are using which we can use to assess what sorts of data allowances we need to provide for different Connected Devices; and
     
-* We also collect anonymous analytics information on how our customers use the V by Vodafone App in order to improve your experience and troubleshoot.
+*   We also collect anonymous analytics information on how our customers use the V by Vodafone App in order to improve your experience and troubleshoot.
     
 
 When we collect your personal information
 
 We collect your personal information when:
 
-* You buy a connected product from us (online, or in store);
+*   You buy a connected product from us (online, or in store);
     
-* You first register your Connected Device product in the V by Vodafone App;
+*   You first register your Connected Device product in the V by Vodafone App;
     
-* If you’re a non-Vodafone customer, when we verify your identity and you add your payment details;
+*   If you’re a non-Vodafone customer, when we verify your identity and you add your payment details;
     
-* You grant the App access to your camera (for taking pictures for ID verification) or your device’s photo album (if you want to add personalised pictures to your Connected Devices’ accounts);
+*   You grant the App access to your camera (for taking pictures for ID verification) or your device’s photo album (if you want to add personalised pictures to your Connected Devices’ accounts);
     
-* You use the V by Vodafone Application; or
+*   You use the V by Vodafone Application; or
     
-* You subscribe to marketing.
+*   You subscribe to marketing.
     
 
 Third party sources of data
@@ -2363,13 +2363,13 @@ How we use your personal information
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* billing and customer care;
+*   billing and customer care;
     
-* to notify you of any changes to the App or to our services that may affect you; and
+*   to notify you of any changes to the App or to our services that may affect you; and
     
-* identity verification.
+*   identity verification.
     
 
 2\. Marketing & profiling
@@ -2382,17 +2382,17 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
+*   If you are a Vodafone consumer mobile customer, you can log in to your My Vodafone account, access ‘settings’ on the My Vodafone App, or call 1800 200 234 to manage your marketing permissions and to opt out or into receiving personalised marketing.
     
-* For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
-* Contact our customer services team via v.vodafone.com;
+*   Contact our customer services team via v.vodafone.com;
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2403,39 +2403,39 @@ Outside of the profiling we conduct for marketing purposes to tailor and persona
 
 This can sometimes use systems to make automated decisions based on personal information we have or are allowed to collect from others. The goal is to make the decisions as quick, efficient, fair and correct as possible, based on what we know. It can affect the products or services we may offer you now or in the future.
 
-* We will carry out a credit check when you apply for a contract for your products and services with us. Information on credit checks is included in our [Privacy Policy](https://n.vodafone.ie/privacy).
+*   We will carry out a credit check when you apply for a contract for your products and services with us. Information on credit checks is included in our [Privacy Policy](https://n.vodafone.ie/privacy).
     
-* If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll). This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
+*   If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll). This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
     
-* We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
+*   We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
     
 
 4\. Service improvement
 
-* We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
+*   We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
     
-* To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
+*   To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
     
-* To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
+*   To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
     
 
 How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Ireland Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 We also share aggregate performance information with third party V by Vodafone partners to understand how products and the V by Vodafone offering is performing commercially. For example, if we know that certain products are selling well, we can focus on partnering with more partners that cater to the market. This information does not identify you personally.
@@ -2486,18 +2486,18 @@ You will receive your information in a digital, machine-readable format.
 
 Right to object to use of personal data
 
-* If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
+*   If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account. By selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
     
 
 How to lodge a complaint
 
 If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: info@dataprotection.ie
+*   Email: info@dataprotection.ie
     
-* Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
+*   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
-* In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 Right to restrict use of your data
@@ -2538,11 +2538,11 @@ We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us”means \[Vodafone Ireland Ltd.;
+*   “we/us”means \[Vodafone Ireland Ltd.;
     
-* “third party”means someone who is not you or us; and
+*   “third party”means someone who is not you or us; and
     
-* “Vodafone Group”means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group”means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Our registered office is Vodafone Ireland, Mountain View, Leopardstown, Dublin 18.
@@ -2567,28 +2567,28 @@ Information we collect about you
 
 The types of information we process about you when you use your Connected Device and the V-Auto App are:
 
-* Your name, address, mobile number, date of birth and email address;
+*   Your name, address, mobile number, date of birth and email address;
     
-* If we need to verify your identity, documentation such as a passport or other identification;
+*   If we need to verify your identity, documentation such as a passport or other identification;
     
-* Your account information, such as the number of products you have with us, dates of payment owed or received and the make, model and year of the vehicle you have;
+*   Your account information, such as the number of products you have with us, dates of payment owed or received and the make, model and year of the vehicle you have;
     
-* Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
+*   Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about your mobile device each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
+*   Information about your mobile device each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
     
-* Information about the V-Sim connectivity, such as the data connections performed and the amount of data consumed, as well as information about the V-Auto device the V-Sim is in;
+*   Information about the V-Sim connectivity, such as the data connections performed and the amount of data consumed, as well as information about the V-Auto device the V-Sim is in;
     
-* Information about your usage of the App, such as how often you use it;
+*   Information about your usage of the App, such as how often you use it;
     
-* Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city; and
+*   Your location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city; and
     
 
-* Your driving information such as:
+*   Your driving information such as:
     
 
 o your trips, so that we can show them to you in the app; and
@@ -2597,32 +2597,32 @@ o your acceleration, braking, driving speed and other driving indicators, so tha
 
 We’ll also get information about how you use our products and services, such as:
 
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
     
-* Details of your use of our services – for example, we can see the amount of data your device is using which we can use to assess whether our data allowances are sufficient; and
+*   Details of your use of our services – for example, we can see the amount of data your device is using which we can use to assess whether our data allowances are sufficient; and
     
-* We also collect anonymous analytics information on how our customers use the V-Auto App in order to improve your experience and troubleshoot.
+*   We also collect anonymous analytics information on how our customers use the V-Auto App in order to improve your experience and troubleshoot.
     
 
 When we collect your personal information
 
 We collect your personal information when:
 
-* You buy a connected product from us (online, or in store);
+*   You buy a connected product from us (online, or in store);
     
-* You first register your Connected Device product in the V-Auto App;
+*   You first register your Connected Device product in the V-Auto App;
     
-* If you’re a non-Vodafone customer, when we verify your identity and you add your payment details;
+*   If you’re a non-Vodafone customer, when we verify your identity and you add your payment details;
     
-* You use the V-Auto Application and any of its features (such as Find my Car, Auto SOS, My Trips, and Driver Safety Score);
+*   You use the V-Auto Application and any of its features (such as Find my Car, Auto SOS, My Trips, and Driver Safety Score);
     
-* You activate and drive with the V-Auto device installed in your vehicle;
+*   You activate and drive with the V-Auto device installed in your vehicle;
     
-* Where a user has nominated you as an additional user to the V-auto product;
+*   Where a user has nominated you as an additional user to the V-auto product;
     
-* You subscribe to marketing; or
+*   You subscribe to marketing; or
     
-* You contact our customer care teams with a question or complaint.
+*   You contact our customer care teams with a question or complaint.
     
 
 Third party sources of data
@@ -2647,15 +2647,15 @@ How we use your personal information
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* to provide you with connectivity for your V-Auto device and its functionalities such as Find my Car, Auto SOS, My Trips, and Driver Safety Score;
+*   to provide you with connectivity for your V-Auto device and its functionalities such as Find my Car, Auto SOS, My Trips, and Driver Safety Score;
     
-* billing and customer care;
+*   billing and customer care;
     
-* to notify you of any changes to the App or to our services that may affect you; and
+*   to notify you of any changes to the App or to our services that may affect you; and
     
-* identity verification.
+*   identity verification.
     
 
 2\. Marketing & profiling
@@ -2668,15 +2668,15 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* If you are a Vodafone consumer mobile customer, you can log in to your MyVodafone account to manage your marketing permissions and to opt out or into receiving personalised marketing. For customers without a Vodafone mobile number, you can manage your permissions in the V-Auto App.
+*   If you are a Vodafone consumer mobile customer, you can log in to your MyVodafone account to manage your marketing permissions and to opt out or into receiving personalised marketing. For customers without a Vodafone mobile number, you can manage your permissions in the V-Auto App.
     
-* Contact our customer care team via v.vodafone.com;
+*   Contact our customer care team via v.vodafone.com;
     
-* All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
+*   All our marketing messages come with an “unsubscribe” link which you can click to unsubscribe;
     
-* Tell the adviser if you receive an outbound marketing call;
+*   Tell the adviser if you receive an outbound marketing call;
     
-* Email \[data.protection.ie@vodafone.com\] for guidance.
+*   Email \[data.protection.ie@vodafone.com\] for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2685,27 +2685,27 @@ Opting out does not mean that you won’t any longer receive service-related mes
 
 Outside of the profiling we conduct for marketing purposes to tailor and personalise the communications we send, we use automated processing to generate the insights behind the key functionalities of the App. For example, we:
 
-* create a driving score for you. This is based on a number of data inputs such as your acceleration, speed and deceleration; and
+*   create a driving score for you. This is based on a number of data inputs such as your acceleration, speed and deceleration; and
     
-* provide you contextual information. For example, in the status screen you’ll get offered to set a parking alert if we detect that your car is moving or you’ll get offered directions to your car if we detect from your phone location that you are nearby it.
+*   provide you contextual information. For example, in the status screen you’ll get offered to set a parking alert if we detect that your car is moving or you’ll get offered directions to your car if we detect from your phone location that you are nearby it.
     
 
 We also profile you for credit, fraud and security purposes. This can sometimes use systems to make automated decisions based on personal information we have or are allowed to collect from others. The goal is to make the decisions as quick, efficient, fair and correct as possible, based on what we know. It can affect the products or services we may offer you now or in the future.
 
-* We will carry out a credit check when you apply for a contract for your products and services with us, as described in our privacy [policy](https://n.vodafone.ie/privacy).
+*   We will carry out a credit check when you apply for a contract for your products and services with us, as described in our privacy [policy](https://n.vodafone.ie/privacy).
     
-* If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll) This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
+*   If you are not already a Vodafone customer, we will use your personal information for identity verification purposes. We sometimes supplement the information we collect about you with information from other sources (such as the electoral roll) This will be prompted to you on first registration of a connected device within the V by Vodafone or V Auto apps. We also use this verification for access to your account and for general account management. However, this identity verification process is supported by human agents that will verify the output of the automated decision.
     
-* We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
+*   We will process your personal data in order to protect against and detect fraud, and to recover debts or trace those who owe us money resulting from the use of our services.
     
 
 4\. Service improvement
 
-* We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
+*   We collect anonymous, de-identified or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way.
     
-* To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
+*   To protect our networks and manage the volumes of calls, texts and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; and
     
-* To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
+*   To understand how you use our networks, products and services. That way we can seek to review, develop and improve these, develop more interesting and relevant products and services, as well as personalising our products and services.
     
 
 How we share your personal information
@@ -2714,21 +2714,21 @@ Some features of your V-Auto device require us to share information with third p
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Third parties who you have nominated to view your driver information via the app;
+*   Third parties who you have nominated to view your driver information via the app;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 International data transfers
@@ -2777,11 +2777,11 @@ Right to object to use of personal data · If you do not want your personal info
 
 How to lodge a complaint If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-* Email: info@dataprotection.ie
+*   Email: info@dataprotection.ie
     
-* Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
+*   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
-* In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+*   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
 Right to restrict use of your data
@@ -2822,9 +2822,9 @@ Information on controlling and deleting cookies is also available at [http://all
 
 This Privacy Statement explains how we process the information of:
 
-* subscribers whose data may be collected through the V by Vodafone app (‘App’); and
+*   subscribers whose data may be collected through the V by Vodafone app (‘App’); and
     
-* users whose data may be collected via the Smart Tracker with model ID VST001 (‘Device’).
+*   users whose data may be collected via the Smart Tracker with model ID VST001 (‘Device’).
     
 
 We take the privacy of our subscribers and users very seriously. We ask that you read this Privacy Statement carefully as it contains important information about how we will use your personal data.
@@ -2843,11 +2843,11 @@ We are Vodafone Ireland Limited, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us” means Vodafone Ireland Limited;
+*   “we/us” means Vodafone Ireland Limited;
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Vodafone Ireland limited is a private Company Limited by Shares, registered in Ireland with registered office at MountainView, Leopardstown, Dublin18. We are registered in Ireland under company number 326967.
@@ -2877,47 +2877,47 @@ Information we collect about you
 
 The types of information we process includes;
 
-* Your name, address, mobile number or landline number, date of birth and email address;
+*   Your name, address, mobile number or landline number, date of birth and email address;
     
-* Your account information, such as the number of products you have with us, dates of payment owed or received and the make, model and year of the vehicle you have;
+*   Your account information, such as the number of products you have with us, dates of payment owed or received and the make, model and year of the vehicle you have;
     
-* Your photos or camera settings, if you want to add photos for profile setup, including the user of the device, to their respective profiles (you can revoke these permissions in your phone’s Settings);
+*   Your photos or camera settings, if you want to add photos for profile setup, including the user of the device, to their respective profiles (you can revoke these permissions in your phone’s Settings);
     
-* Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
+*   Your credential information such as passwords, hints and similar security information used for authentication and access to accounts and services;
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about your mobile handset each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
+*   Information about your mobile handset each time you use the App. For example, we may collect information on the type of mobile device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
     
-* Information about your usage of the App, such as how often you use it or when you dismiss alerts; and
+*   Information about your usage of the App, such as how often you use it or when you dismiss alerts; and
     
-* Your mobile handset or device location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. The device will always process location data in order for you to locate the device however, you can turn of location tracking of your mobile handset at any time.
+*   Your mobile handset or device location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. The device will always process location data in order for you to locate the device however, you can turn of location tracking of your mobile handset at any time.
     
-* Information about your interaction with the App and its features, such as voice related activity if you choose to connect your device with another third party device (for example Alexa). If you do, the other device provider will share with us your “voice intents” which includes the content of your requests to enable us to provide and improve your experience and our services (you can stop the sharing of this information with us by unlinking the devices/removing our access to the other device).
+*   Information about your interaction with the App and its features, such as voice related activity if you choose to connect your device with another third party device (for example Alexa). If you do, the other device provider will share with us your “voice intents” which includes the content of your requests to enable us to provide and improve your experience and our services (you can stop the sharing of this information with us by unlinking the devices/removing our access to the other device).
     
 
 We’ll also get information about how you use our products and services, such as:
 
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
     
-* Details of your use of our services – for example, we can see the amount of data the device is using which we can use to assess whether our data allowances are sufficient; and
+*   Details of your use of our services – for example, we can see the amount of data the device is using which we can use to assess whether our data allowances are sufficient; and
     
-* We also collect anonymous analytics information on how users use the device and app in order to improve your experience and troubleshoot.
+*   We also collect anonymous analytics information on how users use the device and app in order to improve your experience and troubleshoot.
     
 
 When we collect your personal information
 
 We collect personal information when:
 
-* You first set up your device in the App and set up your profile;
+*   You first set up your device in the App and set up your profile;
     
-* You use the App and any of its features (for example, setting a geographical zone or changing tracking mode);
+*   You use the App and any of its features (for example, setting a geographical zone or changing tracking mode);
     
-* You subscribe to marketing; or
+*   You subscribe to marketing; or
     
-* You contact our customer care teams.
+*   You contact our customer care teams.
     
 
 Vodafone will process your personal data based on:
@@ -2936,15 +2936,15 @@ Vodafone will process your personal data based on:
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* to provide you with connectivity and features for your device;
+*   to provide you with connectivity and features for your device;
     
-* billing and customer care;
+*   billing and customer care;
     
-* to notify you of any changes to the App or to our services that may affect you; and
+*   to notify you of any changes to the App or to our services that may affect you; and
     
-* identity verification.
+*   identity verification.
     
 
 2\. Marketing and profiling
@@ -2957,15 +2957,15 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:  
 
-* Contact our customer care team on 1907
+*   Contact our customer care team on 1907
     
-* Log onto My Vodafone though the Vodafone website or via My Vodafone app to review and change your marketing preferences
+*   Log onto My Vodafone though the Vodafone website or via My Vodafone app to review and change your marketing preferences
     
-* Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
+*   Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
-* Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
+*   Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
     
 
 3\. Service improvement
@@ -2982,19 +2982,19 @@ We also process call recordings or chat transcripts when you interact with our c
 
 Where applicable, we share information about you with:  
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used (for example our supplier Trackimo who help to build the product);
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used (for example our supplier Trackimo who help to build the product);
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
 
 ### International data transfers
@@ -3068,9 +3068,9 @@ Smart Childrens Watch (VKW001) – Privacy Statement
 
 This Privacy Statement explains how we process the information:
 
-* of Administrators whose data may be collected through the Vodafone Smart app (‘App’); and
+*   of Administrators whose data may be collected through the Vodafone Smart app (‘App’); and
     
-* wearer’s (‘User’s’), collected via the connected device (‘Connected Device’).
+*   wearer’s (‘User’s’), collected via the connected device (‘Connected Device’).
     
 
 We take the privacy of our users very seriously. We ask that you read this Privacy Statement carefully as it contains important information about how we will use your personal data.
@@ -3089,13 +3089,13 @@ We are Vodafone Ireland Limited, a member of the Vodafone Group.
 
 In this privacy policy:
 
-* “we/us” means Vodafone Ireland Limited;
+*   “we/us” means Vodafone Ireland Limited;
     
-* “you/your” means the user of the account owner or the user of the Connected Device
+*   “you/your” means the user of the account owner or the user of the Connected Device
     
-* “third party” means someone who is not you or us; and
+*   “third party” means someone who is not you or us; and
     
-* “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
+*   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
 Vodafone Ireland limited is a private Company Limited by Shares, registered in Ireland with registered office at MountainView, Leopardstown, Dublin18. We are registered in Ireland under company number 326967.
@@ -3124,46 +3124,46 @@ Information we collect about you
 
 The types of information we process includes;
 
-* Your name, address, mobile number or landline number, date of birth and email address;
+*   Your name, address, mobile number or landline number, date of birth and email address;
     
-* Your account information, such as the number of products you have with us, dates of payment owed or received and the type of Connected Device you have;
+*   Your account information, such as the number of products you have with us, dates of payment owed or received and the type of Connected Device you have;
     
-* Your phone’s address book, so that you can add contacts to the group (you can revoke these permissions in your phone’s Settings);
+*   Your phone’s address book, so that you can add contacts to the group (you can revoke these permissions in your phone’s Settings);
     
-* Your photos or camera settings, if you want to add photos of Group members, including the User of the device, to their respective profiles (you can revoke these permissions in your phone’s Settings);
+*   Your photos or camera settings, if you want to add photos of Group members, including the User of the device, to their respective profiles (you can revoke these permissions in your phone’s Settings);
     
-* Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
+*   Your preferences for particular products or services when you tell us what they are, or we assume what they are, based on how you use the products and services;
     
-* Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
+*   Customer care information through your contact with us, such as a note or recording of a call you make to one of our contact centres;
     
-* Information about your Connected Device each time you use the App. For example, we may collect information on the type of device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
+*   Information about your Connected Device each time you use the App. For example, we may collect information on the type of device that you are using and its unique device identifier (for example, the IMEI number, the device’s mobile phone number, or the MAC address of the device’s wireless network interface);
     
-* Messages between your phone and the device, this is stored locally on your devices;
+*   Messages between your phone and the device, this is stored locally on your devices;
     
-* Information about your usage of the App, such as how often you use it or when you dismiss alerts; and
+*   Information about your usage of the App, such as how often you use it or when you dismiss alerts; and
     
-* Your Connected Device location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
+*   Your Connected Device location data. This can be precise where it uses Global Positioning System (GPS) data or by identifying nearby mobile phone masts and Wi-Fi hotspots and you enable location-based services or features. Or less precise where, for example, a location is derived from your IP address or data such as a post code or name of a town or city.
     
-* We’ll also get information about how you use our products and services, such as:
+*   We’ll also get information about how you use our products and services, such as:
     
-* The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
+*   The level of service that you receive – for example, network or service faults and other events that may affect our network services or other services;
     
-* Details of your use of our services – for example, we can see the amount of data the Connected Device is using which we can use to assess whether our data allowances are sufficient; and
+*   Details of your use of our services – for example, we can see the amount of data the Connected Device is using which we can use to assess whether our data allowances are sufficient; and
     
-* We also collect anonymous analytics information on how users use the Connected Device in order to improve your experience and troubleshoot.
+*   We also collect anonymous analytics information on how users use the Connected Device in order to improve your experience and troubleshoot.
     
 
 When we collect your personal information
 
 We collect personal information when:
 
-* You first set up your Connected Device product in the App and add your contact details and those of contacts;
+*   You first set up your Connected Device product in the App and add your contact details and those of contacts;
     
-* You use the App and any of its features (for example, dismissing alerts or messaging other contacts);
+*   You use the App and any of its features (for example, dismissing alerts or messaging other contacts);
     
-* You subscribe to marketing; or
+*   You subscribe to marketing; or
     
-* You contact our customer care teams with a query.
+*   You contact our customer care teams with a query.
     
 
 Vodafone will process your personal data based on:
@@ -3182,15 +3182,15 @@ How we use your personal information
 
 We use your information for service provision and to fulfil any purchases you have made:
 
-* to help us identify you and any accounts you hold with us;
+*   to help us identify you and any accounts you hold with us;
     
-* to provide you with connectivity for your Connected Device;
+*   to provide you with connectivity for your Connected Device;
     
-* billing and customer care;
+*   billing and customer care;
     
-* to notify you of any changes to the App or to our services that may affect you; and
+*   to notify you of any changes to the App or to our services that may affect you; and
     
-* identity verification.
+*   identity verification.
     
 
 1\. Marketing and profiling
@@ -3203,15 +3203,15 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* Contact our customer care team on 1907
+*   Contact our customer care team on 1907
     
-* Log onto My Vodafone though the Vodafone website or via My Vodafone app to review and change your marketing preferences
+*   Log onto My Vodafone though the Vodafone website or via My Vodafone app to review and change your marketing preferences
     
-* Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
+*   Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
     
-* Email dataprotection.ie@vodafone.com for guidance.
+*   Email dataprotection.ie@vodafone.com for guidance.
     
-* Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
+*   Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
     
 
 2\. Service improvement
@@ -3226,21 +3226,21 @@ How we share your personal information
 
 Where applicable, we share information about you with:
 
-* Companies in the Vodafone Group;
+*   Companies in the Vodafone Group;
     
-* Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
+*   Partners, suppliers or agents involved in delivering the products and services you’ve ordered or used;
     
-* Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
+*   Companies who are engaged to perform services for, or on behalf of, Vodafone Limited, or Vodafone Group;
     
-* Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
+*   Credit reference, fraud-prevention or business-scoring agencies, or other credit scoring agencies;
     
-* Debt collection agencies or other debt-recovery organisations;
+*   Debt collection agencies or other debt-recovery organisations;
     
-* Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
+*   Law enforcement agencies, government bodies, regulatory organisations, courts or other public authorities if we have to, or are authorised to by law; or
     
-* A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
+*   A third party or body where such disclosure is required to satisfy any applicable law, or other legal or regulatory requirement.
     
-* Smartcomm for neo \[MHV1\]
+*   Smartcomm for neo \[MHV1\]
     
 
 International data transfers
@@ -3348,7 +3348,7 @@ These cookies enable the website to provide enhanced functionality and personali
 
 These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
 
-* ##### Social Media Cookies
+*   ##### Social Media Cookies
     
     These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
     
@@ -3357,13 +3357,13 @@ These cookies may be set through our site by our advertising partners. They may 
 
 To buy a phone or sign up to services like My Vodafone or Vodafone Cherry Points on Pay as you go, you must have cookies enabled on your internet browser. The more popular ones are:
 
-* Internet Explorer
+*   Internet Explorer
     
-* Firefox
+*   Firefox
     
-* Safari
+*   Safari
     
-* Google Chrome
+*   Google Chrome
     
 
 You can still see the website if you choose not to enable cookies. If cookies aren't enabled, your shopping experience will be limited to just browsing our site.
@@ -3372,64 +3372,64 @@ You can still see the website if you choose not to enable cookies. If cookies ar
 
 You can control Vodafone website cookies by clicking the Cookie Settings button. You can control how you use cookies on all websites through your browser settings. If you don't know what browser you're using, find out by:  
 
-* PC users: Go to 'Help' in your browser and choosing 'About'.
+*   PC users: Go to 'Help' in your browser and choosing 'About'.
     
-* Mac users: Click on the Apple menu and choose 'About'.
+*   Mac users: Click on the Apple menu and choose 'About'.
     
 
 ### How to enable cookies for PCs
 
 #### Google Chrome
 
-1. Go to Settings
+1.  Go to Settings
     
-2. Near the bottom of the page, select Show advanced settings.
+2.  Near the bottom of the page, select Show advanced settings.
     
-3. In the "Privacy" section, select Content settings.
+3.  In the "Privacy" section, select Content settings.
     
-4. Select Allow local data to be set (recommended).
+4.  Select Allow local data to be set (recommended).
     
-5. Select Done.
+5.  Select Done.
     
 
 #### Microsoft Internet Explorer 9.0
 
-1. Click the Tools button and then click Internet options.
+1.  Click the Tools button and then click Internet options.
     
-2. Click the Privacy tab, and then, under Settings, move the slider to the top to block all cookies or to the bottom to allow all cookies, and then click OK
+2.  Click the Privacy tab, and then, under Settings, move the slider to the top to block all cookies or to the bottom to allow all cookies, and then click OK
     
 
 #### Mozilla Firefox
 
-1. Click the menu button at the top right of your browser window and select Options.
+1.  Click the menu button at the top right of your browser window and select Options.
     
-2. Then select the Privacy icon.
+2.  Then select the Privacy icon.
     
-3. Set 'Firefox will:'' to 'Use custom settings for history'.
+3.  Set 'Firefox will:'' to 'Use custom settings for history'.
     
-4. Check mark Accept cookies from sites to enable Cookies, and uncheck it to disable them.
+4.  Check mark Accept cookies from sites to enable Cookies, and uncheck it to disable them.
     
 
 #### Safari on OSX
 
-1. Choose Safari
+1.  Choose Safari
     
-2. Select Preferences followed by Privacy.
+2.  Select Preferences followed by Privacy.
     
-3. You can then choose to block or unblock cookies.
+3.  You can then choose to block or unblock cookies.
     
 
 ### Block cookies
 
 If you'd like to find out how to stop websites using cookies to remember what sites you visit, choose your browser from the list. This will take you to the browser's respective page where you can manage your cookies and site data:
 
-* [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+*   [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
     
-* [Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&amp;locale=en_US)
+*   [Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&amp;locale=en_US)
     
-* [Firefox](https://www.mozilla.org/en-US/firefox/dnt/)
+*   [Firefox](https://www.mozilla.org/en-US/firefox/dnt/)
     
-* [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/use-tracking-protection#ie=ie-11)
+*   [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/use-tracking-protection#ie=ie-11)
     
 
 ### Local Storage
@@ -3444,13 +3444,13 @@ We use local storage to keep track of which of our digital tools you have used a
 
 How To Clear Local Storage  
 
-* Open the Google Chrome Console by pressing F12 key
+*   Open the Google Chrome Console by pressing F12 key
     
-* .Select “Application” in the console’s top menu
+*   .Select “Application” in the console’s top menu
     
-* Select “Local Storage” in the console’s left menu
+*   Select “Local Storage” in the console’s left menu
     
-* ..Right click your site(s) and click clear to delete the local storage.
+*   ..Right click your site(s) and click clear to delete the local storage.
     
 
 Want To Change Your Privacy Settings?
