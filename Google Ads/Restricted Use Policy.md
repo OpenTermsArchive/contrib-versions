@@ -115,8 +115,8 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > > Our child and teen ads policies, along with other Google Ads policies (including but not limited to those for alcohol, gambling, and high fat, sugar, and salt food and beverages), work together to provide strong protections that include:
 > > 
-> > * Disabling ads personalization
-> > * Restricting sensitive ad content and categories
+> > *   Disabling ads personalization
+> > *   Restricting sensitive ad content and categories
 > > 
 > > We require all our advertisers to follow local legal requirements when using our products, including any regulations on advertising to users under age 18, as well as all Google Ads policies. Learn more about our [Ad protections for children and teens](https://support.google.com/adspolicy/answer/15416897) and relevant ad policies, where they apply, and what they mean for advertisers.
 > 
