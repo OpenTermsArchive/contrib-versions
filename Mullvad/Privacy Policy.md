@@ -5,11 +5,11 @@ Last updated: July 10, 2025
 
 All of our policies regarding data and its storage
 
-* [No logging of user activity policy](https://mullvad.net/help/no-logging-data-policy/)
-* [Cookie policy](https://mullvad.net/help/cookie-policy)
-* [Privacy policy](https://mullvad.net/help/privacy-policy) (including GDPR)
-* [Swedish legislation relevant to us as a VPN provider](https://mullvad.net/help/swedish-legislation/)
-* [Terms of service](https://mullvad.net/help/terms-service/)
+*   [No logging of user activity policy](https://mullvad.net/help/no-logging-data-policy/)
+*   [Cookie policy](https://mullvad.net/help/cookie-policy)
+*   [Privacy policy](https://mullvad.net/help/privacy-policy) (including GDPR)
+*   [Swedish legislation relevant to us as a VPN provider](https://mullvad.net/help/swedish-legislation/)
+*   [Terms of service](https://mullvad.net/help/terms-service/)
 
 Policy overview
 ---------------
@@ -34,15 +34,15 @@ We are processing the following categories of personal data. Mullvad can access 
 
 ### Payments
 
-* Bank wire: sender name, address, bank account number
-* PayPal: transaction-ID, sender name, origin country and e-mail address
-* Swish: Swish-ID, name and phone number
-* Stripe: Stripe charge ID, expire date, last 4 digits of the card, card type and origin country
+*   Bank wire: sender name, address, bank account number
+*   PayPal: transaction-ID, sender name, origin country and e-mail address
+*   Swish: Swish-ID, name and phone number
+*   Stripe: Stripe charge ID, expire date, last 4 digits of the card, card type and origin country
 
 ### Support and problem report
 
-* Support by e-mail: your e-mail address and other information which you have written in the e-mail.
-* Problem reported by the app: Redacted program logs, app version and operating system are sent. IP-addresses, account numbers, sensitive path and other PII are not sent. Please refrain from entering any personal data when reporting a problem by the app.
+*   Support by e-mail: your e-mail address and other information which you have written in the e-mail.
+*   Problem reported by the app: Redacted program logs, app version and operating system are sent. IP-addresses, account numbers, sensitive path and other PII are not sent. Please refrain from entering any personal data when reporting a problem by the app.
 
 How long is the personal data saved?
 ------------------------------------
