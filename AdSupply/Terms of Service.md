@@ -49,21 +49,21 @@ The Company enforces to work constantly on solutions to provide better service t
 
 The Advertiser represents and warrants that:
 
-* It is authorized to bind the Advertiser to the terms and conditions of this Agreement;
-* It has the full legal authority to use and to authorize others to use all elements in and pertaining to the Advertising Material submitted to the Company for insertion, including without limitation (i) the names, likenesses, biographical information and/or any other identifying attributes of any individual who is identifiable in the Advertising Material; (ii) all elements of the Advertising Material that are subject to protection under any and all Intellectual Property Rights law, including without limitation, the copyright, trademark, unfair competition and/or patent laws and regulations of any jurisdiction in which the Advertising Material may be exhibited; (iii) all “testimonials” (as that term is commonly understood in the advertising industry) and/or endorsements and/or sponsorships contained in the Advertising Material;
-* No claim has been made that the Advertiser does or may not have any right with respect to the Advertising Material that is reasonably necessary to effectuate the purposes of the Agreement hereunder, and there is not now valid or outstanding;
-* No part of the Advertising Material has been wrongfully and/or without due license taken from any other work and there has been no claim that the Advertising Material violates, conflicts with, or infringes upon, and the Advertising Material does not violate, conflict with or infringe upon, any rights, especially Intellectual Property Rights, whatsoever (including, without limitation, any copyright, common law or statutory, throughout the world; any right of publication, performance, or any other right in any work; and any right against libel, slander, invasion of privacy or similar right) of any person, firm or corporation;
-* The Advertising Material and all elements thereof do not include any of the following (i) misleading actions(such as an advert which gives false information about the existence of a specific price advantage), (ii) misleading omissions (such as an advert which does not state the minimum duration of a contract, (iii) aggressive practices (such as knowingly exploiting any specific misfortune or circumstance, which could impair the consumer’s judgment, so as to influence the consumer’s decision), and (iv) commercial practices which contravene professional diligence**.**
-* The Advertising Material and all elements thereof are not subject to any third party claims, and the Advertising Material and all elements thereof have been fully cleared by the Advertiser for all uses set forth herein, and no payments will be required to be made to any third party in connection with the use of the Advertising Material (or, if any such payments are required, Advertiser will be solely responsible therefor and indemnify and hold harmless Company in connection therewith);
-* The Advertising Material shall not launch pop-ups, auto-install executables, ActiveX, prompted executables, hidden browser windows, or other non-specified and questionable media content. The violators of this restriction will be subject to immediate termination, legal action for user and brand damages. Agencies, brokers, and media buyers representing advertisers are completely responsible for all and any such activity on a campaign and will be held completely liable; and
-* The Advertiser shall comply in all respects with all applicable laws, rules, regulations, and orders of any governmental authority as well as all legal requirements governing its duties, obligations, and business practices and shall obtain any permits or licenses necessary for its operations. The Advertiser shall not take any action in violation of any applicable legal requirement that could result in liability being imposed on the Company. The Advertiser shall further ensure that the Advertising Material adheres to the relevant advertising codes in force from time to time, including but not limited to the code issued by the Cyprus Advertising Regulation Organization and other analogous codes in force in the respective countries.
+*   It is authorized to bind the Advertiser to the terms and conditions of this Agreement;
+*   It has the full legal authority to use and to authorize others to use all elements in and pertaining to the Advertising Material submitted to the Company for insertion, including without limitation (i) the names, likenesses, biographical information and/or any other identifying attributes of any individual who is identifiable in the Advertising Material; (ii) all elements of the Advertising Material that are subject to protection under any and all Intellectual Property Rights law, including without limitation, the copyright, trademark, unfair competition and/or patent laws and regulations of any jurisdiction in which the Advertising Material may be exhibited; (iii) all “testimonials” (as that term is commonly understood in the advertising industry) and/or endorsements and/or sponsorships contained in the Advertising Material;
+*   No claim has been made that the Advertiser does or may not have any right with respect to the Advertising Material that is reasonably necessary to effectuate the purposes of the Agreement hereunder, and there is not now valid or outstanding;
+*   No part of the Advertising Material has been wrongfully and/or without due license taken from any other work and there has been no claim that the Advertising Material violates, conflicts with, or infringes upon, and the Advertising Material does not violate, conflict with or infringe upon, any rights, especially Intellectual Property Rights, whatsoever (including, without limitation, any copyright, common law or statutory, throughout the world; any right of publication, performance, or any other right in any work; and any right against libel, slander, invasion of privacy or similar right) of any person, firm or corporation;
+*   The Advertising Material and all elements thereof do not include any of the following (i) misleading actions(such as an advert which gives false information about the existence of a specific price advantage), (ii) misleading omissions (such as an advert which does not state the minimum duration of a contract, (iii) aggressive practices (such as knowingly exploiting any specific misfortune or circumstance, which could impair the consumer’s judgment, so as to influence the consumer’s decision), and (iv) commercial practices which contravene professional diligence**.**
+*   The Advertising Material and all elements thereof are not subject to any third party claims, and the Advertising Material and all elements thereof have been fully cleared by the Advertiser for all uses set forth herein, and no payments will be required to be made to any third party in connection with the use of the Advertising Material (or, if any such payments are required, Advertiser will be solely responsible therefor and indemnify and hold harmless Company in connection therewith);
+*   The Advertising Material shall not launch pop-ups, auto-install executables, ActiveX, prompted executables, hidden browser windows, or other non-specified and questionable media content. The violators of this restriction will be subject to immediate termination, legal action for user and brand damages. Agencies, brokers, and media buyers representing advertisers are completely responsible for all and any such activity on a campaign and will be held completely liable; and
+*   The Advertiser shall comply in all respects with all applicable laws, rules, regulations, and orders of any governmental authority as well as all legal requirements governing its duties, obligations, and business practices and shall obtain any permits or licenses necessary for its operations. The Advertiser shall not take any action in violation of any applicable legal requirement that could result in liability being imposed on the Company. The Advertiser shall further ensure that the Advertising Material adheres to the relevant advertising codes in force from time to time, including but not limited to the code issued by the Cyprus Advertising Regulation Organization and other analogous codes in force in the respective countries.
 
 The Publisher represents and warrants that:
 
-* It owns and/or has the right to use all materials contained on the Publisher’s Website(s), including, without limitation, all Intellectual Property Rights such as copyrights, trademarks and other proprietary rights in and to such materials;
-* It has secured the requisite permission to use any person’s name, voice, likeness and performance as embodied in such materials, or any other element contained in said material and the Publisher’s Website(s) will not infringe any Intellectual Property Rights including but not limited to the patents, copyrights, trademarks or any other right of any third party.
-* the Publisher’s Website(s) shall not contain, or contain links to, content promoting the use of alcohol, tobacco or any illegal substance; expletives or inappropriate language; content promoting illegal activity, racism, hate, “spam,” mail fraud, pyramid schemes, or investment opportunities or advice not permitted under law; content that is libelous, obscene, objectionable, defamatory, contrary to public policy, or otherwise unlawful, or any other content deemed inappropriate by the Company in its sole discretion.
-* It shall comply in all respects with all applicable laws, rules, regulations, and orders of any governmental authority as well as all legal requirements governing its duties, obligations, and business practices and shall obtain any permits or licenses necessary for its operations, and will not take any action in violation of any applicable legal requirement that could result in liability being imposed on the Company. The Publisher agrees that it shall not run “robots” or “spiders” on Publisher’s Website(s) or use any means to artificially increase the Impressions available with respect to the Advertising Material.
+*   It owns and/or has the right to use all materials contained on the Publisher’s Website(s), including, without limitation, all Intellectual Property Rights such as copyrights, trademarks and other proprietary rights in and to such materials;
+*   It has secured the requisite permission to use any person’s name, voice, likeness and performance as embodied in such materials, or any other element contained in said material and the Publisher’s Website(s) will not infringe any Intellectual Property Rights including but not limited to the patents, copyrights, trademarks or any other right of any third party.
+*   the Publisher’s Website(s) shall not contain, or contain links to, content promoting the use of alcohol, tobacco or any illegal substance; expletives or inappropriate language; content promoting illegal activity, racism, hate, “spam,” mail fraud, pyramid schemes, or investment opportunities or advice not permitted under law; content that is libelous, obscene, objectionable, defamatory, contrary to public policy, or otherwise unlawful, or any other content deemed inappropriate by the Company in its sole discretion.
+*   It shall comply in all respects with all applicable laws, rules, regulations, and orders of any governmental authority as well as all legal requirements governing its duties, obligations, and business practices and shall obtain any permits or licenses necessary for its operations, and will not take any action in violation of any applicable legal requirement that could result in liability being imposed on the Company. The Publisher agrees that it shall not run “robots” or “spiders” on Publisher’s Website(s) or use any means to artificially increase the Impressions available with respect to the Advertising Material.
 
 **PAYMENT TERMS AND TAXES**
 
@@ -141,9 +141,9 @@ The Publisher and the Advertiser are the only responsible parties for such conte
 
 You agree not to disclose Company’s Confidential Information without Company’s prior written consent. “**Company’s Confidential Information**” includes without limitation:
 
-* All Company’s software, technology, programming, technical specifications, materials, guidelines and documentation you learn, develop or obtain that relate to the Network;
-* Click-through rates or other statistics provided to you by the Company; and
-* Any other information designated in writing by the Company as “confidential” or any designation to the same effect.
+*   All Company’s software, technology, programming, technical specifications, materials, guidelines and documentation you learn, develop or obtain that relate to the Network;
+*   Click-through rates or other statistics provided to you by the Company; and
+*   Any other information designated in writing by the Company as “confidential” or any designation to the same effect.
 
 The Company’s Confidential Information does not include information that has become publicly known through no breach by you, or information that has been (i) independently developed without access to the Company Confidential Information, as evidenced in writing; (ii) rightfully received by you from a third party without such third party having possession of such Company’s Confidential Information because of its own or other’s breach; or (iii) required to be disclosed by law or by a governmental authority.
 
@@ -161,10 +161,10 @@ In respect of any processing under this Agreement for which the Company and the 
 
 **Transparency**. As the case may be, each Party shall include conspicuously on its website(s), a privacy policy that describes how such Party collects, uses, stores and discloses end users’ Personal Data if any is collected and, notably inform the users of their rights in respect of such processing in accordance with the applicable Data Protection Laws. In particular:
 
-* The Publisher shall take appropriate measures to provide end-users with information about how Personal Data is being processed by the Publisher or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Publisher Privacy Policy**”).
-* The Advertiser shall take appropriate measures to provide end-users with information about how Personal Data is being processed by the Advertiser or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Advertiser Privacy Policy**”).
-* The Company shall take appropriate measures to provide end-users with information about how Personal Data is being processed by it or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Company Privacy Policy**”).
-* The Publisher and the Advertiser shall include a hyperlink to the current Company Privacy Policy in the Publisher Privacy Policy and the Advertiser Privacy Policy.
+*   The Publisher shall take appropriate measures to provide end-users with information about how Personal Data is being processed by the Publisher or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Publisher Privacy Policy**”).
+*   The Advertiser shall take appropriate measures to provide end-users with information about how Personal Data is being processed by the Advertiser or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Advertiser Privacy Policy**”).
+*   The Company shall take appropriate measures to provide end-users with information about how Personal Data is being processed by it or any of the Parties, which shall at a minimum include all information required by Articles 13, 14 and 26 of the GDPR, as the case may be, in a concise, transparent and easily accessible form, using clear and plain language (“**Company Privacy Policy**”).
+*   The Publisher and the Advertiser shall include a hyperlink to the current Company Privacy Policy in the Publisher Privacy Policy and the Advertiser Privacy Policy.
 
 **Cookies**. As the case may be, the Publisher’s Privacy Policy available to end-users shall disclose that third party advertisers and the Company may place cookies on the browsers of visitors of Publisher’s Website(s). In accordance with the e-Privacy Directive 2002/58/EC (as amended and replaced from time to time), the Publishers must provide end-users with clear and comprehensive information regarding any devices (such as cookies or local shared objects) in use at their websites for storing information in the user’s terminal equipment or retrieving already stored information from the said terminal equipment.
 
@@ -184,30 +184,30 @@ The Company will provide the Publisher and/or the Advertiser any cooperation rea
 
 **Processors**. With respect to a proposed processor, each party shall:
 
-* before the processor first processes Personal Data, carry out adequate due diligence to ensure that the processor is capable of providing the level of protection for Personal Data required by the Data Protection Laws; and
-* ensure that the arrangement with such a processor, is governed by a written contract including terms that meet the requirements of Article 28(3) of the GDPR.
+*   before the processor first processes Personal Data, carry out adequate due diligence to ensure that the processor is capable of providing the level of protection for Personal Data required by the Data Protection Laws; and
+*   ensure that the arrangement with such a processor, is governed by a written contract including terms that meet the requirements of Article 28(3) of the GDPR.
 
 **Personal Data Breach**.
 
 The Publisher and/or the Advertiser shall:
 
-* notify the Company without undue delay and in any case no later than twenty four (24) hours upon becoming aware of a personal data breach affecting Personal Data (“**Data Breach**”);
-* provide the Company with sufficient information to allow it to meet any obligations to report or inform data subjects under or in connection with the Data Protection Laws;
-* meaningfully consult with the Company in respect of the external communications and public relations strategy related to the Data Breach;
-* not issue a press release or communicate with any member of the press in respect of the Data Breach, without having obtained prior written approval of the Company.
+*   notify the Company without undue delay and in any case no later than twenty four (24) hours upon becoming aware of a personal data breach affecting Personal Data (“**Data Breach**”);
+*   provide the Company with sufficient information to allow it to meet any obligations to report or inform data subjects under or in connection with the Data Protection Laws;
+*   meaningfully consult with the Company in respect of the external communications and public relations strategy related to the Data Breach;
+*   not issue a press release or communicate with any member of the press in respect of the Data Breach, without having obtained prior written approval of the Company.
 
 The Company shall:
 
-* notify the Publisher and/or the Advertiser without undue delay upon becoming aware of a personal data breach affecting Personal Data (“**Data Breach**”);
-* provide the Publisher and/or the Advertiser with sufficient information to allow it/them to meet any obligations to report or inform data subjects under or in connection with the Data Protection Laws;
-* meaningfully consult with the Publisher and/or the Advertiser in respect of the external communications and public relations strategy related to the Data Breach;
-* not issue a press release or communicate with any member of the press in respect of the Data Breach, without having obtained prior written approval of Publisher and/or the Advertiser.
+*   notify the Publisher and/or the Advertiser without undue delay upon becoming aware of a personal data breach affecting Personal Data (“**Data Breach**”);
+*   provide the Publisher and/or the Advertiser with sufficient information to allow it/them to meet any obligations to report or inform data subjects under or in connection with the Data Protection Laws;
+*   meaningfully consult with the Publisher and/or the Advertiser in respect of the external communications and public relations strategy related to the Data Breach;
+*   not issue a press release or communicate with any member of the press in respect of the Data Breach, without having obtained prior written approval of Publisher and/or the Advertiser.
 
 The notification set out in this clause shall as a minimum:
 
-* describe the nature of the Data Breach, the categories and numbers of data subjects concerned, and the categories and numbers of Personal Data records concerned;
-* describe the likely consequences of the Data Breach; and
-* describe the measures taken or proposed to be taken to address the Data Breach.
+*   describe the nature of the Data Breach, the categories and numbers of data subjects concerned, and the categories and numbers of Personal Data records concerned;
+*   describe the likely consequences of the Data Breach; and
+*   describe the measures taken or proposed to be taken to address the Data Breach.
 
 The Publisher and the Advertiser shall cooperate with the Company and take such reasonable commercial steps as are directed by it to assist in the investigation, mitigation and remediation of each Data Breach.
 
@@ -219,11 +219,11 @@ The Publisher and the Advertiser shall cooperate with the Company and take such 
 
 **Indemnification**. You agree to indemnify, defend and hold harmless the Company and its parent, subsidiaries, successors, shareholders, assignees, related companies, affiliates, and their respective directors, officers, employees, agents and subcontractors, from and against any and all third party claims, causes of action, costs, expenses and damages, judgement or liability, threatened or adjudicated, of any kind (including, without limitation, reasonable attorney’s fees and expenses, settlement costs and disbursements) incurred by the Company, arising out of or in connection with:
 
-* any breach or default by the Advertiser and/or the Publisher (as the case may be) in the performance of any of its respective obligations (including, without limitation Taxes) under this Agreement;
-* any breach by the Advertiser and/or the Publisher (as the case may be) of any representation, warranty, covenant or agreement;
-* any transaction with end-users, including without limitation any purchases by such users of products or services sold on the Advertiser’s and/or Publisher’s Website(s), or any other operation which occurs on said websites and which is not related to the Company’s services hereto;
-* Any breach of the “Data Protection and Cookies” clause hereto, caused by your act or omission or of one of your employees, agents or contractors (including processors);
-* Advertiser’s and/or Publisher’s non-compliance with the provisions of the Data Protection Laws.
+*   any breach or default by the Advertiser and/or the Publisher (as the case may be) in the performance of any of its respective obligations (including, without limitation Taxes) under this Agreement;
+*   any breach by the Advertiser and/or the Publisher (as the case may be) of any representation, warranty, covenant or agreement;
+*   any transaction with end-users, including without limitation any purchases by such users of products or services sold on the Advertiser’s and/or Publisher’s Website(s), or any other operation which occurs on said websites and which is not related to the Company’s services hereto;
+*   Any breach of the “Data Protection and Cookies” clause hereto, caused by your act or omission or of one of your employees, agents or contractors (including processors);
+*   Advertiser’s and/or Publisher’s non-compliance with the provisions of the Data Protection Laws.
 
 The Parties’ indemnification obligations shall survive termination or expiration of this Agreement. The indemnifying party shall give prompt written notice to the indemnified party of any third-party claim under this section.
 
@@ -231,16 +231,16 @@ The Parties’ indemnification obligations shall survive termination or expirati
 
 The Advertiser agrees that the Company shall not be liable for:
 
-* Any delays in the delivery and/or non-delivery of any Advertising Material placement;
-* Anything affecting the production of an Advertising Material placement in the event of an act of God, action by any government entity, network difficulties, electronic malfunction or any condition beyond the control of Company;
-* Consequential damages of any nature whatsoever; and/or
-* Errors or omissions in the Advertising Material as it is exhibited to the public.
+*   Any delays in the delivery and/or non-delivery of any Advertising Material placement;
+*   Anything affecting the production of an Advertising Material placement in the event of an act of God, action by any government entity, network difficulties, electronic malfunction or any condition beyond the control of Company;
+*   Consequential damages of any nature whatsoever; and/or
+*   Errors or omissions in the Advertising Material as it is exhibited to the public.
 
 The Advertiser agrees that the Company and the Publisher shall not be liable for:
 
-* Any actions or omissions of any Advertiser in connection with such Advertiser’s utilizing any advertising space on the Publisher’s Website(s);
-* The content of any Advertising Material;
-* Any unavailability or inoperability of the Internet, technical malfunction, computer error, corruption or loss of information.
+*   Any actions or omissions of any Advertiser in connection with such Advertiser’s utilizing any advertising space on the Publisher’s Website(s);
+*   The content of any Advertising Material;
+*   Any unavailability or inoperability of the Internet, technical malfunction, computer error, corruption or loss of information.
 
 IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF SUCH DAMAGES ARE FORESEEABLE AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY THEREOF.
 
