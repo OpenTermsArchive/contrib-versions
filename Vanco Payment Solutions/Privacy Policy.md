@@ -13,13 +13,13 @@ Please note that we provide many of our Services to organizations, such as schoo
 
 “Personal information” is any information that identifies you or can be used to contact you. You may provide, and we may collect, various types of personal information through our website and Services, which can be grouped as follows:
 
-* **Contact, profile, and registration information** – We may collect certain information from you when you use, register for, or set up a profile through one of our Services, including your name, email address, address, telephone number, username, and user ID.
-* **Organizational Information** –Through your use of our Services, we may collect certain types of information relating to the Organization with which you are affiliated, such as the Organization’s name, type, and contact information, and your position at the Organization.
-* **Service Use Information** – After you register to use or set up an account for one of our Services, you may be able to provide additional personal information through the Service, as well as information regarding any Organization with which you are affiliated. For example, some of our Services allow you to provide information about performances and other events in which you are participating. In certain circumstances, such information may also be provided by third parties, such as other individuals at the Organization, parents, teachers, or administrators who have accounts with our Services.
-* **Website Use information** – We may collect information regarding your interactions with our website, the frequency and duration of your visits, and how and when you use our Services.
-* **Payment Information** – Some of Vanco’s Services will allow you to make, and will process, payments for events and other items. In doing so, we collect details regarding the payment transaction, which can include the amount of the transaction, payment card information, and purchaser’s name and address. To ensure this information is secure, Vanco uses advanced technologies and follows stringent security guidelines. Specifically, Vanco complies with the Payment Card Industry Data Security Standards.
-* **Inquiry information** – If you contact us through our website, email, or otherwise, we may collect information about you, your inquiries, and any communications with us. Likewise, if you post comments on blogs available on our websites, we may collect and store those comments. We may request you participate in surveys from time to time, and will store the responses to such surveys.
-* **Communications via Services** – Some of our Services may permit you to communicate with other users, including through messages or notes. We may, at our discretion, monitor the communications that take place on our Services in order to protect our Users and monitor the effectiveness of our Service. You acknowledge that you do not have an expectation of privacy with respect to such communications via our Services and consent to such monitoring.
+*   **Contact, profile, and registration information** – We may collect certain information from you when you use, register for, or set up a profile through one of our Services, including your name, email address, address, telephone number, username, and user ID.
+*   **Organizational Information** –Through your use of our Services, we may collect certain types of information relating to the Organization with which you are affiliated, such as the Organization’s name, type, and contact information, and your position at the Organization.
+*   **Service Use Information** – After you register to use or set up an account for one of our Services, you may be able to provide additional personal information through the Service, as well as information regarding any Organization with which you are affiliated. For example, some of our Services allow you to provide information about performances and other events in which you are participating. In certain circumstances, such information may also be provided by third parties, such as other individuals at the Organization, parents, teachers, or administrators who have accounts with our Services.
+*   **Website Use information** – We may collect information regarding your interactions with our website, the frequency and duration of your visits, and how and when you use our Services.
+*   **Payment Information** – Some of Vanco’s Services will allow you to make, and will process, payments for events and other items. In doing so, we collect details regarding the payment transaction, which can include the amount of the transaction, payment card information, and purchaser’s name and address. To ensure this information is secure, Vanco uses advanced technologies and follows stringent security guidelines. Specifically, Vanco complies with the Payment Card Industry Data Security Standards.
+*   **Inquiry information** – If you contact us through our website, email, or otherwise, we may collect information about you, your inquiries, and any communications with us. Likewise, if you post comments on blogs available on our websites, we may collect and store those comments. We may request you participate in surveys from time to time, and will store the responses to such surveys.
+*   **Communications via Services** – Some of our Services may permit you to communicate with other users, including through messages or notes. We may, at our discretion, monitor the communications that take place on our Services in order to protect our Users and monitor the effectiveness of our Service. You acknowledge that you do not have an expectation of privacy with respect to such communications via our Services and consent to such monitoring.
 
 #### Other Information We Collect From You
 
@@ -37,15 +37,15 @@ Like most websites, we use technologies (discussed below) that may automatically
 
 In addition to the uses discussed above, we use the information we collect about you, including your personal information, to:
 
-* operate, maintain, and provide you and your Organization with the Services for which you have registered;
-* present the content of our website and Service platforms to you;
-* optimize your experience as a user of our website or Services;
-* respond to inquiries from you or your Organization regarding our Services;
-* send you Service-related emails and messages (e.g., account verification, payment confirmations, changes or updates regarding features of the Service, and technical or security notices) and provide customer support and manage our relationship with you or your Organization;
-* permit other users of the Service to contact you;
-* perform research and analysis about your use of, or interest in, Services;
-* process any payment transactions submitted through our Services; and
-* perform other functions as otherwise described to you at the time of collection.
+*   operate, maintain, and provide you and your Organization with the Services for which you have registered;
+*   present the content of our website and Service platforms to you;
+*   optimize your experience as a user of our website or Services;
+*   respond to inquiries from you or your Organization regarding our Services;
+*   send you Service-related emails and messages (e.g., account verification, payment confirmations, changes or updates regarding features of the Service, and technical or security notices) and provide customer support and manage our relationship with you or your Organization;
+*   permit other users of the Service to contact you;
+*   perform research and analysis about your use of, or interest in, Services;
+*   process any payment transactions submitted through our Services; and
+*   perform other functions as otherwise described to you at the time of collection.
 
 For more information about your options relating to your personal information and your communication preferences, see “Your Choices regarding Your Information” below.
 
@@ -55,12 +55,12 @@ When the information we collect about you is aggregated, anonymized, or otherwis
 
 In addition, we may share your information with the following entities:
 
-* Business units within Vanco and to any companies owned by or under common ownership with Vanco. These companies may use your personal information in the same manner as we can under this Policy.
-* Service providers and third-party vendors that we use to support our business, including companies that perform work necessary for us to provide products and services to you or your company, or that assist us in improving our business operations and the products and services we provide.
-* Third parties with whom you interact on the Services. For example, when you make information available to an Organization through one of our Services, your information will necessarily be shared with the Organization as part of the Service and may be shared with any third parties with whom the Organization also shares information. Each Organization controls the use and disclosure of the personal information it receives from users and, as stated above, this Policy does not apply to those practices, which are governed by the Organization’s privacy policy.
-* Religious Organizations that you select or to which you donate money using our Services. We share some of your information with those Organizations in order to allow them to communicate with you.
-* Buyers or other successors prior to or in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as a part of bankruptcy, liquidation, or similar proceeding, where the information is among the assets being transferred.
-* Other parties for any purpose we disclose at the time you provide the information.
+*   Business units within Vanco and to any companies owned by or under common ownership with Vanco. These companies may use your personal information in the same manner as we can under this Policy.
+*   Service providers and third-party vendors that we use to support our business, including companies that perform work necessary for us to provide products and services to you or your company, or that assist us in improving our business operations and the products and services we provide.
+*   Third parties with whom you interact on the Services. For example, when you make information available to an Organization through one of our Services, your information will necessarily be shared with the Organization as part of the Service and may be shared with any third parties with whom the Organization also shares information. Each Organization controls the use and disclosure of the personal information it receives from users and, as stated above, this Policy does not apply to those practices, which are governed by the Organization’s privacy policy.
+*   Religious Organizations that you select or to which you donate money using our Services. We share some of your information with those Organizations in order to allow them to communicate with you.
+*   Buyers or other successors prior to or in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as a part of bankruptcy, liquidation, or similar proceeding, where the information is among the assets being transferred.
+*   Other parties for any purpose we disclose at the time you provide the information.
 
 We reserve the right to disclose your information as necessary to enforce our Terms of Service or comply with a subpoena or investigative demand, court order, request for cooperation from law enforcement or other governmental agency, to exercise our legal rights, to defend against legal claims, or as otherwise required by law.
 
