@@ -7,14 +7,14 @@ At Proton, we strongly believe in an internet where privacy is the default.
 
 Proton’s Privacy Policy describes how Proton collects, uses, and deletes your data. In addition to this Privacy Policy, we provide data and privacy information specific to our products that use your personal data. This product-specific information can be found in the following privacy policies :
 
-* [Proton Mail Privacy Policy](https://proton.me/mail/privacy-policy)
-* [Proton Drive Privacy Policy](https://proton.me/drive/privacy-policy)
-* [Proton Calendar Privacy Policy](https://proton.me/calendar/privacy-policy)
-* [Proton VPN Privacy Policy(new window)](https://protonvpn.com/privacy-policy)
-* [Proton Pass Privacy Policy](https://proton.me/pass/privacy-policy)
-* [Proton Wallet Privacy Policy](https://proton.me/wallet/privacy-policy)
-* [Lumo Privacy Policy(new window)](https://lumo.proton.me/legal/privacy)
-* [Proton Business Privacy Policy](https://proton.me/business/privacy-policy)
+*   [Proton Mail Privacy Policy](https://proton.me/mail/privacy-policy)
+*   [Proton Drive Privacy Policy](https://proton.me/drive/privacy-policy)
+*   [Proton Calendar Privacy Policy](https://proton.me/calendar/privacy-policy)
+*   [Proton VPN Privacy Policy(new window)](https://protonvpn.com/privacy-policy)
+*   [Proton Pass Privacy Policy](https://proton.me/pass/privacy-policy)
+*   [Proton Wallet Privacy Policy](https://proton.me/wallet/privacy-policy)
+*   [Lumo Privacy Policy(new window)](https://lumo.proton.me/legal/privacy)
+*   [Proton Business Privacy Policy](https://proton.me/business/privacy-policy)
 
 By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our [Terms of Service](https://proton.me/legal/terms).
 
@@ -81,45 +81,45 @@ To provide the Services, we rely on different data processors, which process dif
 
 **ProtonLabs DOOEL Skopje**
 
-* Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)
-* Data processing location: Macedonia
+*   Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)
+*   Data processing location: Macedonia
 
 **ProtonLabs Taiwan Co., Ltd**
 
-* Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)
-* Data processing location: Taiwan (R.O.C)
+*   Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.6)
+*   Data processing location: Taiwan (R.O.C)
 
 ### 4.2 Third-party processors
 
 **Zendesk, Inc.**
 
-* Purpose: Provide services in relation with the processing of customer support data (section 2.6)
-* Data processing location: United States
-* Guarantees for international transfer: Standard Contractual Clauses, Binding Corporate Rules, Certifications
+*   Purpose: Provide services in relation with the processing of customer support data (section 2.6)
+*   Data processing location: United States
+*   Guarantees for international transfer: Standard Contractual Clauses, Binding Corporate Rules, Certifications
 
 **Stripe, Inc.**
 
-* Purpose: Provide services in relation with the processing of payment data (section 2.8)
-* Data processing location: United States
-* Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
+*   Purpose: Provide services in relation with the processing of payment data (section 2.8)
+*   Data processing location: United States
+*   Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
 
 **PayPal group**
 
-* Purpose: Provide services in relation with the processing of payment data (section 2.8)
-* Data processing location: United States, Singapore
-* Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
+*   Purpose: Provide services in relation with the processing of payment data (section 2.8)
+*   Data processing location: United States, Singapore
+*   Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
 
 **Chargebee, Inc.**
 
-* Purpose: Provide services in relation with the processing of payment data (section 2.8)
-* Data processing location: United States
-* Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
+*   Purpose: Provide services in relation with the processing of payment data (section 2.8)
+*   Data processing location: United States
+*   Guarantees for international transfer: Standard Contractual Clauses, Data Processing Agreement
 
 **Atlassian Pty Ltd**
 
-* Purpose: store data in relation with customer support
-* Data processing location: European Union, United States, United Kingdom
-* Guarantees for international transfer: Adequacy decision, Standard Contractual Clauses, Certifications
+*   Purpose: store data in relation with customer support
+*   Data processing location: European Union, United States, United Kingdom
+*   Guarantees for international transfer: Adequacy decision, Standard Contractual Clauses, Certifications
 
 5\. Data disclosure
 -------------------
