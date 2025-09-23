@@ -14,9 +14,9 @@ We have Community Guidelines to help keep TikTok a safe and positive experience.
 
 You're in the right place if you're wondering:
 
-* What’s allowed on TikTok
-* What’s not allowed on TikTok
-* What’s not allowed in the For You feed (FYF)
+*   What’s allowed on TikTok
+*   What’s not allowed on TikTok
+*   What’s not allowed in the For You feed (FYF)
 
 We’ve organized our Community Guidelines by topic to make information easier to find. Under each category, you’ll find a “More information” section. That’s where we define key terms, answer common questions, and share helpful examples. These examples are meant to guide you, but they don't cover every situation.
 
@@ -30,44 +30,44 @@ We strive for Community Guidelines that are easy to understand. We’ve created 
 
 **Safety and Civility**
 
-* **Violent and Criminal Behavior:** We don’t allow threats, encouragement or glorification of violence, promotion of crime, or instructions on how to commit harmful acts.
-* **Hate Speech and Hateful Behavior:** We don’t allow content that promotes hate or attacks people based on protected attributes like race, religion, gender, or sexual orientation.
-* **Violent and Hateful Organizations and Individuals:** We don’t allow people or groups that promote violence or hate, including violent extremists, criminal organizations, or those responsible for mass violence. Supporting, recruiting for, or promoting these entities is also prohibited.
-* **Youth Sexual and Physical Abuse:** We don't allow content that shows, promotes, or facilitates the sexual abuse, exploitation, or harm of young people.
-* **Adult Sexual Abuse:** We don’t allow content that shows, promotes, or facilitates adult sexual abuse or exploitation.
-* **Human Trafficking and Smuggling:** We don’t allow content that promotes or facilitates human trafficking or smuggling.
-* **Harassment and Bullying:** We don’t allow content that harasses or bullies others, including degrading remarks about appearance, doxing, sexual harassment, or coordinated abuse. We allow commentary about political figures which may be critical, but remove content that crosses into severe harm.
+*   **Violent and Criminal Behavior:** We don’t allow threats, encouragement or glorification of violence, promotion of crime, or instructions on how to commit harmful acts.
+*   **Hate Speech and Hateful Behavior:** We don’t allow content that promotes hate or attacks people based on protected attributes like race, religion, gender, or sexual orientation.
+*   **Violent and Hateful Organizations and Individuals:** We don’t allow people or groups that promote violence or hate, including violent extremists, criminal organizations, or those responsible for mass violence. Supporting, recruiting for, or promoting these entities is also prohibited.
+*   **Youth Sexual and Physical Abuse:** We don't allow content that shows, promotes, or facilitates the sexual abuse, exploitation, or harm of young people.
+*   **Adult Sexual Abuse:** We don’t allow content that shows, promotes, or facilitates adult sexual abuse or exploitation.
+*   **Human Trafficking and Smuggling:** We don’t allow content that promotes or facilitates human trafficking or smuggling.
+*   **Harassment and Bullying:** We don’t allow content that harasses or bullies others, including degrading remarks about appearance, doxing, sexual harassment, or coordinated abuse. We allow commentary about political figures which may be critical, but remove content that crosses into severe harm.
 
 **Mental and Behavioral Health**
 
-* **Suicide and Self-Harm:** We don’t allow content that shows, promotes, or provides instructions for suicide or self-harm.
-* **Disordered Eating, Risky Weight Management, and Body Image:** We don’t allow content that promotes disordered eating, risky weight loss or muscle gain methods, or harmful body comparisons.
-* **Dangerous Activity and Challenges:** We don’t allow content that shows or promotes dangerous stunts, dares, or challenges that could lead to physical harm.
+*   **Suicide and Self-Harm:** We don’t allow content that shows, promotes, or provides instructions for suicide or self-harm.
+*   **Disordered Eating, Risky Weight Management, and Body Image:** We don’t allow content that promotes disordered eating, risky weight loss or muscle gain methods, or harmful body comparisons.
+*   **Dangerous Activity and Challenges:** We don’t allow content that shows or promotes dangerous stunts, dares, or challenges that could lead to physical harm.
 
 **Sensitive and Mature Themes**
 
-* **Body Exposure and Sexualized Behaviors**: We don’t allow some types of body exposure or sexual behavior, including nudity, sexual activity, sexual services, or any sexually suggestive behavior or significant exposure involving young people.
-* **Shocking and Graphic Content:** We don’t allow extremely graphic, violent, or disturbing content—especially when it could cause viewers emotional distress.
-* **Animal Abuse:** We don’t allow content that shows or promotes animal abuse, cruelty, neglect, or exploitation.
+*   **Body Exposure and Sexualized Behaviors**: We don’t allow some types of body exposure or sexual behavior, including nudity, sexual activity, sexual services, or any sexually suggestive behavior or significant exposure involving young people.
+*   **Shocking and Graphic Content:** We don’t allow extremely graphic, violent, or disturbing content—especially when it could cause viewers emotional distress.
+*   **Animal Abuse:** We don’t allow content that shows or promotes animal abuse, cruelty, neglect, or exploitation.
 
 **Integrity and Authenticity**
 
-* **Misinformation:** We don’t allow misinformation that could cause significant harm to individuals or society.
-* **Civic and Election Integrity:** We don’t allow content that could mislead voters or interfere with elections, including false claims about how to vote, who can vote, or the outcome of an election.
-* **Edited Media and AI-Generated Content (AIGC):** We require clear labeling when AI or editing is used to realistically depict people or scenes. We don’t allow AIGC that misleads about matters of public importance or that harms individuals.
-* **Unoriginal Content and Intellectual Property Rights:** We don’t allow content that violates intellectual property rights, including reposts of copyrighted or trademarked material without permission.
-* **Deceptive Behavior & Fake Engagement:** We don’t allow accounts that mislead or try to manipulate our platform, or the trade of services that artificially boost engagement or trick the recommendation system.
+*   **Misinformation:** We don’t allow misinformation that could cause significant harm to individuals or society.
+*   **Civic and Election Integrity:** We don’t allow content that could mislead voters or interfere with elections, including false claims about how to vote, who can vote, or the outcome of an election.
+*   **Edited Media and AI-Generated Content (AIGC):** We require clear labeling when AI or editing is used to realistically depict people or scenes. We don’t allow AIGC that misleads about matters of public importance or that harms individuals.
+*   **Unoriginal Content and Intellectual Property Rights:** We don’t allow content that violates intellectual property rights, including reposts of copyrighted or trademarked material without permission.
+*   **Deceptive Behavior & Fake Engagement:** We don’t allow accounts that mislead or try to manipulate our platform, or the trade of services that artificially boost engagement or trick the recommendation system.
 
 **Regulated Goods, Services, and Commercial Activities**
 
-* **Regulated Goods, Services, and Commercial Activities:** We don’t allow the trade, marketing, or promotion of regulated, prohibited, or high-risk goods and services. Registered business accounts and verified TikTok Shop sellers may be allowed to sell or market some regulated items if they meet strict requirements.
-* **Commercial Disclosure and Paid Marketing:** If you're promoting a product, brand, or business, you must use TikTok’s content disclosure setting.
-* **Frauds and Scams:** We don’t allow content that promotes or facilitates scams, fraud, or deceptive schemes.
+*   **Regulated Goods, Services, and Commercial Activities:** We don’t allow the trade, marketing, or promotion of regulated, prohibited, or high-risk goods and services. Registered business accounts and verified TikTok Shop sellers may be allowed to sell or market some regulated items if they meet strict requirements.
+*   **Commercial Disclosure and Paid Marketing:** If you're promoting a product, brand, or business, you must use TikTok’s content disclosure setting.
+*   **Frauds and Scams:** We don’t allow content that promotes or facilitates scams, fraud, or deceptive schemes.
 
 **Privacy and Security**
 
-* **Personal Information:** We don’t allow sharing personal information that could lead to harm, such as identity theft, stalking, or fraud.
-* **Platform Security:** We don’t allow attempts to hack, reverse-engineer, or otherwise compromise TikTok’s systems.
+*   **Personal Information:** We don’t allow sharing personal information that could lead to harm, such as identity theft, stalking, or fraud.
+*   **Platform Security:** We don’t allow attempts to hack, reverse-engineer, or otherwise compromise TikTok’s systems.
 
 Want a closer look at these rules, how we enforce them, and how they apply across different areas? We encourage you to keep reading.
 
@@ -106,20 +106,20 @@ TikTok has eight core principles that guide how we develop our rules and how we 
 
 At times, we have to make difficult tradeoffs between competing goals. When that happens, we approach the decision thoughtfully and rely on trusted guidance, including:
 
-* Internationally recognized global [human rights](https://www.tiktok.com/transparency/en/upholding-human-rights) standards
-* Feedback from our community and [Advisory Councils](https://www.tiktok.com/transparency/en/advisory-councils)
-* Input from experts in online safety, public health, and related fields
+*   Internationally recognized global [human rights](https://www.tiktok.com/transparency/en/upholding-human-rights) standards
+*   Feedback from our community and [Advisory Councils](https://www.tiktok.com/transparency/en/advisory-councils)
+*   Input from experts in online safety, public health, and related fields
 
 Here are the eight principles:
 
-1. **Prevent Harm:** Keeping TikTok safe and fun is our top priority. Harm can look different—it might be physical, emotional, or even financial. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
-2. **Support Free Expression:** TikTok thrives on creativity. We honor this principle by providing the opportunity to share freely on our platform, while also proactively addressing behavior that can inhibit the speech of others. However, free expression isn't an absolute right. It's always considered in proportion to the potential harm, and can result in your content being removed or not recommended in the FYF.
-3. **Encourage Kindness and Respect:** We aim to foster a space where people treat each other with empathy and dignity. Our approach is designed to help prevent content that demeans or dehumanizes others, making TikTok a safer and more welcoming place for everyone.
-4. **Respect Local Cultures:** People use TikTok in over 150 countries. We work with local experts to make sure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines while upholding human rights standards.
-5. **Champion Inclusion:** We celebrate the diverse cultures and experiences that make up our TikTok community. We also recognize that some communities have historically faced barriers to participation and expression, and we’re committed to reducing disproportionate harms.
-6. **Protect Privacy**: We are committed to protecting the privacy of our community and anyone shown or discussed on the platform. We strive to ensure that content doesn't expose anyone’s personal information or invade their intimate privacy.
-7. **Be Transparent and Consistent**: We want everyone to know what our rules and standards are, and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently, and to share our enforcement efforts at our [Transparency Center](https://www.tiktok.com/transparency?lang=en).
-8. **Act Fairly:** Evaluating millions of pieces of content each day is a complex effort, but we’re committed to being impartial, clear, and providing opportunities to appeal.
+1.  **Prevent Harm:** Keeping TikTok safe and fun is our top priority. Harm can look different—it might be physical, emotional, or even financial. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2.  **Support Free Expression:** TikTok thrives on creativity. We honor this principle by providing the opportunity to share freely on our platform, while also proactively addressing behavior that can inhibit the speech of others. However, free expression isn't an absolute right. It's always considered in proportion to the potential harm, and can result in your content being removed or not recommended in the FYF.
+3.  **Encourage Kindness and Respect:** We aim to foster a space where people treat each other with empathy and dignity. Our approach is designed to help prevent content that demeans or dehumanizes others, making TikTok a safer and more welcoming place for everyone.
+4.  **Respect Local Cultures:** People use TikTok in over 150 countries. We work with local experts to make sure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines while upholding human rights standards.
+5.  **Champion Inclusion:** We celebrate the diverse cultures and experiences that make up our TikTok community. We also recognize that some communities have historically faced barriers to participation and expression, and we’re committed to reducing disproportionate harms.
+6.  **Protect Privacy**: We are committed to protecting the privacy of our community and anyone shown or discussed on the platform. We strive to ensure that content doesn't expose anyone’s personal information or invade their intimate privacy.
+7.  **Be Transparent and Consistent**: We want everyone to know what our rules and standards are, and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently, and to share our enforcement efforts at our [Transparency Center](https://www.tiktok.com/transparency?lang=en).
+8.  **Act Fairly:** Evaluating millions of pieces of content each day is a complex effort, but we’re committed to being impartial, clear, and providing opportunities to appeal.
 
 In rare and exceptional situations—such as crises or moments of social unrest—we may adjust our usual enforcement or rules to protect our community and address emerging harms, while remaining guided by our principles.
 
@@ -134,17 +134,17 @@ Effective September 13, 2025
 
 We're committed to making TikTok a safe and positive experience for everyone, especially for [people under 18](https://www.tiktok.com/transparency/en/protecting-teens). This is who we mean when we refer to “youth” or “young people” in these Community Guidelines. To help keep the platform safer for this age group, we:
 
-* Set age limits for [certain features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18) (like needing to be 16+ for your videos to appear in the FYF, or to use Direct Messages)
-* Use [more restrictive privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18) by default for younger users
-* Limit content that may not be appropriate for people under 18, with [content filters and other safeguards](https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-levels-on-tiktok-posts). Learn more about this kind of content in the “Age-Restricted” sections throughout these Community Guidelines.
+*   Set age limits for [certain features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18) (like needing to be 16+ for your videos to appear in the FYF, or to use Direct Messages)
+*   Use [more restrictive privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18) by default for younger users
+*   Limit content that may not be appropriate for people under 18, with [content filters and other safeguards](https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-levels-on-tiktok-posts). Learn more about this kind of content in the “Age-Restricted” sections throughout these Community Guidelines.
 
 **Age Restrictions and Safety Features**
 
 You need to be at least 13 years old to create a TikTok account. In some countries, the minimum age may be different based on local laws. In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that includes extra protections like:
 
-* Restricting interactive features that enable users to directly engage with others, such as commenting on content, messaging, sharing their videos, or maintaining an online profile
-* FYF with content that’s age-appropriate, as assessed by [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home)
-* A dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en].)
+*   Restricting interactive features that enable users to directly engage with others, such as commenting on content, messaging, sharing their videos, or maintaining an online profile
+*   FYF with content that’s age-appropriate, as assessed by [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home)
+*   A dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en].)
 
 If you create a new account in the United States and are under 13, you will automatically enter into this experience.
 
@@ -181,16 +181,16 @@ More information
 
 NOT ALLOWED
 
-* Threatening or expressing a desire to physically harm people
-* Promoting or glorifying violence, such as calling for violent attacks or praising acts of violence
-* Promoting theft or the destruction of property
-* Sharing instructions on how to commit crimes that may harm people, animals, or property
+*   Threatening or expressing a desire to physically harm people
+*   Promoting or glorifying violence, such as calling for violent attacks or praising acts of violence
+*   Promoting theft or the destruction of property
+*   Sharing instructions on how to commit crimes that may harm people, animals, or property
 
 ALLOWED
 
-* Documentary or educational content that raises awareness about violent and criminal behavior
-* Fiction or art, unless it's intended to promote real-world violence
-* Criticism of violent and criminal behavior
+*   Documentary or educational content that raises awareness about violent and criminal behavior
+*   Fiction or art, unless it's intended to promote real-world violence
+*   Criticism of violent and criminal behavior
 
 * * *
 
@@ -212,54 +212,54 @@ More information
 
 **Protected Attributes**: Personal characteristics that you are born with, are immutable, or would cause severe psychological harm if you were forced to change them or were attacked because of them. This includes:
 
-* Caste
-* Disability
-* Ethnicity
-* Gender
-* Gender Identity
-* Immigration Status
-* National Origin
-* Race
-* Religion
-* Serious Disease
-* Sex
-* Sexual Orientation
-* Tribe
+*   Caste
+*   Disability
+*   Ethnicity
+*   Gender
+*   Gender Identity
+*   Immigration Status
+*   National Origin
+*   Race
+*   Religion
+*   Serious Disease
+*   Sex
+*   Sexual Orientation
+*   Tribe
 
 The attributes listed above are informed by internationally recognized global [human rights](https://www.tiktok.com/transparency/en/advisory-councils) standards. We also provide age-related protections, and may consider other protected attributes when we have additional context, such as specific regional information provided to us by a local non-governmental organization (NGO).
 
 NOT ALLOWED
 
-* Encouraging violence, segregation, discrimination, or other harm towards people based on protected attributes
-* Supporting or spreading hateful ideologies, including:
+*   Encouraging violence, segregation, discrimination, or other harm towards people based on protected attributes
+*   Supporting or spreading hateful ideologies, including:
 
-* Claims of supremacy over a protected group, such as white supremacy, misogyny, anti-LGBTQ+ hate, antisemitism, or Islamophobia
-* Hateful conspiracies targeting a protected group, such as the "Great Replacement Theory" or claims that Jewish people control the media
-* Symbols and imagery associated with hateful movements
-* Selling or marketing items—like books or clothing—that promote hate speech or hateful ideologies
+*   Claims of supremacy over a protected group, such as white supremacy, misogyny, anti-LGBTQ+ hate, antisemitism, or Islamophobia
+*   Hateful conspiracies targeting a protected group, such as the "Great Replacement Theory" or claims that Jewish people control the media
+*   Symbols and imagery associated with hateful movements
+*   Selling or marketing items—like books or clothing—that promote hate speech or hateful ideologies
 
-* Denying or minimizing well-documented historical atrocities against protected groups, such as the Holocaust or the genocide against the Tutsi in Rwanda
-* Dehumanizing people, including by comparing them to animals or objects
-* Portraying protected groups as inherently dangerous, such as calling them criminals or terrorists
-* Blaming an entire group for actions committed by one person within that group
-* Attributing illness or disease to a protected group, including describing them as contagious
-* Claiming that a protected group is physically or mentally inferior to others
-* Using hateful slurs associated with a protected attribute
-* Deadnaming or misgendering someone by referring to them with a name or gender they don't identify with
-* Promoting “conversion therapy” programs aimed at changing someone’s sexual orientation or gender identity
-* In some regions, insulting religion or showing the desecration of religious symbols or sites
+*   Denying or minimizing well-documented historical atrocities against protected groups, such as the Holocaust or the genocide against the Tutsi in Rwanda
+*   Dehumanizing people, including by comparing them to animals or objects
+*   Portraying protected groups as inherently dangerous, such as calling them criminals or terrorists
+*   Blaming an entire group for actions committed by one person within that group
+*   Attributing illness or disease to a protected group, including describing them as contagious
+*   Claiming that a protected group is physically or mentally inferior to others
+*   Using hateful slurs associated with a protected attribute
+*   Deadnaming or misgendering someone by referring to them with a name or gender they don't identify with
+*   Promoting “conversion therapy” programs aimed at changing someone’s sexual orientation or gender identity
+*   In some regions, insulting religion or showing the desecration of religious symbols or sites
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Stereotypes, generalizations, insinuations, or statements that may demean or undermine the inclusion of protected groups or identities
+*   Stereotypes, generalizations, insinuations, or statements that may demean or undermine the inclusion of protected groups or identities
 
 ALLOWED
 
-* Members of targeted communities reclaiming slurs or stereotypes in non-degrading ways—for example, using a slur in a song or referring to themselves using the term
-* Discussing public policies that impact protected groups, as long as it does not include hateful attacks
-* Documentary or educational content that raises awareness about hate
-* Fiction or art, unless it promotes hate
-* Criticism and satire of hateful acts or ideologies
+*   Members of targeted communities reclaiming slurs or stereotypes in non-degrading ways—for example, using a slur in a song or referring to themselves using the term
+*   Discussing public policies that impact protected groups, as long as it does not include hateful attacks
+*   Documentary or educational content that raises awareness about hate
+*   Fiction or art, unless it promotes hate
+*   Criticism and satire of hateful acts or ideologies
 
 * * *
 
@@ -267,11 +267,11 @@ ALLOWED
 
 We want you to share what inspires you, but TikTok isn't a place to encourage violence or hate. That’s why we don’t allow the presence of **violent and hateful organizations or individuals on our platform.** This includes:
 
-* Violent Extremist Entities
-* Violent Criminal Organizations
-* Violent Political Organizations
-* Hateful Organizations
-* Individuals who cause mass or serial violence
+*   Violent Extremist Entities
+*   Violent Criminal Organizations
+*   Violent Political Organizations
+*   Hateful Organizations
+*   Individuals who cause mass or serial violence
 
 If we become aware that any of these actors may be on our platform, we will conduct a thorough review—including assessment of off-platform behavior—which may result in [account bans](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1).
 
@@ -291,28 +291,28 @@ More information
 
 NOT ALLOWED
 
-* Accounts run by organizations or individuals that promote violence or hateful ideologies on or off-platform
-* Providing material support to Violent Political Organizations, or promoting or praising violence caused by them
-* Promoting, praising, or providing material support to:
+*   Accounts run by organizations or individuals that promote violence or hateful ideologies on or off-platform
+*   Providing material support to Violent Political Organizations, or promoting or praising violence caused by them
+*   Promoting, praising, or providing material support to:
 
-* Hateful Organizations
-* Individuals who cause mass or serial violence, or promote hateful ideologies
-* Violent Criminal Organizations
-* Violent Extremist Entities
+*   Hateful Organizations
+*   Individuals who cause mass or serial violence, or promote hateful ideologies
+*   Violent Criminal Organizations
+*   Violent Extremist Entities
 
-* Showing people, symbols, objects, speeches, or manifestos linked to:
+*   Showing people, symbols, objects, speeches, or manifestos linked to:
 
-* Hateful Organizations
-* Individuals who cause mass or serial violence, or promote hateful ideologies
-* Violent Criminal Organizations
-* Violent Extremist Entities
+*   Hateful Organizations
+*   Individuals who cause mass or serial violence, or promote hateful ideologies
+*   Violent Criminal Organizations
+*   Violent Extremist Entities
 
 ALLOWED
 
-* Discussing a Violent Political Organization, as long as there is no promotion of violence
-* Documentary or educational content that raises awareness about violent or hateful actors
-* Fiction or art, unless it promotes or is made by a violent or hateful actor
-* Criticism and satire about violent or hateful actors
+*   Discussing a Violent Political Organization, as long as there is no promotion of violence
+*   Documentary or educational content that raises awareness about violent or hateful actors
+*   Fiction or art, unless it promotes or is made by a violent or hateful actor
+*   Criticism and satire about violent or hateful actors
 
 * * *
 
@@ -320,12 +320,12 @@ ALLOWED
 
 We’re committed to making TikTok a safe and supportive space for young people. We don’t allow sharing, showing, promoting, or engaging in abuse or exploitation of youth. This includes:
 
-* Child Sexual Abuse Material (CSAM)
-* Grooming
-* Sextortion
-* Sexual Solicitation
-* Pedophilia
-* Physical or Psychological Harm to young people
+*   Child Sexual Abuse Material (CSAM)
+*   Grooming
+*   Sextortion
+*   Sexual Solicitation
+*   Pedophilia
+*   Physical or Psychological Harm to young people
 
 When we find content or accounts involved in youth sexual abuse or exploitation, we report them to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
 
@@ -333,9 +333,9 @@ If you ever come across suspected CSAM, [report](https://support.tiktok.com/en/s
 
 If you or someone you know has experienced abuse:
 
-* **Call emergency services right away if someone is in immediate danger**
-* **Reach out to a [helpline or local support service](https://www.tiktok.com/safety/sexual-assault-resources/?lang=en)**
-* **If you think your intimate privacy has been violated on TikTok, report it to us [here](https://www.tiktok.com/legal/report/privacy?lang=en)**
+*   **Call emergency services right away if someone is in immediate danger**
+*   **Reach out to a [helpline or local support service](https://www.tiktok.com/safety/sexual-assault-resources/?lang=en)**
+*   **If you think your intimate privacy has been violated on TikTok, report it to us [here](https://www.tiktok.com/legal/report/privacy?lang=en)**
 
 More information
 
@@ -347,27 +347,27 @@ More information
 
 NOT ALLOWED
 
-* Showing, promoting, or engaging in youth sexual abuse or exploitation, including:
+*   Showing, promoting, or engaging in youth sexual abuse or exploitation, including:
 
-* [CSAM](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#4), including any screenshot or clip from the original material, even if it doesn't show nudity or sexual activity
-* Romantic relationships between an adult and young person, including pedophilia, or self-identifying as an adult attracted to young people
-* Grooming behavior
-* Sextortion
-* Sexualizing or fetishizing a young person
-* Sexual solicitation, including invitations to do something sexual, connect off-platform, or share explicit images—even if another young person makes the request
-* Explicit imagery of youth sexual abuse in fiction or art
-* Neglect, endangerment, or physical or emotional abuse of young people
-* Sharing content that could identify a young person who has experienced abuse or exploitation
+*   [CSAM](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#4), including any screenshot or clip from the original material, even if it doesn't show nudity or sexual activity
+*   Romantic relationships between an adult and young person, including pedophilia, or self-identifying as an adult attracted to young people
+*   Grooming behavior
+*   Sextortion
+*   Sexualizing or fetishizing a young person
+*   Sexual solicitation, including invitations to do something sexual, connect off-platform, or share explicit images—even if another young person makes the request
+*   Explicit imagery of youth sexual abuse in fiction or art
+*   Neglect, endangerment, or physical or emotional abuse of young people
+*   Sharing content that could identify a young person who has experienced abuse or exploitation
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing non-explicit imagery of youth sexual abuse in fiction or art, such as television shows with scenes of implied sexual acts
+*   Showing non-explicit imagery of youth sexual abuse in fiction or art, such as television shows with scenes of implied sexual acts
 
 ALLOWED
 
-* Survivors sharing their own stories, as long as it doesn’t show abuse
-* Documentary or educational content that raises awareness about youth sexual and physical abuse, as long as it doesn't show the abuse
-* Criticism of youth sexual and physical abuse, as long as it doesn't show the abuse
+*   Survivors sharing their own stories, as long as it doesn’t show abuse
+*   Documentary or educational content that raises awareness about youth sexual and physical abuse, as long as it doesn't show the abuse
+*   Criticism of youth sexual and physical abuse, as long as it doesn't show the abuse
 
 * * *
 
@@ -375,15 +375,15 @@ ALLOWED
 
 We are committed to providing a space that embraces gender equity, supports healthy relationships, and respects intimate privacy. **We don't allow content that shows or promotes the sexual abuse or exploitation of adults.** This includes:
 
-* Non-Consensual Sexual Acts
-* Image-Based Sexual Abuse
-* Sextortion
+*   Non-Consensual Sexual Acts
+*   Image-Based Sexual Abuse
+*   Sextortion
 
 If you or someone you know has experienced abuse:
 
-* **Call emergency services if someone is in immediate danger**
-* **Reach out to a [helpline or local support service](https://www.tiktok.com/safety/sexual-assault-resources/?lang=en)**
-* **If you think your intimate privacy has been violated on TikTok, report it to us [here](https://www.tiktok.com/legal/report/privacy?lang=en)**
+*   **Call emergency services if someone is in immediate danger**
+*   **Reach out to a [helpline or local support service](https://www.tiktok.com/safety/sexual-assault-resources/?lang=en)**
+*   **If you think your intimate privacy has been violated on TikTok, report it to us [here](https://www.tiktok.com/legal/report/privacy?lang=en)**
 
 More information
 
@@ -395,22 +395,22 @@ More information
 
 NOT ALLOWED
 
-* Showing, promoting, or engaging in:
+*   Showing, promoting, or engaging in:
 
-* Non-consensual sexual acts or image-based sexual abuse
-* Sextortion
+*   Non-consensual sexual acts or image-based sexual abuse
+*   Sextortion
 
-* Explicit imagery of adult sexual abuse in fiction or art
+*   Explicit imagery of adult sexual abuse in fiction or art
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing non-explicit imagery of adult sexual abuse in fiction or art, such as television shows with scenes of implied abuse
+*   Showing non-explicit imagery of adult sexual abuse in fiction or art, such as television shows with scenes of implied abuse
 
 ALLOWED
 
-* Survivors sharing their own stories, as long as it doesn’t show abuse
-* Documentary or educational content that raises awareness about adult sexual abuse, as long as it doesn't show the abuse
-* Criticism of adult sexual abuse, as long as it doesn't show the abuse
+*   Survivors sharing their own stories, as long as it doesn’t show abuse
+*   Documentary or educational content that raises awareness about adult sexual abuse, as long as it doesn't show the abuse
+*   Criticism of adult sexual abuse, as long as it doesn't show the abuse
 
 * * *
 
@@ -424,28 +424,28 @@ More information
 
 **Human Trafficking:** A form of modern slavery that can occur domestically or internationally, and involves the recruitment of victims, coordination of their transport, and their exploitation using force, fraud, coercion, or deception. It can include:
 
-* Sex, labor, child, or organ trafficking
-* Forced marriage
-* Forced criminality, such as exploitative begging
-* Domestic servitude
-* Child soldiers
+*   Sex, labor, child, or organ trafficking
+*   Forced marriage
+*   Forced criminality, such as exploitative begging
+*   Domestic servitude
+*   Child soldiers
 
 **Human Smuggling:** Earning a profit by helping a person to illegally enter another country. It can include providing transportation and consultation, as well as identity and travel document fraud.
 
 NOT ALLOWED
 
-* Facilitating, promoting, or showing human trafficking
-* Facilitating or promoting human smuggling or smuggling-related services
-* Asking to be smuggled into another country, or to take part in trafficking-related activities
+*   Facilitating, promoting, or showing human trafficking
+*   Facilitating or promoting human smuggling or smuggling-related services
+*   Asking to be smuggled into another country, or to take part in trafficking-related activities
 
 ALLOWED
 
-* Survivors sharing their own stories of human trafficking and smuggling, as long as those stories don't promote or enable smuggling or trafficking
-* Expressing a desire to migrate, as long as smugglers aren’t clearly involved
-* Seeking help or providing information about how to safely and legally leave a country due to crisis or human rights abuses
-* Documentary or educational content that raises awareness about human trafficking and smuggling
-* Fiction or art, unless it promotes or enables real-world exploitation
-* Criticism or satire about human trafficking and smuggling
+*   Survivors sharing their own stories of human trafficking and smuggling, as long as those stories don't promote or enable smuggling or trafficking
+*   Expressing a desire to migrate, as long as smugglers aren’t clearly involved
+*   Seeking help or providing information about how to safely and legally leave a country due to crisis or human rights abuses
+*   Documentary or educational content that raises awareness about human trafficking and smuggling
+*   Fiction or art, unless it promotes or enables real-world exploitation
+*   Criticism or satire about human trafficking and smuggling
 
 * * *
 
@@ -471,24 +471,24 @@ More information
 
 NOT ALLOWED
 
-* Making unwanted sexual comments or engaging in unwanted sexual behavior towards someone. This includes mimicking sexual acts using Duet or stickers, or making remarks about someone's intimate body parts or sexual performance
-* Insulting someone’s physical attributes, such as weight, facial features, or body parts
-* Degrading or revictimizing people who have experienced a tragedy, including claiming they deserved it or dismissing their experience
-* Wishing serious harm on someone, such as expressing a desire for them to die or contract a serious illness
-* Doxing or encouraging others to do so
-* Inciting harassment or promoting coordinated abuse, such as encouraging others to leave abusive comments or falsely report an account
+*   Making unwanted sexual comments or engaging in unwanted sexual behavior towards someone. This includes mimicking sexual acts using Duet or stickers, or making remarks about someone's intimate body parts or sexual performance
+*   Insulting someone’s physical attributes, such as weight, facial features, or body parts
+*   Degrading or revictimizing people who have experienced a tragedy, including claiming they deserved it or dismissing their experience
+*   Wishing serious harm on someone, such as expressing a desire for them to die or contract a serious illness
+*   Doxing or encouraging others to do so
+*   Inciting harassment or promoting coordinated abuse, such as encouraging others to leave abusive comments or falsely report an account
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Hostile and profane language or behavior targeted at a private figure
+*   Hostile and profane language or behavior targeted at a private figure
 
 ALLOWED
 
-* Criticizing an individual's content or actions
-* Criticizing harassment or bullying behavior, as long as it does not involve retaliatory harassment
-* Sharing some types of critical comments or images about public figures, as long as they don't constitute highly harmful forms of harassment or violate other policies
-* Documentary or educational content that raises awareness about harassment and bullying
-* Fiction or art, unless it's used to target or harm a real individual
+*   Criticizing an individual's content or actions
+*   Criticizing harassment or bullying behavior, as long as it does not involve retaliatory harassment
+*   Sharing some types of critical comments or images about public figures, as long as they don't constitute highly harmful forms of harassment or violate other policies
+*   Documentary or educational content that raises awareness about harassment and bullying
+*   Fiction or art, unless it's used to target or harm a real individual
 
 - - -
 
@@ -511,26 +511,26 @@ More information
 
 NOT ALLOWED
 
-* Showing, promoting, or giving instructions for suicide or self-harm
-* Sharing highly detailed descriptions of suicide or self-harm acts or methods
-* Sharing or promoting hoaxes about suicide or self-harm
-* Sharing plans for suicide or self-harm
+*   Showing, promoting, or giving instructions for suicide or self-harm
+*   Sharing highly detailed descriptions of suicide or self-harm acts or methods
+*   Sharing or promoting hoaxes about suicide or self-harm
+*   Sharing plans for suicide or self-harm
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Descriptions of suicide and self-harm acts
-* Documentary or educational content that reports on suicide or self-harm using detailed descriptions or non-graphic imagery
-* Fiction or art that includes detailed descriptions or non-graphic imagery of suicide or self-harm
+*   Descriptions of suicide and self-harm acts
+*   Documentary or educational content that reports on suicide or self-harm using detailed descriptions or non-graphic imagery
+*   Fiction or art that includes detailed descriptions or non-graphic imagery of suicide or self-harm
 
 _Keep in mind that content with highly graphic imagery is generally not allowed, regardless of intent._
 
 ALLOWED
 
-* Sharing hopeful messages or personal stories about overcoming suicidal thoughts or self-harm, as long as there is no mention of specific methods
-* Sharing information on suicide or self-harm prevention, like warning signs or where to get help
-* Sharing accurate information to debunk or calm fears about suicide hoaxes
-* Documentary or educational content that raises awareness about suicide and self-harm, unless it includes detailed descriptions or imagery
-* Fiction or art that mentions suicide or self-harm, unless it includes detailed descriptions or imagery
+*   Sharing hopeful messages or personal stories about overcoming suicidal thoughts or self-harm, as long as there is no mention of specific methods
+*   Sharing information on suicide or self-harm prevention, like warning signs or where to get help
+*   Sharing accurate information to debunk or calm fears about suicide hoaxes
+*   Documentary or educational content that raises awareness about suicide and self-harm, unless it includes detailed descriptions or imagery
+*   Fiction or art that mentions suicide or self-harm, unless it includes detailed descriptions or imagery
 
 * * *
 
@@ -546,52 +546,52 @@ More information
 
 **Disordered Eating and Risky Weight Management** includes:
 
-* Using dieting, fasting, or medication in unsafe ways
-* Exercising to lose weight or build muscle when it could harm your health
-* Trying to achieve fast or drastic weight or muscle changes that could cause damage
+*   Using dieting, fasting, or medication in unsafe ways
+*   Exercising to lose weight or build muscle when it could harm your health
+*   Trying to achieve fast or drastic weight or muscle changes that could cause damage
 
 NOT ALLOWED
 
-* Showing, describing, promoting, or glorifying disordered eating, including:
+*   Showing, describing, promoting, or glorifying disordered eating, including:
 
-* Extremely low-calorie diets
-* Starving, bingeing, and purging
-* Participating in body comparison trends, such as comparing body parts to objects
+*   Extremely low-calorie diets
+*   Starving, bingeing, and purging
+*   Participating in body comparison trends, such as comparing body parts to objects
 
-* Trading, marketing, or providing access to:
+*   Trading, marketing, or providing access to:
 
-* Products or services prone to misuse for weight loss or muscle gain, and that may pose serious health risks
-* Any product or service promoted with exaggerated or harmful claims, such as unrealistic weight loss results
+*   Products or services prone to misuse for weight loss or muscle gain, and that may pose serious health risks
+*   Any product or service promoted with exaggerated or harmful claims, such as unrealistic weight loss results
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing, describing, or promoting:
+*   Showing, describing, or promoting:
 
-* Diets, exercises, products, or services that include exaggerated or harmful claims, such as those promising fast or dramatic results
-* Restrictive low-calorie diets, including extended intermittent fasting
-* Products or services prone to misuse for weight loss or muscle gain, and that may pose serious health risks
-* Medications or medical devices designed for weight loss or muscle gain
+*   Diets, exercises, products, or services that include exaggerated or harmful claims, such as those promising fast or dramatic results
+*   Restrictive low-calorie diets, including extended intermittent fasting
+*   Products or services prone to misuse for weight loss or muscle gain, and that may pose serious health risks
+*   Medications or medical devices designed for weight loss or muscle gain
 
-* Trading, marketing, or providing access to products or services that are promoted in the context of weight loss or muscle gain, with low associated health risks
-* Promoting certain body types as “ideal” when tied to unhealthy contexts
-* Showing or promoting cosmetic surgery, including surgery videos or referrals
-* Talking about cosmetic surgery without explaining the risks
-* Discussing ongoing personal struggles with disordered eating
-* Documentary or educational content that reports on disordered eating using detailed descriptions or non-graphic imagery
+*   Trading, marketing, or providing access to products or services that are promoted in the context of weight loss or muscle gain, with low associated health risks
+*   Promoting certain body types as “ideal” when tied to unhealthy contexts
+*   Showing or promoting cosmetic surgery, including surgery videos or referrals
+*   Talking about cosmetic surgery without explaining the risks
+*   Discussing ongoing personal struggles with disordered eating
+*   Documentary or educational content that reports on disordered eating using detailed descriptions or non-graphic imagery
 
 _Keep in mind that content with highly graphic imagery is generally not allowed, regardless of intent._
 
 ALLOWED
 
-* Showing or describing:
+*   Showing or describing:
 
-* Competitive eating contests
-* Fitness routines and nutrition focused on sports or general athleticism, not extreme weight loss
-* Medically necessary surgery, such as including before-and-after images of the repair of a cleft lip, breast reconstruction after a mastectomy, or gender affirmation surgery
-* Medically necessary health interventions under the guidance of a medical or health professional, such as restrictive diets before surgery
-* Religious fasting or dietary practices
-* Fasting for political protest or activism
-* Physical disabilities or differently-abled bodies
+*   Competitive eating contests
+*   Fitness routines and nutrition focused on sports or general athleticism, not extreme weight loss
+*   Medically necessary surgery, such as including before-and-after images of the repair of a cleft lip, breast reconstruction after a mastectomy, or gender affirmation surgery
+*   Medically necessary health interventions under the guidance of a medical or health professional, such as restrictive diets before surgery
+*   Religious fasting or dietary practices
+*   Fasting for political protest or activism
+*   Physical disabilities or differently-abled bodies
 
 * * *
 
@@ -613,21 +613,21 @@ More information
 
 NOT ALLOWED
 
-* Showing or promoting:
+*   Showing or promoting:
 
-* Dangerous activity that involves visible or imminent significant physical harm, like eating or drinking unsafe items
-* Risky driving, such as driving under the influence
+*   Dangerous activity that involves visible or imminent significant physical harm, like eating or drinking unsafe items
+*   Risky driving, such as driving under the influence
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing or promoting dangerous activity that involves visible or imminent moderate physical harm
+*   Showing or promoting dangerous activity that involves visible or imminent moderate physical harm
 
 ALLOWED
 
-* Using weapons, such as spears and shields, in ceremonial settings, religious festivals, and cultural practices
-* Showing professionals engaging in combat sports, extreme sports, or stunts
-* Documentary or educational content that reports on dangerous activities and challenges, unless it enables copycat behavior
-* Fiction or art, unless it promotes dangerous activities or challenges, or enables real-world behavior
+*   Using weapons, such as spears and shields, in ceremonial settings, religious festivals, and cultural practices
+*   Showing professionals engaging in combat sports, extreme sports, or stunts
+*   Documentary or educational content that reports on dangerous activities and challenges, unless it enables copycat behavior
+*   Fiction or art, unless it promotes dangerous activities or challenges, or enables real-world behavior
 
 - - -
 
@@ -644,9 +644,9 @@ TikTok welcomes a range of content, from family-friendly to more mature. Because
 
 TikTok is a place to celebrate who you are—your identity, your body, and your culture. It’s also a space where you can learn and have conversations about topics like sexuality and reproductive health. At the same time, we want to protect young people and respect diverse cultural norms. That’s why **we don’t allow certain types of body exposure or sexualized behavior**, including:
 
-* Nudity or sexual activity
-* Sexual Services
-* Sexually suggestive acts or significant body exposure involving youth
+*   Nudity or sexual activity
+*   Sexual Services
+*   Sexually suggestive acts or significant body exposure involving youth
 
 While we generally don’t allow adult nudity or sexual activity, we make limited exceptions for documentaries, sex education, fiction, and art. We also recognize that ideas about clothing and body exposure vary across cultures, and reflect local norms in how we apply these rules.
 
@@ -672,47 +672,47 @@ More information
 
 NOT ALLOWED
 
-* Showing:
+*   Showing:
 
-* Penetrative sex, non-penetrative sex, or oral sex—including digital or illustrated images, like manga
-* Physical sexual arousal or stimulation
-* Fetish or kink behavior, such as BDSM or sexual behavior involving a focus on specific body parts
-* Nudity of adults or young people—including digital or illustrated images, like manga
-* Significant body exposure of young people, such as wearing only underwear or lingerie
+*   Penetrative sex, non-penetrative sex, or oral sex—including digital or illustrated images, like manga
+*   Physical sexual arousal or stimulation
+*   Fetish or kink behavior, such as BDSM or sexual behavior involving a focus on specific body parts
+*   Nudity of adults or young people—including digital or illustrated images, like manga
+*   Significant body exposure of young people, such as wearing only underwear or lingerie
 
-* Facilitating access to sexual services, such as offering or asking for sexual acts, sexual chats or imagery, or pornography
-* Showing young people engaging in intimate kissing, sexually suggestive acts, or sexualized framing
-* Sexually explicit language involving or directed at young people
-* In some regions, adults using sexually explicit language or showing or promoting sex products
+*   Facilitating access to sexual services, such as offering or asking for sexual acts, sexual chats or imagery, or pornography
+*   Showing young people engaging in intimate kissing, sexually suggestive acts, or sexualized framing
+*   Sexually explicit language involving or directed at young people
+*   In some regions, adults using sexually explicit language or showing or promoting sex products
 
 **Learn more about CSAM in [Youth Sexual and Physical Abuse](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#4)**
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing:
+*   Showing:
 
-* Significant adult body exposure, such as wearing only nipple covers or underwear that doesn’t cover most of the buttocks
-* In some regions, moderate adult body exposure—such as the side breast or partial exposure of the buttocks that would be typically covered based on cultural norms
-* Adults engaging in intimate kissing, sexually suggestive acts, or sexualized framing
+*   Significant adult body exposure, such as wearing only nipple covers or underwear that doesn’t cover most of the buttocks
+*   In some regions, moderate adult body exposure—such as the side breast or partial exposure of the buttocks that would be typically covered based on cultural norms
+*   Adults engaging in intimate kissing, sexually suggestive acts, or sexualized framing
 
-* In some regions, adults using sexually explicit language or showing or promoting sex products
+*   In some regions, adults using sexually explicit language or showing or promoting sex products
 
 FYF INELIGIBLE
 
-* In some regions, documentary, educational, medical, fictional, or artistic content that shows non-explicit adult sexualized behaviors or certain types of body exposure
-* Showing young people in clothing that reveals cleavage or outlines intimate body parts
+*   In some regions, documentary, educational, medical, fictional, or artistic content that shows non-explicit adult sexualized behaviors or certain types of body exposure
+*   Showing young people in clothing that reveals cleavage or outlines intimate body parts
 
 ALLOWED
 
-* Body exposure in everyday social contexts, such as wearing a swimsuit at a pool
-* Nudity of infants during childbirth
-* Implied nudity, partial buttocks, or bare chest or breasts of infants and toddlers under 4
-* Bare breasts of men and boys, including transgender and intersex people, and non-binary people
-* Kissing in non-intimate situations, such as a kiss on the cheek or quick kiss on the lips
-* Documentary, educational, medical, fictional, or artistic content that includes non-explicit adult sexualized behaviors or certain types of body exposure
-* Certain types of nudity and body exposure that are part of cultural behaviors and settings, like breastfeeding and traditional dress festivals (e.g. Carnival)
-* Reproductive health and sex education content, including showing sexual health products like condoms or diaphragms for educational or informational purposes
-* Sexual language used in non-sexual contexts, such as humor or stand-up comedy
+*   Body exposure in everyday social contexts, such as wearing a swimsuit at a pool
+*   Nudity of infants during childbirth
+*   Implied nudity, partial buttocks, or bare chest or breasts of infants and toddlers under 4
+*   Bare breasts of men and boys, including transgender and intersex people, and non-binary people
+*   Kissing in non-intimate situations, such as a kiss on the cheek or quick kiss on the lips
+*   Documentary, educational, medical, fictional, or artistic content that includes non-explicit adult sexualized behaviors or certain types of body exposure
+*   Certain types of nudity and body exposure that are part of cultural behaviors and settings, like breastfeeding and traditional dress festivals (e.g. Carnival)
+*   Reproductive health and sex education content, including showing sexual health products like condoms or diaphragms for educational or informational purposes
+*   Sexual language used in non-sexual contexts, such as humor or stand-up comedy
 
 * * *
 
@@ -722,11 +722,11 @@ TikTok is a place to discover content that sparks joy, not shock or disgust. Tha
 
 Some content that’s less graphic or shared in the public interest may be allowed, but it may be viewable only for users 18 and older or ineligible for the FYF. This includes:
 
-* Excessive blood
-* Graphic physical altercations
-* Graphic footage of events that would otherwise violate our rules but are in the [public interest](https://www.tiktok.com/community-guidelines/en/enforcement?lang=en&cgversion=2025H2update#1) to view, such as wars and major disasters
-* Graphic fictional violence
-* Moments leading up to a serious accident or injury, even if the injury itself isn't shown
+*   Excessive blood
+*   Graphic physical altercations
+*   Graphic footage of events that would otherwise violate our rules but are in the [public interest](https://www.tiktok.com/community-guidelines/en/enforcement?lang=en&cgversion=2025H2update#1) to view, such as wars and major disasters
+*   Graphic fictional violence
+*   Moments leading up to a serious accident or injury, even if the injury itself isn't shown
 
 We may also add a warning to help you manage your experience, especially for potentially distressing scenes.
 
@@ -734,32 +734,32 @@ More information
 
 NOT ALLOWED
 
-* Depictions of real-world:
+*   Depictions of real-world:
 
-* Graphic incidents and violence, such as torture, the moment of someone's death, or the shooting of an individual
-* Dead bodies
-* Graphic injury, such as dismembered, mutilated, charred, or burned bodies
+*   Graphic incidents and violence, such as torture, the moment of someone's death, or the shooting of an individual
+*   Dead bodies
+*   Graphic injury, such as dismembered, mutilated, charred, or burned bodies
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Depictions of real-world:
+*   Depictions of real-world:
 
-* Bleeding that is significant or the focus of content
-* Fighting between individuals that may cause physical injury
-* Graphic incidents, violence, or injury in public-interest contexts, such as during war or natural disasters.
+*   Bleeding that is significant or the focus of content
+*   Fighting between individuals that may cause physical injury
+*   Graphic incidents, violence, or injury in public-interest contexts, such as during war or natural disasters.
 
 _Keep in mind that some of the most graphic imagery, such as the moment of an individual’s violent death or mutilation, is generally not allowed._
 
 FYF INELIGIBLE
 
-* Showing peaceful deaths or dead bodies in traditional memorial contexts
-* The build-up to a serious injury or accident, even if the injury itself isn’t shown
-* Fictional graphic incidents, violence, or injury
+*   Showing peaceful deaths or dead bodies in traditional memorial contexts
+*   The build-up to a serious injury or accident, even if the injury itself isn’t shown
+*   Fictional graphic incidents, violence, or injury
 
 ALLOWED
 
-* Blood in an educational, scientific, fictional, or artistic context
-* Food items made with blood, such as blood sausage, blood pudding, curd, or cake
+*   Blood in an educational, scientific, fictional, or artistic context
+*   Food items made with blood, such as blood sausage, blood pudding, curd, or cake
 
 * * *
 
@@ -777,23 +777,23 @@ More information
 
 NOT ALLOWED
 
-* Showing or promoting inhumane slaughter, mutilation, or abuse of animals, including staged animal fights
-* Showing or promoting mistreatment or neglect of animals, such as malnourishment
-* Showing dismembered, mutilated, charred, burned, or severely injured animals
-* Poaching
-* Bestiality
+*   Showing or promoting inhumane slaughter, mutilation, or abuse of animals, including staged animal fights
+*   Showing or promoting mistreatment or neglect of animals, such as malnourishment
+*   Showing dismembered, mutilated, charred, burned, or severely injured animals
+*   Poaching
+*   Bestiality
 
 FYF INELIGIBLE
 
-* Showing graphic animal abuse or injury in a documentary, educational, or scientific context
-* Showing the death or dismemberment of an animal in an established cultural context, such as a religious ritual
-* Showing graphic animal injury or death that isn't a result of human action, such as animals preying on each other
-* Showing the preparation of whole, dead, and uncooked animals. This includes skinning, cleaning, or dissecting the dead animal.
+*   Showing graphic animal abuse or injury in a documentary, educational, or scientific context
+*   Showing the death or dismemberment of an animal in an established cultural context, such as a religious ritual
+*   Showing graphic animal injury or death that isn't a result of human action, such as animals preying on each other
+*   Showing the preparation of whole, dead, and uncooked animals. This includes skinning, cleaning, or dissecting the dead animal.
 
 ALLOWED
 
-* Food-related animal body parts, including items typically available in grocery stores
-* Documentary or educational content that reports on or condemns animal abuse, unless it shows graphic abuse
+*   Food-related animal body parts, including items typically available in grocery stores
+*   Documentary or educational content that reports on or condemns animal abuse, unless it shows graphic abuse
 
 - - -
 
@@ -824,26 +824,26 @@ More information
 
 NOT ALLOWED
 
-* Misinformation that poses a risk to public safety or incites panic, including falsely presenting past crisis events as recent or claiming that critical resources are unavailable during emergencies
-* Health misinformation that could cause significant harm, such as promoting unproven treatments that may be fatal, discouraging professional care for life-threatening conditions (e.g., vaccine effectiveness), or spreading false information about how such conditions are transmitted
-* Misinformation that denies the existence of climate change, misrepresents its causes, or contradicts its established environmental impact
-* Conspiracy theories or hoaxes that could cause significant harm, such as those that make a violent call to action or have links to previous violence
+*   Misinformation that poses a risk to public safety or incites panic, including falsely presenting past crisis events as recent or claiming that critical resources are unavailable during emergencies
+*   Health misinformation that could cause significant harm, such as promoting unproven treatments that may be fatal, discouraging professional care for life-threatening conditions (e.g., vaccine effectiveness), or spreading false information about how such conditions are transmitted
+*   Misinformation that denies the existence of climate change, misrepresents its causes, or contradicts its established environmental impact
+*   Conspiracy theories or hoaxes that could cause significant harm, such as those that make a violent call to action or have links to previous violence
 
 FYF INELIGIBLE
 
-* Conspiracy theories that assign blame to powerful groups or institutions, such as "the government" or a "secret society," and are likely to undermine public confidence or distort a matter of public importance
-* Health misinformation that can result in moderate harm, such as false claims about treating non-life threatening conditions like the common cold
-* Sharing unedited media that is presented out of context and may mislead a person about a topic of public importance. For example, showing a crowd at a music concert and falsely calling it a political protest
-* Misuse of authoritative sources to push misleading conclusions, such as selectively referencing certain scientific data to support a conclusion that is counter to the findings of the study
-* Unverified claims about a crisis or major civic event
-* Viral misinformation that poses an elevated risk of undermining the integrity of the information ecosystem or eroding trust in institutions, organizations, or businesses
+*   Conspiracy theories that assign blame to powerful groups or institutions, such as "the government" or a "secret society," and are likely to undermine public confidence or distort a matter of public importance
+*   Health misinformation that can result in moderate harm, such as false claims about treating non-life threatening conditions like the common cold
+*   Sharing unedited media that is presented out of context and may mislead a person about a topic of public importance. For example, showing a crowd at a music concert and falsely calling it a political protest
+*   Misuse of authoritative sources to push misleading conclusions, such as selectively referencing certain scientific data to support a conclusion that is counter to the findings of the study
+*   Unverified claims about a crisis or major civic event
+*   Viral misinformation that poses an elevated risk of undermining the integrity of the information ecosystem or eroding trust in institutions, organizations, or businesses
 
 ALLOWED
 
-* Personal opinions that don't include harmful misinformation
-* People sharing personal medical experiences, as long as they don't promote misinformation or discourage professional care
-* Conversations about climate policy, weather, or technology, as long as they don't deny or misrepresent scientific consensus
-* Documentary or educational content reporting on or condemning misinformation
+*   Personal opinions that don't include harmful misinformation
+*   People sharing personal medical experiences, as long as they don't promote misinformation or discourage professional care
+*   Conversations about climate policy, weather, or technology, as long as they don't deny or misrepresent scientific consensus
+*   Documentary or educational content reporting on or condemning misinformation
 
 * * *
 
@@ -861,23 +861,23 @@ More information
 
 NOT ALLOWED
 
-* Misinformation about:
+*   Misinformation about:
 
-* How, when, and where to vote, or register to vote
-* Voter eligibility or candidate qualifications
-* Laws or procedures for elections, referendums, ballot initiatives, or censuses
-* Election results
+*   How, when, and where to vote, or register to vote
+*   Voter eligibility or candidate qualifications
+*   Laws or procedures for elections, referendums, ballot initiatives, or censuses
+*   Election results
 
-* Instructions or encouragement for illegal voting or electoral interference, including voter intimidation or threats to election workers and electoral observers
-* Calling for unlawful disruption of a valid election outcome, such as through a coup
-* Paid political advertising, whether or not it's disclosed
-* Campaign fundraising by [Government, Politician, or Political Party accounts](https://support.tiktok.com/en/using-tiktok/growing-your-audience/government-politician-and-political-party-accounts)
+*   Instructions or encouragement for illegal voting or electoral interference, including voter intimidation or threats to election workers and electoral observers
+*   Calling for unlawful disruption of a valid election outcome, such as through a coup
+*   Paid political advertising, whether or not it's disclosed
+*   Campaign fundraising by [Government, Politician, or Political Party accounts](https://support.tiktok.com/en/using-tiktok/growing-your-audience/government-politician-and-political-party-accounts)
 
 FYF INELIGIBLE
 
-* Unverified claims about an election, such as claiming all ballots are counted before a final tally
-* Statements that misrepresent authoritative civic information, such as a false claim about the text of a parliamentary bill
-* Suspected paid political advertising
+*   Unverified claims about an election, such as claiming all ballots are counted before a final tally
+*   Statements that misrepresent authoritative civic information, such as a false claim about the text of a parliamentary bill
+*   Suspected paid political advertising
 
 * * *
 
@@ -893,9 +893,9 @@ More information
 
 **Significantly Edited Content**: Media that makes it seem like someone did or said something they didn’t, or alters their appearance so much that they’re unrecognizable. This includes:
 
-* Cropping or cutting phrases to change meaning
-* Rearranging or combining clips
-* Changing speed or adding/removing audio or video parts
+*   Cropping or cutting phrases to change meaning
+*   Rearranging or combining clips
+*   Changing speed or adding/removing audio or video parts
 
 **Realistic-Appearing Scenes or People:** Content that looks like it could be real, such as AI-generated images that look like real photographs or footage.
 
@@ -911,40 +911,40 @@ You must label content that uses AI or includes significant edits to show realis
 
 Disclosure is needed when content isn't harmful but could be confusing, including when:
 
-* A face is replaced with someone else’s
-* AI tools make it look like someone said something they didn’t
-* A background, object, or person is added or removed in a misleading way
-* AI-generated audio mimics the voice of a real person
+*   A face is replaced with someone else’s
+*   AI tools make it look like someone said something they didn’t
+*   A background, object, or person is added or removed in a misleading way
+*   AI-generated audio mimics the voice of a real person
 
 Disclosure isn't needed when:
 
-* Making small edits like color correction, reframing, or cropping
-* Using artistic styles, like anime
-* Using generic text-to-speech (TTS) narration, when the TTS isn't a recognizable voice of a known individual
+*   Making small edits like color correction, reframing, or cropping
+*   Using artistic styles, like anime
+*   Using generic text-to-speech (TTS) narration, when the TTS isn't a recognizable voice of a known individual
 
 NOT ALLOWED
 
-* Using the likeness of private figures without consent
-* Sexualized, fetishized, or victimizing depictions
-* AI-created likenesses made to bully or harass
-* Accounts focused on AI images of youth in clothing suited for adults, or sexualized poses or facial expressions
-* AIGC or significantly edited content that misleads about a matter of public importance, such as:
+*   Using the likeness of private figures without consent
+*   Sexualized, fetishized, or victimizing depictions
+*   AI-created likenesses made to bully or harass
+*   Accounts focused on AI images of youth in clothing suited for adults, or sexualized poses or facial expressions
+*   AIGC or significantly edited content that misleads about a matter of public importance, such as:
 
-* Content made to look like it comes from a real news source
-* A crisis event, like a natural disaster or conflict
-* A public figure being degraded, harassed, or linked to criminal behavior
-* A public figure taking political stances, supporting products, or commenting on public issues they haven't actually addressed
-* A political endorsement or condemnation that never happened
+*   Content made to look like it comes from a real news source
+*   A crisis event, like a natural disaster or conflict
+*   A public figure being degraded, harassed, or linked to criminal behavior
+*   A public figure taking political stances, supporting products, or commenting on public issues they haven't actually addressed
+*   A political endorsement or condemnation that never happened
 
-* Any content that breaks our Community Guidelines, including those on impersonation, misinformation, and hate speech, even if it's AI-generated
+*   Any content that breaks our Community Guidelines, including those on impersonation, misinformation, and hate speech, even if it's AI-generated
 
 FYF INELIGIBLE
 
-* Any realistic-appearing content which isn't yet confirmed to be AIGC or significantly edited content, but presents matters of public importance in a way that could lead to misinterpretation, or cause harm to private figures
+*   Any realistic-appearing content which isn't yet confirmed to be AIGC or significantly edited content, but presents matters of public importance in a way that could lead to misinterpretation, or cause harm to private figures
 
 ALLOWED
 
-* Humor or art, such as a spoof, meme, or TikTok dance
+*   Humor or art, such as a spoof, meme, or TikTok dance
 
 * * *
 
@@ -966,12 +966,12 @@ More information
 
 NOT ALLOWED
 
-* Content that violates someone else's copyrights, trademarks, or other IP rights
+*   Content that violates someone else's copyrights, trademarks, or other IP rights
 
 FYF INELIGIBLE
 
-* Reused or unoriginal content posted without creative edits, such as clips that show someone else’s watermark or logo
-* Low-quality or minimally edited content, such as short clips made from GIFs only
+*   Reused or unoriginal content posted without creative edits, such as clips that show someone else’s watermark or logo
+*   Low-quality or minimally edited content, such as short clips made from GIFs only
 
 * * *
 
@@ -981,9 +981,9 @@ We want TikTok to be a trustworthy space where people around the world can creat
 
 That’s why we **don’t allow accounts that [mislead or try to manipulate our platform](https://www.tiktok.com/transparency/en/countering-influence-operations),** or **the trade of services that artificially boost engagement or trick the recommendation system**. This includes behaviors like covert influence operations, impersonation, spam, fake reviews, and sharing hacked materials in harmful ways. You can have multiple accounts—for example, for fan content or creative expression—but not to deceive others or break the rules. If we find deceptive account behavior, we may:
 
-* [Ban your account](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1)
-* Ban additional or new accounts you create
-* Restrict your account, which could include limiting your ability to post new content, appear in top search results, or in the FYF
+*   [Ban your account](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1)
+*   Ban additional or new accounts you create
+*   Restrict your account, which could include limiting your ability to post new content, appear in top search results, or in the FYF
 
 We strictly prohibit automation tools, scripts, or other tricks designed to bypass our systems. These can result in content removal, account bans, or other enforcement. If your account is restricted or banned, you may not create or use another account to get around it.
 
@@ -995,44 +995,44 @@ More information
 
 NOT ALLOWED
 
-* CIO activity, including:
+*   CIO activity, including:
 
-* Trying to deceptively influence elections, social issues, politics, or armed conflicts, including through hiding your account's real identity or intent
-* Accounts coordinating secretly to promote a candidate or political issue
-* Posting content on behalf of foreign entities (like a government or military) without saying so. We may make it harder to find content from accounts suspected of doing this while we review them
+*   Trying to deceptively influence elections, social issues, politics, or armed conflicts, including through hiding your account's real identity or intent
+*   Accounts coordinating secretly to promote a candidate or political issue
+*   Posting content on behalf of foreign entities (like a government or military) without saying so. We may make it harder to find content from accounts suspected of doing this while we review them
 
-* Hacked materials distribution, when this poses a significant risk of harm. Note that we may allow limited discussion or distribution of hacked materials if there’s a clear public interest and the content follows journalistic best practices
-* Spam, such as:
+*   Hacked materials distribution, when this poses a significant risk of harm. Note that we may allow limited discussion or distribution of hacked materials if there’s a clear public interest and the content follows journalistic best practices
+*   Spam, such as:
 
-* Using automation to run many accounts or send repetitive content
-* Posting a large amount of irrelevant material
-* Buying or selling followers or engagement for financial gain
+*   Using automation to run many accounts or send repetitive content
+*   Posting a large amount of irrelevant material
+*   Buying or selling followers or engagement for financial gain
 
-* Using bots or scripts to write fake reviews or comments, or to increase likes or shares
-* Impersonation by pretending to be someone else without clearly stating that the account is a fan or parody account in the display name
-* Pretending to be a fake person or organization with the goal of misleading people
-* Circumvention of our policies, which includes:
+*   Using bots or scripts to write fake reviews or comments, or to increase likes or shares
+*   Impersonation by pretending to be someone else without clearly stating that the account is a fan or parody account in the display name
+*   Pretending to be a fake person or organization with the goal of misleading people
+*   Circumvention of our policies, which includes:
 
-* Spreading violative content across multiple accounts
-* Using a different account to continue violating policies after being banned
-* Returning to TikTok after being permanently banned for [severe violations](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1)
-* Using another account to avoid restrictions, such as comment blocks or FYF-ineligible content restrictions
+*   Spreading violative content across multiple accounts
+*   Using a different account to continue violating policies after being banned
+*   Returning to TikTok after being permanently banned for [severe violations](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1)
+*   Using another account to avoid restrictions, such as comment blocks or FYF-ineligible content restrictions
 
-* Trading, marketing, or providing access to services that artificially increase engagement, such as:
+*   Trading, marketing, or providing access to services that artificially increase engagement, such as:
 
-* Followers or likes
-* Fake reviews
-* Using AI or bot accounts to drive traffic
+*   Followers or likes
+*   Fake reviews
+*   Using AI or bot accounts to drive traffic
 
-* Sharing how-to guides or tips for boosting engagement in fake or deceptive ways
+*   Sharing how-to guides or tips for boosting engagement in fake or deceptive ways
 
 FYF INELIGIBLE
 
-* Tricking others into increasing engagement, such as:
+*   Tricking others into increasing engagement, such as:
 
-* "Like-for-like" promises
-* False incentives for gifting or following
-* Misleading claims meant to boost views or popularity
+*   "Like-for-like" promises
+*   False incentives for gifting or following
+*   Misleading claims meant to boost views or popularity
 
 - - -
 
@@ -1071,47 +1071,47 @@ More information
 
 NOT ALLOWED
 
-* Trading, marketing, or providing access to (except where otherwise specified below):
+*   Trading, marketing, or providing access to (except where otherwise specified below):
 
-* Alcohol, tobacco, drugs, or other regulated substances
-* Firearms, ammunition, explosive weapons, or instructions on how to make them
-* Gambling, gambling-like activities, or mystery value products
-* Counterfeit or fake goods
-* Fake currency, forged documents, or stolen data
-* Sexual services, including solicitation or sexcamming
-* Engagement services like selling likes or followers
-* Live animals, as well as endangered species or items made from them, like ivory or rhino horn
-* Hate speech-related items, such as books or apparel with hate symbols
-* Fireworks, cold weapons (like pepper spray), hazardous materials, body parts, or historical artifacts
+*   Alcohol, tobacco, drugs, or other regulated substances
+*   Firearms, ammunition, explosive weapons, or instructions on how to make them
+*   Gambling, gambling-like activities, or mystery value products
+*   Counterfeit or fake goods
+*   Fake currency, forged documents, or stolen data
+*   Sexual services, including solicitation or sexcamming
+*   Engagement services like selling likes or followers
+*   Live animals, as well as endangered species or items made from them, like ivory or rhino horn
+*   Hate speech-related items, such as books or apparel with hate symbols
+*   Fireworks, cold weapons (like pepper spray), hazardous materials, body parts, or historical artifacts
 
-* Providing instructions for making or using regulated substances, such as homemade drugs or weapons
-* Showing, promoting, or using drugs or other regulated substances recreationally. In some regions, this includes cannabis
-* Showing or promoting young people participating in gambling, using alcohol, tobacco, or fireworks, or having weapons
-* Showing the misuse of everyday items to get intoxicated
-* In some regions, showing or promoting gambling or gambling-like activities, or firearms or explosive weapons
+*   Providing instructions for making or using regulated substances, such as homemade drugs or weapons
+*   Showing, promoting, or using drugs or other regulated substances recreationally. In some regions, this includes cannabis
+*   Showing or promoting young people participating in gambling, using alcohol, tobacco, or fireworks, or having weapons
+*   Showing the misuse of everyday items to get intoxicated
+*   In some regions, showing or promoting gambling or gambling-like activities, or firearms or explosive weapons
 
 FYF INELIGIBLE & AGE-RESTRICTED
 
-* Showing or promoting cannabis or cannabis-related items, or adult tobacco use
-* In some regions, showing or promoting gambling activities or gambling-like activities, or firearms or explosive weapons
+*   Showing or promoting cannabis or cannabis-related items, or adult tobacco use
+*   In some regions, showing or promoting gambling activities or gambling-like activities, or firearms or explosive weapons
 
 FYF INELIGIBLE
 
-* In some regions, showing adults having or consuming alcohol
+*   In some regions, showing adults having or consuming alcohol
 
 ALLOWED
 
-* In some regions, content from registered business accounts that meet our safety and eligibility standards that market prescription drugs
-* In some regions, content from registered business accounts or TikTok Shop Sellers that meet our safety and eligibility standards that sell, market, or provide access to:
+*   In some regions, content from registered business accounts that meet our safety and eligibility standards that market prescription drugs
+*   In some regions, content from registered business accounts or TikTok Shop Sellers that meet our safety and eligibility standards that sell, market, or provide access to:
 
-* Alcohol
-* Gambling, gambling-like activities, or mystery value products
-* OTC drugs
+*   Alcohol
+*   Gambling, gambling-like activities, or mystery value products
+*   OTC drugs
 
-* Discussions of substance misuse or recovery
-* Advocacy around public policies, such as drug or gun regulation
-* Documentary or educational content that raises awareness about regulated goods and services
-* Fiction or art, unless it enables real-world access to regulated goods and services
+*   Discussions of substance misuse or recovery
+*   Advocacy around public policies, such as drug or gun regulation
+*   Documentary or educational content that raises awareness about regulated goods and services
+*   Fiction or art, unless it enables real-world access to regulated goods and services
 
 * * *
 
@@ -1121,8 +1121,8 @@ We value authentic viewpoints and want discussions on TikTok about products and 
 
 Disclosure is required when you’re:
 
-* Promoting your own business, product, or service
-* Posting branded content, including reviews or endorsements, and receiving any kind of incentive in exchange
+*   Promoting your own business, product, or service
+*   Posting branded content, including reviews or endorsements, and receiving any kind of incentive in exchange
 
 All branded content must also follow TikTok’s [Branded Content Policy](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-policy), [Ads Creative Policy](https://ads.tiktok.com/help/article?aid=9552), and [Industry Entry Policy](https://ads.tiktok.com/help/article?aid=9550).
 
@@ -1136,12 +1136,12 @@ More information
 
 REQUIRED DISCLOSURE (using the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service))
 
-* Marketing for your own business, product, or service
-* Promotion or review of a third-party brand, product, or service in exchange for money, goods, or any other kind of incentive
+*   Marketing for your own business, product, or service
+*   Promotion or review of a third-party brand, product, or service in exchange for money, goods, or any other kind of incentive
 
 FYF INELIGIBLE
 
-* Commercial content that isn't disclosed using TikTok’s content disclosure setting
+*   Commercial content that isn't disclosed using TikTok’s content disclosure setting
 
 * * *
 
@@ -1159,16 +1159,16 @@ More information
 
 NOT ALLOWED
 
-* Promoting or helping with scams that target individuals, including:
+*   Promoting or helping with scams that target individuals, including:
 
-* Financial scams, such as fake investment offers or “get-rich-quick” schemes
-* Phishing or identity theft
-* Job or transaction-related scams
+*   Financial scams, such as fake investment offers or “get-rich-quick” schemes
+*   Phishing or identity theft
+*   Job or transaction-related scams
 
-* Teaching people how to carry out scams or fraud
-* Money muling
-* Multi-level marketing (MLM)
-* Trading fake currency, forged documents, and stolen information
+*   Teaching people how to carry out scams or fraud
+*   Money muling
+*   Multi-level marketing (MLM)
+*   Trading fake currency, forged documents, and stolen information
 
 - - -
 
@@ -1193,22 +1193,22 @@ More information
 
 **High Risk Personal Information**: Information that is characterized by a heightened potential to cause physical, financial, or psychological harm to the individual. It includes:
 
-* Home Address
-* Account Login Information
-* Sensitive Payment Information
-* Identity Numbers
+*   Home Address
+*   Account Login Information
+*   Sensitive Payment Information
+*   Identity Numbers
 
 **Moderate Risk Personal Information**: Information that isn't inherently risky, but may still cause harm—like emotional distress, reputational damage, or unwanted contact—especially when combined with other data. Examples include:
 
-* Contact details or date of birth
-* Medical information
-* Image/audio likeness
-* Private communications on sensitive subjects, disclosed by individuals who were not part of the exchange
+*   Contact details or date of birth
+*   Medical information
+*   Image/audio likeness
+*   Private communications on sensitive subjects, disclosed by individuals who were not part of the exchange
 
 NOT ALLOWED
 
-* Sharing high risk personal information
-* Sharing moderate risk personal information when it's likely to cause psychological harm or emotional distress for an individual. We generally require additional context to remove this information
+*   Sharing high risk personal information
+*   Sharing moderate risk personal information when it's likely to cause psychological harm or emotional distress for an individual. We generally require additional context to remove this information
 
 * * *
 
@@ -1222,11 +1222,11 @@ More information
 
 NOT ALLOWED
 
-* Giving someone else your login information or letting them break TikTok’s rules on your account
-* Using unauthorized ways to access TikTok or creating fake versions of the platform
-* Sharing files or messages that carry malware or other harmful software, such as viruses or worms
-* Trying to steal personal information, hack accounts, or access data using tricks like phishing, smishing, or automated tools
-* Trying to reverse-engineer TikTok’s code, systems, or algorithms—or create your own versions based on them
+*   Giving someone else your login information or letting them break TikTok’s rules on your account
+*   Using unauthorized ways to access TikTok or creating fake versions of the platform
+*   Sharing files or messages that carry malware or other harmful software, such as viruses or worms
+*   Trying to steal personal information, hack accounts, or access data using tricks like phishing, smishing, or automated tools
+*   Trying to reverse-engineer TikTok’s code, systems, or algorithms—or create your own versions based on them
 
 - - -
 
@@ -1262,19 +1262,19 @@ We’ll also take action if someone breaks our Community Guidelines. That can me
 
 We may ban an account or user for:
 
-* **Repeated rule violations**
-* **A single, severe violation**
-* **Trying to avoid enforcement**
-* **Running accounts that are dedicated to breaking the rules, like spreading hate, the unauthorized trading of regulated, prohibited (e.g. counterfeit), or high-risk goods, or pretending to be someone else**
+*   **Repeated rule violations**
+*   **A single, severe violation**
+*   **Trying to avoid enforcement**
+*   **Running accounts that are dedicated to breaking the rules, like spreading hate, the unauthorized trading of regulated, prohibited (e.g. counterfeit), or high-risk goods, or pretending to be someone else**
 
 If someone seriously breaks the rules or tries to dodge enforcement, we may ban all of their accounts.
 
 **Severe violations include:**
 
-* Inciting or threatening serious violence when there’s a credible risk of harm or danger to public safety
-* Engaging in child sexual abuse, including sharing, helping others access, or downloading [CSAM](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#4), soliciting youth, or grooming
-* Sharing graphic imagery of adult sexual abuse, including non-consensual acts or image-based abuse
-* Coordinating or facilitating human trafficking or smuggling
+*   Inciting or threatening serious violence when there’s a credible risk of harm or danger to public safety
+*   Engaging in child sexual abuse, including sharing, helping others access, or downloading [CSAM](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#4), soliciting youth, or grooming
+*   Sharing graphic imagery of adult sexual abuse, including non-consensual acts or image-based abuse
+*   Coordinating or facilitating human trafficking or smuggling
 
 We may also restrict or ban accounts belonging to people who have engaged in egregious off-platform behaviors, when we have sufficient evidence to support enforcement. These behaviors include being the member of a [violent or hateful organization](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2025H2update#3), committing an act of sexual abuse against a youth or adult, promoting or engaging in severe violent crimes (like murder), or engaging in human trafficking. When assessing these cases, we consider several factors, including the time since the act occurred, whether penalties have been served, efforts toward rehabilitation, and the potential impact on public interest discussion.
 
@@ -1286,8 +1286,8 @@ News and Government, Politician, and Political Party accounts can play important
 
 If one of these accounts posts something that is a severe violation, we may ban the account. For repeated, but non-severe violations, we may:
 
-* Temporarily block their content from the FYF and appearing in followers’ feeds
-* In limited circumstances, also temporarily restrict the account from posting new content
+*   Temporarily block their content from the FYF and appearing in followers’ feeds
+*   In limited circumstances, also temporarily restrict the account from posting new content
 
 **Learn more about how we handle these types of accounts [here](https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-violations-and-bans).**
 
@@ -1317,8 +1317,8 @@ Lastly, LIVE creators are responsible for anything that happens during their ses
 
 LIVE is a monetizable feature through which you can earn rewards from TikTok. In addition to these Community Guidelines, in order to use LIVE to its full extent, you must comply with:
 
-* [LIVE Monetization Guidelines](https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines), in order to retain access to monetization features
-* [LIVE Feature Guidelines](https://www.tiktok.com/live/creators/en-US/live-feature-guidelines), to gain and retain access to the full suite of LIVE Features
+*   [LIVE Monetization Guidelines](https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines), in order to retain access to monetization features
+*   [LIVE Feature Guidelines](https://www.tiktok.com/live/creators/en-US/live-feature-guidelines), to gain and retain access to the full suite of LIVE Features
 
 For further details on gifting and rewards, see our [Virtual Items Policy](https://www.tiktok.com/legal/page/row/virtual-items/en) and our [Rewards Policy](https://www.tiktok.com/legal/page/global/rewards-policy-eea/en).
 
@@ -1336,34 +1336,34 @@ More information
 
 NOT ALLOWED (LIVE sessions)
 
-* In addition to LIVE content that violates our rules (including content shared by a guest in a multi-guest LIVE):
+*   In addition to LIVE content that violates our rules (including content shared by a guest in a multi-guest LIVE):
 
-* LIVE content from an account holder under 18
-* LIVE gifts sent from an account holder under 18
-* In all regions, LIVE sessions that:
+*   LIVE content from an account holder under 18
+*   LIVE gifts sent from an account holder under 18
+*   In all regions, LIVE sessions that:
 
-* Show physical altercations, even if they aren’t graphic
-* Show or promote firearms or explosive weapons
+*   Show physical altercations, even if they aren’t graphic
+*   Show or promote firearms or explosive weapons
 
-* Participating in gambling or gambling-like activities
-* In some regions, LIVE sessions that show adults engaging in intimate kissing, sexualized framing, sexualized behavior, or sexually explicit language
+*   Participating in gambling or gambling-like activities
+*   In some regions, LIVE sessions that show adults engaging in intimate kissing, sexualized framing, sexualized behavior, or sexually explicit language
 
 AGE-RESTRICTED (LIVE gaming)
 
-* In-game depictions of severely injured bodies
-* In-game depictions of animal suffering, as long as there is no promotion of animal abuse
+*   In-game depictions of severely injured bodies
+*   In-game depictions of animal suffering, as long as there is no promotion of animal abuse
 
 FYF INELIGIBLE (LIVE sessions)
 
-* In addition to LIVE content that does not meet our FYF eligibility standards (including content shared by a guest in a multi-guest LIVE), LIVE sessions that:
+*   In addition to LIVE content that does not meet our FYF eligibility standards (including content shared by a guest in a multi-guest LIVE), LIVE sessions that:
 
-* Direct users off-platform to purchase products online, in markets where TikTok Shop is available.
-* Trick or pressure people into giving Gifts or engaging, like “like-for-like” schemes or fake incentives
-* Stream unoriginal content without new or creative edits
-* Include repeated or prolonged actions that lack clear objectives or direct interaction that keeps viewers engaged in the LIVE session
-* Show potentially distressing material that may cause anxiety or fear, such as scary make-up or visual effects
-* Contain graphic material that may cause disgust, including human and animal bodily functions and fluids (such as urine or vomit)
-* Show low quality content, such as black, blank, or blur screens
+*   Direct users off-platform to purchase products online, in markets where TikTok Shop is available.
+*   Trick or pressure people into giving Gifts or engaging, like “like-for-like” schemes or fake incentives
+*   Stream unoriginal content without new or creative edits
+*   Include repeated or prolonged actions that lack clear objectives or direct interaction that keeps viewers engaged in the LIVE session
+*   Show potentially distressing material that may cause anxiety or fear, such as scary make-up or visual effects
+*   Contain graphic material that may cause disgust, including human and animal bodily functions and fluids (such as urine or vomit)
+*   Show low quality content, such as black, blank, or blur screens
 
 * * *
 
@@ -1391,9 +1391,9 @@ Comments let you connect with others, which is a big part of TikTok. If a commen
 
 Comments are sorted based on multiple aspects, including your past replies, likes, and reports. This helps keep the comment section relevant and engaging, and it may look different from one person to the next. Comments may be sorted lower if they don’t add to the conversation, like:
 
-* **Spam**: Random text, irrelevant promotions, or links
-* **Profanity** that’s non-neutral or targets others
-* **Offensive Statements**: Aggressive or provocative remarks about someone
+*   **Spam**: Random text, irrelevant promotions, or links
+*   **Profanity** that’s non-neutral or targets others
+*   **Offensive Statements**: Aggressive or provocative remarks about someone
 
 **Learn more about the [tools](https://support.tiktok.com/en/using-tiktok/messaging-and-notifications/comments#3) you can use to control the comments on your own videos, and how to report a comment [here](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-comment).**
 
@@ -1430,20 +1430,20 @@ Effective September 13, 2025
 
 We recognize that some content that would otherwise violate our rules may be in the public interest to view. Public interest refers to topics that inform, inspire, or educate the community and enhance deliberation about matters of broad collective significance. We may allow content to remain on TikTok under public interest exceptions, including:
 
-* Documentary
-* Educational
-* Medical or Scientific
-* Counterspeech
-* Satirical
-* Artistic
+*   Documentary
+*   Educational
+*   Medical or Scientific
+*   Counterspeech
+*   Satirical
+*   Artistic
 
 When reviewing content, we consider if the post raises awareness or challenges harmful behavior. If you want to post content that does this, you might consider using features like captions, stickers, or voiceover to make it clear.
 
 Even if we allow content under a public interest exception, we might still:
 
-* Make it ineligible for the FYF
-* Add a warning screen
-* Add a context label
+*   Make it ineligible for the FYF
+*   Add a warning screen
+*   Add a context label
 
 We won’t make exceptions for content that could cause extreme harm, like showing explicit imagery of abuse involving a young person.
 
