@@ -16,41 +16,41 @@ By registering with us or using or browsing the NING Platform, you acknowledge t
 
 Quick Reference:
 
-1. [Definitions](#def_1)
-2. [Creating Your Own Network](#def_2)
-3. [NING Product Plans and Payment](#def_3)
-4. [Your Code and Licenses to Your Code](#def_4)
-5. [Your Content and Licenses to Your Content and Network Data](#def_5)
-6. [Licenses From NING](#def_6)
-7. [Independent Development; Feedback](#def_7)
-8. [Required NING Notices](#def_8)
-9. [NING Ownership Rights](#def_9)
-10. [Support and Interaction for Network Creators](#def_10)
-11. [Advertising and Promotion for Network Creators](#def_11)
-12. [Third Party Content and Hyperlinks to Third Party Sites](#def_12)
-13. [Representations and Warranties](#def_13)
-14. [Acceptable Use and Conduct](#def_14)
-15. [NING Platform Policies](#def_15)
-16. [NING’s Relationship with Users](#def_16)
-17. [Copyright Infringement/Digital Millennium Copyright Act Compliance](#def_17)
-18. [Network Data](#def_18)
-19. [Your Network](#def_19)
-20. [Your Account](#def_20)
-21. [Network Design](#def_21)
-22. [Domain Name Services](#def_22)
-23. [Licence to Use Content](#def_23)
-24. [Disclaimer of Warranties](#def_24)
-25. [Indemnity](#def_25)
-26. [Your Interactions with Other Users](#def_26)
-27. [Limitation of Liability](#def_27)
-28. [Changes to NING Platform](#def_28)
-29. [Amendments](#def_29)
-30. [Term and Termination](#def_30)
-31. [Governing Law; Venue](#def_31)
-32. [Relationship of the Parties](#def_32)
-33. [United States Export Controls](#def_33)
-34. [General](#def_34)
-35. [Contacting NING](#def_35)
+1.  [Definitions](#def_1)
+2.  [Creating Your Own Network](#def_2)
+3.  [NING Product Plans and Payment](#def_3)
+4.  [Your Code and Licenses to Your Code](#def_4)
+5.  [Your Content and Licenses to Your Content and Network Data](#def_5)
+6.  [Licenses From NING](#def_6)
+7.  [Independent Development; Feedback](#def_7)
+8.  [Required NING Notices](#def_8)
+9.  [NING Ownership Rights](#def_9)
+10.  [Support and Interaction for Network Creators](#def_10)
+11.  [Advertising and Promotion for Network Creators](#def_11)
+12.  [Third Party Content and Hyperlinks to Third Party Sites](#def_12)
+13.  [Representations and Warranties](#def_13)
+14.  [Acceptable Use and Conduct](#def_14)
+15.  [NING Platform Policies](#def_15)
+16.  [NING’s Relationship with Users](#def_16)
+17.  [Copyright Infringement/Digital Millennium Copyright Act Compliance](#def_17)
+18.  [Network Data](#def_18)
+19.  [Your Network](#def_19)
+20.  [Your Account](#def_20)
+21.  [Network Design](#def_21)
+22.  [Domain Name Services](#def_22)
+23.  [Licence to Use Content](#def_23)
+24.  [Disclaimer of Warranties](#def_24)
+25.  [Indemnity](#def_25)
+26.  [Your Interactions with Other Users](#def_26)
+27.  [Limitation of Liability](#def_27)
+28.  [Changes to NING Platform](#def_28)
+29.  [Amendments](#def_29)
+30.  [Term and Termination](#def_30)
+31.  [Governing Law; Venue](#def_31)
+32.  [Relationship of the Parties](#def_32)
+33.  [United States Export Controls](#def_33)
+34.  [General](#def_34)
+35.  [Contacting NING](#def_35)
 
 ### 1\. Definitions
 
@@ -146,14 +146,14 @@ You agree that, as between you and NING, all the intellectual property rights in
 
 Except as expressly permitted under this Agreement, you agree not to, nor will you allow any third party (whether or not for your benefit) to:
 
-* Run, rent, lease, loan, or sell access to the NING Platform or the NING Technology.
-* Decompile or reverse engineer or attempt to access the source code of the software underlying the NING Platform or NING Technology.
-* Copy, archive, store, reproduce, rearrange, modify, adapt, download, upload, create derivate works from, display, perform, publish, distribute, redistribute or disseminate any NING Technology.
-* Access the NING Platform to build a product using similar ideas, features, functions, interface or graphics of the NING Platform.
-* Access (or attempt to access) any service on the NING Platform by any means other than as permitted in these Terms of Service.
-* Circumvent, disable or otherwise interfere with security related features of the NING Platform or features that prevent or restrict use or copying of any Content or Third Party Content or enforce limitations on use of the NING Platform or the Content and Third Party Content therein.
-* Access the NING Platform to upload Your Code or Your Content to cause a breach of security to the NING Platform or any Network or interfere with the proper working of the NING Platform or prevent others from using the NING Platform.
-* Delete the copyright and other proprietary rights notices on the NING Platform.
+*   Run, rent, lease, loan, or sell access to the NING Platform or the NING Technology.
+*   Decompile or reverse engineer or attempt to access the source code of the software underlying the NING Platform or NING Technology.
+*   Copy, archive, store, reproduce, rearrange, modify, adapt, download, upload, create derivate works from, display, perform, publish, distribute, redistribute or disseminate any NING Technology.
+*   Access the NING Platform to build a product using similar ideas, features, functions, interface or graphics of the NING Platform.
+*   Access (or attempt to access) any service on the NING Platform by any means other than as permitted in these Terms of Service.
+*   Circumvent, disable or otherwise interfere with security related features of the NING Platform or features that prevent or restrict use or copying of any Content or Third Party Content or enforce limitations on use of the NING Platform or the Content and Third Party Content therein.
+*   Access the NING Platform to upload Your Code or Your Content to cause a breach of security to the NING Platform or any Network or interfere with the proper working of the NING Platform or prevent others from using the NING Platform.
+*   Delete the copyright and other proprietary rights notices on the NING Platform.
 
 ### 7\. Independent Development; Feedback
 
@@ -199,36 +199,36 @@ You are solely responsible for your conduct, Your Networks, Your Code, and Your 
 
 You will not post, email or make available any Content to Users or use the NING Platform:
 
-* In a manner that infringes, violates or misappropriates any third party’s intellectual property rights or other proprietary rights or contractual rights;
-* in a manner that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-* to engage in spamming, “chain letters,” “pyramid schemes”, advertisement of illegal or controlled products or services, or other advertising or marketing activities that violate these Terms of Service, any applicable laws, regulations or generally-accepted advertising industry guidelines, including to other Users whether on or off the NING Platform in connection with Your Network;
-* in a manner that is misleading, deceptive or fraudulent or otherwise illegal or promotes illegal activities, including engaging in phishing or otherwise obtaining financial or other personal information in a misleading manner or for fraudulent or misleading purposes;
-* in a manner that is libelous or defamatory, or in a way that is otherwise threatening, abusive, violent, harassing, malicious or harmful to any person or entity, or invasive of another’s privacy;
-* in a manner that is harmful to minors in any way;
-* in a manner that is hateful or discriminatory based on race, color, sex, religion, nationality, ethnic or national origin, marital status, disability, sexual orientation or age or is otherwise objectionable, as reasonably determined by NING;
-* to impersonate a NING employee, or any other person, or falsely state or otherwise misrepresent your affiliation with any person or entity, or to obtain access to a Network or the NING Platform without authorization;
-* to interfere or attempt to interfere with the proper working of the NING Platform or prevent others from using the NING Platform, or in a manner that disrupts the normal flow of dialogue with an excessive number of messages (flooding attack) to the NING Platform, or that otherwise negatively affects other persons’ ability to use the NING Platform;
-* to use any manual or automated means, including agents, robots, scripts, or spiders, to access or manage any user’s account or to monitor or copy the NING Platform (including the Network Code or Platform Code) or the content contained therein;
-* to facilitate the unlawful distribution of copyrighted content;
-* in a manner that includes personal or identifying information about another person without that person’s explicit consent;
-* in a manner that employs misleading email or IP addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin of Content transmitted through the NING Platform or to Users; and
-* in a manner that constitutes or contains any form of advertising or solicitation if emailed to Users who have requested not to be contacted about other services, products or commercial interests.
+*   In a manner that infringes, violates or misappropriates any third party’s intellectual property rights or other proprietary rights or contractual rights;
+*   in a manner that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+*   to engage in spamming, “chain letters,” “pyramid schemes”, advertisement of illegal or controlled products or services, or other advertising or marketing activities that violate these Terms of Service, any applicable laws, regulations or generally-accepted advertising industry guidelines, including to other Users whether on or off the NING Platform in connection with Your Network;
+*   in a manner that is misleading, deceptive or fraudulent or otherwise illegal or promotes illegal activities, including engaging in phishing or otherwise obtaining financial or other personal information in a misleading manner or for fraudulent or misleading purposes;
+*   in a manner that is libelous or defamatory, or in a way that is otherwise threatening, abusive, violent, harassing, malicious or harmful to any person or entity, or invasive of another’s privacy;
+*   in a manner that is harmful to minors in any way;
+*   in a manner that is hateful or discriminatory based on race, color, sex, religion, nationality, ethnic or national origin, marital status, disability, sexual orientation or age or is otherwise objectionable, as reasonably determined by NING;
+*   to impersonate a NING employee, or any other person, or falsely state or otherwise misrepresent your affiliation with any person or entity, or to obtain access to a Network or the NING Platform without authorization;
+*   to interfere or attempt to interfere with the proper working of the NING Platform or prevent others from using the NING Platform, or in a manner that disrupts the normal flow of dialogue with an excessive number of messages (flooding attack) to the NING Platform, or that otherwise negatively affects other persons’ ability to use the NING Platform;
+*   to use any manual or automated means, including agents, robots, scripts, or spiders, to access or manage any user’s account or to monitor or copy the NING Platform (including the Network Code or Platform Code) or the content contained therein;
+*   to facilitate the unlawful distribution of copyrighted content;
+*   in a manner that includes personal or identifying information about another person without that person’s explicit consent;
+*   in a manner that employs misleading email or IP addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin of Content transmitted through the NING Platform or to Users; and
+*   in a manner that constitutes or contains any form of advertising or solicitation if emailed to Users who have requested not to be contacted about other services, products or commercial interests.
 
 Additionally, you agree not to:
 
-* “Stalk” or otherwise harass anyone;
-* Collect, use or disclose data, including personal information, about other Users without their consent or for unlawful purposes or in violation of applicable law or regulations;
-* Except as specified in  [NING API documentation](https://developer.ning.com/docs/ningapi/1.0/overview/authentication.html), collect, solicit or otherwise obtain access to usernames, passwords or other authentication credentials from any Member of the NING Platform, or to proxy authentication credentials for any Member of the NING Platform for any purpose, including automating logins to the NING Platform (provided that if you do request such authentication information for the purpose of developing through the NING API, you may not use such information for any purpose other than initial authentication of the Member, and in any event, you may not archive, store or otherwise retain such information);
-* Use any profanity or the description or name of any illegal activity in the name of Your Network or the Network Subdomain (as defined below) for Your Network;
-* Use the name “NING” as any part of the name of Your Network or the Network Subdomain;
-* Post any Content containing child pornography to any Network. NING absolutely does not tolerate this and will report any suspected instances of child pornography, including reporting any Network Data, to law enforcement, including the National Center for Missing and Exploited Children;
-* Post any Content that NING determines depicts or contains rape, extreme violence, murder, bestiality, incest, or other similar content;
-* Post any Content that NING determines constitutes pornography, contains nudity, or is otherwise of a similar adult nature. NING’s current definition of these categories is located  [here](https://www.ning.com/adult-content-policy/) and is subject to change.
-* Use automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from Networks and the NING Platform – except for Internet search engines (e.g. Google) and non-commercial public archives (e.g. archive.org) that comply with our robots.txt file, or “well-behaved” web services/RSS/Atom clients. We reserve the right to define what we mean by “well-behaved”;
-* Post irrelevant Content, repeatedly post the same or similar Content or otherwise impose an unreasonable or disproportionately large load on NING’s infrastructure;
-* Attempt to gain unauthorized access to NING’s computer systems or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the NING Platform;
-* Use the NING Platform as a generic file hosting service; and
-* Develop, invoke, or utilize any code to disrupt, diminish the quality of, interfere with the performance of, or impair the functionality of the NING Platform.
+*   “Stalk” or otherwise harass anyone;
+*   Collect, use or disclose data, including personal information, about other Users without their consent or for unlawful purposes or in violation of applicable law or regulations;
+*   Except as specified in  [NING API documentation](https://developer.ning.com/docs/ningapi/1.0/overview/authentication.html), collect, solicit or otherwise obtain access to usernames, passwords or other authentication credentials from any Member of the NING Platform, or to proxy authentication credentials for any Member of the NING Platform for any purpose, including automating logins to the NING Platform (provided that if you do request such authentication information for the purpose of developing through the NING API, you may not use such information for any purpose other than initial authentication of the Member, and in any event, you may not archive, store or otherwise retain such information);
+*   Use any profanity or the description or name of any illegal activity in the name of Your Network or the Network Subdomain (as defined below) for Your Network;
+*   Use the name “NING” as any part of the name of Your Network or the Network Subdomain;
+*   Post any Content containing child pornography to any Network. NING absolutely does not tolerate this and will report any suspected instances of child pornography, including reporting any Network Data, to law enforcement, including the National Center for Missing and Exploited Children;
+*   Post any Content that NING determines depicts or contains rape, extreme violence, murder, bestiality, incest, or other similar content;
+*   Post any Content that NING determines constitutes pornography, contains nudity, or is otherwise of a similar adult nature. NING’s current definition of these categories is located  [here](https://www.ning.com/adult-content-policy/) and is subject to change.
+*   Use automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from Networks and the NING Platform – except for Internet search engines (e.g. Google) and non-commercial public archives (e.g. archive.org) that comply with our robots.txt file, or “well-behaved” web services/RSS/Atom clients. We reserve the right to define what we mean by “well-behaved”;
+*   Post irrelevant Content, repeatedly post the same or similar Content or otherwise impose an unreasonable or disproportionately large load on NING’s infrastructure;
+*   Attempt to gain unauthorized access to NING’s computer systems or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the NING Platform;
+*   Use the NING Platform as a generic file hosting service; and
+*   Develop, invoke, or utilize any code to disrupt, diminish the quality of, interfere with the performance of, or impair the functionality of the NING Platform.
 
 You agree not to authorize or encourage any third party to use the NING Platform or any of Your Networks (and Your Networks will not be designed) to facilitate any of the foregoing prohibited conduct. You also agree to immediately notify NING in the event of an actual or threatened claim that you have violated any of the covenants and agreements contained in this Agreement.
 
@@ -328,14 +328,14 @@ NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM NING OR 
 
 You agree to indemnify, defend, and hold harmless NING, and its successors, subsidiaries, affiliates, co-branders, contractors, employees, third party advertisers, technology providers, service providers or other partners, and each of their respective officers, directors, agents, shareholders, employees and representatives, from and against any third party claim, demand, loss, damage, cost, or liability (including, reasonable attorneys’ fees) arising out of or relating to:
 
-* Your Code, Your Content, Your Network Data, Your Art Assets or Your Network;
-* Your use of any Non-NING Code or Third Party Applications;
-* Your use or misuse of, or connection to, the NING Platform or any services offered by the NING Platform;
-* Your use or misuse of any services offered by NING;
-* Your breach or alleged breach of this Agreement;
-* Your violation of any rights (including intellectual property rights) of a third party;
-* Your use or misuse of any User data or Network Data, including, in violation of the NING  [Privacy Policy](https://www.ning.com/privacy/) and
-* Your breach or alleged breach of any agreement or policy between you and other Users.
+*   Your Code, Your Content, Your Network Data, Your Art Assets or Your Network;
+*   Your use of any Non-NING Code or Third Party Applications;
+*   Your use or misuse of, or connection to, the NING Platform or any services offered by the NING Platform;
+*   Your use or misuse of any services offered by NING;
+*   Your breach or alleged breach of this Agreement;
+*   Your violation of any rights (including intellectual property rights) of a third party;
+*   Your use or misuse of any User data or Network Data, including, in violation of the NING  [Privacy Policy](https://www.ning.com/privacy/) and
+*   Your breach or alleged breach of any agreement or policy between you and other Users.
 
 NING reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of NING. NING will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
