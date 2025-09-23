@@ -11,8 +11,8 @@ These terms of use are entered into by and between you and Stiftung Ethereum (th
 
 Please read the Terms of Use carefully before you start to use the Websites. By using the Websites or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by these Terms of Use in addition to:
 
-* our [Privacy Policy](https://ethereum.org/privacy-policy/), incorporated herein by reference; and
-* our [Cookie Policy](https://ethereum.org/cookie-policy/), incorporated herein by reference.
+*   our [Privacy Policy](https://ethereum.org/privacy-policy/), incorporated herein by reference; and
+*   our [Cookie Policy](https://ethereum.org/cookie-policy/), incorporated herein by reference.
 
 If you do not agree to these Terms of Use, you must not access or use the Websites.
 
@@ -32,8 +32,8 @@ We reserve the right to withdraw or amend the Websites, and any service or mater
 
 You are responsible for:
 
-* Making all arrangements necessary for you to have access to the Websites; and
-* Ensuring that all persons who access the Websites through your internet connection are aware of these Terms of Use and comply with them.
+*   Making all arrangements necessary for you to have access to the Websites; and
+*   Ensuring that all persons who access the Websites through your internet connection are aware of these Terms of Use and comply with them.
 
 To access the Websites or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Websites that all the information you provide on the Websites is correct, current, and complete. You agree that all information you provide to use the Websites, including, but not limited to, using any interactive features on the Websites, is governed by our Privacy Policy, and you consent to all actions we may take with respect to your information that are consistent with our Privacy Policy.
 
@@ -53,23 +53,23 @@ The Foundation name, the terms Ethereum Switzerland, Ethereum Asia, the Foundati
 
 You may use the Websites only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Websites:
 
-* In any way that violates any applicable federal, state, local, or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries);
-* For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise;
-* To send, knowingly receive, upload, download, use, or re-use any material which does not comply with these Terms of Use;
-* To transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any “junk mail”, “chain letter”, “spam”, or any other similar solicitation;
-* To impersonate or attempt to impersonate the Foundation, a Foundation employee, another user, or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing); and
-* To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Websites, or which, as determined by us, may harm the Foundation or users of the Websites or expose them to liability.
+*   In any way that violates any applicable federal, state, local, or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries);
+*   For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise;
+*   To send, knowingly receive, upload, download, use, or re-use any material which does not comply with these Terms of Use;
+*   To transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any “junk mail”, “chain letter”, “spam”, or any other similar solicitation;
+*   To impersonate or attempt to impersonate the Foundation, a Foundation employee, another user, or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing); and
+*   To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Websites, or which, as determined by us, may harm the Foundation or users of the Websites or expose them to liability.
 
 Additionally, you agree not to:
 
-* Use the Websites in any manner that could disable, overburden, damage, or impair the Websites or interfere with any other party’s use of the Websites, including their ability to engage in real time activities through the Websites;
-* Use any robot, spider, or other automatic device, process or means to access the Websites for any purpose, including monitoring or copying any of the material on the Websites;
-* Use any manual process to monitor or copy any of the material on the Websites or for any other unauthorized purpose without our prior written consent;
-* Use any device, software or routine that interferes with the proper working of the Websites;
-* Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful;
-* Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Websites, the server(s) on which the Websites is stored, or any server, computer or database connected to the Websites;
-* Attack the Websites via a denial-of-service attack or a distributed denial-of-service attack; and
-* Otherwise attempt to interfere with the proper working of the Websites.
+*   Use the Websites in any manner that could disable, overburden, damage, or impair the Websites or interfere with any other party’s use of the Websites, including their ability to engage in real time activities through the Websites;
+*   Use any robot, spider, or other automatic device, process or means to access the Websites for any purpose, including monitoring or copying any of the material on the Websites;
+*   Use any manual process to monitor or copy any of the material on the Websites or for any other unauthorized purpose without our prior written consent;
+*   Use any device, software or routine that interferes with the proper working of the Websites;
+*   Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful;
+*   Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Websites, the server(s) on which the Websites is stored, or any server, computer or database connected to the Websites;
+*   Attack the Websites via a denial-of-service attack or a distributed denial-of-service attack; and
+*   Otherwise attempt to interfere with the proper working of the Websites.
 
 **Reliance on Information Posted**
 
