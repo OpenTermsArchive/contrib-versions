@@ -5,12 +5,12 @@ Last updated May 11, 2021
 
 Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms are between you and Amazon.com Services LLC and/or its affiliates ("**Amazon.com**" or "**Us**") and govern our respective rights and obligations. Please note that your use of the Amazon.com website and Prime membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Prime membership, you accept these terms, conditions, limitations and requirements.
 
-* [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
-* [Amazon.com Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
-* [Amazon Video Terms of Use](https://www.primevideo.com/help?nodeId=202095490&view-type=content-only)
-* [Amazon Music Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010)
-* [Amazon Photos Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
-* [Kindle Store Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950)
+*   [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
+*   [Amazon.com Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+*   [Amazon Video Terms of Use](https://www.primevideo.com/help?nodeId=202095490&view-type=content-only)
+*   [Amazon Music Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010)
+*   [Amazon Photos Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
+*   [Kindle Store Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950)
 
 Membership Cancellation
 -----------------------
@@ -32,12 +32,12 @@ Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=G6LDPN7
 Other Limitations
 -----------------
 
-* We reserve the right to accept or refuse membership in our discretion.
-* We may send you email and other communications related to Prime and your Prime membership (regardless of any settings or preferences related to your Amazon account).
-* You may not transfer or assign your Prime membership or any Prime benefits, including promotion codes for Prime memberships or benefits, except as allowed in these terms.
-* Prime members are not permitted to purchase products for the purpose of resale, rental, or to ship to their customers or potential customers using Prime benefits.
-* Some Prime benefits may require certain purchase thresholds, have quantity or shipping address limitations, or require members to meet specified criteria in order to access them.
-* From time to time, Amazon may choose in its sole discretion to add or remove Prime membership benefits.
+*   We reserve the right to accept or refuse membership in our discretion.
+*   We may send you email and other communications related to Prime and your Prime membership (regardless of any settings or preferences related to your Amazon account).
+*   You may not transfer or assign your Prime membership or any Prime benefits, including promotion codes for Prime memberships or benefits, except as allowed in these terms.
+*   Prime members are not permitted to purchase products for the purpose of resale, rental, or to ship to their customers or potential customers using Prime benefits.
+*   Some Prime benefits may require certain purchase thresholds, have quantity or shipping address limitations, or require members to meet specified criteria in order to access them.
+*   From time to time, Amazon may choose in its sole discretion to add or remove Prime membership benefits.
 
 Fees and Renewal
 ----------------
