@@ -1,6 +1,6 @@
-* [Android Developers](https://developer.android.com/)
-* [Google Play](https://developer.android.com/distribute)
-* [Branding & Marketing](https://developer.android.com/distribute/marketing-tools)
+*   [Android Developers](https://developer.android.com/)
+*   [Google Play](https://developer.android.com/distribute)
+*   [Branding & Marketing](https://developer.android.com/distribute/marketing-tools)
 
 Brand guidelines
 
