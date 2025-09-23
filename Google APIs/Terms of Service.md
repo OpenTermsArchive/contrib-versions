@@ -95,22 +95,22 @@ Section 4: Prohibitions and Confidentiality
 
 When using the APIs, you may not (or allow those acting on your behalf to):
 
-1. Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties.
-2. Perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
-3. Defame, abuse, harass, stalk, or threaten others.
-4. Interfere with or disrupt the APIs or the servers or networks providing the APIs.
-5. Promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements.
-6. Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
-7. Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
-8. Use the APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
-9. Remove, obscure, or alter any Google terms of service or any links to or notices of those terms.
+1.  Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties.
+2.  Perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
+3.  Defame, abuse, harass, stalk, or threaten others.
+4.  Interfere with or disrupt the APIs or the servers or networks providing the APIs.
+5.  Promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements.
+6.  Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
+7.  Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
+8.  Use the APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
+9.  Remove, obscure, or alter any Google terms of service or any links to or notices of those terms.
 
 Unless otherwise specified in writing by Google, Google does not intend use of the APIs to create obligations under the Health Insurance Portability and Accountability Act, as amended ("HIPAA"), and makes no representations that the APIs satisfy HIPAA requirements. If you are (or become) a "covered entity" or "business associate" as defined in HIPAA, you will not use the APIs for any purpose or in any manner involving transmitting protected health information to Google unless you have received prior written consent to such use from Google.
 
 ### b. Confidential Matters
 
-1. Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client. You will keep your credentials confidential and make reasonable efforts to prevent and discourage other API Clients from using your credentials. Developer credentials may not be embedded in open source projects.
-2. Our communications to you and our APIs may contain Google confidential information. Google confidential information includes any materials, communications, and information that are marked confidential or that would normally be considered confidential under the circumstances. If you receive any such information, then you will not disclose it to any third party without Google's prior written consent. Google confidential information does not include information that you independently developed, that was rightfully given to you by a third party without confidentiality obligation, or that becomes public through no fault of your own. You may disclose Google confidential information when compelled to do so by law if you provide us reasonable prior notice, unless a court orders that we not receive notice.
+1.  Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client. You will keep your credentials confidential and make reasonable efforts to prevent and discourage other API Clients from using your credentials. Developer credentials may not be embedded in open source projects.
+2.  Our communications to you and our APIs may contain Google confidential information. Google confidential information includes any materials, communications, and information that are marked confidential or that would normally be considered confidential under the circumstances. If you receive any such information, then you will not disclose it to any third party without Google's prior written consent. Google confidential information does not include information that you independently developed, that was rightfully given to you by a third party without confidentiality obligation, or that becomes public through no fault of your own. You may disclose Google confidential information when compelled to do so by law if you provide us reasonable prior notice, unless a court orders that we not receive notice.
 
 Section 5: Content
 ------------------
@@ -135,10 +135,10 @@ Google supports data portability. For as long as you use or store any user data 
 
 Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:
 
-1. Scrape, build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
-2. Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute, publicly display, or sublicense to any third party;
-3. Misrepresent the source or ownership; or
-4. Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
+1.  Scrape, build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
+2.  Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute, publicly display, or sublicense to any third party;
+3.  Misrepresent the source or ownership; or
+4.  Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
 
 Section 6: Brand Features; Attribution
 --------------------------------------
@@ -206,9 +206,9 @@ IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR
 
 Unless prohibited by applicable law, if you are a business, you will defend and indemnify Google, and its affiliates, directors, officers, employees, and users, against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
 
-1. your misuse or your end user's misuse of the APIs;
-2. your violation or your end user's violation of the Terms; or
-3. any content or data routed into or used with the APIs by you, those acting on your behalf, or your end users.
+1.  your misuse or your end user's misuse of the APIs;
+2.  your violation or your end user's violation of the Terms; or
+3.  any content or data routed into or used with the APIs by you, those acting on your behalf, or your end users.
 
 Section 10: General Provisions
 ------------------------------
