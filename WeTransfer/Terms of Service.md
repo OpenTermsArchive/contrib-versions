@@ -7,22 +7,22 @@ Legal terms can be long to navigate, so here are the most important bits concern
 
 With WeTransfer...
 
-* **Your content belongs to you**
+*   **Your content belongs to you**
     
 
-* **Your content isn't used to train AI**
+*   **Your content isn't used to train AI**
     
 
-* **Your content isn't sold to third parties**
+*   **Your content isn't sold to third parties**
     
 
 If your usual residence is in the United States of America, [these Terms of Service](#32691d85-40a2-41ee-8bbf-796377a6534e) apply.
 
-[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20(US).pdf)
+[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20\(US\).pdf)
 
 If your usual residence is outside the United States of America, [these Terms of Service](#6dc5ea75-bb33-474a-9f13-150121902967) apply.
 
-[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20(non-US).pdf)
+[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20\(non-US\).pdf)
 
 Terms of Service - United States of America
 ===========================================
