@@ -19,13 +19,13 @@ Publishers may not ask others to click their ads or use deceptive implementation
   
 In order to ensure a good experience for users and advertisers, publishers participating in the Value Impression program may not:  
 
-* Compensate users for viewing ads or performing searches, or promise compensation to a third party for such behavior.
-* Encourage users to click the Value Impression ads using phrases such as "click the ads", "support us", "visit these links" or other similar language.
-* Direct user attention to the ads using arrows or other graphical gimmicks.
-* Place misleading images alongside individual ads.
-* Place ads in a floating box script.
-* Format ads so that they become indistinguishable from other content on that page.
-* Format site content so that it is difficult to distinguish it from ads.
+*   Compensate users for viewing ads or performing searches, or promise compensation to a third party for such behavior.
+*   Encourage users to click the Value Impression ads using phrases such as "click the ads", "support us", "visit these links" or other similar language.
+*   Direct user attention to the ads using arrows or other graphical gimmicks.
+*   Place misleading images alongside individual ads.
+*   Place ads in a floating box script.
+*   Format ads so that they become indistinguishable from other content on that page.
+*   Format site content so that it is difficult to distinguish it from ads.
 
 Content guidelines
 ------------------
@@ -34,18 +34,18 @@ Publishers may not place Value Impression code on pages with content that violat
   
 Sites with Value Impression ads may not include or link to:  
 
-* Pornography, adult or mature content
-* Violent content
-* Content related to racial intolerance or advocacy against any individual, group or organization
-* Excessive profanity
-* Hacking/cracking content
-* Gambling or casino-related content
-* Illicit drugs and drug paraphernalia content
-* Sales of beer or hard alcohol
-* Sales of tobacco or tobacco-related products
-* Sales of prescription drugs
-* Content regarding programs which compensate users for clicking ads or offers, performing searches, surfing websites or reading emails
-* Any other content that is illegal, promotes illegal activity or infringes on the legal rights of others
+*   Pornography, adult or mature content
+*   Violent content
+*   Content related to racial intolerance or advocacy against any individual, group or organization
+*   Excessive profanity
+*   Hacking/cracking content
+*   Gambling or casino-related content
+*   Illicit drugs and drug paraphernalia content
+*   Sales of beer or hard alcohol
+*   Sales of tobacco or tobacco-related products
+*   Sales of prescription drugs
+*   Content regarding programs which compensate users for clicking ads or offers, performing searches, surfing websites or reading emails
+*   Any other content that is illegal, promotes illegal activity or infringes on the legal rights of others
 
 Copyrighted material
 --------------------
@@ -78,10 +78,10 @@ Value Impression ads may not be placed on pages receiving traffic from certain s
   
 To ensure a positive experience for Internet users and Value Impression advertisers, sites displaying Value Impression ads may not:  
 
-* Use third-party services that generate clicks or impressions such as paid-to-click, paid-to-surf, autosurf and click-exchange programs.
-* Users are forbidden from purchasing traffic in any way, shape, or form.
-* Be promoted through unsolicited mass emails or unwanted advertisements on third-party websites.
-* Be loaded by any software that can trigger pop-ups, redirect users to unwanted websites, modify browser settings or otherwise interfere with site navigation. It is your responsibility to ensure that no ad network or affiliate uses such methods to direct traffic to pages that contain your Value Impression code.
+*   Use third-party services that generate clicks or impressions such as paid-to-click, paid-to-surf, autosurf and click-exchange programs.
+*   Users are forbidden from purchasing traffic in any way, shape, or form.
+*   Be promoted through unsolicited mass emails or unwanted advertisements on third-party websites.
+*   Be loaded by any software that can trigger pop-ups, redirect users to unwanted websites, modify browser settings or otherwise interfere with site navigation. It is your responsibility to ensure that no ad network or affiliate uses such methods to direct traffic to pages that contain your Value Impression code.
 
   
 \*\*\*Value Impression reserves the right to suspend your account if source to your site are deemed unacceptable; this is done completely at the discretion of Value Impression
@@ -98,14 +98,14 @@ Publishers are encouraged to experiment with a variety of placements and ad form
   
 Value Impression ads, search boxes or search results may not (be):  
 
-* Exceed more than 3 ad units per page.
-* Displayed on any site and/or page that is not previously approved by the Value Impression Policy Team
-* Displayed in pop-ups or pop-unders (without the approval of Value Impression)
-* Obscured by elements on a page.
-* Placed on any non-content-based page.
-* Placed on pages published specifically for the purpose of showing ads.
-* Placed on pages whose content or URL could confuse users into thinking it is associated with Value Impression due to the misuse of logos, trademarks or other brand features.
-* Placed on, within or alongside other third products or services in a manner that violates the policies of that product or service.
+*   Exceed more than 3 ad units per page.
+*   Displayed on any site and/or page that is not previously approved by the Value Impression Policy Team
+*   Displayed in pop-ups or pop-unders (without the approval of Value Impression)
+*   Obscured by elements on a page.
+*   Placed on any non-content-based page.
+*   Placed on pages published specifically for the purpose of showing ads.
+*   Placed on pages whose content or URL could confuse users into thinking it is associated with Value Impression due to the misuse of logos, trademarks or other brand features.
+*   Placed on, within or alongside other third products or services in a manner that violates the policies of that product or service.
 
 Site behavior
 -------------
@@ -134,12 +134,12 @@ Summary
 
 To work with Value Impression and to keep your account in good standing, please remember to follow our Terms of Service, and stay up to date if any changes are made. Carefully read the Terms of Service; here is a brief summary:  
 
-1. Do NOT clickon your own ads.
-2. Do NOT ask others to click on your ads.
-3. Do NOT include any prohibited site content, including adult content, violence or excessive profanity, drugs (including alcohol and tobacco), or copyrighted material.
-4. Do NOT modify the Value Impression ad code in any way.
-5. Do NOT place more than 3 ads per page.
-6. Do NOT place images near ads in a way that may mislead users into thinking that the images are associated with the ads.
+1.  Do NOT clickon your own ads.
+2.  Do NOT ask others to click on your ads.
+3.  Do NOT include any prohibited site content, including adult content, violence or excessive profanity, drugs (including alcohol and tobacco), or copyrighted material.
+4.  Do NOT modify the Value Impression ad code in any way.
+5.  Do NOT place more than 3 ads per page.
+6.  Do NOT place images near ads in a way that may mislead users into thinking that the images are associated with the ads.
 
   
 If you're ever concerned that you might be violating policies, feel free to reach out to us at [\[email protected\]](https://valueimpression.com/cdn-cgi/l/email-protection). Our policy team will be more than happy to answer your questions or concerns. We are mad about making you money! We just want to go about it in the best possible manner.
