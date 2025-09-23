@@ -3,10 +3,10 @@ Terms of Service
 
 By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org/privacy) and agree not to:
 
-* Use our service to send spam or scam users.
-* Promote violence on publicly viewable Telegram channels, bots, etc.
-* Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
-* Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
+*   Use our service to send spam or scam users.
+*   Promote violence on publicly viewable Telegram channels, bots, etc.
+*   Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
+*   Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
 
 We reserve the right to update these Terms of Service later.
 
@@ -167,110 +167,110 @@ Telegram FAQ
 
 [**General**](#general-questions)
 
-* [What is Telegram?](#q-what-is-telegram-what-do-i-do-here)
-* [Who is it for?](#q-who-is-telegram-for)
-* [How is it different from WhatsApp?](#q-how-is-telegram-different-from-whatsapp)
-* [How old is Telegram?](#q-how-old-is-telegram)
-* [Is it available on my device?](#q-which-devices-can-i-use)
-* [Who are the people behind Telegram?](#q-who-are-the-people-behind-telegram)
-* [Where is Telegram based?](#q-where-is-telegram-based)
-* [How do you make money?](#q-how-are-you-going-to-make-money-out-of-this)
-* [What are your thoughts on internet privacy?](#q-what-are-your-thoughts-on-internet-privacy)
-* [What about GDPR?](#q-what-about-gdpr)
-* [Do you process takedown requests?](#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)
-* [Do you process data requests?](#q-do-you-process-data-requests)
+*   [What is Telegram?](#q-what-is-telegram-what-do-i-do-here)
+*   [Who is it for?](#q-who-is-telegram-for)
+*   [How is it different from WhatsApp?](#q-how-is-telegram-different-from-whatsapp)
+*   [How old is Telegram?](#q-how-old-is-telegram)
+*   [Is it available on my device?](#q-which-devices-can-i-use)
+*   [Who are the people behind Telegram?](#q-who-are-the-people-behind-telegram)
+*   [Where is Telegram based?](#q-where-is-telegram-based)
+*   [How do you make money?](#q-how-are-you-going-to-make-money-out-of-this)
+*   [What are your thoughts on internet privacy?](#q-what-are-your-thoughts-on-internet-privacy)
+*   [What about GDPR?](#q-what-about-gdpr)
+*   [Do you process takedown requests?](#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)
+*   [Do you process data requests?](#q-do-you-process-data-requests)
 
 [**Telegram Basics**](#telegram-basics)
 
-* [Who can I message?](#q-who-can-i-write-to)
-* [Who can message me?](#q-who-can-contact-me)
-* [Does Telegram send Verification Codes for other apps?](#q-does-telegram-send-verification-codes-for-other-apps)
-* [Who has Telegram?](#q-how-do-i-know-who-in-my-contacts-has-telegram)
-* [Inviting friends](#q-how-do-i-invite-my-friends)
-* [What do the check marks mean in Telegram?](#q-what-do-the-check-marks-mean)
-* [Can I hide my 'last seen'?](#q-can-i-hide-my-last-seen-time)
-* [Who can see me 'online'?](#q-who-can-see-me-39online-39)
-* [Can I delete my messages?](#q-can-i-delete-my-messages)
-* [Voice, Video and Group calls](#q-can-i-make-calls-via-telegram)
-* [Using emoticons](#q-how-can-i-use-emoticons)
+*   [Who can I message?](#q-who-can-i-write-to)
+*   [Who can message me?](#q-who-can-contact-me)
+*   [Does Telegram send Verification Codes for other apps?](#q-does-telegram-send-verification-codes-for-other-apps)
+*   [Who has Telegram?](#q-how-do-i-know-who-in-my-contacts-has-telegram)
+*   [Inviting friends](#q-how-do-i-invite-my-friends)
+*   [What do the check marks mean in Telegram?](#q-what-do-the-check-marks-mean)
+*   [Can I hide my 'last seen'?](#q-can-i-hide-my-last-seen-time)
+*   [Who can see me 'online'?](#q-who-can-see-me-39online-39)
+*   [Can I delete my messages?](#q-can-i-delete-my-messages)
+*   [Voice, Video and Group calls](#q-can-i-make-calls-via-telegram)
+*   [Using emoticons](#q-how-can-i-use-emoticons)
 
 [**Groups and Channels**](#groups-and-channels)
 
-* [What makes Telegram groups cool?](#q-what-makes-telegram-groups-cool)
-* [How are channels and groups different?](#q-what-39s-the-difference-between-groups-and-channels)
-* [Creating a group](#q-how-do-i-create-a-group)
-* [Adding members and using Invite Links](#q-how-do-i-add-more-members-what-39s-an-invite-link)
+*   [What makes Telegram groups cool?](#q-what-makes-telegram-groups-cool)
+*   [How are channels and groups different?](#q-what-39s-the-difference-between-groups-and-channels)
+*   [Creating a group](#q-how-do-i-create-a-group)
+*   [Adding members and using Invite Links](#q-how-do-i-add-more-members-what-39s-an-invite-link)
 
 [**Usernames and t.me**](#usernames-and-t-me)
 
-* [What are usernames? How do I get one?](#q-what-are-usernames-how-do-i-get-one)
-* [What are Collectible Usernames? How are they different from basic usernames?](#q-what-are-collectible-usernames-how-are-they-different-from-bas)
-* [How does t.me work?](#q-how-does-t-me-work)
-* [What can I use as my username?](#q-what-can-i-use-as-my-username)
-* [Do I need a username?](#q-do-i-need-a-username)
-* [Will people know my number?](#q-if-someone-finds-me-by-username-messages-and-i-reply-will-they)
-* [How do I delete my username?](#q-how-do-i-delete-my-username)
-* [What do I do if my username is taken?](#q-what-do-i-do-if-my-username-is-taken)
-* [What if someone is pretending to be me?](#q-what-if-someone-is-pretending-to-be-me)
+*   [What are usernames? How do I get one?](#q-what-are-usernames-how-do-i-get-one)
+*   [What are Collectible Usernames? How are they different from basic usernames?](#q-what-are-collectible-usernames-how-are-they-different-from-bas)
+*   [How does t.me work?](#q-how-does-t-me-work)
+*   [What can I use as my username?](#q-what-can-i-use-as-my-username)
+*   [Do I need a username?](#q-do-i-need-a-username)
+*   [Will people know my number?](#q-if-someone-finds-me-by-username-messages-and-i-reply-will-they)
+*   [How do I delete my username?](#q-how-do-i-delete-my-username)
+*   [What do I do if my username is taken?](#q-what-do-i-do-if-my-username-is-taken)
+*   [What if someone is pretending to be me?](#q-what-if-someone-is-pretending-to-be-me)
 
 [**Security**](#security)
 
-* [How secure is Telegram?](#q-how-secure-is-telegram)
-* [How do you encrypt data?](#q-so-how-do-you-encrypt-data)
-* [Why should I trust you?](#q-why-should-i-trust-you)
-* [Do I need to trust Telegram for it to be secure?](#q-do-i-need-to-trust-telegram-for-this-to-be-secure)
-* [What if my hacker friend doubts you?](#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes)
-* [Can Telegram protect me against everything?](#q-can-telegram-protect-me-against-everything)
-* [How does 2-Step Verification work?](#q-how-does-2-step-verification-work)
+*   [How secure is Telegram?](#q-how-secure-is-telegram)
+*   [How do you encrypt data?](#q-so-how-do-you-encrypt-data)
+*   [Why should I trust you?](#q-why-should-i-trust-you)
+*   [Do I need to trust Telegram for it to be secure?](#q-do-i-need-to-trust-telegram-for-this-to-be-secure)
+*   [What if my hacker friend doubts you?](#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes)
+*   [Can Telegram protect me against everything?](#q-can-telegram-protect-me-against-everything)
+*   [How does 2-Step Verification work?](#q-how-does-2-step-verification-work)
 
 [**Secret Chats**](#secret-chats)
 
-* [What is a _secret chat?_](#q-how-are-secret-chats-different)
-* [Starting a secret chat](#q-how-do-i-start-a-secret-chat)
-* [Using the self-destruct timer](#q-how-do-self-destructing-messages-work)
-* [Screenshot alerts](#q-can-i-be-certain-that-my-conversation-partner-doesn-39t-take-a)
-* [Encryption key picture](#q-what-is-this-39encryption-key-39-thing)
-* [Why not make all chats 'secret'?](#q-why-not-just-make-all-chats-39secret-39)
+*   [What is a _secret chat?_](#q-how-are-secret-chats-different)
+*   [Starting a secret chat](#q-how-do-i-start-a-secret-chat)
+*   [Using the self-destruct timer](#q-how-do-self-destructing-messages-work)
+*   [Screenshot alerts](#q-can-i-be-certain-that-my-conversation-partner-doesn-39t-take-a)
+*   [Encryption key picture](#q-what-is-this-39encryption-key-39-thing)
+*   [Why not make all chats 'secret'?](#q-why-not-just-make-all-chats-39secret-39)
 
 [**Your Account**](#your-account)
 
-* [Who can see my phone number?](#q-who-can-see-my-phone-number)
-* [I have a new phone number, what do I do?](#q-i-have-a-new-phone-number-what-do-i-do)
-* [Log out of Telegram](#q-how-do-i-log-out)
-* [Change your phone number](#q-how-do-i-change-my-phone-number)
-* [Delete your Telegram account](#q-how-do-i-delete-my-account)
-* [How does account self-destruction work?](#q-how-does-account-self-destruction-work)
-* [My phone was stolen. What do I do?](#q-my-phone-was-stolen-what-do-i-do)
+*   [Who can see my phone number?](#q-who-can-see-my-phone-number)
+*   [I have a new phone number, what do I do?](#q-i-have-a-new-phone-number-what-do-i-do)
+*   [Log out of Telegram](#q-how-do-i-log-out)
+*   [Change your phone number](#q-how-do-i-change-my-phone-number)
+*   [Delete your Telegram account](#q-how-do-i-delete-my-account)
+*   [How does account self-destruction work?](#q-how-does-account-self-destruction-work)
+*   [My phone was stolen. What do I do?](#q-my-phone-was-stolen-what-do-i-do)
 
 [**Bots**](#bots)
 
-* [How do I create a bot?](#q-how-do-i-create-a-bot)
-* [How do I get rid of a bot?](#q-a-bot-is-sending-me-messages-how-do-i-make-it-stop)
-* [Are bots safe?](#q-are-bots-safe)
-* [Where can I get more bots?](#q-where-can-i-find-more-bots)
+*   [How do I create a bot?](#q-how-do-i-create-a-bot)
+*   [How do I get rid of a bot?](#q-a-bot-is-sending-me-messages-how-do-i-make-it-stop)
+*   [Are bots safe?](#q-are-bots-safe)
+*   [Where can I get more bots?](#q-where-can-i-find-more-bots)
 
 [**Deeper Questions**](#deeper-questions)
 
-* [Can I get Telegram's server-side code?](#q-can-i-get-telegram-39s-server-side-code)
-* [Can I use my own server?](#q-can-i-run-telegram-using-my-own-server)
-* [Can I use the Telegram API?](#q-can-i-use-the-telegram-api)
-* [Do you have a Privacy Policy?](#q-do-you-have-a-privacy-policy)
-* [What does the iOS privacy sheet mean?](#q-what-does-the-ios-privacy-sheet-mean)
-* [Why do you have two apps in the Mac App Store?](#q-why-do-you-have-two-apps-in-the-mac-app-store)
-* [Can I translate Telegram?](#q-can-i-translate-telegram)
-* [Can I help?](#q-can-i-help)
+*   [Can I get Telegram's server-side code?](#q-can-i-get-telegram-39s-server-side-code)
+*   [Can I use my own server?](#q-can-i-run-telegram-using-my-own-server)
+*   [Can I use the Telegram API?](#q-can-i-use-the-telegram-api)
+*   [Do you have a Privacy Policy?](#q-do-you-have-a-privacy-policy)
+*   [What does the iOS privacy sheet mean?](#q-what-does-the-ios-privacy-sheet-mean)
+*   [Why do you have two apps in the Mac App Store?](#q-why-do-you-have-two-apps-in-the-mac-app-store)
+*   [Can I translate Telegram?](#q-can-i-translate-telegram)
+*   [Can I help?](#q-can-i-help)
 
 [**Troubleshooting**](#troubleshooting)
 
-* [SMS, login, register](#login-and-sms)
-* [Getting a login code via a phone call](#getting-a-code-via-a-phone-call)
-* [Getting codes via Telegram](#getting-a-code-via-telegram)
-* [Notification problems](#notification-problems)
-* [Problems with contacts](#problems-with-contacts)
-* [Deleting contacts on Android](#deleting-contacts-on-android)
-* [Secret Chats](#where-did-my-secret-chat-messages-go)
-* [Can't send messages to non contacts](#can-39t-send-messages-to-non-contacts)
-* [Telegram uses the camera or microphone in the background](#telegram-uses-the-camera-or-microphone-in-the-background)
+*   [SMS, login, register](#login-and-sms)
+*   [Getting a login code via a phone call](#getting-a-code-via-a-phone-call)
+*   [Getting codes via Telegram](#getting-a-code-via-telegram)
+*   [Notification problems](#notification-problems)
+*   [Problems with contacts](#problems-with-contacts)
+*   [Deleting contacts on Android](#deleting-contacts-on-android)
+*   [Secret Chats](#where-did-my-secret-chat-messages-go)
+*   [Can't send messages to non contacts](#can-39t-send-messages-to-non-contacts)
+*   [Telegram uses the camera or microphone in the background](#telegram-uses-the-camera-or-microphone-in-the-background)
 
 [**Contact Telegram Support**](#telegram-support)  
 [**Follow Us on Twitter**](#twitter)  
@@ -351,8 +351,8 @@ Our founder and CEO [Pavel Durov](https://telegram.org/press), who financed Tele
 
 Following this plan, Telegram has implemented sustainable forms of monetization that prioritize its users:
 
-* In 2021, Telegram launched [Sponsored Messages](https://t.me/durov/172) – minimalist, privacy-conscious advertisements that can appear in certain public channels.
-* In 2022, Telegram launched a [Premium subscription](https://telegram.org/blog/700-million-and-premium#telegram-premium) which users can purchase to both support the app and unlock additional exclusive features.
+*   In 2021, Telegram launched [Sponsored Messages](https://t.me/durov/172) – minimalist, privacy-conscious advertisements that can appear in certain public channels.
+*   In 2022, Telegram launched a [Premium subscription](https://telegram.org/blog/700-million-and-premium#telegram-premium) which users can purchase to both support the app and unlock additional exclusive features.
 
 These revenue streams help us pay for infrastructure costs and developer salaries, however making profits will never be an end-goal for Telegram.
 
@@ -362,8 +362,8 @@ These revenue streams help us pay for infrastructure costs and developer salarie
 
 We think that the two most important components of Internet privacy should be:
 
-1. Protecting your private conversations from snooping third parties, such as officials, employers, etc.
-2. Protecting your personal data from third parties, such as marketers, advertisers, etc.
+1.  Protecting your private conversations from snooping third parties, such as officials, employers, etc.
+2.  Protecting your personal data from third parties, such as marketers, advertisers, etc.
 
 Telegram's aim is to create a truly free messenger, with a revolutionary [privacy policy](https://telegram.org/privacy).
 
@@ -375,8 +375,8 @@ Telegram only keeps the information it needs to function as a feature-rich cloud
 
 You can use [**@EURegulation**](https://t.me/EURegulation) to:
 
-* Request a copy of all your data that Telegram stores.
-* Contact us about Data Privacy.
+*   Request a copy of all your data that Telegram stores.
+*   Contact us about Data Privacy.
 
 #### [](#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)Q: There's illegal content on Telegram. How do I take it down?
 
@@ -396,8 +396,8 @@ The Regulation (EU) 2021/784 of the European Parliament and of the Council of 29
 
 Users whose publications were taken down in connection with the TCO Regulation can request details on why their publications were considered terrorist and how to challenge the removal:
 
-* by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
-* by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
+*   by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
+*   by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
 
 Requests can be accepted in English and French.
 
@@ -445,8 +445,8 @@ People can contact you on Telegram if they **know your phone number** or if you 
 
 If they don't know your phone number, they can find you in these cases:
 
-* When you both are members of the **same group**.
-* If you set a [**public username**](#usernames-and-t-me). Others can use **Global Search** and find you by your username.
+*   When you both are members of the **same group**.
+*   If you set a [**public username**](#usernames-and-t-me). Others can use **Global Search** and find you by your username.
 
 ##### [](#q-does-telegram-send-verification-codes-for-other-apps)Q: Does Telegram send Verification Codes for other apps?
 
@@ -489,10 +489,10 @@ You can choose who sees this info in [Privacy and Security](https://telegram.org
 
 Remember that you won't see Last Seen timestamps for people with whom you don't share your own. You will, however, see an approximate last seen value. This keeps stalkers away but makes it possible to understand whether a person is reachable over Telegram. There are four possible approximate values:
 
-* **Last seen recently** — covers anything between 1 second and 2-3 days
-* **Last seen within a week** — between 2-3 and seven days
-* **Last seen within a month** — between 6-7 days and a month
-* **Last seen a long time ago** — more than a month (this is also always shown to blocked users)
+*   **Last seen recently** — covers anything between 1 second and 2-3 days
+*   **Last seen within a week** — between 2-3 and seven days
+*   **Last seen within a month** — between 6-7 days and a month
+*   **Last seen a long time ago** — more than a month (this is also always shown to blocked users)
 
 #### [](#q-who-can-see-me-39online-39)Q: Who can see me 'online'?
 
@@ -500,9 +500,9 @@ The [last seen](#q-can-i-hide-my-last-seen-time) rules apply to your online stat
 
 There are some exceptions because sometimes it is obvious that you are online. Regardless of the last seen settings, people will see you online for a brief period (~30 seconds) if you do the following:
 
-* Send them a message in a one-on-one chat or in a group where you both are members.
-* Read a message they sent you in a one-on-one chat.
-* Broadcast a “typing…” status to their chat with you or to a group where you both are members.
+*   Send them a message in a one-on-one chat or in a group where you both are members.
+*   Read a message they sent you in a one-on-one chat.
+*   Broadcast a “typing…” status to their chat with you or to a group where you both are members.
 
 If you're not sharing your last seen timestamp with someone and don't do anything of the above, they'll never see you online. Another way of achieving this is to block that person.
 
@@ -777,18 +777,18 @@ On Telegram, you can send messages in private chats and groups without making yo
 
 Each phone number is a **separate** account on Telegram. You have several options if you are using multiple phone numbers:
 
-* If you will **no longer use the old number** (e.g., you moved to a new country or changed your number for good), simply go to Settings and [change the number](#q-how-do-i-change-my-phone-number) connected to your Telegram account to the new number. **Important:** make sure you have access to your connected phone number – otherwise you risk losing access to your account.
-* If you will use the new number for a **limited time** (e.g., you're on a trip or vacation), there's no need to do anything.
-* If you want to keep using **both numbers** (e.g., you have a work phone and personal phone), choose one as your Telegram number. You _may_ create another Telegram account on the second number as well, for example, if you want to keep work and personal chats separated. It is possible to log in to one Telegram app with up to **3** different [accounts](https://telegram.org/blog/autoplay#multiple-account-support) at once.
+*   If you will **no longer use the old number** (e.g., you moved to a new country or changed your number for good), simply go to Settings and [change the number](#q-how-do-i-change-my-phone-number) connected to your Telegram account to the new number. **Important:** make sure you have access to your connected phone number – otherwise you risk losing access to your account.
+*   If you will use the new number for a **limited time** (e.g., you're on a trip or vacation), there's no need to do anything.
+*   If you want to keep using **both numbers** (e.g., you have a work phone and personal phone), choose one as your Telegram number. You _may_ create another Telegram account on the second number as well, for example, if you want to keep work and personal chats separated. It is possible to log in to one Telegram app with up to **3** different [accounts](https://telegram.org/blog/autoplay#multiple-account-support) at once.
 
 #### [](#q-how-do-i-log-out)Q: How do I log out?
 
 Most users don't need to log out of Telegram:
 
-* You can use Telegram on many devices **at the same time**. Just use the same phone number to log in on all devices.
-* You can go to _Settings > Data and Storage > Storage Usage> Clear cache_ to **free up space** on your device without logging out.
-* If you use Telegram with **multiple phone numbers**, you can [switch between accounts](https://telegram.org/blog/themes-accounts#multiple-accounts) without logging out.
-* If you use Telegram on a **shared device**, you can set up a passcode in _Settings > Privacy and Security_ to make sure only you have access to your account.
+*   You can use Telegram on many devices **at the same time**. Just use the same phone number to log in on all devices.
+*   You can go to _Settings > Data and Storage > Storage Usage> Clear cache_ to **free up space** on your device without logging out.
+*   If you use Telegram with **multiple phone numbers**, you can [switch between accounts](https://telegram.org/blog/themes-accounts#multiple-accounts) without logging out.
+*   If you use Telegram on a **shared device**, you can set up a passcode in _Settings > Privacy and Security_ to make sure only you have access to your account.
 
 If you do want to log out for some reason, here's how you do that:
 
@@ -832,15 +832,15 @@ To delete individual messages or entire chats for both parties at any time, simp
 
 Many relevant settings are available in _Settings > Privacy & Security_ (on iOS, there is one more step > Data Settings), for example:
 
-* To delete your Synced Contacts, choose _Delete Synced Contacts_.
-* To delete your Cloud Drafts, choose _Delete All Cloud Drafts_ (on Android, this option is in Settings > Data and Storage).
-* To delete suggestion metadata about contacts and bots you message frequently, turn off _Suggest Frequent Contacts_.
+*   To delete your Synced Contacts, choose _Delete Synced Contacts_.
+*   To delete your Cloud Drafts, choose _Delete All Cloud Drafts_ (on Android, this option is in Settings > Data and Storage).
+*   To delete suggestion metadata about contacts and bots you message frequently, turn off _Suggest Frequent Contacts_.
 
 For other data:
 
-* To delete your profile pictures, open your profile > tap on your profile picture > \> Delete.
-* To delete the stories you posted go to **My Stories**, then hold to select and tap on the delete icon in the top right corner.
-* To delete your call history go to Calls > / \> Delete All Calls.
+*   To delete your profile pictures, open your profile > tap on your profile picture > \> Delete.
+*   To delete the stories you posted go to **My Stories**, then hold to select and tap on the delete icon in the top right corner.
+*   To delete your call history go to Calls > / \> Delete All Calls.
 
 #### [](#q-my-phone-was-stolen-what-do-i-do)Q: My phone was stolen, what do I do?
 
@@ -848,15 +848,15 @@ First of all, sorry about your phone. Unfortunately, the phone number is the onl
 
 ###### [](#i-have-access-to-telegram-on-another-device)I have access to Telegram on another device
 
-1. Go to Telegram Settings > Privacy and Security and turn on Two-Step Verification. This way the phone number alone will not be enough to log in to your account.
-2. Go to Settings > Devices (or Privacy & Security > Active Sessions) and terminate your Telegram session on the old device. Whoever has your phone will not be able to log in again, since they don't know your password.
-3. Contact your phone provider, so that they block your old SIM and issue a new one with your number.
-4. If you decide to switch to a new phone number, don't forget to go to Settings, tap on your phone number and change your Telegram number to the new one.
+1.  Go to Telegram Settings > Privacy and Security and turn on Two-Step Verification. This way the phone number alone will not be enough to log in to your account.
+2.  Go to Settings > Devices (or Privacy & Security > Active Sessions) and terminate your Telegram session on the old device. Whoever has your phone will not be able to log in again, since they don't know your password.
+3.  Contact your phone provider, so that they block your old SIM and issue a new one with your number.
+4.  If you decide to switch to a new phone number, don't forget to go to Settings, tap on your phone number and change your Telegram number to the new one.
 
 ###### [](#i-don-39t-have-access-to-telegram-on-any-other-devices)I don't have access to Telegram on any other devices
 
-1. First and foremost, you need to contact your phone provider, so that they block your old SIM and issue a new one with your number.
-2. Wait till you receive your new SIM with the old number, log in to Telegram, then go to Settings > Devices (or Privacy & Security > Active Sessions) and terminate your Telegram session on the old device.
+1.  First and foremost, you need to contact your phone provider, so that they block your old SIM and issue a new one with your number.
+2.  Wait till you receive your new SIM with the old number, log in to Telegram, then go to Settings > Devices (or Privacy & Security > Active Sessions) and terminate your Telegram session on the old device.
 
 ###### [](#removing-sensitive-data)Removing sensitive data
 
@@ -1007,20 +1007,20 @@ Login code sent via Telegram
 
 **ANDROID**
 
-1. Go to Telegram Settings — Notifications and Sounds, make sure that notifications are **ON** and Importance is set to **“High”** or greater.
-2. Check whether contact or group is _muted_.
-3. Make sure [Google Play Services](https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone.
-4. Check **notification priority** for Telegram in **Android settings**, it can be called _Importance_ or _Behaviour_ depending on your device.
-5. If your phone uses some **battery saving software**, make sure that Telegram is whitelisted in that application.
+1.  Go to Telegram Settings — Notifications and Sounds, make sure that notifications are **ON** and Importance is set to **“High”** or greater.
+2.  Check whether contact or group is _muted_.
+3.  Make sure [Google Play Services](https://play.google.com/store/apps/details?id=com.google.android.gms) are installed on your phone.
+4.  Check **notification priority** for Telegram in **Android settings**, it can be called _Importance_ or _Behaviour_ depending on your device.
+5.  If your phone uses some **battery saving software**, make sure that Telegram is whitelisted in that application.
 
 > NOTE: **Huawei** and **Xiaomi** devices have evil task killer services that interfere with the Telegram notification service. For our notifications to work, you need to add Telegram to allowed apps in those devices' security settings. Huawei: Phone Manager App > Protected Apps > Add Telegram to the list. Xiaomi: Services > Security > Permissions > Autostart, find Telegram and enable autostart.
 
 **iOS**
 
-1. Go to Telegram Settings — Notifications and Sounds, make sure that notifications are ON in Telegram.
-2. Check that notifications are **ON** in phone Settings.
-3. Check, whether contact or group is _muted_.
-4. Shut down Telegram (go to home screen, double tap home button, swipe upwards on Telegram), then go to phone settings, set the alert style for Telegram to NONE. Relaunch Telegram, go to phone settings, set alert style back to banners.
+1.  Go to Telegram Settings — Notifications and Sounds, make sure that notifications are ON in Telegram.
+2.  Check that notifications are **ON** in phone Settings.
+3.  Check, whether contact or group is _muted_.
+4.  Shut down Telegram (go to home screen, double tap home button, swipe upwards on Telegram), then go to phone settings, set the alert style for Telegram to NONE. Relaunch Telegram, go to phone settings, set alert style back to banners.
 
 #### [](#problems-with-contacts)Problems with contacts
 
@@ -1028,16 +1028,16 @@ If you know your friends have Telegram, but you can't see them — or they appea
 
 _Android:_
 
-1. Make sure you are using the latest version of the app.
-2. Relaunch the app (by terminating it from processes list and launching again).
-3. Temporarily change the name of the contact in phone contacts (add a few symbols, then change back again).
-4. If that didn't help, re-login. Remember that logging out kills your Secret Chats.
+1.  Make sure you are using the latest version of the app.
+2.  Relaunch the app (by terminating it from processes list and launching again).
+3.  Temporarily change the name of the contact in phone contacts (add a few symbols, then change back again).
+4.  If that didn't help, re-login. Remember that logging out kills your Secret Chats.
 
 _iOS:_
 
-1. Force quit the app (double tap home button, then swipe up on Telegram), then relaunch and check if it helped.
-2. If that doesn't help, temporarily change the name of the contact in phone contacts (add a few symbols, then change back again).
-3. If that doesn’t work, re-login: Settings > Edit > Log Out. Remember that logging out kills all your Secret Chats. Then log in again.
+1.  Force quit the app (double tap home button, then swipe up on Telegram), then relaunch and check if it helped.
+2.  If that doesn't help, temporarily change the name of the contact in phone contacts (add a few symbols, then change back again).
+3.  If that doesn’t work, re-login: Settings > Edit > Log Out. Remember that logging out kills all your Secret Chats. Then log in again.
 
 #### [](#deleting-contacts-on-android)Deleting contacts on Android
 
