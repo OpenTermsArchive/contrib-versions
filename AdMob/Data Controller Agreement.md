@@ -473,8 +473,8 @@ Customer Personal Data may include the types of personal data described under th
 
 Customer Personal Data will concern the following categories of data subjects:
 
-* data subjects about whom Google collects personal data in its provision of the RDP Services; and/or
-* data subjects about whom personal data is transferred to Google in connection with the RDP Services by, at the direction of, or on behalf of Customer.
+*   data subjects about whom Google collects personal data in its provision of the RDP Services; and/or
+*   data subjects about whom personal data is transferred to Google in connection with the RDP Services by, at the direction of, or on behalf of Customer.
 
 Depending on the nature of the RDP Services, these data subjects may include individuals: (a) to whom online advertising has been, or will be, directed; (b) who have visited specific websites or applications in respect of which Google provides the RDP Services; and/or (c) who are customers or users of Customer’s products or services.
 
@@ -484,13 +484,13 @@ _30 May 2024_
 
 **Previous Versions**
 
-* [1 September 2023](https://kstatic.googleusercontent.com/files/9311cdcc645a27db60cb3938c34e07abdd3f3f7e4078eb3670ded0a7e6df74bd5a0a15d45df1fa34d73f1bd68bb7e06cb5e2b52eee54d989989d2398e9d951d8)
-* [1 July 2023](https://kstatic.googleusercontent.com/files/04f6ccdb98b25657ded2e989c8288fe03c6c6e99301361fa8da3d452e77ed3fe7fea91c217b37be2778a0074e7f6f5a2ea0c39a7b0e0dc60c85f02d3a40be026)
-* [1 January 2023](https://kstatic.googleusercontent.com/files/dfa98df533cc7b2fcbf99fc64047c2157e3d3a1697aa83cdf53efff21382eb4a535f7201214d6666ab49cc3a7d70929f94acabac6cc40a1a5bd4c74d420c0603)
-* [21 September 2022](https://kstatic.googleusercontent.com/files/7b486bcbf6080b9137067c3fba1d9dc957f72814bcf3cdddf66c6809252644df423d3110652b649d81af5e869128596fe339f51fd0a245f4fd4e046e1261730d)
-* [27 September 2021](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20210927.pdf)
-* [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
-* [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
-* [1 January 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200101.pdf)
-* [31 October 2019](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20191031.pdf)
-* [12 October 2017](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20171012.pdf)
+*   [1 September 2023](https://kstatic.googleusercontent.com/files/9311cdcc645a27db60cb3938c34e07abdd3f3f7e4078eb3670ded0a7e6df74bd5a0a15d45df1fa34d73f1bd68bb7e06cb5e2b52eee54d989989d2398e9d951d8)
+*   [1 July 2023](https://kstatic.googleusercontent.com/files/04f6ccdb98b25657ded2e989c8288fe03c6c6e99301361fa8da3d452e77ed3fe7fea91c217b37be2778a0074e7f6f5a2ea0c39a7b0e0dc60c85f02d3a40be026)
+*   [1 January 2023](https://kstatic.googleusercontent.com/files/dfa98df533cc7b2fcbf99fc64047c2157e3d3a1697aa83cdf53efff21382eb4a535f7201214d6666ab49cc3a7d70929f94acabac6cc40a1a5bd4c74d420c0603)
+*   [21 September 2022](https://kstatic.googleusercontent.com/files/7b486bcbf6080b9137067c3fba1d9dc957f72814bcf3cdddf66c6809252644df423d3110652b649d81af5e869128596fe339f51fd0a245f4fd4e046e1261730d)
+*   [27 September 2021](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20210927.pdf)
+*   [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
+*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
+*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200101.pdf)
+*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20191031.pdf)
+*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20171012.pdf)
