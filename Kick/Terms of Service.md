@@ -57,13 +57,13 @@ For the purposes of these Terms, “Intellectual Property Rights” means all pa
 
 In connection with your User Content, you affirm, represent and warrant the following:
 
-* You have the written consent of each and every identifiable natural person in the User Content, if any, to use such person's name or likeness in the manner contemplated by the Service and these Terms, and each such person has released you from any liability that may arise in relation to such use.
-* You have obtained and are solely responsible for obtaining all consents as may be required by law to post any User Content relating to third parties.
-* Your User Content and Company's use thereof as contemplated by these Terms and the Service will not violate any law or infringe any rights of any third party, including any Intellectual Property Rights and privacy rights.
-* Company may exercise the rights to your User Content granted under these Terms without liability for payment of any guild fees, residuals, payments, fees, or royalties payable under any collective bargaining agreement or otherwise.
-* To the best of your knowledge, all your User Content and other information that you provide to us is truthful and accurate.
-* Unless you have received prior written authorization, your User Content specifically does not contain any pre-release or non-public beta software or game content or any confidential information of Company or third parties.
-* Your User Content will abide by the [Community Guidelines](https://kick.com/community-guidelines).
+*   You have the written consent of each and every identifiable natural person in the User Content, if any, to use such person's name or likeness in the manner contemplated by the Service and these Terms, and each such person has released you from any liability that may arise in relation to such use.
+*   You have obtained and are solely responsible for obtaining all consents as may be required by law to post any User Content relating to third parties.
+*   Your User Content and Company's use thereof as contemplated by these Terms and the Service will not violate any law or infringe any rights of any third party, including any Intellectual Property Rights and privacy rights.
+*   Company may exercise the rights to your User Content granted under these Terms without liability for payment of any guild fees, residuals, payments, fees, or royalties payable under any collective bargaining agreement or otherwise.
+*   To the best of your knowledge, all your User Content and other information that you provide to us is truthful and accurate.
+*   Unless you have received prior written authorization, your User Content specifically does not contain any pre-release or non-public beta software or game content or any confidential information of Company or third parties.
+*   Your User Content will abide by the [Community Guidelines](https://kick.com/community-guidelines).
 
 Company takes no responsibility and assumes no liability for any User Content that you or any other User or third-party posts, sends, or otherwise makes available over the Service. You shall be solely responsible for your User Content and the consequences of posting, publishing it, sharing it, or otherwise making it available on the Service, and you agree that we are only acting as a passive conduit for your online distribution and publication of your User Content. You understand and agree that you may be exposed to User Content that is inaccurate, objectionable, inappropriate for children, or otherwise unsuited to your purpose, and you agree that Company shall not be liable for any damages you allege to incur as a result of or relating to any User Content.
 
