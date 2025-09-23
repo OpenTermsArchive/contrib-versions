@@ -46,9 +46,9 @@ Legal grounds for processing personal information
 
 We rely on one or more of the following processing conditions:
 
-* our legitimate interests in the effective delivery of information and services to you;
-* explicit consent that you have given;
-* legal obligations.
+*   our legitimate interests in the effective delivery of information and services to you;
+*   explicit consent that you have given;
+*   legal obligations.
 
 Access to data
 --------------
@@ -59,15 +59,15 @@ All WordCamp attendee-provided data can be viewed and changed by the attendee vi
 
 WordPress.org user accounts can be edited by following these steps:
 
-1. Visit [https://login.wordpress.org/](https://login.wordpress.org/), and enter your username and password.
-2. You will be redirected to https://profiles.wordpress.org/your\_username.
-3. Click the “Edit” link next to your username.
+1.  Visit [https://login.wordpress.org/](https://login.wordpress.org/), and enter your username and password.
+2.  You will be redirected to https://profiles.wordpress.org/your\_username.
+3.  Click the “Edit” link next to your username.
 
 If you would like to request access to your account data, please follow these steps:
 
-1. Visit [https://wordpress.org/about/privacy/data-export-request/](https://wordpress.org/about/privacy/data-export-request/).
-2. Enter your email address.
-3. Click “Accept Declaration and Request Export”.
+1.  Visit [https://wordpress.org/about/privacy/data-export-request/](https://wordpress.org/about/privacy/data-export-request/).
+2.  Enter your email address.
+3.  Click “Accept Declaration and Request Export”.
 
 Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
@@ -86,9 +86,9 @@ When deletion is requested or otherwise required, we will anonymise the data of 
 
 If you would like to request deletion of your account and associated data, please follow these steps:
 
-1. Visit [https://wordpress.org/about/privacy/data-erasure-request/](https://wordpress.org/about/privacy/data-erasure-request/).
-2. Enter your email address.
-3. Click “Accept Declaration and Request Permanent Account Deletion”.
+1.  Visit [https://wordpress.org/about/privacy/data-erasure-request/](https://wordpress.org/about/privacy/data-erasure-request/).
+2.  Enter your email address.
+3.  Click “Accept Declaration and Request Permanent Account Deletion”.
 
 Note: If you have a WP.org account, it’s recommended you log in before submitting to associate your account with the request.
 
@@ -97,11 +97,11 @@ Rights in relation to your information
 
 You may have certain rights under data protection law in relation to the personal information we hold about you. In particular, you may have a right to:
 
-* request a copy of personal information we hold about you;
-* ask that we update the personal information we hold about you, or independently correct such personal information that you think is incorrect or incomplete;
-* ask that we delete personal information that we hold about you from live systems, or restrict the way in which we use such personal information (for information on deletion from archives, see the “Retention of personal information” section);
-* object to our processing of your personal information; and/or
-* withdraw your consent to our processing of your personal information (to the extent such processing is based on consent and consent is the only permissible basis for processing).
+*   request a copy of personal information we hold about you;
+*   ask that we update the personal information we hold about you, or independently correct such personal information that you think is incorrect or incomplete;
+*   ask that we delete personal information that we hold about you from live systems, or restrict the way in which we use such personal information (for information on deletion from archives, see the “Retention of personal information” section);
+*   object to our processing of your personal information; and/or
+*   withdraw your consent to our processing of your personal information (to the extent such processing is based on consent and consent is the only permissible basis for processing).
 
 If you would like to exercise these rights or understand if these rights apply to you, please follow the instructions at the end of this Privacy statement.
 
@@ -134,8 +134,8 @@ Please note we cannot provide help or information about other websites, includin
 
 We suggest contacting the site owner or author directly. To find more information about the site’s host or domain registrar, you can use these tools:
 
-* [https://lookup.icann.org](https://href.li/?https://lookup.icann.org)
-* [https://www.whoishostingthis.com/](https://href.li/?https://www.whoishostingthis.com/)
+*   [https://lookup.icann.org](https://href.li/?https://lookup.icann.org)
+*   [https://www.whoishostingthis.com/](https://href.li/?https://www.whoishostingthis.com/)
 
 Please contact us if you have any questions about our privacy policy or information we hold about you by emailing [dpo@wordpress.org](mailto:dpo@wordpress.org?subject=Privacy%20Policy).
 
