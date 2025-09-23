@@ -20,25 +20,25 @@ Should you have any questions relating to this Privacy Policy or our processing 
 
 Bertheussen IT collect and process your personal data for the following purposes:
 
-* Review and respond to e-mails
-* Provide customer and technical support
-* Managing and providing Services (including user accounts, chat services and advertisement serving)
-* Analyzing usage of the Services
-* Maintain a server log to prevent misuse or to identify hacking etc.
-* Maintain, manage and improve our products and to optimize the user experience, and to further develop the Services and other Bertheussen IT services and products
-* Help diagnose technical and service issues
+*   Review and respond to e-mails
+*   Provide customer and technical support
+*   Managing and providing Services (including user accounts, chat services and advertisement serving)
+*   Analyzing usage of the Services
+*   Maintain a server log to prevent misuse or to identify hacking etc.
+*   Maintain, manage and improve our products and to optimize the user experience, and to further develop the Services and other Bertheussen IT services and products
+*   Help diagnose technical and service issues
 
 Bertheussen IT may combine non-personal data with personal data. Please note that certain features of the Services may be able to connect to your social networking sites to obtain additional information about you.
 
 Bertheussen IT will only use your personal data for a specific purpose if we have a legally valid ground to do so. The legal grounds that we rely upon and examples of use based on such legal grounds are:
 
-* **Performance of a contract:** we rely on this legal ground when we use your personal data in order to maintain and manage your user account and deliver services to you provided in our applications
+*   **Performance of a contract:** we rely on this legal ground when we use your personal data in order to maintain and manage your user account and deliver services to you provided in our applications
     
-* **Legitimate interests:** we rely on legitimate interest as legal ground when processing is necessary in order to pursue a legitimate interest, e.g. in order to prevent misuse and identify hacking. Your privacy interests are always balanced to the legitimate interests pursued. You have the right to object to our processing of personal data that is based on our legitimate interest
+*   **Legitimate interests:** we rely on legitimate interest as legal ground when processing is necessary in order to pursue a legitimate interest, e.g. in order to prevent misuse and identify hacking. Your privacy interests are always balanced to the legitimate interests pursued. You have the right to object to our processing of personal data that is based on our legitimate interest
     
-* **Legal obligation:** sometimes we use your personal data to comply with our legal obligations
+*   **Legal obligation:** sometimes we use your personal data to comply with our legal obligations
     
-* **Your voluntary and informed consent:** we will process your personal data based on your informed and freely given consent to use your personal data for analytics, diagnosing technical issues and bugs and for tailored advertisements.
+*   **Your voluntary and informed consent:** we will process your personal data based on your informed and freely given consent to use your personal data for analytics, diagnosing technical issues and bugs and for tailored advertisements.
     
     Please note that you can always withdraw your consent by contacting us at [support@wordfeud.com](mailto:support@wordfeud.com).
     
@@ -50,39 +50,39 @@ For purposes of this Privacy Policy, "personal data" means personally identifiab
 
 Likely situations where you make personal data available to Bertheussen IT include, but are not limited to:
 
-* registration for Services, contests and special events;
-* accessing Services using a third party ID, such as social networking sites or gaming services;
-* subscribing to newsletters;
-* registration of a user account in our mobile app "Wordfeud"
-* purchasing a product or services through Bertheussen IT's online stores;
-* using "tell a friend," "email this page," or other similar features;
-* use of chat functions in our applications;
-* requesting technical support; and
-* otherwise through use of Bertheussen IT Services where personal data is required for use and/or participation.
+*   registration for Services, contests and special events;
+*   accessing Services using a third party ID, such as social networking sites or gaming services;
+*   subscribing to newsletters;
+*   registration of a user account in our mobile app "Wordfeud"
+*   purchasing a product or services through Bertheussen IT's online stores;
+*   using "tell a friend," "email this page," or other similar features;
+*   use of chat functions in our applications;
+*   requesting technical support; and
+*   otherwise through use of Bertheussen IT Services where personal data is required for use and/or participation.
 
 The types of personal data may vary depending on the type of activity you are engaged in. The personal data Bertheussen IT may collect and process may include, but are not limited to;
 
-* your name,
-* screen/nick name,
-* Bertheussen IT Services' or third party service ID,
-* e-mail address,
-* phone number,
-* photo or other image,
-* friend connections,
-* contacts from your contact list,
-* avatar image,
-* device properties, including, but not limited to unique device identifier or other device identifier ("UDID"),
-* information you provide through our chat-services in our applications,
-* Facebook-ID and location (only if directly identifiable to you, otherwise we treat location as non-personal data).
+*   your name,
+*   screen/nick name,
+*   Bertheussen IT Services' or third party service ID,
+*   e-mail address,
+*   phone number,
+*   photo or other image,
+*   friend connections,
+*   contacts from your contact list,
+*   avatar image,
+*   device properties, including, but not limited to unique device identifier or other device identifier ("UDID"),
+*   information you provide through our chat-services in our applications,
+*   Facebook-ID and location (only if directly identifiable to you, otherwise we treat location as non-personal data).
 
 If you consent to allow your social networking site to make information available to Bertheussen IT and also provided that your social networking site permits it, Bertheussen IT may collect certain information from your social networking profile including but not limited to;
 
-* your name,
-* profile picture,
-* user ID,
-* email address,
-* your country, language and time zone,
-* the names and profile pictures of your social networking site "friends" and other information you have included in your social networking site profile.
+*   your name,
+*   profile picture,
+*   user ID,
+*   email address,
+*   your country, language and time zone,
+*   the names and profile pictures of your social networking site "friends" and other information you have included in your social networking site profile.
 
 Bertheussen IT may associate and/or combine as well as use information collected by Bertheussen IT and/or obtained through such social networking sites in accordance with this Privacy Policy.
 
@@ -210,10 +210,10 @@ Our implementation of Firebase Analytics is limited to collection and our use of
 
 You can read more about data collected through Firebase Analytics including Firebase Analytics' use of Advertising Identifier and use of masked IP-addresses here:
 
-* [https://support.google.com/firebase/answer/6317485](https://support.google.com/firebase/answer/6317485)
-* [https://support.google.com/firebase/answer/6317486](https://support.google.com/firebase/answer/6317486)
-* [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) (see sections 3,4 and 5)
-* [https://support.google.com/firebase/answer/6318039](https://support.google.com/firebase/answer/6318039) (the section called "Firebase Performance Monitoring data collection" is not relevant as we do not use this feature)
+*   [https://support.google.com/firebase/answer/6317485](https://support.google.com/firebase/answer/6317485)
+*   [https://support.google.com/firebase/answer/6317486](https://support.google.com/firebase/answer/6317486)
+*   [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) (see sections 3,4 and 5)
+*   [https://support.google.com/firebase/answer/6318039](https://support.google.com/firebase/answer/6318039) (the section called "Firebase Performance Monitoring data collection" is not relevant as we do not use this feature)
 
 10\. Third party Terms and Conditions
 -------------------------------------
