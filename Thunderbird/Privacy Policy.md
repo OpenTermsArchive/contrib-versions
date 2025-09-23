@@ -93,16 +93,16 @@ OAuth authentication and user data synchronization occur directly between Thunde
 
 Data protection on your device:
 
-* Login credentials are not stored on your device; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are secured within the application sandbox (on Android), the secure key storage (on iOS), or confined within your user profile (on Desktop). Additional security measures such as operating system level full disk encryption increase the security of your data.
-* Email and calendar data reside solely on your device for the duration required to operate Thunderbird. This includes sensitive user data associated with your Apple Calendar, Microsoft 365 or Google Calendar.
-* Thunderbird does not share OAuth tokens, email contents, calendar events, contact lists, or account details with third parties, except as necessary to provide the services requested by the user (e.g., sending an email or scheduling a calendar event).
+*   Login credentials are not stored on your device; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are secured within the application sandbox (on Android), the secure key storage (on iOS), or confined within your user profile (on Desktop). Additional security measures such as operating system level full disk encryption increase the security of your data.
+*   Email and calendar data reside solely on your device for the duration required to operate Thunderbird. This includes sensitive user data associated with your Apple Calendar, Microsoft 365 or Google Calendar.
+*   Thunderbird does not share OAuth tokens, email contents, calendar events, contact lists, or account details with third parties, except as necessary to provide the services requested by the user (e.g., sending an email or scheduling a calendar event).
 
 Retention and deletion:
 
-* OAuth tokens are stored only as long as necessary to maintain the authorized connection.
-* When you remove an account, all associated sensitive user data and OAuth tokens are immediately deleted from your device.
-* On Thunderbird Desktop, the OAuth tokens are retained until manually deleted in the password manager.
-* If you revoke Thunderbird’s access to your account via your OAuth provider’s account settings (e.g., Google security settings), Thunderbird will be unable to refresh the connection. Locally stored data will remain on your device until you remove the account from Thunderbird.
+*   OAuth tokens are stored only as long as necessary to maintain the authorized connection.
+*   When you remove an account, all associated sensitive user data and OAuth tokens are immediately deleted from your device.
+*   On Thunderbird Desktop, the OAuth tokens are retained until manually deleted in the password manager.
+*   If you revoke Thunderbird’s access to your account via your OAuth provider’s account settings (e.g., Google security settings), Thunderbird will be unable to refresh the connection. Locally stored data will remain on your device until you remove the account from Thunderbird.
 
 Thunderbird May Disclose Information To:
 ----------------------------------------
