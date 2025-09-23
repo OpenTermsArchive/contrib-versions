@@ -879,37 +879,37 @@ USD-$
 
 ### **Company**
 
-* [About Us](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about)
+*   [About Us](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about)
     
-* [Inquiries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about#email)
+*   [Inquiries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about#email)
     
-* [Careers](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/careers)
+*   [Careers](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/careers)
     
-* [Press](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/press)
+*   [Press](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/press)
     
 
 ### **Support**
 
-* [Support Center](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support)
+*   [Support Center](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support)
     
-* [24/7 Chat Support](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/chat?sourceEntry=4)
+*   [24/7 Chat Support](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/chat?sourceEntry=4)
     
-* [Fees](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/fee/schedule)
+*   [Fees](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/fee/schedule)
     
-* [Trading Rules](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/trade-rule)
+*   [Trading Rules](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/trade-rule)
     
 
 ### **Legal**
 
-* [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
+*   [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
     
-* [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
+*   [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
     
 
 ### **Compliance**
 
-* [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
+*   [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
     
-* [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
+*   [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
     
-* [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
+*   [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
