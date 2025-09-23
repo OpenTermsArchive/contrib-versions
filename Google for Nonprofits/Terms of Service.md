@@ -24,10 +24,10 @@ If your organisation’s Google for Nonprofits account request is approved, you 
 
 In addition to following the basic rules of conduct in the [Google Terms of Service](https://policies.google.com/terms), you must, when using your organisation’s Google for Nonprofits account and nonprofit profile, ensure that:
 
-* The information submitted in your organisation’s Google for Nonprofits request is true and correct and the content in your organisation’s nonprofit profile is correct, up to date and complete
-* Your organisation does not discriminate against any person or group of people in either hiring/employment practices or in the administration of programs and services.
-* Your organisation’s use of Google for Nonprofits complies with its own policies and will not negatively impact Google's current or future ability to do business with your organisation
-* You will not use Google for Nonprofits to (i) corruptly influence any government official to obtain or retain business or any improper advantage, (ii) gain or retain business, (iii) cause a government official to do or not do something in their official capacity or (iv) gain any other improper advantage. 
+*   The information submitted in your organisation’s Google for Nonprofits request is true and correct and the content in your organisation’s nonprofit profile is correct, up to date and complete
+*   Your organisation does not discriminate against any person or group of people in either hiring/employment practices or in the administration of programs and services.
+*   Your organisation’s use of Google for Nonprofits complies with its own policies and will not negatively impact Google's current or future ability to do business with your organisation
+*   You will not use Google for Nonprofits to (i) corruptly influence any government official to obtain or retain business or any improper advantage, (ii) gain or retain business, (iii) cause a government official to do or not do something in their official capacity or (iv) gain any other improper advantage. 
 
 ### Public use of your nonprofit profile
 
