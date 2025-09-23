@@ -77,19 +77,19 @@ We keep your personal information personal and private. We will not sell or rent
 
 This Policy applies to Cloudflare’s collection, use, and disclosure of the personal information of the following categories of data subjects:
 
-* Attendees: Those who visit our offices or provide their information to Cloudflare or Cloudflare representatives when they attend or register to attend Cloudflare-sponsored events or other events at which Cloudflare (and/or its representatives) participates, as well as those who participate in Cloudflare’s studies such as user experience research.
+*   Attendees: Those who visit our offices or provide their information to Cloudflare or Cloudflare representatives when they attend or register to attend Cloudflare-sponsored events or other events at which Cloudflare (and/or its representatives) participates, as well as those who participate in Cloudflare’s studies such as user experience research.
     
-* Website Visitors: Those who visit our Websites, including those who may opt to provide an email address or other contact information to receive communications from Cloudflare, fill out a survey, or provide feedback. For the purposes of this Policy, “Websites” refer collectively to [www.cloudflare.com](http://www.cloudflare.com/) as well as any other websites Cloudflare operates for its own behalf and that link to this Policy. For clarity, “Websites” does not include any sites owned or operated by our Customers, including where we serve as Registrar.
+*   Website Visitors: Those who visit our Websites, including those who may opt to provide an email address or other contact information to receive communications from Cloudflare, fill out a survey, or provide feedback. For the purposes of this Policy, “Websites” refer collectively to [www.cloudflare.com](http://www.cloudflare.com/) as well as any other websites Cloudflare operates for its own behalf and that link to this Policy. For clarity, “Websites” does not include any sites owned or operated by our Customers, including where we serve as Registrar.
     
-* Customers: Individuals or entities who enter into a subscription agreement with Cloudflare (or its authorized partner) and to whom Cloudflare provides Services pursuant to such agreement. For purposes of this Policy, “Services” shall refer to all of the cloud-based solutions offered, marketed, or sold by Cloudflare or its authorized partners that are designed to increase the performance, security, and availability of Internet properties, applications, devices, and networks, along with any software, software development kits, and application programming interfaces ("APIs") made available in connection with the foregoing.
+*   Customers: Individuals or entities who enter into a subscription agreement with Cloudflare (or its authorized partner) and to whom Cloudflare provides Services pursuant to such agreement. For purposes of this Policy, “Services” shall refer to all of the cloud-based solutions offered, marketed, or sold by Cloudflare or its authorized partners that are designed to increase the performance, security, and availability of Internet properties, applications, devices, and networks, along with any software, software development kits, and application programming interfaces ("APIs") made available in connection with the foregoing.
     
-* Administrative Users: Those with login credentials for a Cloudflare account and/or those who administer any of the Services for a Customer. In some cases, an Administrative User and Customer may be the same individual. In other cases, an Administrative User may be an agent acting on behalf of a Customer.
+*   Administrative Users: Those with login credentials for a Cloudflare account and/or those who administer any of the Services for a Customer. In some cases, an Administrative User and Customer may be the same individual. In other cases, an Administrative User may be an agent acting on behalf of a Customer.
     
-* Public DNS Resolver Users: Those who use Cloudflare’s 1.1.1.1 public recursive Domain Name System (“DNS”) resolver service, including 1.1.1.1 for Families ("1.1.1.1 resolver"). Learn more about the 1.1.1.1 resolver [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
+*   Public DNS Resolver Users: Those who use Cloudflare’s 1.1.1.1 public recursive Domain Name System (“DNS”) resolver service, including 1.1.1.1 for Families ("1.1.1.1 resolver"). Learn more about the 1.1.1.1 resolver [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
     
-* End Users: Those who (i) access or use our Customers’ domains, networks, websites, application programming interfaces, and applications, or (ii) Customers’ employees, agents, or contractors, who access or use Services, such as Cloudflare Zero Trust end users.
+*   End Users: Those who (i) access or use our Customers’ domains, networks, websites, application programming interfaces, and applications, or (ii) Customers’ employees, agents, or contractors, who access or use Services, such as Cloudflare Zero Trust end users.
     
-* Registrants: Users of Cloudflare’s domain registrar services. Cloudflare is an [ICANN](https://www.icann.org/)\-accredited registrar and complies with the [2013 Registrar Accreditation Agreement](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en) (“RAA”).
+*   Registrants: Users of Cloudflare’s domain registrar services. Cloudflare is an [ICANN](https://www.icann.org/)\-accredited registrar and complies with the [2013 Registrar Accreditation Agreement](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en) (“RAA”).
     
 
 This Policy does not apply to “Application Users”—those individuals who use Cloudflare’s consumer-facing 1.1.1.1 Application. See the [1.1.1.1 Application Privacy Policy](https://www.cloudflare.com/application/privacypolicy/) for more information about the data collection and use practices for Cloudflare's 1.1.1.1 Application and the associated 1.1.1.1 Application Services.
@@ -102,50 +102,50 @@ When Cloudflare is a reverse proxy, our IP addresses may appear in WHOIS and DNS
 
 ### 2\. INFORMATION WE COLLECT (Categories of Data Subjects)
 
-* Attendees
+*   Attendees
     
-    * Name, email address, and other contact information: We may ask for and collect personal information such as your name, address, phone number and email address when you visit our offices, register for or attend a sponsored event or other events at which Cloudflare (and/or its representatives) participates, or participate in Cloudflare’s studies such as user experience research.
+    *   Name, email address, and other contact information: We may ask for and collect personal information such as your name, address, phone number and email address when you visit our offices, register for or attend a sponsored event or other events at which Cloudflare (and/or its representatives) participates, or participate in Cloudflare’s studies such as user experience research.
         
-    * Image and voice: When you participate in a Cloudflare study, we may ask for your permission to record your voice and/or image during your participation in the study.
-        
-    
-* Website Visitors
-    
-    * Name, email address, and other contact information: We ask for and—at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us. We may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, or studies, requesting customer support, submitting feedback, or otherwise communicating with us. We will send such communications in accordance with applicable law.
-        
-    * Log files: Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files. This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
-        
-    * Cookies and other tracking technologies: We may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) in the footer of the Cloudflare homepage at cloudflare.com or in the banner displayed when you visit our Websites from certain countries (such as the European Economic Area and the UK). Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly. We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. In addition to exercising cookie choices through our “Cookie Preferences” or “Your Privacy Choices” links, if you do not want to have cookies and similar technologies used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1) (or if located in the European Union, the United Kingdom, or Switzerland, click [here](https://www.youronlinechoices.eu/)). For more information about the cookies Cloudflare uses and your privacy choices, please see our [Cookie Policy](https://www.cloudflare.com/cookie-policy/).
-        
-    * Material contributed in Interactive Areas: The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”). If you choose to participate in any of these Interactive Areas, please be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. If you wish to remove your personal information from any of our Interactive Areas, please see the Section 8, below.
+    *   Image and voice: When you participate in a Cloudflare study, we may ask for your permission to record your voice and/or image during your participation in the study.
         
     
-* Customers and Administrative Users
+*   Website Visitors
     
-    * Customer Account Information: When you register for an account, we collect contact information. Depending on subscription level, this contact information may include your Customer name, the email address(es) of your account administrator(s), telephone number, and addresses necessary to process payment and delivery of Services. In addition, when you use the Services, we collect information about how you configure your account and the Services (e.g., firewall settings for the domains you administer). We refer to all of this information collectively as “Customer Account Information” for the purposes of this Policy. Customer Account Information is required to enable your access to your Cloudflare account and Services. By providing us with any personal information, you represent that you are the owner of such personal information or otherwise have the requisite consent to provide it to us. We also maintain logs of Administrative Users’ activity (e.g., actions taken to configure settings in Customers’ account).
+    *   Name, email address, and other contact information: We ask for and—at your option—collect personal information from you when you submit web forms on our Websites, including opportunities to sign up for and agree to receive email communications from us. We may ask you to submit such personal information if you choose to use interactive features of the Websites, including participation in surveys, contests, promotions, sweepstakes, or studies, requesting customer support, submitting feedback, or otherwise communicating with us. We will send such communications in accordance with applicable law.
         
-    * Payment information: We do not require our Customers to have payment information on file with us unless they have a paid subscription to our Services. When you sign up for one of our paid Services, you must provide payment and billing information. The information you will need to submit depends on which payment method you choose. For example, if you pay with a credit card, we will collect your card information and billing address, although we do not store full credit card numbers or personal account numbers.
+    *   Log files: Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files. This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
         
-    * Crash Reports: When our Services encounter an unexpected error, you may be asked to submit a crash report, which may contain personal information. You will have an opportunity to review the content of the report prior to submitting the report to us.
+    *   Cookies and other tracking technologies: We may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) in the footer of the Cloudflare homepage at cloudflare.com or in the banner displayed when you visit our Websites from certain countries (such as the European Economic Area and the UK). Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly. We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. In addition to exercising cookie choices through our “Cookie Preferences” or “Your Privacy Choices” links, if you do not want to have cookies and similar technologies used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1) (or if located in the European Union, the United Kingdom, or Switzerland, click [here](https://www.youronlinechoices.eu/)). For more information about the cookies Cloudflare uses and your privacy choices, please see our [Cookie Policy](https://www.cloudflare.com/cookie-policy/).
         
-    
-* Public DNS Resolver Users
-    
-    * Limited DNS query data: We will collect limited DNS query data that is sent to our 1.1.1.1 resolver. Our 1.1.1.1 resolver service does not log personal information, and the bulk of the limited non-personally identifiable query data is only stored for 25 hours. You can learn more about our 1.1.1.1 resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
-        
-    * Please note that our data handling practices for our 1.1.1.1 Application, which is not covered by this Policy, are somewhat different than our 1.1.1.1 resolver data handling practices and are described [here](https://www.cloudflare.com/application/privacypolicy/).
+    *   Material contributed in Interactive Areas: The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”). If you choose to participate in any of these Interactive Areas, please be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. If you wish to remove your personal information from any of our Interactive Areas, please see the Section 8, below.
         
     
-* End Users
+*   Customers and Administrative Users
     
-    * Cloudflare processes End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare Zero Trust. The information processed may include but is not limited to IP addresses, traffic routing data, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
+    *   Customer Account Information: When you register for an account, we collect contact information. Depending on subscription level, this contact information may include your Customer name, the email address(es) of your account administrator(s), telephone number, and addresses necessary to process payment and delivery of Services. In addition, when you use the Services, we collect information about how you configure your account and the Services (e.g., firewall settings for the domains you administer). We refer to all of this information collectively as “Customer Account Information” for the purposes of this Policy. Customer Account Information is required to enable your access to your Cloudflare account and Services. By providing us with any personal information, you represent that you are the owner of such personal information or otherwise have the requisite consent to provide it to us. We also maintain logs of Administrative Users’ activity (e.g., actions taken to configure settings in Customers’ account).
         
-    * The End User data that we make available to our Customers via the Service dashboard or other online interface are specifically defined as “Customer Logs”.
+    *   Payment information: We do not require our Customers to have payment information on file with us unless they have a paid subscription to our Services. When you sign up for one of our paid Services, you must provide payment and billing information. The information you will need to submit depends on which payment method you choose. For example, if you pay with a credit card, we will collect your card information and billing address, although we do not store full credit card numbers or personal account numbers.
+        
+    *   Crash Reports: When our Services encounter an unexpected error, you may be asked to submit a crash report, which may contain personal information. You will have an opportunity to review the content of the report prior to submitting the report to us.
         
     
-* Registrants
+*   Public DNS Resolver Users
     
-    * Contact and domain information: We collect data such as domain name and status, contact information (such as name, organization, address, phone number and email address), name server, DNSSEC, and Form of Approval (i.e., full WHOIS capture at time of transfer into our system, including the IP address that initiated the transfer).
+    *   Limited DNS query data: We will collect limited DNS query data that is sent to our 1.1.1.1 resolver. Our 1.1.1.1 resolver service does not log personal information, and the bulk of the limited non-personally identifiable query data is only stored for 25 hours. You can learn more about our 1.1.1.1 resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
+        
+    *   Please note that our data handling practices for our 1.1.1.1 Application, which is not covered by this Policy, are somewhat different than our 1.1.1.1 resolver data handling practices and are described [here](https://www.cloudflare.com/application/privacypolicy/).
+        
+    
+*   End Users
+    
+    *   Cloudflare processes End Users’ interactions with Customer’s Internet Properties and the Services. This information is processed when End Users access or use our Customers’ domains, websites, APIs, applications, devices, end points, and networks that use one or more of our Services, and when End Users access or use Services, such as Cloudflare Zero Trust. The information processed may include but is not limited to IP addresses, traffic routing data, system configuration information, and other information about traffic to and from Customers’ websites, devices, applications, and/or networks.
+        
+    *   The End User data that we make available to our Customers via the Service dashboard or other online interface are specifically defined as “Customer Logs”.
+        
+    
+*   Registrants
+    
+    *   Contact and domain information: We collect data such as domain name and status, contact information (such as name, organization, address, phone number and email address), name server, DNSSEC, and Form of Approval (i.e., full WHOIS capture at time of transfer into our system, including the IP address that initiated the transfer).
         
     
 
@@ -155,30 +155,30 @@ Network Data. Cloudflare collects and stores Network Data, which are models, obs
 
 Cloudflare only processes personal information in a way that is compatible with and relevant to the purpose for which it was collected or authorized. As a general matter, for the categories of data described in Section 2 above, except 1.1.1.1 resolver user data as explained below, we may use your personal information to:
 
-* Provide, operate, maintain, improve, and promote the Websites and Services for all users of the Websites and Services;
+*   Provide, operate, maintain, improve, and promote the Websites and Services for all users of the Websites and Services;
     
-* Enable you to access and use the Websites and Services;
+*   Enable you to access and use the Websites and Services;
     
-* Process and complete transactions, and send you related information, including purchase confirmations and invoices;
+*   Process and complete transactions, and send you related information, including purchase confirmations and invoices;
     
-* Send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages;
+*   Send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages;
     
-* Comply with legal obligations as well as to investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;
+*   Comply with legal obligations as well as to investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;
     
-* For other purposes for which we obtain your consent.
+*   For other purposes for which we obtain your consent.
     
 
 In addition, we may use the information we collect from Attendees, Websites Visitors, and Registrants, as well as Customer Account Information for the following purposes:
 
-* Send commercial communications, in accordance with your communication preferences, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events about us and our partners; and send other news or information about us and our partners. See Section 9 below for information on managing your communication preferences.
+*   Send commercial communications, in accordance with your communication preferences, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events about us and our partners; and send other news or information about us and our partners. See Section 9 below for information on managing your communication preferences.
     
-* Process and deliver contest or sweepstakes entries and rewards;
+*   Process and deliver contest or sweepstakes entries and rewards;
     
-* Monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes;
+*   Monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes;
     
-* Personalize the Websites and Services, including by providing features or content that match your interests and preferences;
+*   Personalize the Websites and Services, including by providing features or content that match your interests and preferences;
     
-* To register visitors to our offices and to manage non-disclosure agreements that visitors may be required to sign, to the extent such processing is necessary for our legitimate interest in protecting our offices and our confidential information against unauthorized access; and
+*   To register visitors to our offices and to manage non-disclosure agreements that visitors may be required to sign, to the extent such processing is necessary for our legitimate interest in protecting our offices and our confidential information against unauthorized access; and
     
 
 Public DNS Resolver Users. We use information we collect from 1.1.1.1 resolver users to operate and improve the 1.1.1.1 resolver, such as to assist us in our debugging efforts if an issue arises. Our 1.1.1.1 resolver service does not store 1.1.1.1 resolver users’ personal information. We will not combine any information collected from DNS queries to our 1.1.1.1 resolver with any other Cloudflare or third party data in any way that can be used to identify individual end users. Cloudflare may store aggregated data, as outlined within our 1.1.1.1 resolver commitments to privacy, indefinitely in order to power Cloudflare Radar and assist Cloudflare in improving Cloudflare services, such as, enhancing the overall performance of the Cloudflare Resolver and identifying security threats. Learn more about our 1.1.1.1 resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
@@ -197,19 +197,19 @@ Specifically, we do not permit our Service Providers to sell any personal inform
 
 In addition to sharing with Service Providers as described above, we also may share your information with others in the following circumstances:
 
-* Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare, Inc. (United States) and its subsidiaries listed Section 15);
+*   Within the Cloudflare Group (defined for the purposes of this Policy as Cloudflare, Inc. (United States) and its subsidiaries listed Section 15);
     
-* With our resellers and other sales partners who may help us distribute the Services to Customers;
+*   With our resellers and other sales partners who may help us distribute the Services to Customers;
     
-* With an app developer when you install an app from our App Marketplace;
+*   With an app developer when you install an app from our App Marketplace;
     
-* In the event of a merger, sale, change in control, or reorganization of all or part of our business;
+*   In the event of a merger, sale, change in control, or reorganization of all or part of our business;
     
-* When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. (Learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/transparency/));
+*   When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. (Learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/transparency/));
     
-* Where we have a good-faith belief sharing is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Website Terms of Use, Self-Serve Subscription Agreement, and/or Enterprise Subscription Terms of Service; or as otherwise required to comply with our legal obligations; or
+*   Where we have a good-faith belief sharing is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Website Terms of Use, Self-Serve Subscription Agreement, and/or Enterprise Subscription Terms of Service; or as otherwise required to comply with our legal obligations; or
     
-* As you may otherwise consent from time to time.
+*   As you may otherwise consent from time to time.
     
 
 Additional Information on Sharing
@@ -242,9 +242,9 @@ Cloudflare is a U.S. based, global company. We primarily store your information 
 
 Whenever a Cloudflare company transfers personal information originating from one country to another Cloudflare group company or a third party service provider or partner in a different country, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. We describe the safeguards we implement [here](https://www.cloudflare.com/trust-hub/). If you have any questions about or need further information concerning the safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
 
-* Transfers from countries participating in the Global Cross Border Privacy Rules System: When Cloudflare transfers personal data from a country that recognizes the Global Cross Border Privacy Rules (“CBPR”) System and the Global Privacy Recognition for Processors (“PRP”) System as lawful data transfer mechanisms, we rely on our certifications under the CBPR System and Global PRP System, as applicable. The Global CBPR System means the data privacy framework established by the Global CBPR Forum against which data controllers can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions, and the Global PRP System means the complementary framework to the Global CBPR System against which data processors can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions of personal information they process on behalf of data controllers, as these systems are described further at [www.globalcbpr.org.](http://www.globalcbpr.org/) Details of our certifications can be viewed at [https://www.globalcbpr.org/privacy-certifications/directory/](https://www.globalcbpr.org/privacy-certifications/directory/). If you have any questions about Cloudflare's compliance with the Global CBPR System, please contact us at dpo@cloudflare.com. If you have unresolved privacy concerns related to the Global CBPR System, that we have not addressed satisfactorily, you may contact our [third-party dispute resolution provider](https://www.schellman.com/services/privacy-assessments/cbpr-prp-certification/complaint-statistics).
+*   Transfers from countries participating in the Global Cross Border Privacy Rules System: When Cloudflare transfers personal data from a country that recognizes the Global Cross Border Privacy Rules (“CBPR”) System and the Global Privacy Recognition for Processors (“PRP”) System as lawful data transfer mechanisms, we rely on our certifications under the CBPR System and Global PRP System, as applicable. The Global CBPR System means the data privacy framework established by the Global CBPR Forum against which data controllers can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions, and the Global PRP System means the complementary framework to the Global CBPR System against which data processors can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions of personal information they process on behalf of data controllers, as these systems are described further at [www.globalcbpr.org.](http://www.globalcbpr.org/) Details of our certifications can be viewed at [https://www.globalcbpr.org/privacy-certifications/directory/](https://www.globalcbpr.org/privacy-certifications/directory/). If you have any questions about Cloudflare's compliance with the Global CBPR System, please contact us at dpo@cloudflare.com. If you have unresolved privacy concerns related to the Global CBPR System, that we have not addressed satisfactorily, you may contact our [third-party dispute resolution provider](https://www.schellman.com/services/privacy-assessments/cbpr-prp-certification/complaint-statistics).
     
-* Transfers from countries in the EEA, Switzerland, and the UK: When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF. Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard contractual clauses, including supplementary measures as necessary for transfers to the United States. We also use standard contractual clauses for other international transfers from the EEA, Switzerland, or the United Kingdom.  
+*   Transfers from countries in the EEA, Switzerland, and the UK: When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF. Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard contractual clauses, including supplementary measures as necessary for transfers to the United States. We also use standard contractual clauses for other international transfers from the EEA, Switzerland, or the United Kingdom.  
       
     Self-certification to the Data Privacy Framework  
       
@@ -285,15 +285,15 @@ We take all reasonable steps to protect information we receive from you from acc
 
 We store your personal information for a period of time that is consistent with the business purposes set forth in Section 3 of this policy or as long as needed to fulfill and comply with legal obligations. The criteria we used to determine how long we store your personal information will vary depending on several different factors. We typically consider the following when determining data retention:
 
-* The purpose for collecting the personal information in the first place. For example, if you have an active account with us, we need to keep your contact information during the entirety of that time in order to provide you with support or contact you regarding your account;
+*   The purpose for collecting the personal information in the first place. For example, if you have an active account with us, we need to keep your contact information during the entirety of that time in order to provide you with support or contact you regarding your account;
     
-* The volume, nature, and sensitivity of the personal information we are processing;
+*   The volume, nature, and sensitivity of the personal information we are processing;
     
-* The potential risk of harm from unauthorized use or disclosure of the personal information;
+*   The potential risk of harm from unauthorized use or disclosure of the personal information;
     
-* Whether we can achieve the purposes for processing with less data or through other means
+*   Whether we can achieve the purposes for processing with less data or through other means
     
-* Legal requirements that may apply to the data, such as applicable statutes of limitation or contractual obligations.
+*   Legal requirements that may apply to the data, such as applicable statutes of limitation or contractual obligations.
     
 
 When the data retention period expires for a given type of data, we will delete or destroy it. If, for technical reasons, we are unable to do so, we will implement appropriate security measures to prevent any further use of such data.
@@ -322,19 +322,19 @@ How We Collect, Use, and Share Your Personal Information under the CCPA
 
 We may collect, use, and disclose for our business and commercial purposes, the following categories of Personal Information:
 
-* Identifiers for the categories of individuals/users defined in Section 1 of the Cloudflare Privacy Policy (e.g., email address of Customers and Administrative Users, name and contact information of Attendees);
+*   Identifiers for the categories of individuals/users defined in Section 1 of the Cloudflare Privacy Policy (e.g., email address of Customers and Administrative Users, name and contact information of Attendees);
     
-* Payment and customer records information of our Customers;
+*   Payment and customer records information of our Customers;
     
-* Protected classification characteristics (e.g., age, ethnicity, race, languages spoken, or gender) to the extent these characteristics are voluntarily disclosed to us or contained in any content transmitted across or stored on our network;
+*   Protected classification characteristics (e.g., age, ethnicity, race, languages spoken, or gender) to the extent these characteristics are voluntarily disclosed to us or contained in any content transmitted across or stored on our network;
     
-* Commercial information (e.g., records of products or services purchased, obtained, or considered, or other purchasing or usage histories);
+*   Commercial information (e.g., records of products or services purchased, obtained, or considered, or other purchasing or usage histories);
     
-* Professional or employment information;
+*   Professional or employment information;
     
-* Internet or other electronic network activity information; and
+*   Internet or other electronic network activity information; and
     
-* Inferences (e.g., information about your interests or preferences).
+*   Inferences (e.g., information about your interests or preferences).
     
 
 The sources from which we collect information are described in Section 2 of the Cloudflare Privacy Policy.
@@ -347,28 +347,28 @@ Your California Privacy Rights
   
 As a California resident, you have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
 
-* Knowledge. You can request information about what personal information we have collected about you, including:
+*   Knowledge. You can request information about what personal information we have collected about you, including:
     
-    * the categories of personal information;
+    *   the categories of personal information;
         
-    * the categories of sources from which the personal information is collected;
+    *   the categories of sources from which the personal information is collected;
         
-    * the business or commercial purpose for collecting, selling, or sharing personal information;
+    *   the business or commercial purpose for collecting, selling, or sharing personal information;
         
-    * the categories of third parties to whom we disclose personal information;
+    *   the categories of third parties to whom we disclose personal information;
         
-    * the specific pieces of personal information that we have collected about you.
+    *   the specific pieces of personal information that we have collected about you.
         
     
-* Access. You can request a copy of the Personal Information that we have collected about you.
+*   Access. You can request a copy of the Personal Information that we have collected about you.
     
-* Deletion. You can ask us to delete the Personal Information that we have collected from you.
+*   Deletion. You can ask us to delete the Personal Information that we have collected from you.
     
-* Correction. You can ask us to rectify inaccurate personal information and, taking into account the purpose of processing the personal information, ensure it is complete;
+*   Correction. You can ask us to rectify inaccurate personal information and, taking into account the purpose of processing the personal information, ensure it is complete;
     
-* Opt-out of sales or sharing. You can ask that we do not “sell” or “share” your Personal Information as “sell” and “share” are explicitly defined under the CCPA. For more information, please refer to the section titled “Right to Opt Out of the Sale and Sharing of Your Personal Information” below.
+*   Opt-out of sales or sharing. You can ask that we do not “sell” or “share” your Personal Information as “sell” and “share” are explicitly defined under the CCPA. For more information, please refer to the section titled “Right to Opt Out of the Sale and Sharing of Your Personal Information” below.
     
-* Nondiscrimination. You are entitled to exercise the rights described above free from discrimination. This means that we will not penalize you for exercising your rights by taking actions such as denying you the Services; increasing the price/rate of the Services; decreasing service quality; or suggesting that we may penalize you as described above for exercising your rights.
+*   Nondiscrimination. You are entitled to exercise the rights described above free from discrimination. This means that we will not penalize you for exercising your rights by taking actions such as denying you the Services; increasing the price/rate of the Services; decreasing service quality; or suggesting that we may penalize you as described above for exercising your rights.
     
 
 In order to submit a request to exercise your right of information, access, or deletion pursuant to the CCPA, please follow the instructions for the submitting a Rights Request detailed in Section 8, above. Please note, we reserve the right to confirm your California residence to process your requests and may need to confirm your identity to process certain requests using the verification methods described in Section 8. For example, we take reasonable precautions to verify the identities of those California residents submitting requests to delete or access Personal Information.  
