@@ -4,17 +4,17 @@
 
 Table of contents:
 
-1. [Registration as a subscriber; application of terms to you; your account; conclusion of agreements](#1)
-2. [Licenses](#2)
-3. [Billing, payment and other subscriptions](#3)
-4. [Online conduct, cheating and automation](#4)
-5. [Third-party content](#5)
-6. [User generated content](#6)
-7. [Disclaimers; limitation of liability; no guarantees; limited warranty & agreement](#7)
-8. [Amendments to this agreement](#8)
-9. [Term and termination](#9)
-10. [Applicable law/jurisdiction](#10)
-11. [Miscellaneous](#11)
+1.  [Registration as a subscriber; application of terms to you; your account; conclusion of agreements](#1)
+2.  [Licenses](#2)
+3.  [Billing, payment and other subscriptions](#3)
+4.  [Online conduct, cheating and automation](#4)
+5.  [Third-party content](#5)
+6.  [User generated content](#6)
+7.  [Disclaimers; limitation of liability; no guarantees; limited warranty & agreement](#7)
+8.  [Amendments to this agreement](#8)
+9.  [Term and termination](#9)
+10.  [Applicable law/jurisdiction](#10)
+11.  [Miscellaneous](#11)
 
 This Steam Subscriber Agreement ("Agreement") is a legal document that explains your rights and obligations as a subscriber of Steam from Valve Corporation, a corporation under the laws of the State of Washington, with its registered office at 10400 NE 4th St., Bellevue, WA 98004, United States, registered with the Washington Secretary of State under number 60 22 90 773, VAT ID No. EU 8260 00671 ("Valve"). Please read it carefully.
 
@@ -70,11 +70,11 @@ B. Beta Software License
 
 Valve may from time to time make software accessible to you via Steam prior to the general commercial release of such software ("Beta Software"). You are not required to use Beta Software, but if Valve offers it, you may elect to use it under the following terms. Beta Software will be deemed to consist of Content and Services, and each item of Beta Software provided will be deemed a Subscription for such Beta Software, with the following provisions specific to Beta Software:
 
-* Your right to use the Beta Software may be limited in time, and may be subject to additional Subscription Terms;  
+*   Your right to use the Beta Software may be limited in time, and may be subject to additional Subscription Terms;  
     
-* Valve or any Valve affiliate may request or require that you provide suggestions, feedback, or data regarding your use of the Beta Software, which will be deemed User Generated Content under Section 6 (User Generated Content) below; and  
+*   Valve or any Valve affiliate may request or require that you provide suggestions, feedback, or data regarding your use of the Beta Software, which will be deemed User Generated Content under Section 6 (User Generated Content) below; and  
     
-* In addition to the waivers and limitations of liability for all Software under Section 7 (Disclaimers; Limitations on Liability; No Guarantees; Limited Warranty & Agreement) below as applicable, you specifically acknowledge that Beta Software is only released for testing and improvement purposes, in particular to provide Valve with feedback on the quality and usability of the Beta Software, and therefore contains errors and is not final. If you decide to install and/or use Beta Software, you shall only use it in compliance with its purposes, i.e. for testing and improvement purposes, in compliance with system requirements specifically intended for each Beta Software and in any case not on a system or for purposes where the malfunction of the Beta Software can cause any kind of damage. In particular, maintain full backups of any system that you choose to install Beta Software on.
+*   In addition to the waivers and limitations of liability for all Software under Section 7 (Disclaimers; Limitations on Liability; No Guarantees; Limited Warranty & Agreement) below as applicable, you specifically acknowledge that Beta Software is only released for testing and improvement purposes, in particular to provide Valve with feedback on the quality and usability of the Beta Software, and therefore contains errors and is not final. If you decide to install and/or use Beta Software, you shall only use it in compliance with its purposes, i.e. for testing and improvement purposes, in compliance with system requirements specifically intended for each Beta Software and in any case not on a system or for purposes where the malfunction of the Beta Software can cause any kind of damage. In particular, maintain full backups of any system that you choose to install Beta Software on.
 
 C. License to Use Valve Developer Tools
 
@@ -184,10 +184,10 @@ C. Automation
 
 You may not use any form of scripts, bots, macros, or other non-human-controlled systems (“Automation”) to interact with Content and Services on Steam in any manner, including but not limited to:
 
-* Automating the Steam account creation process,
-* Faking gameplay statistics (e.g., inflated wins or losses, XP, playtime),
-* Earning rewards or progress without genuine user input,
-* Participating in adjudication systems (like peer reviews or “overwatch”) through automated means, including influencing outcomes or reporting users by scripted action rather than informed judgment.
+*   Automating the Steam account creation process,
+*   Faking gameplay statistics (e.g., inflated wins or losses, XP, playtime),
+*   Earning rewards or progress without genuine user input,
+*   Participating in adjudication systems (like peer reviews or “overwatch”) through automated means, including influencing outcomes or reporting users by scripted action rather than informed judgment.
 
 D. Enforcement
 
@@ -223,10 +223,10 @@ Specific Workshop-Enabled Apps or Workshop web pages may contain special terms (
 
 Under Section 6.A, Workshop Contributions are in principle made available to Subscribers for free. By way of exception, they may be made available to Subscribers for a fee. In that case, the way the revenues generated may be shared, and in particular, the compensation you may receive as a result of this making available, are defined in the App-Specific Terms and not by this Agreement. Unless otherwise specified in App-Specific Terms (if any), the following general rules apply to Workshop Contributions.
 
-* Workshop Contributions are Subscriptions, and therefore you agree that any Subscriber receiving distribution of your Workshop Contribution will have the same rights to use your Workshop Contribution (and will be subject to the same restrictions) as are set out in this Agreement for any other Subscriptions.  
+*   Workshop Contributions are Subscriptions, and therefore you agree that any Subscriber receiving distribution of your Workshop Contribution will have the same rights to use your Workshop Contribution (and will be subject to the same restrictions) as are set out in this Agreement for any other Subscriptions.  
     
-* Notwithstanding the license described in Section 6.A, Valve will only have the right to modify including to create derivative works from your Workshop Contribution in the following cases: (a) Valve may make modifications necessary to make your Contribution compatible with Steam and the Workshop functionality or user interface, and (b) Valve or the applicable developer may make modifications to Workshop Contributions that are accepted for in-Application distribution as it deems necessary or desirable to enhance gameplay or make it compatible with the Workshop-Enabled App. Under Section 6.A, you grant for free to Valve and its affiliates the right to modify, including to create derivative works from, your Workshop Contribution. As a result, you are not entitled to any compensation from Valve as a result of Valve’s modifications.
-* You may, in your sole discretion, choose to remove a Workshop Contribution from the applicable Workshop pages. If you do so, Valve will no longer have the right to use, distribute, transmit, communicate, publicly display or publicly perform the Workshop Contribution, except that (a) Valve may continue to exercise these rights for any Workshop Contribution that is accepted for distribution in-game or distributed in a manner that allows it to be used in-game, and (b) your removal will not affect the rights of any Subscriber who has already obtained access to a copy of the Workshop Contribution.
+*   Notwithstanding the license described in Section 6.A, Valve will only have the right to modify including to create derivative works from your Workshop Contribution in the following cases: (a) Valve may make modifications necessary to make your Contribution compatible with Steam and the Workshop functionality or user interface, and (b) Valve or the applicable developer may make modifications to Workshop Contributions that are accepted for in-Application distribution as it deems necessary or desirable to enhance gameplay or make it compatible with the Workshop-Enabled App. Under Section 6.A, you grant for free to Valve and its affiliates the right to modify, including to create derivative works from, your Workshop Contribution. As a result, you are not entitled to any compensation from Valve as a result of Valve’s modifications.
+*   You may, in your sole discretion, choose to remove a Workshop Contribution from the applicable Workshop pages. If you do so, Valve will no longer have the right to use, distribute, transmit, communicate, publicly display or publicly perform the Workshop Contribution, except that (a) Valve may continue to exercise these rights for any Workshop Contribution that is accepted for distribution in-game or distributed in a manner that allows it to be used in-game, and (b) your removal will not affect the rights of any Subscriber who has already obtained access to a copy of the Workshop Contribution.
 
 C. Promotions and Endorsements
 
@@ -242,8 +242,8 @@ You furthermore represent and warrant that the User Generated Content, your subm
 
 THIS SECTION 7 DOES NOT APPLY TO EU OR UK SUBSCRIBERS.
 
-* FOR AUSTRALIAN SUBSCRIBERS, THIS SECTION 7 DOES NOT EXCLUDE, RESTRICT OR MODIFY THE APPLICATION OF ANY GUARANTEE, RIGHT OR REMEDY THAT CANNOT BE SO EXCLUDED, RESTRICTED OR MODIFIED, INCLUDING THOSE CONFERRED BY THE AUSTRALIAN CONSUMER LAW (ACL). UNDER THE ACL, GOODS COME WITH GUARANTEES INCLUDING A GUARANTEE THAT GOODS ARE OF ACCEPTABLE QUALITY. IF THERE IS A FAILURE OF THIS GUARANTEE, YOU ARE ENTITLED TO A REMEDY (WHICH MAY INCLUDE HAVING THE GOODS REPAIRED OR REPLACED OR A REFUND). IF A REPAIR OR REPLACEMENT CANNOT BE PROVIDED OR THERE IS A MAJOR FAILURE, YOU ARE ENTITLED TO A REFUND.
-* FOR NEW ZEALAND SUBSCRIBERS, THIS SECTION 7 DOES NOT EXCLUDE, RESTRICT OR MODIFY THE APPLICATION OF ANY RIGHT OR REMEDY THAT CANNOT BE SO EXCLUDED, RESTRICTED OR MODIFIED INCLUDING THOSE CONFERRED BY THE NEW ZEALAND CONSUMER GUARANTEES ACT 1993. UNDER THIS ACT ARE GUARANTEES WHICH INCLUDE THAT GOODS AND SERVICES ARE OF ACCEPTABLE QUALITY. IF THIS GUARANTEE IS NOT MET THERE ARE ENTITLEMENTS TO HAVE THE SOFTWARE REMEDIED (WHICH MAY INCLUDE REPAIR, REPLACEMENT OR REFUND). IF A REMEDY CANNOT BE PROVIDED OR THE FAILURE IS OF A SUBSTANTIAL CHARACTER, THE ACT PROVIDES FOR A REFUND.
+*   FOR AUSTRALIAN SUBSCRIBERS, THIS SECTION 7 DOES NOT EXCLUDE, RESTRICT OR MODIFY THE APPLICATION OF ANY GUARANTEE, RIGHT OR REMEDY THAT CANNOT BE SO EXCLUDED, RESTRICTED OR MODIFIED, INCLUDING THOSE CONFERRED BY THE AUSTRALIAN CONSUMER LAW (ACL). UNDER THE ACL, GOODS COME WITH GUARANTEES INCLUDING A GUARANTEE THAT GOODS ARE OF ACCEPTABLE QUALITY. IF THERE IS A FAILURE OF THIS GUARANTEE, YOU ARE ENTITLED TO A REMEDY (WHICH MAY INCLUDE HAVING THE GOODS REPAIRED OR REPLACED OR A REFUND). IF A REPAIR OR REPLACEMENT CANNOT BE PROVIDED OR THERE IS A MAJOR FAILURE, YOU ARE ENTITLED TO A REFUND.
+*   FOR NEW ZEALAND SUBSCRIBERS, THIS SECTION 7 DOES NOT EXCLUDE, RESTRICT OR MODIFY THE APPLICATION OF ANY RIGHT OR REMEDY THAT CANNOT BE SO EXCLUDED, RESTRICTED OR MODIFIED INCLUDING THOSE CONFERRED BY THE NEW ZEALAND CONSUMER GUARANTEES ACT 1993. UNDER THIS ACT ARE GUARANTEES WHICH INCLUDE THAT GOODS AND SERVICES ARE OF ACCEPTABLE QUALITY. IF THIS GUARANTEE IS NOT MET THERE ARE ENTITLEMENTS TO HAVE THE SOFTWARE REMEDIED (WHICH MAY INCLUDE REPAIR, REPLACEMENT OR REFUND). IF A REMEDY CANNOT BE PROVIDED OR THE FAILURE IS OF A SUBSTANTIAL CHARACTER, THE ACT PROVIDES FOR A REFUND.
 
 Prior to acquiring a Subscription, you should consult the product information made available on Steam, including Subscription description, minimum technical requirements, and user reviews.
 
