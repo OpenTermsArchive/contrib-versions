@@ -48,28 +48,28 @@ Each request must clearly specify the type of data requested and the legal basis
 
 Each request must be signed, dated, sent on law enforcement letterhead and include the following information:
 
-* **Details of requesting law enforcement authority (or Court)**:
+*   **Details of requesting law enforcement authority (or Court)**:
 
-* **Requesting Authority (or Court)**: The name and location of the relevant authority. In the case of a Court order, the request should indicate the location and name of the relevant Court and judge / magistrate.
-* **Requesting officer**: The requesting officer’s name, badge / identification number, email address (this must be from an official email domain) and phone number (including any direct dial extension).
+*   **Requesting Authority (or Court)**: The name and location of the relevant authority. In the case of a Court order, the request should indicate the location and name of the relevant Court and judge / magistrate.
+*   **Requesting officer**: The requesting officer’s name, badge / identification number, email address (this must be from an official email domain) and phone number (including any direct dial extension).
 
-* **Details of relevant user account**:
+*   **Details of relevant user account**:
 
-* **TikTok username**: When requesting data regarding a specific user of the Platform, you must provide a specific TikTok username or an approved account identifier associated with the relevant account. We also request that a screenshot of the relevant account be provided (to help us to identify the correct account more quickly). The following are TikTok approved identifiers:
+*   **TikTok username**: When requesting data regarding a specific user of the Platform, you must provide a specific TikTok username or an approved account identifier associated with the relevant account. We also request that a screenshot of the relevant account be provided (to help us to identify the correct account more quickly). The following are TikTok approved identifiers:
 
-* TikTok User ID
-* TikTok username (account URL or screenshot accepted)
-* Phone number
-* Email addressVideo ID (video URL or screenshot accepted)
+*   TikTok User ID
+*   TikTok username (account URL or screenshot accepted)
+*   Phone number
+*   Email addressVideo ID (video URL or screenshot accepted)
 
-* **Data requested**: The request should clearly specify the scope of the data requested. Overly broad requests will be refused.
-* **Date range**: The request must specify a date (and, if possible, a time), or a date range as relevant to the request (for historic data only).
+*   **Data requested**: The request should clearly specify the scope of the data requested. Overly broad requests will be refused.
+*   **Date range**: The request must specify a date (and, if possible, a time), or a date range as relevant to the request (for historic data only).
 
-* **Legal basis for the request**:
+*   **Legal basis for the request**:
 
-* **Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes law enforcement to request and collect information for the purposes of prevention, detection or investigation of criminal offences.
-* **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to the Platform.
-* **User notification**: Please indicate whether user notification is permitted (see Section 4 below).
+*   **Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes law enforcement to request and collect information for the purposes of prevention, detection or investigation of criminal offences.
+*   **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to the Platform.
+*   **User notification**: Please indicate whether user notification is permitted (see Section 4 below).
 
 ### **4\. User Notifications**
 
@@ -126,18 +126,18 @@ TikTok’s requirements for disclosing user data to law enforcement authorities 
 
 TikTok may reject data requests from law enforcement authorities where they do not meet the requirements that are clearly set out in our [Law Enforcement Guidelines](#guidelines). The most common examples are as follows:
 
-* Requests that are not addressed to the correct TikTok entity;
-* Requests that do not specify the legal process which authorizes law enforcement to request and collect information;
-* Requests that do not indicate the type of offence(s) under investigation, the circumstances of the offence(s) and in what way it/they are connected to TikTok; and
-* Overly broad requests for “all user data” or where there are no date ranges indicated.
+*   Requests that are not addressed to the correct TikTok entity;
+*   Requests that do not specify the legal process which authorizes law enforcement to request and collect information;
+*   Requests that do not indicate the type of offence(s) under investigation, the circumstances of the offence(s) and in what way it/they are connected to TikTok; and
+*   Overly broad requests for “all user data” or where there are no date ranges indicated.
 
 ### **Q: How else does TikTok ensure that requests from law enforcement authorities are valid?**
 
 Aside from rejecting requests from law enforcement authorities that are not made in accordance with the relevant legal processes and requirements, TikTok will in accordance with applicable law:
 
-* Sseek to narrow the scope of data requests in terms of the volume of data requested, the number of users they relate to and/or the time period to which they relate;
-* Aask for further information in support of the request (in particular, for details of the relevant legal process and/or the type of offence(s) under investigation); or
-* Ccommunicate to the requesting law enforcement authorities that a request via the Mutual Legal Assistance Treaty (“**MLAT**”) process is necessary to obtain disclosure of the requested data.
+*   Sseek to narrow the scope of data requests in terms of the volume of data requested, the number of users they relate to and/or the time period to which they relate;
+*   Aask for further information in support of the request (in particular, for details of the relevant legal process and/or the type of offence(s) under investigation); or
+*   Ccommunicate to the requesting law enforcement authorities that a request via the Mutual Legal Assistance Treaty (“**MLAT**”) process is necessary to obtain disclosure of the requested data.
 
 TikTok may report any fraudulent attempts to obtain user data information to relevant authorities.
 
@@ -145,18 +145,18 @@ TikTok may report any fraudulent attempts to obtain user data information to rel
 
 TikTok may disclose user data without receiving a formal legal request (based on valid legal process) in the following cases:
 
-* **Emergency circumstances**: As explained in Section 5 of our [Law Enforcement Guidelines](#guidelines), where satisfied there is an emergency involving imminent harm or risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
-* **Proactive reports obligations**: In limited circumstances, including where TikTok is subject to legal obligations, TikTok reports certain user data either to law enforcement authorities or to designated bodies. Examples include reporting suspected child exploitation to the U.S. National Center for Missing and Exploited Children (“**NCMEC**”) for child safeguarding purposes and reporting suspicious financial transactions to relevant authorities.
+*   **Emergency circumstances**: As explained in Section 5 of our [Law Enforcement Guidelines](#guidelines), where satisfied there is an emergency involving imminent harm or risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
+*   **Proactive reports obligations**: In limited circumstances, including where TikTok is subject to legal obligations, TikTok reports certain user data either to law enforcement authorities or to designated bodies. Examples include reporting suspected child exploitation to the U.S. National Center for Missing and Exploited Children (“**NCMEC**”) for child safeguarding purposes and reporting suspicious financial transactions to relevant authorities.
 
 ### **Q: What type of scenarios would constitute an emergency?**
 
 All emergency disclosure requests undergo a case-by-case assessment and each request will be evaluated by our law enforcement response team based on its particular circumstances. However, the following are some examples that may constitute an emergency:
 
-* Cases of child safety and exploitation;
-* Missing persons;
-* Suicide and self-injury scenarios;
-* Imminent threats of violence (including terrorism); or
-* Natural or man-made disaster situations (such as fires, floods, earthquakes, etc).
+*   Cases of child safety and exploitation;
+*   Missing persons;
+*   Suicide and self-injury scenarios;
+*   Imminent threats of violence (including terrorism); or
+*   Natural or man-made disaster situations (such as fires, floods, earthquakes, etc).
 
 ### **Q: Does TikTok accept data requests from law enforcement authorities in all countries?**
 
@@ -174,8 +174,8 @@ It may be necessary in circumstances where the requesting law enforcement author
 
 Non-law enforcement requests should be directed as follows:
 
-* **Report Content**: Details of how to report various types of content that may be in breach of TikTok’s Community Guidelines are available [here](https://support.tiktok.com/en/safety-hc/report-a-problem).
-* **Report IP infringement**: Reports of alleged copyright or trademark infringement should be made in accordance with TikTok’s [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy) and can be filed as a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) or as a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
+*   **Report Content**: Details of how to report various types of content that may be in breach of TikTok’s Community Guidelines are available [here](https://support.tiktok.com/en/safety-hc/report-a-problem).
+*   **Report IP infringement**: Reports of alleged copyright or trademark infringement should be made in accordance with TikTok’s [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy) and can be filed as a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) or as a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
 
 ### **Q: How quickly does TikTok process requests?**
 
