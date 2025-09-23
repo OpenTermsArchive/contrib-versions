@@ -135,8 +135,8 @@ Version: Inventory Supplier Agreement Terms and Conditions, v. 2
 
 2.Prohibited Inventory Content. Company shall not provide:
 
-* Inventory content:
-* o that depicts, contains, or provides access to violent content or threats of physical harm to a particular individual or group, hate speech o from sites intended for the sole purpose of garnering ad impressions, without providing any material content or service to users o from sites or applications does not provide notice or does not obtain necessary user consent for data collection or for material functionality of a site or software through which ads are delivered, or through which data are collected for subsequent use in advertising o that obscures, replaces, modifies, or otherwise interferes with another party’s ads or ad inventory o that causes interference with user navigation (e.g. preventing a user from leaving a page, by popping dialogs, pop-ups, new windows, etc.) o simulates or artificially initiates clicks or impressions, including by automatically refreshing tags or pages
+*   Inventory content:
+*   o that depicts, contains, or provides access to violent content or threats of physical harm to a particular individual or group, hate speech o from sites intended for the sole purpose of garnering ad impressions, without providing any material content or service to users o from sites or applications does not provide notice or does not obtain necessary user consent for data collection or for material functionality of a site or software through which ads are delivered, or through which data are collected for subsequent use in advertising o that obscures, replaces, modifies, or otherwise interferes with another party’s ads or ad inventory o that causes interference with user navigation (e.g. preventing a user from leaving a page, by popping dialogs, pop-ups, new windows, etc.) o simulates or artificially initiates clicks or impressions, including by automatically refreshing tags or pages
 
 3\. Company shall comply with any terms of use that TD may provide to Company.
 
