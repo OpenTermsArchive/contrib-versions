@@ -22,25 +22,25 @@ _Control over your information and settings is a core part of Snapchat experienc
 
 We want you to be in control of your information, so we provide you with a range of tools, including:
 
-* **Access and update your information.** You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.
+*   **Access and update your information.** You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.
     
-* **Delete your information.** If you want to delete your account, learn how [here](https://help.snapchat.com/hc/articles/7012328360596?lang=en-GB). You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions and more.
+*   **Delete your information.** If you want to delete your account, learn how [here](https://help.snapchat.com/hc/articles/7012328360596?lang=en-GB). You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions and more.
     
-* **Control who can see your content.** We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go [here](https://help.snapchat.com/hc/articles/7012343074580?lang=en-GB).
+*   **Control who can see your content.** We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go [here](https://help.snapchat.com/hc/articles/7012343074580?lang=en-GB).
     
-* **Control who can contact you.** Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always [block](https://help.snapchat.com/hc/articles/7012401093396?lang=en-GB) and [report](https://help.snapchat.com/hc/articles/7012399221652?lang=en-GB) that person. Please go [here](https://help.snapchat.com/hc/articles/7012343074580?lang=en-GB) to learn more.
+*   **Control who can contact you.** Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always [block](https://help.snapchat.com/hc/articles/7012401093396?lang=en-GB) and [report](https://help.snapchat.com/hc/articles/7012399221652?lang=en-GB) that person. Please go [here](https://help.snapchat.com/hc/articles/7012343074580?lang=en-GB) to learn more.
     
-* **Change your permissions.** In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.
+*   **Change your permissions.** In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.
     
-* **Opt out of promotional messages.** You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.
+*   **Opt out of promotional messages.** You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.
     
-* **Download your data.** You can make a request in our [Download My Data](https://accounts.snapchat.com/accounts/downloadmydata?lang=en-GB) tool to export a copy of your Snapchat information.
+*   **Download your data.** You can make a request in our [Download My Data](https://accounts.snapchat.com/accounts/downloadmydata?lang=en-GB) tool to export a copy of your Snapchat information.
     
-* **Object to processing.** Depending on where you live and the particular data we are processing, you may have the right to object to our processing of that information. This gets a bit technical, so we’ve explained it in more detail [here](https://help.snapchat.com/hc/requests/new?ticket_form_id=360000016663&selectedAnswers=5749439348080640%2C5763539457277952&lang=en-GB).
+*   **Object to processing.** Depending on where you live and the particular data we are processing, you may have the right to object to our processing of that information. This gets a bit technical, so we’ve explained it in more detail [here](https://help.snapchat.com/hc/requests/new?ticket_form_id=360000016663&selectedAnswers=5749439348080640%2C5763539457277952&lang=en-GB).
     
-* **Set advertising preferences.** We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalised experience, you can change your advertising settings in the Snapchat app. Learn more [here](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB).
+*   **Set advertising preferences.** We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalised experience, you can change your advertising settings in the Snapchat app. Learn more [here](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB).
     
-* **Tracking.** If you use an iPhone with iOS 14.5 or above, some specific requirements apply, which we’ve specified [here](https://www.snap.com/privacy/ads-privacy?lang=en-GB#controlling-ads).
+*   **Tracking.** If you use an iPhone with iOS 14.5 or above, some specific requirements apply, which we’ve specified [here](https://www.snap.com/privacy/ads-privacy?lang=en-GB#controlling-ads).
     
 
 ### 
@@ -151,34 +151,34 @@ _This section explains who we share information with, what that information may 
 
 **Recipients & Reasons for Sharing**
 
-* **Snapchat.** To provide our Services to you and our community, we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends if you allow them. See the [Control Over Your Information](https://www.snap.com/privacy/privacy-policy?lang=en-GB#control-over-your-information) section and your Settings for the controls you have over who sees what and when.
+*   **Snapchat.** To provide our Services to you and our community, we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends if you allow them. See the [Control Over Your Information](https://www.snap.com/privacy/privacy-policy?lang=en-GB#control-over-your-information) section and your Settings for the controls you have over who sees what and when.
     
-* **Family Centre Participants.** When you have enabled Family Centre, we share information about the connected teen account to the parent or guardian to provide insight about how the account is used, for example, who your Friends are on Snapchat or which friends you may be sharing your location with. We do not share message content. [Learn more](https://parents.snapchat.com/parental-controls?utm_source=GoogleSEM&utm_medium=PAIDSNAPCHATBRAND&utm_campaign=TandS_MaxClicks_2023&utm_term=ParentalControl&utm_content=ToolsandResources&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_maJyV4qT3Uma9lKM5k9KmbXxmRjSnfOMzXHVZ8NChkIzrkf_VnFGMaAvwUEALw_wcB&lang=en-GB).
+*   **Family Centre Participants.** When you have enabled Family Centre, we share information about the connected teen account to the parent or guardian to provide insight about how the account is used, for example, who your Friends are on Snapchat or which friends you may be sharing your location with. We do not share message content. [Learn more](https://parents.snapchat.com/parental-controls?utm_source=GoogleSEM&utm_medium=PAIDSNAPCHATBRAND&utm_campaign=TandS_MaxClicks_2023&utm_term=ParentalControl&utm_content=ToolsandResources&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_maJyV4qT3Uma9lKM5k9KmbXxmRjSnfOMzXHVZ8NChkIzrkf_VnFGMaAvwUEALw_wcB&lang=en-GB).
     
-* **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. [Learn more](https://www.snap.com/privacy/privacy-by-product?lang=en-GB).
+*   **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. [Learn more](https://www.snap.com/privacy/privacy-by-product?lang=en-GB).
     
-* **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
+*   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
     
-* **Service Providers.** We share your information with our service providers, who process that information on our behalf.  For example, we rely on such Service Providers to facilitate payments, measure and optimise the performance of ads or protect the services. We do not share private communications with them. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
+*   **Service Providers.** We share your information with our service providers, who process that information on our behalf.  For example, we rely on such Service Providers to facilitate payments, measure and optimise the performance of ads or protect the services. We do not share private communications with them. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
     
-* **Business and Integrated Partners.** We share your information with business and integrated partners in order to provide the Services. For example, you can use OpenTable within Snapchat to reserve a table. This does not include private communications. We maintain a list of these partners [here](https://help.snapchat.com/hc/articles/7012332511252?lang=en-GB).
+*   **Business and Integrated Partners.** We share your information with business and integrated partners in order to provide the Services. For example, you can use OpenTable within Snapchat to reserve a table. This does not include private communications. We maintain a list of these partners [here](https://help.snapchat.com/hc/articles/7012332511252?lang=en-GB).
     
-* **Anti-Fraud Partners.** We share your information, such as device and usage information, with industry partners working to prevent fraud.
+*   **Anti-Fraud Partners.** We share your information, such as device and usage information, with industry partners working to prevent fraud.
     
-* **Legal, Safety and Security Partners.** We share your information as necessary for the following legal, safety and security reasons:
+*   **Legal, Safety and Security Partners.** We share your information as necessary for the following legal, safety and security reasons:
     
-    * Comply with any valid legal process, governmental request or applicable law, rule or regulation.
+    *   Comply with any valid legal process, governmental request or applicable law, rule or regulation.
         
-    * Investigate, remedy or enforce potential Terms of Service and Community Guidelines violations.
+    *   Investigate, remedy or enforce potential Terms of Service and Community Guidelines violations.
         
-    * Protect the rights, property or safety of us, our users or others.
+    *   Protect the rights, property or safety of us, our users or others.
         
-    * Detect and resolve any fraud or security concerns.
+    *   Detect and resolve any fraud or security concerns.
         
     
-* **Affiliates.** Snap Inc. consists of different [subsidiaries](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) owned by us.  We may share your information within those internal subsidiaries as needed to carry out our Services.
+*   **Affiliates.** Snap Inc. consists of different [subsidiaries](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) owned by us.  We may share your information within those internal subsidiaries as needed to carry out our Services.
     
-* **For the purposes of a Merger or Acquisition.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your information to a successor or affiliate as part of that transaction.
+*   **For the purposes of a Merger or Acquisition.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your information to a successor or affiliate as part of that transaction.
     
 
 **Integrated Partners**
@@ -199,17 +199,17 @@ _In this section, we provide you with information on how long we keep your infor
 
 As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law. For example, if you store something in Memories, we will keep it as long as you need it, but when you Chat with a friend, our systems are designed to delete Chats you send within 24 hours after your friend reads it (unless you’ve changed your default settings or decide to save it). Whether we retain your data depends on the specific feature, your settings and how you’re using the Services. Here are some more factors we consider when we decide how long to keep your information:
 
-* If we need the information to operate or provide our Services. For example, we store your basic account details – like your name, phone number and email address – to maintain your account.
+*   If we need the information to operate or provide our Services. For example, we store your basic account details – like your name, phone number and email address – to maintain your account.
     
-* To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). [Learn more](https://help.snapchat.com/hc/articles/7012328615828-How-to-Add-Friends-on-Snapchat?lang=en-GB). Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honour your choices.
+*   To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). [Learn more](https://help.snapchat.com/hc/articles/7012328615828-How-to-Add-Friends-on-Snapchat?lang=en-GB). Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honour your choices.
     
-* The information itself. For example, we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap – like those saved to Memories or posted to Snap Map or Spotlight – we'll retain that location as long as we store the Snap. Expert tip: you can see the location data we retain about you by [downloading your data](https://accounts.snapchat.com/accounts/downloadmydata?lang=en-GB).
+*   The information itself. For example, we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap – like those saved to Memories or posted to Snap Map or Spotlight – we'll retain that location as long as we store the Snap. Expert tip: you can see the location data we retain about you by [downloading your data](https://accounts.snapchat.com/accounts/downloadmydata?lang=en-GB).
     
-* How long we need to retain the information to comply with certain legal obligations.
+*   How long we need to retain the information to comply with certain legal obligations.
     
-* If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our Terms of Service or other policies, investigate reports of abuse or protect ourselves or others.
+*   If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our Terms of Service or other policies, investigate reports of abuse or protect ourselves or others.
     
-* Have a look at our [Privacy by Product](https://www.snap.com/privacy/privacy-by-product?lang=en-GB) page and [support page](https://help.snapchat.com/hc/articles/7012334940948?lang=en-US&utm_campaign=priv_pol&utm_medium=snap&utm_source=web) for details on the specific retention periods for products.
+*   Have a look at our [Privacy by Product](https://www.snap.com/privacy/privacy-by-product?lang=en-GB) page and [support page](https://help.snapchat.com/hc/articles/7012334940948?lang=en-US&utm_campaign=priv_pol&utm_medium=snap&utm_source=web) for details on the specific retention periods for products.
     
 
 Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.
@@ -226,23 +226,23 @@ _Depending on where you live you may have additional rights. This section provid
 
 We do our best to keep our policies as simple as possible, but depending on where you live, you have some additional rights or there may be specific information that you should be aware of. Please have a look at the list below to see if any apply to you!
 
-* [Australia](https://www.snap.com/privacy/privacy-policy/australia-privacy-notice?lang=en-GB)
+*   [Australia](https://www.snap.com/privacy/privacy-policy/australia-privacy-notice?lang=en-GB)
     
-* [Brazil](https://www.snap.com/privacy/privacy-policy/brazil-privacy-notice?lang=en-GB)
+*   [Brazil](https://www.snap.com/privacy/privacy-policy/brazil-privacy-notice?lang=en-GB)
     
-* [Canada](https://www.snap.com/privacy/privacy-policy/canada-privacy-notice?lang=en-GB)
+*   [Canada](https://www.snap.com/privacy/privacy-policy/canada-privacy-notice?lang=en-GB)
     
-* [Europe](https://www.snap.com/privacy/privacy-policy/eea-uk-privacy-notice?lang=en-GB)
+*   [Europe](https://www.snap.com/privacy/privacy-policy/eea-uk-privacy-notice?lang=en-GB)
     
-* [Mexico](https://www.snap.com/privacy/privacy-policy/mexico-privacy-notice?lang=en-GB)
+*   [Mexico](https://www.snap.com/privacy/privacy-policy/mexico-privacy-notice?lang=en-GB)
     
-* [South Korea](https://www.snap.com/privacy/privacy-policy/south-korea-privacy-notice?lang=en-GB)
+*   [South Korea](https://www.snap.com/privacy/privacy-policy/south-korea-privacy-notice?lang=en-GB)
     
-* [Turkey](https://www.snap.com/privacy/privacy-policy/turkey-privacy-notice?lang=en-GB)
+*   [Turkey](https://www.snap.com/privacy/privacy-policy/turkey-privacy-notice?lang=en-GB)
     
-* [United States](https://www.snap.com/privacy/privacy-policy/us-state-privacy-notice?lang=en-GB)
+*   [United States](https://www.snap.com/privacy/privacy-policy/us-state-privacy-notice?lang=en-GB)
     
-    * **Note:** The US State Privacy Notice applies only if you are a resident of certain US states that have implemented state-level privacy laws.
+    *   **Note:** The US State Privacy Notice applies only if you are a resident of certain US states that have implemented state-level privacy laws.
         
     
 
