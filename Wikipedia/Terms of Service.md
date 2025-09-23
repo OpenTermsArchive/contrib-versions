@@ -7,7 +7,7 @@ Wikimedia Foundation Terms of Use
 
  English
 
-* [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+*   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
 
  Tools
 
@@ -17,24 +17,24 @@ move to sidebar hide
 
 Actions
 
-* [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
-* [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
-* [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
+*   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
 
 General
 
-* [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-* [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
+*   [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
+*   [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 
 Print/export
 
-* [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
-* [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
+*   [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
+*   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 
 In other projects
 
-* [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
-* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
+*   [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
+*   [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
 
 Appearance
 
@@ -46,7 +46,7 @@ From Wikimedia Foundation Governance Wiki
 
 Other languages:
 
-* English
+*   English
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
@@ -56,7 +56,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-|     | Wikimedia Foundation Terms of Use<br><br>  <br><br>**This is a of the Terms of Use. To read the full terms, scroll down or .**<br><br>  <br><br>[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/120px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)<br><br>This is a human-readable **summary** of the Terms of Use.<br><br>Disclaimer: This summary is not a part of the Terms of Use and is not a legal document. It is simply a handy reference for understanding the full terms. Think of it as the user-friendly interface to the legal language of our Terms of Use.<br><br>  <br><br>**Part of our mission is to**:<br><br>* **Empower and Engage** people around the world to collect and develop educational content and either publish it under a free license or dedicate it to the public domain.<br>* **Disseminate** this content effectively and globally, free of charge.<br>* **Offer** websites and technical infrastructure to help you do this.  <br>    <br><br>**You are free to**:<br><br>* **Read and Print** our articles and other media free of charge.<br>* **Share and Reuse** our articles and other media under free and open licenses.<br>* **Contribute To and Edit** our various websites or Projects.  <br>    <br><br>**Under the following conditions**:<br><br>* **Responsibility** — You take responsibility for your edits (since we only _host_ your content).<br>* **Civility** — You support a civil environment and do not harass other users.<br>* **Lawful Behavior** — You do not violate copyright, post illegal content, or violate other applicable laws that follow human rights principles.<br>* **No Harm** — You do not harm our technology infrastructure and you follow the policies for that infrastructure.<br>* **Terms of Use and Policies** — You adhere to the below Terms of Use, to the , and to the applicable community policies when you visit our websites or Projects or participate in our communities.  <br>    <br><br>**With the understanding that**:<br><br>* **You License Freely Your Contributions** — You generally must license your contributions and edits to our websites or Projects under a free and open license (unless your contribution is in the public domain).<br>* **No Professional Advice** — The content of articles on Wikipedia and other Projects is for informational purposes only and does not constitute professional advice.<br><br>**If you need help or you want to report a violation of these Terms of Use you can**:<br><br>* **Ask for help on our Projects:** Click "help" on the left side of most pages.<br>* **Ask for help by email:** Contact experienced volunteers for help by emailing info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org.<br>* **Contact the Wikimedia Foundation:** You can find information about how to reach us on our .<br>* **If you are a new contributor**: You can find project policies to help learn how to use the Wikimedia Projects on . |
+|     | Wikimedia Foundation Terms of Use<br><br>  <br><br>**This is a of the Terms of Use. To read the full terms, scroll down or .**<br><br>  <br><br>[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/120px-Wikimedia-logo.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo.svg)<br><br>This is a human-readable **summary** of the Terms of Use.<br><br>Disclaimer: This summary is not a part of the Terms of Use and is not a legal document. It is simply a handy reference for understanding the full terms. Think of it as the user-friendly interface to the legal language of our Terms of Use.<br><br>  <br><br>**Part of our mission is to**:<br><br>*   **Empower and Engage** people around the world to collect and develop educational content and either publish it under a free license or dedicate it to the public domain.<br>*   **Disseminate** this content effectively and globally, free of charge.<br>*   **Offer** websites and technical infrastructure to help you do this.  <br>    <br><br>**You are free to**:<br><br>*   **Read and Print** our articles and other media free of charge.<br>*   **Share and Reuse** our articles and other media under free and open licenses.<br>*   **Contribute To and Edit** our various websites or Projects.  <br>    <br><br>**Under the following conditions**:<br><br>*   **Responsibility** — You take responsibility for your edits (since we only _host_ your content).<br>*   **Civility** — You support a civil environment and do not harass other users.<br>*   **Lawful Behavior** — You do not violate copyright, post illegal content, or violate other applicable laws that follow human rights principles.<br>*   **No Harm** — You do not harm our technology infrastructure and you follow the policies for that infrastructure.<br>*   **Terms of Use and Policies** — You adhere to the below Terms of Use, to the , and to the applicable community policies when you visit our websites or Projects or participate in our communities.  <br>    <br><br>**With the understanding that**:<br><br>*   **You License Freely Your Contributions** — You generally must license your contributions and edits to our websites or Projects under a free and open license (unless your contribution is in the public domain).<br>*   **No Professional Advice** — The content of articles on Wikipedia and other Projects is for informational purposes only and does not constitute professional advice.<br><br>**If you need help or you want to report a violation of these Terms of Use you can**:<br><br>*   **Ask for help on our Projects:** Click "help" on the left side of most pages.<br>*   **Ask for help by email:** Contact experienced volunteers for help by emailing info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org.<br>*   **Contact the Wikimedia Foundation:** You can find information about how to reach us on our .<br>*   **If you are a new contributor**: You can find project policies to help learn how to use the Wikimedia Projects on . |
 
 :  
 
@@ -92,8 +92,8 @@ As used throughout the rest of the Terms of Use, our services consist of: [The P
 
 Because of our unique role, there are a couple of things you should be aware of when considering our relationship to you, the Projects, and other users:
 
-1. **We do not take an editorial role:** Because the Projects are collaboratively edited, the vast majority of the content that we host is provided by users, and we do not take an editorial role. This means that we generally do not monitor or edit the content of the Project Websites, and we do not take any responsibility for this content. Similarly, unless we have expressly stated otherwise, we do not endorse any opinions expressed via our services, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content on the Projects.
-2. **You are responsible for your own actions:** You are legally responsible for your edits and contributions on the Projects, your reuse of content on the Projects, your use of the APIs, and your use of our services more generally. For your own protection you should exercise caution and avoid taking any actions that may result in criminal or civil liability under any applicable laws. For clarity, applicable law includes at least the laws of the United States of America and the State of California. For other countries, this is determined on a case-by-case basis. Although we may not agree with such actions, we warn users—particularly the editors, contributors, and authors—that non-U.S. authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content. We generally cannot offer any protection, guarantee, immunity or indemnification against the application of such laws.
+1.  **We do not take an editorial role:** Because the Projects are collaboratively edited, the vast majority of the content that we host is provided by users, and we do not take an editorial role. This means that we generally do not monitor or edit the content of the Project Websites, and we do not take any responsibility for this content. Similarly, unless we have expressly stated otherwise, we do not endorse any opinions expressed via our services, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content on the Projects.
+2.  **You are responsible for your own actions:** You are legally responsible for your edits and contributions on the Projects, your reuse of content on the Projects, your use of the APIs, and your use of our services more generally. For your own protection you should exercise caution and avoid taking any actions that may result in criminal or civil liability under any applicable laws. For clarity, applicable law includes at least the laws of the United States of America and the State of California. For other countries, this is determined on a case-by-case basis. Although we may not agree with such actions, we warn users—particularly the editors, contributors, and authors—that non-U.S. authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content. We generally cannot offer any protection, guarantee, immunity or indemnification against the application of such laws.
 
 2\. Privacy Policy
 ------------------
@@ -103,8 +103,8 @@ We ask that you review the , so that you are aware of how we collect and use you
 3\. Content We Host
 -------------------
 
-1. **You may find some material objectionable or erroneous:** Because we host a wide array of content that is produced or gathered by fellow users, you may encounter material that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable. We therefore ask that you use common sense and proper judgment when using our services.
-2. **The Projects' content is for general informational purposes only:** Although our Projects host a great deal of information that pertains to professional topics, including medical, legal, or financial issues, this content is presented for general informational purposes only. It should not be taken as professional advice. Please seek independent professional counseling from someone who is licensed or qualified in the applicable area in lieu of acting on any information, opinion, or advice contained in one of the Project Websites.
+1.  **You may find some material objectionable or erroneous:** Because we host a wide array of content that is produced or gathered by fellow users, you may encounter material that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable. We therefore ask that you use common sense and proper judgment when using our services.
+2.  **The Projects' content is for general informational purposes only:** Although our Projects host a great deal of information that pertains to professional topics, including medical, legal, or financial issues, this content is presented for general informational purposes only. It should not be taken as professional advice. Please seek independent professional counseling from someone who is licensed or qualified in the applicable area in lieu of acting on any information, opinion, or advice contained in one of the Project Websites.
 
 4\. Refraining from Certain Activities
 --------------------------------------
@@ -115,60 +115,60 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 **Harassing and Abusing Others**
 
-* Engaging in threats, stalking, spamming, vandalism, or harassment as described in the UCoC;
-* Transmitting chain mail, junk mail, or spam to other users;
-* Posting or modifying content with the intention to seriously harm others, such as deliberate inducements to self-harm, or deliberate triggering of epilepsy.
+*   Engaging in threats, stalking, spamming, vandalism, or harassment as described in the UCoC;
+*   Transmitting chain mail, junk mail, or spam to other users;
+*   Posting or modifying content with the intention to seriously harm others, such as deliberate inducements to self-harm, or deliberate triggering of epilepsy.
 
 **Violating the Privacy of Others**
 
-* Infringing the privacy rights of others under applicable laws (which may include the laws where you live or where you view or edit content);
-* Soliciting personally identifiable information for the purposes of harassment, exploitation, or violation of privacy, or for any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation; and
-* Soliciting personally identifiable information from anyone under the age of 18 years, or under the age of majority where you are if higher than 18 years, for an illegal purpose or violating any applicable law regarding the health or well-being of minors.
+*   Infringing the privacy rights of others under applicable laws (which may include the laws where you live or where you view or edit content);
+*   Soliciting personally identifiable information for the purposes of harassment, exploitation, or violation of privacy, or for any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation; and
+*   Soliciting personally identifiable information from anyone under the age of 18 years, or under the age of majority where you are if higher than 18 years, for an illegal purpose or violating any applicable law regarding the health or well-being of minors.
 
 **Engaging in False Statements, Impersonation, or Fraud**
 
-* Intentionally or knowingly posting content that constitutes libel or defamation under the laws of the United States of America;
-* Posting or modifying content with the intent to deceive or mislead others;
-* Attempting to impersonate another user or individual, misrepresenting your affiliation with any individual or entity, hiding your affiliation with any individual or entity when disclosure is required by these terms or local Project policy, or using the name or username of another person with the intent to deceive; and
-* Engaging in fraud.
+*   Intentionally or knowingly posting content that constitutes libel or defamation under the laws of the United States of America;
+*   Posting or modifying content with the intent to deceive or mislead others;
+*   Attempting to impersonate another user or individual, misrepresenting your affiliation with any individual or entity, hiding your affiliation with any individual or entity when disclosure is required by these terms or local Project policy, or using the name or username of another person with the intent to deceive; and
+*   Engaging in fraud.
 
 **Committing Infringement of Intellectual Property Rights**
 
-* Infringing copyrights, trademarks, patents, or other proprietary rights under the applicable law.
+*   Infringing copyrights, trademarks, patents, or other proprietary rights under the applicable law.
 
 **Misusing Our Services for Other Illegal Purposes**
 
-* Posting child pornography or any other content that violates applicable law concerning child pornography or child sexual abuse material, or encouraging, grooming, or advocating for others to create or share such material;
-* Posting or trafficking in obscene material that is unlawful under applicable law; and
-* Using the services in a manner that is inconsistent with applicable law.
+*   Posting child pornography or any other content that violates applicable law concerning child pornography or child sexual abuse material, or encouraging, grooming, or advocating for others to create or share such material;
+*   Posting or trafficking in obscene material that is unlawful under applicable law; and
+*   Using the services in a manner that is inconsistent with applicable law.
 
 **Engaging in Disruptive and Illegal Misuse of Facilities**
 
-* Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of other users;
-* Engaging in automated uses of the Project Websites that are abusive or disruptive of the services, violate acceptable usage policies where available, or have not been approved by the Wikimedia community;
-* Disrupting the services by placing an undue burden on an API, Project Website or the networks or servers connected with a particular Project Website;
-* Disrupting the services by inundating any of the Project Websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose;
-* Knowingly accessing, tampering with, or using any of our non-public areas in our computer systems without authorization; and
-* Probing, scanning, or testing the vulnerability of any of our technical systems or networks unless all the following conditions are met:
+*   Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of other users;
+*   Engaging in automated uses of the Project Websites that are abusive or disruptive of the services, violate acceptable usage policies where available, or have not been approved by the Wikimedia community;
+*   Disrupting the services by placing an undue burden on an API, Project Website or the networks or servers connected with a particular Project Website;
+*   Disrupting the services by inundating any of the Project Websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose;
+*   Knowingly accessing, tampering with, or using any of our non-public areas in our computer systems without authorization; and
+*   Probing, scanning, or testing the vulnerability of any of our technical systems or networks unless all the following conditions are met:
 
-* such actions do not unduly abuse or disrupt our technical systems or networks;
-* such actions are not for personal gain (except for credit for your work);
-* you report any vulnerabilities to the relevant developers (or fix it yourself); and
-* you do not undertake such actions with malicious or destructive intent.
+*   such actions do not unduly abuse or disrupt our technical systems or networks;
+*   such actions are not for personal gain (except for credit for your work);
+*   you report any vulnerabilities to the relevant developers (or fix it yourself); and
+*   you do not undertake such actions with malicious or destructive intent.
 
 :  
 
 **Paid Contributions Without Disclosure**
 
-* You must disclose each and any employer, client, intended beneficiary and affiliation with respect to any contribution for which you receive, or expect to receive, compensation. You must make that disclosure in at least one of the following ways:
+*   You must disclose each and any employer, client, intended beneficiary and affiliation with respect to any contribution for which you receive, or expect to receive, compensation. You must make that disclosure in at least one of the following ways:
 
-* a statement on your user page,
-* a statement on the talk page accompanying any paid contributions, or
-* a statement in the edit summary accompanying any paid contributions.
+*   a statement on your user page,
+*   a statement on the talk page accompanying any paid contributions, or
+*   a statement in the edit summary accompanying any paid contributions.
 
-* In addition, if you make a public posting off the Projects advertising editing services on Wikipedia in exchange for compensation of any kind, you must disclose all Wikipedia accounts you have used or will use for this service in the public posting on the third-party service.
-* Applicable law, or Project-specific policies and Foundation policies and guidelines, such as those addressing conflicts of interest, may further limit paid contributions or require more detailed disclosure. For example, infringing Wikimedia Trademarks (defined hereinafter at Section 6) to advertise paid editing services, removing disclosures on previously adequately disclosed paid edits, or logged-out paid editing in a manner that makes adequate disclosure a practical impossibility violate this section.
-* A Wikimedia Project community may adopt an alternative paid contribution disclosure policy which may supplement or replace this section. If a Project adopts an alternative disclosure policy, you may comply with that policy instead of the requirements in this section (titled "Paid Contributions Without Disclosure") when contributing to that particular Project.
+*   In addition, if you make a public posting off the Projects advertising editing services on Wikipedia in exchange for compensation of any kind, you must disclose all Wikipedia accounts you have used or will use for this service in the public posting on the third-party service.
+*   Applicable law, or Project-specific policies and Foundation policies and guidelines, such as those addressing conflicts of interest, may further limit paid contributions or require more detailed disclosure. For example, infringing Wikimedia Trademarks (defined hereinafter at Section 6) to advertise paid editing services, removing disclosures on previously adequately disclosed paid edits, or logged-out paid editing in a manner that makes adequate disclosure a practical impossibility violate this section.
+*   A Wikimedia Project community may adopt an alternative paid contribution disclosure policy which may supplement or replace this section. If a Project adopts an alternative disclosure policy, you may comply with that policy instead of the requirements in this section (titled "Paid Contributions Without Disclosure") when contributing to that particular Project.
 
 For more information, please read our .
 
@@ -194,35 +194,35 @@ To grow the commons of free knowledge and free culture, all users contributing t
 
 You agree to the following licensing requirements:
 
-1. **Text to which you hold the copyright:** When you submit text to which you hold the copyright, you agree to license it under:
+1.  **Text to which you hold the copyright:** When you submit text to which you hold the copyright, you agree to license it under:
     
-    * [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0"), and
-    * [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html) ("GFDL") (unversioned, with no invariant sections, front-cover texts, or back-cover texts).
+    *   [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0"), and
+    *   [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html) ("GFDL") (unversioned, with no invariant sections, front-cover texts, or back-cover texts).
     
     Reusers may comply with either license or both.  
     The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under the particular license prescribed by the Project edition or the feature. Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms of the respective licenses. Where you own Sui Generis Database Rights covered by CC BY-SA 4.0, you waive these rights. As an example, this means facts you contribute to the projects may be reused freely without attribution.
-2. **Attribution:** Attribution is an important part of these licenses. We consider it giving credit where credit is due – to authors like yourself. When you contribute text, you agree to be attributed in any of the following fashions:
-    1. Through hyperlink (where possible) or URL to the article to which you contributed (since each article has a history page that lists all contributors, authors and editors);
-    2. Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the relevant license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
-    3. Through a list of all authors (but please note that any list of authors may be filtered to exclude very small or irrelevant contributions).
-3. **Importing text:** You may import text that you have found elsewhere or that you have co-authored with others, but in such case you represent and warrant that the text is available under terms that are compatible with CC BY-SA (or, as explained above, another license when exceptionally required by the Project edition or feature). For a list of compatible licenses, see [Creative Commons](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/). You shall not import content that is available solely under GFDL.  
+2.  **Attribution:** Attribution is an important part of these licenses. We consider it giving credit where credit is due – to authors like yourself. When you contribute text, you agree to be attributed in any of the following fashions:
+    1.  Through hyperlink (where possible) or URL to the article to which you contributed (since each article has a history page that lists all contributors, authors and editors);
+    2.  Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the relevant license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
+    3.  Through a list of all authors (but please note that any list of authors may be filtered to exclude very small or irrelevant contributions).
+3.  **Importing text:** You may import text that you have found elsewhere or that you have co-authored with others, but in such case you represent and warrant that the text is available under terms that are compatible with CC BY-SA (or, as explained above, another license when exceptionally required by the Project edition or feature). For a list of compatible licenses, see [Creative Commons](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/). You shall not import content that is available solely under GFDL.  
     You agree that, if you import text under a CC license that requires attribution, you must credit the author(s) in a reasonable fashion. Where such credit is commonly given through page histories (such as Wikimedia-internal copying), it is sufficient to give attribution in the edit summary, which is recorded in the page history, when importing the text. The attribution requirements are sometimes too intrusive for particular circumstances (regardless of the license), and there may be instances where the Wikimedia community decides that imported text cannot be used for that reason.
-4. **Non-text media:** Non-text media on the Projects are available under a variety of different licenses that support the general goal of allowing unrestricted reuse and redistribution. When you contribute non-text media, you agree to comply with the requirements for such licenses as described in our , and also comply with the requirements of the specific Project edition or feature to which you are contributing. Also see the for more information on contributing non-text media to Wikimedia Commons.
-5. **No revocation of license:** Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Projects or features, even if you terminate use of our services.
-6. **Public domain content:** Content that is in the public domain is welcome. It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
-7. **Re-use:** Reuse of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under applicable copyright law. Any reuse must comply with the underlying license(s).  
+4.  **Non-text media:** Non-text media on the Projects are available under a variety of different licenses that support the general goal of allowing unrestricted reuse and redistribution. When you contribute non-text media, you agree to comply with the requirements for such licenses as described in our , and also comply with the requirements of the specific Project edition or feature to which you are contributing. Also see the for more information on contributing non-text media to Wikimedia Commons.
+5.  **No revocation of license:** Except as consistent with your license, you agree that you will not unilaterally revoke or seek invalidation of any license that you have granted under these Terms of Use for text content or non-text media contributed to the Projects or features, even if you terminate use of our services.
+6.  **Public domain content:** Content that is in the public domain is welcome. It is important however that you confirm the public domain status of the content under the law of the United States of America as well as the laws of any other countries as required by the specific Project edition. When you contribute content that is in the public domain, you warrant that the material is actually in the public domain, and you agree to label it appropriately.
+7.  **Re-use:** Reuse of content that we host is welcome, though exceptions exist for content contributed under "fair use" or similar exemptions under applicable copyright law. Any reuse must comply with the underlying license(s).  
     When you reuse or redistribute a text page developed by the Wikimedia community, you agree to attribute the authors in any of the following fashions:
     
-    1. Through hyperlink (where possible) or URL to the page or pages that you are reusing (since each page has a history page that lists all contributors, authors and editors);
-    2. Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
-    3. Through a list of all authors (but please note that any list of authors may be filtered to exclude very small or irrelevant contributions).
+    1.  Through hyperlink (where possible) or URL to the page or pages that you are reusing (since each page has a history page that lists all contributors, authors and editors);
+    2.  Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
+    3.  Through a list of all authors (but please note that any list of authors may be filtered to exclude very small or irrelevant contributions).
     
     If the text content was imported from another source, it is possible that the content is licensed under a compatible CC BY-SA license but not GFDL (as described in "Importing text," above). In that case, you agree to comply with the compatible CC BY-SA license and do not have the option to relicense it under GFDL. To determine the license that applies to the content that you seek to reuse or redistribute, you should review the page footer, page history, and discussion page.
     
     In addition, please be aware that text that originated from external sources and was imported into a Project may be under a license that attaches additional attribution requirements. Users agree to indicate these additional attribution requirements clearly. Depending on the Project, such requirements may appear, for example, in a banner or other notations pointing out that some or all of the content was originally published elsewhere. Where there are such visible notations, reusers should preserve them.
     
     For any non-text media, you agree to comply with the applicable license under which the work has been made available (which can be discovered by clicking on the work and looking at the licensing section on its description page or reviewing an applicable source page for that work). When reusing any content that we host, you agree to comply with the relevant attribution requirements as they pertain to the underlying license or licenses.
-8. **Modifications or additions to material that you reuse:** When modifying or making additions to text that you have obtained from a Project Website, you agree to license the modified or added content under CC BY-SA 4.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).  
+8.  **Modifications or additions to material that you reuse:** When modifying or making additions to text that you have obtained from a Project Website, you agree to license the modified or added content under CC BY-SA 4.0 or later (or, as explained above, another license when exceptionally required by the specific Project edition or feature).  
     When modifying or making additions to any non-text media that you have obtained from a Project website, you agree to license the modified or added content in accordance with whatever license under which the work has been made available.  
     With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are reusing text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
 
@@ -266,12 +266,12 @@ If you contact the Foundation with a problem, we will typically explore whether 
 
 In an unusual case, the need may arise, or the community may ask us, to address an especially problematic user or especially problematic content because of significant Project disturbance or dangerous behavior. In such cases, we reserve the right, at our sole discretion (or where legally compelled), to:
 
-* Investigate your use of the Projects or our services (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or an appropriate governmental request;
-* Detect, prevent, or otherwise address fraud, false or unverifiable information, security, or technical issues or respond to user support requests;
-* Refuse, revert, disable, or restrict access to contributions of any user who violates these Terms of Use;
-* Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat posting of unlawful material under applicable law in line with human rights principles;
-* Take legal action against users who violate these Terms of Use (including reports to law enforcement authorities); and
-* Manage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.
+*   Investigate your use of the Projects or our services (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or an appropriate governmental request;
+*   Detect, prevent, or otherwise address fraud, false or unverifiable information, security, or technical issues or respond to user support requests;
+*   Refuse, revert, disable, or restrict access to contributions of any user who violates these Terms of Use;
+*   Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat posting of unlawful material under applicable law in line with human rights principles;
+*   Take legal action against users who violate these Terms of Use (including reports to law enforcement authorities); and
+*   Manage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.
 
 Those Foundation moderation activities may be informed or performed by software (such as traffic flood ("Denial of Service") protection). In those cases human review is normally available, .
 
@@ -374,9 +374,9 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **These Terms of Use went into effect on June 7, 2023. Previous versions of the terms:**
 
-* **[Terms of Use (2014–2023)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=98524): effective from June 16, 2014, until June 7, 2023**
-* **[Terms of Use (2012–2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012, until June 16, 2014**
-* **: effective from 2009 until May 24, 2012**
+*   **[Terms of Use (2014–2023)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=98524): effective from June 16, 2014, until June 7, 2023**
+*   **[Terms of Use (2012–2014)](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=82013): effective from May 24, 2012, until June 16, 2014**
+*   **: effective from 2009 until May 24, 2012**
 
 * * *
 
