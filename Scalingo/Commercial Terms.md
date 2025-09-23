@@ -6,21 +6,21 @@ The purpose of these General Terms and Conditions of services (hereinafter the "
 Article 1. DEFINITIONS
 ----------------------
 
-* **Client Account**: refers to the account created by the Client;
-* **Confidential Information**: refers to all data, documents of any nature provided by one Party to the other for the purposes of the Agreement, verbally, in writing or by any other means and including, but not limited to, all personal, technical, commercial, strategic or financial information, know-how, methods, studies, specifications, software, products and processes, whether this information is protected under intellectual and industrial property rights or not.
-* **Agreement**: means the Order as well as the GTC and its appendices: (i) General Terms of Use (GTU), (ii) Service Level Agreement (SLA), (iii) Data processing agreement (DPA), and if applicable, (iv) Hosting of Personal Health Data (HDS Agreement), (v) Service of Maintenance in Operational Condition, all together indivisible;
-* **Data**: refers to any type of information, data and content of the Client, provided by a User in the context of the use of the Services, which may contain Personal Data;
-* **Documentation**: refers to the documentation provided by SCALINGO on the Platform, as well as any other written document explaining how the Platform and/or the Services work;
-* **General Terms of Use**: refers to all the rules of use of the Platform and/or the Services (hereinafter the "GTU");
-* **Intellectual Property Rights**: refers to any and all tangible and intangible rights associated with works of authorship, including rights on or relating to software, databases, copyrights, trademark rights, patent rights, design rights, and other industrial property rights, and all other intellectual property rights whether arising by operation of law, contract, license, or otherwise.
-* **Order**: refers to any act of subscription to the Services on the Platform;
-* **Personal Data**: refers to Data which, in accordance with the applicable regulations on the protection of personal data, allows the designation or identification, directly or indirectly, of a natural person;
-* **Platform**: refers to the cloud computing platform operated by SCALINGO and accessible at the address [https://scalingo.com](https://scalingo.com/);
-* **Regulation applicable to the protection of personal data**: refers to any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act";
-* **Resources**: means the Client's resources hosted on the Platform, including in particular the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
-* **Services**: refers to all the services detailed in the Agreement, in particular in the Order and within the appendices, that SCALINGO undertakes to provide to the Client through the Platform, namely the hosting of the Resources entitled under the terms: "Managed application environments"; "Managed Databases"; "Managed Networks"; "Professional Services"; "Maintenance service in operational condition";
-* **Support**: means the support and maintenance services of the Platform and/or Services that SCALINGO undertakes to provide in accordance with the SLA;
-* **Users**: refers to the persons authorized by the Client to access the Platform and use the Services.
+*   **Client Account**: refers to the account created by the Client;
+*   **Confidential Information**: refers to all data, documents of any nature provided by one Party to the other for the purposes of the Agreement, verbally, in writing or by any other means and including, but not limited to, all personal, technical, commercial, strategic or financial information, know-how, methods, studies, specifications, software, products and processes, whether this information is protected under intellectual and industrial property rights or not.
+*   **Agreement**: means the Order as well as the GTC and its appendices: (i) General Terms of Use (GTU), (ii) Service Level Agreement (SLA), (iii) Data processing agreement (DPA), and if applicable, (iv) Hosting of Personal Health Data (HDS Agreement), (v) Service of Maintenance in Operational Condition, all together indivisible;
+*   **Data**: refers to any type of information, data and content of the Client, provided by a User in the context of the use of the Services, which may contain Personal Data;
+*   **Documentation**: refers to the documentation provided by SCALINGO on the Platform, as well as any other written document explaining how the Platform and/or the Services work;
+*   **General Terms of Use**: refers to all the rules of use of the Platform and/or the Services (hereinafter the "GTU");
+*   **Intellectual Property Rights**: refers to any and all tangible and intangible rights associated with works of authorship, including rights on or relating to software, databases, copyrights, trademark rights, patent rights, design rights, and other industrial property rights, and all other intellectual property rights whether arising by operation of law, contract, license, or otherwise.
+*   **Order**: refers to any act of subscription to the Services on the Platform;
+*   **Personal Data**: refers to Data which, in accordance with the applicable regulations on the protection of personal data, allows the designation or identification, directly or indirectly, of a natural person;
+*   **Platform**: refers to the cloud computing platform operated by SCALINGO and accessible at the address [https://scalingo.com](https://scalingo.com/);
+*   **Regulation applicable to the protection of personal data**: refers to any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act";
+*   **Resources**: means the Client's resources hosted on the Platform, including in particular the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
+*   **Services**: refers to all the services detailed in the Agreement, in particular in the Order and within the appendices, that SCALINGO undertakes to provide to the Client through the Platform, namely the hosting of the Resources entitled under the terms: "Managed application environments"; "Managed Databases"; "Managed Networks"; "Professional Services"; "Maintenance service in operational condition";
+*   **Support**: means the support and maintenance services of the Platform and/or Services that SCALINGO undertakes to provide in accordance with the SLA;
+*   **Users**: refers to the persons authorized by the Client to access the Platform and use the Services.
 
 Article 2. ACCEPTANCE OF THE GTC
 --------------------------------
@@ -101,13 +101,13 @@ Article 6. CLIENT'S COMMITMENTS
 
 In addition to what is also stipulated in the GTC, the Client undertakes to:
 
-* Comply with the stipulations hereof and, in particular, the License subscribed;
-* Maintain up-to-date its Personal Data necessary for the billing of the Services;
-* Pay all sums due to SCALINGO for the provision of the Services and, in particular, ensure the regular funding of the accounts on which direct debits are made (bank account, Client Account for payment by credits PayPal, etc.);
-* Provide SCALINGO, before the start of the provision of the Services, with the information necessary to comply with its obligations and ensure the proper provision of the Services;
-* Cooperate with SCALINGO, in particular by designating qualified staff who can also act as a point of contact with SCALINGO;
-* Ensure that the payment means used is adequately funded in relation to the consumption of Resources;
-* In general, strictly apply any instructions that may be provided by SCALINGO, to ensure the proper use of the Services by Users.
+*   Comply with the stipulations hereof and, in particular, the License subscribed;
+*   Maintain up-to-date its Personal Data necessary for the billing of the Services;
+*   Pay all sums due to SCALINGO for the provision of the Services and, in particular, ensure the regular funding of the accounts on which direct debits are made (bank account, Client Account for payment by credits PayPal, etc.);
+*   Provide SCALINGO, before the start of the provision of the Services, with the information necessary to comply with its obligations and ensure the proper provision of the Services;
+*   Cooperate with SCALINGO, in particular by designating qualified staff who can also act as a point of contact with SCALINGO;
+*   Ensure that the payment means used is adequately funded in relation to the consumption of Resources;
+*   In general, strictly apply any instructions that may be provided by SCALINGO, to ensure the proper use of the Services by Users.
 
 The Client acknowledges that it is strictly forbidden to use the Services and/or the Platform for the following purposes, this list being not exhaustive: (i) engaging in illegal, fraudulent activities or infringing the rights or security of third parties, (ii) downloading or installing on the Platform malware, spyware, viruses, worms, Trojan horses or similar harmful code; (iii) access, extraction of Data from other users of the Services and/or the Platform; (iv) acts aimed at interrupting, suspending, slowing down or preventing the continuity of the Services and/or the Platform; (v) intrusion or attempted intrusion into the systems of SCALINGO and/or users of the Services and the Platform; (vi) breach of security and authentication measures; (vii) creation of multiple accounts in order to circumvent the limits of the free trial; (viii) any act likely to infringe the rights and interests of SCALINGO or the Users of its Services and/or Platform.
 
@@ -190,12 +190,12 @@ Upon express request of the Client addressed to SCALINGO's IT department, the la
 
 SCALINGO undertakes to implement, with respect to the requirements set out by the ISSP, all the necessary measures to ensure:
 
-* the confidentiality, integrity, availability and traceability of the Data, and in particular of personal data, and the maintenance of up-to-date documentation describing the technical and organizational security measures implemented for this purpose;
-* the detection, resolution and notification of security incidents and personal data breaches within the time required by the Data Protection Regulations;
-* the possibility of restoring availability and access to Data in a timely manner in the event of a physical or technical security incident;
-* Robust and flawless end-to-end encryption of Data in accordance with industry best practices. As such, access to the Platform, servers, Resources, applications and databases put online using the Platform is only via protocols integrating encryption protocols (e.g. SSH, HTTPS) in accordance with market standards. The versions of the cryptographic algorithms used are kept state-of-the-art;
-* the Data are only accessible and legible for SCALINGO staff and service providers duly authorized, within the strict limit of what is necessary for the exercise of their functions; SCALINGO will provide the Client upon request with a list of duly authorized persons;
-* the persons authorized to access the Data have undertaken in writing to confidentiality and security obligations as protective as those contained herein.
+*   the confidentiality, integrity, availability and traceability of the Data, and in particular of personal data, and the maintenance of up-to-date documentation describing the technical and organizational security measures implemented for this purpose;
+*   the detection, resolution and notification of security incidents and personal data breaches within the time required by the Data Protection Regulations;
+*   the possibility of restoring availability and access to Data in a timely manner in the event of a physical or technical security incident;
+*   Robust and flawless end-to-end encryption of Data in accordance with industry best practices. As such, access to the Platform, servers, Resources, applications and databases put online using the Platform is only via protocols integrating encryption protocols (e.g. SSH, HTTPS) in accordance with market standards. The versions of the cryptographic algorithms used are kept state-of-the-art;
+*   the Data are only accessible and legible for SCALINGO staff and service providers duly authorized, within the strict limit of what is necessary for the exercise of their functions; SCALINGO will provide the Client upon request with a list of duly authorized persons;
+*   the persons authorized to access the Data have undertaken in writing to confidentiality and security obligations as protective as those contained herein.
 
 Any major changes to these measures must be documented and notified to the Client. Such modification shall in no way result in a decrease in the level of security of the Services during the term of the Agreement.
 
