@@ -93,38 +93,38 @@ Prohibited Uses
 
 You may use Service only for lawful purposes and in accordance with Terms. You agree not to use Service:
 
-1. In any way that violates any applicable national or international law or regulation.
+1.  In any way that violates any applicable national or international law or regulation.
     
-2. For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
+2.  For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
     
-3. To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation.
+3.  To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation.
     
-4. To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.
+4.  To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.
     
-5. In any way that infringes upon the rights of others, or in any way is illegal, threatening, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.
+5.  In any way that infringes upon the rights of others, or in any way is illegal, threatening, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.
     
-6. To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of Service, or which, as determined by us, may harm or offend Company or users of Service or expose them to liability.
+6.  To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of Service, or which, as determined by us, may harm or offend Company or users of Service or expose them to liability.
     
 
 Additionally, you agree not to:
 
-1. Use Service in any manner that could disable, overburden, damage, or impair Service or interfere with any other party’s use of Service, including their ability to engage in real time activities through Service.
+1.  Use Service in any manner that could disable, overburden, damage, or impair Service or interfere with any other party’s use of Service, including their ability to engage in real time activities through Service.
     
-2. Use any robot, spider, or other automatic device, process, or means to access Service for any purpose, including monitoring or copying any of the material on Service.
+2.  Use any robot, spider, or other automatic device, process, or means to access Service for any purpose, including monitoring or copying any of the material on Service.
     
-3. Use any manual process to monitor or copy any of the material on Service or for any other unauthorized purpose without our prior written consent.
+3.  Use any manual process to monitor or copy any of the material on Service or for any other unauthorized purpose without our prior written consent.
     
-4. Use any device, software, or routine that interferes with the proper working of Service.
+4.  Use any device, software, or routine that interferes with the proper working of Service.
     
-5. Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful.
+5.  Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful.
     
-6. Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of Service, the server on which Service is stored, or any server, computer, or database connected to Service.
+6.  Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of Service, the server on which Service is stored, or any server, computer, or database connected to Service.
     
-7. Attack Service via a denial-of-service attack or a distributed denial-of-service attack.
+7.  Attack Service via a denial-of-service attack or a distributed denial-of-service attack.
     
-8. Take any action that may damage or falsify Company rating.
+8.  Take any action that may damage or falsify Company rating.
     
-9. Otherwise attempt to interfere with the proper working of Service.
+9.  Otherwise attempt to interfere with the proper working of Service.
     
 
 Analytics
