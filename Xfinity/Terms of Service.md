@@ -13,42 +13,42 @@ You must accept these Terms in order to use the Web Services. You accept these T
 
 **Table of Contents**
 
-1. [Covered Web Services](#coveredwebservices)
-2. [Privacy](#privacy)
-3. [Registration](#registration)
-4. [Your Passwords and Unauthorized Use of Your Account](#passwords)
-5. [Prohibited Uses](#prohibiteduse)
-6. [Content on the Web Services](#contentwebservices)
-7. [User Content](#usercontent)
-8. [Copyright Infringement](#copyrightinfringrement)
-9. [Proprietary Rights](#proprietaryrights)
-10. [Links to the Web Services](#linkswebservices)
-11. [Term and Termination](#termandtermination)
-12. [Exclusion of Warranties](#exclusionwarranties)
-13. [Limitation of Liability](#limitationliability)
-14. [One Year Limitation Period](#oneyearlimitation)
-15. [Binding Arbitration and Class/Collective/Representative Action/Relief Waiver](#arbitration)
-16. [Waiver of Jury Trial](#jurytrial)
-17. [Indemnification](#indemnification)
-18. [About These Terms](#aboutterms)
-19. [Changes to These Terms and the Web Services](#changesterms)
-20. [ADDITIONAL TERMS for Content Provided as Part of Your Xfinity TV Subscription](#additionaltermstv)
-21. [ADDITIONAL TERMS for Xfinity WiFi](#additionaltermswifi)
-22. [ADDITIONAL TERMS for Comcast Email for Users Who Are Not Xfinity Internet Subscribers](#additionaltermsinternet)
+1.  [Covered Web Services](#coveredwebservices)
+2.  [Privacy](#privacy)
+3.  [Registration](#registration)
+4.  [Your Passwords and Unauthorized Use of Your Account](#passwords)
+5.  [Prohibited Uses](#prohibiteduse)
+6.  [Content on the Web Services](#contentwebservices)
+7.  [User Content](#usercontent)
+8.  [Copyright Infringement](#copyrightinfringrement)
+9.  [Proprietary Rights](#proprietaryrights)
+10.  [Links to the Web Services](#linkswebservices)
+11.  [Term and Termination](#termandtermination)
+12.  [Exclusion of Warranties](#exclusionwarranties)
+13.  [Limitation of Liability](#limitationliability)
+14.  [One Year Limitation Period](#oneyearlimitation)
+15.  [Binding Arbitration and Class/Collective/Representative Action/Relief Waiver](#arbitration)
+16.  [Waiver of Jury Trial](#jurytrial)
+17.  [Indemnification](#indemnification)
+18.  [About These Terms](#aboutterms)
+19.  [Changes to These Terms and the Web Services](#changesterms)
+20.  [ADDITIONAL TERMS for Content Provided as Part of Your Xfinity TV Subscription](#additionaltermstv)
+21.  [ADDITIONAL TERMS for Xfinity WiFi](#additionaltermswifi)
+22.  [ADDITIONAL TERMS for Comcast Email for Users Who Are Not Xfinity Internet Subscribers](#additionaltermsinternet)
 
  [](https://www.xfinity.com/Corporate/Customers/Policies/SubscriberAgreement)
 
 [**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**](https://www.xfinity.com/Corporate/Customers/Policies/SubscriberAgreement)
 
-1. **Covered Web Services**
+1.  **Covered Web Services**
 
 The following websites, apps, and services are covered by these Terms and we refer to them as “**_Web Services_**”:
 
-* Comcast or Xfinity-branded websites and web-based services that link to these Terms, such as: [xfinity.com](https://www.xfinity.com/), [xfinity.com/stream](https://www.xfinity.com/stream/), and [login.xfinity.com/login](https://login.xfinity.com/login);
-* applications provided by Comcast on third-party platforms that link to these Terms, such as Xfinity Stream and Xfinity (including Xfinity-branded iOS and Android mobile applications);
-* Xfinity WiFi services (unless you are otherwise an Xfinity Internet subscriber with access to Xfinity WiFi);
-* a Comcast-provided email address, such as yourname@comcast.net (unless you are otherwise an Xfinity Internet or Xfinity Voice subscriber); and
-* Any additional websites, applications, and other web-based products or services that are owned or controlled by Comcast that link to these Terms as the governing terms and conditions.
+*   Comcast or Xfinity-branded websites and web-based services that link to these Terms, such as: [xfinity.com](https://www.xfinity.com/), [xfinity.com/stream](https://www.xfinity.com/stream/), and [login.xfinity.com/login](https://login.xfinity.com/login);
+*   applications provided by Comcast on third-party platforms that link to these Terms, such as Xfinity Stream and Xfinity (including Xfinity-branded iOS and Android mobile applications);
+*   Xfinity WiFi services (unless you are otherwise an Xfinity Internet subscriber with access to Xfinity WiFi);
+*   a Comcast-provided email address, such as yourname@comcast.net (unless you are otherwise an Xfinity Internet or Xfinity Voice subscriber); and
+*   Any additional websites, applications, and other web-based products or services that are owned or controlled by Comcast that link to these Terms as the governing terms and conditions.
 
 These Terms do not apply to Xfinity TV, Xfinity Voice, Xfinity Internet, Xfinity Home, Xfinity Mobile, or to other products or services provided by Comcast that do not link to these Terms. These Terms do not apply to the Xfinity Stream app or tv.xfinity.com when these services are used to deliver Xfinity TV within the residence at which you have an Xfinity TV and Xfinity Internet subscription. These other products and services are subject to their own terms of service and policies. You can see the terms and policies that apply to the residential versions of these services by visiting [www.xfinity.com/policies](http://www.xfinity.com/policies).
 
@@ -74,16 +74,16 @@ You may only use the Web Services for personal, residential, and non-commercial 
 
 You agree to comply with the following restrictions on use of the Web Services:
 
-* **_Do not use the Web Services for any unlawful purpose_**. For example, you will not post, store, send, or share anything that encourages criminal conduct, gives rise to civil liability, or is unlawful, libelous, obscene, threatening, defamatory, pornographic, harassing, hateful, racially or ethnically offensive. You will not post, store, send, reproduce, create derivative works of, distribute, or do anything that infringes the intellectual property rights or other rights of any person or entity. You will not capture, rip, download, or create a copy of any content on the Web Services without any required permission from the content owner.
+*   **_Do not use the Web Services for any unlawful purpose_**. For example, you will not post, store, send, or share anything that encourages criminal conduct, gives rise to civil liability, or is unlawful, libelous, obscene, threatening, defamatory, pornographic, harassing, hateful, racially or ethnically offensive. You will not post, store, send, reproduce, create derivative works of, distribute, or do anything that infringes the intellectual property rights or other rights of any person or entity. You will not capture, rip, download, or create a copy of any content on the Web Services without any required permission from the content owner.
 
-* **_Do not use the Web Services for commercial purposes or to send “spam.”_** For example, you will not post or distribute “spam,” or unsolicited bulk or commercial messages, on or through the Web Services. You will not send large numbers or copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content. You will not send very large messages or files that disrupt features of the Web Services. You will not start, continue, assist with, or participate in any pyramid scheme or other illegal activity through the Web Services. Do not use the Web Services for any non-private presentation or commercial viewing (e.g., a presentation of Content in a dorm lounge, a place of public accommodation, or a commercial establishment), even if no fee is charged.
+*   **_Do not use the Web Services for commercial purposes or to send “spam.”_** For example, you will not post or distribute “spam,” or unsolicited bulk or commercial messages, on or through the Web Services. You will not send large numbers or copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content. You will not send very large messages or files that disrupt features of the Web Services. You will not start, continue, assist with, or participate in any pyramid scheme or other illegal activity through the Web Services. Do not use the Web Services for any non-private presentation or commercial viewing (e.g., a presentation of Content in a dorm lounge, a place of public accommodation, or a commercial establishment), even if no fee is charged.
 
-* **_Do not improperly collect information from the Web Services_****.** For example, you will not scrape, collect, or participate in the collection of very large numbers of email addresses, screen names, or other identifiers from the Web Services without prior express written consent. You will not use or participate in the use of software or “spyware” designed to facilitate this activity. You will not collect responses from unsolicited bulk messages posted on or distributed through the Web Services. You will not systematically retrieve data or content from the Web Services to create a collection, compilation, database, or directory, except through APIs or other interfaces specifically provided for this purpose.
-* **_Do not engage in fraud on the Web Services._** For example, you will not impersonate any person or entity, falsify your sender address, or forge a digital or manual signature. You will not engage in “phishing” or any similar fraudulent content activity on the Web Services. You will not attempt to use the Web Services under another person’s name or register under another person’s name, or publish falsehoods or misrepresentations. You will not allow another person to access the Web Services using your credentials. You will not manipulate, distort, or undermine the integrity and accuracy of any ratings or reviews of any movie or entertainment program, service, or product presented by the Web Services.
+*   **_Do not improperly collect information from the Web Services_****.** For example, you will not scrape, collect, or participate in the collection of very large numbers of email addresses, screen names, or other identifiers from the Web Services without prior express written consent. You will not use or participate in the use of software or “spyware” designed to facilitate this activity. You will not collect responses from unsolicited bulk messages posted on or distributed through the Web Services. You will not systematically retrieve data or content from the Web Services to create a collection, compilation, database, or directory, except through APIs or other interfaces specifically provided for this purpose.
+*   **_Do not engage in fraud on the Web Services._** For example, you will not impersonate any person or entity, falsify your sender address, or forge a digital or manual signature. You will not engage in “phishing” or any similar fraudulent content activity on the Web Services. You will not attempt to use the Web Services under another person’s name or register under another person’s name, or publish falsehoods or misrepresentations. You will not allow another person to access the Web Services using your credentials. You will not manipulate, distort, or undermine the integrity and accuracy of any ratings or reviews of any movie or entertainment program, service, or product presented by the Web Services.
 
-* **_Do not interfere with the operation and functionality of the Web Services._** For example, you will not restrict, inhibit, or otherwise interfere with the ability of any other person to use or enjoy the Web Services. This prohibition applies regardless of your intent, purpose, or knowledge. (This prohibition does not apply to tools for safety and security, such as parental controls.) You will not post or transmit any information or software that contains a worm, virus, or other harmful feature. You will not generate traffic levels sufficient to impede others' ability to use, send, or retrieve information.
+*   **_Do not interfere with the operation and functionality of the Web Services._** For example, you will not restrict, inhibit, or otherwise interfere with the ability of any other person to use or enjoy the Web Services. This prohibition applies regardless of your intent, purpose, or knowledge. (This prohibition does not apply to tools for safety and security, such as parental controls.) You will not post or transmit any information or software that contains a worm, virus, or other harmful feature. You will not generate traffic levels sufficient to impede others' ability to use, send, or retrieve information.
 
-* **_Do not circumvent or attempt to circumvent any method to control access to Web Services_**. For example, you will not spoof or otherwise impersonate an IP address for your computer. You will not set up a proxy or other device that allows others to access the Web Services through it. You will not access or attempt to access the Web Services through any automated means, including scripts or web crawlers, except through APIs or other interfaces specifically provided for this purpose. You will not violate the instructions in any robots.txt or similar file within the Web Services.
+*   **_Do not circumvent or attempt to circumvent any method to control access to Web Services_**. For example, you will not spoof or otherwise impersonate an IP address for your computer. You will not set up a proxy or other device that allows others to access the Web Services through it. You will not access or attempt to access the Web Services through any automated means, including scripts or web crawlers, except through APIs or other interfaces specifically provided for this purpose. You will not violate the instructions in any robots.txt or similar file within the Web Services.
 
 Xfinity subscribers can find the acceptable use policies that apply to certain Xfinity services, including Xfinity Internet, at [www.xfinity.com/policies](http://www.xfinity.com/policies).
 
@@ -213,13 +213,13 @@ If your subscription does not include access to Xfinity WiFi, or you are not a r
 
 **Using the WiFi Service.** In order to access and use the WiFi Service, you must:
 
-* provide us with accurate and complete registration information;
-* have a wireless-enabled device (compliant with the IEEE 802.11g or n standards, or any later standard we support) with a web browser or its equivalent;
-* provide all equipment and software necessary to connect to the WiFi Service (other than the access point provided by us);
-* protect the password, username, and security information you use to access the WiFi Service;
-* notify us immediately of any unauthorized use of your account that you become aware of;
-* comply with applicable laws and regulations, including but not limited to copyright and intellectual property laws; and
-* be at least 18 years of age.
+*   provide us with accurate and complete registration information;
+*   have a wireless-enabled device (compliant with the IEEE 802.11g or n standards, or any later standard we support) with a web browser or its equivalent;
+*   provide all equipment and software necessary to connect to the WiFi Service (other than the access point provided by us);
+*   protect the password, username, and security information you use to access the WiFi Service;
+*   notify us immediately of any unauthorized use of your account that you become aware of;
+*   comply with applicable laws and regulations, including but not limited to copyright and intellectual property laws; and
+*   be at least 18 years of age.
 
 Certain locations ("**_Venues_**") may offer you free use of Xfinity WiFi ("**_Amenity WiFi_**"). Your use of Amenity WiFi is subject to these Terms and any other terms and conditions made available by the Venue ("**_Venue Policies_**"). We are not responsible for the Venue Policies or the actions of the Venue. You should read the Venue Policies before using Amenity WiFi.
 
@@ -229,13 +229,13 @@ When you go online with any WiFi Service, remember that wireless communications 
 
 **Restrictions on Use.** You may only use the WiFi Service for personal and non-commercial purposes. You agree to comply with the following restrictions on use of the WiFi Service:
 
-* **_Do not engage in fraud_**. For example, you will not falsify, alter, or remove message headers. You will not falsify references to us or our network in messages. You will not falsify, alter, spoof, or otherwise modify or change any IP or MAC address assigned to or associated with your device to access the WiFi Service.
+*   **_Do not engage in fraud_**. For example, you will not falsify, alter, or remove message headers. You will not falsify references to us or our network in messages. You will not falsify, alter, spoof, or otherwise modify or change any IP or MAC address assigned to or associated with your device to access the WiFi Service.
 
-* **_Do not engage in unlawful conduct or violate other applicable terms._** For example, you will not violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or website that you access or use. You will not copy, distribute, or sublicense any proprietary software provided in connection with the WiFi Service by us or any third party, except that you may make one copy of each software program for back-up purposes only. You will not access or use the WiFi Service with anything other than a dynamic IP address that adheres to the dynamic host configuration protocol ("**_DHCP_**"). You may not configure your device to use this WiFi Service or any related equipment to access or use a static IP address or use any protocol other than DHCP or for any unlawful purpose.
+*   **_Do not engage in unlawful conduct or violate other applicable terms._** For example, you will not violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or website that you access or use. You will not copy, distribute, or sublicense any proprietary software provided in connection with the WiFi Service by us or any third party, except that you may make one copy of each software program for back-up purposes only. You will not access or use the WiFi Service with anything other than a dynamic IP address that adheres to the dynamic host configuration protocol ("**_DHCP_**"). You may not configure your device to use this WiFi Service or any related equipment to access or use a static IP address or use any protocol other than DHCP or for any unlawful purpose.
 
-* **_Do not breach or circumvent security or other access limitations._** For example, you will not access any other person's computer or computer system, network, software, or data without his or her knowledge and consent. You will not breach the security of another user or system, or attempt to circumvent the user authentication or security of any host, network, or account. Prohibited conduct includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so. You will not use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized. This includes password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, and Trojan Horse programs. Unauthorized port scanning is strictly prohibited. You will not use the WiFi Service to distribute programs that make unauthorized changes to software (or “cracks”). You will not service, alter, modify, or tamper with any Comcast equipment or service or permit any other person who is not authorized by us to do so. You will not interfere with computer networking or telecommunications service to any user, host, or network. This includes denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host.
+*   **_Do not breach or circumvent security or other access limitations._** For example, you will not access any other person's computer or computer system, network, software, or data without his or her knowledge and consent. You will not breach the security of another user or system, or attempt to circumvent the user authentication or security of any host, network, or account. Prohibited conduct includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so. You will not use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized. This includes password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, and Trojan Horse programs. Unauthorized port scanning is strictly prohibited. You will not use the WiFi Service to distribute programs that make unauthorized changes to software (or “cracks”). You will not service, alter, modify, or tamper with any Comcast equipment or service or permit any other person who is not authorized by us to do so. You will not interfere with computer networking or telecommunications service to any user, host, or network. This includes denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host.
 
-* **_Do not use the WiFi Service for commercial purposes._** For example, you may not use or run dedicated, stand-alone equipment or servers, also commonly referred to as public services or servers on the WiFi Service. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers. You may not use the WiFi Service, or use or run programs that provide network content or any other services, for any purpose other than personal and non-commercial use. You may not use the WiFi Service for operation as an Internet service provider or for any business, other legal entity, or other purpose (whether or not for profit). You may not resell or otherwise make available the WiFi Service, in whole or in part, directly or indirectly.
+*   **_Do not use the WiFi Service for commercial purposes._** For example, you may not use or run dedicated, stand-alone equipment or servers, also commonly referred to as public services or servers on the WiFi Service. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers. You may not use the WiFi Service, or use or run programs that provide network content or any other services, for any purpose other than personal and non-commercial use. You may not use the WiFi Service for operation as an Internet service provider or for any business, other legal entity, or other purpose (whether or not for profit). You may not resell or otherwise make available the WiFi Service, in whole or in part, directly or indirectly.
 
 **22\. ADDITIONAL TERMS for Comcast Email for Users Who Are No Longer Xfinity Internet Subscribers**
 
