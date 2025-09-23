@@ -48,9 +48,9 @@ We use your personal information for our business purposes including to:
 
 **Improve, develop and analyze our Sites, services and products.** We use your personal information and other information to:
 
-* analyze, improve, develop, or deliver our Sites, products and services and develop new services, products or features using algorithms, analytics software, and other similar methods,
-* conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
-* analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
+*   analyze, improve, develop, or deliver our Sites, products and services and develop new services, products or features using algorithms, analytics software, and other similar methods,
+*   conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
+*   analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
 
 We collect some information used for these purposes using analytics software, cookies, and other tracking technologies. For more information about the collection and use of this information, see Online Tracking Technologies and Advertising below.
 
@@ -85,14 +85,14 @@ Depending upon the products and services you have with us, we may share any of t
 
 **Service providers:** Personal information may be shared with service providers who perform services on our behalf for business purposes including service providers that:
 
-* help complete transactions, handle a claim, service your policy or service your membership,
-* engage in credit reporting or payment processing,
-* provide marketing and advertising, email, or other communication services,
-* provide services that support our online activities including providing tracking technologies, web hosting and analytics,
-* provide tax and accounting, legal services, delivery, and data enhancement services,
-* provide technology services and enhance security, privacy, and fraud protections,
-* provide data analytics services or conduct research or actuarial studies, and
-* support our operations.
+*   help complete transactions, handle a claim, service your policy or service your membership,
+*   engage in credit reporting or payment processing,
+*   provide marketing and advertising, email, or other communication services,
+*   provide services that support our online activities including providing tracking technologies, web hosting and analytics,
+*   provide tax and accounting, legal services, delivery, and data enhancement services,
+*   provide technology services and enhance security, privacy, and fraud protections,
+*   provide data analytics services or conduct research or actuarial studies, and
+*   support our operations.
 
 **Marketing and advertising providers:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities. We obtain opt-in consent to send marketing-related text messages to consumers as required by law and do not sell or share this information with third parties except Allstate affiliates and service providers.
 
@@ -100,9 +100,9 @@ Depending upon the products and services you have with us, we may share any of t
 
 **Law enforcement, regulators and other parties for legal reasons:** Personal information may be disclosed to third parties, as required by law or subpoena, or if we reasonably believe such action is necessary to:
 
-* comply with the law and the reasonable requests of regulators, law enforcement or other public authorities,
-* protect our or others safety, rights, or property, and
-* investigate fraud or to protect the security or integrity of our Sites or any product or services.
+*   comply with the law and the reasonable requests of regulators, law enforcement or other public authorities,
+*   protect our or others safety, rights, or property, and
+*   investigate fraud or to protect the security or integrity of our Sites or any product or services.
 
 Our service providers and third-party marketing and advertising partners include Adobe, Google and Microsoft. To learn about Adobe Analytics privacy practices or to opt-out of Adobe cookies, [visit Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices and to manage privacy controls, [visit Google Privacy Center](https://policies.google.com/privacy#infochoices). To access and use the Google Analytics Opt-out Browser Add-on, [visit Google Opt-out](https://tools.google.com/dlpage/gaoptout). To read more about Microsoft’s privacy practices, [visit the Microsoft Privacy Statement.](https://privacy.microsoft.com/en-us/privacystatement)
 
@@ -116,20 +116,20 @@ Online tracking technologies and advertising
 
 **Technologies and information collected:** We and our service providers operating on our behalf may collect information about your activity on, use of and access to our Sites using a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”). Information we may collect this way may be combined with other personal information we collect directly from you, including information we collect from you offline, such as over the phone or in a retail location. The information collected in this manner includes:
 
-* The website from where you accessed our Sites, where you went to when you left our Sites, how frequently you visit our Sites, your location when you access our Sites, when and whether you open emails or click the links contained in emails, pages you visit and ads you view on our Sites, recordings of mouse clicks, mouse movements, keystrokes, and other communications you make on our Sites,
-* Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
-* Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
-* How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
+*   The website from where you accessed our Sites, where you went to when you left our Sites, how frequently you visit our Sites, your location when you access our Sites, when and whether you open emails or click the links contained in emails, pages you visit and ads you view on our Sites, recordings of mouse clicks, mouse movements, keystrokes, and other communications you make on our Sites,
+*   Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
+*   Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
+*   How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
 
 **Use of the information:** The information collected through tracking technologies allows us to provide you with an improved, enhanced, and personalized customer experience, to monitor and improve our Sites and for other internal purposes such as:
 
-* Remembering information so that you will not have to re-enter it during your visit or the next time you visit the Sites,
-* Provide custom, personalized content and information, including targeted content, communications, and advertising,
-* Identify and contact you across multiple devices,
-* Provide and monitor the effectiveness of our Sites,
-* Perform analytics and detect usage patterns on our Sites,
-* Diagnose or fix technology problems, and
-* Detect or prevent fraud or other harmful activities..
+*   Remembering information so that you will not have to re-enter it during your visit or the next time you visit the Sites,
+*   Provide custom, personalized content and information, including targeted content, communications, and advertising,
+*   Identify and contact you across multiple devices,
+*   Provide and monitor the effectiveness of our Sites,
+*   Perform analytics and detect usage patterns on our Sites,
+*   Diagnose or fix technology problems, and
+*   Detect or prevent fraud or other harmful activities..
 
 **General choices regarding cookies:** If you prefer not to accept cookies, most browsers will allow you to manage cookies in your browser settings to disable or block cookies, remove existing cookies, automatically accept cookies or to notify you when you receive a cookie. These settings are browser or device specific. Options available may vary by browser. However, if you disable, modify, or reject cookies, some parts or functionalities of our Site may be inaccessible or not function properly. For example, disabling cookies may require you to repeatedly enter information to take advantage of services or promotions. Also, if you clear your cookies on your browser or make selections using a different device or browser, you may need to redo your cookie settings.
 
@@ -172,17 +172,17 @@ Certain state laws provide residents with the right to access, correct and delet
 
 **Right to know and access your personal information:** You have the right to request the specific pieces of personal information we have collected about you and the right to know:
 
-* the categories of personal information we’ve collected,
-* the categories of sources from which personal information was collected,
-* the business or commercial purpose for collecting the personal information, and
-* the categories of third parties with whom we disclose or share personal information.
+*   the categories of personal information we’ve collected,
+*   the categories of sources from which personal information was collected,
+*   the business or commercial purpose for collecting the personal information, and
+*   the categories of third parties with whom we disclose or share personal information.
 
 **Right to deletion of personal information:** You have the right to request deletion of personal information collected from you, subject to certain exceptions including that we need the personal information to:
 
-* Complete a transaction or provide a good or service you requested, service your account, or take other actions reasonably anticipated or aligned within the context of our ongoing business relationship,
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
-* Comply with a legal obligation, or
-* Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+*   Complete a transaction or provide a good or service you requested, service your account, or take other actions reasonably anticipated or aligned within the context of our ongoing business relationship,
+*   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
+*   Comply with a legal obligation, or
+*   Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
 **Right to correct personal information:** You have the right to request we correct any inaccurate information we have about you. We may request that you provide documentation to support your request and we will correct your information unless we determine that the personal information is more than likely accurate.
 
@@ -190,10 +190,10 @@ Certain state laws provide residents with the right to access, correct and delet
 
 **Submission Process:**
 
-* **Allstate Protection Plan requests:** To submit an access, deletion, or correction request, please visit the [Access/Correction/Deletion webpage](https://allstateprotectionplans.consumerprivacyinfo.com/) or call us at [1-866-265-4801](tel:+18662654801).
-* **All Other Allstate requests:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](https://www.allstate.com/privacy-center/+18006244419). To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](https://www.allstate.com/privacy-center/+18006244419).
-* **Verification and other processes:** To protect you and your personal information, we respond only to requests properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which is used only to verify your identity or authority to make the request and to process the request. Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period.
-* **Authorized agents** Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
+*   **Allstate Protection Plan requests:** To submit an access, deletion, or correction request, please visit the [Access/Correction/Deletion webpage](https://allstateprotectionplans.consumerprivacyinfo.com/) or call us at [1-866-265-4801](tel:+18662654801).
+*   **All Other Allstate requests:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](https://www.allstate.com/privacy-center/+18006244419). To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](https://www.allstate.com/privacy-center/+18006244419).
+*   **Verification and other processes:** To protect you and your personal information, we respond only to requests properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which is used only to verify your identity or authority to make the request and to process the request. Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period.
+*   **Authorized agents** Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
 
 **California Consumer Request Metrics:** [Click here to view California Consumer Request Metrics](https://www.allstate.com/privacy-center/consumer-requests-metrics).
 
@@ -236,14 +236,14 @@ Allstate digital footprint
 
 If you enroll in the Allstate Digital℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google, and/or other available provider email accounts. We will only use the data accessed from your Microsoft, Google, and other available provider accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings (“email data”) to:
 
-* identify certain online accounts,
-* notify you of known security breaches related to those accounts, and
-* send data privacy requests, unsubscribe requests or deletion requests from your email account at your request.
+*   identify certain online accounts,
+*   notify you of known security breaches related to those accounts, and
+*   send data privacy requests, unsubscribe requests or deletion requests from your email account at your request.
 
 We will not:
 
-* transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
-* allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product’s internal operations.
+*   transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
+*   allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product’s internal operations.
 
 Contact us
 ----------
