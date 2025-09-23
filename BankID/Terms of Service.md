@@ -39,13 +39,13 @@ By accepting the Terms of Use, You confirm that You are the person that You clai
 3.3                      
 You are prohibited from using, or in any way facilitating or assisting others to use, the App in any unlawful, fraudulent, insulting, or infringing manner. In addition, You are not allowed to:
 
-* use the App for activities, including storing, distributing, or otherwise making content available, that are illegal, that infringe the rights of others or that may be harmful or inconvenient to others, BID's business or reputation, including acting in a threatening, stalking, deceptive, humiliating, invasive or otherwise ethically questionable manner.
+*   use the App for activities, including storing, distributing, or otherwise making content available, that are illegal, that infringe the rights of others or that may be harmful or inconvenient to others, BID's business or reputation, including acting in a threatening, stalking, deceptive, humiliating, invasive or otherwise ethically questionable manner.
     
-* copy, distribute, modify, reverse engineer, decompile, disassemble, or otherwise determine the source code of the App or any part thereof, or create adaptations of the App and the App's functions.
+*   copy, distribute, modify, reverse engineer, decompile, disassemble, or otherwise determine the source code of the App or any part thereof, or create adaptations of the App and the App's functions.
     
-* breach or attempt to breach the security or integrity of the App, for example by transmitting malware, malicious software, viruses, trojans or otherwise damaging or adversely affecting the App.
+*   breach or attempt to breach the security or integrity of the App, for example by transmitting malware, malicious software, viruses, trojans or otherwise damaging or adversely affecting the App.
     
-* accessing the App in a fraudulent or unauthorized manner, including bypassing the App's protocols and access controls and accessing or authorizing someone to access the App from an embargoed country.
+*   accessing the App in a fraudulent or unauthorized manner, including bypassing the App's protocols and access controls and accessing or authorizing someone to access the App from an embargoed country.
     
 
 4\. License and intellectual property rights
