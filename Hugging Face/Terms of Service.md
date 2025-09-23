@@ -71,23 +71,23 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 We provide Services in the field of machine learning, here is the list:
 
-* **Open-Source Libraries**: including Transformers, Datasets and Tokenizers
+*   **Open-Source Libraries**: including Transformers, Datasets and Tokenizers
     
-* Hugging Face public **Hub**: where you can build, benchmark, share, version and deploy Models, Datasets and Machine Learning Applications accessible by all Users
+*   Hugging Face public **Hub**: where you can build, benchmark, share, version and deploy Models, Datasets and Machine Learning Applications accessible by all Users
     
-* Hugging Face private **Hub**: where you can build, benchmark, share, version and deploy Models, Datasets and Machine Learning Applications, that are only accessible by You or your Organization(s)
+*   Hugging Face private **Hub**: where you can build, benchmark, share, version and deploy Models, Datasets and Machine Learning Applications, that are only accessible by You or your Organization(s)
     
-* **Inference Providers Service**: where you or your organization(s) can run inference via application programming interface on machine learning models publicly or privately hosted on our Model Hub
+*   **Inference Providers Service**: where you or your organization(s) can run inference via application programming interface on machine learning models publicly or privately hosted on our Model Hub
     
-* **AutoTrain premium Service**: create state of the art Models from your own training data, everything being automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through the Inference Providers Service for example.
+*   **AutoTrain premium Service**: create state of the art Models from your own training data, everything being automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through the Inference Providers Service for example.
     
-* **Expert Support**: get Premium Support on the use of our open source and all our services and/or products.
+*   **Expert Support**: get Premium Support on the use of our open source and all our services and/or products.
     
-* **Infinity Service**: deploy end-to-end optimized inference pipelines for state of the art Transformers Models.
+*   **Infinity Service**: deploy end-to-end optimized inference pipelines for state of the art Transformers Models.
     
-* **Hardware Partner Program**: access State of the Art hardware and hardware-specific machine learning optimization techniques for production performance.
+*   **Hardware Partner Program**: access State of the Art hardware and hardware-specific machine learning optimization techniques for production performance.
     
-* **Inference Endpoints**: easily deploy machine learning models on dedicated, secure and autoscaling infrastructure
+*   **Inference Endpoints**: easily deploy machine learning models on dedicated, secure and autoscaling infrastructure
     
 
 🔜 More awesome Services. Stay tuned!! 🚀
@@ -118,13 +118,13 @@ You represent and warrant that you have ownership, control, and responsibility f
 
 **You own the Content you create**! We will not sell your Content, nor will we use it in any other way as permitted under these Terms. However, by posting your Content or otherwise making it available on our Website, you must be aware that:
 
-1. You hereby **grant us** a worldwide, royalty-free and non-exclusive license to use, display, publish, reproduce, distribute, and make derivative works of such Content **to provide Services** and as otherwise permitted under these Terms and our Privacy Policy; and,
+1.  You hereby **grant us** a worldwide, royalty-free and non-exclusive license to use, display, publish, reproduce, distribute, and make derivative works of such Content **to provide Services** and as otherwise permitted under these Terms and our Privacy Policy; and,
     
-2. Your Content will be viewed by others, and therefore:
+2.  Your Content will be viewed by others, and therefore:
     
 
-* If you decide to set your Repository **public**, you **grant each User** a perpetual, irrevocable, worldwide, royalty-free, non-exclusive license to use, display, publish, reproduce, distribute, and make derivative works of your Content through our Services and functionalities;
-* If you decide to set your Repository **private**, we will use reasonable and appropriate measures designed to **keep your Content confidential**, and protected from any unauthorized access or disclosure. However, we may access or share your private information pursuant to the terms set forth in our Privacy Policy.
+*   If you decide to set your Repository **public**, you **grant each User** a perpetual, irrevocable, worldwide, royalty-free, non-exclusive license to use, display, publish, reproduce, distribute, and make derivative works of your Content through our Services and functionalities;
+*   If you decide to set your Repository **private**, we will use reasonable and appropriate measures designed to **keep your Content confidential**, and protected from any unauthorized access or disclosure. However, we may access or share your private information pursuant to the terms set forth in our Privacy Policy.
 
 When Content **contains notice of a reasonable and customary license**, (such as an open source license) such Content is intended to remain **under the terms of such license** when further accessed, distributed, or used. Neither party is permitted to remove reference to any such license.
 
