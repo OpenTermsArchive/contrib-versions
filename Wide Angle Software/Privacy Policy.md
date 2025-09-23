@@ -9,21 +9,21 @@ This Policy applies as between you, the User of this Website and Wide Angle Soft
 
 In this Policy the following terms shall have the following meanings:
 
-* **"Data"** - means collectively all information that you submit to the Wide Angle Software via the Website. This definition shall, where applicable, incorporate the definitions provided in the European Economic Area (EEA) data protection law;
+*   **"Data"** - means collectively all information that you submit to the Wide Angle Software via the Website. This definition shall, where applicable, incorporate the definitions provided in the European Economic Area (EEA) data protection law;
   
-* **“Cookie”** - means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 13;
+*   **“Cookie”** - means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 13;
   
-* **“Wide Angle Software”** - means Wide Angle Software of St. John's House Weston Road, Stafford, UK;
+*   **“Wide Angle Software”** - means Wide Angle Software of St. John's House Weston Road, Stafford, UK;
   
-* **“GDPR”** means the General Data Protection Regulation (EU) 2016/679;
+*   **“GDPR”** means the General Data Protection Regulation (EU) 2016/679;
   
-* **“UK and EU Cookie Law”** - means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 & the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2018;
+*   **“UK and EU Cookie Law”** - means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 & the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2018;
   
-* **“User”** - means any third party that accesses the Website and is not employed by Wide Angle Software and acting in the course of their employment;
+*   **“User”** - means any third party that accesses the Website and is not employed by Wide Angle Software and acting in the course of their employment;
   
-* **“Website”** - means the website that you are currently using (www.wideanglesoftware.com) and any sub-domains of this site (e.g. subdomain.wideanglesoftware.com) unless expressly excluded by their own terms and conditions;
+*   **“Website”** - means the website that you are currently using (www.wideanglesoftware.com) and any sub-domains of this site (e.g. subdomain.wideanglesoftware.com) unless expressly excluded by their own terms and conditions;
   
-* **“Software”** - means the [products](https://www.wideanglesoftware.com/products/) available to download and purchase on this Website. All products available to download and purchase on this Website have been developed by Wide Angle Software staff; we do not offer downloads or offer technical support for third party software.
+*   **“Software”** - means the [products](https://www.wideanglesoftware.com/products/) available to download and purchase on this Website. All products available to download and purchase on this Website have been developed by Wide Angle Software staff; we do not offer downloads or offer technical support for third party software.
   
 
 ### 2\. Scope of this Policy
@@ -58,19 +58,19 @@ This Policy applies only to the actions of Wide Angle Software and Users with re
 
 4.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:
 
-* 4.4.1 To process your payment, communicate regarding a payment, and provide related customer service;
-* 4.4.2 For audits, regulatory purposes, and compliance with industry standards;
-* 4.4.3 To improve our products / services;
-* 4.4.4 To send marketing communications.
+*   4.4.1 To process your payment, communicate regarding a payment, and provide related customer service;
+*   4.4.2 For audits, regulatory purposes, and compliance with industry standards;
+*   4.4.3 To improve our products / services;
+*   4.4.4 To send marketing communications.
 
 ### 5\. Third Party Websites and Services
 
 Wide Angle Software does not share your information or data with third parties except in the following limited circumstances:
 
-* 5.1 To facilitate you to make credit/debit card or PayPal payments, as set out in clause 3.5;
-* 5.2 To facilitate activation code services provided by softWORKZ for the purposes of licensing your purchased software, please see the [softWORKZ privacy policy](https://www.softworkz.com/privacy.html);
-* 5.3 To invite you to review our products or services. We use Trustpilot to collect your feedback which means that we will share your name, email address and reference number with Trustpilot for the Purpose. If you want to read more about how Trustpilot process your data, please see their [Privacy Policy](https://legal.trustpilot.com/for-reviewers/end-user-privacy-terms);
-* 5.4 To conduct online surveys, questionnaires and research exclusively for the purpose of improving our products and services. We use SurveyMonkey to conduct online surveys, questionnaires and research, see the [SurveyMonkey’s privacy policy](https://www.surveymonkey.com/mp/legal/privacy/).
+*   5.1 To facilitate you to make credit/debit card or PayPal payments, as set out in clause 3.5;
+*   5.2 To facilitate activation code services provided by softWORKZ for the purposes of licensing your purchased software, please see the [softWORKZ privacy policy](https://www.softworkz.com/privacy.html);
+*   5.3 To invite you to review our products or services. We use Trustpilot to collect your feedback which means that we will share your name, email address and reference number with Trustpilot for the Purpose. If you want to read more about how Trustpilot process your data, please see their [Privacy Policy](https://legal.trustpilot.com/for-reviewers/end-user-privacy-terms);
+*   5.4 To conduct online surveys, questionnaires and research exclusively for the purpose of improving our products and services. We use SurveyMonkey to conduct online surveys, questionnaires and research, see the [SurveyMonkey’s privacy policy](https://www.surveymonkey.com/mp/legal/privacy/).
 
 ### 6\. Links to Other Websites
 
@@ -88,7 +88,7 @@ Wherever you are required to submit Data, you will be given options to restrict 
 
 8.1. Unsubscribe
 
-* We may, from time to time, email you to invite you to review our products or services, or to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive emails from us for this purpose, or if you want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the emails that we send or alternatively [contact us](https://support.wideanglesoftware.com/hc/en-us/requests/new).
+*   We may, from time to time, email you to invite you to review our products or services, or to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive emails from us for this purpose, or if you want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the emails that we send or alternatively [contact us](https://support.wideanglesoftware.com/hc/en-us/requests/new).
 
 8.2. Access and remove your Data as set out in Clause 11.
 
@@ -102,8 +102,8 @@ Wherever you are required to submit Data, you will be given options to restrict 
 
 We’ll hold your personal data, such as your name, email address and software activation codes on our systems for the longest of the following periods:
 
-* 10.1 Up to 5 years on our activation code lookup service;
-* 10.2 Any retention period that is required by law or regulation.
+*   10.1 Up to 5 years on our activation code lookup service;
+*   10.2 Any retention period that is required by law or regulation.
 
 ### 11\. Accessing your own Data
 
