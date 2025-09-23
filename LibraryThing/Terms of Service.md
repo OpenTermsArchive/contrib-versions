@@ -45,12 +45,12 @@ LibraryThing is a warm and welcoming community, and almost everyone is nice. But
 
 If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement, please notify LibraryThing as set forth in the Digital Millennium Copyright Act of 1998 ("DMCA"). For your complaint to be valid under the DMCA, you must provide the following information in writing:
 
-1. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
-2. Identification of the copyrighted work that you claim has been infringed;
-3. Identification of the material that is claimed to be infringing and where it is located on the Service;
-4. Information reasonably sufficient to permit LibraryThing to contact you, such as your address, telephone number, and, e-mail address;
-5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
-6. A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+1.  An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+2.  Identification of the copyrighted work that you claim has been infringed;
+3.  Identification of the material that is claimed to be infringing and where it is located on the Service;
+4.  Information reasonably sufficient to permit LibraryThing to contact you, such as your address, telephone number, and, e-mail address;
+5.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
+6.  A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
 
 The above information should be submitted to the following designated agent:
 
@@ -73,10 +73,10 @@ If you're a health industry organization considering [TinyCat](https://www.libra
 
 Consider these tips to maintain patron privacy within TinyCat and LibraryThing:
 
-* Do not share your admin login with anyone unless you expect them to have access to all of your library and patron data.
-* Do not add patron information, such as names and phone numbers, but use only patron barcodes or IDs.
-* If you have Simple Circulation enabled, go to your [Patron Accounts Settings](https://www.librarycat.org/admin/settings/patronaccounts), and select _Barcode/ID_ under the "Patron list" setting. This will protect the privacy of your patrons' names.
-* If you have Full Circulation enabled, go to your [Patrons Settings](https://www.librarycat.org/admin/settings/patronsettings) and make sure that all patron fields except "Barcode/Patron ID" are set to _Admin only_. Set the "Barcode/Patron ID" field to _Patron can see_, if you prefer.
+*   Do not share your admin login with anyone unless you expect them to have access to all of your library and patron data.
+*   Do not add patron information, such as names and phone numbers, but use only patron barcodes or IDs.
+*   If you have Simple Circulation enabled, go to your [Patron Accounts Settings](https://www.librarycat.org/admin/settings/patronaccounts), and select _Barcode/ID_ under the "Patron list" setting. This will protect the privacy of your patrons' names.
+*   If you have Full Circulation enabled, go to your [Patrons Settings](https://www.librarycat.org/admin/settings/patronsettings) and make sure that all patron fields except "Barcode/Patron ID" are set to _Admin only_. Set the "Barcode/Patron ID" field to _Patron can see_, if you prefer.
 
 ### What information do we collect?
 
@@ -84,81 +84,81 @@ This section covers the Personally Identifiable Information (PII) LibraryThing c
 
 Personally Identifiable Information (PII) we collect for all site users may include:
 
-* Security and abuse-monitoring data, including:
-    * IP address
-    * Browser/OS version
-* Personally Identifiable Information (PII) we collect for LibraryThing members may include:
-    * Account basics
-    * User name
-* Content members provide voluntarily including:
-    * Your name
-    * Profile information
-    * Public lists of other social-media accounts
-    * Book collection and associated metadata, including ratings, reviews, and lists.
-    * Social interactions, including friend lists, forum posts, and member-to-member comments.
-    * Location (for public display)
-* Non-required, non-public information members voluntarily provide to access certain site features or programs, including:
-    * Email address
-    * Location
-    * Mailing address
-    * Billing Information
-    * Links to social media accounts
-    * LibraryThing smartphone app data, including
-    * Device OS/version
-    * Device ID
+*   Security and abuse-monitoring data, including:
+    *   IP address
+    *   Browser/OS version
+*   Personally Identifiable Information (PII) we collect for LibraryThing members may include:
+    *   Account basics
+    *   User name
+*   Content members provide voluntarily including:
+    *   Your name
+    *   Profile information
+    *   Public lists of other social-media accounts
+    *   Book collection and associated metadata, including ratings, reviews, and lists.
+    *   Social interactions, including friend lists, forum posts, and member-to-member comments.
+    *   Location (for public display)
+*   Non-required, non-public information members voluntarily provide to access certain site features or programs, including:
+    *   Email address
+    *   Location
+    *   Mailing address
+    *   Billing Information
+    *   Links to social media accounts
+    *   LibraryThing smartphone app data, including
+    *   Device OS/version
+    *   Device ID
 
 Personally Identifiable Information (PII) we collect from TinyCat customers may include:
 
-* Content members provide voluntarily, including:
-    * Main contact's name
-* Non-required, non-public information members voluntarily provide to access certain site features or programs, including:
-    * Main contact's email address
-    * Billing information
+*   Content members provide voluntarily, including:
+    *   Main contact's name
+*   Non-required, non-public information members voluntarily provide to access certain site features or programs, including:
+    *   Main contact's email address
+    *   Billing information
 
 Personally Identifiable Information (PII) TinyCat customers and other data-controller customers may collect from patrons may include:
 
-* Account basics:
-    * Patron barcode/ID number
-* Content members provide voluntarily, including:
-    * Patron name (First, Middle, Last, Suffix)
-* Non-required, non-public information members or patrons voluntarily provide to access certain site features or programs, including:
-    * Patron email address
-    * Patron phone number
-    * Patron mailing address
-    * Any custom patron data field you add and provide to us
-    * Patron lending history (checkouts, holds, etc.)
+*   Account basics:
+    *   Patron barcode/ID number
+*   Content members provide voluntarily, including:
+    *   Patron name (First, Middle, Last, Suffix)
+*   Non-required, non-public information members or patrons voluntarily provide to access certain site features or programs, including:
+    *   Patron email address
+    *   Patron phone number
+    *   Patron mailing address
+    *   Any custom patron data field you add and provide to us
+    *   Patron lending history (checkouts, holds, etc.)
 
 ### What do we use this information for?
 
 LibraryThing collects Personally Identifiable Information (PII) for these purposes:
 
-* To provide, support, and improve the services LibraryThing offers.
-* To collect and analyze usage analytics on our user base (see Analytics section below).
-* To send members service and feature updates (including of planned outages, new features, and version updates), to communicate with members about their accounts, and to provide customer support.
-* To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](https://www.librarything.com/settings/privacy) preferences.
-* To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers and SantaThing.
-* To receive payments for LibraryThing services, including membership upgrades, subscriptions to TinyCat, orders from the LibraryThing Store, etc. We use PayPal for secure credit card transaction processing, and we send billing information to PayPal in order to process orders and credit card payments.
-* To monitor and enforce compliance with our Terms of Service and applicable law.
-* To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-* To provide, support, and improve the services TinyCat offers. This includes sending systematic messages or updates to your patrons, either automatically or on your behalf (such as lending transaction confirmations, setting up checkout or overdue reminders, etc.), allowing you to communicate with your patrons about their account/s, and allowing you to provide patron support.
+*   To provide, support, and improve the services LibraryThing offers.
+*   To collect and analyze usage analytics on our user base (see Analytics section below).
+*   To send members service and feature updates (including of planned outages, new features, and version updates), to communicate with members about their accounts, and to provide customer support.
+*   To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](https://www.librarything.com/settings/privacy) preferences.
+*   To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers and SantaThing.
+*   To receive payments for LibraryThing services, including membership upgrades, subscriptions to TinyCat, orders from the LibraryThing Store, etc. We use PayPal for secure credit card transaction processing, and we send billing information to PayPal in order to process orders and credit card payments.
+*   To monitor and enforce compliance with our Terms of Service and applicable law.
+*   To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+*   To provide, support, and improve the services TinyCat offers. This includes sending systematic messages or updates to your patrons, either automatically or on your behalf (such as lending transaction confirmations, setting up checkout or overdue reminders, etc.), allowing you to communicate with your patrons about their account/s, and allowing you to provide patron support.
 
 ### Emergency Situations
 
-* LibraryThing takes member health and safety seriously.
-* Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to info@librarything.com and tim@librarything.com. Please put EMERGENCY in the subject line.
-* LibraryThing cannot guarantee member privacy in emergencies.
+*   LibraryThing takes member health and safety seriously.
+*   Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to info@librarything.com and tim@librarything.com. Please put EMERGENCY in the subject line.
+*   LibraryThing cannot guarantee member privacy in emergencies.
 
 ### Member rights
 
 The EU General Data Protection Regulation (GDPR) includes certain rights for certain covered individuals, concerning their personally identifiable information. We intend to voluntarily comply with these provisions, except as limited under applicable law. These rights include:
 
-* **Right of access.** The right to be informed about and access your personal data.
-* **Right to erasure ("right to be forgotten").** The right to request that we remove your personal data.
-* **Right to rectification.** The right to request that we rectify your personal data, or allow you to do so, where it is incorrect.
-* **Right to restrict.** The right to ask that we temporarily or permanently stop processing all or some of your personal data.
-* **Right to withdraw consent.** The right to object to us processing your personal data.
-* **Right to data portability.** The right to request a copy of your personal data.
-* **Right not to be subject to automated decision-making.** The right to not be subject to a legal or similarly significant decision based solely on automated decision making.
+*   **Right of access.** The right to be informed about and access your personal data.
+*   **Right to erasure ("right to be forgotten").** The right to request that we remove your personal data.
+*   **Right to rectification.** The right to request that we rectify your personal data, or allow you to do so, where it is incorrect.
+*   **Right to restrict.** The right to ask that we temporarily or permanently stop processing all or some of your personal data.
+*   **Right to withdraw consent.** The right to object to us processing your personal data.
+*   **Right to data portability.** The right to request a copy of your personal data.
+*   **Right not to be subject to automated decision-making.** The right to not be subject to a legal or similarly significant decision based solely on automated decision making.
 
 LibraryThing has created a Member [Privacy Center](https://www.librarything.com/settings/privacy) (see above) which allows you to set preferences and exercise these rights. See Member [Privacy Center](https://www.librarything.com/settings/privacy) section above for a full listing of what options are available.
 
@@ -178,9 +178,9 @@ When users are not signed in, some LibraryThing pages include Google Adsense adv
 
 We use our own domain-specific cookies to store:
 
-* Session status
-* Login information
-* General site setting preferences, such as language, display preferences, login, and notification status
+*   Session status
+*   Login information
+*   General site setting preferences, such as language, display preferences, login, and notification status
 
 These cookies are not essential to using LibraryThing overall, but are essential to LibraryThing's "logged in" site functionality. Disabling them may prevent an individual from signing into the service, from seeing the content they want to see, from changing content, etc.
 
@@ -210,12 +210,12 @@ LibraryThing values your trust in providing us your personal information, thus w
 
 We use the following security measures and technologies to protect your data:
 
-* Industry-standard firewalls
-* Industry-standard encrypted passwords
-* Pseudonymization of select personally-identifiable information
-* Encrypted data transfer over SSL
-* Secure data backups
-* Servers located at secure locked facilities
+*   Industry-standard firewalls
+*   Industry-standard encrypted passwords
+*   Pseudonymization of select personally-identifiable information
+*   Encrypted data transfer over SSL
+*   Secure data backups
+*   Servers located at secure locked facilities
 
 #### Payment Information
 
