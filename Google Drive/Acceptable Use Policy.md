@@ -43,10 +43,10 @@ Do not create, upload or distribute content that exploits or abuses children. Th
 
 More broadly, Google prohibits the use of our products to endanger children. This includes, but is not limited to, predatory behaviour towards children such as:
 
-* 'Child grooming' (e.g. befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child)
-* 'Sextortion' (e.g. threatening or blackmailing a child by using real or alleged access to a child's intimate images)
-* Sexualisation of a minor (e.g. imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children) and
-* The trafficking of a child (e.g. advertising or the solicitation of a child for commercial sexual exploitation)
+*   'Child grooming' (e.g. befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child)
+*   'Sextortion' (e.g. threatening or blackmailing a child by using real or alleged access to a child's intimate images)
+*   Sexualisation of a minor (e.g. imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children) and
+*   The trafficking of a child (e.g. advertising or the solicitation of a child for commercial sexual exploitation)
 
 We will remove such content and take appropriate action, which may include reporting to the US National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help, [you can report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
 
@@ -60,9 +60,9 @@ Do not engage in actions intended to bypass our policies, subvert restrictions p
 
 This includes, but is not limited to:
 
-* Creating or using multiple accounts or other methods intended to engage in a behaviour that was previously prohibited.
-* Publicly sharing apps suspended by [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/).
-* Publicly sharing videos that do not comply with [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
+*   Creating or using multiple accounts or other methods intended to engage in a behaviour that was previously prohibited.
+*   Publicly sharing apps suspended by [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/).
+*   Publicly sharing videos that do not comply with [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
 
 We may take appropriate action if we are notified of circumvention, which may include restricting the sharing of files, removing access to some of our products or disabling your Google Account.
 
@@ -197,10 +197,10 @@ Google does not promise that the Gallery Content will work for your purposes, or
 
 If you choose to submit Content to become part of the Content Galleries, you direct and authorise Google and its affiliates to host, link to and otherwise incorporate your Gallery Submission into Google Docs, and you grant Google and its end users a worldwide, royalty-free, non-exclusive licence to exercise the rights in the Gallery Submission, as stated below:
 
-* to reproduce the Gallery Submission;
-* to create and reproduce derivative works of the Gallery Submission;
-* to display publicly and distribute copies of the Gallery Submission;
-* to display publicly and distribute copies of derivative works of the Gallery Submission.
+*   to reproduce the Gallery Submission;
+*   to create and reproduce derivative works of the Gallery Submission;
+*   to display publicly and distribute copies of the Gallery Submission;
+*   to display publicly and distribute copies of derivative works of the Gallery Submission.
 
 You agree that your licence to Google end users will be perpetual. Furthermore, for the avoidance of doubt, Google reserves, and you grant Google, the right to syndicate the Gallery Submission submitted by you through Google Docs and use that Gallery Submission in connection with any of the Services offered by Google. You retain the right to stop distributing the Gallery Submission through the Google Docs Content Galleries at any time; provided, however that any such election will not serve to withdraw the licences granted to Google end users under these Terms of Service. In order to stop distributing the Gallery Submission through the Google Docs Content Galleries, you must use the removal functions provided within the Service, in which case the Gallery Submission removal will be effective within a reasonable amount of time.
 
@@ -216,10 +216,10 @@ Google reserves the right to remove any or all Gallery Submissions at its sole d
 
 If you choose to submit Content to become part of the Content Galleries, you direct and authorise Google and its affiliates to host, link to and otherwise incorporate your Gallery Submission into Google Docs, and you grant Google and its end users a worldwide, royalty-free, non-exclusive licence to exercise the rights in the Gallery Submission, as stated below:
 
-* to reproduce the Gallery Submission;
-* to create and reproduce derivative works of the Gallery Submission;
-* to display publicly and distribute copies of the Gallery Submission;
-* to display publicly and distribute copies of derivative works of the Gallery Submission.
+*   to reproduce the Gallery Submission;
+*   to create and reproduce derivative works of the Gallery Submission;
+*   to display publicly and distribute copies of the Gallery Submission;
+*   to display publicly and distribute copies of derivative works of the Gallery Submission.
 
 You agree that your licence to Google end users will be perpetual. Furthermore, for the avoidance of doubt, Google reserves, and you grant Google, the right to syndicate the Gallery Submission submitted by you through Google Docs and use that Gallery Submission in connection with any of the Services offered by Google. You retain the right to stop distributing the Gallery Submission through the Google Docs Content Galleries at any time; provided, however that any such election will not serve to withdraw the licences granted to Google end users under these Terms of Service. In order to stop distributing the Gallery Submission through the Google Docs Content Galleries, you must use the removal functions provided within the Service, in which case the Gallery Submission removal will be effective within a reasonable amount of time.
 
