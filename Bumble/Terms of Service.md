@@ -14,8 +14,8 @@ And a notice to California subscribers: You may cancel your subscription and req
 
 Before you can use the App, you will need to register for an account (“Account”). In order to create an Account you must:
 
-1. be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country if that happens to be greater than 18; and
-2. be legally permitted to use the App by the laws of your home country.
+1.  be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country if that happens to be greater than 18; and
+2.  be legally permitted to use the App by the laws of your home country.
 
 Please note that we monitor for underage use and we will terminate, suspend or ask you to verify your Account if we have reason to believe that you may be underage.
 
@@ -36,9 +36,9 @@ You may not access, tamper with, or use non-public areas of the App or our syste
 
 There are three types of content that you will be able to access on the App:
 
-1. content that you upload and provide (“Your Content”);
-2. content that members provide (“Member Content”); and
-3. content that the Bumble Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
+1.  content that you upload and provide (“Your Content”);
+2.  content that members provide (“Member Content”); and
+3.  content that the Bumble Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
 
 **There is certain content we can’t allow on Bumble**
 
@@ -46,19 +46,19 @@ Our [Community Guidelines](https://bumble.com/en/guidelines) form part of these 
 
 We want our users to be able express themselves as much as possible on Bumble, but we have to impose restrictions on certain content which:
 
-* is illegal or encourages, promotes or incites any illegal activity;
-* is harmful to minors;
-* is defamatory or libellous;
-* itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
-* shows another person which was created or distributed without that person’s consent;
-* contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
-* is obscene, pornographic, violent or otherwise may offend human dignity;
-* is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry;
-* relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-* involves the transmission of “junk” mail or “spam”;
-* impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behaviour);
-* contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise; or
-* in any other way violates our [Community Guidelines](https://bumble.com/en/guidelines).
+*   is illegal or encourages, promotes or incites any illegal activity;
+*   is harmful to minors;
+*   is defamatory or libellous;
+*   itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
+*   shows another person which was created or distributed without that person’s consent;
+*   contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
+*   is obscene, pornographic, violent or otherwise may offend human dignity;
+*   is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry;
+*   relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
+*   involves the transmission of “junk” mail or “spam”;
+*   impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behaviour);
+*   contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise; or
+*   in any other way violates our [Community Guidelines](https://bumble.com/en/guidelines).
 
 ### Your Content
 
@@ -88,10 +88,10 @@ You may be wondering what happens to the rest of the Content on Bumble. Well, it
 
 We grant you a non-exclusive, limited, personal, non-transferable, revocable, licence to access and use Our Content, without the right to sublicense, under the following conditions:
 
-1. you shall not use, sell, modify, or distribute Our Content except as permitted by the functionality of the App;
-2. you shall not use our name in metatags, keywords and/or hidden text;
-3. you shall not create derivative works from Our Content or scrape, disable, decompile, analyse or in any way commercially exploit Our Content, in whole or in part, in any way; and
-4. you shall use Our Content for lawful purposes only.
+1.  you shall not use, sell, modify, or distribute Our Content except as permitted by the functionality of the App;
+2.  you shall not use our name in metatags, keywords and/or hidden text;
+3.  you shall not create derivative works from Our Content or scrape, disable, decompile, analyse or in any way commercially exploit Our Content, in whole or in part, in any way; and
+4.  you shall use Our Content for lawful purposes only.
 
 We reserve all other rights.
 
@@ -108,19 +108,19 @@ We have developed matching algorithms to predict your compatibility with other u
 
 You agree to:
 
-* comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
-* use your real name and real age in creating your Bumble account and on your profile; and
-* use the services in a safe, inclusive and respectful manner and adhere to our [Community Guidelines](https://bumble.com/en/guidelines) at all times.
+*   comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
+*   use your real name and real age in creating your Bumble account and on your profile; and
+*   use the services in a safe, inclusive and respectful manner and adhere to our [Community Guidelines](https://bumble.com/en/guidelines) at all times.
 
 You agree that you will not:
 
-* act in an unlawful or disrespectful manner including being dishonest, abusive or discriminatory;
-* misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
-* disclose information that you do not have the consent to disclose;
-* stalk or harass any other user of the App;
-* use the App in any deceptive, inauthentic or manipulative way, including engaging in conduct or distributing content relating to scams, spam, inauthentic profiles or commercial and promotional activity;
-* submit appeals, reports, notices or complaints that are manifestly unfounded; or;
-* develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
+*   act in an unlawful or disrespectful manner including being dishonest, abusive or discriminatory;
+*   misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
+*   disclose information that you do not have the consent to disclose;
+*   stalk or harass any other user of the App;
+*   use the App in any deceptive, inauthentic or manipulative way, including engaging in conduct or distributing content relating to scams, spam, inauthentic profiles or commercial and promotional activity;
+*   submit appeals, reports, notices or complaints that are manifestly unfounded; or;
+*   develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
 
 We don’t like users misbehaving in the Bumble community. You can report any abuse or complain about Member Content by contacting us, outlining the abuse and/or complaint. You can also report a user directly from a profile or in chat by clicking the ‘Block & Report’ link. We reserve the right to investigate any possible violations of these Terms, any Bumble user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the App without prior notice, as set out further in Section 1 above, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the App.
 
@@ -143,19 +143,19 @@ In addition to the above terms, If you are a resident of Colorado the following 
 
 We want our users to be able express themselves as much as possible on Bumble, but we have to impose restrictions on certain content which:
 
-* is illegal or encourages, promotes or incites any illegal activity;
-* is harmful to minors including misconduct that threatens public or personal safety, such as a threatened act, or attempted act of homicide, unlawful sexual behavior, assault, kidnapping, stalking, harassment, involuntary intoxication, robbery, theft, or any other conduct that threatens public or another person's safety.
-* is defamatory or libelous;
-* itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
-* shows another person which was created or distributed without that person’s consent;
-* contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
-* is obscene, pornographic, violent or otherwise may offend human dignity;
-* is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry;
-* relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-* involves the transmission of “junk” mail or “spam”;
-* impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behavior);
-* contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise; or
-* in any other way violates our [Community Guidelines](https://bumble.com/en/guidelines)
+*   is illegal or encourages, promotes or incites any illegal activity;
+*   is harmful to minors including misconduct that threatens public or personal safety, such as a threatened act, or attempted act of homicide, unlawful sexual behavior, assault, kidnapping, stalking, harassment, involuntary intoxication, robbery, theft, or any other conduct that threatens public or another person's safety.
+*   is defamatory or libelous;
+*   itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
+*   shows another person which was created or distributed without that person’s consent;
+*   contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
+*   is obscene, pornographic, violent or otherwise may offend human dignity;
+*   is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry;
+*   relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
+*   involves the transmission of “junk” mail or “spam”;
+*   impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behavior);
+*   contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise; or
+*   in any other way violates our [Community Guidelines](https://bumble.com/en/guidelines)
 
 Background Check
 ----------------
@@ -178,9 +178,9 @@ All members must comply with the platform rules described and referenced in our 
 
 We may:
 
-* Remove the content
-* Issue a warning
-* Ban the offending member from some or all Bumble Inc. apps
+*   Remove the content
+*   Issue a warning
+*   Ban the offending member from some or all Bumble Inc. apps
 
 When necessary, we also may cooperate with law enforcement to assist in potential criminal investigations related to member conduct.
 
@@ -318,11 +318,11 @@ THE LIMITATION OF LIABILITY HEREIN IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE 
 
 All the actions you make and information you post on Bumble remain your responsibility. Therefore, you agree to indemnify, defend, release, and hold us, and our partners, licensors, affiliates, contractors, officers, directors, employees, representatives and agents, harmless, from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable legal fees) suffered or reasonably incurred by us arising as a result of, or in connection with:
 
-1. any negligent acts, omissions or wilful misconduct by you;
-2. your access to and use of the App;
-3. the uploading or submission of Content to the App by you;
-4. any breach of these Terms by you; and/or
-5. your violation of any law or of any rights of any third party.
+1.  any negligent acts, omissions or wilful misconduct by you;
+2.  your access to and use of the App;
+3.  the uploading or submission of Content to the App by you;
+4.  any breach of these Terms by you; and/or
+5.  your violation of any law or of any rights of any third party.
 
 We retain the exclusive right to settle, compromise and pay any and all claims or causes of action which are brought against us without your prior consent. If we ask, you will co-operate fully and reasonably as required by us in the defence of any relevant claim.
 
@@ -333,12 +333,12 @@ The foregoing provision does not require you to indemnify Bumble Group for any u
 
 If you believe any content on Bumble infringes the copyright in a work that you own, please submit a notification alleging such infringement (“DMCA Takedown Notice”) to Bumble Group’s Copyright Agent. The Takedown Notice must include the following:
 
-1. A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
-2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
-3. Identification of the material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access disabled and information reasonably sufficient to permit the service provider to locate the material;
-4. Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
-5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
-6. A statement that, under penalty of perjury, the information in the notification is accurate and you are authorised to act on behalf of the owner of the exclusive right that is allegedly infringed.
+1.  A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
+2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
+3.  Identification of the material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access disabled and information reasonably sufficient to permit the service provider to locate the material;
+4.  Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+5.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+6.  A statement that, under penalty of perjury, the information in the notification is accurate and you are authorised to act on behalf of the owner of the exclusive right that is allegedly infringed.
 
 Takedown Notices should be sent to Bumble Group’s Copyright Agent at [copyright@team.bumble.com](mailto:copyright@team.bumble.com). If you wish to reach out to Bumble Group’s Copyright Agent via other methods, you can write to: Bumble, Attn: Bumble Group’s Copyright Agent, P.O. Box 300940, Austin, Texas, 78703; or phone: +1 - 512-696-1409.
 
@@ -347,10 +347,10 @@ Takedown Notices should be sent to Bumble Group’s Copyright Agent at [copyrigh
 
 The following additional terms and conditions apply to you if you download the App from a Third Party Store. To the extent that the other terms and conditions of these Terms are less restrictive than, or otherwise conflict with, the terms and conditions of this Section, the more restrictive or conflicting terms and conditions in this Section will apply, but solely with respect to the App and the Third Party Store. You acknowledge and agree that:
 
-1. These Terms are concluded solely between you and the Bumble Group and not with the providers of the Third Party Store, and the Bumble Group (and not the Third Party Store providers) is solely responsible for the App and the content thereof. To the extent that these Terms provide for usage rules for the App which are less restrictive or in conflict with the applicable terms of service of the Third Party Store from which you obtain the App, the more restrictive or conflicting term of the Third Party Store will take precedence and will apply.
-2. The Third Party Store provider has no obligation whatsoever to provide any maintenance and support services with respect to the App. The Bumble Group is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The Third Party Store provider will have no warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of the Bumble Group.
-3. The Bumble Group, not the Third Party Store provider, is responsible for addressing any claims you or any third party may have relating to the App or your possession and/or use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection or similar legislation; and/or (iv) intellectual property infringement claims.
-4. The Third Party Store provider and its subsidiaries are third party beneficiaries of these Terms, and, upon your acceptance of these Terms, the Third Party Store provider from whom you obtained the App will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
+1.  These Terms are concluded solely between you and the Bumble Group and not with the providers of the Third Party Store, and the Bumble Group (and not the Third Party Store providers) is solely responsible for the App and the content thereof. To the extent that these Terms provide for usage rules for the App which are less restrictive or in conflict with the applicable terms of service of the Third Party Store from which you obtain the App, the more restrictive or conflicting term of the Third Party Store will take precedence and will apply.
+2.  The Third Party Store provider has no obligation whatsoever to provide any maintenance and support services with respect to the App. The Bumble Group is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The Third Party Store provider will have no warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of the Bumble Group.
+3.  The Bumble Group, not the Third Party Store provider, is responsible for addressing any claims you or any third party may have relating to the App or your possession and/or use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection or similar legislation; and/or (iv) intellectual property infringement claims.
+4.  The Third Party Store provider and its subsidiaries are third party beneficiaries of these Terms, and, upon your acceptance of these Terms, the Third Party Store provider from whom you obtained the App will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
 
 In the event of a conflict between a Third Party Store’s or mobile carrier’s applicable terms and conditions and these Terms, the terms and conditions of the Third Party Store or mobile carrier shall govern and control. We are not responsible and have no liability whatsoever for third-party goods or services you obtain through a Third Party Store or mobile carrier. We encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third parties.
 
@@ -393,25 +393,25 @@ If a decision is issued stating that applicable law precludes enforcement of any
 
 **8\. Mass Filings.** If, at any time, 30 or more similar demands for arbitration are asserted against Bumble or related parties by the same or coordinated counsel or entities, or if Bumble Group asserts 30 or more similar demands for arbitration or counterclaims against similarly-situated parties, within a period of 60 days or otherwise close in proximity (“Mass Filing”), the additional protocols set forth below shall apply:
 
-* _Acknowledgment of Mass Filing protocols._ If you or Bumble Group, or your or our counsel, files a demand for arbitration that fits within the definition of Mass Filing referred to above, then you and we agree that the demand for arbitration shall be subject to the additional protocols set forth in this Mass Filings subsection. If the parties disagree as to whether a series of filings fits within the definition of Mass Filing above, the arbitration provider shall resolve the disagreement. You and we also acknowledge that the adjudication of the dispute may be delayed and that any applicable statute of limitations shall be tolled from the time of filing of the demand for arbitration, and pending resolution of the bellwether proceedings.
+*   _Acknowledgment of Mass Filing protocols._ If you or Bumble Group, or your or our counsel, files a demand for arbitration that fits within the definition of Mass Filing referred to above, then you and we agree that the demand for arbitration shall be subject to the additional protocols set forth in this Mass Filings subsection. If the parties disagree as to whether a series of filings fits within the definition of Mass Filing above, the arbitration provider shall resolve the disagreement. You and we also acknowledge that the adjudication of the dispute may be delayed and that any applicable statute of limitations shall be tolled from the time of filing of the demand for arbitration, and pending resolution of the bellwether proceedings.
 
-* _Bellwether Arbitrations._ Bellwether proceedings are encouraged by courts and arbitration administrators where there are multiple disputes involving similar claims against the same or related parties. The parties shall select ten individual arbitration claims (five per side), designated the “Initial Test Cases,” to proceed to arbitration. Only the Initial Test Cases shall be filed with the arbitrator. All other claims shall be held in abeyance. This means that the filing fees will be paid only for the Initial Test Cases; for all other demands for arbitration in a Mass Filing, the filing fees (together with any arbitrator consideration of the other demands) will be in abeyance, and neither You nor Bumble will be required to pay any such filing fees. You and Bumble Group also agree that neither you nor we shall be deemed to be in breach of this Arbitration Agreement for failure to pay any such filing fees, and that neither you nor we shall be entitled to any contractual, statutory, or other remedies, damages, or sanctions of any kind for failure to pay any such filing fees. If, pursuant to this subsection, a party files non-Bellwether Arbitrations with the arbitration provider, the parties agree that the arbitration provider shall hold those demands in abeyance and not refer them to the arbitrator pending resolution of the Initial Test Cases. Unless the claims are resolved in advance or the schedule is extended, the arbitrators will render a final award for the Initial Test Cases within 120 days of the initial pre-hearing conference.
+*   _Bellwether Arbitrations._ Bellwether proceedings are encouraged by courts and arbitration administrators where there are multiple disputes involving similar claims against the same or related parties. The parties shall select ten individual arbitration claims (five per side), designated the “Initial Test Cases,” to proceed to arbitration. Only the Initial Test Cases shall be filed with the arbitrator. All other claims shall be held in abeyance. This means that the filing fees will be paid only for the Initial Test Cases; for all other demands for arbitration in a Mass Filing, the filing fees (together with any arbitrator consideration of the other demands) will be in abeyance, and neither You nor Bumble will be required to pay any such filing fees. You and Bumble Group also agree that neither you nor we shall be deemed to be in breach of this Arbitration Agreement for failure to pay any such filing fees, and that neither you nor we shall be entitled to any contractual, statutory, or other remedies, damages, or sanctions of any kind for failure to pay any such filing fees. If, pursuant to this subsection, a party files non-Bellwether Arbitrations with the arbitration provider, the parties agree that the arbitration provider shall hold those demands in abeyance and not refer them to the arbitrator pending resolution of the Initial Test Cases. Unless the claims are resolved in advance or the schedule is extended, the arbitrators will render a final award for the Initial Test Cases within 120 days of the initial pre-hearing conference.
 
-* _Global Mediation._ Following the resolution of the Initial Test Cases, the parties agree to engage in a global mediation of all the remaining individual arbitration claims comprising the Mass Filing (“Global Mediation”), deferring any filing costs associated with the non-Initial Test Cases until the Initial Test Cases and subsequent Global Mediation have concluded. After the final awards are provided to the mediator in the Initial Test Cases, the mediator and the parties shall have 90 days to agree upon a substantive methodology and make an offer to resolve the outstanding cases. If the Parties are unable to resolve the outstanding claims during the Global Mediation, the Parties may choose to opt out of the arbitration process and proceed in court with the remaining claims. Notice of the opt-out shall be provided in writing within 60 days of the close of the Global Mediation. Absent notice of an opt-out, the arbitrations may then be filed and administered by the arbitration provider pursuant to this Agreement’s Batch Arbitration provision below and the arbitrator’s fee schedule for mass filings as described in Subsection 14(7) above, unless the parties mutually agree otherwise in writing. You and we also acknowledge that any applicable statute of limitations shall be tolled pending resolution of the global mediation process.
+*   _Global Mediation._ Following the resolution of the Initial Test Cases, the parties agree to engage in a global mediation of all the remaining individual arbitration claims comprising the Mass Filing (“Global Mediation”), deferring any filing costs associated with the non-Initial Test Cases until the Initial Test Cases and subsequent Global Mediation have concluded. After the final awards are provided to the mediator in the Initial Test Cases, the mediator and the parties shall have 90 days to agree upon a substantive methodology and make an offer to resolve the outstanding cases. If the Parties are unable to resolve the outstanding claims during the Global Mediation, the Parties may choose to opt out of the arbitration process and proceed in court with the remaining claims. Notice of the opt-out shall be provided in writing within 60 days of the close of the Global Mediation. Absent notice of an opt-out, the arbitrations may then be filed and administered by the arbitration provider pursuant to this Agreement’s Batch Arbitration provision below and the arbitrator’s fee schedule for mass filings as described in Subsection 14(7) above, unless the parties mutually agree otherwise in writing. You and we also acknowledge that any applicable statute of limitations shall be tolled pending resolution of the global mediation process.
 
-* _Batch Arbitration._ To increase the efficiency of administration and resolution of arbitrations, you and Bumble Group agree that in the event a Mass Filing is not resolved by the Bellwether Arbitration and Global Mediation processes described above, the arbitration provider will (1) administer the remaining arbitration demands in batches of 100 demands per batch; (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be determined by the arbitrator, and one final award (“Batch Arbitration”). If the arbitration provider will not administer the Batch Arbitration with one set of filing and administrative fees due per side per batch, then the arbitration provider’s mass arbitration fee schedule shall apply.
+*   _Batch Arbitration._ To increase the efficiency of administration and resolution of arbitrations, you and Bumble Group agree that in the event a Mass Filing is not resolved by the Bellwether Arbitration and Global Mediation processes described above, the arbitration provider will (1) administer the remaining arbitration demands in batches of 100 demands per batch; (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be determined by the arbitrator, and one final award (“Batch Arbitration”). If the arbitration provider will not administer the Batch Arbitration with one set of filing and administrative fees due per side per batch, then the arbitration provider’s mass arbitration fee schedule shall apply.
 
-* _Enforcement of Subsection._ A Court of competent jurisdiction located in a venue allowed under Section 18 of the Terms and Conditions shall have the power to enforce this subsection.
+*   _Enforcement of Subsection._ A Court of competent jurisdiction located in a venue allowed under Section 18 of the Terms and Conditions shall have the power to enforce this subsection.
 
 **9\. Offer of Judgment.** At least 14 days before the date set for the arbitration hearing, any party may serve an offer in writing upon the other party to allow judgment on specified terms. If the offer made by one party is not accepted by the other party, and the other party fails to obtain a favorable award, the other party shall not recover any post-offer costs to which they otherwise would be entitled and shall pay the offering party’s costs from the time of the offer.
 
 **10\. Opt-Out.** Updates to Bumble’s Terms do not provide a new opportunity for you to opt out of arbitration if you previously agreed to a prior version of Bumble’s Terms containing an arbitration provision and did not validly opt out of arbitration.
 
-* _Previous or existing users._ Users who previously agreed to arbitrate may reject this updated Arbitration Agreement by following the opt-out method below, but such users will still be bound by the most recent prior version of the Arbitration Agreement and will otherwise be bound by these Terms. Previous or existing users who do not opt out of this updated Arbitration Agreement will be bound by this Arbitration Agreement and it shall apply to all disputes between such users and Bumble, including those arising (but not actually filed in arbitration) before the effective date of these Terms. Arbitration demands that have already been actually filed with an arbitration provider before the effective date of this Arbitration Agreement and in compliance with a prior version of this Arbitration Agreement are subject to the prior version’s terms.
+*   _Previous or existing users._ Users who previously agreed to arbitrate may reject this updated Arbitration Agreement by following the opt-out method below, but such users will still be bound by the most recent prior version of the Arbitration Agreement and will otherwise be bound by these Terms. Previous or existing users who do not opt out of this updated Arbitration Agreement will be bound by this Arbitration Agreement and it shall apply to all disputes between such users and Bumble, including those arising (but not actually filed in arbitration) before the effective date of these Terms. Arbitration demands that have already been actually filed with an arbitration provider before the effective date of this Arbitration Agreement and in compliance with a prior version of this Arbitration Agreement are subject to the prior version’s terms.
 
-* _New users._ Users who create a Bumble account for the first time on or after July 24, 2023 may opt out of this Arbitration Agreement.
+*   _New users._ Users who create a Bumble account for the first time on or after July 24, 2023 may opt out of this Arbitration Agreement.
 
-* _Method and impact of opting out._ Subject to the above, you may opt out of this Arbitration Agreement by sending written notice of your decision to opt out to: bumbleoptout@bumble.com, within 31 days after first becoming subject to this Arbitration Agreement. Your notice must include your name, your Bumble username (if any), the email address and/or phone number you used to set up your Bumble account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of the Terms and any other agreements between you and Bumble will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+*   _Method and impact of opting out._ Subject to the above, you may opt out of this Arbitration Agreement by sending written notice of your decision to opt out to: bumbleoptout@bumble.com, within 31 days after first becoming subject to this Arbitration Agreement. Your notice must include your name, your Bumble username (if any), the email address and/or phone number you used to set up your Bumble account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of the Terms and any other agreements between you and Bumble will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
 
 **11\. Severability.** Except as provided in subsection 14(7), if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Arbitration Agreement shall continue in full force and effect. If a court decides that any of the provisions in the Arbitration Agreement above is invalid or unenforceable because it would prevent the exercise of a non-waivable right to pursue public injunctive relief, then any dispute regarding the entitlement to such relief (and only that relief) must be severed from arbitration and may be litigated in court. All other disputes subject to arbitration under the terms of the Arbitration Agreement shall be arbitrated under its terms.
 
@@ -462,15 +462,15 @@ No failure or delay in exercising any right, power or privilege under the Terms 
 
 You represent and warrant that:
 
-1. you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and
-2. you are not listed on any U.S. Government list of prohibited or restricted parties.
+1.  you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and
+2.  you are not listed on any U.S. Government list of prohibited or restricted parties.
 
 By using the App, you agree and acknowledge that Bumble is a global app operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Bumble, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
 
 The App may contain links to third-party websites or resources. In such cases, you acknowledge and agree that we are not responsible or liable for:
 
-1. the availability or accuracy of such websites or resources; or
-2. the content, products, or services on or available from such websites or resources.
+1.  the availability or accuracy of such websites or resources; or
+2.  the content, products, or services on or available from such websites or resources.
 
 Links to such websites or resources do not imply any endorsement. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources. Framing, in-line linking or other methods of association with the App are expressly prohibited without first obtaining our prior written approval.
 
