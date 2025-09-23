@@ -119,9 +119,9 @@ When using our services, you must comply with these terms and all applicable law
 
 Fundamentally, do not do, try to do, or encourage or help others to do any of the following:
 
-* **Don’t use the services to do harm to yourself or others.** Among other things, this includes trying to gain access to another user’s account or any non-public portions of the services; infringing anyone else’s intellectual property rights or any other proprietary rights; exploiting, harassing, bullying, spamming, auto-messaging, or auto-dialing people through our services; and using our services to plan or cause real-world harm to someone else.
-* **Don’t use the services to do harm to Discord.** Among other things, this includes trying to gain access to, intentionally overburdening, or attacking our systems; scraping our services without our written consent, including by using any robot, spider, crawler, scraper, or other automatic device, process, or software; selling, licensing, or otherwise commercializing content or data obtained from our services; transmitting viruses or other malicious code to our services; using any unauthorized software designed to modify the services; abusing or defrauding us or our payment systems; copying, dismantling, or reverse engineering any of our services or using our intellectual property without permission; and misusing our reporting or customer service mechanisms.
-* **Don’t use the services to do anything else that’s illegal.** This includes using the services to plan or commit any crime or do anything else that is illegal.
+*   **Don’t use the services to do harm to yourself or others.** Among other things, this includes trying to gain access to another user’s account or any non-public portions of the services; infringing anyone else’s intellectual property rights or any other proprietary rights; exploiting, harassing, bullying, spamming, auto-messaging, or auto-dialing people through our services; and using our services to plan or cause real-world harm to someone else.
+*   **Don’t use the services to do harm to Discord.** Among other things, this includes trying to gain access to, intentionally overburdening, or attacking our systems; scraping our services without our written consent, including by using any robot, spider, crawler, scraper, or other automatic device, process, or software; selling, licensing, or otherwise commercializing content or data obtained from our services; transmitting viruses or other malicious code to our services; using any unauthorized software designed to modify the services; abusing or defrauding us or our payment systems; copying, dismantling, or reverse engineering any of our services or using our intellectual property without permission; and misusing our reporting or customer service mechanisms.
+*   **Don’t use the services to do anything else that’s illegal.** This includes using the services to plan or commit any crime or do anything else that is illegal.
 
 We encourage you to [report content](https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord) or conduct that you believe violates these restrictions. You can learn more about our approach to safety and content moderation in our [Safety Center](https://discord.com/safety/our-approach-to-content-moderation). **If you or someone else is in immediate danger, please contact your local law enforcement agency. Please note that you cannot contact law enforcement or other emergency services via our services.**
 
@@ -134,11 +134,11 @@ Disabling your account limits the processing of your personal information as des
 
 Our right to terminate. Subject to applicable law, we reserve the right to suspend or terminate your account and/or your access to some or all of our services with or without notice, at our discretion for any reason, or for the following reasons:
 
-* You breach, or you encourage or help others to breach, these terms (including, our [Community Guidelines](https://discord.com/guidelines), our other policies, or additional terms that apply to specific services).
-* We’re required to do so to comply with a legal requirement or court order.
-* We reasonably believe termination is necessary to prevent harm to you, us, other users, or third parties.
-* Your account has been inactive for more than two years.
-* Continuing to allow your account to be active, giving you access to some or all services, or hosting your content creates risk for Discord, other users, or third parties.
+*   You breach, or you encourage or help others to breach, these terms (including, our [Community Guidelines](https://discord.com/guidelines), our other policies, or additional terms that apply to specific services).
+*   We’re required to do so to comply with a legal requirement or court order.
+*   We reasonably believe termination is necessary to prevent harm to you, us, other users, or third parties.
+*   Your account has been inactive for more than two years.
+*   Continuing to allow your account to be active, giving you access to some or all services, or hosting your content creates risk for Discord, other users, or third parties.
 
 However, we will give you advance notice if reasonable to do so or required by applicable law.
 
@@ -279,12 +279,12 @@ You have certain rights that, by law, can’t be limited by these terms, and we 
 
 **Survival.** Any part of these terms that by their nature should survive after termination of these terms will survive. As permitted under applicable law, this includes but may not be limited to the following:
 
-* Our rights to [retain and display certain data](https://support.discord.com/hc/en-us/articles/5431812448791-How-long-Discord-keeps-your-information);
-* Any amounts owed will remain due;
-* Any indemnification obligations (as applicable) such as those listed under the “Indemnity” section;
-* Any disclaimer of warranties such as those under the “Services ‘AS IS’” section;
-* Any applicable limitation of liability such as those under the “Limitation of Liability” section;
-* Any dispute resolution provisions, including the arbitration agreement, such as those under the “Settling disputes between you and Discord” section.  
+*   Our rights to [retain and display certain data](https://support.discord.com/hc/en-us/articles/5431812448791-How-long-Discord-keeps-your-information);
+*   Any amounts owed will remain due;
+*   Any indemnification obligations (as applicable) such as those listed under the “Indemnity” section;
+*   Any disclaimer of warranties such as those under the “Services ‘AS IS’” section;
+*   Any applicable limitation of liability such as those under the “Limitation of Liability” section;
+*   Any dispute resolution provisions, including the arbitration agreement, such as those under the “Settling disputes between you and Discord” section.  
     ‍
 
 **Updates to these terms.** We may decide to update these terms: (1) to reflect changes to our services or our business, (2) for legal or regulatory reasons, (3) to prevent abuse on or of our services, or (4) to better protect or serve users of our services. If these changes materially affect your Discord use or your legal rights, we’ll give you reasonable advance notice (unless the updates are urgent). If you continue to use our services after the changes have taken effect, it means that you agree to the changes. If you don’t agree, you must stop using our services.
