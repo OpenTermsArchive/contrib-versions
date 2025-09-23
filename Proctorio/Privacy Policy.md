@@ -16,32 +16,32 @@ You can filter the Policy to only see the portions that apply to you. Just choos
 
 #### Where is your institution located?
 
-*  United States
-*  Canada
-*  Europe
-*  Other
+*    United States
+*    Canada
+*    Europe
+*    Other
 
 #### What kind of user are you?
 
-*  Test-taker
-*  Parent/Guardian
-*  Institution Representative
-*  Website User
+*    Test-taker
+*    Parent/Guardian
+*    Institution Representative
+*    Website User
 
 Privacy Notice
 --------------
 
 Last modified September 3, 2025
 
-* General
-* "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
-* Capitalized terms not defined herein shall have the meaning given to them in SaaS Agreement and Terms of Service. The SaaS Agreement and the Terms of Service fully detail both Proctorio's and the Institution's obligations in relation to the confidentiality of data.
-* Proctorio limits the Personal Information collected from end-users through their use of Proctorio's Services.
-* Proctorio only collects Personal Information as instructed by your Institution. This is dependent on the Services and settings selected by the relevant Institution-approved representatives.
-* Proctorio pseudoanonymizes specific test-taker Personal Information.
-* Audio, video, and screen recordings and images collected and stored by Proctorio are encrypted and can only be decrypted by Institution-approved representatives. For the avoidance of doubt, Proctorio cannot decrypt the audio, video, screen recordings and images collected and stored by Proctorio.
-* If you voluntarily provide Personal Information through Proctorio's Sites or Services, Proctorio may retain this Information.
-* If you voluntarily provide Personal Information through Proctorio's Sites or Services, Proctorio may retain this Information.
+*   General
+*   "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
+*   Capitalized terms not defined herein shall have the meaning given to them in SaaS Agreement and Terms of Service. The SaaS Agreement and the Terms of Service fully detail both Proctorio's and the Institution's obligations in relation to the confidentiality of data.
+*   Proctorio limits the Personal Information collected from end-users through their use of Proctorio's Services.
+*   Proctorio only collects Personal Information as instructed by your Institution. This is dependent on the Services and settings selected by the relevant Institution-approved representatives.
+*   Proctorio pseudoanonymizes specific test-taker Personal Information.
+*   Audio, video, and screen recordings and images collected and stored by Proctorio are encrypted and can only be decrypted by Institution-approved representatives. For the avoidance of doubt, Proctorio cannot decrypt the audio, video, screen recordings and images collected and stored by Proctorio.
+*   If you voluntarily provide Personal Information through Proctorio's Sites or Services, Proctorio may retain this Information.
+*   If you voluntarily provide Personal Information through Proctorio's Sites or Services, Proctorio may retain this Information.
 
 **Proctorio's Institution Services** When an Institution purchases Proctorio's Services, the type of Service and settings selected by the Institution determine what Personal Information an Institution may provide to Proctorio or what Proctorio can collect from the test taker. This is described in more detail below.
 
@@ -213,38 +213,38 @@ Information collected from Institution-approved representatives
 
 To register an Institution to use the Proctorio's suite of Services, an administrator account must be created. To register an account for your Institution, an Institution-approved representative must provide Personal Information, such as:
 
-* Institution-approved representative's name
-* Phone number
-* Institution name
-* Campus email address
+*   Institution-approved representative's name
+*   Phone number
+*   Institution name
+*   Campus email address
 
 ### Request for demo
 
 For Institution-approved representatives to request a demonstration of the Proctorio Services, you must provide Personal Information such as:
 
-* Institution-approved representative's name
-* Phone number
-* Institution name
-* Campus email address
+*   Institution-approved representative's name
+*   Phone number
+*   Institution name
+*   Campus email address
 
 ### Secure Exam Proctor exam enabling
 
 An Institution-approved representative can generally utilize Secure Exam Proctor to conduct exams. To do so, the Institution-approved representative does not have to provide their name or other Personal Information. They only have to provide the single sign-on data managed through the Institution exam platform. Institution-approved representatives configure their exam settings to select whether to collect the following types of test-taker data:
 
-* Audio Recordings
-* Video Recordings
-* Facial Detection
-* Gaze Detection
-* Information on test taker computer screen
-* Websites visited during the exam session
+*   Audio Recordings
+*   Video Recordings
+*   Facial Detection
+*   Gaze Detection
+*   Information on test taker computer screen
+*   Websites visited during the exam session
 
 ### Secure Exam Proctor Technical Support
 
 To contact technical support, Personal Information such as:
 
-* Institution-approved representative's name
-* Phone number
-* Email address
+*   Institution-approved representative's name
+*   Phone number
+*   Email address
 
 may be collected from an Institution-approved representative to facilitate the troubleshooting process.
 
@@ -259,10 +259,10 @@ Additionally, Proctorio may invite Institution-approved representatives or test 
 
 Due to the nature of some of these activities, they may include the collection of Personal Information, such as your:
 
-* Institution-approved representative's name
-* Email
-* Institution details
-* Location
+*   Institution-approved representative's name
+*   Email
+*   Institution details
+*   Location
 
 Customer service
 ----------------
@@ -286,13 +286,13 @@ Job applicants
 
 Proctorio may also collect Personal Information from job applicants needed for the employment applications, such as:
 
-* Job applicant name
-* Email
-* Postal address
-* Government ID numbers
-* Date of birth
-* Employment history
-* Academic history
+*   Job applicant name
+*   Email
+*   Postal address
+*   Government ID numbers
+*   Date of birth
+*   Employment history
+*   Academic history
 
 Marketing
 ---------
@@ -306,12 +306,12 @@ Automatically collected Information; log Information
 
 When you access the Sites and Services via a browser, application, or other device, Proctorio's servers automatically record certain information. These server logs will include information such as:
 
-* Your web request
-* Your interaction with a Service
-* IP address (only part of the IP address is stored)
-* Browser type (high level only)
-* Browser language
-* The date and time of your request
+*   Your web request
+*   Your interaction with a Service
+*   IP address (only part of the IP address is stored)
+*   Browser type (high level only)
+*   Browser language
+*   The date and time of your request
 
 Proctorio stores anonymized web server log files by keeping only part of the user's IP address and generalizing the user agent.
 
@@ -322,36 +322,36 @@ Test-taker payments
 
 Some Institutions may require the test taker to pay for the Services. In those instances, Proctorio uses a third-party processor to process test-taker assessment payments. The information collected will only be used by Proctorio's third-party processor for the purpose of purchasing the Service. The information collected may include:
 
-* Credit card number
-* Credit card 3-4 digit security code
-* IP address
-* User agent
-* Email address - to receive a digital receipt
+*   Credit card number
+*   Credit card 3-4 digit security code
+*   IP address
+*   User agent
+*   Email address - to receive a digital receipt
 
 Customer accounts and payments
 ------------------------------
 
 Proctorio may also collect Personal Information from Institution-approved representatives using Proctorio's Services to verify business information, establish customer accounts, and to process payments. Proctorio may collect financial information from potential customers to process Proctorio's customer payments, such as:
 
-* Business name or Business representative
-* Business email
-* Business phone number
-* Business address
-* Bank account information
-* Tax ID numbers
+*   Business name or Business representative
+*   Business email
+*   Business phone number
+*   Business address
+*   Bank account information
+*   Tax ID numbers
 
 Sometimes Institution-approved representatives may pay for the Services with a credit card. In those instances, Proctorio uses a third-party processor to process test-taker assessment payments. The information collected will only be used by Proctorio's third-party processor for the purpose of purchasing the service. The information collected may include:
 
-* Credit card number
-* Credit card 3-4 digit security code
-* IP address
-* User agent
-* Email address - to receive a digital receipt
+*   Credit card number
+*   Credit card 3-4 digit security code
+*   IP address
+*   User agent
+*   Email address - to receive a digital receipt
 
 Using your Information
 ----------------------
 
-* Proctorio's use of Personal Information depends on whether we are processing Information for an Institution or if an individual provides Personal Information to us directly or visits Proctorio's Sites.
+*   Proctorio's use of Personal Information depends on whether we are processing Information for an Institution or if an individual provides Personal Information to us directly or visits Proctorio's Sites.
 
 As a data processor
 -------------------
@@ -360,16 +360,16 @@ When Proctorio is a processor for an Institution, Proctorio uses Personal Inform
 
 Please remember an Institution decides which of Proctorio's products or Services to use:
 
-* Automated Proctoring
-* Live Proctoring
-* Automated ID Verification
-* Live ID Verification
-* Originality Verification
-* Registering an Institution
-* Administrative account creation
-* Institution assessment platform use
-* Administering the Secure Exam Proctor environment
-* Processing client payments and/or test taker payments
+*   Automated Proctoring
+*   Live Proctoring
+*   Automated ID Verification
+*   Live ID Verification
+*   Originality Verification
+*   Registering an Institution
+*   Administrative account creation
+*   Institution assessment platform use
+*   Administering the Secure Exam Proctor environment
+*   Processing client payments and/or test taker payments
 
 **Please Note: The Institution decides which of Proctorio's products or Services to use and which settings and features to enable.**
 
@@ -383,8 +383,8 @@ Proctorio uses de-identified information for billing and utilization analysis of
 Sharing your Information
 ------------------------
 
-* Proctorio doesn't sell test-taker data to third parties.
-* Proctorio doesn't share test-taker data with third parties for any marketing purposes.
+*   Proctorio doesn't sell test-taker data to third parties.
+*   Proctorio doesn't share test-taker data with third parties for any marketing purposes.
 
 As a data processor:
 --------------------
@@ -396,14 +396,14 @@ As a data controller:
 
 In instances where Proctorio is the controller and Proctorio collects test-taker Personal Information, such as when a test taker contacts Proctorio's Customer Service or requests Service information, or when an individual contacts us directly, agrees to participate in certain activities, or when visiting Proctorio's Sites such as:
 
-* Surveys
-* Contests
-* Feedback
-* Customer service
-* Customer accounts and test-taker payments (Proctorio may collect customer Information to establish Institution accounts and process payments)
-* Job applications
-* Marketing
-* Continuous improvement, product development, and research
+*   Surveys
+*   Contests
+*   Feedback
+*   Customer service
+*   Customer accounts and test-taker payments (Proctorio may collect customer Information to establish Institution accounts and process payments)
+*   Job applications
+*   Marketing
+*   Continuous improvement, product development, and research
 
 Proctorio may disclose your Personal Information in the following limited circumstances:
 ----------------------------------------------------------------------------------------
@@ -562,11 +562,11 @@ Support Representatives will have read-only access to the ID assigned to the use
 
 In addition, Proctorio may collect and transfer the following information to Germany, Serbia and/or the US when deemed necessary for operating of business or hired service(s):
 
-* IP address
-* User agent details
-* Administrator account information
-* Assessment platform functionality information
-* Client billing information
+*   IP address
+*   User agent details
+*   Administrator account information
+*   Assessment platform functionality information
+*   Client billing information
 
 This data is transferred depending on what is required by the Institution, its users, and what is deemed necessary for the operation of Proctorio's website(s), application(s), and/or Services.
 
@@ -597,9 +597,9 @@ Audio, video, and screen recordings and images collected during the exam attempt
 
 For Proctorio's technical support channels, Proctorio's Support Representatives are trained on privacy and security and are instructed not to ask for information beyond what FERPA defines as "Directory Information". This information may include:
 
-* Student full name
-* Campus email address
-* Institution name
+*   Student full name
+*   Campus email address
+*   Institution name
 
 To better ensure FERPA and privacy and security compliance, Proctorio's employees receive periodic privacy and security training. Proctorio has been SOC 2, ISO 27001 and ISO 27018 certified.
 
@@ -618,7 +618,7 @@ Proctorio does not use any client-side tracking pixels such as those used for ad
 Your Rights
 -----------
 
-* * Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
+*   *   Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
 
 As a data processor
 -------------------
@@ -671,16 +671,16 @@ Rights of California, Colorado, Nevada, Virginia, Utah, and Connecticut Resident
 
 If you are a resident of California, Colorado, Nevada, Virginia, Utah, or Connecticut you have other rights under your respective states' consumer privacy statutes:
 
-* **Right of Access**: You can access your collected Personal Information by contacting us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Right to Correct, Update, or Delete**: You can correct, update or request deletion of your Personal Information by contacting the Institution. Proctorio can't make changes to or delete your information in some situations where it is necessary for us to maintain your information, for example if Proctorio needs the Information to comply with applicable law or based on other exceptions as indicated in the CCPA.
-* **Right to Request Disclosure of Information Collected**: Please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection) to request further information about the categories of Personal Information we have collected about you, where we collected your Personal Information, and for what purpose Proctorio uses your Personal Information.
-* **Right to Disclosure of Information Sold or Shared and Right to Opt-Out of the Sale or Sharing of your Personal Information**: You have the right to know what information of yours we have sold, the categories of Personal Information shared, and you have the right to opt-out of any sale or sharing of your information. **Proctorio does not sell or share any of your information**. If you have any questions about these rights, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Rights to Disclosure of Sensitive Information (California)**: If you are a resident of California, you have a right to know how we collect, process, and disclose "Sensitive Personal Information" (SPI). SPI includes highly sensitive data such as: social security number; driver's license; passport number; financial account information and log-in credentials; precise geolocation data; genetic data; and ethnic origin. Proctorio collects and processes the following types of SPI: financial account information and log-in credentials for certain users. Proctorio uses the SPI to provide the Services and to be able to process payment. If you have any questions about the disclosure of SPI, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Right to Retention Details (California)**: If you are a resident of California, you have a right to know the length of time we retain each category of Personal Information or if that is not feasible, the criteria we will use to determine that retention period. Proctorio shall store Customer Content for the Retention Period.
-* The "Retention Period" shall be the period indicated on the Order Form. If no period is indicated on the Order Form, then the Retention Period shall equal six (6) months. You may request from Proctorio a modification to the Retention Period, which Proctorio may accept or reject in its sole and absolute discretion. If Company accepts a modification request to the Retention Period, then such modification shall be only for future exams. In no event shall the Retention Period be modified for any reason for exams that have already been administered. Institutions shall inform test-takers of the Retention Period and of any modifications thereto. If you have any questions about this right, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Right to Disclosure of Targeted Advertising and Right to Opt-Out (Colorado, Virginia, Utah, and Connecticut)**: If you are a resident of Colorado or Virginia, you have the right to know what information of yours we have processed for targeted advertising. Proctorio does not engage in targeted advertising. If you have any questions about these rights, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Right to Disclosure of Profiling (Colorado, Virginia, Utah, and Connecticut)**: If you are a resident of Colorado Virginia, Utah, or Connecticut, you have the right to know what information of yours we have processed for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. If you have any questions about these rights or wish to opt-out of any processing of your Personal Information as it relates to profiling, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
-* **Right to Non-Discrimination**: Proctorio does not and will not discriminate against you if you exercise your rights under the CCPA, CPA, NPICICA, VCDPA, UCPA, and CTDPA. **Proctorio does not sell your Personal Information**.
+*   **Right of Access**: You can access your collected Personal Information by contacting us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Right to Correct, Update, or Delete**: You can correct, update or request deletion of your Personal Information by contacting the Institution. Proctorio can't make changes to or delete your information in some situations where it is necessary for us to maintain your information, for example if Proctorio needs the Information to comply with applicable law or based on other exceptions as indicated in the CCPA.
+*   **Right to Request Disclosure of Information Collected**: Please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection) to request further information about the categories of Personal Information we have collected about you, where we collected your Personal Information, and for what purpose Proctorio uses your Personal Information.
+*   **Right to Disclosure of Information Sold or Shared and Right to Opt-Out of the Sale or Sharing of your Personal Information**: You have the right to know what information of yours we have sold, the categories of Personal Information shared, and you have the right to opt-out of any sale or sharing of your information. **Proctorio does not sell or share any of your information**. If you have any questions about these rights, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Rights to Disclosure of Sensitive Information (California)**: If you are a resident of California, you have a right to know how we collect, process, and disclose "Sensitive Personal Information" (SPI). SPI includes highly sensitive data such as: social security number; driver's license; passport number; financial account information and log-in credentials; precise geolocation data; genetic data; and ethnic origin. Proctorio collects and processes the following types of SPI: financial account information and log-in credentials for certain users. Proctorio uses the SPI to provide the Services and to be able to process payment. If you have any questions about the disclosure of SPI, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Right to Retention Details (California)**: If you are a resident of California, you have a right to know the length of time we retain each category of Personal Information or if that is not feasible, the criteria we will use to determine that retention period. Proctorio shall store Customer Content for the Retention Period.
+*   The "Retention Period" shall be the period indicated on the Order Form. If no period is indicated on the Order Form, then the Retention Period shall equal six (6) months. You may request from Proctorio a modification to the Retention Period, which Proctorio may accept or reject in its sole and absolute discretion. If Company accepts a modification request to the Retention Period, then such modification shall be only for future exams. In no event shall the Retention Period be modified for any reason for exams that have already been administered. Institutions shall inform test-takers of the Retention Period and of any modifications thereto. If you have any questions about this right, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Right to Disclosure of Targeted Advertising and Right to Opt-Out (Colorado, Virginia, Utah, and Connecticut)**: If you are a resident of Colorado or Virginia, you have the right to know what information of yours we have processed for targeted advertising. Proctorio does not engage in targeted advertising. If you have any questions about these rights, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Right to Disclosure of Profiling (Colorado, Virginia, Utah, and Connecticut)**: If you are a resident of Colorado Virginia, Utah, or Connecticut, you have the right to know what information of yours we have processed for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. If you have any questions about these rights or wish to opt-out of any processing of your Personal Information as it relates to profiling, please contact us at [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection).
+*   **Right to Non-Discrimination**: Proctorio does not and will not discriminate against you if you exercise your rights under the CCPA, CPA, NPICICA, VCDPA, UCPA, and CTDPA. **Proctorio does not sell your Personal Information**.
 
 When you contact us regarding any of your rights under the CCPA, CPRA, CPA, NPICICA, VCDPA, UCPA, and CTDPA we will verify your identity before we provide any information.
 
@@ -690,9 +690,9 @@ via email: [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protecti
 
 Only you, or someone legally authorized to act on your behalf (if in California, the person legally authorized to act on your behalf must be registered with the California Secretary of State), may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must provide sufficient information that allows Proctorio to reasonably verify you are the person about whom Proctorio collected Personal Information or an authorized representative, which may include the users:
 
-1. * First name
-2. * Last name
-3. * Email address
+1.  *   First name
+2.  *   Last name
+3.  *   Email address
 
 Describe your request with sufficient detail that allows Proctorio to properly understand, evaluate, and respond to your request.
 
@@ -776,16 +776,16 @@ Institutions have the ability to export data stored by Proctorio. Test-takers mu
 
 If using the contact details please provide your:
 
-* Full name
-* Email address
-* Any other relevant information that may be required to address your request
+*   Full name
+*   Email address
+*   Any other relevant information that may be required to address your request
 
 Please note that such marketing opt-out does not impact any transaction or operation notices that Proctorio may need to send you. Note that Proctorio does not market to test takers.
 
 Protecting your Information
 ---------------------------
 
-* For test-taker Information that Proctorio processes for an Institution, Proctorio implements Zero-Knowledge Encryption, which means only Institution-approved representatives can decrypt and review encrypted exam recordings.
+*   For test-taker Information that Proctorio processes for an Institution, Proctorio implements Zero-Knowledge Encryption, which means only Institution-approved representatives can decrypt and review encrypted exam recordings.
 
 Security
 --------
@@ -806,9 +806,9 @@ Proctorio is SOC 2, ISO 27001, and ISO 27018 certified and conducts regular secu
 
 Test-taker audio, video, and screen recordings and images are secured and processed through three layers of encryption:
 
-1. The Zero-Knowledge Encryption layer is used when information is stored and is secured using AES-GCM.
-2. Transmission into the datacenter is over TLSv1.2 / TLSv1.3 and, if the client supports it, Proctorio uses Perfect Forward Secrecy (PFS).
-3. Proctorio is SOC 2, ISO 27001, and ISO 27018 certified.
+1.  The Zero-Knowledge Encryption layer is used when information is stored and is secured using AES-GCM.
+2.  Transmission into the datacenter is over TLSv1.2 / TLSv1.3 and, if the client supports it, Proctorio uses Perfect Forward Secrecy (PFS).
+3.  Proctorio is SOC 2, ISO 27001, and ISO 27018 certified.
 
 Security systems breach notification
 
@@ -834,9 +834,9 @@ All Proctorio proctors are full-time Proctorio employees and are required to go 
 Data storage
 ------------
 
-* Proctorio stores test-taker Personal Information, including all audio, video, and screen recordings and images, which Proctorio collects during the exam for the minimum amount of time required by the Institution or by applicable law.
-* The length and location of how and where data for operations is stored varies and is dependent on applicable law and the information itself.
-* Whether Proctorio is acting as the data controller or the data processor all Personal Information is encrypted in transmission and at rest.
+*   Proctorio stores test-taker Personal Information, including all audio, video, and screen recordings and images, which Proctorio collects during the exam for the minimum amount of time required by the Institution or by applicable law.
+*   The length and location of how and where data for operations is stored varies and is dependent on applicable law and the information itself.
+*   Whether Proctorio is acting as the data controller or the data processor all Personal Information is encrypted in transmission and at rest.
 
 As a data processor
 -------------------
@@ -845,14 +845,14 @@ Proctorio retains data as directed by an Institution related to the Services tha
 
 Proctorio retains test-taker De-Identified Data to track usage, allow Proctorio to process billing for Institutions that are Proctorio's customers, and track global usage of Proctorio's Services. "De-Identified Data" (or pseudonymized) includes:
 
-* A pseudonymous hash of the User ID
-* A pseudonymous hash of the Exam ID
-* A pseudonymous hash of the Course ID (when applicable)
-* Approximate location where the exam was taken
-* Exam attempt number
-* Length of exam
-* Date of exam
-* Anonymous telemetry events
+*   A pseudonymous hash of the User ID
+*   A pseudonymous hash of the Exam ID
+*   A pseudonymous hash of the Course ID (when applicable)
+*   Approximate location where the exam was taken
+*   Exam attempt number
+*   Length of exam
+*   Date of exam
+*   Anonymous telemetry events
 
 As a data controller 
 ---------------------
