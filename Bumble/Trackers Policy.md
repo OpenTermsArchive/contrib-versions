@@ -27,13 +27,13 @@ We may also use other technologies such as web beacons (also called pixels), tra
 
 Cookies last for different periods of time depending on which of the following two categories they fall into:
 
-* Session cookies – these cookies only last as long as your online session, and expire when you close your browser (for example Internet Explorer or Safari).
-* Persistent cookies – these cookies stay on your device after your browser has been closed. These cookies are used when we need to remember you for more than one browsing session, for instance to remember your preferences from one visit to the next.
+*   Session cookies – these cookies only last as long as your online session, and expire when you close your browser (for example Internet Explorer or Safari).
+*   Persistent cookies – these cookies stay on your device after your browser has been closed. These cookies are used when we need to remember you for more than one browsing session, for instance to remember your preferences from one visit to the next.
 
 If you would like to obtain more information about the third parties placing Cookies on our Websites and App (including a link to their privacy practices) and their lifespan you can access this information:
 
-* in your profile settings for the Bumble App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS or under “Advertising Preferences” on Android); and
-* in the “Manage Cookies” section linked at the bottom of our Websites.
+*   in your profile settings for the Bumble App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS or under “Advertising Preferences” on Android); and
+*   in the “Manage Cookies” section linked at the bottom of our Websites.
 
 3\. How can you refuse or withdraw consent to the use of Cookies?
 -----------------------------------------------------------------
@@ -42,9 +42,9 @@ If you would like to obtain more information about the third parties placing Coo
 
 If you would like to know more about Cookies and how to refuse Cookies, the following websites provide useful information:
 
-* [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-* [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-* [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
+*   [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+*   [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+*   [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
 **When using our App**, you are also in control and may refuse to accept Cookies at any time by managing your Privacy Preferences in your Profile in the App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS and Android).
 
