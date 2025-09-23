@@ -2,7 +2,7 @@ Last Revised: September 2024
 
 PLEASE READ THESE TERMS OF USE CAREFULLY. ACCESSING OR USING THIS WEBSITE CONSTITUTES ACCEPTANCE OF THESE TERMS OF USE (“TERMS”), AS SUCH MAY BE REVISED BY STARBUCKS FROM TIME TO TIME, AND IS A BINDING AGREEMENT BETWEEN THE USER (“USER” OR “YOU”) AND STARBUCKS CORPORATION (D/B/A STARBUCKS COFFEE COMPANY) GOVERNING THE USE OF THE WEBSITE. IF USER DOES NOT AGREE TO THESE TERMS, USER SHOULD NOT ACCESS OR USE THIS WEBSITE. THESE TERMS CONTAIN DISCLAIMERS AND OTHER PROVISIONS THAT LIMIT OUR LIABILITY TO USER.
 
-These Terms apply to your access to, and use of, all or part of any website, web application, or mobile application of Starbucks Corporation or its subsidiaries and affiliated companies (collectively, “Starbucks”), including [starbucks.com](https://starbucks.com/), [starbucksreserve.com](https://starbucksreserve.com/), [starbuckscoffeegear.com](https://starbuckscoffeegear.com/), [stories.starbucks.com](https://stories.starbucks.com/) and any other site, mobile application, web application, or online service where these Terms are posted (collectively, the “Sites”). These Terms do not alter in any way the terms or conditions of any other agreement you may have with Starbucks for products, services or otherwise.
+These Terms apply to your access to, and use of, all or part of any website, web application, or mobile application of Starbucks Corporation or its subsidiaries and affiliated companies (collectively, “Starbucks”), including [starbucks.com](https://starbucks.com/), [starbucksreserve.com](https://starbucksreserve.com/), [starbuckscoffeegear.com](https://starbuckscoffeegear.com/), [stories.starbucks.com](https://stories.starbucks.com/), [www.shop.starbucks.com](https://www.shop.starbucks.com/) and any other site, mobile application, web application, or online service where these Terms are posted (collectively, the “Sites”). These Terms do not alter in any way the terms or conditions of any other agreement you may have with Starbucks for products, services or otherwise.
 
 In the event there is any conflict or inconsistency between these Terms and any other terms of use that appear on the Sites, these Terms will govern. However, if you navigate away from the Sites to a third-party site, you may be subject to alternative terms and conditions of use, as may be specified on such site, which will govern your use of that site.
 
@@ -17,7 +17,8 @@ You agree that we may provide notices, disclosures and amendments to these Terms
 
 See also:  
 [Starbucks® Rewards Terms](https://www.starbucks.com/rewards/terms)  
-[Starbucks Card Terms](https://www.starbucks.com/terms/manage-gift-cards)
+[Starbucks Card Terms](https://www.starbucks.com/terms/manage-gift-cards)  
+[Starbucks® Shop Terms](https://www.starbucks.com/shop/terms)
 
 **  
 Eligibility**
