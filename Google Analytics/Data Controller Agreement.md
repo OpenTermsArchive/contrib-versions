@@ -15,15 +15,15 @@ Please do not accept these Controller Terms if you are a reseller. These Control
 
 #### On this page
 
-* [Introduction](#introduction)
-* [Definitions and Interpretation](#definitions)
-* [Application of these Controller Terms](#application)
-* [Roles and Restrictions on Processing](#roles-restrictions)
-* [Liability](#liability)
-* [Effect of Controller Terms](#effect)
-* [Changes to these Controller Terms](#changes)
-* [Additional Provisions](#additional-provisions)
-* [Appendix 1: Additional Terms for Applicable Data Protection Legislation](#appendix)
+*   [Introduction](#introduction)
+*   [Definitions and Interpretation](#definitions)
+*   [Application of these Controller Terms](#application)
+*   [Roles and Restrictions on Processing](#roles-restrictions)
+*   [Liability](#liability)
+*   [Effect of Controller Terms](#effect)
+*   [Changes to these Controller Terms](#changes)
+*   [Additional Provisions](#additional-provisions)
+*   [Appendix 1: Additional Terms for Applicable Data Protection Legislation](#appendix)
 
 * * *
 
@@ -65,11 +65,11 @@ In these Controller Terms:
 
 “**Google**” means:
 
-* (a) where a Google Entity is party to the Agreement, that Google Entity.
-* (b) where the Agreement is between Customer and a third party reseller and:
-    * (i) the third party reseller is organised in North America or in another region outside Europe, the Middle East, Africa, Asia and Oceania, Google LLC (formerly known as Google Inc.);
-    * (ii) the third party reseller is organised in Europe, the Middle East or Africa, Google Ireland Limited; or
-    * (iii) the third party reseller is organised in Asia and Oceania, Google Asia Pacific Pte. Ltd.
+*   (a) where a Google Entity is party to the Agreement, that Google Entity.
+*   (b) where the Agreement is between Customer and a third party reseller and:
+    *   (i) the third party reseller is organised in North America or in another region outside Europe, the Middle East, Africa, Asia and Oceania, Google LLC (formerly known as Google Inc.);
+    *   (ii) the third party reseller is organised in Europe, the Middle East or Africa, Google Ireland Limited; or
+    *   (iii) the third party reseller is organised in Asia and Oceania, Google Asia Pacific Pte. Ltd.
 
 “**Google Entity**” means Google LLC, Google Ireland Limited or any other Affiliate of Google LLC.
 
@@ -81,8 +81,8 @@ In these Controller Terms:
 
 “**Processor Terms**” means:
 
-* (a) where Google is a party to the Agreement, the processor terms available at https://business.safety.google/adsprocessorterms; or
-* (b) where the Agreement is between Customer and a third party reseller, such terms reflecting a controller-processor relationship (if any) as agreed between the Customer and the third party reseller.
+*   (a) where Google is a party to the Agreement, the processor terms available at https://business.safety.google/adsprocessorterms; or
+*   (b) where the Agreement is between Customer and a third party reseller, such terms reflecting a controller-processor relationship (if any) as agreed between the Customer and the third party reseller.
 
 “**Swiss FDPA**” means the Federal Data Protection Act of 19 June 1992 (Switzerland).
 
@@ -136,9 +136,9 @@ These Controller Terms will apply from the Terms Effective Date and continue whi
 
 Subject to Section 4.4 (End Controllers), each:
 
-* (a) is an independent controller of Controller Personal Data;
-* (b) will individually determine the purposes and means of its processing of Controller Personal Data; and
-* (c) will comply with the obligations applicable to it under the Applicable Data Protection Legislation regarding the processing of Controller Personal Data.
+*   (a) is an independent controller of Controller Personal Data;
+*   (b) will individually determine the purposes and means of its processing of Controller Personal Data; and
+*   (c) will comply with the obligations applicable to it under the Applicable Data Protection Legislation regarding the processing of Controller Personal Data.
 
 ### 4.2 Restrictions on Processing
 
@@ -165,10 +165,10 @@ Customer acknowledges Google has published information about how Google uses inf
 
 If Google is:
 
-* (a) party to the Agreement and the Agreement is governed by the laws of:
-    * (i) a state of the United States of America, then, regardless of anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (and therefore, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the Applicable Data Protection Legislation); or
-    * (ii) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement; or
-* (b) not party to the Agreement, to the extent permitted by applicable law, Google will not be liable for Customer’s lost revenues or indirect, special, incidental, consequential, exemplary or punitive damages, even if Google or its Affiliates have been advised of, knew or should have known that such damages do not satisfy a remedy. Google’s (and its Affiliates’) total cumulative liability to Customer or any other party for any loss or damages resulting from claims, damages or actions arising out of or relating to these Controller Terms will not exceed $500 (USD).
+*   (a) party to the Agreement and the Agreement is governed by the laws of:
+    *   (i) a state of the United States of America, then, regardless of anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (and therefore, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the Applicable Data Protection Legislation); or
+    *   (ii) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement; or
+*   (b) not party to the Agreement, to the extent permitted by applicable law, Google will not be liable for Customer’s lost revenues or indirect, special, incidental, consequential, exemplary or punitive damages, even if Google or its Affiliates have been advised of, knew or should have known that such damages do not satisfy a remedy. Google’s (and its Affiliates’) total cumulative liability to Customer or any other party for any loss or damages resulting from claims, damages or actions arising out of or relating to these Controller Terms will not exceed $500 (USD).
 
 * * *
 
@@ -192,10 +192,10 @@ These Controller Terms will not replace or affect any Processor Terms. For the a
 
 Google may change these Controller Terms if the change:
 
-* (a) reflects a change in the name or form of a legal entity;
-* (b) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency, or reflects Google’s adoption of an Alternative Transfer Solution (as defined in Appendix 1A);
-* (c) is as described in Section 7.2 (Changes to URLs) or
-* (d) does not: (i) otherwise seek to alter the categorization of the parties as controllers of Controller Personal Data under the Applicable Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
+*   (a) reflects a change in the name or form of a legal entity;
+*   (b) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency, or reflects Google’s adoption of an Alternative Transfer Solution (as defined in Appendix 1A);
+*   (c) is as described in Section 7.2 (Changes to URLs) or
+*   (d) does not: (i) otherwise seek to alter the categorization of the parties as controllers of Controller Personal Data under the Applicable Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
 
 ### 7.2 Changes to URLs
 
@@ -277,9 +277,9 @@ This Appendix 1A will only apply to the extent that the European Data Protection
 
 “**Adequate Country**” means:
 
-* (a)for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under the EU GDPR;
-* (b)for data processed subject to the UK GDPR: the UK, or a country or territory recognized as ensuring adequate protection under the UK GDPR and the Data Protection Act 2018; and/or
-* (c)for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is: (i) included in the list of the states whose legislation ensures adequate protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
+*   (a)for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under the EU GDPR;
+*   (b)for data processed subject to the UK GDPR: the UK, or a country or territory recognized as ensuring adequate protection under the UK GDPR and the Data Protection Act 2018; and/or
+*   (c)for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is: (i) included in the list of the states whose legislation ensures adequate protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
 
 “**Alternative Transfer Solution**” means a solution, other than the Controller SCCs, that enables the lawful transfer of personal data to a third country in accordance with the European Data Protection Legislation, for example a data protection framework recognized as ensuring that participating entities provide adequate protection.
 
@@ -311,34 +311,34 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 
 4.2 **Alternative Transfer Solution**.
 
-* (a) If Google has adopted an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution; and (ii) paragraph 5 (Controller SCCs) of this Appendix 1A will not apply to such Restricted European Transfers.
-* (b) If Google has not adopted, or informs Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then paragraph 5 (Controller SCCs) of this Appendix 1A will apply to such Restricted European Transfers.
+*   (a) If Google has adopted an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution; and (ii) paragraph 5 (Controller SCCs) of this Appendix 1A will not apply to such Restricted European Transfers.
+*   (b) If Google has not adopted, or informs Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then paragraph 5 (Controller SCCs) of this Appendix 1A will apply to such Restricted European Transfers.
 
 4.3 **Onward Transfer Provisions.**
 
-* (a) **Application of Paragraph 4.3**. Paragraphs 4.3(b) (Use of Data Provider Personal Data) and 4.3(c) (Protection of Data Provider Personal Data) of this Appendix 1A will only apply to the extent that:
-    * (i) a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
-    * (ii) the Data Provider or its Affiliate is certified under an Alternative Transfer Solution; and
-    * (iii) the Data Provider notifies the Data Recipient of such Alternative Transfer Solution certification in writing.
-* (b) **Use of Data Provider Personal Data**.
-    * (i) To the extent that an applicable Alternative Transfer Solution includes an onward transfer principle, then pursuant to such onward transfer principles under the relevant Alternative Transfer Solution, the Data Recipient will only use Data Provider Personal Data in a manner consistent with the consent provided by the relevant Controller Data Subjects.
-    * (ii) To the extent the Data Provider fails to obtain consent from the relevant Controller Data Subjects as required under the Agreement, the Data Recipient will not be in breach of paragraph 4.3(b)(i) if it uses Data Provider Personal Data consistent with the required consent.
-* (c) **Protection of Data Provider Personal Data**.
-    * (i) The Data Recipient will provide a level of protection for Data Provider Personal Data that is at least equivalent to that required under the applicable Alternative Transfer Solution.
-    * (ii) If the Data Recipient determines that it cannot comply with paragraph 4.3(c)(i), it will: (A) notify the Data Provider in writing; and (B) either cease processing the Data Provider Personal Data or take reasonable and appropriate steps to remedy such non-compliance.
-* (d) **Alternative Transfer Solution Adoption and Certification**. Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks). This paragraph 4.3(d) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii).
+*   (a) **Application of Paragraph 4.3**. Paragraphs 4.3(b) (Use of Data Provider Personal Data) and 4.3(c) (Protection of Data Provider Personal Data) of this Appendix 1A will only apply to the extent that:
+    *   (i) a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
+    *   (ii) the Data Provider or its Affiliate is certified under an Alternative Transfer Solution; and
+    *   (iii) the Data Provider notifies the Data Recipient of such Alternative Transfer Solution certification in writing.
+*   (b) **Use of Data Provider Personal Data**.
+    *   (i) To the extent that an applicable Alternative Transfer Solution includes an onward transfer principle, then pursuant to such onward transfer principles under the relevant Alternative Transfer Solution, the Data Recipient will only use Data Provider Personal Data in a manner consistent with the consent provided by the relevant Controller Data Subjects.
+    *   (ii) To the extent the Data Provider fails to obtain consent from the relevant Controller Data Subjects as required under the Agreement, the Data Recipient will not be in breach of paragraph 4.3(b)(i) if it uses Data Provider Personal Data consistent with the required consent.
+*   (c) **Protection of Data Provider Personal Data**.
+    *   (i) The Data Recipient will provide a level of protection for Data Provider Personal Data that is at least equivalent to that required under the applicable Alternative Transfer Solution.
+    *   (ii) If the Data Recipient determines that it cannot comply with paragraph 4.3(c)(i), it will: (A) notify the Data Provider in writing; and (B) either cease processing the Data Provider Personal Data or take reasonable and appropriate steps to remedy such non-compliance.
+*   (d) **Alternative Transfer Solution Adoption and Certification**. Information about Google and/or its Affiliates’ adoption of, or certification under, any Alternative Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks). This paragraph 4.3(d) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii).
 
 ### 5\. Controller SCCs
 
 5.1 **Transfers of European Controller Personal Data to Customer**. To the extent that:
 
-* (a) Google transfers European Controller Personal Data to Customer; and
-* (b) the transfer is a Restricted European Transfer, Customer as data importer will be deemed to have entered into the Controller SCCs with Google Ireland Limited (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller SCCs.
+*   (a) Google transfers European Controller Personal Data to Customer; and
+*   (b) the transfer is a Restricted European Transfer, Customer as data importer will be deemed to have entered into the Controller SCCs with Google Ireland Limited (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller SCCs.
 
 5.2 **Transfers of UK Controller Personal Data to Customer.** To the extent that:
 
-* (a) Google transfers UK Controller Personal Data to Customer; and
-* (b) the transfer is a Restricted European Transfer, Customer as data importer will be deemed to have entered into the Controller SCCs with Google LLC (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller SCCs.
+*   (a) Google transfers UK Controller Personal Data to Customer; and
+*   (b) the transfer is a Restricted European Transfer, Customer as data importer will be deemed to have entered into the Controller SCCs with Google LLC (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller SCCs.
 
 5.3 **Transfers of European Controller Personal Data to Google**. The parties acknowledge that to the extent Customer transfers European Controller Personal Data to Google, the Controller SCCs are not required because the address of Google Ireland Limited (the applicable Google End Controller) is in an Adequate Country and such transfers are Permitted European Transfers. This does not affect Google’s obligations under paragraph 4.1 (Restricted European Transfers) of this Appendix 1A.
 
@@ -346,22 +346,22 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 
 5.5 **Contacting Google; Customer Information**.
 
-* (a) Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time.
-* (b) Customer acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organizational measures implemented by the data importer. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
+*   (a) Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time.
+*   (b) Customer acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organizational measures implemented by the data importer. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
 
 5.6 **Responding to Data Subject Enquiries**. The applicable data importer will be responsible for responding to enquiries from data subjects and the supervisory authority concerning the processing of applicable Controller Personal Data by the data importer.
 
 5.7 **Data Deletion on Termination**. To the extent that:
 
-* (a) Google LLC acts as data importer and Customer acts as data exporter under the Controller SCCs; and
-* (b) Customer terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs, then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent Controller of such data, as well as the nature and functionality of the Measurement Services).
+*   (a) Google LLC acts as data importer and Customer acts as data exporter under the Controller SCCs; and
+*   (b) Customer terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs, then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent Controller of such data, as well as the nature and functionality of the Measurement Services).
 
 ### 6\. Liability if Controller SCCs Apply.
 
 If Controller SCCs apply under paragraph 5 (Controller SCCs) of this Appendix 1A, then the total combined liability of:
 
-* (a) Google, Google LLC and Google Ireland Limited towards Customer; and
-* (b) Customer towards Google, Google LLC and Google Ireland Limited, under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 5 (Liability). Clause 12 of the Controller SCCs will not affect the previous sentence.
+*   (a) Google, Google LLC and Google Ireland Limited towards Customer; and
+*   (b) Customer towards Google, Google LLC and Google Ireland Limited, under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 5 (Liability). Clause 12 of the Controller SCCs will not affect the previous sentence.
 
 ### 7\. Third-Party Beneficiaries
 
@@ -385,13 +385,13 @@ Google may offer and Customer may enable certain in-product settings, configurat
 
 In this Appendix 1B:
 
-* (a) “**Customer Personal Data**” means personal data that is processed by Google on behalf of Customer in Google’s provision of Measurement Services.
-* (b) “**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by other US State Privacy Laws), when disclosed by one party to the other.
-* (c) “**Instructions**” means, collectively, Customer’s instructions to Google to process Customer Personal Data only in accordance with US State Privacy Laws: (a) to provide the RDP Services and any related technical support; (b) as further specified through Customer’s use of the RDP Services (including in the settings and other functionality of such RDP Services) and any related technical support; (c) as documented in the form of the Agreement, including this Appendix 1B; (d) as further documented in any other written instructions given by Customer and acknowledged by Google as constituting instructions for purposes of this Appendix 1B; and (e) to process Customer Personal Data as permitted under US State Privacy Laws for service providers and processors.
-* (d) “**RDP Services**” means Controller Services operating under Restricted Data Processing.
-* (e) **"Term"** means the period from the Terms Effective Date until the end of Google's provision of the Measurement Services under the Agreement.
-* (f) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
-* (g) Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
+*   (a) “**Customer Personal Data**” means personal data that is processed by Google on behalf of Customer in Google’s provision of Measurement Services.
+*   (b) “**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by other US State Privacy Laws), when disclosed by one party to the other.
+*   (c) “**Instructions**” means, collectively, Customer’s instructions to Google to process Customer Personal Data only in accordance with US State Privacy Laws: (a) to provide the RDP Services and any related technical support; (b) as further specified through Customer’s use of the RDP Services (including in the settings and other functionality of such RDP Services) and any related technical support; (c) as documented in the form of the Agreement, including this Appendix 1B; (d) as further documented in any other written instructions given by Customer and acknowledged by Google as constituting instructions for purposes of this Appendix 1B; and (e) to process Customer Personal Data as permitted under US State Privacy Laws for service providers and processors.
+*   (d) “**RDP Services**” means Controller Services operating under Restricted Data Processing.
+*   (e) **"Term"** means the period from the Terms Effective Date until the end of Google's provision of the Measurement Services under the Agreement.
+*   (f) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, “**service provider**”, and “**share**” as used in this Appendix 1B have the meanings given in the US State Privacy Laws.
+*   (g) Customer is solely liable for its compliance with each of the US State Privacy Laws in its use of Google services, including Restricted Data Processing.
 
 3\. **US State Privacy Law Terms (under Restricted Data Processing).**
 
@@ -399,14 +399,14 @@ In this Appendix 1B:
 
 3.1.1
 
-* (a) Processor and Controller Responsibilities. The parties acknowledge and agree that:
-    * (i) Paragraph 7 (Subject Matter and Details of the Data Processing Under US State Privacy Laws) of this Appendix 1B describes the subject matter and details of the processing of Customer Personal Data;
-    * (ii) Google is a service provider and processor of Customer Personal Data under the US State Privacy Laws; and
-    * (iii) Customer is a controller or processor, as applicable, of Customer Personal Data under the US State Privacy Laws
-* (b) Processor Customers. If Customer is a processor:
-    * (i) Customer warrants on an ongoing basis that the relevant controller has authorized: (A) the Instructions, (B) Customer’s appointment of Google as another processor, and (C) Google’s engagement of subcontractors as described in paragraph 3.6 (Subcontractors) of this Appendix 1B;
-    * (ii) Customer will immediately forward to the relevant controller any notice provided by Google under paragraphs 3.3.2(a) (Incident Notification) and 3.6 (Subcontractors); and
-    * (iii) Customer may make available to the relevant controller any information made available by Google under paragraphs 3.3.3(c) (Customer’s Audit Rights), and 3.6 (Subcontractors).
+*   (a) Processor and Controller Responsibilities. The parties acknowledge and agree that:
+    *   (i) Paragraph 7 (Subject Matter and Details of the Data Processing Under US State Privacy Laws) of this Appendix 1B describes the subject matter and details of the processing of Customer Personal Data;
+    *   (ii) Google is a service provider and processor of Customer Personal Data under the US State Privacy Laws; and
+    *   (iii) Customer is a controller or processor, as applicable, of Customer Personal Data under the US State Privacy Laws
+*   (b) Processor Customers. If Customer is a processor:
+    *   (i) Customer warrants on an ongoing basis that the relevant controller has authorized: (A) the Instructions, (B) Customer’s appointment of Google as another processor, and (C) Google’s engagement of subcontractors as described in paragraph 3.6 (Subcontractors) of this Appendix 1B;
+    *   (ii) Customer will immediately forward to the relevant controller any notice provided by Google under paragraphs 3.3.2(a) (Incident Notification) and 3.6 (Subcontractors); and
+    *   (iii) Customer may make available to the relevant controller any information made available by Google under paragraphs 3.3.3(c) (Customer’s Audit Rights), and 3.6 (Subcontractors).
 
 3.1.2 Customer’s Instructions. By entering into this Appendix 1B, Customer instructs Google to process Customer Personal Data only in accordance with the Instructions.
 
@@ -420,64 +420,64 @@ In this Appendix 1B:
 
 3.3.1 Google’s Security Measures and Assistance.
 
-* (a) Google’s Security Measures. Google will implement and maintain technical and organizational measures to protect Customer Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access (“**Security Measures**”). The Security Measures include measures: (i) to encrypt personal data; (ii) to help ensure the ongoing confidentiality, integrity, availability and resilience of Google’s systems and services; (iii) to help restore timely access to personal data following an incident; and (iv) for regular testing of effectiveness. Google may update or modify the Security Measures from time to time, provided that such updates and modifications do not result in the degradation of the overall security of the Customer Personal Data.
-* (b) Access and Compliance. Google will ensure that all persons authorized to process Customer Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
-* (c) Google’s Security Assistance. Google will (taking into account the nature of the processing of Customer Personal Data and the information available to Google) assist Customer in meeting Customer’s (or, where Customer is a processor, the relevant controller’s) obligations in respect of security of personal data and personal data breaches, including Customer’s (or, where Customer is a processor, the relevant controller’s) obligations relating to security of personal data and personal data breaches under the US State Privacy Laws, by:
-    * (i) implementing and maintaining the Security Measures in accordance with paragraph 3.3.1(a) (Google’s Security Measures);
-    * (ii) complying with the terms of paragraph 3.3.2 (Data Incidents); and
-    * (iii) providing Customer with the rights granted under paragraph 3.3.3(c) (Customer’s Audit Rights).
+*   (a) Google’s Security Measures. Google will implement and maintain technical and organizational measures to protect Customer Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access (“**Security Measures**”). The Security Measures include measures: (i) to encrypt personal data; (ii) to help ensure the ongoing confidentiality, integrity, availability and resilience of Google’s systems and services; (iii) to help restore timely access to personal data following an incident; and (iv) for regular testing of effectiveness. Google may update or modify the Security Measures from time to time, provided that such updates and modifications do not result in the degradation of the overall security of the Customer Personal Data.
+*   (b) Access and Compliance. Google will ensure that all persons authorized to process Customer Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+*   (c) Google’s Security Assistance. Google will (taking into account the nature of the processing of Customer Personal Data and the information available to Google) assist Customer in meeting Customer’s (or, where Customer is a processor, the relevant controller’s) obligations in respect of security of personal data and personal data breaches, including Customer’s (or, where Customer is a processor, the relevant controller’s) obligations relating to security of personal data and personal data breaches under the US State Privacy Laws, by:
+    *   (i) implementing and maintaining the Security Measures in accordance with paragraph 3.3.1(a) (Google’s Security Measures);
+    *   (ii) complying with the terms of paragraph 3.3.2 (Data Incidents); and
+    *   (iii) providing Customer with the rights granted under paragraph 3.3.3(c) (Customer’s Audit Rights).
 
 3.3.2 Data Incidents
 
-* (a) Incident Notification. If Google becomes aware of a Data Incident (as defined below), Google will: (i) notify Customer of the Data Incident without undue delay; and (ii) promptly take reasonable steps to minimize harm and secure Customer Personal Data. In this Appendix 1B, “**Data Incident**” means a breach of Google’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data on systems managed by or otherwise controlled by Google. “Data Incidents” will not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
-* (b) Delivery of Notification. Google will deliver its notification of any Data Incident to the email address designated by Customer, via the user interface of the RDP Services or such other means provided by Google, to receive certain notifications from Google relating to this Appendix 1B (“**Notification Email Address**”) or, at Google’s discretion (including if Customer has not provided a Notification Email Address), by other direct communication (for example, phone call, email, or an in-person meeting). Customer is solely responsible for providing the Notification Email Address and ensuring that the Notification Email Address is current and valid.
-* (c) Third Party Notifications. Customer is solely responsible for complying with incident notification laws applicable to Customer and fulfilling any third party notification obligations related to any Data Incident.
-* (d) No Acknowledgement of Fault by Google. Google’s notification of or response to a Data Incident under this paragraph 3.3.2 (Data Incidents) will not be construed as an acknowledgement by Google of any fault or liability with respect to the Data Incident.
+*   (a) Incident Notification. If Google becomes aware of a Data Incident (as defined below), Google will: (i) notify Customer of the Data Incident without undue delay; and (ii) promptly take reasonable steps to minimize harm and secure Customer Personal Data. In this Appendix 1B, “**Data Incident**” means a breach of Google’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data on systems managed by or otherwise controlled by Google. “Data Incidents” will not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
+*   (b) Delivery of Notification. Google will deliver its notification of any Data Incident to the email address designated by Customer, via the user interface of the RDP Services or such other means provided by Google, to receive certain notifications from Google relating to this Appendix 1B (“**Notification Email Address**”) or, at Google’s discretion (including if Customer has not provided a Notification Email Address), by other direct communication (for example, phone call, email, or an in-person meeting). Customer is solely responsible for providing the Notification Email Address and ensuring that the Notification Email Address is current and valid.
+*   (c) Third Party Notifications. Customer is solely responsible for complying with incident notification laws applicable to Customer and fulfilling any third party notification obligations related to any Data Incident.
+*   (d) No Acknowledgement of Fault by Google. Google’s notification of or response to a Data Incident under this paragraph 3.3.2 (Data Incidents) will not be construed as an acknowledgement by Google of any fault or liability with respect to the Data Incident.
 
 3.3.3 Customer’s Security Responsibilities and Assessment.
 
-* (a) Customer’s Security Responsibilities. Customer agrees that, without prejudice to Google’s obligations under paragraphs 3.3.1 (Google’s Security Measures and Assistance) and 3.3.2 (Data Incidents):
-    * (i) Customer is responsible for its use of the RDP Services, including: (1) making appropriate use of the RDP Services to ensure a level of security appropriate to the risk in respect of Customer Personal Data; and (2) securing the account authentication credentials, systems and devices Customer uses to access the RDP Services; and
-    * (ii) Google has no obligation to protect Customer Personal Data that Customer elects to store or transfer outside of Google’s and its subcontractors’ systems.
-* (b) Customer’s Security Assessment. Customer acknowledges and agrees that the Security Measures implemented and maintained by Google as set out in paragraph 3.3.1(a) (Google’s Security Measures) provide a level of security appropriate to the risk in respect of Customer Personal Data, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of the processing of Customer Personal Data as well as the risks to individuals.
-* (c) Customer’s Audit Rights.
-    * (i) Customer may conduct an audit to verify Google’s compliance with its obligations under this Appendix 1B by requesting and reviewing (1) a certificate issued for security verification reflecting the outcome of an audit conducted by a third party auditor (e.g., SOC 2 Type II or ISO/IEC 27001 certification or a comparable certification or other security certification of an audit conducted by a third-party auditor agreed by Customer and Google) within 12 months as of the date of Customer’s request and (2) any other information Google determines is reasonably necessary for Customer to verify such compliance.
-    * (ii) Alternatively, Google may, at its sole discretion and in response to a request by Customer, initiate a third-party audit to verify Google’s compliance with its obligations under this Appendix 1B. During such an audit, Google will make available to the third-party auditor all information necessary to demonstrate such compliance. Where Customer requests such an audit, Google may charge a fee (based on Google’s reasonable costs) for any audit. Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such audit. Customer will be responsible for any fees charged by any third-party auditor appointed by Customer to execute any such audit.
-    * (iii) Nothing in this Appendix 1B will require Google either to disclose to Customer or its third-party auditor, or to allow Customer or its third-party auditor to access:
-        * (1) any data of any other customer of a Google Entity;
-        * (2) any Google Entity’s internal accounting or financial information;
-        * (3) any trade secret of a Google Entity;
-        * (4) any information that, in Google's reasonable opinion, could: (A) compromise the security of any Google Entity’s systems or premises; or (B) cause any Google Entity to breach its obligations under the US State Privacy Laws or its security and/or privacy obligations to Customer or any third party; or
-        * (5) any information that Customer or its third party auditor seeks to access for any reason other than the good faith fulfillment of Customer’s obligations under the US State Privacy Laws.
+*   (a) Customer’s Security Responsibilities. Customer agrees that, without prejudice to Google’s obligations under paragraphs 3.3.1 (Google’s Security Measures and Assistance) and 3.3.2 (Data Incidents):
+    *   (i) Customer is responsible for its use of the RDP Services, including: (1) making appropriate use of the RDP Services to ensure a level of security appropriate to the risk in respect of Customer Personal Data; and (2) securing the account authentication credentials, systems and devices Customer uses to access the RDP Services; and
+    *   (ii) Google has no obligation to protect Customer Personal Data that Customer elects to store or transfer outside of Google’s and its subcontractors’ systems.
+*   (b) Customer’s Security Assessment. Customer acknowledges and agrees that the Security Measures implemented and maintained by Google as set out in paragraph 3.3.1(a) (Google’s Security Measures) provide a level of security appropriate to the risk in respect of Customer Personal Data, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of the processing of Customer Personal Data as well as the risks to individuals.
+*   (c) Customer’s Audit Rights.
+    *   (i) Customer may conduct an audit to verify Google’s compliance with its obligations under this Appendix 1B by requesting and reviewing (1) a certificate issued for security verification reflecting the outcome of an audit conducted by a third party auditor (e.g., SOC 2 Type II or ISO/IEC 27001 certification or a comparable certification or other security certification of an audit conducted by a third-party auditor agreed by Customer and Google) within 12 months as of the date of Customer’s request and (2) any other information Google determines is reasonably necessary for Customer to verify such compliance.
+    *   (ii) Alternatively, Google may, at its sole discretion and in response to a request by Customer, initiate a third-party audit to verify Google’s compliance with its obligations under this Appendix 1B. During such an audit, Google will make available to the third-party auditor all information necessary to demonstrate such compliance. Where Customer requests such an audit, Google may charge a fee (based on Google’s reasonable costs) for any audit. Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such audit. Customer will be responsible for any fees charged by any third-party auditor appointed by Customer to execute any such audit.
+    *   (iii) Nothing in this Appendix 1B will require Google either to disclose to Customer or its third-party auditor, or to allow Customer or its third-party auditor to access:
+        *   (1) any data of any other customer of a Google Entity;
+        *   (2) any Google Entity’s internal accounting or financial information;
+        *   (3) any trade secret of a Google Entity;
+        *   (4) any information that, in Google's reasonable opinion, could: (A) compromise the security of any Google Entity’s systems or premises; or (B) cause any Google Entity to breach its obligations under the US State Privacy Laws or its security and/or privacy obligations to Customer or any third party; or
+        *   (5) any information that Customer or its third party auditor seeks to access for any reason other than the good faith fulfillment of Customer’s obligations under the US State Privacy Laws.
 
 3.4 **Assistance with Impact Assessments.** Google will (taking into account the nature of the processing and the information available to Google) assist Customer in meeting Customer’s (or, where Customer is a processor, the relevant controller’s) obligations relating to data protection impact assessments and prior regulatory consultations to the extent required under the US State Privacy Laws by:
 
-* (a) providing the Security Documentation;
-* (b) providing the information contained in the Agreement (including this Appendix 1B); and
-* (c) providing or otherwise making available, in accordance with Google’s standard practices, other materials concerning the nature of the RDP Services and the processing of Customer Personal Data (for example, help center materials).
+*   (a) providing the Security Documentation;
+*   (b) providing the information contained in the Agreement (including this Appendix 1B); and
+*   (c) providing or otherwise making available, in accordance with Google’s standard practices, other materials concerning the nature of the RDP Services and the processing of Customer Personal Data (for example, help center materials).
 
 3.5 **Data Subject Rights.**
 
 3.5.1 Responses to Data Subject Requests. If Google receives a request from a data subject in relation to Customer Personal Data, Customer authorizes Google to, and Google hereby notifies Customer that it will:
 
-* (a) respond directly to the data subject’s request in accordance with the standard functionality of a tool (if any) made available by a Google Entity to data subjects that enables Google to respond directly and in a standardized manner to certain requests from data subjects in relation to Customer Personal Data (for example, online advertising settings or an opt-out browser plugin) (“**Data Subject Tool**”) (if the request is made via a Data Subject Tool); or
-* (b) advise the data subject to submit their request to Customer, and Customer will be responsible for responding to such request (if the request is not made via a Data Subject Tool).
+*   (a) respond directly to the data subject’s request in accordance with the standard functionality of a tool (if any) made available by a Google Entity to data subjects that enables Google to respond directly and in a standardized manner to certain requests from data subjects in relation to Customer Personal Data (for example, online advertising settings or an opt-out browser plugin) (“**Data Subject Tool**”) (if the request is made via a Data Subject Tool); or
+*   (b) advise the data subject to submit their request to Customer, and Customer will be responsible for responding to such request (if the request is not made via a Data Subject Tool).
 
 3.5.2 Google’s Data Subject Request Assistance. Google will assist Customer in fulfilling its (or, where Customer is a processor, the relevant controller’s) obligations under the US State Privacy Laws to respond to requests for exercising the data subject’s rights, in all cases taking into account the nature of the processing of Customer Personal Data and by:
 
-* (a) providing the functionality of the RDP Services;
-* (b) complying with the commitments set out in paragraph 3.5.1 (Responses to Data Subject Requests); and
-* (c) if applicable to the RDP Services, making available Data Subject Tools.
+*   (a) providing the functionality of the RDP Services;
+*   (b) complying with the commitments set out in paragraph 3.5.1 (Responses to Data Subject Requests); and
+*   (c) if applicable to the RDP Services, making available Data Subject Tools.
 
 3.5.3 Rectification. If Customer becomes aware that any Customer Personal Data is inaccurate or outdated, Customer will be responsible for rectifying or deleting that data if required by the US State Privacy Laws, including (where available) by using the functionality of the RDP Services.
 
 3.6 **Subcontractors.**
 
-* (a) Customer generally authorizes Google to engage other entities as subcontractors in connection with the provision of the RDP Services. When engaging any subcontractor, Google will:
-    * (i) ensure via a written contract that: (1) the subcontractor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it, and does so in accordance with the Agreement (including this Appendix 1B); and (2) if the processing of Customer Personal Data is subject to the US State Privacy Laws, ensure that the data protection obligations in this Appendix 1B are imposed on the subcontractor;
-    * (ii) when engaging any new subcontractors, provide notice of such new subcontractors where required by US State Privacy Laws, and, where required by US State Privacy Laws, further provide an opportunity for Customer to object to such subcontractors; and
-    * (iii) remain fully liable for all obligations subcontracted to, and all acts and omissions of, the subcontractor.
-* (b) Customer may object to any new subcontractor by terminating the Agreement for convenience immediately upon written notice to Google, on condition that Customer provides such notice within 90 days of being informed of the engagement of the new subcontractor as described in paragraph 3.6(a)(ii) herein.
+*   (a) Customer generally authorizes Google to engage other entities as subcontractors in connection with the provision of the RDP Services. When engaging any subcontractor, Google will:
+    *   (i) ensure via a written contract that: (1) the subcontractor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it, and does so in accordance with the Agreement (including this Appendix 1B); and (2) if the processing of Customer Personal Data is subject to the US State Privacy Laws, ensure that the data protection obligations in this Appendix 1B are imposed on the subcontractor;
+    *   (ii) when engaging any new subcontractors, provide notice of such new subcontractors where required by US State Privacy Laws, and, where required by US State Privacy Laws, further provide an opportunity for Customer to object to such subcontractors; and
+    *   (iii) remain fully liable for all obligations subcontracted to, and all acts and omissions of, the subcontractor.
+*   (b) Customer may object to any new subcontractor by terminating the Agreement for convenience immediately upon written notice to Google, on condition that Customer provides such notice within 90 days of being informed of the engagement of the new subcontractor as described in paragraph 3.6(a)(ii) herein.
 
 3.7 **Contacting Google.** Customer may contact Google in relation to the exercise of its rights under this Appendix 1B via the methods described at [privacy.google.com/businesses/processorsupport](https://support.google.com/policies/troubleshooter/9009584) or via such other means as may be provided by Google from time to time.
 
@@ -489,22 +489,22 @@ In this Appendix 1B:
 
 5.1 With respect to Customer Personal Data processed under Restricted Data Processing and to the extent that CCPA applies to such processing of Customer Personal Data, Google will act as Customer’s service provider, and as such, unless otherwise permitted for service providers under CCPA, as reasonably determined by Google:
 
-* (a) Google will not sell or share any Customer Personal Data that it obtains from Customer in connection with the Agreement;
-* (b) Google will not retain, use or disclose Customer Personal Data (including outside of the direct business relationship between Google and Customer), other than for a business purpose under the CCPA on behalf of Customer and the specific purpose of performing the RDP Services, as further described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp/), as updated from time to time;
-* (c) Google will not combine Customer Personal Data that Google receives from, or on behalf of, Customer with (i) personal information that Google receives from, or on behalf of, another person or persons or (ii) personal information collected from Google’s own interaction with a consumer, as further described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp/) except to the extent permitted under CCPA;
-* (d) Google will process such Customer Personal Data for the specific purpose of performing the RDP Services, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
-* (e) Google will allow audits to verify Google’s compliance with its obligations under this Appendix 1B in accordance with paragraph 3.3.3(c) (Customer’s Audit Rights) herein;
-* (f) Google will notify Customer if Google makes a determination that it can no longer meet its obligations under the CCPA. This paragraph 5.1(f) does not reduce either party’s rights and obligations elsewhere in the Agreement;
-* (g) If Customer reasonably believes that Google is processing Customer Personal Data in an unauthorized manner, Customer has the right to notify Google of such belief via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport), and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
-* (h) Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
+*   (a) Google will not sell or share any Customer Personal Data that it obtains from Customer in connection with the Agreement;
+*   (b) Google will not retain, use or disclose Customer Personal Data (including outside of the direct business relationship between Google and Customer), other than for a business purpose under the CCPA on behalf of Customer and the specific purpose of performing the RDP Services, as further described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp/), as updated from time to time;
+*   (c) Google will not combine Customer Personal Data that Google receives from, or on behalf of, Customer with (i) personal information that Google receives from, or on behalf of, another person or persons or (ii) personal information collected from Google’s own interaction with a consumer, as further described in supporting documentation available at [business.safety.google/rdp](https://business.safety.google/rdp/) except to the extent permitted under CCPA;
+*   (d) Google will process such Customer Personal Data for the specific purpose of performing the RDP Services, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
+*   (e) Google will allow audits to verify Google’s compliance with its obligations under this Appendix 1B in accordance with paragraph 3.3.3(c) (Customer’s Audit Rights) herein;
+*   (f) Google will notify Customer if Google makes a determination that it can no longer meet its obligations under the CCPA. This paragraph 5.1(f) does not reduce either party’s rights and obligations elsewhere in the Agreement;
+*   (g) If Customer reasonably believes that Google is processing Customer Personal Data in an unauthorized manner, Customer has the right to notify Google of such belief via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport), and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
+*   (h) Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
 
 5.2 With respect to Customer Personal Data processed without Restricted Data Processing enabled, and to the extent that CCPA applies to the processing of Customer Personal Data:
 
-* (a) Google will process such Customer Personal Data for the specific purpose of performing the Measurement Services, as applicable, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
-* (b) Google will allow audits to verify Google’s compliance with its obligations under this Appendix 1B in accordance with paragraph 3.3.3(c) (Customer’s Audit Rights) herein;
-* (c) Google will notify Customer if Google makes a determination that it can no longer meet its obligations under the CCPA;
-* (d) If Customer reasonably believes that Google is processing Customer Personal Data in an unauthorized manner, Customer has the right to notify Google of such belief via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport), and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
-* (e) Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
+*   (a) Google will process such Customer Personal Data for the specific purpose of performing the Measurement Services, as applicable, as further described in the Agreement and supporting documentation (e.g., help center articles), or as otherwise permitted under the CCPA, and the parties agree that Customer is making such Customer Personal Data available to Google for such purposes;
+*   (b) Google will allow audits to verify Google’s compliance with its obligations under this Appendix 1B in accordance with paragraph 3.3.3(c) (Customer’s Audit Rights) herein;
+*   (c) Google will notify Customer if Google makes a determination that it can no longer meet its obligations under the CCPA;
+*   (d) If Customer reasonably believes that Google is processing Customer Personal Data in an unauthorized manner, Customer has the right to notify Google of such belief via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport), and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
+*   (e) Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
 
 6\. **Changes to this Appendix 1B.**
 
@@ -530,8 +530,8 @@ Customer Personal Data may include the types of personal data described under th
 
 Customer Personal Data will concern the following categories of data subjects:
 
-* data subjects about whom Google collects personal data in its provision of the RDP Services; and/or
-* data subjects about whom personal data is transferred to Google in connection with the RDP Services by, at the direction of, or on behalf of Customer.
+*   data subjects about whom Google collects personal data in its provision of the RDP Services; and/or
+*   data subjects about whom personal data is transferred to Google in connection with the RDP Services by, at the direction of, or on behalf of Customer.
 
 Depending on the nature of the RDP Services, these data subjects may include individuals: (a) to whom online advertising has been, or will be, directed; (b) who have visited specific websites or applications in respect of which Google provides the RDP Services; and/or (c) who are customers or users of Customer’s products or services.
 
