@@ -5,9 +5,9 @@ Manufacturer Center policy requirements
 
 There are several program requirements for using Manufacturer Center.
 
-* Only manufacturers may set up a Manufacturer Center account. We define manufacturers as brand manufacturers, brand owners or retailers of own-brand products who both manufacture products and own the licensing rights.
-* Manufacturer Center is not available to retailers who sell products exclusively from other manufacturers
-* The account requestor has to be verified as an employee of the parent company
+*   Only manufacturers may set up a Manufacturer Center account. We define manufacturers as brand manufacturers, brand owners or retailers of own-brand products who both manufacture products and own the licensing rights.
+*   Manufacturer Center is not available to retailers who sell products exclusively from other manufacturers
+*   The account requestor has to be verified as an employee of the parent company
 
 If you are a retailer not selling your own brands and would like to list items for sale in Shopping ads, you may do so using the [Merchant Center](https://merchants.google.com/). Note that separate [policy requirements apply](https://support.google.com/merchants/answer/6149970) to use of the Merchant Center.
 
@@ -19,11 +19,11 @@ Additionally, data uploaded to the Manufacturer Center may not include certain c
 
 >   Products that may be deemed as capitalising on or lacking reasonable sensitivity towards a natural disaster, conflict, death or other tragic event
 > 
-> * **_Examples:_** Appearing to profit from a tragic event with no discernible benefit to the victims
+> *   **_Examples:_** Appearing to profit from a tragic event with no discernible benefit to the victims
 > 
 >  Products that may be interpreted as trading in or derived from threatened or extinct species
 > 
-> * _**Examples:**_ Sale of shark fins or shark cartilage supplements, elephant ivory, tiger skins, rhino horn, dolphin oil and elkhorn coral, or products containing these ingredients 
+> *   _**Examples:**_ Sale of shark fins or shark cartilage supplements, elephant ivory, tiger skins, rhino horn, dolphin oil and elkhorn coral, or products containing these ingredients 
 
 * * *
 
@@ -39,7 +39,7 @@ Additionally, data uploaded to the Manufacturer Center may not include certain c
 > 
 >  Products described as knock-off, replica, imitation, clone, faux, fake, mirror image or similar terms when referring to a brand name in an attempt to pass themselves off as genuine products of the brand owner
 > 
-> * **_Examples:_** non-authentic products that have brand name labels or logos
+> *   **_Examples:_** non-authentic products that have brand name labels or logos
 
 * * *
 
@@ -49,19 +49,19 @@ We value diversity and respect for others, and we strive to avoid offending user
 
 >   Content that incites hatred against, promotes discrimination of, or disparages an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity or other characteristic that is associated with systemic discrimination or marginalisation.
 > 
-> * **_Examples:_** Content promoting hate groups or hate group paraphernalia; content that encourages others to believe that a person or group is inhuman, inferior or worthy of being hated.
+> *   **_Examples:_** Content promoting hate groups or hate group paraphernalia; content that encourages others to believe that a person or group is inhuman, inferior or worthy of being hated.
 > 
 >  Content that harasses, intimidates or bullies an individual or group of individuals
 > 
-> * _**Examples**:_ Content that singles out someone for abuse or harassment
+> *   _**Examples**:_ Content that singles out someone for abuse or harassment
 > 
 >  Content that threatens or advocates for harm to oneself or others
 > 
-> * **_Examples:_** Content advocating suicide, anorexia or other self-harm; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying or condoning violence against others
+> *   **_Examples:_** Content advocating suicide, anorexia or other self-harm; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying or condoning violence against others
 > 
 >  Content that seeks to exploit or humiliate others
 > 
-> * _**Examples:**_ Extortion, blackmail
+> *   _**Examples:**_ Extortion, blackmail
 
 * * *
 
@@ -79,7 +79,7 @@ We value diversity and respect for others, and we strive to avoid offending user
 > 
 >  Using false claims or claims that entice the user with an improbable result (even if this result is possible) as the likely outcome that a user can expect
 > 
-> * _**Examples:**_ 'Miracle cures' for medical ailments, extreme weight loss products, body altering capacities of weight or muscle gain products, permanent or excessive claims around fertility, misleading implementation of government or other agency names' endorsement or mention of products.
+> *   _**Examples:**_ 'Miracle cures' for medical ailments, extreme weight loss products, body altering capacities of weight or muscle gain products, permanent or excessive claims around fertility, misleading implementation of government or other agency names' endorsement or mention of products.
 
 * * *
 
@@ -87,11 +87,11 @@ We value diversity and respect for others, and we strive to avoid offending user
 
 >    Text, image, audio or video of graphic sexual acts intended to arouse
 > 
-> * **_Examples:_** Hardcore pornography; sex acts such as genital, anal and oral sex; masturbation; cartoon porn or hentai
+> *   **_Examples:_** Hardcore pornography; sex acts such as genital, anal and oral sex; masturbation; cartoon porn or hentai
 > 
 >  Content promoting underage, non-consensual or other illegal sexual themes, whether simulated or real
 > 
-> * **_Examples:_** Rape, incest, bestiality, necrophilia, lolita or teen-themed pornography
+> *   **_Examples:_** Rape, incest, bestiality, necrophilia, lolita or teen-themed pornography
 
 * * *
 
@@ -99,8 +99,8 @@ We value diversity and respect for others, and we strive to avoid offending user
 
 >   Promotions containing violent language, gruesome imagery or graphic images or accounts of physical trauma
 > 
-> * **_Examples:_** Crime scene or accident photos, execution photos
+> *   **_Examples:_** Crime scene or accident photos, execution photos
 > 
 >  Promotions containing gratuitous portrayals of or sale of bodily fluids, human waste or human tissue
 > 
-> * _**Examples:**_ Blood, guts, gore, sexual fluids, human eggs or sperm
+> *   _**Examples:**_ Blood, guts, gore, sexual fluids, human eggs or sperm
