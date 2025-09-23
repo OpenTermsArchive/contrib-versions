@@ -94,16 +94,16 @@ We use information from or about you for a variety of purposes detailed below. T
 
 We use the information we collect:
 
-* To provide, maintain, improve, test and enhance our Services and to develop new products and services;
-* To train, develop, and improve the artificial intelligence, machine learning, and models that we use to support our Services;
-* To personalize your experience with our Services such as by providing tailored content and recommendations;
-* To understand and analyze how you use our Services and develop new products, services, features, and functionality;
-* To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
-* To generate anonymized, aggregate data containing only de-identified, non-personal information that we may use for any legal purpose;
-* To facilitate transactions and payments;
-* To find and prevent fraud and respond to trust and safety issues that may arise;
-* For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
-* For other purposes for which we provide specific notice at the time the information is collected.
+*   To provide, maintain, improve, test and enhance our Services and to develop new products and services;
+*   To train, develop, and improve the artificial intelligence, machine learning, and models that we use to support our Services;
+*   To personalize your experience with our Services such as by providing tailored content and recommendations;
+*   To understand and analyze how you use our Services and develop new products, services, features, and functionality;
+*   To communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support;
+*   To generate anonymized, aggregate data containing only de-identified, non-personal information that we may use for any legal purpose;
+*   To facilitate transactions and payments;
+*   To find and prevent fraud and respond to trust and safety issues that may arise;
+*   For compliance purposes, including enforcing our Terms of Service or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency; and
+*   For other purposes for which we provide specific notice at the time the information is collected.
 
 Legal Bases For Processing European Information
 -----------------------------------------------
