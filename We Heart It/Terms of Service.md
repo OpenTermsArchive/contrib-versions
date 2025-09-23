@@ -11,10 +11,10 @@ Please note that Part C of these Terms of Service, which apply to U.S. Users and
 
 These Terms of Service are divided into four parts that apply as follows:
 
-* **Part A: Terms Applicable to All Users** apply to all users of the Services.
-* **Part B: Terms for Purchase of Premium or Subscription Services** apply in addition to Part A of the Terms of Service if you purchase a paid application or subscribe to premium features or services on the Services.
-* **Part C: Additional Terms for U.S. Users and Users Outside Europe** apply in addition to Part A and Part B of the Terms of Service for users that use our Services from the United States and elsewhere outside Europe.
-* **Part D: Additional Terms for European Users** apply in addition to Part A and Part B of the Terms of Service for users that use our Services from a location in Europe.
+*   **Part A: Terms Applicable to All Users** apply to all users of the Services.
+*   **Part B: Terms for Purchase of Premium or Subscription Services** apply in addition to Part A of the Terms of Service if you purchase a paid application or subscribe to premium features or services on the Services.
+*   **Part C: Additional Terms for U.S. Users and Users Outside Europe** apply in addition to Part A and Part B of the Terms of Service for users that use our Services from the United States and elsewhere outside Europe.
+*   **Part D: Additional Terms for European Users** apply in addition to Part A and Part B of the Terms of Service for users that use our Services from a location in Europe.
 
 #### Table of Contents
 
@@ -112,26 +112,26 @@ _Creation of a User Account_. In order to create a user account for our Services
 
 _Your User Account Responsibilities._ You are responsible for maintaining your account, securing your account information, and using it for a proper purpose consistent with these terms and applicable law:
 
-* _Accuracy of User Account Information._ You are responsible for providing complete and accurate information when registering for a User Account, and for keeping such information current.
-* _Security of User Account._ You are responsible for maintaining the security of the User Account and any password and username associated therewith. You agree to:
+*   _Accuracy of User Account Information._ You are responsible for providing complete and accurate information when registering for a User Account, and for keeping such information current.
+*   _Security of User Account._ You are responsible for maintaining the security of the User Account and any password and username associated therewith. You agree to:
 
-* keep your password secure and confidential
-* not allow anyone else to use your username or password to access our Services
-* employ sufficient anti-virus protection to meet your requirements
-* maintain means external to our Services for reconstruction/backup of any lost data. We are not responsible for backing up your account information.
+*   keep your password secure and confidential
+*   not allow anyone else to use your username or password to access our Services
+*   employ sufficient anti-virus protection to meet your requirements
+*   maintain means external to our Services for reconstruction/backup of any lost data. We are not responsible for backing up your account information.
 
-* _No Improper Creation of User Account._ You also agree not to create User Accounts for the purpose of abusing the functionality of our Services, to seek to pass yourself off as another user, to violate any applicable laws, or to otherwise violate these Terms of Service. You agree that you will not solicit, collect or use the login credentials of other We Heart It users.
-* _Responsibility for Posted Content._ You are responsible for all Content that is Posted to or through the Services using the User Account we provide to you, as well as any other activity originating from the User Account we provide to you.
-* _Responsibility for Your Interaction with Other Users._ You are solely responsible for your interaction with other users of the Services, whether online or offline. We reserve the right, but have no obligation, to monitor or become involved in disputes between you and other users. We recommend that you exercise common sense and your best judgment when interacting with others, including when you submit or post Content, or any personal information or other information.
+*   _No Improper Creation of User Account._ You also agree not to create User Accounts for the purpose of abusing the functionality of our Services, to seek to pass yourself off as another user, to violate any applicable laws, or to otherwise violate these Terms of Service. You agree that you will not solicit, collect or use the login credentials of other We Heart It users.
+*   _Responsibility for Posted Content._ You are responsible for all Content that is Posted to or through the Services using the User Account we provide to you, as well as any other activity originating from the User Account we provide to you.
+*   _Responsibility for Your Interaction with Other Users._ You are solely responsible for your interaction with other users of the Services, whether online or offline. We reserve the right, but have no obligation, to monitor or become involved in disputes between you and other users. We recommend that you exercise common sense and your best judgment when interacting with others, including when you submit or post Content, or any personal information or other information.
 
 _User Account Cancelation or Termination._ Generally, a User Account will be considered active until we receive a user request to deactivate or delete it. You may cancel any User Account registered to you at any time by following the instructions [here](https://help.weheartit.com/hc/en-us/articles/360038620312-Delete-my-account).
 
 _Our Reservation of Rights Related to User Account Access and Use of the Services_. We reserve the right to suspend or terminate your use of the Services and to suspend or terminate the Services itself, including but not limited to:
 
-* _Denial of Registration._ We reserve the right to deny registration of any individual.
-* _Termination, Suspension, and Denial of User Account Access._ We reserve the right to terminate, suspend, or deny access to our Services to any individual, and to modify or terminate the Services for any reason, with or without notice and at any time.
-* _Ownership of Your User Account and Username._ Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in the User Account we provide to you. We reserve the right to force forfeiture of or reassign any username for any reason, with or without notice and at any time.
-* _Suspension of Services Without Refund or Compensation._ We reserve the right to stop offering and/or supporting the Services or any part of the Services at any time either permanently or temporarily, for any reason, with or without notice to you, at which point your use of the Services or any part thereof will be automatically terminated or suspended. We will not provide refunds, benefits or other compensation to users in connection with our exercise of any of our rights hereunder.
+*   _Denial of Registration._ We reserve the right to deny registration of any individual.
+*   _Termination, Suspension, and Denial of User Account Access._ We reserve the right to terminate, suspend, or deny access to our Services to any individual, and to modify or terminate the Services for any reason, with or without notice and at any time.
+*   _Ownership of Your User Account and Username._ Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in the User Account we provide to you. We reserve the right to force forfeiture of or reassign any username for any reason, with or without notice and at any time.
+*   _Suspension of Services Without Refund or Compensation._ We reserve the right to stop offering and/or supporting the Services or any part of the Services at any time either permanently or temporarily, for any reason, with or without notice to you, at which point your use of the Services or any part thereof will be automatically terminated or suspended. We will not provide refunds, benefits or other compensation to users in connection with our exercise of any of our rights hereunder.
 
 _Access Termination for Repeat Infringement._ We will terminate a user’s access to the Services if, under appropriate circumstances, the user is determined to be a repeat infringer. We also reserve the right to decide whether Content violates these Terms of Service for reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, excessive commercial promotion (i.e., “Spam”), excessive length, or any of the Prohibited Actions described at Section VIII below. We may at any time, without prior notice and at our sole discretion, remove such Content and/or terminate a user’s account for submitting such material in violation of these Terms of Service.
 
@@ -211,22 +211,22 @@ _Persistence of User-Licensed Content._ Upon termination of your Account or upon
 
 You agree that you will not:
 
-* Take any actions with respect to your use of our Services that are unlawful, false, misleading, harmful, threatening, embarrassing, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, deceptive, fraudulent, invasive of another’s privacy, hateful, or contains explicit or graphic descriptions, accounts or photographic depictions of sexual or violent acts;
-* Post any Content that victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of any impermissible classification, including, but not limited to, Posting discriminatory, racist or xenophobic Content;
-* Post any Content that includes images or videos portraying realistic images of people or animals being killed or maimed, shot, stabbed, tortured or injured;
-* Post any Content that infringes any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any party;
-* Post any Content that you do not have a right to Post under any law or under any contractual or fiduciary relationship;
-* Post any Content that encourages excessive consumption of alcohol or illegal substances, or encourages minors to consume alcohol or smoke cigarettes;
-* Post web links to any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of our Services, or any system or computer from which our visitors and users access our Services;
-* use any robot, bot, spider, script, crawler, scraper, caching or other automatic device, process or means to access our Services for any purpose, including monitoring or copying any of the material on our Services, or in violation of these Terms of Services or applicable law;
-* interfere with or disrupt our Services or servers or networks linked to our Services, or disobey any requirements, procedures, policies, or regulations of networks linked to our Services;
-* Violate any applicable local, state, national, or international law;
-* Post any Content that includes images, videos, or other recordings of children, without first obtaining the prior, express consent of their parent or guardian to Post such Content;
-* Post any Content, or take any other actions with respect to your use of our Services, that would constitute, or would otherwise encourage, criminal conduct or conduct that could give rise to civil liability;
-* Send unsolicited messages to users (spam) for commercial purposes;
-* Use our Services for commercial purposes without our prior written consent;
-* Solicit other guests of our Services to become members of any commercial on-line service or other group or organization without first obtaining our express written consent; or
-* Post any Content that encourages thinspiration, depression, suicide, self-harm, eating disorder, drug use or any behavior that can negatively influence other users.
+*   Take any actions with respect to your use of our Services that are unlawful, false, misleading, harmful, threatening, embarrassing, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, deceptive, fraudulent, invasive of another’s privacy, hateful, or contains explicit or graphic descriptions, accounts or photographic depictions of sexual or violent acts;
+*   Post any Content that victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of any impermissible classification, including, but not limited to, Posting discriminatory, racist or xenophobic Content;
+*   Post any Content that includes images or videos portraying realistic images of people or animals being killed or maimed, shot, stabbed, tortured or injured;
+*   Post any Content that infringes any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any party;
+*   Post any Content that you do not have a right to Post under any law or under any contractual or fiduciary relationship;
+*   Post any Content that encourages excessive consumption of alcohol or illegal substances, or encourages minors to consume alcohol or smoke cigarettes;
+*   Post web links to any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of our Services, or any system or computer from which our visitors and users access our Services;
+*   use any robot, bot, spider, script, crawler, scraper, caching or other automatic device, process or means to access our Services for any purpose, including monitoring or copying any of the material on our Services, or in violation of these Terms of Services or applicable law;
+*   interfere with or disrupt our Services or servers or networks linked to our Services, or disobey any requirements, procedures, policies, or regulations of networks linked to our Services;
+*   Violate any applicable local, state, national, or international law;
+*   Post any Content that includes images, videos, or other recordings of children, without first obtaining the prior, express consent of their parent or guardian to Post such Content;
+*   Post any Content, or take any other actions with respect to your use of our Services, that would constitute, or would otherwise encourage, criminal conduct or conduct that could give rise to civil liability;
+*   Send unsolicited messages to users (spam) for commercial purposes;
+*   Use our Services for commercial purposes without our prior written consent;
+*   Solicit other guests of our Services to become members of any commercial on-line service or other group or organization without first obtaining our express written consent; or
+*   Post any Content that encourages thinspiration, depression, suicide, self-harm, eating disorder, drug use or any behavior that can negatively influence other users.
 
 **IX. Miscellaneous**
 
@@ -340,12 +340,12 @@ _New Jersey Residents._ Notwithstanding any other terms herein, if you are a New
 
 _DMCA Take-Down Notices._ If you are a copyright owner or an agent thereof and believe that any Content Posted on or through our Services infringes upon your copyrights, you may submit a written notification pursuant to the Digital Millennium Copyright Act (**“DMCA”**) by providing our Copyright Agent (identified at **Super Basic Copyright Agent** below) with the following information:
 
-* a signature (physical or electronic) of the owner or a person who has been authorized by the owner of the allegedly infringed right to act on their behalf
-* identification of the copyrighted work or other intellectual property that has allegedly been infringed
-* identify the material on our Services that alleged to be infringing, with enough detail so that we are able to locate it (such as providing a URL or URLs for website-Posted Content)
-* a statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
-* information reasonably sufficient to permit We Heart It to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted and
-* a statement that the information provided in the notice is accurate, and under penalty of perjury, that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner.
+*   a signature (physical or electronic) of the owner or a person who has been authorized by the owner of the allegedly infringed right to act on their behalf
+*   identification of the copyrighted work or other intellectual property that has allegedly been infringed
+*   identify the material on our Services that alleged to be infringing, with enough detail so that we are able to locate it (such as providing a URL or URLs for website-Posted Content)
+*   a statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+*   information reasonably sufficient to permit We Heart It to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted and
+*   a statement that the information provided in the notice is accurate, and under penalty of perjury, that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner.
 
 See 17 U.S.C 512(c)(3) for further detail. To expedite our ability to process your request, such written notice may be sent to our designated agent via our online copyright complaint form below. You will need a We Heart It account in order to utilize this tool:
 
@@ -369,10 +369,10 @@ _DMCA Notices Only._ Only DMCA notices should go to the Copyright Agent; any oth
 
 _Counter-Notices._ If you believe that your Content that has been removed from our Services is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to Post and use the Content in the manner so Posted or used, you may send a counter-notice containing the following information to our Copyright Agent using the contact information set forth above. The counter notice form is available <%= link\_to "here" , image\_path("DMCACounternoticeForm.pdf"), class: "text-underline" %> for download and should be completed in full.
 
-* your physical or electronic signature
-* a description of the Content that has been removed and the location at which the content appeared before it was removed
-* a statement under penalty of perjury that you have a good faith belief that the Content was removed as a result of mistake or a misidentification of the Content and
-* your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court in the State of New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+*   your physical or electronic signature
+*   a description of the Content that has been removed and the location at which the content appeared before it was removed
+*   a statement under penalty of perjury that you have a good faith belief that the Content was removed as a result of mistake or a misidentification of the Content and
+*   your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court in the State of New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
 
 _Counter-Notice Process._ If a counter-notice is received by our copyright agent, We Heart It may send a copy of the counter-notice to the original complaining party informing such person that We Heart It may reinstate the removed Content in ten (10) business days. Unless the copyright owner files an action seeking a court order against the Content provider, member or user, the removed Content may (in We Heart It’s discretion) be reinstated on our Services by We Heart It in ten (10) to fourteen (14) business days or more after receipt of the counter-notice.
 
