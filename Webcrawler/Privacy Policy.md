@@ -12,61 +12,61 @@ Table of contents and summary
 
 [**_Key Terms_**](#key-terms)
 
-* Relevant definitions used throughout this Privacy Policy can be found [here](#key-terms).
+*   Relevant definitions used throughout this Privacy Policy can be found [here](#key-terms).
 
 [**_Personal Information we collect about you_**](#personal-information)
 
-* The Personal Information we process about you depends on how you interact with our Services (as defined below) but can include (1) information you provide to us directly, and (2) information we collect through automated data collection or tracking technologies.
-* Additionally, third parties may use automated data collection or tracking technologies within our Services to collect information about you.
-* [More information can be found here](#personal-information).
+*   The Personal Information we process about you depends on how you interact with our Services (as defined below) but can include (1) information you provide to us directly, and (2) information we collect through automated data collection or tracking technologies.
+*   Additionally, third parties may use automated data collection or tracking technologies within our Services to collect information about you.
+*   [More information can be found here](#personal-information).
 
 [**_How and why we use your Personal Information_**](#personal-information-how-why)
 
-* We use your Personal Information to understand how you use our Services, to provide our Services to you, maintain records of our interactions with you, to respond to your enquiries, to notify you of changes to our Services, to serve advertisements to you on our Services or for marketing purposes, and to allow you to participate in any interactive features of our Services. We may also use your Personal Information to enforce our legal rights and inform our business strategy. [More detailed information can be found here](#personal-information-how-why).
+*   We use your Personal Information to understand how you use our Services, to provide our Services to you, maintain records of our interactions with you, to respond to your enquiries, to notify you of changes to our Services, to serve advertisements to you on our Services or for marketing purposes, and to allow you to participate in any interactive features of our Services. We may also use your Personal Information to enforce our legal rights and inform our business strategy. [More detailed information can be found here](#personal-information-how-why).
 
 [**_Do Not Track_**](#dnt)
 
-* Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit, including our Services. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals. For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+*   Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit, including our Services. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals. For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 [**_Who we share your Personal Information with_**](#personal-information-who)
 
-* We may share your Personal Information within the System1 Group (as defined below), with our third-party service providers and professional partners, with parties with whom we enter into a corporate transaction, law enforcement agencies, courts or regulatory bodies (to comply with legal obligations) or otherwise with your consent. [More information can be found here](#personal-information-who).
+*   We may share your Personal Information within the System1 Group (as defined below), with our third-party service providers and professional partners, with parties with whom we enter into a corporate transaction, law enforcement agencies, courts or regulatory bodies (to comply with legal obligations) or otherwise with your consent. [More information can be found here](#personal-information-who).
 
 [**_How long your Personal Information will be kept_**](#personal-information-duration)
 
-* We retain your Personal Information for as long as is necessary to achieve the purposes for which it was collected. [More information can be found here](#personal-information-duration).
+*   We retain your Personal Information for as long as is necessary to achieve the purposes for which it was collected. [More information can be found here](#personal-information-duration).
 
 [**_International transfers_**](#international-transfers)
 
-* In the event that we transfer your Personal Information internationally, we take steps to ensure that such Personal Information is subject to safeguards in compliance with applicable data protection laws. [More information can be found here](#international-transfers).
+*   In the event that we transfer your Personal Information internationally, we take steps to ensure that such Personal Information is subject to safeguards in compliance with applicable data protection laws. [More information can be found here](#international-transfers).
 
 [**_Links to third party sites and content_**](#third-party-links)
 
-* Where you access third party sites or content via our Services, it is important that you check the applicable third party’s privacy policy to understand how such third parties will handle your information. [More information can be found here](#third-party-links).
+*   Where you access third party sites or content via our Services, it is important that you check the applicable third party’s privacy policy to understand how such third parties will handle your information. [More information can be found here](#third-party-links).
 
 [**_Supplemental U.S. privacy rights and disclosures_**](#supplemental-rights)
 
-* If you are a consumer located in the United States, you may be entitled to additional information about our use of your Personal Information and you may have certain rights in connection with your Personal Information. [More information can be found here](#supplemental-rights).
+*   If you are a consumer located in the United States, you may be entitled to additional information about our use of your Personal Information and you may have certain rights in connection with your Personal Information. [More information can be found here](#supplemental-rights).
 
 [**_Supplemental Information for persons in the EEA and UK_**](#supplemental-info)
 
-* If you are a consumer located in the European Economic Area (EEA) or the United Kingdom (UK), you may be entitled to additional information about our use of your Personal Information and you may have certain rights in connection with our processing of your Personal Information. Details of these rights and how to exercise them are [set out here](#supplemental-info).
+*   If you are a consumer located in the European Economic Area (EEA) or the United Kingdom (UK), you may be entitled to additional information about our use of your Personal Information and you may have certain rights in connection with our processing of your Personal Information. Details of these rights and how to exercise them are [set out here](#supplemental-info).
 
 [**_Keeping your Personal Information secure_**](#personal-info-secure)
 
-* We have put in place appropriate security measures to keep your Personal Information safe. [More information can be found here](#personal-info-secure).
+*   We have put in place appropriate security measures to keep your Personal Information safe. [More information can be found here](#personal-info-secure).
 
 [**_Children Under the Age of 16_**](#children-under-16)
 
-* Use of our Services is not intended for and not directed at children under 16 years of age. [More information can be found here](#children-under-16).
+*   Use of our Services is not intended for and not directed at children under 16 years of age. [More information can be found here](#children-under-16).
 
 [**_Changes to this Privacy Policy_**](#policy-changes)
 
-* This Privacy Policy is updated from time to time. [More information can be found here](#policy-changes).
+*   This Privacy Policy is updated from time to time. [More information can be found here](#policy-changes).
 
 [**_How to contact us_**](#contact-us)
 
-* You can contact us online, by post, or email. More information, including our contact details, [can be found here](#contact-us).
+*   You can contact us online, by post, or email. More information, including our contact details, [can be found here](#contact-us).
 
 1\. Key terms
 -------------
@@ -86,17 +86,17 @@ Throughout this Privacy Policy, we use the following key terms (defined below):
 
 The Personal Information we process about you depends on how you interact with our Services. For example:
 
-* **_Information you provide to us directly_**:
-    * Any information submitted to us when you fill in a form or query field on any of our Services, register to use any of our Services, apply for a job, or subscribe to any of our Services (including your name and email address, or certain demographic information (e.g., your age) as applicable);
-    * Information contained in any messages, emails or other correspondence you have with us in the event that you contact us (including your contact details and the content of such communications); and
-    * Information contained in and associated with anything you post to our Services.
-* **_Information we collect through automated data collection or tracking technologies_**
+*   **_Information you provide to us directly_**:
+    *   Any information submitted to us when you fill in a form or query field on any of our Services, register to use any of our Services, apply for a job, or subscribe to any of our Services (including your name and email address, or certain demographic information (e.g., your age) as applicable);
+    *   Information contained in any messages, emails or other correspondence you have with us in the event that you contact us (including your contact details and the content of such communications); and
+    *   Information contained in and associated with anything you post to our Services.
+*   **_Information we collect through automated data collection or tracking technologies_**
 
 As you use our Services, we may use automated data collection or tracking technologies to collect certain information about your equipment, browsing actions, and usage patterns, including:
 
-* * Details of your use of our Services, including traffic data, referral data, location data, logs, and other communication data and the resources that you use (or information that you retrieve) on our websites and applications and any advertisement offerings or links to third party websites accessed, acquired or considered and related metrics;
-    * Information about your computer or other device and internet connection through which you access or interact with our Services, including your IP address, operating system, device type, device ID, and browser type; and
-    * Other electronic network activity information — such as browsing history, viewing history, search history and information regarding interactions with our websites or Services (as applicable).
+*   *   Details of your use of our Services, including traffic data, referral data, location data, logs, and other communication data and the resources that you use (or information that you retrieve) on our websites and applications and any advertisement offerings or links to third party websites accessed, acquired or considered and related metrics;
+    *   Information about your computer or other device and internet connection through which you access or interact with our Services, including your IP address, operating system, device type, device ID, and browser type; and
+    *   Other electronic network activity information — such as browsing history, viewing history, search history and information regarding interactions with our websites or Services (as applicable).
 
 If applicable, we also may use these technologies to collect information about your online activities over time and across third-party websites or other online services which you may use (_e.g._, behavioral tracking).
 
@@ -104,19 +104,19 @@ The information we collect automatically is generally statistical data, but we m
 
 The tracking technologies we use for this automated data collection may include:
 
-* * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer.
-    * Flash Cookies. Certain features of our Services may use local stored objects (or “flash cookies”) to collect and store information about your preferences and navigation to, from, and on our Services.
-    * Web Beacons. Portions of our Services may contain small electronic files known as web beacons (sometimes also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages, track where they have been referred from, track and report conversions, and to generate other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+*   *   Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer.
+    *   Flash Cookies. Certain features of our Services may use local stored objects (or “flash cookies”) to collect and store information about your preferences and navigation to, from, and on our Services.
+    *   Web Beacons. Portions of our Services may contain small electronic files known as web beacons (sometimes also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages, track where they have been referred from, track and report conversions, and to generate other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 Depending on the location from which you access our Services, you may refuse to accept the use of these technologies by activating the appropriate settings on your browser, or (where applicable) by refusing to provide your consent to the use of these technologies when you access our Services. Where you do not consent to the use of such technologies, please note that certain parts of our Services may no longer be available or may not function as intended.
 
-* **_Third party use of cookies and other tracking technologies_**
-    * Some content or applications, including advertisements, available through our Services are served or provided by third parties, including advertisers, ad networks and ad servers, content providers, and application providers. These third parties may also use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Services. The information these third parties collect may be associated or matched with certain of your Personal Information which they have already collected, or they may collect information in the future, including Personal Information about your online activities over time and across different websites and other online services. They may also use this information to provide you with interest-based (_e.g._, behavioral or retargeted) advertising or other targeted content.
-    * We do not control these third parties’ tracking technologies or how they may be used, during your session or over time. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
-        * Some of our Services incorporate Google Analytics Advertising Features, including remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics and currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
-        * Some of our Services may include advertisements or tracking technologies from Microsoft Bing. To learn more about information collected by Microsoft, please click [here.](http://www.microsoft.com/en-us/privacystatement/Default.aspx) You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here.](http://choice.microsoft.com/)
-        * Some of our Services may include advertisements or tracking technologies from Yahoo!. To learn more about information collected by Yahoo!, please click [here](https://legal.yahoo.com/us/en/yahoo/privacy/index.html). You can opt-out of Yahoo!’s personalized advertising services by following the instructions found [here](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)[.](http://choice.microsoft.com/)
-        * You can also generally opt-out of receiving personalized ads from third-party advertisers and ad networks who are members of the [Network Advertising Initiative](https://thenai.org/opt-out/) (NAI) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](https://optout.aboutads.info/?c=2&lang=EN) (DAA) by visiting the opt-out pages on the NAI website and the DAA website, respectively.
+*   **_Third party use of cookies and other tracking technologies_**
+    *   Some content or applications, including advertisements, available through our Services are served or provided by third parties, including advertisers, ad networks and ad servers, content providers, and application providers. These third parties may also use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Services. The information these third parties collect may be associated or matched with certain of your Personal Information which they have already collected, or they may collect information in the future, including Personal Information about your online activities over time and across different websites and other online services. They may also use this information to provide you with interest-based (_e.g._, behavioral or retargeted) advertising or other targeted content.
+    *   We do not control these third parties’ tracking technologies or how they may be used, during your session or over time. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+        *   Some of our Services incorporate Google Analytics Advertising Features, including remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics and currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
+        *   Some of our Services may include advertisements or tracking technologies from Microsoft Bing. To learn more about information collected by Microsoft, please click [here.](http://www.microsoft.com/en-us/privacystatement/Default.aspx) You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here.](http://choice.microsoft.com/)
+        *   Some of our Services may include advertisements or tracking technologies from Yahoo!. To learn more about information collected by Yahoo!, please click [here](https://legal.yahoo.com/us/en/yahoo/privacy/index.html). You can opt-out of Yahoo!’s personalized advertising services by following the instructions found [here](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)[.](http://choice.microsoft.com/)
+        *   You can also generally opt-out of receiving personalized ads from third-party advertisers and ad networks who are members of the [Network Advertising Initiative](https://thenai.org/opt-out/) (NAI) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](https://optout.aboutads.info/?c=2&lang=EN) (DAA) by visiting the opt-out pages on the NAI website and the DAA website, respectively.
 
 3\. How and why we use your Personal Information
 ------------------------------------------------
@@ -128,16 +128,16 @@ In certain locations (including the EEA and the UK) we are required to have a la
 |     |     |
 | --- | --- |
 | _What we use your Personal Information for_ | _Our legal basis (relevant for EEA and UK users)_ |
-| Providing our Services to you, including the provision of content, advertisements and personalised recommendations and detecting errors or outages.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies. | Consent (where required by applicable law), or for our legitimate interests, _e.g._, to provide relevant content to users to ensure user satisfaction and positive return rates. |
-| Maintaining records of our interactions with you (if any) and providing updates or notices about your queries, accounts, or requests.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly.<br>* Information we collect through automated data collection or tracking technologies. | Depending on the circumstances:<br><br>—to comply with our legal and regulatory obligations;<br><br>—for our legitimate interests, _e.g._, making sure that we can keep in touch with you and respond to your inquiries, manage any complaints or otherwise maintain and build upon the relationship we have with you. |
-| To notify you in the event of any changes to our Services that may impact you and to provide customer support and respond to inquiries, where applicable.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly. | For our legitimate interests, _e.g._, making sure that you remain informed about important changes to our Services as part of our ongoing relationship with you and to support your access to the Services and the quality of the Services provided to you. |
-| Serving advertisements to you on our Services.<br><br>**Categories of Personal Information Processed**:<br><br>* Information we collect through automated data collection or tracking technologies. | Consent (where required by applicable law), or for our legitimate interests, _e.g_., to support our provision of free online content. |
-| To enforce legal rights, comply with applicable laws, for fraud and crime prevention, to defend or undertake legal proceedings, or comply with court orders or similar obligations.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies. | Depending on the circumstances:<br><br>—to comply with our legal and regulatory obligations;<br><br>—in other cases, for our legitimate interests, _e.g._, to protect our business, interests and rights |
-| For the purpose of forming our business strategy, including analysing statistics related to your use of our Services to inform our business planning and the design and selection of future products and features and to otherwise develop, improve, repair, and/or maintain our products and Services.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies. | For our legitimate interests, _e.g._, to improve our Services and effectiveness of our business strategy |
-| For the purpose of marketing our Services.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies. | As legally required, we obtain consent from recipients prior to sending marketing communications. Recipients can, at any time, opt-out of receiving marketing communications from us.<br><br>Where consent is not legally required, we may rely on our legitimate interests, _e.g._, to promote our business. |
-| To allow you to participate in interactive features on our Services (_e.g._, quizzes, polls, or promotions).<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies. | For our legitimate interests, _e.g._, to provide useful and valuable features to our users to ensure user satisfaction and positive return rates. |
-| To process payments, where applicable.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly. | For our legitimate interests, _e.g.,_ to ensure we receive remuneration for any Services for which we charge fees. |
-| For any other purpose communicated to you.<br><br>**Categories of Personal Information Processed**:<br><br>* Information you provide to us directly;<br>* Information we collect through automated data collection or tracking technologies;<br>* Other Personal Information categories, communicated to you. | With your consent. |
+| Providing our Services to you, including the provision of content, advertisements and personalised recommendations and detecting errors or outages.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies. | Consent (where required by applicable law), or for our legitimate interests, _e.g._, to provide relevant content to users to ensure user satisfaction and positive return rates. |
+| Maintaining records of our interactions with you (if any) and providing updates or notices about your queries, accounts, or requests.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly.<br>*   Information we collect through automated data collection or tracking technologies. | Depending on the circumstances:<br><br>—to comply with our legal and regulatory obligations;<br><br>—for our legitimate interests, _e.g._, making sure that we can keep in touch with you and respond to your inquiries, manage any complaints or otherwise maintain and build upon the relationship we have with you. |
+| To notify you in the event of any changes to our Services that may impact you and to provide customer support and respond to inquiries, where applicable.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly. | For our legitimate interests, _e.g._, making sure that you remain informed about important changes to our Services as part of our ongoing relationship with you and to support your access to the Services and the quality of the Services provided to you. |
+| Serving advertisements to you on our Services.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information we collect through automated data collection or tracking technologies. | Consent (where required by applicable law), or for our legitimate interests, _e.g_., to support our provision of free online content. |
+| To enforce legal rights, comply with applicable laws, for fraud and crime prevention, to defend or undertake legal proceedings, or comply with court orders or similar obligations.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies. | Depending on the circumstances:<br><br>—to comply with our legal and regulatory obligations;<br><br>—in other cases, for our legitimate interests, _e.g._, to protect our business, interests and rights |
+| For the purpose of forming our business strategy, including analysing statistics related to your use of our Services to inform our business planning and the design and selection of future products and features and to otherwise develop, improve, repair, and/or maintain our products and Services.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies. | For our legitimate interests, _e.g._, to improve our Services and effectiveness of our business strategy |
+| For the purpose of marketing our Services.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies. | As legally required, we obtain consent from recipients prior to sending marketing communications. Recipients can, at any time, opt-out of receiving marketing communications from us.<br><br>Where consent is not legally required, we may rely on our legitimate interests, _e.g._, to promote our business. |
+| To allow you to participate in interactive features on our Services (_e.g._, quizzes, polls, or promotions).<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies. | For our legitimate interests, _e.g._, to provide useful and valuable features to our users to ensure user satisfaction and positive return rates. |
+| To process payments, where applicable.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly. | For our legitimate interests, _e.g.,_ to ensure we receive remuneration for any Services for which we charge fees. |
+| For any other purpose communicated to you.<br><br>**Categories of Personal Information Processed**:<br><br>*   Information you provide to us directly;<br>*   Information we collect through automated data collection or tracking technologies;<br>*   Other Personal Information categories, communicated to you. | With your consent. |
 
 4\. Do Not Track
 ----------------
@@ -149,14 +149,14 @@ Your browser settings may allow you to automatically transmit a “Do Not Track�
 
 As necessary for the purposes described above, we may share your Personal Information with:
 
-* members of the System1 Group;
-* third party IT vendors (_e.g._ hosting, cloud services, networking, cybersecurity platforms, telecom providers, managed services providers, customer service platforms, technical support service providers and payment processors);
-* third party media, advertising and marketing vendors and monetization partners;
-* data analytics providers, social media networks, native advertising networks, programmatic advertising platforms, search engines, monetization partners, syndication and distribution partners, customer engagement services, push notification providers (to provide services that include, but are not limited to, product recommendations, delivering marketing messages including advertisements, and sending you relevant offers);
-* partners with whom we work to improve our Services and/or business processes;
-* third parties in connection with whom we have received your **_express consent_** to share your Personal Information;
-* our external auditors, professional advisors, law enforcement agencies, courts, tribunals and regulatory bodies to comply with our legal and regulatory obligations; and
-* other parties that have or may acquire control or ownership of some or all of our business (and our or their professional advisers) in connection with a significant corporate transaction or restructuring, including a merger, acquisition, asset sale, initial public offering or in the event of our insolvency—usually, information will be anonymised but this may not always be possible. The recipient of any of your information will be bound by confidentiality obligations.
+*   members of the System1 Group;
+*   third party IT vendors (_e.g._ hosting, cloud services, networking, cybersecurity platforms, telecom providers, managed services providers, customer service platforms, technical support service providers and payment processors);
+*   third party media, advertising and marketing vendors and monetization partners;
+*   data analytics providers, social media networks, native advertising networks, programmatic advertising platforms, search engines, monetization partners, syndication and distribution partners, customer engagement services, push notification providers (to provide services that include, but are not limited to, product recommendations, delivering marketing messages including advertisements, and sending you relevant offers);
+*   partners with whom we work to improve our Services and/or business processes;
+*   third parties in connection with whom we have received your **_express consent_** to share your Personal Information;
+*   our external auditors, professional advisors, law enforcement agencies, courts, tribunals and regulatory bodies to comply with our legal and regulatory obligations; and
+*   other parties that have or may acquire control or ownership of some or all of our business (and our or their professional advisers) in connection with a significant corporate transaction or restructuring, including a merger, acquisition, asset sale, initial public offering or in the event of our insolvency—usually, information will be anonymised but this may not always be possible. The recipient of any of your information will be bound by confidentiality obligations.
 
 Additionally, we may disclose aggregated and deidentified information that does not identify any individual.
 
@@ -188,31 +188,31 @@ This section applies only to Personal Information collected about consumers resi
 
 In the preceding 12 months, we may have collected or processed the following categories of Personal Information:
 
-* Identifiers — such as name, email address, device type, web browser, operating system or other similar identifiers;
-* Unique online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
-* Certain commercial information — such as the Services, advertisement offerings or links to third party websites accessed, acquired or considered and related metrics;
-* Other electronic network activity information — such as browsing history, search history and information regarding interactions with our websites or our Services;
-* Location information – geo-location information about where you are accessing our Services (_e.g._, if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
-* Online viewing activities and habits (_e.g._, videos viewed, pages viewed);
-* Consumer’s precise geolocation (where applicable);
-* Certain demographic data (_e.g._, gender, age, etc., where applicable); and
+*   Identifiers — such as name, email address, device type, web browser, operating system or other similar identifiers;
+*   Unique online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
+*   Certain commercial information — such as the Services, advertisement offerings or links to third party websites accessed, acquired or considered and related metrics;
+*   Other electronic network activity information — such as browsing history, search history and information regarding interactions with our websites or our Services;
+*   Location information – geo-location information about where you are accessing our Services (_e.g._, if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
+*   Online viewing activities and habits (_e.g._, videos viewed, pages viewed);
+*   Consumer’s precise geolocation (where applicable);
+*   Certain demographic data (_e.g._, gender, age, etc., where applicable); and
 
 **_Business or commercial purposes for the collection and processing of Personal Information_**
 
 We may have collected these categories of Personal Information for the following purposes (and including for any purposes otherwise described in this Privacy Policy):
 
-* Operate, manage, and maintain our businesses and infrastructure;
-* Provide, develop, improve, repair, and maintain our products and Services;
-* Performing services on behalf of our various businesses, such as user retention, providing content recommendations and/or processing information;
-* Fraud and crime prevention;
-* Debugging errors in systems;
-* Marketing and advertising;
-* Perform accounting, audit, and other internal functions, such as internal investigations;
-* Comply with law, legal process, and internal policies;
-* Internal research, analytics and development — _e.g._, user-preference analytics;
-* Developing, maintaining, provisioning or upgrading networks, products, services, or devices;
-* Payment processing and verification (where applicable); and
-* Customer support and inquiries.
+*   Operate, manage, and maintain our businesses and infrastructure;
+*   Provide, develop, improve, repair, and maintain our products and Services;
+*   Performing services on behalf of our various businesses, such as user retention, providing content recommendations and/or processing information;
+*   Fraud and crime prevention;
+*   Debugging errors in systems;
+*   Marketing and advertising;
+*   Perform accounting, audit, and other internal functions, such as internal investigations;
+*   Comply with law, legal process, and internal policies;
+*   Internal research, analytics and development — _e.g._, user-preference analytics;
+*   Developing, maintaining, provisioning or upgrading networks, products, services, or devices;
+*   Payment processing and verification (where applicable); and
+*   Customer support and inquiries.
 
 We do not collect or process sensitive Personal Information for the purpose of inferring characteristics about individuals.
 
@@ -220,13 +220,13 @@ We do not collect or process sensitive Personal Information for the purpose of i
 
 We collect Personal Information:
 
-* Directly from you, including technical and usage information when you use our Services;
-* From linked sites, such as social media sites, and other third-party platforms;
-* From our various affiliated entities;
-* From our joint-ventures and promotional and strategic partners;
-* From information suppliers;
-* From distributors, service providers and other vendors; and
-* From marketing mailing lists
+*   Directly from you, including technical and usage information when you use our Services;
+*   From linked sites, such as social media sites, and other third-party platforms;
+*   From our various affiliated entities;
+*   From our joint-ventures and promotional and strategic partners;
+*   From information suppliers;
+*   From distributors, service providers and other vendors; and
+*   From marketing mailing lists
 
 **_Retention of Personal Information_**
 
@@ -240,13 +240,13 @@ Such disclosure of Personal Information may be considered a “sale” or “sha
 
 The categories of Personal Information that we disclose in this manner are as follows:
 
-* Identifiers — such as email address, device type, web browser, operating system or other similar identifiers;
-* Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
-* Certain commercial information — such as Services accessed, acquired or considered;
-* Internet or other electronic network activity information — such as browsing history, search history and information regarding interactions with our websites or Services;
-* Location information – geo-location information about where you are accessing our Services (_e.g._, if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
-* Online viewing activities and habits (e.g., videos viewed, pages viewed); and
-* Consumer’s precise geolocation (where applicable).
+*   Identifiers — such as email address, device type, web browser, operating system or other similar identifiers;
+*   Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
+*   Certain commercial information — such as Services accessed, acquired or considered;
+*   Internet or other electronic network activity information — such as browsing history, search history and information regarding interactions with our websites or Services;
+*   Location information – geo-location information about where you are accessing our Services (_e.g._, if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
+*   Online viewing activities and habits (e.g., videos viewed, pages viewed); and
+*   Consumer’s precise geolocation (where applicable).
 
 Some of our processing activities may constitute “targeted advertising” as that term is defined in applicable law.
 
@@ -254,15 +254,15 @@ Some of our processing activities may constitute “targeted advertising” as t
 
 Depending on the state in which you reside, you may have certain privacy rights regarding your Personal Information, including (if applicable):
 
-* The right to know what Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which we collected Personal Information, the business or commercial purposes for collecting, selling or sharing Personal Information, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we collected about you;
-* The right to confirm whether or not we are processing your Personal Information;
-* The right to obtain a copy of your Personal Information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the information to another controller without hindrance, where the processing is carried out by automated means;
-* The right to delete Personal Information that we collected from and/or about you, subject to certain exceptions;
-* The right to correct inaccurate Personal Information that we maintain about you, subject to certain exceptions;
-* The right, if applicable, to opt out of (1) the sale or sharing of your Personal Information; (2) targeted advertising; and (3) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you;
-* If we use or disclose sensitive Personal Information for purposes other than those allowed by applicable law, the right to limit our use or disclosure;
-* If we are required by applicable law to obtain your consent to process sensitive Personal Information, the right to withdraw your consent; and
-* The right not to receive discriminatory treatment by us for the exercise of your privacy rights.
+*   The right to know what Personal Information we have collected about you, including the categories of Personal Information, the categories of sources from which we collected Personal Information, the business or commercial purposes for collecting, selling or sharing Personal Information, the categories of third parties to whom we disclose Personal Information, and the specific pieces of Personal Information we collected about you;
+*   The right to confirm whether or not we are processing your Personal Information;
+*   The right to obtain a copy of your Personal Information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the information to another controller without hindrance, where the processing is carried out by automated means;
+*   The right to delete Personal Information that we collected from and/or about you, subject to certain exceptions;
+*   The right to correct inaccurate Personal Information that we maintain about you, subject to certain exceptions;
+*   The right, if applicable, to opt out of (1) the sale or sharing of your Personal Information; (2) targeted advertising; and (3) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you;
+*   If we use or disclose sensitive Personal Information for purposes other than those allowed by applicable law, the right to limit our use or disclosure;
+*   If we are required by applicable law to obtain your consent to process sensitive Personal Information, the right to withdraw your consent; and
+*   The right not to receive discriminatory treatment by us for the exercise of your privacy rights.
 
 You can [contact us](https://system1.com/terms/privacy-policy/privacy-inquiries) with your request through one of the contact methods described under the section titled “**_How to contact us_**“. We may ask you to provide information that will enable us to verify your identity in order to comply with your request to exercise your privacy rights. Consumers in some states may also authorize an agent to make requests on their behalf. In particular, when a California consumer authorizes an agent to make a request on their behalf, we may require the agent to provide proof of signed permission from the consumer to submit the request, or we may require the consumer to verify their own identity to us or confirm with us that they provided the agent with permission to submit the request on their behalf. In some instances, we may decline to honor your request if an exception applies under applicable law. We will respond to your request in accordance with the requirements of applicable law.
 
@@ -296,14 +296,14 @@ If you are located in the European Economic Area (EEA) or the United Kingdom (UK
 
 If you would like to exercise any of the rights set forth above, please:
 
-* Email us—see below: “**_How to contact us_**“; and
-* provide enough information to allow us to verify your identity (this may include providing your name or, where relevant / applicable, a customer account number (for example), and any additional identity information we may reasonably request from you);
-* let us know what right you want to exercise and the Personal Information to which your request relates.
+*   Email us—see below: “**_How to contact us_**“; and
+*   provide enough information to allow us to verify your identity (this may include providing your name or, where relevant / applicable, a customer account number (for example), and any additional identity information we may reasonably request from you);
+*   let us know what right you want to exercise and the Personal Information to which your request relates.
 
 For the purposes of EEA and UK data protection law:
 
-* System1 OpCo, LLC is the data controller and can be contacted using any of the means set out in the “**_How to contact us_**” section below.
-* **EEA:** VeraSafe has been appointed as System1 OpCo, LLC’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are in the European Economic Area, VeraSafe can be contacted in connection with data protection matters, in addition to or instead of using the information provided in the “**_How to contact us_**” section below. To make such an inquiry, please contact VeraSafe using this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative) or via telephone at: +420 228 881 031.
+*   System1 OpCo, LLC is the data controller and can be contacted using any of the means set out in the “**_How to contact us_**” section below.
+*   **EEA:** VeraSafe has been appointed as System1 OpCo, LLC’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are in the European Economic Area, VeraSafe can be contacted in connection with data protection matters, in addition to or instead of using the information provided in the “**_How to contact us_**” section below. To make such an inquiry, please contact VeraSafe using this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative) or via telephone at: +420 228 881 031.
 
 Alternatively, VeraSafe can be contacted at:
 
@@ -313,7 +313,7 @@ Keizersgracht 555 1017 DR Amsterdam
 
 Netherlands
 
-* **UK:** VeraSafe has been appointed as System1 OpCo, LLC’s representative in the United Kingdom for data protection matters, pursuant to Article 27 of the United Kingdom General Data Protection Regulation. If you are located within the United Kingdom, VeraSafe can be contacted in connection with data protection matters, in addition to or instead of using the information provided in the “**_How to contact us_**” section below. To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative or via telephone at: +44 (20) 4532 2003.
+*   **UK:** VeraSafe has been appointed as System1 OpCo, LLC’s representative in the United Kingdom for data protection matters, pursuant to Article 27 of the United Kingdom General Data Protection Regulation. If you are located within the United Kingdom, VeraSafe can be contacted in connection with data protection matters, in addition to or instead of using the information provided in the “**_How to contact us_**” section below. To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative or via telephone at: +44 (20) 4532 2003.
 
 Alternatively, VeraSafe can be contacted at:
 
@@ -330,9 +330,9 @@ United Kingdom
 
 We have appropriate security measures to prevent Personal Information from being accidentally accessed unlawfully. We limit access to your Personal Information to those who have a genuine business need to access and are subject to a duty of confidentiality. Depending on the nature of the risks presented by the proposed processing of your personal data, we will have in place the following appropriate security measures:
 
-* Organizational measures (including, but not limited to, staff training and policy development);
-* Technical measures (including, but not limited to, physical protection of data, pseudonymization and encryption); and
-* Securing ongoing availability, integrity, and accessibility (including, but not limited to, ensuring appropriate back-ups of personal data are held).
+*   Organizational measures (including, but not limited to, staff training and policy development);
+*   Technical measures (including, but not limited to, physical protection of data, pseudonymization and encryption); and
+*   Securing ongoing availability, integrity, and accessibility (including, but not limited to, ensuring appropriate back-ups of personal data are held).
 
 We also have procedures to deal with any suspected or confirmed data security breach. We will notify you and any applicable regulator of a data security breach when and where we are legally required to do so.
 
