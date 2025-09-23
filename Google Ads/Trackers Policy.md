@@ -45,8 +45,8 @@ To serve ads in services where cookie technology may not be available (for examp
 
 Ads you see on your device may be personalized based on its Advertising ID. On Android devices, you can:
 
-* **Reset your device’s advertising ID**, which replaces the current ID with a new one. Apps can still show you personalized ads, but for a while they may not be as relevant or interesting to you.
-* **Delete your device’s advertising ID**, which deletes the advertising ID and doesn't assign a new one. Apps can still show you ads, but they may not be as relevant or interesting to you. You won't see ads based on this advertising ID, but you may still see ads based on other factors, like the information you’ve shared with apps.
+*   **Reset your device’s advertising ID**, which replaces the current ID with a new one. Apps can still show you personalized ads, but for a while they may not be as relevant or interesting to you.
+*   **Delete your device’s advertising ID**, which deletes the advertising ID and doesn't assign a new one. Apps can still show you ads, but they may not be as relevant or interesting to you. You won't see ads based on this advertising ID, but you may still see ads based on other factors, like the information you’ve shared with apps.
 
 To make changes to the advertising ID on your Android device, follow the instructions below.
 
@@ -56,17 +56,17 @@ To make changes to the advertising ID on your Android device, follow the instruc
 
 To reset your device’s advertising ID:
 
-1. On your Android device, go to **Settings**.
-2. Tap **Privacy** > **Ads**.
-3. Tap **Reset advertising ID** and confirm your changes.
+1.  On your Android device, go to **Settings**.
+2.  Tap **Privacy** > **Ads**.
+3.  Tap **Reset advertising ID** and confirm your changes.
 
 ##### Delete your device’s advertising ID
 
 To delete your device’s advertising ID:
 
-1. On your Android device, go to **Settings**.
-2. Tap **Privacy** > **Ads**.
-3. Tap **Delete advertising ID** and confirm your changes.
+1.  On your Android device, go to **Settings**.
+2.  Tap **Privacy** > **Ads**.
+3.  Tap **Delete advertising ID** and confirm your changes.
 
 Your advertising ID will be reset or deleted, but apps may have their own settings using other types of identifiers, which can also affect the types of ads you see.
 
@@ -74,9 +74,9 @@ Your advertising ID will be reset or deleted, but apps may have their own settin
 
 If your Android device’s version is 4.4 or older:
 
-1. Open **Settings**
-2. Tap **Privacy** > **Advanced** > **Ads**
-3. Turn on **Opt out of Ads Personalization** and confirm your changes.
+1.  Open **Settings**
+2.  Tap **Privacy** > **Advanced** > **Ads**
+3.  Turn on **Opt out of Ads Personalization** and confirm your changes.
 
 #### iOS
 
@@ -90,11 +90,11 @@ Connected TVs are another area where cookie technology is not available, and, in
 
 The following “Ads” settings are available on TVs with the following consistent language:
 
-* Reset advertising ID
-* Delete advertising ID
-* Opt out of Ads Personalization (on or off)
-* Ads by Google (links to About Google ad personalization)
-* Your advertising ID (long string)
+*   Reset advertising ID
+*   Delete advertising ID
+*   Opt out of Ads Personalization (on or off)
+*   Ads by Google (links to About Google ad personalization)
+*   Your advertising ID (long string)
 
 These Ads settings are available in the following paths on Google TV and Android TV respectively.
 
@@ -102,9 +102,9 @@ These Ads settings are available in the following paths on Google TV and Android
 
 Consistent path to Ads:
 
-1. Settings
-2. Privacy
-3. Ads
+1.  Settings
+2.  Privacy
+3.  Ads
 
 **Android TV**
 
@@ -112,18 +112,18 @@ Ads settings show up in one of two general paths for Android TV depending on the
 
 Path A:
 
-1. Settings
-2. About
-3. Legal Information
-4. Ads
+1.  Settings
+2.  About
+3.  Legal Information
+4.  Ads
 
 Path B:
 
-1. Settings
-2. Devices Preferences
-3. About
-4. Legal Information
-5. Ads
+1.  Settings
+2.  Devices Preferences
+3.  About
+4.  Legal Information
+5.  Ads
 
 ##### Non-Google Devices
 
