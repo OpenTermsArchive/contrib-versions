@@ -16,9 +16,9 @@ If you have any questions about these Terms or our Services, please contact us a
 
 In order to use our Services, you must meet the following eligibility criteria:
 
-* You must not be located in a country that is subject to the United States government embargo or that has been designated by the United States government as a “terrorist supporting” country;
-* You must not be listed on any United States government list of prohibited or restricted parties; and
-* You must be at least 13 years of age and/or have parent/guardian permission, following all applicable laws regarding content for your country of residence
+*   You must not be located in a country that is subject to the United States government embargo or that has been designated by the United States government as a “terrorist supporting” country;
+*   You must not be listed on any United States government list of prohibited or restricted parties; and
+*   You must be at least 13 years of age and/or have parent/guardian permission, following all applicable laws regarding content for your country of residence
 
 If you use our Services on behalf of another person or entity, (a) all references to “**you**” throughout these Terms will include that person or entity; (b) you represent that you are authorized to accept these Terms on that person’s or entity’s behalf; and (c) in the event you or the person or entity violates these Terms, the person or entity agrees to be responsible to us.
 
@@ -38,19 +38,19 @@ Upon registration, each user is allocated a unique virtual environment, referred
 
 Additionally, Assets can be exchanged through the Mirror Marketplace; providing users with an avenue to monetize their Assets.  Games developed on the platform can also be published and monetized in a variety of ways, offering developers multiple revenue streams.
 
-1. **3.1 Asset and Game Development Guidelines**
+1.  **3.1 Asset and Game Development Guidelines**
 
 **Content Restrictions**
 
 When creating Assets or Games on the Platform, you must adhere to the following content restrictions:
 
-* No sexually explicit, "NSFW" (Not Safe For Work), or pornographic material;
-* No overly offensive, disrespectful, or harassing material;
-* No overly violent or graphic content outside the norms of gamified actions such as those in First Person Shooter games;
-* No harassment, bullying, or threats;
-* No promotion of illegal or harmful activities;
-* No misleading or fraudulent information; and
-* No infringement of third-party copyrighted materials.  You must not upload, distribute, or otherwise use any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights.
+*   No sexually explicit, "NSFW" (Not Safe For Work), or pornographic material;
+*   No overly offensive, disrespectful, or harassing material;
+*   No overly violent or graphic content outside the norms of gamified actions such as those in First Person Shooter games;
+*   No harassment, bullying, or threats;
+*   No promotion of illegal or harmful activities;
+*   No misleading or fraudulent information; and
+*   No infringement of third-party copyrighted materials.  You must not upload, distribute, or otherwise use any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights.
 
 **User Responsibilities and Rights**
 
@@ -104,23 +104,23 @@ You will not violate any applicable law, contract, intellectual property right o
 
 You will not:
 
-* Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
-* Use or attempt to use another user’s account without authorization from that user and TMM;
-* Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity;
-* Sell or resell our Services;
-* Copy, reproduce, distribute, publicly perform, or publicly display all or portions of our Services, except as expressly permitted by us or our licensors;
-* Modify our Services, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Services;
-* Use our Services other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying our Services or that could damage, disable, overburden, or impair the functioning of our Services in any manner;
-* Reverse engineer any aspect of our Services or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Services;
-* Use any data mining, robots, or similar data gathering or extraction methods designed to scrape or extract data from our Services;
-* Send, distribute, or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
-* Bypass or ignore instructions contained in our robots.txt file;
-* Transmit any material or content that is pornographic, threatening, harassing, libelous, hate-oriented, harmful, defamatory, racist, xenophobic, or illegal;
-* Transmit any material or content that is inappropriate for families or otherwise suitable only for adults;
-* Engage in money laundering or any illegal financial activities;
-* Transmit any material or content that attempts to falsely state or otherwise misrepresent your identity or affiliation with a person or entity;
-* Transmit or encourage the transmission of any material that may infringe the intellectual property rights or other rights of third parties, including trademark, copyright, patent, or right of publicity, or which otherwise constitutes or promotes counterfeit materials or goods; or
-* Use our Services for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+*   Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
+*   Use or attempt to use another user’s account without authorization from that user and TMM;
+*   Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity;
+*   Sell or resell our Services;
+*   Copy, reproduce, distribute, publicly perform, or publicly display all or portions of our Services, except as expressly permitted by us or our licensors;
+*   Modify our Services, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Services;
+*   Use our Services other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying our Services or that could damage, disable, overburden, or impair the functioning of our Services in any manner;
+*   Reverse engineer any aspect of our Services or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Services;
+*   Use any data mining, robots, or similar data gathering or extraction methods designed to scrape or extract data from our Services;
+*   Send, distribute, or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
+*   Bypass or ignore instructions contained in our robots.txt file;
+*   Transmit any material or content that is pornographic, threatening, harassing, libelous, hate-oriented, harmful, defamatory, racist, xenophobic, or illegal;
+*   Transmit any material or content that is inappropriate for families or otherwise suitable only for adults;
+*   Engage in money laundering or any illegal financial activities;
+*   Transmit any material or content that attempts to falsely state or otherwise misrepresent your identity or affiliation with a person or entity;
+*   Transmit or encourage the transmission of any material that may infringe the intellectual property rights or other rights of third parties, including trademark, copyright, patent, or right of publicity, or which otherwise constitutes or promotes counterfeit materials or goods; or
+*   Use our Services for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
 
 Violation of any of these terms will lead to account suspension, and we may take further action if necessary.  You agree not to allow or encourage any third-party to commit any of the prohibited acts listed above.  If you violate or are accused of violating these Terms, you agree to immediately notify us at [legal@themirror.space](mailto:legal@themirror.space).
 
@@ -160,7 +160,7 @@ To the fullest extent permitted by applicable law, you release TMM and the other
 
 In order for us to provide our Services, you agree that we may process, transfer and store information about you in the United States and other countries, where you may not have the same rights and protections as you do under local law.
 
-1. **13\. Copyright Complaints**
+1.  **13\. Copyright Complaints**
 
 In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating (in appropriate circumstances) the accounts of users who repeatedly infringe on the intellectual property rights of others.  If you believe that anything on our Services infringes any copyright that you own or control, you may notify TMM’s designated agent as follows:
 
@@ -186,14 +186,14 @@ Please _see_ [17 U.S.C. § 512(c)(3)](https://www.gpo.gov/fdsys/pkg/USCODE-2011-
 
 . Except for small claims disputes in which you or TMM seeks to bring an individual action in small claims court located in the county of your billing address or disputes in which you or TMM seeks injunctive or other equitable relief for the alleged infringement or misappropriation of intellectual property, **you and TMM waive your rights to a jury trial and to have any other dispute arising out of or related to these Terms or our Services, including claims related to privacy and data security, (collectively, “Disputes”) resolved in court**.  Instead, for any Dispute that you have against TMM you agree to first contact TMM and attempt to resolve the claim informally by sending a written notice of your claim (“**Notice**”) to TMM by email at [legal@themirror.space](mailto:legal@themirror.space) or by certified mail addressed to 7901 4th St N, Suite 15196 St. Petersburg, FL 33702.  The Notice must (a) include your name, residence address, email address, and telephone number; (b) describe the nature and basis of the Dispute; and (c) set forth the specific relief sought.  Our notice to you will be similar in form to that described above.  If you and TMM cannot reach an agreement to resolve the Dispute within thirty (30) days after such Notice is received, then either party may submit the Dispute to binding arbitration administered by JAMS; or under the limited circumstances set forth above, in court.  All Disputes submitted to JAMS will be resolved through confidential, binding arbitration before one arbitrator.  Arbitration proceedings will be held in New Castle County, Delaware unless you are a consumer, in which case you may elect to hold the arbitration in your county of residence.  For purposes of this Section 14, a “**consumer**” means a person using the Services for personal, family or household purposes.  You and TMM agree that Disputes will be held in accordance with the JAMS Streamlined Arbitration Rules and Procedures (“**JAMS Rules**”).  The most recent version of the JAMS Rules are available on the [JAMS website](https://www.jamsadr.com/rules-streamlined-arbitration/) and are hereby incorporated by reference.  You either acknowledge and agree that you have read and understand the JAMS Rules or waive your opportunity to read the JAMS Rules and waive any claim that the JAMS Rules are unfair or should not apply for any reason.
 
-1. **14.3** You and TMM agree that these Terms affect interstate commerce, and that the enforceability of this Section 14 will be substantively and procedurally governed by the Federal Arbitration Act, 9 U.S.C. § 1, et seq. (the “**FAA**”), to the maximum extent permitted by applicable law.  As limited by the FAA, these Terms and the JAMS Rules, the arbitrator will have exclusive authority to make all procedural and substantive decisions regarding any Dispute and to grant any remedy that would otherwise be available in court, including the power to determine the question of arbitrability.  The arbitrator may conduct only individual arbitration and may not consolidate more than one individual’s claims, preside over any type of class or representative proceeding, or preside over any proceeding involving more than one individual.
-2. **14.4** The arbitration will allow for the discovery or exchange of non-privileged information relevant to the Dispute.  The arbitrator, TMM, and you will maintain the confidentiality of any arbitration proceedings, judgments, and awards, including information gathered, prepared and presented for purposes of the arbitration or related to the Dispute(s) therein.  The arbitrator will have the authority to make appropriate rulings to safeguard confidentiality unless the law provides to the contrary.  The duty of confidentiality does not apply to the extent that disclosure is necessary to prepare for or conduct the arbitration hearing on the merits, in connection with a court application for a preliminary remedy or in connection with a judicial challenge to an arbitration award or its enforcement, or to the extent that disclosure is otherwise required by law or judicial decision.  
-3. **14.5** You and TMM agree that for any arbitration you initiate, you will pay the filing fee (up to a maximum of $250 if you are a consumer), and TMM will pay the remaining JAMS fees and costs.  For any arbitration initiated by TMM, TMM will pay all JAMS fees and costs.  You and TMM agree that the state or federal courts of the State of Delaware and the United States sitting in New Castle County, Delaware have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.
-4. **14.6 Any Dispute must be filed within one year after the relevant claim arose; otherwise, the Dispute is permanently barred, which means that you and TMM will not have the right to assert the claim.**
-5. **14.7 You have the right to opt-out of binding arbitration within 30 days of the date you first accepted the terms of this Section 14 by email to** [**legal@themirror.space**](mailto:legal@themirror.space).
-6. **14.8** In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt-out of binding arbitration.  By opting-out of binding arbitration, you are agreeing to resolve Disputes in accordance with this Section 14.
-7. **14.9** If any portion of this Section 14 is found to be unenforceable or unlawful for any reason, (a) the unenforceable or unlawful provision shall be severed from these Terms; (b) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of this Section 14 or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to this Section 14; and (c) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration.  Further, if any part of this Section 14 is found to prohibit an individual claim seeking public injunctive relief, that provision will have no effect to the extent such relief is allowed to be sought out of arbitration, and the remainder of this Section 14 will be enforceable.
-8. **15\. Governing Law and Venue**
+1.  **14.3** You and TMM agree that these Terms affect interstate commerce, and that the enforceability of this Section 14 will be substantively and procedurally governed by the Federal Arbitration Act, 9 U.S.C. § 1, et seq. (the “**FAA**”), to the maximum extent permitted by applicable law.  As limited by the FAA, these Terms and the JAMS Rules, the arbitrator will have exclusive authority to make all procedural and substantive decisions regarding any Dispute and to grant any remedy that would otherwise be available in court, including the power to determine the question of arbitrability.  The arbitrator may conduct only individual arbitration and may not consolidate more than one individual’s claims, preside over any type of class or representative proceeding, or preside over any proceeding involving more than one individual.
+2.  **14.4** The arbitration will allow for the discovery or exchange of non-privileged information relevant to the Dispute.  The arbitrator, TMM, and you will maintain the confidentiality of any arbitration proceedings, judgments, and awards, including information gathered, prepared and presented for purposes of the arbitration or related to the Dispute(s) therein.  The arbitrator will have the authority to make appropriate rulings to safeguard confidentiality unless the law provides to the contrary.  The duty of confidentiality does not apply to the extent that disclosure is necessary to prepare for or conduct the arbitration hearing on the merits, in connection with a court application for a preliminary remedy or in connection with a judicial challenge to an arbitration award or its enforcement, or to the extent that disclosure is otherwise required by law or judicial decision.  
+3.  **14.5** You and TMM agree that for any arbitration you initiate, you will pay the filing fee (up to a maximum of $250 if you are a consumer), and TMM will pay the remaining JAMS fees and costs.  For any arbitration initiated by TMM, TMM will pay all JAMS fees and costs.  You and TMM agree that the state or federal courts of the State of Delaware and the United States sitting in New Castle County, Delaware have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.
+4.  **14.6 Any Dispute must be filed within one year after the relevant claim arose; otherwise, the Dispute is permanently barred, which means that you and TMM will not have the right to assert the claim.**
+5.  **14.7 You have the right to opt-out of binding arbitration within 30 days of the date you first accepted the terms of this Section 14 by email to** [**legal@themirror.space**](mailto:legal@themirror.space).
+6.  **14.8** In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt-out of binding arbitration.  By opting-out of binding arbitration, you are agreeing to resolve Disputes in accordance with this Section 14.
+7.  **14.9** If any portion of this Section 14 is found to be unenforceable or unlawful for any reason, (a) the unenforceable or unlawful provision shall be severed from these Terms; (b) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of this Section 14 or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to this Section 14; and (c) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration.  Further, if any part of this Section 14 is found to prohibit an individual claim seeking public injunctive relief, that provision will have no effect to the extent such relief is allowed to be sought out of arbitration, and the remainder of this Section 14 will be enforceable.
+8.  **15\. Governing Law and Venue**
 
 Any dispute arising from these Terms and your use of the Services will be governed by and construed and enforced in accordance with the laws of Delaware, except to the extent preempted by U.S. federal law, without regard to conflict of law rules or principles (whether of Delaware or any other jurisdiction) that would cause the application of the laws of any other jurisdiction.  Any dispute between the parties that is not subject to arbitration or cannot be heard in small claims court will be resolved in the state or federal courts of Delaware and the United States, respectively, sitting in New Castle County, Delaware.
 
