@@ -9,13 +9,13 @@ This policy describes Substack’s processes for receiving and responding to cop
 
 The notices described in this policy are serious legal actions with potentially serious consequences. Note in particular:
 
-* **Filing a false copyright notice can be unlawful**. Aside from perjury penalties, sending false copyright notices can create legal claims under the DMCA.
+*   **Filing a false copyright notice can be unlawful**. Aside from perjury penalties, sending false copyright notices can create legal claims under the DMCA.
     
-* **Dispute copyright notices with care.** Copyright owners can prevent disabled content from being put back by initiating legal action.
+*   **Dispute copyright notices with care.** Copyright owners can prevent disabled content from being put back by initiating legal action.
     
-* **Information submitted in notices is not private**. Your copyright notice will be sent to the other party. We reserve the right to publicly post and share redacted copyright notices for transparency reporting purposes.
+*   **Information submitted in notices is not private**. Your copyright notice will be sent to the other party. We reserve the right to publicly post and share redacted copyright notices for transparency reporting purposes.
     
-* **Copyright disputes are tracked for purposes of our [Repeat Infringer Policy](https://substack.com/repeat_infringer).** Our policies and the DMCA both commit us to taking action against repeat infringers, and we will terminate the accounts of repeat infringers in certain cases. How you respond to copyright notices informs our repeat infringer evaluation.
+*   **Copyright disputes are tracked for purposes of our [Repeat Infringer Policy](https://substack.com/repeat_infringer).** Our policies and the DMCA both commit us to taking action against repeat infringers, and we will terminate the accounts of repeat infringers in certain cases. How you respond to copyright notices informs our repeat infringer evaluation.
     
 
 Consider seeking professional advice before proceeding with any notice described in this policy.
@@ -32,17 +32,17 @@ If you believe that something on Substack infringes a copyright that belongs to 
 
 When sending a non-form notice to our designated agent, be sure that it includes all the information required under the DMCA. For your reference, this includes:
 
-* A description of the work or works you claim have been infringed
+*   A description of the work or works you claim have been infringed
     
-* A description of the content on our website you claim to be infringing and the associated URL(s)
+*   A description of the content on our website you claim to be infringing and the associated URL(s)
     
-* Your contact information
+*   Your contact information
     
-* Your statement confirming a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law
+*   Your statement confirming a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law
     
-* Your statement confirming that the information you’ve provided is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed
+*   Your statement confirming that the information you’ve provided is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed
     
-* Your signature
+*   Your signature
     
 
 **Receiving a Copyright Notice**
@@ -55,30 +55,30 @@ You may dispute a copyright notice submitted against your Substack account by [c
 
 When sending a non-form notice to our designated agent, be sure that it includes all the information required under the DMCA. For your reference, this includes:
 
-* A description of the content that’s been removed and any associated URL(s)
+*   A description of the content that’s been removed and any associated URL(s)
     
-* Your full name and contact information, including your address and phone number
+*   Your full name and contact information, including your address and phone number
     
-* A statement, under penalty of perjury, that you have a good faith belief that the removed content was taken down as a result of mistake or misidentification
+*   A statement, under penalty of perjury, that you have a good faith belief that the removed content was taken down as a result of mistake or misidentification
     
-* A statement consenting to the jurisdiction of the Federal District Court for the judicial district in which your address is located or, if you are outside of the United States, consenting to the jurisdiction of any judicial district in which Substack can be found (for instance, the Northern District of California)
+*   A statement consenting to the jurisdiction of the Federal District Court for the judicial district in which your address is located or, if you are outside of the United States, consenting to the jurisdiction of any judicial district in which Substack can be found (for instance, the Northern District of California)
     
-* A statement that you will accept service of process from the copyright notice sender or their agent at the address you’ve provided.
+*   A statement that you will accept service of process from the copyright notice sender or their agent at the address you’ve provided.
     
-* Your signature
+*   Your signature
     
 
 **Copyright at Substack**
 
 This policy is incorporated into our [Terms of Use](https://substack.com/tos), and is only one component of how Substack handles copyright and copyright-adjacent issues. Other relevant terms and policies include: 
 
-* Our [Terms of Use](https://substack.com/tos), which provide our standard user copyright commitments;
+*   Our [Terms of Use](https://substack.com/tos), which provide our standard user copyright commitments;
     
-* Our [Content Guidelines](https://substack.com/content), which set forth our plagiarism policy;
+*   Our [Content Guidelines](https://substack.com/content), which set forth our plagiarism policy;
     
-* Our [Publisher Agreement](https://substack.com/pa), which outlines our handling of Creator copyrights; and
+*   Our [Publisher Agreement](https://substack.com/pa), which outlines our handling of Creator copyrights; and
     
-* Our [Copyright Repeat Infringer Policy](https://substack.com/repeat_infringer), which governs our handling of repeat copyright infringement on our platform.
+*   Our [Copyright Repeat Infringer Policy](https://substack.com/repeat_infringer), which governs our handling of repeat copyright infringement on our platform.
     
 
 If you have any further questions on our various copyright policies, please contact us at [copyright@substackinc.com](mailto:copyright@substackinc.com).
@@ -102,34 +102,34 @@ Copyright claims are complex, and can often be used to silence or censor the kin
 
 A corollary to our commitment above, we strive to consider the greater context of copyright claims in deciding on remedial action. This includes asking:
 
-* What is the nature of the alleged infringement? Is it plagiarism (which is also against our content guidelines)? Is it a plausible fair use?
+*   What is the nature of the alleged infringement? Is it plagiarism (which is also against our content guidelines)? Is it a plausible fair use?
     
-* Does the complained-about content have free speech significance? Political significance?
+*   Does the complained-about content have free speech significance? Political significance?
     
-* Who are the complainers? Are they credible?
+*   Who are the complainers? Are they credible?
     
-* Does the alleged infringer have a known history of infringement off our platform?
+*   Does the alleged infringer have a known history of infringement off our platform?
     
 
 **When we will consider repeat infringer claims**
 
 We will consider whether remedial action is appropriate when:
 
-* A request for remedial action against an alleged repeat infringer is brought to our attention through a credible third-party complaint sent to an appropriate channel (e.g., our agent for service of process or our DMCA designated agent)
+*   A request for remedial action against an alleged repeat infringer is brought to our attention through a credible third-party complaint sent to an appropriate channel (e.g., our agent for service of process or our DMCA designated agent)
     
-* We receive more than three compliant DMCA notices about different pieces of content from the same user in the same calendar year
+*   We receive more than three compliant DMCA notices about different pieces of content from the same user in the same calendar year
     
-* A series of alleged infringements appears particularly willful or egregious
+*   A series of alleged infringements appears particularly willful or egregious
     
 
 **Remedial Action**
 
 We will consider any appropriate remedial action currently available in our content moderation workflow, potentially including:
 
-* Written warnings
+*   Written warnings
     
-* Demonetizing newsletters
+*   Demonetizing newsletters
     
-* Delisting newsletters
+*   Delisting newsletters
     
-* Account termination
+*   Account termination
