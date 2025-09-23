@@ -18,12 +18,12 @@ Important Definitions
 
 The following are terms that are frequently referred to in this privacy policy but not common in everyday language. We wanted to take a bit of extra time to explain them.
 
-* **Personal Data** means any information that identifies or relates to a particular individual (often referred to as “personally identifiable information” or “PII”).  
+*   **Personal Data** means any information that identifies or relates to a particular individual (often referred to as “personally identifiable information” or “PII”).  
     Data that is completely anonymized and cannot be linked with an individual user is NOT considered Personal Data.
-* **Service Providers** help us run our business and provide the Services to you. They may include:
-    * Hosting, analytics, database, and communication providers, such as the authentication service we use to allow you to log into your account.
-    * Support and customer service software providers, such as the software our team uses to communicate with you when you report a bug.
-    * Security consultants who help us reduce security vulnerabilities in our software.Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
+*   **Service Providers** help us run our business and provide the Services to you. They may include:
+    *   Hosting, analytics, database, and communication providers, such as the authentication service we use to allow you to log into your account.
+    *   Support and customer service software providers, such as the software our team uses to communicate with you when you report a bug.
+    *   Security consultants who help us reduce security vulnerabilities in our software.Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
 
 What personal data do we collect and how do we collect it?
 ----------------------------------------------------------
@@ -32,9 +32,9 @@ What personal data do we collect and how do we collect it?
 
 | Category of Personal Data | Example | When we collect this data | Examples of why we collect this data |
 | --- | --- | --- | --- |
-| Profile or Contact Data | Name, Email, Account password | Directly from you, when you choose to give it to us (such as when you sign up for an account) | * So that you can log into your account<br>* So that we can contact you |
-| Device Data | Type of device and operating system used to access the Services | Automatically, when you use our mobile or desktop application | * To understand the range of devices our software should support<br>* To debug software issues specific to certain devices or operating systems |
-| Product Usage Data | How often you use various product features  <br>Inferences drawn from your product usage data, for instance, “Folks love using these keyboard shortcuts!” | Automatically, when you use our mobile or desktop application | * To understand feature usage and improve our product<br>* Product Usage Data never includes the websites you visit, files you download, or content you create in the product |
+| Profile or Contact Data | Name, Email, Account password | Directly from you, when you choose to give it to us (such as when you sign up for an account) | *   So that you can log into your account<br>*   So that we can contact you |
+| Device Data | Type of device and operating system used to access the Services | Automatically, when you use our mobile or desktop application | *   To understand the range of devices our software should support<br>*   To debug software issues specific to certain devices or operating systems |
+| Product Usage Data | How often you use various product features  <br>Inferences drawn from your product usage data, for instance, “Folks love using these keyboard shortcuts!” | Automatically, when you use our mobile or desktop application | *   To understand feature usage and improve our product<br>*   Product Usage Data never includes the websites you visit, files you download, or content you create in the product |
 
 ### When you reach out directly or otherwise choose to give us information
 
@@ -58,9 +58,9 @@ You can switch from iCloud to Arc Sync, or turn syncing off, in the desktop app 
 
 **Third-party connections.** Some features of the Browser rely on third-party APIs (Application Programming Interfaces) for their functionality. In these instances, the Browser directly connects you with the third party. If you choose to use these features, the third party may receive certain data as detailed below. This data never passes through our servers, and we have no way of knowing its contents.
 
-* **Website translation:** If you choose to use the website translation feature, the text to be translated will be sent to the Google Translate API.
-* **Search suggestions:** When you type search queries or URLs, the Browser fetches search suggestions from your default search engine. Search suggestions are on by default when you install the Browser. In the desktop app, you can change your default search engine or turn off search suggestions in Preferences > General. In the mobile app, the default search engine is Google and cannot be changed at this time.
-* **Google Calendar and Outlook Previews:** Previews allow you to glance at top sites without leaving your current tab. If you choose to connect your Google account to the Google Calendar Preview or Microsoft account to an Outlook preview, you will be prompted to sign in and grant certain permissions to Arc. If you allow access, Arc will read and display this information in the Preview. We do not store any of this information on our servers or use it for any other purpose. For Google, you can read more about this data in the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes).
+*   **Website translation:** If you choose to use the website translation feature, the text to be translated will be sent to the Google Translate API.
+*   **Search suggestions:** When you type search queries or URLs, the Browser fetches search suggestions from your default search engine. Search suggestions are on by default when you install the Browser. In the desktop app, you can change your default search engine or turn off search suggestions in Preferences > General. In the mobile app, the default search engine is Google and cannot be changed at this time.
+*   **Google Calendar and Outlook Previews:** Previews allow you to glance at top sites without leaving your current tab. If you choose to connect your Google account to the Google Calendar Preview or Microsoft account to an Outlook preview, you will be prompted to sign in and grant certain permissions to Arc. If you allow access, Arc will read and display this information in the Preview. We do not store any of this information on our servers or use it for any other purpose. For Google, you can read more about this data in the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes).
 
 Arc Max
 -------
@@ -98,21 +98,21 @@ Under what conditions would we share your personal data?
 
 We never sell your data, and we’ll only share it in the following circumstances:
 
-* With our Service Providers, as needed to provide and improve the product. Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
-* If you ask us to. We’ll share your data when you directly authorize it to be shared or share it yourself.
-* If needed to meet our legal requirements or safety measures, or to enforce legal rights. See “Why do we collect personal data?” below for more.
-* If there’s a change in company ownership such as a merger, acquisition, or bankruptcy, your data may be transferred to the new controlling party. Should one of these events occur, we will make reasonable efforts to notify you before your information becomes subject to different privacy and security policies and practices.
+*   With our Service Providers, as needed to provide and improve the product. Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
+*   If you ask us to. We’ll share your data when you directly authorize it to be shared or share it yourself.
+*   If needed to meet our legal requirements or safety measures, or to enforce legal rights. See “Why do we collect personal data?” below for more.
+*   If there’s a change in company ownership such as a merger, acquisition, or bankruptcy, your data may be transferred to the new controlling party. Should one of these events occur, we will make reasonable efforts to notify you before your information becomes subject to different privacy and security policies and practices.
 
 Why do we collect personal data?
 --------------------------------
 
 In general, we collect personal data to provide and improve our product and Services. This includes data to make the Browser work (such as account information) or data to make the Browser better (such as Device or Product Usage Data). We also collect data to make sure we’re able to:
 
-* **Protect against fraud**, or implement additional security measures.
-* **Correspond with you** if you reach out with a bug report, support request, or general inquiry. We may also send you updates, product information, or other marketing communications.
-* **Meet legal requirements, safety measures, and enforce legal rights.** We’re required to comply with any legal process, law, or regulation that requests we disclose personal information we’ve collected, so long as we consider the request reasonable and lawful. This includes:
-    * Enforcing our agreement terms or resolving disputes.
-    * Protecting your rights, property, or safety, or that of any party that interacts with our product.
+*   **Protect against fraud**, or implement additional security measures.
+*   **Correspond with you** if you reach out with a bug report, support request, or general inquiry. We may also send you updates, product information, or other marketing communications.
+*   **Meet legal requirements, safety measures, and enforce legal rights.** We’re required to comply with any legal process, law, or regulation that requests we disclose personal information we’ve collected, so long as we consider the request reasonable and lawful. This includes:
+    *   Enforcing our agreement terms or resolving disputes.
+    *   Protecting your rights, property, or safety, or that of any party that interacts with our product.
 
 How do we store and protect your data?
 --------------------------------------
@@ -153,7 +153,7 @@ If you are located in the EU or UK and have any questions or requests related to
 
 By mail:
 
-* **EU:** DP-Dock GmbH, Attn: The Browser Company, Ballindamm 39, 20095 Hamburg, Germany
-* **UK:** DP Data Protection Services UK Ltd., Attn: The Browser Company, 16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom
+*   **EU:** DP-Dock GmbH, Attn: The Browser Company, Ballindamm 39, 20095 Hamburg, Germany
+*   **UK:** DP Data Protection Services UK Ltd., Attn: The Browser Company, 16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom
 
 By email: [\[email protected\]](https://arc.net/cdn-cgi/l/email-protection)
