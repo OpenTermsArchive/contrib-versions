@@ -5,7 +5,7 @@ Last Updated: July 9, 2025
 
 **Changes in the Last Update**
 
-* Incorporate the Data Privacy Framework
+*   Incorporate the Data Privacy Framework
     
 
 * * *
@@ -34,33 +34,33 @@ Please note that if you’ve opted not to receive legal notice emails from us (o
 
 We collect and process Personal Information about you when you interact with us and our services, as well as when you subscribe to any of our paid or unpaid services. This may include:
 
-* your first and last name;
+*   your first and last name;
     
-* your email address;
+*   your email address;
     
-* your phone number;
+*   your phone number;
     
-* your payment details (including billing address, credit card details, where you make a purchase from us);
+*   your payment details (including billing address, credit card details, where you make a purchase from us);
     
-* your location and/or mailing address;
+*   your location and/or mailing address;
     
-* your photograph;
+*   your photograph;
     
-* your marketing preferences, including any consents you have given us;
+*   your marketing preferences, including any consents you have given us;
     
-* information related to the browser or device you use to access our website (including your IP address);
+*   information related to the browser or device you use to access our website (including your IP address);
     
-* any information we collect online from you and maintain in association with your account, such as your username and password;
+*   any information we collect online from you and maintain in association with your account, such as your username and password;
     
-* your subscription status with Substack publications;
+*   your subscription status with Substack publications;
     
-* public information about the social media accounts you associate with your Substack account;
+*   public information about the social media accounts you associate with your Substack account;
     
-* your direct message contents and metadata;
+*   your direct message contents and metadata;
     
-* information from integrated third-party services that you choose to use on Substack — for example, if you use Substack to upload video content to YouTube, we collect  account identifiers (including the email address associated with the account), video identifiers, and upload status information associated with the YouTube account you use to upload video content to YouTube; and
+*   information from integrated third-party services that you choose to use on Substack — for example, if you use Substack to upload video content to YouTube, we collect  account identifiers (including the email address associated with the account), video identifiers, and upload status information associated with the YouTube account you use to upload video content to YouTube; and
     
-* any other information you provide us when communicating with us.
+*   any other information you provide us when communicating with us.
     
 
 We may also collect information about you when one of our users syncs their address book information with our app for contact syncing purposes. This information collection is strictly limited to email addresses and phone numbers, and any information collected in this manner is securely stored only as hashed values.
@@ -71,50 +71,50 @@ Finally, we also collect information on the use of our website via Cookies. Plea
 
 We process this Personal Information for the following purposes:
 
-* To establish and fulfill a contract with you, for example when you subscribe to a subscription Service. This may include verifying your identity, taking payments, communicating with you, providing customer service;
+*   To establish and fulfill a contract with you, for example when you subscribe to a subscription Service. This may include verifying your identity, taking payments, communicating with you, providing customer service;
     
-* As required by Substack to enable our business and pursue our legitimate interests. In particular we use your Personal Information for the following purposes:
+*   As required by Substack to enable our business and pursue our legitimate interests. In particular we use your Personal Information for the following purposes:
     
-    * to provide services you have requested, and respond to any communications, comments or complaints you send us;
+    *   to provide services you have requested, and respond to any communications, comments or complaints you send us;
         
-    * to monitor the use of our services and to help us monitor, improve and protect our services, content and website;
+    *   to monitor the use of our services and to help us monitor, improve and protect our services, content and website;
         
-    * allow you to create, maintain, customize and secure your account with us;
+    *   allow you to create, maintain, customize and secure your account with us;
         
-    * to personalize our services for you and provide recommendations;
+    *   to personalize our services for you and provide recommendations;
         
-    * to monitor any user accounts to prevent, investigate and/or report fraud, misrepresentation, terrorism, security incidents or crime in accordance with applicable law;
+    *   to monitor any user accounts to prevent, investigate and/or report fraud, misrepresentation, terrorism, security incidents or crime in accordance with applicable law;
         
-    * to invite you to take part in surveys or market research;
+    *   to invite you to take part in surveys or market research;
         
-    * to facilitate contact syncing between users who opt in to our app’s contact syncing functionality;
+    *   to facilitate contact syncing between users who opt in to our app’s contact syncing functionality;
         
-    * Where our use of Personal Information is made pursuant to a balancing of our legitimate interests with your privacy interest, we will provide more information about our balancing analysis and process on request. Please send any such requests to privacy@substackinc.com.
+    *   Where our use of Personal Information is made pursuant to a balancing of our legitimate interests with your privacy interest, we will provide more information about our balancing analysis and process on request. Please send any such requests to privacy@substackinc.com.
         
-* Compliance with applicable laws and protection of Substack’s legitimate business interests and legal rights, including but not limited to use in connection with legal claims, compliance, regulatory, investigative purposes (including disclosure of such information in connection with legal process or litigation).
+*   Compliance with applicable laws and protection of Substack’s legitimate business interests and legal rights, including but not limited to use in connection with legal claims, compliance, regulatory, investigative purposes (including disclosure of such information in connection with legal process or litigation).
     
-* In addition, we will send you, based on your consent (if required), direct marketing communication in relation to our relevant services, or other services provided by us, our affiliates and carefully selected partners. You can withdraw your consent at any time ("opt out"); see the section "What are your rights?" below. In case of electronic direct marketing you can opt out by following the instructions in the communication.
+*   In addition, we will send you, based on your consent (if required), direct marketing communication in relation to our relevant services, or other services provided by us, our affiliates and carefully selected partners. You can withdraw your consent at any time ("opt out"); see the section "What are your rights?" below. In case of electronic direct marketing you can opt out by following the instructions in the communication.
     
-* In certain cases, we may also share some Personal Information with third parties, but only as described in this Privacy Policy.
+*   In certain cases, we may also share some Personal Information with third parties, but only as described in this Privacy Policy.
     
 
 **How will Substack share the Personal Information it receives?**
 
 We may share your Personal Information with third parties as described below:
 
-* **Affiliates:** We may disclose your Personal Information to our subsidiaries and/or corporate affiliates for the purposes as described above.
+*   **Affiliates:** We may disclose your Personal Information to our subsidiaries and/or corporate affiliates for the purposes as described above.
     
-* **Creators:** when you subscribe to a Creator’s publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator’s publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.
+*   **Creators:** when you subscribe to a Creator’s publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator’s publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.
     
-* **Our Service Providers:** We share your Personal Information with third-party service providers that provide services on our behalf; for example, we use Stripe (a third party payment provider) to receive and process your credit card transactions for us. Such third parties further include, but are not limited to, providers of: website hosting; maintenance services; email services; security services; content delivery networks; customer support operations and software services; traffic and usage analytics services; and cloud storage and computing services.
+*   **Our Service Providers:** We share your Personal Information with third-party service providers that provide services on our behalf; for example, we use Stripe (a third party payment provider) to receive and process your credit card transactions for us. Such third parties further include, but are not limited to, providers of: website hosting; maintenance services; email services; security services; content delivery networks; customer support operations and software services; traffic and usage analytics services; and cloud storage and computing services.
     
-* **Third-Party Data Controllers:** We provide integrations with third-party services for you to use at your option. When we do, we only use the Personal Information we collect from the integrated third-party service for the purpose of providing the integration to you, and do not disclose that information except where required by law or as directed by the third-party service. Please keep in mind that you may use an integrated third-party service to send your Personal Information or content to the provider of the integrated third-party service, in which case you should refer to the privacy policy of the applicable third-party service provider to understand how your Personal Information is used. For instance, you may use Substack to upload content to YouTube, in which case the [Google privacy policy](http://www.google.com/policies/privacy) governs how YouTube uses your Personal Information.
+*   **Third-Party Data Controllers:** We provide integrations with third-party services for you to use at your option. When we do, we only use the Personal Information we collect from the integrated third-party service for the purpose of providing the integration to you, and do not disclose that information except where required by law or as directed by the third-party service. Please keep in mind that you may use an integrated third-party service to send your Personal Information or content to the provider of the integrated third-party service, in which case you should refer to the privacy policy of the applicable third-party service provider to understand how your Personal Information is used. For instance, you may use Substack to upload content to YouTube, in which case the [Google privacy policy](http://www.google.com/policies/privacy) governs how YouTube uses your Personal Information.
     
-* **Other users:** If your user profile allows it, you may choose to populate certain user profile information, including, without limitation, your name, subscriptions, publications, location, and any image content. Any user profile information uploaded may be displayed to other users to facilitate user interaction within the services (including when you post comments or upload images or videos through the services). Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Your username and user profile may also be displayed to other users when you interact with a publication post, for instance, by “liking” the post or leaving a comment. You may have the option to allow Substack to share information on what you’ve read or are reading on Substack with the public, or with other accounts socially connected to your own, such as your social media followers. If you opt into contact syncing through our app, your profile information will be shared with any user who has (i) also opted into contact syncing, and who (ii) identified you as a contact.
+*   **Other users:** If your user profile allows it, you may choose to populate certain user profile information, including, without limitation, your name, subscriptions, publications, location, and any image content. Any user profile information uploaded may be displayed to other users to facilitate user interaction within the services (including when you post comments or upload images or videos through the services). Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Your username and user profile may also be displayed to other users when you interact with a publication post, for instance, by “liking” the post or leaving a comment. You may have the option to allow Substack to share information on what you’ve read or are reading on Substack with the public, or with other accounts socially connected to your own, such as your social media followers. If you opt into contact syncing through our app, your profile information will be shared with any user who has (i) also opted into contact syncing, and who (ii) identified you as a contact.
     
-* **Prospective sellers or buyers:** We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.
+*   **Prospective sellers or buyers:** We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.
     
-* **Government authorities, law enforcement officials, and court-ordered disclosures:** If required for the purposes as described in this Privacy Policy, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws we may share Personal Information with competent regulatory, prosecuting, tax or governmental authorities, courts or other tribunals, or with litigants entitled by law to receive personal information, in any jurisdiction or markets, domestic or foreign.
+*   **Government authorities, law enforcement officials, and court-ordered disclosures:** If required for the purposes as described in this Privacy Policy, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws we may share Personal Information with competent regulatory, prosecuting, tax or governmental authorities, courts or other tribunals, or with litigants entitled by law to receive personal information, in any jurisdiction or markets, domestic or foreign.
     
 
 In certain cases, we may anonymize your Personal Information in such a way that you can no longer be identified as an individual, and we reserve the right to use and share such anonymized information to trusted partners not specified here. However, we never disclose aggregated or de-identified information in a manner that could identify you as an individual.
@@ -163,11 +163,11 @@ _You can access, edit, or delete some personal information by yourself_
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
-* name and password
+*   name and password
     
-* email address
+*   email address
     
-* user profile information, including images you may have uploaded to the site
+*   user profile information, including images you may have uploaded to the site
     
 
 The information you can view, update, and delete may change as the services change. If you'd like to delete your account, you can do so from your [account page](https://substack.com/account/settings).
@@ -487,7 +487,7 @@ Last updated: February 19, 2025
 
 **Changes in the Last Update**
 
-* Update disclosures about how we use your personal information to provide recommendations
+*   Update disclosures about how we use your personal information to provide recommendations
     
 
 * * *
@@ -529,17 +529,17 @@ You have a right to know what Personal Information we have collected about you, 
 
 You have a right to request information about our collection, use, and disclosure of your Personal Information over the prior 12 months, and ask that we provide you with the following information:
 
-1. Categories of and specific pieces of Personal Information we have collected about you.
+1.  Categories of and specific pieces of Personal Information we have collected about you.
     
-2. Categories of sources from which we collect Personal Information.
+2.  Categories of sources from which we collect Personal Information.
     
-3. Purposes for collecting, using, selling, or sharing Personal Information.
+3.  Purposes for collecting, using, selling, or sharing Personal Information.
     
-4. Categories of third parties to which we disclose Personal Information.
+4.  Categories of third parties to which we disclose Personal Information.
     
-5. Categories of Personal Information disclosed about you for a business purpose.
+5.  Categories of Personal Information disclosed about you for a business purpose.
     
-6. If applicable, categories of Personal Information sold or shared about you and the categories of third parties to which the Personal Information was sold or shared, by category or categories of Personal Information for each third party to which the Personal Information was sold or shared.
+6.  If applicable, categories of Personal Information sold or shared about you and the categories of third parties to which the Personal Information was sold or shared, by category or categories of Personal Information for each third party to which the Personal Information was sold or shared.
     
 
 **Your Deletion Rights**
