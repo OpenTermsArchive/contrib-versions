@@ -90,72 +90,72 @@ Upon termination, your right to use the Flutterwave Services or platform will im
 
 Flutterwave shall not solicit or sign agreements with merchants or sub-merchants (i) in any of the following categories/businesses, or (ii) engaging in any of the following activities unless the Flutterwave is entering into a broad-based program with a recognized referral, technology or marketplace partner that specializes in these types of activities or businesses and such program is pre-approved by Flutterwave in its sole discretion. Such activities are as follows:
 
-* Age Restricted products or services.
-* Any Sub-merchant where the anticipated % of International Card Sales is expected to be greater than 20% of total sales.
-* Marketplaces, which bring together buyers and sellers allowing for online purchases.
-* Crowd Sourced Fundraising, as defined by Flutterwave from time to time, except however, Crowd Sourced Fundraising shall not be allowed for the purchase of stock or equity, a promise made to deliver a good or service in the future, or there is no consideration in return for the payment or donation.
-* Dating services.
-* Internet/Mail Order Pharmacies.
-* NGO / Charities.
-* Money Transfer, Wire Transfers, Money Orders, Transmitters, including merchants unless registered and licensed as a Money Service Business or Money Transfer Operator.
-* Payment Facilitators (unless Registered & Licensed)
-* Personal Enhancement Products and/or Nutraceuticals.
-* Sports Betting, sports forecasting or odds making with a monetary or material value prize or award.
-* Investment or Brokerage services, including but not limited to the purchase of securities or Crypto.
-* Lending services, debt repayment or collections.
-* Buy Now, Pay Later Services or other installment loan services.
-* Insurance services, whether as a direct underwriter, agent or broker.
-* Digital Wallets, Cryptocurrency, Non-Fungible Token (NFTs) or Prepaid Card Companies.
-* Neobanks or other FinTechs, who partner with licensed financial institutions to offer banking or other financial services to consumers and/or businesses.
-* Businesses facilitating Money Transfer Services or other remittances.
-* Travel services such as Airlines, Cruises, Timeshare, Tour Operators, Travel Agency Services, Hotels and Resorts.
-* Prepaid Phone Cards and SIM Cards.
-* Stored Value Services offered as a resale or on behalf of another party.
-* Governmental agencies including, but not limited to: Embassies, Consulates, and Governmental Services.
-* Shipping Forwarding Services or Drop Shippers.
-* Cannabis products or services including dispensaries, delivery services, CBD/THC products.
-* Tobacco products, including e-Cigarettes.
-* Lotteries.
-* Internet gambling.
-* Cryptocurrency
+*   Age Restricted products or services.
+*   Any Sub-merchant where the anticipated % of International Card Sales is expected to be greater than 20% of total sales.
+*   Marketplaces, which bring together buyers and sellers allowing for online purchases.
+*   Crowd Sourced Fundraising, as defined by Flutterwave from time to time, except however, Crowd Sourced Fundraising shall not be allowed for the purchase of stock or equity, a promise made to deliver a good or service in the future, or there is no consideration in return for the payment or donation.
+*   Dating services.
+*   Internet/Mail Order Pharmacies.
+*   NGO / Charities.
+*   Money Transfer, Wire Transfers, Money Orders, Transmitters, including merchants unless registered and licensed as a Money Service Business or Money Transfer Operator.
+*   Payment Facilitators (unless Registered & Licensed)
+*   Personal Enhancement Products and/or Nutraceuticals.
+*   Sports Betting, sports forecasting or odds making with a monetary or material value prize or award.
+*   Investment or Brokerage services, including but not limited to the purchase of securities or Crypto.
+*   Lending services, debt repayment or collections.
+*   Buy Now, Pay Later Services or other installment loan services.
+*   Insurance services, whether as a direct underwriter, agent or broker.
+*   Digital Wallets, Cryptocurrency, Non-Fungible Token (NFTs) or Prepaid Card Companies.
+*   Neobanks or other FinTechs, who partner with licensed financial institutions to offer banking or other financial services to consumers and/or businesses.
+*   Businesses facilitating Money Transfer Services or other remittances.
+*   Travel services such as Airlines, Cruises, Timeshare, Tour Operators, Travel Agency Services, Hotels and Resorts.
+*   Prepaid Phone Cards and SIM Cards.
+*   Stored Value Services offered as a resale or on behalf of another party.
+*   Governmental agencies including, but not limited to: Embassies, Consulates, and Governmental Services.
+*   Shipping Forwarding Services or Drop Shippers.
+*   Cannabis products or services including dispensaries, delivery services, CBD/THC products.
+*   Tobacco products, including e-Cigarettes.
+*   Lotteries.
+*   Internet gambling.
+*   Cryptocurrency
 
 ### Prohibited Sub-Merchants
 
 Flutterwave shall not solicit or sign agreements with merchants or sub-merchants (i) in any of the following categories/businesses, or (ii) engaging in any of the following activities, as may be updated by Flutterwave in its sole discretion from time to time as they are prohibited by Flutterwave and/or the Card Brand rules. Such activities include:
 
-* Any product, service or activity that is deceptive, unfair, predatory or prohibited by one or more Card Brands.
-* Any Merchant selling goods or services that represent a violation of any law, statute or regulation.
-* Any Merchant selling products that infringe on the intellectual property rights of others, including counterfeit goods or any product or service that infringes on the copyright, trademark or trade secrets of any third party, such as many Cyberlockers.
-* Any Merchant that engages in the unauthorized sale of brand name or designer products or services.
-* Any Merchant accepting a card as payment for a dishonored check or for an item deemed uncollectible by another merchant.
-* Any Merchant that accepts a card at a scrip-dispensing terminal.
-* Adult entertainment and/or adult content websites including Electronic Commerce adult content (videotext) merchants that would include MCC’s 5967, 7273 and 7841.
-* Bestiality.
-* Brand or reputational damaging (whether potential or otherwise) activities including Child Pornography, Escort services, Mail Order Brides, Prostitution, Massage Parlours, Occult.
-* Digital Wallet, Cryptocurrency or Prepaid Companies.
-* Drug Paraphernalia.
-* Firearms, weapons, ammunition, gunpowder, fireworks and other explosive substances, chemicals or devices.
-* Research chemicals, peptides, and other toxic, flammable or radioactive materials.
-* Investment or “get rich quick” merchants, businesses or programs.
-* Marijuana dispensaries and related products or services.
-* Multi-Level Marketing Businesses.
-* “Negative option” marketing, renewal, or continuity subscription practices; marketing activities involving low-dollar trails, “pay only for shipping,” and/or “free trial” periods after which a credit card is charged periodically and/or a significantly larger amount.
-* Pawn Shops.
-* Pseudo Pharmaceuticals.
-* Psychics and “occult” businesses.
-* Quasi-Cash or Stored Value.
-* Substances designed to mimic illegal drugs.
-* Transacting Virtual Currency or credits that can be monetized, re-sold or converted to physical or digital goods or services or otherwise exit the virtual world.
-* Identification Providing Services.
-* Business, content, services or behaviour that promotes, glorifies or engages in unlawful violence, physical or virtual harm to property, persons, or group on the basis of race, national origin, religion, disability, gender, or sexual orientation.
-* Predatory financial services including but not limited to credit counselling, wealth management, or loan consulting.
-* Pornography or other adult audience products or services including images, video, audio, literature, live chat services or other media, which convey explicitly sexual behaviour.
-* Bail Bond Services, Bankruptcy Lawyers, or Law Firms collecting funds for any service other than legal services fees.
-* In-person gambling or sweepstakes or contests, fantasy sports leagues offering monetary or value prizes or awards.
-* Bidding fee auctions.
-* Using Flutterwave’s card not-present checkout flow as a virtual POS terminal for in-person card present transactions.
-* Currency Exchange Services.
-* Any unlawful activities/items or encouragement of the same.
+*   Any product, service or activity that is deceptive, unfair, predatory or prohibited by one or more Card Brands.
+*   Any Merchant selling goods or services that represent a violation of any law, statute or regulation.
+*   Any Merchant selling products that infringe on the intellectual property rights of others, including counterfeit goods or any product or service that infringes on the copyright, trademark or trade secrets of any third party, such as many Cyberlockers.
+*   Any Merchant that engages in the unauthorized sale of brand name or designer products or services.
+*   Any Merchant accepting a card as payment for a dishonored check or for an item deemed uncollectible by another merchant.
+*   Any Merchant that accepts a card at a scrip-dispensing terminal.
+*   Adult entertainment and/or adult content websites including Electronic Commerce adult content (videotext) merchants that would include MCC’s 5967, 7273 and 7841.
+*   Bestiality.
+*   Brand or reputational damaging (whether potential or otherwise) activities including Child Pornography, Escort services, Mail Order Brides, Prostitution, Massage Parlours, Occult.
+*   Digital Wallet, Cryptocurrency or Prepaid Companies.
+*   Drug Paraphernalia.
+*   Firearms, weapons, ammunition, gunpowder, fireworks and other explosive substances, chemicals or devices.
+*   Research chemicals, peptides, and other toxic, flammable or radioactive materials.
+*   Investment or “get rich quick” merchants, businesses or programs.
+*   Marijuana dispensaries and related products or services.
+*   Multi-Level Marketing Businesses.
+*   “Negative option” marketing, renewal, or continuity subscription practices; marketing activities involving low-dollar trails, “pay only for shipping,” and/or “free trial” periods after which a credit card is charged periodically and/or a significantly larger amount.
+*   Pawn Shops.
+*   Pseudo Pharmaceuticals.
+*   Psychics and “occult” businesses.
+*   Quasi-Cash or Stored Value.
+*   Substances designed to mimic illegal drugs.
+*   Transacting Virtual Currency or credits that can be monetized, re-sold or converted to physical or digital goods or services or otherwise exit the virtual world.
+*   Identification Providing Services.
+*   Business, content, services or behaviour that promotes, glorifies or engages in unlawful violence, physical or virtual harm to property, persons, or group on the basis of race, national origin, religion, disability, gender, or sexual orientation.
+*   Predatory financial services including but not limited to credit counselling, wealth management, or loan consulting.
+*   Pornography or other adult audience products or services including images, video, audio, literature, live chat services or other media, which convey explicitly sexual behaviour.
+*   Bail Bond Services, Bankruptcy Lawyers, or Law Firms collecting funds for any service other than legal services fees.
+*   In-person gambling or sweepstakes or contests, fantasy sports leagues offering monetary or value prizes or awards.
+*   Bidding fee auctions.
+*   Using Flutterwave’s card not-present checkout flow as a virtual POS terminal for in-person card present transactions.
+*   Currency Exchange Services.
+*   Any unlawful activities/items or encouragement of the same.
 
 ### Changes to the Flutterwave Terms of Use
 
