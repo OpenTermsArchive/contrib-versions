@@ -7,7 +7,7 @@ Value Impression ("us", "we", or "our") operates the valueimpression.com website
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data, as well as allows you to change your Cookie Settings.
 
-[Change your consent](javascript:window.__cmp('showConsentTool');)
+[Change your consent](javascript:window.__cmp\('showConsentTool'\);)
 
   
 
