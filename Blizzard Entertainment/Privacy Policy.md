@@ -119,94 +119,94 @@ _a) Performing core business activities and its operations_
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: BattleTag, Blizzard account name, game chat logs, name, social media handles (if linked to Game Account)
-* ACTIVITY INFORMATION: Activity logs, timestamps, country
-* GAME DATA: Game stats, match history, quest in progress, guild info, friends list, Items a player has/can purchase (d)
+*   ACCOUNT INFORMATION: BattleTag, Blizzard account name, game chat logs, name, social media handles (if linked to Game Account)
+*   ACTIVITY INFORMATION: Activity logs, timestamps, country
+*   GAME DATA: Game stats, match history, quest in progress, guild info, friends list, Items a player has/can purchase (d)
 
 **Player’s Account, Parental Controls and Security.** Players of most of our games use a Battle.net account to house assets, communicate with friends and learn about our games and services. Parents of our younger players may set parental controls to monitor and control their children’s gaming. _This includes: Player's Account, Parental Control Management._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: Account name change history, address, BattleTag, Blizzard account name, name, phone number, legal guardian details, social media handles (if linked to Bnet account)
-* ACTIVITY INFORMATION: Account created date, activity log, timestamps, country, language, opt in details, SQA
-* GEOLOCATION: IP address
+*   ACCOUNT INFORMATION: Account name change history, address, BattleTag, Blizzard account name, name, phone number, legal guardian details, social media handles (if linked to Bnet account)
+*   ACTIVITY INFORMATION: Account created date, activity log, timestamps, country, language, opt in details, SQA
+*   GEOLOCATION: IP address
 
 **Classic Esports Pro-Gaming Competitions.** Professional competitive video gaming tournaments of many of our franchises taking place all over the world. The production of these tournaments often requires travel, lodging and nutrition arrangements for pro-players and attendees. We also might use players’ information to complete tournaments, service or product payouts and/or reimbursements, and attendees’ information to promote their participation and engagement. _This includes: Tournament Administration, Event Travel and Logistics, Payments and Contract Management, Contest participation and Fans’ Engagement._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: Name, email address, address, legal guardian details, BattleTag, Blizzard account name, National Identification Number, passport number
-* SENSITIVE DATA: Dietary restrictions, food allergies
-* TRANSACTION/PURCHASING INFORMATION: Goodies sent, payment information
-* INFERENCES ABOUT A PERSON: Experience, reputation, minor?
-* TOURNAMENT/MATCH INFORMATION: Player handle, roles, team details, team/player stats
-* ACTIVITY DATA: Timestamps
-* ADMINISTRATIVE INFORMATION: Other passport details, rate history, region, language, clothing sizes
-* EMPLOYMENT INFORMATION: Company name, department, job classification
+*   ACCOUNT INFORMATION: Name, email address, address, legal guardian details, BattleTag, Blizzard account name, National Identification Number, passport number
+*   SENSITIVE DATA: Dietary restrictions, food allergies
+*   TRANSACTION/PURCHASING INFORMATION: Goodies sent, payment information
+*   INFERENCES ABOUT A PERSON: Experience, reputation, minor?
+*   TOURNAMENT/MATCH INFORMATION: Player handle, roles, team details, team/player stats
+*   ACTIVITY DATA: Timestamps
+*   ADMINISTRATIVE INFORMATION: Other passport details, rate history, region, language, clothing sizes
+*   EMPLOYMENT INFORMATION: Company name, department, job classification
 
 **Tournaments and events Broadcast & production.** Many of our tournaments are broadcasted and require player-background information to facilitate a great viewer experience. _This includes: Assets & Content Management, Chat Channel Moderation, Tournament & Gameplay Statistics, and Viewership & Engagement._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: Name, legal guardian details, BattleTag, Blizzard account name, social media handles
-* SENSITIVE DATA: Dietary restrictions
-* TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
-* ADMINISTRATIVE INFORMATION: Social media sites, language, signed NDA
-* EMPLOYMENT INFORMATION: Job classification
+*   ACCOUNT INFORMATION: Name, legal guardian details, BattleTag, Blizzard account name, social media handles
+*   SENSITIVE DATA: Dietary restrictions
+*   TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
+*   ADMINISTRATIVE INFORMATION: Social media sites, language, signed NDA
+*   EMPLOYMENT INFORMATION: Job classification
 
 **Global Customer Service.** We provide you with personalised support to investigate and address any possible difficulty you might experience with our games, your account or your purchases. _This includes: Customer Service Support, Customer Issue Resolution, Forum Moderation, Chat Setup._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: Address, BattleTag, Blizzard account name, email address, name, phone number
-* TRANSACTION/PURCHASING INFORMATION: Billing address, order details, payment information, shipping address
-* ACTIVITY INFORMATION: Activity log, timestamps, country, internet service provider, region
-* GEOLOCATION: IP address
-* CUSTOMER SERVICE: Case details, case history, complaint history, customer service chat logs, penalty history, submitted files
+*   ACCOUNT INFORMATION: Address, BattleTag, Blizzard account name, email address, name, phone number
+*   TRANSACTION/PURCHASING INFORMATION: Billing address, order details, payment information, shipping address
+*   ACTIVITY INFORMATION: Activity log, timestamps, country, internet service provider, region
+*   GEOLOCATION: IP address
+*   CUSTOMER SERVICE: Case details, case history, complaint history, customer service chat logs, penalty history, submitted files
 
 **Purchases.** We process orders for our products, tournaments and services. _This includes: Battlenet Purchases, Gear Store, Deduct Sessions, Strong Customer Authentication for Card Payments._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, CC/IBAN, company email address, name, phone number, parent Tax/Vat/VAS number, Tax/Vat/VAS number
-* PROTECTED CLASSIFICATIONS: Date of birth, gender
-* TRANSACTION/PURCHASING INFORMATION: Billing name and address, order and refunds details, payment information, product reviews, shipping name and address shopping cart, licences and subscriptions
-* ACTIVITY INFORMATION: Account created date, activity logs, timestamps, device information, web activity, wish list
-* GEOLOCATION: IP address
-* EMPLOYMENT INFORMATION: Company name
+*   ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, CC/IBAN, company email address, name, phone number, parent Tax/Vat/VAS number, Tax/Vat/VAS number
+*   PROTECTED CLASSIFICATIONS: Date of birth, gender
+*   TRANSACTION/PURCHASING INFORMATION: Billing name and address, order and refunds details, payment information, product reviews, shipping name and address shopping cart, licences and subscriptions
+*   ACTIVITY INFORMATION: Account created date, activity logs, timestamps, device information, web activity, wish list
+*   GEOLOCATION: IP address
+*   EMPLOYMENT INFORMATION: Company name
 
 **Finance and Accounting.** We use some information for the administration of our business' assets. _This includes: Payment Gateway Cost Analysis, Revenue and Sales Tax Preparation, Unclaimed Property Transfer._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, name
-* TRANSACTION/PURCHASING INFORMATION: Billing address, order details, recharge details
-* ACTIVITY INFORMATION: Activity logs, timestamps, balance
-* GEOLOCATION: IP address
+*   ACCOUNT INFORMATION : Address, name
+*   TRANSACTION/PURCHASING INFORMATION: Billing address, order details, recharge details
+*   ACTIVITY INFORMATION: Activity logs, timestamps, balance
+*   GEOLOCATION: IP address
 
 **Social Features.** We enable communications and experience sharing between our players. _This includes: Fireside Gathering Event, Chat Applications, Forums, Tournament Hosting, Player Profile and Leaderboards._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : About me text, address, BattleTag, Blizzard account name, chat records, game account details, name, nickname
-* ACTIVITY INFORMATION: Timestamps, Fireside Gatherings details, forums content, skill/role, friends, region
-* GEOLOCATION: Geolocation based on IP address, IP address
-* TOURNAMENT/MATCH INFORMATION: Brackets, match details, player handle, tournament details, team/player stats
-* GAME DATA: Gameplay details
-* EMPLOYMENT INFORMATION: Company name
+*   ACCOUNT INFORMATION : About me text, address, BattleTag, Blizzard account name, chat records, game account details, name, nickname
+*   ACTIVITY INFORMATION: Timestamps, Fireside Gatherings details, forums content, skill/role, friends, region
+*   GEOLOCATION: Geolocation based on IP address, IP address
+*   TOURNAMENT/MATCH INFORMATION: Brackets, match details, player handle, tournament details, team/player stats
+*   GAME DATA: Gameplay details
+*   EMPLOYMENT INFORMATION: Company name
 
 **Communication with our players.** We also communicate with players about products, services, studies, surveys, news, updates and events. Blizzard may also use the information to promote and process contests and sweepstakes, fulfil any related awards. _This includes: Community Voting, Favourites, Mobile Push Notifications, Research and Studies._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : BattleTag, Blizzard account name, email address, name, phone number
-* PROTECTED CLASSIFICATIONS: Age, gender
-* TRANSACTION/ PURCHASING INFORMATION: Payment Information
-* INFERENCE ABOUT A PERSON: Reputation, Influencer Type, Minor
-* ACTIVITY INFORMATION: Timestamps, device information, language, preferences/favourites/subscriptions, votes
-* GEOLOCATION: IP address
-* TOURNAMENT/MATCH INFORMATION: Player handle, team/ player stats
-* EMPLOYMENT INFORMATION: Profession, job classification
+*   ACCOUNT INFORMATION : BattleTag, Blizzard account name, email address, name, phone number
+*   PROTECTED CLASSIFICATIONS: Age, gender
+*   TRANSACTION/ PURCHASING INFORMATION: Payment Information
+*   INFERENCE ABOUT A PERSON: Reputation, Influencer Type, Minor
+*   ACTIVITY INFORMATION: Timestamps, device information, language, preferences/favourites/subscriptions, votes
+*   GEOLOCATION: IP address
+*   TOURNAMENT/MATCH INFORMATION: Player handle, team/ player stats
+*   EMPLOYMENT INFORMATION: Profession, job classification
 
 _b) Debug to identify and repair errors that impair exiting intended_
 
@@ -214,11 +214,11 @@ _b) Debug to identify and repair errors that impair exiting intended_
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, chat records, device name, email address, name, internal IDs
-* PROTECTED CLASSIFICATIONS: Age, date of birth, gender
-* ACTIVITY INFORMATION: Activity logs, country, device information, language, region
-* GEOLOCATION: IP address
-* CUSTOMER SERVICE: Service Performance Speed report
+*   ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, chat records, device name, email address, name, internal IDs
+*   PROTECTED CLASSIFICATIONS: Age, date of birth, gender
+*   ACTIVITY INFORMATION: Activity logs, country, device information, language, region
+*   GEOLOCATION: IP address
+*   CUSTOMER SERVICE: Service Performance Speed report
 
 _c) Detect security incidents and protect our players against malicious, deceptive, fraudulent, or illegal activity_
 
@@ -228,20 +228,20 @@ _Any available information can be used for this purpose_
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Any available details
-* ACTIVITY INFORMATION: Activity logs, timestamps, country, region
-* GEOLOCATION: IP address
-* CUSTOMER SERVICE: Account restriction history, active penalties, case details, complaint history, customer service chat logs
+*   ACCOUNT INFORMATION : Any available details
+*   ACTIVITY INFORMATION: Activity logs, timestamps, country, region
+*   GEOLOCATION: IP address
+*   CUSTOMER SERVICE: Account restriction history, active penalties, case details, complaint history, customer service chat logs
 
 **Legal proceedings and requirements.** We may use the information we collect to investigate, or address claims or disputes relating to your use of Blizzard’s services or as otherwise allowed or required by applicable law. _This includes: Litigation or Pre-litigation._
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, name
-* INFERENCES ABOUT A PERSON: Reputation
-* TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
-* LEGAL RECORDS: Case file
-* ADMINISTRATIVE INFORMATION: Publicly available link
+*   ACCOUNT INFORMATION : Address, name
+*   INFERENCES ABOUT A PERSON: Reputation
+*   TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
+*   LEGAL RECORDS: Case file
+*   ADMINISTRATIVE INFORMATION: Publicly available link
 
 _d) Undertaking activities to verify or maintain the quality of our products and services and to improve, upgrade, or enhance them for your convenience_
 
@@ -249,12 +249,12 @@ _d) Undertaking activities to verify or maintain the quality of our products and
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, CC/IBAN, chat records, forum content, game account details, related players, name, phone number
-* TRANSACTION/PURCHASING INFORMATION: Purchase and refund histories
-* ACTIVITY INFORMATION: Activity logs, timestamps, cancellation surveys, country, device information, licences details
-* GEOLOCATION: IP address
-* CUSTOMER SERVICE: Support survey, case details
-* GAME DATA: Gameplay details
+*   ACCOUNT INFORMATION : Address, BattleTag, Blizzard account name, CC/IBAN, chat records, forum content, game account details, related players, name, phone number
+*   TRANSACTION/PURCHASING INFORMATION: Purchase and refund histories
+*   ACTIVITY INFORMATION: Activity logs, timestamps, cancellation surveys, country, device information, licences details
+*   GEOLOCATION: IP address
+*   CUSTOMER SERVICE: Support survey, case details
+*   GAME DATA: Gameplay details
 
 e) Audit and legal compliance of products and services
 
@@ -262,10 +262,10 @@ e) Audit and legal compliance of products and services
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Address, email address, name, phone number, age
-* TRANSACTION/PURCHASING INFORMATION: Billing address, order details
-* ACTIVITY INFORMATI ON: Timestamps, change details
-* GEOLOCATION: IP address
+*   ACCOUNT INFORMATION : Address, email address, name, phone number, age
+*   TRANSACTION/PURCHASING INFORMATION: Billing address, order details
+*   ACTIVITY INFORMATI ON: Timestamps, change details
+*   GEOLOCATION: IP address
 
 _f) Short-term, transit use, information that is not disclosed to another third party and is not used to build a profile about a consumer or otherwise alter an individual consumer's expertise outside the current intention_
 
@@ -273,7 +273,7 @@ _f) Short-term, transit use, information that is not disclosed to another third 
 
 Examples of information used:
 
-* GEOLOCATION: IP address
+*   GEOLOCATION: IP address
 
 _g) Creating, communicating, delivering, and exchanging offerings that have a specific value to our customers_
 
@@ -283,32 +283,32 @@ _Ad targeting via “paid media” and “custom audience” (your unencrypted i
 
 Examples of information used:
 
-* ACCOUNT INFORMATION: Email address, name, Device information (IDs)
-* TRANSACTION/PURCHASING INFORMATION: Licences details, purchase history
-* ACTIVITY INFORMATION: Activity logs, timestamps, country, ad/campaign activity, language, region
-* GAME DATA: Gameplay details
-* TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
-* ADMINISTRATIVE INFORMATION: Language, Social media sites
+*   ACCOUNT INFORMATION: Email address, name, Device information (IDs)
+*   TRANSACTION/PURCHASING INFORMATION: Licences details, purchase history
+*   ACTIVITY INFORMATION: Activity logs, timestamps, country, ad/campaign activity, language, region
+*   GAME DATA: Gameplay details
+*   TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
+*   ADMINISTRATIVE INFORMATION: Language, Social media sites
 
 _Transactional and Marketing campaigns and promotions_
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : BattleTag, email address, name
-* TRANSACTION/PURCHASING INFORMATION: Purchase history
-* ACTIVITY INFORMATION: Activity logs, timestamps, country, email activity, language, region
-* GAME DATA: Gameplay details
-* TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
-* ADMINISTRATIVE INFORMATION: Language, Social media sites
+*   ACCOUNT INFORMATION : BattleTag, email address, name
+*   TRANSACTION/PURCHASING INFORMATION: Purchase history
+*   ACTIVITY INFORMATION: Activity logs, timestamps, country, email activity, language, region
+*   GAME DATA: Gameplay details
+*   TOURNAMENT/MATCH INFORMATION: Player handle, team details, team/player stats
+*   ADMINISTRATIVE INFORMATION: Language, Social media sites
 
 _Attribution & media measurement_
 
 Examples of information used:
 
-* ACCOUNT INFORMATION : Device information (IDs)
-* TRANSACTION/PURCHASING INFORMATION: Purchase history
-* ACTIVITY INFORMATION: Activity logs, device information, ad/campaign activity, app details
-* GEOLOCATION: IP address
+*   ACCOUNT INFORMATION : Device information (IDs)
+*   TRANSACTION/PURCHASING INFORMATION: Purchase history
+*   ACTIVITY INFORMATION: Activity logs, device information, ad/campaign activity, app details
+*   GEOLOCATION: IP address
 
 4\. What are Blizzard’s legal bases for processing your information?
 --------------------------------------------------------------------
@@ -317,63 +317,63 @@ We process your information in accordance with the legal bases determined as fol
 
 **1\. Necessary for the performance of your game contract or any other feature you request or enable.** These are required, and ceasing their processing will remove access to certain features or to the game service altogether. This includes using information for:
 
-* Game functionality
-* Global Customer Service
-* Battle.net platform functionality
-* Account functionality
-* Parental control
-* Purchases
-* Chat, Text, or Voice applications
-* Forums
-* Contest participation
-* Tournament hosting
-* Research and studies
-* Troubleshooting and diagnostics
-* Abuse/toxicity/cheat/exploit detection and prevention
-* Account compromise prevention
-* Account restrictions and penalties
-* Enrolled esports
-* Enrolled promotions/contests
-* Alpha and beta versions participation
+*   Game functionality
+*   Global Customer Service
+*   Battle.net platform functionality
+*   Account functionality
+*   Parental control
+*   Purchases
+*   Chat, Text, or Voice applications
+*   Forums
+*   Contest participation
+*   Tournament hosting
+*   Research and studies
+*   Troubleshooting and diagnostics
+*   Abuse/toxicity/cheat/exploit detection and prevention
+*   Account compromise prevention
+*   Account restrictions and penalties
+*   Enrolled esports
+*   Enrolled promotions/contests
+*   Alpha and beta versions participation
 
 **2\. Consent.** You can withdraw your consent to these at any time.
 
 _**Consent functionality in account management** – Communications Preferences_
 
-* _Receive news and special offers from Battle.net by email_ – Carefully selected news, event information and special offers about Battle.net products and services
-* _Receive news and special offers about selected third-party products and services by email_ – Carefully selected news, event information and special offers about third-party products and services
-* _Battle/net Product Recommendations in the Shop_ - allow tailored products and offers recommended to you based on the games you already own.
-* _Battle.net and mobile push notifications_ - Receive communication push notifications about Battle.net on your device.
-* _Enable Real ID_ – The first and last names associated with your account will be visible to Real ID friends. If you do not enable Real ID, only your BattleTag will be visible
-* _Suggest me to friends of friends_ – If enabled, friends of your friends may see you in their suggested friends list
-* _Receive private chat messages from friends only_ – If enabled, you can only receive private chat messages from your friends. This setting may not apply to chat messages sent in-game
-* _Receive account security notification by SMS_ - SMS notifications when your account is flagged for suspicious login activity, your password has been changed, or security features are added or removed from your account. You must setup SMS alerts to receive these
-* _Third-party account connection_ - You may wish to link your third-party accounts to your battle.net account to access additional features, including logging in to your Battle.net Account with those other account credentials
+*   _Receive news and special offers from Battle.net by email_ – Carefully selected news, event information and special offers about Battle.net products and services
+*   _Receive news and special offers about selected third-party products and services by email_ – Carefully selected news, event information and special offers about third-party products and services
+*   _Battle/net Product Recommendations in the Shop_ - allow tailored products and offers recommended to you based on the games you already own.
+*   _Battle.net and mobile push notifications_ - Receive communication push notifications about Battle.net on your device.
+*   _Enable Real ID_ – The first and last names associated with your account will be visible to Real ID friends. If you do not enable Real ID, only your BattleTag will be visible
+*   _Suggest me to friends of friends_ – If enabled, friends of your friends may see you in their suggested friends list
+*   _Receive private chat messages from friends only_ – If enabled, you can only receive private chat messages from your friends. This setting may not apply to chat messages sent in-game
+*   _Receive account security notification by SMS_ - SMS notifications when your account is flagged for suspicious login activity, your password has been changed, or security features are added or removed from your account. You must setup SMS alerts to receive these
+*   _Third-party account connection_ - You may wish to link your third-party accounts to your battle.net account to access additional features, including logging in to your Battle.net Account with those other account credentials
 
 _**Consent obtained in other instances**_
 
-* _Cookies and Tracking Technology_ - Information stored on your device (cookies and similar tracking technology), so that we can better understand how our sites and apps are used and send more relevant offers to you. See the Tracking Technology section below regarding how to withdraw this consent.
-* _Sensitive Data_ - Such as allergies, disabilities or other health requirements which you provide when you enrol in an Esports Pro-Gaming competition. Contact [Privacy@Blizzard.com](mailto:Privacy@Blizzard.com) to withdraw this type of consent.
+*   _Cookies and Tracking Technology_ - Information stored on your device (cookies and similar tracking technology), so that we can better understand how our sites and apps are used and send more relevant offers to you. See the Tracking Technology section below regarding how to withdraw this consent.
+*   _Sensitive Data_ - Such as allergies, disabilities or other health requirements which you provide when you enrol in an Esports Pro-Gaming competition. Contact [Privacy@Blizzard.com](mailto:Privacy@Blizzard.com) to withdraw this type of consent.
 
-3. **Legitimate interest.** We use your information for purposes that are not harmful to your privacy and that can be reasonably expected within the context of your relationship with Blizzard. This includes using information for:
+3.  **Legitimate interest.** We use your information for purposes that are not harmful to your privacy and that can be reasonably expected within the context of your relationship with Blizzard. This includes using information for:
 
-* Ad targeting via ‘Paid Media’
-* Ad targeting via ‘Custom Audience’ and similar systems—Appropriate ads for players considering their previous purchases (Your unencrypted personal information is never shared with third parties without your consent.)
-* Attribution & media measurement
-* Analytics & data segmentation
-* Training & development
-* Statistics/reporting
-* Data Privacy Notifications System
-* Social Media Content Management
-* Research and studies
+*   Ad targeting via ‘Paid Media’
+*   Ad targeting via ‘Custom Audience’ and similar systems—Appropriate ads for players considering their previous purchases (Your unencrypted personal information is never shared with third parties without your consent.)
+*   Attribution & media measurement
+*   Analytics & data segmentation
+*   Training & development
+*   Statistics/reporting
+*   Data Privacy Notifications System
+*   Social Media Content Management
+*   Research and studies
 
-4. **Legal obligation.** We process your information due to a legal obligation or right. This includes using information for:
+4.  **Legal obligation.** We process your information due to a legal obligation or right. This includes using information for:
 
-* Legal compliance
-* Litigation or pre-litigation
-* Security monitoring and Investigations
-* Forum moderation
-* Finance and accounting
+*   Legal compliance
+*   Litigation or pre-litigation
+*   Security monitoring and Investigations
+*   Forum moderation
+*   Finance and accounting
 
 5\. With whom may we share your information?
 --------------------------------------------
@@ -423,9 +423,9 @@ Real ID friends can see each other’s real-life name and can see each other’s
 
 When you and a friend mutually agree to become Real ID friends, you will have access to a number of additional features, including the following:
 
-* Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character's profile.
-* Cross-Realm and Cross-Game Chat: With Real ID, friends can chat cross-realm, cross-faction, and cross-game using Blizzard’s products and services.
-* Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time.
+*   Real Names for Friends: Your Real ID friends will appear under their real-life names on your friends list, when chatting, communicating in-game, or viewing a character's profile.
+*   Cross-Realm and Cross-Game Chat: With Real ID, friends can chat cross-realm, cross-faction, and cross-game using Blizzard’s products and services.
+*   Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time.
 
 9\. What are tracking technologies, and how are they used?
 ----------------------------------------------------------
