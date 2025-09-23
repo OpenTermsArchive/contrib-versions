@@ -7,29 +7,29 @@ _We’ve recently updated our terms and policies. View the summary of changes_ [
 
 ###### Table of Contents
 
-* **[**Additional Terms for Specific Services**](#additional-terms)**
-* **[**Our Services**](#our-services)**
-* **[**Legal Capacity and Eligibility**](#legal-capacity-and-eligibility)**
-* **[**Account and Registration**](#account-and-registration)**
-* **[**Licenses and Intellectual Property Rights**](#licenses)**
-* **[**Content and Public Content**](#content-and-public-content)**
-* **[**Restrictions of Use**](#restrictions)**
-* **[**Payments and Subscription Fees**](https://www.viber.com/en/terms/viber-terms-use/#payments-and-charges)**
-* **[**Charges**](#payments-and-charges)**
-* **[**Refunds**](#refunds)**
-* **[**Chatbot Purchases**](#chatbot-purchases)**
-* **[**Third party goods and services**](#third-party-services)**
-* **[**Termination**](#termination)**
-* **[**Safety and Support**](#safety-and-support)**
-* **[**Disclaimer of Warranties**](#warranties)**
-* **[**Limitation of Liability**](#liabiliy)**
-* **[**Indemnity**](#indemnity)**
-* **[**Governing Law and Jurisdiction**](#law-and-jurisdiction)**
-* **[**Arbitration, Class-Action Waiver**](#arbitration)**
-* **[**Miscellaneous**](#miscellaneous)**
-* **[**Disabled Users**](#disabled-users)**
-* **[**Contact Us**](#contact-us)**
-* **[**Call Services – Viber Out Service Specific Terms**](#viber-out)**
+*   **[**Additional Terms for Specific Services**](#additional-terms)**
+*   **[**Our Services**](#our-services)**
+*   **[**Legal Capacity and Eligibility**](#legal-capacity-and-eligibility)**
+*   **[**Account and Registration**](#account-and-registration)**
+*   **[**Licenses and Intellectual Property Rights**](#licenses)**
+*   **[**Content and Public Content**](#content-and-public-content)**
+*   **[**Restrictions of Use**](#restrictions)**
+*   **[**Payments and Subscription Fees**](https://www.viber.com/en/terms/viber-terms-use/#payments-and-charges)**
+*   **[**Charges**](#payments-and-charges)**
+*   **[**Refunds**](#refunds)**
+*   **[**Chatbot Purchases**](#chatbot-purchases)**
+*   **[**Third party goods and services**](#third-party-services)**
+*   **[**Termination**](#termination)**
+*   **[**Safety and Support**](#safety-and-support)**
+*   **[**Disclaimer of Warranties**](#warranties)**
+*   **[**Limitation of Liability**](#liabiliy)**
+*   **[**Indemnity**](#indemnity)**
+*   **[**Governing Law and Jurisdiction**](#law-and-jurisdiction)**
+*   **[**Arbitration, Class-Action Waiver**](#arbitration)**
+*   **[**Miscellaneous**](#miscellaneous)**
+*   **[**Disabled Users**](#disabled-users)**
+*   **[**Contact Us**](#contact-us)**
+*   **[**Call Services – Viber Out Service Specific Terms**](#viber-out)**
 
 Thanks for sending us good vibes by using the various services available within Viber!
 
@@ -51,10 +51,10 @@ _Some features of our Services may be subject to additional terms and conditions
 
  Viber additional terms and specifications (“**Additional Terms**”):
 
-* [**Viber Payment Services Terms of Service**](https://www.viber.com/en/terms/viber-pay-terms-main-page)
-* [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/)
-* [**Viber Business Accounts Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/)
-* [**Viber Dating Terms and Conditions**](https://www.viber.com/en/terms/viber-dating-terms-and-conditions/)
+*   [**Viber Payment Services Terms of Service**](https://www.viber.com/en/terms/viber-pay-terms-main-page)
+*   [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/)
+*   [**Viber Business Accounts Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/)
+*   [**Viber Dating Terms and Conditions**](https://www.viber.com/en/terms/viber-dating-terms-and-conditions/)
 
 In the event there is a conflict between these Terms and the Additional Terms, the Additional Terms will prevail.  
 
@@ -64,31 +64,31 @@ _Viber App is a communication platform, enabling voice and video 1 on 1 and grou
 
 Currently we offer the following services, some of the services are free of charge (“**Free Services**”) and other premium services are subject to in-app payments or a periodic recurring subscription (“**Premium Services**”), all as detailed in the **[**Payment and Subscription Fees Section**](#payments-and-charges)** below (collectively the “**Services**”):
 
-* **Viber App:** Desktop and mobile communication and messaging app, developed by Viber. You understand that, just like a regular mobile phone service, anyone with knowledge of your phone number, that has Viber, may call you or send you messages through our Services and anyone you send a message to can use the content of your message as they desire.
+*   **Viber App:** Desktop and mobile communication and messaging app, developed by Viber. You understand that, just like a regular mobile phone service, anyone with knowledge of your phone number, that has Viber, may call you or send you messages through our Services and anyone you send a message to can use the content of your message as they desire.
 
-* **Call Services; Viber Out (Subscription and Credit):** Viber offers you the opportunity to become a premium “Viber Out” user, which allows you to call non-Viber users (landlines or mobiles) around the world. Viber Out offers various subscription plans (each: a “**Viber Out Subscription**”). As a Viber user you are also able to purchase call credits (“**Viber Credit**”), either as a one-time payment or via recurring payments. For more information, please see the **[**Call Services – Viber Out Service Specific Terms**](#viber-out)** below.
+*   **Call Services; Viber Out (Subscription and Credit):** Viber offers you the opportunity to become a premium “Viber Out” user, which allows you to call non-Viber users (landlines or mobiles) around the world. Viber Out offers various subscription plans (each: a “**Viber Out Subscription**”). As a Viber user you are also able to purchase call credits (“**Viber Credit**”), either as a one-time payment or via recurring payments. For more information, please see the **[**Call Services – Viber Out Service Specific Terms**](#viber-out)** below.
 
-* **Viber In:** You may receive incoming calls generated outside the Viber network, by your friends or other people calling your number, to be received through the Viber App. Viber In is provided for free and you may disable the ‘Viber In’ service at any time by changing the application settings.
+*   **Viber In:** You may receive incoming calls generated outside the Viber network, by your friends or other people calling your number, to be received through the Viber App. Viber In is provided for free and you may disable the ‘Viber In’ service at any time by changing the application settings.
 
-* **Caller ID:** Viber Caller ID is a dedicated feature that allows Viber users to protect themselves from fraud and spam by setting up a caller identification for any incoming calls to their devices from phone numbers outside of their contact list.
+*   **Caller ID:** Viber Caller ID is a dedicated feature that allows Viber users to protect themselves from fraud and spam by setting up a caller identification for any incoming calls to their devices from phone numbers outside of their contact list.
 
-* **Stickers and Lenses:** you can download or create digital stickers through the Viber App or use Viber Lenses. When you create digital stickers on our Service, they must abide by our [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/). Some Stickers are available for free and some Stickers are available for purchase.
+*   **Stickers and Lenses:** you can download or create digital stickers through the Viber App or use Viber Lenses. When you create digital stickers on our Service, they must abide by our [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/). Some Stickers are available for free and some Stickers are available for purchase.
 
-* **Viber Plus:** users that subscribe to Viber Plus are provided with Premium Services that offer exclusive features, which may vary from time to time, including sticker market privileges, ad free use, priority Viber support, exclusive badge, unique Viber icon, and more, as may be updated from time to time. Viber reserves the right to add, remove, and revise the features included in the Viber Plus subscription plan at any time.
+*   **Viber Plus:** users that subscribe to Viber Plus are provided with Premium Services that offer exclusive features, which may vary from time to time, including sticker market privileges, ad free use, priority Viber support, exclusive badge, unique Viber icon, and more, as may be updated from time to time. Viber reserves the right to add, remove, and revise the features included in the Viber Plus subscription plan at any time.
 
-* **Viber Dating****:** Viber Dating allows you to create a dating profile on Viber and experience our dating services. Viber Dating’s goal is to help you find and meet new people, and build and foster friendships and relationships. Viber Dating is governed by the **[Viber Dating Terms and Conditions](https://www.viber.com/terms/viber-dating-terms-and-conditions/)****.**
+*   **Viber Dating****:** Viber Dating allows you to create a dating profile on Viber and experience our dating services. Viber Dating’s goal is to help you find and meet new people, and build and foster friendships and relationships. Viber Dating is governed by the **[Viber Dating Terms and Conditions](https://www.viber.com/terms/viber-dating-terms-and-conditions/)****.**
 
-* **Business Accounts (Micro and Small Businesses):** users who own micro or small business can increase their business engagement and create a business profile on the Viber App (“**Business Account**”), enabling the direct interaction with their customers, including by promoting their goods and services and using secure one-on-one messages. The Business Accounts and business services are governed by the [**Viber Business Accounts Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/).
+*   **Business Accounts (Micro and Small Businesses):** users who own micro or small business can increase their business engagement and create a business profile on the Viber App (“**Business Account**”), enabling the direct interaction with their customers, including by promoting their goods and services and using secure one-on-one messages. The Business Accounts and business services are governed by the [**Viber Business Accounts Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/).
 
 When users search for Business Accounts on Viber, our algorithm displays and orders results based on several main parameters, including (i) relevance to the user’s query (e.g., matching keywords in the Business Account name or description, business location, business category), (ii) general business interactions and responsiveness levels, (iii) compliance with Viber policies, and (iv) whether a Business Account has chosen to use the “Boost” feature (part of Business Account paid subscription), which can increase visibility over non-Boosted accounts. While Boost influences how prominently a Business Account appears, it does not guarantee a specific ranking or placement. Viber may update these parameters from time to time to improve user experience.
 
-* **Business Solutions****:** For larger businesses, Viber offers various businesses-oriented solutions, which can be explored **[here](https://www.forbusiness.viber.com/en/)**.
+*   **Business Solutions****:** For larger businesses, Viber offers various businesses-oriented solutions, which can be explored **[here](https://www.forbusiness.viber.com/en/)**.
 
-* **Viber** **Payment Services:** Viber payment services allow you access to payment services such as having a wallet and sending and receiving money, which are provided via our third-party payment service provider. It is only available in certain countries. Viber Payment Services are governed by the applicable **[Viber Payment Services Terms and Conditions](https://www.viber.com/en/terms/viber-pay-terms-main-page/)** for the available countries
+*   **Viber** **Payment Services:** Viber payment services allow you access to payment services such as having a wallet and sending and receiving money, which are provided via our third-party payment service provider. It is only available in certain countries. Viber Payment Services are governed by the applicable **[Viber Payment Services Terms and Conditions](https://www.viber.com/en/terms/viber-pay-terms-main-page/)** for the available countries
 
-* **Communities and Channels:** Communities are group chats through which Viber users can share content and engage with one another in conversations (“**Community**”). The Channels feature enables you to engage and share content with your audience (“**Channel**”). Communities and Channels can include up to 1 billion Viber users. Any messages sent as well as content posted or shared within Communities or Channels, are subject to the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/) and the [**Viber Privacy Policy**](https://www.viber.com/en/terms/viber-privacy-policy/). The option to create a Community or a Channel is open to all Viber users. When you join a Community or a Channel, you will become a “**Member**” (of Community) or “**Subscriber**” (of Channel) and will be able to share such Community/Channel with other Viber users, if such option is permitted by Admins. Upon creating a Community or a Channel, you will automatically become a Superadmin of your Community/Channel. You can learn more about Superadmins’ privileges **[here](https://help.viber.com/hc/en-us/articles/9357329461917-Channels-knowledge-base-for-admins)** and **[here](https://help.viber.com/hc/en-us/articles/9340728226077-Communities-knowledge-base-for-admins)**. There can be multiple Superadmins and Admins, with a total limitation of 250 combined. Only the Superadmins and Admins of a Channel will be able to post content within a Channel. A Member/Subscriber can leave a Community or a Channel at any time by selecting the “**Leave and delete**” button. To learn more about the differences between Communities and Channels, and their unique features and purposes, read this **[comparison](https://help.viber.com/hc/en-us/articles/9412733574173-Comparison-group-vs-community-vs-channel)**.
+*   **Communities and Channels:** Communities are group chats through which Viber users can share content and engage with one another in conversations (“**Community**”). The Channels feature enables you to engage and share content with your audience (“**Channel**”). Communities and Channels can include up to 1 billion Viber users. Any messages sent as well as content posted or shared within Communities or Channels, are subject to the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/) and the [**Viber Privacy Policy**](https://www.viber.com/en/terms/viber-privacy-policy/). The option to create a Community or a Channel is open to all Viber users. When you join a Community or a Channel, you will become a “**Member**” (of Community) or “**Subscriber**” (of Channel) and will be able to share such Community/Channel with other Viber users, if such option is permitted by Admins. Upon creating a Community or a Channel, you will automatically become a Superadmin of your Community/Channel. You can learn more about Superadmins’ privileges **[here](https://help.viber.com/hc/en-us/articles/9357329461917-Channels-knowledge-base-for-admins)** and **[here](https://help.viber.com/hc/en-us/articles/9340728226077-Communities-knowledge-base-for-admins)**. There can be multiple Superadmins and Admins, with a total limitation of 250 combined. Only the Superadmins and Admins of a Channel will be able to post content within a Channel. A Member/Subscriber can leave a Community or a Channel at any time by selecting the “**Leave and delete**” button. To learn more about the differences between Communities and Channels, and their unique features and purposes, read this **[comparison](https://help.viber.com/hc/en-us/articles/9412733574173-Comparison-group-vs-community-vs-channel)**.
 
-* **Chatbots:** The Viber Chatbot feature enables you to subscribe to Viber’s and third parties’ chatbot(s) and to send and receive one-on-one messages from the chatbots’ administrators (“**Chatbot**”). The creation, operation and management of the Chatbots by Chatbot administrators is governed by the [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/).  When you visit a Chatbot without subscribing to it, you will be a “**Guest**”. If you click the “**subscribe**” button anywhere within Viber or any button presented to you by the Chatbot, or start an interaction with the Chatbot, you will automatically become a “**S****ubscriber**” of the Chatbot and be able to send and receive messages from the Chatbot. At any time, you can unsubscribe from any Chatbot by clicking the “unsubscribe” button. Through the Chatbot the business may offer you to purchase goods and services, as further described under the [**Chatbot Purchases**](#chatbot-purchases) section below.
+*   **Chatbots:** The Viber Chatbot feature enables you to subscribe to Viber’s and third parties’ chatbot(s) and to send and receive one-on-one messages from the chatbots’ administrators (“**Chatbot**”). The creation, operation and management of the Chatbots by Chatbot administrators is governed by the [**Viber Developer Agreement**](https://www.viber.com/en/terms/viber-developer-distribution-agreement/).  When you visit a Chatbot without subscribing to it, you will be a “**Guest**”. If you click the “**subscribe**” button anywhere within Viber or any button presented to you by the Chatbot, or start an interaction with the Chatbot, you will automatically become a “**S****ubscriber**” of the Chatbot and be able to send and receive messages from the Chatbot. At any time, you can unsubscribe from any Chatbot by clicking the “unsubscribe” button. Through the Chatbot the business may offer you to purchase goods and services, as further described under the [**Chatbot Purchases**](#chatbot-purchases) section below.
 
 **Please be aware that the content published within the Community, Channel or the Chatbot features is not end-to-end encrypted****,** **is stored by Viber and may also be stored by the relevant Administrator(s) of such specific Community, Channel or Chatbot and their third party providers, as well as the Members** **or Subscribers,** **if they choose to make copies of it, THE BUYING OR SELLING OF A COMMUNITY, CHANNEL OR CHATBOT, THAT HAVE SUBSCRIBERS, MEMBERS, AND ANY RIGHTS ASSOCIATED WITH THEM, INCLUDING ADMINISTRATORS’ ROLES, IS STRICTLY PROHIBITED.**  
 
@@ -154,18 +154,18 @@ _You may only use our Services for lawful purposes and in accordance with applic
 
 That means, among other things, you may not do, attempt to do, enable, or encourage anyone else to do, any of the following:
 
-* decompile, reverse engineer, disassemble, or otherwise reduce the code used in any software, Viber App or our Services into a readable form in order to examine the construction of such software or to copy or create other products based (in whole or in part) on such software.
-* rent, lease, lend, sell, redistribute or sublicense the Material or the Services.
-* exploit any resource, or access any resource, contained on our Services including, without limitation, any attempt to collect users phone numbers for any purpose, including for analysis purposes and/or parsing.
-* use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services.
-* copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of the Services or the content on the Services.
-* access or use the Services in any way not expressly permitted by these Terms or the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/).
-* use branding, logos, icons, user interface elements, designs, photographs, videos, or any other Materials, except as explicitly allowed by these Terms.
-* violate applicable laws, including third party privacy and intellectual property laws.
-* create multiple account, create false misleading accounts, create another account if we have already disabled your account, or buy, sell, rent, or lease access to your Account.
-* use any robot, spider, crawler, scraper, or other automated means or interface to access the Services or extract other users’ information.
-* upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services.
-* attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorized to access.
+*   decompile, reverse engineer, disassemble, or otherwise reduce the code used in any software, Viber App or our Services into a readable form in order to examine the construction of such software or to copy or create other products based (in whole or in part) on such software.
+*   rent, lease, lend, sell, redistribute or sublicense the Material or the Services.
+*   exploit any resource, or access any resource, contained on our Services including, without limitation, any attempt to collect users phone numbers for any purpose, including for analysis purposes and/or parsing.
+*   use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services.
+*   copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of the Services or the content on the Services.
+*   access or use the Services in any way not expressly permitted by these Terms or the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/).
+*   use branding, logos, icons, user interface elements, designs, photographs, videos, or any other Materials, except as explicitly allowed by these Terms.
+*   violate applicable laws, including third party privacy and intellectual property laws.
+*   create multiple account, create false misleading accounts, create another account if we have already disabled your account, or buy, sell, rent, or lease access to your Account.
+*   use any robot, spider, crawler, scraper, or other automated means or interface to access the Services or extract other users’ information.
+*   upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services.
+*   attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorized to access.
 
 ###### **8\. Payments and Subscription Fees**
 
@@ -276,9 +276,9 @@ Viber is dedicated to facilitating the use of the Services by disabled end-users
 
 You may contact us, as follows:
 
-* **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs).
-* **Using the “contact us” form on the App**.
-* **By mail:  
+*   **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs).
+*   **Using the “contact us” form on the App**.
+*   **By mail:  
     **Viber Media S.à r.l.,  
     2, rue du Fossé, L-1536  
     Luxembourg, Grand Duchy of Luxembourg
