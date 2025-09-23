@@ -14,19 +14,19 @@ Please note that we do not collect, track, or store any personal data over what 
 Our Commitments
 ---------------
 
-* we only collect and use your data where we have a legal basis to do so;
-* we always are transparent and tell you about how we use your information;
-* when we collect your data for a particular purpose, we do not use it for anything else without your consent, unless another legal basis applies or the purposes are compatible (in the meaning of the GDPR);
-* we do not sell your data;
-* we do not ask for additional data unless it is needed for the purposes of providing our services;
-* we adhere to the [data retention policies](#termofstorage) and ensure that your information is securely disposed of at the end of such retention period;
-* we observe and respect your rights by ensuring that queries relating to privacy issues are dealt with promptly and transparently;
-* we keep our staff trained in privacy and security obligations;
-* we ensure to have appropriate technological and organizational measures in place to protect your data regardless of where it is held;
-* we also ensure that all of our data processors have appropriate security measures in place with contractual provisions requiring them to comply with our commitment;
-* we do not use your data to make automated decisions that might have a legal or similarly adverse effect on your rights;
-* we obtain your consent and ensure that appropriate safeguards are in place before personal data is transferred to other countries.
-* we responsibly implement AI into our services, ensuring the protection of your personal data and providing you with control over all AI-powered features. 
+*   we only collect and use your data where we have a legal basis to do so;
+*   we always are transparent and tell you about how we use your information;
+*   when we collect your data for a particular purpose, we do not use it for anything else without your consent, unless another legal basis applies or the purposes are compatible (in the meaning of the GDPR);
+*   we do not sell your data;
+*   we do not ask for additional data unless it is needed for the purposes of providing our services;
+*   we adhere to the [data retention policies](#termofstorage) and ensure that your information is securely disposed of at the end of such retention period;
+*   we observe and respect your rights by ensuring that queries relating to privacy issues are dealt with promptly and transparently;
+*   we keep our staff trained in privacy and security obligations;
+*   we ensure to have appropriate technological and organizational measures in place to protect your data regardless of where it is held;
+*   we also ensure that all of our data processors have appropriate security measures in place with contractual provisions requiring them to comply with our commitment;
+*   we do not use your data to make automated decisions that might have a legal or similarly adverse effect on your rights;
+*   we obtain your consent and ensure that appropriate safeguards are in place before personal data is transferred to other countries.
+*   we responsibly implement AI into our services, ensuring the protection of your personal data and providing you with control over all AI-powered features. 
 
 DISCLAIMER! We inform you that different versions of Spark or different platforms may have no feature parity. Thus, be aware that the user experience of Spark via macOS, Windows, iOS, or Android may vary, and some versions or platforms may lack particular features present in others.
 
@@ -49,31 +49,31 @@ All features you, as our current User, had in the previous Spark Mail version fr
 Context:
 --------
 
-* [Our Commitment](#ourcommitment)
-* [Definition of “User”](#definitionofuser)
-* [Controller details](#controllerdetails)
-    * [Controller](#controller)
-    * [Processor](#processor)
-    * [Contact Details of the DPO (Data Protection Officer)](#dpocontact)
-* [Applicability](#applicability)
-* [Legal Grounds of Processing](#legalgrounds)
-* [Personal Data in Spark: What We Collect](#personaldata)
-    * [Before we start](#beforestart)
-    * [Data processed](#dataprocessed)
-* [Age limitation](#agelimitation)
-* [Term of storage and Retention Periods](#termofstorage)
-* [Backup storage](#backupstorage)
-* [Data sharing with 3rd parties](#datasharingtp)
-* [Data transfer outside the European Economic Area](#datasharingoutsideeea)
-* [Security measures](#securitymeasures)
-* [Privacy rights](#privacyrights)
-* [Region-specific legislation](#regionspecific)
-    * [California legislation](#regionspecific-california)
-    * [Virginia legislation](#regionspecific-virginia)
-    * [Colorado legislation](#regionspecific-colorado)
-    * [Delaware legislation](#regionspecific-delaware)
-    * [Nevada legislation](#regionspecific-nevada)
-* [Definitions](#definitions)
+*   [Our Commitment](#ourcommitment)
+*   [Definition of “User”](#definitionofuser)
+*   [Controller details](#controllerdetails)
+    *   [Controller](#controller)
+    *   [Processor](#processor)
+    *   [Contact Details of the DPO (Data Protection Officer)](#dpocontact)
+*   [Applicability](#applicability)
+*   [Legal Grounds of Processing](#legalgrounds)
+*   [Personal Data in Spark: What We Collect](#personaldata)
+    *   [Before we start](#beforestart)
+    *   [Data processed](#dataprocessed)
+*   [Age limitation](#agelimitation)
+*   [Term of storage and Retention Periods](#termofstorage)
+*   [Backup storage](#backupstorage)
+*   [Data sharing with 3rd parties](#datasharingtp)
+*   [Data transfer outside the European Economic Area](#datasharingoutsideeea)
+*   [Security measures](#securitymeasures)
+*   [Privacy rights](#privacyrights)
+*   [Region-specific legislation](#regionspecific)
+    *   [California legislation](#regionspecific-california)
+    *   [Virginia legislation](#regionspecific-virginia)
+    *   [Colorado legislation](#regionspecific-colorado)
+    *   [Delaware legislation](#regionspecific-delaware)
+    *   [Nevada legislation](#regionspecific-nevada)
+*   [Definitions](#definitions)
 
 Definition of "User"
 --------------------
@@ -136,19 +136,19 @@ Legal Grounds of Processing
 
 We can process personal data based on the following legal bases:
 
-* **performance of the contract**for processing that is strictly necessary for service provision as written in Terms of Service, such as technical and customer support;
-* **legitimate interest**for processing that is reasonable for the User and required for the development of the service;
-* **consent**for additional processing for specific purposes;
-* **legal obligation**for the processing of data as required by applicable laws or if requested by a law enforcement agency, court, supervisory authority, or another state-authorized public body.
+*   **performance of the contract**for processing that is strictly necessary for service provision as written in Terms of Service, such as technical and customer support;
+*   **legitimate interest**for processing that is reasonable for the User and required for the development of the service;
+*   **consent**for additional processing for specific purposes;
+*   **legal obligation**for the processing of data as required by applicable laws or if requested by a law enforcement agency, court, supervisory authority, or another state-authorized public body.
 
 In particular, we rely on legitimate interests when we process your personal data for the following purposes:
 
-* security of the App: preventing risk and fraud;
-* support: answering questions or providing other types of support;
-* business development: providing and improving our App;
-* business intelligence: providing reporting and analytics to further enhance our App;
-* quality assurance: testing out features or additional services;
-* marketing: assisting with marketing, advertising, or other communications.
+*   security of the App: preventing risk and fraud;
+*   support: answering questions or providing other types of support;
+*   business development: providing and improving our App;
+*   business intelligence: providing reporting and analytics to further enhance our App;
+*   quality assurance: testing out features or additional services;
+*   marketing: assisting with marketing, advertising, or other communications.
 
 We rely on our legitimate interest only after a careful assessment of the balance of purpose, necessity, and proportionality, and in a manner that is expected and does not limit your rights.
 
@@ -187,18 +187,18 @@ We process two categories of data: technical and personal data you provide to us
 
 As defined, you may belong to one of the categories of Users:
 
-1. Free User (Free)
-2. Paying User (Premium)
-3. Team
-4. Organization
-5. Enterprise
+1.  Free User (Free)
+2.  Paying User (Premium)
+3.  Team
+4.  Organization
+5.  Enterprise
 
 We collect your personal data according to this Privacy Policy when you use the App. When you use our Website, your personal data is processed in accordance with the Website’s [Privacy Policy](https://sparkmailapp.com/legal/privacy-web). Some of the data the App collects automatically, such as the country the App is used in: we get this data based on the IP address or from the App Store (we receive this information in a generalized form). Generally, all the data provided to us can either be linked to you or not (i.e., anonymized data).
 
 We either create new personal data items or receive them from you. For example,
 
-* **data we create and assign**will include userID, subscription expiration date, appToken, and
-* **data we collect from you or the third parties on your behalf**would include payment history, requests, app usage data, account data, technical data.
+*   **data we create and assign**will include userID, subscription expiration date, appToken, and
+*   **data we collect from you or the third parties on your behalf**would include payment history, requests, app usage data, account data, technical data.
 
 ### Data Processed
 
@@ -292,29 +292,29 @@ To enhance the App experience, we collect analytics on the feedback to understan
 
 **Data processed during beta testing**. If you choose to participate in our beta testing program as outlined in our Beta Tester Agreement, we will process the following data to provide you with the Service and manage your access to the beta testing:
 
-* **Personal Information**: Email address, OAuth login credentials, or mail server credentials.
-* **Team Identity**: The identity of the team you join.
-* **App Usage Data**: Statistical information related to your usage of the App, including email content while using Spark Services, data from Microsoft Corporation.
-* **Device Information**: IP address, device settings, device information, APNS device token, and an app token we assign to you.
-* **Interaction Data**: Pixel data, link click information, recently accessed email messages, collaboration threads, and shared inboxes.
-* **Feedback and Support**: If you submit customer support requests, feature requests, feedback, or log files during beta testing, we may process the associated data and files provided with such communications.
+*   **Personal Information**: Email address, OAuth login credentials, or mail server credentials.
+*   **Team Identity**: The identity of the team you join.
+*   **App Usage Data**: Statistical information related to your usage of the App, including email content while using Spark Services, data from Microsoft Corporation.
+*   **Device Information**: IP address, device settings, device information, APNS device token, and an app token we assign to you.
+*   **Interaction Data**: Pixel data, link click information, recently accessed email messages, collaboration threads, and shared inboxes.
+*   **Feedback and Support**: If you submit customer support requests, feature requests, feedback, or log files during beta testing, we may process the associated data and files provided with such communications.
 
 For specific features such as Spark +AI, My Writing Style, and Smart Notifications, we will process the corresponding data mentioned above.
 
 Additionally, if you participate in the beta testing of the iOS version, we may receive data from Apple, including:
 
-* **Device Information**: Device model, device ID, iOS, iPadOS, or macOS version, time zone, country and/or city, language, connection type, carrier, CPU type, free disk space, battery level, screen resolution, paired Apple Watch model (if applicable), and watchOS version.
-* **App Interaction Data**: Information about your interaction with the App, such as invitation type, invitation status, App name and version, App uptime, number of installs, sessions, crashes, and symbolicated crash logs.
-* **Feedback**: Screenshots and comments you share when providing feedback during beta testing. The processing of this data is based on our legitimate interest. If you choose to provide us with your name, we will process it based on your consent.
+*   **Device Information**: Device model, device ID, iOS, iPadOS, or macOS version, time zone, country and/or city, language, connection type, carrier, CPU type, free disk space, battery level, screen resolution, paired Apple Watch model (if applicable), and watchOS version.
+*   **App Interaction Data**: Information about your interaction with the App, such as invitation type, invitation status, App name and version, App uptime, number of installs, sessions, crashes, and symbolicated crash logs.
+*   **Feedback**: Screenshots and comments you share when providing feedback during beta testing. The processing of this data is based on our legitimate interest. If you choose to provide us with your name, we will process it based on your consent.
 
 **Other information you decide to provide us with**: Based on your decision and consent, we may also process any other personal data provided by you (for example, the information in your email signature or the first couple of lines from the email to show you the push notification) to make your experience of using some of our features more pleasant and tailored to your purposes and needs.
 
 **Please note**: some data (such as company data) can be treated as non-personal data when processed in the absence of context. However, if such data is collected and processed alongside other data points or data items (such as name, telephone number, email, etc.), it can identify a particular person and therefore constitutes personal data. You may check the official position of the EU by reading:
 
-* Recital 26 of the GDPR,
-* Article 4 of the GDPR,
-* Opinion 4/2007 on the concept of personal data issued by the Working Party 29 (predecessor of the EDPB), and
-* Guidelines 8/2020 on the targeting of social media users issued by the EDPB.
+*   Recital 26 of the GDPR,
+*   Article 4 of the GDPR,
+*   Opinion 4/2007 on the concept of personal data issued by the Working Party 29 (predecessor of the EDPB), and
+*   Guidelines 8/2020 on the targeting of social media users issued by the EDPB.
 
 Please note that we do not store all the data we receive from you. Mainly, the data is stored locally on your device. This means we see pseudonymized or even anonymized data. For more information on retention periods of your personal data please see “ [Term of storage and retention periods](#termofstorage)" section of this Privacy Policy.
 
@@ -336,10 +336,10 @@ If you decide to do so, we will lose access to your Gmail account in Spark, and 
 
 With regard to the access to Google User Data as specified above, we will:
 
-* use access only to read, write, modify, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows Users to compose, send, read, and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets;
-* not use this Gmail data for serving advertisements, including retargeting, personalized, or interest-based advertising;
-* not allow humans to read this data unless we have your affirmative agreement (consent) to view specific messages, doing so is necessary for security purposes such as investigating a bug or abuse, complying with applicable law, investigating an issue, and even then only when the data have been aggregated and anonymized;
-* ensure that your employees, agents, contractors, and successors comply with this Google API Services: User Data Policy.
+*   use access only to read, write, modify, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows Users to compose, send, read, and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets;
+*   not use this Gmail data for serving advertisements, including retargeting, personalized, or interest-based advertising;
+*   not allow humans to read this data unless we have your affirmative agreement (consent) to view specific messages, doing so is necessary for security purposes such as investigating a bug or abuse, complying with applicable law, investigating an issue, and even then only when the data have been aggregated and anonymized;
+*   ensure that your employees, agents, contractors, and successors comply with this Google API Services: User Data Policy.
 
 ### AI Providers Data
 
@@ -445,47 +445,47 @@ We may share personal data with our affiliates to the extent necessary to develo
 
 **Compliance with the law**. We will disclose your personal data to third parties to the extent that it is necessary:
 
-* to comply with a government request, court order, or applicable law;
-* to prevent unlawful use of our App or violation of the [Terms of Service](https://sparkmailapp.com/legal/terms)and our policies;
-* to protect against claims of third parties;
-* to help prevent or investigate fraud.
+*   to comply with a government request, court order, or applicable law;
+*   to prevent unlawful use of our App or violation of the [Terms of Service](https://sparkmailapp.com/legal/terms)and our policies;
+*   to protect against claims of third parties;
+*   to help prevent or investigate fraud.
 
 **Legitimate interest or performance of the contract**. We may share your personal data with third parties based on a public offer for processing on our behalf, subject to technical and organizational measures to protect your personal data. We may transfer your personal data to certain companies, consultants, and contractors hired to provide certain services on our behalf.
 
 **Independent data controllers**. We may sometimes receive your personal data from other, independent data controllers. We usually do so in one of two cases:
 
-* the third-party data controller shares your personal data with us in response to your request (for example, when you sync Spark Mail with your account in another app); and/or
-* an app store shares some data about on-market or in-app purchases, crash events, failed attempts to download or launch the app, or any other information that may affect your ability to buy, download, and use Spark Mail and its features on your device. For example, such independent data controllers can be Mac App Store, App Store, Microsoft Store, Google Play, and Huawei AppGallery depending on your choice and device.
+*   the third-party data controller shares your personal data with us in response to your request (for example, when you sync Spark Mail with your account in another app); and/or
+*   an app store shares some data about on-market or in-app purchases, crash events, failed attempts to download or launch the app, or any other information that may affect your ability to buy, download, and use Spark Mail and its features on your device. For example, such independent data controllers can be Mac App Store, App Store, Microsoft Store, Google Play, and Huawei AppGallery depending on your choice and device.
 
 We process these personal data only to enable you to use Spark Mail or its particular features (for example, to fix the bugs that do not allow your device to launch the app). We will not use your data received from these independent controllers to build any profile about you, or use it for any marketing or advertising purposes. We anonymize or aggregate these data where possible (such as where there is no request from you to our tech support to help fix the bug) before processing.
 
 **Subcontractors**. We will ask for your consent unless data transfer is part of the contract performance. Here is the list of the third parties we may engage in the processing of personal data:
 
-* **Google Cloud**(Google LLC, USA). Here we store our databases, logs, and backups. For more details, please refer to the Subcontractor’s [Privacy Policy](https://cloud.google.com/terms/cloud-privacy-notice).
-* **Firebase Cloud Messaging**(Google LLC, USA). We use it to process personal data to push messages to our Android Users. For more details, please refer to the Subcontractor’s [Privacy Policy](https://firebase.google.com/docs/cloud-messaging).
-* **Huawei Push Kit**(Huawei Device Co., Ltd., China). We use it to process personal data to push messages to our Android users. For more details, please refer to the Subcontractor’s [Privacy Policy](https://consumer.huawei.com/en/privacy/privacy-policy/).
-* **Stripe**(Stripe Inc, USA). We transfer your data for payment processing on our behalf. For more details, please refer to the Subcontractor’s [Privacy Policy](https://stripe.com/en-fr/privacy).
-* **VAT Sense**(Weio Ltd, UK). We use VAT Sense for VAT validation. For more details, please refer to the Subcontractor’s [Privacy Policy](https://vatsense.com/privacy).
-* **CampaignMonitor**(Campaign Monitor Pty Ltd., USA). We send a list of all accounts there for statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.campaignmonitor.com/policies/).
-* **Postmark**(Wildbit LLC, USA). This service is used to process your data for sending **transactional emails**. Transactional emails are emails about transactions, for example, the purchase of premium, about the start or the end of the trial. For more details, please refer to the Subcontractor’s [Privacy Policy](https://wildbit.com/privacy-policy).
-* **Braze**(Braze Inc, USA): This service is used to process your data for sending some marketing communications and analytics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.braze.com/company/legal/privacy).
-* **Calendly**(Calendly LLC, USA): We use them to schedule calendar appointments with our customers. For more details, please refer to the Subcontractor’s [Privacy Policy](https://calendly.com/privacy).
-* **Helpjuice**(Helpjuice, Inc, USA) is a knowledge base software to help us provide you with the necessary customer support. For more details, please refer to the Subcontractor’s [Privacy Policy](https://help.helpjuice.com/en_US/privacy-policy).
-* **Google**(Google LLC, USA). We use your data for the synchronization of accounts. For more details, please refer to the Subcontractor’s [Privacy Policy](https://policies.google.com/privacy).
-* **Apple Inc**(Apple Inc, USA). We receive the personal data, technical data about the iOS systems and general statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
-* **RevenueCat**(RevenueCat, Inc., USA). We use them to monitor personal billing. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.revenuecat.com/privacy/).
-* **Amplitude**(Amplitude, Inc., USA) is an analytics tool we use to understand how Users experience our App. For more details, please refer to the Subcontractor’s [Privacy Policy](https://amplitude.com/privacy).
-* **AppCenter**(Microsoft-provided tool, USA): we use them to monitor crash logs. For more details, please refer to the Subcontractor’s [Privacy Policy](https://docs.microsoft.com/en-us/appcenter/gdpr/faq).
-* **AppsFlyer**(AppsFlyer Ltd., USA) provides us with measurement, analytics, fraud protection, and engagement technologies. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.appsflyer.com/trust/privacy/).
-* **Zoom**(Zoom Video Communications, Inc., USA) is a video conferencing platform, which can be connected to Spark Calendar to help Users schedule video and audio meetings. For more details, please read their [Privacy Policy](https://explore.zoom.us/en/privacy/).
-* **Azure OpenAI Service** (Microsoft Corporation, USA). We use Azure OpenAI Service to provide you with Spark +AI, which is designed to help you create and edit emails using machine learning algorithms co-developed by Microsoft Corporation and OpenAI (OPENAI, LLC). For more details, please refer to their [Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement).
-* **OpenAI API**(OpenAI, L.L.C., USA). We use OpenAI API to provide you with the Spark +AI feature in specific cases described in this Policy. For more details, please refer to the ‘ [OpenAI Data](#openaidata)’ subsection of this Policy and OpenAI [Data Processing Addendum](https://openai.com/policies/data-processing-addendum).
-* **Anthropic**(Anthropic PBC, ISA). We may use AI models of this provider directly via API or through Google's Vertex AI suite to provide you with the Spark +AI features. For more details, please refer to their [Privacy Policy](https://www.anthropic.com/legal/privacy). 
-* **Setapp**(Setapp Ltd., Ireland). We collaborate with Setapp to offer your app. Your data will only be available to Setapp if you decide to download Spark through the Setapp service. We may receive data on your subscription from Setapp. For more details, please refer to their [Privacy Policy](https://setapp.com/privacy-policy).
-* **Zapier**(Zapier, Inc., USA). We use Zapier to receive information about some of your financial transactions (such as a date of first payment or subscription cancellation). For more details, please, refer to their [Privacy Policy](https://zapier.com/privacy).
-* **Airtable**(Formagrid Inc, dba Airtable, USA). We use Airtable to process and organize data related to subscriptions. For more details, please, refer to their [Privacy Policy](https://www.airtable.com/privacy).
-* **Typeform**(TYPEFORM SL, Barcelona (Spain)). We use Typeform to collect information from our users in embed forms. For more details, please refer to their [Privacy Policy](https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com&tid=6e1275f0-d924-4083-bc77-b88eb10f8195).
-* **CKEditor 5**(CKSource Holding LTD, Poland). We use CKEditor 5 to provide you with enhanced text editing functions and real-time collaboration features in the email composer. For more details, please refer to the Subcontractor's [Privacy Policy](https://ckeditor.com/legal/privacy-policy/).
+*   **Google Cloud**(Google LLC, USA). Here we store our databases, logs, and backups. For more details, please refer to the Subcontractor’s [Privacy Policy](https://cloud.google.com/terms/cloud-privacy-notice).
+*   **Firebase Cloud Messaging**(Google LLC, USA). We use it to process personal data to push messages to our Android Users. For more details, please refer to the Subcontractor’s [Privacy Policy](https://firebase.google.com/docs/cloud-messaging).
+*   **Huawei Push Kit**(Huawei Device Co., Ltd., China). We use it to process personal data to push messages to our Android users. For more details, please refer to the Subcontractor’s [Privacy Policy](https://consumer.huawei.com/en/privacy/privacy-policy/).
+*   **Stripe**(Stripe Inc, USA). We transfer your data for payment processing on our behalf. For more details, please refer to the Subcontractor’s [Privacy Policy](https://stripe.com/en-fr/privacy).
+*   **VAT Sense**(Weio Ltd, UK). We use VAT Sense for VAT validation. For more details, please refer to the Subcontractor’s [Privacy Policy](https://vatsense.com/privacy).
+*   **CampaignMonitor**(Campaign Monitor Pty Ltd., USA). We send a list of all accounts there for statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.campaignmonitor.com/policies/).
+*   **Postmark**(Wildbit LLC, USA). This service is used to process your data for sending **transactional emails**. Transactional emails are emails about transactions, for example, the purchase of premium, about the start or the end of the trial. For more details, please refer to the Subcontractor’s [Privacy Policy](https://wildbit.com/privacy-policy).
+*   **Braze**(Braze Inc, USA): This service is used to process your data for sending some marketing communications and analytics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.braze.com/company/legal/privacy).
+*   **Calendly**(Calendly LLC, USA): We use them to schedule calendar appointments with our customers. For more details, please refer to the Subcontractor’s [Privacy Policy](https://calendly.com/privacy).
+*   **Helpjuice**(Helpjuice, Inc, USA) is a knowledge base software to help us provide you with the necessary customer support. For more details, please refer to the Subcontractor’s [Privacy Policy](https://help.helpjuice.com/en_US/privacy-policy).
+*   **Google**(Google LLC, USA). We use your data for the synchronization of accounts. For more details, please refer to the Subcontractor’s [Privacy Policy](https://policies.google.com/privacy).
+*   **Apple Inc**(Apple Inc, USA). We receive the personal data, technical data about the iOS systems and general statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+*   **RevenueCat**(RevenueCat, Inc., USA). We use them to monitor personal billing. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.revenuecat.com/privacy/).
+*   **Amplitude**(Amplitude, Inc., USA) is an analytics tool we use to understand how Users experience our App. For more details, please refer to the Subcontractor’s [Privacy Policy](https://amplitude.com/privacy).
+*   **AppCenter**(Microsoft-provided tool, USA): we use them to monitor crash logs. For more details, please refer to the Subcontractor’s [Privacy Policy](https://docs.microsoft.com/en-us/appcenter/gdpr/faq).
+*   **AppsFlyer**(AppsFlyer Ltd., USA) provides us with measurement, analytics, fraud protection, and engagement technologies. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.appsflyer.com/trust/privacy/).
+*   **Zoom**(Zoom Video Communications, Inc., USA) is a video conferencing platform, which can be connected to Spark Calendar to help Users schedule video and audio meetings. For more details, please read their [Privacy Policy](https://explore.zoom.us/en/privacy/).
+*   **Azure OpenAI Service** (Microsoft Corporation, USA). We use Azure OpenAI Service to provide you with Spark +AI, which is designed to help you create and edit emails using machine learning algorithms co-developed by Microsoft Corporation and OpenAI (OPENAI, LLC). For more details, please refer to their [Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement).
+*   **OpenAI API**(OpenAI, L.L.C., USA). We use OpenAI API to provide you with the Spark +AI feature in specific cases described in this Policy. For more details, please refer to the ‘ [OpenAI Data](#openaidata)’ subsection of this Policy and OpenAI [Data Processing Addendum](https://openai.com/policies/data-processing-addendum).
+*   **Anthropic**(Anthropic PBC, ISA). We may use AI models of this provider directly via API or through Google's Vertex AI suite to provide you with the Spark +AI features. For more details, please refer to their [Privacy Policy](https://www.anthropic.com/legal/privacy). 
+*   **Setapp**(Setapp Ltd., Ireland). We collaborate with Setapp to offer your app. Your data will only be available to Setapp if you decide to download Spark through the Setapp service. We may receive data on your subscription from Setapp. For more details, please refer to their [Privacy Policy](https://setapp.com/privacy-policy).
+*   **Zapier**(Zapier, Inc., USA). We use Zapier to receive information about some of your financial transactions (such as a date of first payment or subscription cancellation). For more details, please, refer to their [Privacy Policy](https://zapier.com/privacy).
+*   **Airtable**(Formagrid Inc, dba Airtable, USA). We use Airtable to process and organize data related to subscriptions. For more details, please, refer to their [Privacy Policy](https://www.airtable.com/privacy).
+*   **Typeform**(TYPEFORM SL, Barcelona (Spain)). We use Typeform to collect information from our users in embed forms. For more details, please refer to their [Privacy Policy](https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com&tid=6e1275f0-d924-4083-bc77-b88eb10f8195).
+*   **CKEditor 5**(CKSource Holding LTD, Poland). We use CKEditor 5 to provide you with enhanced text editing functions and real-time collaboration features in the email composer. For more details, please refer to the Subcontractor's [Privacy Policy](https://ckeditor.com/legal/privacy-policy/).
 
 We may share your personal data with other Subcontractors, such as auditors, lawyers, accountants, software engineers, and other specialists and experts that we may engage on a contractual basis.
 
@@ -521,8 +521,8 @@ We ensure that all transmission is secured with HTTPS so that no one else can ac
 
 We currently use Google (" **Hosting providers**"). These Hosting providers have various international security certificates that ensure your data safety.
 
-* App Center. You can read more on the security measures via [the link](https://appcenter.ms/).
-* Google. You can read more on the security measures via [the link](https://cloud.google.com/security).
+*   App Center. You can read more on the security measures via [the link](https://appcenter.ms/).
+*   Google. You can read more on the security measures via [the link](https://cloud.google.com/security).
 
 ### Security measures (detailed explanation):
 
@@ -542,11 +542,11 @@ We have, in addition, a regulation for the creation of passwords. This guarantee
 
 Passwords must meet specific requirements. It must be at least:
 
-* 12 characters long
-* 1 letter in upper-case
-* 1 letter in lower-case
-* 1 number
-* 1 special symbol
+*   12 characters long
+*   1 letter in upper-case
+*   1 letter in lower-case
+*   1 number
+*   1 special symbol
 
 Our systems are protected by firewalls that reject all incoming connections by default. Only connection types defined by exception are accepted.
 
@@ -616,12 +616,12 @@ You, as the subject of personal data, have some specific privacy rights. To exer
 
 Your rights vary depending on the laws that apply to you but may include:
 
-* The right to be informed about the personal data we collect and/or process about you;
-* The right to learn the source of personal data about you we process;
-* The right to access, modify, and correct personal data about you;
-* The right to know with whom we have shared your personal data, for what purposes, and what personal data has been shared (including whether personal data was disclosed to third parties for their direct marketing purposes);
-* The right to withdraw your consent, where the processing of personal data is based on your consent; and
-* The right to lodge a complaint with a supervisory authority located in the jurisdiction of your habitual residence, place of work, or where an alleged violation of law occurred.
+*   The right to be informed about the personal data we collect and/or process about you;
+*   The right to learn the source of personal data about you we process;
+*   The right to access, modify, and correct personal data about you;
+*   The right to know with whom we have shared your personal data, for what purposes, and what personal data has been shared (including whether personal data was disclosed to third parties for their direct marketing purposes);
+*   The right to withdraw your consent, where the processing of personal data is based on your consent; and
+*   The right to lodge a complaint with a supervisory authority located in the jurisdiction of your habitual residence, place of work, or where an alleged violation of law occurred.
 
 Please see more detailed information about your state’s privacy data protection laws in a separate section; you can find it in the navigation on the right of the page.
 
@@ -633,11 +633,11 @@ Please see more detailed information about your state’s privacy data protectio
 
 What do these rights mean?
 
-1. **The right to access information**. You can request an explanation of the processing of your personal data: what data exactly we process and how.
-2. **The right to withdraw consent**. After you once give us any consent, you can withdraw it at any time without any consequences for you.
-3. **The right to portability**. You can request all the data you provided to us and request to transfer data to another Controller in a machine-readable format.
-4. **The right to file complaints**. If your request is not satisfied, you can file a complaint to the regulatory body. But please first contact us, and we will do our best to help you.
-5. **Right to erasure**. You can send us a request to delete your personal data from our systems.
+1.  **The right to access information**. You can request an explanation of the processing of your personal data: what data exactly we process and how.
+2.  **The right to withdraw consent**. After you once give us any consent, you can withdraw it at any time without any consequences for you.
+3.  **The right to portability**. You can request all the data you provided to us and request to transfer data to another Controller in a machine-readable format.
+4.  **The right to file complaints**. If your request is not satisfied, you can file a complaint to the regulatory body. But please first contact us, and we will do our best to help you.
+5.  **Right to erasure**. You can send us a request to delete your personal data from our systems.
 
 Depending on the state and legislative requirements, we have from 30 to 60 days to exercise your request with the right for additional 30 days.
 
@@ -675,38 +675,38 @@ California residents using our App may request that we do not automatically gath
 
 The California Consumer Privacy Act ("CCPA") and California Privacy Rights Act provide our Users who are California residents with the following additional rights:
 
-* **Right to Know**: You have the right to request that we disclose certain information to you about the personal data we collected, used, disclosed, and sold about you in the past 12 months. This includes a request to know any or all of the following:
-    * categories of personal data collected about you;
-    * categories of sources from which we collected your personal data;
-    * categories of personal data that we have sold or disclosed about you for a business purpose;
-    * categories of third parties to whom your personal data was sold or disclosed for a business purpose;our business or commercial purpose for collecting or selling your personal data; and
-    * specific pieces of personal data we have collected about you.
-* **Data Portability**: You have the right to request a copy of personal data we have collected and maintained about you in the past 12 months.
-* **Right to Erasure**: You have the right to request that we delete the personal data we collected from you and maintained, subject to certain exceptions. Please note that if you request erasure of your personal data, we may deny your request or may retain some aspects of your personal data if it is necessary for us or our service providers to:
-    * complete the transaction for which the personal data was collected, provide goods or services requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between our business and you;
-    * detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
-    * debug to identify and repair errors that impair existing intended functionality;
-    * exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
-    * comply with the California Electronic Communications Privacy Act according to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code;
-    * engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the deletion of the information is likely to render impossible or seriously impair the achievement of such research if you have provided informed consent;
-    * enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
-    * comply with a legal obligation;
-    * otherwise, use the personal data internally in a lawful manner that is compatible with the context in which you provided the information.
-* **Right to Opt-Out/In**: You have the right to opt out of the sale of your personal data. You also have the right to opt-in to the sale of personal data. However, we do not sell your personal data.
-* **Right to Non-Discrimination**: You have the right not to receive discriminatory treatment by us to exercise your CCPA privacy rights. Unless permitted by the CCPA, we will not:
-    * deny you goods or services;
-    * charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
-    * provide you a different level or quality of goods or services;
-    * suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+*   **Right to Know**: You have the right to request that we disclose certain information to you about the personal data we collected, used, disclosed, and sold about you in the past 12 months. This includes a request to know any or all of the following:
+    *   categories of personal data collected about you;
+    *   categories of sources from which we collected your personal data;
+    *   categories of personal data that we have sold or disclosed about you for a business purpose;
+    *   categories of third parties to whom your personal data was sold or disclosed for a business purpose;our business or commercial purpose for collecting or selling your personal data; and
+    *   specific pieces of personal data we have collected about you.
+*   **Data Portability**: You have the right to request a copy of personal data we have collected and maintained about you in the past 12 months.
+*   **Right to Erasure**: You have the right to request that we delete the personal data we collected from you and maintained, subject to certain exceptions. Please note that if you request erasure of your personal data, we may deny your request or may retain some aspects of your personal data if it is necessary for us or our service providers to:
+    *   complete the transaction for which the personal data was collected, provide goods or services requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between our business and you;
+    *   detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+    *   debug to identify and repair errors that impair existing intended functionality;
+    *   exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+    *   comply with the California Electronic Communications Privacy Act according to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code;
+    *   engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the deletion of the information is likely to render impossible or seriously impair the achievement of such research if you have provided informed consent;
+    *   enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+    *   comply with a legal obligation;
+    *   otherwise, use the personal data internally in a lawful manner that is compatible with the context in which you provided the information.
+*   **Right to Opt-Out/In**: You have the right to opt out of the sale of your personal data. You also have the right to opt-in to the sale of personal data. However, we do not sell your personal data.
+*   **Right to Non-Discrimination**: You have the right not to receive discriminatory treatment by us to exercise your CCPA privacy rights. Unless permitted by the CCPA, we will not:
+    *   deny you goods or services;
+    *   charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
+    *   provide you a different level or quality of goods or services;
+    *   suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 You can exercise these rights any time by contacting us via email at [dpo@sparkmailapp.com](mailto:dpo@sparkmailapp.com).  
 
 Notice, the CCPA envisages some specific requirements related to exercising these data protection rights. Considering them, we may:
 
-* respond to your request within forty-five (45) days of receiving the request;
-* provide you with personal data we collected about you no more than twice in a 12-months period (categories and specific pieces of collected personal data, business purpose and sources of collection, categories of third parties personal data is shared with);
-* NOT provide you with personal data if we cannot verify your identity. You shall provide us with sufficient information to verify you as the person we collected personal data. However, we do consider requests made through your Account sufficiently verified;
-* NOT transmit your personal data to another entity.
+*   respond to your request within forty-five (45) days of receiving the request;
+*   provide you with personal data we collected about you no more than twice in a 12-months period (categories and specific pieces of collected personal data, business purpose and sources of collection, categories of third parties personal data is shared with);
+*   NOT provide you with personal data if we cannot verify your identity. You shall provide us with sufficient information to verify you as the person we collected personal data. However, we do consider requests made through your Account sufficiently verified;
+*   NOT transmit your personal data to another entity.
 
 Also, please be aware that we are allowed to maintain personal data after erasure requests are received as permitted by the CCPA (for instance, for detection of security incidents, repair errors, compliance with legal obligations, and transaction completion).
 
@@ -746,9 +746,9 @@ For residents of Colorado, we provide more information about the relevant legisl
 
 The method you must take into account:
 
-* how customers normally interact with the Controller;
-* the need for secure and reliable communication relating to the request; and
-* the ability of the Controller to authenticate the identity of the customer making the request.
+*   how customers normally interact with the Controller;
+*   the need for secure and reliable communication relating to the request; and
+*   the ability of the Controller to authenticate the identity of the customer making the request.
 
 Controllers shall not require a customer to create a new account to exercise customer rights. However, the Controller may require a customer to use an existing account.
 
@@ -780,13 +780,13 @@ For residents of Nevada, we provide more information about the relevant legislat
 
 **Opt-Out of the sale**. Nevada allows consumers to opt out of the sale of "covered information" collected through a website or online service. Under the law, "covered information" includes:
 
-* first and last name;
-* home or other physical address, which includes the name of a street and the name of a city or town;
-* electronic mail (email) address;
-* telephone number;
-* social security number;
-* identifier that allows a specific person to be contacted either physically or online;
-* other information concerning a person is collected from the person through the operator’s Internet website or online service and maintained by the operator in combination with an identifier in a form that makes the information personally identifiable.
+*   first and last name;
+*   home or other physical address, which includes the name of a street and the name of a city or town;
+*   electronic mail (email) address;
+*   telephone number;
+*   social security number;
+*   identifier that allows a specific person to be contacted either physically or online;
+*   other information concerning a person is collected from the person through the operator’s Internet website or online service and maintained by the operator in combination with an identifier in a form that makes the information personally identifiable.
 
 **Do-not-sell request**. Nevada does not require entities to include a "Do Not Sell My Personal Information" button or link on their websites. Instead, it mandates that entities provide consumers with an email address, a toll-free telephone number, or an Internet website to submit verified Opt-Out requests.
 
