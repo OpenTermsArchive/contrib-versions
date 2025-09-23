@@ -9,17 +9,17 @@ If there is any conflict between the terms in this Privacy Policy and the EU-U.S
 
 ### [](#data-privacy-framework-principles "#data-privacy-framework-principles")Data Privacy Framework (Principles)
 
-* [Notice](#notice)
+*   [Notice](#notice)
     
-* [Data Integrity and Purpose Limitation](#data-integrity-and-purpose-limitation)
+*   [Data Integrity and Purpose Limitation](#data-integrity-and-purpose-limitation)
     
-* [Choice; Access](#choice-access)
+*   [Choice; Access](#choice-access)
     
-* [Accountability and Onward Transfer](#accountability-and-onward-transfer)
+*   [Accountability and Onward Transfer](#accountability-and-onward-transfer)
     
-* [Recourse and Enforcement](#recourse-and-enforcement)
+*   [Recourse and Enforcement](#recourse-and-enforcement)
     
-* [Security](#security)
+*   [Security](#security)
     
 
 ### [](#notice "#notice")Notice
@@ -48,17 +48,17 @@ Bitwarden obtains Personal Information in connection with your account creation,
 
 Bitwarden has a legitimate interest to further process your Administrative Data as follows:
 
-* To administer your Bitwarden Service user accounts.
+*   To administer your Bitwarden Service user accounts.
     
-* To enable your access and use of the Bitwarden Service, and to enable you to communicate, collaborate, and share information with those you designate.
+*   To enable your access and use of the Bitwarden Service, and to enable you to communicate, collaborate, and share information with those you designate.
     
-* To enable us to verify the license(s) you've contracted with us to use the Service.
+*   To enable us to verify the license(s) you've contracted with us to use the Service.
     
-* To provide product enablement and licensing, customer service and support.
+*   To provide product enablement and licensing, customer service and support.
     
-* To monitor your user experience on the Service.
+*   To monitor your user experience on the Service.
     
-* To enable us to proactively help customers maintain the performance and functionality of deployments of the Bitwarden Service.
+*   To enable us to proactively help customers maintain the performance and functionality of deployments of the Bitwarden Service.
     
 
 #### The Bitwarden Website
@@ -67,58 +67,58 @@ Bitwarden has a legitimate interest to further process your Administrative Data 
 
 When you use the Site or communicate with us (e.g. via email) you will provide, and Bitwarden will collect certain Personal Information such as
 
-* Name
+*   Name
     
-* Business name and address
+*   Business name and address
     
-* Business telephone number
+*   Business telephone number
     
-* Email address
+*   Email address
     
-* IP-address and other online identifiers
+*   IP-address and other online identifiers
     
-* Any customer testimonial you have given us consent to share.
+*   Any customer testimonial you have given us consent to share.
     
-* Information you provide to the Site's Interactive Areas, such as fillable forms or text boxes, training, webinars or event registration.
+*   Information you provide to the Site's Interactive Areas, such as fillable forms or text boxes, training, webinars or event registration.
     
-* Information about the device you are using, comprising the hardware model, operating system and version, unique device identifiers, network information, IP address, and/or Bitwarden Service information when interacting with the Site.
+*   Information about the device you are using, comprising the hardware model, operating system and version, unique device identifiers, network information, IP address, and/or Bitwarden Service information when interacting with the Site.
     
-* If you interact with the Bitwarden Community or training, or registered for an exam or event, we may collect biographical information and the content that you share.
+*   If you interact with the Bitwarden Community or training, or registered for an exam or event, we may collect biographical information and the content that you share.
     
-* Information gathered via cookies, pixel tags, logs, or other similar technologies.
+*   Information gathered via cookies, pixel tags, logs, or other similar technologies.
     
 
 ##### Use and Retention
 
 Bitwarden may use the Personal Information collected by the Site to provide you with services, to accomplish our business purposes and to fulfill other legal obligations, including:
 
-* To provide you services that you request, such as when we:
+*   To provide you services that you request, such as when we:
     
-    * Respond to your requests for information about our products, services, training and events;
+    *   Respond to your requests for information about our products, services, training and events;
         
-    * To enable your access and use of the Site, and to enable you to communicate, collaborate, and share information with those you designate;
+    *   To enable your access and use of the Site, and to enable you to communicate, collaborate, and share information with those you designate;
         
-    * To send you technical notices, updates, security alerts, and support and administrative messages;
+    *   To send you technical notices, updates, security alerts, and support and administrative messages;
         
-* For our business purposes we have a legitimate interest, when we:
+*   For our business purposes we have a legitimate interest, when we:
     
-    * Operate the Site;
+    *   Operate the Site;
         
-    * Administer your account if you have registered on the Site, including billing and payment;
+    *   Administer your account if you have registered on the Site, including billing and payment;
         
-    * Send marketing, advertising, training, certification or event materials to which you've agreed, requested or subscribed or to otherwise inform you about our products and services;
+    *   Send marketing, advertising, training, certification or event materials to which you've agreed, requested or subscribed or to otherwise inform you about our products and services;
         
-* Apply information security policies and controls on the Site, including overall Site integrity, identity management and account authentication;
+*   Apply information security policies and controls on the Site, including overall Site integrity, identity management and account authentication;
     
-* For research and development to improve the Bitwarden Service, Site and other Bitwarden services;
+*   For research and development to improve the Bitwarden Service, Site and other Bitwarden services;
     
-* Perform other general business management and operations purposes, such as to provide, operate, maintain, make modifications to protect and improve the Site.
+*   Perform other general business management and operations purposes, such as to provide, operate, maintain, make modifications to protect and improve the Site.
     
-* To fulfill legal obligations, including:
+*   To fulfill legal obligations, including:
     
-* Legal compliance, such as to enforce our legal rights, to comply in good faith with applicable laws, and to protect users of the Site or Service.
+*   Legal compliance, such as to enforce our legal rights, to comply in good faith with applicable laws, and to protect users of the Site or Service.
     
-* For other purposes about which we notify you and, where relevant or required, give you choice about the new purpose.
+*   For other purposes about which we notify you and, where relevant or required, give you choice about the new purpose.
     
 
 This information is retained in accordance with the Bitwarden retention policy.
@@ -141,17 +141,17 @@ If you participate in a Bitwarden Event, and direct us to share your information
 
 If you apply for a job at Bitwarden, we collect and use your Personal Information for legitimate human resources and business management reasons including:
 
-* Identifying and evaluating candidates for potential employment, as well as for future roles that may become available;
+*   Identifying and evaluating candidates for potential employment, as well as for future roles that may become available;
     
-* Recordkeeping in relation to recruiting and hiring;
+*   Recordkeeping in relation to recruiting and hiring;
     
-* Ensuring compliance with legal requirements, including diversity and inclusion requirements and practices;
+*   Ensuring compliance with legal requirements, including diversity and inclusion requirements and practices;
     
-* Conducting criminal history checks as permitted by applicable law;
+*   Conducting criminal history checks as permitted by applicable law;
     
-* Protecting our legal rights to the extent authorized or permitted by law; or
+*   Protecting our legal rights to the extent authorized or permitted by law; or
     
-* Emergency situations where the health or safety of one or more individuals may be endangered.
+*   Emergency situations where the health or safety of one or more individuals may be endangered.
     
 
 We retain this information in accordance with our retention policy.
@@ -182,29 +182,29 @@ Except as listed below, Bitwarden will not share Personal Information with third
 
 Depending on how Bitwarden is deployed by the customer, Bitwarden may share Personal Information with third-party service providers that need your information to provide the following operational or other support services to Bitwarden, the Site or Service:
 
-* Data management.
+*   Data management.
     
-* Database hosting.
+*   Database hosting.
     
-* Integration services.
+*   Integration services.
     
-* Professional services.
+*   Professional services.
     
-* Information security, integrity, and identity and authentication services.
+*   Information security, integrity, and identity and authentication services.
     
-* Email communications (e.g. operational, marketing, events, training, certifications).
+*   Email communications (e.g. operational, marketing, events, training, certifications).
     
-* Financial operations (e.g. licensing, billing).
+*   Financial operations (e.g. licensing, billing).
     
-* Payments and payment card processing.
+*   Payments and payment card processing.
     
-* Shipping services.
+*   Shipping services.
     
-* Communication services (e.g enabling collaboration, conferencing or messaging).
+*   Communication services (e.g enabling collaboration, conferencing or messaging).
     
-* Support services (e.g. providing customer service and support).
+*   Support services (e.g. providing customer service and support).
     
-* Cloud services (e.g. functioning of the Site or Bitwarden Service).
+*   Cloud services (e.g. functioning of the Site or Bitwarden Service).
     
 
 To ensure the confidentiality and security of your Personal Information, we have data processing terms in place with service providers that handle Personal Information. These service providers are restricted by contract from using Personal Information in any way other than to provide services for Bitwarden, including on your behalf as part of your contract with us.
@@ -213,26 +213,26 @@ In the context of an onward transfer, Bitwarden has responsibility for the proce
 
 Bitwarden may also provide your Personal Information to a third party if:
 
-* We believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process, or lawful government request, including in connection with national security or law enforcement requirements. This may include disclosures: to respond to subpoenas or court orders; to establish or exercise our legal rights or defend against legal claims; or to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Agreement, or as otherwise required by law. In each case, we will make reasonable efforts to verify the validity of the request before disclosing your Personal Information.
+*   We believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process, or lawful government request, including in connection with national security or law enforcement requirements. This may include disclosures: to respond to subpoenas or court orders; to establish or exercise our legal rights or defend against legal claims; or to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Agreement, or as otherwise required by law. In each case, we will make reasonable efforts to verify the validity of the request before disclosing your Personal Information.
     
-* To protect the security and integrity of the Site or Bitwarden Service.
+*   To protect the security and integrity of the Site or Bitwarden Service.
     
-* To respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing serious bodily injury or death of any person.
+*   To respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing serious bodily injury or death of any person.
     
 
 Bitwarden may also share your Personal Information with our affiliates and partners, to facilitate our global operations and in accordance with applicable laws, and our agreements with customers or service providers.
 
 We may also provide your Personal Information to a third party in connection with a merger or acquisition of Bitwarden, either in part or in whole, or the assignment or other transfer of the Site or Service. In such event, such third party will either:
 
-* Continue to honor the privacy practices described in this Privacy Policy; or
+*   Continue to honor the privacy practices described in this Privacy Policy; or
     
-* If the third party proposes to materially change the privacy practices described in this Privacy Policy involving your Personal Information collected before such merger, acquisition, assignment or other transfer:
+*   If the third party proposes to materially change the privacy practices described in this Privacy Policy involving your Personal Information collected before such merger, acquisition, assignment or other transfer:
     
-    * inform you and get your express affirmative consent to opt-in to the new practices; and/or
+    *   inform you and get your express affirmative consent to opt-in to the new practices; and/or
         
-    * inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
+    *   inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
         
-* You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
+*   You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
     
 
 ##### International Transfer And Storage Of Information Collected
@@ -293,36 +293,36 @@ Bitwarden may update this Privacy Policy from time to time. When we do update it
 
 For individuals who are California residents, the California Consumer Privacy Act (CCPA) requires certain disclosures about the categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it. While we have set out the categories below as required by the California Consumer Privacy Act, you can review the other sections of this Privacy Policy for examples and other information that describes our data collection and use as previously disclosed to you which have not changed under this notice.Depending on how you interact with us, we may collect the categories of information as summarized below. This Notice for California Users does not apply to Personal Information we collect from employees or job applicants in their capacity as employees or job applicants. It also does not apply to Personal Information we collect from employees, owners, directors, officers, or contractors of businesses in the course of our provision or receipt of business-related services.The following Personal Information we collect about you (as described below) comes from your interaction with our Site and the Bitwarden Service:
 
-* Personal Identifiers (such as name, physical address, unique personal identifier, online identifier, Internet Protocol address, email address or other similar identifiers)
+*   Personal Identifiers (such as name, physical address, unique personal identifier, online identifier, Internet Protocol address, email address or other similar identifiers)
     
-* Financial and Commercial Information (such as billing data when you make a purchase, records and history of products or services purchased or considered.)
+*   Financial and Commercial Information (such as billing data when you make a purchase, records and history of products or services purchased or considered.)
     
-* Location Information (inferred from your IP address)
+*   Location Information (inferred from your IP address)
     
-* Professional/Employment Information (such as the name of your employer and your title)
+*   Professional/Employment Information (such as the name of your employer and your title)
     
-* Legally Protected Classifications (such as your correspondence salutation)
+*   Legally Protected Classifications (such as your correspondence salutation)
     
-* Other Identifying Information (such as cookies used for website performance analytics)
+*   Other Identifying Information (such as cookies used for website performance analytics)
     
 
 All of the categories of Personal Information we collect about you (as detailed above) are used for the following purposes:
 
-* Providing our services (for example, account servicing and maintenance, customer service, advertising and marketing, analytics, and communication about our services)
+*   Providing our services (for example, account servicing and maintenance, customer service, advertising and marketing, analytics, and communication about our services)
     
-* For our operational purposes, and the operational purposes of our service providers and integration partners
+*   For our operational purposes, and the operational purposes of our service providers and integration partners
     
-* Improving our existing services and developing new services (e.g., by conducting research to develop new products or features)
+*   Improving our existing services and developing new services (e.g., by conducting research to develop new products or features)
     
-* Detecting, protecting against, and prosecuting security incidents and fraudulent or illegal activity
+*   Detecting, protecting against, and prosecuting security incidents and fraudulent or illegal activity
     
-* Bug detection, error reporting, and activities to maintain the quality or safety of our services
+*   Bug detection, error reporting, and activities to maintain the quality or safety of our services
     
-* Auditing consumer interactions on our site (for example, measuring ad impressions)
+*   Auditing consumer interactions on our site (for example, measuring ad impressions)
     
-* Short-term, transient use, such as customizing content that we or our service providers display on the services
+*   Short-term, transient use, such as customizing content that we or our service providers display on the services
     
-* Other uses for which we provide you with notice
+*   Other uses for which we provide you with notice
     
 
 ##### California Rights and Choices
