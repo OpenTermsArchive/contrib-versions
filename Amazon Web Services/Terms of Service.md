@@ -155,25 +155,25 @@ c. The specific compliance and assurance programs for which AWS Outposts are in
 
 **5.1.1.** If you use the Microsoft Software, Microsoft and its licensors require that you agree to these additional terms and conditions:
 
-* The Microsoft Software is neither sold nor distributed to you, and you may use it solely in conjunction with the Services.
-* You may not transfer or use the Microsoft Software outside the Services.
-* You may not remove, modify, or obscure any copyright, trademark, or other proprietary rights notices that are contained in or on the Microsoft Software.
-* You may not reverse engineer, decompile, or disassemble the Microsoft Software, except to the extent expressly permitted by applicable law.
-* Microsoft disclaims, to the extent permitted by applicable law, all warranties by Microsoft and any liability by Microsoft or its suppliers for any damages, whether direct, indirect, or consequential, arising from the Services.
-* Microsoft is not responsible for providing any support in connection with the Services. Do not contact Microsoft for support.
-* You are not granted any right to use the Microsoft Software in any application controlling aircraft or other modes of human mass transportation, nuclear or chemical facilities, life support systems, implantable medical equipment, motor vehicles, weaponry systems, or any similar scenario (collectively, “High Risk Use”). Microsoft and its suppliers disclaim any express or implied warranty of fitness for High Risk Use. High Risk Use does not include utilization of the Microsoft Software for administrative purposes, to store configuration data, engineering and/or configuration tools, or other non-control applications, the failure of which would not result in death, personal injury, or severe physical or environmental damage. These non-controlling applications may communicate with the applications that perform the control, but must not be directly or indirectly responsible for the control function.
-* Microsoft is an intended third-party beneficiary of this Section 5.1.1, with the right to enforce its provisions.
+*   The Microsoft Software is neither sold nor distributed to you, and you may use it solely in conjunction with the Services.
+*   You may not transfer or use the Microsoft Software outside the Services.
+*   You may not remove, modify, or obscure any copyright, trademark, or other proprietary rights notices that are contained in or on the Microsoft Software.
+*   You may not reverse engineer, decompile, or disassemble the Microsoft Software, except to the extent expressly permitted by applicable law.
+*   Microsoft disclaims, to the extent permitted by applicable law, all warranties by Microsoft and any liability by Microsoft or its suppliers for any damages, whether direct, indirect, or consequential, arising from the Services.
+*   Microsoft is not responsible for providing any support in connection with the Services. Do not contact Microsoft for support.
+*   You are not granted any right to use the Microsoft Software in any application controlling aircraft or other modes of human mass transportation, nuclear or chemical facilities, life support systems, implantable medical equipment, motor vehicles, weaponry systems, or any similar scenario (collectively, “High Risk Use”). Microsoft and its suppliers disclaim any express or implied warranty of fitness for High Risk Use. High Risk Use does not include utilization of the Microsoft Software for administrative purposes, to store configuration data, engineering and/or configuration tools, or other non-control applications, the failure of which would not result in death, personal injury, or severe physical or environmental damage. These non-controlling applications may communicate with the applications that perform the control, but must not be directly or indirectly responsible for the control function.
+*   Microsoft is an intended third-party beneficiary of this Section 5.1.1, with the right to enforce its provisions.
 
 **5.1.2.** For any instance running Microsoft Software (each, a “Microsoft Instance”), you may not use nesting, container, or similar technologies to sell or resell multiple instances, portions of an instance, or containers running within the Microsoft Instance, unless (a) you are the ultimate end user of the Microsoft Instance, (b) you have supplemented the Microsoft Instance with your own applications, or (c) you have added primary and significant functionality to the Microsoft Instance.
 
 **5.2.** In conjunction with the Services, you may be allowed to use certain software (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. Use of third party software is subject to these additional terms and conditions:
 
-* Your use of NVIDIA Corporation’s GRID Software is subject to the terms and conditions of the [NVIDIA GRID Cloud End User License Agreement](https://aws-nvidia-license-agreement.s3.amazonaws.com/NvidiaGridAWSUserLicenseAgreement.DOCX).
-* Your use of NVIDIA Corporation’s Tesla Driver, CUDA Toolkit, cuDNN, NVENC, NVCUVID, NVM:, nvidia-smi, and NCCL Library Software, toolkits, and drivers is subject to the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf) and [NVIDIA Third Party Materials Notices](https://s3.amazonaws.com/EULA/Nvidia-3P-Notice.txt).
-* Your use of Red Hat, Inc.’s software is subject to the terms and conditions of the [Red Hat Cloud Software Subscription Agreement](http://www.redhat.com/licenses/cloud_cssa/). Red Hat also disclaims any (i) warranties with respect to Red Hat, Inc. software; and (ii) liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from use of Red Hat, Inc. software.
-* Your use of SUSE LLC’s software is subject to the terms and conditions of the [SUSE End User License Agreement](https://www.suse.com/licensing/eula) and the [SUSE Terms and Conditions](https://www.suse.com/products/terms_and_conditions.pdf).
-* Your use of Apple Inc.’s software is subject to the terms and conditions of the applicable [Apple Software License Agreement](https://www.apple.com/legal/sla/).
-* Your use of Qualcomm Technologies Inc.’s software is subject to the terms and conditions of Qualcomm’s [Software Development Kit License Agreement](https://d1.awsstatic.com/legal/awsserviceterms/qualcomm-cloud-software-development-kit-license-agreement.pdf).
+*   Your use of NVIDIA Corporation’s GRID Software is subject to the terms and conditions of the [NVIDIA GRID Cloud End User License Agreement](https://aws-nvidia-license-agreement.s3.amazonaws.com/NvidiaGridAWSUserLicenseAgreement.DOCX).
+*   Your use of NVIDIA Corporation’s Tesla Driver, CUDA Toolkit, cuDNN, NVENC, NVCUVID, NVM:, nvidia-smi, and NCCL Library Software, toolkits, and drivers is subject to the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf) and [NVIDIA Third Party Materials Notices](https://s3.amazonaws.com/EULA/Nvidia-3P-Notice.txt).
+*   Your use of Red Hat, Inc.’s software is subject to the terms and conditions of the [Red Hat Cloud Software Subscription Agreement](http://www.redhat.com/licenses/cloud_cssa/). Red Hat also disclaims any (i) warranties with respect to Red Hat, Inc. software; and (ii) liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from use of Red Hat, Inc. software.
+*   Your use of SUSE LLC’s software is subject to the terms and conditions of the [SUSE End User License Agreement](https://www.suse.com/licensing/eula) and the [SUSE Terms and Conditions](https://www.suse.com/products/terms_and_conditions.pdf).
+*   Your use of Apple Inc.’s software is subject to the terms and conditions of the applicable [Apple Software License Agreement](https://www.apple.com/legal/sla/).
+*   Your use of Qualcomm Technologies Inc.’s software is subject to the terms and conditions of Qualcomm’s [Software Development Kit License Agreement](https://d1.awsstatic.com/legal/awsserviceterms/qualcomm-cloud-software-development-kit-license-agreement.pdf).
 
 **5.3.** Unless you specify a termination date, your Spot Instance request will remain active until the earlier of the following: (1) seven days have passed, (2) we fulfill it, or (3) you cancel it. We may terminate, stop, or hibernate Spot Instances at any time and without any notice to you if the current price for the applicable Spot Instance (the “Spot Price”) equals or exceeds the price you specified you were willing to pay for the Spot Instance (“Your Maximum Price”). Spot Instances purchased for a fixed duration (“Spot Blocks”) will not be terminated because the Spot Price equals or exceeds Your Maximum Price (if specified), but will terminate at the conclusion of the fixed duration. Spot Instances and Spot Blocks may also be terminated for AWS capacity requirements. If a Spot Block is terminated due to AWS capacity requirements, you will not be charged for that Spot Block. Spot Instances may not be used with certain Services, features, and third-party software we specify, including IBM software packages or Microsoft SQL Server. You may not, directly, indirectly, alone, or in cooperation with any third party, attempt to control, influence, or manipulate the price for Spot Instances. You may not submit requests for Spot Instances through any third party (e.g., “proxy bidding”) or share information with any third party regarding Your Maximum Price specified in your Spot Instance Requests.
 
@@ -263,31 +263,31 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 
 **10.3.1.** “License Included”. As part of the Services, you may be allowed to use certain software (including related documentation) described on the AWS Site developed and owned by Oracle America, Inc. or its affiliates (“Oracle”) and Oracle’s licensors (collectively, the “Oracle Software”). If you choose to use the Oracle Software and do not already have a license from Oracle for that Oracle Software, Oracle and its licensors require that you agree to these additional terms and conditions:
 
-* Oracle or its licensors retains all ownership and intellectual property rights in the Oracle Software, and title to the Oracle Software does not transfer to you or any third party by virtue of this Agreement.
-* The Oracle Software is subject to a restricted license and may only be used in connection with the Services, and only by the individual or legal entity that entered into the Agreement.
-* You may only use the Oracle Software for your internal business operations and in accordance with the Agreement. You may permit agents or contractors (including outsourcers) to use the Oracle Software on your behalf for the purposes set forth in, and subject to, the Agreement, provided you are responsible for the agent’s, contractor’s and outsourcer’s compliance with the Agreement in connection with such use.
-* You may not:
-    * assign, grant, or transfer the Oracle Software or any interest in the Oracle Software to another individual or entity, and if you purport to grant a security interest in the Oracle Software, the secured party will have no right to use or transfer the Oracle Software;
-    * use the Oracle Software for rental, timesharing, subscription services, hosting, or outsourcing;
-    * remove or modify any notice of Oracle’s or its licensors’ proprietary rights;
-    * make the Oracle Software available in any manner to any third party for use in the third party’s business operations;
-    * duplicate, reverse engineer (unless required by law for interoperability), disassemble or decompile the Oracle Software (including by reviewing data structures or similar materials produced by the Oracle Software); or
-    * publish any results of benchmark tests run on the Oracle Software.
-* Third party technology that may be appropriate or necessary for use with some Oracle Software is specified in the related documentation, and that third party technology is licensed to you only for use with the Services and under the terms of the third party license agreement specified in the documentation, not this Agreement.
-* To the extent permitted by applicable law, Oracle disclaims any liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from your use of the Oracle Software.
-* Notwithstanding anything to the contrary elsewhere in the Agreement, Oracle is an intended third party beneficiary of the Agreement, but solely with respect to this Section 10.3.1 of these Service Terms.
-* The Uniform Computer Information Transactions Act does not apply to your use of the Oracle Software.
-* Upon any termination of the Agreement, you must discontinue use of the Oracle Software and any related documentation.
+*   Oracle or its licensors retains all ownership and intellectual property rights in the Oracle Software, and title to the Oracle Software does not transfer to you or any third party by virtue of this Agreement.
+*   The Oracle Software is subject to a restricted license and may only be used in connection with the Services, and only by the individual or legal entity that entered into the Agreement.
+*   You may only use the Oracle Software for your internal business operations and in accordance with the Agreement. You may permit agents or contractors (including outsourcers) to use the Oracle Software on your behalf for the purposes set forth in, and subject to, the Agreement, provided you are responsible for the agent’s, contractor’s and outsourcer’s compliance with the Agreement in connection with such use.
+*   You may not:
+    *   assign, grant, or transfer the Oracle Software or any interest in the Oracle Software to another individual or entity, and if you purport to grant a security interest in the Oracle Software, the secured party will have no right to use or transfer the Oracle Software;
+    *   use the Oracle Software for rental, timesharing, subscription services, hosting, or outsourcing;
+    *   remove or modify any notice of Oracle’s or its licensors’ proprietary rights;
+    *   make the Oracle Software available in any manner to any third party for use in the third party’s business operations;
+    *   duplicate, reverse engineer (unless required by law for interoperability), disassemble or decompile the Oracle Software (including by reviewing data structures or similar materials produced by the Oracle Software); or
+    *   publish any results of benchmark tests run on the Oracle Software.
+*   Third party technology that may be appropriate or necessary for use with some Oracle Software is specified in the related documentation, and that third party technology is licensed to you only for use with the Services and under the terms of the third party license agreement specified in the documentation, not this Agreement.
+*   To the extent permitted by applicable law, Oracle disclaims any liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from your use of the Oracle Software.
+*   Notwithstanding anything to the contrary elsewhere in the Agreement, Oracle is an intended third party beneficiary of the Agreement, but solely with respect to this Section 10.3.1 of these Service Terms.
+*   The Uniform Computer Information Transactions Act does not apply to your use of the Oracle Software.
+*   Upon any termination of the Agreement, you must discontinue use of the Oracle Software and any related documentation.
 
 **10.3.2.** “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS enables you to provision Oracle Software to Amazon EC2 instances and use the management capabilities of Amazon RDS for the Oracle Software. You can use the Oracle Software with Amazon RDS if you meet the following conditions:
 
-* You must have a valid license with “Software Update License & Support” for the Oracle Software you wish to run. The terms of your existing license and support agreement(s) with Oracle continue to apply to your use of the Oracle Software; and
-* You must follow Oracle’s current policies for licensing Oracle Database software in the cloud computing environment. The database instances using the Oracle Software with Amazon RDS reside in the Amazon EC2 environment.
+*   You must have a valid license with “Software Update License & Support” for the Oracle Software you wish to run. The terms of your existing license and support agreement(s) with Oracle continue to apply to your use of the Oracle Software; and
+*   You must follow Oracle’s current policies for licensing Oracle Database software in the cloud computing environment. The database instances using the Oracle Software with Amazon RDS reside in the Amazon EC2 environment.
 
 **10.4.** Using Microsoft Software. “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
 
-* SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
-* Microsoft is an intended third-party beneficiary of this Section 10.4, with the right to enforce its provisions.
+*   SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
+*   Microsoft is an intended third-party beneficiary of this Section 10.4, with the right to enforce its provisions.
 
 **10.5. Amazon RDS Custom.**
 
@@ -297,8 +297,8 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **10.5.2.** Your use of certain database engines or operating systems (OS) software (including related documentation) made available to you for use with RDS Custom is subject to the applicable third party licensing requirements specified below:
 
-* Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
-* Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. and 10.4. above.
+*   Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
+*   Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. and 10.4. above.
 
 **10.6.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes.
 
@@ -306,9 +306,9 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **10.7.1.** “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS enables you to provision IBM Db2 software on Amazon RDS instances using your existing IBM Db2 software license and support entitlements obtained from IBM or an authorized IBM reseller to IBM Db2 Standard Edition or IBM Db2 Advanced Edition (“IBM Db2 Software”). You can use your existing IBM Db2 Software license under the BYOL option with Amazon RDS if you meet and agree to the following terms and conditions:
 
-* You must have a valid license with current and ongoing “Subscription & Support” authorization from IBM or its authorized reseller for the IBM Db2 Software you wish to run. The terms and conditions of your existing license and support agreement(s) with IBM, and your compliance therewith, continue to apply to your use of IBM Db2 Software with Amazon RDS;
-* You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
-* Your use of IBM Db2 Software with Amazon RDS is subject to suspension or termination if you do not comply with the terms and conditions above.
+*   You must have a valid license with current and ongoing “Subscription & Support” authorization from IBM or its authorized reseller for the IBM Db2 Software you wish to run. The terms and conditions of your existing license and support agreement(s) with IBM, and your compliance therewith, continue to apply to your use of IBM Db2 Software with Amazon RDS;
+*   You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
+*   Your use of IBM Db2 Software with Amazon RDS is subject to suspension or termination if you do not comply with the terms and conditions above.
 
 **10.7.2.** Subject to the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), AWS may send information to IBM related to your IBM Db2 Software licenses such as identification numbers issued to you by IBM and the version of the IBM Db2 Software that you are using.
 
@@ -329,13 +329,13 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **11.6.** Through your use of Amazon SNS you will not:
 
-* Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
-* Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
-* If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
-* Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
-* Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
-* Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.
-* Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
+*   Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
+*   Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
+*   If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
+*   Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
+*   Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
+*   Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.
+*   Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
 12\. AWS Identity and Access Management (IAM)
 ---------------------------------------------
@@ -371,9 +371,9 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **15.4.** We may suspend or terminate your access to SES, or block or decline to send or receive any SES Email, if we determine that your use of SES fails to comply with the AWS Acceptable Use Policy and these Terms, for example if:
 
-* our scan of SES Email or Your Content included in SES Email reveals abusive or low quality email (such as “spam” or other harmful or unwanted items),
-* SES Email bounces back to us or we receive abuse complaints (including complaints from third parties) in connection with your SES Email, or
-* the source or ReturnPath email address you have provided us for “address bounces” or complaints is not successfully receiving email.
+*   our scan of SES Email or Your Content included in SES Email reveals abusive or low quality email (such as “spam” or other harmful or unwanted items),
+*   SES Email bounces back to us or we receive abuse complaints (including complaints from third parties) in connection with your SES Email, or
+*   the source or ReturnPath email address you have provided us for “address bounces” or complaints is not successfully receiving email.
 
 **15.5.** If your SES Emails are blocked, delayed, or prevented from delivery by reasons outside of our control, your payment obligations continue.
 
@@ -576,10 +576,10 @@ d. Are not replacements for traditional telephone or mobile phone services, incl
 
 **29.5.** Through your use of AWS End User Messaging you will not:
 
-* Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
-* If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
-* Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers).
-* Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties
+*   Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
+*   If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
+*   Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers).
+*   Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties
 
 **29.6.** From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or technical documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
 
@@ -591,9 +591,9 @@ d. Are not replacements for traditional telephone or mobile phone services, incl
 
 **29.10.** If the applicable AWS Contracting Party is AWS India, you must obtain our prior written consent before using AWS End User Messaging to send SMS messages for:
 
-* financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
-* sweepstakes or contests; or
-* advertisements or promotions for commercial products, goods, or services.
+*   financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
+*   sweepstakes or contests; or
+*   advertisements or promotions for commercial products, goods, or services.
 
 **29.11.** To enable WhatsApp messaging integration with AWS End User Messaging, you must create a WhatsApp Business Account (“WABA”) and are responsible for reviewing and accepting any applicable Meta and WhatsApp terms related to the WhatsApp Business Solution. You understand that any content, information, and data you upload to, and any messages you send or receive using, the WhatsApp Business Solution are processed by Meta in order to provide the Service. You agree that you are solely responsible for your or your End User’s use of the WhatsApp Business Solution, the content you or your End Users send through the WhatsApp Business Solution, and compliance with applicable Meta or WhatsApp terms.
 
@@ -617,9 +617,9 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 
 **31.4.** You agree not to use Amazon WorkMail for sending:
 
-* Bulk emails, such as mass marketing emails
-* Unsolicited and unwanted emails
-* Phishing emails
+*   Bulk emails, such as mass marketing emails
+*   Unsolicited and unwanted emails
+*   Phishing emails
 
 **31.5.** You are solely responsible for ensuring any emails you or your End Users send using Amazon WorkMail comply with the CAN-SPAM Act and all other applicable law. You agree that AWS is not the “sender” of any emails you or your End Users send using Amazon WorkMail as defined in the CAN-SPAM Act and all other applicable laws.
 
@@ -815,8 +815,8 @@ When you use AWS Application Discovery Service, data that is scanned by AWS Appl
 
 **45.6**. AWS may develop Content consisting of either (a) documents and diagrams (“Documents”) or (b) software (in source or object code form), sample code, or scripts (“Software”) for you as part of the AWS Professional Services (such Documents and Software, “Developed Content”). Subject to any non- Disclosure agreement in effect between you and AWS, AWS is not precluded from developing, using, or selling products or services that are similar to or related to the Developed Content. Any Developed Content provided to you by AWS as part of the AWS Professional Services under a SOW is licensed under the following terms:
 
-* AWS licenses any Documents to you under the Creative Commons Attribution 4.0 International License (CC-BY 4.0); and
-* AWS licenses any Software to you under the Apache License, Version 2.0.
+*   AWS licenses any Documents to you under the Creative Commons Attribution 4.0 International License (CC-BY 4.0); and
+*   AWS licenses any Software to you under the Apache License, Version 2.0.
 
 **45.7.** Some Developed Content may include AWS Content or Third Party Content provided under a separate license. In the event of a conflict between Section 45.6 above and any separate license, the separate license will control with respect to such AWS Content or Third Party Content.
 
