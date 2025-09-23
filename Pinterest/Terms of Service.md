@@ -40,10 +40,10 @@ These Terms of Service ("Terms") govern your access to and use of any website, a
 
 You may not use the Service to do or share anything that is contrary to these Terms. For clarity, these Terms include, and incorporate by reference, the following policies:
 
-* Our [Community Guidelines](https://policy.pinterest.com/community-guidelines), which explain what is and isn’t allowed on Pinterest;
-* Our [Advertising Guidelines](https://policy.pinterest.com/advertising-guidelines) and [Merchant Guidelines](https://policy.pinterest.com/merchant-guidelines), which explain additional policies that apply to ads and merchants on Pinterest;
-* Our [Commercial and Branded Content Guidelines](https://policy.pinterest.com/commercial-and-branded-content-guidelines), which explain additional policies that apply to sponsored, branded or otherwise commercial content; and
-* Our [Enforcement](https://policy.pinterest.com/enforcement) practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.
+*   Our [Community Guidelines](https://policy.pinterest.com/community-guidelines), which explain what is and isn’t allowed on Pinterest;
+*   Our [Advertising Guidelines](https://policy.pinterest.com/advertising-guidelines) and [Merchant Guidelines](https://policy.pinterest.com/merchant-guidelines), which explain additional policies that apply to ads and merchants on Pinterest;
+*   Our [Commercial and Branded Content Guidelines](https://policy.pinterest.com/commercial-and-branded-content-guidelines), which explain additional policies that apply to sponsored, branded or otherwise commercial content; and
+*   Our [Enforcement](https://policy.pinterest.com/enforcement) practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.
 
 By accessing or using Pinterest, you agree to comply with and be bound by these Terms and you will not attempt to circumvent them. If you do not agree to our Terms, you must not access or use Pinterest.
 
