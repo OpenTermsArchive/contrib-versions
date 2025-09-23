@@ -27,24 +27,26 @@ If you click on the AdChoices logo within the widget, you will see a detailed in
 
 To see the Privacy policy applicable to the Outbrain Users, please navigate [here](https://www.outbrain.com/privacy/user-policy/).
 
+To see the Privacy policy applicable to the Outbrain DSP Users, please navigate [here](https://www.outbrain.com/privacy/privacy-policy-outbrain-dsp/).
+
 Business Partners Privacy Policy
 --------------------------------
 
-You are considered an Outbrain **Business Partner** when you register (or email with Outbrain) on behalf of the company you work for to use the Outbrain Amplify or Outbrain Engage services.
-
-For further information on our Amplify (advertising partner) services see [here](https://www.outbrain.com/advertisers/) and our Engage (media partners) services see [here](https://www.outbrain.com/publishers/). For further information on our Outbrain DSP services, please see [here](https://www.zemanta.com/).
+You are considered an **Outbrain** **Business Partner** when you register (or email with Outbrain) on behalf of the company you work for to use the Outbrain Amplify or Outbrain Engage services.
 
 To see the Privacy policy applicable to the Outbrain Business Partners, please navigate [here](https://www.outbrain.com/privacy/business-partner-policy).
 
 Site Visitors Privacy Policy
 ----------------------------
 
-You are considered an Outbrain Site Visitor when you visit and interact with any of our websites, namely Outbrain.com (or any derivation, such as, [www.zemanta.com](https://www.zemanta.com/) etc.).
+You are considered an **Outbrain Site Visitor** when you visit and interact with any of our websites, namely Outbrain.com (or any derivation, such as, [www.zemanta.com](https://www.zemanta.com/) etc.).
 
-To see the Privacy policy applicable to the Outbrain Business Partners, please navigate [here](https://www.outbrain.com/privacy/site-visitor-policy/).
+To see the Privacy policy applicable to the Outbrain Site Visitors, please navigate [here](https://www.outbrain.com/privacy/site-visitor-policy/).
 
 Other useful links
 ------------------
+
+For further information on our Outbrain DSP services, please see [here](https://www.zemanta.com/). Privacy Policy for the Outbrain DSP Users is available [here](https://www.outbrain.com/privacy/privacy-policy-outbrain-dsp/). 
 
 For further information on our Amplify (advertising partner) services, please see [here](https://www.outbrain.com/advertisers/).
 
