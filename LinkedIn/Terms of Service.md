@@ -29,11 +29,11 @@ All Postings must comply with the [LinkedIn Jobs Policies](https://www.linkedin.
 
 Customer may not resell or transfer access to the Jobs Services to any other party. Each Posting must be for 1 job opportunity; it is not permitted for a Posting to solicit applications for more than one position. Customer will not copy, duplicate, replicate, scrape or otherwise reproduce jobs from a hiring company’s website and upload them to LinkedIn as Postings without the hiring company’s prior knowledge and authorization. Where a hiring company informs LinkedIn that Customer has done so without its prior knowledge and authorization, LinkedIn reserves the right to remove such Postings immediately and without prior notice to Customer. In order to post a job for a position at a third-party entity, Customer must have an active contract in place with the third-party entity providing active recruiting services beyond job posting for the applicable position. To resolve disputes and ensure compliance with our policies, LinkedIn may request additional information to verify the contractual relationship and permission to post jobs for third parties. Customer agrees that it will not, and will not enable or authorize any third party, by virtue of the Postings, Destinations, or use of the Jobs Services, to:
 
-* Provide identifiable candidate resume or application data to any other parties (except for Customer’s service providers (such as an applicant tracking system);
-* “**Spam**” or otherwise contact applicants for purposes other than related to the specific employment opportunity described in the posting;
-* Harass, stalk, or contact any applicant after they have asked not to be contacted;
-* Except as expressly authorized by LinkedIn in writing, use any automated means or form of scraping or data extraction to access, modify, download, query or otherwise collect information from LinkedIn’s websites; or
-* Except as expressly authorized by LinkedIn in writing, copy, modify or create derivative works of the Jobs Services or any related technology.
+*   Provide identifiable candidate resume or application data to any other parties (except for Customer’s service providers (such as an applicant tracking system);
+*   “**Spam**” or otherwise contact applicants for purposes other than related to the specific employment opportunity described in the posting;
+*   Harass, stalk, or contact any applicant after they have asked not to be contacted;
+*   Except as expressly authorized by LinkedIn in writing, use any automated means or form of scraping or data extraction to access, modify, download, query or otherwise collect information from LinkedIn’s websites; or
+*   Except as expressly authorized by LinkedIn in writing, copy, modify or create derivative works of the Jobs Services or any related technology.
 
 Customer’s breach of this Section will be deemed a material breach of the Agreement.
 
