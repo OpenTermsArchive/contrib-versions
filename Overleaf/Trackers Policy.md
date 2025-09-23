@@ -19,10 +19,10 @@ Cookies are often referred to as session-based (which only last whilst your brow
 
 We use cookies on Overleaf as follows:
 
-* **Authentication:** these cookies help us show you the right information, for example by automatically identifying your browser or device and remembering you’ve logged in.
-* **Security:** these cookies enable and support our security features, and also to help us detect malicious activity.
-* **Preferences:** these cookies remember choices that you have made to improve your user experience with Overleaf, including to provide you with features, insights and more relevant content.
-* **Performance and analytics:** these cookies collect information on how you interact and use Overleaf, enabling us to improve your user experience and the overall quality of Overleaf, including through the use of in-service messages.
+*   **Authentication:** these cookies help us show you the right information, for example by automatically identifying your browser or device and remembering you’ve logged in.
+*   **Security:** these cookies enable and support our security features, and also to help us detect malicious activity.
+*   **Preferences:** these cookies remember choices that you have made to improve your user experience with Overleaf, including to provide you with features, insights and more relevant content.
+*   **Performance and analytics:** these cookies collect information on how you interact and use Overleaf, enabling us to improve your user experience and the overall quality of Overleaf, including through the use of in-service messages.
 
 ### Which cookies does Overleaf use and how do you opt-out?
 
