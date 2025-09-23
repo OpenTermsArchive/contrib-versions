@@ -77,35 +77,35 @@ Use of Services
 
 The Services may contain e-mail services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable you to communicate with others (each a "Communication Service" and collectively "Communication Services"). You agree to use the Communication Services only to post, send and receive messages and material that are proper and, when applicable, related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using the Communication Services, you will not:
 
-* Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
+*   Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
 
-* Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+*   Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
 
-* Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
+*   Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
 
-* Upload, or otherwise make available, files that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
+*   Upload, or otherwise make available, files that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
 
-* Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+*   Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
 
-* Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
+*   Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
 
-* Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
+*   Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
 
-* Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
+*   Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
 
-* Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+*   Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
 
-* Restrict or inhibit any other user from using and enjoying the Communication Services.
+*   Restrict or inhibit any other user from using and enjoying the Communication Services.
 
-* Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+*   Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
 
-* Harvest or otherwise collect information about others, including e-mail addresses.
+*   Harvest or otherwise collect information about others, including e-mail addresses.
 
-* Violate any applicable laws or regulations.
+*   Violate any applicable laws or regulations.
 
-* Create a false identity for the purpose of misleading others.
+*   Create a false identity for the purpose of misleading others.
 
-* Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
+*   Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
 
 Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion. Microsoft reserves the right to terminate your access to any or all of the Communication Services at any time, without notice, for any reason whatsoever.
 
@@ -119,15 +119,15 @@ Materials uploaded to the Communication Services may be subject to posted limita
 
 ”AI services” are services that are labeled or described by Microsoft as including, using, powered by, or being an Artificial Intelligence (“AI”) system.
 
-* **Reverse Engineering.** You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of models.
+*   **Reverse Engineering.** You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of models.
 
-* **Extracting Data.** You may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.
+*   **Extracting Data.** You may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.
 
-* **Limits on use of data from the AI Services.** You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. 
+*   **Limits on use of data from the AI Services.** You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. 
 
-* **Use of Your Content.** As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service.
+*   **Use of Your Content.** As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service.
 
-* **Third party claims**. You are solely responsible for responding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during your use of the AI services).
+*   **Third party claims**. You are solely responsible for responding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during your use of the AI services).
 
 Materials Provided to Microsoft or Posted at any Microsoft Website
 ------------------------------------------------------------------
