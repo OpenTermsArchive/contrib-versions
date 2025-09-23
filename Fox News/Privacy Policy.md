@@ -6,39 +6,39 @@ _Last Updated/Effective Date: August 21, 2025_
 Table of Contents:
 ------------------
 
-1. [**SCOPE AND APPLICATION**](#test)
+1.  [**SCOPE AND APPLICATION**](#test)
     
     What and who this Policy covers
     
-2. [**COLLECTION OF INFORMATION**](#collection)
+2.  [**COLLECTION OF INFORMATION**](#collection)
     
     The sources of and methods by which we, our service providers, and our advertisers collect information from and about you, including information about your interaction with the Company Services
     
-3. [**USE AND DISCLOSURE**](#use)
+3.  [**USE AND DISCLOSURE**](#use)
     
     How we use the information we collect from and about you, and who we might share it with and why
     
-4. [**SECURITY**](#security)
+4.  [**SECURITY**](#security)
     
     How we protect your information from loss or misuse
     
-5. [**USER ACCESS AND CONTROL**](#access)
+5.  [**USER ACCESS AND CONTROL**](#access)
     
     How you can access and control the information we maintain about you
     
-6. [**OTHER IMPORTANT INFORMATION**](#other)
+6.  [**OTHER IMPORTANT INFORMATION**](#other)
     
     Other things you should know about this Policy and how we handle your information
     
-7. [**CONTACT US**](#contact)
+7.  [**CONTACT US**](#contact)
     
     How to contact Company about this Policy
     
-8. [**CALIFORNIA CONSUMER PRIVACY ACT NOTICE**](#ccpa)
+8.  [**CALIFORNIA CONSUMER PRIVACY ACT NOTICE**](#ccpa)
     
     Other things you should know if you reside in California
     
-9. [**CONSUMERS IN VIRGINIA, COLORADO, CONNECTICUT AND OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS**](#other-states)
+9.  [**CONSUMERS IN VIRGINIA, COLORADO, CONNECTICUT AND OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS**](#other-states)
     
     Other things you should know if you are a consumer residing in Virginia, Colorado, Connecticut, or other states with similar privacy laws
     
@@ -105,17 +105,17 @@ We may use and disclose some or all of the information we collect from and about
 
 **To provide the Company Services.** We use information we collect from and about you to provide the Company Services. This may include:
 
-* to measure, maintain and improve those Company Services and features and to develop new products and services, including conducting research and quality and safety assurance measures;
-* to improve your experience with both online and off-line Company Services by delivering content you will find more relevant and interesting, including advertising and marketing messages;
-* to perform identity verification and account authentication;
-* to facilitate payment for subscriptions (other than via a Third Party Payment Service), including to retrieve account information for a subscriber, to determine eligibility (e.g., for promotions), and to detect abuse of the Company Services;
-* to allow you to comment on or react to content, including to provide comment moderation (e.g., in connection with our acceptable use policies and/or applicable community guidelines);
-* to allow you to participate in online games, contests, other promotions, or rewards programs;
-* to provide you with customer support and to respond to inquiries; this may include the use of chatbots. Please note that your inquiries and responses to these chatbots may be transcribed and retained;
-* to make inferences and predictions about your potential areas of interest in order to provide you with content and advertising that is more interesting, personalized, and relevant to you;
-* to maintain our facilities and infrastructure;
-* to comply with internal policies, including accounting, audit, and other internal functions; and
-* to maintain records, conduct risk and security controls, and monitoring.
+*   to measure, maintain and improve those Company Services and features and to develop new products and services, including conducting research and quality and safety assurance measures;
+*   to improve your experience with both online and off-line Company Services by delivering content you will find more relevant and interesting, including advertising and marketing messages;
+*   to perform identity verification and account authentication;
+*   to facilitate payment for subscriptions (other than via a Third Party Payment Service), including to retrieve account information for a subscriber, to determine eligibility (e.g., for promotions), and to detect abuse of the Company Services;
+*   to allow you to comment on or react to content, including to provide comment moderation (e.g., in connection with our acceptable use policies and/or applicable community guidelines);
+*   to allow you to participate in online games, contests, other promotions, or rewards programs;
+*   to provide you with customer support and to respond to inquiries; this may include the use of chatbots. Please note that your inquiries and responses to these chatbots may be transcribed and retained;
+*   to make inferences and predictions about your potential areas of interest in order to provide you with content and advertising that is more interesting, personalized, and relevant to you;
+*   to maintain our facilities and infrastructure;
+*   to comply with internal policies, including accounting, audit, and other internal functions; and
+*   to maintain records, conduct risk and security controls, and monitoring.
 
 **To allow service providers to assist us in providing and managing the Company Services.** Information we collect from and about you may be made available to certain service providers, such as contractors, chatbot providers, analytics and other measurement companies, and agents or sponsors, who help us analyze and understand your use of the Company Services, and manage and/or provide the Company Services, including to purchase or request a subscription to a product or service, make payments, or to receive email and other communications.
 
@@ -133,12 +133,12 @@ We may use and disclose some or all of the information we collect from and about
 
 **To deliver relevant advertisements.** Company and our service providers may use information we collect from and about you as described in this Privacy Policy to deliver and measure relevant, more personalized ads to you when you use the Company Services or another service (on any of your devices). This may include, for example, sharing certain information with advertising technology and related companies (e.g., identity partners), such as an advertising identifier for your device, IP address, or a "hash" of an identifier (i.e., a value generated using a cryptographic hash algorithm.) In some instances, these entities may return an online identification code that we may store in a first party cookie, or other similar technology, for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. You can opt out on the web by visiting the "Your Privacy Choices" webpages below:
 
-* Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
-* Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
-* Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
-* Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
-* Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
-* Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
+*   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
+*   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
+*   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
+*   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
 
 To opt out in mobile or connected TV apps, visit the "Your Privacy Choices" section in account/settings.
 
@@ -228,21 +228,21 @@ Please note that the CCPA definitions of "sale" and "share" do not include, for 
 
 **_Purposes._** We may use Personal Information and/or disclose it to third parties for the following purposes:
 
-* to operate, manage, and maintain our business, including in connection with a sale, acquisition, reorganization, merger, transfer of all or a part of our business, or other corporate transaction (e.g., a bankruptcy or similar proceeding);
-* to provide our products and services;
-* to accomplish our business purposes and objectives, including:
-    * developing, improving, repairing, and maintaining our products and services;
-    * personalizing, advertising, and marketing our products and services;
-    * conducting research, analytics, and data analysis;
-    * maintaining our facilities and infrastructure;
-    * quality and safety assurance measures;
-    * conducting risk and security controls and monitoring;
-    * detecting and preventing fraud;
-    * performing identity verification;
-    * performing accounting, audit, and other internal functions;
-    * complying with law, legal process, and internal policies;
-    * maintaining records; and
-    * exercising and defending legal claims.
+*   to operate, manage, and maintain our business, including in connection with a sale, acquisition, reorganization, merger, transfer of all or a part of our business, or other corporate transaction (e.g., a bankruptcy or similar proceeding);
+*   to provide our products and services;
+*   to accomplish our business purposes and objectives, including:
+    *   developing, improving, repairing, and maintaining our products and services;
+    *   personalizing, advertising, and marketing our products and services;
+    *   conducting research, analytics, and data analysis;
+    *   maintaining our facilities and infrastructure;
+    *   quality and safety assurance measures;
+    *   conducting risk and security controls and monitoring;
+    *   detecting and preventing fraud;
+    *   performing identity verification;
+    *   performing accounting, audit, and other internal functions;
+    *   complying with law, legal process, and internal policies;
+    *   maintaining records; and
+    *   exercising and defending legal claims.
 
 Depending on the California resident's interactions with us, Company may not have used Personal Information collected about that resident for each of these purposes, and to the extent that Company has disclosed Personal Information about that resident, it may not include all of the Personal Information collected about that resident.
 
@@ -260,11 +260,11 @@ Fox Television Stations: [foxlocal.com/fi-notice](https://foxlocal.com/fi-notic
 
 **(1) Right to Know.** You have the right to request that we disclose to you the following information:
 
-* The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information;
-* The specific pieces of Personal Information we collected about you for the applicable time period;
-* The business or commercial purpose for collecting, disclosing, or selling Personal Information about you;
-* The categories of Personal Information about you that we sold and the categories of third parties to whom we sold that Personal Information; and
-* The categories of Personal Information about you that we otherwise shared or disclosed and the categories of third parties with whom we shared or disclosed that Personal Information.
+*   The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information;
+*   The specific pieces of Personal Information we collected about you for the applicable time period;
+*   The business or commercial purpose for collecting, disclosing, or selling Personal Information about you;
+*   The categories of Personal Information about you that we sold and the categories of third parties to whom we sold that Personal Information; and
+*   The categories of Personal Information about you that we otherwise shared or disclosed and the categories of third parties with whom we shared or disclosed that Personal Information.
 
 To make a request for your Personal Information, please go to [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) or call us at [888-596-3929](tel:+888-596-3929). You will need to provide your name and email address, along with other details about your request. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
 
@@ -292,12 +292,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 You can opt out on the web by visiting the "Your Privacy Choices" webpages below:
 
-* Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
-* Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
-* Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
-* Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
-* Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
-* Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
+*   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
+*   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
+*   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
+*   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
 
 You can opt out of the "sale" and "sharing" of your Personal Information by clicking on the toggle and hitting the "submit" button at the bottom of the screen. If you have an account/profile with us, your preference will apply to the device(s) connected to your logged-in account or profile for the Company Services. If you do not have an account, or choose not to log-in to your account on a device, you will need to select your preference on each device. For mobile and connected TV apps, you may visit "Your Privacy Choices" in Account/Settings for more information and to exercise your choices. If you have enabled a global privacy control feature on your device, we process that opt-out preference signal in a frictionless manner.
 
@@ -305,10 +305,10 @@ You can opt out of the "sale" and "sharing" of your Personal Information by clic
 
 **(6) Record Keeping.** During the 2024 reporting period, Fox News, Fox Television Stations, Fox Sports, and Fox Entertainment separately reported their metrics regarding the requests each of those companies received during the previous calendar year for: Requests to Know, Requests to Delete, Requests for Correction, and Requests to Opt Out of "Sales" and "Sharing." To view those metrics, please visit:
 
-* Fox News: [https://www.foxnews.com/recordkeeping/](https://www.foxnews.com/recordkeeping/)
-* Fox Television Stations: [https://www.foxlocal.com/recordkeeping/index.html](https://www.foxlocal.com/recordkeeping/index.html)
-* Fox Sports: [https://www.foxsports.com/recordkeeping](https://www.foxsports.com/recordkeeping)
-* Fox Entertainment: [www.fox.com/recordkeeping](https://www.fox.com/recordkeeping)
+*   Fox News: [https://www.foxnews.com/recordkeeping/](https://www.foxnews.com/recordkeeping/)
+*   Fox Television Stations: [https://www.foxlocal.com/recordkeeping/index.html](https://www.foxlocal.com/recordkeeping/index.html)
+*   Fox Sports: [https://www.foxsports.com/recordkeeping](https://www.foxsports.com/recordkeeping)
+*   Fox Entertainment: [www.fox.com/recordkeeping](https://www.fox.com/recordkeeping)
 
 **Other California Privacy Laws.**
 
@@ -383,12 +383,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 **(4) Right to Opt-Out of Targeted Advertising (in Virginia, Colorado, Connecticut, and Other States with Similar Privacy Laws) and/or "Sale" (e.g., in Colorado and Connecticut).** As noted above in this section, and depending on your interactions with us, we may process and share some categories of Personal Data in connection with targeted advertising. Under some states’ privacy laws (e.g., Colorado and Connecticut), this processing may be considered a "sale." You can opt out on the web by visiting the "Your Privacy Choices" webpages below:
 
-* Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
-* Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
-* Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
-* Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
-* Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
-* Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
+*   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
+*   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
+*   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
+*   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
 
 Consumers residing in Virginia, Colorado, Connecticut, and other states with similar privacy laws can opt out of targeted advertising and/or "sale" by clicking on the toggle and hitting the "submit" button at the bottom of the screen. If you have an account/profile with us, your preference will apply to the device(s) connected to your logged-in account or profile for the Company Services. If you do not have an account, or choose not to log-in to your account on a device, you will need to select your preference on each device. For mobile and connected TV apps, you may visit "Your Privacy Choices" in Account/Settings for more information and to exercise your choices. If you or your agent has enabled a global privacy control feature on your device, we process that preference signal in a frictionless manner.
 
