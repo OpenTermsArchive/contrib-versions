@@ -28,12 +28,12 @@ In connection with your use of the Sites, you will not, and will not allow any t
 
 a) Link to or use the Sites in connection with any material that contains:
 
-* Adult content, including nudity, sexual terms and/or images of people in positions or activities that are excessively suggestive or sexual;
-* Obscene, defamatory, libelous, slanderous and/or unlawful content;
-* Content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent;
-* Inflammatory religious content;
-* Politically religious agendas and/or any known associations with hate, criminal and/or terrorist activities; or
-* Hate speech, whether directed at an individual or a group, and whether based upon the race, disability, sex, creed, national origin, religious affiliation, marital status, sexual orientation, gender identity, or language of such individual or group.
+*   Adult content, including nudity, sexual terms and/or images of people in positions or activities that are excessively suggestive or sexual;
+*   Obscene, defamatory, libelous, slanderous and/or unlawful content;
+*   Content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent;
+*   Inflammatory religious content;
+*   Politically religious agendas and/or any known associations with hate, criminal and/or terrorist activities; or
+*   Hate speech, whether directed at an individual or a group, and whether based upon the race, disability, sex, creed, national origin, religious affiliation, marital status, sexual orientation, gender identity, or language of such individual or group.
 
 b) Remove, obscure, or change any copyright, trademark, hyperlink, or other proprietary rights notices contained within the Sites;
 
@@ -56,12 +56,12 @@ We are committed to complying with U.S. copyright and related laws, and we requi
 
 If you believe that content that you or a third party owns has been used via the Services in a way that violates your or someone else’s copyright or other intellectual property rights, please provide us with the following information:
 
-* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
-* a description of the copyrighted work or other intellectual property that you claim has been infringed;
-* a description of where the material that you claim is infringing is located;
-* your address, telephone number, and email address;
-* a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law; and
-* a statement by you, made under penalty of perjury, that the information contained in your report is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
+*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+*   a description of the copyrighted work or other intellectual property that you claim has been infringed;
+*   a description of where the material that you claim is infringing is located;
+*   your address, telephone number, and email address;
+*   a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law; and
+*   a statement by you, made under penalty of perjury, that the information contained in your report is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
 
 5\. Limitation on Liability Disclaimers
 ---------------------------------------
