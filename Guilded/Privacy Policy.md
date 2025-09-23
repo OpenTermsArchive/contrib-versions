@@ -59,13 +59,13 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 
 Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us: 
 
-* username
+*   username
     
-* email address
+*   email address
     
-* third-party account credentials (for example, Blizzard/Battle.net tag)
+*   third-party account credentials (for example, Blizzard/Battle.net tag)
     
-* user profile information, including images and videos you have uploaded to the site
+*   user profile information, including images and videos you have uploaded to the site
     
 
 The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at support@guilded.gg
@@ -96,110 +96,110 @@ If there are any conflicts between this section and any other provision of this 
 
 Information we collect directly from you: As explained above, we receive Personal Data directly from you when you provide us with such Personal Data, including the following: 
 
-* username
+*   username
     
-* email address
+*   email address
     
-* third-party account credentials (for example, Blizzard® BattleTag™ tag)
+*   third-party account credentials (for example, Blizzard® BattleTag™ tag)
     
-* user profile information, including images and videos you have uploaded to the site
+*   user profile information, including images and videos you have uploaded to the site
     
 
 Information we (or our third-party service providers) automatically collect when you use our Services: The following Personal Data is automatically collected when you use our Services: 
 
-* IP address
+*   IP address
     
-* chat logs
+*   chat logs
     
 
 **How Do We Use Your Personal Data?** We process Personal Data to operate, improve, understand and personalize our Services. For example, we use Personal Data to: 
 
-* Create and manage user profiles
+*   Create and manage user profiles
     
-* Communicate with you about the Services
+*   Communicate with you about the Services
     
-* Contact you about Service announcements, updates or offers
+*   Contact you about Service announcements, updates or offers
     
-* Provide support and assistance for the Services
+*   Provide support and assistance for the Services
     
-* Personalize website content and communications based on your preferences
+*   Personalize website content and communications based on your preferences
     
-* Meet contract or legal obligations
+*   Meet contract or legal obligations
     
-* Respond to user inquiries
+*   Respond to user inquiries
     
-* Fulfill user requests
+*   Fulfill user requests
     
-* Comply with our legal or contractual obligations
+*   Comply with our legal or contractual obligations
     
-* Resolve disputes
+*   Resolve disputes
     
-* Protect against or deter fraudulent, illegal or harmful actions
+*   Protect against or deter fraudulent, illegal or harmful actions
     
-* Enforce our [Terms of Use](http://www.guilded.gg/about/privacy)
+*   Enforce our [Terms of Use](http://www.guilded.gg/about/privacy)
     
 
 We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our “legitimate interests” or the legitimate interest of others, as further described below. 
 
-* **Contractual Necessity:** We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our [Terms of Use](http://www.guilded.gg/about/terms) with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data.
+*   **Contractual Necessity:** We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our [Terms of Use](http://www.guilded.gg/about/terms) with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data.
     
 
-* username
+*   username
     
-* email address
+*   email address
     
-* third-party account credentials (for example, Blizzard® BattleTag™ tag)
+*   third-party account credentials (for example, Blizzard® BattleTag™ tag)
     
-* user profile information, including images and videos you have uploaded to the site 
-    
-
-* **Legitimate Interest:** We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties.
+*   user profile information, including images and videos you have uploaded to the site 
     
 
-* IP address
+*   **Legitimate Interest:** We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties.
     
-* chat logs
+
+*   IP address
+    
+*   chat logs
     
 
 Examples of these legitimate interests include:
 
-* Operation and improvement of our business, products and services
+*   Operation and improvement of our business, products and services
     
-* Marketing of our products and services
+*   Marketing of our products and services
     
-* Provision of customer support
+*   Provision of customer support
     
-* Protection from fraud or security threats
+*   Protection from fraud or security threats
     
-* Compliance with legal obligations
+*   Compliance with legal obligations
     
-* Completion of corporate transactions
+*   Completion of corporate transactions
     
-* Enforcement of our [Terms of Use](http://www.guilded.gg/about/terms) 
-    
-
-* **Consent:** In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection. 
+*   Enforcement of our [Terms of Use](http://www.guilded.gg/about/terms) 
     
 
-* **Other Processing Grounds:** From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+*   **Consent:** In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection. 
+    
+
+*   **Other Processing Grounds:** From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
     
 
 **How and With Whom Do We Share Your Data?** We do not share your Personal Data with third parties except as expressly set forth below.
 
 We share your Personal Data when necessary to complete a transaction initiated or authorized by you or provide you with a product or service you have requested—for example, we may share your Personal Data: 
 
-* To other users when you post information publicly on the Services; and
+*   To other users when you post information publicly on the Services; and
     
-* With third-party services, such as YouTube, third-party social media services and gaming apps and platforms, such as Blizzard® Battle.net™, if you interact with them through your use of the Services.
+*   With third-party services, such as YouTube, third-party social media services and gaming apps and platforms, such as Blizzard® Battle.net™, if you interact with them through your use of the Services.
     
 
 We may also share Personal Data when we believe it is necessary to:  
 
-* Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies
+*   Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies
     
-* Protect us, our business or our users, for example to enforce our terms of service, prevent spam or other unwanted communications and investigate or protect against fraud
+*   Protect us, our business or our users, for example to enforce our terms of service, prevent spam or other unwanted communications and investigate or protect against fraud
     
-* Maintain the security of our products and services
+*   Maintain the security of our products and services
     
 
 We also may share information with third parties when you give us consent to do so.
@@ -210,21 +210,21 @@ We also may share information with third parties when you give us consent to do 
 
 **What Rights Do You Have Regarding Your Personal Data?** You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email support@guilded.gg. Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request. 
 
-* **Access****:** You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain parts of your of your Personal Data by emailing [support@guilded.gg](http://www.guilded.gg/about/terms) and requesting that personal data.
+*   **Access****:** You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain parts of your of your Personal Data by emailing [support@guilded.gg](http://www.guilded.gg/about/terms) and requesting that personal data.
     
-* **Rectification****:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by editing it from your user profile on the site or by emailing support@guilded.gg.
+*   **Rectification****:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by editing it from your user profile on the site or by emailing support@guilded.gg.
     
-* **Erasure****:** You can request that we erase some or all of your Personal Data from our systems.
+*   **Erasure****:** You can request that we erase some or all of your Personal Data from our systems.
     
-* **Withdrawal of Consent****:** If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
+*   **Withdrawal of Consent****:** If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
     
-* **Portability****:** You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
+*   **Portability****:** You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
     
-* **Objection****:** You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes.
+*   **Objection****:** You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes.
     
-* **Restriction of Processing****:** You can ask us to restrict further processing of your Personal Data.
+*   **Restriction of Processing****:** You can ask us to restrict further processing of your Personal Data.
     
-* **Right to File Complaint****:** You have the right to lodge a complaint about Guilded’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
+*   **Right to File Complaint****:** You have the right to lodge a complaint about Guilded’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State.
     
 
 **What If You Have Questions Regarding Your Personal Data?** If you have any questions about this section or our data practices generally, please contact us using the following information: Name, physical address, email address for contact, and designated representative and contact information.
