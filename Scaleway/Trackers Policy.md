@@ -24,46 +24,46 @@ You can manage the installation of cookies on your device in the Internet settin
 
 ### Firefox
 
-1. Click the Menu button and choose Preferences
-2. Select the Privacy & Security panel and go to the History section.
-3. In the drop-down menu next to Firefox will, choose Use custom settings for history.
-4. Uncheck Accept cookies from websites
+1.  Click the Menu button and choose Preferences
+2.  Select the Privacy & Security panel and go to the History section.
+3.  In the drop-down menu next to Firefox will, choose Use custom settings for history.
+4.  Uncheck Accept cookies from websites
 
 ### Google Chrome
 
-1. Click More, and then Settings and then Advanced.
-2. Under Privacy and security click Content settings and then Cookies.
-3. Turn Allow sites to save and read cookie data off.
+1.  Click More, and then Settings and then Advanced.
+2.  Under Privacy and security click Content settings and then Cookies.
+3.  Turn Allow sites to save and read cookie data off.
 
 ### Microsoft Internet Explorer
 
-1. Select the Tools button and then select Internet Options.
-2. Select the Privacy tab and under Settings, select Advanced. Choose if you want to allow, block or be prompted for first and third-party cookies.
+1.  Select the Tools button and then select Internet Options.
+2.  Select the Privacy tab and under Settings, select Advanced. Choose if you want to allow, block or be prompted for first and third-party cookies.
 
 ### Safari
 
-1. Click Preferences and then Privacy.
-2. Select an option relating to cookies and website data.
+1.  Click Preferences and then Privacy.
+2.  Select an option relating to cookies and website data.
 
 ### Opera
 
-1. Click Preferences and then Advanced.
-2. Select an option relating to Cookies.
+1.  Click Preferences and then Advanced.
+2.  Select an option relating to Cookies.
 
 ### iOS
 
-1. Click Preferences and then Safari.
-2. In Privacy, select Block all cookies.
+1.  Click Preferences and then Safari.
+2.  In Privacy, select Block all cookies.
 
 ### Android
 
-1. Click More, and then Settings and then Site settings.
-2. In Cookies, turn Cookies off.
+1.  Click More, and then Settings and then Site settings.
+2.  In Cookies, turn Cookies off.
 
 ### Windows Phone
 
-1. Click Settings and then Advanced.
-2. In the Cookies from websites drop-down menu, select Block all.
+1.  Click Settings and then Advanced.
+2.  In the Cookies from websites drop-down menu, select Block all.
 
 You can also regularly clear the cookies installed on your device. For any questions regarding our cookie policy, please address your query at [privacy@scaleway.com.](mailto:privacy@scaleway.com)
 
