@@ -29,9 +29,9 @@ Ethereum Dev GmbH Oranienstrasse 6, 10997 Berlin Email: [notices@ethereum.orgope
 
 When you visit our Websites, the hosting provider(s) of our Websites may automatically collect and store various information in server log files that your browser transmits to us. The information/data mentioned is neither assigned to specific persons nor linked to data from other sources. The following technical data may be recorded by us, as usual with every connection with a web server, without your intervention, and stored by us until automatic deletion after no later than two days:
 
-* Woocommerce cart data
-* Unique identification code for Woocommerce customer
-* Anonymized IP addresses
+*   Woocommerce cart data
+*   Unique identification code for Woocommerce customer
+*   Anonymized IP addresses
 
 Any collection and processing of this technical data is for the purpose of enabling the use of our Websites, continuously ensuring system security and stability, optimising our Websites, and for internal statistical purposes. This is our legitimate interest in the processing of data in the sense of Art. 6 Par. 1 lit. f GDPR.
 
@@ -59,11 +59,11 @@ Before the data is stored, the IP address will be abbreviated by activating IP a
 
 In addition to the data listed in section 3.1, we may receive the following information because of Matomo Analytics:
 
-* Usage data;
-* Navigation path;
-* Length of stay on the Website;
-* Returning or new user; and/or
-* End device.
+*   Usage data;
+*   Navigation path;
+*   Length of stay on the Website;
+*   Returning or new user; and/or
+*   End device.
 
 We may use this technical data to analyze your use of the Websites by compiling reports on Website activity for the understanding and/or optimizing of our Websites and/or for internal statistical purposes. We do not use the information and personal data collected by Matomo to identify individuals unless we become aware of specific indications of illegal use.
 
@@ -117,8 +117,8 @@ If you pay by credit card through the Websites, we may forward your credit card 
 
 We are entitled to transfer your personal data to third parties abroad for the purposes of the data processing described in this Privacy Policy. This concerns especially the following receiver(s):
 
-* Our Websites service providers; and/or
-* E-commerce providers such as payment solution providers to assist us in the processing of your online payments.
+*   Our Websites service providers; and/or
+*   E-commerce providers such as payment solution providers to assist us in the processing of your online payments.
 
 They are obliged to protect data privacy to the same extent as we ourselves. If the level of data protection in a given country does not correspond to the Swiss and European data protection level, we contractually ensure that the protection of your personal data corresponds to that in Switzerland and the EU at all times by concluding agreements using the standard contractual clauses and complying with the GDPR.
 
@@ -140,14 +140,14 @@ You have the right to obtain confirmation from the Foundation as to whether or n
 
 You have the right to obtain from the Foundation free information about your personal data stored at any time and a copy of this information. Furthermore, you will have access to the following information:
 
-* the purposes of the processing;
-* the categories of personal data concerned;
-* the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organizations;
-* where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
-* the existence of the right to request from the Foundation rectification or erasure of personal data, or restriction of processing of personal data concerning you, or to object to such processing;
-* the existence of the right to lodge a complaint with a supervisory authority;
-* where the personal data are not collected directly from you, any available information as to their source; and
-* the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for you.
+*   the purposes of the processing;
+*   the categories of personal data concerned;
+*   the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organizations;
+*   where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+*   the existence of the right to request from the Foundation rectification or erasure of personal data, or restriction of processing of personal data concerning you, or to object to such processing;
+*   the existence of the right to lodge a complaint with a supervisory authority;
+*   where the personal data are not collected directly from you, any available information as to their source; and
+*   the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for you.
 
 If you wish to avail yourself of this right of access, you may at any time contact the responsible person as stated in section 1 of this Privacy Policy.
 
@@ -159,12 +159,12 @@ You have the right to obtain from the Foundation, without undue delay, the recti
 
 You have the right to obtain from the Foundation the erasure of personal data concerning you as soon as possible, and the Foundation shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
 
-* The personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed;
-* You withdraw consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing;
-* The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR;
-* The personal data has been unlawfully processed;
-* The personal data must be erased for compliance with a legal obligation in accordance with the applicable law to which the Foundation is subject; and/or
-* The personal data has been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
+*   The personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+*   You withdraw consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing;
+*   The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR;
+*   The personal data has been unlawfully processed;
+*   The personal data must be erased for compliance with a legal obligation in accordance with the applicable law to which the Foundation is subject; and/or
+*   The personal data has been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
 
 If any one of the aforementioned reasons applies, and you wish to request the erasure of personal data stored by the Foundation, you may at any time contact the responsible person as stated in section 1 of this Privacy Policy. The responsible person at the Foundation shall promptly ensure that the erasure request is complied with as soon as possible.
 
@@ -172,10 +172,10 @@ If any one of the aforementioned reasons applies, and you wish to request the er
 
 You have the right to obtain from the Foundation restriction of processing where one of the following applies:
 
-* the accuracy of the personal data is contested by you, for a period enabling the Foundation to verify the accuracy of the personal data;
-* the processing is unlawful and you oppose the erasure of the personal data and requests instead the restriction of their use instead;
-* the Foundation no longer needs the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims; and/or
-* the data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the Foundation override those of the data subject.
+*   the accuracy of the personal data is contested by you, for a period enabling the Foundation to verify the accuracy of the personal data;
+*   the processing is unlawful and you oppose the erasure of the personal data and requests instead the restriction of their use instead;
+*   the Foundation no longer needs the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims; and/or
+*   the data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the Foundation override those of the data subject.
 
 If any one of the aforementioned conditions is met, and you wish to request the restriction of the processing of personal data stored by the Foundation, you may at any time contact the Foundation's responsible person. The responsible person will arrange the restriction of the processing.
 
@@ -213,9 +213,9 @@ The Foundation may update this Privacy Policy from time to time and inform you o
 
 For more information on applicable privacy regulations, you may refer to:
 
-* EU General Data Protection Regulation: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L\_.2016.119.01.0001.01.ENGopens in a new tab](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)
-* Swiss Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19920153/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html)
-* Swiss Ordinance to the Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19930159/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html)
+*   EU General Data Protection Regulation: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L\_.2016.119.01.0001.01.ENGopens in a new tab](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)
+*   Swiss Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19920153/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html)
+*   Swiss Ordinance to the Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19930159/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html)
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.orgopens email client](mailto:support@ethereum.org).
 
