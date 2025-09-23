@@ -13,10 +13,10 @@ _Last updated:_ _August 21, 2023_
 
 To provide the meet.jit.si service, 8×8 may process and store third-party account credentials to authenticate meet.jit.si users.  In addition, meet.jit.si processes and stores the user specified URL used to host the meeting and information about the phone numbers that connect to the meeting (if audio connection is made via a telephone call).  In some cases, meeting related content, which may contain personal information, is temporarily stored to enable to enable user functionality in a meet.jit.si video meeting.  Examples include:
 
-* If you use the chat function, chat content is stored during the meeting.
-* If you record a meeting, the recording of the meeting is temporarily stored until it is uploaded to your file hosting service (e.g. DropBox).
-* If you livestream your meeting, video content is temporarily stored to buffer the livestream.
-* In addition, users of meet.jit.si have the option of providing name, email address, and link to a picture that will be displayed to participants in the meeting.
+*   If you use the chat function, chat content is stored during the meeting.
+*   If you record a meeting, the recording of the meeting is temporarily stored until it is uploaded to your file hosting service (e.g. DropBox).
+*   If you livestream your meeting, video content is temporarily stored to buffer the livestream.
+*   In addition, users of meet.jit.si have the option of providing name, email address, and link to a picture that will be displayed to participants in the meeting.
 
 **How is this information used?**
 
