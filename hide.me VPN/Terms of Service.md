@@ -87,5 +87,5 @@ Hide.me websites, community forum and the hide.me VPN service is owned and opera
   
 You may contact us:
 
-* By email: [support@hide.me](mailto:support@hide.me)
-* By visiting this page on our website: [https://hide.me/support](https://hide.me/support)
+*   By email: [support@hide.me](mailto:support@hide.me)
+*   By visiting this page on our website: [https://hide.me/support](https://hide.me/support)
