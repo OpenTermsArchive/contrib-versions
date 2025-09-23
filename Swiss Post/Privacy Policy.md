@@ -4,13 +4,13 @@ Data protection and disclaimer
 Subnavigation
 -------------
 
-* [Overview](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer)
-* [Digital presence](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/privacy-policy)
-* [Services](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/services)
-* [Branches](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/branches)
-* [Cookies and SoMe](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/cookies-and-social-media)
-* [Addresses](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/delivery-address-data)
-* [Legal information](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/legal-information)
+*   [Overview](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer)
+*   [Digital presence](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/privacy-policy)
+*   [Services](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/services)
+*   [Branches](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/branches)
+*   [Cookies and SoMe](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/cookies-and-social-media)
+*   [Addresses](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/delivery-address-data)
+*   [Legal information](https://www.post.ch/en/pages/footer/data-protection-and-disclaimer/legal-information)
 
 Rich Content Section
 --------------------
