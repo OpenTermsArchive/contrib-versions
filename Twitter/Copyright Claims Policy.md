@@ -30,12 +30,12 @@ Note: In general, the photographer and NOT the subject of a photograph is the ac
 
 To submit a notice of claimed copyright infringement, you will need to provide us with the following information:
 
-1. A physical or electronic signature (typing your full name will suffice) of the copyright owner or a person authorized to act on their behalf;
-2. Identification of the copyrighted work claimed to have been infringed (e.g., a link to your original work or clear description of the materials allegedly being infringed upon);
-3. Identification of the infringing material and information reasonably sufficient to permit X to locate the material on our website or services;
-4. Your contact information, including your address, telephone number, and an email address;
-5. A statement that you have a good faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law; and
-6. A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
+1.  A physical or electronic signature (typing your full name will suffice) of the copyright owner or a person authorized to act on their behalf;
+2.  Identification of the copyrighted work claimed to have been infringed (e.g., a link to your original work or clear description of the materials allegedly being infringed upon);
+3.  Identification of the infringing material and information reasonably sufficient to permit X to locate the material on our website or services;
+4.  Your contact information, including your address, telephone number, and an email address;
+5.  A statement that you have a good faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law; and
+6.  A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
 If you are reporting the content of a post, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that post. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR X TO IDENTIFY INFRINGING MATERIALS.
@@ -104,11 +104,11 @@ Tip: Re-posting material removed in response to a copyright complaint may resul
 
 To submit a counter-notice, you will need to provide us with the following information:
 
-1. A physical or electronic signature (typing your full name will suffice);
-2. Your full name, address (including country), telephone number, and for verification purposes, your X username and associated email;
-3. Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before that removal or disabling (the description from the copyright notice will suffice);
-4. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-5. One of the following jurisdictional consent statements:
+1.  A physical or electronic signature (typing your full name will suffice);
+2.  Your full name, address (including country), telephone number, and for verification purposes, your X username and associated email;
+3.  Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before that removal or disabling (the description from the copyright notice will suffice);
+4.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+5.  One of the following jurisdictional consent statements:
 
 (If your address is in the United States) 
 
