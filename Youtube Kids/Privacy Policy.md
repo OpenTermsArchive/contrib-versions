@@ -12,10 +12,10 @@ Information we collect
 
 YouTube Kids collects information based on your child's use of the app, like when they watch a video. This information includes:
 
-* device type and settings, such as hardware model and operating system version;
-* log information, including details of how our service is used, device event information, and the device's Internet protocol (IP) address;
-* unique application numbers, such as application version number; and
-* unique identifiers, which are used to collect and store information about an app or device, such as preferred language, app activity, and other settings.
+*   device type and settings, such as hardware model and operating system version;
+*   log information, including details of how our service is used, device event information, and the device's Internet protocol (IP) address;
+*   unique application numbers, such as application version number; and
+*   unique identifiers, which are used to collect and store information about an app or device, such as preferred language, app activity, and other settings.
 
 YouTube Kids doesn't collect personal information like name, address, or contact information from your child.
 
@@ -41,9 +41,9 @@ If you sign in to YouTube Kids with your Google Account, the app will collect yo
 
 We will use this information to provide the following features:
 
-1. If applicable, enabling YouTube Premium benefits, such as offline access to content, background play and no paid ads, in the YouTube Kids app on all your devices.
-2. Enable you to create limited profiles for your child, and
-3. Enable additional parental controls and customization preferences associated with each of the profiles in the app on all your devices. These may include allowing or blocking certain videos from the app and allowing each profile to subscribe to channels in the app.
+1.  If applicable, enabling YouTube Premium benefits, such as offline access to content, background play and no paid ads, in the YouTube Kids app on all your devices.
+2.  Enable you to create limited profiles for your child, and
+3.  Enable additional parental controls and customization preferences associated with each of the profiles in the app on all your devices. These may include allowing or blocking certain videos from the app and allowing each profile to subscribe to channels in the app.
 
 When you sign in with your Google account, we use the watch and search history tied to each specific installation of the app to recommend content on YouTube Kids, as described above, and we will continue to use that watch and search history for recommendations even if you sign out of the app, unless they are cleared and paused in the settings section as described below.
 
@@ -54,18 +54,18 @@ Information we share
 
 We will not disclose individual user information outside of Google unless one of the following circumstances applies:
 
-* **With consent**
-* We may share individual user information with companies, organizations or individuals outside of Google when we have parental consent.
-* **For legal reasons**
-* We will share individual user information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+*   **With consent**
+*   We may share individual user information with companies, organizations or individuals outside of Google when we have parental consent.
+*   **For legal reasons**
+*   We will share individual user information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-* meet any applicable law, regulation, legal process or enforceable governmental request.
-* enforce applicable Terms of Service, including investigation of potential violations.
-* detect, prevent, or otherwise address fraud, security or technical issues.
-* protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+*   meet any applicable law, regulation, legal process or enforceable governmental request.
+*   enforce applicable Terms of Service, including investigation of potential violations.
+*   detect, prevent, or otherwise address fraud, security or technical issues.
+*   protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-* **For external processing**
-* We may provide individual user information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+*   **For external processing**
+*   We may provide individual user information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
 We may share aggregate information about the use of the app with third parties to, for example, show trends about the use of the app or meet our reporting obligations with partners.
 
