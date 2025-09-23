@@ -49,4 +49,4 @@ By using our Services, you also acknowledge that you have read our Privacy Polic
 
 By visiting our website or using our application and/or services, you are entering into a legal agreement with us, consisting of these Terms of Use, and our additional services’ legal terms. By using our services, you signify your consent to these terms and you acknowledge that you have read our Privacy Policy. You may not use our services if you do not consent to all our terms.
 
-* [Home](https://www.wix.com/about/terms-of-use)
+*   [Home](https://www.wix.com/about/terms-of-use)
