@@ -7,13 +7,13 @@ We use cookies and similar tools (collectively, cookies) for the purposes descri
 
 **Operational Cookies** : We use cookies to provide our services, for example:
 
-* Recognising you when you sign-in to use our services.
-* Recognising if you are a Prime member and providing other customised features and services.
-* Displaying features, products, and services which might be of interest to you, including ads on our services if they are for products and services available on Amazon.
-* Keeping track of items stored in your shopping basket.
-* Preventing fraudulent activity.
-* Improving security.
-* Keeping track of your preferences such as currency and language.
+*   Recognising you when you sign-in to use our services.
+*   Recognising if you are a Prime member and providing other customised features and services.
+*   Displaying features, products, and services which might be of interest to you, including ads on our services if they are for products and services available on Amazon.
+*   Keeping track of items stored in your shopping basket.
+*   Preventing fraudulent activity.
+*   Improving security.
+*   Keeping track of your preferences such as currency and language.
 
 We also use cookies to understand how customers use our services so we can make improvements. For example, we use cookies to conduct research and diagnostics to improve Amazon’s content, products, and services, and to measure and understand the performance of our services.
 
