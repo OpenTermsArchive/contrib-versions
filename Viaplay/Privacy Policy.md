@@ -1,7 +1,7 @@
 Data Protection and Viaplay
 ===========================
 
-* [5\. Children’s Privacy](#5. Children’s Privacy)
+*   [5\. Children’s Privacy](#5. Children’s Privacy)
 
 We value your trust in us.
 
@@ -41,14 +41,14 @@ We can collect your personal data in several ways:
 
 ##### **2.1.1 Information that you provide us with directly, for example when using Viaplay, communicating with our customer service, participating in a contest, or answering surveys**
 
-* name, email address, telephone number, home address including postal code, date of birth or age, payment details (see section 2.2.6 below) and other information you provide under the respective profiles when creating and/or maintaining your user profile,
-* correspondence when you contact us (recordings of phone calls, emails, chat, etc.),
-* email address, home address or phone number when you sign up for receiving our marketing communications,
-* information that you provide whilst participating in a contest,
-* where applicable and requested, your preferences in relation to content you are interested in, if you choose to share such information with us,
-* user information that you choose to provide such as ratings, reviews and responses to surveys,
-* data related to your social media account when you share content from Viaplay or contact us through social media (please note that the social media provider’s own privacy policies will also apply to you when acting under your social media account),
-* username and password.  
+*   name, email address, telephone number, home address including postal code, date of birth or age, payment details (see section 2.2.6 below) and other information you provide under the respective profiles when creating and/or maintaining your user profile,
+*   correspondence when you contact us (recordings of phone calls, emails, chat, etc.),
+*   email address, home address or phone number when you sign up for receiving our marketing communications,
+*   information that you provide whilst participating in a contest,
+*   where applicable and requested, your preferences in relation to content you are interested in, if you choose to share such information with us,
+*   user information that you choose to provide such as ratings, reviews and responses to surveys,
+*   data related to your social media account when you share content from Viaplay or contact us through social media (please note that the social media provider’s own privacy policies will also apply to you when acting under your social media account),
+*   username and password.  
       
     
 
@@ -62,20 +62,20 @@ Furthermore, and subject to your cookie settings, your browsing behaviour on our
 
 **Data generated through use of Viaplay:**
 
-* Information about the user profile’s behaviour, such as viewing behaviour, streaming history, content in “My list”, where a user profile left off a stream (the functionality called “continue watching”), and how the profile navigates through the service,
-* Country of residence (the country you signed up for), and location (the country you are accessing the content from),
-* Other data collected through cookies or similar technologies, about your visits on Viaplay platforms. Some of the cookies used on any Viaplay platform may be used for marketing purposes (see section 2.2.3 to read more about Marketing and learn more about how we use cookies [here](https://viaplay.com/gb-en/cookies)).
-* Limited information about your social media account, such as your email address, when you share Viaplay content on your social media (however, we do not use such information for any purpose).
+*   Information about the user profile’s behaviour, such as viewing behaviour, streaming history, content in “My list”, where a user profile left off a stream (the functionality called “continue watching”), and how the profile navigates through the service,
+*   Country of residence (the country you signed up for), and location (the country you are accessing the content from),
+*   Other data collected through cookies or similar technologies, about your visits on Viaplay platforms. Some of the cookies used on any Viaplay platform may be used for marketing purposes (see section 2.2.3 to read more about Marketing and learn more about how we use cookies [here](https://viaplay.com/gb-en/cookies)).
+*   Limited information about your social media account, such as your email address, when you share Viaplay content on your social media (however, we do not use such information for any purpose).
 
 ##### **2.1.3 Data we share or obtain from external sources**
 
 Sometimes, we share or obtain personal data from other sources. This sharing of data is necessary either for us or the sharing party. For example:
 
-* We share data within our group of companies to achieve our business purposes and to enable marketing of our services, in compliance with legal requirements,
-* We share and receive information with and from payment service providers that enable you to pay for your subscription or any content you are buying or renting on Viaplay,
-* We may need to share and receive information to give you access to Viaplay via one of our business partners, distributors and other third parties where Viaplay is integrated,
-* We may obtain information if we have a legitimate interest in collecting such information from an official body regarding e.g., a claim that concerns us directly or indirectly.
-* We share or disclose non-personal data, such as aggregated information like the total number of advertisement interactions and online conversions, with advertising platforms to understand the impact of Viaplay’s digital marketing campaigns.
+*   We share data within our group of companies to achieve our business purposes and to enable marketing of our services, in compliance with legal requirements,
+*   We share and receive information with and from payment service providers that enable you to pay for your subscription or any content you are buying or renting on Viaplay,
+*   We may need to share and receive information to give you access to Viaplay via one of our business partners, distributors and other third parties where Viaplay is integrated,
+*   We may obtain information if we have a legitimate interest in collecting such information from an official body regarding e.g., a claim that concerns us directly or indirectly.
+*   We share or disclose non-personal data, such as aggregated information like the total number of advertisement interactions and online conversions, with advertising platforms to understand the impact of Viaplay’s digital marketing campaigns.
 
 #### 2.2 For what purposes do we use your personal data and what legal basis is used?
 
@@ -87,13 +87,13 @@ Below are the various purposes for which we process your personal data, includin
 
 We process your personal data to administer and provide you with Viaplay, such as to:
 
-* identify you as a customer and/or user,
-* charge for the services you use (administer invoices and payments) and ensuring recurrency of subscription payments,
-* ensure the technical functionality of Viaplay,
-* provide you with tailored and personalized content based on your viewing and browsing behaviour as well as other information you provide us with (read more about personalisation [here](https://www.viaplaygroup.com/about/data-privacy/data-privacy-behavioural-data-personalisation-and-advertising))
-*  provide you with customer service,
-* remedy faults and deal with complaints addressed by you,
-* notify you of changes to our services.
+*   identify you as a customer and/or user,
+*   charge for the services you use (administer invoices and payments) and ensuring recurrency of subscription payments,
+*   ensure the technical functionality of Viaplay,
+*   provide you with tailored and personalized content based on your viewing and browsing behaviour as well as other information you provide us with (read more about personalisation [here](https://www.viaplaygroup.com/about/data-privacy/data-privacy-behavioural-data-personalisation-and-advertising))
+*    provide you with customer service,
+*   remedy faults and deal with complaints addressed by you,
+*   notify you of changes to our services.
 
 **Legal basis: Performance of contract and legitimate interest**
 
@@ -101,9 +101,9 @@ We process your personal data to administer and provide you with Viaplay, such a
 
 We process your personal data, such as information on how you use Viaplay, to develop and improve our services, for example by:
 
-* compiling different types of data, such as viewing behaviour, into statistics for analytical needs, for example to see what content that is successful on the service and what is not, what features that can be improved and how to make the navigation on the service more user-friendly
-* allowing you to provide feedback through different customer surveys (sometimes based on your viewing and user behaviour within Viaplay) for the reasons mentioned in the point above but also to ensure that we meet customer expectations and can continue to raise customer satisfaction, and
-* understanding, diagnosing, troubleshooting, and fixing issues in our services.
+*   compiling different types of data, such as viewing behaviour, into statistics for analytical needs, for example to see what content that is successful on the service and what is not, what features that can be improved and how to make the navigation on the service more user-friendly
+*   allowing you to provide feedback through different customer surveys (sometimes based on your viewing and user behaviour within Viaplay) for the reasons mentioned in the point above but also to ensure that we meet customer expectations and can continue to raise customer satisfaction, and
+*   understanding, diagnosing, troubleshooting, and fixing issues in our services.
 
 Furthermore, and subject to your cookie settings, we may also use data connected to your logout experience to run A/B and other website testing, as part of our efforts to improve our website’s content and understand what works best for our visitors.
 
@@ -139,11 +139,11 @@ We process your personal data to ensure the security of all our services, in ord
 
 We store the following credit card data:
 
-* the first six and last four digits of your card number to be able to support you if have forgotten your username,
-* expiration date to send you reminders when your payment card is about to expire, and if you need to update the card on the Viaplay service,
-* card alias to identify if this card has been used by another account,
-* issuing country used for portability reasons to confirm your home country, and
-* card type and last four digits of your card number to allow you to identify which of your payment cards has been registered.
+*   the first six and last four digits of your card number to be able to support you if have forgotten your username,
+*   expiration date to send you reminders when your payment card is about to expire, and if you need to update the card on the Viaplay service,
+*   card alias to identify if this card has been used by another account,
+*   issuing country used for portability reasons to confirm your home country, and
+*   card type and last four digits of your card number to allow you to identify which of your payment cards has been registered.
 
 Please note that your payment details are otherwise processed directly by our payment providers, who are independent controllers of your personal data and process such data under their own applicable privacy policies, for the purpose of charging you for our services and content.
 
@@ -159,12 +159,12 @@ We also process your personal data when we are required to do so by law, e.g., b
 
 At times, it is necessary for us to share your personal data to achieve the purposes we have collected it for. For example, we may share your personal data with:
 
-* Any of the companies within our Group, for example for marketing purposes and for the development of new, or improvements of, existing services,
-* External partners and suppliers, both inside and outside the UK/EEA (for more information please see section 5), for example, to provide assistance in customer surveys, marketing efforts, analyses and statistics and for certain customer communications, for the provision of IT and other infrastructure, to manage credit and payment transactions, to protect our property and rights, and to ensure the security of our customers and employees,
-* Partners if you participate in surveys or competitions within our services,
-* Recipients where legal requirements, regulations or official decisions so require, such as to law enforcement or data protection authorities to respond to valid legal processes, such as warrants, court orders or subpoenas.
-* Prospective purchasers of our business in case we sell or negotiate to sell our business to a buyer or prospective buyer. We will always inform you before a transfer of your data is carried out to a buyer or becomes subject to a different privacy Statement.
-* Third party entities placing their cookie files or plug ins on our website, allowing them to collect specific information about your use of the website and services (more information available in our Cookie Policy).
+*   Any of the companies within our Group, for example for marketing purposes and for the development of new, or improvements of, existing services,
+*   External partners and suppliers, both inside and outside the UK/EEA (for more information please see section 5), for example, to provide assistance in customer surveys, marketing efforts, analyses and statistics and for certain customer communications, for the provision of IT and other infrastructure, to manage credit and payment transactions, to protect our property and rights, and to ensure the security of our customers and employees,
+*   Partners if you participate in surveys or competitions within our services,
+*   Recipients where legal requirements, regulations or official decisions so require, such as to law enforcement or data protection authorities to respond to valid legal processes, such as warrants, court orders or subpoenas.
+*   Prospective purchasers of our business in case we sell or negotiate to sell our business to a buyer or prospective buyer. We will always inform you before a transfer of your data is carried out to a buyer or becomes subject to a different privacy Statement.
+*   Third party entities placing their cookie files or plug ins on our website, allowing them to collect specific information about your use of the website and services (more information available in our Cookie Policy).
 
 ### 4\. For how long do we keep your personal data?
 
@@ -172,9 +172,9 @@ Your personal data is stored for as long as it is necessary to achieve the speci
 
 **Data collected as part of your use of Viaplay**
 
-* Data related to your account. This includes, among other things, your account details, such as log in credentials, information about the services and content bought on Viaplay, user and viewing behaviour etc. We retain your personal data for the duration of your account. If you ask to delete your account or your account is deleted due to inactivity on your part (please see details below regarding inactivity), your personal data will become anonymized or deleted.
-* Data related to crash logs and files. We process information about errors and crashes of the services to ensure the technical functionality of Viaplay. The data is processed for a period of 3 months from the collection date.
-* Data about transactions and purchases. We process information about transactions related to your account and performed in connection with purchases through Viaplay for a period of 7 years after the transaction date.
+*   Data related to your account. This includes, among other things, your account details, such as log in credentials, information about the services and content bought on Viaplay, user and viewing behaviour etc. We retain your personal data for the duration of your account. If you ask to delete your account or your account is deleted due to inactivity on your part (please see details below regarding inactivity), your personal data will become anonymized or deleted.
+*   Data related to crash logs and files. We process information about errors and crashes of the services to ensure the technical functionality of Viaplay. The data is processed for a period of 3 months from the collection date.
+*   Data about transactions and purchases. We process information about transactions related to your account and performed in connection with purchases through Viaplay for a period of 7 years after the transaction date.
 
 **Data collected to comply with our legal obligations and enforcement requests.**
 
@@ -226,13 +226,13 @@ Your account is protected through, among other, your password. We encourage you 
 
 You have the following rights in relation to us (if you wish to exercise any of your rights, you can contact us via the contact details in the next section):
 
-* right of access (register statement) — a right to obtain confirmation and information about your personal data processing,
-* right to rectification — a right to have erroneous information corrected,
-* right to deletion — a right to under certain circumstances have data removed,
-* right to restriction — a right to require restriction of personal data processing, for example, if you object to the accuracy of data,
-* right to objection — a right to object to processing based on legitimate interest, such as direct marketing,
-* right to data portability — a right to require that personal data be moved from us to another party (this right is limited to data provided to us by you); and
-* right to withdraw your consent – when the processing is based on your consent, you can withdraw it at any without affecting the lawfulness of processing based on consent before its withdrawal.
+*   right of access (register statement) — a right to obtain confirmation and information about your personal data processing,
+*   right to rectification — a right to have erroneous information corrected,
+*   right to deletion — a right to under certain circumstances have data removed,
+*   right to restriction — a right to require restriction of personal data processing, for example, if you object to the accuracy of data,
+*   right to objection — a right to object to processing based on legitimate interest, such as direct marketing,
+*   right to data portability — a right to require that personal data be moved from us to another party (this right is limited to data provided to us by you); and
+*   right to withdraw your consent – when the processing is based on your consent, you can withdraw it at any without affecting the lawfulness of processing based on consent before its withdrawal.
 
 If you believe that our processing of your personal data is not carried out in accordance with the data protection laws and regulations, we ask you to please let us know so that we can investigate the matter. You also have the right to file a complaint with a supervisory authority, in particular in the UK or EEA country of your habitual residence or place of work. In the EEA, our Lead Supervisory Authority is the Swedish Data Protection Authority (more information available [here](https://www.imy.se/en/about-us/contact-us/)). The UK supervisory authority can be contacted [here](https://ico.org.uk/global/contact-us/).
 
