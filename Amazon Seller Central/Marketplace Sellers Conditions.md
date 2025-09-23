@@ -17,11 +17,11 @@ THIS AMAZON SERVICES BUSINESS SOLUTIONS AGREEMENT (THE **"AGREEMENT"**) CONTAINS
 
 As used in this Agreement, **"we," "us,"** and **"Amazon"** means the applicable Amazon Contracting Party and any of its applicable Affiliates, and **"you"** means the applicant (if registering for or using a Service as an individual), or the business employing the applicant (if registering for or using a Service as a business) and any of its Affiliates. Capitalized terms have the meanings given to them in this Agreement. To the extent there is a conflict between these General Terms, the Service Terms and Program Policies, the conflict will be resolved by giving precedence in the order specified in such documents, or if not specified, the following order: the General Terms, the Service Terms, and the Program Policies.
 
-1.  **Enrollment.**
+1.   **Enrollment.**
 
 To begin the enrollment process, you must complete the registration process for one or more of the Services. Use of the Services is limited to parties that can lawfully enter into and form contracts under applicable Law (for example, the Elected Country may not allow minors to use the Services). As part of the application, or at any time during the term of this Agreement, you must provide us with your (or your business') legal name, address, phone number and e-mail address, as well as any other information we may request. Any information provided must correspond to your business name or to the name of an individual legally authorized to act on behalf of your business. Any personal data you provide to us will be handled in accordance with Amazon’s [Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496&ref_=footer_privacy).
 
-2.  **Service Fee Payments; Receipt of Sales Proceeds.**
+2.   **Service Fee Payments; Receipt of Sales Proceeds.**
 
 Fee details are described in the applicable Service Terms and Program Policies. You are responsible for all of your expenses in connection with this Agreement. To use a Service, you must provide us with valid credit card information from a credit card or credit cards acceptable by Amazon (**"Your Credit Card"**) as well as valid bank account information for a bank account or bank accounts acceptable by Amazon (conditions for acceptance may be modified or discontinued by us at any time without notice) (**"Your Bank Account"**). You will use only a name you are authorized to use in connection with a Service and will update all of the information you provide to us in connection with the Services as necessary to ensure that it at all times remains accurate, complete, and valid. You authorize us (and will provide us documentation evidencing your authorization upon our request) to verify your information (including any updated information), to obtain credit reports about you from time to time, to obtain credit authorizations from the issuer of Your Credit Card, and to charge Your Credit Card or debit Your Bank Account for any sums payable by you to us (in reimbursement or otherwise). All payments to you will be remitted to Your Bank Account through a banking network or by other means specified by us. Except as provided otherwise, all amounts contemplated in this Agreement will be expressed and displayed in the Local Currency, and all payments contemplated by this Agreement will be made in the Local Currency.
 
@@ -33,19 +33,19 @@ In addition, we may require that you pay other amounts to secure the performance
 
 As a security measure, we may, but are not required to, impose transaction limits on some or all customers and sellers relating to the value of any transaction or disbursement, the cumulative value of all transactions or disbursements during a period of time, or the number of transactions per day or other period of time. We will not be liable to you: (i) if we do not proceed with a transaction or disbursement that would exceed any limit established by us for a security reason, or (ii) if we permit a customer to withdraw from a transaction because an Amazon Site or Service is unavailable following the commencement of a transaction.
 
-3.  **Term and Termination.**
+3.   **Term and Termination.**
 
 The term of this Agreement will start on the date of your completed registration for use of a Service and continue until terminated by us or you as provided below. You may at any time terminate your account or this Agreement immediately on notice to us via Seller Central, email, the Contact Us form, or similar means. We may terminate your account or this Agreement for convenience with 30 days’ advance notice. We may suspend or terminate your account or this Agreement immediately if we determine that (a) you have materially breached the Agreement and failed to cure within 7 days of a cure notice unless your breach exposes us to liability toward a third party, in which case we are entitled to reduce, or waive, the aforementioned cure period at our reasonable discretion; (b) your account has been, or our controls identify that it may be used for deceptive or fraudulent, or illegal activity; (c) your use of the Services has harmed, or our controls identify that it might harm, other sellers, customers, or Amazon’s legitimate interests; (d) your [Account Health Rating](https://sellercentral.amazon.com/gp/help/external/G200205250) falls below our published threshold(s) for deactivation; or (e) if we are required to do so by law. We will promptly notify you of any such termination or suspension via email or similar means including Seller Central, indicating the reason and any options to appeal, except where we have reason to believe that providing this information will hinder the investigation or prevention of deceptive, fraudulent, or illegal activity, or will enable you to circumvent our safeguards. On termination of this Agreement, all related rights and obligations under this Agreement immediately terminate, except that (f) you will remain responsible for performing all of your obligations in connection with transactions entered into before termination and for any liabilities that accrued before or as a result of termination, and (g) Sections 2, 3, 4, 5, 6, 7, 8, 9, 11, 14, 15, and 18 of these General Terms and Section P-4 of the Transaction Processing Service Terms survive and the Fulfillment by Amazon Service Terms survive as set forth in Section F-13 of such terms.
 
-4.  **License.**
+4.   **License.**
 
 You grant us a royalty-free, non-exclusive, worldwide right and license for the duration of your original and derivative intellectual property rights to use any and all of Your Materials for the Services or other Amazon product or service, and to sublicense the foregoing rights to our Affiliates and operators of Amazon Associated Properties; provided, however, that we will not alter any of Your Trademarks from the form provided by you (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with your removal requests as to specific uses of Your Materials (provided you are unable to do so using standard functionality made available to you via the applicable Amazon Site or Service); provided further, however, that nothing in this Agreement will prevent or impair our right to use Your Materials without your consent to the extent that such use is allowable without a license from you or your Affiliates under applicable Law (e.g., fair use under United States copyright law, referential use under trademark law, or valid license from a third party).
 
-5.  **Representations.**
+5.   **Representations.**
 
 Each party represents and warrants that: (a) if it is a business, it is duly organized, validly existing and in good standing under the Laws of the country in which the business is registered and that you are registering for the Service(s) within such country; (b) it has all requisite right, power, and authority to enter into this Agreement, perform its obligations, and grant the rights, licenses, and authorizations in this Agreement; (c) any information provided or made available by one party to the other party or its Affiliates is at all times accurate, complete, and not misappropriated; (d) it is not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists maintained by the United Nations Security Council, the US Government (e.g., the US Department of Treasury’s Specially Designated Nationals list and Foreign Sanctions Evaders list and the US Department of Commerce’s Entity List), the European Union or its member states, or other applicable government authority; and (e) it will comply with all applicable Laws in performance of its obligations and exercise of its rights under this Agreement.
 
-6.  **Indemnification.**
+6.   **Indemnification.**
 
 **6.1 Your indemnification obligations**. You will defend, indemnify, and hold harmless Amazon, and our officers, directors, employees, and agents, against any third-party claim, loss, damage, settlement, cost, expense, or other liability (including, without limitation, attorneys’ fees) (each, a “Claim”) arising from or related to (a) your non-compliance with applicable Laws; (b) Your Products, including the offer, sale, fulfillment (except to the extent attributable to the FBA service), refund, cancellation, return, or adjustments thereof, Your Materials, any actual or alleged infringement of any Intellectual Property Rights by any of the foregoing, and any personal injury, death (to the extent the injury or death is not caused by Amazon), or property damage related thereto; (c) Your Taxes and duties or the collection, payment, or failure to collect or pay Your Taxes or duties, or the failure to meet tax registration obligations or duties; or (d) actual or alleged breach of any representations you have made.
 
@@ -53,43 +53,43 @@ Each party represents and warrants that: (a) if it is a business, it is duly org
 
 **6.3 Process**. If any indemnified Claim might adversely affect us, we may, to the extent permitted by applicable Law, voluntarily intervene in the proceedings at our expense. No party may consent to the entry of any judgment or enter into any settlement of an indemnified Claim without the prior written consent of the other party, which may not be unreasonably withheld; except that a party may settle any claim that is exclusively directed at and exclusively affects that party.
 
-7.  **Disclaimer & General Release.**
+7.   **Disclaimer & General Release.**
 
 **a.** THE AMAZON SITES AND THE SERVICES, INCLUDING ALL CONTENT, SOFTWARE, FUNCTIONS, MATERIALS, AND INFORMATION MADE AVAILABLE ON OR PROVIDED IN CONNECTION WITH THE SERVICES, ARE PROVIDED "AS-IS." AS A USER OF THE SERVICES, YOU USE THE AMAZON SITES, THE SERVICES, AND SELLER CENTRAL AT YOUR OWN RISK. EXCEPT THOSE SET FORTH IN SECTION 5 ABOVE, TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE AND OUR AFFILIATES DISCLAIM: (i) ANY REPRESENTATIONS OR WARRANTIES REGARDING THIS AGREEMENT, THE SERVICES OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT; (ii) IMPLIED WARRANTIES ARISING OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE; AND (iii) ANY OBLIGATION, LIABILITY, RIGHT, CLAIM, OR REMEDY IN TORT, WHETHER OR NOT ARISING FROM OUR NEGLIGENCE. WE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE AMAZON SITES AND THE SERVICES WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE, TIMELY, SECURE, UNINTERRUPTED, OR ERROR FREE, AND WE WILL NOT BE LIABLE FOR ANY SERVICE INTERRUPTIONS, INCLUDING BUT NOT LIMITED TO SYSTEM FAILURES OR OTHER INTERRUPTIONS THAT MAY AFFECT THE RECEIPT, PROCESSING, ACCEPTANCE, COMPLETION, OR SETTLEMENT OF ANY TRANSACTIONS.
 
 **b.** BECAUSE AMAZON IS NOT INVOLVED IN TRANSACTIONS BETWEEN CUSTOMERS AND SELLERS OR OTHER PARTICIPANT DEALINGS, IF A DISPUTE ARISES BETWEEN ONE OR MORE PARTICIPANTS, EACH PARTICIPANT RELEASES AMAZON (AND ITS AGENTS AND EMPLOYEES) FROM CLAIMS, DEMANDS, AND DAMAGES (ACTUAL AND CONSEQUENTIAL) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, SUSPECTED AND UNSUSPECTED, DISCLOSED AND UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH DISPUTES.
 
-8.  **Limitation of Liability.**
+8.   **Limitation of Liability.**
 
 WE WILL NOT BE LIABLE (WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, PRODUCT LIABILITY, OR OTHER THEORY), OR OTHERWISE) TO YOU OR ANY OTHER PERSON FOR COST OF COVER, RECOVERY, OR RECOUPMENT OF ANY INVESTMENT MADE BY YOU OR YOUR AFFILIATES IN CONNECTION WITH THIS AGREEMENT, OR FOR ANY LOSS OF PROFIT, REVENUE, BUSINESS, OR DATA OR PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT, EVEN IF AMAZON HAS BEEN ADVISED OF THE POSSIBILITY OF THOSE COSTS OR DAMAGES. FURTHER, OUR AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED WILL NOT EXCEED AT ANY TIME THE TOTAL AMOUNTS DURING THE PRIOR SIX MONTH PERIOD PAID BY YOU TO AMAZON IN CONNECTION WITH THE PARTICULAR SERVICE GIVING RISE TO THE CLAIM.
 
-9.  **Insurance.**
+9.   **Insurance.**
 
 If the gross proceeds from Your Transactions exceed the applicable Insurance Threshold during any month if the Elected Country is the United States or Canada, or each month over any period of three (3) consecutive months if the Elected Country is Mexico, or otherwise if requested by us, then within thirty (30) days thereafter, you will maintain at your expense throughout the remainder of the Term for each applicable Elected Country commercial general, umbrella or excess liability insurance with the Insurance Limits per occurrence and in aggregate covering liabilities caused by or occurring in conjunction with the operation of your business, including products, products/completed operations and bodily injury, with policy(ies) naming Amazon and its assignees as additional insureds. At our request, you will provide to us certificates of insurance, the full insurance policy, or other documents we may request for the coverage to the following address: c/o Amazon, P.O. Box 81226, Seattle, WA 98108-1226, Attention: Risk Management.
 
-10.  **Tax Matters.** 
+10.   **Tax Matters.** 
 
 As between the parties, you will be responsible for the collection, reporting, and payment of any and all of Your Taxes, except to the extent that (i) Amazon automatically calculates, collects, or remits taxes on your behalf according to applicable law; or (ii) Amazon expressly agrees to receive taxes or other transaction-based charges on your behalf in connection with tax calculation services made available by Amazon and used by you. You agree to and will comply with the [Tax Policies](https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200405820&language=en_US&ref=efph_200405820_cont_521). All fees and payments payable by you to Amazon under this Agreement or the applicable Service Terms are exclusive of any applicable taxes, deductions or withholding (including but not limited to cross-border withholding taxes), and you will be responsible for paying Amazon any of Your Taxes imposed on such fees and any deduction or withholding required on any payment.
 
-11.  **Confidentiality and Personal Data.**
+11.   **Confidentiality and Personal Data.**
 
 During the course of your use of the Services, you may receive Confidential Information. You agree that for the term of the Agreement and 5 years after termination: (a) all Confidential Information will remain Amazon's exclusive property; (b) you will use Confidential Information only as is reasonably necessary for your participation in the Services; (c) you will not otherwise disclose Confidential Information to any other Person except as required to comply with the Law; (d) you will take all reasonable measures to protect the Confidential Information against any use or disclosure that is not expressly permitted in this Agreement; and (e) you will retain Confidential Information only for so long as its use is necessary for participation in the Services or to fulfill your statutory obligations (e.g. tax) and in all cases will delete such information upon termination or as soon as no longer required for the fulfillment of statutory obligations. The foregoing sentence does not restrict your right to share Confidential Information with a governmental entity that has jurisdiction over you, provided that you limit the disclosure to the minimum necessary and explicitly indicate the confidential nature of the shared information to the governmental entity. You may not issue any press release or make any public statement related to the Services, or use our name, trademarks, or logo, in any way (including in promotional material) without our advance written permission, or misrepresent or embellish the relationship between us in any way. You may only use the "Available at Amazon" badge as defined in and according to the [Trademark Usage Guidelines](https://sellercentral.amazon.com/gp/help/external/200573210?language=en-US&ref=mpbc_201713630_cont_200573210) available in Seller Central; you may not use our name, trademarks, or logos in any way (including in promotional material) not covered by the Trademark Usage Guidelines without our advance written permission.
 
 Generally, you may not use customer personal data in any way inconsistent with applicable Law. You must keep customer personal data confidential at all times (the above 5 years’ term limit does not apply to customer personal data).
 
-12.  **Force Majeure.**
+12.   **Force Majeure.**
 
 We will not be liable for any delay or failure to perform any of our obligations under this Agreement by reasons, events or other matters beyond our reasonable control.
 
-13.  **Relationship of Parties.**
+13.   **Relationship of Parties.**
 
 Subject to the Transaction Processing Service Terms (if the Elected Country for a Service is the United States), you and we are independent contractors, and nothing in this Agreement will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between us. You will have no authority to make or accept any offers or representations on our behalf. This Agreement will not create an exclusive relationship between you and us. Nothing expressed or mentioned in or implied from this Agreement is intended or will be construed to give to any person other than the parties to this Agreement any legal or equitable right, remedy, or claim under or in respect to this Agreement. This Agreement and all of the representations, warranties, covenants, conditions, and provisions in this Agreement are intended to be and are for the sole and exclusive benefit of Amazon, you, and customers. As between you and us, you will be solely responsible for all obligations associated with the use of any third party service or feature that you permit us to use on your behalf, including compliance with any applicable terms of use. You will not make any statement, whether on your site or otherwise, that would contradict anything in this section.
 
-14.  **Suggestions and Other Information.**
+14.   **Suggestions and Other Information.**
 
 If you or any of your Affiliates elect to provide or make available suggestions, comments, ideas, improvements, or other feedback or materials to us in connection with or related to any Amazon Site or Service (including any related Technology), we will be free to use, disclose, reproduce, modify, license, transfer and otherwise distribute, and exploit any of the foregoing information or materials in any manner. In order to cooperate with governmental requests, to protect our systems and customers, or to ensure the integrity and operation of our business and systems, we may access and disclose any information we consider necessary or appropriate, including but not limited to user contact details, IP addresses and traffic information, usage history, and posted content. If we make suggestions on using the Services, you are responsible for any actions you take based on our suggestions.
 
-15.  **Modification.**
+15.   **Modification.**
 
 15.1. We will provide at least 15 days’ advance notice in accordance with Section 18 for changes to the Agreement.
 
@@ -97,15 +97,15 @@ If you or any of your Affiliates elect to provide or make available suggestions,
 
 15.3 Your continued use of the Services after the effective date of any change to this Agreement in accordance with this Section 15 will constitute your acceptance of that change. If any change is unacceptable to you, you agree not to use the Services and to end the Agreement as described in Section 3.
 
-16.  **Password Security.**
+16.   **Password Security.**
 
 Any password we provide to you may be used only during the Term to access Seller Central (or other tools we provide, as applicable) to use the Services, electronically accept Your Transactions, and review your completed transactions. You are solely responsible for maintaining the security of your password. You may not disclose your password to any third party (other than third parties authorized by you to use your account in accordance with this Agreement) and are solely responsible for any use of or action taken under your password. If your password is compromised, you must immediately change your password.
 
-17.  **Export.**
+17.   **Export.**
 
 You will not directly or indirectly export, re-export, transmit, or cause to be exported, re-exported or transmitted, any commodities, software or technology to any country, individual, corporation, organization, or entity to which such export, re-export, or transmission is restricted or prohibited, including any country, individual, corporation, organization, or entity under sanctions or embargoes administered by the United Nations, US Departments of State, Treasury or Commerce, the European Union, or any other applicable government authority.
 
-18.  **Miscellaneous.**
+18.   **Miscellaneous.**
 
 The Governing Laws will govern this Agreement, without reference to rules governing choice of laws or the Convention on Contracts for the International Sale of Goods. If the Elected Country is the United States, Canada, or Mexico, **Amazon and you both consent that any dispute with Amazon or its Affiliates or claim relating in any way to this Agreement or your use of the Services will be resolved by binding arbitration as described in this paragraph, rather than in court**, except that (i) either party may elect to proceed in a small claims court that is a Governing Court if your claims qualify; (ii) you or we may bring suit in the Governing Courts, submitting to the jurisdiction of the Governing Courts and waiving our respective rights to any other jurisdiction, to enjoin infringement or other misuse of intellectual property rights; and (iii) we may bring any claims related to your sale of counterfeit products on the Amazon Site in the Governing Courts or the court of your domicile or habitual residence and seek any remedy available under law related to those claims. **There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of this Agreement as a court would.** Before you may begin an arbitration proceeding, you must send a letter notifying us of your intent to pursue arbitration and describing your claim to our registered agent, CSC 300 Deschutes Way SW, Suite 208 MC-CSC1, Tumwater, WA 98501. The arbitration will be conducted by the American Arbitration Association (AAA) under its commercial rules. The expedited procedures of the AAA’s rules will apply only in cases seeking exclusively monetary relief under $50,000, and in such cases the hearing will be scheduled to take place within 90 days of the arbitrator’s appointment. For all cases, the AAA commercial fee schedule governs the payment of all filing, administration and arbitrator fees. The underlying award in the arbitration may be appealed pursuant to the AAA’s Optional Appellate Arbitration Rules. **Amazon and you each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.** If for any reason a claim proceeds in court rather than in arbitration **Amazon and you each waive any right to a jury trial**.
 
@@ -125,7 +125,7 @@ As used in this Agreement, the following terms have the following meanings:
 
 **"Amazon Contracting Party"** means the party outlined below.
 
-* If the Elected Country is Canada:
+*   If the Elected Country is Canada:
 
 |     |     |
 | --- | --- |
@@ -135,7 +135,7 @@ As used in this Agreement, the following terms have the following meanings:
 | Fulfillment by Amazon | Amazon.com.ca ULC |
 | Amazon Advertising | Amazon Advertising Canada, Inc. |
 
-* If the Elected Country is Mexico:
+*   If the Elected Country is Mexico:
 
 |     |     |
 | --- | --- |
@@ -144,7 +144,7 @@ As used in this Agreement, the following terms have the following meanings:
 | Fulfillment by Amazon | Servicios Comerciales Amazon México S. de R.L. de C.V. |
 | Amazon Advertising | Servicios Comerciales Amazon México S. de R.L. de C.V. |
 
-* If the Elected Country is the United States: 
+*   If the Elected Country is the United States: 
 
 |     |     |
 | --- | --- |
@@ -169,23 +169,23 @@ If you register for or use the Selling Partner API, the Amazon Contracting Party
 
 **"Governing Courts"** means the applicable one of the following:
 
-* the state or Federal court in King County, Washington (if the Elected Country is Canada, Mexico, or the United States),
+*   the state or Federal court in King County, Washington (if the Elected Country is Canada, Mexico, or the United States),
 
 **"Governing Laws"** means the applicable one of the following:
 
-* the laws of the State of Washington, United States together with the Federal Arbitration Act and other applicable federal law (if the Elected Country is Canada, Mexico, or the United States),
+*   the laws of the State of Washington, United States together with the Federal Arbitration Act and other applicable federal law (if the Elected Country is Canada, Mexico, or the United States),
 
 **"Insurance Limits"** means the applicable one of the following:
 
-* One Million Canadian Dollars ($1,000,000) (if the Elected Country is Canada),
-* Ten Million Mexican Pesos ($10,000,000) (if the Elected Country is Mexico),
-* One Million U.S. Dollars ($1,000,000) (if the Elected Country is the United States).
+*   One Million Canadian Dollars ($1,000,000) (if the Elected Country is Canada),
+*   Ten Million Mexican Pesos ($10,000,000) (if the Elected Country is Mexico),
+*   One Million U.S. Dollars ($1,000,000) (if the Elected Country is the United States).
 
 **"Insurance Threshold"** means the applicable one of the following:
 
-* Ten Thousand Canadian Dollars ($10,000) (if the Elected Country is Canada),
-* One Hundred Thousand Mexican Pesos ($100,000) (if the Elected Country is Mexico),
-* Ten Thousand U.S. Dollars ($10,000) (if the Elected Country is the United States).
+*   Ten Thousand Canadian Dollars ($10,000) (if the Elected Country is Canada),
+*   One Hundred Thousand Mexican Pesos ($100,000) (if the Elected Country is Mexico),
+*   Ten Thousand U.S. Dollars ($10,000) (if the Elected Country is the United States).
 
 **"Intellectual Property Right"** means any patent, copyright, Trademark, domain name, moral right, trade secret right, or any other intellectual property right arising under any Laws and all ancillary and related rights, including all rights of registration and renewal and causes of action for violation, misappropriation or infringement of any of the foregoing.
 
@@ -193,9 +193,9 @@ If you register for or use the Selling Partner API, the Amazon Contracting Party
 
 **"Local Currency"** means the applicable one of the following:
 
-* U.S. Dollars (if the Elected Country is the United States),
-* Canadian Dollars (if the Elected Country is Canada),
-* Mexican Pesos (if the Elected Country is Mexico),
+*   U.S. Dollars (if the Elected Country is the United States),
+*   Canadian Dollars (if the Elected Country is Canada),
+*   Mexican Pesos (if the Elected Country is Mexico),
 
 **"MX Amazon Site"** means the website, the primary home page of which is identified by the url www.amazon.com.mx, and any successor or replacement of such website.
 
