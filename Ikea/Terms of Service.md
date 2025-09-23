@@ -1,5 +1,5 @@
-1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
-2. Terms and Conditions
+1.  [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2.  Terms and Conditions
 
 Terms and Conditions
 ====================
@@ -26,24 +26,24 @@ If you have any questions about these terms and conditions or the policies pleas
 \*Note that if you contact us by post, international postage charges may apply  
 \*\*Standard national tariff applies (often free if national rate numbers are part of your phone provider package)
 
-* [Terms of use](https://www.ikea.com/ie/en/customer-service/terms-conditions/terms-of-use-pub8262e11a/)
-* [General Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/general-terms-and-conditions-pubf0169731/)
-* [Services Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/services-terms-and-conditions-pub8c206171/)
-* [IKEA Family Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-terms-and-conditions-pub6cce14b1/)
-* [IKEA Family Offers Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-offers-terms-and-conditions-pub1a27c040/)
-* [Offers and Events Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/offers-and-events-terms-and-conditions-pub5f9bf021/)
-* [IKEA Live Lagom Community Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-live-lagom-community-terms-and-conditions-pub2f92d371/)
-* [IKEA Business Network Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-for-business-terms-and-conditions-pub2e8f2360/)
-* [IKEA Gift Card Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-gift-card-terms-and-conditions-pub01a1bbc0/)
-* [Re-shop and Re-use Online Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/circular-hub-online-terms-and-conditions-pubc376f160/)
-* [IKEA interior design service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-interior-design-service-terms-and-conditions-pub9832e411/)
-* [IKEA Buyback & Resell service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-buy-back-service-terms-and-conditions-pub9e989950/)
+*   [Terms of use](https://www.ikea.com/ie/en/customer-service/terms-conditions/terms-of-use-pub8262e11a/)
+*   [General Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/general-terms-and-conditions-pubf0169731/)
+*   [Services Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/services-terms-and-conditions-pub8c206171/)
+*   [IKEA Family Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-terms-and-conditions-pub6cce14b1/)
+*   [IKEA Family Offers Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-offers-terms-and-conditions-pub1a27c040/)
+*   [Offers and Events Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/offers-and-events-terms-and-conditions-pub5f9bf021/)
+*   [IKEA Live Lagom Community Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-live-lagom-community-terms-and-conditions-pub2f92d371/)
+*   [IKEA Business Network Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-for-business-terms-and-conditions-pub2e8f2360/)
+*   [IKEA Gift Card Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-gift-card-terms-and-conditions-pub01a1bbc0/)
+*   [Re-shop and Re-use Online Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/circular-hub-online-terms-and-conditions-pubc376f160/)
+*   [IKEA interior design service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-interior-design-service-terms-and-conditions-pub9832e411/)
+*   [IKEA Buyback & Resell service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-buy-back-service-terms-and-conditions-pub9e989950/)
 
 - - -
 
-1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
-2. [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
-3. Terms of use
+1.  [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2.  [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
+3.  Terms of use
 
 Terms of use
 ============
@@ -105,9 +105,9 @@ Date updated: **05/04/2018**
 
 - - -
 
-1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
-2. [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
-3. General Terms and Conditions
+1.  [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2.  [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
+3.  General Terms and Conditions
 
 General Terms and Conditions
 ============================
@@ -278,10 +278,10 @@ Food or drink, perishable product (cut flowers or plants), or custom-made produc
 
 There are certain circumstances, where at our sole discretion we are not able to accept returns, cancel orders or offer a refund unless the product(s) is faulty (or unless there is any other breach of your statutory rights). These exclusions are as follows:
 
-* where you do not have proof of purchase;
-* where the product(s) are not returned in a saleable condition.
+*   where you do not have proof of purchase;
+*   where the product(s) are not returned in a saleable condition.
 
-* See more information about cancellation or return of orders online or via e-mail
+*   See more information about cancellation or return of orders online or via e-mail
     
     **Cancellation or return of orders made online**
     ------------------------------------------------
@@ -310,19 +310,19 @@ There are certain circumstances, where at our sole discretion we are not able to
     
     Collection of the product(s) will only take place from the delivery address to which they were delivered and will be subject to the following:
     
-    * You agree to provide IKEA Shop Online with as much detail as possible of relevant features of the delivery address (for example, which floor the items are to be collected from, whether there are any narrow doors etc) in order to help our representative prepare for the collection;
-    * You agree to ensure that there is suitable access to the chosen collection location;
-    * If our representative reasonably considers that collection from the room of your choice is likely to cause damage to the product(s) or to your property, they will inform you and record this concern on the collection document. You may instruct our representative to collect the product(s) in spite of such concern but we will not be liable for any damage caused to your property or to the product(s) as a consequence of us attempting collection on your instructions (provided that reasonable care is taken in collecting the product(s));
-    * You agree to give our representative all product(s) which are being returned, including all component parts of such product(s) and all related items or accessories (and if possible the original packaging) which are included in the price of the product(s) being returned;
-    * A collection document must be signed by you to confirm that the collection has taken place. The collection document will be provided by the representative who comes to collect your product(s); and
-    * If you are not personally available to accept collection of the product(s) you may appoint someone else to do so on your behalf as long as there is an adult capable of supervising collection on your behalf, and you agree that we will be entitled to rely on their instructions as if they were your own.
+    *   You agree to provide IKEA Shop Online with as much detail as possible of relevant features of the delivery address (for example, which floor the items are to be collected from, whether there are any narrow doors etc) in order to help our representative prepare for the collection;
+    *   You agree to ensure that there is suitable access to the chosen collection location;
+    *   If our representative reasonably considers that collection from the room of your choice is likely to cause damage to the product(s) or to your property, they will inform you and record this concern on the collection document. You may instruct our representative to collect the product(s) in spite of such concern but we will not be liable for any damage caused to your property or to the product(s) as a consequence of us attempting collection on your instructions (provided that reasonable care is taken in collecting the product(s));
+    *   You agree to give our representative all product(s) which are being returned, including all component parts of such product(s) and all related items or accessories (and if possible the original packaging) which are included in the price of the product(s) being returned;
+    *   A collection document must be signed by you to confirm that the collection has taken place. The collection document will be provided by the representative who comes to collect your product(s); and
+    *   If you are not personally available to accept collection of the product(s) you may appoint someone else to do so on your behalf as long as there is an adult capable of supervising collection on your behalf, and you agree that we will be entitled to rely on their instructions as if they were your own.
     
     ### **Refund**
     
     We will make any refund due to you as soon as possible and within the following timelines:
     
-    * If you cancel before you have received the product(s), 14 days after you inform us of your decision to cancel the contract; or 
-    * If you have returned product(s) back to us, 14 days after the day on which we receive the product(s) back from you or if earlier, the day on which you provide us with evidence that you have sent the product(s) back to us.
+    *   If you cancel before you have received the product(s), 14 days after you inform us of your decision to cancel the contract; or 
+    *   If you have returned product(s) back to us, 14 days after the day on which we receive the product(s) back from you or if earlier, the day on which you provide us with evidence that you have sent the product(s) back to us.
     
     You will be refunded to the original method of payment used at the time of purchase.
     
@@ -336,28 +336,28 @@ It may help to know, initially your new mattress can seem a bit too firm. Allow 
 
 ### **Terms and Conditions**
 
-* You may exchange your newly purchased mattress once within 365 days of the date stated on your valid receipt or order form if you don’t love it, provided that it is not dirty, marked or damaged and all care instructions have been strictly followed. If the proper care instructions have not been followed, then the exchange will be refused. Care instructions can be found in the product information provided with the mattress.
-* A valid proof of purchase (a valid till receipt or IKEA order number) is required to exchange your mattress. If you do not have your receipt or order number, IKEA may be able to help you locate it, but IKEA cannot guarantee that this will be located. If a valid proof of purchase cannot be presented, IKEA will be unable to honour the policy.
-* Mattresses may be exchanged for another mattress of the same size only.
-* The Sleep On It policy may not be used to exchange the mattress for a mattress of another size, or alternative items.  
-* If you would like to exchange your mattress for one of a higher value, all we ask is that you pay the difference between the original purchase price and the price of the replacement chosen. If the replacement mattress is lower in price, we will credit the difference to an IKEA refund card for you to use towards a future purchase.
-* If a suitable alternative mattress cannot be found, no cash refund or cash alternative will be offered.  
-* All products are subject to availability and alternative mattresses will only be offered from those currently available to take away from the IKEA store or to order to your home.
-* If you need us to collect the mattress, we will charge a collection fee of €25. Delivery fees for the new mattress may also be applicable. Delivery fees may vary depending on the size of the mattress and the delivery service chosen – please see delivery Terms and Conditions for more information.
-* The Sleep On It policy is valid on all full-size new mattresses only, but does not apply to children’s or cot mattresses, bed frames/bases, bed slats, mattress toppers or any other bedroom products.
-* The policy is valid for mattresses purchased through any IKEA store or online.
-* Exchanges can be requested at any IKEA IE store and through our Customer Support Centre.
-* Mattresses cannot be exchanged at IKEA Plan & Order Points or IKEA Order & Collection Points. See the store locator on the IKEA website for more information.
-* The policy applies to domestic use only.
-* IKEA reserves the right to withdraw or amend this policy as necessary or due to circumstances outside of its reasonable control.
-* IKEA reserves the right to refuse to honour the policy to anyone who IKEA reasonably suspects is acting in contravention with these terms and conditions or who IKEA reasonably suspects is acting contrary to the spirit of this offer. 
-* This offer is governed by Irish law and the courts of Ireland have exclusive jurisdiction.
-* This policy and our guarantee do not affect your statutory rights.  
+*   You may exchange your newly purchased mattress once within 365 days of the date stated on your valid receipt or order form if you don’t love it, provided that it is not dirty, marked or damaged and all care instructions have been strictly followed. If the proper care instructions have not been followed, then the exchange will be refused. Care instructions can be found in the product information provided with the mattress.
+*   A valid proof of purchase (a valid till receipt or IKEA order number) is required to exchange your mattress. If you do not have your receipt or order number, IKEA may be able to help you locate it, but IKEA cannot guarantee that this will be located. If a valid proof of purchase cannot be presented, IKEA will be unable to honour the policy.
+*   Mattresses may be exchanged for another mattress of the same size only.
+*   The Sleep On It policy may not be used to exchange the mattress for a mattress of another size, or alternative items.  
+*   If you would like to exchange your mattress for one of a higher value, all we ask is that you pay the difference between the original purchase price and the price of the replacement chosen. If the replacement mattress is lower in price, we will credit the difference to an IKEA refund card for you to use towards a future purchase.
+*   If a suitable alternative mattress cannot be found, no cash refund or cash alternative will be offered.  
+*   All products are subject to availability and alternative mattresses will only be offered from those currently available to take away from the IKEA store or to order to your home.
+*   If you need us to collect the mattress, we will charge a collection fee of €25. Delivery fees for the new mattress may also be applicable. Delivery fees may vary depending on the size of the mattress and the delivery service chosen – please see delivery Terms and Conditions for more information.
+*   The Sleep On It policy is valid on all full-size new mattresses only, but does not apply to children’s or cot mattresses, bed frames/bases, bed slats, mattress toppers or any other bedroom products.
+*   The policy is valid for mattresses purchased through any IKEA store or online.
+*   Exchanges can be requested at any IKEA IE store and through our Customer Support Centre.
+*   Mattresses cannot be exchanged at IKEA Plan & Order Points or IKEA Order & Collection Points. See the store locator on the IKEA website for more information.
+*   The policy applies to domestic use only.
+*   IKEA reserves the right to withdraw or amend this policy as necessary or due to circumstances outside of its reasonable control.
+*   IKEA reserves the right to refuse to honour the policy to anyone who IKEA reasonably suspects is acting in contravention with these terms and conditions or who IKEA reasonably suspects is acting contrary to the spirit of this offer. 
+*   This offer is governed by Irish law and the courts of Ireland have exclusive jurisdiction.
+*   This policy and our guarantee do not affect your statutory rights.  
 
 **FAQs**
 
-* **How do I exchange an IKEA mattress​?** Simply bring your mattress and receipt to any IKEA store, and one of our sleep experts can help you find a different one.​ A collection fee of €25 will be charged if you need IKEA to collect your mattress. A delivery fee may also be applicable if you require your new mattress to be delivered.  
-* **How long can you return an IKEA mattress for?** You may exchange your mattress once within 365 days if you don't love it, provided that it is not dirty, marked, or damaged, and care instructions have been strictly followed. Simply take your mattress back to the IKEA store with your receipt and one of our sleep experts can help you find one that suits you better. Please note that initially, your new mattress can seem a bit too firm. Allow one month for your body to get used to the mattress and for the mattress to get used to your body. 
+*   **How do I exchange an IKEA mattress​?** Simply bring your mattress and receipt to any IKEA store, and one of our sleep experts can help you find a different one.​ A collection fee of €25 will be charged if you need IKEA to collect your mattress. A delivery fee may also be applicable if you require your new mattress to be delivered.  
+*   **How long can you return an IKEA mattress for?** You may exchange your mattress once within 365 days if you don't love it, provided that it is not dirty, marked, or damaged, and care instructions have been strictly followed. Simply take your mattress back to the IKEA store with your receipt and one of our sleep experts can help you find one that suits you better. Please note that initially, your new mattress can seem a bit too firm. Allow one month for your body to get used to the mattress and for the mattress to get used to your body. 
 
 * * *
 
@@ -366,63 +366,63 @@ It may help to know, initially your new mattress can seem a bit too firm. Allow 
 
 **About these Terms and Conditions**
 
-* These terms and conditions govern the IKEA Solid Surface Worktop Installation Service for Ireland (the “Service”). We/Our/Us in these terms refer to IKEA Ireland Limited, company registration number 400143, registered address: 6th Floor, 2 Grand Canal Square, Dublin 2.
-* You/Your in these terms refer to the Customer named on the order and signatory of these terms.  
-* Please check that the details on your Order and in these Terms are complete and accurate before you sign these Terms. If You identify an error or require any changes to your Order, or have any further questions, please contact us by telephoning our Customer Service Contact Centre on +353 1 541 3300 at your earliest convenience.  
+*   These terms and conditions govern the IKEA Solid Surface Worktop Installation Service for Ireland (the “Service”). We/Our/Us in these terms refer to IKEA Ireland Limited, company registration number 400143, registered address: 6th Floor, 2 Grand Canal Square, Dublin 2.
+*   You/Your in these terms refer to the Customer named on the order and signatory of these terms.  
+*   Please check that the details on your Order and in these Terms are complete and accurate before you sign these Terms. If You identify an error or require any changes to your Order, or have any further questions, please contact us by telephoning our Customer Service Contact Centre on +353 1 541 3300 at your earliest convenience.  
 
 **Our Solid Surface Worktop Installation Service**  
 
-* This Service is only available to customers who have purchased a solid surface worktop and/or wall panel.
-* The installation is provided by a trusted service provider.  
-* The total amount payable for the worktop installation works should be paid directly to Us at the time of purchase of your solid surface worktop.  
+*   This Service is only available to customers who have purchased a solid surface worktop and/or wall panel.
+*   The installation is provided by a trusted service provider.  
+*   The total amount payable for the worktop installation works should be paid directly to Us at the time of purchase of your solid surface worktop.  
 
 **Where the Service is available**
 
-* Installation must be within the mainland of the Republic of Ireland.  
-* Works you must undertake
-* You need to ensure that all structural, building and groundworks are completed before we arrive to install your solid surface worktops. This includes the removal and building of walls, windows, doorways, ceilings, underground drainage, external stop taps etc. If building works are not completed prior to the installation, there will be a delay as we have to reschedule the installer. It will also result in us having to charge you for the lost time of the installer. 
-* All surfaces which you require to be templated for a solid surface worktop must be complete, level and flat. If the area is not sufficiently prepared or full access is not possible, the Service may be cancelled and a re-booking fee will apply for the Service to be re-scheduled.
-* It is your responsibility to ensure that any gas or electric ovens and hobs, sinks, taps or other connected electrical appliances, are disconnected from the power source on the template and installation date. The templator reserves the right to refuse an installation where it reasonably considers that the existing kitchen is unsuitable for the fitting of a solid surface worktop or it considers it would be unsafe to install the worktop. In the event that the kitchen is unsuitable, the Templating fee will not be refunded.
+*   Installation must be within the mainland of the Republic of Ireland.  
+*   Works you must undertake
+*   You need to ensure that all structural, building and groundworks are completed before we arrive to install your solid surface worktops. This includes the removal and building of walls, windows, doorways, ceilings, underground drainage, external stop taps etc. If building works are not completed prior to the installation, there will be a delay as we have to reschedule the installer. It will also result in us having to charge you for the lost time of the installer. 
+*   All surfaces which you require to be templated for a solid surface worktop must be complete, level and flat. If the area is not sufficiently prepared or full access is not possible, the Service may be cancelled and a re-booking fee will apply for the Service to be re-scheduled.
+*   It is your responsibility to ensure that any gas or electric ovens and hobs, sinks, taps or other connected electrical appliances, are disconnected from the power source on the template and installation date. The templator reserves the right to refuse an installation where it reasonably considers that the existing kitchen is unsuitable for the fitting of a solid surface worktop or it considers it would be unsafe to install the worktop. In the event that the kitchen is unsuitable, the Templating fee will not be refunded.
 
 **Pre-Templating and Installation information**
 
-* You are required to provide certain information so that we can carry out the services. For example, the type of property, any specific access restrictions or requirements, or special conditions (eg. listed building status etc). If You fail to provide this information after being asked by Us, or You provide Us with incomplete or incorrect information, We may make an additional charges, suspend or cancel the Service. In the event that We are unable to carry out the service due to incorrect or insufficient information being provided, re-booking charges will apply. We will not be responsible for any consequences you suffer where you have not provided the information to Us that We have requested.  
+*   You are required to provide certain information so that we can carry out the services. For example, the type of property, any specific access restrictions or requirements, or special conditions (eg. listed building status etc). If You fail to provide this information after being asked by Us, or You provide Us with incomplete or incorrect information, We may make an additional charges, suspend or cancel the Service. In the event that We are unable to carry out the service due to incorrect or insufficient information being provided, re-booking charges will apply. We will not be responsible for any consequences you suffer where you have not provided the information to Us that We have requested.  
 
 **Templating**  
 
-* Following your order of a solid surface worktop, We will contact you to arrange a time for your templating appointment with our trusted templators. You or a trusted representative must be on site for templating for the installer to discuss with you your final design requirements. All products which need to be fitted into the worktop, such as sink, hob, tap etc. must be on site at the time of your templating appointment. 
+*   Following your order of a solid surface worktop, We will contact you to arrange a time for your templating appointment with our trusted templators. You or a trusted representative must be on site for templating for the installer to discuss with you your final design requirements. All products which need to be fitted into the worktop, such as sink, hob, tap etc. must be on site at the time of your templating appointment. 
 
 **Installation**  
 
-* You or a trusted representative must be on site for the installation of your worktop. It is your responsibility to ensure that any old or temporary kitchen worktops have been fully removed, and the area is clear of obstructions prior to your installation date.  
+*   You or a trusted representative must be on site for the installation of your worktop. It is your responsibility to ensure that any old or temporary kitchen worktops have been fully removed, and the area is clear of obstructions prior to your installation date.  
 
 **Cancellation and Postponements**
 
-* Cancellation or postponement of either the templating or installation appointment requires a minimum of 48 hours notice. Please contact the Customer Support Contact Centre on +353 1 541 3300 the earliest opportunity if you need to make any changes to your appointment.
-* Failure to notify Us of any cancellation or postponement prior to 48hrs of the agreed Service time will incur a re-booking fee of 50% of the original charge. Your original Service fee will not be refunded. The rebooking fee is required to be paid before the Service will be rebooked.  
-* If upon arrival at the agreed Service time, We are unable to carry out the Service due to lack of or incorrect information being provided, the templating or installation area is not sufficiently prepared for the Service to take place, or You or a trusted representative not being present, a rebooking fee of 100% of the original charge will apply along with any delivery fees. Your original Service fee will not be refunded. The rebooking fee is required to be paid before the Service will be rebooked.
+*   Cancellation or postponement of either the templating or installation appointment requires a minimum of 48 hours notice. Please contact the Customer Support Contact Centre on +353 1 541 3300 the earliest opportunity if you need to make any changes to your appointment.
+*   Failure to notify Us of any cancellation or postponement prior to 48hrs of the agreed Service time will incur a re-booking fee of 50% of the original charge. Your original Service fee will not be refunded. The rebooking fee is required to be paid before the Service will be rebooked.  
+*   If upon arrival at the agreed Service time, We are unable to carry out the Service due to lack of or incorrect information being provided, the templating or installation area is not sufficiently prepared for the Service to take place, or You or a trusted representative not being present, a rebooking fee of 100% of the original charge will apply along with any delivery fees. Your original Service fee will not be refunded. The rebooking fee is required to be paid before the Service will be rebooked.
 
 **Our Guarantee**  
 
-* We provide a 5-year guarantee of the workmanship of the Services from the date of completion of your installation. This guarantee is personal to you as Our customer and may not be transferred to any other person.  
-* In the unlikely event that there is any defect with the Services, please contact Us as soon as possible. We will repair or fix any defect at Our cost and we will use every effort to do this as soon as We reasonably can.  
-* Our guarantee is subject to the following conditions: We and Our templators and installers will have no responsibility for any defect arising from fair reasonable wear and tear, wilful damage, negligence, abnormal working conditions, failure to follow IKEA's core instructions, misuse, alteration or repair of products without Our prior approval. In addition, any claim which is based on any defect in the quality or condition of the goods or their failure to correspond to their description, must be notified to Us immediately upon the defect becoming evident.  
+*   We provide a 5-year guarantee of the workmanship of the Services from the date of completion of your installation. This guarantee is personal to you as Our customer and may not be transferred to any other person.  
+*   In the unlikely event that there is any defect with the Services, please contact Us as soon as possible. We will repair or fix any defect at Our cost and we will use every effort to do this as soon as We reasonably can.  
+*   Our guarantee is subject to the following conditions: We and Our templators and installers will have no responsibility for any defect arising from fair reasonable wear and tear, wilful damage, negligence, abnormal working conditions, failure to follow IKEA's core instructions, misuse, alteration or repair of products without Our prior approval. In addition, any claim which is based on any defect in the quality or condition of the goods or their failure to correspond to their description, must be notified to Us immediately upon the defect becoming evident.  
 
 **Our Liability**  
 
-* In the event of any unforeseen circumstances (for example the key personnel or key materials necessary to provide the Services are unavailable) we will try to remedy this within a reasonable time. We will promptly contact you if this happens. We will not be responsible for any losses incurred due to a delay in delivery arising out of any cause beyond our control.  
-* If any damage to your property occurs during the performance of the Services and it is the fault of the templator or the installer please contact Us immediately and we will ensure that the damage is remedied within a reasonable time. 
-* We only supply the Services for domestic and private use.  
+*   In the event of any unforeseen circumstances (for example the key personnel or key materials necessary to provide the Services are unavailable) we will try to remedy this within a reasonable time. We will promptly contact you if this happens. We will not be responsible for any losses incurred due to a delay in delivery arising out of any cause beyond our control.  
+*   If any damage to your property occurs during the performance of the Services and it is the fault of the templator or the installer please contact Us immediately and we will ensure that the damage is remedied within a reasonable time. 
+*   We only supply the Services for domestic and private use.  
 
 **Additional Works**
 
-* Any additional works that are agreed between you and the Installation Service Provider where the works fall outside of your agreed Order will form a separate contract between you and that service provider and any payments for these additional works are paid directly to that service provider. We have no responsibility for this contract or works completed. 
+*   Any additional works that are agreed between you and the Installation Service Provider where the works fall outside of your agreed Order will form a separate contract between you and that service provider and any payments for these additional works are paid directly to that service provider. We have no responsibility for this contract or works completed. 
 
 **Privacy Policy** 
 
-* IKEA is committed to protecting and respecting your privacy. This policy (together with the terms of use on our website) sets out why we collect data from you and how it will be processed by IKEA. Please read the policy carefully so that you understand our views and practices and how we will treat your data. The data you give to us is confidential and is only disclosed in the circumstances noted in this privacy policy.  
-* IKEA processes your data in accordance with all relevant legislation, government policies and Information Commissioners Office guidance. We ensure that we collect the information fairly and ensure that it is kept secure.
-* Governing Law These terms are governed by the laws of Ireland and you and we both agree to submit to the exclusive jurisdiction of the courts of Ireland. 
+*   IKEA is committed to protecting and respecting your privacy. This policy (together with the terms of use on our website) sets out why we collect data from you and how it will be processed by IKEA. Please read the policy carefully so that you understand our views and practices and how we will treat your data. The data you give to us is confidential and is only disclosed in the circumstances noted in this privacy policy.  
+*   IKEA processes your data in accordance with all relevant legislation, government policies and Information Commissioners Office guidance. We ensure that we collect the information fairly and ensure that it is kept secure.
+*   Governing Law These terms are governed by the laws of Ireland and you and we both agree to submit to the exclusive jurisdiction of the courts of Ireland. 
 
 * * *
 
