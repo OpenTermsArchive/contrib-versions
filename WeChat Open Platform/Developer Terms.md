@@ -166,34 +166,34 @@ Expert stated otherwise, the following terminologies mean
 
 **2.8.2 You understand and agree that if Tencent finds any possible infringement of another person’s legal rights or interests for the first time or the second time on its own or according to information of relevant departments or complaints from claimants, Tencent is entitled to decide independently whether the infringement really exists based on common sense. Once Tencent is convinced that there is an infringement of another person’s legal rights and interests after reasonable judgment, Tencent is entitled to unilaterally take one or multiple of the following actions.**
 
-1. (1) take actions such as closing the entrance for new user and restricting old user’s login against the application which infringes the legitimate rights and interests of others;
-2. (2) take actions such as closing the entrance for new users and restricting old users’ login against the services of Official Account which infringe the legitimate rights and interests of others;
-3. (3) take off-line treatments against applications which infringe the legal rights and interests of others, which means terminating the applications using services of the Open Platform;
-4. (4) investigate your legal liability;
-5. (5) make your misconducts published to the public;
-6. (6) other measures Tencent considers as appropriate.
+1.  (1) take actions such as closing the entrance for new user and restricting old user’s login against the application which infringes the legitimate rights and interests of others;
+2.  (2) take actions such as closing the entrance for new users and restricting old users’ login against the services of Official Account which infringe the legitimate rights and interests of others;
+3.  (3) take off-line treatments against applications which infringe the legal rights and interests of others, which means terminating the applications using services of the Open Platform;
+4.  (4) investigate your legal liability;
+5.  (5) make your misconducts published to the public;
+6.  (6) other measures Tencent considers as appropriate.
 
 **As for application which has infringed legitimate rights and interests of others, if it no longer infringes other’s legitimate rights and interests after your modification, you agree that Tencent is still entitled to remove such modified application from the platform. Meanwhile, if necessary, you can reconnect the modified application to the Weixin Open Platform as a new application according to the procedures and standards of the Agreement.**
 
 **2.8.3 You understand and agree that if Tencent finds any possible infringement of others’ legal rights and interests more than three times on its own or according to information of relevant departments or complaints from claimant, Tencent is entitled to decide independently whether the infringement really exists according to common sense. Once Tencent is convinced there is an infringement of another person’s legal rights or interests after reasonable judgment, Tencent is entitled to unilaterally take one or multiple of the following actions.**
 
-1. (1) require you to immediately replace and modify relevant content which infringes the legitimate rights and interests of others;
-2. (2) take actions such as closing the entrance for new users and restricting old users’ login against one or all of the applications under your name which violate any third party’s interests.
-3. (3) take off-line treatments against the application which infringe the legitimate rights and interests of others, or all or any of the applications under your name, which means terminating the applications using service of the Open Platform;
-4. (4) prohibit you from accessing any of your new applications to the Weixin Open Platform in the future;
-5. (5) investigate your legal liabilities;
-6. (6) make your misconducts published to the public;
-7. (7) other actions which Tencent deems as appropriate.
+1.  (1) require you to immediately replace and modify relevant content which infringes the legitimate rights and interests of others;
+2.  (2) take actions such as closing the entrance for new users and restricting old users’ login against one or all of the applications under your name which violate any third party’s interests.
+3.  (3) take off-line treatments against the application which infringe the legitimate rights and interests of others, or all or any of the applications under your name, which means terminating the applications using service of the Open Platform;
+4.  (4) prohibit you from accessing any of your new applications to the Weixin Open Platform in the future;
+5.  (5) investigate your legal liabilities;
+6.  (6) make your misconducts published to the public;
+7.  (7) other actions which Tencent deems as appropriate.
 
 **2.8.4 You warrant that your use of the Services and any of your acts shall not violate any applicable laws and regulations, the Agreement and other relative agreements and rules. Otherwise, you understand and agree that if Tencent finds any possible violation of the aforementioned warranties on its own or according to information of relevant departments or complaints from claimants, Tencent is entitled to decide at its sole discretion whether the violation really exists according to common sense. Once Tencent confirms there is a violation of the aforementioned warranties based upon reasonable judgment, Tencent is entitled to take any of the following measures, individually or in a combination.**
 
-1. (1) require you to immediately change or modify the content that breaches the foresaid warranties;
-2. (2) take actions such as closing the entrance for new users and restricting old users’ login against the application which violates the aforementioned representations and warranties or all or any of the applications under your name;
-3. (3) any application that breaches the aforementioned warranties, or one or all of your applications that breaches the aforementioned warranties will be removed from Weixin, which means terminating the applications using service of the Open Platform;
-4. (4) prohibit you from accessing any of your new applications to the Weixin Open Platform in the future;
-5. (5) investigate your legal liabilities;
-6. (6) make your misconducts published to the public;
-7. (7) other actions which Tencent deems as appropriate.
+1.  (1) require you to immediately change or modify the content that breaches the foresaid warranties;
+2.  (2) take actions such as closing the entrance for new users and restricting old users’ login against the application which violates the aforementioned representations and warranties or all or any of the applications under your name;
+3.  (3) any application that breaches the aforementioned warranties, or one or all of your applications that breaches the aforementioned warranties will be removed from Weixin, which means terminating the applications using service of the Open Platform;
+4.  (4) prohibit you from accessing any of your new applications to the Weixin Open Platform in the future;
+5.  (5) investigate your legal liabilities;
+6.  (6) make your misconducts published to the public;
+7.  (7) other actions which Tencent deems as appropriate.
 
 **2.8.5 If Tencent takes any actions or measures against you or your application in accordance with the above terms or other relevant provisions of the Agreement, or due to your violation of applicable laws, you shall be solely liable for any and all dissensions and disputes arising therefrom, and you shall be solely liable for any loss caused to you as well as to Tencent or others.**
 
@@ -201,22 +201,22 @@ Expert stated otherwise, the following terminologies mean
 
 **3.1 Tencent will provide you with corresponding services depending the type of service you choose. You understand and agree that, based on the comprehensive factors such as the user experience, operation safety of Weixin or its service platform, the rules and requirements of the platform and healthy development, Tencent is entitled to choose the targets to provide services or cooperate with, to decide whether to open a certain function, data interface and the objects and scope of relevant data disclosure, and to suspend or terminate these Services, as we deem appropriate, to developers or applications that fall into the following circumstances, including but not limited to:**
 
-* (1) in violation of laws, regulations or the provisions of the Agreement;
-* (2) affecting the user experience;
-* (3) existing a security risk;
-* (4) with functions or functional units that are similar or same with those existing with Weixin or its service platforms, or can achieve the same key effects as the aforementioned function or functional units;
-* (5) with interface design, style, function, description or user experience similar to Weixin or its service platforms, which may cause the users to believe that the function or service being used is provided or authorized by Tencent;
-* (6) failure to abide by the principle of fairness and reciprocity to cooperate with Tencent, including but not limited to the prohibition, obstruction, hindrance, misleading or influence on users' self-selection or normal use of Tencent products on your own products or platforms, other third-party products or platforms, Weixin Official Platform and other Tencent products or platforms;
-* (7) in violation of the operational principles of Weixin or its service platforms, or inconsistent with management requirements of Tencent.
+*   (1) in violation of laws, regulations or the provisions of the Agreement;
+*   (2) affecting the user experience;
+*   (3) existing a security risk;
+*   (4) with functions or functional units that are similar or same with those existing with Weixin or its service platforms, or can achieve the same key effects as the aforementioned function or functional units;
+*   (5) with interface design, style, function, description or user experience similar to Weixin or its service platforms, which may cause the users to believe that the function or service being used is provided or authorized by Tencent;
+*   (6) failure to abide by the principle of fairness and reciprocity to cooperate with Tencent, including but not limited to the prohibition, obstruction, hindrance, misleading or influence on users' self-selection or normal use of Tencent products on your own products or platforms, other third-party products or platforms, Weixin Official Platform and other Tencent products or platforms;
+*   (7) in violation of the operational principles of Weixin or its service platforms, or inconsistent with management requirements of Tencent.
 
 3.2 It is a fundamental principle of Tencent to protect your information, without your permission, Tencent will not disclose or provide your information to any company, organization or individual other than Tencent, except for the following circumstances:
 
-* (1) the information may be provided according to the Agreement or other related agreements, rules;
-* (2) the information may be provided in accordance with the laws and regulations;
-* (3) it is required to be provided by administrative, judicial, or other government authorities;
-* (4) you agree that Tencent offers to a third party
-* (5) the submission of which is necessary for address the reported incidents or bringing a lawsuit.
-* (6) materials necessary for taking actions to prevent serious illegal activities or suspected crimes.
+*   (1) the information may be provided according to the Agreement or other related agreements, rules;
+*   (2) the information may be provided in accordance with the laws and regulations;
+*   (3) it is required to be provided by administrative, judicial, or other government authorities;
+*   (4) you agree that Tencent offers to a third party
+*   (5) the submission of which is necessary for address the reported incidents or bringing a lawsuit.
+*   (6) materials necessary for taking actions to prevent serious illegal activities or suspected crimes.
 
 3.3 Though Tencent has made great efforts to protect your information, it still cannot guarantee that under the current security technology measures, your information might still be revealed or stolen due to force majeure or other reasons unrelated to Tencent. In this case, you hereby agree that you will not hold Tencent liable for any loss incurred therefrom.
 
