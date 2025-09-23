@@ -37,30 +37,30 @@ You may offer your publications  for free, or for a subscription fee, to be det
 
 If you choose to charge a subscription fee for your publication, you agree to the following:
 
-* No Circumvention: You agree to process payments from Readers only in the manner determined by us. This includes using the third-party payment processing platform (“Payment Processor”) we choose, and following any other rules we specify. You may not circumvent your payment obligations to us by soliciting payment from a Reader outside of Substack or by using any alternative method to collect subscription payments. This includes receiving payments for your publication through links to PayPal or a separate Patreon page. You agree to notify us immediately if you receive any such offer or solicitation to circumvent your payment obligations by contacting tos@substackinc.com.
+*   No Circumvention: You agree to process payments from Readers only in the manner determined by us. This includes using the third-party payment processing platform (“Payment Processor”) we choose, and following any other rules we specify. You may not circumvent your payment obligations to us by soliciting payment from a Reader outside of Substack or by using any alternative method to collect subscription payments. This includes receiving payments for your publication through links to PayPal or a separate Patreon page. You agree to notify us immediately if you receive any such offer or solicitation to circumvent your payment obligations by contacting tos@substackinc.com.
     
-* Taxes: You agree that you shall bear and be responsible for any and all applicable federal, state, local, and foreign taxes, duties, tariffs, levies, withholdings, and similar assessments (including without limitation, sales, use, and value added taxes) related to your publication.
+*   Taxes: You agree that you shall bear and be responsible for any and all applicable federal, state, local, and foreign taxes, duties, tariffs, levies, withholdings, and similar assessments (including without limitation, sales, use, and value added taxes) related to your publication.
     
-* Revenue Share: You agree to pay us a percentage of the total amount charged by you to Readers (the “Revenue Share”). The remaining amount, after any fees deducted by the Payment Processor, will be retained by you. The Revenue Share percentage is set between you and Substack during registration of your account. 
+*   Revenue Share: You agree to pay us a percentage of the total amount charged by you to Readers (the “Revenue Share”). The remaining amount, after any fees deducted by the Payment Processor, will be retained by you. The Revenue Share percentage is set between you and Substack during registration of your account. 
     
-* Revenue Share Payment: During the term of this Agreement, the Payment Processor will pay the Revenue Share owed to us and deduct any applicable fees on a rolling basis as you process subscription payments from Readers**. You agree to these payments and further agree that all Revenue Share payments are non-refundable.**
+*   Revenue Share Payment: During the term of this Agreement, the Payment Processor will pay the Revenue Share owed to us and deduct any applicable fees on a rolling basis as you process subscription payments from Readers**. You agree to these payments and further agree that all Revenue Share payments are non-refundable.**
     
-* Information Upon Request: You will provide us with all requested data or information about you and your publications. This includes all payment and tax identification information, and you will ensure this information is accurate and up-to-date.
+*   Information Upon Request: You will provide us with all requested data or information about you and your publications. This includes all payment and tax identification information, and you will ensure this information is accurate and up-to-date.
     
 
 **Relationships with Readers**
 
 You agree to the following rules around your relationships with Readers and other users of Substack:
 
-* Sole Responsibility: You agree that you are solely responsible for (and that we have no responsibility to you or to any third party for) any publications you distribute through Substack and for the consequences of your actions by doing so. This means that you acknowledge and agree that you are solely responsible for ensuring distribution of your publications, our actions under this Agreement are solely to assist you in facilitating distribution. 
+*   Sole Responsibility: You agree that you are solely responsible for (and that we have no responsibility to you or to any third party for) any publications you distribute through Substack and for the consequences of your actions by doing so. This means that you acknowledge and agree that you are solely responsible for ensuring distribution of your publications, our actions under this Agreement are solely to assist you in facilitating distribution. 
     
-* Stopping Publication or Deleting a Publication: You may delete one or more of your publications from Substack at your discretion. **However, please note that if you delete or stop publishing a publication before the end of a paid subscription term of a Reader, any and all obligations – including any refund obligations for the remaining portion of the subscription term – are solely your responsibility.** We are under no obligation to issue any refunds to you or your Readers and we are entitled to keep any and all portions of any Revenue Share you have paid Substack.
+*   Stopping Publication or Deleting a Publication: You may delete one or more of your publications from Substack at your discretion. **However, please note that if you delete or stop publishing a publication before the end of a paid subscription term of a Reader, any and all obligations – including any refund obligations for the remaining portion of the subscription term – are solely your responsibility.** We are under no obligation to issue any refunds to you or your Readers and we are entitled to keep any and all portions of any Revenue Share you have paid Substack.
     
-* Disputes: If there is a dispute between you and a user about payments or any other issue, you agree we are under no obligation to become involved and that we will not be held liable for any such dispute. We are not liable for your relationship with users, and we won’t provide you with any legal advice regarding such matters.
+*   Disputes: If there is a dispute between you and a user about payments or any other issue, you agree we are under no obligation to become involved and that we will not be held liable for any such dispute. We are not liable for your relationship with users, and we won’t provide you with any legal advice regarding such matters.
     
-* Reporting a User: You can flag that a user that is violating our Terms of Use by sending an email to tos@substackinc.com. After you provide us with written notice of this violation, we will determine whether this user’s access to some or all of your publications should be suspended or terminated. We will also decide at our sole discretion whether this user’s access to the rest of Substack will be suspended or terminated.
+*   Reporting a User: You can flag that a user that is violating our Terms of Use by sending an email to tos@substackinc.com. After you provide us with written notice of this violation, we will determine whether this user’s access to some or all of your publications should be suspended or terminated. We will also decide at our sole discretion whether this user’s access to the rest of Substack will be suspended or terminated.
     
-* Support: You shall provide to us a current email address to which we may direct inquiries from Readers and other Substack users regarding your publications.
+*   Support: You shall provide to us a current email address to which we may direct inquiries from Readers and other Substack users regarding your publications.
     
 
 **Acceptable Use**
@@ -71,13 +71,13 @@ Make sure that you use Substack in a manner that complies with the law and is pe
 
 You also represent and warrant that you will not publish publications or otherwise use Substack in a manner that:
 
-* is fraudulent, deceptive, threatening, abusive, harassing, tortious, defamatory, or in any way violates Substack’s [Content Guidelines](https://substack.com/content);
+*   is fraudulent, deceptive, threatening, abusive, harassing, tortious, defamatory, or in any way violates Substack’s [Content Guidelines](https://substack.com/content);
     
-* interferes with, disrupts, damages, or accesses in an unauthorized manner the devices, servers, networks, or other properties or services of Substack or any third party;
+*   interferes with, disrupts, damages, or accesses in an unauthorized manner the devices, servers, networks, or other properties or services of Substack or any third party;
     
-* infringes, violates, or misappropriates any law, statute, ordinance or regulation or rights of any third party;
+*   infringes, violates, or misappropriates any law, statute, ordinance or regulation or rights of any third party;
     
-* spreads a virus, trojan horse, worm, time bomb, or other harmful computer code, file, or program.
+*   spreads a virus, trojan horse, worm, time bomb, or other harmful computer code, file, or program.
     
 
 Please review the “Acceptable Use Policy” detailed in the [Terms of Use](https://substack.com/tos), as those rules are also incorporated into this Agreement by reference. 
@@ -86,9 +86,9 @@ Please review the “Acceptable Use Policy” detailed in the [Terms of Use](htt
 
 **To the fullest extent allowed by applicable law, under no circumstances and under no legal theory shall Substack, its licensors, or its suppliers be liable to you or to any other person for:**
 
-* **Any indirect, special, incidental, or consequential damages of any kind, or**
+*   **Any indirect, special, incidental, or consequential damages of any kind, or**
     
-* **Any amount, in the aggregate, in excess of the greater of (1) $100 or (2) the amounts paid and/or payable by you to us in connection with Substack in the twelve-month period preceding the applicable claim.** 
+*   **Any amount, in the aggregate, in excess of the greater of (1) $100 or (2) the amounts paid and/or payable by you to us in connection with Substack in the twelve-month period preceding the applicable claim.** 
     
 
 **No Warranties**
@@ -105,19 +105,19 @@ Please note that our Privacy Policy only applies to the processing of Personal I
 
 In that case the following terms apply to such data processing:
 
-* Each party shall comply with their respective statutory or regulatory data protection obligations.
+*   Each party shall comply with their respective statutory or regulatory data protection obligations.
     
-* Substack shall process Personal Information in accordance with your instructions. Substack shall have no liability whatsoever for violations of privacy and data protection laws that arise as a result of Substack following your instructions under the Agreement.
+*   Substack shall process Personal Information in accordance with your instructions. Substack shall have no liability whatsoever for violations of privacy and data protection laws that arise as a result of Substack following your instructions under the Agreement.
     
-* If you collect, use, store or otherwise process Personal Information provided by or collected from Substack users, you must do so securely and only for as long as it is needed and always in accordance with applicable privacy and data protection laws. 
+*   If you collect, use, store or otherwise process Personal Information provided by or collected from Substack users, you must do so securely and only for as long as it is needed and always in accordance with applicable privacy and data protection laws. 
     
-* You are solely responsible for complying with any laws and regulations that apply to your processing of Personal Information on the Substack platform. if appropriate. 
+*   You are solely responsible for complying with any laws and regulations that apply to your processing of Personal Information on the Substack platform. if appropriate. 
     
-* You shall ensure that all Personal Information that you supply or disclose to Substack has been obtained fairly and lawfully and that you have obtained all necessary consents and/or privacy notices required to permit Substack to fulfil its obligations under this Agreement.
+*   You shall ensure that all Personal Information that you supply or disclose to Substack has been obtained fairly and lawfully and that you have obtained all necessary consents and/or privacy notices required to permit Substack to fulfil its obligations under this Agreement.
     
-* If you are based in the European Economic Area (“EEA”) or the United Kingdom (“UK”), the processing of Personal Information by Substack on your behalf shall be governed by the terms of the data processing addendum attached to this Publisher Agreement as Annex 1.
+*   If you are based in the European Economic Area (“EEA”) or the United Kingdom (“UK”), the processing of Personal Information by Substack on your behalf shall be governed by the terms of the data processing addendum attached to this Publisher Agreement as Annex 1.
     
-* If you are a business for the purposes of the California Consumer Privacy Act of 2018 (“CCPA”), you may elect to have us act as your CCPA service provider. Contact us at privacy@substackinc.com to receive a copy of our service provider agreement.
+*   If you are a business for the purposes of the California Consumer Privacy Act of 2018 (“CCPA”), you may elect to have us act as your CCPA service provider. Contact us at privacy@substackinc.com to receive a copy of our service provider agreement.
     
 
 To the fullest extent allowed by applicable law, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims (including but not limited to fines or other sanctions imposed by data protection authorities) for any violations of this Publisher Agreement or applicable privacy and data protection laws attributable to you.
@@ -148,25 +148,25 @@ If you don’t agree with the new Agreement, you are free to reject them; unfort
 
 The above covers most of the questions that we typically receive about Substack. We have grouped provisions that come up less frequently below:
 
-* Indemnification: To the fullest extent allowed by applicable law, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to (a) your use of Substack (including any actions taken by a third party using your account), and (b) your violation of this Agreement. In the event of such a claim, suit, or action, we will attempt to provide notice to the contact information we have for your account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations hereunder).
+*   Indemnification: To the fullest extent allowed by applicable law, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to (a) your use of Substack (including any actions taken by a third party using your account), and (b) your violation of this Agreement. In the event of such a claim, suit, or action, we will attempt to provide notice to the contact information we have for your account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations hereunder).
     
-* Assignment: You may not assign, delegate or transfer this Agreement or your rights or obligations hereunder, or your Substack account, in any way (by operation of law or otherwise) without our prior written consent. We may transfer, assign, or delegate this Agreement and our rights and obligations without consent.
+*   Assignment: You may not assign, delegate or transfer this Agreement or your rights or obligations hereunder, or your Substack account, in any way (by operation of law or otherwise) without our prior written consent. We may transfer, assign, or delegate this Agreement and our rights and obligations without consent.
     
-* Choice of Law: This Agreement is governed by and will be construed under applicable federal law and the laws of the State of California, without regard to the conflicts of laws provisions thereof.
+*   Choice of Law: This Agreement is governed by and will be construed under applicable federal law and the laws of the State of California, without regard to the conflicts of laws provisions thereof.
     
-* Arbitration: This Agreement will be construed under the laws of the State of California, without regard to conflicts of law provisions thereof. Any dispute arising from or relating to the subject matter of this Agreement shall be finally settled by arbitration in San Francisco County, California, using the English language in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. ("JAMS") then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Streamlined Arbitration Rules and Procedures of JAMS. Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, San Francisco County, California, or the Northern District of California. The prevailing party in any action or proceeding arising out of this Agreement will be entitled to an award of costs and attorneys’ fees.
+*   Arbitration: This Agreement will be construed under the laws of the State of California, without regard to conflicts of law provisions thereof. Any dispute arising from or relating to the subject matter of this Agreement shall be finally settled by arbitration in San Francisco County, California, using the English language in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. ("JAMS") then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Streamlined Arbitration Rules and Procedures of JAMS. Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, San Francisco County, California, or the Northern District of California. The prevailing party in any action or proceeding arising out of this Agreement will be entitled to an award of costs and attorneys’ fees.
     
-* No Third-Party Beneficiaries: We agree there are no third-party beneficiaries intended under this Agreement.
+*   No Third-Party Beneficiaries: We agree there are no third-party beneficiaries intended under this Agreement.
     
-* No Joint Venture: You hereby acknowledge and agree that you are not an employee, agent, partner, or joint venture of Substack Inc., and you do not have any authority of any kind to bind us in any respect whatsoever. 
+*   No Joint Venture: You hereby acknowledge and agree that you are not an employee, agent, partner, or joint venture of Substack Inc., and you do not have any authority of any kind to bind us in any respect whatsoever. 
     
-* Waiver: The failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder. 
+*   Waiver: The failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder. 
     
-* Severability: If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that this Agreement shall otherwise remain in full force and effect and enforceable.
+*   Severability: If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that this Agreement shall otherwise remain in full force and effect and enforceable.
     
-* Survival: You agree that the terms under the heading “Privacy”, “Sole Responsibility”, “Acceptable Use”, “Indemnification”, “Stopping Publication or Deleting a Publication”, “No Warranty”, “Limitation of Liability”, “Assignment”, “No Joint Venture”, “Severability”, “Arbitration”, and “Entire Agreement”, and any payment obligations incurred shall survive termination of this Agreement.
+*   Survival: You agree that the terms under the heading “Privacy”, “Sole Responsibility”, “Acceptable Use”, “Indemnification”, “Stopping Publication or Deleting a Publication”, “No Warranty”, “Limitation of Liability”, “Assignment”, “No Joint Venture”, “Severability”, “Arbitration”, and “Entire Agreement”, and any payment obligations incurred shall survive termination of this Agreement.
     
-* Entire Agreement: You agree that this Agreement is the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement. 
+*   Entire Agreement: You agree that this Agreement is the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement. 
     
 
 ### [](#annex)**[ANNEX 1](https://substack.com/pa#annex)**
@@ -187,48 +187,48 @@ The terms of this DPA only apply if the Creator is based in the European Economi
 
 **Creator obligations**. The Creator:
 
-* acknowledges that Substack, Substack affiliates and their respective third party service providers may process personal data in connection with the provision of Substack products and services to the Creator (the “Services”). A description of the processing activities performed in connection with the Services in provided in Appendix 1 to this DPA; 
+*   acknowledges that Substack, Substack affiliates and their respective third party service providers may process personal data in connection with the provision of Substack products and services to the Creator (the “Services”). A description of the processing activities performed in connection with the Services in provided in Appendix 1 to this DPA; 
     
-* is solely responsible for compliance with the applicable data protection laws, including, but not limited to, the lawfulness of disclosing personal data to Substack and the lawfulness of having personal data processed on behalf of Creator; and
+*   is solely responsible for compliance with the applicable data protection laws, including, but not limited to, the lawfulness of disclosing personal data to Substack and the lawfulness of having personal data processed on behalf of Creator; and
     
-* ensures its instructions for processing personal data comply with the applicable data protection laws and the Creator shall have sole responsibility for the accuracy, quality and legality of the personal data and the means by which the Creator acquired the personal data.
+*   ensures its instructions for processing personal data comply with the applicable data protection laws and the Creator shall have sole responsibility for the accuracy, quality and legality of the personal data and the means by which the Creator acquired the personal data.
     
 
 **Substack obligations**. Substack agrees:
 
-* to process the personal data for the performance of the Services only in accordance with the documented instructions from the Creator as set out in the Publisher Agreement, this DPA or through the settings in the Services, and, without any obligation to perform a legal examination, that it will notify the Creator if Substack considers any such processing of personal data to be in violation of any applicable data protection laws;
+*   to process the personal data for the performance of the Services only in accordance with the documented instructions from the Creator as set out in the Publisher Agreement, this DPA or through the settings in the Services, and, without any obligation to perform a legal examination, that it will notify the Creator if Substack considers any such processing of personal data to be in violation of any applicable data protection laws;
     
-* to process the personal data only to the extent, and in such manner, as it is necessary for the provision of the Services;
+*   to process the personal data only to the extent, and in such manner, as it is necessary for the provision of the Services;
     
-* that if it is legally required to process personal data otherwise than as instructed by the Creator, it will notify the Creator before such processing occurs unless prohibited from doing so by law;
+*   that if it is legally required to process personal data otherwise than as instructed by the Creator, it will notify the Creator before such processing occurs unless prohibited from doing so by law;
     
-* to ensure that access to the personal data is limited to those personnel who require such access, and such are bound by, and made aware of, their obligations of confidentiality with respect to protecting personal data; to use its commercially reasonable efforts to provide assistance to the Creator upon request and only where the Creator cannot do so without Substack’s assistance (i) in fulfilling data subjects’ requests for access, rectification, erasure, data portability or objection, and (ii) in fulfilling its obligations under the applicable data protection laws.
+*   to ensure that access to the personal data is limited to those personnel who require such access, and such are bound by, and made aware of, their obligations of confidentiality with respect to protecting personal data; to use its commercially reasonable efforts to provide assistance to the Creator upon request and only where the Creator cannot do so without Substack’s assistance (i) in fulfilling data subjects’ requests for access, rectification, erasure, data portability or objection, and (ii) in fulfilling its obligations under the applicable data protection laws.
     
-* to make available information and allowing for and contributing to audits, including inspections and information requests, conducted by the Creator or an auditor mandated by the Creator upon reasonable written notice and during regular business hours, and in each case with all Substack’s costs and expenses incurred being met by the Creator and only always limited to what is necessary to demonstrate compliance with applicable data protection laws;
+*   to make available information and allowing for and contributing to audits, including inspections and information requests, conducted by the Creator or an auditor mandated by the Creator upon reasonable written notice and during regular business hours, and in each case with all Substack’s costs and expenses incurred being met by the Creator and only always limited to what is necessary to demonstrate compliance with applicable data protection laws;
     
-* taking into account the state of the art and the costs of implementation, to implement and maintain appropriate technical and organizational measures to ensure a level of security appropriate to the risk to personal data or data subjects, which shall include protecting personal data against accidental or unlawful destruction, loss, alteration, or unauthorized disclosure or access (“Personal Data Breach”). Appendix 2 to this DPA contains a description of these measures and safeguards. Creator understands and agrees that these measures are subject to technical progress and development and Substack is therefore expressly allowed to implement adequate alternative measures; and
+*   taking into account the state of the art and the costs of implementation, to implement and maintain appropriate technical and organizational measures to ensure a level of security appropriate to the risk to personal data or data subjects, which shall include protecting personal data against accidental or unlawful destruction, loss, alteration, or unauthorized disclosure or access (“Personal Data Breach”). Appendix 2 to this DPA contains a description of these measures and safeguards. Creator understands and agrees that these measures are subject to technical progress and development and Substack is therefore expressly allowed to implement adequate alternative measures; and
     
-* without undue delay notify the Creator in writing of any Personal Data Breach and keep the Creator informed of related developments. The Creator is solely responsible for complying with any notification obligations applicable to the Creator. The performance of Substack's obligation to report or respond to a Personal Data Breach under this article is not an acknowledgement by Substack of any fault or liability with regard to the Personal Data Breach.
+*   without undue delay notify the Creator in writing of any Personal Data Breach and keep the Creator informed of related developments. The Creator is solely responsible for complying with any notification obligations applicable to the Creator. The performance of Substack's obligation to report or respond to a Personal Data Breach under this article is not an acknowledgement by Substack of any fault or liability with regard to the Personal Data Breach.
     
 
 **Use of sub-processors**. The Creator agrees that:
 
-* Substack may use sub-processors to provide certain parts of the Services on Substack's behalf. The Creator hereby gives a general written authorization to Substack to engage any sub-processor for the processing of personal data.
+*   Substack may use sub-processors to provide certain parts of the Services on Substack's behalf. The Creator hereby gives a general written authorization to Substack to engage any sub-processor for the processing of personal data.
     
-* any sub-processors that are engaged by Substack for the provision of the Services shall be subject to written sub-processor terms with Substack requiring that the sub-processor abides by terms no less protective than this DPA.
+*   any sub-processors that are engaged by Substack for the provision of the Services shall be subject to written sub-processor terms with Substack requiring that the sub-processor abides by terms no less protective than this DPA.
     
-* Substack currently uses the sub-processors included in Appendix 1 to this DPA. Substack may remove or appoint other suitable and reliable sub-processors at its own discretion in accordance with this article. Substack will give at least 6 weeks prior notice of any changes to the list of sub-processors. The Creator can object to a sub-processor by using its termination rights under the Agreement. If the Creator does not terminate the Agreement within this timeframe, the Creator is deemed to have accepted the respective sub-processor.
+*   Substack currently uses the sub-processors included in Appendix 1 to this DPA. Substack may remove or appoint other suitable and reliable sub-processors at its own discretion in accordance with this article. Substack will give at least 6 weeks prior notice of any changes to the list of sub-processors. The Creator can object to a sub-processor by using its termination rights under the Agreement. If the Creator does not terminate the Agreement within this timeframe, the Creator is deemed to have accepted the respective sub-processor.
     
-* where the sub-processor fails to fulfill its data protection obligations, Substack shall remain similarly liable to the Creator for the performance of its obligations under this DPA.
+*   where the sub-processor fails to fulfill its data protection obligations, Substack shall remain similarly liable to the Creator for the performance of its obligations under this DPA.
     
 
 **Data transfers from the EEA**. The Creator understands and agrees that:
 
-* Substack is based outside of the EEA in the US and that personal data may be transferred to the US or to other countries outside of the EEA provided that the specific conditions for such data transfers in applicable laws have been fulfilled.  
+*   Substack is based outside of the EEA in the US and that personal data may be transferred to the US or to other countries outside of the EEA provided that the specific conditions for such data transfers in applicable laws have been fulfilled.  
     
-* Where applicable data protection laws require appropriate safeguards for a transfer of personal data to a third country, and in case no adequacy decision or any other appropriate data transfer mechanism applies, Substack shall enter into SCCs as further specified in Appendix 3 to this DPA. The Creator hereby expressly authorizes Substack to enter into SCCs (also) on its behalf and commissions Substack to enforce these SCCs on the Creator’s behalf where appropriate.
+*   Where applicable data protection laws require appropriate safeguards for a transfer of personal data to a third country, and in case no adequacy decision or any other appropriate data transfer mechanism applies, Substack shall enter into SCCs as further specified in Appendix 3 to this DPA. The Creator hereby expressly authorizes Substack to enter into SCCs (also) on its behalf and commissions Substack to enforce these SCCs on the Creator’s behalf where appropriate.
     
-* Nothing in this DPA will be construed to prevail over any conflicting clause of any SCCs that have been entered into by Substack and for the prevention of doubt nothing in this DPA varies or modifies the SCCs nor affects any supervisory authority’s or data subject’s rights under the SCCs.
+*   Nothing in this DPA will be construed to prevail over any conflicting clause of any SCCs that have been entered into by Substack and for the prevention of doubt nothing in this DPA varies or modifies the SCCs nor affects any supervisory authority’s or data subject’s rights under the SCCs.
     
 
 **Deletion or return of personal data.** On termination of the Publisher Agreement Substack will cease all processing of the personal data on behalf of the Creator and will as soon as possible delete the personal data or, if reasonably practicable to do so, return the personal data unless Substack is subject to a legal requirement to store the personal data. Substack has no liability or further obligation to the Creator with respect to the deletion of personal data as described in this section.
