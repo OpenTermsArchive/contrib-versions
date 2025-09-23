@@ -10,9 +10,9 @@ _Version 1.8_
 
 These are the BBC’s terms of use. They tell you:
 
-* The rules for using our services
-* What you can do with our content (share it, link to it, that sort of thing)
-* What we can do with things you post or upload.
+*   The rules for using our services
+*   What you can do with our content (share it, link to it, that sort of thing)
+*   What we can do with things you post or upload.
 
 Your rights and responsibilities, basically – important stuff.
 
@@ -36,26 +36,26 @@ That’s media speak for:
 
 Anything digital offered by the BBC. Such as:
 
-* Websites (like [bbc.co.uk](http://www.bbc.co.uk/ "BBC home page"), [BBC News](http://www.bbc.co.uk/news "BBC News"))
-* [BBC iPlayer](http://www.bbc.co.uk/iplayer "BBC iPlayer")
-* Apps (like BBC Sport, BBC News)
-* Podcasts
-* Content available through RSS feeds
-* Red Button
+*   Websites (like [bbc.co.uk](http://www.bbc.co.uk/ "BBC home page"), [BBC News](http://www.bbc.co.uk/news "BBC News"))
+*   [BBC iPlayer](http://www.bbc.co.uk/iplayer "BBC iPlayer")
+*   Apps (like BBC Sport, BBC News)
+*   Podcasts
+*   Content available through RSS feeds
+*   Red Button
 
 ### b. Content
 
 Anything that’s available through those services. Including:
 
-* TV and radio shows
-* Text
-* Audio
-* Video
-* Images
-* Games
-* Software
-* Technical stuff such as metadata and open-source code
-* Anything made by people using our services. User-generated content, that’s called.
+*   TV and radio shows
+*   Text
+*   Audio
+*   Video
+*   Images
+*   Games
+*   Software
+*   Technical stuff such as metadata and open-source code
+*   Anything made by people using our services. User-generated content, that’s called.
 
 4\. When other terms apply
 --------------------------
@@ -75,17 +75,17 @@ Like when you enter a competition. If there are extra terms, we’ll always let
 
 If you’re looking for something child-friendly, here are some good starting points:
 
-* [CBeebies](http://www.bbc.co.uk/cbeebies "CBeebies")
-* [CBeebies Playtime Island](http://www.bbc.co.uk/cbeebies/grownups/article-cbeebies-apps "Cbeebies Playtime Island")
-* [CBeebies iPlayer](http://www.bbc.co.uk/iplayer/cbeebies "CBeebies iPlayer")
-* [CBBC](http://www.bbc.co.uk/cbbc "CBBC")
-* [CBBC iPlayer](http://www.bbc.co.uk/iplayer/cbbc "CBBC iPlayer")
+*   [CBeebies](http://www.bbc.co.uk/cbeebies "CBeebies")
+*   [CBeebies Playtime Island](http://www.bbc.co.uk/cbeebies/grownups/article-cbeebies-apps "Cbeebies Playtime Island")
+*   [CBeebies iPlayer](http://www.bbc.co.uk/iplayer/cbeebies "CBeebies iPlayer")
+*   [CBBC](http://www.bbc.co.uk/cbbc "CBBC")
+*   [CBBC iPlayer](http://www.bbc.co.uk/iplayer/cbbc "CBBC iPlayer")
 
 Ultimately, it’s up to you to decide what’s suitable. But here are some tools that may help:
 
-* To stop children accessing Guidance-labelled content, use the [BBC Parental Guidance Lock](http://www.bbc.co.uk/iplayer/guidance "BBC Parental Guidance Lock").
-* To teach children about staying safe online, try [CBBC Stay Safe](http://www.bbc.co.uk/cbbc/curations/stay-safe "CBBC Stay Safe").
-* For advice on how to keep your children safe online visit [Internet Matters](https://www.internetmatters.org/ "Internet Matters"). On that site is how-to advice to [activate parental controls](http://www.internetmatters.org/parental-controls/interactive-guide/ "Activating Parental Controls around your home") for your devices, gaming consoles, broadband access and entertainment platforms around your home.
+*   To stop children accessing Guidance-labelled content, use the [BBC Parental Guidance Lock](http://www.bbc.co.uk/iplayer/guidance "BBC Parental Guidance Lock").
+*   To teach children about staying safe online, try [CBBC Stay Safe](http://www.bbc.co.uk/cbbc/curations/stay-safe "CBBC Stay Safe").
+*   For advice on how to keep your children safe online visit [Internet Matters](https://www.internetmatters.org/ "Internet Matters"). On that site is how-to advice to [activate parental controls](http://www.internetmatters.org/parental-controls/interactive-guide/ "Activating Parental Controls around your home") for your devices, gaming consoles, broadband access and entertainment platforms around your home.
 
 6\. When you need a TV Licence
 ------------------------------
@@ -109,20 +109,20 @@ These apply to our services and content. One exception is content that’s made 
 
 What do we mean by that? This sort of thing:
 
-* Hacking them
-* Trying to get around our content security technology (software that stops people copying our content)
-* Accessing content from outside the UK that you aren’t allowed to, or helping others do the same. For example: using a VPN service so you can watch BBC iPlayer when you're outside the UK
-* Refusing to remove content, games or apps from your device when we ask you to. This might happen when we take down services. Which we can do at any time, without notice.
+*   Hacking them
+*   Trying to get around our content security technology (software that stops people copying our content)
+*   Accessing content from outside the UK that you aren’t allowed to, or helping others do the same. For example: using a VPN service so you can watch BBC iPlayer when you're outside the UK
+*   Refusing to remove content, games or apps from your device when we ask you to. This might happen when we take down services. Which we can do at any time, without notice.
 
 ### b. Don’t harm or offend other people...
 
 ...while using our services or content. That means:
 
-* Don’t damage our reputation by associating us with sexism or racism, for instance
-* Don’t get us sued – by defaming (damaging the reputation of) someone, say, or commenting on an active lawsuit
-* Don’t harass or upset people
-* Don’t post or upload anything offensive or obscene
-* If you disagree with someone, attack the argument, not the person.
+*   Don’t damage our reputation by associating us with sexism or racism, for instance
+*   Don’t get us sued – by defaming (damaging the reputation of) someone, say, or commenting on an active lawsuit
+*   Don’t harass or upset people
+*   Don’t post or upload anything offensive or obscene
+*   If you disagree with someone, attack the argument, not the person.
 
 ### c. Play it safe
 
@@ -130,18 +130,18 @@ Be aware of your surroundings especially when you’re using our services or con
 
 Don’t use our 360° and virtual reality apps if you:
 
-* Are pregnant
-* Have consumed anything that may affect your balance
-* Have (or have had) a medical condition, like binocular vision abnormalities, psychiatric disorders, seizures or a heart problem.
+*   Are pregnant
+*   Have consumed anything that may affect your balance
+*   Have (or have had) a medical condition, like binocular vision abnormalities, psychiatric disorders, seizures or a heart problem.
 
 Make sure you’re in a safe place, preferably seated.
 
 Stop immediately if you feel:
 
-* Sick
-* Eye strain
-* Dizziness
-* Any discomfort.
+*   Sick
+*   Eye strain
+*   Dizziness
+*   Any discomfort.
 
 Don’t take part in any activities where you need to focus straight after, or if you feel slightly dazed or confused.
 
@@ -149,11 +149,11 @@ Don’t take part in any activities where you need to focus straight after, or i
 
 Except at fancy dress parties. That includes:
 
-* Recreating a service or copying the look of a service
-* Using our brands, trade marks or logos without our permission
-* Using or mentioning our content in press releases and other marketing bumph
-* Making money from our content or services. You can’t charge people to watch our shows, for example
-* Sharing our content. Apart from [shareables](#9shareableswhattheyare "Shareables").
+*   Recreating a service or copying the look of a service
+*   Using our brands, trade marks or logos without our permission
+*   Using or mentioning our content in press releases and other marketing bumph
+*   Making money from our content or services. You can’t charge people to watch our shows, for example
+*   Sharing our content. Apart from [shareables](#9shareableswhattheyare "Shareables").
 
 8\. Using BBC content
 ---------------------
@@ -162,14 +162,14 @@ Except at fancy dress parties. That includes:
 
 To use any of the following things…
 
-* Whole shows
-* Clips
-* Photos
-* Content from bbc.co.uk
-* Our logo and other branding
-* Metadata
-* Anything plucked from our services to develop or train artificial intelligence or to do computer analysis
-* Anything else that’s protected by copyright.
+*   Whole shows
+*   Clips
+*   Photos
+*   Content from bbc.co.uk
+*   Our logo and other branding
+*   Metadata
+*   Anything plucked from our services to develop or train artificial intelligence or to do computer analysis
+*   Anything else that’s protected by copyright.
 
 …you’ll need to get permission.
 
@@ -183,13 +183,13 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 
 ### b. When you already have permission 
 
-* If you’re at a school, college or university that’s got an Educational Recording Agency licence.
-* Read about the [Educational Recording Agency licence here](http://www.era.org.uk/the-licence).
-* Read about other [copyright exceptions here](https://www.bbc.co.uk/copyrightaware/exceptions/).
-* For shareables. The [rules about shareables are here](#9shareableswhattheyare).
-* For [open-source code](http://www.bbc.co.uk/opensource/) and open data.
-* To [download podcasts](http://www.bbc.co.uk/podcasts) for personal use using our download button. You can download podcasts for personal use. You can also transfer podcasts between your devices. But don’t upload a podcast back to the internet from your device. Use the sharing buttons instead to tell your friends about it.
-* To download [BBC iPlayer programmes](http://www.bbc.co.uk/iplayer) using our download button.
+*   If you’re at a school, college or university that’s got an Educational Recording Agency licence.
+*   Read about the [Educational Recording Agency licence here](http://www.era.org.uk/the-licence).
+*   Read about other [copyright exceptions here](https://www.bbc.co.uk/copyrightaware/exceptions/).
+*   For shareables. The [rules about shareables are here](#9shareableswhattheyare).
+*   For [open-source code](http://www.bbc.co.uk/opensource/) and open data.
+*   To [download podcasts](http://www.bbc.co.uk/podcasts) for personal use using our download button. You can download podcasts for personal use. You can also transfer podcasts between your devices. But don’t upload a podcast back to the internet from your device. Use the sharing buttons instead to tell your friends about it.
+*   To download [BBC iPlayer programmes](http://www.bbc.co.uk/iplayer) using our download button.
 
 ### c. How to get permission
 
@@ -206,9 +206,9 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 
 Content that’s shareable will have one or more of these buttons next to it:
 
-* Share
-* Embed
-* Social media buttons for posting to Facebook, Twitter and so on.
+*   Share
+*   Embed
+*   Social media buttons for posting to Facebook, Twitter and so on.
 
 We don’t always own the copyright for shareables. Sometimes we have to get a licence or permission from the people who made it.
 
@@ -244,11 +244,11 @@ Different rules apply for using iPlayer. [Read about them here](#24bbciplayer "B
 
 Here’s a list of things that may harm or offend:
 
-* Insulting, misleading, discriminating or defaming (damaging people’s reputations)
-* Promoting pornography, tobacco or weapons
-* Putting children at risk
-* Anything illegal. Like using hate speech, inciting terrorism or breaking privacy law
-* Anything that would harm the BBC’s reputation.
+*   Insulting, misleading, discriminating or defaming (damaging people’s reputations)
+*   Promoting pornography, tobacco or weapons
+*   Putting children at risk
+*   Anything illegal. Like using hate speech, inciting terrorism or breaking privacy law
+*   Anything that would harm the BBC’s reputation.
 
 ### b. Don’t make it look like they cost money
 
@@ -274,11 +274,11 @@ And you can’t say you have exclusive access to our content.
 
 That means you can’t:
 
-* Put any other content between the link to the shareable and the shareable itself. So no ads or short videos people have to sit through
-* Put ads next to or over them
-* Put any ads in a web page or app that contain mostly shareables
-* Put ads related to their subject alongside shareables. So no trainer ads with a shareable about shoes
-* Add extra content that means you’d earn money from them.
+*   Put any other content between the link to the shareable and the shareable itself. So no ads or short videos people have to sit through
+*   Put ads next to or over them
+*   Put any ads in a web page or app that contain mostly shareables
+*   Put ads related to their subject alongside shareables. So no trainer ads with a shareable about shoes
+*   Add extra content that means you’d earn money from them.
 
 ### f. Don’t be misleading about where they came from
 
@@ -287,16 +287,16 @@ You can’t remove or alter the copyright notice, or imply that someone else mad
 12\. Shareables - what you have to do
 -------------------------------------
 
-* Use the latest version and, where we have it, don’t remove any tagging or tracking.
-* Make sure it’s displayed accurately.
-* Add a credit (if it doesn’t already have one).
+*   Use the latest version and, where we have it, don’t remove any tagging or tracking.
+*   Make sure it’s displayed accurately.
+*   Add a credit (if it doesn’t already have one).
 
 Most come with credits included. If not, put one of these in a prominent place nearby to show where you got the shareable from:
 
-* Source – [BBC News](http://www.bbc.co.uk/news)
-* [bbc.com/news](http://www.bbc.com/news)
-* [BBC Sport](http://www.bbc.co.uk/sport)
-* [bbc.co.uk](http://www.bbc.co.uk/) – © copyright \[the year goes here\] BBC
+*   Source – [BBC News](http://www.bbc.co.uk/news)
+*   [bbc.com/news](http://www.bbc.com/news)
+*   [BBC Sport](http://www.bbc.co.uk/sport)
+*   [bbc.co.uk](http://www.bbc.co.uk/) – © copyright \[the year goes here\] BBC
 
 If possible, add a hyperlink to the shareable’s original location. Make sure it works, and don’t put anything between the credit and the link.
 
@@ -323,9 +323,9 @@ You’re not allowed to pluck metadata from our content or RSS feeds.
 
 You can add the BBC News RSS feed to your website or social media account. Provided:
 
-* You don't change the RSS feed or remove any of our branding or logos
-* You credit us by saying it's from [BBC News](http://www.bbc.co.uk/news "BBC News"), [bbc.co.uk/news](http://www.bbc.co.uk/news "BBC News") or [bbc.com/news](http://www.bbc.com/news "BBC News") putting the text and hyperlink in a prominent place nearby
-* You don't add our branding, logos and so on, except for any branding that's already embedded in the RSS feed.
+*   You don't change the RSS feed or remove any of our branding or logos
+*   You credit us by saying it's from [BBC News](http://www.bbc.co.uk/news "BBC News"), [bbc.co.uk/news](http://www.bbc.co.uk/news "BBC News") or [bbc.com/news](http://www.bbc.com/news "BBC News") putting the text and hyperlink in a prominent place nearby
+*   You don't add our branding, logos and so on, except for any branding that's already embedded in the RSS feed.
 
 [Read about how to set up a BBC News RSS feed here](https://www.bbc.co.uk/news/10628494 "Set up a BBC News feed").
 
@@ -340,9 +340,9 @@ For [business use of our RSS feeds](http://www.bbc.co.uk/usingthebbc/terms/can-
 
 This part is about when you create your own content by:
 
-* Uploading something of yours to one of our services – like uploading to comment boards and forums
-* Uploading your clip or photo of a breaking story to BBC News
-* Using a service to make something and then uploading it to the BBC.
+*   Uploading something of yours to one of our services – like uploading to comment boards and forums
+*   Uploading your clip or photo of a breaking story to BBC News
+*   Using a service to make something and then uploading it to the BBC.
 
 We call these somethings “creations”.
 
@@ -381,8 +381,8 @@ We usually show your name alongside your creation. We’ll try to remove it if y
 
 When you upload a creation, you give up your moral rights to it. That means we can:
 
-* Use your creation without identifying you as the creator
-* Edit or change your creation and you won’t be able to say we’ve treated it in a “derogatory” way.
+*   Use your creation without identifying you as the creator
+*   Edit or change your creation and you won’t be able to say we’ve treated it in a “derogatory” way.
 
 [Read more about moral rights here](https://www.gov.uk/guidance/the-rights-granted-by-copyright "Intellectual property - guidance. The rights granted by copyright").
 
@@ -440,8 +440,8 @@ Some of our services feature tools for playing around with our content, writing 
 
 These might:
 
-* Put your creations on display to inspire other people,
-* Invite others to use your creation to make their own creation. 
+*   Put your creations on display to inspire other people,
+*   Invite others to use your creation to make their own creation. 
 
 ### d. Share it to do research
 
@@ -453,9 +453,9 @@ Which means we can review, edit, remove or decide not to display it. And, if it 
 
 ### f. And we can use it
 
-* Anywhere in the world
-* In any medium (for example TV, the internet, radio, social media and apps)
-* For as long as we want – even if you stop using our services.
+*   Anywhere in the world
+*   In any medium (for example TV, the internet, radio, social media and apps)
+*   For as long as we want – even if you stop using our services.
 
 And anyone we work with can do those things too.
 
@@ -511,12 +511,12 @@ Get your [BBC account here](https://ssl.bbc.co.uk/id/register "Register for a BB
 
 To keep your account safe, don’t:
 
-* Tell anyone your username or password
-* Give us false information
-* Try to log in as someone else
-* Try to bypass our security measures
-* Create more than one account
-* Create an account for someone else, except for your child.
+*   Tell anyone your username or password
+*   Give us false information
+*   Try to log in as someone else
+*   Try to bypass our security measures
+*   Create more than one account
+*   Create an account for someone else, except for your child.
 
 And be sure to keep your details up-to-date.
 
@@ -524,8 +524,8 @@ And be sure to keep your details up-to-date.
 
 The data you send us when you register, fill in web forms or use our services helps us to:
 
-* Provide you with services, recommendations, notifications and other features
-* Improve our existing services and come up with new ones.
+*   Provide you with services, recommendations, notifications and other features
+*   Improve our existing services and come up with new ones.
 
 [Read more on how we use your personal data in our privacy and cookies policy.](https://www.bbc.co.uk/usingthebbc/privacy/ "Your Information and Privacy")
 
@@ -554,12 +554,12 @@ c. If you’re an individual “consumer” and it would be unfair for us to not
 
 Otherwise, we’re not liable for anything that happens if:
 
-* You rely on advice, data, commentary, opinions or any other content
-* There are errors, omissions, interruptions, delays, bugs or viruses
-* We turn off or remove content, services, external links or creations (we’d normally only do this when we moderate, for legal reasons, or if we’re improving a service)
-* The thing that happens couldn’t reasonably have been foreseen
-* The thing that happens wouldn’t usually result from the mishap
-* You and we hadn’t agreed that this thing would probably happen in the event of a mishap.
+*   You rely on advice, data, commentary, opinions or any other content
+*   There are errors, omissions, interruptions, delays, bugs or viruses
+*   We turn off or remove content, services, external links or creations (we’d normally only do this when we moderate, for legal reasons, or if we’re improving a service)
+*   The thing that happens couldn’t reasonably have been foreseen
+*   The thing that happens wouldn’t usually result from the mishap
+*   You and we hadn’t agreed that this thing would probably happen in the event of a mishap.
 
 This applies to sites we link to as well as our content and services.
 
@@ -585,18 +585,18 @@ d. External sites usually have their own terms of use.
 
 ### a. The rules for personal use
 
-* iPlayer programmes are only available for a certain period of time, after which they’re automatically deleted. Don’t try to use technical trickery to get around this. [Read more about iPlayer’s use-by dates here.](https://www.bbc.co.uk/iplayer/help/questions/programme-availability/availability "How long are programmes available for?")
-* Don’t stream or download iPlayer TV shows when you’re outside the UK. Radio shows are usually fine, though. [Read more about using iPlayer outside the UK here](https://www.bbc.co.uk/iplayer/help/questions/watching-outside-the-uk/outside-uk "Can I use BBC iPlayer when I'm outside of the UK?").
-* Don’t use iPlayer to make money. That means no ads or sponsorship, and no charging people to watch it.
-* You need a TV Licence to download or watch BBC programmes on iPlayer. Find out more at [www.tvlicensing.co.uk](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/bbc-iplayer-and-the-tv-licence).
+*   iPlayer programmes are only available for a certain period of time, after which they’re automatically deleted. Don’t try to use technical trickery to get around this. [Read more about iPlayer’s use-by dates here.](https://www.bbc.co.uk/iplayer/help/questions/programme-availability/availability "How long are programmes available for?")
+*   Don’t stream or download iPlayer TV shows when you’re outside the UK. Radio shows are usually fine, though. [Read more about using iPlayer outside the UK here](https://www.bbc.co.uk/iplayer/help/questions/watching-outside-the-uk/outside-uk "Can I use BBC iPlayer when I'm outside of the UK?").
+*   Don’t use iPlayer to make money. That means no ads or sponsorship, and no charging people to watch it.
+*   You need a TV Licence to download or watch BBC programmes on iPlayer. Find out more at [www.tvlicensing.co.uk](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/bbc-iplayer-and-the-tv-licence).
 
 ### b. The rules for business
 
 You can offer access to iPlayer on your premises for watching or downloading BBC programmes. But:
 
-* You’ll need a TV Licence. For more on that, visit [tvlicensing.co.uk](http://www.tvlicensing.co.uk/check-if-you-need-one/business-and-organisations).
-* Using iPlayer to play a whole show or a clip to an audience is a different story. [Find out more about playing iPlayer to an audience here](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/).
-* You’re not allowed to charge people to use iPlayer.
+*   You’ll need a TV Licence. For more on that, visit [tvlicensing.co.uk](http://www.tvlicensing.co.uk/check-if-you-need-one/business-and-organisations).
+*   Using iPlayer to play a whole show or a clip to an audience is a different story. [Find out more about playing iPlayer to an audience here](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/).
+*   You’re not allowed to charge people to use iPlayer.
 
 25\. Final stuff
 ----------------
@@ -605,14 +605,14 @@ A quick recap, a few extra legal bits and we’re done:
 
 a. If you use a service on behalf of a business, that business agrees to these terms. So your business has to stick to these terms if you use a service...
 
-* substantially to do your job – as an employee, contractor or consultant
-* for commercial purposes – to make a profit or
-* for educational, non-profit, charitable or government uses.
+*   substantially to do your job – as an employee, contractor or consultant
+*   for commercial purposes – to make a profit or
+*   for educational, non-profit, charitable or government uses.
 
 b. As we said earlier, read these terms before using our services. When you use our services and content, you’re agreeing to:
 
-* These terms of use
-* Any other terms we’ve let you know about.
+*   These terms of use
+*   Any other terms we’ve let you know about.
 
 And those things replace all previous agreements between you and us about using our services or content.
 
