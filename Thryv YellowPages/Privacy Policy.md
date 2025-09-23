@@ -80,16 +80,16 @@ Personal Information We Collect
 
 As a business (or controller) we may collect the following categories and types of “**Personal Information**”:
 
-* **Contact information:** your first and last name, alias or username, mailing address, email address, and phone number;
-* **Other identifying information:** internet protocol (IP) address, unique personal identifiers, online identifiers, social media usernames, passwords and other security information for authentication and access, physical characteristics or description;
-* **Sensitive Personal Information:** government issued identification numbers (e.g., social security, insurance policy, driver’s license, state identification, passport, or similar identifiers); precise geolocation when you use the IYP mobile application to find businesses near you; message or email content (and associated metadata) when you choose to link certain third-party messaging or email services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you interact with these services on This Website or in connection with the Services;
-* **Financial Information:** credit card number, debit card number, bank account information and other financial information;
-* **Demographic information:** gender, age, employment information and salary information;
-* **Geolocation data;**
-* **Internet or other electronic activity:** device data and usage information, referral source, your browsing, search and click history, including information about how you navigate within This Website and the Services and which elements of This Website and the Services you use the most, and ratings and reviews or other content you post on This Website or to the Services;
-* **Commercial information:** products or services purchased or viewed on This Website or through the Services;
-* **Audio and visual information:** your videos and photos (and associated metadata), such as audiovisual content you upload to your user profile and other audio or video recordings initiated by us; and
-* **Inferences drawn from the categories described above** in order to create a profile about you to reflect your preferences, characteristics, behavior and attitude.
+*   **Contact information:** your first and last name, alias or username, mailing address, email address, and phone number;
+*   **Other identifying information:** internet protocol (IP) address, unique personal identifiers, online identifiers, social media usernames, passwords and other security information for authentication and access, physical characteristics or description;
+*   **Sensitive Personal Information:** government issued identification numbers (e.g., social security, insurance policy, driver’s license, state identification, passport, or similar identifiers); precise geolocation when you use the IYP mobile application to find businesses near you; message or email content (and associated metadata) when you choose to link certain third-party messaging or email services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you interact with these services on This Website or in connection with the Services;
+*   **Financial Information:** credit card number, debit card number, bank account information and other financial information;
+*   **Demographic information:** gender, age, employment information and salary information;
+*   **Geolocation data;**
+*   **Internet or other electronic activity:** device data and usage information, referral source, your browsing, search and click history, including information about how you navigate within This Website and the Services and which elements of This Website and the Services you use the most, and ratings and reviews or other content you post on This Website or to the Services;
+*   **Commercial information:** products or services purchased or viewed on This Website or through the Services;
+*   **Audio and visual information:** your videos and photos (and associated metadata), such as audiovisual content you upload to your user profile and other audio or video recordings initiated by us; and
+*   **Inferences drawn from the categories described above** in order to create a profile about you to reflect your preferences, characteristics, behavior and attitude.
 
 **Our Clients may load additional information into our Services.** In particular, they may add Sensitive Information about their customers,’ employees’ or others’ race, ethnic identity, financial information, medical and health information or health insurance information, government ID (including tax ID or social security number), photographs or other visual information, including metadata, geolocation information, criminal record information or other details. Other Third Parties – like our Partners – may also interact with our Services and enter data on your or our Client’s behalf. **Thryv does not control this information, and are contractually limited to acting as a Service Provider (or Processor, or similar terms under Applicable Laws) over this data. If you have questions about whether our Clients, Partners, or other Third Parties have included any of this information about you, or you wish you exercise your rights over this information, please contact them directly.**
 
@@ -103,17 +103,17 @@ Sources of Collection
 
 We obtain the categories of Personal Information listed above from the following categories of sources:
 
-* **We collect information directly from you.** We collect contact information, demographic information, sensitive Personal Information, audio and visual information, and financial information directly from you. For example, from forms you complete to register for a user account or create a user profile on This Website, when otherwise using the Services, or to provide feedback or suggestions about This Website or the Services. We also collect records of products or services you consider for purchase when you search for businesses on This Website or through the Services, ask questions in our Q&A section or request quotes or contacts from businesses who advertise with us. We may also collect your Personal Information when you enter competitions, complete surveys, download an e-book, subscribe to certain Services or newsletters, provide feedback, reviews or testimonials, or participate in any brand advisor or other partner program.
-* We collect information from you indirectly or passively.
-    * We collect other identifying information, geolocation data, and internet and other electronic activity from you passively from you or your computers, devices or internet browsers. For example, This Website uses “cookies” on your browser that enable us to track your interactions with This Website, the Services and Ads, and our Apps may collect geolocation from your mobile device if you search for a business “near” your current location. This activity is further described in the Cookies and Advertising and Online Tracking sections below.
-    * We collect contact information and sensitive Personal Information from you if you choose to link certain third-party email or messaging services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you otherwise interact with these services on This Website or in connection with the Services. More information about what data may be shared when you choose to link your User Account will be available at the time of selection (e.g., by clicking the “Data and Permissions” tab when selecting an app in the Thryv app marketplace).
-* We collect information about you from third parties.
-    * We collect contact information and other identifying information from telephone carriers and providers. For instance, we collect caller ID information from incoming calls to our call tracking numbers, and we receive consumer information for the purpose of publishing White Pages residential telephone directories in certain geographic areas.
-    * We collect contact information from your contacts. For example, if another user chooses to use an available referral or share feature on This Website or through the Services (e.g., to send a postcard, listing, page link, contest invitation, etc. to you), we may collect certain Personal Information about you as the recipient of the shared information (e.g., name, address, e-mail address, mobile telephone number). We only use this method of collection if permitted by laws in your jurisdiction.
-    * We collect contact information and other identifying information from Social Networking Services. For example if you use Facebook or Google to sign-in to your account on This Website or to the Services, we collect such information about you that you permit the Social Networking Service to share with us.
-    * We collect contact information, other identifying information, commercial information, geolocation data, and internet and electronic activity from Service Providers that collect certain Personal Information from or about you on our behalf, such as analytics software or platforms that we use to measure and analyze traffic to This Website, the Services or interaction with our Ads. For example, our Service Providers capture certain usage data to provide and analyze a “session replay” of your activities on This Website, which allows us to optimize This Website and the Services. The session replay may record, for example, clicks, mouse movements, scrolling, typing, navigation through This Website and the technical specifications of your device.
-    * We collect contact information, other identifying information, demographic information, and commercial information from third party data suppliers. Thryv collects Personal Information such as your name and contact details from third party data suppliers. If your Personal Information was provided to us by a data supplier, we will have sought their confirmation that they are authorized under privacy laws to provide us with your Personal Information for the purposes described below. We may also collect business contact information from other third parties, including our partners in our various partner programs. This may include mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol addresses, social media profiles, LinkedIn URLs and custom profiles for the purposes described below.
-    * We collect the Personal Information of our client’s customers. We may collect contact information, sensitive Personal Information, demographic information, financial information and other Personal Information from businesses you interact with who use our products and services. For example, our clients may upload and store your Personal Information within our customer management products. We may only access or use this Personal Information in limited circumstances—in our capacity as a service provider to our clients.
+*   **We collect information directly from you.** We collect contact information, demographic information, sensitive Personal Information, audio and visual information, and financial information directly from you. For example, from forms you complete to register for a user account or create a user profile on This Website, when otherwise using the Services, or to provide feedback or suggestions about This Website or the Services. We also collect records of products or services you consider for purchase when you search for businesses on This Website or through the Services, ask questions in our Q&A section or request quotes or contacts from businesses who advertise with us. We may also collect your Personal Information when you enter competitions, complete surveys, download an e-book, subscribe to certain Services or newsletters, provide feedback, reviews or testimonials, or participate in any brand advisor or other partner program.
+*   We collect information from you indirectly or passively.
+    *   We collect other identifying information, geolocation data, and internet and other electronic activity from you passively from you or your computers, devices or internet browsers. For example, This Website uses “cookies” on your browser that enable us to track your interactions with This Website, the Services and Ads, and our Apps may collect geolocation from your mobile device if you search for a business “near” your current location. This activity is further described in the Cookies and Advertising and Online Tracking sections below.
+    *   We collect contact information and sensitive Personal Information from you if you choose to link certain third-party email or messaging services (e.g., WhatsApp or Gmail) to your User Account/Profile or when you otherwise interact with these services on This Website or in connection with the Services. More information about what data may be shared when you choose to link your User Account will be available at the time of selection (e.g., by clicking the “Data and Permissions” tab when selecting an app in the Thryv app marketplace).
+*   We collect information about you from third parties.
+    *   We collect contact information and other identifying information from telephone carriers and providers. For instance, we collect caller ID information from incoming calls to our call tracking numbers, and we receive consumer information for the purpose of publishing White Pages residential telephone directories in certain geographic areas.
+    *   We collect contact information from your contacts. For example, if another user chooses to use an available referral or share feature on This Website or through the Services (e.g., to send a postcard, listing, page link, contest invitation, etc. to you), we may collect certain Personal Information about you as the recipient of the shared information (e.g., name, address, e-mail address, mobile telephone number). We only use this method of collection if permitted by laws in your jurisdiction.
+    *   We collect contact information and other identifying information from Social Networking Services. For example if you use Facebook or Google to sign-in to your account on This Website or to the Services, we collect such information about you that you permit the Social Networking Service to share with us.
+    *   We collect contact information, other identifying information, commercial information, geolocation data, and internet and electronic activity from Service Providers that collect certain Personal Information from or about you on our behalf, such as analytics software or platforms that we use to measure and analyze traffic to This Website, the Services or interaction with our Ads. For example, our Service Providers capture certain usage data to provide and analyze a “session replay” of your activities on This Website, which allows us to optimize This Website and the Services. The session replay may record, for example, clicks, mouse movements, scrolling, typing, navigation through This Website and the technical specifications of your device.
+    *   We collect contact information, other identifying information, demographic information, and commercial information from third party data suppliers. Thryv collects Personal Information such as your name and contact details from third party data suppliers. If your Personal Information was provided to us by a data supplier, we will have sought their confirmation that they are authorized under privacy laws to provide us with your Personal Information for the purposes described below. We may also collect business contact information from other third parties, including our partners in our various partner programs. This may include mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol addresses, social media profiles, LinkedIn URLs and custom profiles for the purposes described below.
+    *   We collect the Personal Information of our client’s customers. We may collect contact information, sensitive Personal Information, demographic information, financial information and other Personal Information from businesses you interact with who use our products and services. For example, our clients may upload and store your Personal Information within our customer management products. We may only access or use this Personal Information in limited circumstances—in our capacity as a service provider to our clients.
 
 Purpose of Collection and How We Use Personal Information
 
@@ -121,51 +121,51 @@ We use your Personal Information for the following categories of use:
 
 **Transactional Purposes:** We use your contact information, other identifying information, demographic information, sensitive Personal Information, financial information, and commercial information to:
 
-* Fulfill or meet the reason you provided the information. For example, if you share your name and contact information to request a quote from a business, we will use that Personal Information to facilitate communication between you and the business regarding the quote;
-* We may use your demographic information for the sole transactional purpose of delivering physical yellow pages books;
-* Create and update your User Account/Profile;
-* Receive, process, confirm, or communicate with you regarding your request, order, inquiry or registration;
-* To create, maintain, support, and secure your User Account/Profile on This Website or in connection with the Services;
-* To manage and process payments including facilitating payment card transactions initiated directly with us or through a third-party payment processor and related authentication, security and fraud prevention activities;
-* Auditing and reviewing compliance with applicable usage terms, policies, laws, rules, and regulations;
-* Registering office visitors
-* To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Consumer Personal Information held by us is among the assets transferred.
+*   Fulfill or meet the reason you provided the information. For example, if you share your name and contact information to request a quote from a business, we will use that Personal Information to facilitate communication between you and the business regarding the quote;
+*   We may use your demographic information for the sole transactional purpose of delivering physical yellow pages books;
+*   Create and update your User Account/Profile;
+*   Receive, process, confirm, or communicate with you regarding your request, order, inquiry or registration;
+*   To create, maintain, support, and secure your User Account/Profile on This Website or in connection with the Services;
+*   To manage and process payments including facilitating payment card transactions initiated directly with us or through a third-party payment processor and related authentication, security and fraud prevention activities;
+*   Auditing and reviewing compliance with applicable usage terms, policies, laws, rules, and regulations;
+*   Registering office visitors
+*   To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Consumer Personal Information held by us is among the assets transferred.
 
 **Analytical Purposes:** We use your other identifying information, internet activity and browsing history, commercial information, demographic information, and geolocation data to analyze preferences, trends and statistics and direct you to the jurisdiction-specific website based on your location.
 
 **Marketing and Promotional Purposes:** We use your contact information, commercial information, demographic information, internet or other electronic activity, geolocation data, and inferences to:
 
-* Inform you of our new products, services and offers;
-* Provide you with targeted advertising;
-* Run contests, promotions and sweepstakes;
-* Provide you with other information from and about Thryv, including personalized marketing communications;
-* Help us measure and understand site metrics, such as website traffic and its sources and conversions in order to gauge the effectiveness of online advertising;
-* Personalize your experience and to deliver you content and offers relevant to your interests, including targeted offers and ads through This Website, on third-party sites, and via email and text message (each with your prior express consent, where required by law), in-app push notifications, or other similar means; and
-* Provide you with communications or notices regarding Website and Services operations, our products or services, or happenings that may be of interest to you.
-* Communicate with you regarding your participation in any brand advisor or partner program, as well as to track performance or pay relevant commission.
-* Where required by law, we seek your consent to receive marketing materials from us, and always offer you an option to unsubscribe from our marketing.
+*   Inform you of our new products, services and offers;
+*   Provide you with targeted advertising;
+*   Run contests, promotions and sweepstakes;
+*   Provide you with other information from and about Thryv, including personalized marketing communications;
+*   Help us measure and understand site metrics, such as website traffic and its sources and conversions in order to gauge the effectiveness of online advertising;
+*   Personalize your experience and to deliver you content and offers relevant to your interests, including targeted offers and ads through This Website, on third-party sites, and via email and text message (each with your prior express consent, where required by law), in-app push notifications, or other similar means; and
+*   Provide you with communications or notices regarding Website and Services operations, our products or services, or happenings that may be of interest to you.
+*   Communicate with you regarding your participation in any brand advisor or partner program, as well as to track performance or pay relevant commission.
+*   Where required by law, we seek your consent to receive marketing materials from us, and always offer you an option to unsubscribe from our marketing.
 
 **Maintenance and Improvement of This Website and the Services:** We use your contact information, commercial information, audiovisual information, and internet activity and browsing history to:
 
-* Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
-* Handle your customer services requests;
-* Help us diagnose technical and service problems and administer This Website and the Services;
-* Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
-* Help us to better understand the functionality of our mobile applications on your phone;
-* To provide support, personalize and develop this Website or the Services;
-* For feature testing, research, analysis, evaluation and product development, including to develop and improve this Website and the Services;
-* To provide you with support and to respond to your feedback, suggestions, and inquiries, including to investigate complaints and address your concerns about content that violates our policies, or to improve content quality and accuracy, as well as to monitor and improve our responses.
+*   Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
+*   Handle your customer services requests;
+*   Help us diagnose technical and service problems and administer This Website and the Services;
+*   Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
+*   Help us to better understand the functionality of our mobile applications on your phone;
+*   To provide support, personalize and develop this Website or the Services;
+*   For feature testing, research, analysis, evaluation and product development, including to develop and improve this Website and the Services;
+*   To provide you with support and to respond to your feedback, suggestions, and inquiries, including to investigate complaints and address your concerns about content that violates our policies, or to improve content quality and accuracy, as well as to monitor and improve our responses.
 
 **Review and content creation purposes:** We use your contact information, commercial information, and audio and visual information to enable reviews of and testimonials about our products and to display content that you have created and allowed us to display on this Website and the Services and on social media.
 
 **Security and Fraud Prevention:** We use your contact information, other identifying information, commercial information, financial information, sensitive Personal Information, geolocation data, audiovisual information, internet activity and browsing history, and inferences to:
 
-* Protect this Website, the Services, databases and other technology assets;
-* Protect Thryv and our business;
-* Minimize or prevent fraudulent or bot traffic;
-* Detect and prevent malicious, deceptive, fraudulent or illegal activity on this Website or the Services;
-* Protect the rights, security, and safety of Thryv personnel and users of this Website and the Services; and
-* Respond to law enforcement requests and as required by applicable law, court order, or governmental regulations, or in order to comply with applicable laws, rules and regulations, such as the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property law.
+*   Protect this Website, the Services, databases and other technology assets;
+*   Protect Thryv and our business;
+*   Minimize or prevent fraudulent or bot traffic;
+*   Detect and prevent malicious, deceptive, fraudulent or illegal activity on this Website or the Services;
+*   Protect the rights, security, and safety of Thryv personnel and users of this Website and the Services; and
+*   Respond to law enforcement requests and as required by applicable law, court order, or governmental regulations, or in order to comply with applicable laws, rules and regulations, such as the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property law.
 
 We may collect additional Personal Information for other reasonable purposes not stated in this policy. For example, you sign up for a specific Thryv Solution. If necessary, at the time of collection we will provide you with the relevant details and, if required by law, seek your consent.
 
@@ -301,10 +301,10 @@ If you are a resident of California, or jurisdictions with similar laws (e.g., C
 
 These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. These rights may be offered based on your location. We will let you know when or if a right does not apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
 
-1. **Access:** to learn the categories and specific pieces of information we collect, use, disclose and sell; for those in California, the categories of sources of collection, the third parties to whom the information is disclosed or sold, and the business purpose for such collection or disclosure; for those in Oregon, a list of specific third parties (as defined under Oregon law), to whom we have disclosed Personal Information;
-2. **Portability:** a copy of (e.g., Virginia, Montana) or specific pieces of (e.g., California) Personal Information collected;
-3. **Deletion:** to have us delete information we collected from you; and
-4. **Correction:** asking us to fix your information.
+1.  **Access:** to learn the categories and specific pieces of information we collect, use, disclose and sell; for those in California, the categories of sources of collection, the third parties to whom the information is disclosed or sold, and the business purpose for such collection or disclosure; for those in Oregon, a list of specific third parties (as defined under Oregon law), to whom we have disclosed Personal Information;
+2.  **Portability:** a copy of (e.g., Virginia, Montana) or specific pieces of (e.g., California) Personal Information collected;
+3.  **Deletion:** to have us delete information we collected from you; and
+4.  **Correction:** asking us to fix your information.
 
 We will also maintain a record of your rights requests.
 
@@ -314,21 +314,21 @@ Please note that if we delete your Personal Information, some of our services wi
 
 To exercise your rights, submit a verifiable consumer request to us by either:
 
-* Calling us toll-free at **1-877-380-1838**.
-* Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
+*   Calling us toll-free at **1-877-380-1838**.
+*   Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
 
 Your verifiable consumer request must:
 
-* Provide sufficient identifying information (including full name, postal address, and email address) to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such request on behalf of the data subject, and
-* Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+*   Provide sufficient identifying information (including full name, postal address, and email address) to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such request on behalf of the data subject, and
+*   Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
 Note that we will only use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request or to review and comply with the request.
 
 You may authorize someone to act as your agent and submit a request on your behalf. Due to the sensitivity of such requests, you must verify the agent’s authorization before we will act. Accordingly:
 
-* You or your agent must supply proof that the agent is registered with the Secretary of State to act on your behalf; or
-* You or your agent must supply other written permission for a specific agent to act on your behalf; and
-* We will use your email address to connect directly with you to verify agent identity and authority.
+*   You or your agent must supply proof that the agent is registered with the Secretary of State to act on your behalf; or
+*   You or your agent must supply other written permission for a specific agent to act on your behalf; and
+*   We will use your email address to connect directly with you to verify agent identity and authority.
 
 We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm with a level of confidence appropriate to the sensitivity of the information that the Personal Information we have collected and retained in our systems and databases relates to you.
 
@@ -346,11 +346,11 @@ Currently, we participate in digital advertising networks to deliver advertising
 
 We may “sell” and/or “share” the following categories of Personal Information:
 
-* Contact Information
-* Online Identifiers;
-* Geolocation information;
-* Internet/electronic activity;
-* Commercial information.
+*   Contact Information
+*   Online Identifiers;
+*   Geolocation information;
+*   Internet/electronic activity;
+*   Commercial information.
 
 You can opt-out of being tracked by or otherwise having your Personal Information disclosed to these third parties by clicking the “DO NOT SELL OR SHARE MY PERSONAL INFORMATION” link (the “DNS Link”) at the bottom of our Website, or in the menu of the mobile application you are using, and selecting your preferences.
 
@@ -438,19 +438,19 @@ In order to comply with our legal obligations, we may also use some of your Pers
 
 You may have certain rights under the European Union, United Kingdom or Swiss data protection legislation (collectively, “**European Privacy Laws**”) with respect to your Personal Information, such as the right to:
 
-* request access to and be provided with information on the processing of your Personal Information;
-* request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete;
-* request your Personal Information to be deleted (i) if it is no longer necessary for the purposes described in this Privacy Policy, (ii) should you decide to withdraw your consent where you gave it, (iii) should you object to its processing for direct marketing purposes, (iv) should you identify that it would have been unlawfully processed, (v) should we be under a legal obligation to erase it to comply with European Privacy Laws and always provided we are not under a legal obligation to keep it;
-* restrict the processing of your Personal Information (i) if you contest its accuracy; (ii) if the processing is unlawful and you oppose the erasure; (iii) if it is no longer needed for the purposes set out in this Privacy Policy but is required to be maintained by us for the establishment, exercise or defense of a legal claim, (iv) if you object to profiling;
-* object to the processing of your Personal Information for direct marketing purposes or to any processing which we would have based on our legitimate interest (e.g. profiling);
-* receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit it to another provider provided it is processed based on your consent or our contract;
-* to object to the use of automated decision making or profiling; and
-* withdraw consent for the processing of your Personal Information. You may withdraw your consent at any time. If you withdraw your consent, our use of your Personal Information before you withdrew it is still lawful.
+*   request access to and be provided with information on the processing of your Personal Information;
+*   request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete;
+*   request your Personal Information to be deleted (i) if it is no longer necessary for the purposes described in this Privacy Policy, (ii) should you decide to withdraw your consent where you gave it, (iii) should you object to its processing for direct marketing purposes, (iv) should you identify that it would have been unlawfully processed, (v) should we be under a legal obligation to erase it to comply with European Privacy Laws and always provided we are not under a legal obligation to keep it;
+*   restrict the processing of your Personal Information (i) if you contest its accuracy; (ii) if the processing is unlawful and you oppose the erasure; (iii) if it is no longer needed for the purposes set out in this Privacy Policy but is required to be maintained by us for the establishment, exercise or defense of a legal claim, (iv) if you object to profiling;
+*   object to the processing of your Personal Information for direct marketing purposes or to any processing which we would have based on our legitimate interest (e.g. profiling);
+*   receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit it to another provider provided it is processed based on your consent or our contract;
+*   to object to the use of automated decision making or profiling; and
+*   withdraw consent for the processing of your Personal Information. You may withdraw your consent at any time. If you withdraw your consent, our use of your Personal Information before you withdrew it is still lawful.
 
 If you wish to exercise any of your above rights, please reach out to us by:
 
-* Calling us toll-free at **1-877-380-1838**; or
-* Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
+*   Calling us toll-free at **1-877-380-1838**; or
+*   Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
 
 You also have a right to make a complaint to a data protection supervisory authority, in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner's Office (ICO). You can visit their website at [www.ico.org.uk](http://www.ico.org.uk/). If you are in the EU, you can find your local data protection authority [here](https://ec.europa.eu/newsroom/article29/items/612080/en). If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
 
@@ -458,9 +458,9 @@ Thryv is headquartered in the United States, and our Service Providers and partn
 
 The principle that we apply is that your Personal Information will be deleted when they are no longer necessary for the purpose for which they were collected, unless a longer retention period is needed to:
 
-* Respond to any questions, complaints or claims made by you or on your behalf;
-* To show that we treated you fairly; or
-* To keep records required by law.
+*   Respond to any questions, complaints or claims made by you or on your behalf;
+*   To show that we treated you fairly; or
+*   To keep records required by law.
 
 We will not retain your Personal Information for longer than necessary for the purposes set out in this policy.
 
@@ -510,19 +510,19 @@ Notice to Brazilian Residents
 
 If you are a Brazilian resident, you may have certain privacy rights under Law No. 13.709 of 14 August 2018, General Personal Data Protection Law (LGPD). This section describes those rights and how you can exercise them with Thryv such as the right to:
 
-* request access to and be provided with information on the processing of your Personal Information; and confirmation of the existence of processing of Personal Information. We will respond to this request within a period of 15 days from the date of your request;
-* request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete or out-of-date;
-* request your Personal Information to be deleted or deletion of unnecessary or excessive data or data processed in non-compliance with the provisions of the LGPD;
-* temporarily suspend (‘block’) any processing operation of Personal Information which is unnecessary, excessive or processed in non-compliance with the provisions of LGPD;
-* object to the processing of your Personal Information where consent was not used as a legal bases for processing;
-* transfer your Personal Information to another service or product provider, subject to the regulations of the Brazilian data protection authority;
-* request the review of decisions made solely based on automated processing of Personal Information affecting their interests; and
-* withdraw consent for the processing of your Personal Information. You may withdraw your consent at any time. If you withdraw your consent, our use of your Personal Information before you withdrew it is still lawful.
+*   request access to and be provided with information on the processing of your Personal Information; and confirmation of the existence of processing of Personal Information. We will respond to this request within a period of 15 days from the date of your request;
+*   request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete or out-of-date;
+*   request your Personal Information to be deleted or deletion of unnecessary or excessive data or data processed in non-compliance with the provisions of the LGPD;
+*   temporarily suspend (‘block’) any processing operation of Personal Information which is unnecessary, excessive or processed in non-compliance with the provisions of LGPD;
+*   object to the processing of your Personal Information where consent was not used as a legal bases for processing;
+*   transfer your Personal Information to another service or product provider, subject to the regulations of the Brazilian data protection authority;
+*   request the review of decisions made solely based on automated processing of Personal Information affecting their interests; and
+*   withdraw consent for the processing of your Personal Information. You may withdraw your consent at any time. If you withdraw your consent, our use of your Personal Information before you withdrew it is still lawful.
 
 If you wish to exercise any of your above rights, please reach out to us by:
 
-* Calling us toll-free at 1-877-380-1838; or
-* Visit here to fill out and submit our web form.
+*   Calling us toll-free at 1-877-380-1838; or
+*   Visit here to fill out and submit our web form.
 
 You also have a right to make a petition before the Brazilian data protection authority, or the consumer defense entities.
 
