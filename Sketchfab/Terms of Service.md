@@ -72,20 +72,20 @@ Users accessing and downloading User Content through the download API operated b
 
 It is important to us that the Services be used safely, and in accordance with the law, for the enjoyment of all Users. You agree that you will not use the Services to:
 
-1. Decompile, disassemble, reverse engineer, copy, transfer, or otherwise use the Services, Sketchfab Content, and User Content except as permitted by this Agreement;
-2. Promote any illegal activity, or advocate, promote or assist any unlawful act;
-3. Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with this Agreement and our [Privacy Policy](https://sketchfab.com/privacy);
-4. Transmit any material or content that is pornographic, dehumanizing, threatening, harassing, libelous, hate-oriented, harmful, defamatory, racist, xenophobic, or illegal;
-5. Transmit any material or content that is inappropriate for families or otherwise suitable only for audiences over the age of 13, except where such content is appropriately labeled as “Restricted” and conforms to the [Sketchfab Restricted Content Policy](https://support.fab.com/s/article/What-is-Restricted-Content);
-6. Transmit any material or content that attempts to falsely state or otherwise misrepresent your identity or affiliation with a person or entity;
-7. Transmit material or content that promotes, provides, or relates to instructional information about illegal activities or promotes physical harm or injury against any individual or group;
-8. Transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation;
-9. Transmit or encourage the transmission of any material that may infringe the intellectual property rights or other rights of third parties, including trademark, copyright, patent, or right of publicity, or which otherwise constitutes or promotes counterfeit materials or goods;
-10. Use the Services in a manner that (a) is likely to interrupt, suspend, slow down or hinder the continuity of the Services, (b) constitutes an intrusion or attempt to break into the Services or Sketchfab’s computer or networking systems, (c) will divert of the Services’ system resources, (d) may place a disproportionate load on the infrastructure of the Services, and (e) constitutes an attack on security and authentication measures of the Services or Sketchfab’s computer or networking systems;
-11. Intrude into a third party’s computer system, engage in any activity that may damage, control, interfere with or intercept all or part of a third party’s computer system and violate its integrity or security, or otherwise transmit any materials or content that is harmful for third party information systems (including but not limited to viruses, worms, Trojans);
-12. Otherwise use the Services for purposes other than those for which they were designed;
-13. Except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any Sketchfab Content or User Content for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy; or
-14. Collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
+1.  Decompile, disassemble, reverse engineer, copy, transfer, or otherwise use the Services, Sketchfab Content, and User Content except as permitted by this Agreement;
+2.  Promote any illegal activity, or advocate, promote or assist any unlawful act;
+3.  Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with this Agreement and our [Privacy Policy](https://sketchfab.com/privacy);
+4.  Transmit any material or content that is pornographic, dehumanizing, threatening, harassing, libelous, hate-oriented, harmful, defamatory, racist, xenophobic, or illegal;
+5.  Transmit any material or content that is inappropriate for families or otherwise suitable only for audiences over the age of 13, except where such content is appropriately labeled as “Restricted” and conforms to the [Sketchfab Restricted Content Policy](https://support.fab.com/s/article/What-is-Restricted-Content);
+6.  Transmit any material or content that attempts to falsely state or otherwise misrepresent your identity or affiliation with a person or entity;
+7.  Transmit material or content that promotes, provides, or relates to instructional information about illegal activities or promotes physical harm or injury against any individual or group;
+8.  Transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation;
+9.  Transmit or encourage the transmission of any material that may infringe the intellectual property rights or other rights of third parties, including trademark, copyright, patent, or right of publicity, or which otherwise constitutes or promotes counterfeit materials or goods;
+10.  Use the Services in a manner that (a) is likely to interrupt, suspend, slow down or hinder the continuity of the Services, (b) constitutes an intrusion or attempt to break into the Services or Sketchfab’s computer or networking systems, (c) will divert of the Services’ system resources, (d) may place a disproportionate load on the infrastructure of the Services, and (e) constitutes an attack on security and authentication measures of the Services or Sketchfab’s computer or networking systems;
+11.  Intrude into a third party’s computer system, engage in any activity that may damage, control, interfere with or intercept all or part of a third party’s computer system and violate its integrity or security, or otherwise transmit any materials or content that is harmful for third party information systems (including but not limited to viruses, worms, Trojans);
+12.  Otherwise use the Services for purposes other than those for which they were designed;
+13.  Except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any Sketchfab Content or User Content for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy; or
+14.  Collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
 
 The User is not permitted to modify the design or alter the appearance of the Sketchfab viewer (e.g., in embeds or screen captures) other than by using the available embed customization options and the “Viewer API” methods provided by Sketchfab, and according to the User’s plan (Basic, Pro, Premium, Enterprise). Removing, hiding, or altering the Sketchfab logo watermark is prohibited to all users, under all plans except Premium and Enterprise.
 
@@ -133,20 +133,20 @@ DMCA@sketchfab.com
 
 To be effective, any notice submitted to our Copyright Agent must comply with the requirements set forth at 17 U.S.C. § 512(c)(3), and must include substantially the following:
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
-3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
-4. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-5. A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+3.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+4.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+5.  A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Sketchfab will, upon receiving your compliant notice of copyright infringement, contact the User who posted the allegedly infringing User Content concerning the notice of infringement, and expeditiously remove the allegedly infringing User Content. It is our policy to document all notifications of alleged infringement on which we act. A copy of the notification may be sent to one or more third parties who may make it available to the public. Please be advised that it is our policy to terminate the accounts of users that repeatedly violate this Agreement and/or the DMCA Policy.
 
 If you are a User and material that you have uploaded to the Services has been removed or disabled, you may file a counter-notification pursuant to 17 U.S.C. § 512(g). To be effective, the counter-notification must be a written communication sent to the Designated Agent address listed above that includes the following:
 
-1. Your physical or electronic signature;
-2. Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
-3. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-4. Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which the address is located or, if your address is outside of the United States, for any judicial district in which Company may be found, and that you will accept service of process from the person who provided notification under subsection 17 U.S.C. § 512(c)(1)(C) or an agent of such person.
+1.  Your physical or electronic signature;
+2.  Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
+3.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which the address is located or, if your address is outside of the United States, for any judicial district in which Company may be found, and that you will accept service of process from the person who provided notification under subsection 17 U.S.C. § 512(c)(1)(C) or an agent of such person.
 
 If you have a claim related to trademarks, patents, intellectual property, or any other matter other than copyright, please contact [dmca@sketchfab.com](mailto:dmca@sketchfab.com). Please provide detailed information regarding the nature of your complaint, including but not limited to your name and contact information, the subject matter of the complaint, and any additional information that we may require in order to review the matter and take action (or no action) as may be appropriate. Please be advised that we may share the details of your complaint with the User that owns the User Content that is the subject of your complaint, or with appropriate authorities (including law enforcement authorities) if Sketchfab in its sole discretion believes that such action is necessary, or if we are obligated to do so by law.
 
@@ -196,10 +196,10 @@ Sketchfab makes personalized recommendations to help tailor and enhance your exp
 
 Our recommendation features include:
 
-* Cart recommendations – based on similarities as to what is already in your checkout cart, we’ll make purchase recommendations for other relevant and useful products.
-* Model page – we show you similar content, based on tags, categories, titles, and users you follow, prioritized by the number of likes. If a product is for-purchase, we’ll only show you other for-purchase products.
-* Newsfeed suggestions – we use tags from the models you have liked to recommend models with similar tags, prioritized by the most liked.
-* Model search – when you search for for-purchase models, we’ll also show you similar for-purchase items based on what you have searched for, and those with the most sales will appear first.
+*   Cart recommendations – based on similarities as to what is already in your checkout cart, we’ll make purchase recommendations for other relevant and useful products.
+*   Model page – we show you similar content, based on tags, categories, titles, and users you follow, prioritized by the number of likes. If a product is for-purchase, we’ll only show you other for-purchase products.
+*   Newsfeed suggestions – we use tags from the models you have liked to recommend models with similar tags, prioritized by the most liked.
+*   Model search – when you search for for-purchase models, we’ll also show you similar for-purchase items based on what you have searched for, and those with the most sales will appear first.
 
 ### 15\. Artificial Intelligence
 
