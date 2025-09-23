@@ -11,12 +11,12 @@ This Ads, Cookies & Tracking Technologies Policy (“**Ads & Cookies Policy**”
 
 ###### **Table of Contents**
 
-* **[**Cookies & Other Tracking Technologies: What Are They & Categories of Cookies**](#what-are-cookies)**
-* **[**Cookies & Tracking Technologies Used on Viber Services**](#cookies-used-on-viber)**
-* **[**Advertising and Marketing Policy**](#use-of-cookies)**
-* **[**Your Choices & How to Opt-Out**](#your-cookie-choices)**
-* **[**Additional Information – Types of Tracking Technologies and Unique Identifiers**](#additional-information)**
-* **[**Contact Us**](#contact-us)**
+*   **[**Cookies & Other Tracking Technologies: What Are They & Categories of Cookies**](#what-are-cookies)**
+*   **[**Cookies & Tracking Technologies Used on Viber Services**](#cookies-used-on-viber)**
+*   **[**Advertising and Marketing Policy**](#use-of-cookies)**
+*   **[**Your Choices & How to Opt-Out**](#your-cookie-choices)**
+*   **[**Additional Information – Types of Tracking Technologies and Unique Identifiers**](#additional-information)**
+*   **[**Contact Us**](#contact-us)**
 
 ###### **Cookies & Other Tracking Technologies: What Are They & Categories of Cookies** 
 
@@ -28,25 +28,25 @@ Cookies are used by us for a variety of purposes, including in order to enhance 
 
 In general, we use the following categories of Cookies as part of our Services:
 
-* **Strictly Necessary Cookies:**
+*   **Strictly Necessary Cookies:**
 
 These Cookies are necessary in order to provide Services and features you have specifically requested (meaning, set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms), as well as necessary for our website to function and for fraud prevention and security purposes. That is why these Cookies cannot be switched off in our systems. If you set your browser to refuse these Cookies, some parts of the Services may not then work.
 
-* **Analytics and Performance Cookies:**
+*   **Analytics and Performance Cookies:**
 
 These Cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Services. They help us understand which pages are the most and least popular and learn how visitors move around the Services. If you do not allow these Cookies we will not know when you have visited our Services and will not be able to monitor its performance.
 
-* **Functionality Cookies:** 
+*   **Functionality Cookies:** 
 
 These Cookies enable the website to provide enhanced functionality and display customized videos and images. They may be set by us or by third party providers whose services we have added to our webpages. We may also use Cookies to tell us, for example, whether you have visited the Services before or if you are a new visitor. If you do not allow these Cookies, then some or all of these services may not function properly.
 
-* **Targeting Cookies:**
+*   **Targeting Cookies:**
 
 These Cookies may be set through our Services by us or by our advertising partners. They may be used to deliver content, including ads, relevant to your interests on our Services. They may also be used by such partners to build a profile of your interests and show you relevant adverts on other sites. These Cookies are based on your Unique Identifiers. If you do not allow these Cookies, you will experience less targeted advertising.
 
 Note that, at any time you are able to change your Cookies settings and the tracking operation to control Cookies placement by limiting use of Cookies on your device, opt out or delete certain Cookies already stored on your device – all as detailed under the “[**Your Choices & How to Opt-Out**](#your-cookie-choices)” section below. Where required under applicable laws, we will obtain your consent for data collection through use of Cookies.
 
-  
+[Back to top](#top)  
 
 ###### **Cookies & Tracking Technologies Used on Viber’s Services** 
 
@@ -116,13 +116,13 @@ The following tables set out details of the third-party Cookies we use as part o
 | Targeting | YSC | youtube.com |     | Third party | Session |
 | Targeting | VISITOR\_PRIVACY\_METADATA | youtube.com |     | Third party | 5 months |
 
-  
+[Back to top](#top)  
 
 ###### **Advertising and Marketing Policy** 
 
 As part of our Services, we display ads and offers. The purpose of this policy is to provide transparency about how we collect, use and share your data with respect to ads. You can find more information about our privacy practices in our **[Privacy Policy](https://www.viber.com/en/terms/viber-privacy-policy/)**.
 
-* **Offers and** **Advertisement** **on Viber****:**
+*   **Offers and** **Advertisement** **on Viber****:**
 
 To make our ads relevant, we use information we learn about you and that our advertisers and partners (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners-List-Aug-2025.pdf)) provide us with. That information includes information received directly from you, or information we collect or indirectly infer about you or about your use of the Service, as detailed below:
 
@@ -136,17 +136,17 @@ Information we **receive**: We may receive data associated with your Unique Iden
 
 We also use Unique Identifiers for our own marketing and advertising campaigns, to make them more relevant and meaningful to you, and to track the efficiency and analyze these campaigns, both on our Services and on other websites or mobile apps.
 
-* **Third Party Advertisement:**
+*   **Third Party Advertisement:**
 
 We may generate and share Unique Identifiers, through our use of Cookies and tracking technologies, with our third-party advertising partners and advertising service providers (listed [**HERE**](https://www.viber.com/app/uploads/Advertising-Partners-List-Aug-2025.pdf)), along with certain data collected from you as detailed above.   This includes partners managing our advertising placements, as well as partners and service providers supporting targeting, measurements, and optimizations for us including for Viber’s own marketing campaigns, and also advertisers themselves and their agencies or third parties managing their advertising demands. The advertising networks that deliver ads on our Services use cookies, pixels or other tracking technology.  Some of these third parties may combine information they collect from our Services with other information they have independently collected relating to your web browser’s activities across their network of websites. These third parties collect and use this information under their own privacy policies, and are responsible for their practices concerning personal data. You can directly exercise your rights with them.
 
-* **Viber Marketing and Ads of Viber Services:**
+*   **Viber Marketing and Ads of Viber Services:**
 
 When we market the Viber App and Services outside of Viber, we might share your email address or unique identifiers with our trusted third party marketing vendors. These vendors might also place Cookies to receive such data as: clicks on our own ads (and the subsequent installs of our app) delivered on third party services, ad measurements, etc. This information helps us learn more about the subsequent user activity and preferences on our Services, find similar users, optimize our campaigns and marketing efforts, grow our user-base, and measure and assess the performance of our content. The advertising networks or content providers that deliver our ads on third party sites may use cookies, pixels or other tracking technology to uniquely distinguish your web browser or device and keep track of information relating to serving ads on your web browser, or mobile app such as the type of ads shown and the pages on which the ads appear and also certain activities performed by you after clicking on the ads.
 
 For users in the EEA, the UK and Switzerland, we attest to industry standard related to the use of Cookies for advertising purposes. We have implemented a consent mechanism in order to obtain your consent for the use of Cookies, where required under applicable law, and we follow the applicable frameworks and procedures to ensure that other third parties in the digital advertising chain will respect your preferences. You can access and manage these consents at any time through the Viber personal information settings, under manage ad preferences and these changes will apply going forward. Users from California may also limit the use of GPS information, and for US states residents, as detailed in our [**United States Regional Privacy Notice** **(“US Notice”)**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/), you may opt-out from cross-behavior advertisement or targeted advertisement as further detailed herein below or under the US Notice and CCPA Notice (as applicable).
 
-  
+[Back to top](#top)  
 
 ###### **Your Choices & How to Opt-Out** 
 
@@ -154,37 +154,37 @@ You have the choice whether to accept the use of Cookies or not, except for thos
 
 You may opt-out of the data collection, sharing process and advertising services related to Cookies, as follows:
 
-* **Cookies Setting Tool:** 
+*   **Cookies Setting Tool:** 
 
 You can opt-out from web cookies (except for those that are Strictly Necessary) through the ‘Cookies Settings’ featured within the cookie banner on our websites.  Click on the different category headings to find out more and change our default settings. The preferences you chose will be stored in a separate cookie that is stored uniquely on your device. Please note that your preference settings will not be known if you visit our website or App from another device, use a different browser, or reset your current browser, and that you need to specify your preference settings again in such cases.
 
-* **Browser Settings:**
+*   **Browser Settings:**
 
 You may set your browser to block Cookies, or to indicate when a Cookie is being set, by adjusting the privacy and security settings of your web browser. Please refer to the support page of the browser you are using. In this regard, following are some links, which you may find useful:
 
 |     |     |
 | --- | --- |
 | **Browser Type** |     |
-| Chrome | **[https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en%20(Chrome))** |
+| Chrome | **[https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en%20\(Chrome\))** |
 | Firefox | [**https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences**](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) |
 | Opera | [**https://help.opera.com/en/latest/security-and-privacy/**](https://help.opera.com/en/latest/security-and-privacy/) |
 | Safari | [**https://support.apple.com/en-il/guide/safari/manage-cookies-and-website-data-sfri11471/mac**](https://support.apple.com/en-il/guide/safari/manage-cookies-and-website-data-sfri11471/mac) |
 | Edge | [**https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies**](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies) |
 
-* **Mobile Devices:** 
+*   **Mobile Devices:** 
 
 To opt out of interest-based ads on mobile devices, please follow these instructions for your mobile device:
 
-* * Android/iOS Device: On Android open the Google Settings app on your device and select “ads” to control the settings. On iOS devices with iOS 6 and above use Apple’s advertising identifier. To learn more about limiting ad tracking using this identifier, visit the settings menu on your device or the following links:
-        * iOS – **[https://support.apple.com/en-us/HT202074](https://support.apple.com/en-us/HT202074)**
-        * Android – **[https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)** 
+*   *   Android/iOS Device: On Android open the Google Settings app on your device and select “ads” to control the settings. On iOS devices with iOS 6 and above use Apple’s advertising identifier. To learn more about limiting ad tracking using this identifier, visit the settings menu on your device or the following links:
+        *   iOS – **[https://support.apple.com/en-us/HT202074](https://support.apple.com/en-us/HT202074)**
+        *   Android – **[https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)** 
 
-* * Apple’s App Tracking Transparency Prompt: With iOS 14.5, Apple introduced the AppTracking Transparency (ATT) framework, which requires any app to ask its users for their permission to access their device’s advertising identifier and use the data about them received from the apps and websites owned by other companies, for targeted advertising or advertising measurement purposes. Viber will allow you to make your own choice by reacting to the ATT Prompt, which will be displayed prior to connecting identifiable data collected on Viber with identifiable data from other companies’ apps and websites, for advertising purposes. Furthermore, you will always have an option to opt out of such tracking by visiting your iOS device’s settings menu. Once the setting is changed, we will make this change to take effect in our systems as soon as possible. More information on the AppTracking Transparency (ATT) framework is available  **[HERE](https://developer.apple.com/app-store/user-privacy-and-data-use/).**
-    * Analytics: You can also disable analytics for mobile apps from the settings screen on your mobile device.
-    * Specific Region Control: If you are a user in the EEA, or the UK, you can also control the “manage ad preferences” setting on your Viber privacy settings (for more information see our **[EU Region Privacy Notice](https://www.viber.com/en/terms/gdpr-privacy-rights/)**).If you are a US user, you can switch on the “Do not sell or share my personal information” toggle (for more info see [**US Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/)) – in which case we will not share your Unique Identifiers with our third-party advertisers. If you are having trouble finding the “Do Not Sell or Share My Personal Information” toggle you can send us an Opt-Out request at any time via the following link: [**https://support.viber.com/customer/portal/emails/new?type=CA**](https://support.viber.com/customer/portal/emails/new?type=CA).
-    * Location: To opt-out of GPS based location tracking when using our App, you can configure your device’s permission settings.
+*   *   Apple’s App Tracking Transparency Prompt: With iOS 14.5, Apple introduced the AppTracking Transparency (ATT) framework, which requires any app to ask its users for their permission to access their device’s advertising identifier and use the data about them received from the apps and websites owned by other companies, for targeted advertising or advertising measurement purposes. Viber will allow you to make your own choice by reacting to the ATT Prompt, which will be displayed prior to connecting identifiable data collected on Viber with identifiable data from other companies’ apps and websites, for advertising purposes. Furthermore, you will always have an option to opt out of such tracking by visiting your iOS device’s settings menu. Once the setting is changed, we will make this change to take effect in our systems as soon as possible. More information on the AppTracking Transparency (ATT) framework is available  **[HERE](https://developer.apple.com/app-store/user-privacy-and-data-use/).**
+    *   Analytics: You can also disable analytics for mobile apps from the settings screen on your mobile device.
+    *   Specific Region Control: If you are a user in the EEA, or the UK, you can also control the “manage ad preferences” setting on your Viber privacy settings (for more information see our **[EU Region Privacy Notice](https://www.viber.com/en/terms/gdpr-privacy-rights/)**).If you are a US user, you can switch on the “Do not sell or share my personal information” toggle (for more info see [**US Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/)) – in which case we will not share your Unique Identifiers with our third-party advertisers. If you are having trouble finding the “Do Not Sell or Share My Personal Information” toggle you can send us an Opt-Out request at any time via the following link: [**https://support.viber.com/customer/portal/emails/new?type=CA**](https://support.viber.com/customer/portal/emails/new?type=CA).
+    *   Location: To opt-out of GPS based location tracking when using our App, you can configure your device’s permission settings.
 
-* **Opt-Out Provided by Third Parties:** 
+*   **Opt-Out Provided by Third Parties:** 
 
 The table above, detailing out third party partners, further includes reference to their applicable webpage related to opt- out controls made available by such third parties.
 
@@ -198,7 +198,7 @@ Viber participates in the IAB Europe Transparency & Consent Framework and compli
 
 In the US, Viber follows the [Policy Framework for Addressable Media Identifiers](https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/AMI_Principles_Booklet.pdf) (by Digital Advertising Alliance).
 
-  
+[Back to top](#top)  
 
 ###### **Additional Information – Types of Tracking Technologies and Unique Identifiers**   
 
@@ -209,19 +209,21 @@ In the US, Viber follows the [Policy Framework for Addressable Media Identifiers
 | **Unique Identifier** | Unique identifiers tell your device apart from other users and may be assigned to your device by Viber or our advertising service providers/partners, and include IP address, MAC identifiers, hashed identifiers (including hashed phone numbers/emails), etc. The most common unique identifier is an identifier known as advertising ID (on android) or IDFA on iOS and represents a serial number, or string of characters, specific to a user’s mobile device.  It is stored on the mobile device and can be retrieved by any app that is downloaded and installed. Apps typically retrieve this identifier for identification when communicating with servers. This identifier is a tool that allows us and our advertising and marketing partners and service providers to identify your device for tracking user advertising activities and preferences (to know when and which kind of ad has been viewed or clicked, led the user to install an app, make our own marketing and advertising campaigns more relevant and meaningful to user, and to track the efficiency and analyze these campaigns). This identifier is currently the main persistent means of tracking advertising and marketing activity on and across devices. |
 | **SDK (Software Development Kit)** | An SDK is a set of tools that developers use to build apps. It helps apps work with other software or services. For example, an SDK might help create an app user interface, track how you use an app or show you ads. SDKs can also manage cookies, scripts, and unique identifiers to collect data and improve your app experience. |
 
-  
+[Back to top](#top)  
 
 ###### **Contact Us** 
 
 For any queries in relation to this Ads & Cookies Policy please contact us at:
 
-* **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs)**.**
-* **Using the “contact us” form on the App**.
-* **By Email**: [**privacy@viber.com**](mailto:privacy@viber.com)
-* **By mail:  
+*   **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs)**.**
+*   **Using the “contact us” form on the App**.
+*   **By Email**: [**privacy@viber.com**](mailto:privacy@viber.com)
+*   **By mail:  
     **Viber Media S.à r.l.,  
     **Attention:** Privacy Policy Administrator  
     2, rue du Fossé, L-1536 Luxembourg, Grand Duchy of Luxembourg.
+
+[Back to top](#top)
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
