@@ -6,9 +6,9 @@ We value your privacy and believe in keeping all of your information safe and co
 
 ##### **We do not under ANY circumstances engage in:**
 
-* Selling or sharing personal information
-* Spamming or promotion of third party services
-* Unlawful or unethical data collection or use
+*   Selling or sharing personal information
+*   Spamming or promotion of third party services
+*   Unlawful or unethical data collection or use
 
   
 
