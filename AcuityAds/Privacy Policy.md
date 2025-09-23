@@ -77,9 +77,9 @@ If you prefer not to receive targeted advertising from illumin, you can object t
 
 To better understand the process of behavioral advertising, please visit:
 
-* Network Advertising Initiative (“NAI”) – [networkadvertising.org](http://www.networkadvertising.org/)
-* Digital Advertising Alliance (“DAA”) – [aboutads.info](http://www.aboutads.info/)
-* Digital Advertising Alliance of Canada (“DAAC”) – [youradchoices.ca](http://www.youradchoices.ca/)
+*   Network Advertising Initiative (“NAI”) – [networkadvertising.org](http://www.networkadvertising.org/)
+*   Digital Advertising Alliance (“DAA”) – [aboutads.info](http://www.aboutads.info/)
+*   Digital Advertising Alliance of Canada (“DAAC”) – [youradchoices.ca](http://www.youradchoices.ca/)
 
 ### Mobile choice mechanism
 
@@ -109,13 +109,13 @@ Certain U.S. states (e.g., California, Virginia, Nevada, Colorado and Connecticu
 
 You may access those rights with respect to illumin by sending us an email to [privacy@illumin.com](mailto:privacy@illumin.com), by calling our California privacy help line at 1-866-6Acuity, or by visiting our [data subject access page here](https://illumin.com/legal/subject-access-request/). If you make a subject access request as set out in this policy, you are entitled to see and delete the personal information that we have about you. We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days unless applicable law provides that we do so more quickly. Some jurisdictions provide you with the right lodge an appeal to illumin if you are unsatisfied with our response to your request to exercise the rights above. Please send any appeals to [privacy@illumin.com](mailto:privacy@illumin.com) Some U.S. states also provide you with the right to further appeal our determination to a consumer protection agency located in that state. For example:
 
-* Colorado – [The Colorado Attorney General’s Office](https://coag.gov/office-sections/consumer-protection/)
-* Maryland – [Maryland Attorney General Consumer Protection Division](https://www.marylandattorneygeneral.gov/Pages/CPD/default.aspx)
-* Nebraska – [Nebraska Attorney General’s Office](https://ago.nebraska.gov/)
-* New Hampshire – [Data Privacy Unit of the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General’s Office](https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit)
-* New Jersey – [Division of Consumer Affairs in the Department of Law and Public Safety of New Jersey](https://www.njconsumeraffairs.gov/)
-* Texas – For denied appeals, visit the [Texas Attorney General’s Office, Consumer Protection Division](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)
-* Virginia – For denied appeals, visit the V[irginia Attorney General’s Office, Consumer Protection Division](https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf)
+*   Colorado – [The Colorado Attorney General’s Office](https://coag.gov/office-sections/consumer-protection/)
+*   Maryland – [Maryland Attorney General Consumer Protection Division](https://www.marylandattorneygeneral.gov/Pages/CPD/default.aspx)
+*   Nebraska – [Nebraska Attorney General’s Office](https://ago.nebraska.gov/)
+*   New Hampshire – [Data Privacy Unit of the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General’s Office](https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit)
+*   New Jersey – [Division of Consumer Affairs in the Department of Law and Public Safety of New Jersey](https://www.njconsumeraffairs.gov/)
+*   Texas – For denied appeals, visit the [Texas Attorney General’s Office, Consumer Protection Division](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)
+*   Virginia – For denied appeals, visit the V[irginia Attorney General’s Office, Consumer Protection Division](https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf)
 
 The number of CCPA requests to know that illumin received, compiled with whole or part and denied in 2024: 11, 11 and 0.
 
