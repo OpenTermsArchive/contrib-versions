@@ -46,17 +46,17 @@ The information we collect when you use X falls into three categories.
 
 To use some of our products and services you need to have an account, and to create an account, you need to provide us certain information. Likewise, if you use our paid products and services, we cannot provide them to you without getting payment information. Basically, certain information is necessary if you want to use many of our products and services.
 
-* **Personal Accounts.** If you create an account, you must provide us with some information so that we can provide our services to you. This includes a display name (for example, “Creators”); a username (for example, @XCreators); a password; an email address or phone number; a date of birth; your display language; and third-party single sign-in information (if you choose this sign-in method). You can also choose to share your location in your profile and posts, and to upload your address book to X to help find people you may know. Your profile information, which includes your display name and username, is always public, but you can use either your real name or a pseudonym. And remember, you can create multiple X accounts, for example, to express different parts of your identity, professional or otherwise. 
+*   **Personal Accounts.** If you create an account, you must provide us with some information so that we can provide our services to you. This includes a display name (for example, “Creators”); a username (for example, @XCreators); a password; an email address or phone number; a date of birth; your display language; and third-party single sign-in information (if you choose this sign-in method). You can also choose to share your location in your profile and posts, and to upload your address book to X to help find people you may know. Your profile information, which includes your display name and username, is always public, but you can use either your real name or a pseudonym. And remember, you can create multiple X accounts, for example, to express different parts of your identity, professional or otherwise. 
     
-* **Professional Accounts.** If you create a [professional account](https://business.x.com/en/help/account-setup/professional-accounts.html), you also need to provide us with a professional category, and may provide us with other information, including street address, contact email address, and contact phone number, all of which will always be public. 
+*   **Professional Accounts.** If you create a [professional account](https://business.x.com/en/help/account-setup/professional-accounts.html), you also need to provide us with a professional category, and may provide us with other information, including street address, contact email address, and contact phone number, all of which will always be public. 
     
-* **Payment Information.** In order to purchase ads or other offerings provided as part of our paid products and services you will need to provide us payment information, including your credit or debit card number, card expiration date, CVV code, and billing address.
+*   **Payment Information.** In order to purchase ads or other offerings provided as part of our paid products and services you will need to provide us payment information, including your credit or debit card number, card expiration date, CVV code, and billing address.
     
-* **Preferences.** When you set your preferences using your [settings](https://x.com/settings), we collect that information so that we can respect your preferences.
+*   **Preferences.** When you set your preferences using your [settings](https://x.com/settings), we collect that information so that we can respect your preferences.
     
-* **Biometric Information.** Based on your consent, we may collect and use your biometric information for safety, security, and identification purposes.
+*   **Biometric Information.** Based on your consent, we may collect and use your biometric information for safety, security, and identification purposes.
     
-* **Job Applications / Recommendations.** We may collect and use your personal information (such as your biographical information, employment history, educational history, employment preferences, skills and abilities, and job search activity and engagement, in addition to the information we already collect as disclosed in the “Information we collect when you use X” section of our Privacy Policy below) to recommend potential jobs to you, to share with potential employers when you apply for a job, to enable connections for professional opportunities, and to show you more relevant advertising.
+*   **Job Applications / Recommendations.** We may collect and use your personal information (such as your biographical information, employment history, educational history, employment preferences, skills and abilities, and job search activity and engagement, in addition to the information we already collect as disclosed in the “Information we collect when you use X” section of our Privacy Policy below) to recommend potential jobs to you, to share with potential employers when you apply for a job, to enable connections for professional opportunities, and to show you more relevant advertising.
     
 
 **1.2 Information we collect when you use X.**
@@ -65,31 +65,31 @@ When you use our services, we collect information about how you use our products
 
 **Usage Information.** We collect information about your activity on X, including:
 
-* Posts and other content you post (including the date, application, and version of X) and information about your broadcast activity (e.g., Spaces), including broadcasts you’ve created and when you created them, your lists, bookmarks, and Communities you are a part of.
-* Your interactions with other users’ content, such as reposts, likes, bookmarks, shares, downloads, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you’ve participated in (including your viewing history, listening, commenting, speaking, and reacting).
-* How you interact with others on the platform, such as people you follow and people who follow you, metadata related to [Encrypted Messages](https://help.x.com/using-x/encrypted-direct-messages), and when you use [Direct Messages](https://help.x.com/using-x/direct-messages), including the contents of the messages, the recipients, and date and time of messages.
-* If you communicate with us, such as through email, we will collect information about the communication and its content.
-* We collect information on links you interact with across our services (including in our emails sent to you).
+*   Posts and other content you post (including the date, application, and version of X) and information about your broadcast activity (e.g., Spaces), including broadcasts you’ve created and when you created them, your lists, bookmarks, and Communities you are a part of.
+*   Your interactions with other users’ content, such as reposts, likes, bookmarks, shares, downloads, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you’ve participated in (including your viewing history, listening, commenting, speaking, and reacting).
+*   How you interact with others on the platform, such as people you follow and people who follow you, metadata related to [Encrypted Messages](https://help.x.com/using-x/encrypted-direct-messages), and when you use [Direct Messages](https://help.x.com/using-x/direct-messages), including the contents of the messages, the recipients, and date and time of messages.
+*   If you communicate with us, such as through email, we will collect information about the communication and its content.
+*   We collect information on links you interact with across our services (including in our emails sent to you).
 
 **Purchase and payments.** To allow you to make a payment or send money using X features or services, including through an intermediary, we may receive information about your transaction such as when it was made, when a subscription is set to expire or auto-renew, and amounts paid or received.  
 
 **Device Information.** We collect information from and about the devices you use to access X, including:
 
-* Information about your connection, such as your IP address, browser type, and related information.
-* Information about your device and its settings, such as device and advertising ID, operating system, carrier, language, memory, apps installed, and battery level.
-* Your device address book, if you’ve chosen to share it with us.
+*   Information about your connection, such as your IP address, browser type, and related information.
+*   Information about your device and its settings, such as device and advertising ID, operating system, carrier, language, memory, apps installed, and battery level.
+*   Your device address book, if you’ve chosen to share it with us.
 
 **Location Information.** When you use X, we collect some information about your approximate location to provide the service you expect, including showing you relevant ads. You can also choose to share your current precise location or places where you’ve previously used X by enabling these settings in your account.
 
 **Inferred Identity.** We may collect or receive information that we use to infer your identity as detailed below:
 
-* When you sign into X on a browser or device, we will associate that browser or device with your account. Subject to your settings, we may also associate your account with browsers or devices other than those you use to sign into X (or associate your signed-out device or browser with other browsers or devices or X-generated identiﬁers).
-* When you provide other information to X, including an email address or phone number, we associate that information with your X account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to X.
-* When you access X and are not signed in, we may infer your identity based on the information we collect.
+*   When you sign into X on a browser or device, we will associate that browser or device with your account. Subject to your settings, we may also associate your account with browsers or devices other than those you use to sign into X (or associate your signed-out device or browser with other browsers or devices or X-generated identiﬁers).
+*   When you provide other information to X, including an email address or phone number, we associate that information with your X account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to X.
+*   When you access X and are not signed in, we may infer your identity based on the information we collect.
 
 **Log Information.** We may receive information when you view content on or otherwise interact with our products and services, even if you have not created an account or are signed out, such as:
 
-* IP address and related information; browser type and language; operating system; the referring webpage; access times; pages visited; location; your mobile carrier; device information (including device and application IDs); search terms and IDs (including those not submitted as queries); ads shown to you on X; X-generated identiﬁers; and identiﬁers associated with cookies. We also receive log information when you click on, view, or interact with links on our services, including when you install another application through X.
+*   IP address and related information; browser type and language; operating system; the referring webpage; access times; pages visited; location; your mobile carrier; device information (including device and application IDs); search terms and IDs (including those not submitted as queries); ads shown to you on X; X-generated identiﬁers; and identiﬁers associated with cookies. We also receive log information when you click on, view, or interact with links on our services, including when you install another application through X.
 
 **Advertisements.** When you view or interact with ads we serve on or oﬀ X, we may collect information about those views or interactions (e.g., watching a video ad or preroll, clicking on an ad, interacting with reposts of or replies to an ad).
 
@@ -147,8 +147,8 @@ You should know the ways we share your information, why we share it, and how you
   
 **With other X users.** Depending on your [settings](https://x.com/settings/account), and based on the X products and services you use, we share:
 
-* Your interactions with X content of other users, such as replies, and people you follow.
-* Content you send to a specific X user, such as through [Direct Messages](https://help.x.com/using-x/direct-messages). Please keep in mind that if you’ve shared information like Direct Messages or protected posts with someone else who accesses X through a third-party service, the information may be shared with the third-party service.
+*   Your interactions with X content of other users, such as replies, and people you follow.
+*   Content you send to a specific X user, such as through [Direct Messages](https://help.x.com/using-x/direct-messages). Please keep in mind that if you’ve shared information like Direct Messages or protected posts with someone else who accesses X through a third-party service, the information may be shared with the third-party service.
 
 **With partners.** Depending on your [settings](https://x.com/settings/account), we also provide certain third parties with information to help us offer or operate our products and services. You can learn more about these partnerships in our [Help Center](https://help.x.com/safety-and-security/data-through-partnerships). You can control whether X shares your personal information with these partners by using the “Data sharing with business partners” option in your [Privacy & Safety settings](https://x.com/settings/privacy_and_safety). (This setting does not control sharing described elsewhere in this Privacy Policy, such as when we share information with our service providers, or through partnerships other than as described in this [Help Center](https://help.x.com/safety-and-security/data-through-partnerships) article.)
 
@@ -168,11 +168,11 @@ You should know the ways we share your information, why we share it, and how you
 
 We may preserve, use, share, or disclose your information if we believe that it is reasonably necessary to:
 
-* comply with a law, regulation, [legal process, or governmental request](https://help.x.com/rules-and-policies/x-law-enforcement-support);
-* protect the safety of any person, protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services;
-* explain why we have removed content or accounts from our services (e.g., for a violation of [our Rules](https://help.x.com/rules-and-policies/x-rules));
-* address fraud, security, or technical issues; or
-* protect our rights or property, or the rights or property of those who use our services.
+*   comply with a law, regulation, [legal process, or governmental request](https://help.x.com/rules-and-policies/x-law-enforcement-support);
+*   protect the safety of any person, protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services;
+*   explain why we have removed content or accounts from our services (e.g., for a violation of [our Rules](https://help.x.com/rules-and-policies/x-rules));
+*   address fraud, security, or technical issues; or
+*   protect our rights or property, or the rights or property of those who use our services.
 
 We may also use different signals and your data to infer, preserve, use, share, or disclose your age and identity information in order to comply with regulatory requirements as well as for safety, security, fraud, know-your-customer, know-your-business, and identity verification, as the case may be. We may also share or disclose your age and identity information with our partners, service providers, and others for these purposes.
 
@@ -189,20 +189,20 @@ We may share, sell, or transfer information about you in connection with a merge
 
 We keep different types of information for different periods of time, depending on how long we need to retain it in order to provide you with our products and services, to comply with our legal requirements and for safety and security reasons. For example:  
 
-* We keep your profile information, such as your display name, user name, password and email address for the duration of your account. We cannot provide you with our products and services without retaining this information.
-* We keep your usage information, such as the content you post, your interactions with other users’ content and how you interact with others on the platform for the duration of your account or until such content is removed.
-* We keep your payment information, including your credit or debit card number and billing address for the duration you use our paid products and services. Records of transactions will be kept for longer, in accordance with applicable law.
-* If you communicate with us, such as through email, we will keep information about the communication and its content for up to 18 months, unless it is necessary for us to retain it for a longer period to comply with our legal obligations or to exercise or defend our legal rights.
-* We generally collect device information, location information, inferred identity information and log information using cookies. We keep cookies and information collected using cookies for up to 13 months. You can learn more about how we use cookies and similar technologies [here](https://help.x.com/rules-and-policies/x-cookies).
-* We keep information about your views or interactions with ads on or off X, as well as how you interact with our content on third-party sites for up to 12 months. 
-* We keep information shared by ad and business partners for up to 12 months.
-* Where you violate our Rules and your account is suspended, we may keep the identifiers you used to create the account (such as your email address or phone number) indefinitely to prevent repeat policy offenders from creating new accounts.
+*   We keep your profile information, such as your display name, user name, password and email address for the duration of your account. We cannot provide you with our products and services without retaining this information.
+*   We keep your usage information, such as the content you post, your interactions with other users’ content and how you interact with others on the platform for the duration of your account or until such content is removed.
+*   We keep your payment information, including your credit or debit card number and billing address for the duration you use our paid products and services. Records of transactions will be kept for longer, in accordance with applicable law.
+*   If you communicate with us, such as through email, we will keep information about the communication and its content for up to 18 months, unless it is necessary for us to retain it for a longer period to comply with our legal obligations or to exercise or defend our legal rights.
+*   We generally collect device information, location information, inferred identity information and log information using cookies. We keep cookies and information collected using cookies for up to 13 months. You can learn more about how we use cookies and similar technologies [here](https://help.x.com/rules-and-policies/x-cookies).
+*   We keep information about your views or interactions with ads on or off X, as well as how you interact with our content on third-party sites for up to 12 months. 
+*   We keep information shared by ad and business partners for up to 12 months.
+*   Where you violate our Rules and your account is suspended, we may keep the identifiers you used to create the account (such as your email address or phone number) indefinitely to prevent repeat policy offenders from creating new accounts.
 
 We may need to keep certain information longer than our policies specify in order to comply with legal requirements and for safety and security reasons. For example:
 
-* **To comply with a law, regulation, legal process or governmental request.** Including in order to adhere to a legally appropriate preservation request made by law enforcement. You can read more about law enforcement access [here](https://help.x.com/rules-and-policies/x-law-enforcement-support#6).
-* **In connection with legal claims, litigation and regulatory matters.** Including where it is reasonably necessary to retain information relating to your account in order to defend X against legal claims.
-* **To maintain the safety and security of our products and services.** Including where it is necessary to store your information longer in order to investigate and fight abuse on our products and services.
+*   **To comply with a law, regulation, legal process or governmental request.** Including in order to adhere to a legally appropriate preservation request made by law enforcement. You can read more about law enforcement access [here](https://help.x.com/rules-and-policies/x-law-enforcement-support#6).
+*   **In connection with legal claims, litigation and regulatory matters.** Including where it is reasonably necessary to retain information relating to your account in order to defend X against legal claims.
+*   **To maintain the safety and security of our products and services.** Including where it is necessary to store your information longer in order to investigate and fight abuse on our products and services.
 
 Remember public content can exist elsewhere even after it is removed from X. For example, search engines and other third parties may retain copies of your posts longer, based upon their own privacy policies, even after they are deleted or expire on X. You can read more about search visibility [here](https://help.x.com/safety-and-security/remove-x-profile-from-google-search).
 
@@ -213,9 +213,9 @@ Remember public content can exist elsewhere even after it is removed from X. For
 
 You can access, correct, or modify the information you provided to us by editing your profile and adjusting your account [settings](https://x.com/settings/account).
 
-* You can learn more about the information we have collected or inferred about you in[Your X Data](https://x.com/settings/your_twitter_data) and request access to additional information[here](https://help.x.com/forms/privacy).
+*   You can learn more about the information we have collected or inferred about you in[Your X Data](https://x.com/settings/your_twitter_data) and request access to additional information[here](https://help.x.com/forms/privacy).
     
-* You can download a copy of your information, such as your posts, by following the instructions [here](https://help.x.com/managing-your-account/how-to-download-your-x-archive).
+*   You can download a copy of your information, such as your posts, by following the instructions [here](https://help.x.com/managing-your-account/how-to-download-your-x-archive).
     
 
 To protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or complying with a deletion, portability, or other related request. We may, in certain situations, reject your request for access, correction, or portability, for example, we may reject access where you are unable to verify your identity.  
