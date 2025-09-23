@@ -118,30 +118,30 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 
 You agree not to do any of the following:
 
-* Post, upload, publish, submit or transmit any Content or submit any input that: (i) infringes, misappropriates or violates a third party's patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, knowingly false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar or offensive; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (vii) promotes illegal or harmful activities or substances;
-* Use the Services or any Output in a manner that violates the usage policies of any third party services providers to Academia.edu's whose services are used by Academia.edu to facilitate AI functionality applicable providers;
-* Utilize the Services (including any AI functionality), documentation, input or Output to train, improve or have trained or improved an AI model (e.g., engage in "model scraping");
-* Utilize Outputs to create datasets for benchmarks for any commercial purpose;
-* Disclose information that you do not have the right to disclose (such as confidential information of others (including your employer);
-* Use, display, mirror or frame the Site, or any individual element within the Site or Services, Academia.edu's name, any Academia.edu trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without Academia.edu's express written consent;
-* Access, tamper with, or use non-public areas of the Site, Academia.edu's computer systems, or the technical delivery systems of Academia.edu's providers;
-* Attempt to probe, scan, or test the vulnerability of any Academia.edu system or network or breach any security or authentication measures;
-* Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Academia.edu or any of Academia.edu's providers or any other third party (including another user) to protect the Site, Services or Collective Content (including any AI systems);
-* Scrape or copy profiles and information of others through any means (including crawlers, browser plugins and add-ons, and any other technology or manual work);
-* Sell, sponsor, or otherwise monetize any feature of the Services, without Academia.edu's consent;
-* Attempt to access or search the Site, Services or Collective Content or download Collective Content from the Site or Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Academia.edu or other generally available third party web browsers;
-* Use bots or other automated methods to access the Services, add or download contacts or profile information;
-* Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
-* Use any meta tags or other hidden text or metadata utilizing a Academia.edu trademark, logo URL or product name without Academia.edu's express written consent;
-* Use the Site, Services or Collective Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms;
-* Access the Services except through the interfaces expressly provided by Academia.edu;
-* Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Site, Services or Collective Content to send altered, deceptive or false source-identifying information;
-* Attempt to decipher, decompile, disassemble or reverse engineer, engage in any of the adversarial attacks set forth in the NIST AI 100-2 E 2023 publication available at [https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf), or otherwise attempt to derive or gain improper access to any of the software, components, models, algorithms or systems used to provide the Site, Services or Collective Content;
-* Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Site or Services;
-* Collect or store any personally identifiable information from the Site or Services from other users of the Site or Services without their express permission;
-* Impersonate or misrepresent your affiliation with or endorsement by any person or entity, including Academia.edu;
-* Violate any applicable law or regulation; or
-* Encourage or enable any other individual to do any of the foregoing.
+*   Post, upload, publish, submit or transmit any Content or submit any input that: (i) infringes, misappropriates or violates a third party's patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, knowingly false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar or offensive; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (vii) promotes illegal or harmful activities or substances;
+*   Use the Services or any Output in a manner that violates the usage policies of any third party services providers to Academia.edu's whose services are used by Academia.edu to facilitate AI functionality applicable providers;
+*   Utilize the Services (including any AI functionality), documentation, input or Output to train, improve or have trained or improved an AI model (e.g., engage in "model scraping");
+*   Utilize Outputs to create datasets for benchmarks for any commercial purpose;
+*   Disclose information that you do not have the right to disclose (such as confidential information of others (including your employer);
+*   Use, display, mirror or frame the Site, or any individual element within the Site or Services, Academia.edu's name, any Academia.edu trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without Academia.edu's express written consent;
+*   Access, tamper with, or use non-public areas of the Site, Academia.edu's computer systems, or the technical delivery systems of Academia.edu's providers;
+*   Attempt to probe, scan, or test the vulnerability of any Academia.edu system or network or breach any security or authentication measures;
+*   Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Academia.edu or any of Academia.edu's providers or any other third party (including another user) to protect the Site, Services or Collective Content (including any AI systems);
+*   Scrape or copy profiles and information of others through any means (including crawlers, browser plugins and add-ons, and any other technology or manual work);
+*   Sell, sponsor, or otherwise monetize any feature of the Services, without Academia.edu's consent;
+*   Attempt to access or search the Site, Services or Collective Content or download Collective Content from the Site or Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Academia.edu or other generally available third party web browsers;
+*   Use bots or other automated methods to access the Services, add or download contacts or profile information;
+*   Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
+*   Use any meta tags or other hidden text or metadata utilizing a Academia.edu trademark, logo URL or product name without Academia.edu's express written consent;
+*   Use the Site, Services or Collective Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms;
+*   Access the Services except through the interfaces expressly provided by Academia.edu;
+*   Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Site, Services or Collective Content to send altered, deceptive or false source-identifying information;
+*   Attempt to decipher, decompile, disassemble or reverse engineer, engage in any of the adversarial attacks set forth in the NIST AI 100-2 E 2023 publication available at [https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf), or otherwise attempt to derive or gain improper access to any of the software, components, models, algorithms or systems used to provide the Site, Services or Collective Content;
+*   Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Site or Services;
+*   Collect or store any personally identifiable information from the Site or Services from other users of the Site or Services without their express permission;
+*   Impersonate or misrepresent your affiliation with or endorsement by any person or entity, including Academia.edu;
+*   Violate any applicable law or regulation; or
+*   Encourage or enable any other individual to do any of the foregoing.
 
   
 
