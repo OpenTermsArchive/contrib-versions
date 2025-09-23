@@ -8,11 +8,11 @@ The Summary
 
 Hello. You should read these terms and conditions in full because they apply every time you visit Badoo and use any of its features. However, just in case you ever need a reminder of the main points, here’s a quick summary:
 
-1. If you are under the age of 18 then unfortunately you can’t use Badoo yet because it’s a meeting place for adults only.
-2. We’re not responsible for anything that you post or say while you are on Badoo and we don’t assume any obligation to monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
-3. If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
-4. Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
-5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you acknowledge that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about on our [Privacy Policy (opens in new window)](https://badoo.com/privacy/#cookies) page. You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+1.  If you are under the age of 18 then unfortunately you can’t use Badoo yet because it’s a meeting place for adults only.
+2.  We’re not responsible for anything that you post or say while you are on Badoo and we don’t assume any obligation to monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
+3.  If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
+4.  Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
+5.  If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you acknowledge that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about on our [Privacy Policy (opens in new window)](https://badoo.com/privacy/#cookies) page. You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
 The full legal bit
 ------------------
@@ -42,19 +42,19 @@ You are able to post or upload all kinds of things on Badoo, including photograp
 
 There are some rules about what is acceptable though, so when you are using Badoo you may not post, send or upload any Content which:
 
-1. is illegal or encourages, promotes or incites any illegal activity;
-2. is harmful to minors;
-3. is defamatory or libelous;
-4. itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
-5. shows another person which was created or distributed without that person’s consent;
-6. contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
-7. is obscene, pornographic, violent or otherwise may offend human dignity;
-8. is abusive, insulting or threatening, discriminatory or which promotes, depicts or encourages racism, sexism, hatred or bigotry;
-9. relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-10. involves the transmission of “junk” mail or “spam”;
-11. impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behaviour);
-12. contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal data whether from Badoo or otherwise; or
-13. in any other way violates these Terms.
+1.  is illegal or encourages, promotes or incites any illegal activity;
+2.  is harmful to minors;
+3.  is defamatory or libelous;
+4.  itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
+5.  shows another person which was created or distributed without that person’s consent;
+6.  contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
+7.  is obscene, pornographic, violent or otherwise may offend human dignity;
+8.  is abusive, insulting or threatening, discriminatory or which promotes, depicts or encourages racism, sexism, hatred or bigotry;
+9.  relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
+10.  involves the transmission of “junk” mail or “spam”;
+11.  impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behaviour);
+12.  contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal data whether from Badoo or otherwise; or
+13.  in any other way violates these Terms.
 
 Please use your common sense when picking the Content that you choose to post on, upload or send via Badoo because you are solely responsible for, and bear all liability in relation to, such Content.
 
@@ -91,9 +91,9 @@ Yes (provided you are the rightful owner in the first place - please see our oth
 
 Please note though that by posting, uploading or sending Content on Badoo you represent and warrant to us that:
 
-1. you are either the exclusive author or owner of that Content and in all cases you agree that you waive any and all moral rights relating to that Content (including, without limitation, any rights to be identified as the author);
-2. you have been granted a licence that allows you to use, post or upload the Content; or
-3. you have obtained appropriate consent or authority to use, post or upload such Content.
+1.  you are either the exclusive author or owner of that Content and in all cases you agree that you waive any and all moral rights relating to that Content (including, without limitation, any rights to be identified as the author);
+2.  you have been granted a licence that allows you to use, post or upload the Content; or
+3.  you have obtained appropriate consent or authority to use, post or upload such Content.
 
 Please note that by posting, uploading or sending Content on Badoo you represent and warrant to us that you have the right to do so, and automatically grant to us a non-exclusive, royalty free, perpetual, worldwide licence to use such Content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such Content, whether in whole or in part and in any format or medium currently known or developed in the future).
 
@@ -254,14 +254,14 @@ No. If you act in a way that upsets other users then you have to be responsible 
 
 Nothing in the Terms limits or excludes our liability for:
 
-1. death or personal injury caused by our proven negligence;
-2. fraud or fraudulent misrepresentation; or
-3. any liability which cannot be limited or excluded by law.
+1.  death or personal injury caused by our proven negligence;
+2.  fraud or fraudulent misrepresentation; or
+3.  any liability which cannot be limited or excluded by law.
 
 To the fullest extent permitted by law, Badoo expressly excludes:
 
-1. all conditions, representations, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
-2. any liability incurred by you arising from use of Badoo, its services or these Terms, including without limitation for any claims, charges, demands, damages, liabilities, losses or expenses of whatever nature and howsoever direct, indirect, incidental, special, exemplary, punitive or consequential damages (however arising including negligence), loss of use, loss of data, loss caused by a computer or electronic virus, loss of income or profit, loss of or damage to property, wasted management or office time, breach of contract or claims of third parties or other losses of any kind or character, even if Badoo has been advised of the possibility of such damages or losses, arising out of or in connection with the use of Badoo. This limitation on liability applies to, but is not limited to, the transmission of any disabling device or virus that may infect your equipment, failure or mechanical or electrical equipment or communication lines, telephone or other interconnect problems (e.g., you cannot access your internet service provider), unauthorised access, theft, bodily injury, property damage, operator errors, strikes or other labour problems or any act of god. in connection with Badoo including, without limitation, any liability for loss of revenue or income, loss of profits or contracts, loss of business, loss of anticipated savings, loss of goodwill, loss of data, wasted management or office time and any other loss or damage of any kind, however arising and whether caused by tort (including, but not limited to, negligence), breach of contract or otherwise, even if foreseeable whether arising directly or indirectly.
+1.  all conditions, representations, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
+2.  any liability incurred by you arising from use of Badoo, its services or these Terms, including without limitation for any claims, charges, demands, damages, liabilities, losses or expenses of whatever nature and howsoever direct, indirect, incidental, special, exemplary, punitive or consequential damages (however arising including negligence), loss of use, loss of data, loss caused by a computer or electronic virus, loss of income or profit, loss of or damage to property, wasted management or office time, breach of contract or claims of third parties or other losses of any kind or character, even if Badoo has been advised of the possibility of such damages or losses, arising out of or in connection with the use of Badoo. This limitation on liability applies to, but is not limited to, the transmission of any disabling device or virus that may infect your equipment, failure or mechanical or electrical equipment or communication lines, telephone or other interconnect problems (e.g., you cannot access your internet service provider), unauthorised access, theft, bodily injury, property damage, operator errors, strikes or other labour problems or any act of god. in connection with Badoo including, without limitation, any liability for loss of revenue or income, loss of profits or contracts, loss of business, loss of anticipated savings, loss of goodwill, loss of data, wasted management or office time and any other loss or damage of any kind, however arising and whether caused by tort (including, but not limited to, negligence), breach of contract or otherwise, even if foreseeable whether arising directly or indirectly.
 
 Badoo’s total liability to you in respect of losses arising under or in connection with the Terms, whether in contract, tort (including negligence, breach of statutory duty, or otherwise) shall in no circumstances exceed £20.
 
