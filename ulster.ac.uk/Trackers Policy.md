@@ -17,12 +17,12 @@ What data we collect
 
 The personal data we collect from you may include the following:
 
-* questions, queries or feedback you leave, including your email address if you contact Ulster University or sign up to our email alerts
-* your name
-* telephone numbers
-* how you use our emails - for example whether you open them and which links you click on
-* your Internet Protocol (IP) address, and details of which version of web browser you used
-* information on how you use the site, using cookies and page tagging techniques
+*   questions, queries or feedback you leave, including your email address if you contact Ulster University or sign up to our email alerts
+*   your name
+*   telephone numbers
+*   how you use our emails - for example whether you open them and which links you click on
+*   your Internet Protocol (IP) address, and details of which version of web browser you used
+*   information on how you use the site, using cookies and page tagging techniques
 
 ### Third party cookies
 
@@ -30,10 +30,10 @@ We use third party cookies, including Google Analytics, to collect information a
 
 This includes anonymised information about:
 
-* the pages you visit on ulster.ac.uk
-* how long you spend on each ulster.ac.uk page
-* how you got to the site
-* what you click on while you’re visiting the site
+*   the pages you visit on ulster.ac.uk
+*   how long you spend on each ulster.ac.uk page
+*   how you got to the site
+*   what you click on while you’re visiting the site
 
 We do not store your personal information through analytics information (for example your name or address).
 
@@ -41,7 +41,7 @@ We will not identify you through analytics information, and we will not combine 
 
 We continuously test and monitor our data protection controls to make sure they’re effective and to detect any weaknesses.
 
-* [View our Cookie Policy](https://www.ulster.ac.uk/cookie-policy)
+*   [View our Cookie Policy](https://www.ulster.ac.uk/cookie-policy)
 
 Microsoft Clarity
 -----------------
@@ -61,17 +61,17 @@ We collect information to see how you use the site and our digital services.
 
 We do this to help:
 
-* make sure the site is meeting the needs of its users
-* make improvements, for example, improving site search
+*   make sure the site is meeting the needs of its users
+*   make improvements, for example, improving site search
 
 We also collect data in order to:
 
-* gather feedback to improve our services, for example our email alerts
-* respond to any feedback you send us, if you’ve asked us to
-* send email alerts to users who request them
-* allow you to access university services, for example our student portal
-* provide you with information about Ulster University courses and services
-* monitor use of the site to identify security threats
+*   gather feedback to improve our services, for example our email alerts
+*   respond to any feedback you send us, if you’ve asked us to
+*   send email alerts to users who request them
+*   allow you to access university services, for example our student portal
+*   provide you with information about Ulster University courses and services
+*   monitor use of the site to identify security threats
 
 * * *
 
@@ -84,8 +84,8 @@ The legal basis for processing anonymised cookies data such as data for Google A
 
 The legal basis for processing all other personal data is that it’s necessary:
 
-* to perform a task in the public interest
-* in the exercise of our functions as a University
+*   to perform a task in the public interest
+*   in the exercise of our functions as a University
 
 * * *
 
@@ -96,9 +96,9 @@ The data we collect may be shared with other agencies and public bodies. It may 
 
 We will not:
 
-* sell or rent your data to third parties
-* share your data with third parties for marketing purposes
-* use your data in analytics
+*   sell or rent your data to third parties
+*   share your data with third parties for marketing purposes
+*   use your data in analytics
 
 We only allow 3rd parties to handle your data if we are satisfied they have taken appropriate measures to protect your data.  We also impose contractual obligations to ensure they protect your personal data.
 
@@ -111,8 +111,8 @@ How long we keep your data
 
 We will only retain your personal data for as long as:
 
-* it is needed for the purposes set out in this document
-* the law requires us to
+*   it is needed for the purposes set out in this document
+*   the law requires us to
 
 * * *
 
@@ -152,15 +152,15 @@ Your rights
 
 You have the right to request:
 
-* information about how your personal data is processed
-* a copy of that personal data
-* that anything inaccurate in your personal data is corrected immediately
+*   information about how your personal data is processed
+*   a copy of that personal data
+*   that anything inaccurate in your personal data is corrected immediately
 
 You can also:
 
-* raise an objection about how your personal data is processed
-* request that your personal data is erased if there is no longer a justification for it
-* ask that the processing of your personal data is restricted in certain circumstances
+*   raise an objection about how your personal data is processed
+*   request that your personal data is erased if there is no longer a justification for it
+*   ask that the processing of your personal data is restricted in certain circumstances
 
 If you have any of these requests, get in contact with our Data Protection Officer.
 
@@ -188,8 +188,8 @@ Contact us or make a complaint
 
 Contact the Data Protection Officer if you:
 
-* have a question about anything in this privacy notice
-* think that your personal data has been misused or mishandled
+*   have a question about anything in this privacy notice
+*   think that your personal data has been misused or mishandled
 
 The data protection officer can be contacted at [gpdr@ulster.ac.uk](mailto:gpdr@ulster.ac.uk)
 
