@@ -11,7 +11,7 @@ This privacy policy (“**Privacy Policy**”) covers the processing activities 
 
 This Privacy Policy covers the processing activities that WeTransfer performs as the data controller. The activities that we perform as a data processor are regulated by our [Data Processing Agreement (“**DPA**”)](https://wetransfer.com/documents/WeTransfer_Data_Processing_Agreement.pdf).
 
-* Who is the data controller
+*   Who is the data controller
     
     If you are using our Services under an individual subscription, WeTransfer B.V. (“**WeTransfer**”), located at Keizersgracht 271-287, 1016 ED, Amsterdam, the Netherlands, is the data controller of your personal data.
     
@@ -19,15 +19,15 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     If you have any questions regarding how we process your personal data, you can email us at [privacy@wetransfer.com](mailto:privacy@wetransfer.com) or contact our Data Protection Officer (“**DPO**”) at [dpo@bendingspoons.com](mailto:dpo@bendingspoons.com).
     
-* What information do we collect
+*   What information do we collect
     
     We collect information in three ways:
     
-    * Information you provide 
+    *   Information you provide 
     
-    * Information we collect automatically
+    *   Information we collect automatically
     
-    * Information we receive from other sources
+    *   Information we receive from other sources
     
       
     
@@ -67,21 +67,21 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     | Information from Others, including Law Enforcement. | We may receive information about you from others, for example, where you are included or mentioned in User Content, in a complaint, appeal, request or feedback submitted by a user or third party, including law enforcement agency, or if your contact information is provided to us by another user. | Any of the data mentioned under: Information you provide Information we collect automatically |
     | Affiliates and Acquired Companies | WeTransfer is part of a business group. Sometimes we may receive information about you from other companies of the group (our “Affiliates”). In addition, in case of mergers or acquisitions, we may receive information about you from the merged or acquired companies. | Any of the data mentioned under: Information you provide Information we collect automatically |
     
-* How we use your Information, and our legal bases for using it
+*   How we use your Information, and our legal bases for using it
     
     This section describes why and how we collect, process, and share your personal information. We provide a description of each reason or “purpose”. We also describe on which legal bases we rely to justify the processing of your information. Each reason or purpose is linked to a legal basis as well as to one or more of the information categories described in the previous section. 
     
     Here’s a brief overview of the different legal bases the GDPR provides: 
     
-    * **Performance of our Contract with You or taking steps to entering into a Contract with You**: When you use our Services, you're entering into an agreement with us (our Terms of Services). We use your information to deliver our services, support you, and make our platform function effectively for you. Before using our Services, we may use your information to take the necessary steps to entering into an agreement.
+    *   **Performance of our Contract with You or taking steps to entering into a Contract with You**: When you use our Services, you're entering into an agreement with us (our Terms of Services). We use your information to deliver our services, support you, and make our platform function effectively for you. Before using our Services, we may use your information to take the necessary steps to entering into an agreement.
     
-    * **Legitimate Interests**: We sometimes use your information in ways that are beneficial for both of us. This could include things like improving our software, preventing fraud, and marketing activities. We always balance our interests with your rights and won't use your information if it overly infringes on your privacy.
+    *   **Legitimate Interests**: We sometimes use your information in ways that are beneficial for both of us. This could include things like improving our software, preventing fraud, and marketing activities. We always balance our interests with your rights and won't use your information if it overly infringes on your privacy.
     
-    * **Consent**: in certain situations we might ask you for consent (opt-in) to process your information. When we do, we’ll make it very clear what it is we’re asking consent for. You’ll always have the right to withdraw your consent at any moment. 
+    *   **Consent**: in certain situations we might ask you for consent (opt-in) to process your information. When we do, we’ll make it very clear what it is we’re asking consent for. You’ll always have the right to withdraw your consent at any moment. 
     
-    * **To fulfill our Legal Obligations**: Just like any other company, we're bound by laws and regulations. Sometimes, we have to use your personal information to comply with these legal requirements.
+    *   **To fulfill our Legal Obligations**: Just like any other company, we're bound by laws and regulations. Sometimes, we have to use your personal information to comply with these legal requirements.
     
-    * **To protect the Vital Interests of Others**: On rare occasions, we might use or share your information to protect someone's life or to handle emergency situations.
+    *   **To protect the Vital Interests of Others**: On rare occasions, we might use or share your information to protect someone's life or to handle emergency situations.
     
       
     
@@ -116,7 +116,7 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     | Other WeTransfer companies, or companies we acquire | As a global company we have entities and colleagues in several countries around the world. These entities -and the colleagues who work there- may process your information for us. For instance, to review, develop & improve features, for security and content moderation, for analytics, technical & customer support. | Any of the data described under: Information you provide Information we collect automatically Information we receive from Other sources |
     | Parties in relation to Corporate Transactions | Your information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control, or acquisition of all or a portion of our business. | Any of the data described under: Information you provide Information we collect automatically Information we receive from Other sources |
     
-* How & when we transmit your information to others
+*   How & when we transmit your information to others
     
     There are limited instances in which we will transmit your information to reliable third parties. This happens only when there are lawful grounds for the transmission. This section describes to whom we might transmit your personal information, why, and which categories of information. 
     
@@ -131,7 +131,7 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     | Our Affiliates or companies that we acquire | As a part of a business group, we have Affiliates in several countries around the world. These Affiliates may process your information for us. For instance, to review, develop & improve features, for security and content moderation, for customer support, to carry out analysis, or for administrative and organizational purposes. | Any of the data described under: Information you provide Information we collect automatically Information we receive from Other sources |
     | Parties in relation to Corporate Transactions | Your information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control, or acquisition of all or a portion of our business. | Any of the data described under: Information you provide Information we collect automatically Information we receive from Other sources |
     
-* Why and how we use cookies
+*   Why and how we use cookies
     
     We place cookies with the intention of making WeTransfer even better. We work hard to make our Services safe, beautiful and unobtrusive. Feel free to block cookies, but this may affect how well our Services work.
     
@@ -139,19 +139,19 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     Cookies are small text files that are stored on your computer by your browser when you visit a website. Examples of cookie purposes are: your language preferences, logging into an account, remembering login details, serving you personalised advertisements and acceptance of the Terms of Service and Privacy & Cookie Statement. Our website can place these cookies for the following purposes:
     
-    * **Functional cookies** are used to provide functionalities when using our Service, such as the possibility to set preferences or to remember your previous settings.
+    *   **Functional cookies** are used to provide functionalities when using our Service, such as the possibility to set preferences or to remember your previous settings.
     
-    * **Analytical cookies** are used to optimise our Service. For example to optimise the usability of our website by AB-testing a new feature, to make the website more user-friendly and to analyse how you use our Service. We also use analytical cookies to stop bots and malicious behaviour like spam. When we use analytical cookies, this could include third party cookies, as found in the cookie list. These third party analytical cookies process personal information, which is detailed in the cookie list too.
+    *   **Analytical cookies** are used to optimise our Service. For example to optimise the usability of our website by AB-testing a new feature, to make the website more user-friendly and to analyse how you use our Service. We also use analytical cookies to stop bots and malicious behaviour like spam. When we use analytical cookies, this could include third party cookies, as found in the cookie list. These third party analytical cookies process personal information, which is detailed in the cookie list too.
     
-    * **Advertisement cookies** are used for commercial, editorial and promotional purposes. With these cookies your internet- and surf behaviour can be followed over various domains and websites. We do not track the website you visit after you leave our website. Advertisement cookies are often also placed by third parties to measure the effectiveness of their advertising campaigns and to follow your internet- and surf behaviour over other domains and websites where they have placed a cookie. WeTransfer does not have access to or control over personal information collected via these cookies or other features that advertisers and third parties may use. Our Privacy & Cookie Statement is therefore not applicable to these third party cookies and we refer you to third parties’ Privacy Statements to read how they handle personal information. You can find a list of the limited amount of third party cookies and a link to their privacy policies [here](https://wetransfer.com/explore/legal/in-app-tracking-technologies).
+    *   **Advertisement cookies** are used for commercial, editorial and promotional purposes. With these cookies your internet- and surf behaviour can be followed over various domains and websites. We do not track the website you visit after you leave our website. Advertisement cookies are often also placed by third parties to measure the effectiveness of their advertising campaigns and to follow your internet- and surf behaviour over other domains and websites where they have placed a cookie. WeTransfer does not have access to or control over personal information collected via these cookies or other features that advertisers and third parties may use. Our Privacy & Cookie Statement is therefore not applicable to these third party cookies and we refer you to third parties’ Privacy Statements to read how they handle personal information. You can find a list of the limited amount of third party cookies and a link to their privacy policies [here](https://wetransfer.com/explore/legal/in-app-tracking-technologies).
     
-    * **Pixel tags or web beacons** are a piece of code embedded on the website that collects personal information about users' engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. The pixel also allows us to see from which previous website or channel a user arrived at our website.
+    *   **Pixel tags or web beacons** are a piece of code embedded on the website that collects personal information about users' engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. The pixel also allows us to see from which previous website or channel a user arrived at our website.
     
       
     
     We have an extensive cookie list available [here](https://wetransfer.com/explore/legal/in-app-tracking-technologies), which we will update at least four times a year. Due to the changing nature of our Service, this may result in the cookie list not being fully up to date at times. If you would want to remove certain cookies, or block them from being stored in your browser, it is possible to arrange this through your browser settings for cookies. You can find these settings under the Privacy tab in the Preferences section of most browsers. Here you can specify your cookie preferences or remove cookies. Please note that if you remove or refuse WeTransfer cookies, the Service might not function in optimal form.
     
-* How we operate as a global business
+*   How we operate as a global business
     
     We are a business with a global footprint. Therefore we work together with WeTransfer entities and partners outside the European Economic Area (“EEA”). This means that we might transmit or store certain personal information to them. 
     
@@ -159,11 +159,11 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     When transmitting personal information to other WeTransfer entities, or to third parties, such as service providers and marketing partners, who are located outside the EEA, we ensure that either:
     
-    * The European Commission has issued a so-called “[Adequacy Decision](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)” regarding the country where the entity or third-party is located. This is the case for: our subsidiary as well as third-parties based in the UK, third parties based in Canada, Israel, and Switzerland, and certain third parties based in the USA who have certified themselves under the [EU-US Data Privacy Framework](https://www.dataprivacyframework.gov/s/). When this is the case, we conduct a review to ascertain whether their certification is still active.  
+    *   The European Commission has issued a so-called “[Adequacy Decision](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)” regarding the country where the entity or third-party is located. This is the case for: our subsidiary as well as third-parties based in the UK, third parties based in Canada, Israel, and Switzerland, and certain third parties based in the USA who have certified themselves under the [EU-US Data Privacy Framework](https://www.dataprivacyframework.gov/s/). When this is the case, we conduct a review to ascertain whether their certification is still active.  
     
-    * We have signed special contracts, called “[Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)”, with our Affiliates or third-party. These clauses require the other party to protect your information and to provide you with EU-level rights and protections. You can exercise your rights under the Standard Contractual Clauses by contacting us or the third party who processes your personal information
+    *   We have signed special contracts, called “[Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)”, with our Affiliates or third-party. These clauses require the other party to protect your information and to provide you with EU-level rights and protections. You can exercise your rights under the Standard Contractual Clauses by contacting us or the third party who processes your personal information
     
-* How we protect your personal information
+*   How we protect your personal information
     
     WeTransfer takes technical and organisational measures to protect your personal information against loss or other forms of unlawful processing. We take these measures against industry standards and certifications. 
     
@@ -171,7 +171,7 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     WeTransfer staff is required to conduct themselves in a manner consistent with the company’s guidelines regarding confidentiality, ethics, and appropriate usage of personal information. Staff is required to sign a confidentiality agreement and undergoes periodic security training.
     
-* How long we keep your personal information
+*   How long we keep your personal information
     
     The retention period for your personal information depends on which Service you use and on which category of personal information we’re talking about. Always check out the website(s) or app(s) of the Service(s) for the specific information on retention periods.
     
@@ -195,7 +195,7 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     Comply with our obligations under applicable law, such as the EU Digital Services Act.
     
-* Your rights and choices
+*   Your rights and choices
     
     You have certain rights under GDPR, and similar privacy laws. This section explains the different types of rights, how to exercise them, and whether they may be subject to certain limitations. After receiving your request, WeTransfer will respond within the time period limits provided by the relevant law. In the EEA and UK, the time period is one month. 
     
@@ -209,13 +209,13 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     There are scenarios where we can't erase your personal information, such as when:
     
-    * The data is still needed for the reason we gathered it.
+    *   The data is still needed for the reason we gathered it.
     
-    * WeTransfer’s interest in using the information outweighs your wish for its deletion. This might be the case when we require the data to protect our services from fraudulent or illegal activities.
+    *   WeTransfer’s interest in using the information outweighs your wish for its deletion. This might be the case when we require the data to protect our services from fraudulent or illegal activities.
     
-    * WeTransfer has a legal obligation to retain the data, or
+    *   WeTransfer has a legal obligation to retain the data, or
     
-    * WeTransfer requires the data to establish, exercise, or defend against legal action. For example, when there’s an unresolved matter linked to your account.
+    *   WeTransfer requires the data to establish, exercise, or defend against legal action. For example, when there’s an unresolved matter linked to your account.
     
       
     
@@ -243,6 +243,6 @@ This Privacy Policy covers the processing activities that WeTransfer performs as
     
     To exercise any of the above rights, please contact us via [privacy@wetransfer.com](mailto:privacy@wetransfer.com). Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details or provide additional information so that we can understand your request.
     
-* Minors
+*   Minors
     
     WeTransfer’s Services are not directed towards minors. You are only allowed to use our Services when aged 16 and over.
