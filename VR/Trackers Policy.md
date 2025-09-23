@@ -84,17 +84,17 @@ Browser settings
 
 Different web browsers offer different ways for managing cookies. Visit the websites of the browsers to learn more about managing cookies in your browser.
 
-* [Google Chrome﻿, Opens in a new tab](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)  
+*   [Google Chrome﻿, Opens in a new tab](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)  
     
-* [Microsoft Edge﻿, Opens in a new tab](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)  
+*   [Microsoft Edge﻿, Opens in a new tab](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)  
     
-* [Mozilla Firefox﻿, Opens in a new tab](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)  
+*   [Mozilla Firefox﻿, Opens in a new tab](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)  
     
-* [Microsoft Internet Explorer﻿, Opens in a new tab](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)  
+*   [Microsoft Internet Explorer﻿, Opens in a new tab](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)  
     
-* [Opera﻿, Opens in a new tab](https://help.opera.com/en/latest/web-preferences/)  
+*   [Opera﻿, Opens in a new tab](https://help.opera.com/en/latest/web-preferences/)  
     
-* [Apple Safari﻿, Opens in a new tab](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)  
+*   [Apple Safari﻿, Opens in a new tab](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)  
     
 
 We respect your privacy
