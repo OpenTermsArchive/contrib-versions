@@ -29,12 +29,12 @@ DeviantArt is, unless otherwise stated, the owner of all copyright and data righ
 
 DeviantArt respects the intellectual property rights of others and expects users of the Service to do the same. At DeviantArt's discretion and in appropriate circumstances, DeviantArt may remove Your Content submitted to the Site, terminate the accounts of users or prevent access to the Site by users who infringe the intellectual property rights of others. If you believe the copyright in your work or in the work for which you act as an agent has been infringed through this Service, please contact DeviantArt's agent for notice of claims of copyright infringement, Daniel Sowers who can be reached through [violations@deviantart.com](mailto:violations@deviantart.com). You must provide our agent with substantially the following information, which DeviantArt may then forward to the alleged infringer (see 17 U.S.C. 512 (c)(3) for further details):
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
-3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.
-4. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
-5. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner.
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+3.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.
+4.  Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
+5.  A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner.
+6.  A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Please see DeviantArt's [Copyright Policy](https://www.deviantart.com/about/policy/copyright/) for further information and details.
 
@@ -104,14 +104,14 @@ You agree to be subject to and to conduct yourself in accordance with the Devian
 
 You agree not to use the Service:
 
-1. for any unlawful purposes;
-2. to upload, post, or otherwise transmit any public and shared content (content which you offer for free) that is pornographic, obscene, offensive, blasphemous, unlawful, threatening, menacing, abusive, harmful, an invasion of privacy or publicity rights, defamatory, libelous, vulgar, illegal or otherwise objectionable;
-3. to upload, post, or otherwise transmit any subscription or paid content featuring pornographic material of real people, which offers sexual services, which glorifies sexual violence, fringe sexual fetish creations, fetish creations that are hard to distinguish from non-consensual sex, or that is obscene, offensive, blasphemous, unlawful, threatening, menacing, abusive, harmful, an invasion of privacy or publicity rights, defamatory, libelous, vulgar, illegal or otherwise objectionable;
-4. to harm minors in any way, including, but not limited to, uploading, posting, or otherwise transmitting content that violates child pornography laws, child sexual exploitation laws or laws prohibiting the depiction of minors engaged in sexual conduct, or submitting any personally identifiable information about any child under the age of 13;
-5. to forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
-6. to upload, post, or otherwise transmit any material which is likely to cause harm to DeviantArt or anyone else's computer systems, including but not limited to that which contains any virus, code, worm, data or other files or programs designed to damage or allow unauthorized access to the Service which may cause any defect, error, malfunction or corruption to the Service;
-7. for any commercial purpose, except as expressly permitted under these Terms;
-8. to sell access to the Service on any other website or to use the Service on another website for the primary purpose of gaining advertising or subscription revenue other than a personal blog or social network where the primary purpose is to display content from DeviantArt by hyperlink and not to compete with DeviantArt.
+1.  for any unlawful purposes;
+2.  to upload, post, or otherwise transmit any public and shared content (content which you offer for free) that is pornographic, obscene, offensive, blasphemous, unlawful, threatening, menacing, abusive, harmful, an invasion of privacy or publicity rights, defamatory, libelous, vulgar, illegal or otherwise objectionable;
+3.  to upload, post, or otherwise transmit any subscription or paid content featuring pornographic material of real people, which offers sexual services, which glorifies sexual violence, fringe sexual fetish creations, fetish creations that are hard to distinguish from non-consensual sex, or that is obscene, offensive, blasphemous, unlawful, threatening, menacing, abusive, harmful, an invasion of privacy or publicity rights, defamatory, libelous, vulgar, illegal or otherwise objectionable;
+4.  to harm minors in any way, including, but not limited to, uploading, posting, or otherwise transmitting content that violates child pornography laws, child sexual exploitation laws or laws prohibiting the depiction of minors engaged in sexual conduct, or submitting any personally identifiable information about any child under the age of 13;
+5.  to forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
+6.  to upload, post, or otherwise transmit any material which is likely to cause harm to DeviantArt or anyone else's computer systems, including but not limited to that which contains any virus, code, worm, data or other files or programs designed to damage or allow unauthorized access to the Service which may cause any defect, error, malfunction or corruption to the Service;
+7.  for any commercial purpose, except as expressly permitted under these Terms;
+8.  to sell access to the Service on any other website or to use the Service on another website for the primary purpose of gaining advertising or subscription revenue other than a personal blog or social network where the primary purpose is to display content from DeviantArt by hyperlink and not to compete with DeviantArt.
 
 **19A. Commercial Activities**
 
@@ -121,13 +121,13 @@ Commercial activities mean the offering, solicitation or sale of goods or servic
 
 As a registered member of the Service, you will also be able to participate as an administrator or member of a "Group" which is a set of user pages and applications formed for the purpose of collecting content, discussions and organizing members of the site with common interests. Further information about Groups can be found in our Etiquette Policy.
 
-1. You agree to participate in a Group on the basis of its own rules consistent with these Terms of Service, the conduct set out in paragraph 19, above, and such other rules created by us for Groups from time to time including with respect to the use of Groups for commercial activities.
-2. As an administrator or participant in a Group you acquire no ownership rights over the Group, the Group applications provided by us or over the right to conduct the activities of the Group.
-3. Any Content or Artists Materials submitted to a Group remain, as between the Group and the user submitting such content, the property of the person who submitted the content.
-4. Groups are managed by registered members of the Service and not by us. We are not responsible for the conduct of Group participants or administrators and will not interfere with the management or society of any specific Group or the rules it establishes for itself as long as they are consistent with these Terms of Service and our policies.
-5. Groups may not be used to collect personal data about participants in Groups without the participant's express permission.
-6. The Group application permits us to take appropriate action should intervention become necessary as a result of a violation of the Terms of Service or of any other of our policies. We can remove a Group and the Group's privileges at any time at our discretion.
-7. The use in a Group name of trademarks or distinctive trade names of properties, goods or services is subject to objections from the owner of the marks and names. DeviantArt will respond to such objections by requiring an appropriate change in the name of the Group. The use of trademarks and trade names in Group names otherwise must be descriptive of Group activity or purpose. To avoid confusion and animosity, Groups wishing to name themselves after trademarked properties must include a further description in its name of the type of Group it expects to be such as "Master Photoshop Tutorials" instead of simply "Photoshop."
+1.  You agree to participate in a Group on the basis of its own rules consistent with these Terms of Service, the conduct set out in paragraph 19, above, and such other rules created by us for Groups from time to time including with respect to the use of Groups for commercial activities.
+2.  As an administrator or participant in a Group you acquire no ownership rights over the Group, the Group applications provided by us or over the right to conduct the activities of the Group.
+3.  Any Content or Artists Materials submitted to a Group remain, as between the Group and the user submitting such content, the property of the person who submitted the content.
+4.  Groups are managed by registered members of the Service and not by us. We are not responsible for the conduct of Group participants or administrators and will not interfere with the management or society of any specific Group or the rules it establishes for itself as long as they are consistent with these Terms of Service and our policies.
+5.  Groups may not be used to collect personal data about participants in Groups without the participant's express permission.
+6.  The Group application permits us to take appropriate action should intervention become necessary as a result of a violation of the Terms of Service or of any other of our policies. We can remove a Group and the Group's privileges at any time at our discretion.
+7.  The use in a Group name of trademarks or distinctive trade names of properties, goods or services is subject to objections from the owner of the marks and names. DeviantArt will respond to such objections by requiring an appropriate change in the name of the Group. The use of trademarks and trade names in Group names otherwise must be descriptive of Group activity or purpose. To avoid confusion and animosity, Groups wishing to name themselves after trademarked properties must include a further description in its name of the type of Group it expects to be such as "Master Photoshop Tutorials" instead of simply "Photoshop."
 
 **20\. Suspension and Termination of Access and Membership**
 
@@ -167,11 +167,11 @@ Certain transactions (e.g., underpayment and overpayment of cryptocurrency trans
 
 DeviantArt enables you to use its DeviantArt Protect service (for qualifying images submitted as deviations), in order to detect potential infringements of your images that you submitted. By using DeviantArt Protect, you agree and acknowledge the following:
 
-1. The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
-2. To use DeviantArt Protect, you will need to open an account with DeviantArt, and agree to these terms and to the DeviantArt [general privacy policy](https://www.deviantart.com/about/policy/privacy/).
-3. For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification, of any potential similar image found. Upon receiving such a notice, you may choose if you wish to take action regarding such images or not (for example, by filing a DMCA takedown [notice](https://www.deviantart.com/contact-us?menuId=copyright_dmca_holder#issue-response)).
-4. We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to take the proper reporting steps. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
-5. For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
+1.  The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
+2.  To use DeviantArt Protect, you will need to open an account with DeviantArt, and agree to these terms and to the DeviantArt [general privacy policy](https://www.deviantart.com/about/policy/privacy/).
+3.  For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification, of any potential similar image found. Upon receiving such a notice, you may choose if you wish to take action regarding such images or not (for example, by filing a DMCA takedown [notice](https://www.deviantart.com/contact-us?menuId=copyright_dmca_holder#issue-response)).
+4.  We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to take the proper reporting steps. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
+5.  For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
 
 **24\. Data Scraping & Machine Learning Activities**
 
@@ -187,59 +187,59 @@ Users acknowledge that by uploading Content to DeviantArt, third-parties may scr
 
 **25\. Submitting and Purchasing Works on DeviantArt**
 
-* In order to purchase a work submitted by a Seller on the DeviantArt platform, you need to create an account on DeviantArt.
+*   In order to purchase a work submitted by a Seller on the DeviantArt platform, you need to create an account on DeviantArt.
     
-* Sale may be available via different payment methods (including PayPal, credit card or Points), depending on the item/service offered for sale. Further information is [available here](https://www.deviantartsupport.com/en/article/what-payment-methods-does-deviantart-support).
+*   Sale may be available via different payment methods (including PayPal, credit card or Points), depending on the item/service offered for sale. Further information is [available here](https://www.deviantartsupport.com/en/article/what-payment-methods-does-deviantart-support).
     
-* DeviantArt receives fees from each sale on the platform, in accordance with the Platform Fees available for your specific Core plan, [available here](https://www.deviantart.com/core-membership).
+*   DeviantArt receives fees from each sale on the platform, in accordance with the Platform Fees available for your specific Core plan, [available here](https://www.deviantart.com/core-membership).
     
-* DeviantArt reserves the right to update Platform Fees from time to time at its sole discretion. Sales transactions involving a third-party payment processor (such as credit cards or PayPal) incur a processing fee, subject to the terms [available here](https://www.deviantartsupport.com/kb/en/article/what-is-the-difference-between-platform-processing-and-payout-fees). DeviantArt reserves the right to update processing fees from time to time at its sole discretion.
+*   DeviantArt reserves the right to update Platform Fees from time to time at its sole discretion. Sales transactions involving a third-party payment processor (such as credit cards or PayPal) incur a processing fee, subject to the terms [available here](https://www.deviantartsupport.com/kb/en/article/what-is-the-difference-between-platform-processing-and-payout-fees). DeviantArt reserves the right to update processing fees from time to time at its sole discretion.
     
-* You decide on the price for any work or service offered by you.
+*   You decide on the price for any work or service offered by you.
     
-* However, DeviantArt reserves the right to set or update price guidelines, limitations, and requirements at any time, at its sole discretion.
+*   However, DeviantArt reserves the right to set or update price guidelines, limitations, and requirements at any time, at its sole discretion.
     
-* Subject to applicable law and to the extent so permitted under applicable law, purchases made on DeviantArt are non refundable.
+*   Subject to applicable law and to the extent so permitted under applicable law, purchases made on DeviantArt are non refundable.
     
-* At DeviantArt's discretion, it may elect to limit the size of transactions on the Platform.
+*   At DeviantArt's discretion, it may elect to limit the size of transactions on the Platform.
     
-* You may not sell any work that infringes on third-party rights, including intellectual property rights, publicity rights, and others, and you may not sell "deep-fakes".
+*   You may not sell any work that infringes on third-party rights, including intellectual property rights, publicity rights, and others, and you may not sell "deep-fakes".
     
-* DeviantArt is not a fiduciary, contracting agent, or representative of any Seller or Buyer, and disclaims all responsibilities and obligations related to any of these roles.
+*   DeviantArt is not a fiduciary, contracting agent, or representative of any Seller or Buyer, and disclaims all responsibilities and obligations related to any of these roles.
     
-* Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the good faith of any DeviantArt user.
+*   Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the good faith of any DeviantArt user.
     
-* DeviantArt does not attempt to confirm any member's purported identity, and DeviantArt will not be responsible for any damage or harm resulting from your interactions with other members or other third parties. DEVIANTART IS NOT RESPONSIBLE FOR THE CONDUCT OF DEVIANTART USERS AND OTHER THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD.
+*   DeviantArt does not attempt to confirm any member's purported identity, and DeviantArt will not be responsible for any damage or harm resulting from your interactions with other members or other third parties. DEVIANTART IS NOT RESPONSIBLE FOR THE CONDUCT OF DEVIANTART USERS AND OTHER THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD.
     
-* Any agreement made between a Seller and a Buyer using the Platform automatically incorporates by reference an agreement between the Seller and the Buyer that they are both subject to these Terms for the use of the Platform.
+*   Any agreement made between a Seller and a Buyer using the Platform automatically incorporates by reference an agreement between the Seller and the Buyer that they are both subject to these Terms for the use of the Platform.
     
-* DeviantArt offers its users the ability to withdraw earnings they have made on the platform to their private accounts or balances, via third parties (such as PayPal or Stripe, which may vary from time to time, at DeviantArt’s sole discretion).
+*   DeviantArt offers its users the ability to withdraw earnings they have made on the platform to their private accounts or balances, via third parties (such as PayPal or Stripe, which may vary from time to time, at DeviantArt’s sole discretion).
     
-* In order to withdraw earnings from the Platform, you must be a verified user of DeviantArt.
+*   In order to withdraw earnings from the Platform, you must be a verified user of DeviantArt.
     
-* Learn more about withdrawal methods, fees, and other important information [here](https://www.deviantartsupport.com/en/article/how-do-i-withdraw-my-earnings). Alternatively, any user may choose to convert their earnings to DeviantArt Points, which they may use across the platform, subject to the terms available [here](https://www.deviantartsupport.com/en/article/what-are-points-1749105).
+*   Learn more about withdrawal methods, fees, and other important information [here](https://www.deviantartsupport.com/en/article/how-do-i-withdraw-my-earnings). Alternatively, any user may choose to convert their earnings to DeviantArt Points, which they may use across the platform, subject to the terms available [here](https://www.deviantartsupport.com/en/article/what-are-points-1749105).
     
 
 **26\. Payment Terms**
 
-* Seller agrees to pay any fees and taxes that may accrue in relation to his or her use of the Platform, if any. All commissions to DeviantArt are non-refundable and non-transferable except as expressly provided in these Terms.
+*   Seller agrees to pay any fees and taxes that may accrue in relation to his or her use of the Platform, if any. All commissions to DeviantArt are non-refundable and non-transferable except as expressly provided in these Terms.
     
-* DeviantArt reserves the right, but has no obligation, to confirm the credibility of all payment transactions, including confirming the validity of credit card transactions, and Sellers acknowledge that such process may delay or preclude receipt of payments. DeviantArt is not obligated to process payments (i) that are deposited by fraudulent, illegal, or unauthorized means, as reasonably determined by DeviantArt or (ii) to any account located in a country or territory where there is high-risk for fraudulent activity, as reasonably determined by DeviantArt.
+*   DeviantArt reserves the right, but has no obligation, to confirm the credibility of all payment transactions, including confirming the validity of credit card transactions, and Sellers acknowledge that such process may delay or preclude receipt of payments. DeviantArt is not obligated to process payments (i) that are deposited by fraudulent, illegal, or unauthorized means, as reasonably determined by DeviantArt or (ii) to any account located in a country or territory where there is high-risk for fraudulent activity, as reasonably determined by DeviantArt.
     
-* All prices, commissions, platform fees and other amounts referred to in these Terms, including any prices, commissions and fees set forth on the Platform, are stated or are to be stated in U.S. dollars or in Points. Seller will be responsible for the payment of any taxes applicable to any earnings received through the Platform.
+*   All prices, commissions, platform fees and other amounts referred to in these Terms, including any prices, commissions and fees set forth on the Platform, are stated or are to be stated in U.S. dollars or in Points. Seller will be responsible for the payment of any taxes applicable to any earnings received through the Platform.
     
-* DeviantArt will issue any governmental forms it is required to issue to applicable government agencies with jurisdiction over any Platform transaction. DeviantArt reserves the right to suspend any payment to a Seller as and if necessary to comply with any lawful order or judgment served on DeviantArt by any government.
+*   DeviantArt will issue any governmental forms it is required to issue to applicable government agencies with jurisdiction over any Platform transaction. DeviantArt reserves the right to suspend any payment to a Seller as and if necessary to comply with any lawful order or judgment served on DeviantArt by any government.
     
-* When a payment is being paid, DeviantArt has the right to withhold the payment for seven days, in order to enable us to perform a refund or chargeback in the event necessary.
+*   When a payment is being paid, DeviantArt has the right to withhold the payment for seven days, in order to enable us to perform a refund or chargeback in the event necessary.
     
 
 **27\. Intellectual Property.**
 
-* For this purpose: (i) "**Content**" means text, graphics, images, audio, video, information, tools, descriptions of methods or techniques, applications, code or other similar materials; (ii) "**Seller Content**" means any Content a Seller posts, uploads, publishes, submits, offers as a Commission or transmits through the Platform, including but not limited to graphics, images, tutorials, tools, descriptions of methods or techniques, literary or visual story materials, digital files, applications or other materials made available by a Seller using the Platform.
+*   For this purpose: (i) "**Content**" means text, graphics, images, audio, video, information, tools, descriptions of methods or techniques, applications, code or other similar materials; (ii) "**Seller Content**" means any Content a Seller posts, uploads, publishes, submits, offers as a Commission or transmits through the Platform, including but not limited to graphics, images, tutorials, tools, descriptions of methods or techniques, literary or visual story materials, digital files, applications or other materials made available by a Seller using the Platform.
     
-* **Seller Content:** As a Seller, you grant DeviantArt a worldwide, nonexclusive, right and license, with a right to sublicense, to inspect, resize, publicly display, publicly perform, distribute, broadcast, and transmit and otherwise make Seller Content available in connection with the Platform. You acknowledge and agree that these license rights are granted on a royalty-free basis and that your sole compensation for the grant of these license rights, if any, will be in the form of the privilege of taking advantage of the Platform. Any transfer of ownership or license of rights in Content from a Seller to a Buyer occurs separately and is subject to these Terms.
+*   **Seller Content:** As a Seller, you grant DeviantArt a worldwide, nonexclusive, right and license, with a right to sublicense, to inspect, resize, publicly display, publicly perform, distribute, broadcast, and transmit and otherwise make Seller Content available in connection with the Platform. You acknowledge and agree that these license rights are granted on a royalty-free basis and that your sole compensation for the grant of these license rights, if any, will be in the form of the privilege of taking advantage of the Platform. Any transfer of ownership or license of rights in Content from a Seller to a Buyer occurs separately and is subject to these Terms.
     
-* **Ownership & Obligations:** DeviantArt does not claim any ownership rights in any Seller Content and nothing in these Terms restricts any rights that a member may have to use and exploit any Seller Content. Seller (or Buyer at the time of purchase, as applicable) reserves all other rights and licenses in and to any Seller Content that you make available on or through the Platform.
+*   **Ownership & Obligations:** DeviantArt does not claim any ownership rights in any Seller Content and nothing in these Terms restricts any rights that a member may have to use and exploit any Seller Content. Seller (or Buyer at the time of purchase, as applicable) reserves all other rights and licenses in and to any Seller Content that you make available on or through the Platform.
     
 
 **28\. Links.**  
@@ -247,15 +247,15 @@ Content and/or the Platform or its messaging may contain links to third-party we
 
 **29\. Works and Services offered for Sale**
 
-* **Commissions:** DeviantArt allows its users to offer and purchase commissioned works, under the terms to be determined between buyer and seller, and subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/commissions). You are required to read these terms before offering or buying commissioned works.
+*   **Commissions:** DeviantArt allows its users to offer and purchase commissioned works, under the terms to be determined between buyer and seller, and subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/commissions). You are required to read these terms before offering or buying commissioned works.
     
-* **Premium Downloads:** DeviantArt allows its users to offer and purchase Premium Downloads, subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/premium-downloads) and in compliance with these Terms. You are required to read these terms before offering or buying premium downloads.
+*   **Premium Downloads:** DeviantArt allows its users to offer and purchase Premium Downloads, subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/premium-downloads) and in compliance with these Terms. You are required to read these terms before offering or buying premium downloads.
     
-* **Premium Galleries:** DeviantArt allows its users to offer and purchase Premium Galleries subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/premium-galleries-1627539) and in compliance with these Terms. You are required to read these terms before offering or buying Premium Galleries.
+*   **Premium Galleries:** DeviantArt allows its users to offer and purchase Premium Galleries subject to the terms specified [here](https://www.deviantartsupport.com/en/buying-and-selling/premium-galleries-1627539) and in compliance with these Terms. You are required to read these terms before offering or buying Premium Galleries.
     
-* **Subscriptions:** DeviantArt allows its users to offer and purchase access to certain works submitted in a way that will only be visible to subscribers, subject to the terms specified [here](https://www.deviantartsupport.com/en/subscriptions/creating) and in compliance with these Terms. You are required to read these term before offering or buying Subscriptions.
+*   **Subscriptions:** DeviantArt allows its users to offer and purchase access to certain works submitted in a way that will only be visible to subscribers, subject to the terms specified [here](https://www.deviantartsupport.com/en/subscriptions/creating) and in compliance with these Terms. You are required to read these term before offering or buying Subscriptions.
     
-* **Exclusive Deviations:** DeviantArt allows its users to offer and purchase Exclusive Deviations, subject to the terms specified [here](https://www.deviantartsupport.com/kb/en/article/what-do-i-offer-and-receive-when-purchasing-exclusives) and in compliance with these Terms. You are required to read these terms before offering or buying Exclusive Deviations.
+*   **Exclusive Deviations:** DeviantArt allows its users to offer and purchase Exclusive Deviations, subject to the terms specified [here](https://www.deviantartsupport.com/kb/en/article/what-do-i-offer-and-receive-when-purchasing-exclusives) and in compliance with these Terms. You are required to read these terms before offering or buying Exclusive Deviations.
     
 
 **30\. Buyer Access**
