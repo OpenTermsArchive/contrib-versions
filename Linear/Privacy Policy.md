@@ -12,19 +12,19 @@ If you have a disability, you may access this Privacy Policy in an alternative f
 [**Privacy Policy Table of Contents**⁠](#privacy-policy-table-of-contents)
 --------------------------------------------------------------------------
 
-* **What this Privacy Policy Covers**
-* **Personal Data**
-    * Categories of Personal Data We Collect
-    * Categories of Sources of Personal Data
-    * Our Commercial or Business Purposes for Collecting Personal Data
-* **How We Share Your Personal Data**
-* **Tracking Tools** **and Opt-Out**
-* **Data Security and Retention**
-* **Personal Data of Children**
-* **Other State Law Privacy Rights**
-* **European Union Data Subject Rights**
-* **Changes to this Privacy Policy**
-* **Contact Information**
+*   **What this Privacy Policy Covers**
+*   **Personal Data**
+    *   Categories of Personal Data We Collect
+    *   Categories of Sources of Personal Data
+    *   Our Commercial or Business Purposes for Collecting Personal Data
+*   **How We Share Your Personal Data**
+*   **Tracking Tools** **and Opt-Out**
+*   **Data Security and Retention**
+*   **Personal Data of Children**
+*   **Other State Law Privacy Rights**
+*   **European Union Data Subject Rights**
+*   **Changes to this Privacy Policy**
+*   **Contact Information**
 
 [**What this Privacy Policy Covers**⁠](#what-this-privacy-policy-covers)
 ------------------------------------------------------------------------
@@ -40,109 +40,109 @@ This list details the categories of Personal Data that we collect and have colle
 
 #### [**Profile or Contact Data**⁠](#profile-or-contact-data)
 
-* _Examples of Personal Data We Collect_
-    * First and last name
-    * Email
-    * Date of birth
-    * Physical address
-    * Unique identifiers such as passwords
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers
-    * Parties You Authorize, Access or Authenticate
+*   _Examples of Personal Data We Collect_
+    *   First and last name
+    *   Email
+    *   Date of birth
+    *   Physical address
+    *   Unique identifiers such as passwords
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers
+    *   Parties You Authorize, Access or Authenticate
 
 #### [**Payment Data**⁠](#payment-data)
 
-* _Examples of Personal Data We Collect_
-    * Payment card type
-    * Last 4 digits of payment card
-    * Billing address, phone number, and email
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers (specifically our payment processing partner)
+*   _Examples of Personal Data We Collect_
+    *   Payment card type
+    *   Last 4 digits of payment card
+    *   Billing address, phone number, and email
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers (specifically our payment processing partner)
 
 #### [**Device/IP Data**⁠](#deviceip-data)
 
-* _Examples of Personal Data We Collect_
-    * IP address
-    * Device ID
-    * Domain server
-    * Type of device/operating system/browser used to access the Services
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers
-    * Parties You Authorize, Access or Authenticate
+*   _Examples of Personal Data We Collect_
+    *   IP address
+    *   Device ID
+    *   Domain server
+    *   Type of device/operating system/browser used to access the Services
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers
+    *   Parties You Authorize, Access or Authenticate
 
 #### [**Web Analytics**⁠](#web-analytics)
 
-* _Examples of Personal Data We Collect_
-    * Web page interactions
-    * Referring webpage/source through which you accessed the Services
-    * Non-identifiable request IDs
-    * Statistics associated with the interaction between device or browser and the Services
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers
-    * Parties You Authorize, Access or Authenticate
+*   _Examples of Personal Data We Collect_
+    *   Web page interactions
+    *   Referring webpage/source through which you accessed the Services
+    *   Non-identifiable request IDs
+    *   Statistics associated with the interaction between device or browser and the Services
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers
+    *   Parties You Authorize, Access or Authenticate
 
 #### [**Social Network Data**⁠](#social-network-data)
 
-* _Examples of Personal Data We Collect_
-    * Email
-    * Phone number
-    * User name
-    * IP address
-    * Device ID
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers
-    * Parties You Authorize, Access or Authenticate
+*   _Examples of Personal Data We Collect_
+    *   Email
+    *   Phone number
+    *   User name
+    *   IP address
+    *   Device ID
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers
+    *   Parties You Authorize, Access or Authenticate
 
 #### [**Other Identifying Information that You Voluntarily Choose to Provide**⁠](#other-identifying-information-that-you-voluntarily-choose-to-provide)
 
-* _Examples of Personal Data We Collect_
-    * Identifying information in emails or letters you send us
-* _Categories of Third Parties With Whom We Share this Personal Data_
-    * Service Providers
-    * Business Partners
-    * Parties You Authorize, Access or Authenticate
+*   _Examples of Personal Data We Collect_
+    *   Identifying information in emails or letters you send us
+*   _Categories of Third Parties With Whom We Share this Personal Data_
+    *   Service Providers
+    *   Business Partners
+    *   Parties You Authorize, Access or Authenticate
 
 ### [Categories of Sources of Personal Data⁠](#categories-of-sources-of-personal-data)
 
 We collect Personal Data about you from the following categories of sources:
 
-* **You**
-    * When you provide such information directly to us.
-        * When you create an account or use our interactive tools and Services.
-        * When you voluntarily provide information in free-form text boxes through the Services or through responses to surveys or questionnaires.
-        * When you send us an email or otherwise contact us.
-    * When you use the Services and such information is collected automatically.
-        * Through Cookies (as defined and described further below).
-        * If you download our mobile application or use a location-enabled browser, we may receive information about your location and mobile device, as applicable.
-        * If you download and install certain applications and software we make available, we may receive and collect information transmitted from your computing device for the purpose of providing you the relevant Services, such as information regarding when you are logged on and available to receive updates or alert notices.
-* **Third Parties**
-    * Vendors
-        * We may use analytics providers to analyze how you interact and engage with the Services, or third parties may help us provide you with customer support.  
+*   **You**
+    *   When you provide such information directly to us.
+        *   When you create an account or use our interactive tools and Services.
+        *   When you voluntarily provide information in free-form text boxes through the Services or through responses to surveys or questionnaires.
+        *   When you send us an email or otherwise contact us.
+    *   When you use the Services and such information is collected automatically.
+        *   Through Cookies (as defined and described further below).
+        *   If you download our mobile application or use a location-enabled browser, we may receive information about your location and mobile device, as applicable.
+        *   If you download and install certain applications and software we make available, we may receive and collect information transmitted from your computing device for the purpose of providing you the relevant Services, such as information regarding when you are logged on and available to receive updates or alert notices.
+*   **Third Parties**
+    *   Vendors
+        *   We may use analytics providers to analyze how you interact and engage with the Services, or third parties may help us provide you with customer support.  
             
 
 _Our Commercial or Business Purposes for Collecting Personal Data_
 
-* **Providing, Customizing and Improving the Services**
-    * Creating and managing your account or other user profiles.
-    * Processing orders or other transactions; billing.
-    * Providing you with the products, services or information you request.
-    * Meeting or fulfilling the reason you provided the information to us.
-    * Providing support and assistance for the Services.
-    * Improving the Services, including testing, research, internal analytics and product development.
-    * Personalizing the Services, website content and communications based on your preferences.
-    * Doing fraud protection, security and debugging.
-    * Carrying out other business purposes stated when collecting your Personal Data or as otherwise set forth in applicable data privacy laws.
-* **Marketing the Services**
-    * Marketing and selling the Services.
-* **Corresponding with You**
-    * Responding to correspondence that we receive from you, contacting you when necessary or requested, and sending you information about Linear or the Services.
-    * Sending emails and other communications according to your preferences or that display content that we think will interest you.
-* **Meeting Legal Requirements and Enforcing Legal Terms**
-    * Fulfilling our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
-    * Protecting the rights, property or safety of you, Linear or another party.
-    * Enforcing any agreements with you.
-    * Responding to claims that any posting or other content violates third-party rights.
-    * Resolving disputes.  
+*   **Providing, Customizing and Improving the Services**
+    *   Creating and managing your account or other user profiles.
+    *   Processing orders or other transactions; billing.
+    *   Providing you with the products, services or information you request.
+    *   Meeting or fulfilling the reason you provided the information to us.
+    *   Providing support and assistance for the Services.
+    *   Improving the Services, including testing, research, internal analytics and product development.
+    *   Personalizing the Services, website content and communications based on your preferences.
+    *   Doing fraud protection, security and debugging.
+    *   Carrying out other business purposes stated when collecting your Personal Data or as otherwise set forth in applicable data privacy laws.
+*   **Marketing the Services**
+    *   Marketing and selling the Services.
+*   **Corresponding with You**
+    *   Responding to correspondence that we receive from you, contacting you when necessary or requested, and sending you information about Linear or the Services.
+    *   Sending emails and other communications according to your preferences or that display content that we think will interest you.
+*   **Meeting Legal Requirements and Enforcing Legal Terms**
+    *   Fulfilling our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
+    *   Protecting the rights, property or safety of you, Linear or another party.
+    *   Enforcing any agreements with you.
+    *   Responding to claims that any posting or other content violates third-party rights.
+    *   Resolving disputes.  
         
 
 We will not collect additional categories of Personal Data or use the Personal Data we collected for materially different, unrelated or incompatible purposes without providing you notice.
@@ -152,22 +152,22 @@ We will not collect additional categories of Personal Data or use the Personal D
 
 We disclose your Personal Data to the categories of service providers and other parties listed in this section. Depending on state laws that may be applicable to you, some of these disclosures may constitute a “sale” of your Personal Data. For more information, please refer to the state-specific sections below.
 
-* **Service Providers.** These parties help us provide the Services or perform business functions on our behalf. They include:
-    * Hosting, technology and communication providers.
-    * Security and fraud prevention consultants.
-    * Analytics providers.
-    * Support and customer service vendors.
-    * Product fulfillment and delivery providers.
-    * Payment processors.
-        * Our payment processing partner collects your voluntarily-provided payment card information necessary to process your payment.
-        * Please see Stripe’s terms of service and privacy policy for information on its use and storage of your Personal Data.
-* **Business Partners. These parties partner with us in offering various services. They include:**
-    * Businesses that you have a relationship with.
-    * Companies that we partner with to offer joint promotional offers or opportunities.
-* **Parties You Authorize, Access or Authenticate**
-    * Third parties you access through the services.
-    * Social media services.
-    * Other users.  
+*   **Service Providers.** These parties help us provide the Services or perform business functions on our behalf. They include:
+    *   Hosting, technology and communication providers.
+    *   Security and fraud prevention consultants.
+    *   Analytics providers.
+    *   Support and customer service vendors.
+    *   Product fulfillment and delivery providers.
+    *   Payment processors.
+        *   Our payment processing partner collects your voluntarily-provided payment card information necessary to process your payment.
+        *   Please see Stripe’s terms of service and privacy policy for information on its use and storage of your Personal Data.
+*   **Business Partners. These parties partner with us in offering various services. They include:**
+    *   Businesses that you have a relationship with.
+    *   Companies that we partner with to offer joint promotional offers or opportunities.
+*   **Parties You Authorize, Access or Authenticate**
+    *   Third parties you access through the services.
+    *   Social media services.
+    *   Other users.  
         
 
 #### [_Legal Obligations_⁠](#legal-obligations)
@@ -189,9 +189,9 @@ The Services use cookies and similar technologies such as pixel tags, web beacon
 
 We use the following types of Cookies:
 
-* Essential Cookies. Essential Cookies are required for providing you with features or services that you have requested. For example, certain Cookies enable you to log into secure areas of our Services. Disabling these Cookies may make certain features and services unavailable.
-* Functional Cookies. Functional Cookies are used to record your choices and settings regarding our Services, maintain your preferences over time and recognize you when you return to our Services. These Cookies help us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-* Performance/Analytical Cookies. Performance/Analytical Cookies allow us to understand how visitors use our Services. They do this by collecting information about the number of visitors to the Services, what pages visitors view on our Services and how long visitors are viewing pages on the Services. Performance/Analytical Cookies also help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the Services’ content for those who engage with our advertising.
+*   Essential Cookies. Essential Cookies are required for providing you with features or services that you have requested. For example, certain Cookies enable you to log into secure areas of our Services. Disabling these Cookies may make certain features and services unavailable.
+*   Functional Cookies. Functional Cookies are used to record your choices and settings regarding our Services, maintain your preferences over time and recognize you when you return to our Services. These Cookies help us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+*   Performance/Analytical Cookies. Performance/Analytical Cookies allow us to understand how visitors use our Services. They do this by collecting information about the number of visitors to the Services, what pages visitors view on our Services and how long visitors are viewing pages on the Services. Performance/Analytical Cookies also help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the Services’ content for those who engage with our advertising.
 
 You can decide whether or not to accept Cookies through your internet browser’s settings. Most browsers have an option for turning off the Cookie feature, which will prevent your browser from accepting new Cookies, as well as (depending on the sophistication of your browser software) allow you to decide on acceptance of each new Cookie in a variety of ways. You can also delete all Cookies that are already on your device. If you do this, however, you may have to manually adjust some preferences every time you visit our website and some of the Services and functionalities may not work.
 
@@ -241,21 +241,21 @@ The “Our Commercial or Business Purposes for Collecting Personal Data” secti
 
 We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our “legitimate interests” or the legitimate interest of others, as further described below.
 
-* Contractual Necessity:  We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our Terms of Use with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data. Examples include:
-    * Profile or Contact Data
-    * Web Analytics or other similar network activity information
-    * Payment Data.
-    * Social Network Data.
-    * Device Data.
-    * Other Identifying Information that You Voluntarily Choose to Provide.
-* Legitimate Interest:  We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties. We may also de-identify or anonymize Personal Data to further our legitimate interests. Examples of these legitimate interests include:
-    * Providing, customizing and improving the Services.
-    * Marketing the Services.
-    * Corresponding with you.
-    * Meeting legal requirements and enforcing legal terms.
-    * Completing corporate transactions.
-* Consent:  In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection.
-* Other Processing Grounds:  From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+*   Contractual Necessity:  We process the following categories of Personal Data as a matter of “contractual necessity”, meaning that we need to process the data to perform under our Terms of Use with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data. Examples include:
+    *   Profile or Contact Data
+    *   Web Analytics or other similar network activity information
+    *   Payment Data.
+    *   Social Network Data.
+    *   Device Data.
+    *   Other Identifying Information that You Voluntarily Choose to Provide.
+*   Legitimate Interest:  We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties. We may also de-identify or anonymize Personal Data to further our legitimate interests. Examples of these legitimate interests include:
+    *   Providing, customizing and improving the Services.
+    *   Marketing the Services.
+    *   Corresponding with you.
+    *   Meeting legal requirements and enforcing legal terms.
+    *   Completing corporate transactions.
+*   Consent:  In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection.
+*   Other Processing Grounds:  From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
 
 #### [_Sharing Personal Data_⁠](#sharing-personal-data)
 
@@ -267,14 +267,14 @@ You have certain rights with respect to your Personal Data, including those set 
 
 Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
 
-* **Access**:  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by logging on to your account.
-* **Rectification**:  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by logging on to your account.
-* **Erasure**:  You can request that we erase some or all of your Personal Data from our systems.
-* **Withdrawal of Consent**:  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
-* **Portability**:  You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
-* **Objection**:  You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes.
-* **Restriction of Processing**:  You can ask us to restrict further processing of your Personal Data.
-* **Right to File Complaint**:  You have the right to lodge a complaint about Linear's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+*   **Access**:  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by logging on to your account.
+*   **Rectification**:  If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by logging on to your account.
+*   **Erasure**:  You can request that we erase some or all of your Personal Data from our systems.
+*   **Withdrawal of Consent**:  If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
+*   **Portability**:  You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
+*   **Objection**:  You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes.
+*   **Restriction of Processing**:  You can ask us to restrict further processing of your Personal Data.
+*   **Right to File Complaint**:  You have the right to lodge a complaint about Linear's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
 #### [_Transfers of Personal Data_⁠](#transfers-of-personal-data)
 
