@@ -7,12 +7,12 @@ If you have any questions, please reach out to [sr.ht-support](mailto:~sircmpwn/
 
 #### [#](#tldr)tl;dr
 
-* You need to be old enough to have an account and you are responsible for your account. We can cut you off at any time.
-* Use our services in good faith and don't get us in trouble.
-* You grant us enough rights to your content to provide our services.
-* We can terminate service at any time.
-* Some services may require payment.
-* We'll email you before these terms change.
+*   You need to be old enough to have an account and you are responsible for your account. We can cut you off at any time.
+*   Use our services in good faith and don't get us in trouble.
+*   You grant us enough rights to your content to provide our services.
+*   We can terminate service at any time.
+*   Some services may require payment.
+*   We'll email you before these terms change.
 
 This is for quick reference only, binding terms follow.
 
@@ -42,20 +42,20 @@ You must not use SourceHut in an unlawful manner, such as by storing or transmit
 
 The following types of content are explicitly prohibited:
 
-* explicit sexual content
-* malware in executable form; or in source form without obvious disclaimers describing the legal and practical risks of use
-* any content which utilizes our platform for malware delivery or activation
-* content which infringes on any copyright, patent, or trademark you do not own
-* content related to cryptocurrency or blockchain technologies
+*   explicit sexual content
+*   malware in executable form; or in source form without obvious disclaimers describing the legal and practical risks of use
+*   any content which utilizes our platform for malware delivery or activation
+*   content which infringes on any copyright, patent, or trademark you do not own
+*   content related to cryptocurrency or blockchain technologies
 
 You must not deliberately use the services for the purpose of:
 
-* impacting service availability for other users
-* obtaining or disclosing private information of other users
-* impersonating any person other than yourself or organizations you are authorized to represent
-* spamming, unsolicited advertising, or solicitation
-* threatening or harassing others
-* cryptocurrency mining
+*   impacting service availability for other users
+*   obtaining or disclosing private information of other users
+*   impersonating any person other than yourself or organizations you are authorized to represent
+*   spamming, unsolicited advertising, or solicitation
+*   threatening or harassing others
+*   cryptocurrency mining
 
 You may use automated tools to obtain public information from the services for the purposes of archival or open-access research. You may not use this data for recruiting, solicitation, or profit.
 
@@ -63,15 +63,15 @@ You may use automated tools to obtain public information from the services for t
 
 You may use automated tools to access SourceHut data in bulk (i.e. crawlers, robots, spiders, etc) provided that:
 
-1. You obey the rules set forth in robots.txt
-2. Your software uses a User-Agent header which clearly identifies your software and its operators, including your contact information
-3. You request data from SourceHut at a rate which does not adversely affect the performance of the services for normal users
+1.  You obey the rules set forth in robots.txt
+2.  Your software uses a User-Agent header which clearly identifies your software and its operators, including your contact information
+3.  You request data from SourceHut at a rate which does not adversely affect the performance of the services for normal users
 
 You may _only_ collect this data for one or more of the following purposes:
 
-* Search engine indexing
-* Open-access research
-* Data archival
+*   Search engine indexing
+*   Open-access research
+*   Data archival
 
 You may not use automated tools to collect SourceHut data for solicitation, profit, or the training of a machine learning model.
 
