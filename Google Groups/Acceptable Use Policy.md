@@ -10,14 +10,14 @@ Our content policies play an important role in maintaining a positive experience
 
 **Adult Content**: We do allow adult content on Google Groups, including images or videos that contain nudity or sexual activity. But, you must mark your group as 'adult' in your settings. There are some exceptions to our adult content policy:
 
-* Do not use Groups as a way to make money on adult content. For example, don’t link to commercial porn websites in order to make money in your posts.
-* We do not allow non-consensual or illegal sexual content, including image, video or textual content that depicts or encourages rape, incest, bestiality, or necrophilia.
-* Do not post or distribute private nude, sexually explicit, or non-explicit intimate and sexual images or videos without the subject’s consent. If someone has posted a private nude, sexually explicit, or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/groups/answer/7540088).
+*   Do not use Groups as a way to make money on adult content. For example, don’t link to commercial porn websites in order to make money in your posts.
+*   We do not allow non-consensual or illegal sexual content, including image, video or textual content that depicts or encourages rape, incest, bestiality, or necrophilia.
+*   Do not post or distribute private nude, sexually explicit, or non-explicit intimate and sexual images or videos without the subject’s consent. If someone has posted a private nude, sexually explicit, or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/groups/answer/7540088).
 
 **Child safety**: We have a zero tolerance policy towards content that exploits children. Some examples of this include:
 
-* **Child sexual abuse imagery**: We will terminate the accounts of any user we find publishing or distributing child sexual abuse imagery. We will also report that user to law enforcement.
-* **Pedophilia**: We do not allow content that encourages or promotes sexual attraction towards children. For example, do not create groups or post messages with galleries of images of children where the collection of images or text accompanying the images is sexually suggestive.
+*   **Child sexual abuse imagery**: We will terminate the accounts of any user we find publishing or distributing child sexual abuse imagery. We will also report that user to law enforcement.
+*   **Pedophilia**: We do not allow content that encourages or promotes sexual attraction towards children. For example, do not create groups or post messages with galleries of images of children where the collection of images or text accompanying the images is sexually suggestive.
 
 **Hate Speech**: We want you to use Google Groups to express your opinions, even very controversial ones. But, don't cross the line by publishing hate speech. By this, we mean content that promotes hate or violence towards groups based on race, ethnicity, nationality, religion, disability, gender, age, veteran status, or sexual orientation/gender identity. For example, don't write a post saying that members of Race X are criminals or advocating violence against followers of Religion Y.
 
@@ -62,6 +62,6 @@ If you encounter a group or message that you believe violates our content polici
 
 Our teams review the reports. If the content doesn't violate our policies, we won’t take any action. If it does, we’ll do one or more of the following:
 
-* Delete the offending content globally
-* Disable the author's access to his/her Google Account
-* Report the user to law enforcement
+*   Delete the offending content globally
+*   Disable the author's access to his/her Google Account
+*   Report the user to law enforcement
