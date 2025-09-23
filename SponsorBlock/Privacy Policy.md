@@ -16,11 +16,11 @@ Almost all data that is collected through this extension can be downloaded from 
 
 The only things I keep are:
 
-* Information you submit (segments, votes)
-* A hashed version of your userID (a randomly generated value assigned when you first install the extension)
-* The time the submission happened
-* A hashed + salted version of your ip address for ratelimiting. This process makes it close to impossible to retrieve the original value if they don't have access to the salt.
-* The name of your client (if using an extension, another port, etc.)
+*   Information you submit (segments, votes)
+*   A hashed version of your userID (a randomly generated value assigned when you first install the extension)
+*   The time the submission happened
+*   A hashed + salted version of your ip address for ratelimiting. This process makes it close to impossible to retrieve the original value if they don't have access to the salt.
+*   The name of your client (if using an extension, another port, etc.)
 
 The extention also optionally logs whenever you skip a segment. This is used to let other users know how much their submissions have helped others (leaderboard). The skip tracking is completely anonymous and can be disabled in settings.
 
@@ -31,24 +31,24 @@ Requests sent to the server while using the extension
 
 Each time you browse to a new YouTube video:
 
-* An anonymous request is sent asking for the segments for that video.
-    * This request contains a [**prefix** of the videoID hash](https://github.com/ajayyy/SponsorBlock/wiki/K-Anonymity), and returns a list of videos that potentially could be the one you are looking for
-    * This request contains no personally identifiable information and no IPs are logged connected with this request
+*   An anonymous request is sent asking for the segments for that video.
+    *   This request contains a [**prefix** of the videoID hash](https://github.com/ajayyy/SponsorBlock/wiki/K-Anonymity), and returns a list of videos that potentially could be the one you are looking for
+    *   This request contains no personally identifiable information and no IPs are logged connected with this request
 
 Each time you skip a segment: IF you have skip tracking enabled:
 
-* An anonymous request is sent with the ID of the segment to record one skip
-    * This request contains no personally identifiable information and no IPs are logged connected with this request
+*   An anonymous request is sent with the ID of the segment to record one skip
+    *   This request contains no personally identifiable information and no IPs are logged connected with this request
 
 Each time you vote on a submission:
 
-* A request with your userID and the segment ID is sent
-    * A hashed IP is stored with this information to help prevent spammers
+*   A request with your userID and the segment ID is sent
+    *   A hashed IP is stored with this information to help prevent spammers
 
 Each time you submit a segment
 
-* A request with the video ID, your user ID and the submission is sent
-    * A hashed IP is stored with this information to help prevent spammers
+*   A request with the video ID, your user ID and the submission is sent
+    *   A hashed IP is stored with this information to help prevent spammers
 
 ### User counting
 
@@ -56,9 +56,9 @@ Each time you submit a segment
 
 For every request:
 
-* A hashed + salted (salt rotated every 48 hours) IP address is temporarily stored **without** the actual request details
-    * This allows the stats page to have count the number of users of the API
-    * This data is stored in a seperate program from the main server and stored in memory. Form more details on how it works, [see here](https://github.com/ajayyy/PrivacyUserCount/#privacy-user-counter)
+*   A hashed + salted (salt rotated every 48 hours) IP address is temporarily stored **without** the actual request details
+    *   This allows the stats page to have count the number of users of the API
+    *   This data is stored in a seperate program from the main server and stored in memory. Form more details on how it works, [see here](https://github.com/ajayyy/PrivacyUserCount/#privacy-user-counter)
 
 Extension Local Storage
 =======================
@@ -69,11 +69,11 @@ This data stays on your device
 
 Each time you skip a segment:
 
-* A sum is counted of the amount of time you have skipped in total
+*   A sum is counted of the amount of time you have skipped in total
 
 Each time you downvote or hide a segment: If you have downvote storage enabled:
 
-* A hash prefix of the videoID is stored locally along with a hash of the segment ID to keep that segment hidden when you watch the video in the future
+*   A hash prefix of the videoID is stored locally along with a hash of the segment ID to keep that segment hidden when you watch the video in the future
 
 Children's Information
 ----------------------
