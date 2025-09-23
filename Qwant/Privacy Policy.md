@@ -56,18 +56,18 @@ Only in the case of creating a User Account and accessing new features (such as 
 
 You can refuse all these cookies and:
 
-* Use our services without creating a User Account,
-* Refuse all these processes.
+*   Use our services without creating a User Account,
+*   Refuse all these processes.
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | **NON CONSENT** |     |     |     |
 | Managing your user account | If you have created an account, we use your account data to manage your User Account, allow you to log in, and send you communications necessary for its proper functioning. | Contract execution | Batch, Qwant & Shadow. |
 | Displaying standard (non-personalized) ads.<br><br>_Without a User Account_ | We use your browsing data to offer you contextual advertising that exclusively depends on the keywords entered when the ad is displayed. In this case, we do not display targeted ads and do not integrate any cookies. | Legitimate interest | Our advertising partners |
-| Statistics and audience measurements | We may use your account data (excluding email address), Device data, and browsing data to manage the Site in an aggregated way.<br><br>This management requires the use of traffic and/or performance statistics without your identity being known to Qwant.<br><br>These measures are essential to analyze the Site’s operation and to provide our Services:<br><br>* Performance measurement<br>* Navigation issue detection<br>* Technical performance optimization or ergonomics<br>* Content estimation, etc. | Legitimate interest<br><br>Purpose:<br><br>“Statistics and audience measurements” | Piwik & Qwant |
+| Statistics and audience measurements | We may use your account data (excluding email address), Device data, and browsing data to manage the Site in an aggregated way.<br><br>This management requires the use of traffic and/or performance statistics without your identity being known to Qwant.<br><br>These measures are essential to analyze the Site’s operation and to provide our Services:<br><br>*   Performance measurement<br>*   Navigation issue detection<br>*   Technical performance optimization or ergonomics<br>*   Content estimation, etc. | Legitimate interest<br><br>Purpose:<br><br>“Statistics and audience measurements” | Piwik & Qwant |
 | A/B Testing | Occasionally, we may conduct A/B tests. These tests allow us to compare different versions of our engine or features to see which works best.<br><br>The objective is to understand user preferences and improve the usability and effectiveness of our search engine.<br><br>In this context, we only use aggregated and anonymised data, such as the number of clicks on a feature or the time spent on a page, to assess the performance of the different versions tested.<br><br>For these tests, Qwant’s provider retains an anonymous identifier generated randomly and kept for 6 months from the first visit. | Purpose : A/B Testing | Qwant & Piwik. |
 | Measuring the effectiveness of certain contextual advertising results | To establish an aggregated measure of the effectiveness of ads provided by our partner Microsoft and to strengthen its means of detecting fraudulent clicks, Qwant can also transfer the following data for certain categories of ads: if you click on a Microsoft network ad and return to the same Qwant results page:<br><br>– The measurement of the time elapsed between your click on the ad and your possible return to the results page. This data shared with Microsoft is used exclusively for the purposes mentioned above and cannot be used for other purposes. In particular, it cannot be used for user profile-based advertising on Qwant or third-party services.<br><br>This data is transmitted to this partner within the European Union and may be retained in accordance with [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) for a maximum period of 18 months. | Necessary for contract<br><br>execution | Microsoft &<br><br>Qwant |
-| Providing the necessary functionalities for our Services to work (_processing user requests__,__displaying ads, functioning of new features)_ | Qwant retains the keywords entered associated with a pseudonymous identifier calculated from the User Account data and the salted hash of your IP address for 1 month.<br><br>After this period, the keywords are no longer associated with an identifier and retained for 12 months for aggregated statistical analysis purposes.<br><br>To provide relevant results when we do not have the answers to your queries ourselves, we have a partnership with Microsoft to provide our search results and contextual ads based on the entered keywords and your geographic region.<br><br>For this purpose, Qwant can transfer the following pseudonymized data to this partner related to your query:<br><br>* Search keywords,<br>* Information about the browser you are using,<br>* The first three bytes of your IP address or, in the case of a User Account, the IP address,<br>* The approximate geographic area originating the search on a regional or city level,<br>* The salted hash generated from your IP address, User Agent, and a salt changing at least every 3 months,<br>* A random token generated by Qwant (aiming to limit data cross-referencing).<br><br>Additionally, for the security and reliability of our partner’s services (spam detection, automated activity, fraudulent ad clicks), Qwant may also collect and transfer your full IP address to this partner.<br><br>Finally, as part of providing new features, Qwant shares your IP address with Microsoft to provide you with contextual ads and better search results. | Contract execution<br><br>and legitimate interest. | Qwant & Microsoft Advertising. |
+| Providing the necessary functionalities for our Services to work (_processing user requests__,__displaying ads, functioning of new features)_ | Qwant retains the keywords entered associated with a pseudonymous identifier calculated from the User Account data and the salted hash of your IP address for 1 month.<br><br>After this period, the keywords are no longer associated with an identifier and retained for 12 months for aggregated statistical analysis purposes.<br><br>To provide relevant results when we do not have the answers to your queries ourselves, we have a partnership with Microsoft to provide our search results and contextual ads based on the entered keywords and your geographic region.<br><br>For this purpose, Qwant can transfer the following pseudonymized data to this partner related to your query:<br><br>*   Search keywords,<br>*   Information about the browser you are using,<br>*   The first three bytes of your IP address or, in the case of a User Account, the IP address,<br>*   The approximate geographic area originating the search on a regional or city level,<br>*   The salted hash generated from your IP address, User Agent, and a salt changing at least every 3 months,<br>*   A random token generated by Qwant (aiming to limit data cross-referencing).<br><br>Additionally, for the security and reliability of our partner’s services (spam detection, automated activity, fraudulent ad clicks), Qwant may also collect and transfer your full IP address to this partner.<br><br>Finally, as part of providing new features, Qwant shares your IP address with Microsoft to provide you with contextual ads and better search results. | Contract execution<br><br>and legitimate interest. | Qwant & Microsoft Advertising. |
 | Managing dereferencing requests | When you wish to exercise your right to dereferencing, we use your account data and/or the data you provide within the form to respond to your dereferencing request. | Legitimate interest | Qwant |
 | Managing information requests | When you request information, we use your account data and/or the data you provide within the contact form to respond to your request. | Legitimate interest | Qwant |
 
@@ -120,11 +120,11 @@ What are your rights and how to exercise them?
 
 In accordance with the law related to data processing, files, and liberties as well as the GDPR, you have the following rights regarding your personal data:
 
-* Right to access your processed data in an understandable format,
-* Right to rectify and update incorrect or incomplete data,
-* Right to erasure if the data is no longer necessary for the initial purpose, if you have withdrawn your consent on which the data processing is based, if the data is subject to unlawful processing, or if the data must be erased to comply with a legal obligation,
-* Right to object to your data being used for commercial prospecting or other purposes based on our respective interests,
-* Right to data portability, i.e., to request Qwant to communicate the data in a structured, commonly used, and machine-readable format
+*   Right to access your processed data in an understandable format,
+*   Right to rectify and update incorrect or incomplete data,
+*   Right to erasure if the data is no longer necessary for the initial purpose, if you have withdrawn your consent on which the data processing is based, if the data is subject to unlawful processing, or if the data must be erased to comply with a legal obligation,
+*   Right to object to your data being used for commercial prospecting or other purposes based on our respective interests,
+*   Right to data portability, i.e., to request Qwant to communicate the data in a structured, commonly used, and machine-readable format
 
 These rights are exercised by sending a request to the following email address: legal@qwant.com
 
@@ -138,9 +138,9 @@ Furthermore, you can file a complaint with the data protection authority of your
 
 We may also need to modify or update this policy. Any changes will be displayed on this page and/or other relevant locations to keep you informed.
 
-* Mise à jour : 20/05/2024
+*   Mise à jour : 20/05/2024
 
-* [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
-* [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
-* [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
-* [Ranking](https://about.qwant.com/en/legal/classement/)
+*   [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
+*   [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
+*   [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
+*   [Ranking](https://about.qwant.com/en/legal/classement/)
