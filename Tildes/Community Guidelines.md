@@ -23,7 +23,7 @@ Multiple accounts
 
 You may register and use multiple Tildes accounts, but do not:
 
-* Use additional accounts for the purpose of deceiving others, such as by replying to your own posts from different accounts to create the illusion of support.
-* Use additional accounts to manipulate site mechanics beyond what you could do with a single account. For example, do not vote multiple times on the same post, or vote on your own posts.
+*   Use additional accounts for the purpose of deceiving others, such as by replying to your own posts from different accounts to create the illusion of support.
+*   Use additional accounts to manipulate site mechanics beyond what you could do with a single account. For example, do not vote multiple times on the same post, or vote on your own posts.
 
 The text of this page is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
