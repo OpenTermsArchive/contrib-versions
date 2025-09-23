@@ -47,15 +47,15 @@ The user is responsible for the data stored on Gofile servers. We provide the us
 
 You agree not to use our services to:
 
-* Broadcast, send, or transmit any content that incites hatred or refers to torture or death.
-* Cause harm to minors, especially by disseminating child pornography.
-* Broadcast, display, or transmit any content that would violate patents, trademarks, trade secrets, copyrights, or any other property right belonging to a third party.
-* Send unsolicited commercial emails (“spam”).
-* Hide identity to perform illegal, fraudulent, or infringing activities on intellectual property rights of a third party; broadcasting harmful, illegal, or defamatory content.
-* Allow others to use our services illegally, invasively, prejudicially, defamatory, or fraudulently; to alter, steal, corrupt, disable, destroy, illegally access or violate any computer file, database, or network security or encryption; to interfere with the use of our network by other authorized clients or users; violate the use conditions of Gofile's infrastructure providers, provided that you are aware of these policies and that they are publicly available on the websites of the infrastructure providers; or in a manner that is contrary to generally accepted internet etiquette.
-* Try to gain access to an account or computer resource that does not belong to you, without the owner's permission.
-* Interfere with the use or enjoyment of our network or any other service by other authorized clients or users. This includes excessive use that damages fair use by other users and clients of Gofile.
-* Import any copy of copyrighted content for the purpose of sale, rental, distribution, or any other benefit or reward.
+*   Broadcast, send, or transmit any content that incites hatred or refers to torture or death.
+*   Cause harm to minors, especially by disseminating child pornography.
+*   Broadcast, display, or transmit any content that would violate patents, trademarks, trade secrets, copyrights, or any other property right belonging to a third party.
+*   Send unsolicited commercial emails (“spam”).
+*   Hide identity to perform illegal, fraudulent, or infringing activities on intellectual property rights of a third party; broadcasting harmful, illegal, or defamatory content.
+*   Allow others to use our services illegally, invasively, prejudicially, defamatory, or fraudulently; to alter, steal, corrupt, disable, destroy, illegally access or violate any computer file, database, or network security or encryption; to interfere with the use of our network by other authorized clients or users; violate the use conditions of Gofile's infrastructure providers, provided that you are aware of these policies and that they are publicly available on the websites of the infrastructure providers; or in a manner that is contrary to generally accepted internet etiquette.
+*   Try to gain access to an account or computer resource that does not belong to you, without the owner's permission.
+*   Interfere with the use or enjoyment of our network or any other service by other authorized clients or users. This includes excessive use that damages fair use by other users and clients of Gofile.
+*   Import any copy of copyrighted content for the purpose of sale, rental, distribution, or any other benefit or reward.
 
 We reserve the right to terminate any account that violates these rules, without notice, in accordance with the laws and policies established by Gofile as a hosting service. Furthermore, if the user violates these rules, we will fully cooperate with authorities by providing information about the user and content.
 
