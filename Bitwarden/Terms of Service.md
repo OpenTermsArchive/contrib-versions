@@ -30,17 +30,17 @@ Effective date: June 1, 2017
 
 **Short version:** _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information._
 
-1. The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the Bitwarden Privacy Policy, available at [bitwarden.com/privacy](https://bitwarden.com/privacy/)) and procedures that we may publish from time to time on the Website.
+1.  The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the Bitwarden Privacy Policy, available at [bitwarden.com/privacy](https://bitwarden.com/privacy/)) and procedures that we may publish from time to time on the Website.
     
-2. The "Service" refers to the applications, software, products, and services provided by Bitwarden.
+2.  The "Service" refers to the applications, software, products, and services provided by Bitwarden.
     
-3. The "Website" refers to Bitwarden's website located at [bitwarden.com](https://bitwarden.com/), and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as [vault.bitwarden.com](https://vault.bitwarden.com/) and [bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3.  The "Website" refers to Bitwarden's website located at [bitwarden.com](https://bitwarden.com/), and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as [vault.bitwarden.com](https://vault.bitwarden.com/) and [bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
     
-4. "The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age.
+4.  "The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age.
     
-5. "Bitwarden,", "8bit," "We," and "Us" refer to 8bit Solutions LLC, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+5.  "Bitwarden,", "8bit," "We," and "Us" refer to 8bit Solutions LLC, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
     
-6. "Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Paid Content" is Content only available to Users who are participating in a payment plan, including premium memberships.
+6.  "Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Paid Content" is Content only available to Users who are participating in a payment plan, including premium memberships.
     
 
 ### [](#account-terms "#account-terms")B. Account Terms
@@ -55,26 +55,26 @@ You must provide a valid email address in order to complete the signup process. 
 
 We have a few simple rules for accounts on Bitwarden's Service.
 
-* You must be a human to create an account. Accounts registered by "bots" or other automated methods are not permitted.
+*   You must be a human to create an account. Accounts registered by "bots" or other automated methods are not permitted.
     
-* One person or legal entity may maintain no more than one free account.
+*   One person or legal entity may maintain no more than one free account.
     
-* You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, without parental consent, we will [terminate that User's account immediately](#cancellation). If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.
+*   You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, without parental consent, we will [terminate that User's account immediately](#cancellation). If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.
     
-* Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid organization account may create separate logins for as many users as its subscription allows.
+*   Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid organization account may create separate logins for as many users as its subscription allows.
     
-* Overall, the number of Users must not exceed the number of accounts you've ordered from us.
+*   Overall, the number of Users must not exceed the number of accounts you've ordered from us.
     
 
 3\. User Account Security
 
 You are responsible for keeping your account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your account's security, but the content of your account and its security are up to you.
 
-* You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).
+*   You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).
     
-* You are responsible for maintaining the security of your account and password. Bitwarden cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+*   You are responsible for maintaining the security of your account and password. Bitwarden cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
     
-* You will promptly [notify Bitwarden](https://bitwarden.com/contact/) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
+*   You will promptly [notify Bitwarden](https://bitwarden.com/contact/) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
     
 
 4\. Additional Terms
@@ -93,15 +93,15 @@ Your use of the Website and Service must not violate any applicable laws, includ
 
 While using Bitwarden, you agree that you will not under any circumstances:
 
-* harass, abuse, threaten, or incite violence towards any individual or group, including Bitwarden employees, officers, and agents, or other Bitwarden Users;
+*   harass, abuse, threaten, or incite violence towards any individual or group, including Bitwarden employees, officers, and agents, or other Bitwarden Users;
     
-* use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers;
+*   use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers;
     
-* attempt to disrupt or tamper with Bitwarden's servers in ways that could harm our Website or Service, to place undue burden on Bitwarden's servers through automated means, or to access Bitwarden's Service in ways that exceed your authorization;
+*   attempt to disrupt or tamper with Bitwarden's servers in ways that could harm our Website or Service, to place undue burden on Bitwarden's servers through automated means, or to access Bitwarden's Service in ways that exceed your authorization;
     
-* impersonate any person or entity, including any of our employees or representatives, including through false association with Bitwarden, or by fraudulently misrepresenting your identity or site's purpose; or
+*   impersonate any person or entity, including any of our employees or representatives, including through false association with Bitwarden, or by fraudulently misrepresenting your identity or site's purpose; or
     
-* violate the privacy of any third party, such as by posting another person's personal information without consent.
+*   violate the privacy of any third party, such as by posting another person's personal information without consent.
     
 
 3\. Services Usage Limits
@@ -134,20 +134,20 @@ Our pricing and payment terms are available at [bitwarden.com](https://bitwarde
 
 2\. Upgrades, Downgrades, and Changes
 
-* We will immediately bill you when you upgrade from a free plan to any paying plan.
+*   We will immediately bill you when you upgrade from a free plan to any paying plan.
     
-* If you change from a monthly billing plan to a yearly billing plan, Bitwarden will bill you for a full year at the next monthly billing date.
+*   If you change from a monthly billing plan to a yearly billing plan, Bitwarden will bill you for a full year at the next monthly billing date.
     
-* If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
+*   If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
     
-* You may change your level of service at any time by choosing a plan option or going into your Billing settings on the Website. If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
+*   You may change your level of service at any time by choosing a plan option or going into your Billing settings on the Website. If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account.
     
 
 3\. Billing Schedule; Refunds
 
-* For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively.
+*   For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively.
     
-* We offer a 30 day refund policy on all paid Services. If you would like a refund, please contact us and we will be more than happy to assist.
+*   We offer a 30 day refund policy on all paid Services. If you would like a refund, please contact us and we will be more than happy to assist.
     
 
 4\. Authorization
@@ -208,19 +208,19 @@ Bitwarden does not warrant that the Service will meet your requirements; that th
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
-* your use or inability to use the Service;
+*   your use or inability to use the Service;
     
-* any modification, price change, suspension or discontinuance of the Service;
+*   any modification, price change, suspension or discontinuance of the Service;
     
-* the Service generally or the software or systems that make the Service available;
+*   the Service generally or the software or systems that make the Service available;
     
-* unauthorized access to or alterations of your transmissions or data;
+*   unauthorized access to or alterations of your transmissions or data;
     
-* statements or conduct of any third party on the Service;
+*   statements or conduct of any third party on the Service;
     
-* any other user interactions that you input or receive through your use of the Service; or
+*   any other user interactions that you input or receive through your use of the Service; or
     
-* any other matter relating to the Service.
+*   any other matter relating to the Service.
     
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
