@@ -27,13 +27,13 @@ Key Terms
 Table of Contents
 -----------------
 
-1. [Data We Collect](#data)
-2. [How We Use Your Data](#use)
-3. [How We Share Information](#share)
-4. [Your Choices and Obligations](#choices)
-5. [Other Important Information](#others)
+1.  [Data We Collect](#data)
+2.  [How We Use Your Data](#use)
+3.  [How We Share Information](#share)
+4.  [Your Choices and Obligations](#choices)
+5.  [Other Important Information](#others)
 
-1. Introduction
+1.  Introduction
     ------------
     
     We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or Visitor to our Services.
@@ -64,7 +64,7 @@ Table of Contents
     
     You acknowledge that your continued use of our Services after we publish or send a notice about our changes to this Privacy Policy means that the collection, use and sharing of your personal data is subject to the updated Privacy Policy, as of its effective date.
     
-2. 1\. Data We Collect
+2.  1\. Data We Collect
     -------------------
     
     ### 1.1 Data You Provide To Us
@@ -163,7 +163,7 @@ Table of Contents
     
     Affiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation.
     
-3. 2\. How We Use Your Data
+3.  2\. How We Use Your Data
     ------------------------
     
     We use your data to provide, support, personalize and develop our Services.
@@ -218,11 +218,11 @@ Table of Contents
     
     We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined:
     
-    * Data collected by advertising technologies on and off our Services using pixels, ad tags (e.g., when an advertiser installs a LinkedIn [tag](https://www.linkedin.com/help/lms/answer/a427660/) on their website), cookies, and other device identifiers;
-    * Member-provided information (e.g., profile, contact information, title and industry);
-    * Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, [groups](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en) participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
-    * Information from advertising [partners](#key-terms-2), vendors and [publishers](https://www.linkedin.com/help/linkedin/answer/85809?trk=microsites-frontend_legal_privacy-policy&lang=en); and
-    * Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member). [Learn more](https://www.linkedin.com/help/linkedin/answer/a1337820/) about the inferences we make and how they may be used for advertising.
+    *   Data collected by advertising technologies on and off our Services using pixels, ad tags (e.g., when an advertiser installs a LinkedIn [tag](https://www.linkedin.com/help/lms/answer/a427660/) on their website), cookies, and other device identifiers;
+    *   Member-provided information (e.g., profile, contact information, title and industry);
+    *   Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, [groups](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en) participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
+    *   Information from advertising [partners](#key-terms-2), vendors and [publishers](https://www.linkedin.com/help/linkedin/answer/85809?trk=microsites-frontend_legal_privacy-policy&lang=en); and
+    *   Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member). [Learn more](https://www.linkedin.com/help/linkedin/answer/a1337820/) about the inferences we make and how they may be used for advertising.
     
     [Learn more](https://www.linkedin.com/help/linkedin/answer/a426264/) about the ad technologies we use and our advertising services and partners. You can learn more about our compliance with laws in the Designated Countries or the UK in our [European Regional Privacy Notice](https://www.linkedin.com/legal/privacy/eu).
     
@@ -286,7 +286,7 @@ Table of Contents
     
     Partners include ad networks, exchanges and others 
     
-4. 3\. How We Share Information
+4.  3\. How We Share Information
     ----------------------------
     
     ### 3.1 Our Services
@@ -301,13 +301,13 @@ Table of Contents
     
     Our Services allow viewing and sharing information including through posts, likes, follows and comments.
     
-    * When you share an article or a post (e.g., an update, image, video or article) publicly it can be viewed by everyone and re-shared anywhere (subject to your [settings](https://www.linkedin.com/psettings/privacy)). Members, Visitors and others will be able to find and see your publicly-shared content, including your name (and photo if you have provided one).
-    * In a [group](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en), posts are visible to others according to group type. For example, posts in private groups are visible to others in the group and posts in public groups are visible publicly. Your membership in groups is public and part of your profile, but you can change visibility in your [settings](https://www.linkedin.com/help/linkedin/answer/197?trk=microsites-frontend_legal_privacy-policy&lang=en).
-    * Any information you share through companies’ or other organizations’ pages on our Services will be viewable by those organizations and others who view those pages' content.
-    * When you follow a person or organization, you are visible to others and that “page owner” as a follower.
-    * We let senders know when you act on their message, subject to your [settings](https://www.linkedin.com/help/linkedin/answer/71013?trk=microsites-frontend_legal_privacy-policy&lang=en) where applicable.
-    * Subject to your [settings](https://www.linkedin.com/help/linkedin/answer/47992?trk=microsites-frontend_legal_privacy-policy&lang=en), we let a Member know when you view their profile. We also give you [choices](https://www.linkedin.com/help/linkedin/answer/a6270863) about letting organizations know when you've viewed their Page.
-    * When you like or re-share or comment on another’s content (including ads), others will be able to view these “social actions” and associate it with you (e.g., your name, profile and photo if you provided it).
+    *   When you share an article or a post (e.g., an update, image, video or article) publicly it can be viewed by everyone and re-shared anywhere (subject to your [settings](https://www.linkedin.com/psettings/privacy)). Members, Visitors and others will be able to find and see your publicly-shared content, including your name (and photo if you have provided one).
+    *   In a [group](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en), posts are visible to others according to group type. For example, posts in private groups are visible to others in the group and posts in public groups are visible publicly. Your membership in groups is public and part of your profile, but you can change visibility in your [settings](https://www.linkedin.com/help/linkedin/answer/197?trk=microsites-frontend_legal_privacy-policy&lang=en).
+    *   Any information you share through companies’ or other organizations’ pages on our Services will be viewable by those organizations and others who view those pages' content.
+    *   When you follow a person or organization, you are visible to others and that “page owner” as a follower.
+    *   We let senders know when you act on their message, subject to your [settings](https://www.linkedin.com/help/linkedin/answer/71013?trk=microsites-frontend_legal_privacy-policy&lang=en) where applicable.
+    *   Subject to your [settings](https://www.linkedin.com/help/linkedin/answer/47992?trk=microsites-frontend_legal_privacy-policy&lang=en), we let a Member know when you view their profile. We also give you [choices](https://www.linkedin.com/help/linkedin/answer/a6270863) about letting organizations know when you've viewed their Page.
+    *   When you like or re-share or comment on another’s content (including ads), others will be able to view these “social actions” and associate it with you (e.g., your name, profile and photo if you provided it).
     
     Your employer can see how you use Services they provided for your work (e.g. as a recruiter or sales agent) and related information. We will not show them your job searches or personal messages.
     
@@ -357,7 +357,7 @@ Table of Contents
     
     We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events. Any other entity which buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise.
     
-5. 4\. Your Choices & Obligations
+5.  4\. Your Choices & Obligations
     ------------------------------
     
     ### 4.1 Data Retention
@@ -374,10 +374,10 @@ Table of Contents
     
     For personal data that we have about you, you can:
     
-    * [Delete Data](https://www.linkedin.com/help/linkedin/answer/a1342613/): You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
-    * [Change or Correct Data](https://www.linkedin.com/help/linkedin/answer/a1336621/): You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
-    * [Object to, or Limit or Restrict, Use of Data](https://www.linkedin.com/help/linkedin/answer/a1338610): You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
-    * [Right to Access and/or Take Your Data](https://www.linkedin.com/help/linkedin/answer/a1339364/): You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
+    *   [Delete Data](https://www.linkedin.com/help/linkedin/answer/a1342613/): You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
+    *   [Change or Correct Data](https://www.linkedin.com/help/linkedin/answer/a1336621/): You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
+    *   [Object to, or Limit or Restrict, Use of Data](https://www.linkedin.com/help/linkedin/answer/a1338610): You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
+    *   [Right to Access and/or Take Your Data](https://www.linkedin.com/help/linkedin/answer/a1339364/): You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
     
     Visitors can [learn more about how to make these requests here](https://www.linkedin.com/mypreferences/g/guest-controls). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
     
@@ -393,7 +393,7 @@ Table of Contents
     
     Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services. Groups content and ratings or review content associated with closed accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g., search tools) until they refresh their cache.
     
-6. 5\. Other Important Information
+6.  5\. Other Important Information
     -------------------------------
     
     ### 5.1. Security
