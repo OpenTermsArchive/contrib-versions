@@ -28,13 +28,13 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 **3.2.** By accepting this Agreement, you agree not to use, or facilitate others to use, the Website in a way that is harmful to others or overburdens or otherwise impairs the Website. Examples of such use include, without limitation:
 
-* Engaging in illegal or fraudulent activities;
-* Infringing a third party’s intellectual property rights;
-* Distributing harmful or offensive Content that is defamatory, obscene, abusive, an invasion of privacy or harassing;
-* The distribution of malicious/commercial spam;
-* Violating the security or integrity of any computer, network or communications system;
-* Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain; or
-* Using any process or device (automated or otherwise) to retrieve, index, “data mine”, “scrape”, or in any way reproduce the presentation of this website or its Content, unless otherwise permitted under applicable content licensing permissions.
+*   Engaging in illegal or fraudulent activities;
+*   Infringing a third party’s intellectual property rights;
+*   Distributing harmful or offensive Content that is defamatory, obscene, abusive, an invasion of privacy or harassing;
+*   The distribution of malicious/commercial spam;
+*   Violating the security or integrity of any computer, network or communications system;
+*   Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain; or
+*   Using any process or device (automated or otherwise) to retrieve, index, “data mine”, “scrape”, or in any way reproduce the presentation of this website or its Content, unless otherwise permitted under applicable content licensing permissions.
 
 **3.3** GitLab uses session replay tools to record user interactions for the purposes of improving user experience, troubleshooting technical issues, and enhancing our services. By using the Website you acknowledge this use and the methods available to you to opt-out of cookie based technologies such a session replay tools which are available in our [Cookie Policy](https://about.gitlab.com/privacy/cookies/).
 
