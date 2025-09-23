@@ -15,10 +15,10 @@ Canonical collects personal information from you in a number of different ways. 
 
 At Canonical, we consider your privacy to be extremely important to us. These are the fundamental principles that we follow in relation to your personal information:
 
-* We don't ask you for personal information unless we truly need it.
-* We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
-* We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
-* We will use personal information that you provide to us in accordance with this privacy policy.
+*   We don't ask you for personal information unless we truly need it.
+*   We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
+*   We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
+*   We will use personal information that you provide to us in accordance with this privacy policy.
 
 Canonical Group Limited (**"we"**, **"us"** and **"our"**) are committed to protecting and respecting your privacy. Information collected for or on behalf of the Canonical group of companies will be the responsibility of Canonical Group Limited.
 
@@ -35,30 +35,30 @@ Privacy notices
 
 Specific details about personal data collection can be found in the relevant privacy notice:
 
-* [Newsletter and products and services privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
-* [Webinar privacy notice ›](https://ubuntu.com/legal/data-privacy/webinar)
-* [Online purchase privacy notice ›](https://ubuntu.com/legal/data-privacy/online-purchase)
-* [Snap store privacy notice ›](https://ubuntu.com/legal/data-privacy/snap-store)
-* [Snapcraft NPS privacy notice ›](https://ubuntu.com/legal/data-privacy/snapcraft-nps)
-* [Contact us and enquiries privacy notice ›](https://ubuntu.com/legal/data-privacy/contact)
-* [Single sign on privacy notice ›](https://ubuntu.com/legal/data-privacy/sso)
-* [Partner Portal privacy notice ›](https://ubuntu.com/legal/data-privacy/partner-portal)
-* [ESXi privacy notice ›](https://ubuntu.com/legal/data-privacy/esxi)
-* [Survey privacy notice ›](https://ubuntu.com/legal/data-privacy/survey)
-* [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
-* [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
-* [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
-* [Canonical Credentials privacy notice ›](https://ubuntu.com/legal/data-privacy/credentials)
-* [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
-* [Ubuntu Community Discourse Privacy Notice ›](https://ubuntu.com/legal/data-privacy/community-discourse)
-* [Canonical Support Portal ›](https://ubuntu.com/legal/data-privacy/support-portal)
+*   [Newsletter and products and services privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
+*   [Webinar privacy notice ›](https://ubuntu.com/legal/data-privacy/webinar)
+*   [Online purchase privacy notice ›](https://ubuntu.com/legal/data-privacy/online-purchase)
+*   [Snap store privacy notice ›](https://ubuntu.com/legal/data-privacy/snap-store)
+*   [Snapcraft NPS privacy notice ›](https://ubuntu.com/legal/data-privacy/snapcraft-nps)
+*   [Contact us and enquiries privacy notice ›](https://ubuntu.com/legal/data-privacy/contact)
+*   [Single sign on privacy notice ›](https://ubuntu.com/legal/data-privacy/sso)
+*   [Partner Portal privacy notice ›](https://ubuntu.com/legal/data-privacy/partner-portal)
+*   [ESXi privacy notice ›](https://ubuntu.com/legal/data-privacy/esxi)
+*   [Survey privacy notice ›](https://ubuntu.com/legal/data-privacy/survey)
+*   [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
+*   [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
+*   [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
+*   [Canonical Credentials privacy notice ›](https://ubuntu.com/legal/data-privacy/credentials)
+*   [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
+*   [Ubuntu Community Discourse Privacy Notice ›](https://ubuntu.com/legal/data-privacy/community-discourse)
+*   [Canonical Support Portal ›](https://ubuntu.com/legal/data-privacy/support-portal)
 
 Information we collect from you
 -------------------------------
 
-* **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. When you correspond with us by phone, calls may be recorded for training and monitoring purposes. Canonical may also use third party providers for such services. It also includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may include the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
-* **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
-* **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
+*   **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. When you correspond with us by phone, calls may be recorded for training and monitoring purposes. Canonical may also use third party providers for such services. It also includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may include the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
+*   **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
+*   **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
 How information is collected from you
 -------------------------------------
@@ -104,15 +104,15 @@ What do we do with your personal data
 
 We may use your information in the following ways:
 
-* To authenticate access to certain features of our websites.
-* To contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services.
-* To provide services, products, process payment, and authenticate access (where required).
-* To analyse the performance or the appropriateness of products or services.
-* To comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). These special circumstances may require us to disclose personal information.
-* To contact you if your actions violate your agreement with us (if any).
-* To fix errors and analyse trends.
-* To study how anonymous users interact with our websites and services.
-* To market our products or services to you.
+*   To authenticate access to certain features of our websites.
+*   To contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services.
+*   To provide services, products, process payment, and authenticate access (where required).
+*   To analyse the performance or the appropriateness of products or services.
+*   To comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). These special circumstances may require us to disclose personal information.
+*   To contact you if your actions violate your agreement with us (if any).
+*   To fix errors and analyse trends.
+*   To study how anonymous users interact with our websites and services.
+*   To market our products or services to you.
 
 Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what's going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
 
@@ -125,14 +125,14 @@ You can also exercise the right at any time by contacting us at [dataprotection@
 
 Under the data protection legislation, you have the following rights. These consist of:
 
-* The right to be informed
-* The right of access
-* The right to rectification
-* The right to erasure
-* The right to restrict processing
-* The right to data portability
-* The right to object
-* Rights in relation to automated decision making and profiling.
+*   The right to be informed
+*   The right of access
+*   The right to rectification
+*   The right to erasure
+*   The right to restrict processing
+*   The right to data portability
+*   The right to object
+*   Rights in relation to automated decision making and profiling.
 
 Each of these rights are supported by appropriate procedures within Canonical which allow the required action to be taken within the timescales stated in the applicable data protection legislation.
 
@@ -166,9 +166,9 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use the following cookies:
 
-* **Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
-* **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
-* **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+*   **Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+*   **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+*   **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
@@ -203,12 +203,12 @@ How we use the information we collect
 
 We use information held about you in the following ways:
 
-* To provide you with the services you require at the time and for the reasons you provide the information, e.g. newsletters and webinars.
-* To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
-* To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
-* To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you in accordance with your consent and our Privacy notices.
-* To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-* We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+*   To provide you with the services you require at the time and for the reasons you provide the information, e.g. newsletters and webinars.
+*   To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
+*   To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
+*   To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you in accordance with your consent and our Privacy notices.
+*   To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+*   We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 Disclosure of your information
 ------------------------------
@@ -217,10 +217,10 @@ You agree that we have the right to share your information with any member of ou
 
 We will also disclose your information to third parties:
 
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://ubuntu.com/legal/terms) and other agreements; or to protect the rights, property, or safety of Canonical, our customers, or others.
-* In accordance with Privacy notices made known at the time of collection.
-* In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
-* If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+*   If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://ubuntu.com/legal/terms) and other agreements; or to protect the rights, property, or safety of Canonical, our customers, or others.
+*   In accordance with Privacy notices made known at the time of collection.
+*   In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+*   If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 Where we transfer and store your information
 --------------------------------------------
@@ -254,12 +254,12 @@ Information Commissioner's Office Wycliffe House Water Lane Wilmslow Cheshire SK
 
 #### Older versions
 
-* [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
-* [08 February 2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
+*   [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
+*   [08 February 2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
 
 #### Contact us
 
-* [Data protection enquiries ›](https://ubuntu.com/legal/data-privacy/enquiry)
+*   [Data protection enquiries ›](https://ubuntu.com/legal/data-privacy/enquiry)
 
 [Back to top](#)
 
