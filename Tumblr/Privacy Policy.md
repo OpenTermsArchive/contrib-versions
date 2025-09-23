@@ -82,16 +82,16 @@ If you are a Tumblr user in the EU, UK, Canada, or in some US states you can cus
 
 When using the mobile app version of Tumblr on Apple iOS devices you can also opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
 
-1. Open Settings;
-2. Select Privacy; and
-3. Select Advertising and follow the on-screen instructions.
+1.  Open Settings;
+2.  Select Privacy; and
+3.  Select Advertising and follow the on-screen instructions.
 
 When using the mobile app version of Tumblr on Android devices you can opt-out of personalized advertising by selecting "Opt out of Interest Based Ads” in Google settings. For more information about these Android options:
 
-1. Open Settings;
-2. Select Google;
-3. Select Privacy; and
-4. Select Ads and follow the on-screen instructions.
+1.  Open Settings;
+2.  Select Google;
+3.  Select Privacy; and
+4.  Select Ads and follow the on-screen instructions.
 
 More information about options for hiding, reporting, and controlling the ads you see on Tumblr can be found in our [Tumblr Ads & You](https://help.tumblr.com/hc/articles/360035272334-Tumblr-Ads-You) support doc.
 
@@ -186,15 +186,15 @@ Laws in some US states require us to provide residents with additional informati
 
 In the last 12 months, we collected the following categories of personal information (as those terms are defined by applicable law)
 
-* Identifiers (such as username and email address);
-* Commercial information (such as transaction data);
-* Financial data (such as credit card and other financial account information);
-* Internet or other network or device activity (such as unique identifiers, browsing history or other usage data);
-* Geolocation information (general location);
-* Inference data about you;
-* Legally protected classifications (such as gender);
-* Physical characteristics or description (such as when you voluntarily submit a photo);
-* Or other information that identifies or can be reasonably associated with you.
+*   Identifiers (such as username and email address);
+*   Commercial information (such as transaction data);
+*   Financial data (such as credit card and other financial account information);
+*   Internet or other network or device activity (such as unique identifiers, browsing history or other usage data);
+*   Geolocation information (general location);
+*   Inference data about you;
+*   Legally protected classifications (such as gender);
+*   Physical characteristics or description (such as when you voluntarily submit a photo);
+*   Or other information that identifies or can be reasonably associated with you.
 
 You can find more information about what we collect, the business and commercial purposes we use it for, and the sources of that information in the [“What We Collect and How We Use It”](https://www.tumblr.com/privacy/en#what-we-collect) section above.
 
@@ -204,12 +204,12 @@ We may also use the categories of personal information for compliance with appli
 
 In some US states, you have additional rights subject to any exemptions provided by your state’s respective law. You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report [here](https://transparency.automattic.com/tumblr/).
 
-* **Access:** Depending on your state’s relevant laws, you may have the right to request a copy of some or all of the following: a copy of the information we hold about you, the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, the categories of third parties with whom we shared that information, and/or the list of specific third parties (other than natural persons) to which we have disclosed personal information. As described in the section ‘What Information You Can Access,’ you can download a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) or email us at privacy@tumblr.com.
-* **Delete:** In some US states you also have the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175), or email us at privacy@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
-* **Non-Discrimination:** You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
-* **Correct:** In general you can correct any information Tumblr has about you by editing your account. For example, you can update your email address from [your account settings](https://www.tumblr.com/settings/account). If there’s any information we have about you that you would like corrected, that you can’t change yourself, you can [contact our support team](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) to request this.
-* **Opt-Out:** You may have the right to opt-out of having your data sold or shared (as those terms are defined in your state’s law). More on how to do that below.
-* **Content Portability:** At Tumblr it’s totally possible to [export your blog](https://help.tumblr.com/hc/articles/360005118894-Export-Your-Blog). It’s your stuff, not ours. We make it easy for you to grab a copy of it.
+*   **Access:** Depending on your state’s relevant laws, you may have the right to request a copy of some or all of the following: a copy of the information we hold about you, the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, the categories of third parties with whom we shared that information, and/or the list of specific third parties (other than natural persons) to which we have disclosed personal information. As described in the section ‘What Information You Can Access,’ you can download a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) or email us at privacy@tumblr.com.
+*   **Delete:** In some US states you also have the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175), or email us at privacy@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
+*   **Non-Discrimination:** You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
+*   **Correct:** In general you can correct any information Tumblr has about you by editing your account. For example, you can update your email address from [your account settings](https://www.tumblr.com/settings/account). If there’s any information we have about you that you would like corrected, that you can’t change yourself, you can [contact our support team](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) to request this.
+*   **Opt-Out:** You may have the right to opt-out of having your data sold or shared (as those terms are defined in your state’s law). More on how to do that below.
+*   **Content Portability:** At Tumblr it’s totally possible to [export your blog](https://help.tumblr.com/hc/articles/360005118894-Export-Your-Blog). It’s your stuff, not ours. We make it easy for you to grab a copy of it.
 
 Certain information may be exempt from these rights under applicable law. For example, we need certain types of information so that we can provide you with the Services. If you ask us to delete them, you may no longer be able to access or use the Services.
 
