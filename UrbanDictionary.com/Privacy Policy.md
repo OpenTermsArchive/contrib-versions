@@ -3,30 +3,30 @@ Privacy Policy
 
 This privacy policy discloses:
 
-* When and how we collect, use and share your information
-* When and how third-party advertising networks might collect your information when you visit urbandictionary.com
-* What your privacy rights are and how you can exercise them
+*   When and how we collect, use and share your information
+*   When and how third-party advertising networks might collect your information when you visit urbandictionary.com
+*   What your privacy rights are and how you can exercise them
 
 Your use of Urban Dictionary is also subject to our [Terms of Service](https://about.urbandictionary.com/tos).
 
 Table of contents
 -----------------
 
-* [The information we collect, in brief](#the_information_we_collect_in_brief)
-* [How we use your information](#how_we_use_your_information)
-* [When we disclose your information](#when_we_disclose_your_information)
-* [The information we sell](#the_information_we_sell)
-* [The information we share](#the_information_we_share)
-* [Your privacy rights](#your_privacy_rights)
-* [Requests to know and requests to delete](#requests_to_know_and_requests_to_delete)
-* [Your opt-out right](#your_opt_out_right)
-* [Cookies and web beacons](#cookies_and_web_beacons)
-* [Data storage](#data_storage)
-* [Security](#security)
-* [California consumer privacy disclosures](#california_consumer_privacy_disclosures)
-* [Children](#children)
-* [Changes](#changes)
-* [Questions](#questions)
+*   [The information we collect, in brief](#the_information_we_collect_in_brief)
+*   [How we use your information](#how_we_use_your_information)
+*   [When we disclose your information](#when_we_disclose_your_information)
+*   [The information we sell](#the_information_we_sell)
+*   [The information we share](#the_information_we_share)
+*   [Your privacy rights](#your_privacy_rights)
+*   [Requests to know and requests to delete](#requests_to_know_and_requests_to_delete)
+*   [Your opt-out right](#your_opt_out_right)
+*   [Cookies and web beacons](#cookies_and_web_beacons)
+*   [Data storage](#data_storage)
+*   [Security](#security)
+*   [California consumer privacy disclosures](#california_consumer_privacy_disclosures)
+*   [Children](#children)
+*   [Changes](#changes)
+*   [Questions](#questions)
 
 The information we collect, in brief
 ------------------------------------
@@ -43,10 +43,10 @@ When we disclose your information
 
 We do not disclose your information to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-* If it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as required by law.
-* If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website. Should this happen, Urban Dictionary will provide advance notice of the transfer and of resulting changes to these terms on the Urban Dictionary website and, where possible, by email.
-* We may provide information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-* We may provide information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy.
+*   If it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as required by law.
+*   If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website. Should this happen, Urban Dictionary will provide advance notice of the transfer and of resulting changes to these terms on the Urban Dictionary website and, where possible, by email.
+*   We may provide information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+*   We may provide information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy.
 
 More details are available in the [California consumer privacy disclosures](#california_consumer_privacy_disclosures) section of this policy.
 
@@ -67,15 +67,15 @@ Your privacy rights
 
 Urban Dictionary provides California Consumer Privacy Act (CCPA) consumer rights to all our users. You have the following rights concerning the information we collect:
 
-* The right to request disclosure of the categories of personal information and the specific pieces of personal information that we have collected about you.
-* The right to know our purpose for collecting your personal information, the categories of third parties to which we disclose personal information, and the sources from which we collect personal information.
-* The right to be informed about the information we collect about you. This information is available in this Privacy Policy and in the [California Privacy Disclosures](#california_consumer_privacy_disclosures), below.
-* The right to delete any personal information we collect about you.
-* The right to correct inaccurate personal information we have collected about you.
-* The right to know how and when we sell your personal information or share it for the purpose of cross-context behavioral advertising.
-* The right to opt out of the sale or sharing of your personal information. We provide a frictionless opt-out [as described in this policy](#your_opt_out_right).
-* The right to limit the use and disclosure of your sensitive personal information.
-* The right to exercise the above rights without facing retaliatory discrimination.
+*   The right to request disclosure of the categories of personal information and the specific pieces of personal information that we have collected about you.
+*   The right to know our purpose for collecting your personal information, the categories of third parties to which we disclose personal information, and the sources from which we collect personal information.
+*   The right to be informed about the information we collect about you. This information is available in this Privacy Policy and in the [California Privacy Disclosures](#california_consumer_privacy_disclosures), below.
+*   The right to delete any personal information we collect about you.
+*   The right to correct inaccurate personal information we have collected about you.
+*   The right to know how and when we sell your personal information or share it for the purpose of cross-context behavioral advertising.
+*   The right to opt out of the sale or sharing of your personal information. We provide a frictionless opt-out [as described in this policy](#your_opt_out_right).
+*   The right to limit the use and disclosure of your sensitive personal information.
+*   The right to exercise the above rights without facing retaliatory discrimination.
 
 Please understand that the above rights are subject to exceptions in some cases and that your request may require verification. We will always consider and verify your privacy request in accordance with California regulations before we take responsive action.
 
@@ -83,8 +83,8 @@ Please understand that the above rights are subject to exceptions in some cases 
 
 You may request disclosure and/or deletion of any information we have collected about you by either:
 
-* filling out the form available [here](https://urbandictionary.wufoo.com/forms/data-subject-request-form/), or
-* emailing us with the details of your request at [support@urbandictionary.com](mailto:support@urbandictionary.com)
+*   filling out the form available [here](https://urbandictionary.wufoo.com/forms/data-subject-request-form/), or
+*   emailing us with the details of your request at [support@urbandictionary.com](mailto:support@urbandictionary.com)
 
 We will be in touch after receiving your request to verify your identity and to process your request. Please note that requests are considered on a case-by-case basis and are subject to legal requirements and, in some cases, verification.
 
@@ -126,13 +126,13 @@ The disclosures below reflect how we collect personal information, as defined in
 
 We do not collect personal information that belongs to any of the following categories:
 
-* sensitive personal information;
-* protected classification characteristics;
-* biometric information;
-* audio/electronic/visual/thermal/olfactory/ and similar information;
-* professional or employment-related information;
-* education information; or
-* inference-based consumer profiling
+*   sensitive personal information;
+*   protected classification characteristics;
+*   biometric information;
+*   audio/electronic/visual/thermal/olfactory/ and similar information;
+*   professional or employment-related information;
+*   education information; or
+*   inference-based consumer profiling
 
 ### The Information We Collect from All Users
 
