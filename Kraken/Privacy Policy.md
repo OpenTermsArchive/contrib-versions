@@ -48,33 +48,33 @@ The minimum information required for entering into a contract governing your use
 
 **The information that we collect from you is as follows:**
 
-* Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, residency, citizenship (“**Biographical information and contact information**”);
-* Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
-* Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
-* Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
-* Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
-* Information collected when you interact with our support service channels, including online chat, phone call, email, direct message or other communication means (“**Support service communications**”);
-* Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, Kraken Pay Service transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
-* Krak card information, including card details such as PAN (Primary Account Number), card issuer ID and Krak card transaction records **(“Krak card information”)**;
-* On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
-* Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive, the UK’s Money Laundering Regulations 2017, and the U.S. Bank Secrecy Act (“**Other information**”).
+*   Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, residency, citizenship (“**Biographical information and contact information**”);
+*   Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
+*   Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
+*   Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
+*   Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
+*   Information collected when you interact with our support service channels, including online chat, phone call, email, direct message or other communication means (“**Support service communications**”);
+*   Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, Kraken Pay Service transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
+*   Krak card information, including card details such as PAN (Primary Account Number), card issuer ID and Krak card transaction records **(“Krak card information”)**;
+*   On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
+*   Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive, the UK’s Money Laundering Regulations 2017, and the U.S. Bank Secrecy Act (“**Other information**”).
 
 **Information we collect about you automatically:**
 
-* Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address, domain name, any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
-* Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our log records. This may include device information such as device identifier, device operating system and model, device storage, Media Access Control (MAC) address and Subscriber Identity Module (SIM) information, signals relating to user behaviour and device interaction, marketing identifier, battery usage, location information, network address, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information such as scrolling, clicks, and mouse-overs, and methods used to browse away from the page (“**Log information**”).
+*   Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address, domain name, any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
+*   Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our log records. This may include device information such as device identifier, device operating system and model, device storage, Media Access Control (MAC) address and Subscriber Identity Module (SIM) information, signals relating to user behaviour and device interaction, marketing identifier, battery usage, location information, network address, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information such as scrolling, clicks, and mouse-overs, and methods used to browse away from the page (“**Log information**”).
 
 **Information we receive about you from other sources.**
 
 We also receive information about you from third parties such as your payment providers, our service providers assisting with AML, fraud, and security compliance, and through publicly available sources. For example:
 
-* The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details.
-* Your business partners may provide us with your name and address, as well as financial information.
-* Our card-issuing partner provides us with Krak card transaction details and fraud-risk signals so that we can show you your transactions, investigate disputes and comply with our regulatory obligations.
-* Advertising networks, analytics providers and search information providers may provide us with anonymised or de-identified information about you, such as confirming how you found our website. 
-* Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
-* Credit reference agencies may provide us with your personal data during the credit referencing process.
-* We may read and store data that is written on a blockchain, other publicly available ledgers, or is otherwise in the public domain.
+*   The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details.
+*   Your business partners may provide us with your name and address, as well as financial information.
+*   Our card-issuing partner provides us with Krak card transaction details and fraud-risk signals so that we can show you your transactions, investigate disputes and comply with our regulatory obligations.
+*   Advertising networks, analytics providers and search information providers may provide us with anonymised or de-identified information about you, such as confirming how you found our website. 
+*   Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
+*   Credit reference agencies may provide us with your personal data during the credit referencing process.
+*   We may read and store data that is written on a blockchain, other publicly available ledgers, or is otherwise in the public domain.
 
 **6\. Our legal justification for processing personal data**
 ------------------------------------------------------------
@@ -128,8 +128,8 @@ By using Kraken Verify, you acknowledge that your attestations will be recorded 
 
 When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example, when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:
 
-* A copy of the records we used in order to comply with our client due diligence obligations;
-* Supporting evidence and records of transactions with you, and your relationship with us.
+*   A copy of the records we used in order to comply with our client due diligence obligations;
+*   Supporting evidence and records of transactions with you, and your relationship with us.
 
 If you have opted out of receiving marketing communications, we will keep your information on our suppression list to ensure that you do not receive these messages.
 
@@ -175,9 +175,9 @@ In certain circumstances you may have the right to obtain personal data you have
 
 You can ask us to stop processing your personal data, and we will do so, if we are:
 
-* Relying on our own or someone else’s legitimate interests to process your personal data except if we can demonstrate compelling legal grounds for the processing or for the establishment, exercise or defence of legal claims;
-* Processing your personal data for direct marketing; or
-* Processing your personal data for research unless we reasonably believe such processing is necessary for the performance of a task carried out for reasons of public interest (such as by a regulatory or enforcement agency).
+*   Relying on our own or someone else’s legitimate interests to process your personal data except if we can demonstrate compelling legal grounds for the processing or for the establishment, exercise or defence of legal claims;
+*   Processing your personal data for direct marketing; or
+*   Processing your personal data for research unless we reasonably believe such processing is necessary for the performance of a task carried out for reasons of public interest (such as by a regulatory or enforcement agency).
 
 **Automated decision-making and profiling**
 
