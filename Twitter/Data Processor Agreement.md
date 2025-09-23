@@ -19,35 +19,35 @@ Processing purpose
 
 **Operating our services, including:**
 
-* [Account creation](https://help.twitter.com/using-x/create-x-account)
-* [Account controls](https://help.twitter.com/managing-your-account#account-settings)
-* Content creation, including [posts](https://help.twitter.com/using-x/how-to-post), [reposts](https://help.twitter.com/using-x/how-to-repost), [likes](https://help.twitter.com/using-x/liking-posts-and-moments), and Direct Messages
-* Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-x/x-timeline), [trends](https://help.twitter.com/using-x/x-trending-faqs), [conversations](https://help.twitter.com/using-x/x-conversations), or [search](https://help.twitter.com/using-x/x-search)
-* Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
-* Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
-* Analytics
-* [Advertiser products](https://business.x.com/en/help/ads-policies.html)
+*   [Account creation](https://help.twitter.com/using-x/create-x-account)
+*   [Account controls](https://help.twitter.com/managing-your-account#account-settings)
+*   Content creation, including [posts](https://help.twitter.com/using-x/how-to-post), [reposts](https://help.twitter.com/using-x/how-to-repost), [likes](https://help.twitter.com/using-x/liking-posts-and-moments), and Direct Messages
+*   Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-x/x-timeline), [trends](https://help.twitter.com/using-x/x-trending-faqs), [conversations](https://help.twitter.com/using-x/x-conversations), or [search](https://help.twitter.com/using-x/x-search)
+*   Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
+*   Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
+*   Analytics
+*   [Advertiser products](https://business.x.com/en/help/ads-policies.html)
 
 Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Direct Messages and other non-public communications
-* Payment information
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Direct Messages and other non-public communications
+*   Payment information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from advertisers and other ad partners
-* Developer data
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from advertisers and other ad partners
+*   Developer data
+*   Data from other third parties and affiliates
 
 **Inferences about you, as described below, based on this data.**
 
@@ -66,22 +66,22 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Direct Messages and other non-public communications
-* Payment information
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Direct Messages and other non-public communications
+*   Payment information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Developer data
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Developer data
+*   Data from other third parties and affiliates
 
 **Inferences about you, as described below, based on this data.**
 
@@ -96,10 +96,10 @@ Processing purpose
 
 **Inferences about your account - such as interests, age, and gender - which we use to provide features including:**
 
-* [Account suggestions](https://help.twitter.com/using-x/account-suggestions)
-* Advertising
-* Recommendations
-* Timeline ranking
+*   [Account suggestions](https://help.twitter.com/using-x/account-suggestions)
+*   Advertising
+*   Recommendations
+*   Timeline ranking
 
 You can always review and modify these inferences by visiting [Your X data](https://twitter.com/settings/your_twitter_data).  
 
@@ -107,20 +107,20 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Non-public communications (survey data and accounts you correspond with by Direct Message)
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Non-public communications (survey data and accounts you correspond with by Direct Message)
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -139,20 +139,20 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information  
+*   Basic account information
+*   Public information
+*   Contact information  
     
-* Account controls
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 **Inferences about you, as described above, based on this data.**
 
@@ -171,28 +171,28 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
+*   Basic account information
     
-* Public information
+*   Public information
     
-* Account controls
+*   Account controls
     
-* Non-public communications (survey data)
+*   Non-public communications (survey data)
     
 
 **Additional information we receive about you, including:**
 
-* Location information
+*   Location information
     
-* Interactions with links
+*   Interactions with links
     
-* Cookie data †
+*   Cookie data †
     
-* Log data
+*   Log data
     
-* Data from ad partners
+*   Data from ad partners
     
-* Data from other third parties and affiliates
+*   Data from other third parties and affiliates
     
 
 **Inferences about you, as described above, based on this data.**
@@ -212,26 +212,26 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
+*   Basic account information
     
-* Public information
+*   Public information
     
-* Contact information
+*   Contact information
     
-* Account controls
+*   Account controls
     
 
 **Additional information we receive about you, including:**
 
-* Interactions with links
+*   Interactions with links
     
-* Cookie data †
+*   Cookie data †
     
-* Log data
+*   Log data
     
 
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 **_  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._**
@@ -248,19 +248,19 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 **Inferences about you, as described above, based on this data.**
 
@@ -279,18 +279,18 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Contact information
-* Account controls
+*   Basic account information
+*   Contact information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -307,8 +307,8 @@ Data
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Account controls
+*   Location information
+*   Account controls
 
 **Inferences about you, as described above, based on this data.**
 
@@ -339,19 +339,19 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Account controls
-* Non-public communications (survey data)
+*   Basic account information
+*   Public information
+*   Account controls
+*   Non-public communications (survey data)
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Data from other third parties and affiliates
 
 [**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
 
@@ -375,11 +375,11 @@ Data
 
 **Information you share with us, dependent on the permissions requested by the application or web client, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Direct Messages and other non-public communications
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Direct Messages and other non-public communications
+*   Account controls
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -396,22 +396,22 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Direct Messages and other non-public communications
-* Payment information
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Direct Messages and other non-public communications
+*   Payment information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Developer data
-* Data from other third parties and affiliates
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Developer data
+*   Data from other third parties and affiliates
 
 **Inferences about you, as described above, based on this data.**
 
@@ -430,17 +430,17 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Account controls
+*   Basic account information
+*   Public information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Data from third parties
+*   Data from third parties
 
 **Information we process with your consent, including:**
 
-* [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
+*   [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -457,18 +457,18 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Direct Messages and other non-public communications
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Direct Messages and other non-public communications
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
 
 **Inferences about you, as described above, based on this data.**
 
@@ -487,21 +487,21 @@ Data
 
 **Information you share with us, including:**
 
-* Basic account information
-* Public information
-* Contact information
-* Non-public communications (between you and X)
-* Payment information
-* Account controls
+*   Basic account information
+*   Public information
+*   Contact information
+*   Non-public communications (between you and X)
+*   Payment information
+*   Account controls
 
 **Additional information we receive about you, including:**
 
-* Location information
-* Interactions with links
-* Cookie data † 
-* Log data
-* Data from ad partners
-* Developer data
+*   Location information
+*   Interactions with links
+*   Cookie data † 
+*   Log data
+*   Data from ad partners
+*   Developer data
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -514,19 +514,19 @@ Processing purpose
 
 **The processing activities described above:**
 
-* Operating our services
-* Safety and security
-* Inferences
-* Personalized advertising
-* Measuring the effectiveness of advertising we show you
-* Sharing data with our service providers
+*   Operating our services
+*   Safety and security
+*   Inferences
+*   Personalized advertising
+*   Measuring the effectiveness of advertising we show you
+*   Sharing data with our service providers
 
 Data
 
 **Information we process with your consent, including:**
 
-* [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
-* [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
+*   [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
+*   [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
 
 [**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
 
@@ -542,13 +542,13 @@ Processing purpose
 
 **The processing activities described above:**
 
-* [Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
+*   [Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
     
-* Advertising we show you on other websites or mobile applications based only on information collected there
+*   Advertising we show you on other websites or mobile applications based only on information collected there
     
-* [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
+*   [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
     
-* Personalizing our services based on the places you’ve been
+*   Personalizing our services based on the places you’ve been
     
 
 **Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
@@ -557,7 +557,7 @@ Data
 
 **Information we process with your consent, including:**
 
-* [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
+*   [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
     
 
 **Inferences about you, as described above, based on this data.**
@@ -572,7 +572,7 @@ Processing purpose
 
 **Additionally, the processing activities described above:**
 
-* [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
+*   [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
     
 
 **Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
@@ -581,7 +581,7 @@ Data
 
 **Information you share with us, including:**
 
-* Account controls
+*   Account controls
 
 [**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
 
@@ -697,41 +697,41 @@ Data Category
 
 Data
 
-* Information you post on X 
+*   Information you post on X 
     
-* Direct Messages and other non-public communications
+*   Direct Messages and other non-public communications
     
-* Account controls
+*   Account controls
     
-* Interactions with links
+*   Interactions with links
     
-* Cookie data
+*   Cookie data
     
-* Log data
+*   Log data
     
 
-* Data from advertisers and other ad partners
-* Developer data
+*   Data from advertisers and other ad partners
+*   Developer data
 
-* Data from other third parties and affiliates
+*   Data from other third parties and affiliates
 
-* [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+*   [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services and third-party services 
+*   You or your devices, for example, through your use of our services and third-party services 
     
-* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
+*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
+*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
     
-* Vendors who provide services on our behalf, such as our [subprocessors](https://privacy.twitter.com/subprocessors)
+*   Vendors who provide services on our behalf, such as our [subprocessors](https://privacy.twitter.com/subprocessors)
     
-* Advertisers and other ad partners
+*   Advertisers and other ad partners
     
 
 Data Category
@@ -740,19 +740,19 @@ Data Category
 
 Data
 
-* Credit or debit card number
+*   Credit or debit card number
     
 
-* Card expiration date
-* CVV code
+*   Card expiration date
+*   CVV code
 
-* Billing address
+*   Billing address
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You, if you purchase advertising services from us
+*   You, if you purchase advertising services from us
 
 Data Category
 
@@ -762,39 +762,39 @@ _(Real name, alias, postal address, telephone numbers, unique identifiers (such 
 
 Data
 
-* Basic account information
+*   Basic account information
     
-* Information you post on X 
+*   Information you post on X 
     
-* Developer data
+*   Developer data
     
-* Contact information
+*   Contact information
     
-* Address book data
+*   Address book data
     
-* Devices we infer belong to you
+*   Devices we infer belong to you
     
-* Cookie data
+*   Cookie data
     
-* Log data
+*   Log data
     
 
-* Data from advertisers and other ad partners
-* Data from other third parties and affiliates
+*   Data from advertisers and other ad partners
+*   Data from other third parties and affiliates
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services or third-party services
+*   You or your devices, for example, through your use of our services or third-party services
     
-* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
+*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
     
-* Vendors who provide services on our behalf
+*   Vendors who provide services on our behalf
     
-* Advertisers and other ad partners
+*   Advertisers and other ad partners
     
 
 Data Category
@@ -805,25 +805,25 @@ _(Characteristics of certain legally protected classifications, such as age rang
 
 Data
 
-* Information you post on X 
-* Inferences about your account, as listed below  
+*   Information you post on X 
+*   Inferences about your account, as listed below  
      
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services or third-party services
+*   You or your devices, for example, through your use of our services or third-party services
     
-* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
+*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
+*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
     
-* Vendors who provide services on our behalf
+*   Vendors who provide services on our behalf
     
-* Advertisers and other ad partners
+*   Advertisers and other ad partners
     
 
 Data Category
@@ -834,35 +834,35 @@ _(Records of products or services purchased, obtained, or considered, and other 
 
 Data
 
-* Information you post on X 
+*   Information you post on X 
     
-* Interactions with links
+*   Interactions with links
     
-* Cookie data
+*   Cookie data
     
-* Log data
+*   Log data
     
-* Data from advertisers and other ad partners
+*   Data from advertisers and other ad partners
     
-* Developer data
+*   Developer data
     
 
-* Data from other third parties and affiliates
-* [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
+*   Data from other third parties and affiliates
+*   [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services or third-party services
+*   You or your devices, for example, through your use of our services or third-party services
     
-* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
+*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
     
-* Vendors who provide services on our behalf
+*   Vendors who provide services on our behalf
     
-* Advertisers and other ad partners
+*   Advertisers and other ad partners
     
 
 Data Category
@@ -873,16 +873,16 @@ _(Audio, electronic, visual, and similar information)_
 
 Data
 
-* Information you post on X 
-* Direct Messages and other non-public communications
+*   Information you post on X 
+*   Direct Messages and other non-public communications
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services 
+*   You or your devices, for example, through your use of our services 
     
-* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts
+*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts
     
 
 Data Category
@@ -891,14 +891,14 @@ Data Category
 
 Data
 
-* Location information
-* [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
+*   Location information
+*   [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
 
 _For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services
+*   You or your devices, for example, through your use of our services
 
 Data Category
 
@@ -908,27 +908,27 @@ _(Inferences drawn to create a profile about you reflecting your preferences, ch
 
 Data
 
-* [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
-* Age
-* Gender
-* [Topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) you may be interested in
+*   [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
+*   Age
+*   Gender
+*   [Topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) you may be interested in
 
 _  
 For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
 
 Source(s)
 
-* You or your devices, for example, through your use of our services or third-party services
+*   You or your devices, for example, through your use of our services or third-party services
     
-* Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
+*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
     
-* Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
+*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
     
-* Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
+*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
     
-* Vendors who provide services on our behalf
+*   Vendors who provide services on our behalf
     
-* Advertisers and other ad partners
+*   Advertisers and other ad partners
     
 
 ### Categories of third parties with whom we may share personal data  
@@ -953,15 +953,15 @@ Data Category
 
 We may share with...
 
-* Entities with whom you direct us to share your information, such as when you post publicly 
+*   Entities with whom you direct us to share your information, such as when you post publicly 
     
-* Entities you provide access to your account, such as third-party web clients or applications you authorize
+*   Entities you provide access to your account, such as third-party web clients or applications you authorize
     
-* Our corporate affiliates
+*   Our corporate affiliates
     
-* Our business partners and our service providers, including advertisers and other ad partners
+*   Our business partners and our service providers, including advertisers and other ad partners
     
-* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
 
 _  
 For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -972,7 +972,7 @@ Data Category
 
 We may share with...
 
-* Our service providers
+*   Our service providers
 
 _  
 For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -983,9 +983,9 @@ Data Category
 
 We may share with...
 
-* Our service providers
+*   Our service providers
     
-* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
 
 _  
 For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
@@ -996,11 +996,11 @@ Data Category
 
 We may share with...
 
-* Our corporate affiliates
+*   Our corporate affiliates
     
-* Our business partners and our service providers, including advertisers and other ad partners
+*   Our business partners and our service providers, including advertisers and other ad partners
     
-* Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
+*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
 
 _  
 For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
