@@ -626,9 +626,9 @@ The Member may uninstall the Application from his or her cell phone at any time 
 
 The Member may decide, at any time and without notice, to permanently delete his or her Account using one of the following means:
 
-* By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
+*   By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
 
-* By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 15 hereof. 
+*   By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 15 hereof. 
 
 Consequently, the Member’s profile will be permanently deleted, including the remaining SuperCrushs or Boosts in his or her Account.
 
@@ -655,10 +655,10 @@ HAPPN will be entitled to suspend a Member’s account as long as necessary to a
 
 In its decision to suspend the Account, HAPPN will consider the seriousness of the violation and whether it is repeated or isolated. For example, in the event of suspension following misuse of the service, i.e. frequent supply of obviously illicit content and frequent and manifestly unfounded notifications and complaints, HAPPN will consider : 
 
-* the volume of obviously illicit content/notifications or obviously unfounded complaints;
-* the relative proportion of these items in relation to the total number of items supplied or notifications submitted;
-* the seriousness of misuse (nature and consequences);
-* the Member's intention (where this can be determined).
+*   the volume of obviously illicit content/notifications or obviously unfounded complaints;
+*   the relative proportion of these items in relation to the total number of items supplied or notifications submitted;
+*   the seriousness of misuse (nature and consequences);
+*   the Member's intention (where this can be determined).
 
 The Member is invited to contact HAPPN customer service by email in order to obtain more information on the reasons for the suspension and in order to provide explanations and/or bring the proof that the breach has been remediated. Members may also turn to the internal complaints handling system set up by HAPPN.
 
