@@ -78,6 +78,6 @@ Other helpful resources
 
 To learn more about advertisers’ use of cookies, please visit the following links:
 
-* [Internet Advertising Bureau (US)](https://www.iab.com/)
-* [European Interactive Digital Advertising Alliance (EU)](https://www.edaa.eu/)
-* [Internet Advertising Bureau (EU)](https://iabeurope.eu/)
+*   [Internet Advertising Bureau (US)](https://www.iab.com/)
+*   [European Interactive Digital Advertising Alliance (EU)](https://www.edaa.eu/)
+*   [Internet Advertising Bureau (EU)](https://iabeurope.eu/)
