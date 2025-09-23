@@ -61,11 +61,11 @@ You'll receive an in-app notification if your content has been removed due to a 
 
 Under EU law, users are allowed to use copyright works without the authorization of the copyright holder for quotation, criticism, review and for the purpose of caricature, parody or pastiche provided that such use is fair. EU countries may also provide for additional exceptions. See below some further information about the exceptions and limitations to copyright available in the EU:
 
-* **_Quotation, criticism and review_**
+*   **_Quotation, criticism and review_**
 
 Quotation is the use of an extract from a copyright-protected work for purposes such as illustrating an assertion, defending an opinion or engaging in debate. Quotations may also be used for the purposes of criticising a copyrighted work (e.g. critical commentary on a movie) or reviewing one (e.g. reviewing a book or an album).
 
-* **_Caricature, parody and pastiche_**
+*   **_Caricature, parody and pastiche_**
 
 Caricatures aim at exaggerating or distorting reality, usually for humorous purposes. A parody will evoke an existing copyrighted work while being noticeably different from it and should constitute an expression of humor or mockery. A pastiche will usually incorporate distinctive elements from other works or styles into a new work.
 
