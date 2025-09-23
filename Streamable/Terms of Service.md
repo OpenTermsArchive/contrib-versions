@@ -47,27 +47,27 @@ On the condition that you fully comply with these Terms, Streamable grants you a
 
 You may not post, store or otherwise make available on or through the Service any of the following:  
 
-* User Content that contains private information of any other person (including names, email addresses, phone numbers, Social Security numbers and financial information);
-* User Content that is libelous, defamatory, abusive, offensive or hateful;
-* User Content that is obscene, pornographic, indecent or sexually explicit, depicts graphic, excessive or gratuitous violence;
-* User Content that is illegal, harmful or offensive or that would encourage, solicit, foster, glorify or provide instructions for any criminal or civil offense;
-* User Content that promotes terrorism or other acts of violence;
-* User Content that may infringe, misappropriate or violate any intellectual property rights, rights of privacy, rights of publicity or any other rights of others;
-* User Content that may contain viruses, corrupted data or other harmful, disruptive or destructive files or code;
-* User Content that, in Streamable's judgment, is objectionable, may restrict or inhibit another from enjoying the Service or may expose Streamable or users of the Service to harm or liability of any type; and/or
-* User Content that you are contractually or legally required to keep confidential.
+*   User Content that contains private information of any other person (including names, email addresses, phone numbers, Social Security numbers and financial information);
+*   User Content that is libelous, defamatory, abusive, offensive or hateful;
+*   User Content that is obscene, pornographic, indecent or sexually explicit, depicts graphic, excessive or gratuitous violence;
+*   User Content that is illegal, harmful or offensive or that would encourage, solicit, foster, glorify or provide instructions for any criminal or civil offense;
+*   User Content that promotes terrorism or other acts of violence;
+*   User Content that may infringe, misappropriate or violate any intellectual property rights, rights of privacy, rights of publicity or any other rights of others;
+*   User Content that may contain viruses, corrupted data or other harmful, disruptive or destructive files or code;
+*   User Content that, in Streamable's judgment, is objectionable, may restrict or inhibit another from enjoying the Service or may expose Streamable or users of the Service to harm or liability of any type; and/or
+*   User Content that you are contractually or legally required to keep confidential.
 
 Also, you may not do any of the following in connection with the Service or other users:
 
-* Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
-* Collect any personal information about other users;
-* Intimidate, threaten, stalk, bully or otherwise harass other users;
-* Promote terrorism or other acts of violence;
-* Post spam or commercial messages through the Service;
-* Create an account or any post any User Content if you are not over 13 years of age;
-* Use automated means to submit or edit User Content (except as we otherwise permit);
-* Use the Service for any illegal or unauthorized purpose or to engage in, encourage or promote any activity that is unlawful or that violates these Terms; and
-* Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, its users, or third parties.
+*   Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
+*   Collect any personal information about other users;
+*   Intimidate, threaten, stalk, bully or otherwise harass other users;
+*   Promote terrorism or other acts of violence;
+*   Post spam or commercial messages through the Service;
+*   Create an account or any post any User Content if you are not over 13 years of age;
+*   Use automated means to submit or edit User Content (except as we otherwise permit);
+*   Use the Service for any illegal or unauthorized purpose or to engage in, encourage or promote any activity that is unlawful or that violates these Terms; and
+*   Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, its users, or third parties.
 
 Your use of the Service is at your own risk. Streamable is not responsible or liable for the conduct of, or your interactions with, any other users (whether online or offline) or for any related damage or harm.
 
