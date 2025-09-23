@@ -23,10 +23,10 @@ Additional technical information is stored on our servers, including randomly ge
 
 **Other instances where Signal may need to share your data**
 
-* To meet any applicable law, regulation, legal process or enforceable governmental request.
-* To enforce applicable Terms, including investigation of potential violations.
-* To detect, prevent, or otherwise address fraud, security, or technical issues.
-* To protect against harm to the rights, property, or safety of Signal, our users, or the public as required or permitted by law.
+*   To meet any applicable law, regulation, legal process or enforceable governmental request.
+*   To enforce applicable Terms, including investigation of potential violations.
+*   To detect, prevent, or otherwise address fraud, security, or technical issues.
+*   To protect against harm to the rights, property, or safety of Signal, our users, or the public as required or permitted by law.
 
 ### Updates
 
