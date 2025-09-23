@@ -29,22 +29,22 @@ We may collect various information from you, including your name, address, phone
 
 We collect, use and disclose your personal information for the following purposes:
 
-* to allow us to communicate with you (including through the use of commercial electronic messages),
-* to customize the advertising and content that is presented to you on our website,
-* to contact you regarding any orders you place through our website, and to help process, deliver and take payment for those orders,
-* to verify your personal information
-* to operate, customize and improve our website, social media sites, mobile applications, advertisements, products and services;
-* to allow you to use portions of our website such as our forums;
-* to allow you to participate in our contests, and to administer those contests;
-* to monitor your compliance with any of your agreements with us;
-* to administer our provision of, and your payment for, products or services you request from us;
-* to provide newsletters, electronic messages and information you request from us;
-* to provide other information to you regarding our products and services or third party products and services, unless you opt out of receiving that information;
-* to manage or transfer our assets or liabilities, for example in the case of an acquisition, disposition or merger;
-* to protect us, yourself and others from fraud and error and to safeguard our business interests;
-* to collect debts owed to us;
-* to comply with legal and regulatory requirements; and
-* for other purposes we may inform you about from time-to-time.
+*   to allow us to communicate with you (including through the use of commercial electronic messages),
+*   to customize the advertising and content that is presented to you on our website,
+*   to contact you regarding any orders you place through our website, and to help process, deliver and take payment for those orders,
+*   to verify your personal information
+*   to operate, customize and improve our website, social media sites, mobile applications, advertisements, products and services;
+*   to allow you to use portions of our website such as our forums;
+*   to allow you to participate in our contests, and to administer those contests;
+*   to monitor your compliance with any of your agreements with us;
+*   to administer our provision of, and your payment for, products or services you request from us;
+*   to provide newsletters, electronic messages and information you request from us;
+*   to provide other information to you regarding our products and services or third party products and services, unless you opt out of receiving that information;
+*   to manage or transfer our assets or liabilities, for example in the case of an acquisition, disposition or merger;
+*   to protect us, yourself and others from fraud and error and to safeguard our business interests;
+*   to collect debts owed to us;
+*   to comply with legal and regulatory requirements; and
+*   for other purposes we may inform you about from time-to-time.
 
 When your personal information is to be used for a purpose not previously identified, the new purpose will be disclosed to you prior to such use, and your consent will be sought unless the use is authorized or required by law.
 
@@ -54,10 +54,10 @@ We may work with other companies to provide services on our behalf, such as webs
 
 The legal bases we rely on to process your personal information depends on the services you use and how you interact with them. They primarily include:
 
-* Contractual Necessity: we process personal information to perform the services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal information to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the services; detect and prevent fraud, or other similar misuse; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.
-* Legitimate Interests: we process personal information as needed for Epic’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.
-* Legal Obligations: we process personal information when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes.
-* Consent: we process personal information when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal information to be processed for the requested purposes, and you may withdraw your consent at any time.
+*   Contractual Necessity: we process personal information to perform the services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal information to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the services; detect and prevent fraud, or other similar misuse; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.
+*   Legitimate Interests: we process personal information as needed for Epic’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.
+*   Legal Obligations: we process personal information when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes.
+*   Consent: we process personal information when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal information to be processed for the requested purposes, and you may withdraw your consent at any time.
 
 ### Transfers of Information
 
@@ -67,12 +67,12 @@ We’ve implemented and maintain a framework consistent with applicable law and 
 
 We may share your personal information with:
 
-* Business partners;
-* Other Epic entities (like other members of the Epic group of companies that may help support certain Epic Services);
-* Other users (for example, if you use chat or social features on the Epic services);
-* Service providers;
-* Operating systems and platforms; and
-* Government entities or other third parties in response to a legal request.
+*   Business partners;
+*   Other Epic entities (like other members of the Epic group of companies that may help support certain Epic Services);
+*   Other users (for example, if you use chat or social features on the Epic services);
+*   Service providers;
+*   Operating systems and platforms; and
+*   Government entities or other third parties in response to a legal request.
 
 ### Cookies
 
@@ -82,9 +82,9 @@ We may use cookies to collect your personal information. Cookies are unique iden
 
 We will not sell or rent your personal information to third parties, and we will obtain your consent to collect, use or disclose personal information except where we are authorized or required by law to do so without consent. For example, we may collect, use or disclose personal information without your knowledge or consent where:
 
-* the information is publicly available, as defined by statute or regulation;
-* we are obtaining legal advice; or
-* we reasonably expect that obtaining consent would compromise an investigation or proceeding.
+*   the information is publicly available, as defined by statute or regulation;
+*   we are obtaining legal advice; or
+*   we reasonably expect that obtaining consent would compromise an investigation or proceeding.
 
 Other exceptions may apply.
 
@@ -162,9 +162,9 @@ If you are concerned that we have not complied with your legal rights or applica
 
 Please see the “Contact” section below to learn more about reaching out to ArtStation with any relevant concerns you may have. You can find more details about your local Data Protection Authority as follows:
 
-* EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
-* UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
-* Switzerland: [https://www.edoeb.admin.ch/de/kontakt](https://www.edoeb.admin.ch/de/kontakt)
+*   EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
+*   UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
+*   Switzerland: [https://www.edoeb.admin.ch/de/kontakt](https://www.edoeb.admin.ch/de/kontakt)
 
 ### Contact
 
@@ -172,14 +172,14 @@ Any inquiries, complaints or questions regarding this Privacy Policy or our comp
 
 _If you reside in the United States of America:_
 
-* Data Controller: Epic Games, Inc.
-* Address: 620 Crossroads Blvd., Cary, NC 27518, USA
-* Data Protection Officer: dpo@support.epicgames.com
-* EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
+*   Data Controller: Epic Games, Inc.
+*   Address: 620 Crossroads Blvd., Cary, NC 27518, USA
+*   Data Protection Officer: dpo@support.epicgames.com
+*   EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
 
 _If you reside outside of the United States of America:_
 
-* Data Controller: Epic Games Commerce GmbH
-* Address: Platz 10, 6039 Root D4, Switzerland
-* Data Protection Officer: dpo@support.epicgames.com
-* EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
+*   Data Controller: Epic Games Commerce GmbH
+*   Address: Platz 10, 6039 Root D4, Switzerland
+*   Data Protection Officer: dpo@support.epicgames.com
+*   EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
