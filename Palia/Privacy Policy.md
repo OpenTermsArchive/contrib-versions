@@ -10,19 +10,19 @@ This Privacy Notice helps you understand the different ways we may use your data
 
 The type of data we collect and process depends on how you interact with us and use our Services. Depending on your use of our Services, the personal information, as defined by applicable data protection laws, we may have collected and disclosed in the prior 12 months include:
 
-* **Technical data:** When you use our Services, we collect technical data in order to ensure the functionality and security of these offerings. This includes IPs, logs and other device data. To ensure the functionality of these offerings, we may also assign an individual code to you or your terminal device. When signing up, downloading, installing, and/or playing a game as part of the Services we provide, we process information from you and your device.
+*   **Technical data:** When you use our Services, we collect technical data in order to ensure the functionality and security of these offerings. This includes IPs, logs and other device data. To ensure the functionality of these offerings, we may also assign an individual code to you or your terminal device. When signing up, downloading, installing, and/or playing a game as part of the Services we provide, we process information from you and your device.
     
-* **Registration data:** Certain Services can only be used with a user account or registration, which can happen directly with us or through our third-party login service providers. In this regard you must provide us with certain data, and we may collect data about the use of such Services. We generate or collect this information when you voluntarily create an account to use our Services.
+*   **Registration data:** Certain Services can only be used with a user account or registration, which can happen directly with us or through our third-party login service providers. In this regard you must provide us with certain data, and we may collect data about the use of such Services. We generate or collect this information when you voluntarily create an account to use our Services.
     
-* **Communication data:** When you contact us by any means of communication, we may collect the data exchanged between you and us, including your contact details and the metadata of the communication. Communications made using a product or Service should not be considered private. We may monitor and/or record your communications (including, without limitation, chat text) when you are using a product or Service to analyze for toxicity, prevent cheating and fraud, or enforce our End User License Agreement and/or terms of licensing. You can choose to not use these communication features. You acknowledge that you should not have an expectation of privacy concerning the transmission of any user generated content or communications, that we will monitor and record such content and/or communications as described in this Privacy Notice, and that you should avoid disclosing any personally identifiable information when using these communication features.
+*   **Communication data:** When you contact us by any means of communication, we may collect the data exchanged between you and us, including your contact details and the metadata of the communication. Communications made using a product or Service should not be considered private. We may monitor and/or record your communications (including, without limitation, chat text) when you are using a product or Service to analyze for toxicity, prevent cheating and fraud, or enforce our End User License Agreement and/or terms of licensing. You can choose to not use these communication features. You acknowledge that you should not have an expectation of privacy concerning the transmission of any user generated content or communications, that we will monitor and record such content and/or communications as described in this Privacy Notice, and that you should avoid disclosing any personally identifiable information when using these communication features.
     
-* **Master data:** With master data we mean the basic data that we need, in addition to contract data (see below), for the performance of our contractual and other business relationships or for marketing and promotional purposes. We collect information when you interact with our customer service department. In certain cases, we may ask you to provide a copy of a document or government-issued ID to verify your identity, location, and/or account ownership. When photo identification is provided to us, we ask that you remove or hide any sensitive information and it is normally deleted as soon as the identification verification is complete or within other legally permissible limits.
+*   **Master data:** With master data we mean the basic data that we need, in addition to contract data (see below), for the performance of our contractual and other business relationships or for marketing and promotional purposes. We collect information when you interact with our customer service department. In certain cases, we may ask you to provide a copy of a document or government-issued ID to verify your identity, location, and/or account ownership. When photo identification is provided to us, we ask that you remove or hide any sensitive information and it is normally deleted as soon as the identification verification is complete or within other legally permissible limits.
     
-* **Contract and Player data:** This means data that is collected in relation to entering into or the performance of a contract, for example information about the contracts and the Services provided or to be provided, as well as data from the period leading up to the conclusion of a contract, information required or used for performing a contract, and information about feedback. We collect contact information when you create an account or use our Services to contact us. Data is also collected from in-game interactions such as player status information (e.g. online status, in-game location etc.). We generally collect this data from you, from contractual partners and from third parties involved in the performance of the contract, but may also collect from third-party sources and/or public sources as permissible.
+*   **Contract and Player data:** This means data that is collected in relation to entering into or the performance of a contract, for example information about the contracts and the Services provided or to be provided, as well as data from the period leading up to the conclusion of a contract, information required or used for performing a contract, and information about feedback. We collect contact information when you create an account or use our Services to contact us. Data is also collected from in-game interactions such as player status information (e.g. online status, in-game location etc.). We generally collect this data from you, from contractual partners and from third parties involved in the performance of the contract, but may also collect from third-party sources and/or public sources as permissible.
     
-* **Preference data:** Depending on our relationship with you, we may try to get to know you better and to tailor our products, services and offers to you. For this purpose, we may collect and process data about your preferences. Based on this data, we may, for example, determine if you are interested in certain services. The data processed for this purpose is already known to us (for example where and when you use our Services), or we may collect it by recording your behavior (for example how you navigate our websites). We collect browsing information automatically when you access our websites.
+*   **Preference data:** Depending on our relationship with you, we may try to get to know you better and to tailor our products, services and offers to you. For this purpose, we may collect and process data about your preferences. Based on this data, we may, for example, determine if you are interested in certain services. The data processed for this purpose is already known to us (for example where and when you use our Services), or we may collect it by recording your behavior (for example how you navigate our websites). We collect browsing information automatically when you access our websites.
     
-* **Social Media Information:** We collect this information automatically when you share information through social media widgets on our Services. We also collect it when you voluntarily provide it to us.
+*   **Social Media Information:** We collect this information automatically when you share information through social media widgets on our Services. We also collect it when you voluntarily provide it to us.
     
 
 Much of the data is provided to us by you (through forms, when you communicate with us, or when you use our Services). You are not obliged or required to disclose data to us, unless you choose to continue using our Services.
@@ -63,17 +63,17 @@ In this case, we pay attention to the proportionality and reliability of the res
 
 In relation to our contracts, websites, products and all other Services, our legal obligations or otherwise with protecting our legitimate interests and the other purposes, we may disclose your personal data to different parties, including:
 
-* **Service providers:** We may work with service providers in the US, Europe and other regions who process your data on our behalf. This includes for example hosting services. We disclose personal information to these service providers for a business purpose as legally permissible.
+*   **Service providers:** We may work with service providers in the US, Europe and other regions who process your data on our behalf. This includes for example hosting services. We disclose personal information to these service providers for a business purpose as legally permissible.
     
-* **Parties you Authorize, Access, or Authenticate:** Third parties you access through the services, social media services you use or other users with whom you communicate. For example, we work with businesses such as Stripe, in which case we do not share personal data, but allow the players or visitors to share their personal data directly with these parties. We then receive transactional information from the business e.g., if the payment or age verification was successful.
+*   **Parties you Authorize, Access, or Authenticate:** Third parties you access through the services, social media services you use or other users with whom you communicate. For example, we work with businesses such as Stripe, in which case we do not share personal data, but allow the players or visitors to share their personal data directly with these parties. We then receive transactional information from the business e.g., if the payment or age verification was successful.
     
-* **Contractual partners:** This refers to contractual partners we may enter into partnerships or other contractual relationships with. For example, they may receive pseudonymized or anonymized registration data in relation to issued and redeemed vouchers or invitations. These recipients may also include contractual partners with whom we cooperate or who carry out advertising for us and to whom we may therefore disclose anonymized or pseudonymized data about you for analysis and marketing purposes.
+*   **Contractual partners:** This refers to contractual partners we may enter into partnerships or other contractual relationships with. For example, they may receive pseudonymized or anonymized registration data in relation to issued and redeemed vouchers or invitations. These recipients may also include contractual partners with whom we cooperate or who carry out advertising for us and to whom we may therefore disclose anonymized or pseudonymized data about you for analysis and marketing purposes.
     
-* **Authorities:** We may disclose personal data to agencies, courts and other authorities in the US and abroad if we are legally obliged or entitled to make such disclosures or if it appears necessary to protect our interests.
+*   **Authorities:** We may disclose personal data to agencies, courts and other authorities in the US and abroad if we are legally obliged or entitled to make such disclosures or if it appears necessary to protect our interests.
     
-* **Disclosure in Merger, Sale or Other Asset Transfer:** In the event of a reorganization, dissolution, merger, sale or bankruptcy, we may transfer any information we collect to relevant third parties and will obtain your consent to do so where required.
+*   **Disclosure in Merger, Sale or Other Asset Transfer:** In the event of a reorganization, dissolution, merger, sale or bankruptcy, we may transfer any information we collect to relevant third parties and will obtain your consent to do so where required.
     
-* **Other persons:** This means other cases where interactions with third parties follows from the purposes, for example service recipients, the media and associations in which we participate or if you are included in one of our publications.
+*   **Other persons:** This means other cases where interactions with third parties follows from the purposes, for example service recipients, the media and associations in which we participate or if you are included in one of our publications.
     
 
 In addition, we enable certain third parties to collect personal data from you on our website and in our Services. Where we have no control over these data collections, these third parties are sole controllers.
@@ -94,13 +94,13 @@ We generally store and retain your data for as long as our processing purposes, 
 
 You may have the following rights depending on the data protection law(s) applicable to you:
 
-* The right to request information from us as to whether and what data we process from you;
-* The right to have us correct your personal data if it is inaccurate;
-* The right to request deletion of your personal data;
-* The right to request that we provide certain personal data in a commonly used electronic format or transfer it to another controller;
-* The right to withdraw consent, where our processing is based on your consent;
-* The right to receive, upon request, further information that is helpful for the exercise of these rights;
-* The right to express your point of view in case of automated individual decisions and to request that the decision be reviewed by a human.
+*   The right to request information from us as to whether and what data we process from you;
+*   The right to have us correct your personal data if it is inaccurate;
+*   The right to request deletion of your personal data;
+*   The right to request that we provide certain personal data in a commonly used electronic format or transfer it to another controller;
+*   The right to withdraw consent, where our processing is based on your consent;
+*   The right to receive, upon request, further information that is helpful for the exercise of these rights;
+*   The right to express your point of view in case of automated individual decisions and to request that the decision be reviewed by a human.
 
 If you wish to exercise the above-mentioned rights or have any questions relating to those rights, please contact us. For us to be able to prevent misuse, we need to verify your identity.
 
@@ -110,33 +110,33 @@ If you are located in the EEA, the United Kingdom or in Switzerland, you also ha
 
 **Selling and Sharing.**
 
-* Singularity 6 does not sell your personal information, nor have we done so in the last twelve months. By sell, we mean exchanging your data with another party for financial compensation.
-* We do share your information. By share, we mean making personal information available to another party for cross-site or interest-based advertising. We share information with analytics service providers, such as Google. Those parties may combine your browsing information, including information from your use of our Websites, to generate interest-based advertisements.
+*   Singularity 6 does not sell your personal information, nor have we done so in the last twelve months. By sell, we mean exchanging your data with another party for financial compensation.
+*   We do share your information. By share, we mean making personal information available to another party for cross-site or interest-based advertising. We share information with analytics service providers, such as Google. Those parties may combine your browsing information, including information from your use of our Websites, to generate interest-based advertisements.
 
 By clicking the link **Privacy Settings** on this website you are given the option to choose how we can use your personal information. If you decide not to allow any other than the necessary cookies, your personal information will not be shared or sold.
 
 Singularity 6 provides you with the ability to access, edit, or remove certain information, as well as choices about how we contact you. Although some of these rights apply generally, certain rights apply only to limited individuals or circumstances.
 
-* **Right to Know and Access Information.**
-    * For example, you have the right to know about our information practices. You also have the right to know the categories of information we collect, with whom we share that information, and in some cases, what specific personal information we associate with you or your account.
-* **Right to Data Portability.**
-    * We will provide you with a copy of certain information we hold about you in an easily accessible format if you request it.
-* **Right to Deletion or Erasure.**
-    * You may request that we delete the personal information we have collected about you.
-* **Right to Correct Information.**
-    * You may request that we correct or amend any inaccurate information we have about you or your account.
-* **Right to Object to & Restrict Processing.**
-    * You may object to the processing of your personal information on the basis of our legitimate interests at any point in time. You may object to (and opt-out of) direct marketing. You may restrict or limit the way we use your information when:
-    * You contest the accuracy of the personal information.
-    * You believe our processing to be unlawful, but don’t want us to delete it.
-    * We no longer need the personal information for the purposes we collected it, but must retain it for legal purposes (for example, defending legal claims).
-    * You have objected to our processing of your personal information and we are verifying whether that objection controls our legitimate use of the personal information.
-* **Right to Universal Opt-Out.**
-    * You can limit certain ways in which we use and disclose your personal information (also called "opting out" or "requesting an opt-out"). You can opt out of having your personal information shared for targeted advertising purposes and opt out of having your sensitive personal information shared.
-* **Right to Withdraw Consent.**
-    * You may withdraw your consent to our consent based data processing at any time.
-* **Right to Non-Discrimination.**
-    * You have the right not to be discriminated against by us for exercising the rights listed in this section. What we mean by discrimination is denying you access to our services or limiting the quality of our services. However, restricting or deleting your personal information may limit the purposes or uses that rely on that information. If you need further assistance, you may contact us through any of the channels listed in this notice.
+*   **Right to Know and Access Information.**
+    *   For example, you have the right to know about our information practices. You also have the right to know the categories of information we collect, with whom we share that information, and in some cases, what specific personal information we associate with you or your account.
+*   **Right to Data Portability.**
+    *   We will provide you with a copy of certain information we hold about you in an easily accessible format if you request it.
+*   **Right to Deletion or Erasure.**
+    *   You may request that we delete the personal information we have collected about you.
+*   **Right to Correct Information.**
+    *   You may request that we correct or amend any inaccurate information we have about you or your account.
+*   **Right to Object to & Restrict Processing.**
+    *   You may object to the processing of your personal information on the basis of our legitimate interests at any point in time. You may object to (and opt-out of) direct marketing. You may restrict or limit the way we use your information when:
+    *   You contest the accuracy of the personal information.
+    *   You believe our processing to be unlawful, but don’t want us to delete it.
+    *   We no longer need the personal information for the purposes we collected it, but must retain it for legal purposes (for example, defending legal claims).
+    *   You have objected to our processing of your personal information and we are verifying whether that objection controls our legitimate use of the personal information.
+*   **Right to Universal Opt-Out.**
+    *   You can limit certain ways in which we use and disclose your personal information (also called "opting out" or "requesting an opt-out"). You can opt out of having your personal information shared for targeted advertising purposes and opt out of having your sensitive personal information shared.
+*   **Right to Withdraw Consent.**
+    *   You may withdraw your consent to our consent based data processing at any time.
+*   **Right to Non-Discrimination.**
+    *   You have the right not to be discriminated against by us for exercising the rights listed in this section. What we mean by discrimination is denying you access to our services or limiting the quality of our services. However, restricting or deleting your personal information may limit the purposes or uses that rely on that information. If you need further assistance, you may contact us through any of the channels listed in this notice.
 
 **Other California Rights**
 
@@ -180,7 +180,7 @@ Singularity 6 Corporation, 11835 W Olympic Blvd Suite, 350E Los Angeles, CA 9006
 
 You may contact us for privacy concerns and to exercise your rights as follows:
 
-* **Singularity 6 Corporation**
+*   **Singularity 6 Corporation**
     
     11835 W Olympic Blvd
     
@@ -195,7 +195,7 @@ Please contact us via the [**Privacy Form**](https://support.palia.com/hc/en-us/
 
 We have appointed the following additional positions:
 
-* Data Protection Officer according to articles 37 et seq. GDPR:
+*   Data Protection Officer according to articles 37 et seq. GDPR:
     
     **Singularity 6 Corporation**
     
@@ -203,7 +203,7 @@ We have appointed the following additional positions:
     
     Attention: Legal Department
     
-* Data Protection Representative in the EU according to article 27 GDPR:
+*   Data Protection Representative in the EU according to article 27 GDPR:
     
     **SIDD Datenschutz Deutschland UG (haftungsbeschränkt)**
     
@@ -213,7 +213,7 @@ We have appointed the following additional positions:
     
     Germany
     
-* Data Protection Representative in the United Kingdom (UK) pursuant to article 27 UK GDPR:
+*   Data Protection Representative in the United Kingdom (UK) pursuant to article 27 UK GDPR:
     
     Priverion UK Ltd.
     
