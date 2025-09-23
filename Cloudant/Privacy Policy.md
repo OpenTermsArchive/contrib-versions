@@ -34,9 +34,9 @@ We may also combine your business contact information with other business-releva
 
 If your account is created by using an email address containing a domain owned by an organization which you are employed by, contracted to, or volunteer for, your organization can:
 
-* inquire about the status of your account,
-* request your account settings (including your personal information), and,
-* at its option, convert it to an enterprise ID.
+*   inquire about the status of your account,
+*   request your account settings (including your personal information), and,
+*   at its option, convert it to an enterprise ID.
 
 If your account was created as, or is converted to, an enterprise ID, your organization manages your account information. It is also the authenticating agency for your ID, meaning your access is controlled by your organization’s login service.
 
@@ -52,22 +52,22 @@ Learn more
 
 We collect information about your use of our websites, such as:
 
-* the webpages you view,
-* the amount of time you spend on pages,
-* the website URL that referred you to our pages,
-* your geographic information derived from your IP address,
-* and any hyperlinks you select.
+*   the webpages you view,
+*   the amount of time you spend on pages,
+*   the website URL that referred you to our pages,
+*   your geographic information derived from your IP address,
+*   and any hyperlinks you select.
 
 We use this information to improve and personalize your experience with our websites, provide you with content that you may be interested in, create marketing insights, and to improve our websites, online services, and related technologies.
 
 We also collect the information that your browser or device automatically sends, such as:
 
-* your browser type and IP address,
-* operating system, device type, and version information,
-* language settings,
-* crash logs,
-* IBMid information (if signed in),
-* and passwords.
+*   your browser type and IP address,
+*   operating system, device type, and version information,
+*   language settings,
+*   crash logs,
+*   IBMid information (if signed in),
+*   and passwords.
 
 We use this information to provide you with access to our webpages, improve the webpage view on your device and browser, adapt to your settings and language, and adapt content for relevancy or any legal requirements for your country. We also use this information to comply with system and network security requirements, and to provide support. For more information see, [Support Services](#Support_Services) and [Protecting You and IBM](#You_and_IBM).
 
@@ -85,13 +85,13 @@ Learn More
 
 The information that we collect on our cloud and online services may include:
 
-* the pages you view,
-* your settings within the service,
-* your browser type and IP address,
-* operating system, device type, and version information,
-* crash logs,
-* IBMid information (if signed in),
-* and passwords.
+*   the pages you view,
+*   your settings within the service,
+*   your browser type and IP address,
+*   operating system, device type, and version information,
+*   crash logs,
+*   IBMid information (if signed in),
+*   and passwords.
 
 This information is collected to provide you with access, to operate the service, for support, to personalize and improve your experience of the service, to develop other services and technologies, and generate technical and market insights. For more information on the technologies that we use to collect this information, and setting your preferences, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies).
 
@@ -111,15 +111,15 @@ Learn more
 
 We use information that we collect for marketing purposes. This may include information:
 
-* Collected directly from you through your interactions with IBM, such as attendance at events or submission of online registration forms,
-* Received from third-party data providers, subject to controls confirming that the third party legally acquired the information and has the right to provide the information to IBM for use in our marketing communications,
-* Collected on [our websites](#Our_Websites "our websites") or from your interactions with IBM emails and content, including content on third-party sites. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies.").
+*   Collected directly from you through your interactions with IBM, such as attendance at events or submission of online registration forms,
+*   Received from third-party data providers, subject to controls confirming that the third party legally acquired the information and has the right to provide the information to IBM for use in our marketing communications,
+*   Collected on [our websites](#Our_Websites "our websites") or from your interactions with IBM emails and content, including content on third-party sites. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies.").
 
 Subject to your preferences, we may use this information to market to you regarding IBM products, services, and offerings. For example, we may:
 
-* Contact you by using email, telephone, or postal mail
-* Personalize your experience with IBM products and services, such as sharing more relevant content or pre-filling registration forms on our websites.
-* Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address.
+*   Contact you by using email, telephone, or postal mail
+*   Personalize your experience with IBM products and services, such as sharing more relevant content or pre-filling registration forms on our websites.
+*   Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address.
 
 To set or update your preferences with regards to marketing activities using your email address, phone, or postal address, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center").  You may also submit an [opt-out request](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** in each marketing email.
 
@@ -129,9 +129,9 @@ To review or set your preferences regarding the information that we collect abou
 
 We also use this information to develop marketing and business intelligence, which is essential for our business operations. For example, we may:
 
-* Combine the information we collect to better understand your interests and potential business needs,
-* Use aggregated data to measure effectiveness of our marketing campaigns and events, and to proceed to informed business decisions and investments,
-* Aggregate the information that is collected about IBM website visitors for the purposes of developing and modelling marketing audiences.
+*   Combine the information we collect to better understand your interests and potential business needs,
+*   Use aggregated data to measure effectiveness of our marketing campaigns and events, and to proceed to informed business decisions and investments,
+*   Aggregate the information that is collected about IBM website visitors for the purposes of developing and modelling marketing audiences.
 
 #### Contractual Relationships
 
@@ -197,10 +197,10 @@ We collect information about our business operations to make informed decisions 
 
 We collect and use information from our business systems, which may include personal information, to:
 
-* protect or enforce our rights, including to detect fraud or other criminal activities (for example, by using information in payment systems)
-* handle and resolve disputes
-* answer complaints and defend IBM in legal proceedings
-* and comply with legal obligations in the countries where we do business
+*   protect or enforce our rights, including to detect fraud or other criminal activities (for example, by using information in payment systems)
+*   handle and resolve disputes
+*   answer complaints and defend IBM in legal proceedings
+*   and comply with legal obligations in the countries where we do business
 
 We collect information from the use of our business processes, websites, cloud and online services, products, or technologies. This information may include personal information and is used for product and process development. For example, we may use this information to increase efficiency, decrease costs, or improve services by developing automated processes and tools, or to develop or improve the technologies on which these are based.
 
@@ -247,11 +247,11 @@ Our internal access to personal information is restricted and granted only on a 
 
 Externally,
 
-* our business with suppliers may include the collection, use, analysis, or other types of processing of personal information on our behalf. 
-* our business model includes cooperation with independent Business Partners for marketing, selling, and the provision of IBM products and services. Where appropriate (for example, when necessary for the fulfilment of an order), we share business contact information with selected Business Partners.
-* we may share personal information with professional advisors, including lawyers, auditors, and insurance companies to receive their services.
-* we may share contractual relationship information with others, for instance, our Business Partners, financial institutions, shipping companies, postal, or government authorities, such as the customs authorities that are involved in fulfillment.
-* We may share personal information with third parties, such as advertising technology partners, data analytics providers and social networks engaged by IBM to deliver targeted IBM advertisements on their platforms, to aggregate information for analysis, and to track engagement with those advertisements.
+*   our business with suppliers may include the collection, use, analysis, or other types of processing of personal information on our behalf. 
+*   our business model includes cooperation with independent Business Partners for marketing, selling, and the provision of IBM products and services. Where appropriate (for example, when necessary for the fulfilment of an order), we share business contact information with selected Business Partners.
+*   we may share personal information with professional advisors, including lawyers, auditors, and insurance companies to receive their services.
+*   we may share contractual relationship information with others, for instance, our Business Partners, financial institutions, shipping companies, postal, or government authorities, such as the customs authorities that are involved in fulfillment.
+*   We may share personal information with third parties, such as advertising technology partners, data analytics providers and social networks engaged by IBM to deliver targeted IBM advertisements on their platforms, to aggregate information for analysis, and to track engagement with those advertisements.
 
 In certain circumstances, personal information may be subject to disclosure to government agencies in accordance with judicial proceedings, court orders, or legal processes. We may also share personal information to protect the rights of IBM or others when IBM believes that such rights may be affected, for example to prevent fraud.
 
@@ -261,10 +261,10 @@ Your personal information may be transferred to or accessed by IBM subsidiaries 
 
 We have implemented various safeguards including:
 
-* Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. 
-* Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
-* Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/us-en/privacy/bcr "IBM Controller Binding Corporate Rules").
-* IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](https://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](https://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
+*   Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. 
+*   Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
+*   Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/us-en/privacy/bcr "IBM Controller Binding Corporate Rules").
+*   IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](https://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](https://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
 
 Controller and Representative Information
 -----------------------------------------
@@ -322,10 +322,10 @@ IBM’s AI models and systems are designed, trained, validated, and tested on da
 
 We only retain personal information as long as necessary to fulfill the purposes for which it is processed, or to comply with legal and regulatory retention requirements. Legal and regulatory retention requirements may include retaining information for:
 
-* audit and accounting purposes,
-* statutory retention terms,
-* the handling of disputes,
-* and the establishment, exercise, or defense of legal claims in the countries where we do business. 
+*   audit and accounting purposes,
+*   statutory retention terms,
+*   the handling of disputes,
+*   and the establishment, exercise, or defense of legal claims in the countries where we do business. 
 
 We retain any contractual relationship information for administrative purposes, legal and regulatory retention requirements, defending IBM rights, and to manage IBM's relationship with you. The information that is provided in a supplementary privacy notice may provide more detailed information on applicable retention terms.
 
@@ -338,15 +338,15 @@ You may have certain rights when it comes to the handling of your personal infor
 
 The [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") form can be used to:
 
-* ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM's Data Privacy Team, including the responsible Data Protection Officers.
-* submit a complaint to IBM if you are not satisfied with how IBM is processing your personal information.
+*   ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM's Data Privacy Team, including the responsible Data Protection Officers.
+*   submit a complaint to IBM if you are not satisfied with how IBM is processing your personal information.
 
 The [Submit a data rights request form](https://www.ibm.com/privacy/requests/ "Submit a data rights request form") can be used to:
 
-* request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
-* request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability);
-* request to delete the personal information we hold about you;
-* Opt-out of specific personal information processing types, such as targeted advertising
+*   request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
+*   request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability);
+*   request to delete the personal information we hold about you;
+*   Opt-out of specific personal information processing types, such as targeted advertising
 
 Data Rights Requests Details
 
@@ -379,21 +379,21 @@ We rely on this legal basis when we need to process certain personal information
 
 Examples:
 
-* If you intend to purchase a product or service, we require your business contact information to enter into a contract with you or you may need to create an IBMid (see [Your Account](#Your_Account "Your Account")_)_ to access a purchased product online_._
-* When fulfilling a contract, you may need to receive [support services](#Support_Services), for which we will need to collect your contact information.
-* We need personal information to consider job applicants or manage the pension entitlements of retirees (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
+*   If you intend to purchase a product or service, we require your business contact information to enter into a contract with you or you may need to create an IBMid (see [Your Account](#Your_Account "Your Account")_)_ to access a purchased product online_._
+*   When fulfilling a contract, you may need to receive [support services](#Support_Services), for which we will need to collect your contact information.
+*   We need personal information to consider job applicants or manage the pension entitlements of retirees (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
 
 Necessary for the purposes of IBM’s or a third party’s legitimate interest
 
 Legitimate interests relate to being able to conduct and organize business, which includes the marketing of our offerings, protecting our legal interests, securing our IT environment, or meeting client requirements.  
 Examples:
 
-* We capture your use of, and interaction with [our websites](#Our_Websites) to improve them.
-* We process your IBMid (see [Your Account](#Your_Account)) to manage access authorization of our services.
-* Where we have a [contractual relationship](#Contractual_Relationship) with the organization that you are working for, we have a legitimate interest to process your personal information used to manage this contract.
-* We process your business contact information (see [Your Account](#Your_Account)) in combination with other business-relevant information to tailor our interactions with you and promote our products and services. We may process your contact information together with details of an IBM event you attended to develop [Marketing](#Marketing) and business intelligence.
-* We process the personal information of applicants based on our legitimate interest to source suitable talent (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
-* We have to keep our [general business operations](#Business_Operations) functional. To this end we may, for example, processes the login information of our IT systems and networks, or CCTV footage at [IBM locations](#IBM_Locations) for security and safety purposes.
+*   We capture your use of, and interaction with [our websites](#Our_Websites) to improve them.
+*   We process your IBMid (see [Your Account](#Your_Account)) to manage access authorization of our services.
+*   Where we have a [contractual relationship](#Contractual_Relationship) with the organization that you are working for, we have a legitimate interest to process your personal information used to manage this contract.
+*   We process your business contact information (see [Your Account](#Your_Account)) in combination with other business-relevant information to tailor our interactions with you and promote our products and services. We may process your contact information together with details of an IBM event you attended to develop [Marketing](#Marketing) and business intelligence.
+*   We process the personal information of applicants based on our legitimate interest to source suitable talent (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
+*   We have to keep our [general business operations](#Business_Operations) functional. To this end we may, for example, processes the login information of our IT systems and networks, or CCTV footage at [IBM locations](#IBM_Locations) for security and safety purposes.
 
 We may also process personal information where it is necessary to defend our rights in judicial, administrative, or arbitral proceedings. This also falls under the legal basis of legitimate interest in countries where they are not a separate legal basis.
 
@@ -404,13 +404,13 @@ Consent
 The processing is based on your consent where we request this.  
 Example:
 
-* the optional use of [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies) or email of [Marketing](#Marketing) materials.
+*   the optional use of [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies) or email of [Marketing](#Marketing) materials.
 
 Legal obligation
 
 Where we need to process certain personal information based on our legal obligation**.** Example:
 
-* We may be obliged to ask for a government-issued ID for certain transactions, such as for a financing transaction (see [Contractual Relationship](#Contractual_Relationship)).
+*   We may be obliged to ask for a government-issued ID for certain transactions, such as for a financing transaction (see [Contractual Relationship](#Contractual_Relationship)).
 
 Privacy Statement Updates
 -------------------------
@@ -421,8 +421,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Additional Rights: Brazil
-2. Your Additional Rights: Israel
-3. Your Additional Rights: Maryland
+1.  Your Additional Rights: Brazil
+2.  Your Additional Rights: Israel
+3.  Your Additional Rights: Maryland
 
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
