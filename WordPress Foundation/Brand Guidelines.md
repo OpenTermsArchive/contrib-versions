@@ -3,19 +3,19 @@ Trademark Policy
 
 The WordPress Foundation owns and oversees the trademarks for the names and [logos](http://wordpress.org/about/logos/) of WordPress as well as a few other WordPress-related brands. Trademarks are a signifier of a product’s identity and reputation, two things that are vitally important for an open source project like WordPress. In FOSS projects where the code and all of the “traditional” intellectual property is open, the thing that everyone can rely on as a marker of quality and trust is where the trademark is allowed to be used. Putting the official logos and marks on something is a really big deal and we want to protect that value for the integrity of the entire community. The trademark usage policy was developed with the following goals in mind:
 
-1. We’d like to make it easy for anyone to use the WordPress or WordCamp name or logo for community-oriented efforts that help spread and improve WordPress.
-2. We’d like to make it clear how WordPress-related businesses and projects can (and cannot) use the WordPress or WordCamp name and logo.
-3. We’d like to make it hard for anyone to use the WordPress or WordCamp name and logo to unfairly profit from, trick or confuse people who are looking for official WordPress or WordCamp resources.
+1.  We’d like to make it easy for anyone to use the WordPress or WordCamp name or logo for community-oriented efforts that help spread and improve WordPress.
+2.  We’d like to make it clear how WordPress-related businesses and projects can (and cannot) use the WordPress or WordCamp name and logo.
+3.  We’d like to make it hard for anyone to use the WordPress or WordCamp name and logo to unfairly profit from, trick or confuse people who are looking for official WordPress or WordCamp resources.
 
 ### Trademarks owned by the WordPress Foundation
 
 #### **Word Marks**
 
-* The “WordPress” word mark
-* The “WordCamp” word mark (owned by WordPress Community Support, PBC – a subsidiary of the WordPress Foundation)
-* The “BuddyPress” word mark
-* The “Openverse” word mark
-* The “WP-CLI” word mark
+*   The “WordPress” word mark
+*   The “WordCamp” word mark (owned by WordPress Community Support, PBC – a subsidiary of the WordPress Foundation)
+*   The “BuddyPress” word mark
+*   The “Openverse” word mark
+*   The “WP-CLI” word mark
 
 #### **Designs**
 
@@ -33,16 +33,16 @@ Permission from the WordPress Foundation is required to use the WordPress or Wor
 
 We will grant permission to use the WordPress name and logo for projects that meet the following criteria:
 
-* The primary purpose of your project is to promote the spread and improvement of the WordPress software.
-* Your project is non-commercial in nature (it can make money to cover its costs or contribute to non-profit entities, but it cannot be run as a for-profit project or business).
-* Your project neither promotes nor is associated with entities that currently fail to comply with the GPL license under which WordPress is distributed.
+*   The primary purpose of your project is to promote the spread and improvement of the WordPress software.
+*   Your project is non-commercial in nature (it can make money to cover its costs or contribute to non-profit entities, but it cannot be run as a for-profit project or business).
+*   Your project neither promotes nor is associated with entities that currently fail to comply with the GPL license under which WordPress is distributed.
 
 If your project meets these criteria, you will be permitted to use the WordPress name and logo to promote your project in any way you see fit with one exception: Please do not use WordPress or WordCamp as part of a domain name. Examples of projects in this category are officially recognized WordCamps or international WordPress communities that are dedicated to the translation and distribution of WordPress in their respective countries.
 
 Use of the WordCamp name and logo is additionally allowed in the following situations:
 
-* You are using the logo on the official site for a WordCamp that has been approved by WordCamp Central.
-* You are using a graphic provided by a WordCamp to promote the event or the fact that you are attending, speaking, volunteering, or sponsoring the event.
+*   You are using the logo on the official site for a WordCamp that has been approved by WordCamp Central.
+*   You are using a graphic provided by a WordCamp to promote the event or the fact that you are attending, speaking, volunteering, or sponsoring the event.
 
 All other WordPress-related businesses or projects can use the WordPress name and logo to refer to and explain their services, but they cannot use them as part of a product, project, service, domain name, or company name and they cannot use them in any way that suggests an affiliation with or endorsement by the WordPress Foundation or the WordPress open source project.
 
