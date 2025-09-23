@@ -108,32 +108,32 @@ You must not nor may you allow your Users to use the APIs or Content except as e
 
 In addition to the other terms and conditions in these Terms, except as expressly set forth herein, you agree not to, nor to authorize your Users to, do the following:
 
-1. Implement features or business practices, or use, distribute, or transfer the APIs or Content in a way that may harm the professional reputation, relationships or professional ecosystem of Members;
-2. Disclose or provide the APIs, Access Credentials, or Content to any person or entity other than to your employees or independent contractors, provided (1) such employees or independent contractors enter into a written agreement with you at least as protective of the APIs, Access Credentials, and Content and LinkedIn’s rights as this Agreement, (2) you hereby agree to be responsible for, and liable to LinkedIn for, any breaches of such agreements by such employees or independent contractors; (3) you maintain a list of all independent contractors with which you share the APIs, Access Credentials, or Content (including the types of Content shared) that will be provided to LinkedIn upon our request, and (4) you suspend or terminate an employee’s or independent contractor’s ability to access the APIs, Access Credentials, or Content if you become aware that such access is being used in an illegal manner or in violation of the restrictions included in these Terms;
-3. Request or publish information impersonating a Member, misrepresent any User or other third party in requesting information or allow any third party, including other Members, to see information obtained from another Member’s network or through another Member’s view of the LinkedIn Services or Content;  
-4. Pre-fill content for a User (such as in a form) unless you provide a clear and prominent notice that any pre-filled content is subject to your privacy policy and you give Users the ability to edit such pre-filled content; 
-5. Use, distribute, or transfer the APIs or Content for any illegal purposes, or in any manner which would violate these Terms, or breach any laws or regulations regarding privacy or data protection, or violate the rights of third parties or expose LinkedIn or its Members to legal liability;
-6. Remove any legal, copyright, trademark or other proprietary rights notices contained in or on materials you receive or access pursuant to these Terms, including the APIs, the Developer Documentation, and the Content;
-7. Request or obtain more Content than is minimally required by the Application to provide a high quality experience to Users; 
-8. Sell, rent, lease, disclose, distribute, share (with the exception of making the Content available to Users through the Application), transfer, sublicense, communicate, or otherwise make available, any Content, directly or indirectly, to any third party (e.g. you may not sell access to an aggregated collection of Member profiles, the most relevant Members for a position, or any social activity, such as posts, likes, or shares by Members);
-9. Use, distribute, or transfer the Content for any purpose other than to allow your Users to use the Content in your Application; 
-10. Use any Content in any advertisements or for purposes of targeting advertisements specifically to any individual User (whether such advertisements appear in the Application or elsewhere), or to generate mass messages, promotions or offers; 
-11. Make any statements or use, distribute, or transfer any API or Content in a manner that expresses or implies that you, your Application or your use of the Content is sponsored or endorsed by LinkedIn (e.g., you must not state or in any way imply that LinkedIn has “verified” or “confirmed” the veracity of any Profile Data);
-12. Use any API in any manner that, as determined by LinkedIn in its reasonable discretion, constitutes abusive usage; 
-13. Interfere with or disrupt the LinkedIn Services or servers or networks connected to the LinkedIn Services, or disobey any requirements, procedures, policies or regulations of networks connected to the LinkedIn Services, or transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature through your use of any API; 
-14. Obfuscate or hide your deployment or use of any LinkedIn buttons, sign-in functionality, consent or authorization flows from your Users; 
-15. Provide functionality that proxies, requests or collects LinkedIn usernames or passwords; 
-16. Copy, adapt, reformat, reverse-engineer, disassemble, decompile, decipher, translate or otherwise modify any API, Access Credential, Content, LinkedIn Services, LinkedIn Brand Features or other information or service from LinkedIn, through automated or other means; 
-17. Use Content as an input to reports, scores, or decisions that could be used for the purposes of determining eligibility for credit, insurance, employment, housing or other similar purposes, unless otherwise expressly permitted by LinkedIn, in writing, under separate terms;
-18. Use Content, or distribute or transfer Content for use, in any manner that facilitates bias or discriminatory practices, whether intentional or inadvertent, based on any sensitive or legally protected categories or characteristics (including race, color, national origin, religion, sex, age, disability, immigration status, gender identification, or sexual orientation);  
-19. Use Content, or distribute or transfer Content for use, in any manner that facilitates surveillance, including by any government entity (either directly or as a contractor for a government entity);
-20. Try to exceed or circumvent limitations on API calls and use. This includes creating multiple Applications for identical, or largely similar, usage;
-21. Distribute or allow third parties access to any stand-alone API; 
-22. Attempt to re-identify any de-identified or anonymized data;
-23. Access a Member’s network of connections through your Application without their express permission or enable a Member to share their networks or data about their networks to anyone else through your Application; 
-24. Access, store, display, or facilitate the transfer of any LinkedIn content obtained through the following methods: scraping, crawling, spidering or using any other technology or software to access LinkedIn content outside the APIs (such content, collectively, “**Non-Official Content**”). This restriction applies (1) whether the Non-Official Content was obtained directly or indirectly through a third party, such as a customer or third party developer, and (2) whether or not the Non-Official Content is stored or displayed in the Application or some other resource, product or service; 
-25. Combine any Content with any other LinkedIn content (including Non-Official Content); or
-26. Use the Content or the APIs to automate posting on the LinkedIn Services.
+1.  Implement features or business practices, or use, distribute, or transfer the APIs or Content in a way that may harm the professional reputation, relationships or professional ecosystem of Members;
+2.  Disclose or provide the APIs, Access Credentials, or Content to any person or entity other than to your employees or independent contractors, provided (1) such employees or independent contractors enter into a written agreement with you at least as protective of the APIs, Access Credentials, and Content and LinkedIn’s rights as this Agreement, (2) you hereby agree to be responsible for, and liable to LinkedIn for, any breaches of such agreements by such employees or independent contractors; (3) you maintain a list of all independent contractors with which you share the APIs, Access Credentials, or Content (including the types of Content shared) that will be provided to LinkedIn upon our request, and (4) you suspend or terminate an employee’s or independent contractor’s ability to access the APIs, Access Credentials, or Content if you become aware that such access is being used in an illegal manner or in violation of the restrictions included in these Terms;
+3.  Request or publish information impersonating a Member, misrepresent any User or other third party in requesting information or allow any third party, including other Members, to see information obtained from another Member’s network or through another Member’s view of the LinkedIn Services or Content;  
+4.  Pre-fill content for a User (such as in a form) unless you provide a clear and prominent notice that any pre-filled content is subject to your privacy policy and you give Users the ability to edit such pre-filled content; 
+5.  Use, distribute, or transfer the APIs or Content for any illegal purposes, or in any manner which would violate these Terms, or breach any laws or regulations regarding privacy or data protection, or violate the rights of third parties or expose LinkedIn or its Members to legal liability;
+6.  Remove any legal, copyright, trademark or other proprietary rights notices contained in or on materials you receive or access pursuant to these Terms, including the APIs, the Developer Documentation, and the Content;
+7.  Request or obtain more Content than is minimally required by the Application to provide a high quality experience to Users; 
+8.  Sell, rent, lease, disclose, distribute, share (with the exception of making the Content available to Users through the Application), transfer, sublicense, communicate, or otherwise make available, any Content, directly or indirectly, to any third party (e.g. you may not sell access to an aggregated collection of Member profiles, the most relevant Members for a position, or any social activity, such as posts, likes, or shares by Members);
+9.  Use, distribute, or transfer the Content for any purpose other than to allow your Users to use the Content in your Application; 
+10.  Use any Content in any advertisements or for purposes of targeting advertisements specifically to any individual User (whether such advertisements appear in the Application or elsewhere), or to generate mass messages, promotions or offers; 
+11.  Make any statements or use, distribute, or transfer any API or Content in a manner that expresses or implies that you, your Application or your use of the Content is sponsored or endorsed by LinkedIn (e.g., you must not state or in any way imply that LinkedIn has “verified” or “confirmed” the veracity of any Profile Data);
+12.  Use any API in any manner that, as determined by LinkedIn in its reasonable discretion, constitutes abusive usage; 
+13.  Interfere with or disrupt the LinkedIn Services or servers or networks connected to the LinkedIn Services, or disobey any requirements, procedures, policies or regulations of networks connected to the LinkedIn Services, or transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature through your use of any API; 
+14.  Obfuscate or hide your deployment or use of any LinkedIn buttons, sign-in functionality, consent or authorization flows from your Users; 
+15.  Provide functionality that proxies, requests or collects LinkedIn usernames or passwords; 
+16.  Copy, adapt, reformat, reverse-engineer, disassemble, decompile, decipher, translate or otherwise modify any API, Access Credential, Content, LinkedIn Services, LinkedIn Brand Features or other information or service from LinkedIn, through automated or other means; 
+17.  Use Content as an input to reports, scores, or decisions that could be used for the purposes of determining eligibility for credit, insurance, employment, housing or other similar purposes, unless otherwise expressly permitted by LinkedIn, in writing, under separate terms;
+18.  Use Content, or distribute or transfer Content for use, in any manner that facilitates bias or discriminatory practices, whether intentional or inadvertent, based on any sensitive or legally protected categories or characteristics (including race, color, national origin, religion, sex, age, disability, immigration status, gender identification, or sexual orientation);  
+19.  Use Content, or distribute or transfer Content for use, in any manner that facilitates surveillance, including by any government entity (either directly or as a contractor for a government entity);
+20.  Try to exceed or circumvent limitations on API calls and use. This includes creating multiple Applications for identical, or largely similar, usage;
+21.  Distribute or allow third parties access to any stand-alone API; 
+22.  Attempt to re-identify any de-identified or anonymized data;
+23.  Access a Member’s network of connections through your Application without their express permission or enable a Member to share their networks or data about their networks to anyone else through your Application; 
+24.  Access, store, display, or facilitate the transfer of any LinkedIn content obtained through the following methods: scraping, crawling, spidering or using any other technology or software to access LinkedIn content outside the APIs (such content, collectively, “**Non-Official Content**”). This restriction applies (1) whether the Non-Official Content was obtained directly or indirectly through a third party, such as a customer or third party developer, and (2) whether or not the Non-Official Content is stored or displayed in the Application or some other resource, product or service; 
+25.  Combine any Content with any other LinkedIn content (including Non-Official Content); or
+26.  Use the Content or the APIs to automate posting on the LinkedIn Services.
 
 **3.2 Excluded Uses of the APIs**
 
@@ -141,8 +141,8 @@ You must not include inappropriate content in your Application; or commingle Con
 
 In addition to the other terms and conditions in these Terms, you must never do any of the following under these Terms:
 
-1. Use the APIs in any Application that includes adult content, promotes gambling, involves the sale of tobacco or alcohol to persons under 21 years of age, or otherwise violates any applicable law or regulation; or
-2. Use the APIs to retrieve Content that is then aggregated with third party data in such a way that a User cannot attribute the Content to LinkedIn (i.e., aggregated search results). 
+1.  Use the APIs in any Application that includes adult content, promotes gambling, involves the sale of tobacco or alcohol to persons under 21 years of age, or otherwise violates any applicable law or regulation; or
+2.  Use the APIs to retrieve Content that is then aggregated with third party data in such a way that a User cannot attribute the Content to LinkedIn (i.e., aggregated search results). 
 
 4\. Storage of Content
 ----------------------
@@ -331,11 +331,11 @@ To use the APIs, you must also comply with these other agreements and policies.
 
 In addition to any other documents incorporated by reference into these Terms above, you and your Application must also comply with the following, which are hereby incorporated by reference:
 
-1. [The LinkedIn User Agreement](https://www.linkedin.com/legal/user-agreement);
-2. [The LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy);
-3. [The LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy); 
-4. [The Data Processing Agreement for Business Development Agreements](https://www.linkedin.com/legal/l/bd-dpa); and
-5. [The Branding Guidelines](https://brand.linkedin.com/policies).
+1.  [The LinkedIn User Agreement](https://www.linkedin.com/legal/user-agreement);
+2.  [The LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy);
+3.  [The LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy); 
+4.  [The Data Processing Agreement for Business Development Agreements](https://www.linkedin.com/legal/l/bd-dpa); and
+5.  [The Branding Guidelines](https://brand.linkedin.com/policies).
 
 In the event of any conflict between the content in this document and the above documents, with the exception of the Data Processing Agreement; this document controls your use of the APIs. If you disagree with any of the provisions in these Terms, do not access or use the APIs.
 
@@ -419,8 +419,8 @@ LinkedIn and its affiliates shall not be liable to you for indirect damages or d
 
 NEITHER LINKEDIN NOR ANY OF OUR SUBSIDIARIES, AFFILIATED COMPANIES, OR SUPPLIERS (EACH A "**LINKEDIN AFFILIATE**"), AND OUR AND THEIR RESPECTIVE EMPLOYEES, SHAREHOLDERS, OR DIRECTORS, SHALL BE CUMULATIVELY LIABLE FOR: (A) ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES OR LOSS OF USE, PROFIT, REVENUE OR DATA TO YOU OR ANY THIRD PERSON ARISING FROM YOUR USE OF LINKEDIN MATERIALS ACCESSED THROUGH OR DOWNLOADED FROM LINKEDIN; OR (B) ANY LIABILITY OR DAMAGES IN EXCESS OF TEN THOUSAND DOLLARS ($10,000).  THIS LIMITATION OF LIABILITY SHALL:
 
-1. APPLY REGARDLESS OF WHETHER (A) YOU BASE YOUR CLAIM ON CONTRACT, TORT, STATUTE, OR ANY OTHER LEGAL THEORY, (B) WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGES, OR (C) THE LIMITED REMEDIES PROVIDED IN THIS SECTION FAIL OF THEIR ESSENTIAL PURPOSE; AND
-2. NOT APPLY TO ANY DAMAGE THAT LINKEDIN MAY CAUSE YOU INTENTIONALLY OR KNOWINGLY IN VIOLATION OF THESE TERMS OR APPLICABLE LAW, OR AS OTHERWISE MANDATED BY APPLICABLE LAW THAT CANNOT BE DISCLAIMED IN THESE TERMS.
+1.  APPLY REGARDLESS OF WHETHER (A) YOU BASE YOUR CLAIM ON CONTRACT, TORT, STATUTE, OR ANY OTHER LEGAL THEORY, (B) WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGES, OR (C) THE LIMITED REMEDIES PROVIDED IN THIS SECTION FAIL OF THEIR ESSENTIAL PURPOSE; AND
+2.  NOT APPLY TO ANY DAMAGE THAT LINKEDIN MAY CAUSE YOU INTENTIONALLY OR KNOWINGLY IN VIOLATION OF THESE TERMS OR APPLICABLE LAW, OR AS OTHERWISE MANDATED BY APPLICABLE LAW THAT CANNOT BE DISCLAIMED IN THESE TERMS.
 
 **12.4 Your Indemnification Obligations**
 
@@ -453,9 +453,9 @@ For any Claim (excluding claims for declaratory, injunctive or other equitable r
 
 The ADR provider and the parties must comply with the following rules:
 
-1. the arbitration shall be conducted by telephone, online, and/or be solely based on written submissions, the specific manner shall be chosen by the party initiating the arbitration;
-2. the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and
-3. any judgment on the award rendered by the arbitrator shall be final and may be entered in any court of competent jurisdiction.
+1.  the arbitration shall be conducted by telephone, online, and/or be solely based on written submissions, the specific manner shall be chosen by the party initiating the arbitration;
+2.  the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and
+3.  any judgment on the award rendered by the arbitrator shall be final and may be entered in any court of competent jurisdiction.
 
 14\. General Terms
 ------------------
