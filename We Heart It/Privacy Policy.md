@@ -40,13 +40,13 @@ Users outside the E.E.A, by using our Services you are consenting to our use of 
 
   
 
-1. **Entity Responsible for the Processing of your Personal Information** 
+1.  **Entity Responsible for the Processing of your Personal Information** 
 
 Super Basic LLC at 9570 West Pico Blvd, Los Angeles, CA 90035 is responsible for the processing of your personal information in connection with the use of our Services. You can find our contact information in Section XIII below. 
 
   
 
-1. **Personal Information Collected and Used, Processing Purposes and Legal Bases**
+1.  **Personal Information Collected and Used, Processing Purposes and Legal Bases**
 
 **Personal Information** 
 
@@ -98,23 +98,23 @@ _Cookies and Similar Technology_. Like many websites and applications, our Servi
 
   
 
-* Provide the Services to you
-* To set up your user account
-* Recognize you when you return to our Services, keep your game progress, save your registration ID and login password for future logins, and store information about your use of the Services
-* Display your achievements on leader boards within the relevant Application (which will include your basic social media profile information if you choose to link your social media accounts with the Services)
-* To enable you to purchase any Services or make purchases within our Services
-* Provide customer service and to respond to any inquiry that you send to us
-* Operate, protect, improve, and optimize the Services and the user experience, such as by performing analytics and conducting research
-* Communicate with you and to send you information by personalized email, postal mail, telephone, text message, or other means about our Services, contests, support messages, updates, security alerts, and account notifications. 
-* Make your user experience easier, more personalized, more enjoyable and more efficient
-* Address problems with and improve our Services and technologies, as well as to develop new Services
-* Enable certain features of the Services in order to better understand how you interact with the Services and to monitor aggregate usage.
-* Facilitate your ability to share Personal Information (e.g., game scores or photos you have edited) to social media
-* Administer and fulfill our contests and other promotions. We may provide further information on the use of your Personal Information in connection with contests when you sign-up for the contest and submit your entry 
-* Help us learn more about your product preferences
-* Send you push notifications with app-related information when you give us your consent
-* Fulfill your purchase requests and process purchase payments and refunds
-* Operate, protect, improve, and optimize the Services and experience, and personalize and customize your experience. We use your Personal Information on the basis of our legitimate interests in improving our Services and your experience. With your consent, we conduct profiling based on your interactions with the Services.
+*   Provide the Services to you
+*   To set up your user account
+*   Recognize you when you return to our Services, keep your game progress, save your registration ID and login password for future logins, and store information about your use of the Services
+*   Display your achievements on leader boards within the relevant Application (which will include your basic social media profile information if you choose to link your social media accounts with the Services)
+*   To enable you to purchase any Services or make purchases within our Services
+*   Provide customer service and to respond to any inquiry that you send to us
+*   Operate, protect, improve, and optimize the Services and the user experience, such as by performing analytics and conducting research
+*   Communicate with you and to send you information by personalized email, postal mail, telephone, text message, or other means about our Services, contests, support messages, updates, security alerts, and account notifications. 
+*   Make your user experience easier, more personalized, more enjoyable and more efficient
+*   Address problems with and improve our Services and technologies, as well as to develop new Services
+*   Enable certain features of the Services in order to better understand how you interact with the Services and to monitor aggregate usage.
+*   Facilitate your ability to share Personal Information (e.g., game scores or photos you have edited) to social media
+*   Administer and fulfill our contests and other promotions. We may provide further information on the use of your Personal Information in connection with contests when you sign-up for the contest and submit your entry 
+*   Help us learn more about your product preferences
+*   Send you push notifications with app-related information when you give us your consent
+*   Fulfill your purchase requests and process purchase payments and refunds
+*   Operate, protect, improve, and optimize the Services and experience, and personalize and customize your experience. We use your Personal Information on the basis of our legitimate interests in improving our Services and your experience. With your consent, we conduct profiling based on your interactions with the Services.
 
   
 
@@ -122,14 +122,14 @@ _Cookies and Similar Technology_. Like many websites and applications, our Servi
 
   
 
-* Prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal
-* Conduct security investigations and risk assessments
-* Verify or authenticate information
-* As we believe to be required or appropriate to protect the rights, property, safety and security of our Services and our employees, customers and others
-* As we believe to be required or appropriate under applicable law, to respond to requests from government authorities and to comply with legal process, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes
-* Comply with our legal obligations
-* Resolve any disputes with any of our users and enforce our agreements with third parties
-* Enforce our Terms of Service or other policies
+*   Prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal
+*   Conduct security investigations and risk assessments
+*   Verify or authenticate information
+*   As we believe to be required or appropriate to protect the rights, property, safety and security of our Services and our employees, customers and others
+*   As we believe to be required or appropriate under applicable law, to respond to requests from government authorities and to comply with legal process, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes
+*   Comply with our legal obligations
+*   Resolve any disputes with any of our users and enforce our agreements with third parties
+*   Enforce our Terms of Service or other policies
 
   
 
@@ -139,15 +139,15 @@ We use your Personal Information for these purposes given our legitimate interes
 
 _Marketing, Surveys, Sweepstakes, and Contests_
 
-* Personalize, measure, and improve our advertising
-* Administer referral programs, rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by We Heart It or its third party partners.  
+*   Personalize, measure, and improve our advertising
+*   Administer referral programs, rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by We Heart It or its third party partners.  
     
 
 We use your Personal Information for these purposes with your consent, where required, or to perform our contract with you to provide the Services to you. 
 
   
 
-1. **Information Sharing and Disclosure**
+1.  **Information Sharing and Disclosure**
 
 **_We Heart It Registered Users_.** 
 
@@ -169,36 +169,36 @@ For example, we may collect and share the advertising identifier associated with
 
 A list of the third-party advertising and technology companies that we work with is set forth below:
 
-* AdAdapted, Inc. – [Privacy Policy](https://info.adadapted.com/privacy-policy)
-* Adcolony, Inc. – [Privacy Policy](https://www.adcolony.com/privacy-policy/)
-* Admob (Google LLC) – [Privacy Policy](https://support.google.com/admob/answer/48182)
-* Amazon Services International, Inc. – [Privacy Policy](https://aps.amazon.com/aps/privacy-policy/)
-* AppLovin Corporation – [Privacy Policy](https://www.applovin.com/privacy/)
-* Beachfront Media, LLC – [Privacy Policy](https://www.beachfront.com/privacy-policy)
-* Chartboost, Inc. – [Privacy Policy](https://answers.chartboost.com/en-us/articles/200780269)
-* Criteo – [Privacy Policy](https://www.criteo.com/privacy/)
-* Fyber – [Privacy Policy](https://www.digitalturbine.com/fyber-services-privacy-statement/) 
-* Google Ad Manager –  [Privacy Policy](https://support.google.com/admanager/answer/10075997)
-* GumGum – [Privacy Policy](https://gumgum.com/terms-and-policies/privacy-policy)
-* HyprMX – [Privacy Policy](https://www.hyprmx.com/privacy-policy)
-* Index Exchange – [Privacy Policy](https://www.indexexchange.com/privacy/) 
-* Inmobi Pte Ltd – [Privacy Policy](https://www.inmobi.com/privacy-policy) 
-* ironSource Mobile Ltd. – [Privacy Policy](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
-* Liftoff Mobile, Inc. – [Privacy Policy](https://liftoff.io/privacy-policy/) 
-* Meta Audience Network (Facebook, Inc.) – [Privacy Policy](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
-* Mintegral – [Privacy Policy](https://www.mintegral.com/en/privacy/)
-* Mobfox – [Privacy Policy](https://www.mobfox.com/mobfox-legal/)
-* MobileFuse, LLC – [Privacy Policy](https://mobilefuse.com/privacy-policy)
-* Nativo – [Privacy Policy](https://www.nativo.com/privacy-policy)
-* PubMatic, Inc. – [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
-* Rubicon Project, Inc. (Magnite) – [Privacy Policy](https://www.rubicon.com/privacy-policy/)
-* Sharethrough, Inc. – [Privacy Policy](https://privacy-center.sharethrough.com/en/)
-* Smaato, Inc. – [Privacy Policy](https://www.smaato.com/privacy/)
-* TripleLift, Inc. – [Privacy Policy](https://triplelift.com/privacy/)
-* Unity Ads (Unity Technologies) – [Privacy Policy](https://unity.com/legal/privacy-policy)
-* Verve Group – [Privacy Policy](https://verve.com/product-privacy-policies/)
-* Vrtcal (VRTCAL Markets, Inc.) – [Privacy Policy](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
-* Xandr – [Privacy Policy](https://about.ads.microsoft.com/en-us/solutions/xandr/platform-privacy-policy)
+*   AdAdapted, Inc. – [Privacy Policy](https://info.adadapted.com/privacy-policy)
+*   Adcolony, Inc. – [Privacy Policy](https://www.adcolony.com/privacy-policy/)
+*   Admob (Google LLC) – [Privacy Policy](https://support.google.com/admob/answer/48182)
+*   Amazon Services International, Inc. – [Privacy Policy](https://aps.amazon.com/aps/privacy-policy/)
+*   AppLovin Corporation – [Privacy Policy](https://www.applovin.com/privacy/)
+*   Beachfront Media, LLC – [Privacy Policy](https://www.beachfront.com/privacy-policy)
+*   Chartboost, Inc. – [Privacy Policy](https://answers.chartboost.com/en-us/articles/200780269)
+*   Criteo – [Privacy Policy](https://www.criteo.com/privacy/)
+*   Fyber – [Privacy Policy](https://www.digitalturbine.com/fyber-services-privacy-statement/) 
+*   Google Ad Manager –  [Privacy Policy](https://support.google.com/admanager/answer/10075997)
+*   GumGum – [Privacy Policy](https://gumgum.com/terms-and-policies/privacy-policy)
+*   HyprMX – [Privacy Policy](https://www.hyprmx.com/privacy-policy)
+*   Index Exchange – [Privacy Policy](https://www.indexexchange.com/privacy/) 
+*   Inmobi Pte Ltd – [Privacy Policy](https://www.inmobi.com/privacy-policy) 
+*   ironSource Mobile Ltd. – [Privacy Policy](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
+*   Liftoff Mobile, Inc. – [Privacy Policy](https://liftoff.io/privacy-policy/) 
+*   Meta Audience Network (Facebook, Inc.) – [Privacy Policy](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
+*   Mintegral – [Privacy Policy](https://www.mintegral.com/en/privacy/)
+*   Mobfox – [Privacy Policy](https://www.mobfox.com/mobfox-legal/)
+*   MobileFuse, LLC – [Privacy Policy](https://mobilefuse.com/privacy-policy)
+*   Nativo – [Privacy Policy](https://www.nativo.com/privacy-policy)
+*   PubMatic, Inc. – [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
+*   Rubicon Project, Inc. (Magnite) – [Privacy Policy](https://www.rubicon.com/privacy-policy/)
+*   Sharethrough, Inc. – [Privacy Policy](https://privacy-center.sharethrough.com/en/)
+*   Smaato, Inc. – [Privacy Policy](https://www.smaato.com/privacy/)
+*   TripleLift, Inc. – [Privacy Policy](https://triplelift.com/privacy/)
+*   Unity Ads (Unity Technologies) – [Privacy Policy](https://unity.com/legal/privacy-policy)
+*   Verve Group – [Privacy Policy](https://verve.com/product-privacy-policies/)
+*   Vrtcal (VRTCAL Markets, Inc.) – [Privacy Policy](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+*   Xandr – [Privacy Policy](https://about.ads.microsoft.com/en-us/solutions/xandr/platform-privacy-policy)
 
   
 
@@ -216,21 +216,21 @@ We may employ third party companies and individuals to facilitate our Services, 
 
   
 
-* Web, App and Game Distribution, Payments and Operating System platforms, including, but not limited to, Apple Inc., Google LLC, Amazon.com, Inc., Facebook, Inc., Stripe, Inc.
+*   Web, App and Game Distribution, Payments and Operating System platforms, including, but not limited to, Apple Inc., Google LLC, Amazon.com, Inc., Facebook, Inc., Stripe, Inc.
 
   
 
-* Analytics Service Providers, including, but not limited to, Sisense Ltd., Google LLC (operating as Firebase, Google Analytics, BigQuery, or Google Cloud Platform), Appsflyer; 
+*   Analytics Service Providers, including, but not limited to, Sisense Ltd., Google LLC (operating as Firebase, Google Analytics, BigQuery, or Google Cloud Platform), Appsflyer; 
 
   
 
   
 
-* Web, App or Game Software, Hosting, Database & API Service Providers, including, but not limited to, Google LLC (Google Cloud Platform) and Amazon.com, LLC (Amazon Web Services)
+*   Web, App or Game Software, Hosting, Database & API Service Providers, including, but not limited to, Google LLC (Google Cloud Platform) and Amazon.com, LLC (Amazon Web Services)
 
   
 
-* Customer Support Platforms, including, but not limited to, Zendesk, Inc.
+*   Customer Support Platforms, including, but not limited to, Zendesk, Inc.
 
   
 
@@ -250,11 +250,11 @@ _Other Disclosures._ We may share your Personal Information with our legal, reg
 
   
 
-1. **How Long We Store Your Information**
+1.  **How Long We Store Your Information**
 
 We keep your Personal Information for no longer than necessary for the purposes for which the Personal Information is processed. The length of time for which we retain Personal Information depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
 
-1. **Your Rights**
+1.  **Your Rights**
 
 **Your EU Privacy Rights**
 
@@ -264,14 +264,14 @@ If you are a user located in the EU/EEA/UK, you have the following rights regard
 
   
 
-1. Right of access: You may ask us to confirm whether we process your Personal Information and, if so, to provide you with a copy of that Personal Information (along with certain other details).
-2. Right to rectification: If the Personal Information we hold about you is inaccurate or incomplete, you are entitled to ask for rectification or completion. 
-3. Right to erasure: You may ask us to delete or remove your Personal Information in some circumstances, e.g., if you believe we no longer need it or if you withdraw your consent (where applicable). If you completely delete all such Personal Information, then your account may become deactivated.
-4. Right to restrict processing: You may ask us to restrict the processing of your Personal Information in some circumstances, e.g., if you object to us processing it. 
-5. Right to data portability: You have the right to obtain Personal Information you have provided to us in a structured, commonly used and machine-readable format for reuse under certain circumstances.
-6. Right to object: You may ask us at any time to stop processing your Personal Information, and we will do so under appropriate circumstances, if we (1) rely on legitimate interests to process your Personal Information, except if we can demonstrate compelling legal grounds for the processing, or (2) process your Personal Information for direct marketing.
-7. Rights in relation to automated decision-making and profiling: You have the right not to be subject to a decision when it is based solely on automated processing, including profiling, and it produces a legal effect or similarly significantly affects you unless such profiling is necessary for entering into, or the performance of, a contract between you and us.
-8. Right to withdraw consent: If we rely on your consent as legal basis for processing your Personal Information, you have the right to withdraw that consent at any time.
+1.  Right of access: You may ask us to confirm whether we process your Personal Information and, if so, to provide you with a copy of that Personal Information (along with certain other details).
+2.  Right to rectification: If the Personal Information we hold about you is inaccurate or incomplete, you are entitled to ask for rectification or completion. 
+3.  Right to erasure: You may ask us to delete or remove your Personal Information in some circumstances, e.g., if you believe we no longer need it or if you withdraw your consent (where applicable). If you completely delete all such Personal Information, then your account may become deactivated.
+4.  Right to restrict processing: You may ask us to restrict the processing of your Personal Information in some circumstances, e.g., if you object to us processing it. 
+5.  Right to data portability: You have the right to obtain Personal Information you have provided to us in a structured, commonly used and machine-readable format for reuse under certain circumstances.
+6.  Right to object: You may ask us at any time to stop processing your Personal Information, and we will do so under appropriate circumstances, if we (1) rely on legitimate interests to process your Personal Information, except if we can demonstrate compelling legal grounds for the processing, or (2) process your Personal Information for direct marketing.
+7.  Rights in relation to automated decision-making and profiling: You have the right not to be subject to a decision when it is based solely on automated processing, including profiling, and it produces a legal effect or similarly significantly affects you unless such profiling is necessary for entering into, or the performance of, a contract between you and us.
+8.  Right to withdraw consent: If we rely on your consent as legal basis for processing your Personal Information, you have the right to withdraw that consent at any time.
 
   
 
@@ -301,10 +301,10 @@ Under California law, California residents have the right to request:
 
   
 
-* the deletion or correction of the Personal Information we have about them
-* additional information about whether and how we have collected, used, disclosed, and sold Personal Information about them
-* the specific pieces of Personal Information we have about them
-* that we opt them out of the “sale” or “sharing” of their Personal Information (“Right to Opt Out”), which can be done at the below “Do Not Sell or Share My Personal Information” link.
+*   the deletion or correction of the Personal Information we have about them
+*   additional information about whether and how we have collected, used, disclosed, and sold Personal Information about them
+*   the specific pieces of Personal Information we have about them
+*   that we opt them out of the “sale” or “sharing” of their Personal Information (“Right to Opt Out”), which can be done at the below “Do Not Sell or Share My Personal Information” link.
 
   
 
@@ -344,9 +344,9 @@ You may submit a privacy rights request to us by:
 
   
 
-* Using the privacy rights request options available in the Settings menu of your app (available to app users only) or in the cookie preferences center in your web browser (available to web users only on our sites)
-* Completing [this form](#dsar) 
-* Emailing us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) 
+*   Using the privacy rights request options available in the Settings menu of your app (available to app users only) or in the cookie preferences center in your web browser (available to web users only on our sites)
+*   Completing [this form](#dsar) 
+*   Emailing us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) 
 
   
 
@@ -358,20 +358,20 @@ To exercise the Right to Opt Out, in addition to contacting us using the above i
 
   
 
-1. **Security**
+1.  **Security**
 
 We Heart It is concerned with safeguarding your Personal Information. We employ reasonable administrative, physical and electronic measures designed to help protect your information from unauthorized access. No security, however, can eliminate the possibility that your Personal Information may be accessed by an unauthorized third party, and we cannot guarantee that your Personal Information will remain secure in all situations.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email, mail, telephone, or conspicuous posting on our website in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.  We reserve the right to choose which method we use to contact you about such an event.
 
-1. **International Transfer**
+1.  **International Transfer**
 
 We may transfer your Personal Information outside the European Union/European Economic Area. Whenever we transfer your Personal Information out of the EU/EEA, we ensure an adequate level of protection is afforded to it by ensuring, where required by law, at least one of the following safeguards is implemented:
 
   
 
-* Transferring Personal Information to countries that have been deemed to provide an adequate level of protection for Personal Information by the EU Commission, or
-* Using standard contractual clauses approved by the EU Commission which give Personal Information the same protection it has in Europe.
+*   Transferring Personal Information to countries that have been deemed to provide an adequate level of protection for Personal Information by the EU Commission, or
+*   Using standard contractual clauses approved by the EU Commission which give Personal Information the same protection it has in Europe.
 
   
 
@@ -381,7 +381,7 @@ You may be entitled, in accordance with applicable law, to request a copy of the
 
   
 
-1. **Our Policy Toward Children**
+1.  **Our Policy Toward Children**
 
 The Services are not directed to children under 18. We do not knowingly collect Personal Information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
 
@@ -393,15 +393,15 @@ Where the General Data Protection Regulation applies, our Services are not inten
 
   
 
-1. **Phishing**
+1.  **Phishing**
 
 Identity theft and the practice currently known as “phishing” are of great concern to We Heart It. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
-1. **Links to Other Sites**
+1.  **Links to Other Sites**
 
 Our Services may provide links to other websites and applications. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. Other websites follow different rules regarding the use or disclosure of the Personal Information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-1. **Your Responsibilities for Protecting Your Data** 
+1.  **Your Responsibilities for Protecting Your Data** 
 
 You are responsible for knowing your account credentials and password. 
 
@@ -433,7 +433,7 @@ It may not be possible for us to assist you with certain customer service reques
 
   
 
-1. **Complaints**
+1.  **Complaints**
 
 If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or write to us at 9570 West Pico Blvd, Los Angeles, CA 90035.
 
@@ -449,7 +449,7 @@ Customers in the United Kingdom can contact the Information Commissioner’s Off
 
   
 
-1. **Contacting Us**
+1.  **Contacting Us**
 
 If you have any questions about this Privacy Policy or if you would like us to delete your Personal Information, you can delete your account from the website, or by contacting us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or at Super Basic LLC, 9570 West Pico Blvd, Los Angeles, CA 90035. 
 
