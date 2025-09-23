@@ -5,8 +5,8 @@ Updated: January 1st, 2023.
 
 Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that provides a variety of online advertising-related services. We respect all concerns about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“Policy”) covers the information that we may process:
 
-1. About End Users through our Ad Services and Technology; and
-2. About individuals who visit, use, or interact with the Infolinks Properties.
+1.  About End Users through our Ad Services and Technology; and
+2.  About individuals who visit, use, or interact with the Infolinks Properties.
 
 If you are resident in the European Economic Area and want to find out more about the specifics of your data protection rights, please see “EEA Data Protection Rights” below.
 
@@ -32,9 +32,9 @@ We (and our partners or vendors) may collect this information the first time an 
 
 The information we may collect includes:
 
-* Browser and Device information, such as the device type and model, manufacturer, operating system type and version (e.g. iOS or Android), web browser type and version (e.g., Chrome or Safari), user-agent, carrier name, time zone, network connection type (e.g., Wi-Fi or cellular), IP address, general location inferred from IP address, information about our Publisher Client’s apps and versions currently active on a device (but not any other apps), and identifiers assigned to a device, such as its iOS Identifier for Advertisers (IDFA), Android/Google Advertising ID (AAID or GAID), or other unique device identifier (typically an alphanumeric string allocated to a device by the device manufacturer, a Publisher Client’s Digital Property, or Infolinks, including identifiers stored in a cookie, or browser or web cache).
-* Information about an End User’s behavior on our Publisher Clients’ Digital Properties, such as information about the activities or actions on those Digital Properties, session start/stop time, and geolocation (including latitude and longitude coordinates, but only if the Publisher Client’s Digital Property (like an app) has enabled location services on the device and the End User has granted the Publisher Client permission to collect and share this information for advertising purposes).
-* Information about ads served, viewed, or clicked on, such as the type of ad, where the ad was served, whether the End User clicked on it, the number of times an End User has seen the ad, and whether the End User visited the Media Buyer’s website or relevant app store and/or purchased or installed the product or service advertised.
+*   Browser and Device information, such as the device type and model, manufacturer, operating system type and version (e.g. iOS or Android), web browser type and version (e.g., Chrome or Safari), user-agent, carrier name, time zone, network connection type (e.g., Wi-Fi or cellular), IP address, general location inferred from IP address, information about our Publisher Client’s apps and versions currently active on a device (but not any other apps), and identifiers assigned to a device, such as its iOS Identifier for Advertisers (IDFA), Android/Google Advertising ID (AAID or GAID), or other unique device identifier (typically an alphanumeric string allocated to a device by the device manufacturer, a Publisher Client’s Digital Property, or Infolinks, including identifiers stored in a cookie, or browser or web cache).
+*   Information about an End User’s behavior on our Publisher Clients’ Digital Properties, such as information about the activities or actions on those Digital Properties, session start/stop time, and geolocation (including latitude and longitude coordinates, but only if the Publisher Client’s Digital Property (like an app) has enabled location services on the device and the End User has granted the Publisher Client permission to collect and share this information for advertising purposes).
+*   Information about ads served, viewed, or clicked on, such as the type of ad, where the ad was served, whether the End User clicked on it, the number of times an End User has seen the ad, and whether the End User visited the Media Buyer’s website or relevant app store and/or purchased or installed the product or service advertised.
 
 Information we receive from third parties
 
@@ -44,17 +44,17 @@ We may also combine, merge and/or enhance the information we collect about an En
 
 We use the information we collect for a variety of business purposes.  For example, we use the information we collect for the following purposes:
 
-* Serving Ads: To allow Publisher Clients to offer advertising inventory in their Digital Properties and Media Buyers to bid on and fill that inventory with relevant ads.
-* Ad Reporting and Conversions: To provide information and reports to Media Buyers about when and how End Users have been exposed to their ads, clicked on their ads, or visited their Digital Property.
-* Fraud Detection and Prevention and Security: To identify invalid ad impressions, clicks, installs, or ad queries, protect us and our Publisher Clients from fraudulent behavior, and protect the security of the Ad Services.
-* Frequency Capping: To prevent End Users from seeing the same ad too many times.
-* Customizing Ads: To infer End Users’ likely commercial interests (_g_., sports or travel) based on their activities across websites, mobile apps, and other Digital Properties over time, including to build interest-based advertising segments or audiences, as well as to supplement the information we collect with additional information we receive from third parties, such as third-party advertising segments or audiences, to allow us to customize and more effectively tailor the ads we display to End Users and to optimize the display of ads (including limiting exposure to less relevant ads).
-* Performance Analytics: To analyze ad performance, such as tracking views of ads, as well as click-through rates to websites or app stores and/or installs of apps that have been advertised.
-* Contextual-Based Advertising: To serve contextually relevant targeted ads to an End User on behalf of our Clients based on the End User’s activity across websites, mobile apps, and other Digital Properties over time and information regarding an End User’s inferred commercial interests.
-* Location-Based Advertising: To deliver location-based advertising, services, and content in real-time using your device’s physical location (where permitted by law).
-* Providing, Managing, and Improving our Ad Services and Developing New Services: To facilitate navigation, display information more effectively, and to personalize your experience while using the Ad Services, as well as auditing, researching, and analyzing information to provide, protect, manage, and improve our Ad Services, develop new services, and ensure that our technologies function properly.
-* Service Usage and Support: To calculate usage levels of the Ad Services, help diagnose server problems, and administer the Ad Services.
-* As we believe to be necessary or appropriate: (a) under applicable law, including laws outside an End User’s country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside an End User’s country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, End Users, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+*   Serving Ads: To allow Publisher Clients to offer advertising inventory in their Digital Properties and Media Buyers to bid on and fill that inventory with relevant ads.
+*   Ad Reporting and Conversions: To provide information and reports to Media Buyers about when and how End Users have been exposed to their ads, clicked on their ads, or visited their Digital Property.
+*   Fraud Detection and Prevention and Security: To identify invalid ad impressions, clicks, installs, or ad queries, protect us and our Publisher Clients from fraudulent behavior, and protect the security of the Ad Services.
+*   Frequency Capping: To prevent End Users from seeing the same ad too many times.
+*   Customizing Ads: To infer End Users’ likely commercial interests (_g_., sports or travel) based on their activities across websites, mobile apps, and other Digital Properties over time, including to build interest-based advertising segments or audiences, as well as to supplement the information we collect with additional information we receive from third parties, such as third-party advertising segments or audiences, to allow us to customize and more effectively tailor the ads we display to End Users and to optimize the display of ads (including limiting exposure to less relevant ads).
+*   Performance Analytics: To analyze ad performance, such as tracking views of ads, as well as click-through rates to websites or app stores and/or installs of apps that have been advertised.
+*   Contextual-Based Advertising: To serve contextually relevant targeted ads to an End User on behalf of our Clients based on the End User’s activity across websites, mobile apps, and other Digital Properties over time and information regarding an End User’s inferred commercial interests.
+*   Location-Based Advertising: To deliver location-based advertising, services, and content in real-time using your device’s physical location (where permitted by law).
+*   Providing, Managing, and Improving our Ad Services and Developing New Services: To facilitate navigation, display information more effectively, and to personalize your experience while using the Ad Services, as well as auditing, researching, and analyzing information to provide, protect, manage, and improve our Ad Services, develop new services, and ensure that our technologies function properly.
+*   Service Usage and Support: To calculate usage levels of the Ad Services, help diagnose server problems, and administer the Ad Services.
+*   As we believe to be necessary or appropriate: (a) under applicable law, including laws outside an End User’s country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside an End User’s country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, End Users, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 **2.3       COOKIES AND SIMILAR TRACKING TECHNOLOGIES**
 
@@ -82,15 +82,15 @@ Specifically, the information we collect automatically may include IP address, o
 
 We may use information collected from the Infolinks Properties for the following purposes:
 
-* To send marketing and promotional communications. For example, we and/or our third-party marketing partners may use the information for our marketing purposes, in accordance with an individual’s marketing preferences. You may opt out of our marketing at any time.
-* To send administrative information. For example, to send information regarding our services and changes to our terms, reports, conditions, and policies.
-* To engage in and process transactions. For example, we may use personal information to process your transactions and for billing purposes.
-* To post testimonials. We post testimonials on the Infolinks Properties that may contain personal information. By becoming a customer you are providing your automatic consent to use your name and testimonial. If you wish to update or delete your testimonial, please contact us at [privacy@infolinks.com](mailto:privacy@infolinks.com) and be sure to include your name, testimonial location, and contact information.
-* Contextual-based advertising and analytics. We may partner with certain third parties to collect information on the Infolinks Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Infolinks Properties and other websites over time. These third parties may set and access cookies on your computer or other device and may also use pixel tags, web logs, web beacons, or other similar technologies.
-* To manage accounts and provide customer support or other services. For example, we may use the information to create or administer Infolinks accounts and to provide customer support or other requested services or information about the Ad Services.
-* To select content and improve quality. We may use the information to help improve the Infolinks Properties and Infolinks Ad Services and to ensure that content on the Infolinks Properties is presented in the most effective manner for your device.
-* For legal purposes. We may use information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
-* For our business purposes. We may use information for our business purposes, such as data analysis, audits, identifying usage trends, determining the effectiveness of our promotional campaigns, and to evaluate and improve our products, services, marketing, and client relationships.
+*   To send marketing and promotional communications. For example, we and/or our third-party marketing partners may use the information for our marketing purposes, in accordance with an individual’s marketing preferences. You may opt out of our marketing at any time.
+*   To send administrative information. For example, to send information regarding our services and changes to our terms, reports, conditions, and policies.
+*   To engage in and process transactions. For example, we may use personal information to process your transactions and for billing purposes.
+*   To post testimonials. We post testimonials on the Infolinks Properties that may contain personal information. By becoming a customer you are providing your automatic consent to use your name and testimonial. If you wish to update or delete your testimonial, please contact us at [privacy@infolinks.com](mailto:privacy@infolinks.com) and be sure to include your name, testimonial location, and contact information.
+*   Contextual-based advertising and analytics. We may partner with certain third parties to collect information on the Infolinks Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Infolinks Properties and other websites over time. These third parties may set and access cookies on your computer or other device and may also use pixel tags, web logs, web beacons, or other similar technologies.
+*   To manage accounts and provide customer support or other services. For example, we may use the information to create or administer Infolinks accounts and to provide customer support or other requested services or information about the Ad Services.
+*   To select content and improve quality. We may use the information to help improve the Infolinks Properties and Infolinks Ad Services and to ensure that content on the Infolinks Properties is presented in the most effective manner for your device.
+*   For legal purposes. We may use information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+*   For our business purposes. We may use information for our business purposes, such as data analysis, audits, identifying usage trends, determining the effectiveness of our promotional campaigns, and to evaluate and improve our products, services, marketing, and client relationships.
 
 **3.3         COOKIES AND SIMILAR TRACKING TECHNOLOGIES**
 
@@ -106,15 +106,15 @@ The Infolinks Properties are not intended for nor directed to individuals that a
 
 Information collected from our Ad Services and Infolinks Properties may be disclosed:
 
-* To our affiliates: We may disclose your information to our affiliates for the purposes described in this Policy.  Infolinks is the party responsible for the management of your personal information jointly used by it and its affiliates.
-* Publisher Clients:  We may disclose information to our Publisher Clients to allow them to analyze the effectiveness and performance of our Ad Services and to offer targeted ad inventory to our Media Buyer Clients.
-* Media Buyers: If you are an End User, we may share information we collect in connection with our Ad Services with our Media Buyer Clients for purposes relevant to our business relationships with them, such as for billing purposes, dispute resolution, or fraud prevention and to allow them to make decisions regarding buying advertising inventory on our Publisher Clients’ Digital Properties and other websites and applications, and to analyze the effectiveness and performance of their advertising campaigns via our services to enable our Media Buyer Clients to provide you with more relevant content and to study the effectiveness of advertising campaigns.
-* Attribution and Analytics Partners: If you are an End User, we may share this information (such as your cookie ID, mobile device ID, or other unique identifiers) with our (or our Publisher Client or Media Buyer’s) attribution and analytics partners to validate and measure the success and effectiveness of ads delivered via the Platform.
-* With our vendors, consultants, and other service providers: We may share this information with our third-party service providers, vendors, contractors, or agents who perform functions required for the operation of the business. Examples include providing data storage and processing services, lead management, campaign management, technical support for our Platform and Infolinks Properties and fraud prevention.
-* Website advertising partners: As noted above, we may partner with certain third parties to collect information on the Infolinks Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Infolinks Properties and other websites over time. We may share information with them for this purpose.
-* Business transfers: We may share this information with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-* For legal purposes: We may share this information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
-* With consent: We may disclose an individual’s information to any other person with the individual’s consent to such disclosure.
+*   To our affiliates: We may disclose your information to our affiliates for the purposes described in this Policy.  Infolinks is the party responsible for the management of your personal information jointly used by it and its affiliates.
+*   Publisher Clients:  We may disclose information to our Publisher Clients to allow them to analyze the effectiveness and performance of our Ad Services and to offer targeted ad inventory to our Media Buyer Clients.
+*   Media Buyers: If you are an End User, we may share information we collect in connection with our Ad Services with our Media Buyer Clients for purposes relevant to our business relationships with them, such as for billing purposes, dispute resolution, or fraud prevention and to allow them to make decisions regarding buying advertising inventory on our Publisher Clients’ Digital Properties and other websites and applications, and to analyze the effectiveness and performance of their advertising campaigns via our services to enable our Media Buyer Clients to provide you with more relevant content and to study the effectiveness of advertising campaigns.
+*   Attribution and Analytics Partners: If you are an End User, we may share this information (such as your cookie ID, mobile device ID, or other unique identifiers) with our (or our Publisher Client or Media Buyer’s) attribution and analytics partners to validate and measure the success and effectiveness of ads delivered via the Platform.
+*   With our vendors, consultants, and other service providers: We may share this information with our third-party service providers, vendors, contractors, or agents who perform functions required for the operation of the business. Examples include providing data storage and processing services, lead management, campaign management, technical support for our Platform and Infolinks Properties and fraud prevention.
+*   Website advertising partners: As noted above, we may partner with certain third parties to collect information on the Infolinks Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Infolinks Properties and other websites over time. We may share information with them for this purpose.
+*   Business transfers: We may share this information with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+*   For legal purposes: We may share this information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+*   With consent: We may disclose an individual’s information to any other person with the individual’s consent to such disclosure.
 
 **4.2       YOUR OPT-OUT CHOICES**
 
@@ -126,14 +126,14 @@ If you no longer want to receive marketing-related emails from us on a going-for
 
 You have the following data protection rights:
 
-* You have the right to request access to or that we change, update, or delete your personal information at any time. Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be first communicated to you.
-* If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
-* The right to opt out of receiving marketing communications from us.
-* If you are a resident of the European Economic Area (EEA), you also have the following rights:
-    * The right to object to the processing of your personal information, restrict processing of your personal information, or request portability of your personal information.
-    * The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+*   You have the right to request access to or that we change, update, or delete your personal information at any time. Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be first communicated to you.
+*   If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+*   The right to opt out of receiving marketing communications from us.
+*   If you are a resident of the European Economic Area (EEA), you also have the following rights:
+    *   The right to object to the processing of your personal information, restrict processing of your personal information, or request portability of your personal information.
+    *   The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-* * Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional detailed information to enable us to identify the information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals. To Learn more see “EEA Data Rights Explained” below.
+*   *   Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional detailed information to enable us to identify the information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals. To Learn more see “EEA Data Rights Explained” below.
 
 **4.4       LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA END USERS AND VISITORS ONLY)**
 
@@ -189,11 +189,11 @@ Who is the controller of my data? For the purposes of EU data protection legisl
 
 Infolinks has adjusted our technology and policies specific to users in the EEA to fully comply with GDPR and adopt the TCF (transparency consent framework) for all data activity. We will be defaulting our systems to a No-Consent interaction when it’s not possible to determine Consent. No-Consent default means we will perform the following actions:
 
-1. Location masking by removing the last octet from the IP address of all EEA end users to de-identify such information and mask latitude/longitude
-2. No cookie syncing or cookie targeting by default unless compliant
-3. Pass a digital ‘No-Consent’ notification to all advertising partners by default
-4. Ensure any vendor activated on our publishers have appropriate compliance
-5. working with publishers to receive valid ‘User Consent’
+1.  Location masking by removing the last octet from the IP address of all EEA end users to de-identify such information and mask latitude/longitude
+2.  No cookie syncing or cookie targeting by default unless compliant
+3.  Pass a digital ‘No-Consent’ notification to all advertising partners by default
+4.  Ensure any vendor activated on our publishers have appropriate compliance
+5.  working with publishers to receive valid ‘User Consent’
 
 In addition, Residents of some countries, including those in the European Economic Area, have data subject rights available to them under applicable data protection laws. These rights may include the right to request access to, or to request erasure or portability of, your personal information.  You may also have a right to object to, or request that we restrict, processing of your personal information.  Where such rights apply, we will comply with requests to exercise these rights in accordance with applicable data protection laws.
 
@@ -227,13 +227,13 @@ Step 1: Locate Your Digital Identifiers
 
 In order for us to locate relevant records, we will need you to provide us with your Digital Identifiers. You can find your Digital Identifiers as follows:
 
-* Web Browsing
+*   Web Browsing
 
 As described throughout the Privacy Policy our technology operates by using text files called “cookies” that are placed on your device. See the applicable policy for more information about the cookies we use, and how to manage cookies and other similar technologies. Some of the cookies we use include a Digital Identifier. To locate these Digital Identifiers, you can search through your cookies for the cookies named in our cookie policies (which are set from the Infolinks domain). The text in each of these cookies is a separate Digital Identifier.
 
 Please keep in mind that different cookies are placed on each browser and device that you use to access the Internet. As a result, if you use multiple browsers (for example, Google Chrome and Mozilla Firefox) and devices (for example, a laptop computer and a mobile phone), you will need to locate the applicable cookies for each browser and device.
 
-* Mobile Devices
+*   Mobile Devices
 
 Additionally, certain mobile devices (for example, mobile phones or tablets using the iOS or Android operating systems) generate a persistent “Advertising Identifier” per device, which, among other things, can be used by third parties for purposes of providing you with targeted advertising. On iOS devices, your Advertising Identifier may be referred to as an “IDFA,” “IFA,” or an “ID for Advertising.” On Android devices, your Advertising Identifier may be referred to as an “Advertising ID.” Please follow instructions from your mobile device manufacturer on how to locate your specific Advertising Identifiers.
 
@@ -245,13 +245,13 @@ Step 3: Contact Us
 
 Once you have located your Digital Identifiers and can provide us with verification of those Digital Identifiers as instructed above, please contact us with details of the data subject rights you wish to exercise. The easiest way to do so is to email us at [privacy@infolinks.com](mailto:privacy@infolinks.com).  Your completed Authorization Verification Form located below in SECTION -A- and required documentation must be attached to the email as PDF files.  Please make sure to include the following information in your email:
 
-* Your full name
-* The country in which you are located at the time you are making your request
-* The data subject rights you wish to exercise
-* A full list of your Digital Identifiers
-* Supporting proof, as described in Step 2
-* A signed Authorization Verification Form (with witness signature), linked in Step 2
-* The identity documents described in Step 2.
+*   Your full name
+*   The country in which you are located at the time you are making your request
+*   The data subject rights you wish to exercise
+*   A full list of your Digital Identifiers
+*   Supporting proof, as described in Step 2
+*   A signed Authorization Verification Form (with witness signature), linked in Step 2
+*   The identity documents described in Step 2.
 
 You can also make a data subject rights request by postal mail, by sending a written request with all of the above-listed information to our contact address:
 
@@ -309,14 +309,14 @@ Please Submit the Data Subject Access Request by mail to the contact address in 
 
 I, the undersigned Data Subject, hereby swear, certify and attest that:
 
-1. I am a citizen and/or resident of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is located within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Area;
-2. Please complete for the access you are requesting:
+1.  I am a citizen and/or resident of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is located within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Area;
+2.  Please complete for the access you are requesting:
 
 ¨\[   \] I own and operate a device on which is stored at least one cookie listed in Infolinks’s Platform Cookie Policy or Website Cookie Policy, which is set by the Infolinks domain, and contains the following string(s) of text: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_; \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
 
-3. \[   \] I have the authority, under relevant laws, rules and regulations, to submit a subject access request for personal data associated with the above-listed identifiers; and
-4. \[   \] I am not requesting this information for any fraudulent, criminal, malicious or other unlawful or improper purpose.
-5. I have followed the directions and provided all information required by the Infolinks Data Subject Rights Notice.
+3.  \[   \] I have the authority, under relevant laws, rules and regulations, to submit a subject access request for personal data associated with the above-listed identifiers; and
+4.  \[   \] I am not requesting this information for any fraudulent, criminal, malicious or other unlawful or improper purpose.
+5.  I have followed the directions and provided all information required by the Infolinks Data Subject Rights Notice.
 
 DATA SUBJECT: By signing this form below, I declare under penalty of perjury that the foregoing is true and correct. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Name of Data Subject (print)
 
