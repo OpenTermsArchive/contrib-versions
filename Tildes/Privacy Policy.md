@@ -26,13 +26,13 @@ What information we collect
 
 Tildes collects information that you submit as part of using the site, in order to provide the relevant functionality. This information is generally stored indefinitely, and includes:
 
-* If you register an account, your username and a hashed representation of your password, as well as (if applicable) information about which user invited you.
-* Which groups you subscribe to.
-* The contents of any topics or comments ("posts") that you submit.
-    * If you edit a post, the previous content is replaced and not retained.
-    * If you delete a post, it is marked for deletion and hidden from the site, but the contents are not deleted immediately. The content of deleted posts is removed from our databases 30 days after deletion.
-* Your votes and/or tags on posts.
-* The contents of messages that you send to other users; and for any message conversations you are a part of, an indicator of whether you have viewed the conversation after the most recent message was sent.
+*   If you register an account, your username and a hashed representation of your password, as well as (if applicable) information about which user invited you.
+*   Which groups you subscribe to.
+*   The contents of any topics or comments ("posts") that you submit.
+    *   If you edit a post, the previous content is replaced and not retained.
+    *   If you delete a post, it is marked for deletion and hidden from the site, but the contents are not deleted immediately. The content of deleted posts is removed from our databases 30 days after deletion.
+*   Your votes and/or tags on posts.
+*   The contents of messages that you send to other users; and for any message conversations you are a part of, an indicator of whether you have viewed the conversation after the most recent message was sent.
 
 When we store data for functionality-related reasons, we generally also store the date and time that the action took place.
 
@@ -42,8 +42,8 @@ We automatically log all requests and the associated information (your IP addres
 
 All personal information logged this way is deleted in 30 days unless:
 
-* We are required to retain it for longer due to a legal obligation such as in response to a valid copyright claim (as required by Canada's _Copyright Act_ § 41.26(1)(b)).
-* We believe it is necessary to prevent sophisticated or egregious violations of our Terms of Service, Privacy Policy, or the law.
+*   We are required to retain it for longer due to a legal obligation such as in response to a valid copyright claim (as required by Canada's _Copyright Act_ § 41.26(1)(b)).
+*   We believe it is necessary to prevent sophisticated or egregious violations of our Terms of Service, Privacy Policy, or the law.
 
 Aggregated, non-identifiable information and statistics derived from logs may be retained indefinitely.
 
@@ -88,9 +88,9 @@ _To protect your privacy and the privacy of others, we may need to verify your i
 
 You may request any of:
 
-* correction or deletion of any of your personal information
-* a full export of your personal information
-* deletion of your Tildes account (and all associated personal information)
+*   correction or deletion of any of your personal information
+*   a full export of your personal information
+*   deletion of your Tildes account (and all associated personal information)
 
 by emailing [privacy@tildes.net](mailto:privacy@tildes.net). If we satisfy a deletion request, the information will be immediately marked for deletion (which removes its visibility from the site), and fully removed from the databases in 30 days.
 
