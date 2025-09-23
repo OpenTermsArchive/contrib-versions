@@ -47,15 +47,15 @@ All content provided by W3Schools, including text, graphics, logos, images, and 
 
 You can still use W3Schools copyright material under fair use for:
 
-* Research
-* News reporting
-* Citations
-* Commentary
+*   Research
+*   News reporting
+*   Citations
+*   Commentary
 
 Fair use also includes:
 
-* Linking to W3Schools
-* Including references to W3Schools in search engines
+*   Linking to W3Schools
+*   Including references to W3Schools in search engines
 
 * * *
 
@@ -66,14 +66,14 @@ Fair use allows the use of copyrighted material in teaching, provided it meets t
 
 ### Permitted Use
 
-* Copying examples and code snippets for non-profit teaching or research
-* Copying small portions suitable for classroom instruction
+*   Copying examples and code snippets for non-profit teaching or research
+*   Copying small portions suitable for classroom instruction
 
 ### Not Permitted Use
 
-* Copying for profitable or commercial use
-* Mass or verbatim copying
-* Copying large portions of material
+*   Copying for profitable or commercial use
+*   Mass or verbatim copying
+*   Copying large portions of material
 
 * * *
 
@@ -139,9 +139,9 @@ When you buy a domain, you become its sole owner and must follow all related ter
 
 W3Schools works with third-party providers, such as Amazon and its Route 53 services, for domain registration and distribution. You can review their terms here:
 
-* [Amazon Route 53 Domain Registration Agreement](https://aws.amazon.com/route53/domain-registration-agreement/)
-* [Amazon Registrar Policy Page](https://aws.amazon.com/route53/amazon-registrar-policies/)
-* [Gandi Contract Page](https://www.gandi.net/en/contracts/terms-of-service)
+*   [Amazon Route 53 Domain Registration Agreement](https://aws.amazon.com/route53/domain-registration-agreement/)
+*   [Amazon Registrar Policy Page](https://aws.amazon.com/route53/amazon-registrar-policies/)
+*   [Gandi Contract Page](https://www.gandi.net/en/contracts/terms-of-service)
 
 As the distributor, W3Schools handles purchasing and billing. If you have any complaints, claims, or concerns about these third-party products, please contact us at [support@w3schools.com](mailto:support@w3schools.com).
 
@@ -187,17 +187,17 @@ Prohibited Use
 
 In addition to other restrictions described in these Terms, the following activities are forbidden when using the Website or its content:
 
-1. Engaging in any unlawful activity
-2. Encouraging others to engage in unlawful activities
-3. Violating international, national, regional, or local laws, regulations, or rules
-4. Infringing upon our intellectual property rights or those of others
-5. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating, or discriminating against any individual or group, including but not limited to those defined by gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
-6. Providing false or misleading information
-7. Uploading or transmitting viruses, malicious code, or any harmful elements designed to affect the functionality or operation of the Service, any related website, other websites, or the broader Internet
-8. Collecting or tracking personal information about others without authorization
-9. Engaging in spamming, phishing, pharming, pretexting, spidering, crawling, or scraping
-10. Using the Website or its content for offensive or unethical purposes
-11. Interfering with or attempting to bypass the security features of the Service, related websites, other websites, or the Internet in general
+1.  Engaging in any unlawful activity
+2.  Encouraging others to engage in unlawful activities
+3.  Violating international, national, regional, or local laws, regulations, or rules
+4.  Infringing upon our intellectual property rights or those of others
+5.  Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating, or discriminating against any individual or group, including but not limited to those defined by gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
+6.  Providing false or misleading information
+7.  Uploading or transmitting viruses, malicious code, or any harmful elements designed to affect the functionality or operation of the Service, any related website, other websites, or the broader Internet
+8.  Collecting or tracking personal information about others without authorization
+9.  Engaging in spamming, phishing, pharming, pretexting, spidering, crawling, or scraping
+10.  Using the Website or its content for offensive or unethical purposes
+11.  Interfering with or attempting to bypass the security features of the Service, related websites, other websites, or the Internet in general
 
 We reserve the right to terminate your use of the Website or the Services if you engage in prohibited activities.
 
