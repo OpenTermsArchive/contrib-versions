@@ -43,66 +43,66 @@ apply to all content and behaviour on Snapchat's platform and products, and cove
 
 Sexual Content
 
-* We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming or sexual extortion (sextortion), or the sexualisation of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
+*   We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming or sexual extortion (sextortion), or the sexualisation of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
     
-* We prohibit promoting, distributing or sharing pornographic content, as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
+*   We prohibit promoting, distributing or sharing pornographic content, as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
     
-* Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted.
+*   Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB)
 
 Threats, Violence & Harm
 
-* Encouraging or engaging in violent or dangerous behaviour is prohibited. Never intimidate or threaten to harm a person, a group of people or someone’s property.
+*   Encouraging or engaging in violent or dangerous behaviour is prohibited. Never intimidate or threaten to harm a person, a group of people or someone’s property.
     
-* Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
+*   Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
     
-* We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide or eating disorders.
+*   We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide or eating disorders.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-GB)
 
 Hateful Content, Terrorism and Violent Extremism
 
-* Terrorist organisations, violent extremists and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
+*   Terrorist organisations, violent extremists and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
     
-* Hate speech or content that demeans, defames or promotes discrimination or violence on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability or veteran status, immigration status, socio-economic status, age, weight or pregnancy status is prohibited.
+*   Hate speech or content that demeans, defames or promotes discrimination or violence on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability or veteran status, immigration status, socio-economic status, age, weight or pregnancy status is prohibited.
     
 
 [Read Next](https://www.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB)
 
 Harassment and Bullying
 
-* We prohibit bullying or harassment of any kind. This extends to all forms of sexual harassment, including sending unwanted sexually explicit, suggestive or nude images to other users. If someone blocks you, you may not contact them from another Snapchat account.
+*   We prohibit bullying or harassment of any kind. This extends to all forms of sexual harassment, including sending unwanted sexually explicit, suggestive or nude images to other users. If someone blocks you, you may not contact them from another Snapchat account.
     
-* Sharing images of a person in a private space – like a bathroom, bedroom, locker room or medical facility – without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e. “doxxing”).
+*   Sharing images of a person in a private space – like a bathroom, bedroom, locker room or medical facility – without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e. “doxxing”).
     
-* If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
+*   If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
     
-* Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.
+*   Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-GB)
 
 Illegal or Regulated Activities
 
-* Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating or participating in criminal activity, such as buying, selling, exchanging or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
+*   Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating or participating in criminal activity, such as buying, selling, exchanging or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
     
-* We prohibit the illegal promotion of regulated goods or industries, including unauthorised promotion of gambling, tobacco or vape products and alcohol.
+*   We prohibit the illegal promotion of regulated goods or industries, including unauthorised promotion of gambling, tobacco or vape products and alcohol.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-GB)
 
 Harmful False or Deceptive Practices
 
-* We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
+*   We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
     
-* We prohibit pretending to be someone (or something) that you're not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands or other people or organisations for harmful, non-satirical purposes.
+*   We prohibit pretending to be someone (or something) that you're not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands or other people or organisations for harmful, non-satirical purposes.
     
-* We prohibit spam, including undisclosed paid or sponsored content, pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
+*   We prohibit spam, including undisclosed paid or sponsored content, pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
     
-* We prohibit fraud and other deceptive practices, including the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
+*   We prohibit fraud and other deceptive practices, including the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-GB)
