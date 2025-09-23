@@ -3,16 +3,16 @@ Terms of Use
 
 **Updated on:** Tuesday 2 June 2015
 
-* Like most large-scale websites, we have some rules which you need to stick to when you use Last.fm. These rules aren’t just the “blahblahblah-yawn-small print” – these are the legal terms of use and so we recommend you read them carefully so you know what you’ve agreed to.
-* As with all websites, Last.fm, its services and software will change over time, both in terms of the content displayed and the functionality offered. We reserve the right to make those changes, and to change these terms in line with them. Software made available for download by Last.fm remains the property of Last.fm, and we reserve the right to update and change that too.
-* Please don’t reproduce any part of the website or content without our permission.
-* A lot of information and content on Last.fm is provided by third parties – both users and other third parties – and the accuracy and reliability of that information is entirely the responsibility of those parties. Likewise, you may sometimes find links on Last.fm to other websites; Last.fm cannot be held responsible for the content of those sites. Links, like everything else added by members of the Last.fm community, are entirely the responsibility of the individuals who have added them.
-* By using Last.fm, you also agree to our Privacy Policy - please read our [Privacy Policy](https://www.last.fm/legal/privacy).
-* If you’ve found content on the website that you own and that you believe is being used without your permission then please read [Section 10](#para10) of these Terms of Use for a detailed description of what to do about it. We take infringement claims very seriously, so provide all the information set out in Section 10 and we will act swiftly to deal with any claims.
-* We have a detailed [Acceptable Use policy](#para6), but much like the [Community Guidelines](https://www.last.fm/help/guidelines) they boil down into a few fairly simple concepts: play nicely, respect other members of the community and use common sense. If we believe someone isn’t playing fairly and within the spirit of the guidelines then we’re entitled to ban that user at our sole discretion. We don’t like doing it, but sometimes it’s the most appropriate response.
-* If you enter a competition or use software alongside Last.fm then make sure you read any accompanying Terms and Conditions carefully too, because they may have conditions in addition to this document.
-* When you use Last.fm and all of its software and services, you accept it “as is”. Like human beings, we have the odd fault or two and we’re constantly updating and improving every aspect of Last.fm, ironing out new-found bugs and making subtle changes to things like our recommendation algorithms. As a result, Last.fm should never be considered a “finished product”, and by using Last.fm you accept it – warts and all.
-* Last.fm is based in London – we quite like it here – and this document is to be interpreted in line with the laws governing England and Wales.
+*   Like most large-scale websites, we have some rules which you need to stick to when you use Last.fm. These rules aren’t just the “blahblahblah-yawn-small print” – these are the legal terms of use and so we recommend you read them carefully so you know what you’ve agreed to.
+*   As with all websites, Last.fm, its services and software will change over time, both in terms of the content displayed and the functionality offered. We reserve the right to make those changes, and to change these terms in line with them. Software made available for download by Last.fm remains the property of Last.fm, and we reserve the right to update and change that too.
+*   Please don’t reproduce any part of the website or content without our permission.
+*   A lot of information and content on Last.fm is provided by third parties – both users and other third parties – and the accuracy and reliability of that information is entirely the responsibility of those parties. Likewise, you may sometimes find links on Last.fm to other websites; Last.fm cannot be held responsible for the content of those sites. Links, like everything else added by members of the Last.fm community, are entirely the responsibility of the individuals who have added them.
+*   By using Last.fm, you also agree to our Privacy Policy - please read our [Privacy Policy](https://www.last.fm/legal/privacy).
+*   If you’ve found content on the website that you own and that you believe is being used without your permission then please read [Section 10](#para10) of these Terms of Use for a detailed description of what to do about it. We take infringement claims very seriously, so provide all the information set out in Section 10 and we will act swiftly to deal with any claims.
+*   We have a detailed [Acceptable Use policy](#para6), but much like the [Community Guidelines](https://www.last.fm/help/guidelines) they boil down into a few fairly simple concepts: play nicely, respect other members of the community and use common sense. If we believe someone isn’t playing fairly and within the spirit of the guidelines then we’re entitled to ban that user at our sole discretion. We don’t like doing it, but sometimes it’s the most appropriate response.
+*   If you enter a competition or use software alongside Last.fm then make sure you read any accompanying Terms and Conditions carefully too, because they may have conditions in addition to this document.
+*   When you use Last.fm and all of its software and services, you accept it “as is”. Like human beings, we have the odd fault or two and we’re constantly updating and improving every aspect of Last.fm, ironing out new-found bugs and making subtle changes to things like our recommendation algorithms. As a result, Last.fm should never be considered a “finished product”, and by using Last.fm you accept it – warts and all.
+*   Last.fm is based in London – we quite like it here – and this document is to be interpreted in line with the laws governing England and Wales.
 
 IMPORTANT
 ---------
@@ -29,25 +29,25 @@ These Terms of Use apply to the Properties and not to any other website or any o
 
 ### Contents
 
-1. [Changes to the Website and the Terms of Use](#para1)
-2. [Description of Website Services](#para2)
-3. [Intellectual Property Ownership; Licence](#para3)
-4. [Links To Other Websites](#para4)
-5. [Our Linking and Widget Policy](#para5)
-6. [Acceptable Use](#para6)
-7. [User Accounts, Additional Terms & End User Licence Agreements](#para7)
-8. [Competitions](#para8)
-9. [Software](#para9)
-10. [Copyrights & Copyright Agents](#para10)
-11. [Third Party Content and Information](#para11)
-12. [Information You Submit](#para12)
-13. [Disclaimer of Warranties](#para13)
-14. [Disclaimers/Limitation of Liability](#para14)
-15. [Indemnity](#para15)
-16. [Governing Law](#para16)
-17. [Miscellaneous](#para17)
-18. [Termination](#para18)
-19. [Privacy](#para19)
+1.  [Changes to the Website and the Terms of Use](#para1)
+2.  [Description of Website Services](#para2)
+3.  [Intellectual Property Ownership; Licence](#para3)
+4.  [Links To Other Websites](#para4)
+5.  [Our Linking and Widget Policy](#para5)
+6.  [Acceptable Use](#para6)
+7.  [User Accounts, Additional Terms & End User Licence Agreements](#para7)
+8.  [Competitions](#para8)
+9.  [Software](#para9)
+10.  [Copyrights & Copyright Agents](#para10)
+11.  [Third Party Content and Information](#para11)
+12.  [Information You Submit](#para12)
+13.  [Disclaimer of Warranties](#para13)
+14.  [Disclaimers/Limitation of Liability](#para14)
+15.  [Indemnity](#para15)
+16.  [Governing Law](#para16)
+17.  [Miscellaneous](#para17)
+18.  [Termination](#para18)
+19.  [Privacy](#para19)
 
 ### 1\. Changes to the Properties and the Terms of Use
 
@@ -71,20 +71,20 @@ The copying, reproduction, re-arrangement, sale, leasing, renting, lending, dist
 
 Subject to your strict compliance with these Terms of Use, Last.fm grants you a limited, personal, non-exclusive, non-commercial, revocable, non-assignable and non-transferable licence to:
 
-1. download and use the Last.fm client-based software in accordance with its pre-defined functionality only;
-2. listen to music and view videos streamed from the Website and participate in the Last.fm community areas;
-3. submit or upload music, video and other content to the Website strictly as permitted in accordance with these Terms of Use and any other terms posted on the Website;
-4. embed the Last.fm widget on your personal website or profile pages for non-commercial and private use only; and
-5. communicate with other members of the Last.fm community;
+1.  download and use the Last.fm client-based software in accordance with its pre-defined functionality only;
+2.  listen to music and view videos streamed from the Website and participate in the Last.fm community areas;
+3.  submit or upload music, video and other content to the Website strictly as permitted in accordance with these Terms of Use and any other terms posted on the Website;
+4.  embed the Last.fm widget on your personal website or profile pages for non-commercial and private use only; and
+5.  communicate with other members of the Last.fm community;
 
 Provided that you:
 
-1. retain and do not alter or tamper with any trademark, copyright and other proprietary or legal notices contained in the original Content or any permitted copy you may make of the Content;
-2. do not, and do not allow or aid or abet any third party (whether or not for your benefit) to, copy or adapt the object code of the Website or Services (including, without limitation, software, HTML, JavaScript, or other code); to reverse engineer, decompile, reverse assemble, modify or attempt to discover any source or object code, circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information;
-3. do not insert any code, product or material to manipulate the Content in any way that affects any user's experience;
-4. do not copy or seek to copy or “rip” any audio and/or audiovisual content from the Website or any part of the Service (including, without limitation, the Last.fm widget);
-5. do not embed or otherwise exploit the Last.fm widget for commercial gain (which includes, for example and without limitation, selling advertising on your site or otherwise monetising any element of your site which contains the Last.fm widget); and
-6. do not adapt, copy, republish, communicate to the public, display, transfer, share, distribute or otherwise exploit the Content, except as under these Terms of Use.
+1.  retain and do not alter or tamper with any trademark, copyright and other proprietary or legal notices contained in the original Content or any permitted copy you may make of the Content;
+2.  do not, and do not allow or aid or abet any third party (whether or not for your benefit) to, copy or adapt the object code of the Website or Services (including, without limitation, software, HTML, JavaScript, or other code); to reverse engineer, decompile, reverse assemble, modify or attempt to discover any source or object code, circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information;
+3.  do not insert any code, product or material to manipulate the Content in any way that affects any user's experience;
+4.  do not copy or seek to copy or “rip” any audio and/or audiovisual content from the Website or any part of the Service (including, without limitation, the Last.fm widget);
+5.  do not embed or otherwise exploit the Last.fm widget for commercial gain (which includes, for example and without limitation, selling advertising on your site or otherwise monetising any element of your site which contains the Last.fm widget); and
+6.  do not adapt, copy, republish, communicate to the public, display, transfer, share, distribute or otherwise exploit the Content, except as under these Terms of Use.
 
 Last.fm alone shall be responsible for determining, in its discretion, whether any use of the Last.fm widget constitutes commercial use in each case.
 
@@ -104,19 +104,19 @@ Last.fm reserves the right to remove links or block the Last.fm widget at any ti
 
 You will not use the Properties to:
 
-1. Upload, post, e-mail, transmit, display, copy, distribute, promote, or otherwise communicate to the public:
-    1. any material that is false, unlawful, threatening, tortious, disparaging (including disparaging of Last.fm, its parent, subsidiaries or affiliates), anything that adversely affects Last.fm such as discouraging any person or entity from advertising with, linking to or supplying Last.fm, abusive, libellous, defamatory, obscene, vulgar, offensive, pornographic, profane, racist, sexually explicit, ethnically or culturally offensive, indecent, or that promotes violence, racial hatred, terrorism, or illegal acts, or is otherwise objectionable in Last.fm's sole discretion;
-    2. information, software, content or other material that violates, plagiarises, misappropriates or infringes the rights of third parties including, without limitation, copyright (including, offering pirated computer programs or links to such programs, information used to circumvent manufacturer-installed copy-protect devices, including serial registration numbers for software programs, rights management information or any type of cracker utilities), trademark, patent, trade secret, rights of privacy or publicity, confidential information or any other proprietary right;
-    3. material of any kind that contains a virus, Trojan horse, time bombs, worms, spyware, adware, malware, bots, any automated use of the system, such as scripts, or other harmful component or restricts or inhibits any other user's uninhibited use and enjoyment of the Properties, interferes with, overburdens, impairs or disrupts the Properties or servers or networks connected to the Properties, or disobeys any requirements, procedures, policies or regulations of networks connected to the Properties;
-    4. information or material of any kind that is false or misleading or that constitutes or contains false or misleading indications of origin or statements of fact, including, without limitation, by forging any TCP/IP packet header, any part of the header information in any transmission to the Website, or otherwise manipulating identifiers in order to disguise the origin of any content transmitted to or from the Website; or
-    5. any unsolicited or unauthorised advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, requests for money, petitions for signature, or any other form of solicitation.
-2. Encourage, promote, solicit or commit conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any local, state, national or international law or otherwise make available any material that exploits or harms any individual, corporation or other entity.
-3. Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
-4. Disrupt the normal flow of dialogue, cause a screen to scroll faster than other users of the Website are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges on the Website;
-5. Stalk, abuse, sexually exploit, violently exploit, groom, act violently toward, threaten or otherwise harass another user;
-6. Use or attempt to use another's information, account, password, service or system except as expressly permitted;
-7. Solicit or collect personal data including telephone numbers, addresses, last names, email addresses, or any other kind of information about users, including without limitation, through such means as spidering, “screen scraping,” “database scraping,” harvesting of e-mail addresses, wireless addresses or other contact or personal information, or any other automatic means of accessing, logging-in or registering on the Website or for any services or features offered on or through the Website; and
-8. Undertake any commercial purpose or activity without the prior written consent of Last.fm, including, for example and without limitation, inserting your own or a third party’s advertising, branding or promotional content into any of the Website’s or Properties’ content, materials or services (for example, without limitation, in an RSS feed or a podcast received from Last.fm or otherwise available through the Properties).
+1.  Upload, post, e-mail, transmit, display, copy, distribute, promote, or otherwise communicate to the public:
+    1.  any material that is false, unlawful, threatening, tortious, disparaging (including disparaging of Last.fm, its parent, subsidiaries or affiliates), anything that adversely affects Last.fm such as discouraging any person or entity from advertising with, linking to or supplying Last.fm, abusive, libellous, defamatory, obscene, vulgar, offensive, pornographic, profane, racist, sexually explicit, ethnically or culturally offensive, indecent, or that promotes violence, racial hatred, terrorism, or illegal acts, or is otherwise objectionable in Last.fm's sole discretion;
+    2.  information, software, content or other material that violates, plagiarises, misappropriates or infringes the rights of third parties including, without limitation, copyright (including, offering pirated computer programs or links to such programs, information used to circumvent manufacturer-installed copy-protect devices, including serial registration numbers for software programs, rights management information or any type of cracker utilities), trademark, patent, trade secret, rights of privacy or publicity, confidential information or any other proprietary right;
+    3.  material of any kind that contains a virus, Trojan horse, time bombs, worms, spyware, adware, malware, bots, any automated use of the system, such as scripts, or other harmful component or restricts or inhibits any other user's uninhibited use and enjoyment of the Properties, interferes with, overburdens, impairs or disrupts the Properties or servers or networks connected to the Properties, or disobeys any requirements, procedures, policies or regulations of networks connected to the Properties;
+    4.  information or material of any kind that is false or misleading or that constitutes or contains false or misleading indications of origin or statements of fact, including, without limitation, by forging any TCP/IP packet header, any part of the header information in any transmission to the Website, or otherwise manipulating identifiers in order to disguise the origin of any content transmitted to or from the Website; or
+    5.  any unsolicited or unauthorised advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, requests for money, petitions for signature, or any other form of solicitation.
+2.  Encourage, promote, solicit or commit conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any local, state, national or international law or otherwise make available any material that exploits or harms any individual, corporation or other entity.
+3.  Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
+4.  Disrupt the normal flow of dialogue, cause a screen to scroll faster than other users of the Website are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges on the Website;
+5.  Stalk, abuse, sexually exploit, violently exploit, groom, act violently toward, threaten or otherwise harass another user;
+6.  Use or attempt to use another's information, account, password, service or system except as expressly permitted;
+7.  Solicit or collect personal data including telephone numbers, addresses, last names, email addresses, or any other kind of information about users, including without limitation, through such means as spidering, “screen scraping,” “database scraping,” harvesting of e-mail addresses, wireless addresses or other contact or personal information, or any other automatic means of accessing, logging-in or registering on the Website or for any services or features offered on or through the Website; and
+8.  Undertake any commercial purpose or activity without the prior written consent of Last.fm, including, for example and without limitation, inserting your own or a third party’s advertising, branding or promotional content into any of the Website’s or Properties’ content, materials or services (for example, without limitation, in an RSS feed or a podcast received from Last.fm or otherwise available through the Properties).
 
 You represent, warrant and agree that you will comply with the above acceptable use requirements. Last.fm reserves the right, in its sole discretion, to terminate any user’s account or take such other action as Last.fm sees fit in relation to any user who breaches Last.fm’s acceptable use policy or any of the other terms set forth herein. In extreme cases or as required by law or regulation, Last.fm reserves the right to take court action and/or report users to the relevant authorities. Last.fm believes in building a caring community based around sharing music and will not tolerate antisocial or unlawful behaviour on the Website or in connection with any of the other Properties.
 
@@ -142,13 +142,13 @@ WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY O
 
 At Last.fm, we aim to respect the intellectual property rights of others. If you believe that your work (or the work of a third party on whose behalf you are entitled to act) has been copied, used, or made available on or through the Last.fm Website in a way that constitutes copyright infringement of your intellectual property, please provide our copyright agent with a copyright infringement notice (“Notice”) which should include the following written information:
 
-1. a statement that you have identified material on the Website which infringes your copyright (or infringes the copyright of a third party on whose behalf you are entitled to act, if applicable);
-2. identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single Notice, a representative list of such works at that site;
-3. identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Last.fm to locate the material (including, for example, a URL and/or screen shot);
-4. your full name, email address, postal address and telephone number on which you can be contacted;
-5. a statement by you that you have a good-faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law;
-6. a statement by you that the information in the Notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the exclusive right that is allegedly infringed; and
-7. a physical or electronic signature (which may be a scanned copy) of a person authorized to act on behalf of owner of the work that is allegedly infringed.
+1.  a statement that you have identified material on the Website which infringes your copyright (or infringes the copyright of a third party on whose behalf you are entitled to act, if applicable);
+2.  identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single Notice, a representative list of such works at that site;
+3.  identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Last.fm to locate the material (including, for example, a URL and/or screen shot);
+4.  your full name, email address, postal address and telephone number on which you can be contacted;
+5.  a statement by you that you have a good-faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law;
+6.  a statement by you that the information in the Notice is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the exclusive right that is allegedly infringed; and
+7.  a physical or electronic signature (which may be a scanned copy) of a person authorized to act on behalf of owner of the work that is allegedly infringed.
 
 Last.fm's agent for notice of claims of copyright infringement on or regarding the Website can be reached as follows:
 
