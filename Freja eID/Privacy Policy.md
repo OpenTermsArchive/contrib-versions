@@ -59,22 +59,22 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for Basic users**:
 
-* Email address(es) (one mandatory, two optional)
-* Information about your device such as the manufacturer, model, OS version and time of use
-* Unique personal identifier (UPI), which is an ID number created by Freja and can be shared with relying parties
+*   Email address(es) (one mandatory, two optional)
+*   Information about your device such as the manufacturer, model, OS version and time of use
+*   Unique personal identifier (UPI), which is an ID number created by Freja and can be shared with relying parties
 
 **Personal data processing – Added ID document and Freja+ beyond the Basic level**:
 
-* Name and gender
-* Country
-* Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
-* Address (only for people with a Swedish personnummer or a verified coordination number)
-* Image of your ID document
-* ID document number
-* ID document expiry date
-* High resolution image of your passport (if you registered with one)
-* Where, when, and by whom you were vetted physically (only for Freja+)
-* Other information that may be found in the passport’s data fields from certain countries
+*   Name and gender
+*   Country
+*   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
+*   Address (only for people with a Swedish personnummer or a verified coordination number)
+*   Image of your ID document
+*   ID document number
+*   ID document expiry date
+*   High resolution image of your passport (if you registered with one)
+*   Where, when, and by whom you were vetted physically (only for Freja+)
+*   Other information that may be found in the passport’s data fields from certain countries
 
 —
 
@@ -84,7 +84,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+**:
 
-* Image of your face
+*   Image of your face
 
 —
 
@@ -94,7 +94,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for all users:**
 
-* Transaction history from when you identified yourself or signed with your eID, which service it was, at what time and which data you agreed to share
+*   Transaction history from when you identified yourself or signed with your eID, which service it was, at what time and which data you agreed to share
 
 ### For Secure Verification of Your Identity
 
@@ -104,9 +104,9 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+**:
 
-* Image of your face
-* Video capture of face during taking of the ID photo
-* Where, when, and by whom you were vetted physically (only for Freja+)
+*   Image of your face
+*   Video capture of face during taking of the ID photo
+*   Where, when, and by whom you were vetted physically (only for Freja+)
 
 —
 
@@ -116,9 +116,9 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+**:
 
-* Image of your face
-* Video capture of face during taking of the ID photo
-* Where, when, and by whom you were vetted physically (only for Freja+)
+*   Image of your face
+*   Video capture of face during taking of the ID photo
+*   Where, when, and by whom you were vetted physically (only for Freja+)
 
 —
 
@@ -128,9 +128,9 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+**:
 
-* Image of your face
-* Video capture of face during taking of the ID photo
-* Where, when, and by whom you were vetted physically (only for Freja+)
+*   Image of your face
+*   Video capture of face during taking of the ID photo
+*   Where, when, and by whom you were vetted physically (only for Freja+)
 
 —
 
@@ -140,9 +140,9 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+**:
 
-* Image of your face
-* Video capture of face during taking of the ID photo
-* Where, when, and by whom you were vetted physically (only for Freja+)
+*   Image of your face
+*   Video capture of face during taking of the ID photo
+*   Where, when, and by whom you were vetted physically (only for Freja+)
 
 ### For Sharing Personal Data with a Third Party
 
@@ -152,21 +152,21 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for Basic Users**:
 
-* * * Email address
+*   *   *   Email address
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
-        * UPI (Unique Personal Identifier)
-        * Country
-        * Date of birth
-        * Name and surname
-        * ID photo taken with Freja eID
-        * Address
-        * Gender
-        * Image of ID document
-        * Mobile device IP address
-        * Passport data (including: photo, name and surname, date of birth, place of birth, nationality, civil registration no, gender, document type, country and place of issuance, address, serial no, issuance and expiration date, data source)
+*   *   *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
+        *   UPI (Unique Personal Identifier)
+        *   Country
+        *   Date of birth
+        *   Name and surname
+        *   ID photo taken with Freja eID
+        *   Address
+        *   Gender
+        *   Image of ID document
+        *   Mobile device IP address
+        *   Passport data (including: photo, name and surname, date of birth, place of birth, nationality, civil registration no, gender, document type, country and place of issuance, address, serial no, issuance and expiration date, data source)
 
 ### Identifying with the Freja ID Card
 
@@ -176,11 +176,11 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
-        * Image of your face
-        * Expiry date
-        * Age
-        * Name and surname
+*   *   *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
+        *   Image of your face
+        *   Expiry date
+        *   Age
+        *   Name and surname
 
 —
 
@@ -190,7 +190,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
+*   *   *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
 
 —
 
@@ -200,7 +200,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
+*   *   *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
 
 —
 
@@ -210,13 +210,13 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
-        * Image of your face
+*   *   *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number.
+        *   Image of your face
             
-        * Expiry date
+        *   Expiry date
             
-        * Age
-        * Name and surname
+        *   Age
+        *   Name and surname
 
 ### Identifying via the ‘Share Data’ Feature
 
@@ -226,10 +226,10 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Name and surname
-        * Image of your face
-        * Age
-        * ID document type used to verify your identity in Freja
+*   *   *   Name and surname
+        *   Image of your face
+        *   Age
+        *   ID document type used to verify your identity in Freja
 
 ### For Organisation ID
 
@@ -237,12 +237,12 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Legal basis**:
 
-* * * Employment contract between you and your employer
-        * Freja eID Group agreement with your employer on providing Organisation eID for processing employee data
+*   *   *   Employment contract between you and your employer
+        *   Freja eID Group agreement with your employer on providing Organisation eID for processing employee data
 
 **Data used for users with an added ID document and Freja+:**
 
-* * * Data related to your employment and the data your employer is the personal data controller for, such as your employment number or work email address.
+*   *   *   Data related to your employment and the data your employer is the personal data controller for, such as your employment number or work email address.
 
 ### For Geographic Location
 
@@ -259,16 +259,16 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 **Data used for Basic Users:**
 
-* * * Email address(es) (one mandatory, two optional)
-        * Telephone number (three optional)
+*   *   *   Email address(es) (one mandatory, two optional)
+        *   Telephone number (three optional)
 
 **Data used for users with an added ID document and Freja+:**
 
-* * Name and surname
-    * Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
-    * Date of birth
-    * Address
-    * Gender
+*   *   Name and surname
+    *   Personal identity designation such as, for example, personal identity number, coordination number, civic registration number, or social security number
+    *   Date of birth
+    *   Address
+    *   Gender
 
 _\* In addition to personal data stated in the table, we collect completely anonymised information about where Freja eID is used for physical identification in order to improve the service. No personal information is saved and you cannot be tracked based on this. You can turn off geographical location for Freja without any changes to the app, except that you would not be able to find Freja agents via the map anymore._
 
