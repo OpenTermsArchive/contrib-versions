@@ -21,12 +21,12 @@ The information that System1 obtains through your use of our sites, is subject t
 
 We make certain services available, including without limitation, e-mail, chat rooms, message boards and other community services; provided that you agree to abide by the terms and conditions contained in these Terms of Use. Without limiting the generality of the foregoing, in consideration for our providing such services, you also agree not to:
 
-* Violate any applicable law, regulation or rule;
-* Harass, offend, threaten, embarrass, distress or invade the privacy of any individual or entity;
-* Post or transmit any commercial, advertising or promotional materials, including without limitation, “spam” or mass distributions;
-* Provide false information on your registration form or impersonate another person at any point;
-* Post or transmit false, inappropriate, improper, disorderly or excessive messages or information.
-* Post any material that infringes upon any third party’s copyright, trademark, patent or other intellectual property right.
+*   Violate any applicable law, regulation or rule;
+*   Harass, offend, threaten, embarrass, distress or invade the privacy of any individual or entity;
+*   Post or transmit any commercial, advertising or promotional materials, including without limitation, “spam” or mass distributions;
+*   Provide false information on your registration form or impersonate another person at any point;
+*   Post or transmit false, inappropriate, improper, disorderly or excessive messages or information.
+*   Post any material that infringes upon any third party’s copyright, trademark, patent or other intellectual property right.
 
 If you violate such terms, we may, without prior notice and without liability to you, ban you from any and all services, terminate your registration, delete your messages or postings, and take any other action we deem appropriate in our sole discretion. With reference to any services we provide, you acknowledge that we may, from time to time, without notice to you and at our sole discretion, establish various practices, limitations and restrictions for administering such services, including without limitation: how often a service or account may be accessed; the maximum number of days that messages or postings will be retained; the maximum number of messages or postings allowed; the size and nature of messages and postings; the maximum storage space available for an account; and all other matters related to administration of services, and you agree to be bound by such practices. You agree that we are not responsible or liable for deactivation or deletion of accounts or for loss of e-mails, communications, postings, data or information as a result of, or arising out of, our administration of such services.
 
