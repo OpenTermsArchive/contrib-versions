@@ -9,16 +9,16 @@ Welcome to Amazon.co.uk.
 
 Amazon Europe Core SARL, Amazon EU SARL and/or their affiliates (Amazon) provide website features and other products and services to you when you visit or shop at Amazon.co.uk (the website), use Amazon devices, products, or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively Amazon Services). Please see our [Privacy Notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010), our [Cookies Notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201890250), and our [Interest-Based Ads Notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201149560) to understand how we collect and process your personal information through Amazon Services. Amazon provides the Amazon Services and sells our products to you subject to the conditions set out on this page. Amazon.co.uk is the trading name for Amazon.
 
-* [Conditions of Use](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_A42D0C7332414FCF922E73F6D0E7EEF3)
-* [Conditions of Sale](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_DE289546269C476B94AC853787C5CF48)
+*   [Conditions of Use](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_A42D0C7332414FCF922E73F6D0E7EEF3)
+*   [Conditions of Sale](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_DE289546269C476B94AC853787C5CF48)
 
 Conditions of Use
 -----------------
 
 **Please read these conditions carefully before using Amazon Services. By using Amazon Services, you signify your agreement to be bound by these conditions.** We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example Your Profile, Gift Cards or Amazon applications for mobile), you will also be subject to the terms, guidelines and conditions applicable to that Amazon Service (Service Terms). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
 
-* [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/report/infringement)
-* [Notice and Procedure for Notifying Amazon of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680)
+*   [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/report/infringement)
+*   [Notice and Procedure for Notifying Amazon of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680)
 
 1\. ELECTRONIC COMMUNICATIONS
 -----------------------------
@@ -231,27 +231,27 @@ United Kingdom
 ADDITIONAL AMAZON SOFTWARE TERMS
 --------------------------------
 
-1. **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use and enjoy the Amazon Services as provided by Amazon, and as permitted by the Conditions of Use, these Software Terms and any Service Terms. You may not incorporate any portion of the Amazon Software into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or sub-license the Amazon Software or otherwise assign any rights to the Amazon Software in whole or in part. You may not use the Amazon Software for any illegal purpose. We may cease providing any Amazon Software and we may terminate your right to use any Amazon Software at any time. Your rights to use the Amazon Software will automatically terminate without notice from us if you fail to comply with any of these Software Terms, the Conditions of Use or any other Service Terms. Additional third party terms contained within or distributed with certain Amazon Software that are specifically identified in related documentation may apply to that Amazon Software (or software incorporated with the Amazon Software) and will govern the use of such software in the event of a conflict with these Conditions of Use. All software used in any Amazon Service is the property of Amazon or its software suppliers and protected by Luxembourg and international copyright laws.
-2. **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
-3. **No Reverse Engineering.** Unless explicitly permitted under applicable mandatory law, you may not, and you will not encourage, assist or authorise any other person to copy, modify, reverse engineer, decompile or disassemble, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
-4. **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
+1.  **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use and enjoy the Amazon Services as provided by Amazon, and as permitted by the Conditions of Use, these Software Terms and any Service Terms. You may not incorporate any portion of the Amazon Software into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or sub-license the Amazon Software or otherwise assign any rights to the Amazon Software in whole or in part. You may not use the Amazon Software for any illegal purpose. We may cease providing any Amazon Software and we may terminate your right to use any Amazon Software at any time. Your rights to use the Amazon Software will automatically terminate without notice from us if you fail to comply with any of these Software Terms, the Conditions of Use or any other Service Terms. Additional third party terms contained within or distributed with certain Amazon Software that are specifically identified in related documentation may apply to that Amazon Software (or software incorporated with the Amazon Software) and will govern the use of such software in the event of a conflict with these Conditions of Use. All software used in any Amazon Service is the property of Amazon or its software suppliers and protected by Luxembourg and international copyright laws.
+2.  **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
+3.  **No Reverse Engineering.** Unless explicitly permitted under applicable mandatory law, you may not, and you will not encourage, assist or authorise any other person to copy, modify, reverse engineer, decompile or disassemble, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
+4.  **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
 
 AGENTS
 ------
 
 The terms in this section (“Agent Terms”) apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, "Agent” means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.
 
-1. **Transparency and Consent.** No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service.
-2. **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services.
-3. **Technical Requirements.** Agents must:
+1.  **Transparency and Consent.** No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service.
+2.  **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services.
+3.  **Technical Requirements.** Agents must:
     
-    1. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request’s user agent string:
+    1.  In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request’s user agent string:
         
         “Agent/\[agent name\]” (e.g., Agent/AmazonAgent)
         
-    2. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans.
-    3. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.
-    4. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service.
+    2.  Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans.
+    3.  Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.
+    4.  Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service.
     
 
 Conditions of Sale
@@ -291,14 +291,14 @@ Note that you must send back the goods by following the instructions available o
 
 The right of cancellation does not apply to:
 
-* the delivery of products which are not suitable for return due to health protection or hygienic reasons if unsealed by you after delivery, or which are, after delivery, inseparably mixed with other items;
-* the delivery of sealed audio or video recordings or of sealed software if unsealed by you after delivery;
-* the supply of goods made to your specifications or clearly personalized;
-* the supply of goods which may deteriorate or expire rapidly;
-* a service if Amazon has fully performed it and you accepted when you placed your order that we could start to deliver it, and that you could not cancel it once delivery had started;
-* the supply of digital content (including apps, digital software, ebooks, MP3, etc) which is not supplied on a tangible medium (e.g. on a CD or DVD) if you accepted when you placed your order that we could start to deliver it, and that you could not cancel it once delivery had started;
-* the delivery of newspapers, journals or magazines with the exception of subscription contracts for the supply of such publications; and
-* the supply of alcoholic beverages whose actual value is dependent on fluctuations in the market which we cannot control.
+*   the delivery of products which are not suitable for return due to health protection or hygienic reasons if unsealed by you after delivery, or which are, after delivery, inseparably mixed with other items;
+*   the delivery of sealed audio or video recordings or of sealed software if unsealed by you after delivery;
+*   the supply of goods made to your specifications or clearly personalized;
+*   the supply of goods which may deteriorate or expire rapidly;
+*   a service if Amazon has fully performed it and you accepted when you placed your order that we could start to deliver it, and that you could not cancel it once delivery had started;
+*   the supply of digital content (including apps, digital software, ebooks, MP3, etc) which is not supplied on a tangible medium (e.g. on a CD or DVD) if you accepted when you placed your order that we could start to deliver it, and that you could not cancel it once delivery had started;
+*   the delivery of newspapers, journals or magazines with the exception of subscription contracts for the supply of such publications; and
+*   the supply of alcoholic beverages whose actual value is dependent on fluctuations in the market which we cannot control.
 
 **OUR VOLUNTARY RETURNS GUARANTEE**
 
