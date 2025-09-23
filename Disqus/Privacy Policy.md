@@ -13,12 +13,12 @@ This Privacy Policy tells you how Disqus collects, uses, sells, discloses and pr
 
 #### **1\. INTRODUCTION**
 
-**Overview**. Disqus offers an online public comment and opinion sharing platform where users login and create profiles to participate in conversations with peers and enjoy an interactive experience in Disqus comment sections, polls, and other interactive features that are provided on this site, as well as embedded in third-party sites. Use of our platform and software, and interaction with our cookies or similar tracking technologies (collectively the “Service”), whether on this site or on a third-party site, is subject to the terms of this Privacy Policy. The Service is a public platform and Disqus or others may search for, see, use, or re-post any of your User Content (as defined in our Terms of Use) that you post through the Service. Disqus is also a marketing and data company, and uses and shares personal data collected from third party sites where our Service is enabled for marketing purposes, including cross-context behavioral advertising. For more information on our marketing activities, please see [Section 4: Targeted Advertising and Ad Partners](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy#h_8f39a24a45) below.
+**Overview**. Disqus offers an online public comment and opinion sharing platform where users login and create profiles to participate in conversations with peers and enjoy an interactive experience in Disqus comment sections, polls, and other interactive features that are provided on this site, as well as embedded in third-party sites. Use of our platform and software, and interaction with our cookies or similar tracking technologies (collectively the “Service”), whether on this site or on a third-party site, is subject to the terms of this Privacy Policy. The Service is a public platform and Disqus or others may search for, see, use, or re-post any of your User Content (as defined in our Terms of Use) that you post through the Service. Disqus is also a marketing and data company, and uses and shares personal data collected from third party sites where our Service is enabled for marketing purposes, including cross-context behavioral advertising. For more information on our marketing activities, please see [Section 4: Targeted Advertising and Ad Partners](#h_8f39a24a45) below.
 
 **Applicability to third-party websites and services**. Disqus offers an online engagement service that other websites use to enable discussion and interactivity among their users. This Privacy Policy applies to the data Disqus collects about Users of the Service and through cookies on Service-enabled websites, and does not apply to the independent data collection practices of any website that uses the Service or other website linked to from the Service. For information about how third-party websites collect and use your personal information, please refer to those websites’ privacy policies.  
 ​
 
-**Your Privacy Rights**. You have rights over your personal information. These rights are described in greater detail in [Section 9: Your Rights](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy#h_faec8bc021) , below. You can exercise your data privacy rights [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
+**Your Privacy Rights**. You have rights over your personal information. These rights are described in greater detail in [Section 9: Your Rights](#h_faec8bc021) , below. You can exercise your data privacy rights [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
 
 **Children’s Privacy**. The Service is not intended for use by children under the age of 18. We do not knowingly collect or sell personal information from children under 18 or knowingly allow such persons to register for an account on the service. In the event that we learn that we have collected personal information from a child under the age of 18, we will delete it. If you believe that we might have collected personal information from a child under 18, please contact us, or submit a data privacy rights requests [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
 
@@ -72,15 +72,15 @@ You may be able to adjust your browser settings to manage your cookie preference
 
 Below are links to information about managing your cookie preferences in common browsers:
 
-* [Google Chrome Cookies](https://support.google.com/chrome/answer/95647?hl=en)
+*   [Google Chrome Cookies](https://support.google.com/chrome/answer/95647?hl=en)
     
-* [Mozilla Firefox Cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirect=no)
+*   [Mozilla Firefox Cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirect=no)
     
-* [Internet Explorer Cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11-win-7)
+*   [Internet Explorer Cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11-win-7)
     
-* [Safari Cookies](https://support.apple.com/kb/PH19214?locale=en_US)
+*   [Safari Cookies](https://support.apple.com/kb/PH19214?locale=en_US)
     
-* [Google Analytics](https://support.google.com/analytics/answer/6004245)
+*   [Google Analytics](https://support.google.com/analytics/answer/6004245)
     
 
 #### **4\. TARGETED ADVERTISING and AD PARTNERS.**
