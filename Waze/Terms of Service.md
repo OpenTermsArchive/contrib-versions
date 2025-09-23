@@ -7,8 +7,8 @@ These Terms of Use (“Terms”) govern your rights and obligations regarding th
 
 By using the Waze Service, you signify your assent to these Terms;
 
-1. [Waze’s privacy policy](https://support.google.com/waze/answer/12075406) (“Privacy Policy”); and
-2. [Waze’s copyright policy](https://support.google.com/waze/answer/12075342) (“Copyright Policy”)
+1.  [Waze’s privacy policy](https://support.google.com/waze/answer/12075406) (“Privacy Policy”); and
+2.  [Waze’s copyright policy](https://support.google.com/waze/answer/12075342) (“Copyright Policy”)
 
 all of which are an integral part of these Terms.
 
@@ -18,27 +18,27 @@ If you do not agree to these Terms or any of its parts, then you are prohibited 
 
 The following key points of the Terms are highlighted here for your convenience only. These key points are not made in lieu of the full Terms and their presence in this section does not mean that they are intended to supersede or override any other terms or conditions provided by Waze..
 
-* **Road information prevails**. The information provided by the Service is not intended to replace the information provided on the road, such as travel direction, time based restrictions, lane restrictions, road blockades, traffic signs, traffic lights, police instructions, etc.
+*   **Road information prevails**. The information provided by the Service is not intended to replace the information provided on the road, such as travel direction, time based restrictions, lane restrictions, road blockades, traffic signs, traffic lights, police instructions, etc.
     
-* **Cautious driving**. Always drive vigilantly according to road conditions and in accordance with traffic laws. It is strictly forbidden to send traffic updates (such as updates on road accidents and traffic congestion), or to non-verbally interact with the Service or use the Service in a non-verbal manner for any purpose other than navigation while driving. Traffic updates or non-verbal reports you want to submit to the Service may only be sent after you have stopped your vehicle in an appropriate location permitted by law. Alternatively, such updates may be sent by a passenger other than the driver, provided it does not interfere with the due course of driving and does not distract the driver’s attention to the road.
+*   **Cautious driving**. Always drive vigilantly according to road conditions and in accordance with traffic laws. It is strictly forbidden to send traffic updates (such as updates on road accidents and traffic congestion), or to non-verbally interact with the Service or use the Service in a non-verbal manner for any purpose other than navigation while driving. Traffic updates or non-verbal reports you want to submit to the Service may only be sent after you have stopped your vehicle in an appropriate location permitted by law. Alternatively, such updates may be sent by a passenger other than the driver, provided it does not interfere with the due course of driving and does not distract the driver’s attention to the road.
     
-* **Non-continuous updates**. The information provided by the Service originates from other users of the Service. Such information is intrinsically fluctuant and may be inaccurate, incomplete or outdated. Waze does not provide any warranties to such information’s credibility or reliability.
+*   **Non-continuous updates**. The information provided by the Service originates from other users of the Service. Such information is intrinsically fluctuant and may be inaccurate, incomplete or outdated. Waze does not provide any warranties to such information’s credibility or reliability.
     
-* **Location-based Service**. Some features of the Service make use of detailed location and route information, for example in the form of GPS signals and other information sent by your mobile device on which the Waze application is installed and activated. These features cannot be provided without utilizing this technology. Please note, as described in detail in the [Privacy Policy](https://support.google.com/waze/answer/12075406):
+*   **Location-based Service**. Some features of the Service make use of detailed location and route information, for example in the form of GPS signals and other information sent by your mobile device on which the Waze application is installed and activated. These features cannot be provided without utilizing this technology. Please note, as described in detail in the [Privacy Policy](https://support.google.com/waze/answer/12075406):
     
-    * Waze uses your location and route information to create a detailed route history of all of your journeys made when using the Service. Waze uses this history to offer the Service to you, to improve the quality of the Service it offers to you and to all of its users, to improve the accuracy of its mapping and navigation data, and more as described in detail in the [Privacy Policy](https://support.google.com/waze/answer/12075406). This history is associated with your account and username (if you have chosen to set up a username). This history is retained by Waze for a limited period of time and in accordance with the [Privacy Policy](https://support.google.com/waze/answer/12075406).
+    *   Waze uses your location and route information to create a detailed route history of all of your journeys made when using the Service. Waze uses this history to offer the Service to you, to improve the quality of the Service it offers to you and to all of its users, to improve the accuracy of its mapping and navigation data, and more as described in detail in the [Privacy Policy](https://support.google.com/waze/answer/12075406). This history is associated with your account and username (if you have chosen to set up a username). This history is retained by Waze for a limited period of time and in accordance with the [Privacy Policy](https://support.google.com/waze/answer/12075406).
         
-    * Waze allows you to use the Service whether or not you choose to set up a username for yourself. If you choose to use the Service without setting up a username you may do so by skipping the username setup stage of the application installation process. Waze will still link all of your information with your account and a unique identifier generated by Waze in accordance with the [Privacy Policy](https://support.google.com/waze/answer/12075406). Note that in order to access certain features of the Service (for example map editing, ranking, moods) you will need to set up a username.
+    *   Waze allows you to use the Service whether or not you choose to set up a username for yourself. If you choose to use the Service without setting up a username you may do so by skipping the username setup stage of the application installation process. Waze will still link all of your information with your account and a unique identifier generated by Waze in accordance with the [Privacy Policy](https://support.google.com/waze/answer/12075406). Note that in order to access certain features of the Service (for example map editing, ranking, moods) you will need to set up a username.
         
-* **Advertisements**. Third party advertisements may appear on the Service from time to time. Waze does not endorse these advertisements, and the advertisements are not intended to be, nor should they be, viewed by drivers unless and until their vehicle has come to a complete stop.
+*   **Advertisements**. Third party advertisements may appear on the Service from time to time. Waze does not endorse these advertisements, and the advertisements are not intended to be, nor should they be, viewed by drivers unless and until their vehicle has come to a complete stop.
     
-* **The Internet connection required to use the Service, and any associated charges (e.g. mobile data expenses) incurred by your use of the Service are your exclusive responsibility and made solely at your expense**. Transmitting and receiving real-time updates to and from the Service, requires an online (e.g. Wi-Fi, 3G, 4G) connection between your cellular device and the Internet. The expenses of such connection are as prescribed by the agreement between you and your communication service provider (such as your cellular company), and according to its applicable terms of payment.
+*   **The Internet connection required to use the Service, and any associated charges (e.g. mobile data expenses) incurred by your use of the Service are your exclusive responsibility and made solely at your expense**. Transmitting and receiving real-time updates to and from the Service, requires an online (e.g. Wi-Fi, 3G, 4G) connection between your cellular device and the Internet. The expenses of such connection are as prescribed by the agreement between you and your communication service provider (such as your cellular company), and according to its applicable terms of payment.
     
-* **Free Software**. The Service utilizes Software for map displays, updates and road information. With respect to some cellular telephone devices running the Software, the Software is a free-software. In such cases you may redistribute the Software or modify it in accordance with the GNU General Public License as published by the Free Software Foundation, whether it is version 2.0 of the license or any later version of your choice. For further information, see the GNU General Public License. The Service, its database, Waze’s trademarks, the design of the maps of the Service and the voice files integrated in the Software – all are not free-software.
+*   **Free Software**. The Service utilizes Software for map displays, updates and road information. With respect to some cellular telephone devices running the Software, the Software is a free-software. In such cases you may redistribute the Software or modify it in accordance with the GNU General Public License as published by the Free Software Foundation, whether it is version 2.0 of the license or any later version of your choice. For further information, see the GNU General Public License. The Service, its database, Waze’s trademarks, the design of the maps of the Service and the voice files integrated in the Software – all are not free-software.
     
-* **Your age**. The Service is intended for use by users who are of the legal age required to hold a driving license. In any case, to use our Service you must be 16 years of age or older. If you are under 16, you may not download or use the Service. Accounts of users under the age of 16 years will be canceled and deleted by Waze, upon receiving notice.
+*   **Your age**. The Service is intended for use by users who are of the legal age required to hold a driving license. In any case, to use our Service you must be 16 years of age or older. If you are under 16, you may not download or use the Service. Accounts of users under the age of 16 years will be canceled and deleted by Waze, upon receiving notice.
     
-* **Privacy**. Your privacy is important to us. While using the Service, personal information may be provided by You or collected by Waze as detailed in our [Privacy Policy](https://support.google.com/waze/answer/12075406). The [Privacy Policy](https://support.google.com/waze/answer/12075406) explains our practices pertaining to the use of your personal information and we ask that you read such [Privacy Policy](https://support.google.com/waze/answer/12075406) carefully. By accepting these Terms, you hereby acknowledge and agree to the collection, storage and use of your personal information by Waze, subject to this section, the [Privacy Policy](https://support.google.com/waze/answer/12075406) and any applicable laws and regulation.
+*   **Privacy**. Your privacy is important to us. While using the Service, personal information may be provided by You or collected by Waze as detailed in our [Privacy Policy](https://support.google.com/waze/answer/12075406). The [Privacy Policy](https://support.google.com/waze/answer/12075406) explains our practices pertaining to the use of your personal information and we ask that you read such [Privacy Policy](https://support.google.com/waze/answer/12075406) carefully. By accepting these Terms, you hereby acknowledge and agree to the collection, storage and use of your personal information by Waze, subject to this section, the [Privacy Policy](https://support.google.com/waze/answer/12075406) and any applicable laws and regulation.
     
 
 ### WHAT IS THE SERVICE
@@ -115,14 +115,14 @@ It is forbidden to submit Content of a commercial nature (including advertising)
 
 When you submit Content to be published by the Service, you must make sure it is lawful. For example, you may not submit Content that:
 
-* is diminishing or infringing proprietary rights of others, including but not limited to copyright and trade marks; poses a risk to a person’s
-* safety, security or health; identifies other persons without obtaining such person’s express written consent to the disclosure of their personal
-* information, or pertains to minors and identifies minors or their personal information, including their full name, age, address or contact information;
-* is unlawful, defamatory, libelous or invades the privacy of others; is harassing, offensive, threatening or vulgar; is characterized by, or that
-* encourages racism or unlawfully discriminates on the basis of race, origin, ethnicity, nationality, religion, gender, occupation, sexual orientation, illness, physical or mental disability, faith, political view or socio-economical class;
-* encourages criminal behavior or conduct that would constitute a criminal offense under any law, or could give rise to civil liability or other lawsuit;
-* promotes pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by law or under these Terms;
-* falsely expresses or implies that such content is sponsored or endorsed by Waze.
+*   is diminishing or infringing proprietary rights of others, including but not limited to copyright and trade marks; poses a risk to a person’s
+*   safety, security or health; identifies other persons without obtaining such person’s express written consent to the disclosure of their personal
+*   information, or pertains to minors and identifies minors or their personal information, including their full name, age, address or contact information;
+*   is unlawful, defamatory, libelous or invades the privacy of others; is harassing, offensive, threatening or vulgar; is characterized by, or that
+*   encourages racism or unlawfully discriminates on the basis of race, origin, ethnicity, nationality, religion, gender, occupation, sexual orientation, illness, physical or mental disability, faith, political view or socio-economical class;
+*   encourages criminal behavior or conduct that would constitute a criminal offense under any law, or could give rise to civil liability or other lawsuit;
+*   promotes pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by law or under these Terms;
+*   falsely expresses or implies that such content is sponsored or endorsed by Waze.
 
 The foregoing examples of unlawful Content are made solely for illustrative purposes and do not constitute an exhaustive list of restricted Content.
 
@@ -154,9 +154,9 @@ Waze may protect the Service by technological means intended to prevent unauthor
 
 If you use the Service on an Apple device, then you agree and acknowledge that:
 
-* Apple, Inc. bears no duties or obligations to you under the Terms, including, but not limited to, any obligation to furnish you with Service maintenance and support;
-* You will have no claims, and you waive any and all rights and causes of action against Apple with respect to the Service or the Terms, including, but not limited to claims related to maintenance and support, intellectual property infringement, liability, consumer protection, or regulatory or legal conformance;
-* Apple and Apple’s subsidiaries are third party beneficiaries of the Terms. Upon your acceptance of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
+*   Apple, Inc. bears no duties or obligations to you under the Terms, including, but not limited to, any obligation to furnish you with Service maintenance and support;
+*   You will have no claims, and you waive any and all rights and causes of action against Apple with respect to the Service or the Terms, including, but not limited to claims related to maintenance and support, intellectual property infringement, liability, consumer protection, or regulatory or legal conformance;
+*   Apple and Apple’s subsidiaries are third party beneficiaries of the Terms. Upon your acceptance of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
 
 ### EXPORT CONTROL
 
@@ -330,9 +330,9 @@ If you’re a consumer based in the European Economic Area (EEA), you can also [
 
 Waze retains the right to block your access to the Service and discontinue your use of the Service, at any time, if any of the following instances occur:
 
-* You materially or repeatedly breach these Terms;
-* We’re required to do so to comply with a legal requirement or a court order;
-* We reasonably believe that your conduct causes harm or liability to a user, third party, or Waze - for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you.
+*   You materially or repeatedly breach these Terms;
+*   We’re required to do so to comply with a legal requirement or a court order;
+*   We reasonably believe that your conduct causes harm or liability to a user, third party, or Waze - for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you.
 
 ### USER CONTENT
 
@@ -346,12 +346,12 @@ It is forbidden to submit Content of a commercial nature (including advertising)
 
 When you submit Content to be published by the Service, you must make sure it is lawful. For example, you may not submit Content that:
 
-* is diminishing or infringing proprietary rights of others, including but not limited to copyright and trademarks; 
-* poses a risk to a person’s safety, security or health; identifies other persons without obtaining such person’s express written consent to the disclosure of their personal information, or pertains to minors and identifies minors or their personal information, including their full name, age, address or contact information;
-* is unlawful, defamatory, libelous or invades the privacy of others; is harassing, offensive, threatening or vulgar; is characterized by, or that encourages racism or unlawfully discriminates on the basis of race, origin, ethnicity, nationality, religion, gender, occupation, sexual orientation, illness, physical or mental disability, faith, political view or socio-economical class;
-* encourages criminal behavior or conduct that would constitute a criminal offense under any law, or could give rise to civil liability or other lawsuit;
-* promotes pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by law or under these Terms;
-* falsely expresses or implies that such content is sponsored or endorsed by Waze.
+*   is diminishing or infringing proprietary rights of others, including but not limited to copyright and trademarks; 
+*   poses a risk to a person’s safety, security or health; identifies other persons without obtaining such person’s express written consent to the disclosure of their personal information, or pertains to minors and identifies minors or their personal information, including their full name, age, address or contact information;
+*   is unlawful, defamatory, libelous or invades the privacy of others; is harassing, offensive, threatening or vulgar; is characterized by, or that encourages racism or unlawfully discriminates on the basis of race, origin, ethnicity, nationality, religion, gender, occupation, sexual orientation, illness, physical or mental disability, faith, political view or socio-economical class;
+*   encourages criminal behavior or conduct that would constitute a criminal offense under any law, or could give rise to civil liability or other lawsuit;
+*   promotes pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by law or under these Terms;
+*   falsely expresses or implies that such content is sponsored or endorsed by Waze.
 
 The foregoing examples of unlawful Content are made solely for illustrative purposes and do not constitute an exhaustive list of restricted Content.
 
@@ -437,12 +437,12 @@ Waze respects your privacy during your use of the Service. Our Privacy Policy pe
 
 Waze constantly develops new technologies and features to improve our Service. As part of the continual evolution of our Service, Waze may, either partially or in its entirety – modify, adapt or change the App, software, the Service’s features, the user interface and design, the extent and availability of the contents in the Service and any other aspect related to the Service. These modifications may include adding or removing features and functionalities from our Service, and offering new services or discontinuing old ones. We may also change our Service for these other reasons: 
 
-* to improve our Service;
-* To adapt to new technologies; 
-* To reflect an increase or decrease in the number of users who use a particular feature or Service; 
-* To reflect changes in the licenses and partnerships we have with third parties; 
-* To address legal, regulatory, safety, security or operability issues; 
-* To detect and prevent abuse of our Services or harm to our Services or to our users. 
+*   to improve our Service;
+*   To adapt to new technologies; 
+*   To reflect an increase or decrease in the number of users who use a particular feature or Service; 
+*   To reflect changes in the licenses and partnerships we have with third parties; 
+*   To address legal, regulatory, safety, security or operability issues; 
+*   To detect and prevent abuse of our Services or harm to our Services or to our users. 
 
 In particular, we sometimes make legally-required updates, which are modifications that keep our Service in conformity with the law. We make these updates to our Service for safety or security reasons, and to make sure they meet the quality standards that you expect, such as those described in our guarantee. We may automatically install updates that address significant safety or security risks. For other updates, you can choose whether you want them installed.
 
@@ -471,13 +471,13 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 
 (complete and return this form only if you wish to withdraw from the contract)
 
-* To Waze Mobile Ltd. 98 Igal Alon Street (Electra building), Tel Aviv, Israel, email address\] [waze-for-you@waze.com](mailto:waze-for-you@waze.com) :
-* I hereby give notice that I withdraw from my contract for the provision of the following service, 
-* Ordered on, 
-* Name of consumer, 
-* Address of consumer, 
-* Signature of consumer (only if this form is notified on paper), 
-* Date 
+*   To Waze Mobile Ltd. 98 Igal Alon Street (Electra building), Tel Aviv, Israel, email address\] [waze-for-you@waze.com](mailto:waze-for-you@waze.com) :
+*   I hereby give notice that I withdraw from my contract for the provision of the following service, 
+*   Ordered on, 
+*   Name of consumer, 
+*   Address of consumer, 
+*   Signature of consumer (only if this form is notified on paper), 
+*   Date 
 
 Please note that you may delete your Waze account at any time, as well as your personal information contained in the account via the “Delete Account” function in the in app Privacy Settings or Account & Sign in Settings. 
 
