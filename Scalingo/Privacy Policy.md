@@ -25,16 +25,16 @@ PART I - GENERAL PROVISIONS
 
 ### ARTICLE 1 - Definitions
 
-1. **Controller**: refers to the company that determines the purposes and means of the Processing of Personal Data;
-2. **Processor**: refers to the company that Processes Personal Data on behalf of the Data Controller and according to its instructions;
-3. **Customer Data**: means all data, including all text, sound, video, or image files, and software, that are provided to SCALINGO by, or on behalf of, Customer through use of the Services. Customer Data does not include Professional Services Data.
-4. **Data Protection Regulation**: refers to all European and national regulations on privacy and Personal Data, including implementing texts, regulations, orders, standards, guidelines and other acts including (without limiting the generality of the foregoing) EU Regulation No. 2016/679 of 27 April 2016 known as the "General Data Protection Regulation" (GDPR) and French Law No. 78-17 of 6 January 1978 as amended, known as the "Loi Informatique et Libertés".
-5. **Data Protection Authority**: refers to the controlling authority for the protection of Personal Data concerned by the processing under this DPA. In the case of processing affecting data subjects located in several European Union Member States, the controlling authority of the main establishment of the Data Processor shall be considered the lead authority, in accordance with the GDPR ;
-6. **Personal Data**: means any information relating to an identifiable or identified natural person; an identifiable natural person is one who can be identified directly or indirectly, in particular by an identifier such as name, identification number, location data, online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
-7. **Products and Services**: means the hosting and storage services provided by SCALINGO under the Agreement;
-8. **Processing**: means any operation or set of operations, whether or not carried out by automated means, on Personal Data or sets of Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, limitation, deletion or destruction;
-9. **ISSP**: Scalingo's Information Systems Security Policy. To obtain the latest version of the applicable PSSI, please refer to the Scalingo support team.
-10. **User(s)**: means the natural person who benefits from the Services, who is employed by Client or by Client's subcontractors, and who is authorized to use all or part of the Services, regardless of location and access.
+1.  **Controller**: refers to the company that determines the purposes and means of the Processing of Personal Data;
+2.  **Processor**: refers to the company that Processes Personal Data on behalf of the Data Controller and according to its instructions;
+3.  **Customer Data**: means all data, including all text, sound, video, or image files, and software, that are provided to SCALINGO by, or on behalf of, Customer through use of the Services. Customer Data does not include Professional Services Data.
+4.  **Data Protection Regulation**: refers to all European and national regulations on privacy and Personal Data, including implementing texts, regulations, orders, standards, guidelines and other acts including (without limiting the generality of the foregoing) EU Regulation No. 2016/679 of 27 April 2016 known as the "General Data Protection Regulation" (GDPR) and French Law No. 78-17 of 6 January 1978 as amended, known as the "Loi Informatique et Libertés".
+5.  **Data Protection Authority**: refers to the controlling authority for the protection of Personal Data concerned by the processing under this DPA. In the case of processing affecting data subjects located in several European Union Member States, the controlling authority of the main establishment of the Data Processor shall be considered the lead authority, in accordance with the GDPR ;
+6.  **Personal Data**: means any information relating to an identifiable or identified natural person; an identifiable natural person is one who can be identified directly or indirectly, in particular by an identifier such as name, identification number, location data, online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+7.  **Products and Services**: means the hosting and storage services provided by SCALINGO under the Agreement;
+8.  **Processing**: means any operation or set of operations, whether or not carried out by automated means, on Personal Data or sets of Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, limitation, deletion or destruction;
+9.  **ISSP**: Scalingo's Information Systems Security Policy. To obtain the latest version of the applicable PSSI, please refer to the Scalingo support team.
+10.  **User(s)**: means the natural person who benefits from the Services, who is employed by Client or by Client's subcontractors, and who is authorized to use all or part of the Services, regardless of location and access.
 
 All terms identified in the DPA that begin with a capital letter, if not defined herein, shall have the meaning given to them in SCALINGO's General Terms and Conditions of services (hereinafter the "**GTC**").
 
@@ -46,8 +46,8 @@ These measures include the potential risks to the data subjects as a result of t
 
 SCALINGO uses its best efforts to:
 
-* Ensure that the hosting provider on which the Platform is hosted has physical and logical security measures for the servers and datacenters such as to ensure the integrity of the network and servers against any external malicious act or any known computer attack. The servers are protected against intrusions, in particular by firewalls. Access to the host's systems by SCALINGO's staff is protected by strong authentication and authorization management measures. Security updates for operating systems are installed regularly. Security measures against malwares are applied.
-* To implement and maintain security and confidentiality measures for the Platform, which take into account the principles of Personal Data protection and are adapted to the risk generated by their processing on the rights and freedoms of the persons concerned, in conformity with the requirements of the Regulations applicable to Personal Data protection. These measures aim to (i) protect Personal Data from destruction, loss, alteration, disclosure to unauthorized third parties and (ii) ensure the restoration of availability of and access to Personal Data within appropriate timeframes in the event of a physical or technical incident.
+*   Ensure that the hosting provider on which the Platform is hosted has physical and logical security measures for the servers and datacenters such as to ensure the integrity of the network and servers against any external malicious act or any known computer attack. The servers are protected against intrusions, in particular by firewalls. Access to the host's systems by SCALINGO's staff is protected by strong authentication and authorization management measures. Security updates for operating systems are installed regularly. Security measures against malwares are applied.
+*   To implement and maintain security and confidentiality measures for the Platform, which take into account the principles of Personal Data protection and are adapted to the risk generated by their processing on the rights and freedoms of the persons concerned, in conformity with the requirements of the Regulations applicable to Personal Data protection. These measures aim to (i) protect Personal Data from destruction, loss, alteration, disclosure to unauthorized third parties and (ii) ensure the restoration of availability of and access to Personal Data within appropriate timeframes in the event of a physical or technical incident.
 
 In case of server failure, SCALINGO will make its best efforts to restore the service as soon as possible, within the limits of the service level commitments made by the hosting provider.
 
@@ -61,8 +61,8 @@ SCALINGO agrees to purchase and maintain during the term of the contract an appr
 
 The contact points of the Parties referenced for the purpose of executing the DPA are
 
-* For SCALINGO: Data Protection Officer ([dpo@scalingo.com](mailto:dpo@scalingo.com))
-* For the Client: Name and contact details of the Data Protection Officer (“DPO”), to be provided and kept up to date by the Client directly from the interface of its Client Account on the Platform, or alternatively the name and contact details indicated at the time of subscription to the Agreement.
+*   For SCALINGO: Data Protection Officer ([dpo@scalingo.com](mailto:dpo@scalingo.com))
+*   For the Client: Name and contact details of the Data Protection Officer (“DPO”), to be provided and kept up to date by the Client directly from the interface of its Client Account on the Platform, or alternatively the name and contact details indicated at the time of subscription to the Agreement.
 
 The Parties undertake to keep each other informed in the event of a change in the above-mentioned contact points.
 
@@ -140,10 +140,10 @@ In accordance with Article 33 of the GDPR, unless the violation does not result 
 
 Such notification by Client to the Supervisory Authority shall:
 
-* Describe the nature of the Personal Data breach and include, if possible, the categories and approximate number of affected individuals, and the categories and approximate number of affected Personal Data records;
-* Communicate the name, contact information of the Data Protection Officer or other contacts from whom additional information may be obtained;
-* Describe the likely consequences of the Personal Data violation;
-* Describe the steps taken or proposed to be taken to address the Personal Data violation, including measures to mitigate any adverse effects.
+*   Describe the nature of the Personal Data breach and include, if possible, the categories and approximate number of affected individuals, and the categories and approximate number of affected Personal Data records;
+*   Communicate the name, contact information of the Data Protection Officer or other contacts from whom additional information may be obtained;
+*   Describe the likely consequences of the Personal Data violation;
+*   Describe the steps taken or proposed to be taken to address the Personal Data violation, including measures to mitigate any adverse effects.
 
 ### ARTICLE 11 - REGISTER OF PROCESSING ACTIVITIES
 
@@ -155,14 +155,14 @@ The general security requirements are set out in ARTICLE 2. - above.
 
 With regard to the security of Personal Data processed for the purposes of performing the Services, SCALINGO implements additional measures resulting from the Data Protection Regulations. In particular, SCALINGO undertakes to implement the following measures:
 
-* Assisting the Client in carrying out anonymization and/or pseudonymization operations of Personal Data by providing the appropriate functionalities and tools included in the Services as well as the necessary expertise;
-* To ensure throughout the processing of the Personal Data a robust and flawless end-to-end encryption of the Personal Data, as further described in the ISSP made available to the Client under the conditions provided for in the GTC;
-* Ensuring adequate protection of Personal Data to ensure its confidentiality and to prevent Personal Data breaches and/or minimize the impacts in case of a Personal Data breach;
-* The implementation of specific tools and processes to detect Personal Data breaches.
-* The ability to ensure that any person acting under the authority of SCALINGO who may have access to the Personal Data bases for the purposes of its activity, under the conditions provided for in the GTC, does not carry out any other processing of the Personal Data, except in the cases expressly authorized by the Client;
-* The deletion of Personal Data at the end of the retention period as defined by the Client;
-* The traceability of the operations (logs) to the Personal Data for a period of twelve (12) months;
-* Where processing involves the Hosting of Personal Health Data (HDS), the application of additional security measures, in accordance with the Health Data Hosting appendix, attached to the GTC upon electronic signature of this document or subsequently upon request by the Customer if the subscription to HDS services was not carried out at the same time as the subscription to SCALINGO platform services.
+*   Assisting the Client in carrying out anonymization and/or pseudonymization operations of Personal Data by providing the appropriate functionalities and tools included in the Services as well as the necessary expertise;
+*   To ensure throughout the processing of the Personal Data a robust and flawless end-to-end encryption of the Personal Data, as further described in the ISSP made available to the Client under the conditions provided for in the GTC;
+*   Ensuring adequate protection of Personal Data to ensure its confidentiality and to prevent Personal Data breaches and/or minimize the impacts in case of a Personal Data breach;
+*   The implementation of specific tools and processes to detect Personal Data breaches.
+*   The ability to ensure that any person acting under the authority of SCALINGO who may have access to the Personal Data bases for the purposes of its activity, under the conditions provided for in the GTC, does not carry out any other processing of the Personal Data, except in the cases expressly authorized by the Client;
+*   The deletion of Personal Data at the end of the retention period as defined by the Client;
+*   The traceability of the operations (logs) to the Personal Data for a period of twelve (12) months;
+*   Where processing involves the Hosting of Personal Health Data (HDS), the application of additional security measures, in accordance with the Health Data Hosting appendix, attached to the GTC upon electronic signature of this document or subsequently upon request by the Customer if the subscription to HDS services was not carried out at the same time as the subscription to SCALINGO platform services.
 
 ### ARTICLE 13 - ULTERIOR SUBCONTRACTORS
 
@@ -282,10 +282,10 @@ As of the date of signature of the Agreement, SCALINGO's Sub-processors are:  
 
 In addition to the above-mentioned Sub-processors, SCALINGO may communicate the Personal Data it processes to the following categories of recipients :
 
-* SCALINGO staff members: for the performance of their duties, for the purposes strictly necessary for the performance of the Services in accordance with the Agreement;
-* Accounting firm: for the management of SCALINGO's accounts;
-* Statutory auditor: for the certification of the annual accounts;
-* Administrative and/or judicial authorities: in the event of an audit of the company and/or litigation involving the Client. In the latter case, SCALINGO will use its best efforts to give the Client reasonable notice and to allow the Client to seek any protective order or other appropriate remedy, unless SCALINGO is prohibited from doing so by law or by the authority concerned.
+*   SCALINGO staff members: for the performance of their duties, for the purposes strictly necessary for the performance of the Services in accordance with the Agreement;
+*   Accounting firm: for the management of SCALINGO's accounts;
+*   Statutory auditor: for the certification of the annual accounts;
+*   Administrative and/or judicial authorities: in the event of an audit of the company and/or litigation involving the Client. In the latter case, SCALINGO will use its best efforts to give the Client reasonable notice and to allow the Client to seek any protective order or other appropriate remedy, unless SCALINGO is prohibited from doing so by law or by the authority concerned.
 
 ### ARTICLE 22 - SCALINGO'S OBLIGATIONS
 
@@ -305,16 +305,16 @@ Except for these cases, SCALINGO undertakes to take all legal measures recognize
 
 The Client and each User has the following rights:
 
-* **Right of access:** to obtain confirmation of the processing of his/her Personal Data and information on the processing;
-* **Right of rectification:** to obtain the rectification of his/her Personal Data when they are inaccurate or incomplete;
-* **Right to erasure:** under the conditions provided for in Article 17 of the RGPD, obtain the erasure of his/her Personal Data when they are no longer necessary for the purposes for which they were collected or when the Client or User objects to the processing of his/her Personal Data;
-* **Right to the limitation of processing:** to obtain the limitation of the processing of his/her Personal Data when the Client or the User disputes the accuracy of the data, when the retention period of the Personal Data has expired but the Client or the User still needs to retain the Personal Data for the establishment, exercise or defense of a legal claim, or if the Client or the User has objected to the processing;
-* **Right to portability:** to obtain communication of the Personal Data that the Client or User has communicated to SCALINGO in a readable format, or to request that SCALINGO transmit the Personal Data that the Client or User has communicated to another data controller;
-* **Right to object:** under the conditions of Article 21 of the GDPR, to object at any time, on grounds relating to his or her personal situation, to the processing of his/her Personal Data, in particular in the event that such objection concerns commercial prospecting, including profiling;
-* **Withdrawal of consent:** to withdraw consent to the future processing of his/her Personal Data by SCALINGO, where the processing is based on consent;
-* **Right to lodge a complaint:** lodge a complaint with the Commission Nationale de l'Informatique et des Libertés ("CNIL") if he/she considers that the processing carried out by SCALINGO constitutes a violation of his/her Personal Data. The services of the CNIL can be contacted:
-    * By telephone: 01 53 73 22 22 ;
-    * Via an online form available here: [https://www.cnil.fr/webform/nous-contacter](https://www.cnil.fr/webform/nous-contacter)
+*   **Right of access:** to obtain confirmation of the processing of his/her Personal Data and information on the processing;
+*   **Right of rectification:** to obtain the rectification of his/her Personal Data when they are inaccurate or incomplete;
+*   **Right to erasure:** under the conditions provided for in Article 17 of the RGPD, obtain the erasure of his/her Personal Data when they are no longer necessary for the purposes for which they were collected or when the Client or User objects to the processing of his/her Personal Data;
+*   **Right to the limitation of processing:** to obtain the limitation of the processing of his/her Personal Data when the Client or the User disputes the accuracy of the data, when the retention period of the Personal Data has expired but the Client or the User still needs to retain the Personal Data for the establishment, exercise or defense of a legal claim, or if the Client or the User has objected to the processing;
+*   **Right to portability:** to obtain communication of the Personal Data that the Client or User has communicated to SCALINGO in a readable format, or to request that SCALINGO transmit the Personal Data that the Client or User has communicated to another data controller;
+*   **Right to object:** under the conditions of Article 21 of the GDPR, to object at any time, on grounds relating to his or her personal situation, to the processing of his/her Personal Data, in particular in the event that such objection concerns commercial prospecting, including profiling;
+*   **Withdrawal of consent:** to withdraw consent to the future processing of his/her Personal Data by SCALINGO, where the processing is based on consent;
+*   **Right to lodge a complaint:** lodge a complaint with the Commission Nationale de l'Informatique et des Libertés ("CNIL") if he/she considers that the processing carried out by SCALINGO constitutes a violation of his/her Personal Data. The services of the CNIL can be contacted:
+    *   By telephone: 01 53 73 22 22 ;
+    *   Via an online form available here: [https://www.cnil.fr/webform/nous-contacter](https://www.cnil.fr/webform/nous-contacter)
 
 The rights of the Client and the Users regarding their Personal Data may be exercised at any time by contacting SCALINGO by email at the following address: [dpo@scalingo.com](mailto:dpo@scalingo.com).
 
