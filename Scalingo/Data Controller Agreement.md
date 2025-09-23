@@ -46,10 +46,10 @@ As of the date of signature of the Agreement, SCALINGO's Sub-processors are:  
 
 In addition to the above-mentioned Sub-processors, SCALINGO may communicate the Personal Data it processes to the following categories of recipients :
 
-* SCALINGO staff members: for the performance of their duties, for the purposes strictly necessary for the performance of the Services in accordance with the Agreement;
-* Accounting firm: for the management of SCALINGO's accounts;
-* Statutory auditor: for the certification of the annual accounts;
-* Administrative and/or judicial authorities: in the event of an audit of the company and/or litigation involving the Client. In the latter case, SCALINGO will use its best efforts to give the Client reasonable notice and to allow the Client to seek any protective order or other appropriate remedy, unless SCALINGO is prohibited from doing so by law or by the authority concerned.
+*   SCALINGO staff members: for the performance of their duties, for the purposes strictly necessary for the performance of the Services in accordance with the Agreement;
+*   Accounting firm: for the management of SCALINGO's accounts;
+*   Statutory auditor: for the certification of the annual accounts;
+*   Administrative and/or judicial authorities: in the event of an audit of the company and/or litigation involving the Client. In the latter case, SCALINGO will use its best efforts to give the Client reasonable notice and to allow the Client to seek any protective order or other appropriate remedy, unless SCALINGO is prohibited from doing so by law or by the authority concerned.
 
 ### ARTICLE 22 - SCALINGO'S OBLIGATIONS
 
@@ -69,16 +69,16 @@ Except for these cases, SCALINGO undertakes to take all legal measures recognize
 
 The Client and each User has the following rights:
 
-* **Right of access:** to obtain confirmation of the processing of his/her Personal Data and information on the processing;
-* **Right of rectification:** to obtain the rectification of his/her Personal Data when they are inaccurate or incomplete;
-* **Right to erasure:** under the conditions provided for in Article 17 of the RGPD, obtain the erasure of his/her Personal Data when they are no longer necessary for the purposes for which they were collected or when the Client or User objects to the processing of his/her Personal Data;
-* **Right to the limitation of processing:** to obtain the limitation of the processing of his/her Personal Data when the Client or the User disputes the accuracy of the data, when the retention period of the Personal Data has expired but the Client or the User still needs to retain the Personal Data for the establishment, exercise or defense of a legal claim, or if the Client or the User has objected to the processing;
-* **Right to portability:** to obtain communication of the Personal Data that the Client or User has communicated to SCALINGO in a readable format, or to request that SCALINGO transmit the Personal Data that the Client or User has communicated to another data controller;
-* **Right to object:** under the conditions of Article 21 of the GDPR, to object at any time, on grounds relating to his or her personal situation, to the processing of his/her Personal Data, in particular in the event that such objection concerns commercial prospecting, including profiling;
-* **Withdrawal of consent:** to withdraw consent to the future processing of his/her Personal Data by SCALINGO, where the processing is based on consent;
-* **Right to lodge a complaint:** lodge a complaint with the Commission Nationale de l'Informatique et des Libertés ("CNIL") if he/she considers that the processing carried out by SCALINGO constitutes a violation of his/her Personal Data. The services of the CNIL can be contacted:
-    * By telephone: 01 53 73 22 22 ;
-    * Via an online form available here: [https://www.cnil.fr/webform/nous-contacter](https://www.cnil.fr/webform/nous-contacter)
+*   **Right of access:** to obtain confirmation of the processing of his/her Personal Data and information on the processing;
+*   **Right of rectification:** to obtain the rectification of his/her Personal Data when they are inaccurate or incomplete;
+*   **Right to erasure:** under the conditions provided for in Article 17 of the RGPD, obtain the erasure of his/her Personal Data when they are no longer necessary for the purposes for which they were collected or when the Client or User objects to the processing of his/her Personal Data;
+*   **Right to the limitation of processing:** to obtain the limitation of the processing of his/her Personal Data when the Client or the User disputes the accuracy of the data, when the retention period of the Personal Data has expired but the Client or the User still needs to retain the Personal Data for the establishment, exercise or defense of a legal claim, or if the Client or the User has objected to the processing;
+*   **Right to portability:** to obtain communication of the Personal Data that the Client or User has communicated to SCALINGO in a readable format, or to request that SCALINGO transmit the Personal Data that the Client or User has communicated to another data controller;
+*   **Right to object:** under the conditions of Article 21 of the GDPR, to object at any time, on grounds relating to his or her personal situation, to the processing of his/her Personal Data, in particular in the event that such objection concerns commercial prospecting, including profiling;
+*   **Withdrawal of consent:** to withdraw consent to the future processing of his/her Personal Data by SCALINGO, where the processing is based on consent;
+*   **Right to lodge a complaint:** lodge a complaint with the Commission Nationale de l'Informatique et des Libertés ("CNIL") if he/she considers that the processing carried out by SCALINGO constitutes a violation of his/her Personal Data. The services of the CNIL can be contacted:
+    *   By telephone: 01 53 73 22 22 ;
+    *   Via an online form available here: [https://www.cnil.fr/webform/nous-contacter](https://www.cnil.fr/webform/nous-contacter)
 
 The rights of the Client and the Users regarding their Personal Data may be exercised at any time by contacting SCALINGO by email at the following address: [dpo@scalingo.com](mailto:dpo@scalingo.com).
 
