@@ -49,23 +49,23 @@ We may process information contained in or relating to any communication that yo
   
 We use Zendesk platform for support tickets and live chat. When you correspond with us using the platform, your correspondence records, including your name and email address, get stored in their system. Please, refer to the respective privacy policy:
 
-* Zendesk: https://www.zendesk.com/company/policies-procedures/
+*   Zendesk: https://www.zendesk.com/company/policies-procedures/
 
 ##### How and why do we process the collected data?
 
 We use the collected data for various purposes:
 
-* To provide, maintain and further develop our Services
-* To notify you about changes to our Services
-* To allow you to participate in interactive features of our Services when you choose to do so
-* To provide customer support, which includes sending password reset emails
-* To gather analysis or valuable information so that we can improve our Services or to do scientific research
-* To monitor the usage of our Services
-* To detect, prevent and address technical issues
-* To detect and prevent fraud or other criminal activities
-* To execute the terms of a contract you have made with us or to enter into a contract with us
-* For compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person
-* To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+*   To provide, maintain and further develop our Services
+*   To notify you about changes to our Services
+*   To allow you to participate in interactive features of our Services when you choose to do so
+*   To provide customer support, which includes sending password reset emails
+*   To gather analysis or valuable information so that we can improve our Services or to do scientific research
+*   To monitor the usage of our Services
+*   To detect, prevent and address technical issues
+*   To detect and prevent fraud or other criminal activities
+*   To execute the terms of a contract you have made with us or to enter into a contract with us
+*   For compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person
+*   To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
 Hide.me uses your personal data as outlined in this policy. Please do not supply any other person's personal data to us.
 
@@ -75,9 +75,9 @@ With your consent we may collect anonymized crash reports and network diagnostic
   
 Our applications may transmit:
 
-* Diagnostic information regarding the connection setup/failure
-* Speed tests
-* Crash reports
+*   Diagnostic information regarding the connection setup/failure
+*   Speed tests
+*   Crash reports
 
 You have full control if you want to share this information in the application settings.
 
@@ -111,11 +111,11 @@ If you wish to be informed what Personal Data we hold about you and if you want 
   
 In certain circumstances, you have the right:
 
-* To access and receive a copy of the Personal Data we hold about you
-* To rectify any Personal Data held about you that is inaccurate or update any Personal data held about you
-* To request the deletion of Personal Data held about you
-* To restrict the processing of your Personal Data
-* To object to our processing of your Personal Data
+*   To access and receive a copy of the Personal Data we hold about you
+*   To rectify any Personal Data held about you that is inaccurate or update any Personal data held about you
+*   To request the deletion of Personal Data held about you
+*   To restrict the processing of your Personal Data
+*   To object to our processing of your Personal Data
 
 You have the right to data portability for the information you provide to us. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it. Please note that we may ask you to verify your identity before responding to requests outlined above.  
   
@@ -137,17 +137,17 @@ We will not store or collect your details. That information is provided directly
   
 The payment processors we work with are:
 
-* **Paddle.com Market Ltd**  
+*   **Paddle.com Market Ltd**  
     Their Privacy Policy can be viewed at https://paddle.com/privacy-buyers/
-* **Cleverbridge AG**  
+*   **Cleverbridge AG**  
     Their Privacy Policy can be viewed at https://www.cleverbridge.com/corporate/privacy-policy/
-* **Paypal Inc**  
+*   **Paypal Inc**  
     Their Privacy Policy can be viewed at https://www.paypal.com/al/webapps/mpp/ua/privacy-full
-* **Coinpayments**  
+*   **Coinpayments**  
     Their Privacy Policy can be viewed at https://www.coinpayments.net/help-privacy
-* **Apple Store In-App Payments**  
+*   **Apple Store In-App Payments**  
     Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
-* **Google Play In-App Payments**  
+*   **Google Play In-App Payments**  
     Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
 
 ##### Emails
@@ -182,12 +182,12 @@ If you'd like to delete cookies or instruct your web browser to delete or refuse
 
 When you use and access the Service, we may place a number of cookies files in your web browser. We use cookies for the following purposes:
 
-* To enable certain functions of the Service
-* To provide analytics
-* To store your preferences. We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
-* Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service.
-* Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality.
-* Analytics cookies. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
+*   To enable certain functions of the Service
+*   To provide analytics
+*   To store your preferences. We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
+*   Essential cookies. We may use cookies to remember information that changes the way the Service behaves or looks, such as a user's language preference on the Service.
+*   Accounts-related cookies. We may use accounts-related cookies to authenticate users and prevent fraudulent use of user accounts. We may use these cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality.
+*   Analytics cookies. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
 
 ###### Third-party cookies
 
@@ -215,5 +215,5 @@ Hide.me websites, community forum and the hide.me VPN service is owned and opera
   
 You may contact us:
 
-* By email: [support@hide.me](mailto:support@hide.me)
-* By visiting this page on our website: [https://hide.me/support](https://hide.me/support)
+*   By email: [support@hide.me](mailto:support@hide.me)
+*   By visiting this page on our website: [https://hide.me/support](https://hide.me/support)
