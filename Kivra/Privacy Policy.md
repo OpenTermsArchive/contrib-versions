@@ -27,28 +27,28 @@ Kivra processes personal data both in the role of personal data controller and a
 
 Below is a description of the most important examples when Kivra processes your personal data as a personal data processor:
 
-* When Kivra conveys E-mails, Forms or Offers to you, it is the Sender who is the personal data controller for the processing, and Kivra is the personal data assistant to the Sender. If you want information about how your personal data is processed during the mediation, we refer you to the Sender who is responsible for the shipment in question.
+*   When Kivra conveys E-mails, Forms or Offers to you, it is the Sender who is the personal data controller for the processing, and Kivra is the personal data assistant to the Sender. If you want information about how your personal data is processed during the mediation, we refer you to the Sender who is responsible for the shipment in question.
     
-* When an e-mail is in your mailbox in Kivra, responsibility for personal data is transferred from the Sender to you. Kivra is then your personal data assistant. This is because Kivra only processes personal data according to your instructions and purposes. Kivra has no own purpose in processing your personal data except to provide the Services for you. If you are a private person who only uses personal data for your own, personal purposes (the so-called "household exception"), the GDPR does not apply. This means that you do not have to comply with the requirements set out in the regulation. However, Kivra is still obliged to fulfill its obligations as a personal data processor, for example by only processing personal data according to your instructions. For that reason, Kivra signs a personal data assistant agreement with all Users, even if you as a User are not bound by the requirements of the regulation. The purpose is that you should always feel secure that your personal data is handled in a safe and legal manner, in accordance with your instructions. What obligations Kivra has when we act as a personal data processor is shown in your [personal data processing agreement with Kivra](https://kivra.se/sv/om-oss/om-kivra/villkor/pub-avtal).
+*   When an e-mail is in your mailbox in Kivra, responsibility for personal data is transferred from the Sender to you. Kivra is then your personal data assistant. This is because Kivra only processes personal data according to your instructions and purposes. Kivra has no own purpose in processing your personal data except to provide the Services for you. If you are a private person who only uses personal data for your own, personal purposes (the so-called "household exception"), the GDPR does not apply. This means that you do not have to comply with the requirements set out in the regulation. However, Kivra is still obliged to fulfill its obligations as a personal data processor, for example by only processing personal data according to your instructions. For that reason, Kivra signs a personal data assistant agreement with all Users, even if you as a User are not bound by the requirements of the regulation. The purpose is that you should always feel secure that your personal data is handled in a safe and legal manner, in accordance with your instructions. What obligations Kivra has when we act as a personal data processor is shown in your [personal data processing agreement with Kivra](https://kivra.se/sv/om-oss/om-kivra/villkor/pub-avtal).
     
-* When Kivra sends an SMS that you can access a credit report copy, it is the credit reporting company that created the credit report and is the personal data controller for the processing. Kivra is a personal data assistant for the credit reporting company. If you want information about how your personal data is processed at the brokerage, we refer you to the credit information company that created the credit information. You can find general information about how your personal data is processed in connection with credit reporting companies sending credit report copies [here](https://faq.kivra.se/hc/sv/articles/22936719743901-Vem-%C3%A4r-personuppgiftansvarig-f%C3%B6r-SMS-utskicket-g%C3%A4llande-en-kreditupplysning). 
+*   When Kivra sends an SMS that you can access a credit report copy, it is the credit reporting company that created the credit report and is the personal data controller for the processing. Kivra is a personal data assistant for the credit reporting company. If you want information about how your personal data is processed at the brokerage, we refer you to the credit information company that created the credit information. You can find general information about how your personal data is processed in connection with credit reporting companies sending credit report copies [here](https://faq.kivra.se/hc/sv/articles/22936719743901-Vem-%C3%A4r-personuppgiftansvarig-f%C3%B6r-SMS-utskicket-g%C3%A4llande-en-kreditupplysning). 
     
 
 ### **3\. What does Kivra use your personal data for?**
 
 The tables below describe:
 
-1. For what purposes we use your personal data.
+1.  For what purposes we use your personal data.
     
-2. Which categories of personal data we use for each purpose.
+2.  Which categories of personal data we use for each purpose.
     
-3. Where we have received the personal data from, i.e. whether we have received the data from you or from another source.
+3.  Where we have received the personal data from, i.e. whether we have received the data from you or from another source.
     
-4. What legal basis we have for our processing of your personal data. Without a legal basis, we may not process your personal data.
+4.  What legal basis we have for our processing of your personal data. Without a legal basis, we may not process your personal data.
     
-5. How long we use and save your personal data for each purpose.
+5.  How long we use and save your personal data for each purpose.
     
-6. About and with whom we share your personal data.
+6.  About and with whom we share your personal data.
     
 
 #### 3.1 When you use Kivra as a private person
