@@ -38,9 +38,9 @@ Tencent group offers a diverse range of products and services and there are spec
 
 Additionally, when using such products and services, the following product or service-specific policies may also be applicable to you:
 
-* • Privacy Policy – which sets out how we collect, store and use your personal information;
-* • Cookies Policy – which sets out how we use cookies and log files in our services; and
-* • Acceptable Use Policy – which sets out rules of good behaviour applicable to your use of our services.
+*   • Privacy Policy – which sets out how we collect, store and use your personal information;
+*   • Cookies Policy – which sets out how we use cookies and log files in our services; and
+*   • Acceptable Use Policy – which sets out rules of good behaviour applicable to your use of our services.
 
 **CHANGES TO TERMS AND OUR SERVICES**
 =====================================
