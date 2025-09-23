@@ -14,7 +14,7 @@ Facebook Live must not be used to mislead users to think that specific footage i
 
 Example:
 
-* Misrepresenting footage of an event that occurred a year ago as currently happening
+*   Misrepresenting footage of an event that occurred a year ago as currently happening
 
 **Inaccurate location**
 
@@ -22,7 +22,7 @@ Facebook Live must not be used to mislead users to think that specific footage i
 
 Example:
 
-* Misrepresenting footage from a different country as footage from the United States
+*   Misrepresenting footage from a different country as footage from the United States
 
 **Pre-recorded content**
 
@@ -30,9 +30,9 @@ All pre-recorded content contained in a broadcast streamed to Facebook Live must
 
 Example:
 
-* Adding a graphic to mark specific footage as pre-recorded
+*   Adding a graphic to mark specific footage as pre-recorded
 
-* Including a disclaimer in the video description or title that specific content is pre-recorded
+*   Including a disclaimer in the video description or title that specific content is pre-recorded
 
 **Looping or static content**
 
@@ -40,8 +40,8 @@ Facebook Live should not be used to broadcast looping videos, static images or p
 
 Example:
 
-* Streaming a 20-minute clip that is continuously looped
+*   Streaming a 20-minute clip that is continuously looped
 
-* A broadcast that is limited to a photo and has no other auditory or visual elements
+*   A broadcast that is limited to a photo and has no other auditory or visual elements
 
-* A broadcast that only contains a poll
+*   A broadcast that only contains a poll
