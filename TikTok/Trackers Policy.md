@@ -46,9 +46,9 @@ Some cookies help the Platform work better. They also let us customise the Platf
 
 Below, we provide examples of the cookies we use for functionality and customisation.
 
-* Some cookies allow for the proper functioning of the Platform and our services. These cookies remember your login details and status while you browse the Platform, for example, “sid\_tt” cookies (retained for 2 months).
-* Some cookies record your preferred language, like “default\_lang” cookies (retained for 1 year). Other cookies, like “locale” cookies (retained for 1 year), record the country from which you visit the Platform.
-* Other cookies record your consent to remember your choice of optional cookies.
+*   Some cookies allow for the proper functioning of the Platform and our services. These cookies remember your login details and status while you browse the Platform, for example, “sid\_tt” cookies (retained for 2 months).
+*   Some cookies record your preferred language, like “default\_lang” cookies (retained for 1 year). Other cookies, like “locale” cookies (retained for 1 year), record the country from which you visit the Platform.
+*   Other cookies record your consent to remember your choice of optional cookies.
 
   
 
@@ -58,11 +58,11 @@ We use some cookies to keep you and the Platform safe and secure.
 
 For example, these types of cookies enable us to:
 
-* Prevent fraudulent attacks to our Platform.
-* Detect non-human traffic (bots).
-* Detect suspicious activity.
-* Check if an account was suspended for violating our Community Guidelines. This will let us take appropriate action.
-* Schedule traffic and distribute it properly across networks.
+*   Prevent fraudulent attacks to our Platform.
+*   Detect non-human traffic (bots).
+*   Detect suspicious activity.
+*   Check if an account was suspended for violating our Community Guidelines. This will let us take appropriate action.
+*   Schedule traffic and distribute it properly across networks.
 
 The cookies used for these purposes include “ttwid” cookies (retained for 1 year) and “security\_verification\_ticket” cookies (retained for 1 month).
 
@@ -76,8 +76,8 @@ This information lets us measure and quickly fix any errors on the Platform to i
 
 Below are examples of the analytics cookies we use, their purposes and their retention periods.
 
-* The “ttwid” first-party cookie is for analytics and web optimisation. It lasts for a maximum of 13 months.
-* We also use Google Analytics to analyse Platform usage. This includes the number of page views and unique visitors. Google Analytics has a retention period of 24 months.
+*   The “ttwid” first-party cookie is for analytics and web optimisation. It lasts for a maximum of 13 months.
+*   We also use Google Analytics to analyse Platform usage. This includes the number of page views and unique visitors. Google Analytics has a retention period of 24 months.
 
   
 
@@ -89,9 +89,9 @@ We also use cookies to measure our ads’ performance on the Platform.
 
 Examples of the advertising and measurement cookies include cookies:
 
-* To show you personalised ads from an advertiser if you have visited their website or app before. For example, we use the “ttp” first-party cookie for these purposes and it has a retention period of 1 year.
-* To serve ads about TikTok on third-party platforms. This includes remarketing TikTok to people who visited our website and measuring our ad campaigns’ performance. For example, the “fbp” third-party cookie which has a retention period of 3 months.
-* To measure the performance of ads on our Platform. This includes tracking user actions in response to ads. For example, this includes visits to an advertiser’s website or purchases. For example, the third-party advertising identifiers “IDFA” and “GAID” are used for ad measurement and personalising ads.
+*   To show you personalised ads from an advertiser if you have visited their website or app before. For example, we use the “ttp” first-party cookie for these purposes and it has a retention period of 1 year.
+*   To serve ads about TikTok on third-party platforms. This includes remarketing TikTok to people who visited our website and measuring our ad campaigns’ performance. For example, the “fbp” third-party cookie which has a retention period of 3 months.
+*   To measure the performance of ads on our Platform. This includes tracking user actions in response to ads. For example, this includes visits to an advertiser’s website or purchases. For example, the third-party advertising identifiers “IDFA” and “GAID” are used for ad measurement and personalising ads.
 
 ### How TikTok Partners use cookies
 
@@ -125,8 +125,8 @@ If you have a TikTok account and are logged in, you can [manage how your informa
 
 You can also tailor your device settings to control your mobile advertising identifiers:
 
-* On Apple devices: For iOS versions older than iOS 14, you can turn on the “Limit Ad Tracking” setting in your device settings. For iOS 14 or newer, you can limit third-party tracking in your device settings.
-* On Android devices, you can turn on the “Opt out of Ads Personalisation” in your device.
+*   On Apple devices: For iOS versions older than iOS 14, you can turn on the “Limit Ad Tracking” setting in your device settings. For iOS 14 or newer, you can limit third-party tracking in your device settings.
+*   On Android devices, you can turn on the “Opt out of Ads Personalisation” in your device.
 
   
 
@@ -134,19 +134,19 @@ You can also tailor your device settings to control your mobile advertising iden
 
 Most browsers will also allow you to choose the level of privacy settings you want. You can control your cookies and local storage settings, like:
 
-* See what cookies or other locally stored data you have and delete them on an individual basis;
-* Block third-party cookies;
-* Block cookies from particular sites;
-* Block all cookies from being set; or
-* Delete all cookies/site data.
+*   See what cookies or other locally stored data you have and delete them on an individual basis;
+*   Block third-party cookies;
+*   Block cookies from particular sites;
+*   Block all cookies from being set; or
+*   Delete all cookies/site data.
 
 For more information on how to manage the most popular browsers, see below:
 
-* Google Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-* Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-* Internet Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* Edge: [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)
-* Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+*   Google Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
+*   Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+*   Internet Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+*   Edge: [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)
+*   Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
 
 ### Changes to this policy
 
