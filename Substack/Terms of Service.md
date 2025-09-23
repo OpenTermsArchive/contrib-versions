@@ -33,19 +33,19 @@ That includes publications, subscriber lists, any other text or photos you uploa
 
 Anything posted, uploaded, shared, stored, or otherwise provided through Substack is referred to as a “Post” in these Terms. There are a few rules that apply to all Posts:
 
-* Don’t Infringe: Your Posts should not violate someone else’s (including Substack’s) rights. Don’t copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, commercialize or otherwise exploit for any purpose any content not owned by you unless you have prior consent from the owner of that content. 
+*   Don’t Infringe: Your Posts should not violate someone else’s (including Substack’s) rights. Don’t copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, commercialize or otherwise exploit for any purpose any content not owned by you unless you have prior consent from the owner of that content. 
     
 
-* Limited License to Us: In order to display your Posts on Substack, and to allow other users to enjoy them, you grant us certain rights in your Posts:
+*   Limited License to Us: In order to display your Posts on Substack, and to allow other users to enjoy them, you grant us certain rights in your Posts:
     
 
-* Operating Substack: You hereby grant Substack a license to translate, modify, reproduce, and otherwise act with respect to your Posts to enable us to provide, improve, and notify you about new features within Substack. You understand and agree that we may need to make changes to your Posts to conform and adapt those Posts to the technical requirements of networks, devices, services, or media, and this license includes the rights to do so. For example, we may need to modify your publication to make sure it is viewable on an iPhone as well as a computer. 
+*   Operating Substack: You hereby grant Substack a license to translate, modify, reproduce, and otherwise act with respect to your Posts to enable us to provide, improve, and notify you about new features within Substack. You understand and agree that we may need to make changes to your Posts to conform and adapt those Posts to the technical requirements of networks, devices, services, or media, and this license includes the rights to do so. For example, we may need to modify your publication to make sure it is viewable on an iPhone as well as a computer. 
     
 
-* Public Posts: If you share a Post with other users on Substack, then you grant us the license above, as well as a license to display, perform, and distribute your Post. Also, you grant all other users of Substack a license to access the Post, and to use and exercise all rights in it, as permitted by the functionality of Substack. 
+*   Public Posts: If you share a Post with other users on Substack, then you grant us the license above, as well as a license to display, perform, and distribute your Post. Also, you grant all other users of Substack a license to access the Post, and to use and exercise all rights in it, as permitted by the functionality of Substack. 
     
 
-* Term of License: You agree that the licenses you grant are royalty-free, perpetual, irrevocable, and worldwide. This is a license only – your ownership in Posts is not affected.
+*   Term of License: You agree that the licenses you grant are royalty-free, perpetual, irrevocable, and worldwide. This is a license only – your ownership in Posts is not affected.
     
 
 We reserve the right to remove any content from Substack at any time, for any reason (including, but not limited to, if someone alleges you contributed that content in violation of these Terms), in our sole discretion, and without notice.
@@ -64,38 +64,38 @@ You are responsible for all your activity in connection with Substack! Make sure
 
 You also agree that you will not contribute any Post or otherwise use Substack in a manner that:
 
-* Is fraudulent or threatening, or in any way violates Substack’s [Content Guidelines](https://substack.com/content);
+*   Is fraudulent or threatening, or in any way violates Substack’s [Content Guidelines](https://substack.com/content);
     
 
-* Jeopardizes the security of your Substack account or anyone else’s (such as allowing someone else to log into Substack as you, or sharing your account or password with someone);
+*   Jeopardizes the security of your Substack account or anyone else’s (such as allowing someone else to log into Substack as you, or sharing your account or password with someone);
     
 
-* Attempts, in any manner, to obtain the password, account, or other security information of any other user;
+*   Attempts, in any manner, to obtain the password, account, or other security information of any other user;
     
 
-* Violates the security of any computer network, or cracks any passwords or security encryption codes;
+*   Violates the security of any computer network, or cracks any passwords or security encryption codes;
     
 
-* Runs Maillist, Listserv, any form of auto-responder or “spam” on Substack, or any processes that run or are activated while you are not logged into Substack, or that otherwise interferes with the proper working of Substack (including placing an unreasonable load on Substack’s infrastructure);
+*   Runs Maillist, Listserv, any form of auto-responder or “spam” on Substack, or any processes that run or are activated while you are not logged into Substack, or that otherwise interferes with the proper working of Substack (including placing an unreasonable load on Substack’s infrastructure);
     
 
-* “Crawls,” “scrapes,” or “spiders” any page, data, or portion of Substack (through use of manual or automated means);
+*   “Crawls,” “scrapes,” or “spiders” any page, data, or portion of Substack (through use of manual or automated means);
     
 
-* Copies or stores any significant portion of the content on Substack;
+*   Copies or stores any significant portion of the content on Substack;
     
 
-* Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to Substack.
+*   Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to Substack.
     
 
 **Other Users and Third-Parties**
 
-* Posts: Posts posted to Substack – including Creator publications – are the sole responsibility of the person or organization from whom such content originated. You access all such content at your own risk. We aren’t liable for any errors or omissions in any Post and you hereby release us from any damages or loss you might suffer in connection with a Post.
+*   Posts: Posts posted to Substack – including Creator publications – are the sole responsibility of the person or organization from whom such content originated. You access all such content at your own risk. We aren’t liable for any errors or omissions in any Post and you hereby release us from any damages or loss you might suffer in connection with a Post.
     
-* Other Users on Substack: Your interactions with organizations and individuals found on or through Substack, including payment for Creator publications, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and individuals. You agree that Substack shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. We can’t guarantee the identity of any users with access to Substack and are not responsible for which users gain access to our products and services.
+*   Other Users on Substack: Your interactions with organizations and individuals found on or through Substack, including payment for Creator publications, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and individuals. You agree that Substack shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. We can’t guarantee the identity of any users with access to Substack and are not responsible for which users gain access to our products and services.
     
 
-* Third-Party Content: Substack may contain links or connections to third party websites or services that are not owned or controlled by us. Substack has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third-party websites. You release and hold us harmless from any and all liability arising from your use of any third-party website or service.
+*   Third-Party Content: Substack may contain links or connections to third party websites or services that are not owned or controlled by us. Substack has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third-party websites. You release and hold us harmless from any and all liability arising from your use of any third-party website or service.
     
 
 In the event that you have a dispute with one or more other users of Substack or with a third party, you release us, our officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or Substack. 
@@ -104,20 +104,20 @@ In the event that you have a dispute with one or more other users of Substack or
 
 **To the fullest extent allowed by applicable law, under no circumstances and under no legal theory shall Substack, its licensors, or its suppliers be liable to you or to any other person for:**
 
-* **Any indirect, special, incidental, or consequential damages of any kind, or**
+*   **Any indirect, special, incidental, or consequential damages of any kind, or**
     
 
-* **Any amount, in the aggregate, in excess of the greater of (1) $100 or (2) the amounts paid and/or payable by you to us in connection with Substack in the twelve-month period preceding the applicable claim.**
+*   **Any amount, in the aggregate, in excess of the greater of (1) $100 or (2) the amounts paid and/or payable by you to us in connection with Substack in the twelve-month period preceding the applicable claim.**
     
 
 **No Warranties**
 
 **Substack is provided to you on an “as-is” basis. This means we provide it to you without any express or implied warranties of any kind. That includes any implied warranties of merchantability, warranties of fitness for a particular purpose, non-infringement, or any warranty that the use of Substack will be uninterrupted or error-free. Accordingly, we do not:**
 
-* **Make any representations or warranties about any content contained in or accessed through Substack, and we will not be responsible for the accuracy, copyright compliance, legality, or decency of material contained on our products and services.** 
+*   **Make any representations or warranties about any content contained in or accessed through Substack, and we will not be responsible for the accuracy, copyright compliance, legality, or decency of material contained on our products and services.** 
     
 
-* **Make any representations or warranties regarding suggestions or recommendations of products or services (including Creator publications) offered or purchased through Substack. Products and services purchased or offered through Substack, including publications, are provided “as-is” and without any warranty of any kind from Substack.** 
+*   **Make any representations or warranties regarding suggestions or recommendations of products or services (including Creator publications) offered or purchased through Substack. Products and services purchased or offered through Substack, including publications, are provided “as-is” and without any warranty of any kind from Substack.** 
     
 
 **Paid Subscriptions on Substack**
@@ -178,31 +178,31 @@ Failure to follow any of these Terms shall constitute a breach of these Terms, w
 
 The above covers most of the questions that we typically receive about Substack. We have grouped provisions that come up less frequently below:
 
-* Indemnification: To the fullest extent allowed by applicable law, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to (a) your use of Substack (including any actions taken by a third party using your account), and (b) your violation of these Terms. In the event of such a claim, suit, or action, we will attempt to provide notice to the contact information we have for your account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations hereunder).
+*   Indemnification: To the fullest extent allowed by applicable law, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to (a) your use of Substack (including any actions taken by a third party using your account), and (b) your violation of these Terms. In the event of such a claim, suit, or action, we will attempt to provide notice to the contact information we have for your account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations hereunder).
     
 
-* Assignment: You may not assign, delegate or transfer these Terms or your rights or obligations hereunder, or your Substack account, in any way (by operation of law or otherwise) without our prior written consent. We may transfer, assign, or delegate these Terms and our rights and obligations without consent.
+*   Assignment: You may not assign, delegate or transfer these Terms or your rights or obligations hereunder, or your Substack account, in any way (by operation of law or otherwise) without our prior written consent. We may transfer, assign, or delegate these Terms and our rights and obligations without consent.
     
 
-* Choice of Law: These Terms are governed by and will be construed under applicable federal law and the laws of the State of California, without regard to the conflicts of laws provisions thereof.
+*   Choice of Law: These Terms are governed by and will be construed under applicable federal law and the laws of the State of California, without regard to the conflicts of laws provisions thereof.
     
 
-* Arbitration and Class Action Waiver: Any dispute arising from or relating to the subject matter of these Terms shall be finally settled by arbitration in San Francisco County, California, in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Streamlined Arbitration Rules and Procedures of JAMS. Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, you and Substack shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of these Terms, you consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, San Francisco County, California, or the Northern District of California. The prevailing party in any action or proceeding arising out of these Terms will be entitled to an award of costs and attorneys’ fees. To the fullest extent permitted by law, you and Substack Inc agree that all claims against the other can only be brought in an individual capacity, and not as a plaintiff or class member in any purported class, consolidated, or other representative proceeding. We agree that arbitrators may not conduct any class, consolidated, or representative proceeding, and are limited to providing relief warranted by an individual party's claim.
+*   Arbitration and Class Action Waiver: Any dispute arising from or relating to the subject matter of these Terms shall be finally settled by arbitration in San Francisco County, California, in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Streamlined Arbitration Rules and Procedures of JAMS. Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, you and Substack shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of these Terms, you consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, San Francisco County, California, or the Northern District of California. The prevailing party in any action or proceeding arising out of these Terms will be entitled to an award of costs and attorneys’ fees. To the fullest extent permitted by law, you and Substack Inc agree that all claims against the other can only be brought in an individual capacity, and not as a plaintiff or class member in any purported class, consolidated, or other representative proceeding. We agree that arbitrators may not conduct any class, consolidated, or representative proceeding, and are limited to providing relief warranted by an individual party's claim.
     
 
-* No Third-Party Beneficiaries: We agree there are no third-party beneficiaries intended under these Terms.
+*   No Third-Party Beneficiaries: We agree there are no third-party beneficiaries intended under these Terms.
     
 
-* No Joint Venture: You hereby acknowledge and agree that you are not an employee, agent, partner, or joint venture of Substack Inc., and you do not have any authority of any kind to bind us in any respect whatsoever. 
+*   No Joint Venture: You hereby acknowledge and agree that you are not an employee, agent, partner, or joint venture of Substack Inc., and you do not have any authority of any kind to bind us in any respect whatsoever. 
     
 
-* Waiver: The failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder. 
+*   Waiver: The failure of either you or us to exercise, in any way, any right herein shall not be deemed a waiver of any further rights hereunder. 
     
 
-* Severability: If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that these Terms shall otherwise remain in full force and effect and enforceable. 
+*   Severability: If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated, to the minimum extent necessary, so that these Terms shall otherwise remain in full force and effect and enforceable. 
     
 
-* Entire Agreement: You agree that these Terms are the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of these Terms.
+*   Entire Agreement: You agree that these Terms are the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of these Terms.
 
 - - -
 
