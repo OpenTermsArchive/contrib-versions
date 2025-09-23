@@ -15,8 +15,8 @@ The guidance says agencies may not compromise or invade website visitors' person
 
 A cookie is a small text file that a website places on your web browser. Here is how USA.gov uses cookies:
 
-* We gather anonymous, statistical information about how people use USA.gov so we can improve our website. We use services to measure data about site activity. We only receive statistics on the traffic of the site as a whole and do not receive information related to a particular user.
-* We remember your browser when you return to our site, so we do not invite you to take our customer satisfaction survey again within 90 days of completing the survey.
+*   We gather anonymous, statistical information about how people use USA.gov so we can improve our website. We use services to measure data about site activity. We only receive statistics on the traffic of the site as a whole and do not receive information related to a particular user.
+*   We remember your browser when you return to our site, so we do not invite you to take our customer satisfaction survey again within 90 days of completing the survey.
 
 Most Internet browsers automatically accept cookies. Although using cookies creates a much better experience for you, USA.gov will also work without them.
 
