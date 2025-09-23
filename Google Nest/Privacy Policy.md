@@ -66,9 +66,9 @@ We help to keep your Google Account secure with tools and automatic protection, 
 We help to keep your Google Account secure with:  
   
 
-1. [Suspicious activity detection](https://support.google.com/accounts/answer/140921) sends you notifications whenever we detect unusual or potentially dangerous activity, such as suspicious sign-ins to your account.
-2. [Security Check-Up](https://myaccount.google.com/security-checkup) helps you secure your account and manage your online security through personalised guidance.
-3. [2-Step Verification](https://support.google.com/accounts/answer/185839) strengthens your account security by adding a second verification step when you sign in, like a prompt from a trusted device or the use of a physical security key.
+1.  [Suspicious activity detection](https://support.google.com/accounts/answer/140921) sends you notifications whenever we detect unusual or potentially dangerous activity, such as suspicious sign-ins to your account.
+2.  [Security Check-Up](https://myaccount.google.com/security-checkup) helps you secure your account and manage your online security through personalised guidance.
+3.  [2-Step Verification](https://support.google.com/accounts/answer/185839) strengthens your account security by adding a second verification step when you sign in, like a prompt from a trusted device or the use of a physical security key.
 
 ### What is suspicious activity?
 
@@ -83,10 +83,10 @@ Google looks for activity that seems like it isn’t being performed by you. For
 Migrating to a Google Account gives you new benefits, like:  
   
 
-* Automatic security protections such as suspicious activity detection, 2-Step Verification and Security Check-Up.
-* Your Google Nest devices and services work together. For example, if you have a Nest Cam and a Chromecast, just say, 'Hey Google, show me the rear garden camera' to cast your camera stream to your TV without any setup.
-* One account to sign in to both the Nest and Google Home apps.
-* Your homes and home members are aligned across the Nest and Google Home apps.
+*   Automatic security protections such as suspicious activity detection, 2-Step Verification and Security Check-Up.
+*   Your Google Nest devices and services work together. For example, if you have a Nest Cam and a Chromecast, just say, 'Hey Google, show me the rear garden camera' to cast your camera stream to your TV without any setup.
+*   One account to sign in to both the Nest and Google Home apps.
+*   Your homes and home members are aligned across the Nest and Google Home apps.
 
   
   
@@ -109,9 +109,9 @@ We will publish a [list of Google devices](https://support.google.com/product-do
 
 Security updates don’t address vulnerabilities that result from a device being used in a way that it wasn’t intended, or that might compromise its security. For example:
 
-* Devices that aren’t properly [factory reset](https://support.google.com/googlenest/search?q=factory+reset) before being given to someone else
-* Accounts that don’t use [2-Step Verification](https://support.google.com/accounts/answer/185839)
-* Devices made by other manufacturers that haven't been assessed by Google and may have access to your network and Google Nest devices
+*   Devices that aren’t properly [factory reset](https://support.google.com/googlenest/search?q=factory+reset) before being given to someone else
+*   Accounts that don’t use [2-Step Verification](https://support.google.com/accounts/answer/185839)
+*   Devices made by other manufacturers that haven't been assessed by Google and may have access to your network and Google Nest devices
 
 ### COMMITMENT
 
@@ -220,13 +220,13 @@ We will only share your device sensor data with third-party apps and services th
 Our devices include environmental and activity sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether or not someone is home, ambient light, temperature and humidity. Data from these sensors, which is regularly sent to Google, serves a variety of purposes, such as helping your home take better care of you, helping us make your devices and services better, and keeping you informed. For example:  
   
 
-* The temperature and humidity sensors in your Nest Learning Thermostat, where available, help keep your home comfortable while saving energy.
-* Home/Away Assist uses activity sensors across multiple Nest devices in your home to automatically switch the behaviour of Nest devices in your home when you leave and when you come back.
-* We used ambient light and temperature sensor data aggregated from thermostats across our customers to determine that direct sunlight can cause thermostats to think it’s warmer than it actually is, so we introduced [Sunblock](https://nest.com/support/article/What-is-Sunblock), a new feature, to help your thermostat adjust for this so that it sets the correct temperature.
-* We use sensor data to help us troubleshoot and improve the performance, safety and reliability of our devices and services; for example, we use temperature and humidity data from our devices to measure the impact of environmental conditions on battery life.
-* We may also use sensor data to keep you informed of updates on Google services, including connected home services that we think may interest you, such as energy and home safety programmes, where available – but we’ll always respect your choice about whether you want to receive promotional emails from Google.
-* We do not use environmental and activity sensor data for ad personalisation. For example, we don’t use sleep data from your Nest Hub (2nd gen), where available, for ad personalisation. (Remember that to fulfil some requests related to your connected home devices – for example, 'Hey Google, what’s the temperature inside?' – your Assistant can retrieve a sensor reading.) Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).)
-* When you delete your account, this sensor data is deleted from our servers as explained in our [retention policy](https://policies.google.com/technologies/retention?hl=en-GB).
+*   The temperature and humidity sensors in your Nest Learning Thermostat, where available, help keep your home comfortable while saving energy.
+*   Home/Away Assist uses activity sensors across multiple Nest devices in your home to automatically switch the behaviour of Nest devices in your home when you leave and when you come back.
+*   We used ambient light and temperature sensor data aggregated from thermostats across our customers to determine that direct sunlight can cause thermostats to think it’s warmer than it actually is, so we introduced [Sunblock](https://nest.com/support/article/What-is-Sunblock), a new feature, to help your thermostat adjust for this so that it sets the correct temperature.
+*   We use sensor data to help us troubleshoot and improve the performance, safety and reliability of our devices and services; for example, we use temperature and humidity data from our devices to measure the impact of environmental conditions on battery life.
+*   We may also use sensor data to keep you informed of updates on Google services, including connected home services that we think may interest you, such as energy and home safety programmes, where available – but we’ll always respect your choice about whether you want to receive promotional emails from Google.
+*   We do not use environmental and activity sensor data for ad personalisation. For example, we don’t use sleep data from your Nest Hub (2nd gen), where available, for ad personalisation. (Remember that to fulfil some requests related to your connected home devices – for example, 'Hey Google, what’s the temperature inside?' – your Assistant can retrieve a sensor reading.) Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).)
+*   When you delete your account, this sensor data is deleted from our servers as explained in our [retention policy](https://policies.google.com/technologies/retention?hl=en-GB).
 
 ### What’s an example of when my sensor data might be shared with third-party apps and services?
 
