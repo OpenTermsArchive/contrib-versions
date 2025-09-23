@@ -2,7 +2,7 @@
 
 ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“ASUS”) ARE SUBJECT TO THIS TERMS OF USE NOTICE (“NOTICE”). SERVICE MEANS, INCLUDING BUT NOT LIMITED TO, ANY PRODUCT, SERVICE, SERVICE EVENT (DEFINED AS BELOW), SOFTWARE, APPLICATION AND INFORMATION PROVIDED UNDER ASUS BRAND OR ANY OTHER BRAND OWNED BY ASUS. YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS NOTICE AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. IF YOU ARE A MINOR, YOU SHALL REGISTER AS THE MEMBER OR ACCESS THE SERVICES ONLY AFTER YOUR PARENTS (OR YOUR GUARDIAN) READ AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS CONTAINED IN THIS NOTICE. BY CONTINUING TO INSTALL, COPY, SURF, DOWNLOAD, ACCESS, PURCHASE, ENTER AND/OR OTHERWISE USE THE SERVICE, YOU OR YOUR PARENTS (OR GUARDIAN) EXPRESSLY CONSENT TO BE BOUND BY THIS NOTICE, INCLUDING UPDATED VERSION, AND ALL APLICABLE LAWS AND REGULATIONS.
 
-1. **Acknowledgement**
+1.  **Acknowledgement**
     
     1.1
     
@@ -52,7 +52,7 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     Using any data mining, robots, or similar data gathering and/ or extraction tools. In the event that YOU use any software or tools above, YOU will be disqualified to participate in Website Event.
     
-2. **Intellectual Property Right**
+2.  **Intellectual Property Right**
     
     2.1
     
@@ -82,7 +82,7 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     Upon receipt of an infringement notification from a copyright holder or its agent, ASUS will remove, disable YOUR access to or may take other actions to alleged infringing content or services in accordance with applicable laws. If YOU believe that such content or services were not infringing, YOU may submit a counter notification to ASUS Legal Compliance Department with the contact information indicated in this NOTICE, ASUS will proceed with the corresponding procedure in accordance with applicable laws.
     
-3. **Registration**
+3.  **Registration**
     
     To use all services provided in this SERVICE, YOU acknowledge and accept the followings:
     
@@ -102,11 +102,11 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     YOU shall comply with this NOTICE and shall not be in violation of any applicable laws and regulations. ASUS reserves the right to verify the validity of YOUR membership at any time during or after any Website Event, and reserves the right to disqualify YOU (even a Winner) from any Website Event including YOUR prize qualification who constitutes any misconduct for tampering or suspicion of tampering with Website Event without any notice. Failure of ASUS to enforce any of its rights hereof does not constitute a waiver of those rights.
     
-4. **Privacy Policy**
+4.  **Privacy Policy**
     
     Due to respect to personal information, ASUS is committed to protecting and respecting YOUR privacy with [ASUS Privacy Policy](http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) .
     
-5. **License and Restriction**
+5.  **License and Restriction**
     
     5.1
     
@@ -116,11 +116,11 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     No Removal of Notices: YOU agree that YOU will not remove, obscure, make illegible or alter any notices or indications of any rights and/or ASUS’s rights and ownership thereof, whether such notice or indications are affixed on, contained in or otherwise connected to any materials.
     
-6. **E-Commerce**
+6.  **E-Commerce**
     
     Any purchases of products and services/support packages provided by ASUS, shall be governed by the terms and conditions of the e-commerce store, please refer to ASUS sales agreements and relevant policies.
     
-7. **Term and Termination**
+7.  **Term and Termination**
     
     7.1
     
@@ -130,7 +130,7 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     This NOTICE is effective until terminated by YOU or ASUS. YOUR rights to use the SERVICE will be terminated automatically without notice if YOU fail to comply with the terms and conditions mentioned in this NOTICE. In this regard, ASUS will not bear any responsibility to YOU. Upon termination of this NOTICE, YOU shall immediately cease all use of the SERVICE and its copies, in whole or in part.
     
-8. **Warranty Disclaimer and Limitation of Liability**
+8.  **Warranty Disclaimer and Limitation of Liability**
     
     8.1
     
@@ -172,7 +172,7 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     In the event that any failure of a prize winner to take the prize within a certain period of time indicated in the Website Event is deemed a waiver of the right for a prize, and ASUS, on its sole discretion, has the right to decide the substitution method of such prize winner.
     
-9. **Indemnity**  
+9.  **Indemnity**  
     YOU agree to defend, indemnify and hold harmless ASUS and its affiliates, service providers, syndicators, distributors, licensors, officers, directors and employees, from and against any and all losses, damages, liabilities, and expenses arising out of any claim or demand (including reasonable attorneys' fees and court costs), due to or in connection with YOUR violation of this Notice or any applicable law or regulation, or third-party right.
 
 For further information regarding this NOTICE and referenced guidelines, contact ASUS Legal Compliance Department by registered mail, facsimile, e-mail or phone at:  
