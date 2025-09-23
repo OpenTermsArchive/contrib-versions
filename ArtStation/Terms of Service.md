@@ -367,27 +367,27 @@ You must not:
 
 (b) create a link, name or label, or otherwise upload to or transmit from the Site or the Services any content, link or anything else that (if reproduced, published, transmitted or used) may:
 
-1. be defamatory, threatening, abusive, harassing, hateful, obscene, pornographic, harmful or invasive of anyone’s privacy, or excessively violent,
-2. violate any law including intellectual property, privacy or other laws;
-3. impersonate any person;
-4. give rise to civil or other liability; or
-5. relate to illegal drugs, weapons, gambling or other illegal activities;
+1.  be defamatory, threatening, abusive, harassing, hateful, obscene, pornographic, harmful or invasive of anyone’s privacy, or excessively violent,
+2.  violate any law including intellectual property, privacy or other laws;
+3.  impersonate any person;
+4.  give rise to civil or other liability; or
+5.  relate to illegal drugs, weapons, gambling or other illegal activities;
 
 (c) upload to or transmit from the Site or the Services any data, file, software or link that contains or redirects to a virus, Trojan horse, worm or other harmful component;
 
 (d) use the Site or the Services to do or attempt to do any of the following without Epic’s prior written permission:
 
-1. send spam or other bulk messages;
-2. gain unauthorized access to any data, network or system;
-3. conduct or promote any commercial activity;
-4. gamble, including through the use of the Site credits;
-5. monitor data or traffic on any network or system;
-6. obtain an email address, user name or other information about a third party without their consent;
-7. use any misleading, false or deceptive TCP/IP header information in any email or posting;
-8. conduct or instigate any denial of service attack against the ArtStation website or network, any other Epic website or network, or any third party’s website or network; or
-9. except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
-10. collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
-    
+1.  send spam or other bulk messages;
+2.  gain unauthorized access to any data, network or system;
+3.  conduct or promote any commercial activity;
+4.  gamble, including through the use of the Site credits;
+5.  monitor data or traffic on any network or system;
+6.  obtain an email address, user name or other information about a third party without their consent;
+7.  use any misleading, false or deceptive TCP/IP header information in any email or posting;
+8.  conduct or instigate any denial of service attack against the ArtStation website or network, any other Epic website or network, or any third party’s website or network; or
+9.  except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
+10.  collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
+     
 
 (e) improperly make complaints or false reports on the Site;
 
@@ -675,15 +675,15 @@ As noted above in Section 46(a), Epic does not use Your Content and does not lic
 
 **Algorithmic Featuring**. When Epic features Content algorithmically, the main parameters that factor into its featuring include:
 
-* User-applied filters (like price, publication date, relevant promotions, Content software, Content license, Content authorship, alphabetical order, and Content category)
-* User text search terms
-* Content page views
-* Wishlists
-* Number of sales to users
-* Revenue
-* User-submitted ratings
-* Content rating
-* User region language preferences
+*   User-applied filters (like price, publication date, relevant promotions, Content software, Content license, Content authorship, alphabetical order, and Content category)
+*   User text search terms
+*   Content page views
+*   Wishlists
+*   Number of sales to users
+*   Revenue
+*   User-submitted ratings
+*   Content rating
+*   User region language preferences
 
 The Marketplace uses the parameters described above to algorithmically determine user search results and the following lists: (i) Trending; (ii) Best Selling; (iii) Special Offers; (iv) Top Rated; (v) Free; (vi) Latest; and (vii) Following.
 
