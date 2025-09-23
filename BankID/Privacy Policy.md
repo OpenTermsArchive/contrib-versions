@@ -1,14 +1,14 @@
 **Contents:**
 
-* 1\. General
-* 2\. Who we are
-* 3\. How your personal data is gathered
-* 4\. How your personal data is processed
-* 5\. How your data is shared
-* 6\. How your data is protected
-* 7\. Your rights
-* 8\. Data transfer
-* 9\. Changes
+*   1\. General
+*   2\. Who we are
+*   3\. How your personal data is gathered
+*   4\. How your personal data is processed
+*   5\. How your data is shared
+*   6\. How your data is protected
+*   7\. Your rights
+*   8\. Data transfer
+*   9\. Changes
 
 Privacy policy, BankID service
 ==============================
@@ -19,15 +19,15 @@ Version 1.6, 01-05-2023
 
 **Contents:**
 
-* 1\. General
-* 2\. Who we are
-* 3\. How your personal data is gathered
-* 4\. How your personal data is processed
-* 5\. How your data is shared
-* 6\. How your data is protected
-* 7\. Your rights
-* 8\. Data transfer
-* 9\. Changes
+*   1\. General
+*   2\. Who we are
+*   3\. How your personal data is gathered
+*   4\. How your personal data is processed
+*   5\. How your data is shared
+*   6\. How your data is protected
+*   7\. Your rights
+*   8\. Data transfer
+*   9\. Changes
 
 1\. General
 -----------
@@ -93,23 +93,23 @@ The purpose of the data processing Is to maintain the Service and to be able to 
 Categories of personal data:  
 The personal data we process relates to:
 
-* First name, last name and personal ID number,
+*   First name, last name and personal ID number,
     
-* The Bank that issued your BankID,
+*   The Bank that issued your BankID,
     
-* The e-service provider with which you have identified yourself or signed documents with,
+*   The e-service provider with which you have identified yourself or signed documents with,
     
-* If applicable, depending on where you use your BankID, the name of the e-service provider may reveal so-called sensitive personal data about you, such as ethnic origin, political, religious or philosophical beliefs, trade union membership, or data concerning health or sexuality,
+*   If applicable, depending on where you use your BankID, the name of the e-service provider may reveal so-called sensitive personal data about you, such as ethnic origin, political, religious or philosophical beliefs, trade union membership, or data concerning health or sexuality,
     
-* Technical information at issuance or use, such as time, IP address, type of BankID and type and version of mobile phone or computer,
+*   Technical information at issuance or use, such as time, IP address, type of BankID and type and version of mobile phone or computer,
     
-* Information on the ID document (type of ID document; Swedish passport or national ID card) and MRZ code where applicable,
+*   Information on the ID document (type of ID document; Swedish passport or national ID card) and MRZ code where applicable,
     
-* Information on consenting to us sending notification messages to you via your mobile phone's notification function;
+*   Information on consenting to us sending notification messages to you via your mobile phone's notification function;
     
-* Geographic location information at the time you acquire or use your BankID, and
+*   Geographic location information at the time you acquire or use your BankID, and
     
-* Where applicable, note obstacles to the issuance of new BankIDs based on your Swedish personal identity number.
+*   Where applicable, note obstacles to the issuance of new BankIDs based on your Swedish personal identity number.
     
 
 Legal basis:  
@@ -129,23 +129,23 @@ The purpose of the data processing Is to give existing customers of the Bank the
 Categories of personal data:  
 The personal data we process relates to:
 
-* First name, last name and personal ID number,
+*   First name, last name and personal ID number,
     
-* The Bank performing the online identification,
+*   The Bank performing the online identification,
     
-* Technical information for the online identification, such as time, IP address, and version of mobile phone or computer,
+*   Technical information for the online identification, such as time, IP address, and version of mobile phone or computer,
     
-* Information on the ID document (type of ID document; Swedish passport or national ID card) and MRZ code, where applicable;
+*   Information on the ID document (type of ID document; Swedish passport or national ID card) and MRZ code, where applicable;
     
-* The validity of the ID document at the time,
+*   The validity of the ID document at the time,
     
-* Original photo (i.e. photo from the ID document),
+*   Original photo (i.e. photo from the ID document),
     
-* Comparison photo (i.e. new photo of you),
+*   Comparison photo (i.e. new photo of you),
     
-* The result of the online identification, and
+*   The result of the online identification, and
     
-* Geographical location information at the time you perform the online identification.
+*   Geographical location information at the time you perform the online identification.
     
 
 Legal basis:  
@@ -165,15 +165,15 @@ The purpose of the data processing Is to add a digital ID card to the BankID app
 Categories of personal data:  
 The personal data we process relates to:
 
-* First name, last name, age, original photo and personal identity number,
+*   First name, last name, age, original photo and personal identity number,
     
-* Which e-service provider you have identified yourself with,
+*   Which e-service provider you have identified yourself with,
     
-* Technical information when using the digital ID card, such as time, IP address, and mobile phone version,
+*   Technical information when using the digital ID card, such as time, IP address, and mobile phone version,
     
-* Information on the ID document when you activated the digital ID card (type of ID document; Swedish passport or national ID card) the validity period of the ID document and MRZ code if applicable, and
+*   Information on the ID document when you activated the digital ID card (type of ID document; Swedish passport or national ID card) the validity period of the ID document and MRZ code if applicable, and
     
-* That the ID document is valid at the time.
+*   That the ID document is valid at the time.
     
 
 Legal basis:  
@@ -193,9 +193,9 @@ The purpose of the data processing Is, on behalf of the Bank, to produce, for ex
 Categories of personal data:  
 The personal data we process relates to:
 
-* IP address, and
+*   IP address, and
     
-* Other technical information generated when visiting our web pages, such as the type of technical device you used, browser, navigation on our pages and times of visits (browser information, the time zone from where you visited our website, other web traffic information).
+*   Other technical information generated when visiting our web pages, such as the type of technical device you used, browser, navigation on our pages and times of visits (browser information, the time zone from where you visited our website, other web traffic information).
     
 
 Legal basis:  
@@ -219,9 +219,9 @@ It is the Banks that have together decided which situations can form the basis f
 Categories of personal data:  
 The personal data we process relates to:
 
-* If applicable, a note on the blocking of the issuance of BankID based on your personal identification number and the date on which the blocking is automatically lifted; or
+*   If applicable, a note on the blocking of the issuance of BankID based on your personal identification number and the date on which the blocking is automatically lifted; or
     
-* If applicable, information on which BankID has been blocked and the date of the blocking.
+*   If applicable, information on which BankID has been blocked and the date of the blocking.
     
 
 Legal basis:  
@@ -239,11 +239,11 @@ The purpose of the data processing Is to carry out an additional reinforcement m
 Categories of personal data:  
 The personal data we process relates to:
 
-* Personal identity number,
+*   Personal identity number,
     
-* Information on ID document (type of ID document; Swedish passport or national ID card) and MRZ code if applicable, and
+*   Information on ID document (type of ID document; Swedish passport or national ID card) and MRZ code if applicable, and
     
-* That the ID document is valid at the time.
+*   That the ID document is valid at the time.
     
 
 Legal basis:  
@@ -261,9 +261,9 @@ The purpose of the data processing Is to analyse your user behaviour to prevent 
 Categories of personal data:  
 The personal data we process relates to:
 
-* The personal data processed under section 4.2,
+*   The personal data processed under section 4.2,
     
-* Information on how you use our Services,
+*   Information on how you use our Services,
     
 
 Legal basis:  
@@ -281,11 +281,11 @@ The purpose of the data processing Is to perform such register management as des
 Categories of personal data:  
 The personal data we process relates to information provided by the Swedish state personal address register (SPAR), which consists of:
 
-* Name;
+*   Name;
     
-* Personal identity number; and
+*   Personal identity number; and
     
-* Address.
+*   Address.
     
 
 Legal basis:  
@@ -332,28 +332,28 @@ Access to your personal data is limited to the categories of recipients that hav
 
 7.1.4 In certain cases, you have the right to request the immediate erasure of your personal data:
 
-* The personal data is no longer necessary for the purposes for which it was collected or otherwise processed;
+*   The personal data is no longer necessary for the purposes for which it was collected or otherwise processed;
     
-* The personal data processing is based on your consent and you withdraw your consent to the processing in question;
+*   The personal data processing is based on your consent and you withdraw your consent to the processing in question;
     
-* You object to processing being carried out on the basis of a balance of interests and your objection outweighs the Bank's, our or another party's legitimate interest in the processing;
+*   You object to processing being carried out on the basis of a balance of interests and your objection outweighs the Bank's, our or another party's legitimate interest in the processing;
     
-* The personal data has been processed unlawfully;
+*   The personal data has been processed unlawfully;
     
-* The personal data must be erased to fulfil a legal obligation.
+*   The personal data must be erased to fulfil a legal obligation.
     
 
 However, please note that your data may continue to be processed to the extent that the Bank or we have a legal basis to process your personal data, if for example it is necessary for the fulfilment of a contract with you or a legal obligation.
 
 7.1.5 You have the right to request that the processing of your personal data be restricted if:
 
-* You contest the accuracy of the personal data, for a period of time that allows the Bank or us to verify whether the data is accurate or not;
+*   You contest the accuracy of the personal data, for a period of time that allows the Bank or us to verify whether the data is accurate or not;
     
-* The processing is unlawful and you oppose the erasure of your personal data and instead request the restriction of its use;
+*   The processing is unlawful and you oppose the erasure of your personal data and instead request the restriction of its use;
     
-* The Bank or we no longer need to process the data for the purposes for which it was collected, while you need the data to establish, exercise or defend legal claims;
+*   The Bank or we no longer need to process the data for the purposes for which it was collected, while you need the data to establish, exercise or defend legal claims;
     
-* You have objected to the processing carried out on the basis of a balance of interests and are awaiting verification of whether your objection outweighs the legitimate interest of the Bank, us or another party in continuing the processing.
+*   You have objected to the processing carried out on the basis of a balance of interests and are awaiting verification of whether your objection outweighs the legitimate interest of the Bank, us or another party in continuing the processing.
     
 
 However, please note that your data may continue to be processed to the extent that the Bank or we have a legal basis to process your personal data, if for example it is necessary for the fulfilment of a contract with you or a legal obligation.
