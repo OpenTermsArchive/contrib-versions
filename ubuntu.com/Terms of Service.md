@@ -43,12 +43,12 @@ Links and third-party content
 
 This and any other websites hosted by Canonical may contain links to other websites and resources and third party content, for example, message board posts or blog comments. Canonical is not responsible for such content, or that of any linked websites. You will not remove or alter any third party's copyright or trademark notices or other identifier, except as allowed by the third-party's licence of that content. Should you reasonably believe that any third-party content you access through our websites is in breach of any law, regulation or third party's rights, you should notify Canonical in writing at the address below. In doing so, please:
 
-* identify the material which you believe to be infringing;
-* identify what you believe this material infringes and why;
-* provide your name, email address, address and telephone number;
-* confirm that you believe in good faith that this material is infringing a law or third party's rights and that, to the best of your knowledge, the information you are providing is correct;
-* identify if you are acting on behalf of the third party whose rights may have been infringed;
-* provide your physical or electronic signature.
+*   identify the material which you believe to be infringing;
+*   identify what you believe this material infringes and why;
+*   provide your name, email address, address and telephone number;
+*   confirm that you believe in good faith that this material is infringing a law or third party's rights and that, to the best of your knowledge, the information you are providing is correct;
+*   identify if you are acting on behalf of the third party whose rights may have been infringed;
+*   provide your physical or electronic signature.
 
 Package and licence list
 ------------------------
