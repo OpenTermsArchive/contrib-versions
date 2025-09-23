@@ -335,9 +335,9 @@ Categories of Data Subjects
 
 Customer Personal Data will concern the following categories of data subjects:
 
-* data subjects about whom Google collects personal data in its provision of the Processor Services; and/or
+*   data subjects about whom Google collects personal data in its provision of the Processor Services; and/or
     
-* data subjects about whom personal data is transferred to Google in connection with the Processor Services by, at the direction of, or on behalf of Customer.
+*   data subjects about whom personal data is transferred to Google in connection with the Processor Services by, at the direction of, or on behalf of Customer.
     
 
 Depending on the nature of the Processor Services, these data subjects may include individuals: (a) to whom online advertising has been, or will be, directed; (b) who have visited specific websites or applications in respect of which Google provides the Processor Services; and/or (c) who are customers or users of Customer’s products or services.
@@ -672,13 +672,13 @@ _30 May 2024_
 
 **Previous Versions**
 
-* [1 September 2023](https://kstatic.googleusercontent.com/files/37102bb611b6527b5f0f50d036a6dec5f9fc21b6df9a3fb4b36fc34ff156d3dddc0ca6392126d8fd6258d91d527e3ba4d8e8d8be88ee1a9ebda40c8420df8a34)
-* [1 July 2023](https://kstatic.googleusercontent.com/files/c0b55bfe1a6947dfba9722292599e93a68c8db3ba9014681e02d7ec3930a58c4f713ff1743e04c4db7112de3eeca02bf333bce0ba155a71a0373a647f97f430d)
-* [1 January 2023](https://kstatic.googleusercontent.com/files/f92144b084f3127939d03bb4c9bc8d3d02a691cb814f794b6e58252785939b298b3a4b7c4567b77573ad7ee5371f02854445d2d983224b4351c039a33a52d9c6)
-* [21 September 2022](https://kstatic.googleusercontent.com/files/baf7b2323f74430725d717b9d5e9e3b8ffc0d7cc44cb30133b28d3e39ef7e83268e5edf34e757eabe35287be5897268746e55fda9d4da6d6fc4ecec6b5615cf5)
-* [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
-* [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
-* [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
-* [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
-* [31 October 2019](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20191031.pdf)
-* [12 October 2017](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20171012.pdf)
+*   [1 September 2023](https://kstatic.googleusercontent.com/files/37102bb611b6527b5f0f50d036a6dec5f9fc21b6df9a3fb4b36fc34ff156d3dddc0ca6392126d8fd6258d91d527e3ba4d8e8d8be88ee1a9ebda40c8420df8a34)
+*   [1 July 2023](https://kstatic.googleusercontent.com/files/c0b55bfe1a6947dfba9722292599e93a68c8db3ba9014681e02d7ec3930a58c4f713ff1743e04c4db7112de3eeca02bf333bce0ba155a71a0373a647f97f430d)
+*   [1 January 2023](https://kstatic.googleusercontent.com/files/f92144b084f3127939d03bb4c9bc8d3d02a691cb814f794b6e58252785939b298b3a4b7c4567b77573ad7ee5371f02854445d2d983224b4351c039a33a52d9c6)
+*   [21 September 2022](https://kstatic.googleusercontent.com/files/baf7b2323f74430725d717b9d5e9e3b8ffc0d7cc44cb30133b28d3e39ef7e83268e5edf34e757eabe35287be5897268746e55fda9d4da6d6fc4ecec6b5615cf5)
+*   [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
+*   [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
+*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
+*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
+*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20191031.pdf)
+*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20171012.pdf)
