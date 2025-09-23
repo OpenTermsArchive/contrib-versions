@@ -18,8 +18,8 @@ This page explains the terms of use governing Spam.org and all related products 
 
 2.2 You can accept the Terms by:
 
-* (A) clicking to accept or agree to the Terms, where this option is made available to you by Spam.org in the user interface for any Service; or
-* (B) by using the Services. In this case, you understand and agree that Spam.org will treat your use of the Services as acceptance of the Terms from that point onwards.
+*   (A) clicking to accept or agree to the Terms, where this option is made available to you by Spam.org in the user interface for any Service; or
+*   (B) by using the Services. In this case, you understand and agree that Spam.org will treat your use of the Services as acceptance of the Terms from that point onwards.
 
 2.3 You may not use the Services and may not accept the Terms if (a) you are not of legal age to form a binding contract with Spam.org, or (b) you are a person barred from receiving the Services under the laws of the United States or other countries including the country in which you are resident or from which you use the Services.
 
@@ -131,11 +131,11 @@ This page explains the terms of use governing Spam.org and all related products 
 
 12.3 Spam.org may at any time, terminate its legal agreement with you if:
 
-* (A) you have breached any provision of the Terms (or have acted in manner which clearly shows that you do not intend to, or are unable to comply with the provisions of the Terms); or
-* (B) Spam.org is required to do so by law (for example, where the provision of the Services to you is, or becomes, unlawful); or
-* (C) the partner with whom Spam.org offered the Services to you has terminated its relationship with Spam.org or ceased to offer the Services to you; or
-* (D) Spam.org is transitioning to no longer providing the Services to users in the country in which you are resident or from which you use the service; or
-* (E) the provision of the Services to you by Spam.org is, in Spam.org’s opinion, no longer commercially viable.
+*   (A) you have breached any provision of the Terms (or have acted in manner which clearly shows that you do not intend to, or are unable to comply with the provisions of the Terms); or
+*   (B) Spam.org is required to do so by law (for example, where the provision of the Services to you is, or becomes, unlawful); or
+*   (C) the partner with whom Spam.org offered the Services to you has terminated its relationship with Spam.org or ceased to offer the Services to you; or
+*   (D) Spam.org is transitioning to no longer providing the Services to users in the country in which you are resident or from which you use the service; or
+*   (E) the provision of the Services to you by Spam.org is, in Spam.org’s opinion, no longer commercially viable.
 
 12.4 Nothing in this Section shall affect Spam.org’s rights regarding provision of Services under Section 4 of the Terms.
 
@@ -151,10 +151,10 @@ This page explains the terms of use governing Spam.org and all related products 
 
 13.2 IN PARTICULAR, SPAM.ORG, ITS PARENT COMPANIES OR SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT:
 
-* (A) YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS,
-* (B) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
-* (C) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, AND
-* (D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
+*   (A) YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS,
+*   (B) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
+*   (C) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, AND
+*   (D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
 
 13.3 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 
