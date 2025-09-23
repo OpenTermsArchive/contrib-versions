@@ -11,12 +11,12 @@ Overleaf is operated by Digital Science UK Ltd (formerly Writelatex Ltd), with r
 
 We collect personal data in the following ways:
 
-* **information you provide to us directly online.** For example, when you register to use Overleaf, complete one of our web forms, subscribe to updates or make a support request, we collect the personal data you provide, like your name, email address and other basic contact details / professional information. We will use this information to enable you to access and use Overleaf or fulfil the request you've made and to track and improve the quality of the services we provide, which may involve asking you about your experience with Overleaf. You may also provide us with additional information to access and use particular features within Overleaf, such as to populate your profile, which you may update within your account settings. More occasional examples could include where you respond to a survey, complete a support request or enter into a competition.
-* **information we collect from your use of Overleaf.** When you use Overleaf, we may collect information about that usage and other technical information, such as your IP address, browser type and any referring website addresses. We may combine this automatically collected log information with other information we collect about you and use it to keep a record of our interaction and to enable us to support, personalize and improve Overleaf. We may also collect this type of information using cookies and other similar technologies — please see our [cookie policy](https://www.overleaf.com/legal#Cookies) for further details.
-* **information you provide to us in person.** For example, when you visit one of our exhibition booths or attend one of our events, you may provide us with your contact details. We will use this information to answer your enquiries or provide other information requested by you.
-* **information we collect from our other interactions / business dealings.** For example, if you attend a webinar, contact us via social media or otherwise interact with our business, including as a representative of a current / prospective customer, supplier or business partner, we may track and make a record of those interactions, which may contain personal data. If you visit one of our offices, this may be captured on CCTV and used for security reasons; and photographs / videos may be taken at our events and used for promotional purposes, details of which will be available on request at the relevant site.
-* **information provided to us by other Overleaf users.** We may receive personal data (for example, your email address) from other Overleaf users or customers, for example if they have tried to share something with you or tried to refer Overleaf to you.
-* **information we collect from third parties or publicly available sources.** We may collect information you post online (e.g. social media) about us, our products/services and/or our industry (including our competitors), for market research and product improvement purposes.
+*   **information you provide to us directly online.** For example, when you register to use Overleaf, complete one of our web forms, subscribe to updates or make a support request, we collect the personal data you provide, like your name, email address and other basic contact details / professional information. We will use this information to enable you to access and use Overleaf or fulfil the request you've made and to track and improve the quality of the services we provide, which may involve asking you about your experience with Overleaf. You may also provide us with additional information to access and use particular features within Overleaf, such as to populate your profile, which you may update within your account settings. More occasional examples could include where you respond to a survey, complete a support request or enter into a competition.
+*   **information we collect from your use of Overleaf.** When you use Overleaf, we may collect information about that usage and other technical information, such as your IP address, browser type and any referring website addresses. We may combine this automatically collected log information with other information we collect about you and use it to keep a record of our interaction and to enable us to support, personalize and improve Overleaf. We may also collect this type of information using cookies and other similar technologies — please see our [cookie policy](https://www.overleaf.com/legal#Cookies) for further details.
+*   **information you provide to us in person.** For example, when you visit one of our exhibition booths or attend one of our events, you may provide us with your contact details. We will use this information to answer your enquiries or provide other information requested by you.
+*   **information we collect from our other interactions / business dealings.** For example, if you attend a webinar, contact us via social media or otherwise interact with our business, including as a representative of a current / prospective customer, supplier or business partner, we may track and make a record of those interactions, which may contain personal data. If you visit one of our offices, this may be captured on CCTV and used for security reasons; and photographs / videos may be taken at our events and used for promotional purposes, details of which will be available on request at the relevant site.
+*   **information provided to us by other Overleaf users.** We may receive personal data (for example, your email address) from other Overleaf users or customers, for example if they have tried to share something with you or tried to refer Overleaf to you.
+*   **information we collect from third parties or publicly available sources.** We may collect information you post online (e.g. social media) about us, our products/services and/or our industry (including our competitors), for market research and product improvement purposes.
 
 In all the above cases, where we have a relationship with you, we may also use the personal data we collect to manage and keep a record of that relationship and other business administration purposes you’d reasonably expect and, subject always to your preferences, to provide information we think may be of interest to you.
 
@@ -28,34 +28,34 @@ Unless we specifically request it, you should not provide us with any sensitive 
 
 In order to comply with European data privacy laws, we are required to set out the legal bases for our use of your personal data, which are as follows:
 
-* where you have given us your explicit consent, which you can withdraw at any time. For example, we rely on your consent to fulfill specific requests you’ve made, such as to receive our blog emails, or provide information you’ve opted-in to receive;
-* where the processing is necessary for the performance of our contract with you, or to enter into such a contract. For example, if you register to use Overleaf, we will need to use your details to set-up and administer your account;
-* where the processing is necessary to comply with our legal obligations; or
-* the processing is in our legitimate interests, provided these are not overridden by your individual rights. For example, we rely on our legitimate interests:
-    * to retain personal data that’s associated with content you’ve made public, so that personal information, associated with that content can be preserved.
-    * to contact you when you’ve not previously given us your consent to do so, such as to tell you about things that we think might be of interest to you, or to ask for your feedback or opinion on us or our products/services.
-    * to collect publicly available information, such as posts on social media, for market research and product improvement purposes.
-    * to use CCTV on our premises for security reasons.
-    * to combine the account, usage or other personal data we have collected in connection with Overleaf with data collected in connection with other Digital Science products to enable us to deliver an improved and more integrated overall service.
-    * to track usage and create aggregated or other non-personal data from your personal data.
+*   where you have given us your explicit consent, which you can withdraw at any time. For example, we rely on your consent to fulfill specific requests you’ve made, such as to receive our blog emails, or provide information you’ve opted-in to receive;
+*   where the processing is necessary for the performance of our contract with you, or to enter into such a contract. For example, if you register to use Overleaf, we will need to use your details to set-up and administer your account;
+*   where the processing is necessary to comply with our legal obligations; or
+*   the processing is in our legitimate interests, provided these are not overridden by your individual rights. For example, we rely on our legitimate interests:
+    *   to retain personal data that’s associated with content you’ve made public, so that personal information, associated with that content can be preserved.
+    *   to contact you when you’ve not previously given us your consent to do so, such as to tell you about things that we think might be of interest to you, or to ask for your feedback or opinion on us or our products/services.
+    *   to collect publicly available information, such as posts on social media, for market research and product improvement purposes.
+    *   to use CCTV on our premises for security reasons.
+    *   to combine the account, usage or other personal data we have collected in connection with Overleaf with data collected in connection with other Digital Science products to enable us to deliver an improved and more integrated overall service.
+    *   to track usage and create aggregated or other non-personal data from your personal data.
 
 ### Who we share your personal data with
 
 We may share your personal data within our corporate group on a confidential basis for our internal administrative, billing and other business purposes, and to fulfill a request that you might have made. We do not generally disclose or share personal data with third parties, except where it’s necessary for legitimate business reasons, such as:
 
-* to the agents, advisers and service providers that assist us in running / we use to administer our business;
-* to the subcontractors and service providers\* we use to provide and support Overleaf, including, for example, providers of hosting, security and infrastructure and customer support platforms;
-* if you express interest in an initiative we’re involved in, to other participants in such initiative;
-* if Overleaf is accessed, procured or used via, used to access or procure, or synced, integrated or connected with, other products or resources, to the provider of such products or resources;
-* if part of our business is sold to or integrated with another business, to our advisers and any prospective purchasers (and their advisers);
-* in such circumstances for which you have given your consent;
-* if necessary for the performance of the contract we have with you or in order to enforce any claims we are entitled to;
-* if required by law or ordered by a court;
-* if you register for a webinar or other event, to other attendees and co-organisers of that event;
-* in the case of your Overleaf profile, subject to your preferences (which you can change at any time, subject to limits on managed accounts), or details associated with content you’ve chosen to make public, to other users of Overleaf;
-* if someone else is paying for your account (for example, the university to which you belong) or you join a group on Overleaf, either by accepting an invitation to that group or by confirming your affiliation to that group (for example, by confirming your university email address), to administrators of that grouping (for example university staff), who may have access to information such as: your email address, profile information, and statistics on usage;
-* if you have registered using an organizational email address, to authorized representatives of that organization, so they can understand how Overleaf is being used at their organization and get in contact with you about your account (for example to make you aware of available upgrades), but limited to your email address and statistics on usage;
-* in the case of personal data you share in any Overleaf community services you participate in (for example blogs, forums, and wikis), to the public.
+*   to the agents, advisers and service providers that assist us in running / we use to administer our business;
+*   to the subcontractors and service providers\* we use to provide and support Overleaf, including, for example, providers of hosting, security and infrastructure and customer support platforms;
+*   if you express interest in an initiative we’re involved in, to other participants in such initiative;
+*   if Overleaf is accessed, procured or used via, used to access or procure, or synced, integrated or connected with, other products or resources, to the provider of such products or resources;
+*   if part of our business is sold to or integrated with another business, to our advisers and any prospective purchasers (and their advisers);
+*   in such circumstances for which you have given your consent;
+*   if necessary for the performance of the contract we have with you or in order to enforce any claims we are entitled to;
+*   if required by law or ordered by a court;
+*   if you register for a webinar or other event, to other attendees and co-organisers of that event;
+*   in the case of your Overleaf profile, subject to your preferences (which you can change at any time, subject to limits on managed accounts), or details associated with content you’ve chosen to make public, to other users of Overleaf;
+*   if someone else is paying for your account (for example, the university to which you belong) or you join a group on Overleaf, either by accepting an invitation to that group or by confirming your affiliation to that group (for example, by confirming your university email address), to administrators of that grouping (for example university staff), who may have access to information such as: your email address, profile information, and statistics on usage;
+*   if you have registered using an organizational email address, to authorized representatives of that organization, so they can understand how Overleaf is being used at their organization and get in contact with you about your account (for example to make you aware of available upgrades), but limited to your email address and statistics on usage;
+*   in the case of personal data you share in any Overleaf community services you participate in (for example blogs, forums, and wikis), to the public.
 
 \*\* We include appropriate confidentiality and security obligations in our contracts with our service providers and only permit them to process your personal data for specified purposes and in accordance with our instructions (not for their own purposes). Such service providers include: Netsuite, Inc. for billing (USA), Salesforce.com, LLC for customer relationship management (USA), Qualtrics LLC (USA) for product feedback, and may also include the third parties listed here.\*
 
@@ -73,9 +73,9 @@ We only keep your personal data for as long as it is necessary for the purposes 
 
 While we are based in the UK, parts of our operations and much of our product infrastructure is based elsewhere, including the United States. This means that in order to run our business and operate Overleaf, personal data may be transferred to the USA, as well as to other locations where our affiliates and service providers are based. Whenever we make such transfers, we will ensure an appropriate level of protection is afforded to your personal data, which in the case of personal data originating from the UK or the European Economic Area (“EEA”) shall involve implementing at least one of the following safeguards:
 
-* making sure the destination country has been deemed to provide an adequate level of protection for personal data;
-* by using model form contracts that have been officially declared to afford your personal data an appropriate protection;
-* relying on an alternative recognised compliance standard for the lawful transfer of personal data.
+*   making sure the destination country has been deemed to provide an adequate level of protection for personal data;
+*   by using model form contracts that have been officially declared to afford your personal data an appropriate protection;
+*   relying on an alternative recognised compliance standard for the lawful transfer of personal data.
 
 Please email us at [privacy@overleaf.com](mailto:privacy@overleaf.com) if you would like more information about these safeguards.
 
@@ -117,9 +117,9 @@ Please see our [cookie policy](https://www.overleaf.com/legal#Cookies) for infor
 
 Various data privacy laws give rights to individuals in respect of personal data that organisations hold about them. For example, under European data privacy laws, you may be entitled:
 
-* to request a copy of the personal data that we hold about you;
-* to object to the processing of your personal data; or
-* to request that your personal data is rectified or deleted, or its processing limited.
+*   to request a copy of the personal data that we hold about you;
+*   to object to the processing of your personal data; or
+*   to request that your personal data is rectified or deleted, or its processing limited.
 
 To make any requests regarding your personal data, please email us at [privacy@overleaf.com](mailto:privacy@overleaf.com). We will comply with any such requests as required in accordance with applicable law. Please be aware, however, that there are typically a number of limitations to these rights, and there may be circumstances where we’re not able to comply with your request.
 
