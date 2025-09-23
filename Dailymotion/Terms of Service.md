@@ -93,8 +93,8 @@ b) Dailymotion may use technical or other tools to maintain compliance of Conten
 
 5.7. Nothing herein shall exclude or limit Dailymotion’s liability for losses which may not be lawfully excluded or limited by applicable law. Subject to this overall provision above, Dailymotion shall not be liable for:
 
-* (a) any indirect or consequential losses which may be incurred by You, including (i) any loss of profit (whether incurred directly or indirectly); (ii) any loss of goodwill or business reputation; (iii) any loss of opportunity; or (iv) any loss of data suffered; or
-* (b) any loss or damage which may be incurred as a result of: (i) any reliance placed by You on the completeness, accuracy or existence of any advertising, or as a result of any relationship or transaction between You and any advertiser or sponsor whose advertising appears on the Dailymotion Service; (ii) any changes which Dailymotion may make to the Dailymotion Service, or for any permanent or temporary cessation in the provision of the Dailymotion Service (or any of its features); (iii) the deletion of, corruption of, or failure to store, any content and other communications data maintained or transmitted by or through Your use of the Dailymotion Service; (iv) Your failure to provide Dailymotion with accurate account information; or (v) Your failure to keep Your password or Your accounts details secure and confidential.
+*   (a) any indirect or consequential losses which may be incurred by You, including (i) any loss of profit (whether incurred directly or indirectly); (ii) any loss of goodwill or business reputation; (iii) any loss of opportunity; or (iv) any loss of data suffered; or
+*   (b) any loss or damage which may be incurred as a result of: (i) any reliance placed by You on the completeness, accuracy or existence of any advertising, or as a result of any relationship or transaction between You and any advertiser or sponsor whose advertising appears on the Dailymotion Service; (ii) any changes which Dailymotion may make to the Dailymotion Service, or for any permanent or temporary cessation in the provision of the Dailymotion Service (or any of its features); (iii) the deletion of, corruption of, or failure to store, any content and other communications data maintained or transmitted by or through Your use of the Dailymotion Service; (iv) Your failure to provide Dailymotion with accurate account information; or (v) Your failure to keep Your password or Your accounts details secure and confidential.
 
 5.8. The limitations on Dailymotion’s liability defined in this Section shall apply whether or not Dailymotion has been advised of or should have been aware of the possibility of any such losses arising.
 
@@ -105,24 +105,24 @@ Some jurisdictions limit or do not allow the disclaimer of warranties or damages
 
 6.1. Considering the user-driven nature of the Dailymotion Service, You are responsible for Your use of the Dailymotion Service, Your Dailymotion Account and/or the Content You upload to Dailymotion. In this regard, You warrant as an essential condition that Your use of the Dailymotion Service, Your Dailymotion Account and/or Your Content, and any images, data and/or text which You may disseminate through the Dailymotion Service:
 
-* (i) do not violate any applicable laws or regulations, including trade restrictions, and/or do not display, incite, promote illegal activities.
-* (ii) do not contain child pornography, sexual abuse or any type of sexually explicit content.
-* (iii) do not infringe intellectual property rights of any third-party (including but not limited to sound, music, excerpts from any animated or non-animated television shows, short, medium-length and/or feature-length films, brand, logo, advertisement or any other material that You have not created Yourself or for which You do not have the necessary clearances and permissions from third-party rights owners or copyright royalty collection organizations).
-* (iv) do not violate:
-    * Human rights (including incitement to hatred on the basis of the origin, religion, sexual orientation, gender, gender identity or disability of an individual or group of individuals, denying the commission of any crimes against humanity or acts that violate human dignity).
-    * Individual rights (in particular by spreading defamatory, slanderous or offensive material in the form of threats, intimidation, bullying, harassment).
-    * Publicity and privacy rights (in particular impersonation of an individual or a legal person).
-    * Personal information rights.
-* (v) do not support or promote:
-    * any organizations or individuals that proclaim a violent mission or are engaged in violence. This includes organizations or individuals involved in terrorism, organized hatred against other groups of individuals, human trafficking and organized criminality.
-    * the commission of violent extremist or terrorist acts.
-    * violence and all other dangerous activities.
-* (vi) do not contain verifiably false or misleading information which:
-    * is created, presented and disseminated for economic gain or to intentionally deceive the public; and/or
-    * may cause public harm, or is intended as threatening to democratic political and policymaking processes as well as to the public good such as to public health, to the environment or to the security of persons.
-* (vii) are not spam or any other deceptive practices designed to abuse or mislead a Visitor (this includes excessively lengthy content, or content that forces unwanted and/or unsolicited actions, whether automated or manual, which falsely increase the number of views, impression or clicks associated with Your Content).
-* (viii) do not abuse the reporting or complaint features, in particular with a view to making unfounded or fictitious claims or accusations.
-* (ix) do not consist of scraping, collecting, searching, downloading, copying or otherwise accessing Content or data in unauthorized ways, such as by using automated means (without our express prior permission), or accessing or attempting to access data you do not have permission to access.
+*   (i) do not violate any applicable laws or regulations, including trade restrictions, and/or do not display, incite, promote illegal activities.
+*   (ii) do not contain child pornography, sexual abuse or any type of sexually explicit content.
+*   (iii) do not infringe intellectual property rights of any third-party (including but not limited to sound, music, excerpts from any animated or non-animated television shows, short, medium-length and/or feature-length films, brand, logo, advertisement or any other material that You have not created Yourself or for which You do not have the necessary clearances and permissions from third-party rights owners or copyright royalty collection organizations).
+*   (iv) do not violate:
+    *   Human rights (including incitement to hatred on the basis of the origin, religion, sexual orientation, gender, gender identity or disability of an individual or group of individuals, denying the commission of any crimes against humanity or acts that violate human dignity).
+    *   Individual rights (in particular by spreading defamatory, slanderous or offensive material in the form of threats, intimidation, bullying, harassment).
+    *   Publicity and privacy rights (in particular impersonation of an individual or a legal person).
+    *   Personal information rights.
+*   (v) do not support or promote:
+    *   any organizations or individuals that proclaim a violent mission or are engaged in violence. This includes organizations or individuals involved in terrorism, organized hatred against other groups of individuals, human trafficking and organized criminality.
+    *   the commission of violent extremist or terrorist acts.
+    *   violence and all other dangerous activities.
+*   (vi) do not contain verifiably false or misleading information which:
+    *   is created, presented and disseminated for economic gain or to intentionally deceive the public; and/or
+    *   may cause public harm, or is intended as threatening to democratic political and policymaking processes as well as to the public good such as to public health, to the environment or to the security of persons.
+*   (vii) are not spam or any other deceptive practices designed to abuse or mislead a Visitor (this includes excessively lengthy content, or content that forces unwanted and/or unsolicited actions, whether automated or manual, which falsely increase the number of views, impression or clicks associated with Your Content).
+*   (viii) do not abuse the reporting or complaint features, in particular with a view to making unfounded or fictitious claims or accusations.
+*   (ix) do not consist of scraping, collecting, searching, downloading, copying or otherwise accessing Content or data in unauthorized ways, such as by using automated means (without our express prior permission), or accessing or attempting to access data you do not have permission to access.
 
 6.2. By uploading or disseminating images, data, and/or text to or through Dailymotion Service, You expressly warrant that You are not uploading any material violating the restrictions defined in Section 6.1. and that You have obtained all necessary rights and/or authorizations and/or consents from the copyright owner(s) and/or any other relevant rightsholders and have paid any royalties or other fees pursuant to any licenses or permissions needed to upload and distribute Your Content on the Dailymotion Service in accordance with the Terms.
 
@@ -238,21 +238,21 @@ We define pornography as any particularly obscene content which is displayed to 
 
 In particular, it is forbidden for our Users to post online any content:
 
-* Representing pornographic scenes (real, animated and/or illustrated);
-* Representing sexual acts in an explicit manner;
-* Representing any form of nudity in a sexual context;
-* Involving non-consensual sexual acts or unwanted sexualization;
-* Which is appeals to sexual fetishes;
-* Depicting sexual gestures such as masturbation or erotic touching;
-* Depicting incestuous scenes or advocating incest;
-* Involving staged sexual acts;
-* Involving sexual acts with animals (zoophilia);
-* Representing and/or involving pimping;
-* Published as a form revenge porn and/or sextortion of a minor or adult;
-* Showing genitals, breasts, buttocks, whether clothed or unclothed, in an evocative manner, meaning images or representations of nudity that, while not explicitly pornographic, can provoke or encourage interpretations with sexual connotations through poses, angles, or staging that may create an erotic atmosphere ;
-* Using or displaying sex toys in an explicit context;
-* Threatening or encouraging sexual assault or sexual exploitation; or
-* Promoting non-consensual sexual acts.
+*   Representing pornographic scenes (real, animated and/or illustrated);
+*   Representing sexual acts in an explicit manner;
+*   Representing any form of nudity in a sexual context;
+*   Involving non-consensual sexual acts or unwanted sexualization;
+*   Which is appeals to sexual fetishes;
+*   Depicting sexual gestures such as masturbation or erotic touching;
+*   Depicting incestuous scenes or advocating incest;
+*   Involving staged sexual acts;
+*   Involving sexual acts with animals (zoophilia);
+*   Representing and/or involving pimping;
+*   Published as a form revenge porn and/or sextortion of a minor or adult;
+*   Showing genitals, breasts, buttocks, whether clothed or unclothed, in an evocative manner, meaning images or representations of nudity that, while not explicitly pornographic, can provoke or encourage interpretations with sexual connotations through poses, angles, or staging that may create an erotic atmosphere ;
+*   Using or displaying sex toys in an explicit context;
+*   Threatening or encouraging sexual assault or sexual exploitation; or
+*   Promoting non-consensual sexual acts.
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
@@ -267,18 +267,18 @@ Any sexually explicit content featuring children or representing any form of exp
 
 In particular, it is forbidden for our Users to post online any content:
 
-* Sexually representing children;
-* Representing and/or promoting incest or pedophilia;
-* Depicting children as victims of sexual abuse;
-* Providing instructions or inviting participation in any sexual assault of children;
-* Aiming to sexually exploit or solicit children, including by threatening to expose intimate images or information (grooming, sextortion, etc.);
-* Inciting a minor to perform an act of a sexual nature on himself or on another person;
-* Constituting porn-disclosure involving minors, more commonly known as “revenge porn”;
-* Sexualizing children;
-* Depicting children in a sexual context;
-* Involving abuse or harassment of children (verbal, physical and/or psychological abuse);
-* Constituting acts considered as bullying; or
-* Representing a child in a dangerous situation.
+*   Sexually representing children;
+*   Representing and/or promoting incest or pedophilia;
+*   Depicting children as victims of sexual abuse;
+*   Providing instructions or inviting participation in any sexual assault of children;
+*   Aiming to sexually exploit or solicit children, including by threatening to expose intimate images or information (grooming, sextortion, etc.);
+*   Inciting a minor to perform an act of a sexual nature on himself or on another person;
+*   Constituting porn-disclosure involving minors, more commonly known as “revenge porn”;
+*   Sexualizing children;
+*   Depicting children in a sexual context;
+*   Involving abuse or harassment of children (verbal, physical and/or psychological abuse);
+*   Constituting acts considered as bullying; or
+*   Representing a child in a dangerous situation.
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context.
@@ -297,15 +297,15 @@ Dailymotion has elaborated rules and tools aimed at protecting its Visitors and,
 
 By Sensitive Content, we mean any video that may offend the sensibilities of young audiences and in particular any video:
 
-* Presenting scenes of nudity ;
-* Promoting sexual challenges;
-* Depicting violent scenes of war;
-* With a sexual theme or involving sexual activity;
-* With a suggestive and/or sexual title or description;
-* Including depictions of violence;
-* Presenting a real medical procedure (heart massage, surgery, etc.);
-* Presenting accidents (air crash, traffic accident, etc.); or
-* Presenting scenes of animal cruelty
+*   Presenting scenes of nudity ;
+*   Promoting sexual challenges;
+*   Depicting violent scenes of war;
+*   With a sexual theme or involving sexual activity;
+*   With a suggestive and/or sexual title or description;
+*   Including depictions of violence;
+*   Presenting a real medical procedure (heart massage, surgery, etc.);
+*   Presenting accidents (air crash, traffic accident, etc.); or
+*   Presenting scenes of animal cruelty
 
 The above list is not exhaustive.
 
@@ -323,18 +323,18 @@ Such hateful content may take the form of outrageous expression, terms of contem
   
 In particular, it is forbidden for our Users to post any content:
 
-* Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above;
-* Stigmatizing a person or group of persons by gratuitously criticizing or attacking their actual or perceived religion, faith, beliefs or sexual orientation; 
-* Relaying hateful, insulting or humiliating speech or acts targeting, for example, the religious affiliation, gender, skin color, sexual orientation, or disability of one or more groups of people;
-* Dehumanizing and/or demeaning to a person or group of persons, including implying that they are inferior;
-* Abusing or defaming a person or group of persons on the basis of personal attribute(s) or characteristics;
-* Encouraging, supporting or glorifying hateful ideologies (such as antisemitism, racism, white supremacism, anti-LGBTQIA+ activism…) or proclaiming the superiority and/or dominance of one group of people over others;
-* Defending conspiracy theories that a person or group of people is dishonest or malicious;
-* Using stereotypes based on personal attributes or characteristics which incite hatred;
-* Conveying discriminatory, hostile, mocking and/or contemptuous messages, images and/or statements towards overweight, obese or anorexic people; 
-* Encouraging, supporting, or promoting conversion therapy or any other practice aimed at changing or repressing a person’s actual or perceived sexual orientation or gender identity;
-* Undermining human dignity; or
-* Contributing to the exploitation of people (such as content depicting forced labor, domestic servitude, human trafficking for sexual exploitation, slavery and/or pimping).
+*   Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above;
+*   Stigmatizing a person or group of persons by gratuitously criticizing or attacking their actual or perceived religion, faith, beliefs or sexual orientation; 
+*   Relaying hateful, insulting or humiliating speech or acts targeting, for example, the religious affiliation, gender, skin color, sexual orientation, or disability of one or more groups of people;
+*   Dehumanizing and/or demeaning to a person or group of persons, including implying that they are inferior;
+*   Abusing or defaming a person or group of persons on the basis of personal attribute(s) or characteristics;
+*   Encouraging, supporting or glorifying hateful ideologies (such as antisemitism, racism, white supremacism, anti-LGBTQIA+ activism…) or proclaiming the superiority and/or dominance of one group of people over others;
+*   Defending conspiracy theories that a person or group of people is dishonest or malicious;
+*   Using stereotypes based on personal attributes or characteristics which incite hatred;
+*   Conveying discriminatory, hostile, mocking and/or contemptuous messages, images and/or statements towards overweight, obese or anorexic people; 
+*   Encouraging, supporting, or promoting conversion therapy or any other practice aimed at changing or repressing a person’s actual or perceived sexual orientation or gender identity;
+*   Undermining human dignity; or
+*   Contributing to the exploitation of people (such as content depicting forced labor, domestic servitude, human trafficking for sexual exploitation, slavery and/or pimping).
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
@@ -351,11 +351,11 @@ Dailymotion strictly prohibits any content legitimizing, glorifying, normalizing
 
 In particular, our Users are forbidden to post online any content:
 
-* Advocating or denying, minimizing and/or trivializing crimes of genocide committed against the Jewish community during the Second World War;
-* Advocating war crimes, crimes against humanity, crimes of enslavement or exploitation of a person reduced to slavery, or crimes of collaboration with the enemy, even if these crimes have not led to the conviction of their perpetrators;
-* Denying, minimizing, and/or trivializing, including in disguised or doubtful form or by way of insinuation, any other genocide against humanity, the crime of enslavement or exploitation of a person reduced to slavery or war crimes which have given rise to a criminal conviction by a French or international court
-* Advocating intentional attacks on life or personal integrity and/or sexual assault; or
-* Advocating aggravated robbery, extortion, destruction, degradation, and/or voluntary deterioration which may endanger people (vandalism, fire, etc.).
+*   Advocating or denying, minimizing and/or trivializing crimes of genocide committed against the Jewish community during the Second World War;
+*   Advocating war crimes, crimes against humanity, crimes of enslavement or exploitation of a person reduced to slavery, or crimes of collaboration with the enemy, even if these crimes have not led to the conviction of their perpetrators;
+*   Denying, minimizing, and/or trivializing, including in disguised or doubtful form or by way of insinuation, any other genocide against humanity, the crime of enslavement or exploitation of a person reduced to slavery or war crimes which have given rise to a criminal conviction by a French or international court
+*   Advocating intentional attacks on life or personal integrity and/or sexual assault; or
+*   Advocating aggravated robbery, extortion, destruction, degradation, and/or voluntary deterioration which may endanger people (vandalism, fire, etc.).
 
 The above list is not exhaustive and applies to all types of content.
 
@@ -374,16 +374,16 @@ Dailymotion prohibits the dissemination of false, distorted, misleading, and/or 
 
 In particular, it is forbidden for our Users to post online any content:
 
-* Carrying a risk of major harm by presenting, illustrating, or evoking an event with deceiving elements which relate to a separate event (videos, photos, etc.);
-* Presenting manifestly false or inaccurate allegations and/or imputations that may interfere with or alter the fairness of elections and/or censuses;
-* Making false claims in order to delegitimize the results of elections;
-* Disseminating false information or rumors that may present a direct risk of injury and/or physical violence to others;
-* Including false information that may be harmful to the health of others;
-* Disseminating conspiracy theories that disturb or may disturb public peace;
-* Containing false medical information that contradicts that of local health authorities and/or the World Health Organization (WHO);
-* Containing exaggerated promises, such as claiming that a miracle treatment can cure chronic diseases such as cancer and diabetes;
-* Altered or edited in order to mislead Users (beyond the extracts taken out of context) and which may present a significant risk of major harm; or
-* Created or modified using artificial intelligence for the purposes of manipulation, disinformation, humiliation, defamation.
+*   Carrying a risk of major harm by presenting, illustrating, or evoking an event with deceiving elements which relate to a separate event (videos, photos, etc.);
+*   Presenting manifestly false or inaccurate allegations and/or imputations that may interfere with or alter the fairness of elections and/or censuses;
+*   Making false claims in order to delegitimize the results of elections;
+*   Disseminating false information or rumors that may present a direct risk of injury and/or physical violence to others;
+*   Including false information that may be harmful to the health of others;
+*   Disseminating conspiracy theories that disturb or may disturb public peace;
+*   Containing false medical information that contradicts that of local health authorities and/or the World Health Organization (WHO);
+*   Containing exaggerated promises, such as claiming that a miracle treatment can cure chronic diseases such as cancer and diabetes;
+*   Altered or edited in order to mislead Users (beyond the extracts taken out of context) and which may present a significant risk of major harm; or
+*   Created or modified using artificial intelligence for the purposes of manipulation, disinformation, humiliation, defamation.
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
@@ -399,16 +399,16 @@ For more information on this type of content, you can read the dedicated article
 Dailymotion prohibits any content that advocates or promotes violent extremist and/or terrorist organizations, individuals, or acts.  
 In particular, our Users are forbidden to post online any content:
 
-* Provoking the commission of terrorist offences or violent extremist acts or glorifying such offences;
-* Encouraging participation in terrorist offences;
-* Praising, glorifying, and/or supporting the acts of violent extremist and/or terrorist individuals or groups
-* Supporting terrorist and/or violent extremist ideologies;
-* Encouraging people to join violent extremist and/or terrorist organizations;
-* Providing instructions on methods or techniques for the commission of terrorist offences;
-* Containing images, sounds or symbols (such as names, logos, flags, slogans, uniforms, gestures, pictures, or other objects) intended to depict violent extremist and/or terrorist organizations or individuals;
-* Emanating from criminal, violent, extremist, or terrorist organizations;
-* Depicting one or more hostages; or
-* Posted online with the aim of soliciting, threatening, or intimidating people on behalf of a criminal, violent, extremist, or terrorist organization.
+*   Provoking the commission of terrorist offences or violent extremist acts or glorifying such offences;
+*   Encouraging participation in terrorist offences;
+*   Praising, glorifying, and/or supporting the acts of violent extremist and/or terrorist individuals or groups
+*   Supporting terrorist and/or violent extremist ideologies;
+*   Encouraging people to join violent extremist and/or terrorist organizations;
+*   Providing instructions on methods or techniques for the commission of terrorist offences;
+*   Containing images, sounds or symbols (such as names, logos, flags, slogans, uniforms, gestures, pictures, or other objects) intended to depict violent extremist and/or terrorist organizations or individuals;
+*   Emanating from criminal, violent, extremist, or terrorist organizations;
+*   Depicting one or more hostages; or
+*   Posted online with the aim of soliciting, threatening, or intimidating people on behalf of a criminal, violent, extremist, or terrorist organization.
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.  
@@ -423,19 +423,19 @@ Dailymotion strictly prohibits any macabre, sadistic, threatening, violent, or h
   
 In particular, it is forbidden for our Users to post online any content:
 
-* Likely to endanger others and in particular any content encouraging, promoting, or glorifying:
-    * Hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
-    * Suicide, self-harm and/or eating disorders;
-    * And in general, all practices that may harm the physical or mental integrity of the individual
-* Using excessively vulgar or offensive language;
-* Offering the sale, purchase or trade of products and services that are prohibited for sale (firearms, explosives, drugs etc.);
-* Infringing on the regulations applicable to the sale, purchase, canvassing, or trading of products and services that are regulated or prohibited for sale (firearms, explosives, ammunition, drugs, alcohol etc.);
-* Undermining the regulations applicable to games of chance and gambling;
-* Encouraging, supporting or promoting animal torture and/or any form of cruelty to animals;
-* Containing explicit or gruesome images of violence or serious physical harm (torture, fighting, slitting of throats, dismemberment, mutilation, human remains etc.);
-* Praise and/or incitement to join a cult or a sectarian movement;
-* Inciting violence, including any speech or action that encourages or incites the commission of violent acts or the use of force to resolve a conflict or achieve objectives such as calls to action;
-* Promoting, encouraging or providing instructions on criminal activities, violence against persons, animals or property.
+*   Likely to endanger others and in particular any content encouraging, promoting, or glorifying:
+    *   Hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
+    *   Suicide, self-harm and/or eating disorders;
+    *   And in general, all practices that may harm the physical or mental integrity of the individual
+*   Using excessively vulgar or offensive language;
+*   Offering the sale, purchase or trade of products and services that are prohibited for sale (firearms, explosives, drugs etc.);
+*   Infringing on the regulations applicable to the sale, purchase, canvassing, or trading of products and services that are regulated or prohibited for sale (firearms, explosives, ammunition, drugs, alcohol etc.);
+*   Undermining the regulations applicable to games of chance and gambling;
+*   Encouraging, supporting or promoting animal torture and/or any form of cruelty to animals;
+*   Containing explicit or gruesome images of violence or serious physical harm (torture, fighting, slitting of throats, dismemberment, mutilation, human remains etc.);
+*   Praise and/or incitement to join a cult or a sectarian movement;
+*   Inciting violence, including any speech or action that encourages or incites the commission of violent acts or the use of force to resolve a conflict or achieve objectives such as calls to action;
+*   Promoting, encouraging or providing instructions on criminal activities, violence against persons, animals or property.
 
 The above list is not exhaustive and applies to all types of content.  
 Certain content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
@@ -454,15 +454,15 @@ Dailymotion prohibits the diffusion of misleading or fraudulent content. Indeed,
 
 In particular, it is forbidden for our Users to post online any content:
 
-* Constituting financial or investment-related scams (sale of fake products or services, get-rich-quick scams, fake charities, etc.);
-* Offering to buy or sell personal information (such as the sale of credentials to access paid subscription services);
-* Aiming to defraud Users, in particular by making exaggerated and unrealistic promises (miraculous treatment can cure diseases, miracle diets, promises of quick money, etc.);
-* Automatically generated by computers (bots) that can impact the quality or user experience;
-* That misleadingly, automatically, or deceptively redirects to external content;
-* Posted with the aim of artificially increasing metrics (number of subscribers, “likes”, number of views, etc.);
-* Does not match its metadata, thumbnails, title, and/or description;
-* Intended to entice Users to install malicious and/or deceptive applications, programs, or software; or
-* Repeatedly posted on/through different media (videos, channels, accounts, etc.).
+*   Constituting financial or investment-related scams (sale of fake products or services, get-rich-quick scams, fake charities, etc.);
+*   Offering to buy or sell personal information (such as the sale of credentials to access paid subscription services);
+*   Aiming to defraud Users, in particular by making exaggerated and unrealistic promises (miraculous treatment can cure diseases, miracle diets, promises of quick money, etc.);
+*   Automatically generated by computers (bots) that can impact the quality or user experience;
+*   That misleadingly, automatically, or deceptively redirects to external content;
+*   Posted with the aim of artificially increasing metrics (number of subscribers, “likes”, number of views, etc.);
+*   Does not match its metadata, thumbnails, title, and/or description;
+*   Intended to entice Users to install malicious and/or deceptive applications, programs, or software; or
+*   Repeatedly posted on/through different media (videos, channels, accounts, etc.).
 
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the possibility to reduce the visibility of such content.
@@ -477,22 +477,22 @@ Dailymotion prohibits any copyright-infringing content. The distribution of any 
 
 In particular, it is forbidden for our Users to post online any content including all or part of:
 
-* Pre-existing music and/or songs (recordings, soundtracks of films, series, etc.);
-* Audiovisual works (film, series, video clips, TV show, advertisement etc.),
-* Dramatic works (play, opera, musical, performance and other live shows);
-* Graphic and plastic works (painting, sculpture, photography, architecture, design, comics, manga, illustration, graffiti, digital creation, etc.);
-* Video games; or
-* Written works (literary works, courses, press articles, poetry collections, etc.);
+*   Pre-existing music and/or songs (recordings, soundtracks of films, series, etc.);
+*   Audiovisual works (film, series, video clips, TV show, advertisement etc.),
+*   Dramatic works (play, opera, musical, performance and other live shows);
+*   Graphic and plastic works (painting, sculpture, photography, architecture, design, comics, manga, illustration, graffiti, digital creation, etc.);
+*   Video games; or
+*   Written works (literary works, courses, press articles, poetry collections, etc.);
 
 of which the User is not the author and for the distribution of which no necessary authorization has been obtained.
 
 However, it should be noted that:
 
-* The notion of ‘work’ is extremely broad. Indeed, originality of a work is the only condition to access copyright protection, without the merit of the work and/or its destination being relevant. Thus, the User must bear in mind that all content is potentially subject to copyright protection and therefore its exploitation must be authorized;
-* The exploitation of a work that has fallen into the public domain may remain subject to certain requirements. However, note that:
-    * It must always respect the moral rights (which remains even after entering the public domain), and
-    * The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
-* That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following link : [Exceptions to copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright)) which must always be interpreted strictly.
+*   The notion of ‘work’ is extremely broad. Indeed, originality of a work is the only condition to access copyright protection, without the merit of the work and/or its destination being relevant. Thus, the User must bear in mind that all content is potentially subject to copyright protection and therefore its exploitation must be authorized;
+*   The exploitation of a work that has fallen into the public domain may remain subject to certain requirements. However, note that:
+    *   It must always respect the moral rights (which remains even after entering the public domain), and
+    *   The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
+*   That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following link : [Exceptions to copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright)) which must always be interpreted strictly.
 
 Any User who violates the rules set out above and/or encourages their violation is liable to the consequences set out in Section III. For more information on this type of content, you can read our dedicated article on our Help Center.
 
@@ -501,26 +501,26 @@ Any User who violates the rules set out above and/or encourages their violation 
 Dailymotion prohibits the diffusion of any content that threatens, offends, and/or insults any person and/or infringes on their rights.  
 In particular, our Users are prohibited from posting any content online:
 
-1. Participating in any form of harassment, including:  
+1.  Participating in any form of harassment, including:  
     • cyber-harassment of a person or “pack harassment” (i.e. publications by several authors of violent remarks made against the same target), and  
     • sexual or sexist language or behavior that violates dignity by being degrading or humiliating or creates an intimidating, hostile or offensive situation. Sexual harassment is the use, even if not repeated, of any form of serious pressure with the real or apparent aim of obtaining an act of a sexual nature, whether this is sought for the benefit of the perpetrator or for a third party;  
     
-2. Constituting any form of insult, and in particular:  
+2.  Constituting any form of insult, and in particular:  
     • Using particularly vulgar or offensive language in an insulting manner towards one or more persons, or  
     • Including any term of contempt, insulting expression, and/or violent or coarse insult seeking to belittle and/or undermine honor or sensitivity;  
     
-3. Constituting any form of threat, including:  
+3.  Constituting any form of threat, including:  
     • Presenting threats of blackmail and/or hacking into another person’s account,  
     • Including any form of threat to a person’s physical integrity and/or property, or  
     • Aiming to intimidate or threatening to reveal information relating to privacy, personal data, and, in particular, information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxing));  
     
-4. Disclosing personal information and, in general, any personal data without the permission of the person concerned and in the absence of another applicable legal basis;  
+4.  Disclosing personal information and, in general, any personal data without the permission of the person concerned and in the absence of another applicable legal basis;  
     
-5. Infringing on the privacy and/or image of a given person;  
+5.  Infringing on the privacy and/or image of a given person;  
     
-6. Including defamatory statements; or  
+6.  Including defamatory statements; or  
     
-7. Infringing on the rights of the owner of a trademark.
+7.  Infringing on the rights of the owner of a trademark.
 
 The above list is non-exhaustive and applies to all types of content.  
 Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
@@ -538,14 +538,14 @@ As a hosting service provider, Dailymotion has no general legal obligation to mo
 Dailymotion has therefore put in place detection and reporting tools allowing Dailymotion to be aware of the presence of Prohibited Content on the Dailymotion Service.  
 The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion attention by two means:
 
-1. via the **automatic detection devices** set up on the Dailymotion Service (A) or;
-2. via **Users’ reporting** through the **reporting tool** present near each video; (B) or through contacting Dailymotion **by e-mail or by letter** (C).
+1.  via the **automatic detection devices** set up on the Dailymotion Service (A) or;
+2.  via **Users’ reporting** through the **reporting tool** present near each video; (B) or through contacting Dailymotion **by e-mail or by letter** (C).
 
 #### A. Automatic detection devices
 
 The automatic detection device implemented by Dailymotion includes:
 
-1. **List of keywords and short phrases**
+1.  **List of keywords and short phrases**
 
 Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “**Moderation Decisions**” made during the previous 6 months.
 
@@ -554,7 +554,7 @@ Dailymotion uses AI-based tools (Artificial Intelligence) as part of the automat
 Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video or in another category of Content being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our human moderation team who will analyze it and issue a moderation decision.    
 The Restricted Mode may be applied to Video Content (as described in Section IV). 
 
-2. **Technologies for the protection of copyrighted content**
+2.  **Technologies for the protection of copyrighted content**
 
 Dailymotion works with two providers of digital fingerprint recognition solutions: Audible Magic for audio detection and INA (Institut National de l’Audiovisuel) for video detection. Whenever a piece of video Content uploaded on the Dailymotion Service matches the digital fingerprint databases of our two providers, the video Content will be automatically removed.
 
@@ -568,11 +568,11 @@ Dailymotion encourages its Visitors to report any Content that may violate the P
 
 To report **video** Content, you need to:
 
-1. Click on the “Report” button available near each video;
-2. Specify whether the report concerns the entire video or only a specific extract (a time stamp is assigned by default but can be modified);
-3. Select the main motive for the report;
-4. Describe in the dedicated free text field any information that will allow Dailymotion to process the report; and
-5. Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
+1.  Click on the “Report” button available near each video;
+2.  Specify whether the report concerns the entire video or only a specific extract (a time stamp is assigned by default but can be modified);
+3.  Select the main motive for the report;
+4.  Describe in the dedicated free text field any information that will allow Dailymotion to process the report; and
+5.  Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
 
   
 It should be noted that it is NOT necessary to have a Dailymotion account to report Prohibited video Content.
@@ -588,10 +588,10 @@ Please note that you cannot submit a takedown request for copyright infringement
 
 To report a **comment**, simply :
 
-1. Log in to your Dailymotion account;
-2. Click on the “Report” button available near the Content concerned;
-3. Select the main reason for the report; and
-4. Describe in the free text field any information which allows Dailymotion to process the report.
+1.  Log in to your Dailymotion account;
+2.  Click on the “Report” button available near the Content concerned;
+3.  Select the main reason for the report; and
+4.  Describe in the free text field any information which allows Dailymotion to process the report.
 
 Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law. Any report based on another legislation can be sent to Dailymotion by e-mail or by post in accordance with the provisions below.
 
@@ -599,16 +599,16 @@ Any report sent to Dailymotion through the reporting tool will be treated in acc
 
 The presence of Content that may violate the Prohibited Content Policy may also be reported to Dailymotion **by e-mail or by letter**. In such case, all of the following elements shall be communicated to Dailymotion:
 
-* Depending on the status of the author of the report, the elements necessary to process the request will differ. If the author of the report is:
-    * A physical person: he/she must specify his/her first name, surname(s) and e-mail address;
-    * A legal person: the legal form and name of the legal person must be specified, as well as an e-mail address for the follow-up of the report; or
-    * An administrative authority: the name of the administrative authority concerned must be specified, as well as an e-mail address for the follow-up of this report.
+*   Depending on the status of the author of the report, the elements necessary to process the request will differ. If the author of the report is:
+    *   A physical person: he/she must specify his/her first name, surname(s) and e-mail address;
+    *   A legal person: the legal form and name of the legal person must be specified, as well as an e-mail address for the follow-up of the report; or
+    *   An administrative authority: the name of the administrative authority concerned must be specified, as well as an e-mail address for the follow-up of this report.
 
 If the report is made in the name of a third party, it is necessary to provide Dailymotion with all supporting documents attesting that the author of the report is duly authorized to represent this third party;
 
-* A description of the Content reported, and its precise location (URL of the video(s) concerned or the page on which the comment(s) is/are available);
-* The main reason of the report (by reference to the Categories of Prohibited Content described in Section I of this Policy); and
-* and, for any report of copyright infringement or infringement of other rights, any documents and/or information allowing to characterize the infringement in question.
+*   A description of the Content reported, and its precise location (URL of the video(s) concerned or the page on which the comment(s) is/are available);
+*   The main reason of the report (by reference to the Categories of Prohibited Content described in Section I of this Policy); and
+*   and, for any report of copyright infringement or infringement of other rights, any documents and/or information allowing to characterize the infringement in question.
 
 No action will be taken on requests that do not include all the elements that would allow Dailymotion to process the report.  
 Reports made by e-mail or by letter must be sent to Dailymotion at the address defined below according to the country of residence of the author of the report:
@@ -672,10 +672,10 @@ If Dailymotion is aware of the uploading of Prohibited Content on its Service, D
   
 The applicable Moderation Actions may impact the:
 
-1. Availability;
-2. Visibility;
-3. Accessibility to; or
-4. Monetization of Content.
+1.  Availability;
+2.  Visibility;
+3.  Accessibility to; or
+4.  Monetization of Content.
 
 ##### 1\. Moderation Action affecting the availability of Prohibited Content: removal of Content
 
@@ -699,8 +699,8 @@ Dailymotion reserves the right to demonetize video Content that is not suitable 
 
 Dailymotion has established an internal appeal mechanism for the decisions taken by its moderation team following the detection and/or reporting of Prohibited Content (“Moderation Decision(s)”). This internal appeal system allows:
 
-1. the author of a report to contest the Moderation Decision taken following their report; and
-2. the User who has put Content online that has been subject to a Moderation Action mentioned in Section III. A of this Policy to contest the corresponding Moderation Decision.
+1.  the author of a report to contest the Moderation Decision taken following their report; and
+2.  the User who has put Content online that has been subject to a Moderation Action mentioned in Section III. A of this Policy to contest the corresponding Moderation Decision.
 
 This internal appeal mechanism is available by contacting our Support teams (see Section II.A.C.) or, in certain cases, via a URL link indicated in the e-mails sent by the moderation team to the author of the report or to the User who posted the Content online.  
 This URL link redirects to an appeal form which must be filled in by providing all the mandatory information required to process such appeal.  
@@ -741,10 +741,10 @@ In addition to the Counter linked to a Dailymotion Account, Dailymotion may also
 
 Several different sanctions might be applied for periods of up to several days if the Counter of a Dailymotion Account reaches a certain threshold, including :  
 
-* Blocking the ability to upload Videos on such Dailymotion Account; 
-* Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/); 
-* restricting the visibility of your Content posted on such Dailymotion Account;
-* For Partners having the opportunity to monetize their Content, excluding the Content posted on such Dailymotion Account from monetization. 
+*   Blocking the ability to upload Videos on such Dailymotion Account; 
+*   Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/); 
+*   restricting the visibility of your Content posted on such Dailymotion Account;
+*   For Partners having the opportunity to monetize their Content, excluding the Content posted on such Dailymotion Account from monetization. 
 
 Please note that Your Dailymotion Account might reach another restriction level as soon as your Counter changes as defined in Section C above. 
 
@@ -802,8 +802,8 @@ The Processing of Third-Party Personal Data is governed by the Applicable Data P
 
 The present Appendix (“**DPA**“) is applicable to the Processing of Third Party Personal Data included in Your Content, per which:
 
-* You are the Data Controller (within the meaning of the Applicable Data Protection Law) for the Processing of such Third-Party Personal Data, and
-* Dailymotion is Your Data Processor.
+*   You are the Data Controller (within the meaning of the Applicable Data Protection Law) for the Processing of such Third-Party Personal Data, and
+*   Dailymotion is Your Data Processor.
 
 Note that if you act on behalf of a third party Data Controller, you are a Data Processor and Dailymotion is Your Sub-Processor.
 
@@ -867,9 +867,9 @@ Dailymotion processes Third-Party Personal Data in order to enable You to use th
 
 By uploading Content onto the Dailymotion Service, You may use the Dailymotion Service’s technical features for the following purposes:
 
-* Storing Your Content, and consequently Third-Party Personal Data that may be incorporated within Your Content, on the Dailymotion Service;
-* Making Your Content (and any associated Third-Party Personal Data) available to the public;
-* Managing the availability to the public of the Third-Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode) and Service features (ex. content recommendation, content-categorization, etc.).
+*   Storing Your Content, and consequently Third-Party Personal Data that may be incorporated within Your Content, on the Dailymotion Service;
+*   Making Your Content (and any associated Third-Party Personal Data) available to the public;
+*   Managing the availability to the public of the Third-Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode) and Service features (ex. content recommendation, content-categorization, etc.).
 
 Dailymotion does not collect Third-Party Personal Data nor has any prior knowledge of the presence of Third-Party Personal Data within Your Content.
 
@@ -877,9 +877,9 @@ Dailymotion does not collect Third-Party Personal Data nor has any prior knowled
 
 You instruct Dailymotion to operate the following services (“**Processing Services**”) on Your behalf:
 
-* Hosting of Your Content on the Dailymotion Service (this includes both the video files and associated metadata) on the servers owned by Dailymotion or provided by Dailymotion’s data hosting and other service providers (ex. cloud storage providers), i.e. our Sub-Processors;
-* Making available the Video Player for the distribution of Your Content to the public;
-* Making available technical tools allowing You to manage Your Content and, in particular, if you choose so, to make Your Content available to public, including through content recommendation tools.
+*   Hosting of Your Content on the Dailymotion Service (this includes both the video files and associated metadata) on the servers owned by Dailymotion or provided by Dailymotion’s data hosting and other service providers (ex. cloud storage providers), i.e. our Sub-Processors;
+*   Making available the Video Player for the distribution of Your Content to the public;
+*   Making available technical tools allowing You to manage Your Content and, in particular, if you choose so, to make Your Content available to public, including through content recommendation tools.
 
 Dailymotion shall process the Third-Party Personal Data in compliance with the Applicable Data Protection Laws, for the above-listed purposes and pursuant to the instructions of the Data Controller stipulated in the present DPA. You can provide additional instructions either by using the available technical tools and features of the Dailymotion Service or by addressing them directly to us through Dailymotion’s Help Center. Note that in the event Your instructions are incompatible with the way the Dailymotion Service operates or are in violation of the Terms or any other Dailymotion policies, Dailymotion will not be obliged to comply with such instructions, but You may stop the Processing by removing Your Content or ceasing to use our Service.
 
@@ -904,28 +904,28 @@ Dailymotion has implemented and shall maintain adequate physical and organizatio
 
 Dailymotion undertakes to implement the following **organizational measures** and ensures their respect by its staff and its Sub-Processors :
 
-* ensure that the persons authorized to process Third-Party Personal Data or otherwise involved in the delivery of the Services are aware of, trained and organized to provide sufficient guarantees of security and confidentiality with respect to Third-Party Personal Data; and
-* implement access and authorization management rules such as:
-    * centralized management of access rights,
-    * gradation of access and use rights,
-    * periodic reviews.
-* take all reasonable steps to prevent the misappropriated or fraudulent use of processed Third-Party Personal Data.
+*   ensure that the persons authorized to process Third-Party Personal Data or otherwise involved in the delivery of the Services are aware of, trained and organized to provide sufficient guarantees of security and confidentiality with respect to Third-Party Personal Data; and
+*   implement access and authorization management rules such as:
+    *   centralized management of access rights,
+    *   gradation of access and use rights,
+    *   periodic reviews.
+*   take all reasonable steps to prevent the misappropriated or fraudulent use of processed Third-Party Personal Data.
 
 In addition, the main **technical measures** currently implemented by Dailymotion are as follows:
 
-* network segmentation and filtering between zones,
-* multi-factor authentication,
-* event log, collection and centralization of logs,
-* anti-virus,
-* management of security patches,
-* security / flow encryption (SSL),
-* Internal PKI,
-* Encryption of data in transit and at rest,
-* bug-bounty program,
-* application of anonymization and pseudonymization techniques (ex. tokenization, aggregation, hashing, etc.),
-* periodic re-certification of accounts (periodic review of access rights),
-* peer-to-peer code review (development methodology),
-* periodic security audits (architecture, configuration, code, intrusion tests, etc.).
+*   network segmentation and filtering between zones,
+*   multi-factor authentication,
+*   event log, collection and centralization of logs,
+*   anti-virus,
+*   management of security patches,
+*   security / flow encryption (SSL),
+*   Internal PKI,
+*   Encryption of data in transit and at rest,
+*   bug-bounty program,
+*   application of anonymization and pseudonymization techniques (ex. tokenization, aggregation, hashing, etc.),
+*   periodic re-certification of accounts (periodic review of access rights),
+*   peer-to-peer code review (development methodology),
+*   periodic security audits (architecture, configuration, code, intrusion tests, etc.).
 
 In the event of a Third-Party Personal Data Breach (as defined in the GDPR) of which Dailymotion is aware, Dailymotion commits itself to notify You of this Third-Party Personal Data Breach as soon as possible either at the email address associated with Your Dailymotion Account (or any other email address communicated to Dailymotion by You for this purpose) or through any other appropriate means (ex. banner notification visible from Your Dailymotion Account). Dailymotion will cooperate with You, should You choose to notify the Supervisory Authority or an affected Data Subjects of the Third-Party Personal Data Breach. Please note that the competent Supervisory Authority under this DPA is the CNIL.
 
@@ -951,13 +951,13 @@ As a Data Controller, it is Your responsibility to inform Data Subjects about th
 
 In this regard:
 
-* Dailymotion shall:
+*   Dailymotion shall:
 
 – Communicate to You, as soon as possible, any Data Subject Request received by us (except where such communication is prohibited by the competent authorities); and
 
 – Assist You, by all appropriate and reasonable measures, in fulfilling Your obligation to comply with the Data Subject Requests. Note that Dailymotion reserves the right to charge You for all reasonable costs and expenses related to assisting You with such requests.
 
-* You hereby instruct Dailymotion, acing on Your behalf, to:
+*   You hereby instruct Dailymotion, acing on Your behalf, to:
 
 – Receive Data Subject Requests;
 
@@ -971,7 +971,7 @@ In this regard:
 
 – Transfer Your replies to Data Subjects and receive their communication addressed to You and that, in particular, when Data Subjects do not wish to provide their contact details to You.
 
-* You shall:
+*   You shall:
 
 – respond to Data Subject Requests within the timeframes set forth in the Applicable Data Protection Laws;
 
@@ -979,7 +979,7 @@ In this regard:
 
 – not use any information transmitted by Dailymotion for purposes other than replying to Data Subject Requests and for a period longer than justified by that purpose or otherwise authorized by Applicable Data Protection Laws. In particular, if applicable, You shall proceed with destruction of any copies of communicated Data Subjects’ IDs upon completion of the verification of Data Subjects’ identity.
 
-* You agree that:
+*   You agree that:
 
 – Dailymotion will communicate with You using the email address associated with Your Dailymotion Account and/or any other email address communicated therefor to the Dailymotion’s DPO;
 
@@ -1001,10 +1001,10 @@ Note that process applicable to Data Subjects Requests is separate and in additi
 
 You represent and warrant to Dailymotion that:
 
-* You have obtained and will maintain for the duration of Your use of the Dailymotion Service all rights and authorizations necessary to allow us to provide You with the Processing Services including, when applicable, Data Subjects’ consent;
-* all instructions You transmit to Dailymotion regarding the Processing of Third-Party Personal Data, as described in the present DPA and, in particular, in its Section 3.1. are in conformity with the Applicable Data Protection Laws and, if You act in capacity of a Data Processor for another Data Controller, are compatible with any instructions You have received from such Data Controller. In particular, You warrant that You have been authorized to designate us as a Data Sub-Processor;
-* the Third-Party Personal Data has been collected and is processed in compliance with the Applicable Data Protection Law;
-* You have obtained the consent of the Data Subjects or have established an alternative legal basis for the collection and Processing of the said Third-Party Personal Data and You undertake to produce evidence of such consent or legal basis upon a request from Dailymotion, the Data Subjects and/or competent authorities.
+*   You have obtained and will maintain for the duration of Your use of the Dailymotion Service all rights and authorizations necessary to allow us to provide You with the Processing Services including, when applicable, Data Subjects’ consent;
+*   all instructions You transmit to Dailymotion regarding the Processing of Third-Party Personal Data, as described in the present DPA and, in particular, in its Section 3.1. are in conformity with the Applicable Data Protection Laws and, if You act in capacity of a Data Processor for another Data Controller, are compatible with any instructions You have received from such Data Controller. In particular, You warrant that You have been authorized to designate us as a Data Sub-Processor;
+*   the Third-Party Personal Data has been collected and is processed in compliance with the Applicable Data Protection Law;
+*   You have obtained the consent of the Data Subjects or have established an alternative legal basis for the collection and Processing of the said Third-Party Personal Data and You undertake to produce evidence of such consent or legal basis upon a request from Dailymotion, the Data Subjects and/or competent authorities.
 
 To that end, You undertake to defend and indemnify Dailymotion against any and all claims, costs, fines, reasonable attorney fees, or other expenses incurred in relation to the availability on our Service of Your Content integrating Third-Party Personal Data.
 
@@ -1037,18 +1037,18 @@ If Dailymotion receives a legally binding request to provide Third-Party Persona
 
 #### 9.1. Description of Transfers of Third-Party Personal Data
 
-* **Operation of the Dailymotion Servic**e:
+*   **Operation of the Dailymotion Servic**e:
 
 Dailymotion Service is operated by companies belonging to the Dailymotion group, some of which are located outside the EEA. When your Content includes Third-Party Personal Data, non-EEA Dailymotion entities may process such Personal Data outside the EEA, namely in the USA, Singapore or other territories they operate from. In particular, if Your video containing Third Party Personal data is available in the USA, it is Dailymotion Inc’s USA-based content moderation team that will analyze it if it receives a notification of it allegedly infringing character.
 
 Note that Dailymotion Inc. participates in the Data Privacy Framework. Any transfer of Third-Party Personal Data to Dailymotion Inc. relies on that DPF participation. In the event of either, Dailymotion’s Inc. discontinuing its DPF participation or invalidation of the DPF, any such transfer shall rely on the 2021 SCC, as further detailed hereinbelow.
 
-* **Storage and Content Delivery**:
+*   **Storage and Content Delivery**:
     
-    * **Comments**: o depending on the territory you access the Dailymotion Service from, You may have a possibility to comment Content available on our Service. In addition to them being stored in the EEA Your Comments may be stored in the USA on servers used by our service provider assisting us in operating the comment feature. Consequently, if your Comments contain Third-Party Personal Data, that data is transferred to the USA.
+    *   **Comments**: o depending on the territory you access the Dailymotion Service from, You may have a possibility to comment Content available on our Service. In addition to them being stored in the EEA Your Comments may be stored in the USA on servers used by our service provider assisting us in operating the comment feature. Consequently, if your Comments contain Third-Party Personal Data, that data is transferred to the USA.
     
-    * **Other Content**: o Dailymotion stores Content (other than Comments) in the EEA either directly (on servers owned by Dailymotion) or through intermediary of its services providers (cloud-storage service providers). If You decide to render Your video Content available outside of the EEA, for technical reasons inherent to video-delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of the EEA. A cache copy is created on servers close to a viewer. Its creation is inherent to video-delivery technology and serves to reduce the latency, i.e. enables a viewer to see a video faster by shortening the time between the request to see a video and the appearance of that video on the viewer’s screen. When Your Content includes Third-Party Personal Data, creation of cache copies of extracts of Your Content on non-EEA servers may result in a transfer of such Personal Data outside the EEA (if the actual copies of extracts contain Third-Party Personal Data).
-* **Service Features**: Dailymotion Service enables various Content related features, ex. statistics, customer support, content search or recommendation. The data thus processed is stored on servers owned by Dailymotion and by our services providers (ex. cloud-storage service providers) listed in clause 5.2. above, and is analyzed using Dailymotion’s and our service providers’ tools. When Your Content includes Third-Party Personal Data, use of Content related features may result in transfer of such Personal Data outside the EEA. For example, if the title of Your Video that You rendered available in the USA includes somebody’s else name, the content search tool using USA-based resources will process that Personal Data.  
+    *   **Other Content**: o Dailymotion stores Content (other than Comments) in the EEA either directly (on servers owned by Dailymotion) or through intermediary of its services providers (cloud-storage service providers). If You decide to render Your video Content available outside of the EEA, for technical reasons inherent to video-delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of the EEA. A cache copy is created on servers close to a viewer. Its creation is inherent to video-delivery technology and serves to reduce the latency, i.e. enables a viewer to see a video faster by shortening the time between the request to see a video and the appearance of that video on the viewer’s screen. When Your Content includes Third-Party Personal Data, creation of cache copies of extracts of Your Content on non-EEA servers may result in a transfer of such Personal Data outside the EEA (if the actual copies of extracts contain Third-Party Personal Data).
+*   **Service Features**: Dailymotion Service enables various Content related features, ex. statistics, customer support, content search or recommendation. The data thus processed is stored on servers owned by Dailymotion and by our services providers (ex. cloud-storage service providers) listed in clause 5.2. above, and is analyzed using Dailymotion’s and our service providers’ tools. When Your Content includes Third-Party Personal Data, use of Content related features may result in transfer of such Personal Data outside the EEA. For example, if the title of Your Video that You rendered available in the USA includes somebody’s else name, the content search tool using USA-based resources will process that Personal Data.  
     
 
 #### 9.2. Legal Tools Applicable to the Transfer of Third-Party Personal Data
@@ -1059,44 +1059,44 @@ To the extent our provision of the Processing Services to You results in the tra
 
 It is agreed by the Parties that the 2021 SCC are complemented as follows:
 
-* The data exporter: You
+*   The data exporter: You
     
-    * Data exporter identity: as indicated within Your Dailymotion Account
+    *   Data exporter identity: as indicated within Your Dailymotion Account
     
-    * Data exporter role: Controller or Processor (if acting on behalf of a third party Controller)
-* The data importer:
+    *   Data exporter role: Controller or Processor (if acting on behalf of a third party Controller)
+*   The data importer:
     
-    * The Dailymotion entity You contract with, namely:
+    *   The Dailymotion entity You contract with, namely:
         
-        * If You are established in the European Economic Area, United Kingdom or Switzerland:  Dailymotion SA, 50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France, contact details: [dpo@dailymotion.com](mailto:dpo@dailymotion.com), or
+        *   If You are established in the European Economic Area, United Kingdom or Switzerland:  Dailymotion SA, 50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France, contact details: [dpo@dailymotion.com](mailto:dpo@dailymotion.com), or
         
-        * If You are established in any other territory:  Dailymotion Inc., 150 W 22nd Street, Floor 12, New York, NY 10011, USA, contact details: [legal@dailymotion.com](mailto:legal@dailymotion.com);
+        *   If You are established in any other territory:  Dailymotion Inc., 150 W 22nd Street, Floor 12, New York, NY 10011, USA, contact details: [legal@dailymotion.com](mailto:legal@dailymotion.com);
     
-    * For the purpose of the UK GDPR, the local representative of Dailymotion is : The DPO Centre Ltd, 50 Liverpool street, London, EC2M 7PY, UK, +44 (0) 203 797 6340, [advice@dpocentre.com](mailto:advice@dpocentre.com).
+    *   For the purpose of the UK GDPR, the local representative of Dailymotion is : The DPO Centre Ltd, 50 Liverpool street, London, EC2M 7PY, UK, +44 (0) 203 797 6340, [advice@dpocentre.com](mailto:advice@dpocentre.com).
     
-    * Data importer role: Processor or Sub-Processor if data exporter is a Processor.
+    *   Data importer role: Processor or Sub-Processor if data exporter is a Processor.
 
 For transfers from the EEA:
 
-* Module Two applies where You (data exporter) are a Controller and Dailymotion (data importer) is a Processor,
+*   Module Two applies where You (data exporter) are a Controller and Dailymotion (data importer) is a Processor,
     
-    * Module Three applies where You (data exporter) are a Processor of a third-party Data Controller and Dailymotion (data importer) is a Processor;
+    *   Module Three applies where You (data exporter) are a Processor of a third-party Data Controller and Dailymotion (data importer) is a Processor;
     
-    * in Clause 7, the optional docking clause does not apply;
-* in Clause 9(a) of Module Three, option 2 applies, and the time period for prior notice of Sub-processor changes is 14 days;
-* in Clause 11(a), the optional language does not apply;
-* in Clause 17, Option 1 applies with the governing law being that of France;
-* in Clause 18(b), disputes will be resolved before the courts in Paris, France;
-* Annex I of the 2021 SCCs and parties activities are completed with the information in Section 3 of the DPA;
-* Annex II of the 2021 SCCs is completed with the information in Section 4 of the DPA; and
-* Annex III of the 2021 SCCs is completed with the information in Section 5.2 of the DPA.  
+    *   in Clause 7, the optional docking clause does not apply;
+*   in Clause 9(a) of Module Three, option 2 applies, and the time period for prior notice of Sub-processor changes is 14 days;
+*   in Clause 11(a), the optional language does not apply;
+*   in Clause 17, Option 1 applies with the governing law being that of France;
+*   in Clause 18(b), disputes will be resolved before the courts in Paris, France;
+*   Annex I of the 2021 SCCs and parties activities are completed with the information in Section 3 of the DPA;
+*   Annex II of the 2021 SCCs is completed with the information in Section 4 of the DPA; and
+*   Annex III of the 2021 SCCs is completed with the information in Section 5.2 of the DPA.  
     
-* For transfers from **Switzerland**: where a transfer to a Third Country is made from Switzerland, the 2021 SCCs incorporated into this DPA, as modified in Section 9, apply to the transfer except that:
-* in Clause 13, the competent Supervisory Authority is the Swiss Federal Data Protection and Information Commissioner if the transfer is governed by the Swiss Federal Act on Data Protection; and
-* references to “Member State” in the 2021 SCCs refer to Switzerland, and data subjects located in Switzerland may exercise and enforce their rights under the 2021 SCCs in Switzerland; and
-* references to the “General Data Protection Regulation”, “Regulation 2016/679” and “GDPR” in the 2021 SCCs refer to the Swiss Federal Act on Data Protection (as amended or replaced).
+*   For transfers from **Switzerland**: where a transfer to a Third Country is made from Switzerland, the 2021 SCCs incorporated into this DPA, as modified in Section 9, apply to the transfer except that:
+*   in Clause 13, the competent Supervisory Authority is the Swiss Federal Data Protection and Information Commissioner if the transfer is governed by the Swiss Federal Act on Data Protection; and
+*   references to “Member State” in the 2021 SCCs refer to Switzerland, and data subjects located in Switzerland may exercise and enforce their rights under the 2021 SCCs in Switzerland; and
+*   references to the “General Data Protection Regulation”, “Regulation 2016/679” and “GDPR” in the 2021 SCCs refer to the Swiss Federal Act on Data Protection (as amended or replaced).
 
-* For transfers from the UK: where a transfer to a Third Country is made from the UK, the UK Addendum is incorporated into this DPA and applies to the transfer as follows: the UK Addendum is completed with the information in Sections 3, 4 and 5.2 of this DPA; and both “Importer” and “Exporter” are selected in Table 4.
+*   For transfers from the UK: where a transfer to a Third Country is made from the UK, the UK Addendum is incorporated into this DPA and applies to the transfer as follows: the UK Addendum is completed with the information in Sections 3, 4 and 5.2 of this DPA; and both “Importer” and “Exporter” are selected in Table 4.
 
 The acceptance of  the Terms constitutes mutual acceptance and  signature of the 2021 SCC, incorporated in the present DPA,  and their annexes.
 
@@ -1122,17 +1122,17 @@ As part of the operation of the Dailymotion Service, Dailymotion analyses and fu
 
 Dailymotion may further Process Third Party Personal Data present in Your Content, as Controller, for purposes that are compatible with the initial processing purposes, namely: 
 
-* Operation of the Service, including through revenue-generating operations; 
+*   Operation of the Service, including through revenue-generating operations; 
 
-* Analysis of the Service; including for generating insight for further content recommendations or contextual ad targeting; 
+*   Analysis of the Service; including for generating insight for further content recommendations or contextual ad targeting; 
 
-* Improvement of the Services;  
+*   Improvement of the Services;  
 
-* Market studies; 
+*   Market studies; 
 
-* Fraud detection, Service misuse detection, Service security and legal compliance; 
+*   Fraud detection, Service misuse detection, Service security and legal compliance; 
 
-* Research and development, including fostering AI development.
+*   Research and development, including fostering AI development.
 
 Depending on the context of particular processing operations Third Party Personal Data may be disclosed to third parties (be it our Commercial Partners or [Service Providers](https://legal.dailymotion.com/en/list-of-dailymotion-data-processors/))  and various methods and technologies may be used for the Processing, including pseudonymization, anonymization, cleansing, structuration and annotation.  
 
@@ -1143,5 +1143,5 @@ Any processing by Dailymotion as a Controller shall be subject to our [Privacy P
 ###   
 **11\. DPO – Identity and Contact Details**
 
-* **Dailymotion’s Contact Information:** Contact email [here](mailto:feedback@dailymotion.com).
-* **Your Identity Contact Information:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
+*   **Dailymotion’s Contact Information:** Contact email [here](mailto:feedback@dailymotion.com).
+*   **Your Identity Contact Information:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
