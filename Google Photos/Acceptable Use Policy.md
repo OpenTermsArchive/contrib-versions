@@ -35,13 +35,13 @@ Do not create, upload or distribute content that exploits or abuses children. Th
 
 More broadly, Google prohibits the use of our products to endanger children. This includes but is not limited to, predatory behaviour towards children such as:
 
-* 'Child grooming' (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+*   'Child grooming' (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
     
-* 'Sextortion' (for example, threatening or blackmailing a child by using real or alleged access to a child's intimate images);
+*   'Sextortion' (for example, threatening or blackmailing a child by using real or alleged access to a child's intimate images);
     
-* Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
+*   Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
     
-* Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
+*   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
     
 
 We will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help or you have concerns a child is being or was being endangered on our products, you can [report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
@@ -155,8 +155,8 @@ We will not print content that is an illegal activity or that promotes activitie
 
 Below are examples of what we do not allow in printed products:
 
-* Images that infringe on anyone else's legal rights, including copyright
-* Images that depict or include instruction on dangerous or illegal acts
+*   Images that infringe on anyone else's legal rights, including copyright
+*   Images that depict or include instruction on dangerous or illegal acts
 
 #### Harassment, bullying and threats
 
@@ -164,7 +164,7 @@ We will not print content that harasses, bullies or threatens others. We also wo
 
 Below are examples of what we do not allow in printed products:
 
-* Content that harasses, intimidates or bullies an individual or group of individuals
+*   Content that harasses, intimidates or bullies an individual or group of individuals
 
 #### Hate speech
 
@@ -172,7 +172,7 @@ We will not print hate speech. Hate speech is content that promotes or condones 
 
 Below are examples of what we do not allow in printed products:
 
-* Content that incites hatred against an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity or other characteristic that is associated with systemic discrimination or marginalisation
+*   Content that incites hatred against an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity or other characteristic that is associated with systemic discrimination or marginalisation
 
 #### Sexually explicit content
 
@@ -180,9 +180,9 @@ We will not print content that contains sexually explicit material. Nudity for e
 
 Below are examples of what we do not allow in printed products:
 
-* Images containing graphic sexual acts intended to arouse, including depictions of genitalia, pornography or illustrations
-* Content promoting underage, non-consensual or other illegal sexual themes, whether simulated or real
-* Content promoting the sexual exploitation of minors
+*   Images containing graphic sexual acts intended to arouse, including depictions of genitalia, pornography or illustrations
+*   Content promoting underage, non-consensual or other illegal sexual themes, whether simulated or real
+*   Content promoting the sexual exploitation of minors
 
 #### Violent organisations and movements
 
