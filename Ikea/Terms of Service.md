@@ -272,7 +272,9 @@ Items that have been “tried and tested” are returnable but will only be refu
 
 Items that are considered “used” are not returnable under this policy. Items are considered “used” when there is signs of usage that is beyond the means to test and try the form and function of the product. This might be signs of wear and tear, or cosmetic imperfections. It is at IKEA’s sole discretion what is deemed “tried and tested” and “used”.
 
-Food or drink, perishable product (cut flowers or plants), or custom-made product(s) – May be returned in their original  A refund may be refused, or the value of the refund reduced if the product(s) are not able to be sold at full retail value as a result of you handling the product(s) in such a way that the product(s) are no longer saleable at full retail value. IKEA at its sole discretion, may reduce your refund to reflect any reduction in the retail value of the goods. Any refund and reduction will be proportionate to the retail value of the product(s) in the condition returned. You are responsible for any costs incurred in the returning of the product(s) unless the product is faulty or not as described.
+Food or drink, perishable product (cut flowers or plants), or custom-made product(s) – May be returned in their original packaging.
+
+A refund may be refused, or the value of the refund reduced if the product(s) are not able to be sold at full retail value as a result of you handling the product(s) in such a way that the product(s) are no longer saleable at full retail value. IKEA at its sole discretion, may reduce your refund to reflect any reduction in the retail value of the goods. Any refund and reduction will be proportionate to the retail value of the product(s) in the condition returned. You are responsible for any costs incurred in the returning of the product(s) unless the product is faulty or not as described.
 
 **Exclusions**
 
