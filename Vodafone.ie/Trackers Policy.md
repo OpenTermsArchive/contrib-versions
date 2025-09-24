@@ -1163,6 +1163,78 @@ We’ll never ask for your secure personal or account information by an unsolici
 
   
 
+### Gigabit Smart Services
+
+### Who's Home
+
+The Vodafone Broadband smart service: “Who’s Home” is a limited access service available for eligible customers using a compatible Vodafone router (the “Ultra Hub 7” modem) and the Vodafone Broadband App (“App”).
+
+Users of the “Who’s Home” feature will be notified (in the App) when registered household members connect or disconnect (their primary mobile device) to the home Wi-Fi connection. A connection to Wi-Fi is interpreted as the associated household member arriving home, and a disconnection to Wi-Fi is interpreted as the associated household member leaving the home.
+
+This allows customers to choose to be notified when family members, for example school-going children, arrive or leave home. The service is accessible via the Vodafone Broadband home screen panel of the same name. Users accessing this feature for the first time, will be guided through the setup process. Once the setup is complete, the Who’s Home tile will show all registered members and whether their devices are home or not.
+
+The Supplement defines how your information is used by Vodafone “Who’s Home”.
+
+### Personal information we collect about you
+
+Information we collect
+
+Just like the data collected to provide Vodafone Home Broadband, this service will process data about your devices, such as MAC address and OS version.
+
+We will process names and phone numbers provided by the account holder, when they enter this information to register household members and get notifications about household members leaving or arriving home, based on their primary mobile device disconnecting from or connecting to the Wi-Fi, respectively.
+
+To help us determine how well the service is working, identifiers such as the number of devices set up for the Service, when the service was activated or deactivated is also collected.
+
+How we use the information collected
+
+Vodafone will use your device information, name and number (as provided by the account holder):
+
+To provide the Vodafone Who’s Home service.
+
+To let the account holder know that any registered household members have entered or left the home, determined solely by their mobile phones disconnecting and connecting to home Wi-Fi.
+
+Conduct analytics to determine the success of the product.
+
+What information we don’t collect
+
+Vodafone Who’s Home will not track your device’s movement around the house, for example, we do not collect GPS data.
+
+We don’t collect personal data other than the type of device, unless the account holder provides it (for example, provides your name and phone number) and you have not opted out.
+
+What choices do you have
+
+You may choose to opt out of being included as a household member, i.e. your name and phone number used by the account holder, so that they will be alerted when you enter or leave the home. This can be done by responding to the text message (SMS) sent by the service in the format mentioned.
+
+How long we keep your data
+
+By way of an example, here are some of the data and usage statistics we will collect and how long we will retain it for.
+
+Vodafone may retain aggregated and statistical reports that have been generated using the listed information for a longer period, but as these reports do not identify you as a user, they will not be used in a way that impacts your privacy.
+
+How we share information
+
+As described in the [Vodafone Ireland Privacy Notice](https://www.vodafone.ie/privacy), we may share information about you with companies in the Vodafone Group and partners or agents involved in delivering the products and services you’ve ordered or used. In this case, your data may be stored in environments hosted by cloud service providers and will be access by companies in the Vodafone Group for support, IT, and other internal operations.
+
+### International Transfer
+
+Data will be stored in Germany, but may be accessed from outside the EEA by Vodafone’s support teams. Please see the [Vodafone Ireland Privacy Notice](https://www.vodafone.ie/privacy) for more information on how we transfer data to other Vodafone Group companies.
+
+How we protect your data
+
+Vodafone takes technical and organisational security measures as required by law and by industry standards to protect your personal data from unauthorised access, use or disclosure.
+
+We take steps to ensure that we only use your personal information as described in this privacy notice and to honour the permission choices that you have made.
+
+We only partner with service providers who contract to provide the same level of information security that you can expect from Vodafone.
+
+### Who provides the service?
+
+Vodafone’s Who’s Home service is provided solely by Vodafone Ireland Limited. Registered Office: Mountain View, Leopardstown, Dublin 18, The Connection, Newbury, Berkshire RG14 2FN. Registered in Ireland under company number 326967.
+
+Contact details
+
+If you have any queries in any aspect of this privacy supplement, please contact [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+
 ### Mobile
 
 Every time you use your mobile phone, a record is kept. This includes the number you called or sent a text or picture message to, the length, date and time of a call, text or picture message and your approximate location at the time that the communication takes place (based on the location of the nearest cell that you sent that call or message from). The same is also recorded every time you receive an incoming call or message. We don’t, however, keep a record of the content of your calls or messages.
