@@ -347,7 +347,6 @@ We, our service providers, business partners, and other third parties may use in
 *   [Digital Advertising Alliance (Canada)](https://youradchoices.ca/en/tools)
 *   [Digital Advertising Alliance (Australia)](https://www.youronlinechoices.com.au/)
 *   [Digital Advertising Alliance (EU)](https://www.youronlinechoices.com/)
-*   [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1)
 
 You can also opt out of interest-based advertising with some of the third-party partners we use, such as Google ([https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)). Please note that if you opt out of interest-based advertising, some information will still be collected for other purposes, such as research, analytics, and internal operations. You will also continue to receive contextual advertisements, but they may be less relevant to your interests.
 
