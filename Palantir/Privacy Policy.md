@@ -420,13 +420,13 @@ Open
 
 **US Consumer Privacy Act Notice**
 
-_Last updated February 2025._
+_Last updated February 2025_
 
 This section (the “US Notice”) provides additional information regarding the applicable US state comprehensive privacy laws that are in effect as of January 15, 2025 (individually known as a “US State Privacy Law” and collectively known as “US State Privacy Laws”) and supplements the disclosures and information throughout this Statement. The commitments in this US Notice apply only to individuals covered by the US State Privacy Laws and are subject to certain statutory exceptions laid out in the US State Privacy Laws. This US Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
 This Statement and US Notice have been designed to be accessible to people with disabilities. If you experience any difficulties accessing the information here, please contact us at [accommodations@palantir.com](mailto:accommodations@palantir.com) or use the relevant details in the [_Contact Us_](https://www.palantir.com/privacy-and-security#who-is-palantir) section.
 
-[To print this Privacy Statement and CCPA Notice, please click here →](https://www.palantir.com/assets/xrfr7uokpv1b/5hYHC1S8HI1JOMn6QhPkPv/a6d020c89a94f1347a63663b4e17cdbd/Palantir_General_Privacy_Statement_December_2024_Final__3_.pdf)
+[To print this Privacy Statement and CCPA Notice, please click here →](https://www.palantir.com/assets/xrfr7uokpv1b/5hYHC1S8HI1JOMn6QhPkPv/9474352f5da333310d924d355fd17ad8/Palantir-s_Privacy_Statement.pdf)
 
 **Personal Information we collect**
 
