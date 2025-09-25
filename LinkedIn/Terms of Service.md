@@ -1,7 +1,7 @@
 LinkedIn Service Terms
 ======================
 
-September 3, 2025
+September 24, 2025
 
 The following Service Terms apply to Customer to the extent the specific Service is included in the applicable ordering document. LinkedIn may update these Service Terms from time to time. LinkedIn reserves the right to upgrade, update or discontinue any aspect or feature of a Service in whole or in part; provided, however, that if LinkedIn discontinues a Service in whole during the term of an ordering document, then LinkedIn will provide Customer with an alternative or replacement service.
 
@@ -53,7 +53,7 @@ Customer will use the Featured Jobs Credits to increase job visibility by applyi
 
 Customer must maintain an active and ongoing subscription for Recruiter Corporate services that grants Customer access to at least the same number of Recruiter Corporate seats as the number of LIHA licenses purchased by Customer. The quantity of LIHA licenses purchased or in use by Customer must not at any time exceed the number of Recruiter Corporate seats purchased by the Customer. If at any point Customer’s active Recruiter Corporate seats are fewer than the LIHA licenses purchased, Customer must purchase additional Recruiter Corporate seats to comply with the required 1:1 ratio. LIHA license functionality is dependent on the Customer User’s access to an active LinkedIn Recruiter seat. LinkedIn may suspend or terminate LIHA Services if Customer fails to maintain an active Recruiter Corporate subscription or exceeds the permitted number of LIHA licenses. Each LIHA license includes defined monthly usage caps for certain LIHA actions Specifically, LIHA licenses include monthly usage caps for: (1) “**Sourced Candidates**”, which refers to candidates that LIHA saves to a project pipeline and (2) “**Applicants Evaluated**”, which refers to job applicant profiles that LIHA evaluates and annotates (e.g., marking an applicant “Not a Fit” or “Top Applicant”). The numeric cap for each category is set forth in the Order Form. These caps apply on a per-license basis and are not pooled or shared across licenses or months. Unused portions of the monthly caps do not roll over to future months and any unused quota expires at the end of each month. The monthly caps reset at the beginning of each calendar month (on the 1st day of the month) to the full allotment. If a LIHA license is purchased or activated in the middle of a month, the full monthly cap still applies for that partial month (i.e., caps are not prorated for partial months).  
 
-Except as otherwise provided in the Agreement and subject to any existing license reassignment caps, Customer may reassign a LIHA license from one Customer User to another Customer User (who has an active Recruiter Corporate seat); however, doing so will not refresh or reset that license’s monthly usage cap. 
+The reassignment of LIHA licenses is subject to the same monthly cap as the Customer’s Recruiter seat reassignment limit. Details of the Recruiter seat reassignment limit are available in the **[Recruiter Help Portal](https://www.linkedin.com/help/recruiter/answer/a411940?lang=en)**.
 
 **2\. SALES SERVICES**
 
