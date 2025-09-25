@@ -991,43 +991,40 @@ _Article 11 : CONTRÔLES A L'EXPORTATION_
 
 Vous vous engagez à ne pas exporter, réexporter ou transférer des produits achetés sur le Site vers des pays, entités ou personnes sous sanctions. Ces restrictions incluent les interdictions imposées par l'UE, l'ONU et les autorités américaines. Vous reconnaissez également ne pas pouvoir acheter sur le Site si vous êtes soumis à de telles mesures.
 
-_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
-----------------------------------------------------
+_Article 12 : FORCE MAJEURE_
+----------------------------
 
 CDISCOUNT ne saurait être tenue pour responsable de l'inexécution d’une de ses obligations issues du contrat de vente dès lors que cette inexécution est liée à la survenance d'un événement de force majeure.
 
-_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
-----------------------------------------------------
+_Article 13 :  DONNEES PERSONNELLES_
+------------------------------------
 
-La politique de protection de vos données personnelles est accessible [ici](https://www.cdiscount.com/vie-privee-et-cookies.html).  
+La politique de protection de vos données personnelles est accessible [ici](https://www.cdiscount.com/vie-privee-et-cookies.html).
 
-_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
-----------------------------------------------------
+_Article 14 : CODE DE BONNE CONDUITE_
+-------------------------------------
 
 CDISCOUNT adhère au Code Déontologique de la Fevad (Fédération du e-commerce et de la vente à distance).  
-
 Pour en savoir plus, rendez-vous sur le site de la FEVAD en [cliquant ici.](https://www.fevad.com/)
 
 _Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
 ----------------------------------------------------
 
 14.1 Pour toute réclamation, notre Service Client est à votre disposition.  
-
- 
-
+  
 14.2 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
 
 BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/7dYvfcxBDUAE9fNdxqL9eQadDF0pBN6nPEK9S9vBRQwx/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkEpGEUVeA$ "https://www.mediateurfevad.fr/"). Après démarches préalables écrites des consommateurs vis-à-vis de Cdiscount, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/E6GqxjI5iv00wdanY60VFRHgGJUx78rpZ2MsGz46C1Ux/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkGur6A3WQ$ "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
   
   
-14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/).
+14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/). 
 
 14.4 Sauf dispositions impératives contraires telles que découlant du Règlement CE n°593/2008 du 17 juin 2008 sur la loi applicable aux obligations contractuelles (Rome I), les présentes CGV sont soumises à la législation française.
 
-Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraient nulles suite à un changement de législation ou par décision de justice, cela ne saurait en aucun cas affecter la validité des autres clauses, qui elles resteraient applicables.
+Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraient nulles suite à un changement de législation ou par décision de justice, cela ne saurait en aucun cas affecter la validité des autres clauses, qui elles resteraient applicables. 
 
-_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
-----------------------------------------------------
+_CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
+-----------------------------------------------------------
 
 **  
   
