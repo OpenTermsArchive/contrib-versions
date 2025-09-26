@@ -3,6 +3,17 @@ The Google Ads API is the programmatic interface to Google Ads, used for managin
 *   Automated account management
 *   Custom reporting
 *   Ad management based on inventory
-*   Manage Smart Bidding strategies
+*   Smart Bidding strategy management
 
-[Get Started](https://developers.google.com/google-ads/api/docs/get-started/introduction)
+Is the Google Ads API the right product for me?
+-----------------------------------------------
+
+Google provides multiple products to help automate Google Ads accounts. Here are some common scenarios and the list of Google products that might best fit your needs.
+
+| Scenario | Recommendation |
+| --- | --- |
+| I am a developer who wishes to build my own software product, or integrate with the Google Ads API. I am comfortable writing code, managing software infrastructure including servers and database. | Use the Google Ads API. |
+| I am a developer who is comfortable writing code, but prefer not to manage my own software infrastructure. | Use [Google Ads scripts](https://developers.google.com/google-ads/scripts). |
+| I am not a developer, but am willing to invest some time learning programming to automate Google Ads. | Use [Google Ads scripts](https://developers.google.com/google-ads/scripts). |
+| I am a data analyst (or similar role) who wants to download Google Ads reports for further analysis. | Use [BigQuery Data Transfer service](https://cloud.google.com/bigquery/docs/dts-introduction). Support is available for [Google Ads transfers](https://cloud.google.com/bigquery/docs/google-ads-transfer). |
+| I want to manage Google Ads in bulk, but don't want to write any code. | Use [automated rules](https://support.google.com/google-ads/answer/2472779), [bulk uploads](https://support.google.com/google-ads/answer/10702932), or [Google Ads Editor](https://support.google.com/google-ads/editor/answer/2484521). |
