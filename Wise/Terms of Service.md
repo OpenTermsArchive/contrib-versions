@@ -5,7 +5,7 @@
 
 **1.2** This Agreement refers to and incorporates by reference additional documents (the “**Additional Documents**”), which also apply to your use of our Services, including:
 
-*   a) Our **[Privacy Policy](https://wise.com/privacy-policy)**, which sets out the terms on which we process any personal data we collect about you, or that you provide to us. By using our Services, you consent to such processing, and you promise that all data provided by you is accurate;
+*   a) Our **[Privacy Policy](https://wise.com/privacy-policy)** explains how we collect and use personal data about you when you use our Services. You must ensure that all the personal data you provide to us is accurate;
 *   b) Our **[Cookie Policy](https://wise.com/cookie-policy)**, which sets out information about the “cookies” on our Website;
 *   c) Our **[Acceptable Use Policy](https://wise.com/gb/legal/acceptable-use-policy-eea)**, which sets out the permitted and prohibited uses of our Services.
 
