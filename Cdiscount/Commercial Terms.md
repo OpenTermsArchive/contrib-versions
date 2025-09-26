@@ -32,7 +32,7 @@ Depuis l’Allemagne au 0800 627 9980 (numéro gratuit) du lundi au vendredi de 
   
 Depuis l’Espagne au 0800 00 01 17 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.   
   
-Depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
+Depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h é 19h et le samedi de 9h à 18h.  
   
 Depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
@@ -119,8 +119,8 @@ Toute commande passée sur le Site suppose l’acceptation entière, sans réser
 
 [](https://i1.cdscdn.com/ImagesOK/CGV/CLeMarche.pdf) 
 
-_Article 2 : INFORMATION SUR LES PRIX_
---------------------------------------
+_CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
+---------------------------------------------------------------------------------------------------------------------------
 
 **2.1 Prix des produits et des services**  
   
@@ -152,7 +152,7 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
-.    
+.                      
 
 _Article 3 : COMMANDES_
 -----------------------
@@ -1499,9 +1499,6 @@ La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée o�
 _CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
 ---------------------------------------------------------------------------------------------------------------------------
 
-  
-  
-  
 Consultez la notice d'information : [ici](https://www.banque-casino.fr/images/pdf/carte-cdiscount/DIP-fiche-conseil-et-notice-stand-Alone-Cdiscount.pdf)
 
 _CONDITIONS GENERALES DE VENTE DOCTEUR ORDINATEUR  Docteur Ordinateur (uniquement pour la France métropolitaine et la Principauté de Monaco)_
