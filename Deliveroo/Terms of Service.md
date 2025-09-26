@@ -585,7 +585,7 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 2.  Sign up or login to Deliveroo
 3.  Link your Amazon account
 
-*   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
+*   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. If you end your Amazon Prime membership, your access to Plus will end, and you will need to sign up to a new Plus plan should you wish to continue using the service.
 
 ### **13\. Deliveroo Plus Offer with Revolut**
 
