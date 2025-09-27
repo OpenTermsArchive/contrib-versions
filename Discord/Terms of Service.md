@@ -296,7 +296,7 @@ These terms grant a non-transferable license to use the Discord App on any Apple
 Contacting each other
 ---------------------
 
-If you have any questions about, or wish to contact us in connection with, these terms, please contact us at [legal@discord.com](mailto:legalprivacy@discord.com) unless otherwise stated in these terms. We may send you electronic communications related to our services. Where required, we’ll get your consent before sending you direct marketing, and we’ll make it easy for you to opt out.
+If you have any questions about, or wish to contact us in connection with, these terms, please contact us at [privacy@discord.com](mailto:privacy@discord.com) unless otherwise stated in these terms. We may send you electronic communications related to our services. Where required, we’ll get your consent before sending you direct marketing, and we’ll make it easy for you to opt out.
 
 For technical support or other assistance with respect to our services, you can submit a request [here](https://support.discord.com/hc/en-us/requests/new). 
 
