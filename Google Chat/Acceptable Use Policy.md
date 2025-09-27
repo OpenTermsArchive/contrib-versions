@@ -1,73 +1,82 @@
 Google Chat acceptable use policy
 =================================
 
-**Important:** Google Hangouts is now Google Chat. You can no longer access Hangouts on mobile devices or the web. [Learn about the switch from Google Hangouts to Google Chat](https://support.google.com/chat/answer/9854901).
+**Last updated:** 11 September 2025
 
-To maintain a positive experience for our users, follow these policies when using Google Chat ('Chat'). These policies may change. To learn more, go to [Google's Terms of Service](https://www.google.com/policies/terms/).
-
-Spam and commercial use
------------------------
-
-*   Spam is unsolicited and unwanted messages, including promotional or commercial content, and mass solicitation.
-*   Do not send (or help send) spam, large numbers of commercial messages, or automated messages or calls.
-*   Do not make calls that violate laws that prohibit unsolicited marketing calls (for example, 'do not call' laws).
-
-[Learn how to block users in Chat](https://support.google.com/chat/answer/9277792).
-
-Fraud, phishing and other deceptive practices
----------------------------------------------
-
-Do not use Chat for phishing, including:
-
-*   Asking for or collecting sensitive data, including but not limited to passwords, financial details and national insurance numbers
-*   Using Chat to trick, mislead or deceive other users into sharing information under false pretences
-*   Impersonating another person or otherwise misrepresenting yourself or the source of a Chat message or call
-
-Malware
--------
-
-We do not allow the transmission of:
-
-*   Malware
-*   Viruses
-*   Trojan horses
-*   Corrupted files
-*   Destructive code
-*   Anything that may harm or interfere with the operation of networks, servers or other infrastructure of Google or others
+These policies apply to Google Chat ('Chat'). When applying these policies, we may make exceptions based on educational, documentary, scientific or artistic considerations, or where there are other substantial benefits to the users of the service. Make sure that you check back from time to time, as these policies may change. [Learn how to block users in Chat](https://support.google.com/chat/answer/9277792). Please also refer to [Google's Terms of Service](https://www.google.com/policies/terms/) for more information.
 
 Child safety
 ------------
 
-Do not use Chat in any way that exploits children, including:
+Do not create, upload or distribute content that exploits or abuses children. This includes all child sexual abuse material. To report content on a Google product that may exploit a child, click [Report abuse](https://support.google.com/docs/answer/2463296). If you find content elsewhere on the Internet, please contact [the appropriate agency in your country](https://support.google.com/websearch/answer/148666).
 
-*   Child sexual abuse imagery or content that presents children in a sexual manner
-*   Child grooming, which is any action aimed at establishing a connection with a child to lower the child's inhibitions in preparation for sexual abuse, trafficking or other exploitation
+More broadly, Google prohibits the use of our products to endanger children. This includes, but is not limited to, predatory behaviour towards children such as:
 
-Google has a zero-tolerance policy against this content. If we become aware of such content, we will report it to the National Center for Missing and Exploited Children as required by law. We may also take disciplinary action, including terminating the Google Accounts of those involved.
+*   Child grooming: For example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child
+*   Sextortion: For example, threatening or blackmailing a child by using real or alleged access to a child's intimate images
+*   Sexualisation of a minor: For example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children
+*   Trafficking of a child: For example, advertising or soliciting a child for commercial sexual exploitation
 
-If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact your local law enforcement immediately.
+If we become aware of such content, we will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help, or you have concerns a child is being or was being endangered on our products, you can [report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
 
-If you have already made a report to law enforcement and still need help, or you have concerns that a child is being or was subjected to endangerment on Chat, you can report the behaviour to Google.
+Dangerous and illegal activities
+--------------------------------
 
-[Report child endangerment on Google products](https://support.google.com/families/contact/report_child_grooming).
+Do not use Chat to engage in illegal activities, or to promote activities, goods, services or information that cause serious and immediate harm to people or animals. While we permit general information for educational, documentary, scientific or artistic purposes about this content, we draw the line when the content directly facilitates harm or encourages illegal activity. We will take appropriate action if we are notified of unlawful activities, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
 
-You can always block any person to prevent them from contacting you on Chat.
+Deceptive practices, fraud and scams
+------------------------------------
 
-Harassment
-----------
+Do not deceive, mislead or confuse users for financial gain or personal harm. This includes providing instructions on, recruiting for or facilitating scams and fraud. Deceptive content includes, but is not limited to, fake reviews, 'get rich quick' schemes, advance fee, romance, sweepstakes and investment scams.
 
-*   Do not use Chat to harass, threaten or intimidate others.
-*   Do not incite others to engage in harassment.
+Harassment, bullying and threats
+--------------------------------
+
+Do not harass, bully or threaten others. We also don't allow this product to be used to engage or incite others in these activities. This includes singling someone out for malicious abuse, threatening someone with serious harm, sexualising someone in an unwanted way, exposing private information about someone else that could be used to carry out threats, disparaging or belittling targets of violence or tragedy, inciting others to carry out these activities or harassing someone in other ways. Bear in mind that online harassment is illegal in many places and can have serious offline consequences for both the harasser and the target. We may take appropriate action if we are notified of threats of harm or other dangerous situations, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
+
+Hate speech
+-----------
+
+Don't engage in hate speech. Hate speech is content that promotes or condones violence against or has the primary purpose of inciting hatred against an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity or any other characteristic that is associated with systemic discrimination or marginalisation.
+
+Impersonation and misrepresentation of identity
+-----------------------------------------------
+
+Do not impersonate a person or organisation or misrepresent yourself. This includes impersonating any person or organisations that you don't represent; or providing misleading information about a user/site's identity, qualifications, ownership, purpose, products, services or business.
+
+This also includes content or accounts misrepresenting or concealing their ownership or primary purpose, such as misrepresenting or intentionally concealing your country of origin or other material details about yourself when directing content about politics, social issues or matters of public concern to users in a country other than your own.
+
+Malware and similar malicious content
+-------------------------------------
+
+Do not transmit malware or any content that harms or interferes with the operation of the networks, servers, end-user devices or other infrastructure. This includes the direct hosting, embedding or transmission of malware, viruses, destructive code or other harmful or unwanted software or similar content. This also includes content that transmits viruses, causes pop-ups, attempts to install software without the user's consent or otherwise impacts users with malicious code. See our [Safe Browsing Policies](https://safebrowsing.google.com/#policies) for more information.
+
+Non-consensual intimate imagery and sextortion
+----------------------------------------------
+
+Do not store or distribute private nude, sexually explicit or intimate images or videos without the subject's consent. If someone has sent a private nude, sexually explicit or intimate image or video of you, please report it to us [here](https://support.google.com/blogger/answer/7540088).
+
+Do not coerce (using power, influence or pressure), encourage or solicit financial gain or other sexual content from an individual through the threat of disseminating their explicit, intimate or embarrassing content of a sexual nature.
 
 Personal and confidential information
 -------------------------------------
 
-Do not distribute other people's personal and confidential information, such as credit card numbers, national insurance numbers or account passwords, without their permission.
+Do not share or distribute other people's personal or confidential information without their authorisation. ​This includes the use of sensitive information, such as US Social Security numbers, bank account numbers, credit card numbers, images of signatures and personal health documents. In most cases where this information is broadly available elsewhere on the Internet or in public records, like national ID numbers listed on a government website, we generally don't take action.
 
-Illegal activities
-------------------
+Phishing
+--------
 
-Do not use Chat to promote, organise or engage in illegal activities.
+Do not use this product for phishing. This includes soliciting or collecting sensitive data such as passwords, financial details and Social Security numbers.
+
+Spam
+----
+
+Do not spam. This may include unwanted promotional or commercial content, unwanted content that is created by an automated program, unwanted repetitive content, nonsensical content or anything that appears to be a mass solicitation.
+
+Violent organisations and movements
+-----------------------------------
+
+Known violent non-state organisations and movements aren't permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user.
 
 Policy enforcement
 ------------------
