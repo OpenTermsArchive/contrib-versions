@@ -55,7 +55,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     
 *   **“Customer Sites”** mean all websites, and mobile and tablet applications owned or controlled by Customer through which the Services are integrated and Service Data or Customer CRM Data, as applicable, is collected. 
     
-*   **“Documentation”** means NextRoll’s reference documents, support service guidelines, policies, and technical material relating to the Services that are made available to Customer (whether by email, links to websites, screen or click-through display, Account dashboards, or any other method), including but not limited to those located at [https://help.adroll.com/hc](https://help.adroll.com/hc), [https://help.rollworks.com/hc/en-us](https://help.rollworks.com/hc/en-us) and [https://www.nextroll.com/trust-center](https://www.nextroll.com/trust-center).
+*   **“Documentation”** means NextRoll’s reference documents, support service guidelines, policies, and technical material relating to the Services that are made available to Customer (whether by email, links to websites, screen or click-through display, Account dashboards, or any other method), including but not limited to those located at [https://help.adroll.com/hc](https://help.adroll.com/hc) and [https://www.nextroll.com/trust-center](https://www.nextroll.com/trust-center).
     
 *   **“End Users”** mean any natural persons accessing, using, or otherwise interacting with Customer Sites or Customer Content, or associated with Customer CRM Data.
     
@@ -83,7 +83,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     
 *   **“Service Addendum(a)”** means the supplemental terms and conditions, incorporated by reference into this Agreement, which govern the use of specific Services. 
     
-*   **“Service Data”** means data that is collected by NextRoll from End Users using Technology on Customer Sites, including any data obtained from third-parties while providing the Services. Service Data does not include Customer CRM Data. If Customer opts-in to cross-device or uses the RollWorks ABM Services authorizing NextRoll to hash End User email addresses from Customer Sites, such hashed End User email addresses will constitute Service Data.
+*   **“Service Data”** means data that is collected by NextRoll from End Users using Technology on Customer Sites, including any data obtained from third-parties while providing the Services. Service Data does not include Customer CRM Data. If Customer opts-in to cross-device or uses the AdRoll ABM Services authorizing NextRoll to hash End User email addresses from Customer Sites, such hashed End User email addresses will constitute Service Data.
     
 *   **“Services”** means the NextRoll advertising, marketing, sales, analytics and other service offerings made available to Customer under this Agreement.  
     
@@ -130,7 +130,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
 2.  Passwords and Log-Ins. Account passwords and log-in details may only be used by and for Customer, and may not be shared with any other person or entity, other than Authorized Users. Customer will secure all Account passwords and log-in details and promptly notify NextRoll of any breach or suspected breach, misuse or unauthorized access to the Account.
     
 
-**3.3 Customer Content.** Customer is responsible for all Customer Content posted or published on or through the Services and on Customer Sites and compliance with NextRoll’s Advertising Policies (for AdRoll: [https://help.adroll.com/hc/en-us/categories/360001977912-Advertising-Policies](https://help.adroll.com/hc/en-us/categories/360001977912-Advertising-Policies), for RollWorks: [https://help.rollworks.com/hc/en-us/articles/360037781412-Advertising-Policies-Overview](https://help.rollworks.com/hc/en-us/articles/360037781412-Advertising-Policies-Overview)).  During the Term, Customer grants NextRoll a non-exclusive, worldwide, royalty-free license to use, modify, display, distribute, reproduce, store and publish Customer Content on and in connection with NextRoll’s provision of Services to Customer. Customer shall provide NextRoll with Customer Content in the form and manner specified by NextRoll or authorize NextRoll to retrieve it directly from Customer Sites or through third party integrations.
+**3.3 Customer Content.** Customer is responsible for all Customer Content posted or published on or through the Services and on Customer Sites and compliance with NextRoll’s Advertising Policies (for AdRoll: [https://help.adroll.com/hc/en-us/categories/360001977912-Advertising-Policies](https://help.adroll.com/hc/en-us/categories/360001977912-Advertising-Policies)).  During the Term, Customer grants NextRoll a non-exclusive, worldwide, royalty-free license to use, modify, display, distribute, reproduce, store and publish Customer Content on and in connection with NextRoll’s provision of Services to Customer. Customer shall provide NextRoll with Customer Content in the form and manner specified by NextRoll or authorize NextRoll to retrieve it directly from Customer Sites or through third party integrations.
 
 **3.4 Use of Trademarks.**  During the Term, Customer grants NextRoll a limited right to use Customer’s trademarks, logos, and names, in the form and manner approved by Customer, on NextRoll’s websites, sales presentations, and other marketing materials, solely to identify Customer as a customer of NextRoll.
 
@@ -209,7 +209,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     
 2.  Hashed Emails used in Cross-Device Graph.
     
-    1.  If Customer opts-in to cross-device or uses RollWorks ABM Services, where email (plain text, unhashed) addresses are automatically collected by NextRoll through the Technology (specifically, the NextRoll pixel), the following provisions apply:
+    1.  If Customer opts-in to cross-device or uses AdRoll ABM Services, where email (plain text, unhashed) addresses are automatically collected by NextRoll through the Technology (specifically, the NextRoll pixel), the following provisions apply:
         
         1.  NextRoll will collect and use hashed emails derived from such email addresses and other End User identifiers (collectively, “**Hashed Emails**”). Hashed Emails are considered Service Data and stored as a persistent part of NextRoll’s cross-device graph. NextRoll will combine Hashed Emails with Service Data from other customers for purposes of providing Services generally to customers.
             
@@ -248,7 +248,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     3.  Includes instructions on how End Users how they may opt-out from receiving cross-site advertising, by accessing their device setting or visiting and employing the controls described on the NAI’s Mobile Choices page.
         
 
-More information and guidelines on privacy notice best practices  can be found here: (for AdRoll Customers [https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement](https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement)) (for RollWorks Customers [https://help.rollworks.com/hc/en-us/articles/360036024352-Privacy-Notice-Requirements](https://help.rollworks.com/hc/en-us/articles/360036024352-Privacy-Notice-Requirements)).
+More information and guidelines on privacy notice best practices  can be found here: (for AdRoll Customers [https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement](https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement)).
 
 **7.3 ​​​​ Data Processing and Protection.**
 
