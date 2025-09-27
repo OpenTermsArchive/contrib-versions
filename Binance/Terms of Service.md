@@ -904,3 +904,10 @@ USD-$
 *   [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
     
 *   [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
+    
+
+### **Compliance**
+
+*   [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
+    
+*   [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
