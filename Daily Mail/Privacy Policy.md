@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 29 July 2025
+###### Last updated: 29 September 2025
 
-###### Previous version: 28 May 2025
+###### Previous version: 29 July 2025
 
 ### 1\. What is this Policy for?
 
@@ -273,7 +273,7 @@ We collect information from your device to detect whether you’re using an ad b
 
 #### Surveys and market research
 
-We collect information via online survey units (Pulse Poll) and via our online research community of our readers (Matters Community) to help us better understand our readers and how they engage with the advertising they are shown. We collect this information when you voluntarily contribute or we invite you to contribute to any of our surveys, polls or forum discussions on our websites or online research community, for example when we ask you questions about your behaviour or response to adverts seen. We will also use your responses to our surveys, polls or forum discussions to send you targeted advertising, where we have your permission to do so. How we use data relating to our online survey units is covered by this Policy. For more information about how we use data relating to our online research community, please see our separate [Matters Community Privacy Policy](https://matterscommunity.co.uk/p/privacy).
+We collect information via online survey units (Mail Poll), polls within articles and via our online research community of our readers (Matters Community) to help us better understand our readers and how they engage with the advertising they are shown. We collect this information when you voluntarily contribute or we invite you to contribute to any of our surveys, polls or forum discussions on our websites or online research community, for example when we ask you questions about your behaviour or response to adverts seen. We will also use your responses to our surveys, polls or forum discussions to send you targeted advertising, where we have your permission to do so. How we use data relating to our online survey units is covered by this Policy. For more information about how we use data relating to our online research community, please see our separate [Matters Community Privacy Policy](https://matterscommunity.co.uk/p/privacy).
 
 ##### Legal basis for processing this data: Consent (if requested) or legitimate interests
 
