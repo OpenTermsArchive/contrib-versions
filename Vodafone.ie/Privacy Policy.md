@@ -1022,11 +1022,11 @@ Vodafone Secure Net and Secure Net Find and Ring are provided solely by Vodafone
 Tozi App Privacy Statement ([access pdf](https://binaries.vodafone.co.uk/tizrehont83j/1UcRa7LiwcWf6SbcoKNdl2/cd9523ad81de758dcd4a75a20009931f/tozi_privacy_policy.pdf))  
 Tozi Child Friendly Privacy Statement ([access pdf](https://binaries.vodafone.co.uk/tizrehont83j/2RaIicxt7VvnGau7ZASA3E/967ce688701e57d0ce95ebb223ca9bec/tozi_child_friendly_privacy_statement.pdf))
 
-### Gigabox app
+### Vodafone Broadband and Gigabox Apps
 
-The Vodafone Gigabox App allows Gigabox modem users to control their Wi-Fi network. You can easily change your Wi-Fi network name and passwords, set up a guest Wi-Fi network, create a schedule for when Wi-Fi is available, and manage the devices connected to your network.  
+The Vodafone Broadband and Gigabox Apps allows Ultra Hub 7 and Gigabox modem users to control their Wi-Fi network. You can easily change your Wi-Fi network name and passwords, set up a guest Wi-Fi network, create a schedule for when Wi-Fi is available, and manage the devices connected to your network.
 
-This privacy supplement gives some additional information specific to the Gigabox App (‘App’). For general information about how we process your data as part of the services we provide to you, you can view our main privacy policy here.
+This privacy supplement gives some additional information specific to the Vodafone Broadband and Gigabox Apps (‘App’). For general information about how we process your data as part of the services we provide to you, you can view our main privacy policy here.
 
 ###   
 Personal information we collect about you
@@ -1042,7 +1042,11 @@ When you use the App and its features, for example check your broadband usage, v
     
 *   Unique line identifier
     
-*   Unique line identifier
+*   User ID
+    
+*   Subscription ID
+    
+*   Device ID (Fingerprinting)
     
 *   If you choose to name devices with personal names, we will store this data also.
     
@@ -1160,8 +1164,6 @@ We have specialised security teams who constantly review and improve our measure
 We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
 We’ll never ask for your secure personal or account information by an unsolicited means of communication. You’re responsible for keeping your personal and account information secure and not sharing it with others.
-
-  
 
 ### Gigabit Smart Services
 
