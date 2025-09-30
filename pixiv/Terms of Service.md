@@ -1601,19 +1601,17 @@ The Company grants to User a non-exclusive right to use the Individual Service i
 Article 4. Content
 ------------------
 
-1.  “Comic” means manga works and their electronic book files that can be subscribed to and read on the Individual Service, including posted works.In addition, in these Individual Terms of Use, "subscription" means subscribing to a comic (hereinafter referred to as “Subscribed Comic”) provided for a fee with Coins (defined in the next article).
-2.  “Novel” means the novels that can be read on the Individual Service.
-3.  Collectively, “Content” means the comics, subscribed comics, and novels.
-4.  Content may be read via a viewer using an application or browser version. Users shall comply with the unit of reading, the range of reading, the use fees, use periods, payment methods, and other terms of use specified with regard to Content.
-5.  Subscribed Comics may be used only on the account or through the Application from which they were purchased. Users may not assign or transfer the use rights of Subscribed Comics to third parties.
-6.  Some content may have restrictions on how long it can be viewed. In this case, the Company may terminate or restrict the provision of the content without prior notice. We are not obliged to notify users that the browsing period has expired.
-7.  Some Content may be purchasable and readable only using a browser and cannot be purchased or read through an application. Further, some Content may be purchased and readable through an application and cannot be purchased or read using a browser.
-8.  Users may not use Content in excess of the use format intended by the Individual Service (including reproduction, transmission, reprinting, modification, and other similar conduct).
-9.  Some Content may not be purchasable or readable depending on the region of use or the account use conditions.
-10.  In the following cases, the Company may terminate or restrict the provision of specific content without prior notice , regardless of whether there are access period restrictions. Except where specified otherwise in the Master Terms of Use or these Individual Terms, the Company shall owe no liability for any damage suffered by Users in consequence of such termination or restriction of content provision under the provisions of this paragraph.
-     1.  When the author, copyright holder, publishing company, or other rights holder of the content wishes to terminate or restrict provision;
-     2.  When an agreement between the Company and the author, copyright holder, publishing company, or other rights holder allowing Users to purchase or read the content has terminated; and
-     3.  When the Company otherwise determines that a circumstance has arisen which will make it difficult to provide the content to Users.
+1.  “Content” means all works (including, but not limited to, comics, art books, and photo books; hereinafter simply referred to as "Works") and their electronic book files that can be subscribed to and read on the Individual Service, including posted works.In addition, in these Individual Terms of Use, "subscription" means subscribing to a Works and their electronic book files (hereinafter referred to as “Subscribed Content”) provided for a fee with Coins (defined in the next article).
+2.  Content may be read via a viewer using an application or browser version. Users shall comply with the unit of reading, the range of reading, the use fees, use periods, payment methods, and other terms of use specified with regard to Content.
+3.  Subscribed Contents may be used only on the account or through the Application from which they were purchased. Users may not assign or transfer the use rights of Subscribed Contents to third parties.
+4.  Some content may have restrictions on how long it can be viewed. In this case, the Company may terminate or restrict the provision of the content without prior notice. We are not obliged to notify users that the browsing period has expired.
+5.  Some Content may be purchasable and readable only using a browser and cannot be purchased or read through an application. Further, some Content may be purchased and readable through an application and cannot be purchased or read using a browser.
+6.  Users may not use Content in excess of the use format intended by the Individual Service (including reproduction, transmission, reprinting, modification, and other similar conduct).
+7.  Some Content may not be purchasable or readable depending on the region of use or the account use conditions.
+8.  In the following cases, the Company may terminate or restrict the provision of specific content without prior notice , regardless of whether there are access period restrictions. Except where specified otherwise in the Master Terms of Use or these Individual Terms, the Company shall owe no liability for any damage suffered by Users in consequence of such termination or restriction of content provision under the provisions of this paragraph.
+    1.  When the author, copyright holder, publishing company, or other rights holder of the content wishes to terminate or restrict provision;
+    2.  When an agreement between the Company and the author, copyright holder, publishing company, or other rights holder allowing Users to purchase or read the content has terminated; and
+    3.  When the Company otherwise determines that a circumstance has arisen which will make it difficult to provide the content to Users.
 
 Article 5. Coins
 ----------------
@@ -1621,11 +1619,11 @@ Article 5. Coins
 1.  “Coin” means each of the following defined in this Article: App Version Purchase Coin, Browser Version Purchase Coin, and Bonus Coin. The purchase unit, payment method, and other conditions for App Version Purchase Coin and Browser Version Purchase Coin shall be displayed on each platform.
 2.  “App Version Purchase Coin” means the prepaid payment instrument that can be purchased by the User on the iOS Application or Android Application and that can be used only on the respective App Version.
 3.  “Browser Version Purchase Coin” means the prepaid payment instrument that can be purchased by the User on the Browser Version and that can be used only on the Browser Version.
-4.  “Bonus Coin” means that which the Company awards to the User free of charge as a prize through campaigns or other means, and that may be used by the User to subscribe to and view Subscribed Comic regardless of platform. The validity periods for App Version Purchase Coin, Browser Version Purchase Coin, and Bonus Coin shall be as specified in the following:
+4.  “Bonus Coin” means that which the Company awards to the User free of charge as a prize through campaigns or other means, and that may be used by the User to subscribe to and view Subscribed Content regardless of platform. The validity periods for App Version Purchase Coin, Browser Version Purchase Coin, and Bonus Coin shall be as specified in the following:
     1.  App Version Purchase Coin: No expiration.
     2.  Browser Version Purchase Coin: Valid until the date that is 180 days after the purchase date of each Browser Version Purchase Coin.
     3.  Bonus Coin: Valid until the date that is 180 days after the date on which Bonus Coin was last acquired (hereinafter referred to as the “Last Acquisition Date”). (Bonus Coins held prior to the Last Acquisition Date that were valid as of the Last Acquisition Date shall also be valid until the date that is 180 days after the Last Acquisition Date.)Unused Browser Version Purchase Coins and Bonus Coins shall expire upon the lapse of their validity periods.
-5.  Coins may not be exchanged for any rights other than the right to subscribe to and view Subscribed Comic as designated by the Company, nor for cash, property, or any other economic benefit. The number of Coins required for exchange with Subscribed Comic and other conditions of use shall be determined by the Company and displayed on the Individual Service. In addition, once Coins have been used for subscribing to and viewing Subscribed Comic, such use may not be cancelled.
+5.  Coins may not be exchanged for any rights other than the right to subscribe to and view Subscribed Content as designated by the Company, nor for cash, property, or any other economic benefit. The number of Coins required for exchange with Subscribed Content and other conditions of use shall be determined by the Company and displayed on the Individual Service. In addition, once Coins have been used for subscribing to and viewing Subscribed Content, such use may not be cancelled.
 6.  Coins shall not be refunded for any reason whatsoever; however, this shall not apply where required by law. In such cases, the method for refunding Coins shall be determined by the Company in accordance with applicable law and displayed on the Individual Service.
 7.  Coins may only be used on the account with which they were acquired. They may not be assigned or transferred to other accounts.
 8.  App Version Purchase Coins and Browser Version Purchase Coins may only be carried over on the same platform authenticated by the same account. Coins acquired on different platforms, even if bearing the same name, are of different types and, under any circumstances, may not be carried over or aggregated.
@@ -1635,7 +1633,7 @@ Article 5. Coins
 Article 6. Discount Items
 -------------------------
 
-1.  “Discount Items” means a discount ticket exclusively for the Individual Service, which can be used when subscribing to Subscribed Comic.
+1.  “Discount Items” means a discount ticket exclusively for the Individual Service, which can be used when subscribing to Subscribed Content.
 2.  The Discount Items provided by the Company in the Individual Service fall under the following two categories:
     1.  Coupons; and
     2.  Promotion codes.
@@ -1658,6 +1656,7 @@ Supplementary Provisions
 Revision
 --------
 
+*   9/30,2025 Article 4(Content) through Article 6 (Discount Items) have been revised in conjunction with the termination of the novel reading functionality.
 *   4/7, 2025 Article 3 (Provision of Services) through Article 6 (Discount Items) have been revised in conjunction with the commencement of the novel reading functionality.
 *   9/20, 2022 Article 4 (Content) have been revised.
 *   2/7, 2022 Article 5 (Coins) have been revised.
