@@ -1,11 +1,15 @@
 Glassdoor Terms of Use
 ======================
 
-**Revised:** February 17, 2024 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
+**Revised:** September 29, 2025 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
 
-These Terms of Use (the **“Terms”**), which incorporate our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor), govern your access to and use of our services, including our various websites, such as [Glassdoor.com](https://www.glassdoor.com/) and [Fishbowlapp.com](https://www.fishbowlapp.com/), applications, ads, communications, events, and other covered products or services that link to these Terms (collectively **“services”**). By accessing and using the services, you agree to comply with these Terms. If you’re using the services on behalf of a company or other legal entity, then “you” also means such company or legal entity and you agree to be bound by these Terms even if we have a separate agreement with you. You may not use the services if you do not agree to the linked version of the Terms at the time you access the services.  
-For the purposes of these Terms, **“Glassdoor,”** means Glassdoor LLC.  
-  
+Glassdoor LLC (“Glassdoor”) provides the services Glassdoor.com and Fishbowlapp.com. These Terms of Use (the “Terms”), which incorporate our Privacy Policy, govern your access to and use of these services and affiliated websites, applications, ads, communications, events, and other covered products or services that link to these Terms (collectively “services”). The services covered by these terms are:
+
+*   [Glassdoor.com](https://www.glassdoor.com/)
+*   [Fishbowlapp.com](https://www.fishbowlapp.com/).
+
+By accessing and using the services, you agree to comply with these Terms. If you’re using the services on behalf of a company or other legal entity, then “you” also means such company or legal entity and you agree to be bound by these Terms even if we have a separate agreement with you. You may not use the services if you do not agree to the linked version of the Terms at the time you access the services.
+
 **THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND ALSO LIMIT THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE. SEE SECTION 12 FOR ADDITIONAL INFORMATION.**
 
 1\. Eligibility to Use the Services
