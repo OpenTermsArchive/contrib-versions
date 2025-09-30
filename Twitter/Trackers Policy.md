@@ -4064,3 +4064,35 @@ https://x.com/privacy
 Web Domain
 
 .x.com
+
+Name
+
+cf\_chl\_rc\_ni
+
+Description
+
+This cookie is for Cloudflare to identify production issues on clients
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+help.x.com
+
+Name
+
+cf\_clearance
+
+Description
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+Web Domain
+
+.help.x.com
