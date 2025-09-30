@@ -1,9 +1,9 @@
-Amazon Appstore for Android Terms of Use
-========================================
+Amazon Appstore Terms of Use
+============================
 
-Last updated: April 30, 2021
+Last updated: September 30, 2025
 
-**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore for Android and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at [https://www.amazon.com/privacy](https://www.amazon.com/privacy), the Amazon.com Conditions of Use at** [**https://www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**, and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
+**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at** [**www.amazon.com/privacy**](https://www.amazon.com/privacy)**, the Amazon.com Conditions of Use at** [**www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**, and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
 
 **IF YOU USE THE AMAZON APPSTORE, YOU AGREE TO BE BOUND BY THIS AGREEMENT ON BEHALF OF YOURSELF AND ALL MEMBERS OF YOUR HOUSEHOLD AND OTHERS WHO USE THE AMAZON APPSTORE UNDER YOUR ACCOUNT.**
 
@@ -15,7 +15,7 @@ In the Amazon Appstore, you can access, browse, purchase and download software g
 
 **2.1 General.**
 
-After you order an App and pay any corresponding price to us, you may download a copy of the App for your personal use to a device on which you have installed and signed in to our Appstore Software (as defined in Section 3.1). Apps can be used only on devices that use the Android platform and meet certain other technical requirements. Generally, App device requirements are described on or through our App detail pages.
+After you order an App and pay any corresponding price to us, you may download the App for your personal use to a device that includes our Appstore Software (as defined in Section 3.1) and on which you’ve signed into your Amazon account. Apps can be used only on devices that meet certain technical requirements, which can vary from App to App. Generally, App device requirements are described on or through our App detail pages.
 
 **2.2 Trial Access to Apps.**
 
@@ -23,29 +23,39 @@ We may offer free trial and other limited versions of Apps so you can preview Ap
 
 **2.3 In-App Products.**
 
-We may offer digital products for sale that are intended to be accessed or used within an App, such as additional or enhanced functionality, media content, or subscription access to content or services ("Amazon-Sold In-App Products"). Not all products and services available for purchase within an App are Amazon-Sold In-App Products. You will be able to identify Amazon-Sold In-App Products because you will see our logo when making the purchase and will complete the purchase using your Amazon Appstore payment method. Amazon-Sold In-App Products are subject to any use, access and other restrictions described on, or linked from, the Amazon-Sold In-App Product detail page or otherwise provided in this Agreement.
+Amazon may offer digital products for sale that are intended to be accessed or used within an App, such as additional or enhanced functionality, media content, or subscription access to content or services ("Amazon-Sold In-App Products"). Not all products and services available for purchase within an App are Amazon-Sold In-App Products. You will be able to identify Amazon-Sold In-App Products because you will see our logo when making the purchase and will complete the purchase using your Amazon Appstore payment method. Amazon-Sold In-App Products are subject to any use, access and other restrictions described on, or linked from, the Amazon-Sold In-App Product detail page or otherwise provided in this Agreement.
 
 Other than for purchases of Amazon-Sold In-App Products, we are not a party to, and have no responsibility for, any payment or purchase transactions you make through an App (unless we expressly state otherwise in writing, such as in connection with purchases made through our Amazon Shopping App).
 
 **2.4 Subscriptions.**
 
-If you purchase an Amazon-Sold In-App Product that is a subscription or start a free trial for such a subscription, your subscription will automatically continue at the regular subscription price. UNLESS YOU SET A SUBSCRIPTION TO NOT AUTOMATICALLY RENEW BEFORE ITS RENEWAL DATE, YOU AUTHORIZE US (WITHOUT NOTICE TO YOU, UNLESS REQUIRED BY APPLICABLE LAW) TO COLLECT THE THEN-APPLICABLE SUBSCRIPTION FEE AND ANY TAXES, USING ANY PAYMENT METHOD WE HAVE ON RECORD FOR YOU.
+If you purchase an Amazon-Sold In-App Product that is a subscription (an “Amazon-Sold Subscription Product”), your subscription will automatically renew until canceled. If you start a free trial of such an Amazon-Sold Subscription Product, your subscription will automatically convert to the applicable paid subscription plan at the end of the free trial period. UNLESS YOU SET AN AMAZON-SOLD SUBSCRIPTION PRODUCT TO NOT AUTOMATICALLY RENEW BEFORE ITS RENEWAL DATE, YOU AUTHORIZE US (WITHOUT NOTICE TO YOU, UNLESS REQUIRED BY APPLICABLE LAW) TO COLLECT THE THEN-APPLICABLE SUBSCRIPTION FEE AND ANY TAXES, USING ANY PAYMENT METHOD WE HAVE ON RECORD FOR YOU.
 
-We may terminate a subscription at any time, for example, if the applicable Amazon-Sold In-App Product is no longer available. If we terminate a subscription before the end of its term, you will receive a prorated refund. We reserve the right to change subscription terms and prices from time to time, effective as of the beginning of the next subscription term.
+If all payment methods we have on file for you are declined for payment of your subscription fees, your Amazon-Sold Subscription Product will be canceled unless you provide us with a new payment method. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), and you have not canceled your subscription, you remain responsible for any uncollected amounts, and we may continue to attempt to charge the payment method.
+
+We may terminate an Amazon-Sold Subscription Product at any time, for example, if the applicable Amazon-Sold Subscription Product is no longer available. If we terminate an Amazon-Sold Subscription Product before the end of its term, you will receive a prorated refund. We reserve the right to change subscription terms and prices from time to time, effective as of the beginning of the next subscription term. You will be notified in advance of any price increases.
+
+You may cancel an Amazon-Sold Subscription Product at any time. To avoid the next charge, you must cancel before the next renewal date. When you cancel your subscription, you will continue to have access to the subscription benefits until the end of your current subscription period, after which you will lose access to all features, content, or benefits.
+
+If you sign up for a subscription through a third party and are not directly billed by Amazon, then the billing terms provided by the third party will apply to you.
 
 **2.5 All Sales Final.**
 
-All purchases of Apps and Amazon-Sold In-App Products are final, except as expressly stated in [Digital Products Return Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=15015721#GUID-D26A35E8-EE23-4B88-8B62-B357ABA6DDEE__SECTION_D5E9EE1A2A654FBEA55DE422D94F3078). We do not accept returns of Apps or Amazon-Sold In-App Products. Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
+All purchases of Apps and Amazon-Sold In-App Products are final, except as expressly stated in [Digital Products Return Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). We do not accept returns of Apps or Amazon-Sold In-App Products. Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
 
 **2.6 Downloading and Availability of Apps after Purchase.**
 
-Once you have paid for an App, you may download copies of the App for your personal use to compatible Android devices. Each time you download an App to a particular device, you will first be required to download and install the Appstore Software, if it is not already available on the device, and to sign in to the Appstore Software using the user name and password for the Amazon.com customer account that you used to buy the App. We will usually continue making Apps you have purchased available to you in our Amazon Appstore so that you can download additional copies under the terms of this Agreement, but that is not always the case, and we may limit or disable further downloads of an App due to licensing restrictions or for other reasons. Certain Apps rely on cloud-based services provided by the Publisher for some or all of their functionality. These Apps may not function properly or may become inoperable if the Publisher discontinues those services.
+Once you have paid for an App, you may download the App for your personal use to compatible devices on which you’ve signed into the Appstore Software using the user name and password for the Amazon.com customer account that you used to buy the App. We will usually continue making Apps you have purchased available to you in our Amazon Appstore so that you can download and reinstall Apps under the terms of this Agreement, but that is not always the case, and we may limit or disable further downloads of an App due to licensing restrictions or for other reasons. Certain Apps rely on cloud-based services provided by the Publisher for some or all of their functionality. These Apps may not function properly or may become inoperable if the Publisher discontinues those services.
 
-**2.7 Updates to Apps.**
+**2.7 Amazon Cloud-Hosted Apps.**
+
+On some devices, certain Apps may run in whole or in part in the Amazon cloud, rather than on your device. These Apps are indicated on App detail pages as Amazon cloud-hosted Apps. If you use these Apps, you instruct Amazon to host, store, and process the Apps and associated data in Amazon’s cloud. You can learn more about cloud Apps at [www.amazon.com/help/firetv/cloudappsfaq](https://www.amazon.com/help/firetv/cloudappsfaq).
+
+**2.8 Updates to Apps.**
 
 The Publisher of an App may provide us with updates to that App from time to time. We may automatically install updates to your Apps, or prompt you to install the updates, depending on how your Amazon.com account and Appstore Software settings are configured.
 
-**2.8 Ratings.**
+**2.9 Ratings.**
 
 We may provide age and content ratings for Apps that are based on information provided to us by the Publisher or other third parties. While we require Publishers to provide accurate information regarding the content of their Apps, we cannot ensure that App ratings are accurate or that Apps do not include content that is offensive, indecent, or objectionable.
 
@@ -53,11 +63,11 @@ We may provide age and content ratings for Apps that are based on information pr
 
 **3.1 Appstore Software.**
 
-We may make available to you software that you need to install on your device in order to download Apps purchased from the Amazon Appstore to that device and to access or use Apps on that device (the "Appstore Software"). Terms contained in the Amazon.com Conditions of Use apply to your use of the Appstore Software. For additional terms that apply to certain third party software, click [here](https://www.amazon.com/gp/redirect.html/ref=amb_link_355618602_3?location=http://www.amazon.com/additionalappsoftwareterms&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-3&pf_rd_r=0NYXH8Q5MSDNGAE068Q9&pf_rd_t=1401&pf_rd_p=1558395322&pf_rd_i=1000667601). The Appstore Software may allow you to access or use the Amazon Appstore from a device, and purchases of Apps or Amazon-Sold In-App Products that you make via the Appstore Software will be charged to a payment method associated with the Amazon.com account you used to sign in to the Appstore Software. Publishers may choose to protect their Apps using a digital rights management ("DRM") system implemented through the Appstore Software. Appstore Software includes any software we include in an App to enable the DRM or for other purposes. If you uninstall the Appstore Software from your device or sign out of your Amazon.com account in the Appstore Software, you will not be able to access or use any Apps on your device that Publishers have protected with DRM. You may not attempt to disable, bypass, modify, defeat, or otherwise circumvent the DRM or any other security or content protection system used in connection with the Amazon Appstore.
+We install software on your device that allows you to download Apps purchased from the Amazon Appstore and allows you to access or use Apps on your device (the "Appstore Software"). Terms contained in the Amazon.com Conditions of Use apply to your use of the Appstore Software. For additional terms that apply to certain third party software, click [here](https://www.amazon.com/additionalappsoftwareterms). Purchases of Apps or Amazon-Sold In-App Products that you make via the Appstore Software will be charged to a payment method associated with the Amazon.com account you used to sign in to the Appstore Software. Publishers may choose to protect their Apps using a digital rights management ("DRM") system implemented through the Appstore Software. Appstore Software includes any software we include in an App to enable the DRM or for other purposes. If you sign out of your Amazon.com account in the Appstore Software, you may not be able to access or use Apps on your device that Publishers have protected with DRM. You may not attempt to disable, bypass, modify, defeat, or otherwise circumvent the DRM or any other security or content protection system used in connection with the Amazon Appstore.
 
 **3.2 Information Provided to Amazon.**
 
-Amazon respects your privacy, and the Appstore Software will not access files or other information on any device where your Apps are located that are not used by or otherwise related to the Appstore Software or performance of the Apps. The Appstore Software and Apps will provide Amazon with information relating to the download, use and performance of the Appstore Software and your Apps, as well as information regarding the devices on which you download and use the Appstore Software or Apps. For example, the Appstore Software and Apps may provide Amazon with information about the device type, network connectivity, location of the device running an App, information about when an App is launched, individual session lengths for Apps, or why an App may not be working. Any information we receive is subject to the Amazon.com Privacy Notice located at [https://www.amazon.com/privacy](https://www.amazon.com/privacy).
+Amazon respects your privacy, and the Appstore Software will not access files or other information on any device where your Apps are located that are not used by or otherwise related to the Appstore Software or performance of the Apps. The Appstore Software and Apps will provide Amazon with information relating to the download, use and performance of the Appstore Software and your Apps, as well as information regarding the devices on which you download and use the Appstore Software or Apps. For example, the Appstore Software and Apps may provide Amazon with information about the device type, network connectivity, location of the device running an App, information about when an App is launched, individual session lengths for Apps, or why an App may not be working. Any information we receive is subject to the Amazon.com Privacy Notice located at [www.amazon.com/privacy](https://www.amazon.com/privacy).
 
 **3.3 Separate Licenses to Use Apps.**
 
@@ -67,7 +77,7 @@ Your use of an App will be governed by the terms and conditions of an end user l
 
 (ii) If the App does not include a Publisher EULA that specifies App license rights, Publisher grants you a limited, nontransferable license to download and use the App only for your personal and noncommercial purposes.
 
-(iii) You may download additional copies of the App to compatible Android devices that have been linked to the Amazon.com customer account that you used to buy the App in accordance with Amazon's rules and policies for the Amazon Appstore.
+(iii) You may download and reinstall the App on compatible devices that have been linked to the Amazon.com customer account that you used to buy the App in accordance with Amazon's rules and policies for the Amazon Appstore.
 
 (iv) Any information that Publisher collects from you or your device will be subject to any Publisher EULA, privacy notice, or similar terms that the Publisher provides to you, and will not be subject to the Amazon.com Privacy Notice.
 
@@ -99,7 +109,7 @@ Your rights under this Agreement will automatically terminate without notice fro
 
 For communications concerning this Agreement, please write to Amazon, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226.
 
-**4.5 Disputes. Any dispute or claim arising from or relating to the Agreement or the Amazon Appstore is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the Amazon.com Conditions of Use at** [**https://www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**.**
+**4.5 Disputes. Any dispute or claim arising from or relating to the Agreement or the Amazon Appstore is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the Amazon.com Conditions of Use at** [**www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**.**
 
 **4.6 Limitation of Liability.**
 
