@@ -1,9 +1,23 @@
+![Glassdoor & Fishbowl Logo](https://hrtechprivacy.com/wp-content/uploads/2022/11/Glassdoor-Fishbowl-Lockup-scaled.png)
+
 Glassdoor Privacy Policy
 ========================
 
-**Revised** July 27, 2023 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
+**Revised** September 29, 2025 ([previous version](https://hrtechprivacy.com/glassdoor-privacy-and-cookie-policy-archive-july-27-2023-version))
 
-This Privacy Policy (the “**Policy**”) applies to personal data Glassdoor processes when providing our services, including various Glassdoor websites, such as [Glassdoor.com](https://www.glassdoor.com/index.htm) and [Fishbowlapp.com](https://www.fishbowlapp.com/), applications, ads, communications, and other instances where we link to this Policy (collectively “**services**”). Any term not defined in this Policy has the meaning set forth in our [Terms of Use](https://www.glassdoor.com/about/terms.htm). As used in this Policy, the word “including” means “including but not limited to.” Glassdoor affiliates include Indeed and Indeed Flex. You can read more about our affiliates and our shared commitment to privacy at our [Privacy Center](https://hrtechprivacy.com/).
+Glassdoor LLC (“Glassdoor”) is the provider of the services [Glassdoor.com](http://glassdoor.com/) and [Fishbowlapp.com](http://fishbowlapp.com/). This Privacy Policy (the “Policy”) applies to personal data Glassdoor processes when providing these services and affiliated applications, ads, communications, and other instances where we link to this Policy (collectively “services”). The services covered by this Policy are: 
+
+*   [Glassdoor.com](https://www.glassdoor.com/index.htm)
+*   [Fishbowlapp.com](https://www.fishbowlapp.com/)  
+
+Any term not defined in this Policy has the meaning set forth in our [Terms of Use](https://www.glassdoor.com/about/terms.htm). As used in this Policy, the word “including” means “including but not limited to.” Glassdoor affiliates include Indeed and Indeed Flex. You can read more about our affiliates and our shared commitment to privacy at our [Privacy Center](https://hrtechprivacy.com/).
+
+**Data Controller**
+
+Glassdoor LLC is the data controller for our services.
+
+*   Our representative in the UK for GDPR: Glassdoor Global Ltd.
+*   Our representative in the EU for GDPR: Glassdoor Hiring Solutions Ireland Ltd.
 
 **Personal Data We Process and How We Use It**
 ----------------------------------------------
@@ -192,17 +206,8 @@ You can also use third-party tools to manage the third-party cookies that may be
 *   You can opt out of tracking by Google Analytics and Google Analytics Demographics and Interest Reporting services by visiting [Google Ads Settings](https://adssettings.google.com/) or by downloading the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 *   Please note: If ads or other features on our services are provided by third parties, they set and use their own cookies that are subject to those third parties’ privacy notices and policies. We do not have access to, or control over, these cookies.
 
-**Data Controller & International Transfers**
----------------------------------------------
-
-**Data Controller**
-
-Glassdoor LLC is the data controller for our services.
-
-*   Our representative in the EU for GDPR: Glassdoor Hiring Solutions Ireland Ltd.
-*   Our representative in the UK for GDPR: Glassdoor Global Ltd.
-
 **International Transfers**
+---------------------------
 
 The data we process is hosted, controlled, and services are provided by Glassdoor LLC, including, where applicable, outside of the European Economic Area (EEA), Switzerland, and the UK, including in the United States. Your personal data may be transferred to or accessed by entities around the world, including Glassdoor-affiliated companies and our services providers, to perform processing activities such as those described in this Policy. Glassdoor complies with laws on the transfer of personal data between countries to help ensure your data is protected, wherever it may be.
 
@@ -213,7 +218,7 @@ The data we process is hosted, controlled, and services are provided by Glassdoo
     *   Glassdoor shall remain liable under the Principles if our service providers process such personal data in a manner inconsistent with the Principles unless we prove that we are not responsible for the event giving rise to the damage.
     
     *   With respect to personal data received or transferred pursuant to the Data Privacy Frameworks, Glassdoor is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Glassdoor may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-    *   If you have an unresolved privacy or data use concern related to our participation in the Data Privacy Framework that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider, TrustArc at [feedback-form.truste.com/watchdog/request](http://feedback-form.truste.com/watchdog/request). You may also have the right to [invoke binding arbitration](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf).
+    *   If you have an unresolved privacy or data use concern related to our participation in the Data Privacy Framework that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider, TrustArc, at [feedback-form.truste.com/watchdog/request](http://feedback-form.truste.com/watchdog/request). You may also have the right to [invoke binding arbitration](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf).
 
 **Additional Information About Our Data Practices**
 ---------------------------------------------------
@@ -267,7 +272,7 @@ We may revise this Policy from time to time by posting an updated version. If we
 **Contact Us**
 --------------
 
-For all routine inquiries please use the contact details provided below.
+For all routine inquiries, please use the contact details provided below.
 
 *   If you would like to access/download, delete, rectify/update, ask a question about, or withdraw consent regarding your data, please submit your request through [our automated, self-service system](https://help.glassdoor.com/s/privacyrequest?language=en_US).
 *   For service-related inquiries: contact us [here](https://help.glassdoor.com/s/ContactUs?language=en_US).
