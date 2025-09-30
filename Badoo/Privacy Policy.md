@@ -310,7 +310,7 @@ If you feel we have not resolved your concern, you have the right to make a comp
 
 Pursuant to Article 27 of the General Data Protection Regulation (GDPR), Badoo has appointed Borlux Ltd as its GDPR representative in the EU. If you usually reside in an EU Member State you can contact Borlux Ltd regarding matters pertaining to the GDPR by:
 
-Email: GDPRrequest@comnet.ie
+Email: GDPRrequest@privacyquery.ie
 
 Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
 
