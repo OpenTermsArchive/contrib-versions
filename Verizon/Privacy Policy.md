@@ -1222,4 +1222,4 @@ Washington, DC 20005
 
 #### Online
 
-Verizon Wireless or Home services customers may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries). Verizon Value customers may email us at privacy@tracfone.com.
+Submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
