@@ -4,7 +4,7 @@ Wikimedia Foundation Privacy Policy
 Other languages:
 
 *   [Avañe'ẽ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gn "Policy:Privacy policy/gn (6% translated)")
-*   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Policy:Privacy policy/id (57% translated)")
+*   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Policy:Privacy policy/id (84% translated)")
 *   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Policy:Privacy policy/ms (48% translated)")
 *   [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
 *   [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Policy:Privacy policy/ceb (7% translated)")
