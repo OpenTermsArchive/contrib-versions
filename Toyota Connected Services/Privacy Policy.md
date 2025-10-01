@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: July 16, 2025  
+UPDATED AS OF: September 30, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on July 16, 2025.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on September 30, 2025.
 
 **Information Collected**
 
@@ -52,11 +52,21 @@ This summary of the Toyota Privacy Notice applies to Personal Information (as d
 
 [**Learn more**](#_5)
 
-**Toyota Privacy Notice**
+**How to Contact Us**
+
+To contact us with a question call us at 800-331-4331 or mail your inquiry to:  
+Toyota Motor Sales, U.S.A., Inc.  
+P.O. Box 259001  
+Plano, TX  
+75025-9001
+
+To read our full Privacy Notice [click here](#privacy).
+
+**Toyota Privacy Notice**
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: July 16, 2025  
+UPDATED AS OF: September 30, 2025  
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
@@ -278,7 +288,7 @@ U.S. privacy laws provide consumers with certain rights regarding their Personal
 
 **How to Submit a Request**
 
-If you would like to exercise any of the privacy rights identified above, you may submit a request by completing the online request form at [https://privacy.toyota.com/](https://privacy.toyota.com/).
+If you would like to exercise any of the privacy rights identified above, you may submit a request by either completing the online request form at [https://privacy.toyota.com/](https://privacy.toyota.com/) or by calling us at 855-226-4048.
 
 **Authorized Agent/Power of Attorney/Conservatorship/Guardianship.**
 
@@ -295,6 +305,8 @@ If you are an authorized agent seeking to make a privacy rights request (where p
 *   Selecting submitted by “_Authorized Agent_”
 *   Completing the online form
 *   Uploading the completed and signed “_TMNA Authorized Agent Designation_”
+
+You may also contact us at **855-226-4048** for assistance.
 
 If you are submitting a privacy request with a power of attorney, conservatorship, or guardianship (where permitted by state law), please contact us at **855-226-4048**.
 
@@ -342,7 +354,13 @@ You may only make a verifiable consumer request to know about or access your Per
 
 **13\. CONTACT US.**
 
-To contact us with a question regarding our information practices, call us at 855-226-4048, or mail your inquiry to:
+To contact us with a question, call us at 800-331-4331, submit an inquiry at [Toyota Support: Contact Toyota,](https://support.toyota.com/s/questions-comments?language=en_US) or mail your inquiry to:
+
+Toyota Motor Sales, U.S.A., Inc.  
+P.O. Box 259001  
+Plano, TX 75025-9001
+
+You may also obtain an update on our information practices by sending a request to:
 
 Toyota Motor Sales, U.S.A., Inc.  
 P.O. Box 259001  
