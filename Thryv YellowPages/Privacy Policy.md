@@ -346,30 +346,18 @@ Currently, we participate in digital advertising networks to deliver advertising
 
 We may “sell” and/or “share” the following categories of Personal Information:
 
-*   Contact Information
 *   Online Identifiers;
 *   Geolocation information;
 *   Internet/electronic activity;
 *   Commercial information.
 
-You can opt-out of being tracked by or otherwise having your Personal Information disclosed to these third parties by clicking the “DO NOT SELL OR SHARE MY PERSONAL INFORMATION” link (the “DNS Link”) at the bottom of our Website, or in the menu of the mobile application you are using, and selecting your preferences.
-
-Once you click on the DNS Link, you will be directed to take certain actions to effectuate your opt out for each online and offline disclosures.
+You can opt-out of being tracked by or otherwise having your Personal Information disclosed to these third parties in this manner by clicking the “DO NOT SELL OR SHARE MY PERSONAL INFORMATION” link (the “DNS Link”) at the bottom of our Website, or in the menu of the mobile application you are using, and selecting your preferences.
 
 Please note that your opt-out preferences for online tracking (e.g., cookies and other tracking technologies) are website/device specific, so you will need to opt out on each APP and the following websites:
 
-Please note that your opt-out preferences for online tracking (e.g., cookies and other tracking technologies) are website/device specific, so you will need to opt out on each APP and the following websites:
-
-[YELLOWPAGES.com](https://yellowpages.com/) or [YP.com](https://yp.com/)  
-[SUPERPAGES.com](https://www.superpages.com/)  
-[DEXKNOWS.com](http://www.dexknows.com/)  
-[THRYV.com](https://www.thryv.com/)  
-[CORPORATE.THRYV.com](https://corporate.thryv.com/)  
-[THEREALYELLOWPAGES.com](https://www.therealyellowpages.com/)
+Please note that your opt-out preferences are website/device specific, so you will need to opt out on each APP and website on which this Privacy Policy appears.
 
 You can also opt-out of online tracking by broadcasting an Opt-Out Preference Signal, such as the Global Privacy Control (GPC) (on the browsers and/or browser extensions that support such a signal). Note that we will only apply the request to that specific device or browser and only for cookie or pixel based selling and sharing. Thus, you will need opt out on each browser and device where you use our services. If you clear your cookie history on a particular browser or device, your opt out request will no longer be saved.
-
-For clarity, broadcasting a GPC signal or using the functionality available on the Website to adjust your device cookies will not fully effectuate an opt-out for all sales/sharing of Personal Information. To do so, please complete all applicable steps available when you click the DNS Link.
 
 Again, to learn more about these advertising practices or to opt out of this type of advertising of your Personal Information, please visit [https://optout.aboutads.info/](https://optout.aboutads.info/) and [https://www.networkadvertising.org/](https://www.networkadvertising.org/) to optout. You can also opt out of the re-sale of your Personal Information by other participants in these digital advertising networks by visiting [https://www.iabprivacy.com/optout.html](https://www.iabprivacy.com/optout.html) and opting out of each participant’s digital property.
 
