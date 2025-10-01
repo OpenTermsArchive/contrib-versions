@@ -17,9 +17,9 @@ Open all
     
     The types of information [Verizon](#), or service providers acting on our behalf, collect depends on your use of our products and services and [the ways that you interact with us](#). This may include information about:
     
-    Verizon
+    Verizon Value
     
-    This policy applies to Verizon Wireless and Verizon Value customers and to the visitors of websites where this policy is posted.  Verizon Value includes Clearway Wireless for Business, GoSmart Mobile, Net10 Wireless, Page Plus, SafeLink Wireless, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone and Walmart Family Mobile.
+    This policy applies to Verizon Wireless, Verizon Value, and Visible customers and to the visitors of websites where this policy is posted, including for example, within mobile apps we offer. Verizon Value includes Clearway Wireless for Business, GoSmart Mobile, Net10 Wireless, Page Plus, SafeLink Wireless, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone and Walmart Family Mobile.
     
     the ways that you interact with us
     
@@ -35,9 +35,9 @@ Open all
     
     Contact, billing and other information you provide
     
-    This includes your name, address, email, phone numbers where you can be reached, images, voice recordings or voiceprints, other biometric identifiers, date of birth, driver's license number, Social Security Number or Tax Identifier and payment information.
+    This includes your name, address, email, phone numbers where you can be reached, images, voice recordings or voiceprints, other biometric identifiers, date of birth, driver's license number, Social Security Number or Tax Identifier, username and password and payment information.
     
-    It can also include information you provide, including in surveys, Verizon-sponsored promotions, device setup, Lifeline Assistance Program applications, and grant or job applications.
+    It can also include information you provide, including in polls or surveys; Verizon-sponsored promotions; device setup; Lifeline Assistance Program applications; Community profiles such as your profile signature, avatar, biography and your time zone; and grant or job applications.  
     
     How you use our services and your devices
     
@@ -45,7 +45,7 @@ Open all
     
     How you use our sites and apps
     
-    This includes information about your browsing, searching and buying activities such as your IP address, mobile phone number, device numbers and identifiers, web addresses of the sites you come from and go to next, the date and time of your visit, screen recordings, cursor movements, screen interactions and clicks, browser and operating system information, device and platform type, carrier, connection speed and other attributes. We may derive the general area you are in and the internet service provider you are using from the IP address you use.  
+    This includes information about your browsing, searching and buying activities such as your IP address, mobile phone number, device numbers and identifiers, web addresses of the sites you come from and go to next, the date and time of your visit, screen recordings, cursor movements, screen interactions and clicks, browser and operating system information, device and platform type, carrier, connection speed, language preferences and other attributes. We may derive the general area you are in and the internet service provider you are using from the IP address you use.  
     
     How our network and your devices are working
     
@@ -312,7 +312,9 @@ Open all
     
     *   Verizon Wireless and Home services customers can visit the Verizon [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) page to opt out.
     *   Verizon Value customers, can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#).
+    *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
     Your Privacy Choices
     
@@ -325,6 +327,11 @@ Open all
     *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
+    
+    opt out on these sites
+    
+    *   Visible Community customers can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     
     The [Choices section](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) of this policy describes additional choices you have about our use and sharing of personal information.
     
@@ -474,9 +481,11 @@ Open all
     
     You can limit the sale and sharing of personal information for certain purposes as well as the use of this information for certain types of targeted advertising. Some state laws give consumers who reside in those states the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
-    *   Verizon Wireless and Home services customers can opt out by visiting [Your Privacy Choices![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
+    *   Verizon Wireless or Home services customers can opt out by visiting [Your Privacy Choices![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     *   Verizon Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out
+    *   Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#).
+    *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
     Your Privacy Choices
     
@@ -489,6 +498,11 @@ Open all
     *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
+    
+    opt out on these sites
+    
+    *   Visible Community customers can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     
     These pages also describe how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
     
@@ -503,7 +517,7 @@ Open all
     ### You can limit the ways we may send marketing offers to you.
     
     **Telemarketing**   
-    Opt out of [marketing-related calls](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 30 days to remove you from existing marketing campaigns.
+    Opt out of [marketing-related calls](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 10 days to remove you from existing marketing campaigns.
     
     marketing-related calls
     
@@ -572,7 +586,7 @@ Open all
     Verizon Wireless postpaid and small business consumers can opt out of the use of certain information in aggregate reports. For more information about this program, visit our [Frequently Asked Questions](https://www.verizon.com/support/business-marketing-reports-faqs/) page. You can opt out using the [privacy preferences page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874. Account owners and account managers can update preferences for all lines on their account.
     
     **Identity Verification service**  
-    Verizon Wireless postpaid and prepaid consumers can opt out of the use of information to help third parties verify your identity on behalf of companies with which you do business using the [privacy preferences page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app. Account owners and account managers can update preferences for all lines on their account.
+    Verizon Wireless postpaid and prepaid consumers can opt out of the use of information to help companies with which you do business verify your identity using the [privacy preferences page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app. Account owners and account managers can update preferences for all lines on their account.
     
     Verizon Value customers can opt out of the disclosure of information to our partner, Prove, for identity verification to facilitate your interactions with third parties, such as banks. Our partner uses the information we share to assist third parties with decisions about credit applications that you submitted to a band or other third party. You can opt out using the [Your Privacy Choices](#) link at the bottom of the website for the Verizon Value brand that you use.
     
@@ -686,7 +700,7 @@ Open all
 *   [Do I have specific rights under state privacy laws?
     ---------------------------------------------------
     
-    You have specific rights under state laws, including California, Colorado, Connecticut, Delaware, Illinois, Iowa, Maine, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, Virginia and Washington privacy laws.](#acc-item-55)
+    You have specific rights under state laws, including California, Colorado, Connecticut, Delaware, Illinois, Iowa, Maine, Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, Virginia and Washington privacy laws.](#acc-item-55)
     
     ### California Consumer Privacy Act
     
@@ -710,18 +724,18 @@ Open all
     
     We collect the following categories of personal information: 
     
-    *   Identifiers, including, name, postal and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information, Social Security or driver’s license number, state identification card or passport number, and other similar identifiers.
-    *   Legally protected classifications, including race, ancestry, gender, and disability.
-    *   Commercial information, including products and services you purchase and consider, how you use them, and reward program activity.
-    *   Internet information, including browsing history, search and other activity on our sites, and information about your interaction with our sites, apps, advertisements and social media; and phone device usage and activity.
-    *   Geolocation data from our network and, when you permit it, our apps.
-    *   Audio, electronic, visual, or similar information, including voice recordings of customer service calls and photographs of customer equipment or that you use within our apps.
-    *   Professional or employment-related information.
-    *   Education information.
-    *   Inferences we create from the information we collect that create a profile reflecting your preferences, characteristics, predispositions, and behavior. 
-    *   Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account.
-    *   Genetic, biometric and health information, for example, some Verizon apps allow you to disclose health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. And some stores use facial recognition authentication to prevent fraud.
-    *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies.
+    *   Identifiers, including, name, postal and email address, mobile device identifiers, IP address, account credentials, alias, business customer representative contact information, Social Security or driver’s license number, state identification card or passport number, and other similar identifiers. We use this information to provide you with products and services, operate our business, communicate with you and provide customer service, personalize your experience, improve our services, provide marketing and advertising, create business insights, debug and audit our processes and services, short term transient uses, research, security, fraud and legal reasons.
+    *   Legally protected classifications, including race, ancestry, gender, and disability. We use this information to provide you with accommodations that you request such as alternative billing; to communicate with you in the language that you request; for business operations; and for the specific purposes we describe to you when you consent, for example when you respond to a survey.
+    *   Commercial information, including products and services you purchase and consider, how you use them, and reward program activity. We use this information to provide you with products and services, operate our business, communicate with you and provide customer service, personalize your experience, improve our services, provide marketing and advertising, create business insights, debug and audit our processes and services, short term transient uses, research, security, fraud and legal reasons.
+    *   Internet information, including browsing history, search and other activity on our sites, and information about your interaction with our sites, apps, advertisements and social media; and phone device usage and activity. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
+    *   Geolocation data from our network and, when you permit it, our apps. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
+    *   Audio, electronic, visual, or similar information, including voice recordings of customer service calls and photographs of customer equipment or that you use within our apps. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
+    *   Professional or employment-related information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
+    *   Education information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
+    *   Inferences we create from the information we collect that create a profile reflecting your preferences, characteristics, predispositions, and behavior is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. 
+    *   Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; confirm eligibility for certain services such as the Lifeline Assistance Program;  security and fraud prevention and legal compliance purposes.
+    *   Genetic, biometric and health information, for example, some Verizon apps allow you to disclose health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. You may also opt in to facial recognition identity verification when you request to purchase certain products and services.
+    *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
     *   And other information that may identify, relate to, describe, or is capable of being associated with you, for example, information you provide to us, or grant us permission to collect such as through our mobile applications. This may include contacts, profile photos, motion activity, vehicle information or in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
     We use the information we collect for [business and commercial purposes](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf](#); and others for credit and collections, directory assistance and caller ID purposes;, with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party.
@@ -734,13 +748,21 @@ Open all
     
     These purposes include providing you products and services, operating our businesses, and engaging in economic activities such as communicating with you and providing customer service; personalizing your experiences; improving our services; providing marketing and advertising; debugging; auditing our processes and services; short-term transient uses; research; and security, fraud, and legal compliance.
     
+    We do not use or disclose sensitive personal information beyond what is needed to provide the products and services you request, with your consent, or for other [purposes specified in the law](#).
+    
+    purposes specified in the law
+    
+    These reasons include: detecting security incidents; resisting malicious, deceptive, fraudulent or illegal actions; ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying your information; and verifying, maintaining or enhancing a service on a device that is owned, manufactured or controlled by us or on your device. We may also disclose information to service providers providing storage or similar services on our behalf.
+    
     Certain Verizon Value brands may offer financial incentives for information that you provide through discounts and coupons for service. To the extent we can determine the value of your information, we consider the value of your information reasonably related to the cost of the incentive that we offer.
+    
+    We may also disclose information with your consent and as further described in other sections of this policy.
     
     Our policies require that we retain records containing personal information for as long as they are needed for legal, tax, audit, investigative, and security purposes and then securely delete or destroy them. We incorporate personal information into different types of records; it is not always retained by distinct data elements. For example, your name is part of your account, billing, technical support and call detail records. Each type of record may be retained for a different time period depending on its purpose.
     
     **You have the right to access, delete and correct information.** You can request access to specific pieces and categories of personal information we collect.
     
-    Verizon Wireless and Home services customers can submit requests by using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. Verizon Value customers can submit requests through their [online account](#) or by calling 1-877-799-1999.
+    Verizon Wireless or Home services customers can submit requests by using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. Verizon Value customers can submit requests through their [online account](#) or by calling 1-877-799-1999. Visible customers can submit requests by using our [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) or by emailing us at privacy@visible.com. Visible Community and Merch customers should follow these [instructions to submit requests](#) to access or correct information.
     
     online account
     
@@ -753,6 +775,19 @@ Open all
     *   [SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
+    
+    instructions for submitting requests
+    
+    **Visible Community**. If you are a Visible Community user, you can request access to personal information we have about you by logging into your Visible Community account and navigating to My Settings > Personal > Personal Information and clicking “My Personal Information” under “Downloads”. You can correct personal information that you believe is inaccurate by logging into your Community Account and navigating to My Settings > Personal > Personal Information / Download. There you can make changes to your personal information and click save to complete the correction. You can also edit any community content you had previously entered. Within “My Profile”, you will see “Latest Contributions.” Clicking on the post to be edited will take you to the actual post within the discussion topic. From there you can select Edit from the hamburger menu to make changes or corrections. To delete your account and associated personal information log into your Visible Community account and navigate to My Settings > Personal > Close Account. You may send a private message to the moderator or admin team for assistance if needed.
+    
+    **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
+    
+    HALO Branded Solutions  
+    Attn: HALO.COM Customer Service  
+    1500 HALO Way Sterling, IL 61081  
+    (855) 425-6266  
+    VisibleMerch@halo.com  
+    Send a message
     
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you [unless we need it for specific reasons](#), and to correct inaccurate personal information we have about you.
     
@@ -794,15 +829,19 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    
+    opt out on these sites
+    
+    *   Visible Merch customers can click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
+    *   Visible Community users can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
+    
+    Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    
+    Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
     We also honor [Global Privacy Control](https://globalprivacycontrol.org/) opt out preference signals you may set on your browser. If you are not logged in or don’t have an account and use a GPC on your visit to one of our websites, we will stop third-party cookies, pixels, and similar technology on that site from collecting, using, and sharing information from your site visit for purposes of targeting ads to you based on your online behavior and activity. This opt out will apply to your activity on our website for the browser and on the device you are using when the GPC signal is on. We will need more information to identify you and apply your opt out to your account, phone number and email information. If you are a customer and you’re logged in to your account from a browser with the GPC signal on, we will block third-party cookies, pixels, and similar technology on our site and we will opt you out of selling and sharing of personal information associated with your line. We do not respond to Do Not Track signals.
-    
-    **You have the right to limit the use of sensitive personal information.** This right lets you ask us to limit the use and disclosure of sensitive personal information if we use that information for purposes beyond what is needed to provide the products and services you request or for other [reasons specified in the law](#). We do not use, sell, share, or disclose sensitive personal information for any purpose other than to provide the goods or services requested by you, with your consent, or for other purposes expressly authorized by California law so we do not offer you an option to limit the use of sensitive personal information.
-    
-    reasons specified in the law
-    
-    These reasons include: detecting security incidents; resisting malicious, deceptive, fraudulent or illegal actions; ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying your information; and verifying, maintaining or enhancing a service on a device that is owned manufactured or controlled by us or on your device. We may also disclose information to service providers providing storage or similar services on our behalf.
     
     **You have the right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights described in this section.
     
@@ -814,7 +853,7 @@ Open all
     
     authorized agent
     
-    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. We may require additional proof that you granted the authority.
+    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. Visible customers may assign and manage their authorized agents on the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) by selecting “Assign and manage your authorized agent.” If you are a Visible Community user you may appoint an authorized agent by emailing us at [privacy@visible.com](mailto:privacy@visible.com) with your name and Community username and the name, address and email address for your authorized agent. Visible Merch customers can appoint an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, email address and mailing address, and the name, address and email of your authorized agent.
     
     Verizon Wireless and Home services customers: visit our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or call 1-800-333-3972.
     
@@ -832,6 +871,13 @@ Open all
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
+    Visible customers: visit the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) or send an email to [privacy@visible.com](mailto:privacy@visible.com). If you use the Visible Community or Visible Merch websites please follow [these instructions](#) to exercise your right to know, access, delete, and correct data.
+    
+    these instructions
+    
+    *   **Visible Community users:** Log into your Visible Community account and navigate to My Settings > Personal > Personal Information and click “My Personal Information” under “Downloads” to access information we have about you or navigate to My Settings > Personal > Close Account to delete your account information. You may correct your information in your account profile and you may edit your posts at any time.
+    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: [HALO.COM](http://halo.com/) Customer Service, 1500 HALO Way, Sterling, IL 61081
+    
     Clearway Wireless for Business customers: call 1-844-638-1028
     
     Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
@@ -848,15 +894,25 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
-    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out of selling and sharing by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries). If you are a Verizon Value customer your authorized agent can exercise your right to opt-out of selling and sharing by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
+    opt out on these sites
     
-    When you submit a request to know, access, delete or correct data, we require you to verify your identity using the processes we describe in the dashboard or the privacy choices page before we fulfill your request. Depending on the type of request you make, you may be required to log into an existing account and prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
+    *   Visible Merch customers can click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
+    *   Visible Community users can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
+    
+    Verizon Community website users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) to opt out.
+    
+    Teachers who access Verizon Innovative Learning HQ can visit the Verizon Innovative Learning Your Privacy Choices page to opt out.
+    
+    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out of selling and sharing by following the instructions at [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer your authorized agent can exercise your right to opt out of selling and sharing by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt out of selling and sharing by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can exercise your right to opt out of selling and sharing by emailing us at [privacy@visible.com](mailto:privacy@visible.com). Authorized agents of Visible Merch customers can exercise your right to opt out of selling and sharing by emailing us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com). If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
+    
+    When you submit a request to know, access, delete or correct data, we require you to verify your identity using the processes we describe in the dashboard, portal, your online account, or the privacy choices page before we fulfill your request. Depending on the type of request you make, you may be required to log into an existing account and prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
     **Reporting.** You can access our [2024 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the individual rights requests we received during that year.
     
-    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, Verizon customers may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios. Verizon Value customers may email us at privacy@tracfone.com.
+    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, you may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
     
     ### Additional California Privacy Rights
     
@@ -871,17 +927,17 @@ Open all
     
     request
     
-    California residents who are Verizon Wireless or Home services customers can make a request by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries)
-    
+    California residents can make a request by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or writing to us at:  
+      
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
     Washington, DC 20005
     
-    California residents who are Verizon Value customers can write to us at [privacy@tracfone.com](mailto:privacy@tracfone.com) or call us at 1-877-799-1999.  
+      
     
-    ### Colorado, Connecticut, Delaware, Iowa, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah and Virginia Privacy Laws
+    ### Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah and Virginia Privacy Laws
     
-    Colorado, Connecticut, Delaware, Iowa, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights. 
+    Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights. 
     
     **Your right to know what personal information we collect, how we use** **and disclose it, and** **how long we keep it.** This privacy policy provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category](#). 
     
@@ -907,7 +963,7 @@ Open all
     
     We may disclose information to service providers to do work on our behalf. We may also disclose information to third parties for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy.
     
-    **Your rights to access, delete and correct information.** You can request access to specific personal information we have about you. Verizon Wireless or Home services customers may submit requests using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. Verizon Value customers can submit requests through their [online account](#) or by calling 1-877-799-1999.
+    **Your rights to access, delete and correct information.** You can request access to specific personal information we have about you. Verizon Wireless or Home services customers may submit requests using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) and following the instructions there, or by calling 1-800-333-3972. Verizon Value customers can submit requests through their [online account](#) or by calling 1-877-799-1999. Visible customers can submit requests using the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) or by emailing us at privacy@visible.com. Visible Community and Merch customers should follow these [instructions to submit requests](#) to access or correct information.
     
     *   [https://www.tracfone.com/ccpa/home](https://www.tracfone.com/ccpa/home)
     *   [https://www.straighttalk.com/ccpa/home](https://www.straighttalk.com/ccpa/home)
@@ -918,6 +974,17 @@ Open all
     *   [SafeLink:](https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/myAccount/privacy) [https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
+    
+    **Visible Community**. If you are a Visible Community user, you can request access to personal information we have about you by logging into your Visible Community account and navigating to My Settings > Personal > Personal Information and clicking “My Personal Information” under “Downloads”. You can correct personal information that you believe is inaccurate by logging into your Community Account and navigating to My Settings > Personal > Personal Information / Download. There you can make changes to your personal information and click save to complete the correction. You can also edit any community content you had previously entered. Within “My Profile”, you will see “Latest Contributions.” Clicking on the post to be edited will take you to the actual post within the discussion topic. From there you can select Edit from the hamburger menu to make changes or corrections. To delete your account and associated personal information log into your Visible Community account and navigate to My Settings > Personal > Close Account. You may send a private message to the moderator or admin team for assistance if needed.  
+      
+    **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:  
+      
+    HALO Branded Solutions  
+    Attn: HALO.COM Customer Service  
+    1500 HALO Way Sterling, IL 61081  
+    (855) 425-6266  
+    VisibleMerch@halo.com  
+    Send a message
     
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws](#), and to correct inaccurate personal information we have about you. 
     
@@ -937,7 +1004,7 @@ Open all
     
     The reasons vary slightly within these different state privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    **Residents of Colorado, Connecticut, Delaware, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, and Virginia have the right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similarly significant effects.  
+    **Residents of Colorado, Connecticut, Delaware, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, and Virginia have the right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similarly significant effects.  
     
     **You have a right to tell us not to sell personal information or process it for certain targeted advertising purposes.** The laws vary in the way they define sale and certain targeted advertising, but generally, they require that we provide you with the ability to limit activities that involve disclosing personal information for monetary or other valuable consideration and using personal information about you from your activity across other websites or apps to target ads to you. The definitions do not cover all disclosure of personal information. We do not knowingly sell personal information related to children under 18 years of age, or knowingly use such information for targeted advertising purposes.
     
@@ -963,16 +1030,27 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    
+    opt out on these sites
+    
+    *   Visible Merch customers can click the Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
+    *   Visible Community users can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
+    
+    Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    
+    Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
     These pages also describe how we honor [Global Privacy Control](https://globalprivacycontrol.org/) (GPC) opt out preference signals you may set on your browser. If you are not logged in or don’t have an account and use a GPC on your visit to one of our websites, we will stop third-party cookies, pixels, and other similar technology on that site from collecting, using, and sharing information about you from your visit for purposes of targeting ads to you based on your online behavior and activity. This opt out signal will apply to your activity on our website for the browser and on the device you are using when the GPC signal is on. We will need more information to identify you and apply your opt out of selling and targeted advertising to your account, phone number and email information. If you are a customer and you’re logged in to your account from a browser with the GPC signal on, we will block third-party cookies, pixels, and similar technology on our site and we will opt you out of selling and sharing of personal information associated with your line. We do not honor Do Not Track signals.
     
     If you are a member who is logged in to your account when using the GPC signal to opt out, your login will allow us to remember and apply your choice to your account when you log back in on the site. We do not respond to Do Not Track signals.
     
-    **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state  law. If you are a resident of Colorado, Connecticut, Delaware, Iowa, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, or Virginia and we deny your request, you can appeal the denial as follows:
+    **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state law. If you are a resident of Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, or Virginia and we deny your request, you can appeal the denial as follows:
     
     *   Verizon Wireless or Home services customers: follow the instructions listed in the denial communication, submit a request through a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries), or call 1-800-333-3972.
     *   Verizon Value customers: use the link in the denial communication or email us at [privacy@tracfone.com](mailto:privacy@tracfone.com) and please include the word "APPEAL" in the email subject line along with your name, contact phone number, a description of the decision you are appealing and the reason for your appeal.
+    *   Visible customers: follow the instructions listed in the denial communication, submit a request through a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or email us at [privacy@visible.com](mailto:privacy@visible.com). Please use the subject line “APPEAL” and provide your name, contact information including phone number, a description of the decision you are appealing, and the reason for your appeal.
     
     **You have the right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights provided to you by state law. You also have the right to receive information about financial incentives we offer you.
     
@@ -984,7 +1062,7 @@ Open all
     
     authorized agent
     
-    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. We may require additional proof that you granted the authority.
+    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. Visible customers may assign and manage their authorized agents on the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) by selecting “Assign and manage your authorized agent.” If you are a Visible Community user you may appoint an authorized agent by emailing us at [privacy@visible.com](mailto:privacy@visible.com) with your name, Community username and the name, address and email address for your authorized agent. Visible Merch customers can appoint an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, address and email, and the name, address and email of your authorized agent. We may require additional proof that you granted the authority.
     
     Verizon Wireless or Home services customers may submit a request by:
     
@@ -1005,6 +1083,13 @@ Open all
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
+    Visible customers: visit the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) or send an email to [privacy@visible.com](mailto:privacy@visible.com). If you use the Visible Community or Visible Merch websites please follow [these instructions](#) to exercise your right to know, access, delete, and correct data.
+    
+    these instructions
+    
+    *   **Visible Community users:** Log into your Visible Community account and navigate to My Settings > Personal > Personal Information and click “My Personal Information” under “Downloads” to access information we have about you or navigate to My Settings > Personal > Close Account to delete your account information. You may correct your information in your account profile and you may edit your posts at any time.
+    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: [HALO.COM](http://halo.com/) Customer Service, 1500 HALO Way, Sterling, IL 61081
+    
     Clearway Wireless for Business customers may submit a request by calling 1-844-638-1028.
     
     Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
@@ -1021,9 +1106,21 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Verizon Community customers can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    
+    opt out on these sites
+    
+    *   Visible Merch customers should click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
+    *   Visible Community users can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
+    
+    Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
+    
+    Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
     If you are an Android user you can use the “Your Privacy Choices” link at the bottom of notifications pushed to your device to opt out of personalized app recommendations.
+    
+    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) submitting a privacy inquiry form. If you are a Verizon Value customer your authorized agent can exercise this opt out right by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt-out by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can email us at [privacy@visible.com](mailto:privacy@visible.com) with your name and your Visible Community username to opt you out. Authorized agents of Visible Merch customers can email us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com) with your name, address, and email address. If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
     For requests to  access, delete or correct information we require you to [verify your identity](#) using the processes we describe in the dashboard before we fulfill your request. 
     
@@ -1031,7 +1128,7 @@ Open all
     
     For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    **Questions.**If you are a Verizon Wireless or Home services customer and have questions about your rights under these state laws or about our privacy policies and practices, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries). Verizon Value customers may submit questions about your rights under these state laws or about our privacy policies and practices by emailing us at privacy@tracfone.com.
+    **Questions.** If you have questions about your rights under these state laws or about our privacy policies and practices, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Colorado & Illinois Biometric Information Privacy
     
@@ -1149,6 +1246,8 @@ Open all
     
     Verizon Wireless Services, LLC
     
+    Visible Service LLC
+    
     Oregon residents may request access to specific personal information we have about you, including the specific third parties to whom we may disclose personal information.
     
     Verizon customers can use our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or call 1-800-333-3972.
@@ -1165,6 +1264,21 @@ Open all
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
+    Visible customers can submit requests to access or correct information using the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) or by emailing us at privacy@visible.com. Visible Community and Merch customers should follow these [instructions for submitting requests](#) to access or correct information.
+    
+    instructions for submitting requests
+    
+    **Visible Community**. If you are a Visible Community user, you can request access to personal information we have about you by logging into your Visible Community account and navigating to My Settings > Personal > Personal Information and clicking “My Personal Information” under “Downloads”. You can correct personal information that you believe is inaccurate by logging into your Community Account and navigating to My Settings > Personal > Personal Information / Download. There you can make changes to your personal information and click save to complete the correction. You can also edit any community content you had previously entered. Within “My Profile”, you will see “Latest Contributions.” Clicking on the post to be edited will take you to the actual post within the discussion topic. From there you can select Edit from the hamburger menu to make changes or corrections. To delete your account and associated personal information log into your Visible Community account and navigate to My Settings > Personal > Close Account. You may send a private message to the moderator or admin team for assistance if needed.
+    
+    **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
+    
+    HALO Branded Solutions  
+    Attn: HALO.COM Customer Service  
+    1500 HALO Way Sterling, IL 61081  
+    (855) 425-6266  
+    VisibleMerch@halo.com  
+    Send a message
+    
 *   [How do I learn about changes to this privacy policy?
     ----------------------------------------------------
     
@@ -1172,9 +1286,9 @@ Open all
     
     ### Changes to the privacy policy
     
-    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about \[link path="/changes-privacy-policy" action="modal"\]recent changes\[/link\]. If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
+    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](http://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated July 2025
+    Updated October 2025
     
     © 2025 Verizon. All rights reserved.
     
