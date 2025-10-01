@@ -246,11 +246,13 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      
      If your Services are interrupted, you may have certain rights depending on where you live.
      
-     *    **For Connecticut residents:**In the event of an interruption of TV of more than twenty-four (24) consecutive hours and of which we have received actual notice, a credit will be issued to your TV monthly service charges for the length of time TV was interrupted.
+     *    **For Connecticut residents:** In the event of an interruption of TV of more than twenty-four (24) consecutive hours and of which we have received actual notice, a credit will be issued to your TV monthly service charges for the length of time TV was interrupted.
          
-     *    **For Maine residents:**In the event TV is interrupted for more than six (6) consecutive hours in a thirty (30) day period, you may request a pro-rata credit or refund by calling 1-800-XFINITY.
+     *    **For Maine residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
          
-     *    **For New York residents:**In the event TV is interrupted for at least four (4) hours between 6:00 p.m. and 12:00 a.m., except for emergency notice events, a credit equal to one day will be issued to your TV monthly service charges. If TV is interrupted for less than four (4) hours or outside of the hours of 6:00 p.m. and 12:00 a.m., please call 1-800-XFINITY to request a credit.
+     *    **For New Jersey residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
+         
+     *    **For New York residents:** In the event TV is interrupted for at least four (4) hours between 6:00 p.m. and 12:00 a.m., except for emergency notice events, a credit equal to one day will be issued to your TV monthly service charges. If TV is interrupted for less than four (4) hours or outside of the hours of 6:00 p.m. and 12:00 a.m., please call 1-800-XFINITY to request a credit.
          
      
       **g. Our liability for third parties is limited**
@@ -398,4 +400,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
      
 
-Stnd0725
+Stnd1025
