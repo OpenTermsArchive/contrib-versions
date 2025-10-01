@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: September 11, 2025
+Last Updated: September 30, 2025
 --------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
@@ -437,17 +437,20 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 | Japan<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan |
 | South Korea<br><br>(w.e.f. 1 April 2025) | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea |
 | The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)<br><br>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg |
+| India (for transactions between buyers and third party providers incorporated in India)<br><br>(w.e.f. 1 October 2025) | Amazon Web Services India Private Limited | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India |
 | Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  <br>Seattle, WA 98109-5210  <br>U.S.A. |
 
 1 Excludes professional services, for which the applicable AWS Contracting Party is Amazon Web Services, Inc. Additionally, this applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
 
 **20.1.7.** The contract term of your purchase or subscription commences on the date specified in the end user license agreement, order form, or other contract between you and the applicable third party provider. If no contract term is specified, then the contract term commences on the date specified in your AWS Marketplace invoice.
 
-**20.1.8.** If you are an AWS customer located in India, parties agree that this Section 20.1.8 will be applicable: 
+**20.1.8.** AWS is not liable for inaccuracies or incomplete information in invoices resulting from your errors, or your noncompliance with applicable law. Any disputes with a third party provider must be resolved directly with the third party provider, and you will hold AWS harmless from all related claims.
 
-**20.1.8.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements. 
+**20.1.9.** The following applies if you are an AWS customer located in India: 
 
-**20.1.8.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
+The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
+
+For clarity, you must not deduct or withhold taxes on payments to AWS if (a) your AWS Contracting Party is Amazon Web Services India Private Limited, and (b) you purchase Content from a third party provider incorporated in India.
 
 **20.2.** Seller Terms. If you promote, license, sell, provide or provide access to any Content or services through AWS Marketplace, or authorize another party to do so on your behalf, then the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to you. Your use of the Buy with AWS feature is subject to the [Buy with AWS Trademarks License](https://aws.amazon.com/legal/buy-with-aws-trademarks-license/).
 
