@@ -1,4 +1,4 @@
-Effective July 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/PP_07012025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/PP_SP_07012025.pdf)
+Effective October 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_10012025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_10012025.pdf)
 
   
 
@@ -420,6 +420,8 @@ Your privacy may be impacted differently depending on where you live. If you're 
 [Iowa](https://www.xfinity.com/privacy/policy/staterights#iowa)
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
+
+[Maryland](https://www.xfinity.com/privacy/policy/staterights#maryland)
 
 [Minnesota](https://www.xfinity.com/privacy/policy/staterights#minnesota)
 
