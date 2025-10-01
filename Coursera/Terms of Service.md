@@ -315,11 +315,11 @@ If you pre-enroll in a specialization, you may cancel for a full refund within 7
 
 If you prepay for a specialization in India with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
 
-_Note: If you access a Guided Project, course or specialization through a subscription plan, rather than a one-time purchase, the following section will govern._
+##### Coursera Plus Prepaid Plan for India
 
-##### Coursera Plus Prepaid plan for India
+If you prepay for a Coursera Plus 1, 3 or 6 months plan in India with a one-time payment you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course that is included within your Coursera Plus plan, whichever comes first.
 
-If you prepay for a Coursera Plus 1, 3 or 6 months plan in India with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
+_Note: If you access a course or specialization through a subscription plan, rather than a one-time purchase, the following section will govern._
 
 2\. Subscription Plans
 ----------------------
@@ -332,9 +332,9 @@ Certificates cannot be earned during the free trial. In order to receive a certi
 
 All subscriptions will continue for the duration selected at the time of your purchase and then automatically renew for periods of equal length unless and until you cancel the subscription according to the process described below or the subscription is suspended or discontinued by Coursera.
 
-Refunds for subscription plans are not provided, except (i) where required by law, (ii) where you have upgraded to another subscription plan and wishes to cancel the upgrade or (iii) in limited cases as explicitly stated by Coursera or in specific promotional terms.
+Refunds for subscription plans are not provided, except (i) where required by law, (ii) where you have upgraded to another subscription plan and wish to cancel the upgrade, or (iii) in limited cases as explicitly stated by Coursera or in specific promotional terms.
 
-Coursera reserves the right to deny refund requests, even in cases that might otherwise appear eligible. Such denials may include, but not limited to, situations involving violations of our [Terms of Use](https://www.coursera.org/about/terms), [Code of Conduct](https://www.coursera.support/s/article/learner-000001270?language=en_US), or [Honor Code](https://www.coursera.org/about/terms#honor-code), repeated refund requests, prior refunds processed through a third-party marketplace, chargeback activity, or where you have completed graded content and are dissatisfied with their performance.
+Coursera reserves the right to deny refund requests, even in cases that might otherwise appear eligible. Such denials may include, but are not limited to, situations involving violations of our [Terms of Use](https://www.coursera.org/about/terms), [Code of Conduct](https://www.coursera.support/s/article/learner-000001270?language=en_US), or [Honor Code](https://www.coursera.org/about/terms#honor-code), repeated refund requests, prior refunds processed through a third-party marketplace, chargeback activity, or where you have completed graded content and are dissatisfied with their performance.
 
 #### Subscription Cancellation
 
@@ -344,7 +344,7 @@ For annual subscriptions, which are paid in full at the time of purchase, you mu
 
 If you pre-enroll in a specialization through a subscription, you may cancel for a full refund within 7 days of the specialization launch, or before earning a certificate, whichever is earlier.
 
-To cancel the subscription, **you must cancel under their account “My Purchase” page or through [Coursera’s Support Services](https://www.coursera.support/s/learner-help-center?language=en_US).** Cancellation is effective at the end of the current billing period. You will retain access for the remainder of that period and no further charges will be incurred. For specialization subscriptions, Coursera will automatically cancel the subscription at the end of the month in which you earn a certificate for the full specialization.
+To cancel the subscription, **you must cancel under your account “My Purchase” page or through [Coursera’s Support Services](https://www.coursera.support/s/learner-help-center?language=en_US).** Cancellation is effective at the end of the current billing period. You will retain access for the remainder of that period and no further charges will be incurred. For specialization subscriptions, Coursera will automatically cancel the subscription at the end of the month in which you earn a certificate for the full specialization.
 
 #### Process to Request a Refund Required by Law
 
