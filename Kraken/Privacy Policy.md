@@ -1,4 +1,6 @@
-_Last Updated: 12 August 2025_
+_Last Updated: 1 October 2025_
+
+For residents of Brazil, a Portuguese translation of this Privacy Notice is available [here](https://www.kraken.com/en-gb/legal/br-privacy) for ease of reference and understanding. While we have taken care to ensure consistency between versions, in the event of any discrepancies, the English version shall prevail.
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
