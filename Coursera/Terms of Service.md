@@ -283,131 +283,116 @@ Coursera also respects the trademark rights of others. Accounts with any other c
 
 * * *
 
-Payments and Refund Policy
-==========================
+Refund and Cancellation Policy
+==============================
 
 * * *
 
-_Effective as of January 1, 2024._
+_Effective as of October 1, 2025._
 
-For details on our refund and cancellation policies, please refer to the information below. Please note that our policies may differ between offerings, and payment options may vary. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who violate these or other Coursera policies, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in a Content Offering, or who are otherwise unsatisfied with their final grade.
-
-For more information about our refund process, including instructions for requesting a refund, please visit our [Learner Help Center](https://learner.coursera.help/hc/articles/208280266).
+For details on Coursera’s refund and cancellation policies, please refer to the information below. Please note that policies may differ depending on the type of plan or offering. For more information on how to request a refund or to cancel a subscription, please visit our [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US). This Refund and Cancellation Policy comes into effect on the Effective Date mentioned above.
 
 1\. One-time Purchases
 ----------------------
 
 #### General Refunds
 
-##### Guided Projects
+##### Guided Projects/Projects
 
-Coursera does not offer refunds for payments made for guided projects.
-
-##### Courses and Specializations
-
-If you cancel your one-time, paid enrollment for a course or specialization, Coursera will offer you a complete refund until 14 days after payment, or until you earn a course certificate for any course in the specialization, whichever is earlier.
-
-If you [pre-enroll and pay for a course](https://learner.coursera.help/hc/articles/209818603) or [specialization](https://www.coursera.support/s/article/208280306-Enroll-in-a-Specialization?language=en_US), Coursera will offer you a complete refund until 14 days after the course or specialization launches or until you have earned your course or specialization certificate, whichever is earlier.
-
-#### Refunds for Certificates
-
-##### Guided Projects
-
-If you do not earn your completion certificate within 180 days after registering for a guided project, your registration will expire and you will need to pay to re-enroll for the guided project in order to complete the guided project and earn your completion certificate.
+Coursera does not offer refunds for Guided Projects or any other projects.
 
 ##### Courses
 
-Once you have earned a course certificate with your payment, you are not eligible for a refund even if it is within 14 days. If you do not earn your course certificate within 180 days, your registration will expire and you will need to pay to re-enroll for the course.
+For courses purchased with a one-time payment, you may receive a full refund if you [cancel](https://www.coursera.support/s/article/learner-000001486?language=en_US) within 7 days of payment or before earning a certificate, whichever comes first.
+
+If you pre-enroll in a course, you may cancel for a full refund within 7 days of the course launch, or before earning a certificate, whichever is earlier.
 
 ##### Specializations
 
-Unless otherwise indicated as part of the sign-up process, you have one year after you purchase a specialization to complete the specialization.
+For specializations purchased with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
 
-2\. Month-to-Month Specialization Subscriptions
------------------------------------------------
+If you pre-enroll in a specialization, you may cancel for a full refund within 7 days of the specialization launch, or before earning a certificate, whichever is earlier.
 
-#### General Refunds
+If you prepay for a specialization in India with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
 
-Coursera does not offer refunds for payments made on a month-to-month specialization subscription plan.
+_Note: If you access a Guided Project, course or specialization through a subscription plan, rather than a one-time purchase, the following section will govern._
 
-#### Refunds for Trials
+##### Coursera Plus Prepaid plan for India
 
-To avoid being charged during a free trial period, you must cancel your subscription before your free trial ends. If you complete a course during the free trial period, Coursera reserves the right to require you to pay for a one-month subscription in order to receive a course and/or specialization certificate.
+If you prepay for a Coursera Plus 1, 3 or 6 months plan in India with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
 
-#### Cancellation
+2\. Subscription Plans
+----------------------
 
-Your subscription will continue on a month-to-month basis unless and until you [cancel](https://www.google.com/url?q=https://learner.coursera.help/hc/articles/216348123&sa=D&source=docs&ust=1670977696504773&usg=AOvVaw0Iw82fmmwJzsWWchpQ2cDt) or the subscription is suspended or discontinued by Coursera. If you cancel your subscription, cancellation will be effective at the end of the current monthly period. You will continue to have access to your subscription for the remainder of that period, but you will not receive a refund. For subscriptions to individual specializations, Coursera will automatically discontinue your subscription at the end of the monthly period during which you earn a certificate for the specialization.
+This section applies to all Coursera subscription offerings, including Coursera Lite, Coursera Plus Monthly and Annual plans, and individual course or specialization subscriptions. For Coursera Plus Annual, Coursera offers a 14-day refund period. For all other subscriptions, Coursera provides a 7-day free trial.
 
-3\. Coursera Lite and Coursera Plus
------------------------------------
+Certificates cannot be earned during the free trial. In order to receive a certificate of completion, you must either (i) consent to being charged for the first applicable payment of their subscription, by ending the free trial period early; or (ii) wait until the relevant free trial period has expired without cancelling their subscription.
 
-#### General Refunds
+#### General
 
-To get a full refund of your Coursera Plus subscription payment, submit a refund request via the [Learner Help Center](https://learner.coursera.help/hc/en-us/articles/208280266-Refund-policies) within 14 days of your payment. Refunds will not be provided if requested after this 14-day period.
+All subscriptions will continue for the duration selected at the time of your purchase and then automatically renew for periods of equal length unless and until you cancel the subscription according to the process described below or the subscription is suspended or discontinued by Coursera.
 
-#### Refunds for Trials
+Refunds for subscription plans are not provided, except (i) where required by law, (ii) where you have upgraded to another subscription plan and wishes to cancel the upgrade or (iii) in limited cases as explicitly stated by Coursera or in specific promotional terms.
 
-Some Coursera Plus subscriptions may have a free trial period instead of a refund period. If you do not cancel during the free trial, you will be billed the full amount for the subscription you signed up for and be unable to request a refund. If you complete a course during the free trial period, Coursera reserves the right to require you to pay for a one-month subscription in order to receive a course and/or specialization certificate.
+Coursera reserves the right to deny refund requests, even in cases that might otherwise appear eligible. Such denials may include, but not limited to, situations involving violations of our [Terms of Use](https://www.coursera.org/about/terms), [Code of Conduct](https://www.coursera.support/s/article/learner-000001270?language=en_US), or [Honor Code](https://www.coursera.org/about/terms#honor-code), repeated refund requests, prior refunds processed through a third-party marketplace, chargeback activity, or where you have completed graded content and are dissatisfied with their performance.
+
+#### Subscription Cancellation
+
+For monthly subscriptions, to avoid being charged after the applicable 7-day free trial, **you must [cancel](https://www.coursera.support/s/article/learner-000001189?language=en_US) the subscription before the trial period ends.**
+
+For annual subscriptions, which are paid in full at the time of purchase, you must [cancel](https://www.coursera.support/s/article/learner-000001189?language=en_US) within 14 days to receive a refund.
+
+If you pre-enroll in a specialization through a subscription, you may cancel for a full refund within 7 days of the specialization launch, or before earning a certificate, whichever is earlier.
+
+To cancel the subscription, **you must cancel under their account “My Purchase” page or through [Coursera’s Support Services](https://www.coursera.support/s/learner-help-center?language=en_US).** Cancellation is effective at the end of the current billing period. You will retain access for the remainder of that period and no further charges will be incurred. For specialization subscriptions, Coursera will automatically cancel the subscription at the end of the month in which you earn a certificate for the full specialization.
+
+#### Process to Request a Refund Required by Law
+
+Certain jurisdictions provide you with additional consumer protection rights. For example, if you are located in the United Kingdom or countries in the European Union you may be entitled to a 14-day refund period that begins when access to the applicable subscription commences. If you wish to exercise the right of withdrawal under these laws must submit a request through the [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US).
+
+Coursera will verify your location using the information associated with their account and process the refund if eligible. As of the effective date of this policy, countries such as the United States, Mexico, and India do not provide extended refund or withdrawal periods beyond Coursera’s standard 7-day free trial.
+
+Please allow 7 – 10 business days for any applicable refund to be processed and reflected in your account.
 
 #### Refunds for Upgrades
 
-If you upgrade from Coursera Lite to Coursera Plus, you have 14 days from the date of the upgrade to either not be charged on the next billing date or receive a refund.
+If you upgrade from one product or plan to another (for example, from a one-time purchase of a Course to Coursera Plus monthly), you may cancel as applicable within the trial period days of the upgrade, only where trial period is offered as a part of the new product to avoid being charged on the next billing date or request a refund within 7 days of the date of first payment or start date of the new product, whichever is earlier if no trial period is offered.
 
-#### Cancellation
+If you upgrade from Coursera Plus monthly to a Coursera Plus annual plan, then you may cancel the subscription plan within 14 days from the date the first payment is made for the new Coursera Plus annual plan to receive a refund.
 
-Your Coursera Plus subscription will continue for the subscription period identified at the time of your purchase and then automatically renew unless and until you cancel your subscription or the subscription is suspended or discontinued by Coursera. If you cancel your subscription after the refund period of your subscription, you will continue to have access until the end of the subscription period and will not be billed for the next billing cycle.
+Please allow 7 – 10 business days for any applicable refund to be processed and reflected in your account.
 
-4\. Degree, MasterTrack, and University Certificate Programs
-------------------------------------------------------------
+3\. Degree and University Certificate Programs
+----------------------------------------------
 
-Refund policies for Degree, MasterTrack, and University Certificate programs are established and administered by the Content Provider offering the program. Refund policies are communicated to students by those Content Providers.
+Refund policies for Degree, and University Certificate programs are set and administered by the content provider offering the program. You should consult the institution’s policies and communications for specific refund terms.
 
-5\. Other Paid Services
+4\. Other Paid Services
 -----------------------
 
-Except as described in this Refund Policy or as explicitly stated as part of the sign-up process for a Service, Coursera has no obligation to provide refunds or vouchers for any other Services.
+Unless otherwise stated in this Policy or explicitly during the sign-up process, Coursera is not obligated to provide refunds or credits for any other paid services.
 
-Coursera reserves the right to offer refunds at its discretion. Please note that our policies differ between subscription payments and one-time payments made for course, specialization, and guided project purchases, and that payment options may vary from one offering to another. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who violate these or other Coursera policies, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in a Content Offering, or who are otherwise unsatisfied with their final grade.
-
-For more information about our refund process, including instructions for requesting a refund, please visit our [Learner Help Center](https://www.google.com/url?q=https://learner.coursera.help/hc/articles/208280266&sa=D&source=docs&ust=1670978839379818&usg=AOvVaw0DFS43TEjIKnD3J7p5Uv5X).
-
-6\. Third Party Marketplaces
+5\. Third-Party Marketplaces
 ----------------------------
 
-Notwithstanding the foregoing, if you purchase or subscribe for a course, specialization, guided project, or purchase any other paid Service, through a third party marketplace (e.g., in-app purchases through the Apple App Store or purchases made through certain alternative payment services), the refund policy applicable to that third party marketplace will apply, unless otherwise explicitly stated by Coursera. Except as otherwise explicitly stated by Coursera, the third party marketplace will be solely responsible for making refunds under its refund policy, and Coursera will have no refund obligations. Coursera disclaims any responsibility or liability related to any third party marketplace's refund policy or the third party's compliance or noncompliance with such policy.
+If a purchase is made through a third-party marketplace, such as the Apple App Store or another payment platform, the refund policy of that marketplace applies. In such cases, Coursera does not process the refund and assumes no responsibility for the marketplace’s decision. Unless explicitly stated otherwise by Coursera, the third-party provider is solely responsible for handling any refund requests.
 
-7\. Promotional Offers
+6\. Promotional Offers
 ----------------------
 
-We may from time to time offer special promotional offers or discounts (“Offers”). Offer eligibility is determined by Coursera at its sole discretion and we reserve the right to revoke an Offer in the event that we determine you are not eligible. Users with an existing Offer may not be eligible for additional Offers. We may use information such as method of payment or an account email address used with a Coursera purchase to determine Offer eligibility. The eligibility requirements and other limitations and conditions will be disclosed when you sign up for the Offer or in other communications made available to you.
+Coursera may occasionally offer special discounts or promotional offers. Eligibility for these offers is determined at Coursera’s sole discretion. Offers may be revoked if you are deemed ineligible. Coursera may consider factors such as your payment method or account history to determine eligibility. Limitations and terms will be disclosed at the time the offer is presented.
 
-8\. Changes to Price and Subscription Plans
+7\. Changes to Price and Subscription Plans
 -------------------------------------------
 
-We reserve the right to change our subscription plans or adjust pricing for our service or any components thereof in any manner and at any time as we may determine in our sole and absolute discretion. Except as otherwise expressly provided for in these Terms, any price changes or changes to your subscription plan will take effect following notice to you.
+Coursera reserves the right to change its subscription plans or adjust pricing at any time and at its sole discretion. Except where otherwise stated, any changes will take effect following advance notice to you.
 
-9\. European Users Right of Withdrawal
+8\. European Users Right of Withdrawal
 --------------------------------------
 
-In addition to the refund policies set forth above, if you have a right of withdrawal under the relevant laws in your country including any applicable European Union laws, then:
+In accordance with applicable laws, if you are in the European Union and the United Kingdom you have a right of withdrawal for 14 days from the date a contract commences. You may withdraw without providing a reason and without incurring costs, except as noted. If the Services have already been fully performed with your express consent, or if Service use has begun with their acknowledgment, the right of withdrawal is forfeited. You must notify Coursera of your decision to withdraw using a clear statement at the [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US). If the contract is withdrawn, Coursera will reimburse all payments within 14 days of being notified. Reimbursement will be made using the original payment method unless otherwise agreed.
 
-*   You have a right of withdrawal for a period of 14 days. You may withdraw your contract with Coursera for the Services, without giving any reason, and without incurring any costs other than those provided for in this clause.
-*   The withdrawal period will expire after 14 days from the day that your contract was concluded. However, you do not have a right of withdrawal a) if the Services have already been fully performed with your prior express consent and with your acknowledgement that you will lose your right of withdrawal once the Services have been performed by us or b) if the Services have begun with your prior express consent and your acknowledgement that you will lose your right of withdrawal upon beginning use of the Services.
-*   To exercise the right of withdrawal, you should inform us of your decision to withdraw by an unequivocal statement (e.g., a letter sent by post or by [contacting us](https://about.coursera.org/contact/). You may use the below model form, but it is not obligatory.
-    
-    **Model Withdrawal Form** (complete and return this form only if you wish to withdraw from the contract)
-    
-    *   To Coursera Europe B.V., Schiphol Boulevard 195, (1118 BG) Schiphol, the Netherlands:
-    *   I/We (_) hereby give notice that I/We (_) withdraw from my/our (_) contract of sale for the provision of the following service (_),
-    *   Ordered on (_)/received on (_),
-    *   Name of consumer(s),
-    *   Address of consumer(s),
-    *   Signature of consumer(s) (only if this form is notified on paper),
-    *   Date
-*   You may also electronically submit the model form or any other unequivocal statement to us at [https://www.coursera.org/about/contact](https://www.coursera.org/about/contact). You shall have exercised your right of withdrawal within the 14-day withdrawal period if the communication is sent by you before that period has expired. The exercise of the right of withdrawal shall terminate the obligations of the parties to perform the contract. If you exercise your right of withdrawal, any ancillary contracts shall be automatically terminated.
-*   If you withdraw the contract, we shall reimburse to you all payments received from you, including, if applicable, the costs of delivery, without undue delay and in any event not later than 14 days from the day on which we are informed of your decision to rescind this contract in accordance with this clause. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event you do not incur any fees as a result of such reimbursement.
-*   If you want the Services to begin during the 14-day withdrawal period you should make an express request thereto, where you acknowledge that you will lose your right of withdrawal once the service has been fully performed. If you exercise the right of withdrawal before the Services have been fully performed, you shall be liable to pay us reasonable costs, consisting of an amount which is in proportion to what has been provided until the time you have informed us of the exercise of the right of withdrawal.
-*   The burden of proof of exercising the right of withdrawal in accordance with this clause shall be on you. Except as provided for in this clause, you shall not incur any liability as a consequence of the exercise of the right of withdrawal.
+_Note: For subscriptions with a seven day free trial, such seven day trial period shall be counted as a part of and while counting the 14 days’ withdrawal right._
 
 * * *
 
@@ -469,6 +454,7 @@ Revisions
 
 Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
 
+*   [2025-10-01: Updated refund policy](https://www.diffchecker.com/3idNkUC4/)
 *   [2024-12-18: Updated information on how to contact Coursera](https://www.diffchecker.com/l8Y2xk0w/)
 *   [2024-05-27: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/HqdSxYtK/)
 *   [2024-02-08: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/6CMgg3kF/)
