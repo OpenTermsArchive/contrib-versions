@@ -5,6 +5,8 @@ Last Updated: June 14, 2023
 
 This Privacy Notice (the “Notice”) describes how Hearst Communications, Inc. and its affiliates and subsidiaries (“we”, “us”, “our” or “Hearst”) handle personal information in connection with the operation of the Hearst corporate website available at [www.hearst.com](https://www.hearst.com/) and linking to this Notice (the “Site”).
 
+Visit the **[Hearst Affiliated Network of Media Companies](https://www.hearst.com/affiliated-media-companies)** page to learn more about Hearst's media businesses.
+
 **This Notice applies only to information that Hearst obtains in connection with the operation of the corporate Site and describes how we can use the personal information we obtain from the Site and with whom we may share it. The Site is made available for informational and research purposes. For more information about how we use information we obtain in relation to the websites, mobile apps and other digital services operated by the various Hearst brands and businesses, including our magazines, newspapers and TV stations, please see the Privacy Notice published on the relevant digital service.**
 
 Hearst’s privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements, and specific privacy notices apply in certain countries or regions. Please visit the corporate site of the specific country or region to learn more about our privacy practices in relation to that country or region.
