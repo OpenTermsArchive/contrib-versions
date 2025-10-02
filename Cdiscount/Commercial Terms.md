@@ -32,7 +32,7 @@ Depuis l’Allemagne au 0800 627 9980 (numéro gratuit) du lundi au vendredi de 
   
 Depuis l’Espagne au 0800 00 01 17 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.   
   
-Depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
+Depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h é 19h et le samedi de 9h à 18h.  
   
 Depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
