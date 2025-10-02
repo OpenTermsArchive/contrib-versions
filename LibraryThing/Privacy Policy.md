@@ -60,7 +60,7 @@ LibraryThing members have full control over deleting their accounts and personal
 *   If you use TinyCat, your catalog will be disabled.
 *   You can choose whether to keep, anonymize, or delete your Talk posts and profile comments.
 
-Before deleting your account, you have the option to [export your library](https://www.librarything.com/more/import) and [download your personal data](https://www.librarything.com/settings/export).
+Before deleting your account, you have the option to [export your books](https://www.librarything.com/export) and [download your personal data](https://www.librarything.com/settings/export).
 
 If you need assistance or prefer to request deletion manually, you can contact us at [info@librarything.com](mailto:info@librarything.com).
 
