@@ -100,8 +100,14 @@ Different web browsers offer different ways for managing cookies. Visit the webs
 We respect your privacy
 -----------------------
 
-Select which cookie level you want us to use below. You can change your cookie settings by logging in to the website or on our information about cookies website when you are not logged in.  
+Select which cookie level you want us to use below. You can change your cookie settings by logging in to the website or on our information about cookies website when you are not logged in. 
 
-**Level 1: Functional cookies**Functional cookies are always enabled and are indispensable for ensuring that the vr.fi website functions well. They cannot be disabled.Functional cookies are always enabled and are indispensable for ensuring that the vr.fi website functions well. They cannot be disabled.**Level 2: Statistical cookies**The purpose of statistical cookies is to provide us with data that we can use as a basis for improving our website’s usability and customer experience. The data we analyse is always compiled data and we do not store personal data on the website usage.The purpose of statistical cookies is to provide us with data that we can use as a basis for improving our website’s usability and customer experience. The data we analyse is always compiled data and we do not store personal data on the website usage.**Level 3: Cookies used for content targeting and grouping**These cookies help us target content and offers to you depending on how you have used the vr.fi website. If you are logged in or make a purchase, we may combine data on your online actions with your other data.These cookies help us target content and offers to you depending on how you have used the vr.fi website. If you are logged in or make a purchase, we may combine data on your online actions with your other data.**Level 4: Marketing cookies**Marketing cookies help us and our trusted partners place targeted advertising on the websites of companies that participate in marketing cooperation.Marketing cookies help us and our trusted partners place targeted advertising on the websites of companies that participate in marketing cooperation.
+**Level 1: Functional cookies**Functional cookies are always enabled and are indispensable for ensuring that the vr.fi website functions well. They cannot be disabled.
+
+**Level 2: Statistical cookies**The purpose of statistical cookies is to provide us with data that we can use as a basis for improving our website’s usability and customer experience. The data we analyse is always compiled data and we do not store personal data on the website usage.
+
+**Level 3: Cookies used for content targeting and grouping**These cookies help us target content and offers to you depending on how you have used the vr.fi website. If you are logged in or make a purchase, we may combine data on your online actions with your other data.
+
+**Level 4: Marketing cookies**Marketing cookies help us and our trusted partners place targeted advertising on the websites of companies that participate in marketing cooperation.
 
 Accept selected cookies
