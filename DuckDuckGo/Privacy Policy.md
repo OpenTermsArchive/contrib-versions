@@ -76,7 +76,7 @@ We have never sold any personal information. Period.
 
 We will notify you of changes by posting the modified version on our website. We will indicate the date it was last modified below with an update message on top.
 
-###### Last updated 05-11-23
+Last updated 05-11-23
 
 [Pre-2023 version](https://duckduckgo.com/2012-privacy-policy)
 
@@ -150,6 +150,6 @@ We have never sold any personal information. Period.
 
 We will notify you of changes by posting the modified version on our website. We will indicate the date it was last modified below with an update message on top.
 
-###### Last updated 05-11-23
+Last updated 05-11-23
 
 [Pre-2023 version](https://duckduckgo.com/2012-privacy-policy)
