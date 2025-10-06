@@ -808,7 +808,7 @@ sur les réseaux sociaux
 
 *   [info.gouv.fr](https://info.gouv.fr/)
 *   [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
-*   [service public.fr](https://www.service-public.fr/)
+*   [service public.gouv.fr](https://www.service-public.gouv.fr/)
 *   [data.gouv.fr](https://www.data.gouv.fr/)
 
 *   [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
