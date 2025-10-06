@@ -786,8 +786,8 @@ Open all
     Attn: HALO.COM Customer Service  
     1500 HALO Way Sterling, IL 61081  
     (855) 425-6266  
-    VisibleMerch@halo.com  
-    Send a message
+    [VisibleMerch@halo.com  
+    Send a message](mailto:VisibleMerch@halo.com)
     
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you [unless we need it for specific reasons](#), and to correct inaccurate personal information we have about you.
     
@@ -876,7 +876,7 @@ Open all
     these instructions
     
     *   **Visible Community users:** Log into your Visible Community account and navigate to My Settings > Personal > Personal Information and click “My Personal Information” under “Downloads” to access information we have about you or navigate to My Settings > Personal > Close Account to delete your account information. You may correct your information in your account profile and you may edit your posts at any time.
-    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: [HALO.COM](http://halo.com/) Customer Service, 1500 HALO Way, Sterling, IL 61081
+    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
     
     Clearway Wireless for Business customers: call 1-844-638-1028
     
@@ -983,8 +983,8 @@ Open all
     Attn: HALO.COM Customer Service  
     1500 HALO Way Sterling, IL 61081  
     (855) 425-6266  
-    VisibleMerch@halo.com  
-    Send a message
+    [VisibleMerch@halo.com  
+    Send a message](mailto:VisibleMerch@halo.com)
     
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws](#), and to correct inaccurate personal information we have about you. 
     
@@ -1088,7 +1088,7 @@ Open all
     these instructions
     
     *   **Visible Community users:** Log into your Visible Community account and navigate to My Settings > Personal > Personal Information and click “My Personal Information” under “Downloads” to access information we have about you or navigate to My Settings > Personal > Close Account to delete your account information. You may correct your information in your account profile and you may edit your posts at any time.
-    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: [HALO.COM](http://halo.com/) Customer Service, 1500 HALO Way, Sterling, IL 61081
+    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
     
     Clearway Wireless for Business customers may submit a request by calling 1-844-638-1028.
     
@@ -1276,8 +1276,8 @@ Open all
     Attn: HALO.COM Customer Service  
     1500 HALO Way Sterling, IL 61081  
     (855) 425-6266  
-    VisibleMerch@halo.com  
-    Send a message
+    [VisibleMerch@halo.com  
+    Send a message](mailto:VisibleMerch@halo.com)
     
 *   [How do I learn about changes to this privacy policy?
     ----------------------------------------------------
