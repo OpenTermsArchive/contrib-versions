@@ -4096,3 +4096,17 @@ Learn More (Privacy Policy URL)
 Web Domain
 
 .help.x.com
+
+Name
+
+\_shopify\_analytics
+
+Description
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+Web Domain
+
+shop.x.com
