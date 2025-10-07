@@ -23,7 +23,7 @@ Other languages:
 *   [Malagasy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mg "Policy:Privacy policy/mg (1% translated)")
 *   [Mara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mrh "Policy:Privacy policy/mrh (7% translated)")
 *   [Napulitano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nap "Policy:Privacy policy/nap (8% translated)")
-*   [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (90% translated)")
+*   [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (100% translated)")
 *   [Nederlands (informeel)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl-informal "Policy:Privacy policy/nl-informal (1% translated)")
 *   [Nordfriisk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/frr "Policy:Privacy policy/frr (19% translated)")
 *   [Oromoo](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/om "Policy:Privacy policy/om (7% translated)")
