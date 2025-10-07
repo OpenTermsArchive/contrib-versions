@@ -455,7 +455,7 @@ Nos livreurs ne sont cependant pas habilités à procéder à des travaux de men
 
 Il vous appartient de prévoir les accessoires non fournis (exemples : câbles pour four ou cuisinière électrique, tuyau gaz pour gazinière,  tuyau d’eau pour certains réfrigérateurs type « américains », câble HDMI pour télévision).
 
-Les zones de livraison concernées par la livraison confort sont : France métropolitaine (hors Corse). Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
+Les zones de livraison concernées par la livraison confort sont : France métropolitaine (hors Corse). Pour les îles, la livraison est réalisable sur l’éle d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
 
 \- _Livraison directe par le fournisseur_ (uniquement en France): la livraison de certains de nos produits peut être effectuée directement par nos fournisseurs. Des frais de port spécifiques peuvent être appliqués sur cette typologie de produits.
