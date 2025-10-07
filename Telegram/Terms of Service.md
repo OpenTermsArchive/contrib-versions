@@ -241,6 +241,7 @@ Telegram FAQ
 *   [Delete your Telegram account](#q-how-do-i-delete-my-account)
 *   [How does account self-destruction work?](#q-how-does-account-self-destruction-work)
 *   [My phone was stolen. What do I do?](#q-my-phone-was-stolen-what-do-i-do)
+*   [What does Profile Rating mean?](#q-what-does-profile-rating-mean)
 
 [**Bots**](#bots)
 
@@ -863,6 +864,14 @@ First of all, sorry about your phone. Unfortunately, the phone number is the onl
 Common thieves usually throw out the SIM card immediately (the phone is harder to locate this way), then wipe the devices and sell them, so there isn't much risk for the data in case of regular petty theft. But if you have reasons to worry about the data on the device and are unable to [log out the other device](#i-have-access-to-telegram-on-another-device), it is best that you wipe it remotely. You can read more about it here: [Apple iOS](https://support.apple.com/kb/PH2701), [Android](https://www.google.com/android/devicemanager). Unfortunately, this requires you to have prepared in advance for this scenario.
 
 You can [delete your Telegram account](#q-how-do-i-delete-my-account) if you are logged in on at least one of your other devices (mobile or desktop). Note that inactive Telegram accounts self-destruct automatically after a period of time — 18 months being the default setting.
+
+#### [](#q-what-does-profile-rating-mean)Q: What does Profile Rating mean?
+
+Telegram profiles show a badge with a numerical rating based on the total volume of successful transactions that user has made with Telegram Stars.
+
+Your profile rating highlights your Telegram level and helps channel owners see that you can be trusted for [Suggested Posts](https://telegram.org/blog/checklists-suggested-posts#suggest-posts-in-channels) and other requests.
+
+Purchasing gifts, sending [Paid Messages](https://telegram.org/blog/star-messages-gateway-2-0-and-more#stay-in-control-of-your-inbox-with-star-messages) and funding [Suggested Posts](https://telegram.org/blog/checklists-suggested-posts#suggest-posts-in-channels) with Stars increases your rating. However, if you refund Star purchases or convert gifts to Stars, your rating will decrease.
 
 ### [](#bots)Bots
 
