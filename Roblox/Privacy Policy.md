@@ -43,7 +43,7 @@
         *   [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         *   [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 
-Effective Date: July 7, 2025
+Effective Date: October 7, 2025
 
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
@@ -104,7 +104,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     24159 Kiel, Germany  
     roblox@dp-officer.com
     
-    If you’re in Brazil, contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com).
+    If you’re in Brazil, contact our Brazilian Data Protection Officer by emailing [dpo.roblox@leonardi.adv.br](mailto:dpo.roblox@leonardi.adv.br).
     
     If you’re in Korea, more information is located in the [Privacy Policy Addendum for Users in Republic of Korea](https://en.help.roblox.com/hc/articles/15685139483924).
     
@@ -837,8 +837,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Before responding to any of your requests, we may ask you to provide us with some information to confirm your identity. We will only respond to your request after validating your identity.
     
-    Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
+    Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [dpo.roblox@leonardi.adv.br](mailto:dpo.roblox@leonardi.adv.br), or otherwise reaching out to us as described in Section 1.
     
 
-Effective Date: July 7, 2025  
-Last Updated: July 7, 2025
+Effective Date: October 7, 2025  
+Last Updated: October 7, 2025
