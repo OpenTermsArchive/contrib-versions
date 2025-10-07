@@ -3,10 +3,10 @@
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -78,12 +78,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -122,7 +120,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -804,7 +802,7 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
+![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412) 
 
 *   [info.gouv.fr](https://info.gouv.fr/)
 *   [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -827,10 +825,10 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -902,12 +900,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -946,7 +942,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -1623,10 +1619,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -1698,12 +1694,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -1742,7 +1736,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -2324,36 +2318,36 @@ Recherche
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
-
-sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
-
-[![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
 
-![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
+[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+
+sante.gouv.fr
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+
+![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
 
 Recherche 
 
@@ -2431,12 +2425,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2475,7 +2467,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -2862,12 +2854,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2906,7 +2896,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -3293,12 +3283,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3337,7 +3325,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -3724,12 +3712,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3768,7 +3754,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -4155,12 +4141,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4199,7 +4183,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -4586,12 +4570,10 @@ Recherche
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
-            *   [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
-            *   [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4630,7 +4612,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
+        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -7476,6 +7458,6 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
+![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412) 
 
-![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
+![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412)
