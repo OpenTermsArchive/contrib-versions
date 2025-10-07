@@ -260,7 +260,7 @@ _**Automattic Services (except Woo)**_
 |     |     |
 | --- | --- |
 | If you reside outside of the Designated Countries: | **Automattic Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110 |
-| If you reside in the Designated Countries: | **Aut O’Mattic A8C Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>IrelandAutomattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. |
+| If you reside in the Designated Countries: | **Aut O’Mattic A8C Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland<br><br>Automattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. |
 
 _**Woo Services  
 **_
@@ -269,8 +269,8 @@ _Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet
 
 |     |     |
 | --- | --- |
-| If you reside outside of the Designated Countries: | **WooCommerce, Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc. |
-| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>IrelandAutomattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
+| If you reside outside of the Designated Countries: | **WooCommerce, Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110<br><br>Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc. |
+| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland<br><br>Automattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
 
 ### How to Reach Us
 
