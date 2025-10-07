@@ -1,6 +1,8 @@
 Privacy Policy
 --------------
 
+Updating on Dec 16, 2025 We’ll start using interactions with AIs to personalize experiences and ads. This update goes into effect on December 16, 2025. [Read the new policy.](https://privacycenter.instagram.com/policy/version/23954169707588482/)
+
 What is the Privacy Policy and what does it cover?
 
 Effective June 16, 2025 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/) | [See previous versions](https://privacycenter.instagram.com/policy/?show_versions=1)
@@ -372,6 +374,8 @@ ATTN: Privacy Operations
 1601 Willow Road
 
 Menlo Park, CA 94025
+
+Contact the [Data Protection Officer](https://help.meta.com/support/privacy/) for Meta Platforms, Inc.
 
 Why and how we process your information
 
