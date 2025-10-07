@@ -3,6 +3,8 @@
 Politique de confidentialité
 ----------------------------
 
+Mise à jour : 16 décembre 2025 Nous allons commencer à utiliser les interactions avec des IA afin de personnaliser les expériences et les publicités. Cette mise à jour prendra effet le 16 décembre 2025. [Lisez la nouvelle politique.](https://fr-fr.facebook.com/privacy/policy/version/23954169707588482/)
+
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 16 juin 2025 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
