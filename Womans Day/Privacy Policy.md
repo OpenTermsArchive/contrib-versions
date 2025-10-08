@@ -75,8 +75,6 @@ If you have questions about our Privacy Notice or about the privacy rights descr
 **PRIVACY NOTICE**
 ------------------
 
-**Last Updated:** October 6, 2025
-
 1.  [Introduction](#_INTRO)
 2.  [What Information We Obtain](#_WHAT_INFO)
 3.  [How We Use Information We Obtain](#_HOW_WE_USE)
@@ -188,7 +186,7 @@ We may leverage AI, machine learning and algorithmic tools in connection with an
         *   Hashing information, including your personal information (such as an email address), and disclosing it. 
         *   Aggregating the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information. 
     *   Targeted ads may be displayed to you by third parties, such as ad networks or exchanges.
-    *   There are steps you can take to limit the collection of your information for targeted advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about targeted advertising and opt-out choices, see https://youradchoices.com/control and in the section DAA Industry Opt-Out. In addition, for connected devices such as smart TVs or streaming devices, please review the device’s settings and select the option that allows you to disable automatic content recognition or ad tracking.
+    *   There are steps you can take to limit the collection of your information for targeted advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about targeted advertising and opt-out choices, see [https://youradchoices.com/control](https://youradchoices.com/control) and in the section DAA Industry Opt-Out. In addition, for connected devices such as smart TVs or streaming devices, please review the device’s settings and select the option that allows you to disable automatic content recognition or ad tracking.
     *   In serving targeted ads, we adhere to the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance.
 *   Cross-device linking. If you access the Hearst Services from multiple browsers or devices, we, our service providers, identity resolution partners, data suppliers, and third parties may try to establish connections among and link the different browsers and devices you use to access the Hearst Services and our content or ads published elsewhere. This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads on the Hearst Services or elsewhere (e.g., so that we don’t show you the same article twice or to show you personalized or preferred content and ads on the different devices you may use). See [section Website (Browser) Opt-Outs](https://www.hearst.com/-/us-magazines-privacy-notice#_BROWSER_OPT_OUT) for steps you can take to limit browser and mobile app tracking for targeted advertising purposes.
 *   Analyzing and measuring the performance, effectiveness and reach of our advertising (including targeted ads) and marketing efforts on the Hearst Services and elsewhere. 
@@ -274,7 +272,7 @@ The technologies used to deliver ads on websites and mobile or other digital app
 
 1.  **Disabling Cookies.** Most browsers accept cookies by default. You may be able to change the settings to have your browser refuse certain cookies or notify you before accepting cookies.
     *   If you choose to disable the use of cookies in your web browser, some features of the Hearst Services may become difficult to use or unavailable.
-2.  **Opt-out Cookies.** You can follow [the instructions provided by the Digital Advertising Alliance (“DAA”)](http://www.aboutads.info/) to place an opt-out cookie on your browser. If you are in the EU/UK and accessing the relevant Hearst Service from the EU/UK, you can opt-out via EDAA’s industry website at [http://youronlinechoices.eu/](http://youronlinechoices.eu/). These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser.
+2.  **Opt-out Cookies.** You can follow [the instructions provided by the Digital Advertising Alliance (“DAA”)](https://youradchoices.com/control) to place an opt-out cookie on your browser. If you are in the EU/UK and accessing the relevant Hearst Service from the EU/UK, you can opt-out via EDAA’s industry website at [http://youronlinechoices.eu/](http://youronlinechoices.eu/). These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser.
     *   If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt-out choices for that specific browser.
     *   The opt-out mechanisms offered by the DAA is provided by a third party. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.
 3.  **Analytics Provider Opt-Out**. To disable analytics cookies, you can use the browser opt-out cookies controls discussed above or, for some of our providers, you can use their individual opt-out mechanisms:
