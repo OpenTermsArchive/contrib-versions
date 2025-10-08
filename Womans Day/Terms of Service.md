@@ -8,7 +8,7 @@ Last Updated: October 6, 2025
 **Terms of Use**
 ----------------
 
-BY ACCESSING OR USING THE HEARST SERVICES, YOU ACCEPT AND AGREE TO BE LEGALLY BOUND BY AND COMPLY WITH THIS AGREEMENT AND ACKNOWLEDGE THAT YOUR INFORMATION WILL BE USED AS DESCRIBED IN THE [PRIVACY NOTICE](https://www.hearst.com/-/us-magazines-privacy-notice), WHICH DESCRIBES THE PRIVACY PRACTICES FOR THE HEARST SERVICES YOU INTERACT WITH (INCLUDING HOW WE PROVIDE INFORMATION TO OTHERS) IN DETAIL AND IS INCORPORATED BY REFERENCE HEREIN. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT OR HAVE NOT READ THE [PRIVACY NOTICE](https://www.hearst.com/-/us-magazines-privacy-notice), DO NOT ACCESS OR USE THE HEARST SERVICES. SPECIFICALLY, PLEASE TAKE NOTICE THAT WITH LIMITED EXCEPTIONS, ALL DISPUTES BETWEEN YOU AND US REGARDING THIS AGREEMENT MUST FOLLOW THE PROCEDURES SET FORTH IN [SECTION 23](http://SECTION 23), AND ANY LEGAL ACTION MUST TAKE PLACE ON AN INDIVIDUAL BASIS IN BINDING ARBITRATION RATHER THAN AS A CLASS ACTION LAWSUIT, WITHOUT A JURY, AND ONLY SPECIFIC REMEDIES ARE AVAILABLE TO YOU. **[Read more in Section 23. Dispute Resolution (Informal Dispute Procedure, Arbitration Clause and Class Action Waiver).](https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION)**
+BY ACCESSING OR USING THE HEARST SERVICES, YOU ACCEPT AND AGREE TO BE LEGALLY BOUND BY AND COMPLY WITH THIS AGREEMENT AND ACKNOWLEDGE THAT YOUR INFORMATION WILL BE USED AS DESCRIBED IN THE [PRIVACY NOTICE](https://www.hearst.com/-/us-magazines-privacy-notice), WHICH DESCRIBES THE PRIVACY PRACTICES FOR THE HEARST SERVICES YOU INTERACT WITH (INCLUDING HOW WE PROVIDE INFORMATION TO OTHERS) IN DETAIL AND IS INCORPORATED BY REFERENCE HEREIN. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT OR HAVE NOT READ THE [PRIVACY NOTICE](https://www.hearst.com/-/us-magazines-privacy-notice), DO NOT ACCESS OR USE THE HEARST SERVICES. SPECIFICALLY, PLEASE TAKE NOTICE THAT WITH LIMITED EXCEPTIONS, ALL DISPUTES BETWEEN YOU AND US REGARDING THIS AGREEMENT MUST FOLLOW THE PROCEDURES SET FORTH IN [SECTION 23](https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION), AND ANY LEGAL ACTION MUST TAKE PLACE ON AN INDIVIDUAL BASIS IN BINDING ARBITRATION RATHER THAN AS A CLASS ACTION LAWSUIT, WITHOUT A JURY, AND ONLY SPECIFIC REMEDIES ARE AVAILABLE TO YOU. **[Read more in Section 23. Dispute Resolution (Informal Dispute Procedure, Arbitration Clause and Class Action Waiver).](https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION)**
 
 In the Highlights section, we provide an overview of the terms and conditions that apply to your access to, interaction with, or use of any U.S. website, mobile or other digital apps, print or online subscription, digital membership product, or other digital service operated by the Hearst affiliated network of media companies, including Television stations, Newspapers, and Magazines (which may include personalized content, features, and ads) (each a “Hearst Service”). 
 
@@ -68,8 +68,6 @@ Please review the full [Terms of Use](https://www.hearst.com/-/us-magazines-term
 
 ****Terms of Use****
 --------------------
-
-Last revised on: October 6, 2025
 
 **1\. Application and Acceptance of this Agreement**
 
@@ -177,9 +175,9 @@ d) Auto-renewing Subscription/Recurring Billing. All print subscriptions and dig
 *   You may cancel your print subscription or Digital Membership Product at any time by using a method provided in your subscription confirmation or logging into your user account for the relevant subscription or Digital Membership Product if you have created one.  When you cancel a print subscription, you will receive a refund for any undelivered issues.  When you cancel a Digital Membership Product (including the digital portion of an All-Access membership), you cancel only future charges associated with your subscription. You may notify us of your intent to cancel at any time, but the cancellation will become effective at the end of your current billing period.  Pro-rated refunds are not provided for Digital Membership Products.
 *   You may review the confirmation that you received when you placed your order, or your renewal notice, for more details about the automatic renewal/continuous services terms that apply to your purchase.
 
-d) Price Changes. We reserve the right to change subscription fees for print subscriptions or Digital Membership Products at any time. We will notify you of any changes if the regular fee for your subscription changes from what was stated at the time of your initial order. You will have an opportunity to cancel your subscription. If you do not cancel your subscription, you will be charged the new subscription fee at your next billing period.  
+e) Price Changes. We reserve the right to change subscription fees for print subscriptions or Digital Membership Products at any time. We will notify you of any changes if the regular fee for your subscription changes from what was stated at the time of your initial order. You will have an opportunity to cancel your subscription. If you do not cancel your subscription, you will be charged the new subscription fee at your next billing period.  
 
-e) Refunds. Except as may otherwise be provided for in these Terms of Use, we reserve the right to issue refunds or credits for print subscriptions or Digital Membership Products at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.  
+f) Refunds. Except as may otherwise be provided for in these Terms of Use, we reserve the right to issue refunds or credits for print subscriptions or Digital Membership Products at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.  
  
 
 **13\. Release**
