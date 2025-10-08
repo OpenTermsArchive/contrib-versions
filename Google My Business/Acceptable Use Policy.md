@@ -234,7 +234,7 @@ If you run a retail business in an eligible country (US, CA, UK and IE), you can
 To add your in-store products:
 
 *   Manually upload your products with the Product Editor. [Learn how to upload with the Product Editor](https://support.google.com/business/answer/9124203).
-*   To automatically add your products to your Business Profile, connect your point of sale system to the local inventory app or product reader. [Learn how to add your products to your Business Profile](https://support.google.com/business/answer/9934993).
+*   To automatically add your products to your Business Profile, connect your point of sale system to the Local Inventory app. [Learn how to add your products to your Business Profile](https://support.google.com/business/answer/9934993).
 
 Both methods must adhere to the following guidelines:
 
