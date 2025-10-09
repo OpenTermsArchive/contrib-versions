@@ -18,7 +18,7 @@ Remember the human. Reddit is a place for creating community and belonging, not 
 
 ##### Rule 2
 
-Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including [spamming](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-constitutes-spam-am-i-spammer), [vote manipulation](https://www.reddithelp.com/hc/en-us/articles/360043066412), ban evasion, or subscriber fraud) or otherwise interfere with or disrupt Reddit communities.
+Abide by community rules. Participate authentically in communities where you have a personal interest, and do not [spam](https://support.reddithelp.com/hc/articles/360043504051) or engage in [disruptive behaviors](https://support.reddithelp.com/hc/articles/360043066412) (including content manipulation) that interfere with Reddit communities.
 
 ##### Rule 3
 
@@ -30,7 +30,7 @@ Do not share or encourage the sharing of [sexual](https://support.reddithelp.com
 
 ##### Rule 5
 
-You don’t have to use your real name to use Reddit, but don’t [impersonate](https://www.reddithelp.com/hc/en-us/articles/360043075032) an individual or an entity in a misleading or deceptive manner.
+Be authentic. You don't have to use your real name, but [do not intentionally mislead others](https://support.reddithelp.com/hc/articles/41180423371156) or [impersonate](https://support.reddithelp.com/hc/articles/360043075032) an individual or entity in a deceptive manner.
 
 ##### Rule 6
 
@@ -38,7 +38,7 @@ Ensure people have predictable experiences on Reddit by properly labeling conten
 
 ##### Rule 7
 
-Keep it legal, and avoid posting illegal content or soliciting or facilitating [illegal or prohibited transactions](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/reddits-policy-against-transactions).
+Keep it legal. Don't post illegal content, and don't solicit or facilitate [illegal or prohibited transactions](https://support.reddithelp.com/hc/articles/360043513471).
 
 ##### Rule 8
 
