@@ -459,19 +459,23 @@ If you are Users or regulators in South Korea, you may reach out to us via the m
 
 ●
 
-Company Name: DR & AJU LLC
+Company Name: Alibaba.com Korea E-Commerce Private Limited
 
 ●
 
-Address: 7-16F, Donghoon Tower, 317 Teheran-ro, Gangnam-gu, Seoul, South Korea, 06151
+Address: 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631
 
 ●
 
-Telephone number: +82 02-3016-7449
+Representative: Marco Yang
 
 ●
 
-E-mail: PrivacyAlibaba.com@draju.com﻿
+Telephone number: 02-2193-4206
+
+●
+
+E-mail: korea\_privacyagent@service.alibaba.com
 
 15.LANGUAGE 
 ============
