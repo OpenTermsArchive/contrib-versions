@@ -702,3 +702,9 @@ You can download all Terms & Conditions [here.](https://www.energia.ie/getattac
 *   The prizes, _of tickets to the Vodafone Women’s Interpro Finals Day and signed Irish Rugby jersey_, cannot be exchanged for any monetary value or any other prize option
 *   By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.
 *   Energia excludes liability, to the fullest extent permitted by law, for any loss or damage caused to the winner arising out of the prize.
+
+#### 
+
+37\. Ideal Home Hotel Giveaway Competition Terms and Conditions
+
+[View and download the Ideal Home Hotel Giveaway Competition Terms and Conditions.](https://www.energia.ie/getmedia/fca4ebc4-c666-43c1-bdcd-48db01dbf774/Ideal-Home-Hotel-Giveaway-Competition-Ts-and-Cs.pdf)
