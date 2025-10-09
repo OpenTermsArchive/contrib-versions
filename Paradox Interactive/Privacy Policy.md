@@ -32,7 +32,7 @@ Paradox Interactive AB is the data controller and decides why and how your perso
 2\. Contact details
 -------------------
 
-You can reach us by contacting our customer support team at [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us) or you can reach out to our Data Protection Officer by completing this form: DPO Contact
+You can reach us by contacting our customer support team at [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us) or you can reach out to our Data Protection Officer by completing this form: [DPO Contact](https://docs.google.com/forms/d/16VF0w81JvRJNGkwYk_FBqdKvMZnSR6jzprG4KlyT39Q/edit)
 
 3\. What categories of data do we collect and process?
 ------------------------------------------------------
@@ -46,7 +46,7 @@ We may collect and process the following categories of personal data: ● contac
 
 We process your personal data for different purposes depending on how you use our Services. Below is an overview of what personal data we process and why.
 
-To be able to fulfill our User Agreement, we may process your data as necessary to: ● enable you to access the Services; ● troubleshoot and correct errors and bugs in the Services; ● safeguard our Services; ● operate and maintain our Services, for example by making sure that they function as intended; and ● enforce the terms and conditions of our User Agreement.
+To be able to fulfill our [User Agreement](https://legal.paradoxplaza.com/eula?_gl=1*144qht1*_ga*MTE2NDY2MDQyNS4xNzAxMTgwNjI0*_ga_31BKSB2CWS*MTcwOTQ2OTYzNC44LjAuMTcwOTQ2OTYzNC4wLjAuMA..), we may process your data as necessary to: ● enable you to access the Services; ● troubleshoot and correct errors and bugs in the Services; ● safeguard our Services; ● operate and maintain our Services, for example by making sure that they function as intended; and ● enforce the terms and conditions of our User Agreement.
 
 Based on our legitimate interest to provide our Services as intended, reach business and marketing related insights, and improve our Services, we may process your data to: ● measure and analyze the use of our Services and data we collect through our Services, for example to identify the number of players, trends or other insights; ● understand the effectiveness of our marketing campaigns and inform future marketing campaigns; ● analyze how ownership of our Games affects purchase behavior; ● perform A/B testing; and ● improve our Services, for example identify if certain gameplay moments are too easy or too difficult, and to develop new Services, for example, to identify what content a new DLC should have.
 
@@ -82,7 +82,7 @@ We will process your data for as long as necessary to achieve the purpose(s) for
 
 The GDPR and other applicable data protection laws and regulations grant you the right to: ● access, rectify, or request the erasure of, your data; ● revoke your consent at any time; ● request us to restrict our processing of your personal data; ● object to our processing of your data to the extent our processing is based on our legitimate interests or the legitimate interests of a third party; ● request a copy of the personal data you have provided us with (data portability), where such portability is technically feasible; and ● lodge a complaint with a supervisory authority.
 
-You can exercise your rights by contacting our customer support here and opening a ticket. You need to be logged in to your Paradox account to open a ticket. This is a requirement as we need to verify that the correct person is creating a ticket. Once logged in, you can also change your marketing consent settings and update your personal data directly in the Paradox account settings. You can opt out from the processing of Gameplay Data via the settings in game.
+You can exercise your rights by contacting our customer support [here](https://support.paradoxplaza.com/hc/en-us) and opening a ticket. You need to be logged in to your Paradox account to open a ticket. This is a requirement as we need to verify that the correct person is creating a ticket. Once logged in, you can also change your marketing consent settings and update your personal data directly in the [Paradox account settings](https://accounts.paradoxplaza.com/settings). You can opt out from the processing of Gameplay Data via the settings in game.
 
 9\. Cookies and similar technologies
 ------------------------------------
