@@ -429,11 +429,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -689,11 +689,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -1251,11 +1251,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -1511,11 +1511,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2045,11 +2045,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2305,11 +2305,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2776,11 +2776,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -3205,11 +3205,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -3634,11 +3634,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -4063,11 +4063,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -4492,11 +4492,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -4921,11 +4921,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -5153,9 +5153,9 @@ Retour
 *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
 *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
 
-*   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-*   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+*   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+*   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
 Recherche 
 
@@ -5409,269 +5409,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
-            
-    
-
-*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
-        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
-            
-            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
-            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
-            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
-            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
-            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
-            
-    
-    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
-            
-            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
-            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
-            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
-            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
-            
-        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-    
-    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
-            
-            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
-            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
-            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
-            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
-            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
-            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
-            
-        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
-            
-            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
-            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
-            
-    
-    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
-            
-            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
-            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
-            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
-            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
-            
-    
-    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
-            
-            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
-            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
-            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
-            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
-            
-    
-*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
-            
-            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
-            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
-            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
-            
-        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
-            
-            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
-            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
-            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
-            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
-            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
-            
-    
-    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
-            
-            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
-            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
-            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
-            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
-            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            *   
-            
-        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
-            
-            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
-            
-    
-    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
-            
-            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
-            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
-            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
-            
-        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
-            
-            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
-            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
-            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
-            
-    
-    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
-            
-            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
-            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
-            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
-            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
-            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
-            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
-            
-    
-    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
-            
-            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
-            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
-            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
-            
-        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
-            
-            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
-            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
-            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
-            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
-            
-    
-*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
-            
-            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
-            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
-            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
-            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
-            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
-            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
-            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
-            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
-            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
-            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
-            
-    
-    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
-            
-            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
-            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
-            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
-            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
-            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
-            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
-            
-        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
-            
-            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
-            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
-            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
-            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
-            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
-            
-    
-    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
-            
-            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
-            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
-            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
-            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
-            
-    
-    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
-            
-            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
-            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
-            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
-            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
-            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
-            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
-            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
-            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
-            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
-            
-    
-    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
-            
-            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
-            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
-            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
-            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
-            
-    
-*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
-            
-            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
-            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
-            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
-            
-    
-    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
-        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
-            
-            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
-            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
-            
-    
-    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
-            
-            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
-            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
-            
-        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
-            
-            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
-            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
-            
-    
-    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
-            
-            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
-            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
-            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
-            
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
-    
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
-            
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -5925,269 +5667,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
-            
-    
-
-*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
-        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
-            
-            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
-            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
-            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
-            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
-            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
-            
-    
-    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
-            
-            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
-            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
-            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
-            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
-            
-        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-    
-    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
-            
-            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
-            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
-            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
-            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
-            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
-            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
-            
-        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
-            
-            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
-            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
-            
-    
-    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
-            
-            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
-            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
-            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
-            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
-            
-    
-    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
-            
-            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
-            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
-            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
-            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
-            
-    
-*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
-            
-            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
-            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
-            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
-            
-        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
-            
-            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
-            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
-            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
-            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
-            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
-            
-    
-    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
-            
-            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
-            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
-            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
-            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
-            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            *   
-            
-        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
-            
-            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
-            
-    
-    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
-            
-            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
-            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
-            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
-            
-        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
-            
-            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
-            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
-            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
-            
-    
-    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
-            
-            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
-            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
-            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
-            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
-            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
-            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
-            
-    
-    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
-            
-            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
-            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
-            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
-            
-        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
-            
-            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
-            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
-            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
-            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
-            
-    
-*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
-            
-            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
-            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
-            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
-            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
-            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
-            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
-            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
-            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
-            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
-            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
-            
-    
-    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
-            
-            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
-            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
-            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
-            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
-            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
-            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
-            
-        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
-            
-            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
-            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
-            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
-            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
-            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
-            
-    
-    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
-            
-            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
-            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
-            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
-            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
-            
-    
-    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
-            
-            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
-            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
-            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
-            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
-            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
-            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
-            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
-            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
-            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
-            
-    
-    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
-            
-            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
-            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
-            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
-            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
-            
-    
-*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
-            
-            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
-            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
-            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
-            
-    
-    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
-        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
-            
-            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
-            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
-            
-    
-    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
-            
-            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
-            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
-            
-        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
-            
-            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
-            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
-            
-    
-    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
-            
-            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
-            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
-            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
-            
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
-    
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
-            
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6441,269 +5925,11 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
-            
-    
-
-*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
-        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
-        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
-            
-            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
-            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
-            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
-            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
-            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
-            
-    
-    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
-            
-            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
-            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
-            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
-            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
-            
-        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
-            
-            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
-            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
-            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
-            
-    
-    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
-            
-            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
-            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
-            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
-            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
-            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
-            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
-            
-        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
-            
-            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
-            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
-            
-    
-    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
-            
-            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
-            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
-            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
-            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
-            
-    
-    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
-            
-            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
-            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
-            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
-            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
-            
-    
-*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
-        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
-            
-            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
-            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
-            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
-            
-        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
-            
-            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
-            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
-            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
-            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
-            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
-            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
-            
-    
-    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
-            
-            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
-            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
-            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
-            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
-            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            *   
-            
-        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
-            
-            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
-            
-    
-    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
-            
-            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
-            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
-            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
-            
-        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
-            
-            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
-            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
-            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
-            
-    
-    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
-            
-            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
-            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
-            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
-            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
-            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
-            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
-            
-    
-    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
-            
-            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
-            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
-            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
-            
-        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
-            
-            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
-            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
-            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
-            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
-            
-    
-*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
-        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
-            
-            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
-            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
-            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
-            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
-            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
-            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
-            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
-            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
-            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
-            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
-            
-    
-    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
-            
-            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
-            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
-            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
-            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
-            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
-            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
-            
-        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
-            
-            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
-            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
-            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
-            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
-            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
-            
-    
-    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
-            
-            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
-            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
-            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
-            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
-            
-    
-    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
-            
-            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
-            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
-            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
-            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
-            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
-            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
-            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
-            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
-            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
-            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
-            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
-            
-    
-    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
-            
-            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
-            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
-            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
-            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
-            
-    
-*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-    
-    Retour
-    
-    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
-        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
-            
-            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
-            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
-            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
-            
-    
-    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
-        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
-            
-            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
-            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
-            
-    
-    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
-            
-            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
-            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
-            
-        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
-            
-            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
-            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
-            
-    
-    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
-            
-            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
-            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
-            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
-            
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
-    
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
-            
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6957,11 +6183,785 @@ Recherche
             
         *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
     
-    *   *   [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
-            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            
+    
+
+*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
+        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
+            
+            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
+            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
+            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
+            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
+            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
+            
+    
+    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
+            
+            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
+            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
+            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
+            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
+            
+        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
+    
+    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
+            
+            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
+            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
+            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
+            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
+            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
+            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
+            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
+            
+        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
+    
+    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
+            
+            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
+            
+    
+    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
+            
+            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
+            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
+            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
+            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
+            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
+            
+    
+*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
+            
+            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
+            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
+            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
+            
+        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
+            
+            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
+            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
+            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
+            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
+            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
+            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
+            
+    
+    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
+            
+            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
+            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
+            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
+            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
+            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
+            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
+            *   
+            
+        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
+            
+            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
+            
+    
+    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
+            
+            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
+            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
+            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
+            
+        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
+            
+            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
+            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
+            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
+            
+    
+    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
+            
+            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
+            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
+            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
+            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
+            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
+            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
+            
+    
+    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
+            
+            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
+            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
+            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
+            
+        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
+            
+            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
+            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
+            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
+            
+    
+*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
+            
+            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
+            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
+            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
+            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
+            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
+            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
+            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
+            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
+            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
+            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
+            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
+            
+    
+    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
+            
+            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
+            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
+            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
+            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
+            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
+            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
+            
+        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
+            
+            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
+            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
+            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
+            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
+            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
+            
+    
+    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
+            
+            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
+            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            
+    
+    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
+            
+            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
+            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
+            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
+            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
+            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
+            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
+            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
+            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
+            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
+            
+    
+    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
+            
+            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
+            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
+            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
+            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
+            
+    
+*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
+        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
+            
+            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
+            
+    
+    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
+    
+    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+            
+            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
+            
+    
+    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
+            
+            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
+            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
+            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
+            
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
+            
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            
+    
+
+*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
+        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
+            
+            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
+            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
+            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
+            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
+            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
+            
+    
+    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
+            
+            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
+            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
+            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
+            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
+            
+        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
+    
+    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
+            
+            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
+            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
+            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
+            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
+            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
+            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
+            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
+            
+        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
+    
+    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
+            
+            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
+            
+    
+    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
+            
+            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
+            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
+            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
+            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
+            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
+            
+    
+*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
+            
+            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
+            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
+            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
+            
+        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
+            
+            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
+            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
+            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
+            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
+            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
+            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
+            
+    
+    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
+            
+            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
+            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
+            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
+            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
+            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
+            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
+            *   
+            
+        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
+            
+            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
+            
+    
+    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
+            
+            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
+            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
+            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
+            
+        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
+            
+            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
+            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
+            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
+            
+    
+    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
+            
+            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
+            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
+            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
+            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
+            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
+            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
+            
+    
+    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
+            
+            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
+            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
+            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
+            
+        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
+            
+            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
+            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
+            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
+            
+    
+*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
+            
+            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
+            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
+            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
+            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
+            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
+            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
+            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
+            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
+            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
+            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
+            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
+            
+    
+    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
+            
+            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
+            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
+            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
+            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
+            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
+            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
+            
+        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
+            
+            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
+            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
+            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
+            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
+            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
+            
+    
+    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
+            
+            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
+            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            
+    
+    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
+            
+            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
+            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
+            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
+            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
+            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
+            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
+            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
+            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
+            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
+            
+    
+    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
+            
+            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
+            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
+            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
+            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
+            
+    
+*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
+        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
+            
+            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
+            
+    
+    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
+    
+    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+            
+            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
+            
+    
+    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
+            
+            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
+            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
+            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
+            
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
+            
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
+            
+    
+
+*   [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
+        *   [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
+        *   [Addictions](https://sante.gouv.fr/prevention-en-sante/addictions/)
+            
+            *   [Lutte contre le tabagisme](https://sante.gouv.fr/prevention-en-sante/addictions/article/lutte-contre-le-tabagisme)
+            *   [L’addiction à l’alcool](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-a-l-alcool)
+            *   [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
+            *   [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
+            *   [Produits de vapotage / Cigarette électronique](https://sante.gouv.fr/prevention-en-sante/addictions/produits-de-vapotage-cigarette-electronique/)
+            
+    
+    *   *   [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
+            
+            *   [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
+            *   [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
+            *   [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            *   [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
+            *   [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
+            
+        *   [Les antibiotiques : des médicaments essentiels à préserver](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/)
+            
+            *   [Des antibiotiques à l’antibiorésistance](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/des-antibiotiques-a-l-antibioresistance/)
+            *   [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
+            *   [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
+            
+    
+    *   *   [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
+            
+            *   [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
+            *   [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
+            *   [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
+            *   [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
+            *   [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
+            *   [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
+            *   [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
+            
+        *   [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            *   [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            *   [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
+    
+    *   *   [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
+            
+            *   [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            *   [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            *   [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            *   [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            *   [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
+            
+    
+    *   *   [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
+            
+            *   [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
+            *   [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
+            *   [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
+            *   [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
+            *   [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
+            
+    
+*   [Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Santé et environnement](https://sante.gouv.fr/sante-et-environnement/)
+        *   [Denrées alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/)
+            
+            *   [Edulcorants](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/edulcorants)
+            *   [Boissons énergisantes](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/boissons-energisantes)
+            *   [Compléments alimentaires](https://sante.gouv.fr/sante-et-environnement/denrees-alimentaires/article/complements-alimentaires)
+            
+        *   [Risques microbiologiques, physiques et chimiques](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/)
+            
+            *   [Perturbateurs endocriniens](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens)
+            *   [Bisphénols](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenols)
+            *   [Risques infectieux d’origine alimentaire](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/risques-infectieux-d-origine-alimentaire)
+            *   [Moustiques vecteurs de maladies](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/moustiques)
+            *   [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
+            *   [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
+            
+    
+    *   *   [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
+            
+            *   [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
+            *   [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
+            *   [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
+            *   [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
+            *   [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
+            *   [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
+            *   
+            
+        *   [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
+            
+            *   [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
+            
+    
+    *   *   [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
+            
+            *   [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
+            *   [Bruit](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/prevention-des-risques-lies-au-bruit)
+            *   [Urbanisme et santé](https://sante.gouv.fr/sante-et-environnement/activites-humaines/article/urbanisme-et-sante)
+            
+        *   [Air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/)
+            
+            *   [Qualité de l’air extérieur](https://sante.gouv.fr/sante-et-environnement/air-exterieur/qualite-de-l-air-exterieur-10984/)
+            *   [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
+            *   [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
+            
+    
+    *   *   [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
+            
+            *   [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
+            *   [Exposition au plomb](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-au-plomb)
+            *   [Exposition à l’amiante et risque pour la santé](https://sante.gouv.fr/sante-et-environnement/batiments/article/exposition-a-l-amiante-et-risque-pour-la-sante)
+            *   [Radon](https://sante.gouv.fr/sante-et-environnement/batiments/article/qu-est-ce-que-le-radon)      
+            *   [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
+            *   [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
+            
+    
+    *   *   [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
+            
+            *   [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
+            *   [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
+            *   [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
+            
+        *   [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
+            
+            *   [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            *   [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
+            *   [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
+            *   [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
+            
+    
+*   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Soins et maladies](https://sante.gouv.fr/soins-et-maladies/)
+        *   [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/)
+            
+            *   [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
+            *   [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
+            *   [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
+            *   [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
+            *   [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [Vivre avec une maladie chronique](https://sante.gouv.fr/soins-et-maladies/maladies/vivre-avec-une-maladie-chronique/)
+            *   [Maladies neurodégénératives](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-neurodegeneratives/)
+            *   [Saturnisme](https://sante.gouv.fr/soins-et-maladies/maladies/article/saturnisme)
+            *   [Maladies de l’hiver](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-hiver/)
+            *   [Maladies de l’enfant](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-de-l-enfant/)
+            *   [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
+            *   [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
+            
+    
+    *   *   [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
+            
+            *   [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
+            *   [Le circuit du médicament](https://sante.gouv.fr/soins-et-maladies/medicaments/le-circuit-du-medicament/)
+            *   [La surveillance des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/la-surveillance-des-medicaments/)
+            *   [Les médicaments génériques](https://sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/)
+            *   [Focus médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/focus-medicaments/)
+            *   [Professionnels de santé](https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/)
+            
+        *   [Autres produits de santé](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/)
+            
+            *   [Les dispositifs médicaux (implants, prothèses…)](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/dispositifs-medicaux/article/les-dispositifs-medicaux-implants-protheses)
+            *   [Informations sur les implants mammaires](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/informations-sur-les-implants-mammaires)
+            *   [Produits sanguins](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-sanguins)
+            *   [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
+            *   [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
+            
+    
+    *   *   [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
+            
+            *   [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            *   [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            *   [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
+            *   [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            
+    
+    *   *   [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
+            
+            *   [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
+            *   [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
+            *   [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
+            *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            *   [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            *   [Infections ostéo-articulaires](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/infections-osteo-articulaires/)
+            *   [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
+            *   [La médecine légale](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-medecine-legale)
+            *   [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
+            *   [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
+            *   [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
+            *   [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
+            *   [L’accès aux soins des personnes handicapées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/l-acces-aux-soins-des-personnes-handicapees/)
+            
+    
+    *   *   [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
+            
+            *   [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
+            *   [Pourquoi signaler un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/pourquoi-signaler-un-evenement-sanitaire-indesirable)
+            *   [Quels événements sanitaires indésirables signaler ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/quels-evenements-sanitaires-indesirables-signaler)
+            *   [Mon signalement en bref](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/mon-signalement-en-bref)
+            
+    
+*   [Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+    
+    Retour
+    
+    *   *   [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
+        *   [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
+        *   [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
+            
+            *   [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            *   [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            *   [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
+            
+    
+    *   *   [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        *   [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
+    
+    *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+            
+            *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
+            *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        *   [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            *   [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            *   [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
+            
+    
+    *   *   [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
+            
+            *   [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
+            *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
+            *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
+            
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
+    *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
+            
+            *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -7126,9 +7126,9 @@ Retour
 *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
 *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
 
-*   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
-*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
-*   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
+*   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
+*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+*   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
 *   [Accueil](http://sante.gouv.fr/) >
 *   [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/) >
