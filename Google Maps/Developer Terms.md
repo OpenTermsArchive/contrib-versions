@@ -1265,6 +1265,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Geoshop Rheinland Pfalz: [https://geoshop.rlp.de/digitale\_landschaftsmodelle/digitales\_basis-landschaftsmodell.html](https://geoshop.rlp.de/digitale_landschaftsmodelle/digitales_basis-landschaftsmodell.html)
              
+         *   INSPIRE Geoportal: [https://www.kba.de/EN/Service\_en/Hinweise\_en/Datenlizenz\_en/datenlizenz\_pdf\_en.pdf?\_\_blob=publicationFile&v=2](https://www.kba.de/EN/Service_en/Hinweise_en/Datenlizenz_en/datenlizenz_pdf_en.pdf?__blob=publicationFile&v=2), [https://inspire-geoportal.ec.europa.eu/srv/api/records/A6DEC247-7E42-4120-BB8A-6051AE1AA819?language=all](https://inspire-geoportal.ec.europa.eu/srv/api/records/A6DEC247-7E42-4120-BB8A-6051AE1AA819?language=all)
+             
+         *   Landesamt für Vermessung und Geoinformation Schleswig-Holstein (LVermGeo SH): [https://geodaten.schleswig-holstein.de/gaialight-sh/\_apps/dladownload/lizenz.html](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/lizenz.html)
+             
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
              
@@ -2778,6 +2782,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                
          276.  Pennsylvania Spatial Data Access (PASDA): [https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=SnyderCounty\_SiteAddressPoint202501.xml](https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=SnyderCounty_SiteAddressPoint202501.xml)
                
+         277.  The Pennsylvania State University: [https://policy.psu.edu/policies/ad91#POLICYSTATEMENT](https://policy.psu.edu/policies/ad91#POLICYSTATEMENT), [https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty\_Address202307.xml](https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty_Address202307.xml)
+               
     71.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
          
     72.  **United Arab Emirates / Abu Dhabi**
@@ -2924,6 +2930,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Open Data Latvia - [https://data.gov.lv/lv](https://data.gov.lv/lv)
              
          *   VSIA "Latvijas Vides, Ģeoloģijas un Meteoroloģijas Centrs"
+             
+         *   Geo Riga - [https://creativecommons.org/licenses/by/4.0/legalcode.lv](https://creativecommons.org/licenses/by/4.0/legalcode.lv)
              
     88.  **Slovenia**
          *   Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://www.e-prostor.gov.si/fileadmin/struktura/Preberi\_me.docx](https://www.e-prostor.gov.si/fileadmin/struktura/Preberi_me.docx)
