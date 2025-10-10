@@ -161,7 +161,7 @@ The Deliveroo User Review and Contribution Terms apply to any and all material (
 
 ### 6\. Suspension And Termination
 
-Failure to comply with section 3 (Acceptable Use), 5 (Content Standards) and/or 16 (Your Concerns) in these Terms of Use constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
+Failure to comply with section 3 (Acceptable Use), 5 (Content Standards, including as provided for in the Deliveroo User Review and Contribution Terms) and/or 16 (Your Concerns) in these Terms of Use constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
 
 *   immediate, temporary or permanent withdrawal of your right to use our Service;
 *   immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
