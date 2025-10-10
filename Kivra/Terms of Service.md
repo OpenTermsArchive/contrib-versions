@@ -118,7 +118,7 @@ Special conditions apply to Additional Services.
 
 Kivra has the right to make changes to the Service and the functions that can be used via the Service at any time. The scope and design of the functions available through the Service may vary over time. Kivra reserves the right to continuously develop, expand, limit, or otherwise change the design, technical features, systems, technical conditions for access to the Service, and other components, as well as the conditions for these.
 
-5\. Access to the service
+5\. Access to the Service
 -------------------------
 
 The Service is normally available 24 hours a day, seven (7) days a week, year-round. However, Kivra does not guarantee and is not responsible for the Service being free from errors, delays, and/or interruptions. Kivra reserves the right to temporarily interrupt the provision of the Service for service purposes, e.g., bug fixes, maintenance, and upgrades.
@@ -151,7 +151,7 @@ If Kivra suspects that you are using the Service in violation of this section, K
 
 You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/en/about-kivra/terms/dpa/) ("Data Processing Agreement") which is part of the Agreement.
 
-Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in [our Privace Notice](https://kivra.se/en/private/privacy-notice/).
+Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in our [Privace Notice](https://kivra.se/en/private/privacy-notice/).
 
 9\. Accessibility
 -----------------
