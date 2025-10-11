@@ -11,7 +11,7 @@ Hey there! Welcome to Tinder’s Privacy Policy.
 
 We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together. 
 
-This Privacy Policy applies from May 21, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-8-25-2024), applies until then.
+This Privacy Policy applies from October 10, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-5-21-2025), applies until then.
 
 1.  [Who We Are](#who-we-are)
     
@@ -184,7 +184,7 @@ Keep in mind, we may reject requests, including if we are unable to authenticate
 
 If you are located in Brazil, please contact us via email: dpobrazil@gotinder.com.
 
-If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
+If you are a resident of Indiana, Kentucky, Rhode Island, Maryland, Tennessee, Minnesota, Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
 
 In certain countries, including in the European Economic Area and the United Kingdom, you have a right to a judicial remedy and to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
 
@@ -205,7 +205,9 @@ Following account closure, we delete your data as laid out below: 
 4.  Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
     
 
-Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies and services and keep Match Group services safe. ### **10\. Children's Privacy**
+Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies and services and keep Match Group services safe.
+
+### **10\. Children's Privacy**
 
 Our service is restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a member is under the age of 18, please use the reporting mechanism available on the service. You can learn more about Tinder’s age verification practices [here](https://www.help.tinder.com/hc/articles/360040592691-Why-do-I-need-to-verify-my-age-).
 
