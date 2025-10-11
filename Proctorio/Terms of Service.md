@@ -189,7 +189,7 @@ All notices required under an applicable U.S. SaaS Agreement shall be in writing
 Proctor.io, Inc.  
 7340 E Main St.,  
 Suite 203  
-Scottsdale, AZ 85257  
+Scottsdale, AZ 85251  
 Email: [notices@proctorio.com](mailto:notices@proctorio.com)
 
 ### C. Notices. - Other
@@ -207,7 +207,7 @@ Email: [notices@proctorio.de](mailto:notices@proctorio.de)
 
 If You entered into a SaaS Agreement with Proctorio, You may assign Your rights and duties under the SaaS Agreement, with thirty days prior written notice to Proctorio. Proctorio may assign any SaaS Agreement, without consent, in the event of a change of control event. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
 
-### E. Payment; Refunds.
+### E. Payment; Refunds; License Subscription Option.
 
 To the extent the Services or any portion thereof is made available for any fee or through a subscription, your access will be granted following payment of the applicable fees to Company. Your account and access to the Services may be suspended in the event of non-payment of applicable fees. You represent and warrant to Company that such payment information is true and that you are authorized to use the payment instrument. If You are using a payment instrument held in the name of a third party, you agree to communicate Proctorio's policy on payments and refunds set forth in this Section 15(E) to such third party. For recurring subscriptions, you will promptly update your account information with any changes (for example, a change in your billing address or credit card expiration date) that may occur.
 
@@ -230,6 +230,8 @@ To prevent unnecessary disputes, we encourage You to review your purchase detail
 The amount and the decision to provide a refund will be made by Proctorio in its sole and absolute discretion. If You receive a refund for any reason, Proctorio reserves the right to terminate Your access to the relevant Services.
 
 Proctorio may suspend or cancel payment or refuse a refund request if we find evidence of fraud, abuse, or unlawful or other manipulative behavior.
+
+Lifetime Subscription is intended for use by a single person and remains valid as long as that person continues to attend the same Institution and uses the same integration provided by that Institution. For purposes of example only, if a student attends an Institution that utilizes Canvas as its system integration, and that student purchases a Lifetime Subscription, the Subscription shall remain valid for so long as the student is enrolled at the institution and continues accessing Canvas through the Institution's integration. However, if the student transfers to another school or the Institution replaces Canvas with a different integration, the Lifetime Subscription shall no longer be valid.
 
 ### F. Advertising.
 
