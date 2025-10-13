@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: July 30, 2025._
+_Effective: October 13, 2025._
 
 Key Information
 ---------------
@@ -46,7 +46,7 @@ We gather the following types of information about users through the Site:
 
 If you participate in a Content Offering, we may collect certain user-generated content, such as assignments you submit, peer-graded assignments, and peer grading feedback. We also collect course data, such as responses to in-video quizzes, standalone quizzes, exams, and surveys. You should not include any Personal Data or other information of a personal or sensitive nature, whether relating to you or another person, on assignments, exams, or surveys, except for information required to participate in or submit such assignments, exams, or surveys.
 
-*   Identity Verification. Coursera may offer you the ability to verify your identity for select Services. In order to enroll for these Services, you may be required to provide us or our third-party identity verification vendor with Personal Data such as your name, address, date of birth, a headshot taken using a webcam, and a photo identification document. Additionally, if you apply for financial aid in connection with these Services, you may be required to provide information regarding your income.
+*   Identity Verification. Coursera may offer you the ability to verify your identity for select Services. In order to enroll for these Services, you may be required to provide us or our third-party identity verification vendor with Personal Data such as your name, address, date of birth, a headshot taken using a webcam, and a photo identification document. Coursera’s third-party identity verification vendor may use this Personal Data to generate biometric facial data, which is destroyed upon successful completion of verification and in no event after 2 years. Additionally, if you apply for financial aid in connection with these Services, you may be required to provide information regarding your income.
 *   Communications with Coursera. We may receive and record Personal Data when you send us an email message or otherwise contact us, including through the use of an in-platform messaging/chat feature.
 *   Third Party Sites. We may receive Personal Data when you access or log-in to a third party site, e.g., Facebook, from our Sites. This may include the text and/or images of your Personal Data available from the third party site.
 *   Surveys. We may receive Personal Data when you provide information in response to a survey operated by us or a Content Provider.
@@ -67,6 +67,8 @@ Retention of Personal Data
 --------------------------
 
 We keep your Personal Data for no longer than necessary for the purposes for which the Personal Data is collected and processed. The length of time we retain Personal Data for depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise, or defend our legal rights.
+
+Biometric information is not retained beyond successful completion of identity verification, and in no event more than 2 years.
 
 Confidentiality & Security of Personal Data
 -------------------------------------------
