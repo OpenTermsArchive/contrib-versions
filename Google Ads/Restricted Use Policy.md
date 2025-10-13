@@ -96,7 +96,7 @@ Prohibited practices
 > 
 > > Ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, and businesses can compromise user trust in the Google Ads platform. The Misrepresentation policy strives to ensure that ads are clear, honest, and provide information that users need to make informed decisions.
 > > 
-> > Below are some examples of what to avoid in your ads. Learn more about [What happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
+> > Below are some examples of what to avoid in your ads. If your ads or website violate these policies, you can learn more about [What happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > > 
 > > **Examples of misrepresentation (non-exhaustive)**: omitting or obscuring billing details such as how, what, and when users will be charged; omitting or obscuring charges associated with financial services such as interest rates, fees, and penalties; failing to display tax or licence numbers, contact information, or physical address where relevant; making offers that aren't actually available; making misleading or unrealistic claims regarding weight loss or financial gain; collecting donations under false pretenses; "phishing" or falsely purporting to be a reputable company in order to get users to part with valuable personal or financial information
 
@@ -253,6 +253,6 @@ Advertisers have a responsibility not to promote content or engage in behavior t
 Need help?
 ----------
 
-If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about our policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 Rate how helpful this page is and share your feedback with us below:
