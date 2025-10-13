@@ -3,10 +3,10 @@
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -77,7 +77,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -802,7 +803,7 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412) 
+![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910) 
 
 *   [info.gouv.fr](https://info.gouv.fr/)
 *   [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -825,10 +826,10 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -899,7 +900,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -1619,10 +1621,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -1693,7 +1695,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2318,36 +2321,36 @@ Recherche
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
-
-sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
-
-[![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
 
-![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-2.png?1759842412)
+[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+
+sante.gouv.fr
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+
+![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
 
 Recherche 
 
@@ -2424,7 +2427,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2853,7 +2857,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3282,7 +3287,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3711,7 +3717,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -4140,7 +4147,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -4569,7 +4577,8 @@ Recherche
     
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
-            *   [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
+            *   [Charlotte Parmentier Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -7458,6 +7467,6 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412) 
+![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910) 
 
-![Ministère du Travail, de la Santé, des Solidarités, des Familles, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-2.png?1759842412)
+![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910)
