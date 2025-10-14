@@ -1,5 +1,3 @@
-Your privacy is important. As of 27 August 2025 we’ve updated our Privacy Policy to include additional detail about our data processing.
-
 Spotify Privacy Policy
 ======================
 
