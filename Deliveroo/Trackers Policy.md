@@ -137,6 +137,7 @@ The SDKs listed below are used by us and our advertising partners on our app to 
 *   Deliveroo
 *   Facebook
 *   Google
+*   Rokt
 
 SDKs on Deliveroo’s Rider App 
 ------------------------------
