@@ -2,6 +2,8 @@ Coinbase Global Privacy Policy
 
 Last Updated: March 26, 2024_._
 
+* * *
+
 We at Coinbase (the Coinbase entities listed in [Section 11 below](#our-relationship-with-you), referred to here as “**we**”, “**us**” or “**our**”) respect and protect the privacy of those who explore our Services (“**Users**”) and Users who sign up for and access our Services (“**Customers**”) (together referred throughout this policy as “**you**” and “**your**”).
 
 This Privacy Policy describes how we collect, use, and share personal information when you explore, sign up for or access our **“Services”**, which include the services offered on our websites, including [coinbase.com](https://www.coinbase.com/en-gb/), [coinbase.com/exchange](https://www.coinbase.com/en-gb/exchange), [coinbase.com/prime](https://www.coinbase.com/en-gb/prime), [coinbase.com/futures](https://www.coinbase.com/en-gb/futures), [coinbase.com/cloud](https://www.coinbase.com/en-gb/cloud) (each a “**Site**” and collectively the "**Sites**") or when you use the Coinbase mobile app, the Coinbase Card App, Coinbase Exchange, Coinbase Prime, Dapp Wallet, or Coinbase Custody application programming interface (“**API**”) or third party applications relying on such APIs (together, our “**Apps**”) and related services. 
