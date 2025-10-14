@@ -3,10 +3,10 @@
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -82,7 +82,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -121,7 +121,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -803,7 +803,7 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910) 
+![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851) 
 
 *   [info.gouv.fr](https://info.gouv.fr/)
 *   [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -826,10 +826,10 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -905,7 +905,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -944,7 +944,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -1621,10 +1621,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
@@ -1700,7 +1700,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -1739,7 +1739,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -2321,36 +2321,36 @@ Recherche
 *   [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 *   [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
 Recherche 
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
-
-sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
-
-[![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 sante.gouv.fr
-=============](https://sante.gouv.fr/ "Ministère de la Santé, de l’Autonomie et des Personnes handicapées")
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
 
-![Ministère de la Santé, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/logo-msaph-178-122.png?1760369910)
+[![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
+
+sante.gouv.fr
+=============](https://sante.gouv.fr/ "Ministère de la Santé, de la Famille, de l’Autonomie et des Personnes handicapées")
+
+![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées - sante.gouv.fr](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
 
 Recherche 
 
@@ -2432,7 +2432,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2471,7 +2471,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -2862,7 +2862,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2901,7 +2901,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -3292,7 +3292,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3331,7 +3331,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -3722,7 +3722,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3761,7 +3761,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -4152,7 +4152,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4191,7 +4191,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -4582,7 +4582,7 @@ Recherche
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Organisation](https://sante.gouv.fr/ministere/organisation/)
             *   [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             *   [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4621,7 +4621,7 @@ Recherche
     Retour
     
     *   *   [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        *   [Travailler pour le ministère du Travail, de la Santé, des Solidarités, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-des)
+        *   [Travailler pour le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-des-familles-de-l-autonomie-et-des)
         *   [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     
     *   *   [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
@@ -7467,6 +7467,6 @@ sur les réseaux sociaux
 *   [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
 *   [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
-![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910) 
+![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851) 
 
-![Ministère de la Santé, de l'Autonomie et des Personnes handicapées](IMG/logo/logo-msaph-178-122.png?1760369910)
+![Ministère de la Santé, de la Famille, de l'Autonomie et des Personnes handicapées](IMG/logo/ministere_sfaph_rvb-petit.jpg?1760434851)
