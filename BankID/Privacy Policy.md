@@ -5,7 +5,10 @@
 *   How your personal data is gathered
 *   How your personal data is processed
 *   List of personal data processing
+
 *   Reinforcement measures
+*   Support cases
+*   Improving and maintaining the services
 *   Our processing as data controller
 *   Recipients of personal data
 *   How your data is protected
@@ -27,7 +30,10 @@ Version 1.7, 18-09-2025
 *   How your personal data is gathered
 *   How your personal data is processed
 *   List of personal data processing
+
 *   Reinforcement measures
+*   Support cases
+*   Improving and maintaining the services
 *   Our processing as data controller
 *   Recipients of personal data
 *   How your data is protected
@@ -166,8 +172,8 @@ At the Bank’s request, we will also carry out manual sampling of the original 
 | Legal basis | You have given your consent to the processing. Regarding the manual sampling that is carried out, the processing is necessary to fulfil a legal obligation under PSD2 (EU 2015/2366) and supplementary regulation (EU 2018/289). |
 | Retention period | Essential data is saved for 11 years,<br><br>Device information is saved for 11 years,<br><br>Data that a biometric measure has been performed is saved for 6 years,  <br>Geographic location information is saved for 6 years, and<br><br>Facial recognition data and ID card data are only saved for the time required to perform the online identification process itself.<br><br>The original photo and comparison photo are only stored for **72 hours**. The purpose is to enable manual sampling. |
 
-  
-**Support cases**
+###   
+Support cases
 
 Your personal data is processed when you seek support for your BankID. The purpose of the processing is to help you with technical problems and to support you if you have any questions about functionality or other matters relating to the use of BankID and related services. Please note that it is primarily the Bank that will provide you with support in relation to your BankID.
 
@@ -178,8 +184,8 @@ Your personal data is processed when you seek support for your BankID. The purpo
 | Legal basis | Processing is necessary to fulfil the contract for the provision of the BankID between the Bank and you. In the absence of a support agreement, the processing is necessary for the Bank's legitimate interest in providing support to you. |
 | Retention period | Information that you provide in your support case is saved for 1 year after the case is closed, unless storage is no longer required by law or to establish, assert or defend legal claims. |
 
-  
-**Improving and maintaining the services**
+###   
+Improving and maintaining the services
 
 Your personal data is processed to produce aggregated/anonymous information to improve BankID and related services, make these services more user-friendly and secure, for example, by fixing bugs, producing billing information for the Bank, statistics, changing interfaces and other improvement measures.
 
