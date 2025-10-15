@@ -153,11 +153,7 @@ Linked Third Party Websites
 
 When you use third-party services (like when you connect your Coinbase account with your bank account) or websites that are linked through our Services, the providers of those services or products may receive information about you that Coinbase, you, or others share with them. Please note that when you use third-party services or Coinbase Affiliate Services which are not governed by this Privacy Policy, their own terms and privacy policies will govern your use of those services and products.
 
-TRUST
-
 
-
-TRUST is a global, secure, and industry-driven solution designed to comply with a requirement known as the Travel Rule while protecting your security and privacy. Coinbase and other custodial cryptocurrency exchanges and financial institutions share certain basic information about their customers when sending funds over a certain amount to another financial institution. To learn more, see [Travel Rule FinCEN Advisory](https://www.fincen.gov/sites/default/files/advisory/advissu7.pdf).
 
 Professional advisors, industry partners, authorities and regulators
 
