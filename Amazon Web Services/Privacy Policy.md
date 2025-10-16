@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-Last Updated: September 9, 2025
+Last Updated: October 16, 2025
 
-View the [prior version](https://aws.amazon.com/privacy/aws-privacy-prior-20250512/) of this Privacy Notice.   
+View the [prior version](http://aws.amazon.com/privacy/aws-privacy-prior-20250909/) of this Privacy Notice.   
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -85,7 +85,7 @@ To help you receive more useful and relevant ads on other sites and services and
 
 ### Access and Choice
 
-You can view, update, and delete certain information about your account and your interactions with AWS Offerings. [See examples of information that you can access](https://aws.amazon.com/privacy/#Information_You_Can_Access).. If you cannot access or update your information yourself, you can always contact us for assistance.
+You can view, update, and delete certain information about your account and your interactions with AWS Offerings. [See examples of information that you can access](https://aws.amazon.com/privacy/#Information_You_Can_Access). If you cannot access or update your information yourself, you can always contact us for assistance.
 
 You have choices about the collection and use of your personal information. Many AWS Offerings include settings that provide you with options as to how your information is being used. You can choose not to provide certain information, but then you might not be able to take advantage of certain AWS Offerings.
 
@@ -106,7 +106,7 @@ AWS Offerings may embed content provided by others or include links to other web
 
 ### Retention of Personal Information
 
-We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law..
+We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.
 
 ### Contacts, Notices, and Revisions
 
@@ -320,7 +320,7 @@ We provide additional information about our controllers and data protection offi
     
     AWS may share personal information as described in this Privacy Notice, including with affiliates of Amazon Web Services, Inc.
     
-    AWS has contracts in place with the following third party service provider(s) (delegatees) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
+    AWS has contracts in place with the following third-party service provider(s) (delegatees) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
     
     | **_Name of Party_** | **_Description of Function_** |
     | --- | --- |
@@ -332,7 +332,7 @@ We provide additional information about our controllers and data protection offi
     
     The details of delegation for event management can be found on the relevant event page.
     
-    AWS may share your personal information with the following third party service provider(s) outside of Korea as described below:
+    AWS may share your personal information with the following third-party service provider(s) (delegatees) outside of Korea as described below:
     
     | Name of Party (Contact Information) | Country | Transferred Items | Purpose of Transfer | Date and Method of Transfer | Period of Retention |
     | --- | --- | --- | --- | --- | --- |
@@ -349,6 +349,8 @@ We provide additional information about our controllers and data protection offi
     **Retention of Personal Information**
     
     AWS Korea keeps your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes as may be required by the Framework Act on National Taxes of Republic of Korea or other laws), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.
+    
+    **Contact Information of Department Handling Complaints Relating to Privacy**
     
     If you have any privacy questions or requests please contact:
     
