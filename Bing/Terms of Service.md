@@ -282,12 +282,12 @@ Microsoft Soundscape
 Power Platform
 --------------
 
-*   p. **Power Platform.** Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/business-applications/legal/) (https://powerplatform.microsoft.com/en-us/business-applications/legal/).
+*   p. **Power Platform.** Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at [Microsoft Power Platform](https://www.microsoft.com/en-gb/power-platform/business-applications/legal) (https://www.microsoft.com/en-gb/power-platform/business-applications/legal).
 
 Dynamics 365
 ------------
 
-*   q. **Dynamics 365.** Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at [Microsoft Dynamics 365](https://dynamics.microsoft.com/business-applications/legal/) (https://dynamics.microsoft.com/business-applications/legal/).
+*   q. **Dynamics 365.** Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at [Microsoft Dynamics 365](https://www.microsoft.com/en-gb/dynamics-365/business-applications/legal) (https://www.microsoft.com/en-gb/dynamics-365/business-applications/legal).
 
 Copilot AI Experiences
 ----------------------
