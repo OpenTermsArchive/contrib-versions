@@ -132,6 +132,7 @@ Orange réalise également des traitements de données pour d’autres finalité
 | Sonder les clients ou les utilisateurs | *   Mesurer la qualité de l’acte suite à la sollicitation des clients<br>*   Enrichir la connaissance clients au travers des sondages clients |
 | Améliorer notre offre et relation client | *   Mesurer, catégoriser et comprendre les sollicitations clients et les réponses sondages afin de dimensionner et améliorer la relation client et afin d’améliorer nos produits et services<br>*   Mesurer, comprendre et améliorer la performance des parcours clients<br>*   Améliorer la satisfaction client<br>*   Analyser nos ventes afin d’adapter nos offres, produits et services<br>*   Enrichir la connaissance clients au travers d’études<br>*   Mettre à disposition, en interne, des outils et données d’analyse afin d’améliorer notre relation client |
 | Identifier un client via son compte grâce au service Orange ID |     |
+| Créer des indicateurs statistiques sur la base de données de trafic et socio-démo anonymisées | Qualifier la population en France dans des zones géographiques en construisant des indicateurs statistiques de présence, de mobilité et de distribution sociodémographiques. |
 
 #### 2.2.2. Intérêt légitime et exécution du contrat
 
@@ -429,11 +430,13 @@ Vous pouvez changer vos permissions de contact à tout moment depuis votre espac
 
 Les données relatives à la localisation des utilisateurs du réseau mobile Orange sont agrégées afin de constituer des indicateurs statistiques de fréquentation de provenance et de déplacement à destination de divers partenaires du secteur du commerce, du tourisme, des transports…
 
-Le dispositif technique utilisé par Flux Vision garantit une anonymisation irréversible en supprimant toute donnée à caractère personnel et en rendant impossible l’identification d’une personne physique, ainsi que la ré-identification de manière directe ou indirecte.
+Les données de localisation sont enrichies avant anonymisation de données de connaissance client socio démographique (genre, tranche d’âge, code postal de résidence…).  
+
+Le dispositif technique utilisé par Flux Vision garantit une anonymisation irréversible en supprimant à bref délai toute donnée à caractère personnel et en rendant impossible l’identification d’une personne physique, ainsi que la ré-identification de manière directe ou indirecte. Ce traitement a pour base légale l’intérêt légitime d’Orange.
 
 11\. Modification de la Politique de protection des données
 -----------------------------------------------------------
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 11/06/2025
+Dernière mise à jour le 16/10/2025
