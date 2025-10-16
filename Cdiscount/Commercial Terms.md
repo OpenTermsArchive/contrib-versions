@@ -1233,15 +1233,15 @@ Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le 
 
 Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé le jour de la date d’anniversaire de l’Abonnement :
 
-*   sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné ou serait arrivée à expiration,  sur la dernière carte enregistrée dans l’Espace Client de l’Abonné ; ou
+*   sur la dernière carte bancaire enregistrée dans l’Espace Client de l’Abonné ;
+*   ou, dans l'hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné ou serait arrivée à expiration, sur toute autre carte bancaire enregistrée dans l’Espace Client de l’Abonné ;
 
-*   sur la dernière carte bancaire enregistrée sur le compte Paypal de l’Abonné utilisé pour le paiement de l’Abonnement initial ; ou
-
-*   sur la Cagnotte dont bénéficie l’Abonné dans les conditions définies à l’article 9, si le solde de la Cagnotte à la date d’anniversaire de l’Abonnement est suffisant.
+*   ou, dans l'hypothèse où ces cartes auraient été supprimées de l'Espace Client de l'Abonné ou seraient arrivées à expiration, sur le moyen de paiement utilisé pour le paiement de l’Abonnement initial.
 
 Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l’Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
 
-_L215-1 du Code de la consommation_
+**Reproduction des dispositions légales :  
+**_L215-1 du Code de la consommation_
 
 _Pour les contrats de prestations de services conclus pour une durée déterminée avec une clause de reconduction tacite, le professionnel prestataire de services informe le consommateur par écrit, par lettre nominative ou courrier électronique dédiés, au plus tôt trois mois et au plus tard un mois avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il a conclu avec une clause de reconduction tacite. Cette information, délivrée dans des termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date limite de non reconduction._
 
