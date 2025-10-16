@@ -3,8 +3,6 @@ Zillow Group Website Privacy Notice
 
 The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
-**We’re updating our Privacy Notice effective November 15, 2025. You can access the new version [here](https://www.zillowgroup.com/zg-privacy-policy-2025-update/).**
-
 ****To learn more about how Zillow uses internet-based advertising—and to manage your ad choices—please review the ‘**[**Third-Party Tracking & Interest-Based Advertising**](#third-party)**’ section of our Privacy Notice below and visit our** [**Privacy** Portal](https://www.privacy.zillowgroup.com/)**.****
 
 **Effective Date:** September 22, 2025
