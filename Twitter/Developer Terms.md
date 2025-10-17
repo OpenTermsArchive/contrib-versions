@@ -6,7 +6,7 @@ Developer Agreement
 X Developer Agreement
 ---------------------
 
-Last Updated: June 4, 2025
+Last Updated: October 17, 2025
 
 By clicking “Accept & Subscribe”, continuing to pay the recurring subscription fee for Paid Services, or by otherwise accessing or using any Licensed Material, you agree to the terms of our Agreement. Subscriptions auto-renew until canceled, as described below. A verified phone number is required to subscribe. If you've subscribed through another platform, manage your subscription through that platform.  
 
@@ -95,6 +95,8 @@ In this Agreement, the following definitions apply:
 **I. Tokens.** X may limit the number of tokens that it provides to you, including but not limited to tokens that enable access and use of functionality or features on X Applications.
 
 **J. Access Tiers.** X provides different tiers of access (as described at [developer.x.com/en](http://developer.x.com/en)) to the Licensed Material, and you shall subscribe to the tier that best fits your use case. X may, at any time, review your use of its Licensed Materials and require a change in the access tier to which you are subscribed, including but not limited to, application for Enterprise access (as described at [developer.x.com/en](http://developer.x.com/en)).
+
+**K. Prohibition on I-Framing:** You shall not, under any circumstances, embed, display, or otherwise incorporate any Licensed Material, X Content, X API, or elements of the X Applications within an iframe, inline frame, or any similar embedding mechanism on your Services or any other platform. This prohibition is absolute and includes, but is not limited to, attempts to frame X Content for display, integration, or redistribution purposes. Violation of this clause may result in immediate termination of your Developer Agreement and your access to the Licensed Material (e.g., X API, X Data License, Developer Portal) as outlined in Section VII.I.
 
 **  
 IV. Updates and Removals.**
