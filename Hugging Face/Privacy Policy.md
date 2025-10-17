@@ -184,6 +184,7 @@ We may share your information with Third-Party Service Providers, and when we do
 *   Discourse | Forum | United States
 *   AWS SES | Emails | United States
 *   Amazon Web Services, Inc. | Hosting/Infrastructure | United States
+*   Metronome | Billing | United States
 *   Stripe | Payment | United States
 *   MongoDB Atlas | Hosting/Infrastructure | United States
 *   Google Cloud Platform | Hosting/Infrastructure | United States/EMEA
