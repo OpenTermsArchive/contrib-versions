@@ -4089,9 +4089,13 @@ cf\_clearance
 
 Description
 
+This cookie is for Cloudflare bot products
+
 Controller
 
 Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
 
 Web Domain
 
@@ -4103,9 +4107,13 @@ Name
 
 Description
 
+This cookie is for Shopify reporting and analytics
+
 Controller
 
 Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
 
 Web Domain
 
