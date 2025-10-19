@@ -1,7 +1,5 @@
 *   [Home](https://cloud.google.com/)
 
-Stay organized with collections Save and categorize content based on your preferences.
-
 Google Cloud Terms of Service
 =============================
 
