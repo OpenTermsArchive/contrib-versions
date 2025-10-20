@@ -377,6 +377,8 @@ ATTN : Privacy Operations
 
 Menlo Park, CA 94025, États-Unis
 
+Contactez le [délégué à la protection des données](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%2F) de Meta Platforms, Inc.
+
 Finalités et moyens de traitement de vos informations
 
 Les catégories d’informations que nous utilisons, les raisons pour lesquelles elles sont traitées et la manière dont elles le sont, sont définies ci-dessous :
