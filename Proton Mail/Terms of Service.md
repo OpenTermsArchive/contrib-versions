@@ -157,7 +157,7 @@ We may delete Accounts in a delinquent restricted state, and/or part or all of t
 
 *   Removing the excess features (for example, by reducing your used storage capacity or deleting sub-users so that they do not exceed the limits of a free plan).
 
-subscriptions and credits are linked to the Account they have originally been purchased for and cannot be transferred to another account.
+Subscriptions and credits are linked to the Account they have originally been purchased for and cannot be transferred to another account.
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your Account. In case of a dispute or chargeback, we reserve our right to suspend your account until settlement of the dispute.
 
