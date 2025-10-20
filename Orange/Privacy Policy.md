@@ -335,7 +335,7 @@ Vous pouvez écrire à : Orange Service Client, Gestion des données personnelle
 
 ### Possibilité de saisir le DPO
 
-Vous pouvez également écrire à group-dpo.donnees-personnelles@orange.com pour exercer vos droits.
+Vous pouvez également écrire à [group-dpo.donnees-personnelles@orange.com](mailto:group-dpo.donnees-personnelles@orange.com) pour exercer vos droits.
 
 ### Possibilité de saisir la CNIL
 
@@ -379,7 +379,6 @@ En général :
 
 *   **Pour une connexion foyer** (ex : Wi-Fi), la personnalisation sera basée sur la navigation des membres du foyer ayant consenti.
 *   **Pour une connexion mobile**, la personnalisation sera basée uniquement sur la navigation du propriétaire du mobile.
-    
 
   
   
