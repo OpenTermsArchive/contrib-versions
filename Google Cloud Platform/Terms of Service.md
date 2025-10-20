@@ -1,5 +1,3 @@
-*   [Home](https://cloud.google.com/)
-
 Google Cloud Terms of Service
 =============================
 
