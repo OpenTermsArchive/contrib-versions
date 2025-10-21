@@ -31,7 +31,7 @@ You can filter the Policy to only see the portions that apply to you. Just choos
 Privacy Notice
 --------------
 
-Last modified October 2, 2025
+Last modified September 3, 2025
 
 *   General
 *   "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
