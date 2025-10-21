@@ -1,9 +1,5 @@
-Google API Services User Data Policy
-
-Stay organized with collections Save and categorize content based on your preferences.
-
-
-==============================================================================================================================
+Google API Services User Data Policy Stay organized with collections Save and categorize content based on your preferences.
+===========================================================================================================================
 
 _Last updated February 15, 2024_
 
