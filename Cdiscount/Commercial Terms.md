@@ -1,10 +1,10 @@
-_PREAMBULE : Général_
----------------------
+_CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
+-----------------------------------------------------------
 
 Ce site est opéré  par :  
   
 CDISCOUNT  
-Société anonyme au capital social de 6.642.912,78€  
+Société anonyme au capital social de 87 122 439,88 €  
 Immatriculée au RCS Bordeaux n° B 424 059 822  
 Représentée par M. Thomas METIVIER, en qualité de Directeur Général  
 Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif uniquement, aucun colis ne doit être retourné à cette adresse)  
@@ -248,8 +248,8 @@ A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
-_Article 4 : MODALITES DE PAIEMENT_
------------------------------------
+_CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
+-----------------------------------------------------------
 
  **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
@@ -344,8 +344,8 @@ Vous êtes informé de la collecte de ces informations dès votre première conn
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html). 
 
-_Article 6 : EXPEDITION ET LIVRAISON_
--------------------------------------
+_CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
+-----------------------------------------------------------
 
 **CDISCOUNT peut vous proposer, au moment de la passation de votre commande, différents modes de livraison en fonction notamment de la taille de votre colis et de votre adresse de livraison.** CDISCOUNT n'assure pas de livraison à destination : des bases militaires, des armées, des casernes.  
   
@@ -379,7 +379,7 @@ Pour plus d’informations concernant l’ensemble des modes de livraison, vous 
 
 **LIVRAISON A L’ADRESSE DE VOTRE CHOIX**
 
- Pour la livraison de vos produits de petit gabarit à l’adresse de votre choix, CDISCOUNT peut vous proposer un ou plusieurs des modes de livraison suivants (selon le pays de livraison ) :
+ Pour la livraison de vos produits de petit gabarit à l’adresse de votre choix, CDISCOUNT peut vous proposer un ou plusieurs des modes de livraison suivants (selon le pays de livraison) :
 
     |     |     |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -474,7 +474,7 @@ Pour faciliter le chargement dans votre véhicule, un matériel de manutention p
 
 Nous vous invitons à vérifier l’état de l’emballage de votre colis avant de l’accepter en apposant votre signature sur le bordereau de livraison papier ou électronique. Vous n’êtes pas autorisé à déballer le produit sur le point retrait. Si vous constatez des avaries sur l’emballage, mais que vous souhaitez malgré tout récupérer le colis, nous vous invitons à formuler des réserves précises sur le bordereau de livraison.
 
-Si vous souhaitez faire reprendre votre ancien appareil (uniquement les déchets électriques et électroniques - DEEE), les modalités et conditions de reprise sont accessibles à l’article 10 de nos CGV ou en [cliquant ici](https://www.cdiscount.com/edito/ecopart.html).
+Si vous souhaitez faire reprendre votre ancien appareil, les modalités et conditions de reprise sont accessibles à l’article 10 de nos CGV ou en [cliquant ici](https://www.cdiscount.com/edito/ecopart.html).
 
  
 
@@ -730,8 +730,8 @@ CDISCOUNT procédera à votre remboursement via le même moyen de paiement que c
 
 Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au comptant ou en 4x) CDISCOUNT procédera à votre remboursement par recrédit sur votre carte bancaire.
 
-_Article 9 : GARANTIES_
------------------------
+_CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
+-----------------------------------------------------------
 
 **9.1 Les Garanties Légales**
 
@@ -1088,24 +1088,22 @@ Il est précisé que les modes de livraison éligibles à la gratuité ne porten
 Cdiscount propose la livraison gratuite en express (jusqu'à 72heures ouvrées maximum).  
 En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) et sur notre page dédiée à notre abonnement Cdiscount à Volonté en [cliquant ici](https://www.cdiscount.com/cdav/livraison-a-volonte?cm_sp=Site:PrivilegeLivP:CDAV).  
 
-La livraison offerte s’applique sur les modes de livraison listés ci-dessous et pour un minimum d'achat qui varie en fonction du mode de livraison choisi.
+La livraison offerte s’applique sur les modes de livraison listés ci-dessous et pour un minimum d'achat qui varie en fonction du mode de livraison choisi et du montant du colis.
 
 **Pour une livraison en France métropolitaine** :
 
 Modes de livraison express (entre 24heures et 72heures ouvrées):
 
-*   TNT à domicile ou en point retrait
-*   Chronopost à domicile sans rendez-vous
+   *   Chronopost à domicile
 *   Chronopost en soirée
-*   Points retraits Chronopost (relais et consignes)
-*   Point retrait Blue Distrib'
+*   Chronopost en points retraits
+*   DPD à domicile
 *   Relais Colis Express
-*   Points retrait Cdiscount express
+     Modes de livraison standard **:**
 
-  Modes de livraison standard **:**
-
-*   Colissimo / GLS
-*   So colissimo
+*   DPD à domicile
+*   Chronopost en Point retrait
+*   Colissimo
 *   Mondial Relay
 *   Relais Colis
 
@@ -1223,7 +1221,7 @@ La date anniversaire de l’Abonnement au Service correspond à la date de sousc
 
 L’Abonné sera informé par email de la date de reconduction de son Abonnement au Service. Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.
 
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
+Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
             - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
@@ -1299,7 +1297,7 @@ Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de
 
 Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.  
   
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
+Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
             - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
@@ -1409,7 +1407,7 @@ Le Bénéficiaire peut décider de ne pas bénéficier des avantages du Service 
 
 Dans un tel cas, le Bénéficiaire ne pourra prétendre à un quelconque dédommagement de quelque sorte ou nature que ce soit.
 
-En aucun cas le Bénéficiaire ne peut pas demander à ce qu’une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
+En aucun cas le Bénéficiaire ne peut demander à ce qu’une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
 
 Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier du Partage par suite d'une erreur ou d'une omission dans les coordonnées du Bénéficiaire lors de leur saisie par l’Abonné ou d’une modification des coordonnées du Bénéficiaire.
 
@@ -1461,13 +1459,13 @@ Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
    
  **9.3 Utilisation de la Cagnotte**
 
-**9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze jours suivant la Date de souscription au Service est écoulé et que la commande éligible n'a pas fait l'objet d'une annulation. 
+**9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze (14) jours suivant la Date de souscription au Service est écoulé et que la commande éligible n'a pas fait l'objet d'une annulation. 
 
 **9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d’une commande éligible au Privilège sera précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
 Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
 
-**9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Energie, Cdiscount Santé, Cdiscount Beauté, Cdiscount Immobilier, Cdiscount Billetterie, Disneyland), sans minimum d’achat.
+**9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Billetterie), sans minimum d’achat.
 
 Pour cela, l’Abonné devra choisir « Payer avec Ma cagnotte à volonté » sur la page de choix du mode de paiement.
 
