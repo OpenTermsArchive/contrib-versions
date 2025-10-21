@@ -1,9 +1,5 @@
-YouTube API Services - Developer Policies
-
-Stay organized with collections Save and categorize content based on your preferences.
-
-
-===================================================================================================================================
+YouTube API Services - Developer Policies Stay organized with collections Save and categorize content based on your preferences.
+================================================================================================================================
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
