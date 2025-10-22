@@ -41,11 +41,11 @@ The terms and conditions found in these "General Terms and Conditions" section o
 
 **Services:**
 
-* **The Dune Application Service** allows Users to create SQL queries on blockchain data or on data uploaded by the User through the Dune Data Hub Service. The results are visualized as charts and the charts can be assembled into dashboards displayed within the Site.
-* **The Dune Data Hub Service** allows Users to bring different sets of data through uploads and/or synchronization and connection of data in different formats (as made available by Dune from time to time) into Dune for use of the data in connection with the other Dune Services.
-* **Dune SQL API** allows Users to have access to Dune’s application programming interfaces (the “API”) to perform SQL queries on blockchain data.
-* **Sim API** is a suite of APIs that provide real-time access to blockchain data, such as wallet balances, token holdings, and transactions.
-* **Additional Services and Features**. From time to time, we may offer other services or features, including beta, experimental, or limited-access functionality. These may be subject to separate terms or usage restrictions.
+*   **The Dune Application Service** allows Users to create SQL queries on blockchain data or on data uploaded by the User through the Dune Data Hub Service. The results are visualized as charts and the charts can be assembled into dashboards displayed within the Site.
+*   **The Dune Data Hub Service** allows Users to bring different sets of data through uploads and/or synchronization and connection of data in different formats (as made available by Dune from time to time) into Dune for use of the data in connection with the other Dune Services.
+*   **Dune SQL API** allows Users to have access to Dune’s application programming interfaces (the “API”) to perform SQL queries on blockchain data.
+*   **Sim API** is a suite of APIs that provide real-time access to blockchain data, such as wallet balances, token holdings, and transactions.
+*   **Additional Services and Features**. From time to time, we may offer other services or features, including beta, experimental, or limited-access functionality. These may be subject to separate terms or usage restrictions.
 
 Your access to Services, specific features, performance and pricing will be determined by your subscription plan (“Subscription Plan”) selected under “Settings” in your User or Team account or by a separate agreement, as applicable. An overview of Dune’s Services and Subscription Plans can be found in the Subscription Tiers and Pricing Page.
 
@@ -98,12 +98,12 @@ You must not use bots, crawlers, scrapers, or other automated means to access or
 
 You are responsible for ensuring that the data you upload, the information you post, and any other content you share does not:
 
-* contain false, misleading or otherwise erroneous information or data;
-* contain harmful material, such as viruses;
-* infringe someone else’s copyrights, trademarks or other intellectual property rights;
-* contain sensitive or special categories of personal data;
-* contain information that might be received as offensive or insulting; or
-* contains information, data, or content that is obtained through illegal or improper manner, or otherwise illegal.
+*   contain false, misleading or otherwise erroneous information or data;
+*   contain harmful material, such as viruses;
+*   infringe someone else’s copyrights, trademarks or other intellectual property rights;
+*   contain sensitive or special categories of personal data;
+*   contain information that might be received as offensive or insulting; or
+*   contains information, data, or content that is obtained through illegal or improper manner, or otherwise illegal.
 
 You may only register a username or Team handle deemed appropriate by Dune. Usernames may not, e.g., be offensive, profane, threatening, sexually explicit, misleading or deceitful. A username may also not be associated with a name or trademark actively used by someone else. You may not sell or in any other way transfer your username, Team handle, Team or User account without our prior written consent. Dune may replace, modify, or delete usernames, Team handles and respective accounts not in accordance with these Terms of Service.
 
@@ -241,10 +241,10 @@ Administrative Users (“Admins”) shall be liable for choosing the Subscriptio
 
 Admins shall have the following powers:
 
-1. create one or more Teams, including editing its public Profile;
-2. invite other Users to collaborate on the team, exclude Users from the Team, and dissolve the Team;
-3. to define different privileges (Viewer, Editor, Admin) for each User with access to the Team; and
-4. transfer content out of the Team
+1.  create one or more Teams, including editing its public Profile;
+2.  invite other Users to collaborate on the team, exclude Users from the Team, and dissolve the Team;
+3.  to define different privileges (Viewer, Editor, Admin) for each User with access to the Team; and
+4.  transfer content out of the Team
 
 Free access for Community Users
 -------------------------------
