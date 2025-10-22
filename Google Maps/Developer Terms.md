@@ -169,6 +169,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Victoria's Big Build: [https://bigbuild.vic.gov.au/terms-of-use](https://bigbuild.vic.gov.au/terms-of-use)
             
+        *   Data Gov Au - Administrative Boundaries © Geoscape Australia licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International license (CC BY 4.0).: [https://www.anzlic.gov.au/resources/foundation-spatial-data-framework/fsdf-themes-datasets/administrative-boundaries](https://www.anzlic.gov.au/resources/foundation-spatial-data-framework/fsdf-themes-datasets/administrative-boundaries)
+            
     4.  **Austria**
         *   You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -1269,6 +1271,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Landesamt für Vermessung und Geoinformation Schleswig-Holstein (LVermGeo SH): [https://geodaten.schleswig-holstein.de/gaialight-sh/\_apps/dladownload/lizenz.html](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/lizenz.html)
              
+         *   © GeoBasis-DE/MV 2025: [https://www.geodaten-mv.de/soapServices/api?SERVICE=CSW&REQUEST=GetRecordById&VERSION=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&ElementSetName=full&Id=3c9a82ad-6fc9-4d35-917e-8ba69603dd76](https://www.geodaten-mv.de/soapServices/api?SERVICE=CSW&REQUEST=GetRecordById&VERSION=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&ElementSetName=full&Id=3c9a82ad-6fc9-4d35-917e-8ba69603dd76), [https://www.geoportal-mv.de/portal/Metadatenviewer/5e39d2fb-35a9-4dd8-b7da-262606676f5f](https://www.geoportal-mv.de/portal/Metadatenviewer/5e39d2fb-35a9-4dd8-b7da-262606676f5f)
+             
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
              
@@ -1382,6 +1386,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   National Land Survey of Iceland: [https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data](https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data)
              
          *   Landmælingar Íslands (Geodesy of Iceland) [https://www.lmi.is/is/landupplysingar/gagnagrunnar/nidurhal](https://www.lmi.is/is/landupplysingar/gagnagrunnar/nidurhal)
+             
+         *   Natural Science Institute of Iceland/Icelandic Institute of Natural History [https://www.natt.is/en/resources/open-data](https://www.natt.is/en/resources/open-data)
              
     29.  **India**
          
