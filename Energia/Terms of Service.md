@@ -3,7 +3,8 @@
 Energia Terms & Conditions
 ==========================
 
-Energy Supply Contract
+**Energy Supply Contract**
+--------------------------
 
   
 
@@ -417,7 +418,7 @@ PO Box 12380
 Dublin 2  
    
 (b) By telephone on [0818 405 405](https://www.energia.ie/customer-care-number); or  
-(c) By online query on our [website.](https://www.energia.ie/home)
+(c) By online query through filling out our [contact us form.](https://www.energia.ie/contact-us)
 
 ### 
 
@@ -641,7 +642,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
 
 31\. Energia Solar & Battery Terms and Conditions
 
-****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-\(final\)-\(11-11-2020\)_2.pdf.aspx;).****
+[Read the Energia Solar & Battery Terms and Conditions.](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-\(final\)-\(11-11-2020\)_2.pdf.aspx;)
 
 ### 
 
@@ -689,7 +690,7 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
 35\. Download all Terms and Conditions
 
-You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+[View and download all Terms & Conditions.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
 
 ### 
 
