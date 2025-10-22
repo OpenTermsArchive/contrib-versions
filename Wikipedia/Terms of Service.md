@@ -3,7 +3,7 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 5 languages
+ Add languages
 
  English
 
@@ -32,9 +32,6 @@ Print/export
 *   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 
 In other projects
-
-*   [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
-*   [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
 
 Appearance
 
