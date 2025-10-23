@@ -5,7 +5,7 @@ Privacy Policy
 
 We take reader privacy very seriously. Reader privacy enjoys special Constitutional protections under US law, and LibraryThing will not cooperate with US law enforcement unless compelled to do so. LibraryThing will not cooperate with non-US law enforcement unless compelled, or if we are convinced the law is at least as just, and applied as justly, as US standards. If you are using LibraryThing from a foreign country with an oppressive government, LibraryThing urges you not to put yourself at risk.
 
-As of June 30, 2020, we have never received a National Security Letter, FISA order, or any other classified request for user information.
+As of October 23, 2025, we have never received a National Security Letter, FISA order, or any other classified request for user information.
 
 ### No sale of personal information
 
