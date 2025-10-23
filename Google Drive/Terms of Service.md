@@ -1,7 +1,7 @@
 Google Drive Additional Terms of Service
 ========================================
 
-Effective Date: March 31, 2020 ([view previous version](https://www.google.com/drive/terms-of-service/archived/))
+Effective Date: October 22, 2025 ([view previous version](https://www.google.com/drive/terms-of-service/archived/31-03-2020/))
 
 To use Google Drive, you must accept (1) [the Google Terms of Service](https://policies.google.com/terms), and (2) these Google Drive Additional Terms of Service (the **“Google Drive Additional Terms”**).
 
@@ -22,3 +22,20 @@ We will not use your content for marketing or promotional campaigns.
 #### 2\. Program Policies
 
 We may review content to determine whether it is illegal or violates our [Program Policies](https://support.google.com/docs/answer/148505), and we may remove or refuse to display content that we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please don’t assume that we do.
+
+#### 3\. Account Suspension and Termination
+
+Before suspending or terminating your account, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless doing so would:
+
+*   cause harm or [liability](https://policies.google.com/terms#footnote-liability) to a user, third party, or Google,
+*   violate the law or a legal enforcement authority’s order,
+*   compromise an investigation, or
+*   compromise the operation, integrity, or security of our [services](https://policies.google.com/terms#footnote-services).
+
+Without limiting any of our other rights, Google may suspend or terminate your access to Google Drive or delete your Google Account if any of these things happen:
+
+*   you materially or repeatedly breach these Terms or the Google Terms of Service,
+*   we’re required to do so to comply with a legal requirement or a court order, or
+*   your conduct causes harm or [liability](https://policies.google.com/terms#footnote-liability) to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you.
+
+For more information about why we disable accounts and what happens when we do, see this [Help Center page](https://support.google.com/accounts/answer/40695). If you believe your Google Account has been suspended or terminated in error, [you can appeal](https://support.google.com/accounts/answer/40695).
