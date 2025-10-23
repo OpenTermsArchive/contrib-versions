@@ -1,8 +1,8 @@
 AWS Service Terms
 =================
 
-Last Updated: October 9, 2025
------------------------------
+Last Updated: October 22, 2025
+------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1645,6 +1645,13 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 105\. Amazon Inspector
 ----------------------
 
-**105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances.
+**105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances
+
+106\. AWS RTB Fabric
+--------------------
+
+**106.1.** You may only use AWS RTB Fabric to facilitate real-time bidding communications (“RTB Communications”). If you use AWS RTB Fabric to do anything other than RTB Communications, we may limit, suspend, or terminate your access to AWS RTB Fabric or your account.
+
+**106.2.** We may remove any AWS RTB Fabric gateway that is not actively linked to another AWS RTB Fabric gateway for 60 consecutive days.
 
 [Previous Version(s)](https://aws.amazon.com/service-terms/previous/)
