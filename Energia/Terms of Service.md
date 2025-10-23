@@ -531,7 +531,13 @@ Attention: Customer Service Team,
 
 ### 
 
-24\. EV Tariff (Our Electric Vehicle Plan)
+24\. Download all the General Terms and Conditions for the Supply of Energy
+
+[View and download all](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB) [the General Terms and Conditions for the Supply of Energy](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)[.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+
+### 
+
+25\. EV Tariff (Our Electric Vehicle Plan)
 
 Eligibility:  
   
@@ -569,7 +575,7 @@ VAT applied at current rates. The Public Service Obligation (PSO) Levy is set an
 
 ### 
 
-25\. CEG Tariff (Clean Export Guarantee)
+26\. CEG Tariff (Clean Export Guarantee)
 
 •    If you are a Microgeneration Customer who meets the CEG Eligibility Criteria, you will receive from us the CEG Tariff in accordance with this Clause.  
 •    The CEG Tariff will be calculated using a unit rate published from time to time by Energia and will be based on the amount of excess electricity exported to the grid from the Premises using: (a) actual export quantities where you satisfy the Metered Export Eligibility Criteria, or (b) deemed export quantities where you satisfy the Deemed Export Eligibility Criteria.  
@@ -581,7 +587,7 @@ VAT applied at current rates. The Public Service Obligation (PSO) Levy is set an
 
 ### 
 
-26\. Product Terms & Conditions
+27\. Product Terms & Conditions
 
 Total discount is based on your chosen price plan options and applies to new customers only.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  From time to time we may issue promotional codes.  Only one promotional code will be accepted per customer registration. Other promotional codes may be available at any given time.
 
@@ -604,7 +610,7 @@ If you do not pay by direct debit then we expect payment before the due date on 
 
 ### 
 
-27\. Cashback Terms & Conditions
+28\. Cashback Terms & Conditions
 
 **Cashback Offers:**  
   
@@ -616,13 +622,13 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 
 ### 
 
-28\. Boiler Services Terms & Conditions
+29\. Boiler Services Terms & Conditions
 
 Learn more about our [Boiler Services Terms and Conditions](https://www.energia.ie/getattachment/702455b3-c54b-4da9-9852-17502169c70b/Boiler-Services-Terms-and-Conditions.pdf?lang=en-GB)
 
 ### 
 
-29\. Contract Renewal Terms & Conditions
+30\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
@@ -634,25 +640,25 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 ### 
 
-30\. Free Gas Boiler Offer
+31\. Free Gas Boiler Offer
 
 Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
 
 ### 
 
-31\. Energia Solar & Battery Terms and Conditions
+32\. Energia Solar & Battery Terms and Conditions
 
 [Read the Energia Solar & Battery Terms and Conditions.](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-\(final\)-\(11-11-2020\)_2.pdf.aspx;)
 
 ### 
 
-32\. Energia EV Charger Customer Terms and Conditions
+33\. Energia EV Charger Customer Terms and Conditions
 
 View our [EV charger offer customer terms and condtions.](https://www.energia.ie/getmedia/5450275f-f2b5-4a34-954c-23d48bc1a739/Energia-Free-EV-Charger-Customer-Terms-and-Conditions-FINAL.pdf)
 
 ### 
 
-33\. Newsletter competition terms and conditions
+34\. Newsletter competition terms and conditions
 
 [View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-\(2\).pdf?lang=en-GB)  
   
@@ -668,7 +674,7 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
 
 ### 
 
-34\. Digital & Social Competition
+35\. Digital & Social Competition
 
 General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
 
@@ -685,12 +691,6 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
   
 . 
-
-### 
-
-35\. Download all Terms and Conditions
-
-[View and download all Terms & Conditions.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
 
 ### 
 
