@@ -21,6 +21,17 @@ This Privacy Notice gets updated from time to time; whenever we make a material 
 
 We have revised our privacy notice as we are introducing some new features and ways of working. The main changes are outlined below.
 
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Version | Section | Changes | Date |
+| 1.0 | All | First Draft | 23 May 2018 |
+| 1.1 | How we use your information | Updated text on analytics | 28 September 2020 |
+| 1.2 | How long we keep your personal information | Update retention periods | 19 January 2024 |
+| 1.3 | How we use your information | Updated text on analytics to include ‘customer profile’ | 19 January 2024 |
+| 2.0 | All | Structural and content changes in the privacy notice template. | 14 October 2024 |
+| 2.1 | Profiling, Fraud Management and Security | Updated What data is used? in Fraud Prevention & Security to include 'Credential information' | 4 February 2025 |
+| 2.2 | How we use your personal information and our lawful basis to do so | Referenced use of automated tools | 4 July 2025 |
+
 Last updated: 4 July 2025
 
 #### How to use this privacy notice
@@ -162,9 +173,26 @@ The seller’s terms and conditions, privacy and cookies policies will apply to 
 
 It is necessary for us to process your personal information to enable us to provide you with your service. By service we mean any services or products that you buy or use such as broadband, mobiles, use of our apps or smart tech products.
 
+| How is your information used? | What data is used? | Lawful basis |
+| --- | --- | --- |
+| To process your order and provide you with your products and services<br><br>• To process orders for the products and services you’ve bought from us, and keep you updated with the progress of your order.<br><br>• To provide the relevant products or services to you. This includes other services not included in your agreement with us, services that use information about where you are, and to contact you with messages about changes to the products or services.<br><br>• Where you’ve purchased Vodafone products and services using a third party or partner organisation, we often need to exchange information with them as part of managing that relationship and your account – for example, to be able to identify your order and be able to pay them. | Contact details<br><br>Account information<br><br>Financial details | Performance of your contract |
+| Billing and Customer Care<br><br>• To bill you for using our products and services, or to take the appropriate amount of credit from you;<br><br>• To contact you if the billing information you provided us with is about to expire or we’re not able to take payment;<br><br>• To respond to any questions or concerns you may have about our network, products or services. | Account information<br><br>Financial details<br><br>Your contact with us | Performance of your contract |
+| Service messages<br><br>• We will contact you with customer service messages to keep you updated with current information about products and services you’ve purchased. For example, changes to our terms and conditions, price plan and data use, upgrades you might be entitled to, roaming or service interruptions. | Contact details<br><br>Account information | Performance of your contract |
+| Complaint handling purposes<br><br>• Regarding the service provided by and under contract with Vodafone<br><br>NB: Vodafone may also handle your complaint in compliance with mandatory legal obligation as outlined in the ‘To comply with mandatory legal obligation’ section | Account information<br><br>Customer Relationship Management data | Performance of your contract |
+
 ### To improve our service
 
 We collect information about your use of our products and services on an aggregated or anonymous basis in order to help us manage and improve the services we offer to everyone.
+
+| How is your information used? | What data is used? | Lawful basis |
+| --- | --- | --- |
+| Improving and innovating our products and services<br><br>• Where possible or practicable, we anonymise, de-identify or aggregate information in order to improve the service we offer to everyone. None of these analytics are linked back to you in any way. However, if the purpose requires the data to be processed in identifiable form, we will only do so if we have your consent. | Anonymised/<br><br>aggregated:<br><br>Financial details<br><br>Traffic data | Consent |
+| Improving and innovating our products and services through third parties<br><br>• We collect and combine information in order to monitor your use of products and services, and that of our other customers, as well as to help us to improve the quality of our products and services. We provide this information to third parties (for example, to content providers and advertisers) but any such third-party reporting shall not include information which may identify an individual customer. | Anonymised/<br><br>aggregated: Account information | Legitimate Interest |
+| Manage our networks and understand network usage<br><br>• To protect our networks and manage the volumes of calls, texts, and other uses of our networks. For example, we identify peak periods of use so we can try and ensure the networks can handle the volume at those times; | Traffic data<br><br>Location data | Legitimate Interest |
+| Manage our networks and understand network usage<br><br>• To understand how you use our networks, products and services. That way we can seek to review, develop, and improve these, develop more interesting and relevant products and services, as well as personalising our products and services. | Traffic data<br><br>Location data | Consent |
+| Improving roaming services<br><br>• To improve your roaming experiences and understand how Vodafone is performing in providing roaming services, whether Roaming Services and related products are working as intended, or whether improvements are needed to make roaming better. Vodafone uses personal data such as your name, email address, mobile phone number and call records in order to do this. Vodafone creates aggregated and statistical management reports from this information that do not identify you individually. Vodafone may also take this personal data and anonymise it so that more in-depth analysis of our roaming services can be undertaken. This helps Vodafone to develop its roaming services for customers without identifying users in an individual way. | Anonymised/<br><br>aggregated:<br><br>Contact details<br><br>Credential information<br><br>Traffic data | Legitimate interest |
+| Voice recording of Customer Centre calls<br><br>• For staff training, ensuring quality of engagement and verification of your identity Vodafone record calls made to and from our call centres. | Account information<br><br>Content data | Legitimate Interest. |
+| Content of your interactions with us (customer care call recordings, live chat transcripts)<br><br>• We will analyse samples of your interactions with us to improve our services by identifying trends in queries and issues that we receive. This may be done by automated means.<br><br>• We may use the content of your interactions with us to help us create efficiencies and to improve the tools that we use to communicate with you and ensure the quality and accuracy of these services e.g. our automated live chat feature. | Account information<br><br>Content data | Legitimate Interest. |
 
 ### Marketing and tailoring our service to you
 
@@ -172,13 +200,36 @@ We process your personal information for marketing and advertising purposes, suc
 
 You can manage your marketing permissions, and your preferences for the data we use to tailor these communications at any time by visiting [Your Privacy Settings](#privacysettings).
 
+| How is your information used? | What data is used? | Lawful basis |
+| --- | --- | --- |
+| Marketing<br><br>• We process this data for the purpose of sending you marketing communications. We can further tailor these messages using your calling and messaging activities, location information and browsing information, if you have authorised that we process this information for this purpose; | Contact details<br><br>Your preferences<br><br>Browsing history<br><br>Account information<br><br>Location data | Consent |
+| Marketing<br><br>•. We will also contact you to let you know about products and services of other Vodafone Group companies and those of other companies which we think may interest you depending on your marketing preferences. | Contact details<br><br>Your preferences<br><br>Browsing history<br><br>Account information<br><br>Location data | Legitimate interest |
+| Marketing<br><br>• As our customer, we will keep you informed generally about new products and services, send you newsletters or white papers, invite you to participate in a survey or let you know about offers, promotions, prize draws or competitions. We tailor these messages based on the sorts of products and services you’ve bought from us (for example, we know not to market to you if you’re in the middle of your phone contract). | Contact details<br><br>Account information<br><br>Questionnaire answers | Legitimate interest |
+| Personalised/targeted advertising online<br><br>• To deliver advertising that is relevant to you, you’ll also see targeted advertising online based on the use of cookies. This is known as interest-based advertising. It can be on websites belonging to the Vodafone Group, those of other organisations, as well as other online media channels such as social media sites. We may also combine data collected via the cookies with other data we have collected. If you don't want any information processed through the use of cookies, check our [Cookies](#cookies) section. It explains how to control and opt out of cookies.<br><br>• Remember that not providing consent for interest-based advertising won’t stop advertisements from being displayed – but they won’t be tailored to your interests. | Cookie data<br><br>Browsing history<br><br>Account information | Consent |
+| Research and analytics<br><br>We use a variety of analytics methods, including what is commonly referred to as “Big data analytics”. Big data analytics are mathematically driven analysis techniques on large and varied data sets (that is why it is “big” data) to uncover hidden patterns and hitherto unrevealed trends. At Vodafone, we take governance of big data analytics seriously. Our data scientists are required to sign up to a Code of Ethics. We have a strict use case process that requires that privacy and data protection law checks are carried out before any use case commences. We have strict rules for anonymisation and disidentified techniques where appropriate.<br><br>We use our analytics to:<br><br>• Perform market research and to carry out research and statistical analysis, including to monitor how customers use our networks, products and services on an anonymous or personal basis;<br><br>• Provide reports to third parties (such reports don’t contain information which may identify you as an individual). These can be to third parties such as content providers and advertisers, or as part of Vodafone Analytics. | Account information | Legitimate interest |
+| Research and analytics<br><br>• We will always seek your consent before using “Big data analytics” to process location and traffic data. | Location Data<br><br>Traffic Data | Consent |
+
 ### Profiling, Fraud Management and Security
 
 Profiling consists of the use of personal data in an automated form in order to evaluate certain personal aspects relating to an individual. We will process your personal information in this way for credit, fraud, and security purposes.
 
+| How is your information used? | What data is used? | Lawful basis |
+| --- | --- | --- |
+| Credit checks and ID<br><br>• We may carry out a credit check when you apply for a contract for any products or services with us.<br><br>• We will also use your personal information for identity verification purposes, for access to your account and for general account management. We sometimes supplement the information we collect about you with information from other sources to assess the accuracy of the information that we hold. | Financial details<br><br>Account information<br><br>Credential information | Performance of your contract |
+| Fraud Prevention & Security<br><br>• We will process your data and data received from third parties to protect and detect misuse or damage to our networks and to protect against and detect fraud across our products and services<br><br>Fraud management and law enforcement<br><br>• We may be obligated to release information, including information from third parties if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect our legitimate interests or the interests of our customers. | Traffic data<br><br>Credential information<br><br>Account information<br><br>Financial details<br><br>Third Party Data<br><br>Information about your device or connectivity<br><br>Cookies | Legitimate interest |
+| Network Security<br><br>• We will process your traffic data in order to protect and detect misuse or damage to our networks or to detect and resolve fraudulent use of our networks (and our partner roaming networks) and to solve technical issues you are experiencing. | Anonymous and aggregated contact details or credential related information<br><br>Traffic data | Legitimate interest |
+| Physical Security<br><br>• We may use CCTV footage to safeguard our stores and sites. | Images<br><br>Video footage | Legitimate interest |
+
 ### To comply with mandatory legal obligation
 
 Under certain circumstances, it is necessary for us to process your personal information in order to comply with the law, for example, when responding to law enforcement requests for data or to comply with tax requirements.
+
+| How is your information used? | What data is used? | Lawful basis | Legislation applicable |
+| --- | --- | --- | --- |
+| Accounting and tax requirements | Financial details<br><br>Account information | Compliance with mandatory legal obligation | Companies Act 2014 |
+| Law enforcement purposes<br><br>• We also may need to release your information to comply with our legal obligation to respond to the authorities’ lawful demands. Your personal data shall only be provided when there is a legal basis to do so in accordance with the law and pursuant to an exhaustive evaluation of all legal requirements. | Account information<br><br>Data about the Device<br><br>Traffic Data<br><br>Location data | Compliance with mandatory legal obligation | Data Protection Act 2018<br><br>Communications (Retention of Data) Act 2011, as amended by the Communications (Retention of Data) (Amendment) Act 2022 |
+| Complaint handling purposes<br><br>• Regarding how Vodafone handles your personal data<br><br>Complaint handling purposes<br><br>• Regarding the processing of electronic communications content and of metadata carried out in connection with the provision and use of electronic communications services | Account information<br><br>Customer Relationship  <br>Management data<br><br>Data about the Device and SIM | Compliance with mandatory legal obligation | Data Protection Act 2018<br><br>European Communities (Electronic Communications Networks and Services) (Privacy and Electronic Communications) Regulations 2011 (“the ePrivacy Regulations”) |
+| Sharing caller ID and location data with emergency services<br><br>Sharing account data to national registers | Account information<br><br>Data about the Device<br><br>Traffic Data<br><br>Location data<br><br>Account information | Compliance with mandatory legal obligation | European Union (Electronic Communications Code) Regulations 2022 |
 
 ### How we share your personal information
 
@@ -226,6 +277,15 @@ If Vodafone sends your information to a country that is not in the EEA, we will 
 We’ll store your information for as long as we must by law. If there’s no legal requirement, we’ll only store it for as long as we need to.
 
 Subject to the above, the following specific retention periods will be followed:
+
+|     |     |
+| --- | --- |
+| Type of Record or Information | Retention Period |
+| Call Traffic Details (records of call and SMS communication, i.e. Time and duration of call, originating number, destination number, quantity of data used, approximate location based on network information, and details of your device.) | Up to 24 months plus current month for billing and our purposes (as described above under "To provide you with your service" and in our general terms and conditions). The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection. |
+|     | Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes. |
+|     | To comply with legal obligations, call traffic records will be retained for a period of 12 months (plus current month). This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. |
+| Invoices & Statements | 6 years plus current year for invoices and statements.<br><br>The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection, as described above under "To provide you with your service" . |
+| Location Based Information for value added services (excluding network traffic data) | Deleted immediately on completion/ termination of the value-added service. |
 
 We’ll keep some personal information for a reasonable period after your contract with us has finished in case you decide to use our services again; to allow us to answer any questions you might have after you cease your services, or for our own business and reporting requirements. We, or one of our partners, may contact you about Vodafone services during this time if you haven’t opted out of receiving marketing communications from us.
 
@@ -937,6 +997,27 @@ First party cookies
 
 First party cookies originate from the same domain as the website you’re currently visiting.
 
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| Name | Essential / Non-essential | First Party / Third Party | Lifetime/ Max-Age | Domain | Description |
+| x-vf-sn-cross-token | Non-essential | First Party | 1 minute | [.vodafone.ie](http://securenet.vodafone.pt/) | Used for authentication between the Convergent Portal and the Classic Web Portal. |
+| VF-UUID | Non-essential | First Party | 10 years | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) | Used by Vodafone to collect analytics data. |
+| VF-SID | Non-essential | First Party | 36 minutes | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) |     |
+| VF-OPT | Non-essential | First Party | Session | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) |     |
+| VF-BINS | Non-essential | First Party | Session | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) |     |
+| \_ga | Non-essential | First Party | 2 years | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) | The most common cookies used by Google Analytics/Firebase to track user sessions. Other cookies related to analytics and managed by the Firebase Javascript dependency might be used and changed over time. |
+| \_ga\_<firebase\_ | Non-essential | First Party | 2 years | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) |     |
+| measurement\_id> |     |     |     |     |     |
+| \_gid | Non-essential | First Party | 1 day | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) |     |
+| incap\_ses\_770\_2431481 | Essential | First Party | Session | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) | WAF (Incapsula) |
+| Mandatory session cookie |     |     |     |     |     |
+| nlbi\_\* | Essential | First Party | Session | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) | WAF (Incapsula) |
+| It is a load balancer Cookie to ensure requests by a client are sent to the same origin server. |     |     |     |     |     |
+| visid\_incap\_2345399 | Essential | First Party | 1 year | [.vodafone.ie](https://securenet.vodafone.ie/) | WAF (Incapsula) |
+| The cookie on which we relate sessions to a specific visitor (visitor representing a specific browser on a specific computer) |     |     |     |     |     |
+| vsisd\_incap\_24314781 | Essential | First Party | 1 year | [.securenet.vodafone.ie](https://securenet.vodafone.ie/) | WAF (Incapsula) |
+|     |     |     |     |     | The cookie on which we relate sessions to a specific visitor (visitor representing a specific browser on a specific computer) |
+
 Controlling your cookies
 
 You can control how you use cookies in your browser. If you wish to restrict or block the cookies which are set by any website - including a Vodafone website, you should do this through the web browser settings for each web browser you use, on each device you use to access the internet.
@@ -1210,6 +1291,14 @@ You may choose to opt out of being included as a household member, i.e. your nam
 How long we keep your data
 
 By way of an example, here are some of the data and usage statistics we will collect and how long we will retain it for.
+
+|     |     |     |
+| --- | --- | --- |
+| Q&A | What data is involved | How long is it retained for? |
+| Service Configuration Information | Devices setup | As long as the service is active |
+| Identifiers | Devices configured, service activation and deactivation dates | As long as the service is active |
+| App Usage Data | App Usage | 90 days |
+| Urban Airship Data | App notifications, usage analytics and campaigns | As long as the service is active |
 
 Vodafone may retain aggregated and statistical reports that have been generated using the listed information for a longer period, but as these reports do not identify you as a user, they will not be used in a way that impacts your privacy.
 
@@ -1561,6 +1650,21 @@ See our list of first-party cookies (shown later on in this cookies policy).
 
 Third-party cookies are not used in association with the OneNumber website.
 
+|     |     |     |     |
+| --- | --- | --- | --- |
+| What it’s called | What it’s used for | Type | Duration |
+| First party cookies |     |     |     |
+| smck | Contains the list of all user's msisdns and the one selected to be used for the login and portal operations | 1   | 30 days (unless user logs out) |
+| mduser | Contains the auth token received from the backend | 1   | expires after session |
+| auth\_redirection | Set before the login phase and contains the page that the user tried to see in order to redirect her/him to that page after the login | 1   | expires after session |
+| auth\_infos | Used to remember which client ID the FE needs to proceed with the login process | 1   | expires after session |
+| X-B3-TraceId | Random value generated by the client device for every session, it's used to track the user navigation on the portal | 2   | expires after session |
+| smapiInfos | Contains some information used by Vodafone to check user navigation and send problems | 2   | expires after session |
+| smapi\_subject\_id | Set by Vodafone analytics library | 2   | 24 months |
+| smapi\_session\_id | Set by Vodafone analytics library | 2   | expires after session |
+| smapi\_install\_id | Set by Vodafone analytics library | 2   | 24 months |
+| primary\_msisdns | Contains the list of all user's msisdns and the verified primary numbers to be used for the login and portal operations | 2   | 30 days |
+
 Controlling your cookies  
 You can manage your cookie preferences by accessing the preference centre below;
 
@@ -1591,6 +1695,11 @@ Changes to our privacy policy
 This Privacy Policy gets updated from time to time; whenever we make a change, we’ll update the content and let you know.
 
 We have recently revised our Privacy Statement for this App and Service; the main changes are listed below.
+
+| Section | Changes |
+| --- | --- |
+| Reformatted privacy notice | We have updated the structure and format of the privacy notice to meet new legal requirements. |
+| Added new partners | We have added new links to our additional partners for our newly launched products. |
 
 Who we are  
 
@@ -1838,6 +1947,11 @@ This Privacy Policy gets updated from time to time; whenever we make a change, w
 
 We have recently revised our Privacy Statement for this website; the main changes are listed below.  
 
+|     |     |
+| --- | --- |
+| Section | Changes |
+| Reformatted privacy notice & updated cookie notice | We have updated the structure and format of the privacy notice to meet new legal requirements and updated our cookie notice to cover new cookies deployed on the site. |
+
 Who we are We are Vodafone Ireland Ltd, a member of the Vodafone Group.
 
 In this privacy policy:
@@ -2053,6 +2167,16 @@ A cookie is a small text file which is placed onto your mobile (or other electro
 
 The table below is designed to provide more information about the cookies we use and why:
 
+|     |     |     |
+| --- | --- | --- |
+| Name of cookie | Owner | Purpose of the cookie |
+| utag\_main | Tealium | Anonymously gathers usage statistics. |
+| cart\_vodafoneiotuk | Vodafone | Holds your shopping cart details. |
+| Vodafoneredirect | Vodafone | A tracking cookie from the shop which holds generic browsing information. |
+| IDGW | Vodafone | A temporary cookie when using Vodafone ID. No personal-identifiable information is stored. The cookie expires when the session ends. |
+| IDP | Vodafone | A temporary cookie when using Vodafone ID. No personal-identifiable information is stored. The cookie expires when the session ends. |
+| cookie\_policy | Vodafone | This stores that you have accepted the cookie policy. |
+
 ### V by Vodafone cellular products
 
 This privacy statement explains the information that is collected by Vodafone through the connectivity services we provide to your Connected Devices (‘Connected Devices’) and how this data will be processed. Connected Devices are those that are compatible with a V-Sim. You can view this statement, and the statement for our Connected Devices in the Settings Menu of the App at any time.
@@ -2075,6 +2199,13 @@ Changes to our privacy policy
 This Privacy Policy gets updated from time to time; whenever we make a change, we’ll update the content and let you know.
 
 We have recently revised our Privacy Statement for this App and Service; the main changes are listed below.
+
+|     |     |
+| --- | --- |
+| Section | Changes |
+| Reformatted privacy notice | We have updated the structure and format of the privacy notice to meet new legal requirements. |
+| Added new partners | We have added new links to our additional partners for our newly launched products. |
+|     |     |
 
 Last updated: \[05/11/2018\]
 
@@ -2306,6 +2437,11 @@ This privacy statement explains the information that is collected by Vodafone th
 This Privacy Policy gets updated from time to time; whenever we make a change, we’ll update the content and let you know.  
 
 We have recently revised our Privacy Statement for this App and Service; the main changes are listed below.  
+
+|     |     |
+| --- | --- |
+| Section | Changes |
+| Reformatted privacy notice | We have updated the structure and format of the privacy notice to meet new legal requirements. |
 
 Who we are
 
@@ -2592,6 +2728,12 @@ Description of cookies
 
 The table below is designed to provide more information about the cookies we use and why:
 
+|     |     |     |
+| --- | --- | --- |
+| Name of cookie | Owner | Purpose of the cookie |
+| openidAccessToken | Vodafone | These cookies remember who you are to keep you logged into your account on the app so you don’t have to log in every time. |
+| openidRefreshToken |     |     |
+
 ### V-Auto (product & app)
 
 This privacy statement explains the information that is collected by Vodafone through the V Auto application (‘App’) and as part of delivering connectivity and services via your V-Auto device (‘Connected Device’) and how this data will be processed.
@@ -2603,6 +2745,13 @@ We take the privacy of our users very seriously. We ask that you read this priva
 This Privacy Policy gets updated from time to time; whenever we make a change, we’ll update the content and let you know.  
 
 We have recently revised our Privacy Statement for this App and Service; the main changes are listed below.  
+
+|     |     |     |
+| --- | --- | --- |
+| Section | Changes | Date |
+| Reformatted privacy notice | We have updated the structure and format of the privacy notice to meet new legal requirements. | 25thMay 2018 |
+| Updated cookie section | Updated with information that is collected via Vodafone ID. | 2ndFebruary 2019 |
+| Updated how we collect information and who we share information with | Expanded to include when third party personal data is collected by the user when using the multi-user feature | 6th June 2019 |
 
 Last updated:17/07/2019
 
@@ -2881,6 +3030,22 @@ We've put our cookies into the following categories, to make it easier for you t
 3\. Functionality – these help to enhance your experience by doing things like remembering products you've added to your basket
 
 4\. Targeting/advertising – these are used to share some information with third parties who we advertise with, so we know how you've reached our website. We can also use cookies to identify the parts of the website you’re interested in. We then use this information to show you adverts and pages we think may also be of interest to you, to tailor how we communicate with you, or to tailor the contents of the communications we send to you. If you prefer, you can opt out of these. Tailoring of content means it includes information reflecting the interest you’ve shown in the content of our web pages, or offers or promotions that we think may interest you, and to improve how we respond to your needs.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| What’s its called | What it is used for | Type | Duration |
+| VF-UUID | This allows us to track browser actions to understand how Vodafone ID is being used (e.g. button clicks, page load times etc.) | 2   | Persistent cookie |
+| Session | To track your web session. After successful authentication this cookie is set to keep the authenticated session (and authorisation details) active in the browser. This means if you come back in the same browser within 30 minutes, you do not need to re-authenticate. | 1   | 30 minutes |
+| loadedData<br><br>loadedData1<br><br>marketChange | When you select what country you are in, these cookies remember your selection. | 3   | On browser close |
+| Trx | To track time out for current transaction | 1   | 10 minutes |
+| Auth\_${AuthorizationId} | To track time out for transaction | 1   | 1 Day |
+| Language | To track language selection | 2   | 30 Days |
+| Recall | To track “remember me” settings | 2   | On browser close |
+| sessionTimerData | To track transaction time out | 2   | Session |
+| origin\_tealium\_profile | Functional Cookie used to derive the profile (i.e. UK) used by Tealium and hand this over to the Service (e.g. V Shop) | 3   | Session |
+| origin\_tealium\_environment | This is a functional cookie used to identify the environment (web environment not location i.e. live web page or testing web page) used by the customer and hand this over to the Service (e.g. V Shop) to locate traffic | 3   | 1 year |
+| utag\_main | This is a tracking/behavioural cookie that contains different information about the session and presents a unique identifier of the customer in that session.<br><br>This gathers usage statistics used to analyse customer behaviour/ trends taking place on our site and use it to improve customer experience and performance of our site to give you the best experience possible.<br><br>All variable listed here:<br><br>ses\_id<br><br>– A unique identifier for the session.<br><br>\_st<br><br>– A Unix/Epoch time stamp, in milliseconds.<br><br>v\_id<br><br>– A unique identifier for each visitor.<br><br>\_ss<br><br>– A Boolean that indicates if the page viewed is the first in a session. A value of 1 means yes and 0 means no.<br><br>\_pn<br><br>– The number of pages viewed during the current session.<br><br>\_sn<br><br>– The number of sessions for this visitor. | 3   |     |
+| openidAccessToken<br><br>openidRefreshToken | These cookies remember who you are to keep you logged into your account on the app so you don’t have to log in every time. | 1   | Session |
 
 Controlling your cookies
 
@@ -3410,13 +3575,38 @@ A cookie is a small piece of data (text file) that a website – when visited by
 
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
+| Cookie Subgroup | Cookies | Cookies used | Lifespan |
+| --- | --- | --- | --- |
+| n.vodafone.ie | [AWSALB](https://cookiepedia.co.uk/cookies/AWSALB) , [OAMAuthnCookie\_n.vodafone.ie:443](https://cookiepedia.co.uk/cookies/OAMAuthnCookie_n.vodafone.ie:443) , [AWSALBCORS](https://cookiepedia.co.uk/cookies/AWSALBCORS) , [SHIROCOOKIE](https://cookiepedia.co.uk/cookies/SHIROCOOKIE) | First Party | 6 Days, Session, 6 Days, Session |
+| .vodafone.ie | [visid\_incap\_xxxxxxx](https://cookiepedia.co.uk/cookies/visid_incap_xxxxxxx) , [OptanonConsent](https://cookiepedia.co.uk/cookies/OptanonConsent) , [nlbi\_XXXXXXX](https://cookiepedia.co.uk/cookies/nlbi_XXXXXXX) , [incap\_ses\_xxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/incap_ses_xxxxxxxxxxxxxxxx) , [CONSENTMGR](https://cookiepedia.co.uk/cookies/CONSENTMGR) , [utag\_main](https://cookiepedia.co.uk/cookies/utag_main) , [OptanonAlertBoxClosed](https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed) | First Party | 364 Days, 364 Days, 364 Days, 364 Days, 364 Days, 364 Days, 364 Days |
+| [.tealiumiq.com](https://cookiepedia.co.uk/host/.tealiumiq.com) | TAPID | Third Party | 364 Days |
+
 #### Performance Cookies
 
 Performance cookies collect information about how visitors use our website, such as which pages are visited most often and if users encounter error messages. These cookies also collect specific data to help us understand usage patterns. We combine this data with account information to provide a more personalized and improved services. While these cookies help us enhance website performance and user experience, they collect personal information that can be linked to individual accounts or user profiles. If you do not allow these cookies we will not know when you have visited our site, collect information and will not be able to monitor its performance.
 
+| Cookie Subgroup | Cookies | Cookies used | Lifespan |
+| --- | --- | --- | --- |
+| n.vodafone.ie | [LID](https://cookiepedia.co.uk/cookies/LID) , [smapi\_subject\_id](https://cookiepedia.co.uk/cookies/smapi_subject_id) , [ADRUM\_xxxx](https://cookiepedia.co.uk/cookies/ADRUM_xxxx) | First Party | 395 Days, 364 Days, A few seconds |
+| deviceguides.vodafone.ie | [smapi\_install\_id](https://cookiepedia.co.uk/cookies/smapi_install_id) | First Party | 364 Days |
+| .vodafone.ie | [da\_lid](https://cookiepedia.co.uk/cookies/da_lid) , [\_ga\_xxxxxxxxxx](https://cookiepedia.co.uk/cookies/_ga_xxxxxxxxxx) , [s\_sq](https://cookiepedia.co.uk/cookies/s_sq) , [s\_fid](https://cookiepedia.co.uk/cookies/s_fid) , [\_uetvid](https://cookiepedia.co.uk/cookies/_uetvid) , [s\_cc](https://cookiepedia.co.uk/cookies/s_cc) , [\_ga](https://cookiepedia.co.uk/cookies/_ga) , [\_gid](https://cookiepedia.co.uk/cookies/_gid) , [s\_dfa](https://cookiepedia.co.uk/cookies/s_dfa) , [da\_intState](https://cookiepedia.co.uk/cookies/da_intState) | First Party | 364 Days, 399 Days, 364 Days, 399 Days, 389 Days, 364 Days, 399 Days, A few seconds, A few seconds, A few seconds |
+| vodafone.ie | [s\_ecid](https://cookiepedia.co.uk/cookies/s_ecid) | First Party | 399 Days |
+| [.jivox.com](https://cookiepedia.co.uk/host/.jivox.com) | jvxsync | Third Party | 89 Days |
+| [.decibelinsight.net](https://cookiepedia.co.uk/host/.decibelinsight.net) | da\_lid | Third Party | 364 Days |
+| [.quantserve.com](https://cookiepedia.co.uk/host/.quantserve.com) | d   | Third Party | 89 Days |
+
 #### Functional Cookies
 
 These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Cookie Subgroup | Cookies | Cookies used | Lifespan |
+| vodafone.ie | [utag\_main 2](https://cookiepedia.co.uk/cookies/utag_main%202) | First Party | 365 Days |
+| .n.vodafone.ie | [\_pin\_unauth](https://cookiepedia.co.uk/cookies/_pin_unauth) | First Party | 364 Days |
+| .vodafone.ie | [at\_check](https://cookiepedia.co.uk/cookies/at_check) ,[mbox](https://cookiepedia.co.uk/cookies/mbox) ,[da\_sid](https://cookiepedia.co.uk/cookies/da_sid) ,[OAMAuthnHintCookie](https://cookiepedia.co.uk/cookies/OAMAuthnHintCookie) | First Party | 364 Days, 399 Days, A few seconds, 364 Days |
+| deviceguides.vodafone.ie | [kampyleSessionPageCounter](https://cookiepedia.co.uk/cookies/kampyleSessionPageCounter) ,[\_\_\_utmvxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/___utmvxxxxxxxxxxxxxx) ,[kampyleUserSessionsCount](https://cookiepedia.co.uk/cookies/kampyleUserSessionsCount) ,[mdLogger](https://cookiepedia.co.uk/cookies/mdLogger) ,[kampyle\_userid](https://cookiepedia.co.uk/cookies/kampyle_userid) | First Party | 364 Days, A few seconds, 364 Days, 364 Days, 364 Days |
+| n.vodafone.ie | [basketIdentifier](https://cookiepedia.co.uk/cookies/basketIdentifier) ,[kampyleUserSession](https://cookiepedia.co.uk/cookies/kampyleUserSession) ,[changeProductInBasket](https://cookiepedia.co.uk/cookies/changeProductInBasket) | First Party | 729 Days, 364 Days, A few seconds |
 
 #### Targeting Cookies
 
@@ -3426,6 +3616,27 @@ These cookies may be set through our site by our advertising partners. They may 
     
     These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
     
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Cookie Subgroup | Cookies | Cookies used | Lifespan |
+| deviceguides.vodafone.ie | [adformfrpid](https://cookiepedia.co.uk/cookies/adformfrpid) | First Party | 29 Days |
+| vodafone.ie | [ipconsent](https://cookiepedia.co.uk/cookies/ipconsent) ,[utag\_main 3](https://cookiepedia.co.uk/cookies/utag_main%203) | First Party | 2 Years, 365 Days |
+| .vodafone.ie | [\_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx) ,[\_fbp](https://cookiepedia.co.uk/cookies/_fbp) ,[AMCVS\_xxxxxAdobeOrg](https://cookiepedia.co.uk/cookies/AMCVS_xxxxxAdobeOrg) ,[\_gcl\_au](https://cookiepedia.co.uk/cookies/_gcl_au) ,[\_dlt](https://cookiepedia.co.uk/cookies/_dlt) ,[AMCV\_xxxxxAdobeOrg](https://cookiepedia.co.uk/cookies/AMCV_xxxxxAdobeOrg) ,[\_uetsid](https://cookiepedia.co.uk/cookies/_uetsid) ,[\_\_qca](https://cookiepedia.co.uk/cookies/__qca) | First Party | A few seconds, 89 Days, 364 Days, 89 Days, A few seconds, 399 Days, A few seconds, 391 Days |
+| [.everesttech.net](https://cookiepedia.co.uk/host/.everesttech.net) | everest\_g\_v2, everest\_session\_v2 | Third Party | 680 Days, Session |
+| [adform.net](https://cookiepedia.co.uk/host/adform.net) | C, CM, uid, CM14 | Third Party | 29 Days, A few seconds, 59 Days, A few seconds |
+| [ct.pinterest.com](https://cookiepedia.co.uk/host/ct.pinterest.com) | \_pinterest\_ct\_ua | Third Party | 364 Days |
+| [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | receive-cookie-deprecation | Third Party | 179 Days |
+| [seadform.net](https://cookiepedia.co.uk/host/seadform.net) | uid | Third Party | 60 Days |
+| [.decibelinsight.net](https://cookiepedia.co.uk/host/.decibelinsight.net) | intState, da\_sid | Third Party | A few seconds, A few seconds |
+| [.dpm.demdex.net](https://cookiepedia.co.uk/host/.dpm.demdex.net) | dpm | Third Party | 130 Days |
+| [.google.com](https://cookiepedia.co.uk/host/.google.com) | \_\_Secure-xxxxxxx, SSID, SAPISID | Third Party | 266 Days, 266 Days, 266 Days |
+| [.doubleclick.net](https://cookiepedia.co.uk/host/.doubleclick.net) | receive-cookie-deprecation, test\_cookie, IDE | Third Party | 179 Days, A few seconds, 298 Days |
+| [.adform.net](https://cookiepedia.co.uk/host/.adform.net) | uid, CM, CM14, C | Third Party | 59 Days, A few seconds, A few seconds, 30 Days |
+| [.demdex.net](https://cookiepedia.co.uk/host/.demdex.net) | dextp, demdex | Third Party | 179 Days, 130 Days |
+| [.quantserve.com](https://cookiepedia.co.uk/host/.quantserve.com) | mc  | Third Party | 395 Days |
+| [.pinterest.com](https://cookiepedia.co.uk/host/.pinterest.com) | ar\_debug | Third Party | 364 Days |
+| [.ct.pinterest.com](https://cookiepedia.co.uk/host/.ct.pinterest.com) | \_pinterest\_ct\_ua | Third Party | 364 Days |
 
 ### Cookies and you
 
@@ -3515,6 +3726,22 @@ Local Storage is a type of web storage that allows JavaScript sites and apps to 
 How We Use Local Storage
 
 We use local storage to keep track of which of our digital tools you have used and what you've done on the site. Local Storage also means you can use additional services such as live chat or allows us to survey customers regarding their experience. Some examples of local storage values are below.
+
+|     |     |     |
+| --- | --- | --- |
+| Host | Key | Value |
+| https://www.vodafone.ie | bc.visitor\_token | {"token":"6696527780874059776"} |
+| https://www.vodafone.ie | kampyle\_userid | 6ac0-2b32-f63f-944e-1369-8345-78c6-8113 |
+| https://www.vodafone.ie | kampyleSessionPageCounter | 1   |
+| https://www.vodafone.ie | kampyleUserSession | 1601735800079 |
+| https://www.vodafone.ie | kampyleUserSessionsCount | 25  |
+| https://www.vodafone.ie | mdigital\_alternative\_uuid | b745-5a4a-7f24-b800-ac06-3110-bc66-adfb |
+| https://n.vodafone.ie | \_hjid | 28a2316d-96d0-4f54-8d1d-60bb36344ab3 |
+| https://n.vodafone.ie | \_hjRecordingEnabled | TRUE |
+| https://n.vodafone.ie | \_hjRecordingLastActivity | 1600951756201 |
+| https://n.vodafone.ie | datalayer | {"offerType":"pay as you go phones","addedToBasket":""} |
+| https://n.vodafone.ie | hjViewportId | 87b0fe81-dbeb-4107-a6fd-73da7f36d3cb |
+| https://n.vodafone.ie | s\_pec |     |
 
 How To Clear Local Storage  
 
