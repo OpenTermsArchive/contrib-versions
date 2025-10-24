@@ -3,12 +3,8 @@
 *   [Personal](https://www.opayweb.com/)
 *   [Business](https://opaybusiness.opayweb.com/)
 
-*   [CSR](https://www.opayweb.com/csr)
-
 *   [Personal](https://www.opayweb.com/)
 *   [Business](https://opaybusiness.opayweb.com/)
-
-*   [CSR](https://www.opayweb.com/csr)
 
 [](#top)
 
