@@ -87,7 +87,7 @@ Overly broad or unspecific preservation requests will not be actioned. To seek d
 
 TikTok has processes in place to handle emergency requests. Such requests are evaluated on a case-by-case basis: if as part of an emergency request we receive information that is sufficient in our assessment to establish a good faith belief that there is an emergency involving imminent harm or the risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
 
-**_To request this data, you must submit your request through the_** [Emergency Disclosure Request Form](https://www.tiktok.com/legal/report/EDR)**_._**
+**_To request this data, you must submit your request through our webform: [www.tiktok.com/legal/report/lawenforcementrequest](https://www.tiktok.com/legal/report/lawenforcementrequest)._**
 
 All emergency requests must be made by a sworn law enforcement official, and come from an official law enforcement email domain (if sent via email). Non-law enforcement personnel aware of an emergency situation should immediately and directly contact local law enforcement officials.
 
