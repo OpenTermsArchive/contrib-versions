@@ -1,4 +1,4 @@
-![](/assets/betterstack/policy-bg-2ec9e2089b2e9db5b049f67750ffbf8bfcff77282aee31c0fe040d00f854eb4c.png)
+![](/assets/betterstack/policy-bg-4118123b.png)
 
 Terms of Use
 ============
