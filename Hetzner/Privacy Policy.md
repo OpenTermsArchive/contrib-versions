@@ -194,7 +194,7 @@ After you **delete your forum account,** your data will also be **deleted immedi
 
   
 
-#### [4.5 4.8 Prize Draws / Contests](https://www.hetzner.com/legal/privacy-policy/#collapse_4-5)
+#### [4.5 Prize Draws / Contests](https://www.hetzner.com/legal/privacy-policy/#collapse_4-5)
 
 ##### What data will be processed and how does it reach Hetzner?
 
