@@ -15,7 +15,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 **1. Provision of the Services.**
 
-1.1 _Services Use._ During the Term, Google will provide the Services in accordance with this Agreement, including the SLAs, and Customer may use the Services, and integrate the GCP Services and Looker (original) Services into any Customer Application that has material value independent of the Services, in accordance with this Agreement. For clarity, Customer may not create or host Customer Applications using the Google Workspace Services or SecOps Services under this Agreement and may only integrate Looker (original) Services into a Customer Application as provided in the Service Specific Terms.
+1.1 _Services Use._ During the Term, Google will provide the Services in accordance with this Agreement, including the SLAs, and Customer may use the Services, and integrate the GCP Services and Looker (original) Services into any Customer Application that has material value independent of the Services, in accordance with this Agreement. For clarity, Customer may not integrate the Google Workspace Services or SecOps Services into Customer Applications or create or host Customer Applications using the Google Workspace Services or SecOps Services under this Agreement, and Customer may only integrate Looker (original) Services into a Customer Application as provided in the Service Specific Terms.
 
 1.2 _Admin Console._ If applicable, Customer will have access to the Admin Console, through which Customer may manage its use of the Services.
 
@@ -241,7 +241,7 @@ Google may change its offering of billing options (including by limiting or ceas
 
 (c) _For All Other Entities._ If Customer is any entity not identified in Section 14.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
 
-14.13 _Amendments._ Except as stated in Sections 1.4(b) (Updates: To this Agreement); 1.4(c) (Updates: To the URL Terms) or (c) (Updates: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
+14.13 _Amendments._ Except as stated in Sections 1.4(b) (Updates: To this Agreement); 1.4(c) (Updates: To the URL Terms) or (d) (Updates: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
 
 14.14 _Survival._ The following Sections will survive expiration or termination of this Agreement: Section 2 (Payment Terms), Section 5 (Intellectual Property Rights; Protection of Customer Data; Feedback; Using Brand Features within the GWS Services), Section 7 (Confidential Information), Section 8.7 (Effect of Termination or Non-Renewal), Section 11 (Disclaimer), Section 12 (Limitation of Liability), Section 13 (Indemnification), and Section 14 (Miscellaneous).
 
