@@ -18,6 +18,10 @@ Below we have listed important legal terms that apply to anyone who visits our w
 
 We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](https://wix.com/contact?referral=termsofusecontact).
 
+  
+
+  
+
 1\. Introduction
 ----------------
 
