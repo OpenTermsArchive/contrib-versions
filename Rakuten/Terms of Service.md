@@ -1,7 +1,7 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 10 juillet 2024**_
+_**Version mise à jour le 25 septembre 2025**_
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)._ 
 
@@ -11,7 +11,7 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/8.0_CGU_en_vigueur_du_15_f%C3%A9vrier_2024_au_09_juillet_2024.pdf?vh=2afa74&func=proxy)._ 
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/9.0_CGU_en_vigueur_entre_le_10_juillet_2024_et_le_24_septembre_2025.pdf?vh=adfcf6&func=proxy)._
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 10.07.2024 au 24.09.2025, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/9.0_CGU_en_vigueur_entre_le_10_juillet_2024_et_le_24_septembre_2025.pdf?vh=adfcf6&func=proxy)._ 
 
 ### Sommaire
 
