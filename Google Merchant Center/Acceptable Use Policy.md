@@ -16,13 +16,13 @@ These policies are designed to ensure a safe and positive experience for our cus
 
 Our Shopping ads policies cover four broad areas:
 
-**[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network
+![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) **[Prohibited content](#con):** Content that you're not allowed to list on the Google Network
 
-**[Prohibited practices](#pra):** Things that you can't do if you want to advertise with us
+![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) **[Prohibited practices](#pra):** Things that you can't do if you want to list products with us
 
-**[Restricted content](#res):** Content that you can advertise, but with limitations
+![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) **[Restricted content](#res):** Content that you can list, but with limitations
 
-**[Editorial and technical](#ed):** Quality standards for your ads and website
+![](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Site requirements](#site):** Standards for your ads and website
 
 Click through the policies below for policy definitions, examples and troubleshooting steps.
 
@@ -153,7 +153,7 @@ For that reason, we allow promotion of the content below but on a limited basis.
 > Google restricts the promotion of healthcare-related content such as the following:
 > 
 > *   Over-the-counter medication
-> *   Prescription medication
+> *   Prescription drugs
 > *   Unapproved pharmaceuticals and supplements
 > *   Pregnancy and fertility-related products
 > 
@@ -178,9 +178,9 @@ For that reason, we allow promotion of the content below but on a limited basis.
 
 > We support responsible advertising of food and beverages. High fat, sugar and salt (HFSS) food and beverages (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food items, beverages or meals are promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS food and beverages are now prohibited from targeting minors.
 > 
-> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region that their ads target, including local requirements that may differ from this HFSS food and beverages policy.
+> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region that their ads target, including local requirements that may differ from this HFSS food and beverage policy.
 
-### Editorial and technical requirements
+### Site requirements
 
 We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats that we offer.
 
