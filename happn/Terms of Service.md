@@ -291,11 +291,11 @@ Any use of HAPPN Services to organize a group meeting of its Members constitutes
 
 HAPPN uses AI systems to:
 
-\- detect fake profiles;
+•  detect fake profiles;
 
-\- detect fraudulent behaviour on the Application, such as scams or other abusive behaviour;
+•  detect fraudulent behaviour on the Application, such as scams or other abusive behaviour;
 
-\- generate profile recommendations.
+•  generate profile recommendations.
 
 HAPPN has taken into account, during the design of the Services, and undertakes to continuously take into account (i) the applicable regulations on artificial intelligence, in particular Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 establishing harmonised rules on artificial intelligence ("AI Act"), (ii) the general principles and international standards on artificial intelligence, in particular relating to the use of ethical, responsible, and sustainable artificial intelligence technologies and models, (iii) respect for the rights of individuals, in particular their privacy, and (iv) the risks of bias and discrimination, which it will endeavour to limit.
 
@@ -485,7 +485,7 @@ If you wish to circumvent this automatic renewal at the end of the subscription 
 9.6 Withdrawal Rights
 ---------------------
 
-As specified in article 9.5 of these TOS, payments are processed and managed entirely by the Apple App Store or the Google Play Store, such that the right of withdrawal, if applicable, must be exercised directly through the App Store or Google Play. 
+As specified in article 9.5 of these TOS, payments are processed and managed entirely by the Apple App Store or the Google Play Store, such that the right of withdrawal, if applicable, must be exercised directly through the App Store or Google Play.  
 
 Consequently, when a Member decides to exercise this right to withdrawal, he or she must notify the Apple App Store or the Google Play Store, depending on the type of device used at the time of purchase:
 
@@ -677,7 +677,7 @@ The Member will not be able to create another account for a maximum 2-years peri
 
 HAPPN will delete inactive accounts as defined below.
 
-An account is considered inactive if after a continuous period of one year, both of the following conditions are met:
+An account is considered inactive if after a continuous period of two years, both of the following conditions are met:
 
 • The Application of the Member did not establish contact with HAPPN’s servers (including because of deactivation of the geolocation process); and
 
