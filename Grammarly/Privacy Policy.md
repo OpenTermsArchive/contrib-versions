@@ -16,7 +16,7 @@ This Privacy Policy describes how Superhuman Platform Inc. (formerly Grammarly) 
 *   If you use our products under the management of a company, organization, or other legal entity (such as if your employer gives you access to our inbox assistant tools for work), this Privacy Policy won’t apply to the information you upload to or output from our products (Customer Personal Data, as defined in our [Grammarly Data Privacy Addendum](https://www.grammarly.com/media-resources/dpa)). In these cases, we process Customer Personal Data on behalf of your company or organization. Please see more info [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2DFPeZ0mQRMBchzsvMJXHd).   
     
 
-Below, we provide some additional privacy information for those living in the [United States](https://docs.google.com/document/d/12X_JOgmQuX77XJBF5Gba9rkSihIVFXxLDBzKdKB3DWk/edit?tab=t.0#bookmark=id.pf15hkikrsah) (US), the [European Union, European Economic Area (EEA), United Kingdom (UK), or Switzerland](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO).  
+Below, we provide some additional privacy information for those living in the [United States](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5buwFstMYZvwdMBeRcp0dk) (US), the [European Union, European Economic Area (EEA), United Kingdom (UK), or Switzerland](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO).  
   
 We may update this Privacy Policy from time to time by publishing an updated version. If we make material changes, we will provide you additional notice, such as by sending you an email.   
 
