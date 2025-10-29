@@ -1,13 +1,9 @@
-Effective Date: _04 December 2024_
-
-  
+Last updated: _30 November 2025_
 
 **Introduction**
 ----------------
 
-This privacy policy ("**Privacy Policy**") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “**Platform**”), that link to or reference this Privacy Policy.
-
-**Data Controller**: If you live in the European Economic Area (“**EEA**”), the United Kingdom (“**UK**”), or Switzerland, TikTok Technology Limited, an Irish company (“**TikTok Ireland**”), and TikTok Information Technologies UK Limited (“**TikTok UK**”), a UK company, ("**TikTok**," "**our**," "**we**," or "**us**") are the joint controllers of your information processed in connection with this Privacy Policy.
+This privacy policy ("**Privacy Policy**") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “**Platform**”), that link to or reference this Privacy Policy. **Data Controller**: If you live in the European Economic Area (“**EEA**”), the United Kingdom (“**UK**”), or Switzerland, TikTok Technology Limited, an Irish company (“**TikTok Ireland**”), and TikTok Information Technologies UK Limited (“**TikTok UK**”), a UK company, ("**TikTok**," "**our**," "**we**," or "**us**") are the joint controllers of your information processed in connection with this Privacy Policy.
 
 **What Information We Collect**
 -------------------------------
@@ -28,11 +24,11 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 ### **Automatically Collected Information**
 
 *   **Technical Information.** We collect certain device and network connection information when you access the Platform. This information includes your device model, operating system, keystroke patterns or rhythms, IP address, system language and device settings. We also collect service-related, diagnostic, performance information, including crash reports and performance logs. We automatically assign you a device ID and user ID. Where you log-in from multiple devices, we use information such as your device ID and user ID to identify your activity across devices to give you a seamless log-in experience and for security purposes.
-*   **Location Information.** We automatically collect information about your approximate location (e.g. country, state, or city) based on your [Technical Information](#tech-info) (such as SIM card and IP address). Also, where you enable location services for the TikTok app within your device settings, we collect approximate location information from your device. Click [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/location-services-on-tiktok) to learn more about how we collect Location Information.
-*   **Usage Information.** We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.
+*   **Location Information.** We automatically collect information about your approximate location (e.g. country, state, or city) based on your [Technical Information](#tech-info) (such as SIM card and IP address). Also, where you enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device. Click [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/location-services-on-tiktok) to learn more about how we collect Location Information.
+*   **Usage Information.** We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history. _We also collect information about your interactions with websites when you use our in-app browser._
 *   **Content Characteristics and Features.** We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your [User Content](#user-content), for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your [User Content](#user-content). We do this, for example, for content moderation and to provide special effects (such as video filters and avatars) and captions.
 *   **Inferred Information.** We infer your attributes (such as age-range and gender) and interests based on the information we have about you. We use inferences, for example, to keep the Platform safe (such as for content moderation), to show you relevant information, and, where permitted, to serve you personalised ads based on your interests.
-*   **Cookies.** We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you don’t see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our [Cookie Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy). We will obtain your consent to our use of cookies where required by law.
+*   **Cookies.** We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you don’t see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our [Cookies Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy). We will obtain your consent to our use of cookies where required by law.
 
 ### **Information From Other Sources**
 
@@ -52,7 +48,7 @@ We use your information to operate, provide, develop, and improve the Platform, 
 *   Enforce our Terms, Guidelines, and other policies that apply to you. We review [User Content](#user-content) and other information through a mix of technology (including through automated means) and human moderation to protect the safety and well-being of our community.
 *   Provide certain interactive features, such as enabling your content to be used in other users’ videos,
 *   Suggest your account to other users and suggest accounts of others to you to help connect you with other users.
-*   Provide and improve our advertising services, including to serve ads (including personalised ads, where permitted).
+*   Provide and improve our advertising services, including to serve ads (including personalised ads, where permitted). For information about how we process personal information through our advertising network, see our [TikTok Ad Network Privacy Policy](https://www.tiktok.com/legal/tiktok-ad-network-privacy-policy).
 *   Create analytics reports so that partners, sellers and creators can see how their content, ads or products are performing and to better understand their audience and buyers.
 *   Maintain and enhance the safety, security, and stability of the Platform by identifying and addressing technical or security issues or problems (such as technical bugs, spam accounts, and detecting abuse, fraud, and illegal activity).
 *   Review, improve, and develop the Platform, including by monitoring interactions and usage across your devices, analysing how people are using it, and by training, testing, and improving our technology, such as our machine learning models and algorithms.
@@ -68,7 +64,7 @@ We use your information to operate, provide, develop, and improve the Platform, 
 
 ### **Service Providers**
 
-We engage service providers that help us provide, support, and develop the Platform and understand how it is used. They provide services such as: cloud hosting, and content delivery, customer and technical support, content moderation, marketing, analytics, and online payments.
+We engage service providers that help us provide, support, and develop the Platform and understand how it is used. They provide services such as: cloud hosting, and content delivery, customer and technical support, content moderation, marketing, analytics, and payment services.
 
 We share [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) with these service providers as necessary to enable them to provide their services.
 
@@ -86,11 +82,11 @@ We share [Information You Provide](#info-you-provide), [Automatically Collected 
 
 **Sellers and their Service Providers.** When you make a purchase through the shopping features on our Platform, we share [Purchase Information](#purchase-info) related to the transaction with the sellers and service providers acting on their behalf. This includes order items, contact details and delivery information so that your order can be processed. We also share certain [Technical Information](#tech-info) about your device or connection with these parties to help ensure the security of the transaction. When making a purchase through our shopping features, please review the product and seller location details provided on the Platform for information about where your information will be sent.
 
-**Users of Our Analytics Services.** We provide aggregated statistics and insights to help people and businesses understand how people are engaging with the Platform. For example, creators, advertisers and sellers can receive information about the number of views, likes, comments and shares of their content, as well as information to understand their followers, buyers and the audience of their content. We create this aggregate information using [Information you Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info). In certain circumstances, TikTok is a joint controller with TikTok account holders for this processing. [Learn more](https://www.tiktok.com/legal/information-about-tiktok-analytics) about the joint processing for TikTok Analytics.
+**Users of Our Analytics Services.** We provide aggregated statistics and insights to help people and businesses understand how people are engaging with the Platform. For example, creators, advertisers and sellers can receive information about the number of views, likes, comments and shares of their content, as well as information to understand their followers, buyers and the audience of their content. We create this aggregate information using [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info). In certain circumstances, TikTok is a joint controller with TikTok account holders for this processing. [Learn more](https://www.tiktok.com/legal/page/global/information-about-tiktok-analytics/en) about the joint processing for TikTok Analytics.
 
 ### **Our Corporate Group**
 
-As a global company, the Platform is supported by certain entities within our corporate group (“**Corporate Group**”). These entities process [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for us, as necessary to provide certain functions, such as storage, content delivery, security, research and development, analytics, online payments, customer and technical support, and content moderation. See [Our Global Operations and Data Transfers](#global-ops-data-transfers) for additional information.
+As a global company, the Platform is supported by certain entities within our corporate group (“**Corporate Group**”). These entities process [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for us, as necessary to provide certain functions, such as storage, content delivery, security, research and development, analytics, payment services, customer and technical support, and content moderation. See [Our Global Operations and Data Transfers](#global-ops-data-transfers) for additional information.
 
 ### **Others**
 
@@ -174,13 +170,13 @@ We use your information where this is necessary to achieve legitimate interests 
 
 *   We use the information we have to understand how people are using the Platform and to develop, test, and make improvements to the Platform, including to develop and improve our technology, such as our machine learning models and algorithms. We also use this information to better understand and promote the Platform, popular topics, and emerging trends, and offer certain personalised features. We also review messages you exchange with customer support to improve technologies supporting such functions.
 *   **Legitimate Interest relied upon**: To improve, promote, and develop the Platform in an informed way.
-*   **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
+*   **Information used**: [Information You Provide](#info-you-provide\), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
 
 **Facilitate independent research.**
 
-*   We share your information with independent researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area. Click [here](https://www.tiktok.com/legal/page/global/privacy-data-sharing-with-researchers/en) to learn more
+*   We share your information with independent researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area. Click [here](https://developers.tiktok.com/doc/about-research-api/) to learn more
 *   **Legitimate Interest relied upon**: To facilitate independent research that aims to develop society’s collective knowledge, including in the areas of misinformation and disinformation, violence, cybercrime, and social trends.
-*   **Information used**: [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info).
+*   **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info)**.**
 
 **Share your information with third parties**.
 
@@ -196,7 +192,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 **Marketing communications**.
 
-*   We may send you marketing messages about the Platform and third party products and services where we think they will interest you. Where required, we will obtain your consent to send you such communications.
+*   You may receive marketing messages about the Platform and third party products and services where we think they will interest you. Where required, we will obtain your consent to send you such communications.
 *   **Legitimate Interest relied upon**: To promote the Platform and third party products and services.
 *   **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
 
@@ -236,7 +232,8 @@ We ask for your consent to access or use your information for specific purposes.
 
 **Personalised advertising**.
 
-*   With your consent, we serve you with personalised ads based on your activity on and off the Platform. Click [here](https://www.tiktok.com/safety/en/ads-and-data/) to learn more.
+*   With your consent, we serve you personalised ads on the Platform based on your activity on and off the Platform. Click [here](https://www.tiktok.com/safety/en/ads-and-data/) to learn more.
+*   With your consent and in regions where it is available, we use certain information associated with your TikTok user account to personalise ads served via our advertising network. For more information see the TikTok Ad Network Privacy Policy.
 *   **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
 
 **Retain your payment card information.**
@@ -247,12 +244,12 @@ We ask for your consent to access or use your information for specific purposes.
 **Sellers’ marketing communications.**
 
 *   With your consent, we facilitate the sending of marketing communications to you by sellers on our Platform and/or share your email address with sellers for the purpose of sending marketing communications to you.
-*   **Information used:** [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info).
+*   **Information used:** [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info),
 
 **Device permissions.**
 
 *   We collect information that you allow us to receive through your device-based settings (such as access to your camera, photos and location services) which we use for subsequent purposes as described in this Privacy Policy.
-*   **Information used:** [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other).
+*   **Information used:** [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other)
 
 **Your rights**: Whenever we use your information based on your consent, you can withdraw your consent at any time. However, your withdrawal of consent will not affect the lawfulness of processing your information based on your consent prior to your withdrawal of consent. You can withdraw your consent for applicable personalised ads related settings by following these [instructions](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data).
 
@@ -270,7 +267,7 @@ We may use your information where it is necessary to perform a task in the publi
 
 ### **To protect someone's vital interests**
 
-We may use your information where it is necessary to protect your or someone else's life, physical integrity, or safety. This could include providing law enforcement agencies or emergency services with information in urgent situations to protect health or life. We generally provide [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info), although it depends on the specific situation.
+We may use your information where it is necessary to protect your or someone else's life, physical integrity, or safety. This could include scanning [Messages](#message) and associated metadata where permitted by law. Click [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/direct-message) to learn more. This could also include providing law enforcement agencies or emergency services with information in urgent situations to protect health or life. We generally provide [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info), although it depends on the specific situation.
 
 **Your Rights and Choices**
 ---------------------------
@@ -329,7 +326,7 @@ These entities commit to processing information in compliance with applicable pr
 When we transfer your information outside of the EEA, the UK, or Switzerland, we ensure it benefits from an adequate level of data protection by relying on:
 
 *   Adequacy decisions. These are decisions from the [European Commission](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “[What Information We Collect](#info-collected)” to some countries with adequacy decisions, such as the countries listed [here](https://www.tiktok.com/legal/page/eea/transferee-countries/en); or
-*   Article 49. In the absence of an adequacy decision, We rely on Article 49 (1)(b) and (c) GDPR to transfer Purchase Information as described in “[What Information We Collect](#info-collected)” to sellers and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
+*   Article 49. In the absence of an adequacy decision, We rely on Article 49 (1)(b) and (c) GDPR to transfer [Purchase Information](https://bytedance.sg.larkoffice.com/docx/IABcdmCZGoOq4WxMgHQlH1CBgQd#share-RrVCdnNjYoFcTOxgVDqljZFSg4b) as described in “[What Information We Collect](#info-collected)” to sellers and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
 *   Standard contractual clauses. The European Commission has approved [contractual clauses](https://commission.europa.eu/document/download/e60b1cd4-d802-44d5-9cac-ddd3c943a5ef_en?filename=1_en_annexe_acte_autonome_cp_part1_v5_0.pdf) under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “[What Information We Collect](#info-collected)” to certain entities in our Corporate Group (as described [here](https://www.tiktok.com/legal/page/eea/transferee-countries/en)) and third parties in countries without an adequacy decision.
 
 For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the “[Contact us](#contact-us)” section below.
@@ -353,8 +350,8 @@ We may amend or update this Privacy Policy from time to time. We will notify you
 
 You can contact us about this Privacy Policy through our [webform](https://www.tiktok.com/legal/report/privacy). You can reach TikTok's Data Protection Officer [here](https://www.tiktok.com/legal/report/DPO).
 
-You can also contact us at the following postal addresses:
+You can also contact us at the following postal address.
 
-*   **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 HD23, Ireland.
-*   **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
+*   **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland.
 *   **For users in Switzerland, our appointed representative is:** TikTok Switzerland GmbH, Talacker 41, 8001, Zürich, Switzerland.
+*   **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
