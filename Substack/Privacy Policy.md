@@ -523,7 +523,7 @@ If you have an account with us, you may also access, edit, or delete much of the
 
 **Your Right to Know**
 
-You have a right to know what Personal Information we have collected about you, including details about the nature of the information, the purpose for which it was gathered, and how we disclose that information to others.. We provide that information here in our CCPA policy as well as in our [privacy policy](https://substack.com/privacy).
+You have a right to know what Personal Information we have collected about you, including details about the nature of the information, the purpose for which it was gathered, and how we disclose that information to others. We provide that information here in our CCPA policy as well as in our [privacy policy](https://substack.com/privacy).
 
 **Access and Data Portability Rights**
 
