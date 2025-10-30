@@ -3,7 +3,7 @@ Glassdoor Terms of Use
 
 **Revised:** September 29, 2025 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
 
-Glassdoor LLC (“Glassdoor”) provides the services Glassdoor.com and Fishbowlapp.com. These Terms of Use (the “Terms”), which incorporate our Privacy Policy, govern your access to and use of these services and affiliated websites, applications, ads, communications, events, and other covered products or services that link to these Terms (collectively “services”). The services covered by these terms are:
+Glassdoor LLC (“Glassdoor”) provides the services Glassdoor.com and Fishbowlapp.com. These Terms of Use (the “Terms”), which incorporate our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor), govern your access to and use of these services and affiliated websites, applications, ads, communications, events, and other covered products or services that link to these Terms (collectively “services”). The services covered by these terms are:
 
 *   [Glassdoor.com](https://www.glassdoor.com/)
 *   [Fishbowlapp.com](https://www.fishbowlapp.com/).
