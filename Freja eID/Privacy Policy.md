@@ -1,4 +1,4 @@
-Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-06-18T12:16:06+02:00
+Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-10-30T11:20:06+01:00
 
 Privacy Policy
 ==============
@@ -47,7 +47,7 @@ For access to services that do not require your identity to be verified and only
 
 Some services require that your identity be verified when you use Freja to access their services or when you make electronic signatures with them.
 
-In addition to the information processed for Freja Basic, the sections “Freja with an added ID document” and “Freja eID+” apply. Freja eID+ is issued get after you have done an extra validation of your identity through a physical ID check at an Freja eID agent, or have had your identity verified by using a biometric ID document during registration.
+In addition to the information processed for Freja Basic, the sections “Freja with an added ID document” and “Freja eID+” apply. Freja eID+ is issued get after you have done an extra validation of your identity through a physical ID check at an Freja eID agent, or have had your identity verified by using a biometric ID document during registration. In this regard, biometric IDs are taken to mean passports and national ID cards (from EU/EEA countries only) with an embedded, NFC-readable chip.
 
 **3.6** Below you will find how we process personal data at different trust levels, from lowest (Basic) to highest (Plus). Information collected at a lower trust level is also processed at a higher trust level.
 
