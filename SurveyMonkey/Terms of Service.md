@@ -7,7 +7,7 @@ For terms that apply to SurveyMonkey services purchased directly through our ent
 
 For terms that apply to SurveyMonkey services purchased through a third party, please see our [End Customer Terms of Use](https://prod.smassets.net/assets/content/sm/End-User-Terms-of-Use-2024-02.pdf).
 
-LAST UPDATED: November 7, 2024
+LAST UPDATED: December 27, 2025
 
 Introduction
 ------------
@@ -101,13 +101,13 @@ If SurveyMonkey becomes aware of any unauthorized or unlawful access to, or acqu
 
 _When you use our Services, you keep what is yours and allow us to use it only as necessary to continue providing and improving our Services as stated in our privacy notices._
 
-### **3.1 You Retain Ownership of Your Content.**
+### 3.1 You Retain Ownership of and Access to Your Content.
 
-In the course of using the Services, you may submit content to SurveyMonkey (including your Personal Data and the Personal Data of others) or third parties may submit content to you through the Services (all of the above will be referred to as your “**Content**”). You retain ownership of all of your intellectual property rights in your Content. SurveyMonkey does not claim ownership over any of your Content. These Terms do not grant us any licenses or rights to your Content except for the limited license described in these Terms.
+In the course of using the Services, you may submit content to SurveyMonkey (including your Personal Data and the Personal Data of others) or third parties may submit content to you through the Services (all of the above will be referred to as your “**Content**”). You retain ownership of and access to all of your intellectual property rights in your Content. SurveyMonkey does not claim ownership over any of your Content. These Terms do not grant us any licenses or rights to your Content except for the limited license described in these Terms.
 
 ### **3.2 Limited License to Your Content.**
 
-You grant SurveyMonkey a worldwide, royalty free license to use, reproduce, distribute, modify, adapt, create derivative works, make publicly available, and otherwise exploit your Content, but only for the limited purposes of providing and improving the Services and as permitted by the SurveyMonkey privacy notices. Where permitted under applicable law, this license for such limited purposes continues even after you stop using our Services, with respect to aggregate and de-identified data derived from your Content and any residual backup copies of your Content made in the ordinary course of SurveyMonkey's business (subject to our retention policies). This license also extends to any trusted third parties we work with to the extent necessary to provide and improve the Services.
+You grant SurveyMonkey a worldwide, royalty free license to use, reproduce, distribute, modify, adapt, create derivative works, make publicly available, and otherwise exploit your Content, but only for the limited purposes of providing and improving the Services, developing new features and insights, and as permitted by the SurveyMonkey privacy notices. Where permitted under applicable law, this license for such limited purposes continues even after you stop using our Services, with respect to aggregate and de-identified data derived from your Content and any residual backup copies of your Content made in the ordinary course of SurveyMonkey's business (subject to our retention policies). This license also extends to any trusted third parties we work with to the extent necessary to provide and improve the Services.
 
 ### **3.3** **Representations and Warranties**.
 
@@ -219,7 +219,7 @@ __Here is how you can close your account with us and how we may suspend or disab
 
 _You can cancel your Subscription immediately through your account management page. We do not offer refunds except under very limited circumstances._
 
-You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can obtain a copy of your Content from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) for further information.
+You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can [obtain a copy of your Content](https://help.surveymonkey.com/en/surveymonkey/analyze/exports/) from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) for further information.
 
 When you close your account, we will provide you with confirmation of account closure and Subscription cancellation, and you will not be charged again for that Subscription unless you open a new account and purchase a new Subscription. If you cancel a Subscription in the middle of a billing cycle, you will not receive a refund unless you are canceling for any of the following reasons: (a) we have materially breached these Terms and failed to cure that breach within 30 days after you have so notified us in writing; (b) a refund is required by law; or (c) we, in our sole discretion, determine a refund is appropriate. For clarity, we will not grant a refund where you have used our Services, collected responses, and/or downloaded your responses unless the termination is due to our material, uncured breach or a refund is required by law.
 
@@ -305,7 +305,7 @@ For any Service provided by SurveyMonkey Inc., the following provisions will app
 
 For any Service provided by SurveyMonkey Europe UC, the following provisions will apply to any terms governing that Service:
 
-*   Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at Ella House, Suite 40.4, 40 Merrion Square East, Dublin 2, D02 NP96, Ireland.
+*   Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Ireland.
 *   Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
 *   Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
 
@@ -405,7 +405,7 @@ If you are using Wufoo Services, the following additional terms apply:
 
 SurveyMonkey may designate or offer certain products or features, as a pre-release, alpha, preview, early access, or beta version (“**Beta Service**”). If you are using a Beta Service, the following terms also apply:  
 
-A Beta Service is offered as-is to allow for testing and evaluation; it does not represent the final product or service and may contain bugs that may cause system or other failure, errors, and data loss. SurveyMonkey may choose not to release a commercial version of the Beta Service. SurveyMonkey may, in its sole discretion and at any time, remove or discontinue the Beta Service and release a commercial version of the Beta Service. You must promptly cease using the Beta Service if we request you to do so. In exchange for your use of a Beta Service, you agree that SurveyMonkey may collect data regarding your use of the Beta Service, including any feedback, and analyze your Content (including manual review) to improve and troubleshoot the Service. If you do not wish to have this usage or feedback data collected or Content analyzed, you must immediately discontinue your use of the Beta Service.   
+A Beta Service is offered as-is to allow for testing and evaluation; it does not represent the final product or service and may contain bugs that may cause system or other failure, errors, and data loss. SurveyMonkey may choose not to release a commercial version of the Beta Service. SurveyMonkey may, in its sole discretion and at any time, remove or discontinue the Beta Service and release a commercial version of the Beta Service. You must promptly cease using the Beta Service if we request you to do so. In exchange for your use of a Beta Service, you agree that SurveyMonkey may collect data regarding your use of the Beta Service, including any feedback, and analyze your Content (including manual review) to improve and troubleshoot the Service, and develop new features and insights. If you do not wish to have this usage or feedback data collected or Content analyzed, you must immediately discontinue your use of the Beta Service.   
 
 SurveyMonkey makes no representations or warranties for a Beta Service, including any warranty that Beta Service will be generally available, uninterrupted or error-free, or that your Content will be secure or not lost or damaged. Except to the extent prohibited by law, SurveyMonkey expressly disclaims all warranties for a Beta Service, including any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, non-infringement, or quiet enjoyment, and any warranties arising out of any course of dealing or usage of trade. SurveyMonkey will have no liability arising out of or in connection with a Beta Service. Any use by you of a Beta Service is entirely at your own risk and discretion.
 
