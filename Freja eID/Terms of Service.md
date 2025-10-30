@@ -1,4 +1,4 @@
-Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-04-29T13:11:25+02:00
+Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-10-30T15:19:00+01:00
 
 Terms and Conditions
 ====================
@@ -25,7 +25,7 @@ Terms and Conditions
 
 **3.2** When the User has registered for the Service, they shall receive an email that confirms the registration and activation of the account. The email message contains a link that the User must click on in order to verify the registration. In order to be able to upgrade the Service to Freja with an added ID document the User must register an approved and valid form of identification in the Freja mobile application and verify their identity by taking an ID photo that is uploaded via the mobile application.
 
-**3.3** To upgrade to the highest level, Freja+, the User must verify their identity by making a physical ID verification at one of the designated Freja agents. Freja+ is only available for users registered in the national registry of Sweden.
+**3.3** To upgrade to the highest level, Freja+, the User must verify their identity by making a physical ID verification at one of the designated Freja agents. Freja+ is only available for users registered in the national registry of Sweden, and for citizens of EU/EEA countries with a verified coordination no.
 
 ### 4\. Service
 
