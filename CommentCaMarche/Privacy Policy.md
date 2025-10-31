@@ -10,7 +10,7 @@ How is your data processed by CCM?
 
 [David Webb](https://ccm.net/account/dwebb-11634883)
 
-6 October 2022 10:30
+6 octobre 2022 10:30
 
 Partager Partager
 
