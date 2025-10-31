@@ -12,7 +12,7 @@ Taboola is dedicated to providing Internet users the highest level of transparen
 
 *   Self-Regulatory Principles set forth by the Digital Advertising Alliance (DAA), the Digital Advertising Alliance Canada (DAAC), and the European Interactive Digital Advertising Alliance (EDAA);
 *   Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising (OBA) and the IAB Europe OBA Framework. Taboola participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies as vendor number 42; and the
-*   [Network Advertising Initiative (NAI) Code of Conduct](http://www.networkadvertising.org/code-enforcement) for Web and Mobile. Taboola is a proud member of the NAI, an association dedicated to responsible data collection use in digital advertising.
+*   Network Advertising Initiative (NAI) the Self-Regulatory Framework Principles. Taboola is a proud member of the NAI, an association dedicated to responsible data collection use in digital advertising.
 
 Taboola also maintains an externally-facing [Trust Center](https://help.taboola.com/hc/en-us/articles/360004904154-Taboola-s-Trust-Center), which is available for your reference. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/) (including the United Kingdom); and to manage all NAI member sites’ settings, click [here](http://optout.networkadvertising.org/#/).
 
@@ -162,12 +162,12 @@ Taboola supports initiatives to offer our Users greater transparency and control
 *   Taboola may use non-cookie technologies in limited cases. Like cookies, these technologies allow Taboola to recommend ads that are tailored to your interests and to remember whether you have chosen to opt-out from our Services. Please note that some web browsers may not permit you to block the use of non-cookie technologies, but you can do so by simply clicking on the Opt Out feature above in this Section 2.6.
 *   _**You can also opt-out of receiving targeted ads served by Taboola and other advertising companies**_.
     
-    *   You may use the [NAI opt out tool](http://optout.networkadvertising.org/), which will allow you to opt out of receiving targeted ads from Taboola and from other NAI-approved member companies. The NAI also provides instructions to engage system-level mobile device opt outs in Android, iOS, and Windows Phone environments.
+    *   You may visit the [NAI website,](https://thenai.org/how-to-opt-out/) which explains how you can express your privacy choices and  
+        use privacy controls online. We also recommend using the NAI’s [GPC Browser Extension](https://chromewebstore.google.com/detail/nai-global-privacy-contro/ecmgoeapljejplncpocmgnpdemidoffo?pli=1). This extension allows you to activate the Global Privacy Control (GPC) signal, which requests that websites you visit refrain from selling, sharing, or using your personal information for targeted advertising across different contexts.
     *   You may also visit one of the Digital Advertising Alliance affiliate websites to learn more about User choices and opting out of interest-based advertising displayed by the many member companies.
         *   Users in the United States may visit the DAA consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices)
         *   Users in Canada may visit the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices)
-        *   Users in Europe (including the United Kingdom) may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-    *   You can also opt out of the use of your email address for targeted ads through [Audience Matched Advertising](https://thenai.org/glossary/audience-matched-advertising-ama/) or AMA by Taboola and other advertising companies through the [NAI Audience Matched Advertising Opt Out (Beta)](https://optout.networkadvertising.org/optout/email).
+        *   Users in Europe (including the United Kingdom) may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
     
     Please note that an opt out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice pages will not prevent you from seeing those companies’ advertisements. Rather, the opt out will prevent these companies from using your Information to display targeted content or ads to you. You may continue to receive advertisements that are selected based on the particular website that you are viewing (i.e., contextually based ads).
     
