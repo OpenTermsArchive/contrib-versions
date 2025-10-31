@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 04 September 2025
+*   Last updated: 31 October 2025
 *   Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Christian Schmidt.
@@ -409,7 +409,7 @@ Another important feature resulting from our analyses are recommendations that w
 
 #### Personal statistics
 
-In order to be able to identify you as a valuable business contact or potential employee, we may show other users information about your personal [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) usage. This might include your level of user activity, the number of things you have in common with a respective profile visitor, the number of times your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) has been visited, how long you have been a member and what kind of membership you have.
+In order to be able to identify you as a valuable business contact or potential employee, we may show other users information about your personal [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) usage. This may include, for example, an assessment of your profile’s up-to-dateness, your activity index, the number of similarities with any of your individual [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) visitors, the number of profile views, or the start date and the type of your membership.
 
 #### You can opt out of tracking by the following third-party providers:
 
@@ -669,7 +669,75 @@ You have the option to opt out of data collection and storage by SalesViewer in 
 
 Some information about you that we process does not come directly from you. This might be the case, for example, if a user shares this information with us or we obtain it from other sources.
 
-We also process data that we haven’t obtained directly from you. This occurs whenever a user provides us with information or we collect information from other sources. In such cases we process the respective data within the scope of fulfilment of our contractual obligations towards the respective user and/or to safeguard our legitimate interests, while giving due consideration to your interests.
+We also process data that we haven’t obtained directly from you. This occurs whenever a user provides us with information or we collect information from other sources. In such cases, we process the data as part of the performance of our contractual obligations towards the respective user or towards you and/or for the purposes of safeguarding our legitimate interests (or those of third parties), while taking into account and balancing your interests.
+
+#### Data from LinkedIn Profile Import (LinkedIn Member Portability API)
+
+This includes data that can be retrieved from your LinkedIn profile via a data portability interface (LinkedIn Member Data Portability API), such as:
+
+*   Given name and surname
+*   Email address
+*   Profile photo
+*   Job title and company (all your jobs)
+*   Industry (business context)
+*   Location (city and country)
+*   Education (for instance, university and diploma)
+*   Latest LinkedIn queries (for instance for persons, content, jobs)
+*   Your job preferences: for instance, preferred job types, locations, industries, company size, title, activity level
+*   Jobs you have saved to view them later
+*   Job notifications you have activated (including date, URL, etc)
+
+#### Purpose
+
+By means of the LinkedIn import function, we enable you to automatically fill in your profile with any relevant profile data from your LinkedIn profile. This makes it easier to create or update a profile, and it helps avoid redundant data entries. In this way, you can quickly and consistently complete your profile using existing information. If we permanently store the transferred data in your profile as a part of this function, we will provide you with appropriate tools to manage (edit or delete) this information. You can stop the aforementioned processing of your personal data anytime, for instance, by deleting the imported information or deactivating LinkedIn integration.
+
+#### Data source
+
+The data originates from your LinkedIn profile, which you will explicitly share to XING as a part of the import process via LinkedIn (authentication and data release via LinkedIn OAuth interface).
+
+#### Visibility
+
+Upon completion of the import, the imported profile information is subject to the same visibility rules as other profile data on XING. This information is visible to other XING members and, depending on your settings, to non-members (e.g. via public search engines), depending on your privacy settings. No further disclosure to third parties beyond XING takes place, and in particular, no profile data will be transferred back to LinkedIn.
+
+#### Data retention period
+
+As the imported LinkedIn data become a part of your profile, we will generally retain them until you either delete the information from your profile or delete your user account entirely. If you disconnect LinkedIn connection in your account settings or revoke access to your LinkedIn profile, no further updates or data transfers from LinkedIn will take place. Be reassured that you will be able to edit or delete data you have already transferred to your profile anytime.
+
+#### Ongoing updates (Changelog API)
+
+As long as your OAuth token is valid, XING can use the LinkedIn Changelog API to check if your LinkedIn profile data has changed.
+
+*   Any changes will be displayed to you.
+*   There is no automated data transfer to your profile. In every instance, you decide for yourself whether and which information should be transferred
+*   Once the token expires or is revoked, XING will no longer retrieve any further updates.
+
+#### Legal basis
+
+The legal basis for this processing of personal data is Article 6(1)(b) EU GDPR and/or Article 6(1)(a) EU GDPR, as the retrieval and transfer of profile information is carried out at your request
+
+#### Data concerning the up-to-dateness of your profile compared to your LinkedIn profile
+
+This includes information or an assessment of whether the data in your profile are up to date in comparison with your LinkedIn profile. Specifically, this consists of your XING profile URL and an indication of whether your LinkedIn profile is equally, less, or more up to date. No further data will be processed in this context.
+
+#### Purpose
+
+Correct and up-to-date profile information is essential for XING and the fulfillment of the service agreement. To this end, we request the aforementioned information on your profile on a regular basis. We therefore aim to assess whether your profile is up to date, including in order to offer you, where applicable, options to update and maintain your profile (for example, by means of a LinkedIn profile import).
+
+#### Data source
+
+We receive the aforementioned data from a service provider.
+
+#### Visibility
+
+Where applicable, we might share the assessment of your profile in comparison to your LinkedIn profile to other users.
+
+#### Data retention period
+
+We retain this information until you delete your user account.
+
+#### Legal basis
+
+The legal basis for this processing of personal data is Article 6(1)(b) and Article 6(1)(f) of the EU GDPR. Among other things, we pursue the legitimate interest of assessing whether the information in your profile is accurate and complete in accordance with the requirements set out in the XING Terms of Use. Furthermore, we pursue the legitimate interest of other users in obtaining clarity as to whether the information in your profile is accurate and complete.
 
 #### Data from address book or list uploads
 
@@ -684,7 +752,7 @@ This includes data which can be extracted from an address book or list (e.g. sma
 
 ##### Intended purpose
 
-We provide users with various address book and list upload features to enable them to expand their network on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) or to invite non-users. If we permanently save the data uploaded by way of an aforementioned feature, we make appropriate functions available to users to manage the data and, in particular, to delete this data. Users have the right and the option to cease the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) at any time.
+We provide users, if applicable, with various address book and list upload features to enable them to expand their network on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) or to invite non-users. If we permanently save the data uploaded by way of an aforementioned feature, we make appropriate functions available to users to manage the data and, in particular, to delete this data. Users have the right and the option to cease the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) at any time.
 
 ##### Source of the data
 
@@ -716,7 +784,7 @@ In cases where we work together with external service providers for our data pro
 
 #### Other users
 
-Other users means any users of the comprehensive XING service and all its applications (XING, kununu, onlyfy, etc.). Other users can also include companies and their authorised users that use an application which is part of the XING service (business user). You can learn more about how visible you are to other users under [“Information you provide to us”](https://privacy.xing.com/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) and by way of the examples of how we use your usage data to meet our contractual obligations and to render the service you use.
+Other users means any users of the comprehensive XING service and all its applications (XING, kununu, onlyfy, etc.). Other users can also include companies and their authorised users that use an application which is part of the XING service (business user). Information about what is visible to other users can be found under [“Information you provide to us”](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) under [“Information we receive about you from other sources,”](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources) and in the examples of how we use your usage data to fulfil our contractual obligations to you or to provide the service you are using.
 
 #### Non-users
 
@@ -726,7 +794,7 @@ With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary
 
 #### People you want to invite to the social network or other XING application
 
-As a user, you can invite other people to join and use [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing). We process the data recorded here solely for this purpose.  
+As a user, you will be able to invite other persons to use [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) under certain circumstances. We process the data recorded here solely for this purpose.  
 After a certain period we send out a reminder e-mail ("automatic reminder") on your behalf to the person you invited. You can prevent this automatic reminder from being sent by deleting the invitation in your settings. You also have the option of sending your own reminder e-mails manually. We save the e-mail addresses that invitations are sent to in encrypted form. This encryption is temporarily suspended to display the e-mail addresses in your account. You can delete this data in your account at any time.  
 Every person you invite has the option to object to invitations being sent to their e-mail address from that point onwards.  
 Please note that, depending on the invitation feature used, recipients may be shown the following information in the invitation you send:
