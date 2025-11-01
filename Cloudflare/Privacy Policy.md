@@ -56,10 +56,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of July 08, 2025.
+This Privacy Policy is effective as of October 31, 2025.
 
-_We have updated our April 22, 2025 Privacy Policy to disclose Cloudflare’s certification to the_ [_Global CBPR (Cross-Border Privacy Rules) and Global PRP (Privacy Recognition for Processors) Systems_](https://www.google.com/search?rlz=1C5GCCM_en&cs=0&sca_esv=2733a3999a04fae8&q=Global+CBPR+%28Cross-Border+Privacy+Rules%29+and+Global+PRP+%28Privacy+Recognition+for+Processors%29+Systems&sa=X&ved=2ahUKEwjlofuL9fmNAxUHIEQIHeV1D_AQxccNegQIBBAB&mstk=AUtExfBzqbff0Qxneki2iJcwYQQGGLdjZl9zyAabeLj4jBv-ikLOn80zdgilO62IN0U32cHkC6U2eZM3bYRLZZOun7Ctu_zK4re_aaK6cYqjFRs-9GZu-uDsdUOOOIZmDme4g-KDaPwrozYZvNV90mfO3A3XMsLgs6Jnb1bzBW3Tmfr_zxk&csui=3) _for the transfer of personal information from participating countries and an addendum for individuals._  
-  
+_We have updated our July 4, 2025 Privacy Policy to include our new addresses for Cloudflare Korea LLC, Cloudflare Germany GmbH, and Cloudflare Japan K.K and to add our new entity in Switzerland._
 
 * * *
 
@@ -228,7 +227,7 @@ California residents can find additional information about data sharing for mark
 
 ### 6\. NOTICE TO EU, UK, AND SWISS RESIDENTS
 
-“Personal information” as referenced in this Privacy Policy means “personal data” as that term is defined under the European Union (“EU”) General Data Protection Regulations (“GDPR”) and its United Kingdom (“UK”) GDPR counterpart. Cloudflare is a data controller for the personal information collected from all categories of data subjects listed above, with the following exceptions: Cloudflare is a data processor of Customer Logs, Administrative User logs, and some account settings information. In addition, Cloudflare is a data processor for any of the content provided by Customers and End Users through the Services that transits, or in some cases, is stored on, the Cloudflare network. Where Cloudflare is a data processor, Cloudflare processes data on behalf of its Customers pursuant to their data processing instructions.
+“Personal information” as referenced in this Privacy Policy means “personal data” as that term is defined under the European Union (“EU”) General Data Protection Regulations (“GDPR”) and its United Kingdom (“UK”) GDPR counterpart. Cloudflare is a data controller for the personal information collected from all categories of data subjects listed above, with the following exceptions: Cloudflare is a data processor of Customer Logs, Administrative User Audit Logs, and some account settings information. In addition, Cloudflare is a data processor for any of the content provided by Customers and End Users through the Services that transits, or in some cases, is stored on, the Cloudflare network. Where Cloudflare is a data processor, Cloudflare processes data on behalf of its Customers pursuant to their data processing instructions.
 
 If you are an individual from the European Economic Area (the “EEA”), the UK or Switzerland, please note that our legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it. We normally will collect personal information from you only where: (a) we have your consent to do so, (b) where we need your personal information to perform a contract with you (e.g. to deliver the Cloudflare Services you have requested), or (c) where the processing is in our legitimate interests. Please note that in most cases, if you do not provide the requested information, Cloudflare will not be able to provide the requested service to you.
 
@@ -416,8 +415,9 @@ Attention: Data Protection Officer
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Germany GmbH  
-Rosental 7  
-80331 München  
+c/o Design Offices München Atlas  
+Rosenheimer Straße 143C - 8th floor  
+81671 München Germany  
 Attention: Data Protection Officer  
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
@@ -453,9 +453,9 @@ Attention: Data Protection Officer
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Japan K.K.  
-Marunouchi Kitaguchi Building 9F  
-1-6-5 Marunouchi, Chiyoda-ku  
-Tokyo, 100-0005  
+Kyobashi Edogrand 26F  
+2-2-1 Kyobashi, Chuo-ku  
+Tokyo, 104-0031  
 Attention: Data Protection Officer  
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
@@ -480,8 +480,8 @@ Attention: Data Protection Officer
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Korea LLC  
-8-113 (Samseong-dong), Teheran-ro 507  
-Gangnam-gu, Seoul, South Korea, 06168  
+6F, 55 Seocho-daero 77-gil  
+Seocho-gu, Seoul, South Korea, 06611  
 Attention: Data Protection Officer  
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
@@ -515,5 +515,14 @@ Att: J. Johannesson
 Box 1050  
 101 39 Stockholm  
 Sweden  
+Attention: Data Protection Officer  
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)  
+
+Cloudflare Switzerland GmbH  
+c/o Steinmann Schneider Services GmbH  
+Postfach 7652  
+Bahnhofstrasse 10  
+6302 Zug  
+Switzerland  
 Attention: Data Protection Officer  
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
