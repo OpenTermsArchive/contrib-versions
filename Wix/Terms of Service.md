@@ -1,4 +1,5 @@
-Wix has updated its General Terms of Use as of October 30, 2025. If you created your account prior October 30, 2025, some changes will be effective as of November 13, 2025. [**Learn More**](https://support.wix.com/en/article/wix-terms-of-use-updates)
+Wix has updated its General Terms of Use as of \[date of publication\].  
+If you created your account prior to \[date of publication\], the changes will be effective as of \[enter future date- ~ 2 weeks from publications\]. Learn More
 
 Wix.com Terms of Use
 ====================
