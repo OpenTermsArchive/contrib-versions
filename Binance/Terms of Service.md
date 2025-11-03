@@ -912,4 +912,4 @@ USD-$
     
 *   [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
     
-*   [Licenses & Registration](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
+*   [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
