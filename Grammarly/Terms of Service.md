@@ -4,7 +4,7 @@ Terms of Service
 
 Effective as of October 29, 2025 ([View Previous Version](https://www.superhuman.com/media-resources/nov-2024-terms))  
   
-Welcome to Superhuman. These Terms of Service (the “**Terms**”) form an agreement between Superhuman Platform Inc. (“**Superhuman**”, “**us**”, “**we**” or “**our**”) and you or the Entity you represent (“**you**” or “**your**”).  
+These Terms of Service (the “**Terms**”) form an agreement between Superhuman Platform Inc. , formerly known as Grammarly, Inc. (“**Superhuman**”, “**us**”, “**we**” or “**our**”) and you or the Entity you represent (“**you**” or “**your**”).  
   
 **These Terms do not apply to our various enterprise-tier products and services, which are provided as subscriptions through our enterprise sales team to organizations (collectively, the “Enterprise-Tier Services”). If your organization has purchased the Enterprise-Tier Services, the governing terms and conditions will be our** [**Customer Business Agreement**](https://www.superhuman.com/legal/terms/customer-business-agreement)**.**  
   
