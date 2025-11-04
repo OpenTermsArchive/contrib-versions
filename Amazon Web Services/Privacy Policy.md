@@ -478,8 +478,7 @@ Examples of the information we automatically collect include:
 *   AWS Offerings metrics, such as offering usage, occurrences of technical errors, diagnostic reports, your settings preferences, backup information, API calls, and other logs;
 *   the full Uniform Resource Locators (URL) clickstream to, through, and from our website (including date and time) and AWS Offerings, content you viewed or searched for, page response times, download errors, and page interaction information (such as scrolling, clicks, and mouse-overs);
 *   email addresses and phone numbers used to contact us; and
-*   identifiers and information contained in cookies (see our Cookie Notice).  
-    
+*   identifiers and information contained in cookies (see our Cookie Notice).
 
 **Information from Other Sources**
 
