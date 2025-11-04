@@ -330,4 +330,4 @@ You can ask us for a copy of the relevant contracts or other measures we rely up
 Contact Information
 -------------------
 
-You can contact us with questions relating to this Privacy Policy by emailing us at privacy@superhuman.com.
+You can contact us with questions relating to this Privacy Policy by emailing us at [privacy@superhuman.com](mailto:privacy@superhuman.com).
