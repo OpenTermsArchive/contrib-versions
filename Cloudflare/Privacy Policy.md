@@ -56,9 +56,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of October 31, 2025.
+This Privacy Policy is effective as of November 4th, 2025.
 
-_We have updated our July 4, 2025 Privacy Policy to include our new addresses for Cloudflare Korea LLC, Cloudflare Germany GmbH, and Cloudflare Japan K.K and to add our new entity in Switzerland._
+_We have updated our October 31, 2025 Privacy Policy to include our new Addendum applicable to users in South Korea_
 
 * * *
 
@@ -382,11 +382,15 @@ In addition, some internet browsers offer the option to enable opt-out signals s
 
 Please note that you will still see some advertising, regardless of your selection. We do not impose verification protocols for processing opt out requests unless we have reason to question the authenticity of a requester’s identity, in which case we may request evidence of identity and California residency.
 
-### 17\. TURNSTILE PRIVACY ADDENDUM
+### 17\. SOUTH KOREA PRIVACY ADDENDUM
+
+Please see our [Addendum applicable to users in South Korea](https://www.cloudflare.com/privacypolicy/southkorea-addendum/) for more information about how we process the personal information of users in South Korea.
+
+### 18\. TURNSTILE PRIVACY ADDENDUM
 
 For more information about how we process your personal data for Cloudflare Turnstile, please see the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
 
-### 18\. CONTACT INFORMATION
+### 19\. CONTACT INFORMATION
 
 Cloudflare, Inc.  
 101 Townsend St.  
