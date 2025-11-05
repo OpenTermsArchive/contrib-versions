@@ -1152,7 +1152,7 @@ Last Updated: November 04, 2025
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873615804692)
     
-*   [EN - Roblox Terms of Use 20250917.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
+*   [EN - Roblox Terms of Use 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
     
