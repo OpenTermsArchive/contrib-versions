@@ -84,8 +84,8 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
 Afin d'optimiser le traitement de vos demandes, pensez à indiquer dans toutes vos correspondances, quel que soit le canal utilisé : vos nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée.                    
 
-_Article 1 : CHAMP D'APPLICATION_
----------------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **1.1 Champ d’application**
 
@@ -248,8 +248,8 @@ A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
  **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
@@ -344,8 +344,8 @@ Vous êtes informé de la collecte de ces informations dès votre première conn
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html). 
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **CDISCOUNT peut vous proposer, au moment de la passation de votre commande, différents modes de livraison en fonction notamment de la taille de votre colis et de votre adresse de livraison.** CDISCOUNT n'assure pas de livraison à destination : des bases militaires, des armées, des casernes.  
   
@@ -730,8 +730,8 @@ CDISCOUNT procédera à votre remboursement via le même moyen de paiement que c
 
 Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au comptant ou en 4x) CDISCOUNT procédera à votre remboursement par recrédit sur votre carte bancaire.
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **9.1 Les Garanties Légales**
 
@@ -1007,8 +1007,8 @@ _Article 14 : CODE DE BONNE CONDUITE_
 CDISCOUNT adhère au Code Déontologique de la Fevad (Fédération du e-commerce et de la vente à distance).  
 Pour en savoir plus, rendez-vous sur le site de la FEVAD en [cliquant ici.](https://www.fevad.com/)
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 15.1 Pour toute réclamation, notre Service Client est à votre disposition.  
   
