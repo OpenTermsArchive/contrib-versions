@@ -10,7 +10,7 @@ How is your data processed by CCM?
 
 [David Webb](https://ccm.net/account/dwebb-11634883)
 
-6 octobre 2022 10:30
+6 October 2022 10:30
 
 Partager Partager
 
@@ -135,8 +135,8 @@ Partager Partager
 *   [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
 *   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
 *   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
-*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 *   [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 *   [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
+*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 *   [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 *   [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
