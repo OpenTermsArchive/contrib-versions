@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-April 3, 2024
+November 5, 2025
 
 We care about your privacy. When Mozilla (that’s us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -20,7 +20,7 @@ We may receive personal information from you based on your interaction with us o
     
 *   **User Feedback**: You can provide feedback to us on our products and services on webpages like [connect.mozilla.org](https://connect.mozilla.org/), through an in-product experience, or through channels such as email, Bugzilla, Matrix, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.
     
-*   **Accounts & Subscriptions**: Some websites, for example [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), require account creation. For account management we use [Mozilla accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), or custom systems; [learn more](https://support.mozilla.org/kb/managing-account-data) about how to manage your Mozilla account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), or [Braze](https://www.braze.com/company/legal/privacy), and you can unsubscribe using the link at the bottom of the relevant email.
+*   **Accounts & Subscriptions**: Some websites, for example [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), require account creation. For account management we use [Mozilla accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), or custom systems; [learn more](https://support.mozilla.org/kb/managing-account-data) about how to manage your Mozilla account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), or [Braze](https://www.braze.com/company/legal/privacy), and you can unsubscribe using the link at the bottom of the relevant email.
     
 *   **Product & Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We may use third parties to manage these campaigns and handle any data that you choose to submit.
     
@@ -52,7 +52,7 @@ You can control individual cookie preferences, indicate your cookie preferences 
     
 *   **Do Not Track**: Mozilla does not track users across third-party websites to provide targeted advertising. In addition, if you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](https://www.mozilla.org/privacy/websites/#data-tools) section.
     
-*   **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/), or for Thunderbird’s newsletter, on the [Thunderbird website](https://www.thunderbird.net/newsletter/).
+*   **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email. You can also unsubscribe via the [preference center](https://www.mozilla.org/newsletter/recovery/) (Mozilla newsletters), [unsubscribe page](https://www.mozillafoundation.org/newsletter/unsubscribe/) (Mozilla Foundation newsletters), or the [Thunderbird website](https://www.thunderbird.net/newsletter/) (Thunderbird Newsletter).
     
 *   **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
     
@@ -69,7 +69,7 @@ Some Mozilla websites allow you to make purchases (such as apps or gear), contri
 
 *   **Payment Processing**: When you purchase something via a Mozilla website, contribute funds or make donations, you will send payment through one of our third-party payment providers: Stripe, Apple Pay, PayPal, Venmo or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and (where relevant) the status of your account’s subscription; we may also receive your name, mailing address, and/or email address. This data is used for payment processing, fraud detection and record-keeping purposes.
     
-*   **Contact and Donation Information**: We use [Acoustic](https://acoustic.com/privacy-notice/), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) and [Campaign Monitor](https://meetmarigold.com/privacy-notices/) to email receipts and store records, which are retained for 10 years from the date of last payment. If you make a donation to the Mozilla Foundation or Thunderbird, we use [Fundraise Up](https://fundraiseup.com/privacy/) to manage our donations and provide transactional receipts to donors.
+*   **Contact and Donation Information**: We use [Braze](https://www.braze.com/company/legal/privacy), [Salesforce](https://www.salesforce.com/company/privacy/), [Fundraise Up](https://fundraiseup.com/privacy/) and [Campaign Monitor](https://meetmarigold.com/privacy-notices/) to email receipts and store records, which are retained for 10 years from the date of last payment. If you make a donation to the Mozilla Foundation or Thunderbird, we use [Fundraise Up](https://fundraiseup.com/privacy/) to manage our donations and provide transactional receipts to donors.
     
 
 * * *
