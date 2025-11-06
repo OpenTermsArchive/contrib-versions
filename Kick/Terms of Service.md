@@ -149,7 +149,7 @@ Company provides a platform for online streaming services where Users can connec
 6\. DMCA Notice
 ---------------
 
-Since we respect artist and content owner rights, it is Company's policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998. If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please notify Company's copyright agent as set forth in Company's [DMCA](https://kick.com/dmca-policy) & [Copyright](https://kick.com/dmca-policy)Policy.
+Since we respect artist and content owner rights, it is Company's policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998. If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please notify Company's copyright agent as set forth in Company's [DMCA](https://kick.com/dmca-policy) & [Copyright](https://kick.com/dmca-policy) Policy.
 
 7\. Third-Party Links and Information
 -------------------------------------
