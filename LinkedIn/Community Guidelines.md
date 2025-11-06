@@ -35,7 +35,9 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
 *   ### Violating our community policies can result in action against your account or content
     
-    These policies apply to all members. Depending on the severity of violation, we may limit the visibility of certain content, label it, or remove it entirely. Repeated or egregious offenses will result in account restriction. If you believe action taken on your content or your account was in error, you can submit an [appeal](https://www.linkedin.com/help/linkedin/answer/a1441505).
+    These policies apply to all members. Depending on the severity of violation, we may limit the visibility of certain content, label it, or remove it entirely. Repeated or egregious offenses can result in account restriction. If you believe action taken on your content or your account was in error, you can submit an [appeal](https://www.linkedin.com/help/linkedin/answer/a1441505).
+    
+    We may allow certain content that would otherwise violate these Professional Community Policies to remain on the platform if it is educational or newsworthy. Examples may include graphic depictions of an occupation, such as video of a surgeon operating, content shared about a newsworthy event like war or armed conflict, or inherently newsworthy content like statements or actions by certain public officials. When making a determination of newsworthiness, we balance the potential harm from the content staying on the platform against the value to our members and the public of it staying accessible. Graphic or disturbing newsworthy or educational content will include a warning screen.
     
     Learn more about how [we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368)**.**
     
