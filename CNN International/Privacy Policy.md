@@ -135,9 +135,9 @@ Our Privacy Policy explains what information we process when you use our product
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| English (Latin America) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-latam) | [Ad Choices](https://www.wbdprivacy.com/policycenter/b2c/en-latam#adchoices) | [Legal Bases Chart](https://www.wbdprivacy.com/policycenter/legalbases/en-latam) |
-| Português do Brasil | [Política de Privacidade](https://www.wbdprivacy.com/policycenter/b2c/pt-latam) | [Opções de Publicidade](https://www.wbdprivacy.com/policycenter/b2c/pt-latam#adchoices) | [Tabela de Bases Legais](https://www.wbdprivacy.com/policycenter/legalbases/pt-latam) |
-| Español \| Spanish (Latin America) | [Política de Privacidad](https://www.wbdprivacy.com/policycenter/b2c/es-latam) | [Elecciones de anuncios](https://www.wbdprivacy.com/policycenter/b2c/es-latam#adchoices) | [Cuadro de bases legales](https://www.wbdprivacy.com/policycenter/legalbases/es-latam) |
+| English (Latin America) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-latam) | [Ad Choices](http://wbdprivacy.com/opt-out/latam/) | [Legal Bases Chart](https://www.wbdprivacy.com/policycenter/legalbases/en-latam) |
+| Português do Brasil | [Política de Privacidade](https://www.wbdprivacy.com/policycenter/b2c/pt-latam) | [Opções de Publicidade](https://www.wbdprivacy.com/opt-out/latam/?lang=pt-br) | [Tabela de Bases Legais](https://www.wbdprivacy.com/policycenter/legalbases/pt-latam) |
+| Español \| Spanish (Latin America) | [Política de Privacidad](https://www.wbdprivacy.com/policycenter/b2c/es-latam) | [Elecciones de anuncios](https://www.wbdprivacy.com/opt-out/latam/?lang=es) | [Cuadro de bases legales](https://www.wbdprivacy.com/policycenter/legalbases/es-latam) |
 
   
 
