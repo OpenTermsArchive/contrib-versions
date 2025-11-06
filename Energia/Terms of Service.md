@@ -668,9 +668,11 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
   
 [View the January Mascot Six Nations Compitition 2025 terms and conditions](https://www.energia.ie/getmedia/030c576e-6cf3-4237-be4d-224c372ea1e5/T-C-2025-Rugby-mascot-for-Ireland-vs-France-Jan-NL-Comp.pdf)  
   
-[View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf) 
-
-[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-\(1\).pdf)
+[View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf)   
+  
+[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-\(1\).pdf)  
+  
+[View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/d0cd525f-db11-4acc-9eea-1084fb7504ef/Future-Homes-Competition-Terms-and-Conditions-final.docx)
 
 ### 
 
