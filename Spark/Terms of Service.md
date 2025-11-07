@@ -1,374 +1,460 @@
 Terms of Service - Spark
 ========================
 
-**Last updated**: February 20, 2025
+**Date:** November 7, 2025
 
-Please read these Terms of Service ("**Terms**") carefully before using our [website](https://sparkmailapp.com/), downloading, and installing Spark Desktop or mobile applications ("**App**" or "**Spark**"). 
+Key Changes to the Terms of Service and Privacy Policy for Spark
+----------------------------------------------------------------
 
-These Terms contain important information about your legal rights and obligations. If you do not agree with these Terms, please, do not continue to use the App.
+At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
 
-The App is operated by Spark Mail Limited, with offices at Glandore Business Centres, 26-27 Fitzwilliam Place, Fitzwilliam Hall, Dublin 2, D02T292, Ireland, who we may refer to as "Spark Mail", "we", "us" or "our". 
+As part of our ongoing commitment to transparency and improving your experience, we have revised these documents for better readability and structure. While the language and layout have been modernized, the core terms of our agreement with you remain unchanged. 
 
-Our Privacy Policies describe our collection and use of personal data in connection with your access to and use of the App and the Website. We have two policies: the Privacy Policy for the [App](https://sparkmailapp.com/legal/privacy-app) and the Privacy Policy for the [Website](https://sparkmailapp.com/legal/privacy-web).
+Here is a summary of the most important updates:
 
-If you have any questions or comments about these Terms of Service, please contact us at [support@sparkmailapp.com](mailto:support@sparkmailapp.com) or visit our [Help center](https://sparkmailapp.com/help) to find more information about the App. 
+**Terms of Service**
+
+*   **Subscription Plans:** The Terms of Service have been revised to align with Spark’s expanded subscription model and evolving service offerings.
+*   **Individual & Business Use**: The Terms now provide clearer guidance for both individual users and business customers, reflecting how each may use Spark.
+*   **Updated Refund Policy**: The Terms now provide clearer details on refund eligibility and the steps to request a refund.
+
+**Privacy Policy**
+
+*   **More details on Data Processing:** We have made the Privacy Policy easier to understand by grouping personal data into clear categories and detailing why we process it, on what legal basis, and for how long.
+
+We encourage you to carefully review the [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
+
+These Terms of Service (“**Terms**”) govern your access to and use of the “Spark” mobile and desktop application (the “**App**”) and related [website](https://sparkmailapp.com/) services (collectively, the “**Service**”) provided by Spark Mail Limited (“**Spark**,” “**we**,” “**our**,” or “**us**”).  
+  
+We have two Privacy Policies that you should know about. Our [Privacy Policy for the App](https://sparkmailapp.com/legal/privacy-app) describes how we collect, use, and protect personal data in connection with your use of the App. The second one – [Privacy Policy for the website](https://sparkmailapp.com/legal/privacy-web)– is for our [website](https://sparkmailapp.com/).  
+  
+By accessing or using the Service, you (“**User**,” “**you**,” or “**your**”) acknowledge that you have read, understood, and agreed to be bound by these Terms. If you do not agree to these Terms, you must not access or use the Service.  
+  
+If you have any questions or concerns regarding these Terms, please [contact us](#aboutus).
 
 Table of contents
 -----------------
 
-*   [Entire agreement](#entireagreement)
-*   [Accounts and sync](#accountssync)
-*   [Data storage](#datastorage)
-*   [Subscriptions](#subscriptions)
-*   [Content and use license](#contentuse)
-*   [Third-party websites and services](#thirdparty)
-*   [Warranties and disclaimers](#warranties)
-*   [Limitation of liability](#limitationofliability)
+*   [About Us](#aboutus)
+*   [Entire Agreement](#entireagreement)
+*   [Service and Use License and Subscriptions](#uselicense)
+    *   [Software license](#software)
+    *   [Business Customers](#account)
+    *   [Acceptable Use](#acceptableuse)
+    *   [Modification or Discontinuation of the Service](#modification)
+*   [Accounts and Subscriptions](#accountandsubscription)
+    *   [Spark for Individuals and Teams](#sparkindividual)
+    *   [Account](#accounts)
+    *   [Free Use](#freeuse)
+    *   [Free trial and Special Offers](#freetrial)
+    *   [Paid Subscriptions and Add-Ons](#paid)
+    *   [Payment Terms](#paymentterms)
+    *   [Subscription Renewal and Cancellation](#subscriptionrenewal)
+    *   [Refunds](#refunds)
+*   [Ownership and Proprietary Rights](#ownership)
+    *   [Spark Content](#sparkcontent)
+    *   [User Content](#usercontent)
+    *   [Your Feedback](#yourfeedback)
+*   [AI Features](#aifeatures)
+*   [Third-Party Websites and Services](#thirdpartywebsites)
+*   [Warranties and Disclaimers](#warranties)
+*   [Limitation of Liability](#limitation)
 *   [Indemnification](#indemnification)
-*   [Applicable law and jurisdiction](#applicablelaw)
-*   [Electronic communications](#electroniccommunications)
-*   [Termination](#termination)
-*   [Other terms](#otherterms)
-*   [Questions and contact information](#questions)
+*   [Applicable Law and Jurisdiction](#applicablelaw)
+*   [Electronic Communications and Notices](#electroniccommunications)
+*   [Termination](#termination)  
+    *   [Termination by You](#terminationbyyou)
+    *   [Termination by Spark](#terminationbyreaddle)
+*   [Miscellaneous](#misc)
 
-  
-  
+About Us
+--------
 
-Entire agreement
+| **Service Provider** | **Spark Limited** |
+| --- | --- |
+| **Registration number** | 630281 |
+| **VAT** | IE 3560869EH |
+| **Address** | Glandore Business Centres, 26-27 Fitzwilliam Place, Fitzwilliam Hall, Dublin 2, D02T292, Ireland |
+| **Email** | [dpo@sparkmailapp.com](mailto:dpo@sparkmailapp.com) — for privacy inquiries |
+| [support@sparkmailapp.com](mailto:support@sparkmailapp.com) — for other inquiries |
+
+Entire Agreement
 ----------------
 
-These Terms and any operating rules and policies posted on our website or in the App, including the [Privacy Policy for the App](https://sparkmailapp.com/legal/privacy-app), constitute the entire legally binding agreement and understanding between Spark Mail and our users (hereinafter "**you**" or "**user**"), governing your access to and use of the App. This agreement can also include a separate data processing agreement ("DPA"), if we have entered into one.
+_**In brief**_
 
-By installing the App, you hereby declare and warrant that:
+*   This is an agreement between Spark and users of the service.
+*   By using the service, you agree to comply with these Terms and applicable laws and regulations. 
+*   To use the service, you must be at least 16 years of age.
 
-*   you have read, understand, have the legal capacity to, and hereby agree to be legally bound by and to comply with these Terms in full;
-*   you are 16 years of age or older (otherwise, you can use the App exclusively with the involvement of a parent or legal guardian);
-*   according to your jurisdiction of residence, you are eligible to enter into this agreement and have no restrictions to use the App;
-*   you comply with these Terms and all applicable laws and regulations at all times.
+These Terms, the [Privacy Policy for the App](https://sparkmailapp.com/legal/privacy-app), the [Privacy Policy for the website](https://sparkmailapp.com/legal/privacy-web), and, as applicable, the order form and/ or the [Data Processing Agreement](https://sparkmailapp.com/legal/data-processing-agreement), constitute the entire legally binding agreement and understanding between us and our Users or Business Customers, as defined below. 
 
-If you use the App as a business representative, you further certify that you have the right to bind the represented legal entity to the terms and conditions hereof and grant us all permissions and licenses under these Terms, disclose information about that legal entity as may be required to provide you or the represented legal entity with the functionalities of the App.
+By using the App or our website, you hereby represent and warrant that:
 
-Accounts and Sync
------------------
+*   You have read, understood, and have the legal capacity to agree and be legally bound by these Terms in their entirety;
+*   You are 16 years of age or older (otherwise, you may use the App only under the supervision of a parent or guardian);
+*   You are legally permitted to enter into this agreement and use the App under the laws of your jurisdiction;
+*   You will comply at all times with these Terms, as well as all applicable laws and regulations.
 
-To use the Spark email client, you have to register a personalized account ("**Spark Account**"), by providing your personal or business email address and passing the authorization procedure through your third-party email account. 
+If you use the App as a business representative, you further certify that you are eligible to legally bind the represented legal entity, grant Spark all permissions and licenses under these Terms, and disclose information about that legal entity. In this case,  all references to “you” and “your” shall refer to that entity. If you do not have the authority to bind such entity or do not agree with these Terms, you (and the entity) are not authorized to access or use the App.
 
-Upon registration, you can add an unlimited number of your email accounts to Spark, including Gmail, iCloud, Yahoo, Exchange, Outlook, Kerio Connect, and other IMAP email accounts. The accounts will not be added, if they are not supported by Spark.
+Service and Use License
+-----------------------
 
-To log in to your Spark Account on other devices you need to use the same email address you used to register the Spark Account unless you change the email used to create the Spark Account in the Preferences of the App. If you change the Spark Account, your personal settings, added accounts, and all emails will be synced automatically across all devices on which you are logged in.
+**_In brief_**
 
-You do not have to use a password to log in to Spark, however, you can enable a passkey lock or Face ID in your mobile App. All the passwords to your email accounts are created through third-party providers. Upon changing the password, you need to log in to your email account again using the updated credentials.
+*   We grant you a license to use the Service, subject to these Terms;
+*   The App is intended for two types of use: personal, non-commercial use by individuals, and use by a Business Customer's authorised users for internal business purposes, in accordance with the principles of fair and reasonable use;
+*   You must not misuse or interfere with the proper functioning of the Service;
+*   We reserve the right to suspend or terminate your access to the Service if you violate these Terms.
 
-You are the one solely responsible for maintaining the confidentiality of the login credentials you use for login with your email accounts, and for all activities that occur under those credentials. You are solely responsible for any liability or damages resulting from your failure to maintain the confidentiality of such information.
+### Software Licence
 
-To log out and delete your email account from Spark, please use the Spark Account’s settings in the App. When you delete the email address that you used for registration in Spark and for sync, you will also be logged out from the other email accounts you added to Spark. Your personal data will be deleted in accordance with the retention periods specified in our [Privacy Policy for the App](https://sparkmailapp.com/legal/privacy-app). Please note, that Spark reserves the right to suspend and/or delete your Spark account in case of your violation of these Terms. 
+Subject to your compliance with these Terms, we grant you, an individual user, a limited, temporary, personal, non-exclusive, non-sublicensable, revocable, non-transferable, and worldwide license to access and use the Service in the manner outlined in these Terms.
 
-Data Storage
-------------
+We may, at our discretion, provide upgrades, modifications, updates, or additions to the Service during the term of this license. Unless otherwise accompanied by a separate license or agreement, the terms of this license will apply to any such upgrades, modifications, updates, or additions.
 
-We process and store your personal data based solely on the legal grounds directly prescribed by the GDPR, namely: 
+If we reasonably believe that you have violated or may violate these Terms in a manner that could disrupt the Service, we may suspend or terminate this license and your access to the Service accordingly, without any liability to us, in addition to any other remedies available to us. We reserve all rights not expressly granted in these Terms.
 
-*   your consent;
-*   when processing is necessary for the performance of a contract between you and us;
-*   our legitimate interest; and
-*   legal obligation. 
+### Business Customers
 
-You may find all the information about our purposes for data processing, the exact categories of data collected, and your rights as a data subject under the GDPR in our Privacy Policy for the [App](https://sparkmailapp.com/legal/privacy-app) and for the [Website](https://sparkmailapp.com/legal/privacy-web). 
+If you represent a company or other legal entity and wish to obtain access to the App and/ or purchase several subscriptions for your organisation's authorised users (“**Authorised Users**”), the organization you represent will become our customer (“**Business Customer**”). 
 
-The content of the emails you send and receive is stored on the server of your third-party email account provider, save for the cases described below. Spark allows you to connect to your email accounts by accessing the IMAP and EWS servers. 
+Subject to the Business Customer’s and its Authorised Users’ compliance with these Terms, and, as applicable, payment of the subscription fees, we grant the Business Customer a limited, non-exclusive, non-transferable, non-sublicensable right for its Authorised Users to access and use the Service for the Business Customer’s internal business purposes in accordance with these Terms. You acknowledge and agree that you are fully responsible for the acts and omissions of your Authorised Users to the fullest extent permitted by the applicable law.
 
-Spark does not back up emails, therefore they cannot be stored locally on your device. Spark caches emails and attachments over the past month when connected to Wi-Fi so that you can later look through your inbox even offline. All connections to the servers we use are protected with TLS network communication security protocol.
+### Acceptable Use
 
-At the same time, such unique features as Teams (shared emails and comments, shared drafts, shared links, delegation), Shared Inboxes, Snoozed emails, Templates and Send Later, as well as push notifications require the support of the servers we use and your emails corresponding to these features are safely stored there in an encrypted form.
+This App is provided for the personal, non-commercial use by individual users and the Business Customer’s Authorised Users, subject to the principles of fair and reasonable use.
 
-To provide you with the sync option, we also encrypt the information about your accounts and preferences, including login credentials, and store it on our secure servers. The encryption key is saved locally on your device, so only you have access to it.
+Under the license granted to you, you shall not:
 
-To make everything as safe as possible, we do not use our own servers. Instead, we rely on Google Cloud service, which is fully [SOC-2](https://cloud.google.com/security/compliance/soc-2) and [ISO 27001 certified](https://cloud.google.com/security/compliance/iso-27001). Moreover, we use HTTPS, alarm systems, VPN, and written internal policies regarding the protection of personal data. 
+*   sell, lease, rent, license, sublicense, or otherwise distribute the App software, including sharing your personal Account in the App with others;
+*   copy, decompile, disassemble, translate, or reverse engineer the App software, in whole or in part;
+*   reproduce, publish, transmit, write or develop any derivative software, make an attempt to derive the source code of, modify, or create derivative works of the App software, and its updates;
+*   provide, disclose, divulge, or make available to, or permit the use of the App software by any third party without Spark’s prior written consent;
+*   avoid, bypass, remove, deactivate, impair, descramble, or otherwise circumvent any technological measure implemented by the App or any of the App’s providers or any other third party (including another User) to protect the App;
+*   reproduce, publish, transmit, distribute, otherwise disseminate, modify, create derivative works, or otherwise use the Spark Content for commercial or illegal purposes without our prior written permission; engage in any activity that is illegal, fraudulent, or violates the rights of others,  including, but not limited to, sending unsolicited commercial email ("spam") and phishing or attempting to fraudulently obtain sensitive information;
+*   upload, store, transmit, distribute or otherwise make available any content that is unlawful, harassing, threatening, fraudulent, harmful, or that infringes upon the intellectual property rights of any third party;
+*   use the App in any manner other than for personal, non-commercial or internal business purposes.
 
-When we conclude a DPA with you, we use the Standard Contractual Clauses based on legislation assessments for data protection during transfer and storage which takes place in third countries under the GDPR, such as the USA and Ukraine.
+We may implement usage limits if we detect usage patterns that significantly exceed typical user behavior or that we believe are detrimental to the overall performance and availability of the Service. We reserve the right to define what constitutes excessive and detrimental use and to implement appropriate limits without prior notice, though we will endeavour to communicate such actions where feasible.
 
-If you want to exercise your right to erasure under GDPR and you want all the data about your accounts and preferences from Spark to be deleted, please use the "General" section in the Preferences of your App. Scroll to the bottom and click "Remove My Data From Spark." All your data will be irreversibly deleted from the servers we use immediately. Please learn more about your data in our Privacy Policy for the [App](https://sparkmailapp.com/legal/privacy-app) and for the [Website](https://sparkmailapp.com/legal/privacy-web) or contact our DPO at [dpo@sparkmailapp.com](mailto:dpo@sparkmailapp.com).
+### Modification or Discontinuation of the Service
 
-Subscriptions
--------------
+We reserve the right to modify, suspend or discontinue all or any part of the Service at any time and without notice or liability, at our sole discretion. We will, however, provide prior notice if such changes are expected to materially diminish your use of the Service under a paid subscription plan. You agree that we shall not be liable to you or any third party should any of the preceding occur concerning the Service.
 
-Spark is available for free download and use in desktop or mobile versions compatible with macOS, iOS, Android, Huawei, and Windows through [Mac App Store](https://apps.apple.com/app/apple-store/id1176895641), [App Store](https://apps.apple.com/us/app/spark-mail-email-by-readdle/id997102246), [Microsoft Store](https://apps.microsoft.com/store/detail/XPFCS9QJBKTHVZ), [Google Play](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=uk&gl=US), and [Huawei AppGallery](https://appgallery.huawei.com/#/app/C103789413) respectively.
+### Specific Access Restrictions
 
-Certain functionalities of Spark require payment before you can use them ("**Subscriptions**"). For example, you may need to subscribe to use certain team functionality or extra premium functionalities. Subscriptions can be purchased by paying an annual or monthly subscription fee. Subscription fees are charged at the beginning of the subscription and, because such subscription renews automatically for an additional period equal in length to the expiring subscription term until you cancel it (for example, for the next month in the monthly subscription), at the time of each renewal until you cancel or exhaust the funds available on the card used for the purchase of the Subscription.
+You may not use, access, or export our services in violation of applicable international sanctions and export control laws, including but not limited to those of the United States and the European Union.
 
-We reserve the right to change the pricing structure for our Subscriptions. When we do that, we tend to exempt existing subscribers from those changes. If we need to change the prices for existing subscribers, we will give at least 30 days' notice and will notify you via the email address used to create your Spark Account or by posting a notice about changes on our App and Website themselves. Your continued use of the App after the price change becomes effective constitutes your agreement to pay the changed amount. 
+We do not provide services or access to our products to customers from the Russian Federation and the Republic of Belarus. Spark does not engage in any business with companies owned by or affiliated with the citizens of these countries, nor with those that support the Russian aggression in Ukraine.
 
-Spark offers two types of Premium subscriptions: Premium plan for Teams and Premium plan for Individuals. If you need advice regarding the subscription plans and plans that we offer to large customers, please contact our sales specialist at [support@sparkmailapp.com](mailto:support@sparkmailapp.com). 
+Account and Subscriptions
+-------------------------
 
-### Payment Arrangements 
+**_In brief_**
 
-Spark provides you with a few options to pay for the subscription, such as Stripe and in-app payments at App Store and Google Play. 
+*   To use the App, you have to connect at least one email account to Spark.
+*   The App is free to download.
+*   You may use the free functionality of the App or purchase a subscription subject to a recurring fee.
 
-When you decide to pay for the subscription via the Website or Microsoft Store, the payments are facilitated by a third-party provider, namely Stripe, in accordance with the latter’s [Terms of Service](https://stripe.com/en-ie/checkout/legal) and [Privacy Policy](https://stripe.com/privacy). In no case shall Spark be responsible for any personal data processed by Stripe. 
+The App is available for free download in desktop and mobile versions through our website and the third-party app stores, namely: [Mac App Store](https://apps.apple.com/app/apple-store/id1176895641), [App Store](https://apps.apple.com/us/app/spark-mail-email-by-readdle/id997102246), [Google Play](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=uk&gl=US), [Microsoft Store](https://apps.microsoft.com/detail/xpfcs9qjbkthvz?hl=en-US&gl=UA), [Huawei AppGallery](https://appgallery.huawei.com/#/app/C103789413) and [Setapp](https://setapp.com/).
 
-If you use Spark downloaded from the app market (such as App Store for iOS, Mac App Store for Mac or Google Play for Android devices, excluding Microsoft Store), Spark may include in-app purchases that allow you to buy subscriptions. Payments may be processed through the Google Play or App Store from which you originally downloaded the application. If you purchase the subscription through the in-app purchase, then the app market’s in-app purchase rules and policies will also apply. 
+Spark basic email functionality is free to use. To fully utilise more powerful functionalities of the App, you may need to subscribe to any of the available paid plans. Please note that the scope of functionality and available subscription options may vary across different platforms and device types. 
 
-The subscription bought is shared across your own apps and services that you use to access your Spark Account. We reserve the right to revise the subscription fees at any time, subject to providing users with adequate notice of any fee changes before they become effective. The revised fees will not apply to your current subscription period; however, your continued use of the Premium plan after the effective date of such change will constitute your agreement to pay the updated fees.
+### Spark for Individuals and Teams
 
-**PLEASE NOTE**, if your local currency is different from the currency in which the prices are quoted, your bank will apply the exchange rate applicable per the date of purchase, which is beyond our control. Also, your bank may apply an exchange commission or fee.
+Spark is designed for two primary uses:
 
-**PLEASE ALSO NOTE** that the fee for a Premium Individual subscription includes applicable value-added tax ("VAT") and/or other taxes imposed under the relevant tax laws based on your location.
+|     |     |
+| --- | --- |
+| **Spark Individual** | For individuals using Spark for personal productivity and managing their own email accounts. |
+| **Spark Teams** | For companies, organizations, and private groups using Spark's collaborative features within a team in Spark (“**Team**”).<br><br>When you create a Team, you become a Team owner (“**Team Owner**”), and the members you invite and authorize to join your Team are your Team members (“**Team Members**”).<br><br>The authority to manage your Team, add or remove Team Members, and take other binding actions on your behalf depends on the role assigned to each Team Member. As the Team Owner, you agree that your Team Members are authorized to act within the permissions granted to their specific role. To learn more, please review the detailed permissions for each role in our [Help Center](https://sparkmailapp.com/help/spark-for-teams/team-roles). |
 
-For Teams subscriptions, prices are listed exclusive of VAT or any other taxes. Any applicable VAT and/ or other taxes will be displayed at checkout depending on your business's location, and you will be responsible for paying all applicable indirect taxes as required by law.
+### Account
 
-### Trial periods and Discounts
+To use the App, you must have a personal account (“**Account**”), which you can use across your different devices. You can provide your email address or sign in with your Google account, after which your Spark Account will be associated with the first email account you connect to Spark. 
 
-From time to time, we may offer trials of Subscriptions for a specified period without payment (a "**Trial**") or at a reduced rate (a "**Discount**"). Please review the App pricing page to learn about the duration of the trial period, the terms of participation and the amount of the discount available. Discounts may change over time, as well as conditions of Discounts, and we may decide to cease providing Discounts or introduce and offer you any other benefits.
+If you sign in via your email or your Team’s invitation, please click the button in our email to the indicated email address to confirm it and instantly sign in.
 
-Once the Trial period or the last month covered by the Premium Subscription expires, the features, which are available as a part of the Premium Plan, may become unavailable in full or in part.
+To ensure you retain full control over your Account, sharing and transferring it are strictly prohibited. If you know or have any reason to suspect that someone has gained access to your Account without your authorisation, your credentials have been lost, stolen, misappropriated, or otherwise compromised, please immediately [](https://pdfexpert.com/legal/terms#aboutus)[notify us](#aboutus).
 
-### Subscription for Spark Teams: Free and Premium Plan
+To terminate your Account, you may use the relevant functionality in the App or reach out to us at [dpo@sparkmailapp.com](mailto:dpo@sparkmailapp.com).
 
-Spark offers two plans for Teams: Free and Premium. With the Premium plan, you can invite an unlimited number of team members to draft an email in real-time, create an unlimited number of email templates and use the advanced sharing settings. Read more about the team features and pricing [here](https://sparkmailapp.com/pricing).
+### Free Use
 
-To use more advanced Spark features for Teams, you will need to purchase a monthly or annual Premium subscription plan by upgrading Free Plan through the App Settings on any of your devices and submitting your billing details. The upgraded subscription plan will automatically sync across all devices you are logged in.
+Once you connect your email account to Spark, you acquire a free-of-charge license to use the App, subject to certain limitations shown in the App. These may include, for example, restrictions on usage volume and the availability of specific features. Please note that these limitations and features available for free use may be modified by Spark at any time without prior notice. 
 
-The subscription fee is calculated on a monthly basis per the number of active users invited to your Team in accordance with the rates specified on the checkout screen. An active team member is a person who has joined your team via invitation or automatically (based on email domain name). In the case of a number of active users changes during the subscription period, the applicable fee will be calculated separately at the end of each calendar month to adjust outstanding payment debts (if any) in accordance with [Stripe’s prorations rules](https://stripe.com/docs/billing/subscriptions/prorations). The payment for the number of active users that has exceeded the original Subscription Plan will be charged once per month. If you have any questions regarding prorations, please contact our support at: [support@sparkmailapp.com](mailto:support@sparkmailapp.com).
+### Free Trial and Special Offers
 
-After you finish managing your team members, please choose a monthly or yearly billing frequency. Your first Premium subscription will be charged upon upgrade, and you will be provided with the invoice.
+You can explore additional features available under the subscription during a free trial, subject to the then-current terms of the free trial offer displayed in the App or on the Website. 
 
-### Subscription for Spark Users: Free and Premium Plans
+Please note that if you start your free trial via an in-app Apple App Store or Google Play mechanism, or provide your credit card details at checkout, your subscription fee will be automatically charged after the free trial expires. To avoid charges, you must manually cancel the subscription at least 24 hours before the billing date. Please refer to the [Help Center](https://sparkmailapp.com/help/billing-subscription/how-to-cancel-free-trial-in-spark) to learn more about free trial cancellation on different platforms.
 
-Spark offers two plans for Individual usage: Free and Premium. You may get access to the full functionality of Spark by purchasing the Premium Plan. With the Premium Plan, you will be able to pre-screen who can email you, prioritize senders and threads, send large email attachments by uploading them to the Spark Cloud and use other premium features. Read more about the premium features and pricing [here](https://sparkmailapp.com/plans-comparison).
+Within special promotional campaigns, Spark reserves the right to offer special terms to select users. The terms and conditions and duration of such offerings shall be defined in a separate promotion description and/or in the App.
 
-### Spark +AI Add-On Subscriptions
+### Paid Subscriptions and Add-Ons
 
-Spark +AI is a Premium feature designed to facilitate email creation and editing using machine learning algorithms. Please refer to the 'AI Features' section below to learn more about it.
+You may purchase one of the paid subscriptions to access the extended functionality of the App, subject to the then-current terms. Please refer to the [Pricing page](https://sparkmailapp.com/plans-comparison) for more details on the subscription plans currently available for new users. Users on legacy subscription plans not specified on the [Pricing Page](https://sparkmailapp.com/plans-comparison) may continue to use them as long as they are supported. 
 
-Spark +AI feature is available exclusively to our Premium Users of Spark 3 and is also accessible during the Trial period.
+Your subscription may include a standard monthly usage allowance for AI Features (as defined below) that resets at the beginning of each billing cycle. For extra usage, add-ons are available as one-time, non-renewable, and non-refundable purchases. Unlike your standard monthly allowance that resets, any unused portion of a purchased add-on automatically rolls over to the next month.
 
-Premium Users of Spark 3 and Users during the Trial period are provided with a monthly spending limit for the Spark +AI feature ("**Monthly +AI Quota**"). At the beginning of each billing month (which commences depending on when you became a Premium Users of Spark 3), the Monthly +AI Quota is full and equals 100%. Every use of the Spark +AI feature, such as generating text, replying, rephrasing or proofreading, consumes a certain percentage of the Monthly +AI Quota depending on various factors, including the number of characters and the language of the text.
+The purchase of a subscription or add-on is subject to the then-current fee (including value-added tax (“**VAT**”), if applicable) as indicated on the checkout screen. Please note that if you pay in a currency that is different from the currency in which the fees are quoted, your bank may apply its current exchange rate and/or add commissions and fees on top of our subscription fees.
 
-The Monthly +AI Quota automatically refills to 100% at the beginning of each of your billing months. An unused percentage of the Monthly +AI Quota cannot be carried forward to the next month.
+We reserve the right to change the subscription plans, including the scope of functionality available. We will provide you with adequate notice if the changes significantly diminish your use of the App under a paid subscription plan. Your continued use of the App after the effective date of such change will constitute your agreement to the changes.
 
-If you have depleted the Monthly +AI Quota, you have two options: either wait for the next monthly automatic refill, or purchase an add-on ("**Powerbank**") if you wish to continue using the Spark +AI feature during the current month. Each Powerbank add-on is a one-time, non-renewable, and non-refundable purchase. You can make unlimited Powerbank purchases each month.
+Spark reserves the right to revise the fees at any time, giving users adequate notice of changes before they become effective. Please note that if your subscription is billed through the Apple App Store or Google Play, the respective platform will notify you of any price adjustments in accordance with their own policies. Your continued use of the App after the effective date of such change will constitute your agreement to pay the updated fees. If you do not agree to pay the updated subscription fees, you can cancel your subscription, and after that, you can continue using the App’s free-of-charge functionality only.
 
-The Spark +AI feature will first take up your Monthly +AI Quota; once it is depleted, it will start consuming your current Powerbank percentage, provided you purchased one.
+### Payment Terms
 
-If you have not depleted your purchased Powerbank(s) during your billing month, the Powerbank(s) will be automatically carried forward to the next month. Please note, if your Premium subscription has expired, you will still be able to use the Spark +AI feature until you have depleted your Powerbank entirely.
+|     |     |
+| --- | --- |
+| **Spark Individual** | **Billing Frequency**<br><br>Subscription fees are billed in advance on a recurring schedule, with billing periods typically established as monthly or annual. |
+| **Stripe Purchases**<br><br>We use Stripe as a third-party payment processor for certain transactions ("Stripe Purchases"). If you purchase a subscription through our website, or via checkout integrated in the desktop App version, as well as those distributed through the Microsoft Store, Huawei App Gallery, your transaction is facilitated by Stripe under the latest [Terms of Service](https://stripe.com/legal/consumer) (or equivalent) and [Privacy Policy](https://stripe.com/privacy). In no case shall Spark be responsible for any personal data processed by Stripe.<br><br>The subscription fee includes applicable VAT and/or other taxes imposed under the relevant tax laws based on your location. |
+| **Apple App Store and Google Play Purchases**<br><br>If you purchase a subscription via the Apple App Store or Google Play, your payment details are processed, and you are charged through the respective platform. <br><br>Please note that your subscription fee will be automatically charged after the end of your then-current subscription period, unless you cancel it in your device settings at least 24 hours before the billing date. |
+| **Setapp Store Subscription**<br><br>Certain Spark subscription plans may be available through your [Setapp](https://setapp.com/) subscription. If you access Spark through Setapp, please note that your payments, renewals and cancellations are processed by and subject to Setapp's own terms and policies. Your license to use Spark is valid only as long as you maintain an active subscription with Setapp. |
+| **Spark Teams** | **Billing Frequency and Prorations**<br><br>Subscription fees are billed in advance on a recurring schedule, with billing periods typically established as monthly or annual.<br><br>The subscription fee is calculated on a monthly basis per the number of active Team Members in accordance with the rates specified on the checkout screen. An active Team Member is a person who has joined your Team via invitation or automatically (based on email domain name). If the number of active Team Members changes during a month, billing adjustments will be made in accordance with [Stripe’s prorations rules](https://docs.stripe.com/billing/subscriptions/prorations). Adding a Team Member will incur a prorated charge for the remainder of the subscription term, while removing a Team Member will result in a prorated credit to your Account balance that automatically offsets future subscription fees and/ or prorations. Please note that upon the deletion of your Team, termination or cancellation of your subscription, any outstanding credits on your Account will be forfeited. The payment for the number of active Team Members that has exceeded the original number as of the initial subscription start date will be charged once per month. If you have any questions regarding prorations, please contact our support at: [support@sparkmailapp.com](mailto:support@sparkmailapp.com). <br><br>Please note that each Team Member has the capacity to invite new Team Members. This action does not require approval from the Team Owner or other Team Member with administrative rights. <br><br>The Team Owner will be notified immediately via email when a new Team Member joins. It is the Team Owner’s responsibility to remove any unapproved Team Members to prevent future charges for that seat. |
+| **Stripe Purchases**<br><br>All payments for Teams subscriptions are facilitated by our third-party payment provider, Stripe. Please note that Teams subscriptions can only be purchased and managed through our Website interface. This is the exclusive method for handling a Teams subscription, even if you have downloaded the App from the Apple App Store or Google Play. Please refer to our [Help Center](https://sparkmailapp.com/help/spark-for-teams/how-to-upgrade-spark-to-premium) for more details.<br><br>For Teams subscriptions, prices are listed exclusive of VAT or any other taxes. Any applicable taxes will be displayed at checkout depending on your location, and you will be responsible for paying all applicable indirect taxes as required by law. |
 
-### Loyalty Package
+By purchasing a subscription via any of the abovementioned means, you agree to be charged for this purchase,  future renewals of your subscription, and, as applicable, Teams subscription prorations. Your payment card will be automatically charged at the applicable renewal rate unless you cancel your subscription before the end of the then-current subscription period.
 
-After the release of a new major update, some features that were earlier presented in the Free subscription may become part of the Premium subscription plan; the Users who started using Spark before the change will retain their access to such Premium features free of charge until they delete their Spark Account and can use the discount on the Premium subscription.
+Please note that if we record a chargeback or other rejection of payment of any due and payable subscription fees charged through Stripe, this will be considered a breach of payment obligations hereunder. We reserve the right to suspend or terminate your access to the Services and/ or your Account at our sole discretion.
 
 ### Subscription Renewal and Cancellation
 
-The subscription will automatically renew for a subsequent term unless you cancel it in the App preferences or by notifying Spark Mail at billing@sparkmailapp.com of non-renewal at least five business days prior to the subscription expiration date.
+Your subscription will automatically renew, and you will be charged a subscription fee for the subsequent subscription period at the then-current rates unless you cancel it at least 24 hours before the billing date.
 
-If you bought the subscription through the third-party app market, more information about how you may be able to manage in-app purchases (or switch off the subscription) using your device may be set out in the app market's terms and conditions or end user license agreement (EULA): 
+You may cancel your subscription at any time; however, cancellation will take effect at the end of the then-current subscription period. This will not terminate your Account, and you will retain access to the App's free-of-charge functionalities after the end of your subscription period.
 
-*   Google Play (for Android devices);
-*   App Store (for Apple devices).
-
-You may cancel your subscription at any time. Upon cancellation, your subscription will last until the expiration date. Note that the paid fees in the Spark Premium Plan for Teams will be prorated in accordance with the number of active users during the subscription period. In such a case your payment method will be charged or your digital Spark Account balance will be refunded with a prorated sum.
-
-If we are unable to charge your credit card on the billing day, we will attempt it several times over the period of 30 days. If payment is unsuccessful, the subscription will be canceled.
+|     |     |
+| --- | --- |
+| **Spark Individual** | The individual subscription purchased through Stripe may be cancelled in your Account settings within the App. <br><br>If you purchased your subscription through the in-app purchase mechanism of the Apple App Store or Google Play, you may cancel it following the instructions of the respective platform. <br><br>Please note that deleting your Account will automatically cancel any individual subscription purchased through Stripe. However, if you subscribed through the Apple App Store or Google Play, you must cancel it manually to avoid future charges. <br><br>Please refer to the Refunds section below to understand the eligibility requirements for a refund. |
+| **Spark Teams** | The Team Owner can cancel the Team subscription manually through the Team settings, or by notifying us at [billing@sparkmailapp.com](mailto:billing@sparkmailapp.com) at least 5 business days prior to the end of the then-current subscription period. |
 
 ### Refunds
 
-All paid subscription fees are non-refundable unless otherwise agreed with Spark Mail in writing or in case of prorated refund as stipulated above. 
+If you have any problems with the functioning of the App, please contact us, and we will make every effort to help you.
 
-If you have any problems with the App functioning, please contact our support team at [support@sparkmailapp.com](mailto:support@sparkmailapp.com) and we will make every effort to help you.
+**Apple App Store and Google Play Purchases**
 
-For any purchases made through third-party app markets (Apple’s App Store, Google Play, etc.), please contact their customer support. Their terms, conditions and policies, and not ours, apply and we do not handle returns or refund requests for purchases through those third-party platform providers.
+Purchases made through the Apple App Store and Google Play may be refunded by contacting these platforms’ support directly and requesting a refund. 
 
-Content and Use License
------------------------
+Please note that the Apple App Store and Google Play process all refund requests according to their own policies and eligibility criteria. Spark has no control over Apple's refund decisions and cannot be held responsible if your request is denied.
 
-The App is owned and managed by Spark Mail or our affiliates. All materials of the App, including text, graphics, information, images, drawings, trademarks, trade dresses, logos, video, sounds, music, software and other materials (including pending and unregistered ones) (collectively, the "Content"), as well as copyright and other intellectual property rights to such Content belong to Spark Mail or its affiliates or is included in the App with the consent of the owner.  
+**Stripe Purchases** 
 
-Subject to your compliance with these Terms and having regard to the terms of the software license laid down above, Spark Mail grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable, worldwide license to:
+An individual subscription purchased through Stripe may be cancelled and refunded **within 30 calendar days** from the date of purchase. To request a refund, please contact us.
 
-*   download, install and use the App on the device(s) that you lawfully own or control in the manner provided for in these Terms for personal non-commercial or internal business purposes;
-*   access and use the Content made available in or through the App and granted by Spark Mail for the purposes laid down in these Terms.
+We will initiate a full refund of the subscription fee paid by you to Spark without undue delay using the same means of payment you used for the initial transaction.
 
-Spark Mail may provide upgrades, modifications, updates, or additions to the App software during the term of this license. The terms of this license shall be applied to any such modification unless it is accompanied by a separate license.
+Please note, however, that if you cancel your subscription after the 30-day period, you will not receive a refund of any portion of the subscription fee paid for the then-current subscription period at the time of cancellation, unless required by law.
 
-It is understood and agreed upon that Spark Mail or its affiliates are the owners of all rights, titles, and interest in and to the original, and any copies of the App software and related information, improvements, enhancements or derivatives thereto and ownership of all intellectual property rights pertaining thereto, in whole or in part, shall be, vest with, and remain the exclusive property of Spark Mail or its affiliates. You, as the licensee, through your downloading, installing, or use of the App do not acquire any ownership rights to the software and its updated versions.
+You acknowledge and agree that any commissions, fees, or charges imposed by your bank or payment system in connection with a refund, including but not limited to transfer or withdrawal fees, are outside of our control and responsibility. We will refund the agreed-upon amount, and we shall not be liable for any reduction in that amount due to such third-party charges.
 
-### Under this license you may not:  
+This refund policy does not apply to Business Customers. All fees associated with business subscriptions are non-refundable.
 
-(i) sell, lease, rent, license, sublicense or otherwise distribute the App software; 
+Ownership and Proprietary Rights
+--------------------------------
 
-(ii) copy, decompile, disassemble, translate or reverse engineer the App software, in whole or in part; 
+_**In brief**_
 
-(iii) write or develop any derivative software, make an attempt to derive the source code of, modify, or create derivative works of the App software, and its updates;
+*   Spark owns the App, the website, and all associated content. 
+*   You own your files, information, and other materials managed through the App.
+*   By submitting your feedback about our App to us directly or via any platform, you grant us the right to use and publicly display the feedback for marketing, advertising, and other purposes.
 
-(iv) provide, disclose, divulge or make available to, or permit the use of the App software by any third party without Spark Mail’s prior written consent;
+### Spark Content
 
-(v) avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Spark Mail or any of Spark Mail's providers or any other third party (including another user) to protect the App;
+The App and the website are owned and managed by Spark or our affiliates. The Service and the materials in the Service, including text, graphics, information, images, designs, drawings, trademarks, logos, videos, sounds, music, software, and other materials (collectively, “**Spark Content**”), as well as the copyright and other intellectual property rights to such Spark Content belong to Spark or our affiliates or is included in the Service with the consent of the owner. For the avoidance of doubt, the Spark Content does not include any materials you upload to or otherwise provide while using the Service.
 
-(vi) reproduce, publish, transmit, distribute, modify, create derivative works or otherwise use the Content for commercial or illegal purposes (including spam) without our prior written permission;
+Subject to your compliance with these Terms and having regard to the terms of the software license laid down above, Spark grants you a limited, non-exclusive, non-sublicensable (except to the Business Customer’s Authorized Users), revocable, non-transferable, and worldwide license to access and use the Spark Content made available in or through the Service and granted by Spark for the purposes outlined in these Terms.
 
-(vii) misuse services for unauthorized and/or unsolicited use of data, for spamming or disseminating fraudulent or harmful content or links to such content.
+You are not allowed to use the Service, the Spark Content or any of its elements in any way not expressly provided for in these Terms without our prior written permission.
 
-Any attempt to do so is considered a violation of these Terms and the rights of Spark Mail. If you violate any of these restrictions, your use of the App will be reviewed and terminated, and you may be subject to legal actions and damages.
+In case you download or copy the Spark Content, no right, title, or interest in any downloaded or copied Spark Content is transferred to you as a result of any such downloading or copying. You are also advised that we are determined to enforce our intellectual property rights to the fullest extent available under the applicable laws, including through civil remedies and criminal prosecution.
 
-Your license to use the App is automatically revoked if you violate these Terms. We hereby reserve all rights not expressly granted in these Terms.
+### User Content 
 
-### User Content
+"**User Content**" means any files, content or information submitted, uploaded, transmitted, or otherwise provided by you to the Service. This includes, without limitation, any prompts, instructions, requests, queries, or other inputs entered by you into the Service, as well as any and all outputs, responses, generations, or results produced by the Service in response to your prompts. As between you and Spark, you own your User Content, as well as any files, data and information you willingly share with us in connection with a customer support request or otherwise, including, but not limited to, pictures, text, videos, sound recordings, and other materials.
 
-Spark Mail allows users to exchange images, text, links, files and other digital items (“User Content”) with their email counterparts.
+Subject to these Terms, you grant us a worldwide, royalty-free, transferable, sub-licensable, limited license to use the User Content solely as necessary to: (a) maintain, improve, and provide the Service, (b) resolve support requests, (c) comply with applicable laws, legal requests or other lawful process, or (d) for any other purpose you expressly authorize in writing.
 
-All User Content people send and share via Spark, including User Content created using the Spark +AI feature, is the sole responsibility of the person from whom said User Content originated.
+Your User Content is processed securely. Our [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) provides details regarding the security measures and our data handling practices.
 
-Spark Mail does not control the User Content sent via Spark, nor does it guarantee the accuracy, integrity or quality of said User Content and accepts no liability for it. 
+All User Content, including that generated by using the AI Features, remains the sole responsibility of the person from whom said content originated. You acknowledge and agree that it is your sole responsibility to create and maintain backup copies of the User Content that you upload, store or manage through the Service.
 
-Although Spark Mail has no obligation to monitor the User Content, we may do so. We may remove any such User Content or prohibit any use of the App we believe may be (or are alleged to be) in violation of the copyright, our policies, policies of our external providers, or other applicable laws at the request of the court, public authorities or persons (individuals and legal entities) authorized to request such deletion.
+Although we have no obligation to monitor the User Content, we may do so. We may remove any such User Content or prohibit any use of the App we believe may be (or are alleged to be) in violation of the copyright, our policies, policies of our external providers, or other applicable laws at the request of the court, public authorities or persons (individuals and legal entities) authorized to request such deletion.
 
 ### Your Feedback
 
-We welcome feedback, reviews, and comments about your experience with our App (collectively "**Feedback**"). By submitting your Feedback to us directly or via any platform, including, but not limited to, online distribution platforms, marketplaces, and social media, you:
+We welcome feedback, reviews, ideas, questions, and comments about your experience with our App or our website (collectively “**Feedback**”). By submitting your Feedback to us directly or via any platform, including, but not limited to, online distribution platforms, marketplaces, and social media, you:
 
-1.  grant us and our affiliates a worldwide, nonexclusive, royalty-free, perpetual, revocable, transferable, assignable and sub-licensable (through multiple tiers) license and right to copy, reproduce, use, modify, adapt, distribute, publish, translate, create derivative works from, distribute, and publicly display, including on-line, such Feedback on our Website, in-app screens, social media accounts, our marketing communications distributed via email or otherwise, and in any other media, including for marketing and advertising purposes, and otherwise exploit such Feedback regardless of when and in what manner it was provided by you. You grant us and our affiliates the right to use and refer to the name or username that you submit in connection with such Feedback. For this reason, we ask that you not submit any Feedback or delete any existing one that you do not wish to license to us as set forth above;
-2.  agree and acknowledge that you are solely responsible for the information in your Feedback;
-3.  represent and confirm that you were not asked, instructed, or commissioned to submit fake or misleading reviews and endorsements or misrepresent your experience with our App;
-4.  represent and warrant that the use of your Feedback does not violate any third party’s rights;
-5.  expressly release and discharge us, our affiliates, sublicensees, successors, and assignees from all liability, claims, and/or demands arising out of or in any way connected to our exercise of the rights granted under the license as discussed in item (a) above, including without limitation, any liability based on rights of publicity, invasion of privacy and other civil rights, moral rights, and copyright infringement.
+*   grant us and our affiliates a worldwide, nonexclusive, royalty-free, perpetual, revocable, transferable, assignable, and sub-licensable (through multiple tiers) license and right to copy, reproduce, use, modify, adapt, distribute, publish, translate, create derivative works from, distribute, and publicly display, including online, such Feedback on our website, in-app screens, social media accounts, our marketing communications distributed via email or otherwise, and in any other media, including for marketing and advertising purposes, and otherwise exploit such Feedback regardless of when and in what manner you provided it. For this reason, we ask that you not submit any Feedback or delete any existing one that you do not wish to license to us as set forth above;
+*   grant us and our affiliates the right to use and refer to the name or username that you submit in connection with the Feedback provided via any third-party platform. For Feedback you submit directly to us, we will only use your name or username with your explicit consent. 
+*   agree and acknowledge that you are solely responsible for the information in your Feedback;
+*   represent and confirm that you were not asked, instructed, or commissioned to submit fake or misleading reviews and endorsements or misrepresent your experience with our Service;
+*   represent and warrant that the use of your Feedback does not violate any third party’s rights;
+*   expressly release and discharge us, our affiliates, sublicensees, successors, and assignees from all liability, claims, and/or demands arising out of or in any way connected to our exercise of the rights granted under the license as provided above, including without limitation, any liability based on rights of publicity, invasion of privacy and other civil rights, moral rights, and copyright infringement.
 
-You can [contact us](https://sparkmailapp.com/help/contact-us-page) to request to refrain from or discontinue our use of your Feedback at any time.
+You can [contact us](#aboutus) to request that we refrain from or discontinue our use of your Feedback at any time.
 
 The Feedback appearing on our website, social media accounts, and marketing, advertising, and other communication reflects the individual experience of those who have used our App. We do not claim, nor should the reader assume, that any individual experience recounted is typical or representative of what any other user might experience.
 
-### AI Features
+AI Features
+-----------
 
-The App may include additional optional features powered by artificial intelligence (“AI Features”), which are based on open-source models, developed in-house at Spark, or facilitated by external AI service providers. For detailed information about the functionality of the AI features and the processing of your data while using them, please refer to our [Privacy Policy for App](https://sparkmailapp.com/legal/privacy-app).
+**_In brief_**
 
-By using the AI Features, you agree and acknowledge that:
+*   The AI Features are provided ‘as is’;
+*   You must comply with all applicable laws and policies of the external AI service providers;
+*   You are solely responsible for your use of the AI Features.
 
-*   The AI Features are provided to you ‘as is’ with no warranties or representations of any kind; 
-*   It is your sole responsibility to ensure your compliance with all applicable laws and regulations in connection to the use of the AI Features and the generated outputs;
-*   The AI Features may generate output that contains inaccurate, unreliable or offensive content and you must evaluate the output before relying on or otherwise using it;
-*   You shall not use the AI Features in a way that infringes, misappropriates or violates any third party rights; 
-*   We may, at our sole discretion, impose limits on the use of the AI Features at any time without notice;
-*   You shall not use the AI Features in a manner that violates the policies of the external AI service provider;
-*   You shall not mislead any person that the output generated by the AI Feature was human-generated;
-*   You shall not use the AI Features to create, train, or improve (directly or indirectly) a similar foundation or large language learning model or other generative artificial intelligence service, reverse engineer, extract, or discover the AI Features’ data, models, model weights, algorithms, safety features, or operation.
+The Service includes features powered by artificial intelligence technologies (“AI Features”), including but not limited to large language models (LLMs), machine learning models, neural networks, and other similar or successor technologies. Such AI Features may rely on open-source models, internally trained or fine-tuned models, or models facilitated by an external AI service provider. For detailed information about the models used and how your data is processed when you are using the Service and the AI Features specifically, please refer to the Privacy Policy.
 
-If you do not agree with any of the foregoing, you must refrain from or discontinue using the AI Features.
+By using the Service, you agree and acknowledge that:
 
-Please note that the AI Features may not be available to users from certain countries or territories due to legal restrictions, such as local rules, regulations or policies of the external AI service providers.
+*   the AI Features are provided to you ‘as is’ with no warranties or representations of any kind;
+*   it is your sole responsibility to ensure your compliance with all applicable laws and regulations in connection with the use of the AI Features and the generated outputs;
+*   the AI Features may generate output that contains inaccurate, unreliable or offensive content, and you must evaluate the output before relying on or otherwise using it;
+*   the AI Features are not intended to provide professional advice. You should seek advice from a qualified professional for any specific needs;
+*   you shall not use the AI Features in a way that infringes, misappropriates or violates any third-party rights;
+*   we may, at our sole discretion, impose limits on the use of the AI Features at any time;
+*   we and/ or the external AI service providers reserve the right to block requests or prevent the delivery of output that is deemed harmful, illegal, or otherwise in violation of applicable usage policies;
+*   you shall not use the AI Features in a manner that violates the policies of the external AI service provider;
+*   you shall not mislead any person that the output generated by the AI Feature was human-generated;
+*   you shall not use the AI Features to create, train, or improve (directly or indirectly) a similar foundation or large language learning model or other generative artificial intelligence service, reverse engineer, extract, or discover the AI Features’ data, models, model weights, algorithms, safety features, or operation.
+
+If you do not agree with any of the foregoing, you must refrain from or discontinue using the Service.
+
+Please note that the AI Features may not be available to users from certain countries or territories due to legal restrictions. These limitations could arise from local rules, regulations, or policies of the external AI service provider.
 
 Third-Party Websites and Services
 ---------------------------------
 
-The App is available for and compatible with third-party websites and services, including, without limitation, the connected email providers, calendars, video communication services and other integrations. We cannot guarantee that any currently supported third-party services will remain compatible with the App software and all features are constantly available and uninterrupted.
+**_In brief_**
 
-You acknowledge that different terms of service and privacy policies may apply to your use of such third-party websites, services and content. Spark Mail shall not be held responsible for any losses, damages or other liabilities incurred as a result of your interaction with those third-party websites and services.
+*   Some functions of the Service rely on third-party services, which we do not control; for this reason, we cannot guarantee the uninterrupted operation of all Service functionality.
 
-With respect to your use of the App through the digital distribution platforms, the providers of such platforms are not a party to an agreement between Spark Mail and a user and do not own and are not responsible for the App in any capacity or manner. Such providers have no obligation to furnish any maintenance and support services, as well as no warranty obligation whatsoever with respect to the App, except, if applicable, to refund the purchase price for it.
+Some functionality and features of the Service rely on or may be compatible with third-party websites and services, including, without limitation, email providers, artificial intelligence services, etc.
 
-Warranties and disclaimers
+We cannot guarantee that any third-party services, whether currently or in the future supported, will remain compatible with the Service or that all features will be constantly available and uninterrupted.
+
+By accepting these Terms, you acknowledge that different terms of service (or equivalent legal documents) and privacy policies may apply to your use of the third-party websites, or services, their respective functionality, and content, and that it is your responsibility to familiarize yourself with such documents. Spark shall not be held responsible for any losses, damages, or other liabilities incurred due to your interaction with third-party websites and services.
+
+We may impose monthly or other limits on the use of features that rely on third-party websites and services. If these limits are exceeded, you may be temporarily unable to access such features until the following period.
+
+Warranties and Disclaimers
 --------------------------
 
-THE APP IS PROVIDED TO YOU "AS IS."
+**_In brief_**
 
-SPARK MAIL WARRANTS THAT THE APP WILL PERFORM IN SUBSTANTIAL ACCORDANCE WITH ITS DOCUMENTATION WITHIN THE PERIOD OF YOUR SUBSCRIPTION. SPARK MAIL DISCLAIMS ALL OTHER WARRANTIES REGARDING THE APP, ITS FEATURES AND CONTENT, TO THE FULLEST EXTENT PERMITTED BY LAW, INCLUDING WITHOUT RESTRICTIONS, GUARANTEES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES OR OTHER RIGHTS.
+*   The Service is provided to you “as is”.
 
-WE ARE NOT MAKING ANY PROMISES OF ANY KIND, INCLUDING ABOUT THE APP’S AND CONTENT’S ACCURACY, USEFULNESS, RELIABILITY AND CORRECT OPERATION. SPARK MAIL DOES NOT GUARANTEE THAT THE APP WILL BE UNINTERRUPTED OR SECURE, THAT ANY DEFECTS WILL BE CORRECTED, OR THAT THE APP IS FREE OF VIRUSES OR ANYTHING ELSE HARMFUL, INCLUDING OTHER USERS’ BEHAVIOR. 
+The Service is provided to you "as is" with respect to its performance, speed, functionality, support, and availability.
 
-If you use a VPN, we can’t guarantee Spark will work properly. The quality of the performance via VPN solely relies on the servers of the VPN network.
+Spark disclaims any warranties regarding the Service, its features, and content to the fullest extent permitted by law, including without limitation, guarantees of merchantability, fitness for a particular purpose, and non-infringement of intellectual property rights of third parties or other rights. 
 
-We provide email-based support 7 days a week (from Monday till Friday: from 9 AM to 11:30 PM (GMT+3); from Saturday to Sunday: from 9 AM to 6 PM (GMT+3)). Please use our [Help Center](https://sparkmailapp.com/help) or contact [support@sparkmailapp.com](mailto:support@sparkmailapp.com), if you have any problems with the App functioning. If you subscribed to the Premium plan, your requests will be considered a priority.
+Please note that maintaining access to and optimal use of the Services or a particular feature may require the use of supported operating systems and devices. We do not guarantee the availability and correct operation of the Service or particular features on operating systems or hardware that are no longer officially supported by their respective manufacturers, or are otherwise deemed deprecated, legacy, or obsolete. 
+
+We are not making any promises, including about the Service’s accuracy, usefulness, reliability, data integrity and correct operation. Spark does not guarantee that the Service will be uninterrupted or secure, that any defects will be corrected, or that the Service is free of viruses or anything else harmful.
 
 Limitation of Liability
 -----------------------
 
-**Spark Mail** is not responsible if any information, materials, or content available through the App are inaccurate or incomplete, including because of the user’s change of settings and/or filters in his/her mailing service.
+**_In brief_**
 
-You are solely responsible for the legality of your actions within the App and your use of the App in accordance with the laws and regulations applicable to you.
+*   You are responsible for your use of the Service in compliance with these Terms and any applicable laws and regulations.
+*   This section limits Spark’s liability, so please read it carefully to understand what to expect.
 
-In no event shall Spark Mail, its subsidiaries, directors, partners, employees, contractors or agents be liable for indirect, incidental, special, punitive or consequential damages, related to any use or inability to use the App, including, without limitation, any damages, caused as a result of the use of the information provided through the App or by mistakes, omissions, interruptions, defects, viruses, loss of data or documents, even if Spark Mail has been advised of the possibility of such damages. Spark Mail disclaims any liability for acts, willful misconduct, negligence, or omissions of other users that use the App. 
+We shall not accept responsibility if any information, materials, or content available through the Service is inaccurate or incomplete.
 
-You understand and agree that new versions of Spark may have changes or restricted functionality compared to previous versions. Spark Mail reserves the right to rename particular functions, introduce new functionality or revoke previously available functions. You will be notified of the existence of a new version by Spark Mail. 
+You are solely responsible for the legality of your actions within the Service and your use of the Service or its particular features and functionality, including, but not limited to, AI Features and Meeting Notes functionality, under the laws and regulations applicable to you and for your compliance with the terms of service (or equivalents) and privacy policies of the third-party websites and services (if applicable to your use of the Service).
 
-The foregoing limitations of liability do not apply to the extent prohibited by law.
+In no event shall Spark, its affiliates, directors, partners, employees, contractors, or agents be liable for indirect, incidental, special, punitive, or consequential damages arising out of or in any way connected with any use or inability to use the Service. Examples of such damages include, but are not limited to, loss of, or damage to data, damages arising from the use of information provided or obtained through the Service, and those resulting from errors, omissions, interruptions, defects, or viruses, even if Spark had been advised of their possibility.
 
-If any part of the warranty disclaimers or limitations of liability is found to be invalid or unenforceable for any reason or if we are otherwise found to be liable to you in any manner, then our aggregate liability for all claims under such circumstances for liabilities, shall not exceed the total amount of payments made by you to Spark Mail within 6 months preceding the claim. This limitation is cumulative and will not be increased by the existence of more than one incident or claim.
+The preceding limitations of liability do not apply to the extent prohibited by law.
+
+If any part of the warranty disclaimers or limitations of liability is found to be invalid or unenforceable for any reason or if we are otherwise found to be liable to you in any manner, then our aggregate liability for all claims under such circumstances shall not exceed the total amount of payments made by you to Spark within one year preceding the claim.
 
 Indemnification
 ---------------
 
-You agree to defend, indemnify and hold harmless Spark Mail, our subsidiaries, directors, partners, employees, contractors and agents from and against any and all claims, responsibility, damages, losses, and expenses, including reasonable legal and accounting expenses, arising from (i) any breach by you of any of these Terms, (ii) your use/misuse of the App, or (iii) a violation by you of applicable law, third party’s intellectual property or other rights, any agreement or terms with a third party to which you are subject.
+**_In brief_**
 
-We reserve the right to handle our legal defense however we see fit, including instances when you are indemnifying us. Therefore, you agree to cooperate with us so we execute our strategy.
+*   If you violate these Terms, misuse the Service, or violate any law or third party’s rights, you agree to indemnify and defend Spark.
+
+You agree to defend, indemnify, and hold harmless Spark, our subsidiaries, directors, partners, employees, contractors, and agents from and against any claims, responsibility, damages, losses, and expenses, including reasonable legal and accounting expenses arising from:
+
+*   any breach by you of any of these Terms;
+*   your use/misuse of the Service; or
+*   a violation by you of applicable law, third party’s intellectual property or other rights, any agreement or terms with a third party to which you are subject.
+
+We reserve the right to handle our legal defense however we see fit, including instances when you indemnify us. You agree to cooperate with us in the execution of our legal defense strategy.
 
 Applicable Law and Jurisdiction
 -------------------------------
 
-Except as otherwise set forth in these Terms or any policies, these Terms shall be exclusively governed by and construed in accordance with the laws of the Republic of Ireland, excluding its rules on conflict of laws. 
+**_In brief_**
 
-If any material in the App, or your use of the App, is contrary to the laws of the place where you are when you access it, the App is not intended for you, and we ask you not to use it. You are responsible for informing yourself of the laws of your jurisdiction and any data protection laws applicable to you and complying with them.
+*   These Terms are governed by the laws of the Republic of Ireland. 
+*   We hope to resolve all the issues by amicable means, but if a serious dispute arises between us, it must be resolved in the national courts of the Republic of Ireland.
 
-Except where prohibited by applicable law, and without limitation to any statutory rights of consumers, you agree that any dispute, conflict, claim or controversy directly or indirectly arising out of in connection with or relating to the App or these Terms, including, without limitation, those relating to its validity, its construction or its enforceability shall be resolved by means of amicable negotiations directly with Spark Mail team in accordance with the principles of good faith and cooperation.
+These Terms are exclusively governed by and construed under the laws of the Republic of Ireland, without regard to any conflict of laws provisions.
 
-If a consensus may not be reached by the negotiations, the dispute shall be settled exclusively in the national courts of the Republic of Ireland, subject to its jurisdiction rules, with the applicable substantive law of the Republic of Ireland.
+If the user is a U.S. city, town, county, district, or state governmental entity, then the Terms will be silent regarding governing law and venue.
 
-You can also try to settle the dispute out of court using an alternative dispute resolution procedure and submit your complaint online via the [online dispute resolution (ODR) platform](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN).
+If any material in the Service, or your use of it, is contrary to the laws of the place where you are when you access it, the Service is not intended for you, and we ask you not to use it. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.
 
-All claims shall be brought within one (1) year after the claim arises, except to the extent a longer period is required by applicable law.
+Except where prohibited by applicable law, and without limitation to any statutory rights of consumers, you agree that any dispute, conflict, claim, or controversy directly or indirectly arising out of, or in connection with, or relating to the Service or these Terms, including, without limitation, those relating to its validity, its construction or its enforceability shall be resolved through amicable negotiations directly with the Spark team following the principles of good faith and fair cooperation.
+
+If we cannot reach a consensus through negotiations, the dispute shall be settled exclusively in the national courts of the Republic of Ireland, subject to its jurisdiction rules, with the applicable substantive law of the Republic of Ireland.
+
+All claims shall be brought within one year after the claim arises, except to the extent a more extended period is required by applicable law.
 
 Electronic Communications
 -------------------------
 
-By using the App and providing us with your contact information, you understand and agree that we may send you electronic communications via email or push notifications regarding, without limitation, (i) incoming messages; (ii) your use of the App; (iii) updates of the App and these Terms; or (iv) subscriptions, transactions and cancellations under these Terms.
+**_In brief_**
 
-Note, however, that some email messages may be more "commercial" in nature than others, as they may advertise our services or offers in which we believe you may be interested. You may unsubscribe from receiving these emails from us by following the instructions provided in such communications.
+*   We may communicate with you via email, in-app notifications or postings within the Service.
 
-You can read more about the rules of personal data processing in our Privacy Policy for the [Website](https://sparkmailapp.com/legal/privacy-web) and the [App](https://sparkmailapp.com/legal/privacy-app).
+Any notices or other communications, including those regarding modifications to these Terms, will be given to you via (i) email to the address associated with your Account, (ii) in-app screens and notifications within the Service, or (iii) postings within the Service or your Account. You agree that any electronic notification delivered through these means satisfies all applicable legal requirements for written notice.
 
 Termination
 -----------
 
-### Termination by Spark Mail 
+**_In brief_**
 
-We reserve the right, at any time at our sole discretion, to: modify, suspend or discontinue the App, Content, feature, or offers through the App. You agree that we shall not be liable to you or to any third party should any of the foregoing occur with respect to the App. 
+*   You may discontinue using the Services at any time.
+*   We can terminate your access to the App if you violate these Terms.
+*   We will not provide any refunds except as set forth in these Terms.
 
-Spark Mail reserves the right to take whatever lawful actions it may deem appropriate in response to actual or suspected violations of these Terms, including, without limitation, the suspension or termination of your license and access to the App. 
+### Termination by You
 
-Spark Mail may cooperate with legal authorities and/or third parties in the investigation of any suspected or alleged crime or civil wrong. 
+You may cease using the App at any time. Please note that when you delete the App on your device with an active recurring subscription, it does not automatically cancel the subscription. To avoid future charges, you must manually cancel it as outlined in the [Subscription Renewal and Cancellation](#subscriptionrenewal) section above.
 
-### Termination by you
+For information on whether you are eligible for a refund, please refer to the [Refunds](#refunds) section of these Terms.
 
-You may terminate this agreement with Spark Mail at any time by deleting and no longer accessing or using the App, unless you have an active subscription. If you have an active recurring subscription, you must manually cancel it. If you terminate this agreement, all permissions and licenses granted to you in these Terms will immediately terminate without Spark Mail’s obligation to provide any refunds.
+### Termination by Spark
 
-Either Party may terminate these Terms if the other Party [becomes bankrupt](https://www.lawinsider.com/clause/termination-for-bankruptcy?cursor=CmMSXWoVc35sYXdpbnNpZGVyY29udHJhY3Rzcj8LEhZDbGF1c2VTbmlwcGV0R3JvdXBfdjI5IiN0ZXJtaW5hdGlvbi1mb3ItYmFua3J1cHRjeSMwMDAwMDAxNAyiAQJlbhgAIAA%3D) or insolvent, or enters into reorganization or liquidation procedure whether compulsorily or voluntarily, or in case of the other Party’s merger or acquisition (if applicable), upon the effective date of the merger or acquisition.
+We may suspend or terminate your Account and/ or access to the Service if we reasonably believe you are in breach of these Terms or any applicable laws. We will provide you with a reasonable prior notice to allow you to back up your User Content and, where possible, remedy the breach. If you fail to take the requested actions within the period indicated in such notice, we will suspend or terminate your Account and/ or access to the Service.
 
-Other terms
------------
+If we reasonably believe that you are in a material breach of these Terms, including, but not limited to, any violation of the Acceptable Use section above, we reserve the right to immediately suspend or terminate your Account and/ or access to the Service without any notice to you. 
 
-We may transfer our rights and obligations under these Terms to a third party (for example, providers of cloud or marketing services), but this will not affect your rights or our obligations under these Terms. 
+In the event of any suspension or termination due to your breach, you agree that you will not be entitled to a refund for any fees paid for any unused portion of your subscription, and we will have no further liability or obligation to you.
 
-We reserve the right, at any time at our sole discretion, to modify these Terms. In the case of material changes affecting your use of the App, we’ll notify you prior to the changes’ effective date by sending you an email or push notifications. If you continue to use the App, you agree to the updated version of these Terms.
+To maintain service performance and ensure an efficient experience for our active users, we may terminate Accounts without an active paid subscription that have experienced a period of inactivity of more than 36 months and/ or remove the associated User Content. We will make reasonable efforts to notify you before any removal.
 
-If any provision of these Terms is determined to be unlawful, void or unenforceable, the remaining provisions of these Terms will continue to be fully valid and enforceable.
+Spark reserves the right to take whatever legal actions we may deem appropriate in response to actual or suspected violations of these Terms. We will cooperate with legal authorities and/or third parties to investigate any suspected or alleged crime or civil wrong.
 
-A printed version of these Terms shall be admissible in judicial or administrative proceedings based on or relating to the use of the App to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+Miscellaneous
+-------------
 
-### PLEASE NOTE!
+We reserve the right to transfer our rights and obligations under these Terms to a third party, but this will not affect your rights or our obligations under these Terms.
 
-We do not provide our services and access to our products to new customers from Russia and Belarus. 
+We reserve the right to modify these Terms at any time at our sole discretion. If material changes affect your use of the Service, we’ll notify you before the changes’ effective date by means described in [Electronic Communications and Notices](#electroniccommunications) section above. If you continue to use the Service, you agree to the updated version of these Terms.
 
-Existing customers in Russia, Belarus retain access to the app they have installed, but without new updates and customer support.
+If any provision of these Terms is recognized unlawful, void, or unenforceable by a relevant authority, the remaining provisions will remain valid and enforceable.
 
-We do not engage in any business with companies that are owned by or affiliated with Russian or Belarusian residents.
+A printed version of these Terms shall be admissible in judicial or administrative proceedings based on or relating to the use of the Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
-We do not engage in business with companies that support the Russian aggression in Ukraine.
-
-Questions and Contact Information
----------------------------------
-
-If you have any questions or comments about these Terms of Service or the App, please contact us by:
-
-[support@sparkmailapp.com](mailto:support@sparkmailapp.com)
-
-Our support team is happy to assist you in any matter. We sincerely ask you to be polite and calm in your communication. Otherwise, we will not be able to respond to emails containing offensive or abusive language.
-
-**Spark Mail Limited**  
-Registration number: 630862, VAT: IE 3560874UH  
-Address: Glandore Business Centres, 26-27 Fitzwilliam Place, Fitzwilliam Hall, Dublin 2, D02T292, Ireland
+Our support team is happy to assist you. We kindly ask you to be polite in your communication with us. We may not respond to offensive emails or messages.
