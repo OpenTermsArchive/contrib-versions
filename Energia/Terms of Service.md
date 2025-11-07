@@ -672,7 +672,7 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
   
 [View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-\(1\).pdf)  
   
-[View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/d0cd525f-db11-4acc-9eea-1084fb7504ef/Future-Homes-Competition-Terms-and-Conditions-final.docx)
+[View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/41dbba6d-33ed-44ae-a97a-88a0ee13e666/Future-Homes-Competition-Terms-and-Conditions-final.pdf)
 
 ### 
 
