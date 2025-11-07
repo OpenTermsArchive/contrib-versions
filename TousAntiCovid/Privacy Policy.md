@@ -408,7 +408,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -428,12 +428,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -668,7 +668,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -688,12 +688,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -1231,7 +1231,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -1251,12 +1251,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -1491,7 +1491,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -1511,12 +1511,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -2026,7 +2026,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -2046,12 +2046,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -2286,7 +2286,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -2306,12 +2306,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -2758,7 +2758,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -2778,12 +2778,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -3188,7 +3188,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -3208,12 +3208,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -3618,7 +3618,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -3638,12 +3638,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -4048,7 +4048,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4068,12 +4068,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -4478,7 +4478,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4498,12 +4498,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -4908,7 +4908,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4928,12 +4928,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -5150,7 +5150,7 @@ Retour
 
 *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
 *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-*   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+*   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
 
 *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
 *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
@@ -5163,7 +5163,7 @@ Retour
 *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
 
 *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+*   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
 *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
 Recherche 
@@ -5396,7 +5396,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -5416,12 +5416,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -5654,7 +5654,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -5674,12 +5674,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -5912,7 +5912,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -5932,12 +5932,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -6170,7 +6170,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -6190,12 +6190,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -6428,7 +6428,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -6448,12 +6448,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -6686,7 +6686,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -6706,12 +6706,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -6944,7 +6944,7 @@ Recherche
             
             *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
             *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-            *   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            *   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
             
     
     *   *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -6964,12 +6964,12 @@ Recherche
             *   [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
             *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
-        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+        *   [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/le-service-public-d-information-en-sante-spis/)
     
     *   *   [Numérique en santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/)
             
             *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-            *   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+            *   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
             *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
@@ -7123,7 +7123,7 @@ Retour
 
 *   [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
 *   [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
-*   [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+*   [Programmes Ségur Numérique](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sun-es)
 
 *   [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
 *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
@@ -7136,7 +7136,7 @@ Retour
 *   [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
 
 *   [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/mon-espace-sante/)
-*   [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
+*   [Programmes numériques hospitaliers](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/sih/)
 *   [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/numerique-en-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
 *   [Accueil](http://sante.gouv.fr/) >
