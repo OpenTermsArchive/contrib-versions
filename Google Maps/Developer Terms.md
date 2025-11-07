@@ -763,6 +763,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                  
              *   Réseau urbain TBM. ([https://transport.data.gouv.fr/datasets/offres-de-services-bus-et-tramway-gtfs](https://transport.data.gouv.fr/datasets/offres-de-services-bus-et-tramway-gtfs))
                  
+             *   L'Open Data de La Réunion. ([https://data.regionreunion.com/explore/dataset/rrn\_graphe\_arc/information/?disjunctive.nature&disjunctive.numero&sort=-id\_graphe](https://data.regionreunion.com/explore/dataset/rrn_graphe_arc/information/?disjunctive.nature&disjunctive.numero&sort=-id_graphe), [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf))
+                 
          *   Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
              
              *   Région Bourgogne-Franche-Comté - Mobigo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/))
@@ -2804,6 +2806,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento, AGESIC (UY): [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/) Licensed under Open Data License - Uruguay Credited for Political Admin Areas
              
          *   Infraestructura de Datos Espaciales: [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)
+             
+         *   Uruguayan Post Office- Catálogo de Datos Abiertos, Postal Codes, Licencia de Datos Abiertos – Uruguay - Version 0.1: [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)
              
     74.  **Worldwide**
          *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
