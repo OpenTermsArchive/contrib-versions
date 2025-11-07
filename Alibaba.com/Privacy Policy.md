@@ -5,7 +5,7 @@ Alibaba.com Privacy Policy
 
 (Last Updated: May 30, 2025)
 
-Note: This Privacy Policy applies to Users outside of Mainland China (registered country/region other than “Mainland China”) who are provided with various products and services through websites, apps, and new forms emerging with technological development by Alibaba.com. This Privacy Policy does not apply to Users within Mainland China (registered country/region as “Mainland China”). For Chinese Users, please click [here](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=11000427&cId=1262#/rule/detail?cId=1262&ruleId=11000427)to review our privacy policy for Chinese sellers.
+Note: This Privacy Policy applies to Users outside of Mainland China and South Korea (registered country/region other than “Mainland China” and “South Korea”) who are provided with various products and services through websites, apps, and new forms emerging with technological development by Alibaba.com. In other words, this Privacy Policy does not apply to Users within Mainland China and South Korea (registered country/region as “Mainland China” and “South Korea”). For Users from the two (2) jurisdictions, the applicable privacy policies are as follows: • Mainland China Users: Please click here to review the relevant privacy policy. • South Korea Users: Please click here to review the relevant privacy policy.
 
 1.
 
@@ -74,9 +74,9 @@ We at Alibaba.com and its national sites (collectively “Alibaba.com”, the �
 
 The controllers of your personal information are the legal entities set out in section 14\. “HOW TO CONTACT US”.
 
-This Alibaba.com Privacy Policy (“Privacy Policy”) sets out how we collect, process and disclose information in connection with the operation of the Platform for visitors (i.e., non-registered Platform Users) and the Users based outside of China (“you”) including personal information about the visitors and, representatives and employees of the Users. This Privacy Policy also applies to your use of the Platform via a mobile device, either through mobile applications or mobile-optimized websites. For the avoidance of doubt, since the national sites of Alibaba.com (which include but not limited to Alibaba.uk) and Alibaba.com itself share the same data controllers and engage in the same data processing activities, if you are a user of such national sites, you may also refer to this Privacy Policy to understand how your personal information is processed.
+This Alibaba.com Privacy Policy (“Privacy Policy”) sets out how we collect, process and disclose information in connection with the operation of the Platform for visitors (i.e., non-registered Platform Users) and the Users based outside of Mainland China and South Korea (“you”) including personal information about the visitors and, representatives and employees of the Users. This Privacy Policy also applies to your use of the Platform via a mobile device, either through mobile applications or mobile-optimized websites.This Privacy Policy also applies to your use of the Platform via a mobile device, either through mobile applications or mobile-optimized websites. For the avoidance of doubt, since the national sites of Alibaba.com (which include but not limited to Alibaba.uk) and Alibaba.com itself share the same data controllers and engage in the same data processing activities, if you are a user of such national sites, you may also refer to this Privacy Policy to understand how your personal information is processed.
 
-If you are from China, please refer [here](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=11000427&cId=1262#/rule/detail?ruleId=11000427&cId=1262&activekey=O.%C2%A0%C2%A0+%C2%A0%E5%85%B6%E4%BB%96%C2%A0-1)to find out more about how we process your personal information. If you are from European Union or the United Kingdom, specific disclosures can be found in “7\. USERS FROM EUROPEAN UNION AND THE UNITED KINGDOM”. If you are from the United States, specific disclosures can be found in “8\. USERS FROM THE UNITED STATES” and in “Alibaba.com Privacy Policy Addendum for U.S. Residents”. If you are from California, specific disclosures, including “Notice at Collection” details, can also be found in “Alibaba.com Privacy Policy Addendum for U.S. Residents”. If you are from Brazil, specific disclosures can be found in “9\. USERS FROM BRAZIL”.
+Depending on where you come from, a different privacy policy or certain specific disclosures in this Privacy Policy may apply to you as follows: • If you are from Mainland China, please refer here to find out more about how we process your personal informationfor the relevant privacy policy. • If you are from South Korea, please refer here for the relevant privacy policy. • If you are from European Union or the United Kingdom, specific disclosures can be found in section “7. USERS FROM EUROPEAN UNION AND THE UNITED KINGDOM”. • If you are from the United States, specific disclosures can be found in section “8. USERS FROM THE UNITED STATES” and in “Alibaba.com Privacy Policy Addendum for U.S. Residents”. If you are from California, specific disclosures, including “Notice at Collection” details, can also be found in “Alibaba.com Privacy Policy Addendum for U.S. Residents”. • If you are from Brazil, specific disclosures can be found in section “9. USERS FROM BRAZIL”.
 
 For details of the personal information that we collect when you use or interact with other Alibaba services, please refer to the applicable privacy policy for those services.
 
@@ -454,30 +454,6 @@ You can click [here](https://myprivacy.alibaba.com/home#/)to exercise your right
 If you are a registered member of the Platform, and you are from Hong Kong Special Administrative Region (“Hong Kong”), Macao Special Administrative Region (“Macao”) or Taiwan Region of China (“Taiwan”), you are contracting with Alibaba.com Hong Kong Limited (incorporated in Hong Kong Special Administrative Region with Reg. No. 0689778).
 
 If you are a registered member of the Platform, and you are from other locations outside of mainland China, Hong Kong, Macao or Taiwan, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
-
-Korean Domestic Privacy Representative
-
-If you are Users or regulators in South Korea, you may reach out to us via the mechanisms set out above or contact our following Korean Domestic Privacy Representative:
-
-●
-
-Company Name: Alibaba.com Korea E-Commerce Private Limited
-
-●
-
-Address: 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631
-
-●
-
-Representative: Marco Yang
-
-●
-
-Telephone number: 02-2193-4206
-
-●
-
-E-mail: korea\_privacyagent@service.alibaba.com
 
 15.LANGUAGE 
 ============
