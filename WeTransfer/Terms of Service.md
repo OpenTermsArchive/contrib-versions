@@ -27,7 +27,7 @@ If your usual residence is outside the United States of America, [these Terms of
 Terms of Service - United States of America
 ===========================================
 
-Last update: November 7, 2025. Effective as of August 8, 2025, unless you are a new user.
+Last update: November 7, 2025.
 
 If your usual residence is in the United States of America
 
