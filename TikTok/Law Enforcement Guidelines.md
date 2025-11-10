@@ -11,6 +11,8 @@ In line with our [human rights statement](https://www.tiktok.com/transparency/en
 
 To achieve this, in addition to these Guidelines, TikTok has internal policies and procedures governing how TikTok handles and responds to law enforcement requests. These procedures are informed by legal and human rights standards and have been developed in a way that seeks to limit adverse human rights impacts, while enabling TikTok to comply with legitimate, valid legal requests from law enforcement (including regulatory authorities, where relevant) to disclose user data.
 
+If your request relates to TikTok Shop data, please refer to: [https://www.tiktok.com/legal/shop-law-enforcement-regulatory-disclosure-guidelines](https://www.tiktok.com/legal/shop-law-enforcement-regulatory-disclosure-guidelines)
+
 We reject requests which go against our policies and procedures.
 
 ### **1\. Basic Requirements**
