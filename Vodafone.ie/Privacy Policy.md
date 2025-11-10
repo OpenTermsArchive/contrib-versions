@@ -1246,6 +1246,36 @@ We cannot accept responsibility for any unauthorised access or loss of personal 
 
 We’ll never ask for your secure personal or account information by an unsolicited means of communication. You’re responsible for keeping your personal and account information secure and not sharing it with others.
 
+### Mobile
+
+Every time you use your mobile phone, a record is kept. This includes the number you called or sent a text or picture message to, the length, date and time of a call, text or picture message and your approximate location at the time that the communication takes place (based on the location of the nearest cell that you sent that call or message from). The same is also recorded every time you receive an incoming call or message. We don’t, however, keep a record of the content of your calls or messages.
+
+We’ll also keep a record of the data you use. This will record things like how much you spend in or out of bundle, or in an app, to enable us to charge you the right amount on your next bill as well as other things such as alerting you if you are close to your usage limit, fix faults and send you service messages. We don’t keep a record of the content of any messages you send using your data.
+
+As part of providing the service, we need to understand and manage traffic flows on the network. So this also means we require information about your data usage. This includes capturing IP addresses and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps you use including location data. Having this information also means that we’re able to provide you with services that you request and work to improve them.
+
+Capturing the websites you’ve visited doesn’t mean that we will have a history of your web-browsing as this is limited for a short real time period to enable the connection to be made. Details about websites visited may be stored for analytical purposes, such as counting the amount of times a specific web URL is visited, but this is only captured in a generic format and cannot be linked back to individual customers. For more information on your browsing history, see our [Cookies Policy](#cookies).
+
+To help us provide you with services and work to improve them, we need to understand how you use your mobile. This means that we’ll have certain information about your device such as its make and model, the device ID, which operating system it uses, and if you’re using 3G or 4G.
+
+It’s important to flag to you that third-party content providers like Spotify, and Sky Sports will have their own terms of use, and privacy and cookies policies that apply to you when you access their content on your mobile. Make sure you’re familiar with these and understand how they use your information before downloading or using their services.
+
+### Phone
+
+When you use your phone a record is kept of the call traffic details , which is the time and date of the call, the number called and the duration of the call. We do not record the content of the call.
+
+### Home broadband
+
+As part of providing this service, we need to understand and manage traffic flows on the network.
+
+To do this, we need information about your broadband usage. This includes capturing IP addresses and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps that you use. Having this information means we’re able to provide you with services that you request and work to improve them.
+
+Capturing the websites you’ve visited doesn’t mean that we will have a history of your web-browsing as this is limited for a short real time period to enable the connection to be made. Details about websites visited may be stored for analytical purposes, such as counting the amount of times a specific web URL is visited, but this is only captured in a generic format and cannot be linked back to individual customers. For more information on your browsing history, see the [cookies policy](#cookies).
+
+For more information on using apps, see the app section above.
+
+It’s important to flag that third-party content providers such as Spotify and Sky Sports will have their own terms of use and privacy and cookies policies that apply when you access their content using broadband. Make sure you’re informed on these and understand how your information is used before downloading or using their services.
+
 ### Gigabit Smart Services
 
 ### Who's Home
@@ -1325,36 +1355,6 @@ Vodafone’s Who’s Home service is provided solely by Vodafone Ireland Limited
 Contact details
 
 If you have any queries in any aspect of this privacy supplement, please contact [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
-
-### Mobile
-
-Every time you use your mobile phone, a record is kept. This includes the number you called or sent a text or picture message to, the length, date and time of a call, text or picture message and your approximate location at the time that the communication takes place (based on the location of the nearest cell that you sent that call or message from). The same is also recorded every time you receive an incoming call or message. We don’t, however, keep a record of the content of your calls or messages.
-
-We’ll also keep a record of the data you use. This will record things like how much you spend in or out of bundle, or in an app, to enable us to charge you the right amount on your next bill as well as other things such as alerting you if you are close to your usage limit, fix faults and send you service messages. We don’t keep a record of the content of any messages you send using your data.
-
-As part of providing the service, we need to understand and manage traffic flows on the network. So this also means we require information about your data usage. This includes capturing IP addresses and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps you use including location data. Having this information also means that we’re able to provide you with services that you request and work to improve them.
-
-Capturing the websites you’ve visited doesn’t mean that we will have a history of your web-browsing as this is limited for a short real time period to enable the connection to be made. Details about websites visited may be stored for analytical purposes, such as counting the amount of times a specific web URL is visited, but this is only captured in a generic format and cannot be linked back to individual customers. For more information on your browsing history, see our [Cookies Policy](#cookies).
-
-To help us provide you with services and work to improve them, we need to understand how you use your mobile. This means that we’ll have certain information about your device such as its make and model, the device ID, which operating system it uses, and if you’re using 3G or 4G.
-
-It’s important to flag to you that third-party content providers like Spotify, and Sky Sports will have their own terms of use, and privacy and cookies policies that apply to you when you access their content on your mobile. Make sure you’re familiar with these and understand how they use your information before downloading or using their services.
-
-### Phone
-
-When you use your phone a record is kept of the call traffic details , which is the time and date of the call, the number called and the duration of the call. We do not record the content of the call.
-
-### Home broadband
-
-As part of providing this service, we need to understand and manage traffic flows on the network.
-
-To do this, we need information about your broadband usage. This includes capturing IP addresses and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps that you use. Having this information means we’re able to provide you with services that you request and work to improve them.
-
-Capturing the websites you’ve visited doesn’t mean that we will have a history of your web-browsing as this is limited for a short real time period to enable the connection to be made. Details about websites visited may be stored for analytical purposes, such as counting the amount of times a specific web URL is visited, but this is only captured in a generic format and cannot be linked back to individual customers. For more information on your browsing history, see the [cookies policy](#cookies).
-
-For more information on using apps, see the app section above.
-
-It’s important to flag that third-party content providers such as Spotify and Sky Sports will have their own terms of use and privacy and cookies policies that apply when you access their content using broadband. Make sure you’re informed on these and understand how your information is used before downloading or using their services.
 
 ### Vodafone TV
 
