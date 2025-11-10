@@ -62,7 +62,7 @@ Other languages:
 *   [shqip](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sq "Policy:Privacy policy/sq (10% translated)")
 *   [sicilianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/scn "Policy:Privacy policy/scn (6% translated)")
 *   [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sl "Policy:Privacy policy/sl (41% translated)")
-*   [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (87% translated)")
+*   [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (100% translated)")
 *   [svenska](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sv "Policy:Privacy policy/sv (64% translated)")
 *   [toki pona](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tok "Policy:Privacy policy/tok (4% translated)")
 *   [čeština](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cs "Policy:Privacy policy/cs (90% translated)")
