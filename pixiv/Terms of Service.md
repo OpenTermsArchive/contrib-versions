@@ -716,30 +716,28 @@ Revisions
 Restrictions for Healthy Expression in Specific Countries and Regions
 =====================================================================
 
-In using the Services, Users must comply with the various laws and regulations applicable in their country or region. Actions that violate the laws and regulations of any country are not permitted when using the Services. The actions listed below are examples of prohibited activities; however, these are not the only actions that the Company may deem prohibited. Additionally, these restrictions may be modified at the discretion of the Company in response to changes in society or the environment, or to amendments in laws and regulations.
+In using the Services, Users must comply with the various laws and regulations applicable in the country or region they are using the Services from. Actions that violate the applicable laws and regulations of that country or region (hereinafter referred to as "Violations") are not permitted when using the Services. To prevent or prohibit such Violations by Users, the Company may make posted information that violates local laws and regulations inaccessible in the corresponding country or region. The actions listed below are Violations under the applicable laws and regulations of specific countries or regions; however, these are not the only Violations that the Company may deem prohibited. Additionally, these restrictions may be modified at the discretion of the Company in response to changes in society or the environment, or to amendments in laws and regulations.
 
-United States
--------------
+Australia, Canada, European Union, New Zealand, United Kingdom, and United States
+---------------------------------------------------------------------------------
 
-1.  post any content that depicts or involves the exploitation of any person under 18 years of age (or older in any other location in which 18 is not the minimum age of majority), whether real or simulated (included AI-generated).
-2.  post any content that appears to depict or involve a minor engaged in graphic bestiality, sadistic or masochistic abuse, or sexual intercourse.
-3.  post any content depicting non-consensual sexual activity (including “deepfake” images), revenge porn, blackmail, intimidation, snuff, torture, death, violence, incest, racial slurs, or hate speech, (either orally or via the written word).
-4.  post any content that is obscene, illegal, unlawful, fraudulent, defamatory, libelous, abusive, lewd, invasive of personal privacy or publicity rights, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.
-5.  post any content that appeals to the prurient interest, is patently offensive in light of community standards where you are located or where such content may be accessed or distributed, lacks serious literary, artistic, political, or scientific value, or otherwise violates any applicable obscenity laws, rules or regulations.
-
-United Kingdom
---------------
-
-1.  post any content that depicts or involves the exploitation of any person under 18 years of age (or older in any other location in which 18 is not the minimum age of majority), whether real or simulated (included AI-generated).
-2.  post any content that appears to depict or involve a minor engaged in graphic bestiality, sadistic or masochistic abuse, or sexual intercourse.
-3.  post any content depicting non-consensual sexual activity (including “deepfake” images), revenge porn, blackmail, intimidation, snuff, torture, death, violence, incest, racial slurs, or hate speech, (either orally or via the written word).
-4.  post any content that is obscene, illegal, unlawful, fraudulent, defamatory, libelous, abusive, lewd, invasive of personal privacy or publicity rights, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.
-5.  post any content that appeals to the prurient interest, is patently offensive in light of community standards where you are located or where such content may be accessed or distributed, lacks serious literary, artistic, political, or scientific value, or otherwise violates any applicable obscenity laws, rules or regulations.
+1.  Posting or otherwise sharing any posted information that depicts or involves the exploitation of any person, whether real or simulated (including AI-generated), whose age is below the greater of the following:
+    1.  18 years old
+    2.  The age of majority in the User's applicable country or region
+2.  Posting or otherwise sharing any posted information that appears to depict or involve a minor engaged in graphic bestiality, sadistic or masochistic abuse, or sexual intercourse.
+3.  Posting or otherwise sharing any posted information depicting non-consensual sexual activity (including “deepfake” images), revenge porn, blackmail, intimidation, snuff, torture, death, violence, incest, racial slurs, or hate speech.
+4.  Posting or otherwise sharing any posted information that is obscene, illegal, unlawful, fraudulent, defamatory, libelous, abusive, lewd, invasive of personal privacy or publicity rights, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violates laws and regulations applicable to the country or region Users are using the Services from, or is otherwise inappropriate.
+5.  Posting or otherwise sharing any posted information that appeals to the prurient interest while also being patently offensive in light of community standards applicable to the country or region Users are using the Services from, and lacks serious literary, artistic, political, or scientific value, or otherwise violates any applicable obscenity laws, rules or regulations applicable to the country or region Users are using the Services from.
 
 Supplementary Provisions
 ------------------------
 
 *   These individual terms will come into effect on April 25, 2024.
+
+Revisions
+---------
+
+*   November 10, 2025: Updated to include additional examples of countries and regions subject to these restrictions, and clarified how violations are handled. The entire section has been revised accordingly.
 
 The Company’s Policy on Responding to Economic Sanctions, Domestic and Foreign Laws and Regulations etc., and Treaties
 ======================================================================================================================
