@@ -153,8 +153,8 @@ Partager Partager
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
 
-*   [CCM: Terms of Use and Legal Matters](https://ccm.net/apps-sites/internet-archeology/ccm/10123-terms-of-use-for-ccm/)
 *   [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
+*   [CCM: Terms of Use and Legal Matters](https://ccm.net/apps-sites/internet-archeology/ccm/10123-terms-of-use-for-ccm/)
 *   [CCM: Who we are](https://ccm.net/apps-sites/internet-archeology/ccm/9987-ccm-who-we-are/)
 *   [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 *   [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
@@ -164,9 +164,9 @@ Partager Partager
 *   [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 *   [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
 *   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
-*   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
-*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
-*   [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 *   [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
+*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
+*   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 *   [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
+*   [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 *   [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
