@@ -1,4 +1,8 @@
-You know us as Deliveroo, but our legal name is Roofoods Ltd (“**we**”, “**our**”, “**us**” or “**Deliveroo**”). We are committed to protecting the privacy of all users of our website [deliveroo.ie](https://deliveroo.ie/), mobile applications and social media accounts (together, the “**Sites**”). Please read this privacy policy that explains how we use and protect your personal information, which is any information about you or that can be used to identify you. We are the “controller” of the personal information we process, unless otherwise stated.
+You know us as Deliveroo, but our legal name is Roofoods Ltd (“**we**”, “**our**”, “**us**” or “**Deliveroo**”). We are committed to protecting the privacy of all users of our website [deliveroo.ie](https://deliveroo.ie/), mobile applications and social media accounts (together, the “**Sites**”). We are the “controller” of the personal information we process, unless otherwise stated.
+
+Deliveroo is now part of the DoorDash, Inc. group of companies. This means that from time to time and where necessary to provide our services to you, DoorDash, Inc. is also a controller relating to your personal information and the processing described in this policy.
+
+Please read this privacy policy that explains how we use and protect your personal information, which is any information about you or that can be used to identify you.
 
 1\. Contact details
 -------------------
@@ -89,7 +93,7 @@ See more
 
 We may update this policy from time to time, so remember to check back in every so often, in case anything has changed. Where appropriate, we may notify you of changes, for example by email or in-app notification. 
 
-This policy was last published on: 17 July 2025
+This policy was last published on: 10 November 2025
 
 **Deliveroo Ireland Limited**, 2 Dublin Landings North Dock Dublin 1 Ireland
 
