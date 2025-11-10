@@ -1,5 +1,5 @@
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_Article 1 :  CHAMP D'APPLICATION_
+----------------------------------
 
 Ce site est opéré  par :  
   
@@ -84,8 +84,8 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
 Afin d'optimiser le traitement de vos demandes, pensez à indiquer dans toutes vos correspondances, quel que soit le canal utilisé : vos nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée.                    
 
-_ARTICLE 15 :  Litige, médiation et droit applicable_
------------------------------------------------------
+_Article 1 :  CHAMP D'APPLICATION_
+----------------------------------
 
 **1.1 Champ d’application**
 
