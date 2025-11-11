@@ -115,6 +115,20 @@ _This section is only applicable to Wolfram|Alpha and the Wolfram Cloud:_
 
 These Services may additionally be accessed through web widgets, scripts or gadgets that are embedded on third-party sites. If you choose to access these Services via such tools, then depending on the third-party technology, your PI and input may be passed on to the third party's servers prior to being processed by our Services.
 
+### Wolfram Compute Services Data Processing
+
+**Code Submission and Processing**
+
+*   When you use Wolfram Compute Services, your submitted code and data are transmitted to and temporarily processed on third-party computing infrastructure. This processing is necessary to execute your code and return results to you.
+
+**Data Handling for Compute Services**
+
+*   Your code submissions are sent to external servers operated by computing partners.
+*   Code and associated data are stored temporarily during processing and execution.
+*   All temporary storage is purged upon completion of processing.
+*   Job input and output data is retained only for the processing period. You should make local copies of any data you wish to keep before it expires.
+*   Third-party processors are contractually bound to handle your data in accordance with our privacy standards.
+
 ### Data Retention and the GDPR
 
 We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the [Data Retention Policy Addendum to Wolfram's Privacy Policies](https://www.wolfram.com/legal/privacy/data-retention.html), which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.
