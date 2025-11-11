@@ -32,12 +32,12 @@ Paradox Interactive AB is the data controller and decides why and how your perso
 2\. Contact details
 -------------------
 
-You can reach us by contacting our customer support team at [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us) or you can reach out to our Data Protection Officer by completing this form: [DPO Contact](https://docs.google.com/forms/d/16VF0w81JvRJNGkwYk_FBqdKvMZnSR6jzprG4KlyT39Q/edit)
+You can reach us by contacting our customer support team at [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us) or you can reach out to our Data Protection Officer by completing this form: DPO Contact [https://docs.google.com/forms/d/16VF0w81JvRJNGkwYk\_FBqdKvMZnSR6jzprG4KlyT39Q/edit](https://docs.google.com/forms/d/16VF0w81JvRJNGkwYk_FBqdKvMZnSR6jzprG4KlyT39Q/edit)
 
 3\. What categories of data do we collect and process?
 ------------------------------------------------------
 
-For a full breakdown of what personal data we process, why, and on what legal basis, please see our [Personal Data Map](https://drive.google.com/file/d/1oUi4Q9cqFhRxN9IC2NrDR0byZ90nK-aa/view).
+For a full breakdown of what personal data we process, why, and on what legal basis, please see our Personal Data Map [https://drive.google.com/file/d/1oUi4Q9cqFhRxN9IC2NrDR0byZ90nK-aa/view](https://drive.google.com/file/d/1oUi4Q9cqFhRxN9IC2NrDR0byZ90nK-aa/view).
 
 We may collect and process the following categories of personal data: • contact details, for example name and email address; • demographic and geographic details, for example your age and your IP-address; • account identifiers, for example your Paradox account ID (“Paradox ID”) and the unique identifier for your account on the platform you use to play our games (“Platform ID”); • online identifiers, for example nickname and cookies; • data that is essential for conducting our business operations and ensuring our Services function as expected (“Required Telemetry”), for example when you start or exit our Games or if installation of our Paradox Launcher fails; • data on how you interact with our Services (“Gameplay Data”), for example in-game actions and choices; • purchase information, for example which of our games you have purchased and own; • financial information; for example payment method, bank name and card number (except for the last four digits); • interest details, for example which Services you have added as interests; and • survey information, for example your email, name and any other personal information that you contribute with if you voluntarily answer a survey from us.
 
@@ -46,7 +46,7 @@ We may collect and process the following categories of personal data: • contac
 
 We process your personal data for different purposes depending on how you use our Services. Below is an overview of what personal data we process and why.
 
-To be able to fulfill our [User Agreement](https://legal.paradoxplaza.com/eula?locale=en), we may process your data as necessary to: • enable you to access the Services; • troubleshoot and correct errors and bugs in the Services; • safeguard our Services; • operate and maintain our Services, for example by making sure that they function as intended; and • enforce the terms and conditions of our User Agreement.
+To be able to fulfill our User Agreement [https://legal.paradoxplaza.com/eula?locale=en](https://legal.paradoxplaza.com/eula?locale=en), we may process your data as necessary to: • enable you to access the Services; • troubleshoot and correct errors and bugs in the Services; • safeguard our Services; • operate and maintain our Services, for example by making sure that they function as intended; and • enforce the terms and conditions of our User Agreement.
 
 Based on our legitimate interest to provide our Services as intended, reach business and marketing related insights, and improve our Services, we may process your data to: • measure and analyze the use of our Services and data we collect through our Services, for example to identify the number of players, trends or other insights; • understand the effectiveness of our marketing campaigns and inform future marketing campaigns; • analyze how ownership of our Games affects purchase behavior; • perform A/B testing; and • improve our Services, for example identify if certain gameplay moments are too easy or too difficult, and to develop new Services, for example, to identify what content a new DLC should have.
 
@@ -70,7 +70,7 @@ To be able to provide you with our Services and give you the best possible exper
 
 • video game developers, for example other companies in the Paradox group and external developers which develop and operate our Services; • external service providers, for example hosting services providers, e-commerce providers, data and analytic service providers, customer engagement service providers, and other providers that help us provide the best possible experience; • advertising partners, for example Google and Facebook; • prospective or actual buyers (including their agents or advisors) in the context of a planned or actual acquisition, merger, or other business restructuring, including the sale of individual Games; • government authorities, for example when we believe that it is necessary to disclose data as a matter of applicable law or regulation; • other entities, for example when we believe it is necessary to exercise, establish, or defend our legal rights to protect you or another person’s vital interest; and • other companies and entities we collect your consent to share your personal data with.
 
-For more in-depth information, please see our [Recipients List](https://drive.google.com/file/d/1bqOxlVeQAmn1ptK_ghteEiQXpZ4nejmX/view).
+For more in-depth information, please see our Recipients List [https://drive.google.com/file/d/1bqOxlVeQAmn1ptK\_ghteEiQXpZ4nejmX/view](https://drive.google.com/file/d/1bqOxlVeQAmn1ptK_ghteEiQXpZ4nejmX/view).
 
 7\. How long will we process your personal data?
 ------------------------------------------------
@@ -82,7 +82,7 @@ We will process your data for as long as necessary to achieve the purpose(s) for
 
 The GDPR and other applicable data protection laws and regulations grant you the right to: • access, rectify, or request the erasure of, your data; • revoke your consent at any time; • request us to restrict our processing of your personal data; • object to our processing of your data to the extent our processing is based on our legitimate interests or the legitimate interests of a third party; • request a copy of the personal data you have provided us with (data portability), where such portability is technically feasible; and • lodge a complaint with a supervisory authority.
 
-You can exercise your rights by contacting our customer support [here](https://support.paradoxplaza.com/hc/en-us) and opening a ticket. You need to be logged in to your Paradox account to open a ticket. This is a requirement as we need to verify that the correct person is creating a ticket. Once logged in, you can also change your marketing consent settings and update your personal data directly in the [Paradox account settings](https://accounts.paradoxplaza.com/settings). You can opt out from the processing of Gameplay Data via the settings in game.
+You can exercise your rights by contacting our customer support here [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us) and opening a ticket. You need to be logged in to your Paradox account to open a ticket. This is a requirement as we need to verify that the correct person is creating a ticket. Once logged in, you can also change your marketing consent settings and update your personal data directly in the Paradox account settings [https://accounts.paradoxplaza.com/settings](https://accounts.paradoxplaza.com/settings). You can opt out from the processing of Gameplay Data via the settings in game.
 
 9\. Cookies and similar technologies
 ------------------------------------
