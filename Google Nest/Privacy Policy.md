@@ -1,7 +1,7 @@
 A helpful home is a private home.
 =================================
 
-Your home is a special place. You want to trust the things that you bring into your home. And we’re committed to earning that trust with devices and services designed to help create a home that takes care of the people inside it and the world around it.
+Your home is a special place. You want to trust the things you bring into your home. And we’re committed to earning that trust with devices and services designed to help create a home that takes care of the people inside it and the world around it.
 
 Our commitments to privacy and security
 
@@ -9,97 +9,97 @@ We live by the same core [privacy and security principles](https://safety.google
 
 ### Which devices and services do these commitments apply to?
 
-Our commitment to privacy in the home – outlined in this guide – applies to our [connected home devices and services](https://support.google.com/googlenest/answer/9327662?p=connected-devices&visit_id=637237318419103729-1009351116&rd=1) that use Google Accounts and carry the Google Nest, Google Home, Nest, Google Wifi or Chromecast brand. This means that it will also apply to people who migrate from Nest accounts to Google Accounts, where available. In addition, Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-US) also applies to the devices and services listed above; for example, it describes how we use service providers, how we may share non-personally identifiable information, and how and when we may store and share your information for legal reasons – none of which are affected by the commitments below. Also, note that you can use many other Google services with your connected home devices, such as YouTube, Google Maps and Google Duo, where available. When you use these other Google services, what data those services collect and how that data is used are determined by the terms of those individual services and Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-GB).
+Our commitment to privacy in the home – outlined in this guide – applies to our [connected home devices and services](https://support.google.com/googlenest/answer/9327662?p=connected-devices&visit_id=637237318419103729-1009351116&rd=1) that use Google Accounts and carry the Google Nest, Google Home, Nest, Google Wifi, or Chromecast brand. This means it will also apply to people who migrate from Nest Accounts to Google Accounts. In addition, Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-US) also applies to the devices and services listed above; for example, it describes how we use service providers, how we may share non-personally identifiable information, and how and when we may store and share your information for legal reasons – none of which are affected by the commitments below. Also, note that you can use many other Google services with your connected home devices, such as YouTube, Google Maps, and Google Duo. When you use these other Google services, what data those services collect and how that data is used are determined by the terms of those individual services and Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-US).
 
 ### Why do we make these commitments to you?
 
-We want you, your family and your guests to feel comfortable using these devices and services, since their purpose is to help and to provide peace of mind. We also recognise that we’re a guest in your home, and we respect and appreciate that invitation. Technology in the home is dynamic and evolving, so we’ll approach our work with humility, a commitment to seeking out many points of view, and an eagerness to learn and adapt.
+We want you, your family, and your guests to feel comfortable using these devices and services, since their purpose is to help and to provide peace of mind. We also recognize that we’re a guest in your home, and we respect and appreciate that invitation. Technology in the home is dynamic and evolving, so we’ll approach our work with humility, a commitment to seeking out many points of view, and an eagerness to learn and adapt.
 
 ### COMMITMENT
 
-#### Technical specifications transparency
+#### Technical Specifications Transparency
 
 When our [connected home devices](https://support.google.com/googlenest/answer/9327662?p=connected-devices&visit_id=637557633571574003-1554190764&rd=1) include cameras, microphones, or environmental or activity sensors that detect information about your home environment, we’ll list these hardware features in the device’s technical specifications — whether or not they’re enabled.
 
 ### COMMITMENT
 
-#### Published Sensors guide
+#### Published Sensors Guide
 
-We will clearly explain what types of information these sensors send to Google, as well as give examples of how we use that information in our [Sensors guide](https://support.google.com/googlenest/answer/9330256?p=sensorglossary&visit_id=637237318419103729-1009351116&rd=1#topic=7029677), to help you understand their purpose better.
-
-### COMMITMENT
-
-#### Responsible advertising practices
-
-For all our [connected home devices and services](https://support.google.com/googlenest/answer/9327662?p=connected-devices&visit_id=637237318419103729-1009351116&rd=1), we will keep your video footage, audio recordings and home environment sensor readings separate from advertising, and we won’t use this data for ad personalisation. When you interact with your Assistant, we may use those interactions to inform your interests for ad personalisation. For example, if you ask, 'Hey Google, what’s the weather like in Hawaii in July?' we may use the text of that voice interaction (but not the audio recording itself) to show you personalised ads. You can always review your Google settings to [control the ads that you see](https://support.google.com/accounts/answer/2662856), including opting out of ad personalisation completely. Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).
+We will clearly explain what types of information these sensors send to Google, as well as give examples of how we use that information in our [Sensors Guide](https://support.google.com/googlenest/answer/9330256?p=sensorglossary&visit_id=637237318419103729-1009351116&rd=1#topic=7029677), to help you better understand their purpose.
 
 ### COMMITMENT
 
-### Independent security validation
+#### Responsible Advertising Practices
 
-[Google Nest connected home devices](https://support.google.com/product-documentation/answer/10231940) released in 2019 or later are validated using third-party, industry-recognised security standards, and we publish the validation [results](https://support.google.com/product-documentation/answer/10231940).
+For all our [connected home devices and services](https://support.google.com/googlenest/answer/9327662?p=connected-devices&visit_id=637237318419103729-1009351116&rd=1), we will keep your video footage, audio recordings, and home environment sensor readings separate from advertising, and we won’t use this data for ad personalization. When you interact with your Assistant, we may use those interactions to inform your interests for ad personalization. For example, if you ask, “Hey Google, what’s the weather in Hawaii in July?” we may use the text of that voice interaction (but not the audio recording itself) to show you personalized ads. You can always review your Google settings to [control the ads you see](https://support.google.com/accounts/answer/2662856), including opting out of ad personalization completely. Learn more about the Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).
 
 ### COMMITMENT
 
-### Invest in security research
+### Independent Security Assessment
 
-Google Nest participates in the [Google Vulnerability Reward Programme](https://www.google.com/about/appsecurity/reward-program/).  
+[Google Nest connected home devices](https://support.google.com/product-documentation/answer/10231940) released in 2019 or later are validated using third-party, industry-recognized security standards, and we publish the validation [results](https://support.google.com/product-documentation/answer/10231940).
+
+### COMMITMENT
+
+### Invest in Security Research
+
+Google Nest participates in the [Google vulnerability reward program](https://www.google.com/about/appsecurity/reward-program/).  
   
 **Why it matters**  
-This industry practice provides monetary rewards and public recognition for external security researchers who disclose vulnerabilities to the Nest security team. We want responsible security researchers to examine our products and we pay monetary rewards only after the disclosed vulnerabilities are fixed. Through this programme, the Nest security team can learn about and address vulnerabilities before they can be exploited.
+This industry practice provides monetary rewards and public recognition for external security researchers who disclose vulnerabilities to the Nest Security team. We want responsible security researchers to examine our products and we pay monetary rewards only after the disclosed vulnerabilities are fixed. Through this program, the Nest Security team can learn about and address vulnerabilities before they can be exploited.
 
 ### How does this make Nest devices more secure?
 
-If someone outside of Google discovers a security vulnerability in one of our devices, we want to know about it. To qualify for a monetary award, the researcher must wait for Google to patch the vulnerability before disclosing it to anyone else. This programme creates an incentive for security researchers around the world to help us make our devices more secure.
+If someone outside of Google discovers a security vulnerability in one of our devices, we want to know about it. To qualify for a monetary award, the researcher must wait for Google to patch the vulnerability before disclosing it to anyone else. This program creates an incentive for security researchers around the world to help us make our devices more secure.
 
 ### How else does Google find security vulnerabilities?
 
-We have dedicated security teams that analyse the hardware and software of each device before it’s available to the public, and we do our best to make sure that our devices are secure. After the initial verification is performed, we also continue to analyse risks and security threats after devices are introduced and provide automatic, [critical security updates for at least five years starting when the device is first available on the US Google Store](https://support.google.com/product-documentation/answer/10231940).
+We have dedicated security teams that analyze the hardware and software of each device before it’s available to the public, and we do our best to make sure our devices are secure. After the initial verification is performed, we also continue to analyze risks and security threats after devices are introduced and provide automatic, [critical security updates for at least 5 years](https://support.google.com/product-documentation/answer/10231940).
 
 ### COMMITMENT
 
-#### Google Account security
+#### Google Account Security
 
-We help to keep your Google Account secure with tools and automatic protection, like suspicious activity detection, Security Check-Up and 2-Step Verification.  
+We help keep your Google Account secure with tools and automatic protection like suspicious activity detection, Security Checkup, and 2-step verification.  
   
 **Why it matters**  
-We help to keep your Google Account secure with:  
+We help keep your Google Account secure with:  
   
 
 1.  [Suspicious activity detection](https://support.google.com/accounts/answer/140921) sends you notifications whenever we detect unusual or potentially dangerous activity, such as suspicious sign-ins to your account.
-2.  [Security Check-Up](https://myaccount.google.com/security-checkup) helps you secure your account and manage your online security through personalised guidance.
-3.  [2-Step Verification](https://support.google.com/accounts/answer/185839) strengthens your account security by adding a second verification step when you sign in, like a prompt from a trusted device or the use of a physical security key.
+2.  [Security Checkup](https://myaccount.google.com/security-checkup) helps you secure your account and manage your online security through personalized guidance.
+3.  [2-step verification](https://support.google.com/accounts/answer/185839) strengthens your account security, by adding a second verification step when you sign in, like a prompt from a trusted device or the use of a physical security key.
 
 ### What is suspicious activity?
 
-Google looks for activity that seems like it isn’t being performed by you. For example, if there’s an attempt to sign in to your account from an unrecognised device.
+Google looks for activity that seems like it isn’t being performed by you. For example, if there’s an attempt to sign into your account from an unrecognized device.
 
-### How does 2-Step Verification protect my account?
+### How does 2-step verification protect my account?
 
-2-Step Verification makes it harder for someone to sign in to your account, even if they have your password. When 2-Step Verification is enabled, anyone signing in to your account will need to complete a second step, or 'factor', before signing in. You can choose from multiple second factors, including a text message, a code from the Google Authenticator app or a notification from an installed Google app.
+2-step verification makes it harder for someone to sign into your account, even if they have your password. When 2-step verification is enabled, anyone signing in to your account will need to complete a second step, or “factor,” before signing in. You can choose from multiple second factors, including a text message, a code from the Google Authenticator app, or a notification from an installed Google app.
 
-### I have a Nest account and use that to sign in to the Nest app. Why should I switch to a Google Account?
+### I have a Nest Account and use that to sign in to the Nest app. Why should I switch to a Google Account?
 
 Migrating to a Google Account gives you new benefits, like:  
   
 
-*   Automatic security protections such as suspicious activity detection, 2-Step Verification and Security Check-Up.
-*   Your Google Nest devices and services work together. For example, if you have a Nest Cam and a Chromecast, just say, 'Hey Google, show me the rear garden camera' to cast your camera stream to your TV without any setup.
-*   One account to sign in to both the Nest and Google Home apps.
+*   Automatic security protections such as suspicious activity detection, 2-step verification, and Security Checkup.
+*   Your Google Nest devices and services work together. For example, if you have a Nest Cam and a Chromecast, just say, “Hey Google, show me the backyard camera” to cast your camera stream to your TV without any setup.
+*   One account to sign into both the Nest and Google Home apps.
 *   Your homes and home members are aligned across the Nest and Google Home apps.
 
   
   
-Anyone with an existing Nest account can migrate to a Google Account. To migrate your account, in the **Nest app**, go to **Account settings**, and then select **Migrate to a Google Account**.
+Anyone with an existing Nest Account can migrate to a Google Account. To migrate your account, in the **Nest app**, go to **Account settings**, and then select **Migrate to a Google Account**.
 
 ### COMMITMENT
 
-#### Automatic security updates
+#### Automatic Security Updates
 
-We provide automatic, [critical](https://support.google.com/product-documentation/answer/10231940) security updates for Google Nest devices for at least five years starting [when the device is first available on the US Google Store](https://support.google.com/product-documentation/answer/10231940).  
+We provide automatic, [critical](https://support.google.com/product-documentation/answer/10231940) security updates for Google Nest devices for at least 5 years from the date [we start selling them](https://support.google.com/product-documentation/answer/10231940).  
   
 **Why it matters**  
-We employ many layered defences to protect users; however, technology changes and new threats arise. So we commit to providing automatic software security updates that address [critical](https://support.google.com/product-documentation/answer/10231940) issues known to Google Nest. We will publish a [list of devices and how long we commit to providing updates for them](https://support.google.com/product-documentation/answer/10231940).
+We employ many layered defenses to protect users, however, technology changes and new threats arise. So we commit to providing automatic software security updates that address [critical](https://support.google.com/product-documentation/answer/10231940) issues known to Google Nest. We will publish a [list of devices and how long we commit to providing updates for them](https://support.google.com/product-documentation/answer/10231940).
 
 ### How do I know if my device is getting updates?
 
@@ -110,42 +110,42 @@ We will publish a [list of Google devices](https://support.google.com/product-do
 Security updates don’t address vulnerabilities that result from a device being used in a way that it wasn’t intended, or that might compromise its security. For example:
 
 *   Devices that aren’t properly [factory reset](https://support.google.com/googlenest/search?q=factory+reset) before being given to someone else
-*   Accounts that don’t use [2-Step Verification](https://support.google.com/accounts/answer/185839)
+*   Accounts that don’t use [2-step verification](https://support.google.com/accounts/answer/185839)
 *   Devices made by other manufacturers that haven't been assessed by Google and may have access to your network and Google Nest devices
 
 ### COMMITMENT
 
-#### Verified software
+#### Verified Software
 
-So that Google Nest devices run only the software that they’re supposed to, we verify software before it’s installed. All our devices released in 2019 and after use [Verified Boot](https://source.android.com/security/verifiedboot).  
+So that Google Nest devices run only the software they’re supposed to, we verify software before it’s installed. All our devices released in 2019 and after use [verified boot](https://source.android.com/security/verifiedboot).  
   
 **Why it matters**  
-We take steps to help prevent malicious software from being installed on Google Nest devices. This helps to ensure that no one has access to your account or control of your devices without your permission.
+We take steps to help prevent malicious software from being installed on Google Nest devices. This helps make sure that no one has access to your account or control of your devices without your permission.
 
 ### How do you prevent malicious software from running on a device?
 
-First, we cryptographically verify software, making sure that it’s verified by Google before it’s installed. Second, our hardware released after 2019 uses [Verified Boot](https://source.android.com/security/verifiedboot) to check that it’s running the right software every time that the device restarts.
+First, we cryptographically verify software, making sure it’s signed by Google before it’s installed. Second, our hardware released after 2019 uses [Verified Boot](https://source.android.com/security/verifiedboot) to check that it’s running the right software every time the device restarts.
 
 ### COMMITMENT
 
-#### Device transparency
+#### Device Transparency
 
 Your [Google Account device activity page](https://myaccount.google.com/device-activity) lists the Google Nest devices that are visible in your Google Home app.  
   
 **Why it matters**  
-All the devices that you’re signed into will appear in your [Google Account device activity page](https://myaccount.google.com/device-activity). That way, you can make sure that your account is connected only to the devices that it should be.
+All the devices that you’re signed into will show up in your [Google Account device activity page](https://myaccount.google.com/device-activity). That way, you can make sure your account is connected only to the devices it should be.
 
 ### How does a device connect to my Google Account?
 
-Any time that you use your Google Account to sign in to a phone, computer, app or connected home device, they’re connected. Make sure that you sign out of devices that you don’t own or control, and check your Google Account for devices that you don’t recognise.
+Any time you use your Google Account to sign into a phone, computer, app, or connected home device, they’re connected. Make sure you sign out of devices you don’t own or control, and check your Google Account for devices you don’t recognize.
 
-### What happens if I see a device that I don’t recognise in my account?
+### What happens if I see a device I don’t recognize in My Account?
 
-[Sign out of the device](https://support.google.com/accounts/answer/3067630?hl=en-GB&ref_topic=7189123) or [home](https://support.google.com/chromecast/answer/9691327?hl=en-GB#zippy=%2Cremove-yourself-from-a-home) to revoke access and [change your password](https://support.google.com/accounts/answer/41078).
+[Sign out of the device](https://support.google.com/accounts/answer/3067630?hl=en&ref_topic=7189123) or [home](https://support.google.com/chromecast/answer/9691327?hl=en#zippy=%2Cremove-yourself-from-a-home) to revoke access and [change your password](https://support.google.com/accounts/answer/41078).
 
 ### Cameras
 
-Cameras serve a variety of purposes in the home, such as capturing memories, connecting with loved ones and helping you feel secure. Devices like Nest Cam use video to help you keep an eye on your home and alert you when things happen, even when you’re not there.  
+Cameras serve a variety of purposes in the home, such as capturing memories, connecting with loved ones, and helping you feel secure. Devices like Nest Cam use video to help you keep an eye on your home and alert you when things happen, even when you’re not there.  
   
 For all our connected home devices with cameras, we commit to you:
 
@@ -153,11 +153,11 @@ Your camera sends video footage to Google only if you or someone in your home ha
 
 When your camera is turned on and sending video footage to Google, we will provide a clear visual indicator (such as a green light on your device).
 
-When video footage is stored with your Google Account (for example, via a subscription to Nest Aware), you can access, review and delete this footage at any time.
+When video footage is stored with your Google Account (for example, via a subscription to Nest Aware), you can access, review, and delete this footage at any time.
 
 We will only share video footage with third-party apps and services that work with our devices if you or a member of your home explicitly gives us permission.
 
-Where available, Nest Hub Max offers on-device camera sensing features that help you personalise and control your experiences based on what the camera sees, such as Face Match (which helps your device recognise you) and Quick Gestures (which helps you control your device). Once enabled, these on-device camera sensing features don’t send video or images from your Nest Hub Max to Google.
+Nest Hub Max offers on-device camera sensing features that help you personalize and control your experience based on what the camera sees, such as Face Match (which helps your device recognize you) and Quick Gestures (which helps you control your device). Once enabled, these on-device camera sensing features don’t send video or images from your Nest Hub Max to Google.
 
 ### How can I review and delete my stored video footage?
 
@@ -165,15 +165,15 @@ You can review and delete stored video footage either through the Nest app (in t
 
 ### Do Nest Hub Max’s camera sensing features ever send video or images from my home to Google?
 
-Yes, but only as part of the Face Match setup process, and not after you’ve completed setup. When you set up Face Match on your Nest Hub Max, you use your phone to capture several photos that are combined to create a unique model of your face. These photos are sent to Google, and you can review or delete them at any time by visiting [My Activity](https://myactivity.google.com/myactivity). After this setup process, Face Match does not send any video or images to Google. And Quick Gestures does not require sending any video or images to Google at all. In addition, we keep the video and images that power these features separate from advertising and don’t use them for ad personalisation.
+Yes, but only as part of the Face Match setup process, and not after you’ve completed setup. When you set up Face Match on your Nest Hub Max, you use your phone to capture several photos that are combined to create a unique model of your face. These photos are sent to Google, and you can review or delete them anytime by visiting [My Activity](https://myactivity.google.com/myactivity). After this setup process, Face Match does not send any video or images to Google. And Quick Gestures does not require sending any video or images to Google at all. In addition, we keep the video and images that power these features separate from advertising and don’t use them for ad personalization.
 
 ### What’s an example of when my video footage might be shared with third-party apps and services?
 
-One example of this is that we may offer the option to share video clips from Nest Cam with your home security service so that they can help keep your home safe. Also, remember that you can use your device’s camera with other Google services (such as uploading a video to YouTube or making a video call with Google Duo, where available) – and when you do this, Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-GB) will apply.
+One example of this is we may offer the option to share video clips from Nest Cam with your home security service, so they can help keep your home safe. Also, remember you can use your device’s camera with other Google services (such as uploading a video to YouTube or making a video call with Google Duo) – and when you do this, Google’s [Privacy Policy](https://policies.google.com/privacy?hl=en-US) will apply.
 
 ### Are there times when video footage is sent to Google servers without a visual indicator?
 
-Some models of our cameras support recording video footage while offline. For these cameras, video footage will be uploaded when the camera goes back online after the video footage has been recorded. That means you may not see a visual indicator when your camera is sending the video footage to our servers – but in those instances, a visual indicator would have been visible when the camera was actually recording the video footage.
+Some models of our cameras support recording video footage while offline. For these cameras, video footage will be uploaded when the camera goes back online after the video footage has been recorded. That means you may not see a visual indicator when your camera is sending the video footage to our servers -- but in those instances, a visual indicator would have been visible when the camera was actually recording the video footage.
 
 ### Microphones
 
@@ -181,33 +181,33 @@ Microphones serve a variety of purposes in the home, such as letting you control
   
 For all our connected home devices with microphones, we commit to you:
 
-Your device will only send audio to Google if we detect that you or someone in your home is interacting with your Assistant (for example, by saying 'Hey Google'), or if you use a feature that needs it (for example, where available, sound alerts on Nest Cam, or Nest Cam video recording with audio enabled). You can always turn the microphone off.
+Your device will only send audio to Google if we detect that you or someone in your home is interacting with your Assistant (for example, by saying “Hey Google”), or if you use a feature that needs it (for example, sound alerts on Nest Cam, or Nest Cam video recording with audio enabled). You can always turn the microphone off.
 
 When your microphone is turned on and sending audio to Google, we will provide a clear visual indicator (such as flashing dots on top of your device or an on-screen indicator).
 
-When audio recordings are stored with your Google Account (for example, the audio from your Nest Cam footage when you’ve subscribed to Nest Aware, where available), you can access, review and delete your recordings at any time.
+When audio recordings are stored with your Google Account (for example, the audio from your Nest Cam footage when you’ve subscribed to Nest Aware), you can access, review, and delete your recordings at any time.
 
 We will only share audio recordings from your devices with third-party apps and services that work with our devices if you or a member of your home explicitly gives us permission.
 
 ### How can I review and delete my stored audio recordings?
 
-You can review and delete stored audio recordings either through the Nest app (in the case of Nest Cam recordings) or [My Activity](https://myactivity.google.com/myactivity) (for interactions with Google Assistant). You can also delete your Google Assistant activity with [voice commands](https://support.google.com/assistant/answer/7108295).
+You can review and delete stored audio recordings either through the Nest app (in the case of Nest Cam recordings) or [My Activity](https://myactivity.google.com/myactivity) (for interactions with the Google Assistant). You can also delete your Google Assistant activity with [voice commands](https://support.google.com/assistant/answer/7108295).
 
-### Are my Assistant voice queries used to inform ad personalisation?
+### Are my Assistant voice queries used to inform ad personalization?
 
-We keep your audio recordings separate from advertising and don’t use them for ad personalisation – but when you interact with your Assistant by voice, we may use the text of those interactions to inform your interests for ad personalisation. You can always review your Google settings to control the [ads that you see](https://support.google.com/accounts/answer/2662856), including opting out of ad personalisation completely. Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).
+We keep your audio recordings separate from advertising and don’t use them for ad personalization – but when you interact with your Assistant by voice, we may use the text of those interactions to inform your interests for ad personalization. You can always review your Google settings to control the [ads you see](https://support.google.com/accounts/answer/2662856), including opting out of ad personalization completely. Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).
 
 ### What’s an example of when my audio recordings might be shared with third-party apps and services?
 
-One example of this is that we may offer the option to share audio clips from Nest Cam with your home security service, so that they can help keep your home safe.
+One example of this is we may offer the option to share audio clips from Nest Cam with your home security service, so they can help keep your home safe.
 
 ### Are there times when audio recordings are sent to Google without a visual indicator?
 
-Sometimes, such as when it is faster to fulfil your Google Assistant request locally, on the device, your audio recording will be transmitted to Google servers only after the visual indicator has turned off and your request has been fulfilled. In these instances, the visual indicator will be visible when the microphone is active, as opposed to when the audio data is transmitted to Google servers.
+Sometimes, such as when it is faster to fulfill your Google Assistant request locally, on the device, your audio recording will be transmitted to Google servers only after the visual indicator has turned off and your request has been fulfilled. In these instances, the visual indicator will be visible when the microphone is active, as opposed to when the audio data is transmitted to Google servers.
 
 ### Home sensors
 
-Some of our devices include sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether or not someone is at home, ambient light, temperature and humidity. These sensors serve a variety of purposes, such as helping your home take better care of you – like when your Nest Learning Thermostat, where available, turns itself down when you’re away – and helping us make your devices and services better.  
+Some of our devices include sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether or not someone is home, ambient light, temperature, and humidity. These sensors serve a variety of purposes, such as helping your home take better care of you – like when your Nest Learning Thermostat turns itself down when you’re away – and helping us make your devices and services better.  
   
 For all our connected home devices with these environmental and activity sensors, we commit to you:
 
@@ -217,39 +217,39 @@ We will only share your device sensor data with third-party apps and services th
 
 ### Why does Google collect environmental and activity sensor data from my home, and how is it used?
 
-Our devices include environmental and activity sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether or not someone is home, ambient light, temperature and humidity. Data from these sensors, which is regularly sent to Google, serves a variety of purposes, such as helping your home take better care of you, helping us make your devices and services better, and keeping you informed. For example:  
+Our devices include environmental and activity sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether or not someone is home, ambient light, temperature, and humidity. Data from these sensors, which is regularly sent to Google, serves a variety of purposes, such as helping your home take better care of you, helping us make your devices and services better, and keeping you informed. For example:  
   
 
-*   The temperature and humidity sensors in your Nest Learning Thermostat, where available, help keep your home comfortable while saving energy.
-*   Home/Away Assist uses activity sensors across multiple Nest devices in your home to automatically switch the behaviour of Nest devices in your home when you leave and when you come back.
-*   We used ambient light and temperature sensor data aggregated from thermostats across our customers to determine that direct sunlight can cause thermostats to think it’s warmer than it actually is, so we introduced [Sunblock](https://nest.com/support/article/What-is-Sunblock), a new feature, to help your thermostat adjust for this so that it sets the correct temperature.
-*   We use sensor data to help us troubleshoot and improve the performance, safety and reliability of our devices and services; for example, we use temperature and humidity data from our devices to measure the impact of environmental conditions on battery life.
-*   We may also use sensor data to keep you informed of updates on Google services, including connected home services that we think may interest you, such as energy and home safety programmes, where available – but we’ll always respect your choice about whether you want to receive promotional emails from Google.
-*   We do not use environmental and activity sensor data for ad personalisation. For example, we don’t use sleep data from your Nest Hub (2nd gen), where available, for ad personalisation. (Remember that to fulfil some requests related to your connected home devices – for example, 'Hey Google, what’s the temperature inside?' – your Assistant can retrieve a sensor reading.) Learn more about Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).)
-*   When you delete your account, this sensor data is deleted from our servers as explained in our [retention policy](https://policies.google.com/technologies/retention?hl=en-GB).
+*   The temperature and humidity sensors in your Nest Learning Thermostat help keep your home comfortable while saving energy.
+*   Home/Away Assist uses activity sensors across multiple Nest devices in your home to automatically switch the behavior of Nest devices in your home when you leave and when you come back.
+*   We used ambient light and temperature sensor data aggregated from thermostats across our customers to determine that direct sunlight can cause thermostats to think it’s warmer than it actually is, so we introduced [Sunblock](https://nest.com/support/article/What-is-Sunblock), a new feature, to help your thermostat adjust for this so it sets the correct temperature.
+*   We use sensor data to help us troubleshoot and improve the performance, safety, and reliability of our devices and services – for example, we use temperature and humidity data from our devices to measure the impact of environmental conditions on battery life.
+*   We may also use sensor data to keep you informed of updates on Google services, including connected home services we think may interest you, such as energy and home safety programs – but we’ll always respect your choice about whether or not you want to receive promotional emails from Google.
+*   We do not use environmental and activity sensor data for ad personalization. For example we don’t use sleep data from your Nest Hub (2nd. gen) for ad personalization. (Remember that to fulfill some requests related to your connected home devices — for example, “Hey Google, what’s the temperature inside?” — your Assistant can retrieve a sensor reading. Learn more about the Google Assistant and the choices available to you [here](https://myaccount.google.com/yourdata/assistant).)
+*   When you delete your account, this sensor data is deleted from our servers as explained in our [retention policy](https://policies.google.com/technologies/retention?hl=en-US).
 
 ### What’s an example of when my sensor data might be shared with third-party apps and services?
 
-One example of this is that you can choose to share data with utility companies in order to benefit from energy-saving programmes and services, where available, like [Rush Hour Rewards](https://nest.com/support/article/What-is-Rush-Hour-Rewards).
+One example of this is you can choose to share data with utility companies in order to benefit from energy savings programs and services like [Rush Hour Rewards](https://nest.com/support/article/What-is-Rush-Hour-Rewards).
 
 ### Wifi data
 
-Google Wifi devices, where available, are router systems that work with your modem and Internet Service Provider to create a whole-home Wi-Fi mesh network. These devices use data about your network performance (for example, network speed and bandwidth usage) to help provide and improve your Wi-Fi coverage and experience. It also allows you to see which devices are connected and how much bandwidth they use.  
+Google Wifi devices are router systems that work with your modem and internet service provider to create a whole-home Wi-Fi mesh network. These devices use data about your network performance (for example, network speed and bandwidth usage) to help provide and improve your Wi-Fi coverage and experience. It also allows you to see which devices are connected and how much bandwidth they use.  
   
 For Google Wifi devices, we commit to you:
 
-Google Wifi devices do not track the websites that you visit, nor do they monitor the content of traffic on your Wi-Fi network.
+Google Wifi devices do not track the websites you visit, nor do they monitor the content of traffic on your Wi-Fi network.
 
-We keep your Wi-Fi network performance data separate from advertising and don’t use it for ad personalisation.
+We keep your Wi-Fi network performance data separate from advertising and don’t use it for ad personalization.
 
 We will only share your Wi-Fi network performance data from your Google Wifi devices with third-party apps and services that work with our connected home devices if you or a manager of your Wi-Fi network gives us permission.
 
 ### Why is data from my Google Wifi router sent to Google, and how is it used?
 
-Google Wifi collects and uses data as explained [here](https://support.google.com/wifi/answer/6246642?hl=en-GB), including information about the types of connected devices that you have and their network usage. The cloud services, Wifi point stats and app stats data described [here](https://support.google.com/wifi/answer/6246642) (which we refer to as 'Wi-Fi network performance data') is not used for ad personalisation. We may use this data to keep you informed about updates on Google services, including connected home devices and services that we think may help you – such as an additional Wifi point to improve your Internet connectivity. You can opt out from certain portions of this data collection as explained [here](https://support.google.com/wifi/answer/6246642).  
+Google Wifi collects and uses data as explained [here](https://support.google.com/wifi/answer/6246642?hl=en), including information about the types of connected devices you have and their network usage. The cloud services, Wifi point stats, and app stats data described [here](https://support.google.com/wifi/answer/6246642) (which we refer to as “Wi-Fi network performance data”) is not used for ad personalization. We may use this data to keep you informed about updates on Google services, including connected home devices and services we think may help you — such as an additional Wifi point to improve your internet connectivity. You can opt out from certain portions of this data collection as explained [here](https://support.google.com/wifi/answer/6246642).  
   
-Google Wifi does not track the websites that you visit, nor does it monitor the content of traffic on your Wi-Fi network. Google Wifi sets your default DNS provider to 'Automatic', which uses Google Public DNS or your Internet Service Provider’s (ISP) DNS if certain conditions are met. More info on what Google Public DNS collects can be found [here](https://developers.google.com/speed/public-dns/privacy). You can change your DNS provider in the [Advanced networking settings](https://support.google.com/wifi/answer/6274141) of the Google Home app at any time.
+Google Wifi does not track the websites you visit, nor does it monitor the content of traffic on your Wi-Fi network. Google Wifi sets your default DNS provider to “Automatic,” which uses Google Public DNS or your Internet Service Provider’s (ISP) DNS if certain conditions are met. More info on what Google Public DNS collects can be found [here](https://developers.google.com/speed/public-dns/privacy). You can change your DNS provider in the [Advanced Networking settings](https://support.google.com/wifi/answer/6274141) of the Google Home app at any time.
 
 ### What’s an example of when my Wi-Fi network performance data might be shared with third-party apps and services?
 
-One example of this is that you may be able to share your Wi-Fi network performance data with your Internet Service Provider so that they can help you troubleshoot your Wi-Fi or Internet connectivity issues.
+One example of this is you may be able to share your Wi-Fi network performance data with your internet service provider so they can help you troubleshoot your Wi-Fi or internet connectivity issues.
