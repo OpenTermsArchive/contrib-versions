@@ -235,7 +235,7 @@ We ask for your consent to access or use your information for specific purposes.
 **Personalised advertising**.
 
 *   With your consent, we serve you personalised ads on the Platform based on your activity on and off the Platform. Click [here](https://www.tiktok.com/safety/en/ads-and-data/) to learn more.
-*   With your consent and in regions where it is available, we use certain information associated with your TikTok user account to personalise ads served via our advertising network. For more information see the TikTok Ad Network Privacy Policy.
+*   With your consent and in regions where it is available, we use certain information associated with your TikTok user account to personalise ads served via our advertising network. For more information see the [TikTok Ad Network Privacy Policy](https://www.tiktok.com/legal/tiktok-ad-network-privacy-policy).
 *   **Information used**: [Information You Provide](#info-you-provide), [Automatically Collected Information](#auto-collect-info), and [Information From Other Sources](#info-from-other) for this purpose.
 
 **Retain your payment card information.**
