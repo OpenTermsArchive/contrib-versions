@@ -841,6 +841,4 @@ m. an event which significantly disrupts the market for Digital Assets, which co
   
 **Privacy Notice** means the privacy notice located at [https://www.binance.com/en-GB/privacy](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy). 
 
-**Product Terms** means the product-specific terms and conditions that apply to the use of a Binance Service, in addition to these Terms.
-
-**Regulatory Authority** means any foreign
+**Product Terms** means the product-specific
