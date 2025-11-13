@@ -248,8 +248,8 @@ A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
-_ARTICLE 15 :  Litige, médiation et droit applicable_
------------------------------------------------------
+_ARTICLE 4 : MODALITES DE PAIEMENT_
+-----------------------------------
 
  **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
@@ -344,8 +344,8 @@ Vous êtes informé de la collecte de ces informations dès votre première conn
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html). 
 
-_ARTICLE 15 :  Litige, médiation et droit applicable_
------------------------------------------------------
+_ARTICLE 6 : EXPEDITION ET LIVRAISON_
+-------------------------------------
 
 **CDISCOUNT peut vous proposer, au moment de la passation de votre commande, différents modes de livraison en fonction notamment de la taille de votre colis et de votre adresse de livraison.** CDISCOUNT n'assure pas de livraison à destination : des bases militaires, des armées, des casernes.  
   
@@ -730,8 +730,8 @@ CDISCOUNT procédera à votre remboursement via le même moyen de paiement que c
 
 Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au comptant ou en 4x) CDISCOUNT procédera à votre remboursement par recrédit sur votre carte bancaire.
 
-_ARTICLE 15 :  Litige, médiation et droit applicable_
------------------------------------------------------
+_ARTICLE 9 : GARANTIES_
+-----------------------
 
 **9.1 Les Garanties Légales**
 
