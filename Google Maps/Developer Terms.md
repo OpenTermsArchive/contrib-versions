@@ -573,6 +573,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         134.  City of Kelowna: [https://opendata.kelowna.ca/maps/kelowna::road/about](https://opendata.kelowna.ca/maps/kelowna::road/about)
               
+        135.  City of Winnipeg Open Data Portal: [https://data.winnipeg.ca/open-data-licence](https://data.winnipeg.ca/open-data-licence)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -1274,6 +1276,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Landesamt für Vermessung und Geoinformation Schleswig-Holstein (LVermGeo SH): [https://geodaten.schleswig-holstein.de/gaialight-sh/\_apps/dladownload/lizenz.html](https://geodaten.schleswig-holstein.de/gaialight-sh/_apps/dladownload/lizenz.html)
              
          *   © GeoBasis-DE/MV 2025: [https://www.geodaten-mv.de/soapServices/api?SERVICE=CSW&REQUEST=GetRecordById&VERSION=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&ElementSetName=full&Id=3c9a82ad-6fc9-4d35-917e-8ba69603dd76](https://www.geodaten-mv.de/soapServices/api?SERVICE=CSW&REQUEST=GetRecordById&VERSION=2.0.2&outputSchema=http://www.isotc211.org/2005/gmd&ElementSetName=full&Id=3c9a82ad-6fc9-4d35-917e-8ba69603dd76), [https://www.geoportal-mv.de/portal/Metadatenviewer/5e39d2fb-35a9-4dd8-b7da-262606676f5f](https://www.geoportal-mv.de/portal/Metadatenviewer/5e39d2fb-35a9-4dd8-b7da-262606676f5f)
+             
+         *   Bundesamt für Kartographie und Geodäsie (BKG), Administrative Areas, Data licence Germany – attribution – Version 2.0: [https://www.dcat-ap.de/def/licenses/20210721.html#dl-by-de/2.0](https://www.dcat-ap.de/def/licenses/20210721.html#dl-by-de/2.0), [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+             
+         *   Open Data Portal of the City of Munich, Mobility Department of the City of Munich, Construction Sites - Temporary Restrictions on Walking, Driving, and Parking (Open Data): dl-de/by-2-0: City of Munich – [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
              
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
