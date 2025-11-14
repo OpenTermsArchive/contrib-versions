@@ -1,7 +1,7 @@
 Privacy
 =======
 
-*   [Home](https://n.vodafone.ie/)
+*   [Home](https://www.vodafone.ie/)
 *   Privacy
 
 #### Get full control to manage your privacy
