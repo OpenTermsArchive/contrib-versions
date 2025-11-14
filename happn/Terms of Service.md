@@ -10,7 +10,7 @@ In these Terms of Service, the following terms are employed with the meanings se
 
 **Application**: The HAPPN application, available on the Apple App Store and the Google Play Store and on the HAPPN Webapp : [https://app.happn.com](https://app.happn.com/)
 
-**HAPPN**: HAPPN, a French joint stock company (Société par Actions Simplifiée) with paid-in capital of €36,982.92 registered with the Paris RCS (trade and companies registry) under no. 535 217 723, and owner and sole operator of the HAPPN application and trademark.
+**HAPPN**: HAPPN, a French joint stock company (Société par Actions Simplifiée) with paid-in capital of €36 982,92 registered with the Paris RCS (trade and companies registry) under no. 535 217 723, and owner and sole operator of the HAPPN application and trademark.
 
 **TOS**: These Terms of Service.
 
