@@ -1,5 +1,5 @@
-_Article 1 :  CHAMP D'APPLICATION_
-----------------------------------
+_PREAMBULE :  Général_
+----------------------
 
 Ce site est opéré  par :  
   
