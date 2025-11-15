@@ -5,6 +5,8 @@ We are an affiliate member of Philip Morris International, a collective group of
 
 Our details (name, address, etc.) will have been given to you separately at the time of (or to confirm) the collection of information about you, for example, in a notice, on an app or a website, or in an e-mail containing a link to this notice.
 
+FIND OUT MORE
+
 *   _Philip Morris International_ or _PMI_ means Philip Morris International, a leading international tobacco group headquartered in Lausanne, Switzerland. It is made up of a number of companies or “affiliates”.
 *   _PMI affiliates_ means each member of the Philip Morris International group of companies. “We” (or “us” or “our”) refers to the PMI affiliate that first collected information about you.
 *   _PMI product_ means a product of PMI or one of its affiliates.
@@ -20,6 +22,8 @@ We may collect information about you in various ways.
 *   We may also collect information from third parties (e.g. publicly-available information, information on social media platforms such as Meta and X). For example, where permitted by law, we may infer information about you from aggregated information we acquire from third parties. By way of example, this may include statistical information about people in certain geographical areas.
 
 In this notice, we refer to all the methods by which you are in contact with us as “PMI touchpoints”. PMI touchpoints include both physical touchpoints (for example, retail outlets (these include both PMI owned and controlled retail outlets and third-party retail outlets), events (these include events arranged by PMI and third-party events at which PMI is present), consumer contact centres), and digital touchpoints (for example, apps, social media and websites).
+
+FIND OUT MORE
 
 We may collect information that you provide directly. Typically, this will happen when you:
 
@@ -76,6 +80,8 @@ We may collect various types of information about you such as:
 *   information that may relate to adverse events (such as any unwanted health effect when using one of our products) when you report them to us
 *   information about you that we acquire from third parties, where you agreed that the third party can share your data with others.
 
+FIND OUT MORE
+
 Information that we collect from you directly will be apparent from the context in which you provide it. For example:
 
 *   if you order a product from us through a touchpoint, you provide your name, contact, billing details, payment methods, and the products you have chosen so that we can fulfil your order;
@@ -125,6 +131,8 @@ The legal basis for our use of information about you is one of the following (wh
 *   a legitimate business interest that is not overridden by interests you have to protect your data;
 *   where none of the above applies, or where the law requires it, your consent (which we will ask for before we process the information).
 
+FIND OUT MORE
+
 The purposes for which we use information about you, with corresponding methods of collection and legal basis for use, are:
 
 |     |     |
@@ -165,6 +173,8 @@ We may share information about you with:
 
 We share information about you with others only in accordance with applicable laws. Thus, where the law requires your consent, we will ask for it before sharing your data.
 
+FIND OUT MORE
+
 _Sharing data with other PMI affiliates_
 
 Information about you will be shared with Philip Morris Products S.A. (based in Lausanne, Switzerland), which is the place of central administration of personal data processing for PMI affiliates. Philip Morris Products S.A. processes the information about you for the purposes described in this notice as a data controller, for example to improve our products and services.
@@ -187,6 +197,8 @@ Where might information about you be sent?
 ------------------------------------------
 
 As with any multinational organisation, we transfer information globally to our affiliates and service providers. Your data may therefore be transferred to other countries as part of our standard operations. Whenever we transfer your data abroad, we will limit access to your data only to those who need to see it, process your data in accordance with our internal data protection standards, protect it appropriately and only transfer information in compliance with applicable data privacy laws. When data is transferred, we will require the receiving party to keep your data confidential, delete it when it is no longer required and act in accordance with this privacy notice. Accordingly, information about you may be transferred outside of your jurisdiction. For example, if you live in the EEA, UK, Australia or Japan, your data may be processed in another country.
+
+FIND OUT MORE
 
 When using information as described in this notice, information about you may be transferred either within or outside the country or territory where it was collected, including to a country or territory that may not have equivalent data protection standards.
 
@@ -213,6 +225,8 @@ How long will information about you be kept?
 --------------------------------------------
 
 We will retain information about you for the period necessary to fulfil the purposes for which the information was collected in accordance with our internal data retention standards. After that, we will delete it. The period will vary depending on the purposes for which the information was collected. Note that in some circumstances, you have the right to request us to delete the information. Also, we are sometimes legally obliged to retain the information, for example, for tax and accounting purposes.
+
+FIND OUT MORE
 
 Typically, we retain data based on the criteria described in the table below. Where these periods conflict with legal obligations, for example, for tax and accounting purposes, to either retain the information for a set minimum period of time, or to delete it after a set maximum period of time, we apply those set periods instead.
 
@@ -250,6 +264,8 @@ We offer you easy ways to exercise these rights, such as “unsubscribe” links
 
 Some mobile applications we offer might also send you push messages, for instance about new products or services. You can disable these messages through the settings in your phone or the application.
 
+FIND OUT MORE
+
 The rights you have depend on the laws of your country. If you are in the UK, European Economic Area and Switzerland, you will have the rights set out in the table below. If you are elsewhere, you can contact us (see the paragraph “who should you contact with questions?” at the end of this notice) to find out more or look at the specific section for your country below.
 
 |     |     |
@@ -269,6 +285,8 @@ Country-specific additional points
 ----------------------------------
 
 According to which country you are in, you may have some additional rights.
+
+FIND OUT MORE
 
 **_If you are in Australia, find out more…_**
 
