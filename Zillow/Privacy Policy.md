@@ -5,7 +5,7 @@ The information we collect, why we use it, who we share it with, and how we prot
 
 ****To learn more about how Zillow uses interest-based advertising—and to manage your ad choices—please review the ‘**[**Third-Party Tracking & Interest-Based Advertising**](#third-party)**’ section of our Privacy Notice below and visit our** [**Privacy** Portal](https://www.privacy.zillowgroup.com/)**.****
 
-**Effective Date:** September 22, 2025
+**Effective Date:** November 15, 2025
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate professional, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that. This Privacy Notice explains what personal data we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy. 
 
@@ -13,7 +13,7 @@ When you use Zillow Group services to find, buy, rent, or sell your home, get a 
 
 We know that everyone’s home journey is different, and that deciding on the right place to call home is an intimate, personal experience. Along with a wealth of information about homes, neighborhoods, market conditions, local real estate professionals, and financing options, we also use the information you give us to provide and improve our services and help you find your next home.
 
-When we use the terms “Zillow Group,” “we,” “us,” or “our” in this Privacy Notice, we are referring to Zillow Group’s affiliates, subsidiaries, and brands including Zillow, Zillow Premier Agent, Zillow Rentals, Trulia, Out East, StreetEasy, and HotPads.
+When we use the terms “Zillow Group,” “we,” “us,” or “our” in this Privacy Notice, we are referring to the Zillow Group affiliates, subsidiaries, and brands (and their successors) including Zillow, Zillow Premier Agent, Follow Up Boss, Zillow Rentals, Trulia, Out East, StreetEasy, and HotPads.
 
 **Our Offerings**: When we use the terms “offerings” or “services,” we are referring to our Internet websites, mobile applications, and other services that link to this Privacy Notice and that we offer and manage on our own behalf, including:
 
@@ -24,7 +24,7 @@ When we use the terms “Zillow Group,” “we,” “us,” or “our” in th
 
 This Privacy Notice does not cover or address:
 
-*   Our other affiliated brands and entities, such as Follow Up Boss, ShowingTime+, Aryeo, Zillow Home Loans, and Spruce.
+*   Our other affiliated brands and entities, such as ShowingTime+, Aryeo, Zillow Home Loans, and Spruce. These affiliated brands and entities have their own Privacy Notices, and personal data they hold is governed according to their respective Privacy Notices, unless otherwise stated therein.  
 *   Disclosures or rights we may provide to you in relation to the federal  Fair Credit Reporting Act (FCRA) or the federal  Gramm-Leach-Bliley Act (GLBA);
 *   Disclosures or rights we may provide to you in relation to U.S. state-specific financial privacy laws;
 *   Offerings that we provide solely on behalf of our business partners; and
@@ -41,6 +41,8 @@ For offerings provided by our customers who are real estate professionals (such 
 **[Choices About Your Data](#data-choices)**
 
 **[Third-Party Tracking and Interest-Based Advertising](#third-party)**
+
+[**Follow up Boss**](#follow-up-boss)
 
 **[Children’s Personal Data](#childrens-data)**
 
@@ -64,9 +66,9 @@ When we use the term “personal data” in this Privacy Notice, we mean informa
 
 The personal data we collect, the way we collect it, and how we use it will depend on how you are interacting with us and the type of services you use (e.g., submit a request/inquiry, register for an account, or otherwise contact us or interact with us). We also collect personal data automatically when you interact with our websites and other services and may also collect personal data from other sources and third parties.
 
-### **Information You Give Us or Create Using Our Services** 
+### Information You Give Us or Create Using Our Services 
 
-**Collection of Personal Data**
+#### Collection of Personal Data
 
 When you use our services, websites, or apps, or otherwise engage with us, we collect personal data from you. We might also collect personal data about you from our business partners, payment processors, service providers, and other third parties who collect personal data on our behalf. This information might include:
 
@@ -97,7 +99,7 @@ This information allows us to improve your customer experience. For example, we 
 
 We and our third party partners may collect information through tracking technologies for personalized advertising purposes. To learn more about our advertising practices and your choices relating to advertising, please see “[Third-Party Tracking and Interest-Based Advertising](#third-party).”
 
-### **Collection of Personal Data from Third Parties**
+### **Collection of Personal Data from Other Sources**
 
 In addition to the personal data collected above, we may also collect personal data as follows:
 
@@ -137,7 +139,7 @@ In addition to the uses identified above, we use the personal data we collect to
 *   Comply with legal obligations and other governmental demands;
 *   Understand your preferences and interests to better serve you on your home-finding journey;
 *   Personalize your individual experience to better serve you on your home-finding journey;
-*   Provide you with information about other services we offer in which you may be interested in;
+*   Provide you with information about other services we offer in which you may be interested;
 *   For any other lawful, legitimate business purpose; and
 *   Fulfill any other purpose for which you provide your personal data, or for which you have otherwise consented.
 
@@ -185,7 +187,7 @@ We may participate in interest-based advertising and use third party advertising
 
 We, or our third-party partners, may link your various devices so that content you see on one device can result in relevant advertising on another device. We may share a common account identifier (such as a hashed email address or user ID) or work with third-party partners who use tracking technologies or statistical modeling tools to determine if two or more devices are linked to a single user or household. We, and our partners, can use this cross-device linkage to serve interest-based advertising and other personalized content to you across your devices (including to improve your user experience), to perform analytics, and to measure the performance of our advertising campaigns.
 
-**Your Choices**. As noted above, depending on your browser or mobile device, you may be able to set your browser to delete or notify you of cookies and other tracking technology by actively managing the settings on your browser or mobile device. You can also manage cookies by clicking the “Cookie Preference” link at the bottom of our websites. You may be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android). Please note that opt-outs are browser specific, so opting out on one browser will not affect a second browser, or device. Moreover, if you buy a new device, use a different browser, or clear all your cookies, you will have to opt out all over again. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), and/or the DAA’s resources at [www.aboutads.info/choices](http://www.aboutads.info/choices). You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices) and downloading the mobile AppChoices app. Note that some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you may need to opt-out again. Zillow Group aligns to the [Digital Advertising Alliance’s](https://youradchoices.com/) Self-Regulatory Principles for Online Behavioral Advertising.
+**Your Choices**. As noted above, depending on your browser or mobile device, you may be able to set your browser to delete or notify you of cookies and other tracking technology by actively managing the settings on your browser or mobile device. You can also manage cookies by clicking the “Cookie Preferences” link at the bottom of our websites. On your mobile device, you may be able to limit interest-based advertising through your device settings by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android). Please note that opt-outs are browser specific, so opting out on one browser will not affect a second browser, or device. Moreover, if you buy a new device, use a different browser, or clear all your cookies, you will have to opt out all over again. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), and/or the DAA’s resources at [www.aboutads.info/choices](http://www.aboutads.info/choices). You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices) and downloading the mobile AppChoices app. Note that some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you may need to opt-out again. Zillow Group aligns to the [Digital Advertising Alliance’s](https://youradchoices.com/) Self-Regulatory Principles for Online Behavioral Advertising.
 
 **Retention**
 -------------
@@ -198,6 +200,10 @@ We strive to retain your personal data only for as long as is reasonably necessa
 *   Compliance with litigation holds, contractual obligations, statutes of limitations, regulatory investigations, or other laws requiring us to keep records of your transactions with us.
 
 Once retention of your personal data is no longer necessary for the purposes outlined above, we will either delete or de-identify the personal data. We may retain copies of your personal data in backup archives.  In these cases, your personal data is stored securely and isolated from further processing until deletion or de-identification is possible. Should our systems need to be restored with backups, unnecessary personal data will be deleted at the time of restoration. 
+
+### **Follow Up Boss**
+
+Follow Up Boss (“FUB”) is a Zillow service offered to real estate professionals. Some of your Personal Data may be collected through FUB as described in the FUB Addendum to this Privacy Notice, which is incorporated into and is a part of this Privacy Notice. If you have a Zillow user account and are a contact in a FUB customer’s account (e.g., if you connect with an agent through one of our sites and that agent uses FUB), your Personal Data collected in FUB after the effective date of this Notice is subject to this Privacy Notice and will be used as described herein. You can access the FUB Privacy Notice Addendum [here](https://www.followupboss.com/legal-pages/privacy-policy).
 
 **Children’s Personal Data**
 ----------------------------
@@ -275,7 +281,7 @@ _Minors_  
 
 We do not sell or, for the purpose of targeted advertising, share the personal data of individuals we know to be less than 18 years of age or other age specified by applicable law in your state of residence.
 
-If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us directly at privacy@zillow.com. We may not be able to modify or delete your information in all circumstances.
+If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us directly at [privacy@zillow.com](mailto:privacy@zillow.com). We may not be able to modify or delete your information in all circumstances.
 
 If you wish to submit a privacy request on behalf of your minor child in accordance with applicable jurisdictional laws, you must provide sufficient information to allow us to reasonably verify your child is the person about whom we collected personal information and you are authorized to submit the request on your child’s behalf (i.e., you are the child’s legal guardian or authorized representative).
 
@@ -285,10 +291,10 @@ You may be able to exercise some or all of the following rights:
 
 |     |     |
 | --- | --- |
-| **_The Right to Know_** | The right to confirm whether we are processing your personal data and, under some state laws, to obtain certain personalized details about the personal data we have collected about you, including:  <br>  <br>\-The categories of personal data collected;  <br>\-The categories of sources of the personal data;  <br>\-The purposes for which the personal data were collected;   <br>\-The categories of personal data disclosed to third parties (if any), and the categories of recipients to whom the personal data were disclosed;  <br>The categories of personal data shared for targeted advertising, cross-context behavioral advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for those purposes; and  <br>\-The categories of personal data sold (if any), and the categories of third parties to whom the personal data were sold. |
+| **_The Right to Know_** | The right to confirm whether we are processing your personal data and, under some state laws, to obtain certain personalized details about the personal data we have collected about you, including:  <br>  <br>\-The categories of personal data collected;  <br>\-The categories of sources of the personal data;  <br>\-The purposes for which the personal data were collected;   <br>\-The categories of personal data disclosed to third parties (if any), and the categories of recipients to whom the personal data were disclosed;  <br>\-The categories of personal data shared for targeted advertising, cross-context behavioral advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for those purposes; and  <br>\-The categories of personal data sold (if any), and the categories of third parties to whom the personal data were sold. |
 | **_The Right to Access & Portability_** | The right to obtain access to the personal data we have collected about you and, where required by law, the right to obtain a copy of the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. |
 | **_The Right to Correction_** | The right to correct inaccuracies in your personal data, taking into account the nature of the personal data and the purposes of the processing of the personal data. |
-| **_The Right to Deletion_** | The right to have us delete the personal data we maintain about you. |
+| **_The Right to Deletion_** | The right to have us delete the personal data we maintain about you.  Please note that these requests will not extend to any copies of personal data about you stored and maintained in our systems by other users, such as a real estate agent using FUB; please contact those users to exercise any rights that may be available to you. |
 | **_The Right to Opt-Out of Sales or Sharing of Personal Data_** | The right to direct us not to “sell” your personal data to third parties for monetary or other valuable consideration, or “share” your personal data to third parties for cross-context behavioral advertising purposes and targeted advertising purposes. |
 | **_The Right to Withdraw Consent/Opt-Out of Sensitive Information Processing_** | The right to withdraw consent you previously provided to us to collect and process your sensitive information.  <br>  <br>For information on how to withdraw permission for precise geolocation collection via your device, see the “[Choices About Your Data](#data-choices)” section of the Privacy Notice. |
 
@@ -334,7 +340,7 @@ In certain circumstances, you are permitted by law to use an authorized agent to
 
 ### **Appealing Privacy Rights Decisions**
 
-Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to [privacy@zillow.com](mailto:privacy@zillow.com). 
+Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to [privacy@zillow.com](mailto:zgprivacy@zillowgroup.com). 
 
 ### **California-Specific Disclosures**
 
@@ -361,3 +367,8 @@ We collect this data from the following sources: directly from you, from our bus
 _“Shine the Light” Disclosures_
 
 The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. To opt out of this type of sharing, please visit our [Privacy Portal](https://privacy.zillowgroup.com/) or email us at [privacy@zillow.com](mailto:privacy@zillow.com).
+
+Prior version of this policy
+----------------------------
+
+*   [September 22, 2025](https://www.zillowgroup.com/zg-privacy-policy-old/)
