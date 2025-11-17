@@ -2,11 +2,11 @@ WeTransfer Data Processing Agreement
 
 
 
-Last update: June 23, 2025
+Last update: November, 2025
 
 
 
-This Data Processing Agreement (“DPA”) is entered into between the Customer, as defined in theAgreement (“Customer”), and WeTransfer B.V., with registered office at Keizersgracht 281, 1016 EDAmsterdam, the Netherlands (“WeTransfer” or “Provider”). The Customer and the Provider may bereferred to herein individually as the “Party” and collectively as the “Parties”.
+This Data Processing Agreement (“DPA”) is entered into between the Customer, as defined in theAgreement (“Customer”), and WeTransfer B.V., with registered office at Nieuwezijds Voorburgwal 162,1012 SJ, Amsterdam, the Netherlands (“WeTransfer” or “Provider”). The Customer and the Provider maybe referred to herein individually as the “Party” and collectively as the “Parties”.
 
 
 
@@ -212,15 +212,15 @@ ii. assesses the Sub-processor and remains liable for the actions or omissions o
 
 iii. makes available a list of the Sub-processors upon request of the Customer and at the
 
-following link (https://wetransfer.com/documents/WeTransfer_Subprocessors.pdf). The
+following link (https://wetransfer.com/it-IT/explore/legal/services-subprocessors). The
 
-Provider will update the list to reflect any additions or replacements to Sub-processors.The Provider provides written notice to the Customer of the engagement of any newSub-processor.
+Provider will update the list to reflect any additions or replacements to Sub-processorsand will provide reasonable notice to the Customer of the engagement of any newSub-processor. The Customer must subscribe to receive such notice of updates to the listof Sub-processors using the link above.
 
 
 
-4.3. The Customer may reasonably object in writing to the use of a new Sub-processor within ten (10)calendar days of notice, provided that such objection is based on reasonable grounds relating todata protection, and subject to the termination and liability clauses of the Agreement. In the event
+4.3. The Customer may reasonably object in writing to the use of a new Sub-processor within ten (10)calendar days of notice, provided that such objection is based on reasonable grounds relating to
 
-of an objection, the Provider and the Customer will discuss such concerns in good faith. TheCustomer acknowledges that the Sub-processors are essential for the provision of the Service andthat objecting to the use of a Sub-processor may prevent the Provider from offering the Service tothe Customer.
+data protection, and subject to the termination and liability clauses of the Agreement. In the eventof an objection, the Provider and the Customer will discuss such concerns in good faith. TheCustomer acknowledges that the Sub-processors are essential for the provision of the Service andthat objecting to the use of a Sub-processor may prevent the Provider from offering the Service tothe Customer.
 
 
 
@@ -284,9 +284,9 @@ ix. Annex 3 of the Standard Contractual Clauses shall be deemed completed with t
 
 
 
-6.2. The Provider will cooperate with and assist the Customer, in responding to Data Subjects’ Rightsrequests in a timely and lawful manner, and provide such information as may reasonably berequired to respond to Data Subjects’ Rights, or otherwise to enable the Customer to comply with
+6.2. The Provider will cooperate with and assist the Customer, in responding to Data Subjects’ Rightsrequests in a timely and lawful manner, and provide such information as may reasonably be
 
-its duties related to Data Subjects' Rights under the Applicable Privacy Law.
+required to respond to Data Subjects’ Rights, or otherwise to enable the Customer to comply withits duties related to Data Subjects' Rights under the Applicable Privacy Law.
 
 
 
@@ -346,9 +346,9 @@ its duties related to Data Subjects' Rights under the Applicable Privacy Law.
 
 
 
-9.3. The Customer shall defend, indemnify and hold harmless the Provider (including its employeesand affiliates) from and against any claims, incidents, liabilities, procedures, damages, losses and
+9.3. The Customer shall defend, indemnify and hold harmless the Provider (including its employees
 
-expenses (including legal fees) arising out of or in any way connected with the Customer’s accessto or use of the Service or the Customer’s breach of this DPA, including any third party claims thatthe Content created, used, stored or shared by the Customer using the Service or through theCustomer’s account infringes or violates any third party rights.
+and affiliates) from and against any claims, incidents, liabilities, procedures, damages, losses andexpenses (including legal fees) arising out of or in any way connected with the Customer’s accessto or use of the Service or the Customer’s breach of this DPA, including any third party claims thatthe Content created, used, stored or shared by the Customer using the Service or through theCustomer’s account infringes or violates any third party rights.
 
 
 
@@ -400,11 +400,7 @@ this clause, WeTransfer can be reached at privacy-wetransfer@bendingspoons.com.
 
 12.4. Deviations from and additions to this Agreement are only valid if agreed explicitly and in writing.
 
-
-
-12.5. All provisions in this DPA are an integral part of the general relationship between the Customer
-
-and the Provider. The performance of this DPA will not result in the recognition of any specificconsideration, remuneration, indemnification, compensation or reimbursement in favor of theProvider in addition to that established in the Agreement.
+12.5. All provisions in this DPA are an integral part of the general relationship between the Customerand the Provider. The performance of this DPA will not result in the recognition of any specificconsideration, remuneration, indemnification, compensation or reimbursement in favor of theProvider in addition to that established in the Agreement.
 
 
 
@@ -450,7 +446,7 @@ Name: WeTransfer B.V.
 
 
 
-Address: Keizersgracht 281, 1016 ED Amsterdam, the Netherlands
+Address: Nieuwezijds Voorburgwal 162, 1012 SJ, Amsterdam, the Netherlands
 
 
 
