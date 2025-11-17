@@ -1,7 +1,7 @@
 Conditions Générales d’Utilisation du programme de fidélité IKEA Family
 =======================================================================
 
-_Version mise à jour le : 25/06/2025_
+_Version mise à jour le : 17/11/2025_
 
 Le programme de fidélité « IKEA Family » (ci-après le « **Programme** » ou « **Programme de fidélité** » ou « **Programme IKEA Family** ») est proposé par la société Meubles IKEA France S.A.S., enregistrée au RCS de Versailles sous le numéro B351 745 724 et dont le siège social se situe 425 rue Henri Barbusse 78370 PLAISIR (ci-après « **IKEA**  »).
 
@@ -107,7 +107,7 @@ Les Avantages ne sont ni échangeables, ni remboursables, et ne feront pas l’o
 
 Au titre du Programme IKEA Family, le Membre IKEA Family cumulera des points de fidélité (ci-après les **« Points de fidélité »**) dans les cas et conditions suivantes :
 
-*   1 Point de fidélité par tranche de 5 € d’achat (arrondi à l’inférieur) effectué auprès de IKEA (hors cartes cadeaux) dans l’un des Magasins, Ateliers, sur le Site, l’Application ou auprès du service de vente par téléphone IKEA ;
+*   1 Point de fidélité par tranche de 5 € d’achat (arrondi à l’inférieur) effectué auprès de IKEA dans l’un des Magasins, Ateliers, sur le Site, l’Application ou auprès du service de vente par téléphone IKEA (hors achat de cartes cadeaux, de sapins, et la valeur des transactions réglée en cartes cadeaux, coupons de réduction, bons d’achat ou coupon  pour un produit offert)  ;
 *   1 Point de fidélité maximum par semaine en cas de connexion du Membre IKEA Family à son Compte IKEA Family via le Site et/ou l’Application ;
 *   5 Points de fidélité à la création du Compte IKEA Family ;
 *   5 Points de fidélité à la conversion du compte IKEA en Compte IKEA Family ;
