@@ -172,7 +172,6 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 For more information, please read our .
 
-  
 Undisclosed editing by users receiving compensation creates an unreasonable burden on volunteer editors . Therefore, for violations of this section related to undisclosed paid editing, you agree to submit to binding "Med-Arb" (a "Marketing Company Mediation") as described in section 14 of these Terms of Use.
 
 We reserve the right to exercise our enforcement discretion with respect to the provisions in section 4 of these Terms of Use. Where required, enforcement of these terms may include actions not listed in the Wikimedia Foundation . If enforcement is required in new circumstances, we will make an effort within at most one (1) year to update the Office Action Policy to catalog the new type of action.
@@ -287,8 +286,6 @@ If you believe we have not satisfactorily acted on a problematic content report,
 
 We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures. Additional information for persons in the EU can be found on .
 
-  
-
 11\. Resolutions and Project Policies
 -------------------------------------
 
@@ -384,6 +381,6 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=515959](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=515959)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=538102](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=538102)"
 
 :
