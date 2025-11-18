@@ -1,7 +1,7 @@
 **Terms and conditions of use**
 -------------------------------
 
-Welcome to our digital information network. These are our terms and conditions for use of the network, which you may access in several ways, including but not limited to the World Wide Web via [theguardian.com](https://www.theguardian.com/uk), digital television, PDA, mobile phone and RSS feeds. In these terms and conditions, when we say the “Guardian Site” or “our site” we mean the digital information network operated by or on behalf of Guardian News & Media Limited or its parent companies, subsidiaries and affiliates (collectively “Guardian”), including without limitation, www.theguardian.co.uk, www.theguardian.com and any other domains, websites or apps owned or operated by Guardian, and the material on such domains, websites and apps, in each case as may be updated from time to time. However you access the Guardian Site (whether via a third party site, app, link or otherwise), you agree to be bound by these terms and conditions.
+Welcome to our digital information network. These are our terms and conditions for use of the network, which you may access in several ways, including but not limited to the World Wide Web via [theguardian.com](https://www.theguardian.com/uk), digital television, PDA, mobile phone and RSS feeds. In these terms and conditions, when we say the “Guardian Site” or “our site” we mean the digital information network operated by or on behalf of Guardian News & Media Limited or its subsidiaries (collectively “Guardian”), including without limitation, www.theguardian.co.uk, www.theguardian.com and any other domains, websites or apps owned or operated by Guardian, and the material on such domains, websites and apps, in each case as may be updated from time to time. However you access the Guardian Site (whether via a third party site, app, link or otherwise), you agree to be bound by these terms and conditions.
 
 Though you should read all sections carefully, your attention is specifically drawn to the following sections of these terms and conditions: section 3 (which concerns your use of material on the Guardian Site), section 4 (which sets out our disclaimers of liability), section 6 (which concerns the content you submit to us) and section 12 (the indemnification you provide to us for your breach of these terms and conditions).
 
@@ -261,5 +261,7 @@ Paragraph 6 of Section 3 amended to add the following wording at the end “, _i
 New paragraph 8 to Section 3 beginning “_Our robots.txt notice does not, and shall not, constitute…”_
 
 6 March 2025: Reference to Guardian Ad-Lite added in section 5.
+
+18 November 2025: Reference to “_parent companies_” and “_affiliates_” in the first paragraph deleted.
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
