@@ -1,16 +1,15 @@
-_Last Updated: 1 October 2025_
+_Last Updated: 18 November 2025_
 
 For residents of Brazil, a Portuguese translation of this Privacy Notice is available [here](https://www.kraken.com/en-gb/legal/br-privacy) for ease of reference and understanding. While we have taken care to ensure consistency between versions, in the event of any discrepancies, the English version shall prevail.
 
-For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
- 
+For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
 
 **1\. Introduction**
 --------------------
 
-This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, individuals Kraken clients transact with, users of Kraken’s products that run on-chain (such as Kraken Verify), and website visitors. 
+This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, individuals Kraken clients transact with, users of Kraken’s products that run on-chain (such as Kraken Verify), and website visitors.
 
-Your privacy is of the utmost importance to us. It is our policy to safeguard the confidentiality of information and respect the privacy of individuals. 
+Your privacy is of the utmost importance to us. It is our policy to safeguard the confidentiality of information and respect the privacy of individuals.
 
 Please see below for information about how we manage personal data, and for information about your rights with respect to the processing of your personal data.
 
@@ -19,7 +18,7 @@ Please see below for information about how we manage personal data, and for info
 
 The following terms are defined as follows:
 
-2.1 “AML” means anti-money laundering. 
+2.1 “AML” means anti-money laundering.
 
 2.2 “Digital Asset” means any digital representation of value that may be traded via Kraken’s services, excluding non-fungible tokens.
 
@@ -32,12 +31,12 @@ The following terms are defined as follows:
 
 Our products and services are provided through local operating entities that are part of the Kraken group of companies.
 
-You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/en-gb/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
+You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/en-gb/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
 
 **4\. How do we protect personal data?**
 ----------------------------------------
 
-Kraken takes the security of personal data incredibly seriously. For additional information on our information security practices, please click [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-), and for general security information, click [here](https://www.kraken.com/en-gb/features/security).
+Kraken takes the security of personal data incredibly seriously. For additional information on our information security practices, please click [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-), and for general security information, click [here](https://www.kraken.com/en-gb/features/security).
 
 **5\. Information we may collect about you**
 --------------------------------------------
@@ -51,32 +50,53 @@ The minimum information required for entering into a contract governing your use
 **The information that we collect from you is as follows:**
 
 *   Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, residency, citizenship (“**Biographical information and contact information**”);
+    
 *   Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
-*   Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
+    
+*   Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
+    
 *   Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
-*   Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
+    
+*   Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data. It also includes the details that you use to log into your account (e.g passwords, Social Sign-In details) (“**Verification information**”);
+    
 *   Information collected when you interact with our support service channels, including online chat, phone call, email, direct message or other communication means (“**Support service communications**”);
+    
 *   Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, Kraken Pay Service transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
+    
 *   Krak card information, including card details such as PAN (Primary Account Number), card issuer ID and Krak card transaction records **(“Krak card information”)**;
-*   On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
+    
+*   On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
+    
 *   Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive, the UK’s Money Laundering Regulations 2017, and the U.S. Bank Secrecy Act (“**Other information**”).
+    
 
 **Information we collect about you automatically:**
 
-*   Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address, domain name, any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
-*   Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our log records. This may include device information such as device identifier, device operating system and model, device storage, Media Access Control (MAC) address and Subscriber Identity Module (SIM) information, signals relating to user behaviour and device interaction, marketing identifier, battery usage, location information, network address, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information such as scrolling, clicks, and mouse-overs, and methods used to browse away from the page (“**Log information**”).
+*   Browser information – Information that is automatically collected via analytics systems providers from your browser, including your IP address, domain name, any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform (“**Browser information**”);
+    
+*   Log information – Information that is generated by your use of Kraken-branded websites, applications, services, or tools operated by Kraken that is automatically collected and stored in our log records. This may include device information such as device identifier, device operating system and model, device storage, Media Access Control (MAC) address and Subscriber Identity Module (SIM) information, signals relating to user behaviour and device interaction, marketing identifier, battery usage, location information, network address, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time, page response times, download errors, length of visits to certain pages, page interaction information such as scrolling, clicks, and mouse-overs, and methods used to browse away from the page (“**Log information**”).
+    
 
 **Information we receive about you from other sources.**
 
-We also receive information about you from third parties such as your payment providers, our service providers assisting with AML, fraud, and security compliance, and through publicly available sources. For example:
+We also receive information about you from third parties such as your payment providers, your social account providers Apple or Google if you use our social sign-in feature, service providers assisting with AML, fraud, and security compliance, and through publicly available sources. For example:
 
 *   The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details.
+    
 *   Your business partners may provide us with your name and address, as well as financial information.
+    
 *   Our card-issuing partner provides us with Krak card transaction details and fraud-risk signals so that we can show you your transactions, investigate disputes and comply with our regulatory obligations.
-*   Advertising networks, analytics providers and search information providers may provide us with anonymised or de-identified information about you, such as confirming how you found our website. 
-*   Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
+    
+*   When you create or access your Kraken account using your Google Account or Apple Account via social sign-in, Kraken receives limited information from the provider necessary to authenticate you and operate your account, such as your name, email address (or, if you choose Apple’s “Hide My Email,” a private relay address), a provider-assigned user identifier, and authentication tokens. Kraken does not receive your Google or Apple passwords.
+    
+*   Advertising networks, analytics providers and search information providers may provide us with anonymised or de-identified information about you, such as confirming how you found our website.
+    
+*   Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters.
+    
 *   Credit reference agencies may provide us with your personal data during the credit referencing process.
+    
 *   We may read and store data that is written on a blockchain, other publicly available ledgers, or is otherwise in the public domain.
+    
 
 **6\. Our legal justification for processing personal data**
 ------------------------------------------------------------
@@ -86,7 +106,7 @@ We also receive information about you from third parties such as your payment pr
 
 As part of the processing activities described above, Kraken may share your personal data within the Kraken company group and with carefully selected third parties. We only disclose data for legitimate purposes and when it is lawful to do so, and we require each recipient to process the data in line with applicable data protection laws.
 
-Kraken uses third party service providers for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification. Please note no mobile information will be shared with third parties for their marketing or promotional purposes.
+Kraken uses third party service providers for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification. Please note no mobile information will be shared with third parties for their marketing or promotional purposes.
 
 In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations.
 
@@ -96,7 +116,7 @@ Kraken may also disclose your personal data to banking and payments partners for
 
 With your consent, Kraken may disclose your name and email to Trustpilot to enable you to leave a review of Kraken without having to create a full Trustpilot account.
 
-In connection with Kraken’s global operations and our compliance with applicable law across the jurisdictions where Kraken operates, we may disclose your personal data regarding your use of Kraken services and our platform to governmental, regulatory, or law enforcement authorities, including those outside the jurisdiction where you reside to the extent that Kraken is required to make such disclosures. Such disclosures will only be made in accordance with applicable laws (including, without limitation, regulations administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“**OFAC**”, which includes the Specially Designated Nationals “ **SDN** ” List and other non-SDN restricted or blocked parties lists) and/or anti-money laundering and/or economic sanctions laws and regulations made by the governments of the European Union, the United Kingdom, Canada and any other applicable national, regional, provincial, state, municipal or local laws and regulations as amended from time to time) that apply to you or Kraken, as well as in response to court orders or other lawful requests made by such authorities in those jurisdictions. 
+In connection with Kraken’s global operations and our compliance with applicable law across the jurisdictions where Kraken operates, we may disclose your personal data regarding your use of Kraken services and our platform to governmental, regulatory, or law enforcement authorities, including those outside the jurisdiction where you reside to the extent that Kraken is required to make such disclosures. Such disclosures will only be made in accordance with applicable laws (including, without limitation, regulations administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“**OFAC**”, which includes the Specially Designated Nationals “ **SDN** ” List and other non-SDN restricted or blocked parties lists) and/or anti-money laundering and/or economic sanctions laws and regulations made by the governments of the European Union, the United Kingdom, Canada and any other applicable national, regional, provincial, state, municipal or local laws and regulations as amended from time to time) that apply to you or Kraken, as well as in response to court orders or other lawful requests made by such authorities in those jurisdictions.
 
 Kraken may also disclose your data in the event of a prospective merger, acquisition, or sale of all or part of our business or assets.
 
@@ -105,18 +125,18 @@ On-chain attestations are publicly available and may be accessed by third partie
 **8\. Where we store your personal data**
 -----------------------------------------
 
-Our operations are supported by a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement, regulators and security agencies of these jurisdictions may be able to use legal processes to access your personal data. Additionally, we may be required by law to disclose your personal information to regulators or other authorities in these jurisdictions where such disclosure is mandated by applicable law.
+Our operations are supported by a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement, regulators and security agencies of these jurisdictions may be able to use legal processes to access your personal data. Additionally, we may be required by law to disclose your personal information to regulators or other authorities in these jurisdictions where such disclosure is mandated by applicable law.
 
-**9\. International transfers of personal data** 
--------------------------------------------------
+**9\. International transfers of personal data**
+------------------------------------------------
 
 We may transfer your personal data outside your home jurisdiction to other Kraken group companies, service providers and business partners. Transfers outside of your home jurisdiction are done in accordance with lawful transfer mechanisms.
 
-For example, for EEA customers, Kraken may rely on an ‘adequacy decision’ to transfer personal data to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA. You can see a list of such countries [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.).
+For example, for EEA customers, Kraken may rely on an ‘adequacy decision’ to transfer personal data to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA. You can see a list of such countries [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.).
 
 We may also rely on additional international transfer mechanisms, including your consent, compliance with legal or regulatory obligations, execution of agreement or Standard Contractual Clauses.
 
-**10\. Privacy when using digital assets and blockchains**
+**10\. Privacy when using digital assets and blockchains**
 ----------------------------------------------------------
 
 Your use of digital assets may be recorded on a public blockchain. Public blockchains are distributed ledgers, intended to immutably record transactions across wide networks of computer systems. Many blockchains are open to forensic analysis which can lead to re-identification of transacting individuals and the revelation of personal data, especially when blockchain data is combined with other data.
@@ -131,9 +151,13 @@ By using Kraken Verify, you acknowledge that your attestations will be recorded 
 When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example, when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:
 
 *   A copy of the records we used in order to comply with our client due diligence obligations;
+    
 *   Supporting evidence and records of transactions with you, and your relationship with us.
+    
 
 If you have opted out of receiving marketing communications, we will keep your information on our suppression list to ensure that you do not receive these messages.
+
+You may unlink social sign-in in your Google or Apple settings. If you revoke access, you may need to add another sign-in method (for example, create a Kraken password) to continue accessing your account. Revoking access does not automatically delete information we already maintain about your Kraken account.
 
 We may keep your personal data for longer than 5 years if we cannot delete it for legal, regulatory, or technical reasons.
 
@@ -142,12 +166,12 @@ Kraken retains attestation-related data for operational security and integrity p
 **12\. Cookies**
 ----------------
 
-Cookies are small text files that provide information regarding the device used by a visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies and similar technologies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies and similar technologies although doing so may impact website functionality.
+Cookies are small text files that provide information regarding the device used by a visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies and similar technologies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies and similar technologies although doing so may impact website functionality.
 
-**13\. Your rights regarding your personal data**
+**13\. Your rights regarding your personal data**
 -------------------------------------------------
 
-The rights that are available to you in relation to the personal data we process are outlined below. You may request to exercise these rights subject to any limitations provided for under applicable data protection laws. 
+The rights that are available to you in relation to the personal data we process are outlined below. You may request to exercise these rights subject to any limitations provided for under applicable data protection laws.
 
 **Confirmation and access**
 
@@ -161,7 +185,7 @@ You may inform us at any time if your personal details have changed by using our
 
 **Erasure**
 
-You can ask us to delete, remove, block or anonymise your personal data in certain circumstances. Such requests may be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations. If we have disclosed your personal data to others, we will let them know about the erasure request where possible. If you ask us, and if possible and lawful to do so, we will also inform you with whom we have shared your personal data.
+You can ask us to delete, remove, block or anonymise your personal data in certain circumstances. Such requests may be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations. If we have disclosed your personal data to others, we will let them know about the erasure request where possible. If you ask us, and if possible and lawful to do so, we will also inform you with whom we have shared your personal data.
 
 On-chain attestations cannot be modified or deleted once published. Users should carefully consider the implications before submitting an attestation.
 
@@ -178,8 +202,11 @@ In certain circumstances you may have the right to obtain personal data you have
 You can ask us to stop processing your personal data, and we will do so, if we are:
 
 *   Relying on our own or someone else’s legitimate interests to process your personal data except if we can demonstrate compelling legal grounds for the processing or for the establishment, exercise or defence of legal claims;
+    
 *   Processing your personal data for direct marketing; or
+    
 *   Processing your personal data for research unless we reasonably believe such processing is necessary for the performance of a task carried out for reasons of public interest (such as by a regulatory or enforcement agency).
+    
 
 **Automated decision-making and profiling**
 
@@ -187,16 +214,16 @@ If we have made a decision about you based solely on an automated process (e.g. 
 
 **Complaints**
 
-You have the right to complain to a competent data protection authority. Contact details are set out in Section 17 below. We ask that you first reach out, by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008), to give us an opportunity to address any concerns. 
+You have the right to complain to a competent data protection authority. Contact details are set out in Section 17 below. We ask that you first reach out, by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008), to give us an opportunity to address any concerns.
 
 **Withdraw consent**
 
-You have the right to withdraw consent to processing based on consent at any time. Note this will not affect the lawfulness of processing based on consent prior to the withdrawal of consent or on grounds where consent is not required. 
+You have the right to withdraw consent to processing based on consent at any time. Note this will not affect the lawfulness of processing based on consent prior to the withdrawal of consent or on grounds where consent is not required.
 
 **14\. Changes to this privacy notice**
 ---------------------------------------
 
-Our privacy notice is reviewed regularly in light of new regulations, technologies, and any changes to our business operations. Any personal data we process will be governed by our most recent privacy notice. We will update the “Last updated” date accordingly at the beginning of this privacy notice. Please review this privacy notice from time to time. We will announce any material changes to this privacy notice on our website. 
+Our privacy notice is reviewed regularly in light of new regulations, technologies, and any changes to our business operations. Any personal data we process will be governed by our most recent privacy notice. We will update the “Last updated” date accordingly at the beginning of this privacy notice. Please review this privacy notice from time to time. We will announce any material changes to this privacy notice on our website.
 
 **15\. Our products and services are not available to children**
 ----------------------------------------------------------------
@@ -206,7 +233,7 @@ Our products and services are not directed to persons under the age of 18 (herei
 **16\. Contact information**
 ----------------------------
 
-Any questions, complaints, comments and requests regarding this privacy notice are welcome and should be submitted using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). You can also contact our Data Protection Officer by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). 
+Any questions, complaints, comments and requests regarding this privacy notice are welcome and should be submitted using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). You can also contact our Data Protection Officer by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008).
 
 **17\. Data Protection Authorities**
 ------------------------------------
@@ -221,9 +248,9 @@ Sydney, NSW 2001, Australia
 
 **For residents of Bermuda:**
 
-The Office of the Privacy Commissioner   
+The Office of the Privacy Commissioner  
 4th Floor Maxwell Roberts Building  
-1 Church Street   
+1 Church Street  
 Hamilton, HM11  
 Bermuda
 
