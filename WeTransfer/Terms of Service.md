@@ -3,17 +3,20 @@ Terms of Service
 
 We have deep roots in the creative community and respect for the people who bring creativity to life—your voices, your stories, your work.
 
-Legal terms can be long to navigate, so here are the most important bits concerning your content:
+Legal terms can be long to navigate, so we’ve explained the most important bits in our [Principles of Content Protection](https://wetransfer.com/explore/legal/principles-of-content-protection).
 
 With WeTransfer...
 
-*   **Your content belongs to you**
+*   **You own your content. Always.**
     
 
-*   **Your content isn't used to train AI**
+*   **Your content isn’t used to train AI.** 
     
 
-*   **Your content isn't sold to third parties**
+*   **Your content isn’t sold to anyone.** 
+    
+
+*   **Your content is secure.**
     
 
 If your usual residence is in the United States of America, [these Terms of Service](#32691d85-40a2-41ee-8bbf-796377a6534e) apply.
