@@ -1,4 +1,4 @@
-Effective October 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_10012025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_10012025.pdf)
+Effective November 17, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_11172025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_11172025.pdf)
 
   
 
@@ -17,11 +17,13 @@ Table of contents
 
 [](#privacy-how)
 
-[](#privacy-how)[When and with whom we disclose information](#privacy-who)
+[](#privacy-how)[When and to whom we disclose information](#privacy-who)
 
 [](#privacy-who)[How we protect your information](#protect-how)
 
 [](#protect-how)[How long we keep your information](#info-duration)
+
+[](#protect-how)[Children's data](#childrens-data)
 
 [](#info-duration)[The choices you have to control our use of personal information](#info-control)
 
@@ -46,7 +48,9 @@ Some of what we say in our Privacy Policy is required by law, and may at times s
 *   How to manage your preferences, including setting your marketing and advertising preferences, and restricting certain uses and sharing
 *   How you can better protect yourself online
 
-You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant "XfinityChat") for more information.
+You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant "XfinityChat") for more information.
+
+We are part of the Comcast family of companies, which includes NBCU, Sky, and others (“[Our Related Businesses](http://corporate.comcast.com/privacy-related-businesses)”).
 
 When the Privacy Policy applies
 -------------------------------
@@ -64,7 +68,7 @@ This Policy does not apply to the non-Xfinity products, services, websites, and 
 The personal information we collect and how we collect it
 ---------------------------------------------------------
 
-To provide you with our Services, we collect your personal information. This can include information that does not directly identify you - such as device numbers, IP addresses, and account numbers. It may also include information that does personally identify you, such as your name, address, and telephone number. We call any information that identifies you "personally identifiable information" or "PII."
+To provide you with our Services, we collect your personal information. This can include information that does not directly identify you - such as device numbers, IP addresses, and account numbers. It may also include information that does personally identify you, such as your name, address, and telephone number.
 
 If you allow others to use your Services, we will also collect personal information about those individuals. If you use our Services through someone else’s account, we will collect information about you, but it may not identify who you are to us. We may also collect information about you from [third parties](#/privacy/overlays/Third-Parties).
 
@@ -145,16 +149,16 @@ We collect personal information about you in several ways
 *   Social networks and other publicly available data, like [Facebook](#/privacy/overlays/Facebook)
 *   Online advertising companies who may share information about the marketing and advertisements you have seen or clicked on
 
-We do not knowingly allow others to collect personally identifiable information about your online activities over time and across third-party websites when you use our online Services. For more information about cookies and other online tracking technologies, please visit our [Cookie Notice](https://www.xfinity.com/privacy/policy/cookienotice) to manage your preferences, please visit the [Xfinity Privacy Preferences Center](https://www.xfinity.com/privacy/your-privacy-choices). You can also use a browser that offers you the ability to use the Global Privacy Control to communicate your privacy preferences to us when you visit our websites; please note that this will not affect how we process your information when you interact with our products and services. In some of our Services, such as Xumo TV, we may also use technologies to attempt to recognize when different devices are used by the same individual.
+To manage your preferences, please visit the Xfinity Privacy Preferences Center ([xfinity.com/privacy/your-privacy-choices](https://www.xfinity.com/privacy/your-privacy-choices)). You can also use a browser that offers you the ability to use the Global Privacy Control to communicate your privacy preferences to us when you visit our websites; please note that this will not affect how we process your information when you interact with our products and services. In some of our Services, such as Xumo TV, we may also use technologies to attempt to recognize when different devices are used by the same individual.
 
 Because definitions and rules for a “Do Not Track” standard have not yet been established, including whether such signals must be user-enabled, Comcast does not yet respond to “Do Not Track” signals sent from browsers.
 
 How and when we use information, including for marketing and advertising
 ------------------------------------------------------------------------
 
-We use the information we collect to provide our Services and communicate with you. We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized consumer experiences (including marketing and advertising for our own and others' products and services), investigate theft and other illegal activities, and to ensure a secure online environment.
+We use the information we collect to provide our Services and communicate with you. We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized consumer experiences (including marketing and advertising for our own and others' products and services), investigate fraud and other illegal activities, and to ensure a secure online environment.
 
-We may combine information across our systems, platforms, and databases. This includes combining information we receive from third parties and information about your use of our Services. We may also combine information about your use of one Service with information we get from your use of another Service.
+We may combine information across our systems, platforms, and databases. This includes combining information we receive from third parties and information about your use of our Services. We may also combine information about your use of one Service with information we get from your use of another Service. We may aggregate or deidentify your information and may use, share, license, or sell aggregated or deidentified information for any purpose. Our use of information that is no longer personal information is not subject to this Privacy Policy.
 
 * * *
 
@@ -169,14 +173,16 @@ TO PROVIDE THE SERVICES
 *   Management of the network and devices supporting our service and our systems, and other maintenance and operations
 *   Provide technical support
 *   Help with hardware and software upgrades for devices and systems
+*   Provide a seamless experience across platforms and devices
 
 * * *
 
-TO COMMUNICATE WITH YOU
+TO COMMUNICATE WITH YOU, INCLUDING FOR MARKETING PURPOSES
 
 *   Respond to your questions
 *   Personalize communications and your experience
 *   Send you service-related announcements and surveys
+*   Send event invitations, advertise our Services, and track the effectiveness of such communications
 
 * * *
 
@@ -188,7 +194,7 @@ TO UNDERSTAND YOUR USE OF AND MAKE IMPROVEMENTS TO OUR SERVICES
 
 * * *
 
-TO PROVIDE RECOMMENDATIONS AND DELIVER RELEVANT ADVERTISING 
+TO PERSONALIZE YOUR EXPERIENCE AND DELIVER RELEVANT ADVERTISING
 
 *   Market the Services
 *   Recommend movies or television shows to you
@@ -199,7 +205,14 @@ TO PROVIDE RECOMMENDATIONS AND DELIVER RELEVANT ADVERTISING 
 
 * * *
 
-TO INVESTIGATE THEFT OR OTHER ILLEGAL ACTIVITIES, TO ENSURE A SECURE ONLINE ENVIRONMENT, AND TO PROTECT HEALTH AND SAFETY
+TO BUILD AND MANAGE BUSINESS-TO-BUSINESS RELATIONSHIPS
+
+*   Send communications for business purposes and pursue potential business opportunities
+*   Manage customer supplier and other business relationships
+
+* * *
+
+TO COMPLY WITH LAW, PREVENT AND INVESTIGATE FRAUD AND OTHER ILLEGAL ACTIVITIES, AND FOR OTHER SAFETY AND SECURITY PURPOSES
 
 *   Detect the unauthorized use, or abuse of the Services
 *   Protect our customers from fraudulent, abusive, or unlawful use of  
@@ -209,39 +222,39 @@ TO INVESTIGATE THEFT OR OTHER ILLEGAL ACTIVITIES, TO ENSURE A SECURE ONLINE ENVI
 *   To protect the health and safety of our customers, employees,  
     contractors, or the general public
 
-When and with whom we disclose information
-------------------------------------------
+We may aggregate or deidentify your information and may use, share, license, or sell aggregated or deidentified information for any purpose. Our use of information that is no longer personal information is not subject to this Privacy Policy.
 
-We share personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies. We also share personal information with others:
+When and to whom we disclose information
+----------------------------------------
+
+We disclose personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies. We also disclose personal information to others:
 
 *   When you direct us to do so, including to authorize other users on your account
 *   When required by law or to respond to legal process
 *   To protect our property or rights or the safety of our employees, our customers, or other individuals
-*   With third party partners to the extent you elect to participate in programs such as Xfinity Rewards
+*   With third party partners or service providers as detailed below
 
-If your internet service or other access is provided in whole or in part by a third party, such as a landlord or property owner, educational institution, local government, or nonprofit entity, we may share with them information collected during your registration, as well as service tier, activation, and/or aggregated usage information.
+We may disclose personal information to third parties, including for marketing and advertising purposes, which you can control through opt-in or opt-out settings, depending on the type of personal information disclosed.
 
-We do not sell information that directly identifies you (such as your name or email address) to third parties. This includes your Internet usage information, video usage information, or call detail information. If you participate in offers that require us to disclose your identifiable data to [another company](#/privacy/overlays/Another-company), we will, but only at your direction and with your consent.
-
-We may also disclose personal information that does not directly identify you (such as IP address or device identifier) with third parties, including for marketing and advertising purposes, which you can control through [opt-in or opt-out settings](#/privacy/overlays/opt-in), depending on the type of personal information shared. It is possible that our third party partners may be able to identify you based on information they collect from other sources, including any interactions you have with them.
+Where the personal information we may disclose does not directly identify you (such as IP address or device identifier), it is possible that our third party partners may be able to identify you based on information they collect from other sources, including any interactions you have with them.
 
 * * *
 
-**The Comcast family of businesses**
+**The Comcast Family of Companies**
 
-If Comcast shares the personal information it collects about you with separate Comcast companies, including our parent company Comcast Corporation and its subsidiaries, such as NBCUniversal and Sky, to use for their own purposes, we will first give you the choice to opt out of or opt in, as appropriate, in the [Xfinity Privacy Preferences Center](https://www.xfinity.com/privacy/your-privacy-choices).
+We may disclose your personal information, including information that personally identifies you, to Our Related Businesses ([corporate.comcast.com/privacy-related-businesses](http://corporate.comcast.com/privacy-related-businesses)) for purposes consistent with those described in our Privacy Policy, including to provide you better services, to personalize your experience, and marketing and advertising. Visit [xfinity.com/privacy/your-privacy-choices](https://www.xfinity.com/privacy/your-privacy-choices) and navigate to customer account choices to see the choices you have about how your information is used and disclosed.
 
 * * *
 
 **Account owners and other authorized users**
 
-We may share information about a customer's account and use of a Service to the primary account owner following appropriate authentication. The primary account owner may also allow others to see information on the account.
+We may disclose information about a customer's account and use of a Service to the primary account owner following appropriate authentication. The primary account owner may also allow others to see information on the account.
 
 * * *
 
 **Service providers**
 
-To provide and support the Services, sometimes we use other companies as service providers to transmit, collect, process, or store information for us. We require these service providers to treat the information we share with them as confidential and to use it only for providing their services to us. These include:
+To provide and support the Services, sometimes we use other companies as service providers to transmit, collect, process, or store information for us. We require these service providers to treat the information we disclose to them as confidential and to use it only for providing their services to us. These include:
 
 BILLING AND COLLECTION PROVIDERS
 
@@ -279,24 +292,23 @@ Including services related to our call centers, installation, maintenance, and r
 
 **Third parties**
 
-Other sharing with third parties can include:
+Other disclosures to third parties can include:
 
-SOCIAL MEDIA COMPANIES
+SOCIAL MEDIA PLATFORMS
 
-You may interact with parts of our Services that cause information to be published to your social networks. For example, you may click on a Facebook "like" button, which publishes to your Facebook account that you "like" one of our Services. On those parts of our websites with social network functionality, a social network may be able to collect information about you. For example, if a page contains a Facebook "like" button, Facebook may be able to collect data about your visit to that page, even if you don't click on the "like" button. To control this sharing of information, please review the privacy policy of the relevant social network and/or sign out of it before you use our Services.
+You may interact with parts of our Services that cause information to be published to your social networks. For example, you may click on a Facebook "like" button, which publishes to your Facebook account that you "like" one of our Services. On those parts of our websites with social network functionality, a social network may be able to collect information about you. For example, if a page contains a Facebook "like" button, Facebook may be able to collect data about your visit to that page, even if you don't click on the "like" button. To control this disclosure of information, please review the privacy policy of the relevant social network and/or sign out of it before you use our Services.
 
-ONLINE ADVERTISING PARTNERS
+ADVERTISING PARTNERS
 
-We may use cookies or other technology to deliver [personalized advertising](#/privacy/overlays/Personalized-advertising) to you when you visit other websites, including advertising based on the products and services you viewed on our Services. We also allow our partners, including advertisers and service providers, to use cookies and similar tracking technologies when you use our Services. For more information about the use of  
-cookies and other technologies on our online Services, please see the [Cookies Notice](https://www.xfinity.com/privacy/policy/cookienotice).
+We may disclose information to better tailor marketing and advertising on our Services and on third-party platforms. We may use cookies or other technology—including tracking technologies offered by third parties—to deliver [personalized advertising](#/privacy/overlays/Personalized-advertising) to you when you visit other services, including advertising based on your activities on our Services. We also allow our partners, including advertisers and service providers, to use cookies and similar tracking technologies when you use our Services. For more information about the use of cookies and other technologies on our online Services, please see the [Cookies Notice](https://www.xfinity.com/privacy/policy/cookienotice).
 
-AUDIENCE MEASUREMENT AND ANALYTICS COMPANIES
+AUDIENCE MEASUREMENT COMPANIES
 
 We work with business partners to help us measure and analyze how our customers are using our Services. For video, this includes assessing which programs are most popular, how many people watch a program to its conclusion, whether people are watching advertisements, and what programming and video content we will carry on the Services. It also includes determining how our customers prefer to view certain kinds of programming when they use our Services, such as whether they like to watch certain programs live, or if they prefer to view them on demand, on mobile devices, or online. Our business partners may compile this information into reports with aggregated and anonymous statistics that are then made commercially available (for example, a ratings report that indicates what percentage of viewers watched a particular program live vs. on-demand). Xfinity Stream includes Nielsen's proprietary measurement software, which will allow users to contribute to market research, like Nielsen's television ratings. By visiting [nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy), users can access more information about the measurement software and learn about their choices with regard to Nielsen's measurement.
 
 NON-XFINITY APPS AND PARTNERS
 
-Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers).
+Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. We may also disclose personal information to third party partners to the extent you elect to participate in programs such as Xfinity Rewards. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers).
 
 CONSUMER REPORTING AGENCIES
 
@@ -304,7 +316,7 @@ We disclose information that personally identifies you to consumer reporting age
 
 PUBLIC SAFETY AUTHORITIES
 
-If you have our Xfinity Voice service, Comcast will disclose your name and contact information to public safety authorities such as 911/E911 and related emergency services.
+If you have our Xfinity Voice Service, Comcast will disclose your name and contact information to public safety authorities such as 911/E911 and related emergency services.
 
 DIRECTORY SERVICES, ASSISTANCE, AND CALLER ID
 
@@ -312,25 +324,23 @@ Your name, address, and telephone number may be sent to publishers to be printed
 
 We may also make your number, name, and address available to directory assistance (411) providers. If you have a nonpublished number, Comcast will not make your number available through directory assistance. Comcast may still share your name and address with the 411 provider when specified by law (but the provider is not authorized to share your (non-published number).
 
-Please note: While the non-published feature will keep your name, address, and telephone number out of printed and online directories over which Comcast exercises control, even a non-published phone number may exist in databases not controlled by Comcast - if, for example, your present telephone number or address was previously published under your name, or if you provided this information to businesses or government agencies. One way to help protect your privacy may be to request assignment of a new telephone number (with which your name has not previously been associated). You may also want to activate Caller ID Blocking or select the do-not-call option.
+Please note: While the non-published feature will keep your name, address, and telephone number out of printed and online directories over which Comcast exercises control, even a non-published phone number may exist in databases not controlled by Comcast - if, for example, your present telephone number or address was previously published under your name, or if you provided this information to businesses or government agencies. One way to help protect your privacy may be to request assignment of a new telephone number (with which your name has not previously been associated). You may also want to activate Caller ID Blocking or select the do-not-call option.
 
 Caller ID provides your name and telephone number to the person you are calling - even if you have a non-published number. Per Line Caller ID Blocking will automatically block Caller ID for all calls you make from your registered telephone number and can be activated by calling [1-800-XFINITY](tel:18009346489). Per Call Caller ID Blocking will block name and number on a per-call basis and can be activated by dialing \*86 before each call you want to block.
 
 POTENTIAL PURCHASERS OF OUR BUSINESS
 
-If we enter into a potential or actual merger, acquisition, or sale of all or a portion of our assets, then information about you and your subscription will, in most cases, be shared or transferred as part of the transaction. This includes information that personally identifies you. If this Policy will be changed as a result of such a transaction, you should refer below under "[Changes to the Privacy Policy.](https://www.xfinity.com/privacy/policy#changes)"
+If we enter into a potential or actual merger, acquisition, or sale of all or a portion of our assets, information about you and your subscription will, in most cases, be shared or transferred as part of the transaction.
 
 GOVERNMENT AND OTHER ENTITIES WHEN REQUIRED BY LAW OR TO PROTECT COMCAST AND OTHERS
 
 There are times when we may be required by law to disclose information about you to third parties. This may happen with or without your consent, and with or without notice, in compliance with the terms of valid legal process such as a subpoena, court order, or search warrant.
 
-If you subscribe to our Xfinity Video service, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a court order. In this case, the Cable Act requires that you be given the opportunity to appear in a court proceeding to contest any claims made in support of the court order, and the governmental entity must offer clear and convincing evidence that you are reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. For more information, see ["Your Rights and Our Limitations Under Federal Laws."](#your-rights)
+If you subscribe to our Xfinity Video service, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a court order. In this case, the Cable Act requires that you be given the opportunity to appear in a court proceeding to contest any claims made in support of the court order, and the governmental entity must offer clear and convincing evidence that you are reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. For more information, see ["Your Rights and Our Limitations Under Federal Laws."](#your-rights)
 
-If you subscribe to the Xfinity Internet, Voice, Mobile, or Home security and automation Services, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a subpoena, court order, or search warrant, depending on the type of information sought. We may be prohibited from notifying you of any such disclosures by the terms of the legal process.
+A non-governmental entity, such as a civil litigant, can seek information that personally identifies you or your use of the Xfinity Video, Internet, or Voice Services only pursuant to a court order, and we are required by the Cable Act to notify you of such court order.
 
-A non-governmental entity, such as a civil litigant, can seek information that personally identifies you or your use of the Xfinity Video, Internet, or Voice Services only pursuant to a court order, and we are required by the Cable Act to notify you of such court order. If Comcast is required to give information that personally identifies you to a private third party in response to a civil court order for these or other Services, we will notify you prior to making such disclosure unless legally prohibited from doing so.
-
-We may also disclose information that personally identifies you as permitted by law and without your consent when it is necessary to protect our customers, employees, or property; in emergency situations; or to enforce our rights under our terms of service and policies.
+We may also disclose information that personally identifies you as permitted by law and without your consent when it is necessary to protect our customers, employees, or property; in emergency situations; or to enforce our rights under our terms of service and policies.
 
 How we protect your information
 -------------------------------
@@ -342,10 +352,15 @@ How long we keep your information
 
 We keep your personal information for different lengths of time depending on the type of information and the business and legal requirements. For example, if you are a customer, we keep information that personally identifies you as long as you subscribe to one or more of our Services. If you no longer subscribe to a Service, we still may need that information for business and legal requirements, such as to protect against fraud, calculate taxes, or respond to legal requests. Other information is deleted automatically after a set period of time, often set by law, unless we are legally required to hold it longer, such as for pending litigation. We destroy, de-identify, or anonymize the information when it is no longer needed in identifiable form.
 
+Children's Data
+---------------
+
+Most of our online services are intended for general audiences and are not directed to children. In areas of our Services that may be directed to children, we may collect personal information as described in this Privacy Policy, to the extent and as permitted by applicable law. We limit our processing of such information to providing the Services; communicating with you; understanding your use of and improving the Services; providing recommendations and personalizing the experience; providing contextual advertising and capping and measuring ads; and complying with law, preventing and investigating fraud and other illegal activities, and for other safety and security purposes. We share information with the categories of parties described in “When and To Whom We Disclose Information” above. To request more information about our processing of personal information collected in areas directed to children, or to request to access, delete, or correct personal information related to a child, please contact us at [comcast\_privacy@comcast.com](mailto:comcast_privacy@comcast.com).
+
 The choices you have to control our use of personal information
 ---------------------------------------------------------------
 
-You have many choices about how we communicate with you and how we use or share your information. You can manage these settings in the [Xfinity Privacy Preferences Center.](https://www.xfinity.com/privacy/manage-preference) If you change your mind, you can update your preferences any time.
+You have many choices about how we communicate with you and how we use or disclose your information. You can manage these settings in the [Xfinity Privacy Preferences Center.](https://www.xfinity.com/privacy/manage-preference) If you change your mind, you can update your preferences any time.
 
 * * *
 
@@ -360,7 +375,7 @@ You can find out more about the choices you have and set your preferences. If yo
 
 We understand that sometimes you may want to speak to a Comcast representative who can assist you with your choices. You can contact Comcast at 1-800-XFINITY and ask us to put your name on our internal company “do not call,” “do not mail,” or “do not knock” list.
 
-If you subscribe to Xfinity voice service, when you are interacting with one of our customer service representatives, such as on a call, in our offices, or during an online chat session, we may ask you for your oral consent to the use of your customer proprietary network information or “CPNI” for the purpose of reviewing your account and providing you with an offer for other products and services. If you provide consent, Comcast may use your CPNI only for the duration of that telephone call or discussion in order to offer you additional services. If you deny or restrict your approval for us to use your CPNI, you will suffer no effect, now or in the future, on how we provide any services to which you subscribe.
+If you subscribe to Xfinity Voice Service, when you are interacting with one of our customer service representatives, such as on a call, in our offices, or during an online chat session, we may ask you for your oral consent to the use of your customer proprietary network information or “CPNI” for the purpose of reviewing your account and providing you with an offer for other products and services. If you provide consent, Comcast may use your CPNI only for the duration of that telephone call or discussion in order to offer you additional services. If you deny or restrict your approval for us to use your CPNI, you will suffer no effect, now or in the future, on how we provide any services to which you subscribe.
 
 Additional privacy preferences may be available to you on the devices you use to access the Services. 
 
@@ -375,7 +390,7 @@ All individuals may also make requests to access and correct certain personal in
 
 If you subscribe to an Xfinity Service, you may correct or update information in [your account](https://www.xfinity.com/overview) or by contacting us as described below. If you are an Xfinity Home customer, you can also correct or update your contact and emergency information in the Xfinity Home app. We will correct our records once we have verified that the changes you request are proper.
 
-If you subscribe to Xfinity TV, Internet, or Voice services and would like to see your own personally identifiable information, other than your customer proprietary network information (CPNI), you may do so at your local Comcast office. To do so, please contact us by mail at the address below or by phone at [1-800-XFINITY](tel:18009346489), giving us a reasonable period of time to locate and, if necessary, prepare the information for review, and to arrange an appointment during regular business hours. You will need to have proper identification and will only be able to see the personally identifiable information in your account and no other account.
+If you subscribe to Xfinity TV, Internet, or Voice Services and would like to see your own personally identifiable information, other than your customer proprietary network information (CPNI), you may do so at your local Comcast office. To do so, please contact us by mail at the address below or by phone at [1-800-XFINITY](tel:18009346489), giving us a reasonable period of time to locate and, if necessary, prepare the information for review, and to arrange an appointment during regular business hours. You will need to have proper identification and will only be able to see the personally identifiable information in your account and no other account.
 
 If you make a written request for a copy of your Xfinity Voice or Mobile CPNI, we will provide you with the relevant information we have by mailing it to your account address, or to any person authorized by you, if we reasonably believe the request is valid. However, subscribers to our Xfinity Voice and Mobile Services should be aware that we generally do not provide them with records of any inbound or outbound calls or other records that we do not furnish in the ordinary course of business (for example, as part of a bill) or which are available only from our archives, without valid legal process such as a court order. In addition, we cannot correct any errors in customer names, addresses, or telephone numbers appearing in, or omitted from, our or our vendors' directory lists until the next available publication of those directory lists. Further, we may have no control over information appearing in the directory lists or directory assistance services of directory publishers or directory assistance providers that are not owned by us.
 
@@ -409,41 +424,7 @@ Additional information regarding other laws and individual rights
 
 Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following places, select your location to review the additional privacy notice and information that applies to you.
 
-[California](https://www.xfinity.com/privacy/policy/staterights#california)
-
-[Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
-
-[Connecticut](https://www.xfinity.com/privacy/policy/staterights#connecticut)
-
-[Delaware](https://www.xfinity.com/privacy/policy/staterights#delaware)
-
-[Iowa](https://www.xfinity.com/privacy/policy/staterights#iowa)
-
-[Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
-
-[Maryland](https://www.xfinity.com/privacy/policy/staterights#maryland)
-
-[Minnesota](https://www.xfinity.com/privacy/policy/staterights#minnesota)
-
-[Montana](https://www.xfinity.com/privacy/policy/staterights#montana)
-
-[Nebraska](https://www.xfinity.com/privacy/policy/staterights#nebraska)
-
-[New Hampshire](https://www.xfinity.com/privacy/policy/staterights#newhampshire)
-
-[New Jersey](https://www.xfinity.com/privacy/policy/staterights#newjersey)
-
-[Oregon](https://www.xfinity.com/privacy/policy/staterights#oregon)
-
-[Tennessee](https://www.xfinity.com/privacy/policy/staterights#tennessee)
-
-[Texas](https://www.xfinity.com/privacy/policy/staterights#texas)
-
-[Utah](https://www.xfinity.com/privacy/policy/staterights#utah)
-
-[Virginia](https://www.xfinity.com/privacy/policy/staterights#virginia)
-
-[Washington/Nevada](https://www.xfinity.com/privacy/policy/staterights#washington)
+[California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maine, Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia, and Washington](https://www.xfinity.com/privacy/policy/staterights)
 
 [EEA, Switzerland, and the United Kingdom](https://www.xfinity.com/privacy/policy/staterights#eea)
 
