@@ -49,11 +49,12 @@ Framing and Mirroring
 
 You may not manipulate or otherwise simulate the appearance or function of the Network by using framing, mirroring, or similar other methods, such as by creating deep links to the Network or directly framing our site on another domain. This restriction does not apply for accessibility-related usages such as screen readers. Please contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.
 
-Content Scraping
+Content Scraping/Bot Policy
 
-You may not use any automated data-gathering means (including robots, spiders, scrapers, crawlers, and the like) to gather any text, files, audio or visual media, profile information, or any other content from any Network website for any use that violates the [Public Network Terms of Service,](https://stackoverflow.com/legal/terms-of-service/public) including the content license, or this Acceptable Use Policy.
+Except for what is necessary for human interaction with the Network (such as local browser caching), you may not use, launch, or distribute any automated system, including without limitation, any spider, bot/robot, cheat utility, scraper, unauthorized script, offline reader, data miners, or similar automated data gathering or extraction tools, to access any Network website or Service, or to collect, gather, or copy any text, files, audio or visual media, profile information, or any other content in any form, from any Network website or Service, for the purpose of:
 
-Your usage of automated data-gathering means is exempt from this policy if either:
+1.  Building a similar or competitive website, product, or service; or
+2.  Developing, building, training, testing, indexing, benchmarking, or improving any generative AI, chatbot, large language, or machine learning tool, model, or platform, or any similar technology.
+3.  Or any purpose, if such activity occurs at a volume or frequency that negatively impacts Network bandwidth, or limits or prevents Network access for other users.
 
-1.  Such automated data-gathering is necessary for accessibility-related reasons.
-2.  You have obtained our express written prior consent. (You may contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.)
+Your usage of automated data-gathering means is exempt from this policy if you have obtained express prior written consent. Examples of written exceptions that may be granted include for accessibility reasons or as part of a commercial license agreement (You may contact [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) with any inquiries.).
