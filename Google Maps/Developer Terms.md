@@ -2954,6 +2954,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Republika Slovenija - [https://ipi.eprostor.gov.si/jgp/data](https://ipi.eprostor.gov.si/jgp/data)
              
+         *   OPSI Odprti Podatki Slovenije - [https://podatki.gov.si/dataset/kolesarske-poti-v-obcini-domzale](https://podatki.gov.si/dataset/kolesarske-poti-v-obcini-domzale)
+             
     89.  **Niue**
          
          Pacific Environment Data Portal - [https://pacificdata.org/data/dataset/2011\_niu\_phc\_admin\_boundaries](https://pacificdata.org/data/dataset/2011_niu_phc_admin_boundaries)
@@ -2999,6 +3001,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Croatia State Geodetic Administration (HR): [https://rgi.dgu.hr/](https://rgi.dgu.hr/) Political Boundaries, 2023
              
          *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
+             
+         *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
+             
+         *   Republika Hrvatska, Cikloturizam (HR): [https://cikloturizam.gov.hr/](https://cikloturizam.gov.hr/), [https://dgu.gov.hr/uvjeti-koristenja/76](https://dgu.gov.hr/uvjeti-koristenja/76)
              
     100.  **Paraguay**
           *   Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
