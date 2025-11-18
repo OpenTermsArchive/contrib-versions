@@ -60,7 +60,7 @@ If the seller is unable to charge you for the Google One subscription, you may n
 
 If you elect to delete Google One via [service deletion](https://support.google.com/accounts/answer/81987), you agree that you may lose access to Google One services immediately. If you prefer to retain Google One services for the remainder of your billing period, please [cancel your subscription](https://support.google.com/googleone/answer/9056360) rather than deleting Google One.
 
-**Refunds.** f you purchased a Google One subscription or AI credits, the [refund policy](https://support.google.com/googleone/answer/2736362) will apply. You will need to contact the seller from which you made the purchase to request a refund. You may have consumer rights under applicable law that cannot be limited by contract. These Terms do not restrict those rights.
+**Refunds.** If you purchased a Google One subscription or AI credits, the [refund policy](https://support.google.com/googleone/answer/2736362) will apply. You will need to contact the seller from which you made the purchase to request a refund. You may have consumer rights under applicable law that cannot be limited by contract. These Terms do not restrict those rights.
 
 5\. Customer Support
 --------------------
