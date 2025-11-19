@@ -1,0 +1,20 @@
+Google Antigravity Additional  
+Terms of Service
+================================================
+
+BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE GOOGLE ANTIGRAVITY SERVICES (HEREIN REFERRED TO AS THE “SERVICE”), YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS:
+
+*   All of the following documents govern your use of the Service:
+    
+    *   the [Google Terms of Service](https://policies.google.com/terms) (the “Universal Terms”);
+    *   these Google Antigravity Terms of Service (the “Google Antigravity Terms”);
+    *   the [Google Privacy Policy](https://policies.google.com/privacy) (the “Privacy Policy”); and
+    *   the [Generative AI Additional Terms of Service](https://policies.google.com/terms/generative-ai).
+    
+*   Please read each of the above documents carefully, starting with the Universal Terms. Collectively, we refer to the Universal Terms, these Google Antigravity Terms, the Privacy Policy, and the Generative AI Terms of Service as the “Agreement.” This Agreement is a binding contract between you and Google regarding your use of the Service. If you do not agree to all Agreement terms, do not use the Service.
+*   When you use the Service, we record and store your user data, interaction data pertaining to your usage of the Service, related metadata connected to the Service, and any feedback you provide (“Interactions”). Such data may be aggregated over multiple users, and will be collected only when you have the Service running. You will have the option to delete your Interactions. If you would like to request that your Interactions be deleted, you can email antigravity-support@google.com. Note that such Interactions will be used in accordance with the terms of this Agreement unless and until you request deletion in accordance with the previous sentence.
+*   The Service includes goal-oriented AI systems or workflows that perform actions or tasks on your behalf in a supervised or autonomous manner that you may create, orchestrate, or initiate within the Service (“AI Agents”). You are solely responsible for: (a) the actions and tasks performed by an AI Agent; (b) determining whether the use an AI Agent is fit for its use case; (c) authorizing an AI Agent's access and connection to data, applications, and systems; and (d) exercising judgment and supervision when and if an AI Agent is used in production environments to avoid any potential harm the AI Agent may cause.
+*   We use Interactions to evaluate, develop, and improve Google and Alphabet research, products, services and machine learning technologies. Interactions are collected and used in accordance with this Agreement and the Privacy Policy. Google employees and contractors may access, view, review and use Interactions. If you don't want your Interactions used in this way, navigate to settings to change your preference on how such data is used.
+*   If you select a third party or open source model as your main agent model, you will be subject to the terms of that model. For Anthropic specifically, you agree to be bound by its terms and conditions found at https://www.anthropic.com/legal/commercial-terms.
+
+Please reach out to the team at antigravity-support@google.com with any questions or suggestions.
