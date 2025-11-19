@@ -1,62 +1,74 @@
 Glassdoor Terms of Use
 ======================
 
-**Revised:** September 29, 2025 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
+**Revised:** November 19, 2025 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
 
-Glassdoor LLC (“Glassdoor”) provides the services Glassdoor.com and Fishbowlapp.com. These Terms of Use (the “Terms”), which incorporate our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor), govern your access to and use of these services and affiliated websites, applications, ads, communications, events, and other covered products or services that link to these Terms (collectively “services”). The services covered by these terms are:
+Glassdoor LLC (“Glassdoor”) provides the services Glassdoor.com and Fishbowlapp.com. These Terms of Use (the “Terms”), which incorporate our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor), govern your access to and use of these services and affiliated websites, applications, ads, communications, events, and other covered products or services that link to these Terms (collectively “services”). The services covered by these terms are:
 
 *   [Glassdoor.com](https://www.glassdoor.com/)
-*   [Fishbowlapp.com](https://www.fishbowlapp.com/).
+*   [Fishbowlapp.com](https://www.fishbowlapp.com/)
 
 By accessing and using the services, you agree to comply with these Terms. If you’re using the services on behalf of a company or other legal entity, then “you” also means such company or legal entity and you agree to be bound by these Terms even if we have a separate agreement with you. You may not use the services if you do not agree to the linked version of the Terms at the time you access the services.
 
+*   For the purposes of these Terms, “Glassdoor,” “we,” “us,” and “our,” means Glassdoor LLC.
+*   “Indeed” means the Indeed entity you establish(ed) a contractual relationship with, depending on your location, as described in [Indeed’s Terms to access Indeed services](https://www.indeed.com/legal?hl=en&from=gnav-homepage)
+*   “Indeed services” means any services provided under the [Indeed Terms](https://www.indeed.com/legal?hl=en&from=gnav-homepage), which, for the avoidance of doubt, do not include those services covered by these Terms.
+
 **THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND ALSO LIMIT THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE. SEE SECTION 12 FOR ADDITIONAL INFORMATION.**
 
-1\. Eligibility to Use the Services
------------------------------------
+**1\. Eligibility to Use the Services**
+---------------------------------------
 
-To access or use the services, you must be at least 18 years of age or the age of majority in your jurisdiction, if older, and not prohibited from doing so by applicable law. Except as set forth below, or as otherwise approved by us, the services are for your personal, non-commercial use unless you enter into a separate agreement with us for your commercial use. You may not use the services if we’ve terminated your account(s) or banned you. 
+To access or use the services, you must be at least 18 years of age or the age of majority in your jurisdiction, if older, and not prohibited from doing so by applicable law. Except as set forth below, or as otherwise approved by us, the services are for your personal, non-commercial use unless you enter into a separate agreement with us for your commercial use. You may not use the services if we’ve terminated your account or banned you. 
 
-2\. Glassdoor Services Accounts
--------------------------------
+**2\. Glassdoor Services Account**
+----------------------------------
 
-### 2.1 Accounts And Profiles 
+### **2.1 Accounts And Profiles** 
 
 You must create an account and provide certain personal data to access most of our services. 
 
-*   You agree that the information you provide to us via your account(s) is accurate and that you will keep it accurate and up-to-date at all times. 
-*   You’re responsible for safeguarding your account(s), and you accept responsibility for all activities that occur via your account(s). Glassdoor disclaims any liability for third-party actions made via your account(s). You agree to notify us immediately if you suspect any unauthorized use of your account(s) or access to your password(s). 
-*   In order to provide you with access to features across our services, we may create and link different services’ accounts for you.
+*   You agree that the information you provide to us via your account is accurate and that you will keep it accurate and up-to-date at all times. 
+*   You’re responsible for safeguarding your account, and you accept responsibility for all activities that occur via your account. Glassdoor disclaims any liability for third-party actions made via your account. You agree to notify us immediately if you suspect any unauthorized use of your account or access to your password. 
 
-When you set up an account to access the services, we create a profile for you that will include personal data you provide (a **“Profile”**). 
+When you set up an account to access the services, we create a profile for you that will include personal data you provide (a “Profile”). 
 
-*   We may update your Profile with information we obtain from third parties. We may also use personal data you provide to us via your resume(s) or our other services. You can read more about how we collect and process your data in our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor).
+*   Beginning November 18, 2025, we offer users the ability to log in to our services using an Indeed services account. By creating, logging into, connecting, and/or utilizing an Indeed services account to access our services, you agree to Indeed’s [Terms](https://www.indeed.com/legal?hl=en&from=gnav-homepage#tos) and acknowledge Indeed’s [Cookie](https://hrtechprivacy.com/brands/indeed#Cookies) and [Privacy Policy](https://hrtechprivacy.com/brands/indeed#privacypolicy) (“Indeed Login”).
+    *   Existing Glassdoor users may continue to log in to our services using our legacy account authentication system (“Legacy Login”) until February 18, 2026. After February 18, 2026, we will no longer offer Legacy Login and our services will only be accessible using Indeed Login.
+    *   New users must utilize Indeed Login to access our services.
+*   By logging into our services using Indeed Login, you agree to connect your Glassdoor services account with your Indeed services account and create a “Connected Profile”, as described below:
+    *   Your Profile information will be synchronized between our services and the Indeed services to keep it accurate and up to date.
+    *   By connecting your accounts, you expressly agree that once you connect your accounts you may not disconnect them and that Glassdoor and Indeed:
+        1.  Each have a direct, independent relationship with you as a user of the respective services; 
+        2.  Each receive a complete copy of your Profile data and process it according to our respective [Privacy Policies](https://hrtechprivacy.com/); 
+        3.  Continue to keep your Profile data in sync until either your Glassdoor services account or Indeed services account is deleted.
+*   We may update your Profile with information we obtain from third parties. We may also use personal data you provide to us via your resume(s). You can read more about how we collect and process your data in our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor).
 *   We may attempt to verify your employment history or status through various methods, including third party integrations or services. We may also utilize signals we receive from your current or former employer. Glassdoor is not responsible to you or any third party if we are unable to or inaccurately verify your employment history or status.
-*   Portions of your Profile may be visible to other users and the public (e.g., your name and profile picture) depending on the services you use. We may also in certain circumstances allow you to share your Profile with third parties or provide you with the ability to change your Profile’s visibility settings. However, your Profile will not publicly include or link to Your Content (as defined in section 3), which you submit semi-/anonymously to our services. You can read more about your anonymity options in section 4 of these Terms and in our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor).
+*   Portions of your Profile may be visible to other users and the public (e.g., your name and profile picture) depending on the features you use. We may also in certain circumstances allow you to share your Profile with third parties or provide you with the ability to change your Profile’s visibility settings. However, your Profile will not publicly include or link to Your Content (as defined in section 3), which you submit semi-/anonymously to our services. You can read more about your anonymity options in section 4 of these Terms and in our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor).
 
-### 2.2 Communications 
+### **2.2 Communications** 
 
 By creating an account, you agree to accept and receive communications from Glassdoor, Glassdoor [affiliates](https://hrtechprivacy.com/brands), and our third-party service providers.
 
-For the purposes of these Terms, **“affiliates”** means any entity that directly or indirectly controls, is controlled by, or is under common control of or with Glassdoor, now or in the future. **“Control”** for these purposes means having a majority of shares or the right and ability to direct management. 
+For the purposes of these Terms, “affiliates” means any entity that directly or indirectly controls, is controlled by, or is under common control of or with Glassdoor, now or in the future. “Control” for these purposes means having a majority of shares or the right and ability to direct management. 
 
-These communications may be via email, text message, calls, push notifications, or otherwise. You understand and agree that you may receive communications generated by automatic telephone dialing systems delivering pre-recorded messages sent by or on behalf of Glassdoor, its affiliates, and/or our third-party service providers, including communications concerning your account(s), our services, and services offered by our affiliates. Message and data rates may apply. 
+These communications may be via email, text message, calls, push notifications, or otherwise. You understand and agree that you may receive communications generated by automatic telephone dialing systems delivering pre-recorded messages sent by or on behalf of Glassdoor, its affiliates, and/or our third-party service providers, including communications concerning your account, our services, and services offered by our affiliates. Message and data rates may apply. 
 
 *   To opt out of receiving text messages, you must reply “STOP” from the device receiving the messages. 
 *   To unsubscribe from non-service-related emails, please use the unsubscribe or email settings link in the email(s) you receive. If you unsubscribe only from an individual type of email communication (e.g., a particular job alert), you will continue to receive other types of emails. We may also offer a settings function via our services to manage your email preferences.
 *   To turn off push notifications, use in-app and/or operating system settings on your device. 
 
-Unless you choose to delete your account(s), you cannot unsubscribe from certain communications that are required as part of your use of our services (e.g., communications about changes to these Terms.)
+Unless you choose to delete your account, you cannot unsubscribe from certain communications that are required as part of your use of our services (e.g., communications about changes to these Terms.)
 
-3\. Content on Glassdoor Services
----------------------------------
+**3\. Content on Glassdoor Services**
+-------------------------------------
 
-**“Content”** means any work of authorship or information, including photos, logos, advertisements, comments, opinions, postings, resumes, salaries, messages, questions, text, files, images, works of authorship, e-mail, data, audio, video, or other materials. 
+“Content” means any work of authorship or information, including photos, logos, advertisements, comments, opinions, postings, resumes, salaries, messages, questions, text, files, images, works of authorship, e-mail, data, audio, video, or other materials. 
 
-### 3.1 Rights to Your Content
+### **3.1 Rights to Your Content**
 
-You are solely responsible for your use of the services and any Content you authorize for use on the services, or which is submitted via your account (**“Your Content”**).   
-   
+You are solely responsible for your use of the services and any Content you authorize for use on the services, or which is submitted via your account (“Your Content”).  
+  
 We do not claim ownership in Your Content that you submit or authorize for use to the services, but you grant us the rights to use Your Content as set forth below. By submitting or authorizing us to display Your Content, you hereby grant to us a worldwide, unrestricted, irrevocable, perpetual, non-exclusive, fully-paid, and royalty-free license (with the right to sublicense through unlimited levels of sublicenses) to use, reproduce, copy, process, modify, publish, translate, transmit, perform, display, create derivative works of, adapt, and distribute Your Content in any and all media (now known or later developed) throughout the world and display your name, images, likeness, voice, video, and any such other Content that you submit, link, or otherwise make available through the services, throughout the world in any manner or media, on or off the services including for purposes of promoting our services. 
 
 *   To the greatest extent permitted by applicable law, you hereby expressly waive any and all of your moral rights applicable to Glassdoor’s exercise of this license. 
@@ -65,18 +77,18 @@ We do not claim ownership in Your Content that you submit or authorize for use t
 *   Some of the live audio/video events hosted on or through the services may be recorded. By using the services and attending/participating in such audio/video events you agree to any such recordings and agree that all rights, titles, and interests in such recordings will vest in Glassdoor.
 *   You should only submit Content to the services that you are comfortable sharing with others under these Terms.
 
-By submitting ideas, suggestions, documents, feedback, and/or proposals, (collectively, **“Submissions”**) to Glassdoor or its employees or agents, you acknowledge and agree that Glassdoor is entitled to use, disclose, reproduce, license and otherwise distribute, and exploit these Submissions as we see fit, entirely without obligation or restriction of any kind on account of intellectual property rights or otherwise.
+By submitting ideas, suggestions, documents, feedback, and/or proposals, (collectively, “Submissions”) to Glassdoor or its employees or agents, you acknowledge and agree that Glassdoor is entitled to use, disclose, reproduce, license and otherwise distribute, and exploit these Submissions as we see fit, entirely without obligation or restriction of any kind on account of intellectual property rights or otherwise.
 
-### 3.2 Your Limited Rights to Content
+### **3.2 Your Limited Rights to Content**
 
 The services contain Content provided by us and our licensors. We and our licensors (including other users) own and retain all proprietary and intellectual property rights in the Content we each provide and Glassdoor owns and retains all rights in the services. If you’re an authorized user, we hereby grant you a limited, revocable, non-transferable, non-sublicensable license under the rights licensable by us to use the services and use Content from our services solely for your personal use in connection with the services. Except as provided in this section, you agree not to: 
 
 *   reproduce, modify, publish, transmit, distribute, publicly perform or display, sell, adapt, or create derivative works based on the services or the Content (excluding Your Content); or 
 *   rent, lease, loan, or sell access to the services.
 
-The trademarks, logos, and service marks (**“Marks”**) displayed on the services are our property or the property of third parties. You are not permitted to use these Marks without our prior written consent or the consent of the third party that owns the Mark. Glassdoor reserves all rights not expressly granted in these Terms.
+The trademarks, logos, and service marks (“Marks”) displayed on the services are our property or the property of third parties. You are not permitted to use these Marks without our prior written consent or the consent of the third party that owns the Mark. Glassdoor reserves all rights not expressly granted in these Terms.
 
-### 3.3 Content on the Services 
+### **3.3 Content on the Services** 
 
 Content from Glassdoor, as well as users, advertisers, and other third parties is made available to you through the services. . You understand and agree that:
 
@@ -85,61 +97,67 @@ Content from Glassdoor, as well as users, advertisers, and other third parties i
 3.  We make no guarantees about the accuracy, currency, suitability, reliability, or quality of the information or Content on or linked to via our services, including translations, transcriptions, or captions; and
 4.  We assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful Content made available by users, advertisers, and third parties.
 
-In accordance with [Section 230 of the U.S. Communications Decency Act](http://www.law.cornell.edu/uscode/text/47/230), and any equivalent or similar laws in other jurisdictions which are intended to exclude or limit the liability of online service providers who provide access to user-generated content, we generally cannot be held liable for claims arising from the Content provided by third parties on the services. For more information, please see our [Legal FAQs](https://help.glassdoor.com/s/topic/0TO1E000000EMvLWAW/legal-faqs?language=en_US).
+In accordance with [Section 230 of the U.S. Communications Decency Act](http://www.law.cornell.edu/uscode/text/47/230), and any equivalent or similar laws in other jurisdictions which are intended to exclude or limit the liability of online service providers who provide access to user-generated content, we generally cannot be held liable for claims arising from the Content provided by third parties on the services. You agree that Glassdoor provides an interactive computer service and shall not be treated as the publisher or speaker of AI-Generated Content (as defined below), which is generated by artificial intelligence or a machine-learning model and may be provided by a third party. For more information, please see our [Legal FAQs](https://help.glassdoor.com/s/topic/0TO1E000000EMvLWAW/legal-faqs?language=en_US).
 
-4\. Your Use of the Services
-----------------------------
+**4\. Your Use of the Services**
+--------------------------------
 
-### 4.1 Using Glassdoor Services
+### **4.1 Using Glassdoor Services**
 
 Glassdoor offers a variety of services that may change from time to time, at our sole discretion. 
 
 *   Whether or not you’ve set up an account on our services, if you use our services we may process your personal data. We describe how we may use your personal data in our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor). This includes personal data we use to offer or provide our services to you, our customers, other users, and the public, as well as to manage and improve our services. We also collect and share personal data with third party service providers acting on our behalf, including providers of analytics services that may record or log your activities on our services, including text you enter, pages you visit, and features you interact with. By using our services, you agree to this data processing and sharing.
-
 *   We may offer you the ability to create and/or join groups to have conversations and create communities with other users (also known as “bowls”). Groups may have managers or leaders (also known as “community” or “bowl leaders”) who have access to additional features for managing their groups (e.g., the ability to pin or highlight Content or approve new members). Leading a group is an unofficial, voluntary position that may be available to users of the services. We are not responsible for actions taken by group leaders. Group leaders are not, and may not represent that they are, authorized to act on behalf of Glassdoor. We reserve the right to revoke or limit a user’s ability to lead a group at any time and for any reason or no reason, including for breaching these Terms. 
-
-*   We may provide you with the ability to research jobs, including via search functionality and through personalized ads and recommendations. We may also allow you to submit job applications via our services. We work with [our affiliates](https://hrtechprivacy.com/brands) to provide this service. When you click the apply (or a similar) button to submit an application, your application is sent to the most appropriate contact information we and/or our affiliates have on file for that employer.
+*   We may provide you with the ability to research jobs, including via search functionality and through personalized ads and recommendations. We may also allow you to submit job applications via our services. We work with [our affiliates](https://hrtechprivacy.com/brands) to provide this service. When you apply to a job on Glassdoor, your application is submitted via Indeed services, governed by [Indeed’s Terms of Service](https://www.indeed.com/legal?hl=en&from=gnav-homepage#tos); by using these features, you agree to Indeed’s Terms of Service and acknowledge your data will be processed according to [Indeed’s Privacy Policy](https://hrtechprivacy.com/brands/indeed#privacypolicy). When you click the apply (or a similar) button to submit an application, your application is sent to the most appropriate contact information we and/or our affiliates have on file for that employer.
     *   While we and our affiliates endeavor to make this service the best it can be, employer websites and their service providers are not controlled by us, and we cannot guarantee that your application will be properly received and logged by any third-party employer upon transmission. If you have any reason to think your application was not received by an employer, we suggest you contact them directly to confirm.
     *   Glassdoor does not guarantee the identity of an employer or any individuals working for any employers, and therefore advises users to exercise caution when applying to jobs. Glassdoor does not guarantee the validity of a job offer; users should verify the validity of a job offer before taking adverse action regarding their current employment situations. You are solely responsible for verifying the accuracy of any employer or job offer.
 
 *   Personalization of your Glassdoor experience may vary depending on how you use our services and if you have registered for an account. When available, we will use your location, your Profile, and your activity on our services (e.g., pages you view, Content you interact with, jobs you search for) to personalize your experience. To learn more about which information we collect and how we use it, please see our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor). You cannot opt out of or adjust these personalization features absent deleting your account or information from your Profile. The most important factors for personalization include your location and your Profile. We may use your personal information and activity to personalize:
-    *   The jobs we recommend to you or show you in search results;
+    *   The jobs we, in partnership with Indeed, recommend to you or show you in search results (you can learn more about how Indeed recommends jobs [here](https://www.indeed.com/legal?hl=en&from=gnav-homepage#DSA));
     *   The groups, people, or Content we recommend you join or view; and
-    *   The advertisements we show you.
+    *   The advertisements we show you (you can learn more about how Indeed-powered ads are recommended, including jobs ads, [here](https://www.indeed.com/legal?hl=en&from=gnav-homepage#DSA)).
+*   Glassdoor may make available content created in whole or in part by an algorithm (including “artificial intelligence”, “AI”, and machine learning algorithms), which may be generated in response to information you or other users provide through the services (“AI-Generated Content”). AI-Generated Content may include any type of Content, including posts, comments, pictures, video, audio, chats and chatbots, draft and final cover letters or resumes, career recommendations, template job descriptions, messages or highlights/summaries made available by Glassdoor, by our users, and/or directly by a machine learning model or algorithm (including chatbots).
+    *   AI-Generated Content may be generated in whole or in part by third-party service providers. 
+    *   You agree that you do not have any intellectual property rights in any AI offering or any models. 
+    *   You acknowledge that due to the nature of artificial intelligence and machine learning, we may generate the same or similar AI-Generated Content for multiple third parties. 
+    *   As between you and Glassdoor, to the extent not owned by someone else, you own intellectual property rights for your inputs to generate AI-Generated Content. To the extent recognized by applicable law, you own intellectual property rights for AI-Generated Content generated (that does not contain Content owned by others) specifically in response to your input of Your Content. You also agree that your inputs and AI-Generated Content that is generated specifically in response to your inputs are considered Content and subject to the license as described in Section 3.1 above. 
+    *   Given the variable nature of this type of content, AI-Generated Content is provided “as is” and Glassdoor makes no warranty that AI-Generated Content is appropriate, accurate, inoffensive, unbiased, non-infringing, legal, or safe, and disclaims all liability for AI-Generated Content (see Section 8 for more details).
+    *   Use of AI-Generated Content is entirely at your own risk. AI-Generated Content may not accurately reflect real people, places, or facts. You must evaluate AI-Generated Content for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing AI-Generated Content generated through our services. By generating or using AI-Generated Content (e.g., by providing Content to the services for the purpose of generating AI-Generated Content, or by adding AI-Generated Content to a post or resume), you adopt, confirm, and ratify it, and you become the speaker of that content for all purposes. 
+    *   You acknowledge and agree that none of Glassdoor’s AI-Generated Content, such as the output of chatbots, are empowered to enter into, or make any changes to, any agreements on behalf of Glassdoor or our affiliates and that any decisions or actions taken by such offerings are not legally binding. Further, you agree that Glassdoor is not obligated to honor any expectations raised or commitments made by AI-Generated Content if they are inconsistent with Glassdoor’s Terms or policies and are not expressly offered elsewhere by Glassdoor on the services.
 
-### 4.2 Anonymity And Identity On Glassdoor
+### **4.2 Anonymity And Identity On Glassdoor**
 
 Depending on the services you use, we may offer you different options for controlling how your personal data and identity are represented to other users, employers, and the public.
 
-*   A portion of your Profile on our community and conversation services (e.g., Fishbowl and community and conversation features across our services) is always public. Therefore, your profile picture, company name, title, and other general information (but not including your semi-/anonymous Content submissions) will be visible to the public and available via search.. Content submitted with semi-/anonymous identifiers such as your company name or job title is not associated with the publicly-visible portion of your Profile.
+*   A portion of your Profile on our community and conversation services (e.g., Fishbowl and community and conversation features across our services) is always public. Therefore, your profile picture, company name, title, and other general information (but not including your semi-/anonymous Content submissions) will be visible to the public and may be available via search. Content submitted with semi-/anonymous identifiers such as your company name or job title is not associated with the publicly-visible portion of your Profile.
 *   When you submit Content such as a post, comment, or question, you may be able to control how you represent yourself using different anonymity options. For example, when using some of our services, you can choose to submit Content with your company name, your job title, or your full name. 
 *   When submitting other Content, such as reviews, you may be required to include certain personal data for public display, such as your employer, job title, and/or location. 
 *   In some groups, we may allow you to make your Profile visible to other members of the group so you can interact with them. 
 *   In some instances, we may allow group leaders to limit access to a group and approve new group members. When you request access to a group, your Profile and answers to member-approval questions may be shared with the leader(s) for that group.
 *   We endeavor to offer opportunities to use our services while preserving your anonymity, However, you acknowledge that Glassdoor cannot guarantee your anonymity as, depending on your specific situation and circumstances and the contents of your Content, even semi-/anonymous identifiers, such as company or job title, especially when paired with other information such as your location, may allow someone to identify you or narrow down your identity to a small group of people (e.g., employees in a particular department at your company). You should understand this risk before submitting Content to the services.
 
-### 4.3 House Rules 
+### **4.3 House Rules** 
 
 You represent and warrant that you will use the services solely for lawful purposes in a manner consistent with these Terms and any and all applicable laws, regulations, or other legally enforceable obligations (including contractual obligations) you may have towards us and/or any third parties. 
 
 *   You are solely responsible for your use of the services and Your Content. 
-*   You agree that by submitting or authorizing Your Content for use on the services, you have reviewed, understood, and agreed to adhere to our [Glassdoor Community Guidelines](https://help.glassdoor.com/s/article/Community-Guidelines?language=en_US) (“Community Guidelines”), which are incorporated into these Terms. 
+*   You agree that by submitting or authorizing Your Content for use on the services, you have reviewed, understood, and agreed to adhere to our [Glassdoor Community Guidelines](https://help.glassdoor.com/s/article/Community-Guidelines?language=en_US) (“Community Guidelines”), which are incorporated into these Terms. Glassdoor has sole discretion in determining if Content violates our Community Guidelines and what, if any action we may take in response to Content made available on our services.
 *   You understand that you may expose yourself to liability if Your Content or use of the services violates applicable law or any third-party right.
 *   If you work for a multi-level marketing company, you agree that you have reviewed and will abide by the [Glassdoor Guidelines for Multi-Level Marketing Companies](http://help.glassdoor.com/article/Glassdoor-Guidelines-for-Multi-Level-Marketing-Companies/?_gl=1*3wdhm*_ga*MTcwNDA1MjI5Ny4xNjU5OTkyNjUz*_ga_RC95PMVB3H*MTY2MDE2OTQ1OC43LjEuMTY2MDE3MDU3OS40OQ..).
-*   If you choose to use the services to conduct a promotion, including a contest or sweepstakes (**“Promotion”**), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations. You and your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Glassdoor or our services. You acknowledge and agree that we will not assist you in any way with your Promotion, and you agree to conduct your Promotion at your own risk. We reserve the right to restrict your use of the services to conduct Promotions.
+*   If you choose to use the services to conduct a promotion, including a contest or sweepstakes (“Promotion”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations. You and your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Glassdoor or our services. You acknowledge and agree that we will not assist you in any way with your Promotion, and you agree to conduct your Promotion at your own risk. We reserve the right to restrict your use of the services to conduct Promotions.
 
 We allow users to submit Content about their experiences working for employers when they have been employed by the employer as a full-time, part-time, contractor, freelancer, independent employee, or provide work that is an integral part of the employer’s value chain. 
 
 *   We also allow users to submit Content regarding the staffing firms that place them in these roles. 
 *   We consider all workers in these roles as ’employees’ with regard to Content submitted to Glassdoor services. 
-*   While we may provide the option for Glassdoor users to specify the category of their employment when they submit Content (e.g contractor, freelancer), we may not consider this a requirement. It does not violate our Community Guidelines or these Terms for a worker in any one of these roles to submit Content as an “employee.”
+*   While we may provide the option for Glassdoor users to specify the category of their employment when they submit Content (e.g., contractor, freelancer), we may not consider this a requirement. It does not violate our Community Guidelines or these Terms for a worker in any one of these roles to submit Content as an “employee.”
 
 You agree that you will not:
 
 1.  Impersonate another person, or use their email address or phone number, or misrepresent your current or former affiliation with an employer;
 2.  Create accounts under false or fraudulent pretenses; create or use an account for anyone other than yourself; or create multiple active accounts to submit Content or interact with other users;
 3.  Submit Content that you do not own or have the right to submit in accordance with the license set forth in these Terms;
-4.  Violate these Terms, the terms of your agreements with us, explicit restrictions set forth in our Community Guidelines, or any applicable law, rule, or regulation;
+4.  Violate these Terms, the terms of your agreements with us (or our affiliates if you have connected your Glassdoor account to an affiliate account, such as an Indeed services account), explicit restrictions set forth in our Community Guidelines, or any applicable law, rule, or regulation;
 5.  Submit Content that is defamatory, libelous, or fraudulent; that you know to be false or misleading; or that does not reflect your honest opinion and authentic experience;
 6.  Act in a manner that is harassing, trolling, threatening, abusive, racist, bigoted, or is otherwise objectionable (as solely determined by Glassdoor);
 7.  Discriminate regarding access to communities or groups that you create, manage, lead, or participate in. (For company communities, any verified user of the company that the community is associated with may join and access the community.);
@@ -160,8 +178,9 @@ You agree that you will not:
 22.  Interfere with, disrupt, modify, reverse engineer, or decompile any data or functionality of the services;
 23.  Interfere with, disrupt, or create an undue burden on the services or the networks or services connected to the services; and/or
 24.  Introduce any viruses, trojan horses, worms, time bombs, cancelbots, corrupted files, or similar software to the services; or attempt to circumvent any security feature of the services.
+25.  Use AI-Generated Content for adversarial, abusive, or other harmful purposes, including misusing outputs to create misleading, illegal, or harmful content or testing the functionality to exploit vulnerabilities.
 
-### 4.4 Actions We May Take
+### **4.4 Actions We May Take**
 
 We may, at our sole discretion:
 
@@ -170,22 +189,23 @@ We may, at our sole discretion:
 *   Remove, refuse to distribute, or limit distribution or visibility of any Content on the services.
 *   Suspend or terminate users.
 
-Violations of our Terms and Community Guidelines will result in the removal of the associated Content or account.
+Violations, as determined solely by Glassdoor, of our Terms and Community Guidelines will result in the removal of the associated Content or account.
 
 *   Repeated violations will result in a temporary suspension from submitting content to our services; further violations will result in a permanent suspension. 
 *   Violations of our review integrity rules (e.g., using multiple accounts to submit reviews for the same company) will result in a temporary six-month suspension of your Content submission privileges; a second offense will result in a permanent suspension.
 *   Repeated user reports of misuse of messaging services will result in a temporary, two-week suspension; further violations will result in permanent suspension of your messaging privileges or account, depending on the nature of the violation.
+*   Violations of Indeed’s [Terms](https://www.indeed.com/legal?hl=en&from=gnav-homepage#tos), policies, or rules may result in you losing access to our services. If your actions on Indeed’s services result in you losing access to Glassdoor services, you may appeal by utilizing the [Job Seeker Appeal Form](https://www.indeed.com/support/contact?primaryCategory=16&secondaryCategory=0&zlang=en) or by contacting Indeed’s Job Seeker Support at the bottom of [this page](https://support.indeed.com/hc/en-us/articles/360028540531-Indeed-Job-Seeker-Guidelines).
 
-### 4.5 **Additional Special Provisions Applicable to Users in the** [**European Economic Area**](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_\(EEA\)) **(“EEA”)**
+### **4.5 Additional Special Provisions Applicable to Users in the** [**European Economic Area**](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_\(EEA\)) **(“EEA”)**
 
-1.  Glassdoor’s point of contact for communications related to the Digital Services Act (“DSA”), including government requests or orders, the Glassdoor internal complaint handling system, and the submission page for “notice and action” can be found [here](https://help.glassdoor.com/s/digitalservices?language=en_US).
+1.  Glassdoor’s point of contact for communications related to the Digital Services Act (“DSA”), including government requests or orders, the Glassdoor internal complaint handling system, and the submission page for “notice and action” can be found [here](https://help.glassdoor.com/s/digitalservices?language=en_US). If you submit a complaint requesting removal of Content or reconsideration of a previous decision, we will review that complaint based on the facts and information available to us and supplied by you and provide our decision via email. All complaints are reviewed by a human and we aim to respond within two business days with our decision or requests for further information. 
 2.  Glassdoor’s legal representative for purposes of the DSA is Glassdoor Hiring Solutions Ireland Limited.
-3.  EEA residents have the right to utilize a designated out-of-court dispute settlement system. The DSA requires that each EEA Member State certify out-of-court settlement bodies to handle eligible disputes. No out-of-court settlement bodies have been certified at this time. We will update this site as information becomes available. You may also have the option to pursue your claim(s) in court.
+3.  EEA residents have the right to utilize a designated out-of-court dispute settlement system. The DSA requires that each EEA Member State certify out-of-court settlement bodies to handle eligible disputes. A list of certified bodies is available [here](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement#ecl-inpage-List-of-bodies).. You may also have the option to pursue your claim(s) in court.
 
-5\. Special Provisions Applicable to Employers and Enterprise Customers.
-------------------------------------------------------------------------
+**5\. Special Provisions Applicable to Employers and Enterprise Customers.**
+----------------------------------------------------------------------------
 
-### 5.1 Posting Jobs to the Services 
+### **5.1 Posting Jobs to the Services** 
 
 You may not post any job ad, as determined solely by Glassdoor, that:
 
@@ -200,22 +220,22 @@ You may not post any job ad, as determined solely by Glassdoor, that:
 
 You agree that Glassdoor may, at its sole discretion, remove or prevent the posting of any job ad for any or no reason.
 
-### 5.2 Content on Glassdoor Services
+### **5.2 Content on Glassdoor Services**
 
 You may not offer incentives in exchange for Content related to any company. You may not trade Content submissions with other employers. We will remove Content where we believe that users were compensated to submit Content.
 
 You may not coerce employees to submit Content. Coercion includes asking employees to provide proof to an employer that they submitted Content whether or not that proof includes the contents of the Content itself.
 
-### 5.3 Communications With Users. 
+### **5.3 Communications With Users.** 
 
 We may inform a user when you have taken an action with respect to information we or our affiliates have shared with you on behalf of that user, such as when you open the user’s application, view their resume or profile on the services (or an affiliate’s services), and/or make a decision about their application. When you view, store, or receive materials through your use of the services or an affiliate’s services, we may use such materials for data analysis, quality control, or to refine our services and services. We may also share with our users our observations based on such data analysis. For example, we may tell our users which employers are more likely to open applications submitted via the services, which employers are active on the services, and how long on average certain aspects of the candidate process take for a given employer. We may send out reminder emails to users you wish to interview. We may also send emails to users on your behalf indicating that your job ad is potentially a match for the user’s resume or job preferences. You understand and agree that Glassdoor may take such actions.
 
-### 5.4. Special Provisions Applicable to Advertisers
+### **5.4. Special Provisions Applicable to Advertisers**
 
-This provision applies to all advertisers, including employers who purchase or post job ads or display ads. Unless we agree otherwise, you may not use or otherwise process data collected or derived from ads (**“Ad Data”**) for any purpose (including retargeting, building or augmenting user profiles, allowing piggybacking or redirecting with tags, or combining with data across multiple advertisers’ campaigns) other than to assess the performance and effectiveness of your campaigns on an aggregate and anonymous basis. You may not, and you may not permit a third party to, transfer or sell any Ad Data to, or use Ad Data in connection with, any ad network, ad exchange, data broker, or other party not acting on behalf of you and your campaigns. You may use information provided directly to you from users if you provide clear notice to and obtain applicable consent from those users and comply with all applicable laws and industry guidelines, including those applicable to data protection.
+This provision applies to all advertisers, including employers who purchase or post job ads or display ads. Unless we agree otherwise, you may not use or otherwise process data collected or derived from ads (“Ad Data”) for any purpose (including retargeting, building or augmenting user profiles, allowing piggybacking or redirecting with tags, or combining with data across multiple advertisers’ campaigns) other than to assess the performance and effectiveness of your campaigns on an aggregate and anonymous basis. You may not, and you may not permit a third party to, transfer or sell any Ad Data to, or use Ad Data in connection with, any ad network, ad exchange, data broker, or other party not acting on behalf of you and your campaigns. You may use information provided directly to you from users if you provide clear notice to and obtain applicable consent from those users and comply with all applicable laws and industry guidelines, including those applicable to data protection.
 
-6\. Enforcement by Glassdoor or Third Parties
----------------------------------------------
+**6\. Enforcement by Glassdoor or Third Parties**
+-------------------------------------------------
 
 ### **6.1 Removal of Content** 
 
@@ -233,13 +253,13 @@ While we have no obligation to do so, we reserve the right to investigate and ta
 
 You understand and agree that in certain circumstances we may disclose users’ personal data to third parties, such as when we are required to by law or valid legal process. You can read more about the specific circumstances in the “Other Instances When We May Disclose Your Data” section of our Privacy Policy. While we have no obligation to do so, we reserve the right, to the fullest extent permitted by applicable law, to take appropriate action to protect the anonymity of our users against the enforcement of subpoenas or other information requests that seek a user’s identifying information or personal data. We make no guarantee or representation that we will seek to protect user anonymity or, if we elect to do so, that we will be successful.
 
-7\. Indemnity
--------------
+**7\. Indemnity**
+-----------------
 
-You agree to defend, indemnify, and hold us and our affiliates and subsidiaries and our and their respective officers, directors, board members, board advisors, employees, partners, agents successors and assigns (collectively, the “Glassdoor Group”) harmless from any loss, liability, claim, or demand, including reasonable attorneys’ fees and costs, made by any third party due to or otherwise arising from your use of the services, including due to or arising from your breach of any provision of these Terms, or related to you providing false information regarding your identity or employment history or status. 
+You agree to defend, indemnify, and hold us and our affiliates and subsidiaries and our and their respective officers, directors, board members, board advisors, employees, partners, agents successors and assigns (collectively, the “Glassdoor Group”) harmless from any loss, liability, claim, or demand, including reasonable attorneys’ fees and costs, made by any third party due to or otherwise arising from your use of the services, including from your use or misuse of AI-Generated Content or AI features, due to or arising from your breach of any provision of these Terms, or related to you providing false information regarding your identity or employment history or status. 
 
-8\. Disclaimers and Limitation on Liability
--------------------------------------------
+**8\. Disclaimers and Limitation on Liability**
+-----------------------------------------------
 
 The disclaimers and limitations on liability in this section apply to the maximum extent allowable under applicable law. Nothing in this section is intended to limit any rights you have which may not be lawfully limited.
 
@@ -259,62 +279,62 @@ Glassdoor reserves the right in its sole discretion to review, improve, modify, 
 
 You acknowledge that you are familiar with the provisions of Section 1542 of the California Civil Code (or similar applicable law in your jurisdiction), which provides as follows: **“A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”** You hereby expressly waive and relinquish all rights and benefits under Section 1542 of the California Civil Code and any law or legal principle of similar effect in any jurisdiction with respect to the releases and/or discharges granted in these Terms, including but not limited to the releases and/or discharges of unknown claims.
 
-9\. Termination
----------------
+**9\. Termination**
+-------------------
 
 These Terms remain in effect while you use the services and, for registered users, as long as your account(s) remains open. You may delete your account(s) at any time. We may suspend or terminate your account(s) or your access to parts of the services, for any or no reason, without notice to you. We will have no liability whatsoever to you for any termination of your account(s) or related deletion of your data.
 
 All provisions of these Terms shall survive termination or expiration of these Terms except those provisions granting access to or use of the services. For the avoidance of doubt, you agree that these Terms apply to your use of the services and any Content submitted on the services at any time prior to the termination or expiration of these Terms.
 
-10\. Changes to These Terms
----------------------------
+**10\. Changes to These Terms**
+-------------------------------
 
 We may revise these Terms from time to time by posting an updated version available via a link on the services. If we make a change that we believe materially reduces your rights or increases your responsibilities, we will notify you by communication (e.g., by email or text message sent to the e-mail address or phone number specified in your account) and/or by means of a notice on the services prior to the change becoming effective. We may provide notice of changes in other circumstances as well. Any such changes will not apply to any claim brought prior to the effective date of the revised Terms incorporating such changes. We encourage you to periodically review this page for the latest information on our Terms. Your continued use of the services is subject to the most current effective version of these Terms.
 
-11\. Pre-Suit Discovery & Analogous Procedures Or Applications
---------------------------------------------------------------
+**11\. Pre-Suit Discovery & Analogous Procedures Or Applications**
+------------------------------------------------------------------
 
 You agree to waive your right to file a pre-suit discovery proceeding (or any equivalent procedure in jurisdictions other than the U.S.) seeking a user’s identifying information from Glassdoor. If you intend to propound discovery seeking a user’s identifying information, you agree to do so pursuant to a valid California subpoena, properly issued in connection with an active lawsuit and properly served on our registered agent in California at Glassdoor LLC, c/o CT Corporation, 330 N Brand Blvd, Glendale, CA 91203. You further agree that all such subpoenas and discovery proceedings arising from such subpoenas shall be issued from, brought, and resolved exclusively in the state courts located within Marin County, California or the federal courts in the Northern District of California, as appropriate, and you agree to submit to the personal jurisdiction of each of these courts for such discovery proceedings.
 
-12\. Dispute Resolution
------------------------
+**12\. Dispute Resolution**
+---------------------------
 
-**PLEASE READ THIS SECTION 12 CAREFULLY AS IT AFFECTS YOUR RIGHTS. UNLESS YOU OPT OUT OF ARBITRATION PURSUANT TO SECTION 12.2.3 BELOW, YOU AGREE THAT BY ENTERING INTO THESE TERMS, YOU AND GLASSDOOR ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION. YOU AND GLASSDOOR AGREE THAT EACH PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. ANY ARBITRATION WILL TAKE PLACE ON AN INDIVIDUAL BASIS; CLASS ARBITRATIONS ARE NOT PERMITTED.**
+PLEASE READ THIS SECTION 12 CAREFULLY AS IT AFFECTS YOUR RIGHTS. UNLESS YOU OPT OUT OF ARBITRATION PURSUANT TO SECTION 12.2.3 BELOW, YOU AGREE THAT BY ENTERING INTO THESE TERMS, YOU AND GLASSDOOR ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION. YOU AND GLASSDOOR AGREE THAT EACH PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. ANY ARBITRATION WILL TAKE PLACE ON AN INDIVIDUAL BASIS; CLASS ARBITRATIONS ARE NOT PERMITTED.
 
-### 12.1 Informal Dispute Resolution
+### **12.1 Informal Dispute Resolution**
 
 *   If either of us intends to seek arbitration under this section, the party seeking arbitration must first notify the other party of the dispute in writing at least 30 days in advance of initiating arbitration. You and we agree that the opportunity to meet and confer informally is a material term and a material reason we are offering this service and therefore you agree you will abide by it. 
-*   Notice to Glassdoor should be sent to the Glassdoor LLC, c/o CT Corporation, ATTN: Litigation Department, 330 North Brand Boulevard, Glendale, CA 91203-2336. If you have an account with our services, we will provide notice by means of a communication to the email address or phone number associated with your account. 
-*   Any notice of dispute (**“Notice”**) must (1) describe the nature and basis of the claim or dispute; and (2) set forth the specific relief sought. You may download or copy a form Notice [here](http://media.glassdoor.com/legal/Glassdoor-Notice-of-Dispute.pdf). 
+*   Notice to Glassdoor should be sent to our registered agent: Glassdoor LLC, c/o CT Corporation, ATTN: Litigation Department, 330 North Brand Boulevard, Glendale, CA 91203-2336. If you have an account with our services, we will provide notice by means of a communication to the email address or phone number associated with your account. 
+*   Any notice of dispute (“Notice”) must (1) describe the nature and basis of the claim or dispute; and (2) set forth the specific relief sought. You may download or copy a form Notice [here](http://media.glassdoor.com/legal/Glassdoor-Notice-of-Dispute.pdf). 
 *   During the 30 day period, you and we agree to act in good faith to resolve the dispute. If you and Glassdoor cannot reach an agreement to resolve the claim within 30 days after the Notice is received, you or Glassdoor may commence formal proceedings in accordance with section 12.2.
 
-### 12.2 Binding Arbitration Agreement, Exceptions to Arbitration, Governing Law & Venue
+### **12.2 Binding Arbitration Agreement, Exceptions to Arbitration, Governing Law & Venue**
 
-#### 12.2.1 Agreement to Arbitrate and Class Action/Class Arbitration Waiver. 
+#### **12.2.1 Agreement to Arbitrate and Class Action/Class Arbitration Waiver.** 
 
 Subject to the exceptions to arbitration set forth in subpart 12.2.4 below, you and Glassdoor each agree that any and all disputes between Glassdoor and consumer (i.e., non-business/commercial) users arising under or related in any way to these Terms and/or your use of our services (and which are not otherwise resolved pursuant to section 12.1) must be resolved through binding arbitration as described in section 12.2. If an arbitrator or court decides that any part of this agreement to arbitrate set forth in section 12.2 is unenforceable, the remainder of section 12 of these Terms will nevertheless still apply (including the prohibition on class arbitration).
 
-#### 12.2.2 Arbitration Procedure. 
+#### **12.2.2 Arbitration Procedure.** 
 
-*   Any arbitration will be governed by the Consumer Arbitration Rules of the American Arbitration Association (**“AAA”**), if applicable, as modified by this section. The AAA’s rules and a form for initiating the proceeding are available at [www.adr.org](http://www.adr.org/). Any settlement offer made by you or Glassdoor shall not be disclosed to the arbitrator. 
+*   Any arbitration will be governed by the Consumer Arbitration Rules of the American Arbitration Association (“AAA”), if applicable, as modified by this section. The AAA’s rules and a form for initiating the proceeding are available at [www.adr.org](http://www.adr.org/). Any settlement offer made by you or Glassdoor shall not be disclosed to the arbitrator. 
 *   Unless otherwise required by the applicable arbitration rules, the arbitration shall be held in San Francisco, California. 
 *   For any claim where the total amount of the award sought is $10,000 or less, you and Glassdoor may elect to have the arbitration conducted by audio and/or a video communication system (including, but not limited to telephone conference or a video conference platform such as Zoom) or based solely on written submissions, which election shall be binding on you and Glassdoor subject to the arbitrator’s discretion to require an in-person hearing. In cases where an in-person hearing is held, you or Glassdoor may attend by audio and/or a video communication system (including, but not limited to telephone conference or a video conference platform such as Zoom), unless the arbitrator requires otherwise. 
 *   The arbitrator will decide the substance of all claims in accordance with applicable law, including recognized principles of equity, and will honor all claims of privilege recognized by law. 
 *   The arbitrator shall not be bound by rulings in prior arbitrations involving different users, but is bound by rulings in prior arbitrations involving the same user to the extent required by applicable law. 
 *   The arbitrator’s award shall be final and binding and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
 
-#### 12.2.3 Opt-Out Procedure. 
+#### **12.2.3 Opt-Out Procedure.** 
 
-**IF YOU ARE A NEW USER, YOU CAN CHOOSE TO REJECT THIS AGREEMENT TO ARBITRATE (“OPT-OUT”) BY MAILING US A WRITTEN OPT-OUT NOTICE (“OPT-OUT NOTICE”). THE OPT-OUT NOTICE MUST BE POSTMARKED NO LATER THAN 30 DAYS AFTER THE DATE YOU ACCEPT THESE TERMS FOR THE FIRST TIME. YOU MUST MAIL THE OPT-OUT NOTICE TO GLASSDOOR LLC, C/O CT CORPORATION, ATTN: LITIGATION DEPARTMENT, RE: OPT-OUT NOTICE, 330 NORTH BRAND BOULEVARD, GLENDALE, CA 91203-2336.** 
+IF YOU ARE A NEW USER, YOU CAN CHOOSE TO REJECT THIS AGREEMENT TO ARBITRATE (“OPT-OUT”) BY MAILING US A WRITTEN OPT-OUT NOTICE (“OPT-OUT NOTICE”). THE OPT-OUT NOTICE MUST BE POSTMARKED NO LATER THAN 30 DAYS AFTER THE DATE YOU ACCEPT THESE TERMS FOR THE FIRST TIME. YOU MUST MAIL THE OPT-OUT NOTICE TO OUR REGISTERED AGENT: GLASSDOOR LLC, C/O CT CORPORATION, ATTN: LITIGATION DEPARTMENT, RE: OPT-OUT NOTICE, 330 NORTH BRAND BOULEVARD, GLENDALE, CA 91203-2336. 
 
 *   For your convenience, we are providing an [Opt-Out Notice form](http://media.glassdoor.com/legal/Glassdoor-Arbitration-Opt-Out-Notice.pdf) that you may use. Please make sure to include your name, address (street address, city, state, and zip code), and the email address(es) associated with the account(s) to which the opt-out applies. You must sign the Opt-Out Notice for it to be effective. 
 *   This procedure is the only way you can opt out of the agreement to arbitrate set forth in section 12.2. If you opt out of the agreement to arbitrate set forth in this section, all other parts of these Terms and section 12 will continue to apply to you. Opting out of the agreement to arbitrate has no effect on any previous, other, or future arbitration agreements that you may enter into or have entered into with us.
 
-#### 12.2.4 Exceptions to Arbitration. 
+#### **12.2.4 Exceptions to Arbitration.** 
 
 The agreement to arbitration provisions set forth in subparts 12.2.1 and 12.2.2 above will not apply to the following:
 
-1.  small claims court cases that qualify for small claims status;
+1.  United States small claims court cases that qualify for small claims status;
 2.  legal proceedings or procedures that involve efforts to obtain personal data related to a user or users, including but not limited to the author of any Glassdoor Content or review;
 3.  any legal proceedings brought against any of the Glassdoor Group by companies or other legal entities, or individuals acting on behalf of such companies or other legal entities;
 4.  any legal proceedings brought by any of the Glassdoor Group against companies or other legal entities, or individuals acting on behalf of any such companies or other legal entities; and
@@ -324,19 +344,19 @@ The agreement to arbitration provisions set forth in subparts 12.2.1 and 12.2.2 
 
 If, for some reason, the prohibition on class arbitrations set forth in section 12 cannot be enforced, then the entirety of the agreement to arbitrate set forth in subparts 12.2.1-3 will not apply; the remainder of section 12 will continue to apply.
 
-#### 12.2.5 Governing Law and Venue.
+#### **12.2.5 Governing Law and Venue.**
 
 *   For claims subject to the exceptions to arbitration set forth in subpart 12.2.4, these Terms and any and all claims, disputes, or other legal proceedings by or between you or us, including but not limited to any such claims or disputes that are in any way related to or arising under these Terms or your access to or use of our services, shall be governed by the laws of the State of California without giving effect to any conflict-of-laws principles that may otherwise provide for the application of the law of another jurisdiction. These claims or disputes shall be brought and litigated exclusively in the state courts located within Marin County, California or the federal courts in the Northern District of California, as appropriate, and you agree to submit to the personal jurisdiction of each of these courts for the purpose of litigating such claims or disputes.
 *   For all claims not subject to the exceptions to arbitration set forth in subpart 12.2.4, the parties agree that their arrangement under these Terms is in interstate commerce and that the Federal Arbitration Act applies to the construction of the agreement to arbitrate provisions set forth in section 12.2.
 
-#### 12.2.6 Changes To The Agreement To Arbitrate
+#### **12.2.6 Changes To The Agreement To Arbitrate**
 
 *   We will notify you of changes to section 12 by posting the changes at least 30 days before the effective date of the changes and by notice to the email address associated with your account. It is therefore essential that you keep your email address up to date. You can update your email address from your accounts settings page.
 *   If you do not agree to the changed terms, you may close your account within the 30 day period and you will not be bound by these changes. Otherwise, if you continue to use our services, the changed terms will apply to all disputes or claims governed by this section 12 that have arisen or may arise between you and Glassdoor which are initiated after the time the changed terms take effect.
 *   Notwithstanding any provision in these Terms to the contrary, you and we agree that if we make any changes to section 12 (other than a change to any referenced notice address or site links) in the future, that change will not apply to any claim that was filed in a legal proceeding prior to the effective date of the change.
 
-13\. Miscellaneous
-------------------
+**13\. Miscellaneous**
+----------------------
 
 *   Except as specifically stated in another agreement we have with you, these Terms, and any other agreements, documents, or policies incorporated by reference in these Terms, constitute the entire agreement between you and us regarding the use of the services and these Terms supersede all prior proposals, negotiations, agreements, and understandings concerning the subject matter of these Terms. 
 *   You represent and warrant that no person has made any promise, representation, or warranty, whether express or implied, not contained in these Terms to induce you to enter into this agreement. 
