@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: November 17, 2025
+Last Updated: November 18, 2025
 -------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
@@ -119,7 +119,9 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 3\. Amazon CloudFront
 ---------------------
 
-You must own or have all necessary rights to use any domain name or SSL certificate that you use in conjunction with Amazon CloudFront. You are solely responsible for the renewal, security, and proper configuration of any SSL certificates that you provide for use with Amazon CloudFront, including any disclosure of your SSL certificates to third parties.
+**3.1.** You must own or have all necessary rights to use any domain name or SSL certificate that you use in conjunction with Amazon CloudFront. You are solely responsible for the renewal, security, and proper configuration of any SSL certificates that you provide for use with Amazon CloudFront, including any disclosure of your SSL certificates to third parties.
+
+**3.2.** CloudFront Flat-rate Pricing Plans. If your usage exceeds the allowances in your CloudFront Flat-rate Pricing Plan, AWS may take appropriate action, which may include reducing your performance (e.g. throttling) or requiring a change to your pricing structure.
 
 4\. AWS Outposts
 ----------------
