@@ -131,7 +131,7 @@ Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), yo
 
 **Important:** To view or change web settings for your X account, you'll need to log in to the web browser. Changing your X settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to X. Read our article on how to access your [personalization and data settings](https://help.twitter.com/en/personalization-data-settings.html) for more.
 
-The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this [chart](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this [chart](https://help.twitter.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
 
 Name
 
