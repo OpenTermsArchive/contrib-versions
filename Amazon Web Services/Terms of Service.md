@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: November 18, 2025
+Last Updated: November 19, 2025
 -------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
@@ -846,13 +846,21 @@ The Reserved Node program allows you to designate Amazon Redshift nodes as subje
 48\. AWS Organizations
 ----------------------
 
-**48.1**. AWS Organizations enables you to create an “Organization” by joining a single AWS account (the “Management Account,” previously called the “Master Account”) with one or more AWS accounts (each, a “Member Account”). Except as authorized by AWS, only AWS accounts used by you, your affiliates, your employees, or your subcontractors currently doing work on your behalf may be joined in an Organization. By joining an Organization as a Member Account, you agree: (a) to disclose billing, account activity, and account information of the Member Account to the Management Account; and (b) that the Management Account may purchase EC2 Reserved Instances on a Member Account’s behalf.
+**48.1**. AWS Organizations enables you to create an “Organization” by joining a single AWS account (the “Management Account”) with one or more AWS accounts (each, a “Member Account”). Except as authorized by AWS, only AWS accounts used by you, your affiliates, your employees, or your subcontractors currently doing work on your behalf may be joined in an Organization. By joining an Organization as a Member Account, you agree: (a) to disclose billing, account activity, and account information of the Member Account to the Management Account; and (b) that the Management Account may purchase Savings Plans, EC2 Reserved Instances, or Dedicated Host Reservations on a Member Account’s behalf.
 
-**48.2**. If you enable consolidated billing, the Management Account and Member Account will be jointly and severally liable for all charges accrued by the Member Accounts while joined in an Organization, but the Management Account will be billed for all such charges in accordance with the Management Account’s Agreement. If the Management Account enables Invoice Configuration, Member Accounts may also be billed for their charges or charges accrued by other Member Accounts in the Organization, as configured by the Management Account. If a Management Account is suspended for non-payment, then all Member Accounts in the Organization will be suspended.
+**48.2**. With AWS Organizations, the Management Account and Member Account will be jointly and severally liable for all charges accrued by the Member Accounts while joined in an Organization, but the Management Account will be billed for all such charges in accordance with the Management Account’s Agreement. If the Management Account enables Invoice Configuration, Member Accounts may also be billed for their charges or charges accrued by other Member Accounts in the Organization, as configured by the Management Account. If a Management Account is suspended for non-payment, then all Member Accounts in the Organization will be suspended.
 
-**48.3**. We may enable, with at least 14 days’ prior notice to you, all features in your Organization if requested by the Organization’s Management Account. If your Organization has all features enabled: (i) the consolidated billing terms as described in Section 48.2 will apply to your Organization; (ii) the Management Account will have full access to and control over its Member Accounts; and (iii) the Management Account is jointly and severally liable for any actions taken by its Member Accounts.
+**48.3**. If your Organization has all features enabled: (i) the consolidated billing terms as described in Section 48.2 will apply to your Organization; (ii) the Management Account will have full access to and control over its Member Accounts; and (iii) the Management Account is jointly and severally liable for any actions taken by its Member Accounts. If requested by the Organization's Management Account with the assisted migration feature, we may enable, with at least 14 days' prior notice to you, all features in your Organization.
 
-**48.4**. When a Management Account uses AWS Organizations or the CreateLinkedAccount API to create an account (“Created Account”): (i) the Created Account will be a Member Account of the Management Account’s Organization with the AWS Organizations features that the Management Account enables from time to time; (ii) the Created Account is governed by the terms of the Management Account’s Agreement; (iii) the Management Account is jointly and severally liable for any actions taken by the Created Account; and (iv) an IAM role is created in the Created Account that grants the Management Account full administrative access to the Created Account.
+**48.4**. When a Management Account uses AWS Organizations or the CreateLinkedAccount API to create an account (“Created Account”): (i) the Created Account will be a Member Account of the Management Account’s Organization with the AWS Organizations features that the Management Account enables from time to time; (ii) the Created Account is governed by the terms of the Management Account’s Agreement; (iii) the Management Account is jointly and severally liable for any actions taken by the Created Account; and (iv) an IAM role is created in the Created Account that grants the Management Account full administrative access to the Created Account. 
+
+**48.5. Billing Transfer.** The following terms also apply to the billing transfer capability of AWS Organizations (“Billing Transfer”), where a Management Account (the “Bill-Source Account”) can designate another Management Account (the “Bill-Transfer Account”) to be billed for charges accrued by the Bill-Source Account and the Member Accounts in the Bill-Source Account’s Organization:
+
+**48.5.1.** Except as authorized by AWS, only AWS accounts and Organizations used by you, your affiliates, your employees, or your subcontractors currently doing work on your behalf may enable Billing Transfer. By designating a Bill-Transfer Account, you agree to disclose billing, account activity, and account information of the Bill-Source Account and its Organization to the Bill-Transfer Account.
+
+**48.5.2.** If you enable Billing Transfer, the Bill-Transfer Account and the Bill-Source Account will be jointly and severally liable for all charges accrued by the Bill-Source Account’s Organization while Billing Transfer is in effect, but the Bill-Transfer Account will be billed for all such charges in accordance with the Bill-Transfer Account’s Agreement. Notwithstanding the foregoing, Billing Transfer does not apply to Transaction Proceeds as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms/). If the Bill-Transfer Account is suspended for non-payment, then all Bill-Source Accounts and the member accounts in their Organizations will be suspended.
+
+**48.5.3.** If you enable Billing Transfer, AWS will calculate invoices based on the tax settings of the Bill-Transfer Account. You warrant that the application of any tax exemption on your Bill-Transfer Account to the usage accrued by the Bill-Source Account and the Member Accounts in its Organization complies with applicable tax laws, and agree to assist AWS as provided in Section 1.22.5. The Bill-Transfer Account’s tax settings may be disclosed to the Bill-Source Account and its Organization.
 
 49\. Amazon Athena
 ------------------
@@ -1150,7 +1158,7 @@ You agree not to and will not attempt to perform any network discovery or load t
 63\. AWS RoboMaker
 ------------------
 
-**63.1**. AWS RoboMaker includes an integrated development and simulation environment and related assets and tools we make available [here](https://console.aws.amazon.com/robomaker/home) (collectively, “RoboMaker Materials”).
+**63.1**. AWS RoboMaker includes an integrated development and simulation environment and related assets and tools we make available here (collectively, “RoboMaker Materials”).
 
 **63.2.** In addition to the rights granted to AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), AWS, Inc. also grants you a limited, revocable, non-exclusive, non-sublicensable (except to End Users as provided below), non-transferrable license to do the following during the Term:
 
