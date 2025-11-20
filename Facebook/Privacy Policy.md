@@ -3,7 +3,11 @@
 Politique de confidentialité
 ----------------------------
 
-Mise à jour : 16 décembre 2025 Nous allons utiliser les interactions avec l'IA pour offrir des expériences personnalisées et des publicités ciblées. Cette mise à jour prendra effet le 16 décembre 2025. [Lisez la nouvelle politique.](https://fr-fr.facebook.com/privacy/policy/version/23954169707588482/)
+Mise à jour : 16 décembre 2025
+
+Nous allons utiliser les interactions avec l'IA pour offrir des expériences personnalisées et des publicités ciblées. Cette mise à jour prendra effet le 16 décembre 2025.
+
+[Lisez la nouvelle politique.](https://fr-fr.facebook.com/privacy/policy/version/23954169707588482/)
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
