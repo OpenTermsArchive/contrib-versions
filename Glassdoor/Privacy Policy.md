@@ -3,7 +3,7 @@
 Glassdoor Privacy Policy
 ========================
 
-**Revised** November 19, 2025 ([previous version](https://hrtechprivacy.com/wp-content/uploads/2025/11/Glassdoor-Privacy-Policy-Sept-2025.pdf))
+**Revised** November 19, 2025 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
 
 Glassdoor LLC (“Glassdoor”) is the provider of the services [Glassdoor.com](http://glassdoor.com/) and [Fishbowlapp.com](http://fishbowlapp.com/). This Privacy Policy (the “Policy”) applies to personal data Glassdoor processes when providing these services and affiliated applications, ads, communications, and other instances where we link to this Policy (collectively “services”). The services covered by this Policy are: 
 
