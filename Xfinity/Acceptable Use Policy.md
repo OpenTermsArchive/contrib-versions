@@ -1,4 +1,5 @@
 Acceptable Use Policy for Xfinity® Internet
+-------------------------------------------
 
 View full agreement [English (PDF)](https://assets.xfinity.com/assets/dotcom/learn/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity_Internet_AUP_Residential_ENG_02012021.pdf) **|** [Spanish (PDF)](https://assets.xfinity.com/assets/dotcom/learn/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity%20Internet%20AUP%20Residential_Spanish_02012021.pdf)
 
