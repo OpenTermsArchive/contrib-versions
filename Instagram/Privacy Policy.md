@@ -1,7 +1,11 @@
 Privacy Policy
 --------------
 
-Updating on Dec 16, 2025 We’ll start using interactions with AIs to personalize experiences and ads. This update goes into effect on December 16, 2025. [Read the new policy.](https://privacycenter.instagram.com/policy/version/23954169707588482/)
+Updating on Dec 16, 2025
+
+We’ll start using interactions with AIs to personalize experiences and ads. This update goes into effect on December 16, 2025.
+
+[Read the new policy.](https://privacycenter.instagram.com/policy/version/23954169707588482/)
 
 What is the Privacy Policy and what does it cover?
 
