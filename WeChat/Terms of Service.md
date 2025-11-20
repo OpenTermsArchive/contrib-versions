@@ -1,7 +1,7 @@
 WECHAT – TERMS OF SERVICE
 =========================
 
-**Last modified:** 2025-11-17
+**Last modified:** 2025-11-18
 
 TABLE OF CONTENTS
 -----------------
@@ -335,7 +335,7 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, IN NO EVENT WILL WE 
     *   G. ANY REASONS BEYOND OUR REASONABLE CONTROL OR PREDICTABILITY; OR
     *   H. FAILURE TO SAVE OR BACK UP ANY DATA OR OTHER CONTENT;
 *   ANY LOSS ARISING FROM ANY CONTENT, PROGRAMS OR SERVICES PROVIDED BY ANY PARTY OTHER THAN US (OR OUR AFFILIATES);
-*   ANY LOSS OR DAMAGE WHICH ARE NOT FORESEEABLE, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR LOSSES—INCLUDING PERSONAL INJURY, LOST PROFITS, PAIN AND SUFFERING, OR EMOTIONAL DISTRESSES—RELATED TO, IN CONNECTION WITH, OR OTHERWISE RESULTING FROM ANY USE OF WECHAT'S SERVICES. FOR THE PURPOSES OF THIS CLAUSE, LOSS OR DAMAGE IS FORESEEABLE IF EITHER IT IS OBVIOUS THAT IT WILL HAPPEN OR IF, AT THE TIME THE CONTRACT WAS MADE, BOTH WE
+*   ANY LOSS OR DAMAGE WHICH ARE NOT FORESEEABLE, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR LOSSES—INCLUDING PERSONAL INJURY, LOST PROFITS, PAIN AND SUFFERING, OR EMOTIONAL DISTRESSES—RELATED TO, IN CONNECTION WITH, OR OTHERWISE RESULTING FROM ANY USE OF WECHAT'S SERVICES. FOR THE PURPOSES OF THIS CLAUSE, LOSS OR DAMAGE IS FORESEEABLE IF EITHER IT IS OBVIOUS THAT IT WILL HAPPEN OR IF, AT THE TIME THE CONTRACT WAS MADE, BOTH WE AND YOU KNEW IT MIGHT HAPPEN; AND/OR
 *   ANY:
     *   A. LOSS OF USE;
     *   B. LOSS OR INTERRUPTION OF BUSINESS;
@@ -447,6 +447,8 @@ _Sub-contracting_
 
 We may freely sub-contract any part of our performance of these Terms at any time, without your prior consent or prior notice to you.
 
+  
+
 ADDENDUM: ADDITIONAL COUNTRY-SPECIFIC TERMS
 ===========================================
 
@@ -483,7 +485,7 @@ ADDENDUM: ADDITIONAL COUNTRY-SPECIFIC TERMS
 > 
 > In the arbitration proceedings, a party may serve a written offer of judgment on the other party to allow judgment on specific terms at least ten (10) days before the date set for the arbitration hearing. If the offer is accepted, the offer with proof of acceptance shall be submitted to JAMS, which shall issue an award accordingly. If the offer is not accepted prior to the arbitration hearing or within thirty (30) days after it is made, whichever occurs first, it shall be deemed withdrawn and cannot be given as evidence in the arbitration, other than with respect to costs. If the judgment that the other party finally obtains is not more favorable than the unaccepted offer, then the other party shall pay the costs incurred after the offer was made, to the extent such cost-shifting is not prohibited by applicable law or JAMS rules, provided that the arbitrator shall have discretion to release you from the obligation to cover our costs in circumstances of financial hardship.
 > 
-> Grouped Arbitrations
+> _Grouped Arbitrations_
 > 
 > To the extent permitted by applicable law and notwithstanding any other provision of this Arbitration Agreement, if fifty (50) or more claimants represented by the same or coordinated counsel file demands for arbitration raising substantially similar Disputes, those coordinated filings are considered “Mass Arbitrations” under JAMS Mass Arbitration Procedures and Guidelines, and you and we agree that the following additional procedures shall apply: (1) once counsel representing you in the Mass Arbitrations has submitted at least 50 compliant demands for arbitration to JAMS and the Process Administrator has heard and determined preliminary and administrative matters in accordance with JAMS Mass Arbitration Procedures and Guidelines and this Arbitration Agreement, the parties shall cooperate to organize the demands for arbitration into randomized groups of 50 claimants each (plus, to the extent there are fewer than 50 claimants remaining, a final group consisting of the remaining claimants), with each group proceeding as a single consolidated arbitration (a “**Grouped Arbitration**”) and with a single arbitrator presiding over each group; (2) for each Grouped Arbitration, the arbitrator presiding over that group shall decide all common issues of fact and law first—including considering and granting dispositive motions under the standards of the Federal Rules of Civil Procedure governing such motions—before proceeding to deciding individual factual and legal issues and issuing individualized final awards; (3) within each Grouped Arbitration, discovery shall be consolidated and coordinated; and (4) no final award from an arbitrator shall have preclusive effect in another arbitration; an order in a Grouped Arbitration, however, may be shared for its persuasive value in related Grouped Arbitration proceedings.
 > 
@@ -561,7 +563,7 @@ In compliance with Article 12 of the DSA, our designated electronic single point
 
 _UK Online Safety Information – UK Only_
 
-Users in the UK can find out more information about how we protect users from illegal content, including the proactive technology we use and how we handle complaints, in our Community Guidelines.
+Users in the UK can find out more information about how we protect users from illegal content, including the proactive technology we use and how we handle complaints, in our [Community Guidelines](https://safety.wechat.com/en_US/community-guidelines).
 
 SCHEDULE 4: SINGAPORE-SPECIFIC TERMS
 ------------------------------------
