@@ -394,7 +394,7 @@ Table of Contents
     
     We monitor for and try to prevent security breaches. Please use the security features available through our Services.
     
-    We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our [Safety Center](https://safety.linkedin.com/) for additional information about safely using our Services, including [two-factor authentication](https://www.linkedin.com/help/linkedin/answer/531?trk=microsites-frontend_legal_privacy-policy&lang=en).
+    We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
     
     ### 5.2. Cross-Border Data Transfers
     
