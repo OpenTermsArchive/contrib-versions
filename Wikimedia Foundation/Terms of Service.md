@@ -127,6 +127,7 @@ Other languages:
 *   [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Käyttöehdot (100% translated)")
 *   [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Användarvillkor (100% translated)")
 *   [vèneto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vec "Tèrmini d'uxo (4% translated)")
+*   [Ænglisc](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ang "My name is Ibsa Ibro ame (1% translated)")
 *   [íslenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/is "Policy:Terms of Use/is (2% translated)")
 *   [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky používání (97% translated)")
 *   [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Πολιτική:Όροι χρήσης (100% translated)")
