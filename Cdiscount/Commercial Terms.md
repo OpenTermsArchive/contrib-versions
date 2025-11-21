@@ -468,7 +468,7 @@ La livraison des produits commandés s’effectue dans un lieu proche de chez vo
 
 Lorsque vous sélectionnez ce mode de livraison, vous êtes informé du fait que votre colis est mis à disposition sur le Point Retrait pour une durée limitée de 15 jours calendaires. Au-delà de ce délai, le colis sera retourné chez CDISCOUNT et vos produits remboursés_,_
 
-Votre colis vous sera alors remis en main propre. Pour le retirer, pensez à vous munir d’une piéce d’identité. En cas d’empêchement, une personne de votre choix pourra retirer votre colis sous réserve de présenter votre pièce d’identité ainsi que la sienne.
+Votre colis vous sera alors remis en main propre. Pour le retirer, pensez à vous munir d’une pièce d’identité. En cas d’empêchement, une personne de votre choix pourra retirer votre colis sous réserve de présenter votre pièce d’identité ainsi que la sienne.
 
 Pour faciliter le chargement dans votre véhicule, un matériel de manutention pourra être mis à votre disposition (selon disponibilité). Nous vous invitons à bien vérifier que votre véhicule peut accueillir votre colis. Vous trouverez les caractéristiques de votre colis sur la fiche produit.
 
@@ -628,7 +628,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 | Salon de jardin (grand) | **Entre 75€ et 100€** |
 | Lit bébé combiné | **Entre 50€ et 70€** |
 | Abri jardin | **Entre 60€ et 90€** |
-| Cuisine IRMA | **Entre 70€ et 90€** |
+| Cuisine IRMA | **Entre 70' et 90€** |
 | Poele à bois | **Entre 70€ et 100€** |
 | Piscine | **Entre 65€ et 120€** |
 
