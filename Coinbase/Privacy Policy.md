@@ -21,6 +21,7 @@ It is important that you understand how we use your information. You should read
     *   To learn more, explore [**Section 3. How And Why We Share Your Information**](#how-and-why-we-share-your-information).
         *   We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
     *   If you have any questions, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase) or at dpo@coinbase.com. See [**Section 10. How to Contact Us With Questions**](#how-to-contact-us-with-questions) for more information.
+    *   This translation is provided for informational purposes only. In the event of any discrepancy between the English text and this translation, the English version shall prevail.
     
 
 1\. WHAT INFORMATION WE COLLECT
