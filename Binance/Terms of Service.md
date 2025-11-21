@@ -910,6 +910,4 @@ USD-$
 
 *   [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
     
-*   [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
-    
-*   [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
+*   [Law E](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
