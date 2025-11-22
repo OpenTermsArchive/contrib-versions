@@ -424,7 +424,9 @@ Additional information regarding other laws and individual rights
 
 Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following places, select your location to review the additional privacy notice and information that applies to you.
 
-[California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maine, Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia, and Washington](https://www.xfinity.com/privacy/policy/staterights)
+[California Notice at Collection](https://www.xfinity.com/privacy/policy/staterights#california)
+
+[California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maine, Maryland, Minnesota, Montana, Nebraska, Nevada, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia, and Washington](https://www.xfinity.com/privacy/policy/staterights#certain-states)
 
 [EEA, Switzerland, and the United Kingdom](https://www.xfinity.com/privacy/policy/staterights#eea)
 
