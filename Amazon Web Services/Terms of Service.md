@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: November 19, 2025
+Last Updated: November 21, 2025
 -------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
@@ -87,7 +87,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, and the Amazon Quick Suite (including Amazon QuickSight).
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, and the Amazon Quick Suite (including Amazon QuickSight).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
@@ -1114,36 +1114,48 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 **59.4.** You will not, and will not allow any third-party to, use AWS Entity Resolution, directly or indirectly, to develop or improve a similar or competing product or service. 
 
-60\. Amazon SageMaker AI
-------------------------
+60\. Amazon SageMaker
+---------------------
 
-**60.1.** You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon SageMaker AI (including End Users in your private workforce when using Amazon SageMaker Ground Truth) and obtaining all necessary consents from such End Users.
+**60.1.** You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon SageMaker Data Agent and/or Amazon SageMaker AI (including End Users in your private workforce when using Amazon SageMaker Ground Truth) and obtaining any necessary consent from such End Users.
 
-**60.2.** Your use of the NVIDIA Corporation’s software, toolkits and drivers is subject to the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf).
+**60.2.** Neither Amazon SageMaker AI nor Amazon SageMaker Data Agent are intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage. You are responsible for liability that may arise in connection with any such uses.
 
-**60.3.** Amazon SageMaker AI is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious body injury or death or cause environmental or property damage, and you are solely responsible for liability that may arise in connection with any such use.
+**60.3.** **Amazon SageMaker AI**
 
-**60.4.** When using the public workforce of Amazon SageMaker Ground Truth: (a) you may not provide datasets that contain protected health information, personally identifying information, or other personal data, (b) you may not provide datasets that contain adult content without marking it as containing adult content, and (c) you acknowledge and agree that Your Content provided to the public workforce may be moved outside of the AWS region where you are using Amazon SageMaker Ground Truth.
+**60.3.1.** Your use of the NVIDIA Corporation’s software, toolkits and drivers is subject to the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf).
 
-**60.5.** Amazon Sagemaker Clarify uses statistical analysis techniques to generate metrics that can be used to evaluate statistical bias in data and machine learning models, and to explain how models generate predictions. The output provided by Amazon SageMaker Clarify is not determinative of the existence or absence of statistical bias, or a comprehensive answer for how a model generates predictions. Such output is not legal advice and should be independently evaluated as appropriate for your use case.
+**60.3.2.** When using the public workforce of Amazon SageMaker Ground Truth: (a) you may not provide datasets that contain protected health information, personally identifying information, or other personal data, (b) you may not provide datasets that contain adult content without marking it as containing adult content, and (c) you acknowledge and agree that Your Content provided to the public workforce may be moved outside of the AWS region where you are using Amazon SageMaker Ground Truth.
 
-**60.6.** Amazon SageMaker Edge Manager collects performance and usage metrics and data regarding your use of the Service, including model version, inference and upload times, and diagnostic data. We may use these metrics and data to improve the quality and feature sets of the Services and AWS Content.
+**60.3.3.** Amazon SageMaker Clarify uses statistical analysis techniques to generate metrics that can be used to evaluate statistical bias in data and machine learning models, and to explain how models generate predictions. The output provided by Amazon SageMaker Clarify is not determinative of the existence or absence of statistical bias, or a comprehensive answer for how a model generates predictions. Such output is not legal advice and should be independently evaluated as appropriate for your use case.
 
-**60.7.** We may change SageMaker AI Savings Plan (“SM AI Savings Plan”) pricing or terminate the program at any time. Any price changes will not apply to previously purchased SM AI Savings Plans. All amounts paid in connection with SM AI Savings Plans are nonrefundable, except that if we terminate the Agreement other than for cause, or terminate the SM AI Savings Plan program, we will refund you a pro rata portion of any up-front fee paid. SM AI Savings Plans are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement. Upon expiration or termination of the term of SM AI Savings Plans, the reserved pricing will expire and standard on-demand usage prices will apply. You are responsible for determining if you are subject to any limitations arising from the purchase or use of the SM AI Savings Plan and for complying with any applicable laws, policies, terms or conditions governing your payment of up-front fees, including any fiscal or appropriation laws, or other policies or restrictions governing up-front payments for goods or services.
+**60.3.4.** Amazon SageMaker Edge Manager collects performance and usage metrics and data regarding your use of the Service, including model version, inference and upload times, and diagnostic data. We may use these metrics and data to improve the quality and feature sets of the Services and AWS Content.
 
-**60.8.** Amazon SageMaker Studio Lab
+**60.3.5.** We may change SageMaker AI Savings Plan (“SM AI Savings Plan”) pricing or terminate the program at any time. Any price changes will not apply to previously purchased SM AI Savings Plans. All amounts paid in connection with SM AI Savings Plans are nonrefundable, except that if we terminate the Agreement other than for cause, or terminate the SM AI Savings Plan program, we will refund you a pro rata portion of any up-front fee paid. SM AI Savings Plans are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement. Upon expiration or termination of the term of SM AI Savings Plans, the reserved pricing will expire and standard on-demand usage prices will apply. You are responsible for determining if you are subject to any limitations arising from the purchase or use of the SM AI Savings Plan and for complying with any applicable laws, policies, terms or conditions governing your payment of up-front fees, including any fiscal or appropriation laws, or other policies or restrictions governing up-front payments for goods or services.
 
-**60.8.1.** You acknowledge that we may store your Content that is processed by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you are using Amazon SageMaker Studio Lab.
+**60.3.6.** **Amazon SageMaker Studio Lab**
 
-**60.8.2.** Amazon SageMaker Studio Lab is provided for training and educational purposes and is not intended for production workloads. AWS may modify your ability to access or use Amazon SageMaker Studio Lab at any time, including any usage or resource limits. Access to Amazon SageMaker Studio Lab features and compute resources, including CPUs and GPUs, are not guaranteed.
+(i) You acknowledge that we may store your Content that is processed by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you are using Amazon SageMaker Studio Lab.
 
-**60.8.3.** If during the previous 3 months you have registered no usage of your Amazon SageMaker Studio Lab account, we may delete your Amazon SageMaker Studio Lab account and any associated Content upon 30 days prior notice to you. Deleting your Amazon SageMaker Studio Lab account permanently and automatically deletes the information associated with your account and any associated Content.
+(ii) Amazon SageMaker Studio Lab is provided for training and educational purposes and is not intended for production workloads. AWS may modify your ability to access or use Amazon SageMaker Studio Lab at any time, including any usage or resource limits. Access to Amazon SageMaker Studio Lab features and compute resources, including CPUs and GPUs, are not guaranteed.
 
-**60.8.4.** For purposes of your use of Amazon SageMaker Studio Lab, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+(iii) If during the previous 3 months you have registered no usage of your Amazon SageMaker Studio Lab account, we may delete your Amazon SageMaker Studio Lab account and any associated Content upon 30 days prior notice to you. Deleting your Amazon SageMaker Studio Lab account permanently and automatically deletes the information associated with your account and any associated Content.
 
-**60.9.** For purposes of your use of Amazon SageMaker Partner AI Apps, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+(iv) For purposes of your use of Amazon SageMaker Studio Lab, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
-**60.10.** When using Nova customization on SageMaker Training Jobs or SageMaker Hyperpod with Nova models, you will have exclusive use of your customized model. We will not access or use your customized model except as necessary to maintain or provide Nova customization on SageMaker Training Jobs or SageMaker Hyperpod, or as necessary to comply with the law or a binding order of a governmental body.
+**60.3.7.** For purposes of your use of Amazon SageMaker Partner AI Apps, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+
+**60.3.8.** When using Nova customization on SageMaker Training Jobs or SageMaker Hyperpod with Nova models, you will have exclusive use of your customized model. We will not access or use your customized model except as necessary to maintain or provide Nova customization on SageMaker Training Jobs or SageMaker Hyperpod, or as necessary to comply with the law or a binding order of a governmental body.
+
+**60.4. Amazon SageMaker Data Agent**
+
+**60.4.1.** “Amazon SageMaker Data Agent Content” means Your Content that is processed by Amazon SageMaker Data Agent.
+
+**60.4.2.** Amazon SageMaker Data Agent outputs should be evaluated for accuracy as appropriate for your use case, including by employing human review of such output. You and your End Users are responsible for all decisions made, advice given, actions taken, and failures to take action in connection with Amazon SageMaker Data Agent.
+
+**60.4.3.** You agree and instruct that for Amazon SageMaker Data Agent: (a) we may use and store Amazon SageMaker Data Agent Content that is processed by Amazon SageMaker Data Agent to develop and improve Amazon SageMaker Data Agent and its underlying technologies; (b) we may use and store Amazon SageMaker Data Agent Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial-intelligence technologies; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store Amazon SageMaker Data Agent Content in an AWS region outside of the AWS region where you are using Amazon SageMaker Data Agent. You may instruct AWS not to use and store Amazon SageMaker Data Agent Content processed by Amazon SageMaker Data Agent to develop and improve Amazon SageMaker Data Agent or technologies of AWS or its affiliates by configuring an opt-out policy using AWS Organizations. You are responsible for notifying us in the event that any Amazon SageMaker Data Agent Content stored by Amazon SageMaker Data Agent must be deleted under applicable law.
+
+**60.4.4.** You will not, and will not allow any third-party to, use Amazon SageMaker Data Agent to, directly or indirectly, develop or improve a similar or competing product or service.  
 
 61\. AWS AppSync
 ----------------
