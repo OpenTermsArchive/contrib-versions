@@ -45,7 +45,7 @@ Make sure you:
 *   [SwiftUI](https://developer.apple.com/documentation/swiftui)
 *   [UIKit](https://developer.apple.com/documentation/uikit)
 *   [AppKit](https://developer.apple.com/documentation/appkit)
-*   [App extensions](https://developer.apple.com/app-extensions/)
+*   [App extensions](https://developer.apple.com/documentation/technologyoverviews/app-extensions)
 *   [Optimizing Your App’s Data for iCloud Backup](https://developer.apple.com/documentation/foundation/optimizing_your_app_s_data_for_icloud_backup/)
 *   [Apple File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system)
 *   [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
