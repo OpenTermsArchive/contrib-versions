@@ -214,19 +214,19 @@ The Foundation may update this Privacy Policy from time to time and inform you o
 For more information on applicable privacy regulations, you may refer to:
 
 *   EU General Data Protection Regulation: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L\_.2016.119.01.0001.01.ENGopens in a new tab](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG)
-*   Swiss Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19920153/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html)
-*   Swiss Ordinance to the Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19930159/index.htmlopens in a new tab](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html)
+*   Swiss Federal Act on Data Protection: [https://www.fedlex.admin.ch/eli/cc/2022/491/enopens in a new tab](https://www.fedlex.admin.ch/eli/cc/2022/491/en)
+*   Swiss Ordinance to the Federal Act on Data Protection: [https://www.fedlex.admin.ch/eli/cc/2022/568/enopens in a new tab](https://www.fedlex.admin.ch/eli/cc/2022/568/en)
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.orgopens email client](mailto:support@ethereum.org).
 
-Page last update: October 22, 2025
+Page last update: November 14, 2025
+
+[![mdqst](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98899785%3Fv%3D4&w=1920&q=100)mopens in a new tab](https://github.com/mdqst)
 
 [![pete-vielhaber](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178667149%3Fv%3D4&w=1920&q=100)popens in a new tab](https://github.com/pete-vielhaber)
 
 [![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/corwintines)
 
-[![pettinarip](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F468158%3Fv%3D4&w=1920&q=100)popens in a new tab](https://github.com/pettinarip)
-
-+6
++7
 
 See contributors
