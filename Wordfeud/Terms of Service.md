@@ -81,6 +81,6 @@ You may terminate your account at any time and for any reason by sending an emai
 
 Bertheussen IT may terminate your account and your access to the Service (or, at Bertheussen IT's sole option, applicable portions of the Service) at any time for violation of the Terms. Bertheussen IT is not required to provide you with any notice or warning prior to any such termination.
 
-[Home](http://wordfeud.com/) — [Wordfeud Dictionaries](http://wordfeud.com/dictionaries/) — [Privacy Policy](http://wordfeud.com/privacy/) — [Report a security vulnerability](http://wordfeud.com/secreport/) — [Company info (Norwegian)](http://wordfeud.com/company/)
+[Home](http://wordfeud.com/) — [Wordfeud Dictionaries](http://wordfeud.com/dictionaries/) — [Privacy Policy](http://wordfeud.com/privacy/) — [Support](http://wordfeud.com/support/) — [Report a security vulnerability](http://wordfeud.com/secreport/) — [Company info (Norwegian)](http://wordfeud.com/company/)
 
 © 2025 Bertheussen IT AS
