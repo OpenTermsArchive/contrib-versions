@@ -1,5 +1,5 @@
 Privacy Policy
---------------
+==============
 
 Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
 
