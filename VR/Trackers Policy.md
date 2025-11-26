@@ -19,17 +19,52 @@ _Page updated 28 Feb 2024. Google Optimize changed to Convert.com._
 
 _Page updated 4 Sep 2024. Microsoft Ads added to Marketing cookies._
 
+_Page updated 26 Nov 2025. The entire cookie listing updated to a more detailed level._
+
 What kind of cookies do we use?
 -------------------------------
 
 Functional cookies,
 
-These are automatically activated cookies that our website needs for a good and safe user experience. Functional cookies are always enabled and are indispensable for ensuring that the vr.fi website functions well. They cannot be disabled.
+These are automatically activated cookies that our website needs for a good and safe user experience. Necessary cookies are functional cookies that are always enabled and indispensable for ensuring that the vr.fi website functions well. They cannot be disabled.
 
-| Functional cookies | Collected data and storage period | Purpose | Third parties |
-| --- | --- | --- | --- |
-| Functional cookies<br><br>VR | Collected data and storage period<br><br>The user’s selections during ticket search and purchase. Error situations encountered by the user. | Purpose<br><br>Saving necessary data during and between sessions (including shopping cart, cookie consent) | Third parties<br><br>The data is not disclosed to third parties |
-| Functional cookies | Collected data and storage period<br><br>The data is stored for the duration of the session or until further notice (shopping cart, cookie consent) | Purpose | Third parties |
+Functional cookies
+------------------
+
+| Name | Type | Provider | Purpose | Maximum Storage Duration |
+| --- | --- | --- | --- | --- |
+| Name<br><br>cookieConsentLevels | Type<br><br>Cookie | Provider<br><br>vr.fi | Purpose<br><br>Stores user’s consent selection. | Maximum Storage Duration<br><br>13 months |
+| Name<br><br>rc::a | Type<br><br>Local Storage | Provider<br><br>Google | Purpose<br><br>Part of Google reCaptcha. Distinguish between human and bot traffic. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>cookieConsent | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the cookie consent meta data | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>hasDismissedProfileTooltip | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores information on whether the visitor has reacted to a banner to create a profile. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>loginTooltipShown | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores information on whether the prompt to login has been shown | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>paymentStore | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Temporarily stores payment session data such as selected payment method, billing preferences, or transaction progress to streamline the checkout experience | Maximum Storage Duration<br><br>Session |
+| Name<br><br>previouslyLoggedIn | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores information on whether the browser has previously been used to log in to the website | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>recentRoutes | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores recently viewed route selections | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>recentStations | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores train stations recently used for journey searches | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>topicLastReferenceTime | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Used by Meta Pixel to remember the last time it checked browser topics for personalized advertising. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>userIdentity | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores user information when the user is logged in to vr.fi website | Maximum Storage Duration<br><br>Persistent, as long as user is logged in. |
+| Name<br><br>giosgGaChatted | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Indicates whether a visitor has engaged in a chat session. Used to trigger Google Analytics events and measure chat engagement. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>giosgHasAutosuggested\_xxx | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Indicates whether autosuggestions have been shown to the visitor during a chat session. Helps manage chat behavior and avoid repeating suggestions. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>giosgIsAutosuggested\_xxx | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Indicates whether autosuggestions have been activated for the visitor during a chat session. Helps manage chat behavior and avoid redundant suggestions. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>giosgWindowOpen\_xxx | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Tracks whether the Giosg chat window has been opened by the visitor. Helps manage chat engagement and avoid redundant prompts. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>rc::c | Type<br><br>Local Storage | Provider<br><br>Google | Purpose<br><br>Used to distinguish between humans and bots | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>access\_token | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Stores a temporary access token used to authenticate user sessions and maintain secure access to protected resources. | Maximum Storage Duration<br><br>1 month |
+| Name<br><br>AEC | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to ensure that requests within a browsing session are made by the user, not by other sites. It helps prevent malicious sites from acting on behalf of a user without their knowledge. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>APISID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to store user preferences and information when interacting with Google services embedded on third-party sites. It helps personalize content and maintain secure user sessions. | Maximum Storage Duration<br><br>2 years |
+| Name<br><br>ciam\_session | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>This cookie maintains the user's authenticated session within a CIAM system, ensuring secure and continuous access to identity-protected resources. It helps manage login state, session duration, and user identity verification. | Maximum Storage Duration<br><br>Session |
+| Name<br><br>csrftoken | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Used to protect against Cross-Site Request Forgery (CSRF) attacks by ensuring that each request made by the user is intentional and originates from the authenticated session. | Maximum Storage Duration<br><br>Session |
+| Name<br><br>HSID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to help authenticate users, prevent fraudulent use of login credentials, and protect user data. It stores encrypted and digitally signed records of a user’s Google account ID and most recent login time. | Maximum Storage Duration<br><br>2 years |
+| Name<br><br>loggedIn | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Stores information on user’s login status. | Maximum Storage Duration<br><br>1 month |
+| Name<br><br>receive-cookie-deprecation | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used to test or signal support for upcoming browser changes related to cookie handling, such as the deprecation of third-party cookies or changes to SameSite attributes. It helps developers and platforms prepare for evolving privacy standards. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>refresh\_token | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Stores a secure token used to obtain new access tokens without requiring the user to re-authenticate. It helps maintain persistent login sessions while minimizing exposure of sensitive credentials. | Maximum Storage Duration<br><br>1 month |
+| Name<br><br>SAPISID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to authenticate users and ensure secure access across Google services embedded in third-party websites. It helps prevent malicious use of login credentials and protects user data. | Maximum Storage Duration<br><br>2 years |
+| Name<br><br>selectedRole | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Stores the user’s selected role within a multi-role application environment (e.g., admin, editor, viewer). It helps tailor the user interface and permissions based on the active role. | Maximum Storage Duration<br><br>1 year |
+| Name<br><br>sessionId | Type<br><br>Cookie | Provider<br><br>VR | Purpose<br><br>Stores a unique identifier for the user's session, allowing the server to recognize returning users during a single browsing session. It helps maintain login state, track interactions, and support secure navigation across pages. | Maximum Storage Duration<br><br>Session |
+| Name<br><br>sgid | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Stores a secure session identifier used to authenticate and maintain user sessions across protected areas of a website or application. It helps ensure session integrity and prevent unauthorized access | Maximum Storage Duration<br><br>Session |
+| Name<br><br>SID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to authenticate users, maintain session integrity, and protect against malicious activity. It stores encrypted and digitally signed records of a user’s Google account ID and most recent login time. | Maximum Storage Duration<br><br>1 year |
+| Name<br><br>SIDCC | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to provide security for user data and to protect against unauthorized access. It helps ensure that login credentials and session data are securely transmitted and verified across Google services. | Maximum Storage Duration<br><br>1 year |
+| Name<br><br>SSID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google to store user preferences and login information for Google services embedded in third-party websites. It helps personalize content and maintain secure sessions. | Maximum Storage Duration<br><br>2 years |
 
 Statistical cookies,
 
@@ -37,26 +72,28 @@ The purpose of statistical cookies is to provide us with data that we can use as
 
 For instance, we use the Google Analytics and Hotjar services as well as Google Optimize usability testing that utilise statistical cookies. The data we analyse is always compiled data and we do not store personal data on the website usage.
 
-| Statistical cookies | Collected data and storage period | Purpose | Third parties |
-| --- | --- | --- | --- |
-| Statistical cookies<br><br>Google Analytics | Collected data and storage period<br><br>General information on the device and session. The browser is automatically identified with the help of an anonymous identifier. An anonymous identifying number is saved for logged in users. | Purpose<br><br>Website analytics and monitoring to improve the user experience. | Third parties<br><br>The data is not disclosed to third parties. |
-| Statistical cookies | Collected data and storage period<br><br>The data is stored for two years. | Purpose | Third parties |
-| Statistical cookies<br><br>Giosg | Collected data and storage period<br><br>Discussions with metadata. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Customer service chat, assisting the customer. | Third parties<br><br>The data is not disclosed to third parties. |
-| Statistical cookies | Collected data and storage period<br><br>The data is stored for the duration of the session or until further notice (unique browser identifier). | Purpose | Third parties |
-| Statistical cookies<br><br>Hotjar | Collected data and storage period<br><br>Screen recordings, heatmaps and surveys. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Qualitative user data and analytics that are used to develop the website user experience. | Third parties<br><br>The data is not disclosed to third parties. |
-| Statistical cookies | Collected data and storage period<br><br>The data is stored for the duration of the session or until further notice (unique browser identifier). | Purpose | Third parties |
-| Statistical cookies<br><br>Convert.com | Collected data and storage period<br><br>Test group membership. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Usability testing and conversion optimisation. | Third parties<br><br>The data is not disclosed to third parties. |
-| Statistical cookies | Collected data and storage period<br><br>The data is stored for 6 months. | Purpose | Third parties |
-| Statistical cookies<br><br>Webropol | Collected data and storage period<br><br>The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Preventing the user from responding to the same survey several times. | Third parties<br><br>The data is not disclosed. |
+| Name | Type | Provider | Purpose | Maximum Storage Duration |
+| --- | --- | --- | --- | --- |
+| Name<br><br>\_ga | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to distinguish users. | Maximum Storage Duration<br><br>24 months |
+| Name<br><br>_ga_XXXXXXX | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to persist session state. | Maximum Storage Duration<br><br>24 months |
+| Name<br><br>FPLC | Type<br><br>Cookie | Provider<br><br>vr.fi | Purpose<br><br>Provides cross-domain linking capability. | Maximum Storage Duration<br><br>20 hours |
+| Name<br><br>FPID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to distinguish users. | Maximum Storage Duration<br><br>24 months |
+| Name<br><br>giosg\_rmatch | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Used to match and identify returning visitors across sessions and domains. Supports persistent chat functionality and personalized engagement. | Maximum Storage Duration<br><br>Persistent |
 
 Content targeting and grouping,
 
 These cookies help us target content and offers to you depending on how you have used the vr.fi website. If you are logged in and make a purchase on our website, we may combine your cookie data with your other data, including the time of your journey, your ticket product or earlier purchases. This data enables us to analyse and develop our operations, offer customised content, such as additional information about travelling or targeted advertisements. In this, we use personalisation tools, such as the Convert.com service. 
 
-| Cookies used for content targeting and grouping | Collected data and storage period | Purpose | Third parties |
-| --- | --- | --- | --- |
-| Cookies used for content targeting and grouping<br><br>Convert.com | Collected data and storage period<br><br>Test group membership. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Content targeting (personalisation) | Third parties<br><br>The data is not disclosed to third parties |
-| Cookies used for content targeting and grouping | Collected data and storage period<br><br>The data is stored for 6 months. | Purpose | Third parties |
+Cookies used for content targeting and grouping
+-----------------------------------------------
+
+| Name | Type | Provider | Purpose | Maximum Storage Duration |
+| --- | --- | --- | --- | --- |
+| Name<br><br>_conv_v | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to identify returning users. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>_conv_s | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to keep convert.com session intact. | Maximum Storage Duration<br><br>20 minutes |
+| Name<br><br>_conv_r | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track the referrer of the visitor. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>_conv_t\_ | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track conversion events and user interactions for A/B testing experiments. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>convert.com | Type<br><br>Local Storage | Provider<br><br>Convert.com | Purpose<br><br>Stores data related to A/B testing and personalization. Tracks user participation in experiments, variant assignment, and interaction history to ensure consistent experience and accurate reporting. | Maximum Storage Duration<br><br>Persistent |
 
 Marketing cookies,
 
@@ -64,20 +101,25 @@ Marketing cookies help us and our trusted partners place targeted advertising on
 
 With marketing cookies, we can enrich the data used in the targeting of marketing activities with data we have received from third parties. This enables us to target perks and marketing more closely according to your needs. In targeted advertising, we use Google’s and Facebook’s advertising and monitoring services, for instance.
 
-| Marketing cookies | Collected data and storage period | Purpose | Third parties |
-| --- | --- | --- | --- |
-| Marketing cookies<br><br>Facebook | Collected data and storage period<br><br>Visiting and purchase data. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Targeting ads on Facebook and measuring the effectiveness of advertising. | Third parties<br><br>Facebook receives anonymised data of visits to the website. [Read more about cookies on Facebook and manage the use of cookies﻿, Opens in a new tab](https://www.facebook.com/policies/cookies) |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for the duration of the session or for three months. | Purpose | Third parties |
-| Marketing cookies<br><br>LinkedIn | Collected data and storage period<br><br>Visiting data. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Targeting ads on LinkedIn and measuring the effectiveness of advertising. | Third parties<br><br>LinkedIn receives anonymised data of visits to the website. [Read more about cookies on LinkedIn and manage the use of cookies﻿, Opens in a new tab](https://www.linkedin.com/legal/cookie-policy) |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for one month. | Purpose | Third parties |
-| Marketing cookies<br><br>Google Doubleclick | Collected data and storage period<br><br>General visiting data, user and advertisement data. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Targeting ads in the marketing network and measuring the effectiveness of advertising. | Third parties<br><br>Google’s network receives anonymised data of visits to the website. [Read more about the types of cookies used by Google and manage the use of cookies﻿, Opens in a new tab](https://policies.google.com/privacy?gl=FI&hl=en) |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for the duration of the session. | Purpose | Third parties |
-| Marketing cookies<br><br>Google Ads | Collected data and storage period<br><br>Visiting and purchase data. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Targeting ads and measuring the effectiveness of advertising. | Third parties<br><br>The data is not disclosed. |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for three months. | Purpose | Third parties |
-| Marketing cookies<br><br>Bloomreach | Collected data and storage period<br><br>Visiting data. | Purpose<br><br>Targeting of content and ads. Measuring the effectiveness of advertising. | Third parties<br><br>The data is not disclosed. |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for 3 years. | Purpose | Third parties |
-| Marketing cookies<br><br>Microsoft Ads | Collected data and storage period<br><br>Visiting and purchase data. The browser is automatically identified with the help of an anonymous identifier. | Purpose<br><br>Targeting ads and measuring the effectiveness of advertising. | Third parties<br><br>The data is not disclosed. |
-| Marketing cookies | Collected data and storage period<br><br>Cookie information is stored for 390 days/13 months. | Purpose | Third parties |
+| Name | Type | Provider | Purpose | Maximum Storage Duration |
+| --- | --- | --- | --- | --- |
+| Name<br><br>\_uetsid | Type<br><br>Cookie / Local Storage | Provider<br><br>Microsoft | Purpose<br><br>Used by Microsoft Ads to distinguish sessions. | Maximum Storage Duration<br><br>1 day |
+| Name<br><br>\_uetvid | Type<br><br>Cookie / Local Storage | Provider<br><br>Microsoft | Purpose<br><br>Used by Microsoft Ads to distinguish visitors. | Maximum Storage Duration<br><br>13 months |
+| Name<br><br>xnpe\_XXXXXX | Type<br><br>Cookie | Provider<br><br>Bloomreach | Purpose<br><br>Customer's Bloomreach Engagement generated server-side cookie. | Maximum Storage Duration<br><br>3 years |
+| Name<br><br>**exponea\_etc** | Type<br><br>Cookie | Provider<br><br>Bloomreach | Purpose<br><br>Customer's Bloomreach Engagement generated client-side cookie. | Maximum Storage Duration<br><br>7 days - 3 years |
+| Name<br><br>MUID | Type<br><br>Cookie | Provider<br><br>Microsoft | Purpose<br><br>Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>**exponea\_time2** | Type<br><br>Cookie | Provider<br><br>Bloomreach | Purpose<br><br>Timestamp offset between browser and server time. | Maximum Storage Duration<br><br>60 minutes |
+| Name<br><br>FPAU | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Campaign Manager, Display & Video 360, Google Ads and Search Ads 360 to store user interaction and attribution data for ad performance measurement. | Maximum Storage Duration<br><br>90 days |
+| Name<br><br>test\_cookie | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used to determine if a user's browser accepts cookies. | Maximum Storage Duration<br><br>15 minutes |
+| Name<br><br>\_fbp | Type<br><br>Cookie | Provider<br><br>Meta / Facebook | Purpose<br><br>Set by Meta Pixel, used to identify user, measure ad performance and build custom audiences. | Maximum Storage Duration<br><br>3 months |
+| Name<br><br>sgid | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Personal, secret identifier of the visitor. This ID is only known by the end user's browser and is only sent to Giosg for validation. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>giosg_chat_id\_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Organization specific visitor identifier. This cookie is used to distinguish unique visitors and allow chat to continue from page to page. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>giosg_sgid_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Personal, secret identifier of the visitor. This ID is only known by the end user's browser and is only sent to Giosg for validation. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>\__exponea_banner\_event | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Tracks user interactions with banners or pop-ups (e.g., impressions, clicks, dismissals) to manage display frequency and personalization | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>lastExternalReferrer | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the last referring website the visitor came from | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>lastExternalReferrerTime | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the timestamp of the lastExternalReferrer update | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>exponea_tracking_definition | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Stores tracking configuration and customer identification data to support personalized experiences, event tracking, and analytics. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>datr | Type<br><br>Cookie | Provider<br><br>Facebook | Purpose<br><br>Used by Facebook to identify the web browser being used to connect to Facebook, regardless of the logged-in user. It helps detect suspicious login activity and maintain platform security. | Maximum Storage Duration<br><br>2 years |
 
 Browser settings
 ----------------
