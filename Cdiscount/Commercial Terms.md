@@ -1630,6 +1630,7 @@ Les présentes Conditions Générales d’Utilisation sont soumises au droit fra
 _CONDITIONS GENERALES DE PRECOMMANDE JEUX VIDEOS - TELEPHONIE (uniquement pour la France métropolitaine)_
 ---------------------------------------------------------------------------------------------------------
 
+  
 **ARTICLE 1 – CHAMP D’APPLICATION**  
   
   
