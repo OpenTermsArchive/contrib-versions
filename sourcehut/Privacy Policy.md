@@ -1,8 +1,6 @@
 Privacy policy
 --------------
 
-**Notice**: Revisions to the privacy policy are currently [under discussion](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282).
-
 If you have any questions, please reach out to [sr.ht-support](mailto:~sircmpwn/sr.ht-support@lists.sr.ht) via email.
 
 ### [#](#what-we-collect-and-why)What we collect and why
