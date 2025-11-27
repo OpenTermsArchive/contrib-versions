@@ -1268,7 +1268,7 @@ When you use your phone a record is kept of the call traffic details , which is 
 
 As part of providing this service, we need to understand and manage traffic flows on the network.
 
-To do this, we need information about your broadband usage. This includes capturing IP addresses and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps that you use. Having this information means we’re able to provide you with services that you request and work to improve them.
+To do this, we need information about your broadband usage. This includes capturing IP addresses, device ID (fingerprinting), and traffic data such as the websites you’ve visited. We’ll also have information about the Vodafone apps that you use. Having this information means we’re able to provide you with services that you request and work to improve them.
 
 Capturing the websites you’ve visited doesn’t mean that we will have a history of your web-browsing as this is limited for a short real time period to enable the connection to be made. Details about websites visited may be stored for analytical purposes, such as counting the amount of times a specific web URL is visited, but this is only captured in a generic format and cannot be linked back to individual customers. For more information on your browsing history, see the [cookies policy](#cookies).
 
