@@ -7,11 +7,11 @@ Welcome to The Browser Company. Please read on to learn the rules and restrictio
 
 Email: [\[email protected\]](https://start.arc.net/cdn-cgi/l/email-protection)
 
-Website Contact Form: [https://resources.arc.net/hc/en-us/requests/new](https://resources.arc.net/hc/en-us/requests/new)
+Website Contact Form: https://resources.arc.net/hc/en-us/requests/new
 
 Address: 285 N 6th St 5th Floor Brooklyn, NY 11211
 
-These Terms of Use (the “Terms”) are a binding contract between you and **THE BROWSER COMPANY OF NEW YORK INC.** (“Browser,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the [Privacy Policy](https://thebrowser.company/privacy/)  and [Copyright Dispute Policy](https://start.arc.net/copyright-dispute-policy). **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.**
+These Terms of Use (the “Terms”) are a binding contract between you and **THE BROWSER COMPANY OF NEW YORK INC.** (“Browser,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the Privacy Policy  and Copyright Dispute Policy. **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.**
 
 **Please read these Terms carefully.** They cover important information about Services provided to you. **These Terms include information about** **future changes to these Terms, limitations of liability, a class action waiver and resolution of disputes by arbitration instead of in court.** **PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.**
 
@@ -27,11 +27,11 @@ Except for changes by us as described here, no other amendment or modification o
 
 ### **What about my privacy?**
 
-Browser takes the privacy of its users very seriously. For the current Browser Privacy Policy, please click [here](https://thebrowser.company/privacy/).
+Browser takes the privacy of its users very seriously. For the current Browser Privacy Policy, please click here.
 
 _Children’s Online Privacy Protection Act_
 
-The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. We do not knowingly collect or solicit personally identifiable information from children under 16 years of age; if you are a child under 16 years of age, please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under 16 years of age, we will delete that information as quickly as possible. If you believe that a child under 16 years of age may have provided us personal information, please contact us at: [https://resources.arc.net/hc/en-us/requests/new](https://resources.arc.net/hc/en-us/requests/new)
+The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. We do not knowingly collect or solicit personally identifiable information from children under 16 years of age; if you are a child under 16 years of age, please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under 16 years of age, we will delete that information as quickly as possible. If you believe that a child under 16 years of age may have provided us personal information, please contact us at: https://resources.arc.net/hc/en-us/requests/new
 
 ### **What are the basics of using Arc?**
 
@@ -84,7 +84,7 @@ You agree that you will not post, upload, share, store, or otherwise provide thr
 
 _Licenses_
 
-In order to display your User Content on the Services, and to allow other users to enjoy it (where applicable), you grant us certain rights in the User Content (see below for more information). Please note that all of the following licenses are subject to our [Privacy Policy](https://thebrowser.company/privacy/) to the extent they relate to User Content that is also your personally-identifiable information.
+In order to display your User Content on the Services, and to allow other users to enjoy it (where applicable), you grant us certain rights in the User Content (see below for more information). Please note that all of the following licenses are subject to our Privacy Policy to the extent they relate to User Content that is also your personally-identifiable information.
 
 For all User Content, you hereby grant Browser a license to translate, modify (for technical purposes, for example, making sure your content is viewable on a mobile device as well as a computer) and reproduce and otherwise act with respect to such User Content, in each case to enable us to operate the Services, as described in more detail below. This is a license only – your ownership in User Content is not affected.
 
@@ -156,13 +156,13 @@ The Services are currently free, but we reserve the right to charge for certain 
 
 ### **What if I want to stop using the Services?**
 
-You’re free to do that at any time by contacting us [here](https://resources.arc.net/hc/en-us/requests/new); please refer to our [Privacy Policy](https://thebrowser.company/privacy/), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
+You’re free to do that at any time by contacting us here; please refer to our Privacy Policy, as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
 
 Browser is also free to terminate (or suspend access to) your use of the Services or your account for any reason in our discretion, including your breach of these Terms. Browser has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms.
 
 Account termination may result in destruction of any Content associated with your account, so keep that in mind before you decide to terminate your account.
 
-If you have deleted your account by mistake, contact us immediately [here](https://resources.arc.net/hc/en-us/requests/new) – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
+If you have deleted your account by mistake, contact us immediately here – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
 
 Provisions that, by their nature, should survive termination of these Terms shall survive termination. By way of example, all of the following will survive termination: any obligation you have to indemnify us, any limitations on our liability, any terms regarding ownership or intellectual property rights, and terms regarding disputes between us, including without limitation the arbitration agreement
 
