@@ -22,7 +22,7 @@ First, requests must be addressed to the correct TikTok entity\*. This is based 
 |     |     |
 | --- | --- |
 | **TikTok Inc.**  <br>5800 Bristol Parkway, Suite 100  <br>Culver City, CA 90230  <br>UNITED STATES | Requests for data of users located in the United States |
-| **TikTok Information Technologies UK Limited**  <br>6th Floor  <br>One London Wall  <br>London, EC2Y 5EB  <br>UNITED KINGDOM | Requests for data of users located in the United Kingdom |
+| **TikTok Information Technologies UK Limited**  <br>4 Lindsey Street  <br>Barbican, London  <br>EC1A 9HP  <br>UNITED KINGDOM | Requests for data of users located in the United Kingdom |
 | **TikTok Technology Limited**  <br>The Sorting Office,  <br>Ropemaker Place, Dublin 2, D02 HD23, Dublin  <br>IRELAND | Requests for data of users located in the European Economic Area (EU Member States, plus Iceland, Liechtenstein, and Norway) and Switzerland. |
 | **TikTok Pte. Limited**  <br>One Raffles Quay,  <br>#26-10, South Tower,  <br>SINGAPORE 048583 | Requests for data of users located outside the US, the UK, EEA or Switzerland. |
 
@@ -137,9 +137,9 @@ TikTok may reject data requests from law enforcement authorities where they do n
 
 Aside from rejecting requests from law enforcement authorities that are not made in accordance with the relevant legal processes and requirements, TikTok will in accordance with applicable law:
 
-*   Sseek to narrow the scope of data requests in terms of the volume of data requested, the number of users they relate to and/or the time period to which they relate;
-*   Aask for further information in support of the request (in particular, for details of the relevant legal process and/or the type of offence(s) under investigation); or
-*   Ccommunicate to the requesting law enforcement authorities that a request via the Mutual Legal Assistance Treaty (“**MLAT**”) process is necessary to obtain disclosure of the requested data.
+*   Seek to narrow the scope of data requests in terms of the volume of data requested, the number of users they relate to and/or the time period to which they relate;
+*   Ask for further information in support of the request (in particular, for details of the relevant legal process and/or the type of offence(s) under investigation); or
+*   Communicate to the requesting law enforcement authorities that a request via the Mutual Legal Assistance Treaty (“**MLAT**”) process is necessary to obtain disclosure of the requested data.
 
 TikTok may report any fraudulent attempts to obtain user data information to relevant authorities.
 
