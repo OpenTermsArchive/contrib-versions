@@ -61,6 +61,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Where does this Privacy Policy apply?
     
     If you’re using Roblox, you’re in the right place. Here’s where you can learn about keeping your information safe. Using Roblox includes using:  
+     
     
     *   websites with a roblox.com address
     *   our mobile, virtual reality and console apps
@@ -71,8 +72,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     To reach us with questions or requests regarding your Personal Information, our information about how to contact us is included below.
     
-    **You can reach Roblox electronically by submitting a question through our [Customer Support Form](https://www.roblox.com/support). If you’re under 13 years old, please have your parent or guardian fill out the form.  
-    **
+    **You can reach Roblox electronically by submitting a question through our** [**Customer Support Form**](https://www.roblox.com/support)**. If you’re under 13 years old, please have your parent or guardian fill out the form.**  
+     
     
     **US:**  
     Phone: (888) 858 - BLOX  
@@ -125,6 +126,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
 2.  Are you Under 13 or responsible for an under-13-year-old?
     
     If you’re under 13 years old, your access to certain features will be restricted in the interest of protecting your Personal Information. Roblox is especially committed to protecting the privacy of children. This part of the privacy policy is just for you.  
+     
     
     First, get the go-ahead
     
@@ -143,6 +145,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Information we collect if you’re under 13 years old
     
     If you’re under 13 years old and create an account, we ask for some information (which is non-personal information, [as defined by COPPA](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312#p-312.2\(Personal%20information\))) to let you use Roblox.  
+     
     
     We’ll collect:
     
@@ -156,6 +159,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     We don’t want more Personal Information
     
     If you’re under 13 years old, we will only ask you to tell us the information we need to set up or protect your account. If you give us more of your Personal Information, we will:  
+     
     
     *   delete any additional Personal Information we’ve collected from you (unless the law requires us to keep it),
     *   cancel your account, or
@@ -172,6 +176,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please ask us if you want to make privacy-related changes
     
     You can request that Roblox make changes to your child’s account or allow you to review, delete, or prevent the further collection or use of Personal Information from you or your child. To make a request, please fill out our [Customer Support Form](https://www.roblox.com/support).  
+     
     
     In the US and want to know more?  
     We comply with the Children’s Online Privacy Protection Act (“COPPA”). To learn more about COPPA, you can visit the US Federal Trade Commission’s COPPA website: [https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa)
@@ -185,6 +190,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Setting up a Roblox account
     
     Your first step to joining a Roblox experience is to set up a Roblox account. We’ll ask you to create a unique username and password so you can log into your account and access features on Roblox. We also ask you for your birthday and gender (gender is optional) so we can customize your experience on Roblox. Eligible users may set their account's display name to contain certain Personal Information.  
+     
     
     Three key rules for signing up:
     
@@ -546,6 +552,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     How long we keep your information
     
     We may keep your Personal Information for specific purposes as long as we need it to fulfill those purposes, sometimes even if you’ve stopped using Roblox’s Services. When we no longer require your Personal Information, we will de-identify or delete the information. Here are the reasons we may need to keep your information:  
+     
     
     For resolving problems
     
@@ -593,7 +600,9 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     If you live in the European Economic Area (EEA), the United Kingdom (UK) or Switzerland
     
-    Categories of Personal Information and Data Processing Purposes In the course of visiting our websites and apps, and/or using our services and products, we may process the following Personal Information subject to the legal bases mentioned below:
+    Categories of Personal Information and Data Processing Purposes
+    
+    In the course of visiting our websites and apps, and/or using our services and products, we may process the following Personal Information subject to the legal bases mentioned below:
     
     Setting up a Roblox account
     
@@ -655,7 +664,9 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     *   Information relating to a job application made by you, like your name, email address, employment details, CV, resume or other details of your employment history sent by you. We will process this information to process and respond to your job application. If you engage with Roblox in an immersive space for prospective employees, such as the Roblox Career Center, such a space may be recorded in order to provide the experience. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“necessary for entering into an employment contract with us”).
     
-    Automated Decision-Making Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
+    Automated Decision-Making
+    
+    Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
     
     Personal Information of Children and Parental Consent
     
