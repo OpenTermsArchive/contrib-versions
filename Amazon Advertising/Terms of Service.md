@@ -1,7 +1,7 @@
 Conditions of Use & Sale
 ========================
 
-_Last updated on 8 August, 2025._
+_Last updated on 28 November, 2025._
 
 Find the previous iteration of the Conditions of Use & Sale on click [Previous versions of Legal policies](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GYT8SUSD2E9EWE8Q). This version of the Conditions of Use & Sale applies to all orders which were placed on or after the last update date indicated above. For orders placed before this date, please access previous versions of the Conditions of Use & Sale and select the version that applied at the time of your order.
 
@@ -283,9 +283,9 @@ For additional information on the scope, content and instructions for the exerci
 
 **EFFECTS OF CANCELLATION**
 
-We will reimburse all payments received from you for the goods purchased and will also reimburse delivery charges for the least expensive type of delivery offered by us, no later than 14 days from the day on which we received the above communication. We will use the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event, you will not incur any fees as a result of such reimbursement. We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest. If reimbursement occurs after the maximum time period mentioned above, the amount due to you will as of right be increased.
+We will reimburse all payments received from you for the goods purchased (unless we are entitled to reduce your refund, as explained below) and will also reimburse delivery charges for the least expensive type of delivery offered by us, no later than 14 days from the day on which we received the above communication. We will use the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event, you will not incur any fees as a result of such reimbursement. We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest. If reimbursement occurs after the maximum time period mentioned above, the amount due to you will as of right be increased.
 
-Note that you must send back the goods by following the instructions available on our return centre no later than 14 days from the day on which us you communicate your cancellation. You will have to bear the direct cost of returning these goods. You may be liable if the value of the goods returned diminishes due to the handling of the goods (except when it was necessary to establish the nature, characteristics and functioning of the goods).
+Note that you must send back the goods by following the instructions available on our return centre no later than 14 days from the day on which you communicate your cancellation to us. You will have to bear the direct cost of returning these goods. You may be liable if the value of the goods returned diminishes due to your handling of the goods (except when it was necessary to establish the nature, characteristics and functioning of the goods). In this case, we may reduce your refund to reflect the diminished value of the goods. If the goods are significantly damaged as a result of your handling of them, you may not be entitled to a refund for them.
 
 **EXCEPTIONS TO THE RIGHT OF CANCELLATION**
 
@@ -306,7 +306,9 @@ Without prejudice to your statutory rights, Amazon provides you with the followi
 
 All products from the Amazon sites can be returned within 30 days of receipt of the products to Amazon if the products are complete and are in an unused and undamaged condition. For shrink-wrapped and/or sealed data media (for example CDs, audio cassettes, VHS videos, DVDs, PC and video games and software) this means that we only take back the products in the unopened shrink wrap film or with an undamaged seal. The products are to be returned via our [Returns Support Centre](https://www.amazon.co.uk/returns). This voluntary returns guarantee does not apply to digital products or software which are not supplied on a tangible medium (e.g. on a CD or DVD).
 
-If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you, but not the delivery costs of your initial purchase. Likewise the transport risk and return costs might be borne by you. If you return Fashion items specific policies apply, for more details see [Free Returns on Fashion Items](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201819180). This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
+You must return each product in the same condition in which you received it. You may be liable if the value of any returned product has been diminished due to your handling of it (except when such handling was necessary to establish the nature, characteristics and functioning of the product). Therefore, if you do not return products in the same condition in which you received them in, Amazon reserves the right to reject the return or deduct a portion of the original purchase price from your refund to cover the diminished value.
+
+If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you (or a partial refund if you do not return a product in the same condition in which you received it), but not the delivery costs of your initial purchase. Likewise the transport risk and return costs might be borne by you. If you return Fashion items specific policies apply, for more details see [Free Returns on Fashion Items](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201819180). This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
 
 Details on returning and examples can be found at [Returns and Refunds](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502480).
 
