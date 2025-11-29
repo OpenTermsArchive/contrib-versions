@@ -75,7 +75,7 @@ For instance, we use the Google Analytics and Hotjar services as well as Google 
 | Name | Type | Provider | Purpose | Maximum Storage Duration |
 | --- | --- | --- | --- | --- |
 | Name<br><br>\_ga | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to distinguish users. | Maximum Storage Duration<br><br>24 months |
-| Name<br><br>_ga_XXXXXXX | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to persist session state. | Maximum Storage Duration<br><br>24 months |
+| Name<br><br>\_ga\_XXXXXXX | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to persist session state. | Maximum Storage Duration<br><br>24 months |
 | Name<br><br>FPLC | Type<br><br>Cookie | Provider<br><br>vr.fi | Purpose<br><br>Provides cross-domain linking capability. | Maximum Storage Duration<br><br>20 hours |
 | Name<br><br>FPID | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used by Google Analytics to distinguish users. | Maximum Storage Duration<br><br>24 months |
 | Name<br><br>giosg\_rmatch | Type<br><br>Local Storage | Provider<br><br>Giosg | Purpose<br><br>Used to match and identify returning visitors across sessions and domains. Supports persistent chat functionality and personalized engagement. | Maximum Storage Duration<br><br>Persistent |
@@ -89,10 +89,10 @@ Cookies used for content targeting and grouping
 
 | Name | Type | Provider | Purpose | Maximum Storage Duration |
 | --- | --- | --- | --- | --- |
-| Name<br><br>_conv_v | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to identify returning users. | Maximum Storage Duration<br><br>6 months |
-| Name<br><br>_conv_s | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to keep convert.com session intact. | Maximum Storage Duration<br><br>20 minutes |
-| Name<br><br>_conv_r | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track the referrer of the visitor. | Maximum Storage Duration<br><br>6 months |
-| Name<br><br>_conv_t\_ | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track conversion events and user interactions for A/B testing experiments. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>\_conv\_v | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to identify returning users. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>\_conv\_s | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to keep convert.com session intact. | Maximum Storage Duration<br><br>20 minutes |
+| Name<br><br>\_conv\_r | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track the referrer of the visitor. | Maximum Storage Duration<br><br>6 months |
+| Name<br><br>_conv\_t_ | Type<br><br>Cookie | Provider<br><br>Convert.com | Purpose<br><br>Used to track conversion events and user interactions for A/B testing experiments. | Maximum Storage Duration<br><br>6 months |
 | Name<br><br>convert.com | Type<br><br>Local Storage | Provider<br><br>Convert.com | Purpose<br><br>Stores data related to A/B testing and personalization. Tracks user participation in experiments, variant assignment, and interaction history to ensure consistent experience and accurate reporting. | Maximum Storage Duration<br><br>Persistent |
 
 Marketing cookies,
@@ -113,12 +113,12 @@ With marketing cookies, we can enrich the data used in the targeting of marketin
 | Name<br><br>test\_cookie | Type<br><br>Cookie | Provider<br><br>Google | Purpose<br><br>Used to determine if a user's browser accepts cookies. | Maximum Storage Duration<br><br>15 minutes |
 | Name<br><br>\_fbp | Type<br><br>Cookie | Provider<br><br>Meta / Facebook | Purpose<br><br>Set by Meta Pixel, used to identify user, measure ad performance and build custom audiences. | Maximum Storage Duration<br><br>3 months |
 | Name<br><br>sgid | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Personal, secret identifier of the visitor. This ID is only known by the end user's browser and is only sent to Giosg for validation. | Maximum Storage Duration<br><br>12 months |
-| Name<br><br>giosg_chat_id\_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Organization specific visitor identifier. This cookie is used to distinguish unique visitors and allow chat to continue from page to page. | Maximum Storage Duration<br><br>12 months |
-| Name<br><br>giosg_sgid_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Personal, secret identifier of the visitor. This ID is only known by the end user's browser and is only sent to Giosg for validation. | Maximum Storage Duration<br><br>12 months |
-| Name<br><br>\__exponea_banner\_event | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Tracks user interactions with banners or pop-ups (e.g., impressions, clicks, dismissals) to manage display frequency and personalization | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>giosg\_chat\_id\_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Organization specific visitor identifier. This cookie is used to distinguish unique visitors and allow chat to continue from page to page. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>giosg\_sgid\_XXXX | Type<br><br>Cookie | Provider<br><br>Giosg | Purpose<br><br>Personal, secret identifier of the visitor. This ID is only known by the end user's browser and is only sent to Giosg for validation. | Maximum Storage Duration<br><br>12 months |
+| Name<br><br>\_\_exponea\_banner\_event | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Tracks user interactions with banners or pop-ups (e.g., impressions, clicks, dismissals) to manage display frequency and personalization | Maximum Storage Duration<br><br>Persistent |
 | Name<br><br>lastExternalReferrer | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the last referring website the visitor came from | Maximum Storage Duration<br><br>Persistent |
 | Name<br><br>lastExternalReferrerTime | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the timestamp of the lastExternalReferrer update | Maximum Storage Duration<br><br>Persistent |
-| Name<br><br>exponea_tracking_definition | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Stores tracking configuration and customer identification data to support personalized experiences, event tracking, and analytics. | Maximum Storage Duration<br><br>Persistent |
+| Name<br><br>exponea\_tracking\_definition | Type<br><br>Local Storage | Provider<br><br>Bloomreach | Purpose<br><br>Stores tracking configuration and customer identification data to support personalized experiences, event tracking, and analytics. | Maximum Storage Duration<br><br>Persistent |
 | Name<br><br>datr | Type<br><br>Cookie | Provider<br><br>Facebook | Purpose<br><br>Used by Facebook to identify the web browser being used to connect to Facebook, regardless of the logged-in user. It helps detect suspicious login activity and maintain platform security. | Maximum Storage Duration<br><br>2 years |
 
 Browser settings
