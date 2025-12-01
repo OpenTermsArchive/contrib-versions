@@ -575,6 +575,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         135.  City of Winnipeg Open Data Portal: [https://data.winnipeg.ca/open-data-licence](https://data.winnipeg.ca/open-data-licence)
               
+        136.  Statistics Canada, Intercensal - Census Subdivision Boundary Files, 2025: [https://www.statcan.gc.ca/en/terms-conditions/open-licence](https://www.statcan.gc.ca/en/terms-conditions/open-licence)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -596,6 +598,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Stahovací služby Atom: ČUZK - [https://atom.cuzk.cz/](https://atom.cuzk.cz//)
              
          *   Czech Land Survey and Cadastre Office - [https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx](https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx)
+             
+         *   Geoportal Praha - [https://geoportalpraha.cz/en/data-and-services/45063acce89d4b37afc6d51f03f3ad49](https://geoportalpraha.cz/en/data-and-services/45063acce89d4b37afc6d51f03f3ad49), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
              
     14.  **Denmark**
          *   © COWI A/S
@@ -2221,6 +2225,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data Gov TW: [https://data.gov.tw/en/license](https://data.gov.tw/en/license)
              
+         *   İzmir Open Data Portal: [https://acikveri.bizizmir.com/dataset/bisiklet-altyapi-haritasi/resource/966cffaa-ccf1-4306-8da9-ac0cffbebb88](https://acikveri.bizizmir.com/dataset/bisiklet-altyapi-haritasi/resource/966cffaa-ccf1-4306-8da9-ac0cffbebb88), [https://acikveri.bizizmir.com/tr/license](https://acikveri.bizizmir.com/tr/license)
+             
     67.  **Turks and Caicos**
          
          © Salt Cay Devco Ltd.
@@ -3005,6 +3011,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
              
          *   Republika Hrvatska, Cikloturizam (HR): [https://cikloturizam.gov.hr/](https://cikloturizam.gov.hr/), [https://dgu.gov.hr/uvjeti-koristenja/76](https://dgu.gov.hr/uvjeti-koristenja/76)
+             
+         *   Contains data from the Croatia State Geodetic Administration, Upravne jedinice INSPIRE (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+             
+         *   Contains data from the Croatia State Geodetic Administration, Adrese INSPIRE – WMS servis (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
              
     100.  **Paraguay**
           *   Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
