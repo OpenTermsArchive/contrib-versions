@@ -325,7 +325,7 @@ NORTH AMERICA (UNITED STATES & CANADA)
 | United States | Digital Asset Services, Fiat Wallet services | Coinbase, Inc. CA Entity No.: C3548456 | Coinbase, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
 | United States | Custodial Services | Coinbase Custody Trust Company, LLC (unless otherwise indicated in your service contract) NYS License # 122506 | Coinbase Custody Trust Company, LLC c/o C T Corporation System 28 Liberty Street New York, New York 10005 |
 | United States | Credit and Lending Services | Coinbase Credit, Inc. CA Entity No.: C4315976 | Coinbase Credit, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
-| United States | Futures Trading | Coinbase Financial Markets, Inc. | 100 Pine Street, Suite 1250, San Francisco, CA 94111 |
+| United States | Futures Trading | Coinbase Financial Markets, Inc. | 1 Madison Ave, 24th floor, New York, NY 10010, United States |
 | Canada | Digital Asset Services, Fiat services | Coinbase Canada, Inc. | 1 University Avenue, #14- 111, Toronto ON M5J 2P1 CAN |
 
 APAC
