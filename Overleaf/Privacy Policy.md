@@ -1,11 +1,11 @@
 Overleaf Privacy Notice
 -----------------------
 
-Last Modified: 15th August 2025
+Last Modified: 1st December 2025
 
 This Notice applies to the websites at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
-Overleaf is operated by Digital Science UK Ltd (formerly Writelatex Ltd), with registered offices at 6 Briset Street, London, United Kingdom, EC1M 5NR (“Digital Science” or “we”). We respect your concerns about privacy and value our relationship with you. This Notice explains what personal data we collect, how we may use and manage it and the rights you may have in relation to such personal data. When we refer to “personal data” in this Notice, we mean information relating to an identified or identifiable individual that we collect and use in connection with Overleaf; not aggregate or other anonymised data or information we process on behalf of our customers.
+Overleaf is operated and controlled by Digital Science UK Ltd (formerly Writelatex Ltd), with registered offices at 6 Briset Street, London, United Kingdom, EC1M 5NR (“Digital Science” or “we”). We respect your concerns about privacy and value our relationship with you. This Notice explains what personal data we collect, how we may use and manage it and the rights you may have in relation to such personal data. When we refer to “personal data” in this Notice, we mean information relating to an identified or identifiable individual that we collect and use in connection with Overleaf; not aggregate or other anonymised data or information we process on behalf of our customers.
 
 ### How do we collect and use personal data?
 
@@ -81,7 +81,7 @@ Please email us at [privacy@overleaf.com](mailto:privacy@overleaf.com) if you wo
 
 ### Data Privacy Framework Notice
 
-In some cases, your organization may choose to purchase a subscription to use Overleaf via our US affiliate, Digital Science & Research Solutions Inc. (“Digital Science US”), which participates in the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework. This Notice applies to personal data transferred to Digital Science US, in the United States, from the European Economic Area and the United Kingdom, where transferred in reliance on the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework (which is referred to in this Notice as EU Personal Data).
+In some cases, your subscription to use Overleaf may have been purchased via our US affiliate, Digital Science & Research Solutions Inc. (“Digital Science US”), which participates in the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework. This Notice applies to personal data transferred to Digital Science US, in the United States, from the European Economic Area and the United Kingdom, where transferred in reliance on the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework (which is referred to in this Notice as EU Personal Data).
 
 To the extent there is any conflict between the EU-U.S. Data Privacy Framework Principles (“DPF Principles”) and this Notice, the DPF Principles will prevail in respect of EU Personal Data.
 
