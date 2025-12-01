@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 31 October 2025
+*   Last updated: 01 December 2025
 *   Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Christian Schmidt.
@@ -418,8 +418,14 @@ In order to be able to identify you as a valuable business contact or potential 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection.
 
 You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis:  
-xing.com: [https://consent.xing.com/adobe/optout.en.html](https://consent.xing.com/adobe/optout.en.html)  
-onlyfy.io: [https://consent.onlyfy.io/adobe/optout.en.html](https://consent.onlyfy.io/adobe/optout.en.html)  
+http://anschreiben.com: [https://stan.anschreiben.com/adobe.html](https://stan.anschreiben.com/adobe.html)  
+http://bewerbung.com: [https://stan.bewerbung.com/adobe.html](https://stan.bewerbung.com/adobe.html)  
+http://lebenslauf.com: [https://stan.lebenslauf.com/adobe.html](https://stan.lebenslauf.com/adobe.html)  
+http://new-work.se: [https://stan.new-work.se/adobe.html](https://stan.new-work.se/adobe.html)  
+http://xing.com: [https://stan.xing.com/adobe.html](https://stan.xing.com/adobe.html)  
+http://onlyfy.io: [https://stan.onlyfy.io/adobe.html](https://stan.onlyfy.io/adobe.html)  
+onlyfy.jobs: [https://stan.onlyfy.jobs/adobe.html](https://stan.onlyfy.jobs/adobe.html)  
+jobbörse.com: [https://stan.jobbörse.com/adobe.html](https://stan.xn--jobbrse-d1a.com/adobe.html)  
   
 Please note that this opt-out option installs a [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) on the end device you’re using when you click on the link. You therefore might not be excluded from tracking if you then delete the [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) in question. When using mobile apps, you need to opt out in the respective app settings.
 
