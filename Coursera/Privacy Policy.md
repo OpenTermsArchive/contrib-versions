@@ -180,3 +180,26 @@ Contact Us
 ----------
 
 Please contact us with any questions or comments about this DPF Notice, transfer of your Personal Data from the EEA, UK or Switzerland to the U.S., our privacy practices, or your consent choices by email at [privacy@coursera.org](mailto:privacy@coursera.org).
+
+* * *
+
+Privacy Notice Addendum
+=======================
+
+* * *
+
+_Last Updated Date: December 3, 2025._
+
+Coursera is providing and integrating a ChatGPT-branded app within ChatGPT solely to provide staff of OpenAI customers (“**you**”) with access to OpenAI courses (the “**App**”). In order to access the App you must have a Coursera account. If you choose to close your Coursera account, or if Coursera closes or suspends your Coursera account in accordance with its [Terms of Use](https://www.coursera.org/about/terms?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_gb_en_m_hyb_25-04_x&campaignid=22490486852&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6577627676&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22483915359&gbraid=0AAAAADdKX6ao-RrZGfNG0kJ7wvcjO9PxX&gclid=Cj0KCQiA0KrJBhCOARIsAGIy9wAN3jSsg4VOf4NPMIKe_SEMT-g4SwPC19LXkwOMJHFLn76uJgF6J68aAq42EALw_wcB), you will no longer be able to access the App and any related OpenAI courses provided via the App.
+
+The [Coursera Privacy Notice](https://www.coursera.org/about/privacy?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_gb_en_m_hyb_25-04_x&campaignid=22490486852&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6577627676&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22483915359&gbraid=0AAAAADdKX6ao-RrZGfNG0kJ7wvcjO9PxX&gclid=Cj0KCQiA0KrJBhCOARIsAGIy9wBRBAu03h0XCEG82R4ZN1Zm77EUqrddHbcONTsoct7kvnZpEBE8tPcaAsUJEALw_wcB) (“**Privacy Notice**”) continues to apply to your use of Coursera services, including your use of the App. This Privacy Notice Addendum (“**Addendum**”) is incorporated into, and forms part of, the Privacy Notice. This Addendum provides additional information about how Coursera processes your personal information specifically in connection with the App. For information on how to contact Coursera with any privacy-related questions, or to exercise your privacy rights, please refer to the Privacy Notice. If there is any conflict between this Addendum and the Privacy Notice, this Addendum will control only with respect to the App.
+
+Personal information Coursera processes and why
+-----------------------------------------------
+
+In addition to the information described in the Privacy Notice, Coursera may receive the following personal information from you, OpenAI, or your employer to support your access to the App and your participation in OpenAI courses:
+
+Personal information shared
+---------------------------
+
+As described in the Privacy Notice, Coursera shares information when needed to deliver and support our services. For OpenAI courses taken through the App:
