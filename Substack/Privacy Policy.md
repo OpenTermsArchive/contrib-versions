@@ -129,7 +129,7 @@ Substack is established in the US and uses service providers established both in
   
 **Does Substack participate in the Data Privacy Framework?**
 
-Substack complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (each, a “DPF”) as set forth by the U.S. Department of Commerce. Substack has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Substack has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/
+Substack complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (each, a “DPF”) as set forth by the U.S. Department of Commerce. Substack has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Substack has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
 
 When we receive Personal Information under a DPF, the [DPF Principles](https://www.dataprivacyframework.gov/EU-US-Framework) apply to our processing of that information. Under any DPF, we are accountable for the onward transfer of Personal Information, and only transfer Personal Information received pursuant to a DPF under agreements that provide the same protections as the DPF. Our adherence to the DPFs specified above is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -229,6 +229,23 @@ These cookies are essential in order to enable you to move around the website an
 | Lifetime | 30 minutes |
 | Domain | .substack.com |
 | Vendor Privacy Policy | [Link](https://www.cloudflare.com/cookie-policy/) |
+
+|     |     |
+| --- | --- |
+| Name | AWSALBTG |
+| Type | Persistent |
+| Purpose | Ensures a consistent user experience across network requests. |
+| Lifetime | 2 years |
+| Domain | .substack.com |
+| Vendor Privacy Policy | [Link](https://aws.amazon.com/legal/cookies/) |
+
+|     |     |
+| --- | --- |
+| Name | disable\_html\_pixels |
+| Type | Session |
+| Purpose | Ensures a consistent user experience across network requests. |
+| Lifetime | Session |
+| Domain | .substack.com |
 
 |     |     |
 | --- | --- |
@@ -379,15 +396,6 @@ These cookies remember choices you make such as the country you visit our websit
 | Purpose | Prevents users from repeatedly being shown features. |
 | Lifetime | 10 years |
 | Domain | .substack.com |
-
-|     |     |
-| --- | --- |
-| Name | AWSALBTG |
-| Type | Persistent |
-| Purpose | Ensures a consistent user experience across network requests. |
-| Lifetime | 2 years |
-| Domain | .substack.com |
-| Vendor Privacy Policy | [Link](https://aws.amazon.com/legal/cookies/) |
 
 |     |     |
 | --- | --- |
