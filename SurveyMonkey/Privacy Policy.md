@@ -3,7 +3,11 @@ Print this Page
 Privacy Notice
 ==============
 
-LAST UPDATED: December 27, 2025
+Updated: November 3, 2025
+
+Effective date: December 27, 2025
+
+See drop-down menu for previous versions
 
 1\. Introduction
 ----------------
