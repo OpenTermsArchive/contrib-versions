@@ -84,6 +84,7 @@ Consumer
 *   [### Android XR](https://support.google.com/android-xr?hl=en-GB)
 *   [### YouTube](https://support.google.com/youtube?hl=en-GB)
 *   [### Google Nest](https://support.google.com/googlenest?hl=en-GB)
+*   [### Workspace Studio](https://support.google.com/workspace-studio?hl=en-GB)
 *   [### Trends](https://support.google.com/trends?hl=en-GB)
 *   [### Android](https://support.google.com/android?hl=en-GB)
 *   [### Sites](https://support.google.com/sites?hl=en-GB)
