@@ -223,10 +223,6 @@ Severability. With the exception of any of the provisions in Section "Class Acti
 These Terms of Service constitute the entire agreement between you and Mix with respect your use of the Services and supersede and replace all prior or contemporaneous communications or agreements, written or oral, including any prior versions of the Terms of Service. These Terms of Service do not confer any third-party beneficiary rights on any person or entity. If for any reason a court of competent jurisdiction finds any provision or portion of these Terms of Service to be unenforceable, the remainder of the Terms of Service will continue in full force and effect. Any waiver of any provision of these Terms of Service will be effective only if in writing and signed by Mix. The provisions of these Terms of Service that by their nature are continuing will survive any termination.
 
   
+\# **Revision History**
 
-**Revision History**
-====================
-
-*   Terms of Service - Effective February 1, 2017
-*   Terms of Service - Effective October 18, 2019
-*   Terms of Service - Effective September 14, 2023
+*   Terms of Service - Effective February 1, 2017 - Terms of Service - Effective October 18, 2019 - Terms of Service - Effective September 14, 2023
