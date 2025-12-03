@@ -11,7 +11,7 @@ In this context, this Privacy Policy will help you to understand what personal d
 Scope
 -----
 
-This privacy policy is intended to govern the processing carried out by Scaleway as data controller (Scaleway, 8 RUE DE LA VILLE L'EVÊQUE 75008 PARIS 8), in particular the data collected in the context of
+This privacy policy is intended to govern the processing carried out by Scaleway as data controller (Scaleway, 8 RUE DE LA VILLE L'EVÊQUE 75008 PARIS 8), in particular the data collected in the context of:
 
 *   the management of your customer account
 *   the management of marketing communications or prospection
@@ -27,13 +27,23 @@ What kind of personal data is processed ?
 
 Scaleway is required to process the following categories of data:
 
-*   Data relating to identity: name, first name, postal and email address, telephone number, customer number, signature, proof of identity.
-*   Billing data: bank details, means of payment, invoices, etc.
+*   Data relating to identity: name, first name, customer number, signature, proof of identity.
+*   Billing data: bank details, terms of payment, invoices, etc.
 *   Consumption data: history of services and products used, event logs etc.
-*   Communication data: history of exchanges with Scaleway, complaints, support tickets, etc.
+*   Communication data: mails, emails, telephone number, history of exchanges with Scaleway, complaints, support tickets, etc.
 *   Connection data: IP address, user ID, location data, connection and event logs etc.
 
 The categories of data used are indicated in each of the treatments in the following section. Any reference to “user account data” includes all account data.
+
+What data do we share?
+----------------------
+
+Scaleway does not resell any personal data of its customers or contacts. We only share data as part of operations related to your contract, to meet a legal obligation, or in the company's legitimate interest in the following cases:
+
+*   Transfer of data to a sub-processor or partner for the performance of the service;
+*   In the event of a business transfer (included merger or acquisition of the company);
+*   To comply with our legal obligations (e.g., sharing data at the request of an authorized public body to identify fraud or as part of a criminal investigation);
+*   To ensure the security of our services and infrastructure (e.g. sharing data with security-related service providers).
 
 How we use your data?
 ---------------------
@@ -55,10 +65,10 @@ Scaleway processes certain data in order to send its service offers to its custo
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
-| Commercial prospecting and communication campaigns relating to our products and services | Identity data  <br>Billing data  <br>Consumption data  <br>Communication data  <br>Connection data | Legitimate interest  <br>Consent | Duration of the contractual relationship  <br>Account deletion request withdrawal of consent objection of the person | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the management of marketing campaigns and customer relation  <br>Authorized third parties |
-| Organization of events to promote our services | Identity data  <br>Communication data  <br>Connection data | Legitimate interest  <br>Consent | Duration of the contractual relationship  <br>Account deletion request | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the management of events  <br>Authorized third parties |
-| Management of cookies and other trackers (learn more about our cookie policy) | Connection data | Consent | Cookies are stored between 3 months and 1 year depending on the type of cookie used | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the cookies management  <br>Authorized third parties |
-| Carrying out satisfaction surveys or quality surveys on our services and the training of our teams | Identity data  <br>Billing data  <br>Consumption data  <br>Communication data  <br>Connection data  <br>Audio or video recording | Legitimate interest  <br>Consent | 1 year and anonymization | Scaleway Sales and Marketing Teams Entitled Scaleway Partners for marketing analysis  <br>Authorized third parties |
+| Commercial prospecting and communication campaigns relating to our products and services | Identity data  <br>Billing data  <br>Consumption data  <br>Communication data  <br>Connection data | Legitimate interest  <br>Consent | Duration of the contractual relationship  <br>Account deletion request  <br>Prospects : deletion after 3 years of inactivity from the last contact | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the management of marketing campaigns and customer relation  <br>Authorized third parties |
+| Organization of events to promote our services | Identity data  <br>Communication data  <br>Connection data  <br>Data relating to the professional background of the speakers | Legitimate interest  <br>Consent | Duration of the contractual relationship  <br>Account deletion request  <br>Prospects : deletion after 3 years of inactivity from the last contact | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the management of events  <br>Scaleway service concerned by the event  <br>Authorized third parties |
+| Management of third-party cookies from our websites ([learn more about our cookie policy](https://www.scaleway.com/en/cookie/)) | Connection data | Consent | Cookies are stored between 3 months and 1 year depending on the type of cookie used | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for the cookies management  <br>Authorized third parties |
+| Carrying out satisfaction surveys or quality surveys on our services and the training of our teams | Identity data  <br>Billing data  <br>Consumption data  <br>Communication data  <br>Connection data  <br>Audio or video recording | Legitimate interest  <br>Consent | 1 year and anonymization | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for marketing analysis  <br>Authorized third parties |
 | Produce usage statistics | Connection data | Legitimate interest | Cookies: between 3 months and 1 year  <br>Service usage data kept during the contractual period or anonymized | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for quality analysis  <br>Authorized third parties |
 
 Recruitment
@@ -67,7 +77,7 @@ Scaleway also processes the personal data of candidates as part of its recruitme
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
-| Recruitment | Identity data | Execution of contract or pre-contractual measures | If the application is not accepted, the data is kept for a maximum period of 2 years  <br>If the application is accepted, the data is kept for the entire duration of the contract, accompanied by an archiving period intended to comply with our legal obligations or guarantee the legitimate interests of the company. | Human resources services  <br>Manager and team concerned  <br>Scaleway partners for human resources  <br>Authorized third parties |
+| Recruitment | Identity data  <br>Communication Data  <br>Professional Data (Curriculum vitae, salary position, and specifics of the contract) | Execution of contract or pre-contractual measures | If the application is not accepted, the data is kept for a maximum period of 2 years  <br>If the application is accepted, the data is kept for the entire duration of the contract, accompanied by an archiving period intended to comply with our legal obligations or guarantee the legitimate interests of the company. | Human resources services  <br>Manager and team concerned  <br>Scaleway partners for human resources  <br>Authorized third parties |
 
 Legal obligations
 
@@ -75,11 +85,11 @@ Scaleway processes some of your data in order to meet its legal obligations. Thi
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
-| Guarantee the security of our customers as a provider of electronic communications services (Directive 2002/58/EC and art 32 of the GDPR) | Identity data  <br>Billing data  <br>Consumption data  <br>Communication data  <br>Connection data | Legal obligation | Duration of the contractual relationship plus an archiving period for the data necessary to guarantee compliance with our legal obligations | Entitled Scaleway Services  <br>Entitled Scaleway Partners for security management  <br>Authorized third parties (auditors etc.) |
-| Abuse of Scaleway services includes cyber-crime, copyright violation, illegal or offensive content, spamming and malware distribution. Abuse should be reported in the console. These data processings are likely to be subject to automated decision-making (e.g. anti-spam control) | Identity data  <br>User account information | Legal obligation | Duration necessary to meet our legal obligations | Entitled Scaleway Services  <br>Entitled Scaleway Partners for the ticketing and support management  <br>Authorized third parties |
-| Responses to the data protection requests and any complaints related to the protection of personal data | Identity data (including proof of identity)  <br>User account information  <br>All the data related to the complaint | Legal obligation | 5 years from ticket closing  <br>Verification of identity card: 1 month | Entitled Scaleway Services  <br>Entitled Scaleway Partner for the management of subject requests  <br>Authorized third partiesEntitled Iliad service |
+| Guarantee the security of our customers as a provider of electronic communications services (Directive 2002/58/EC and art 32 of the GDPR) in particular to prevent fraud and identity theft. The processed data may be transferred to a third country under the conditions of protection mechanisms compliant with the GDPR (including: Standard contractual clauses and appropriate security measures). | Customer account data  <br>Photographs and visual or audio recordings  <br>Biometric data collected from an image, video or audio recording via facial recognition technology or similar technology for the provision of certain Services | Legal obligation | Duration of the contractual relationship plus an archiving period for the data necessary to guarantee compliance with our legal obligations  <br>The data used for KYC checks is retained only for the time strictly necessary to verify identity, after which it is archived to comply with applicable legal requirements or those of the relevant service provider, and subsequently deleted. | Entitled Scaleway Services  <br>Entitled Scaleway Partners for security management or KYC checks  <br>Authorized third parties (auditors etc.) |
+| Abuse of Scaleway services includes cyber-crime, copyright violation, illegal or offensive content, spamming and malware distribution. Abuse should be reported in the console. These data processings are likely to be subject to automated decision-making (e.g. anti-spam control) | Identity data  <br>User account information | Legal obligation | 10 years from the closure of the ticket concerned | Entitled Scaleway Services  <br>Entitled Scaleway Partners for the ticketing and support management  <br>Authorized third parties |
+| Responses to the data protection requests and any complaints related to the protection of personal data | Identity data (including proof of identity)  <br>User account information  <br>ll the data related to the complaint | Legal obligation | 5 years from ticket closing  <br>Verification of identity card: 1 month | Entitled Scaleway Services  <br>Entitled Scaleway Partner for the management of subject requests  <br>Authorized third parties  <br>Entitled Iliad service |
 | Data breaches management | Identity data  <br>User account information related to the data breach  <br>All data related to the data breach | Legal obligation | 5 years from the closure of the data breach | Entitled Scaleway Services  <br>Competent administrative authority |
-| Accounting obligations | Billing data | Legal obligation | 10 years from the end of the contract | Entitled Scaleway ServicesEntitled Scaleway Partner for the management of payments and invoices  <br>Competent administrative authority |
+| Accounting obligations | Billing data | Legal obligation | 10 years from the end of the contract | Entitled Scaleway Services  <br>Entitled Scaleway Partner for the management of payments and invoices  <br>Competent administrative authority |
 | Legal or administrative procedure management | Identity data  <br>User account information related to the case | Legal obligation | The necessary data is kept until the expiration of the legal remedies | Scaleway Legal Department  <br>Iliad Legal Department  <br>Competent administrative authority  <br>Entitled third parties (legal advisor etc.) |
 
 Legitimate interest
@@ -88,14 +98,15 @@ Scaleway processes some of your data in order to meet a legitimate interest. Thi
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
-| Guarantee the security of services we offer | Identity data  <br>User account information | Legitimate interest | Duration of the contractual relationship or duration limited to the limitation period from the closure of the event concerned | Scaleway IT security service  <br>Competent administrative authority |
+| Guarantee the security of services we offer | Identity data  <br>User account information | Legitimate interest | 5 years from the end of the contract | Scaleway IT security service  <br>Competent administrative authority |
 | Debt collection | Identity data  <br>User account information | Legitimate interest | 5 years from the payment incident | Scaleway Legal and Accounting Services  <br>Entitled Scaleway Partner for debt collection |
 | Fraud detection and prevention | Bank details  <br>Identity data  <br>User account information | Legitimate interest | 5 years maximum from the suspicion of an incident  <br>ID card verification: 1 month | Entitled Scaleway service  <br>Entitled Scaleway Partner for support and ticketing |
+| Anti-spam policy | Email addresses  <br>Spam content | Legitimate interest | The reporter's data is deleted immediately after reporting | Service provider concerned |
 | Litigation management | Identity data  <br>Data necessary for the purposes of establishing evidence | Legitimate interest | The data is kept until the expiration of the legal remedies and archived for 10 years | Scaleway legal department  <br>Entitled Scaleway partner |
 | Ensure the training of our teams | Identity data  <br>User account information | Legitimate interest | The data is kept during the contractual period | Entitled Scaleway service |
 
-Data processors
----------------
+Sub-processing
+--------------
 
 As a data controller, Scaleway uses data processors for the following purposes:
 
@@ -122,7 +133,9 @@ All transfers outside the European Union are subject to a strict control to ensu
 Requests from authorities
 -------------------------
 
-Scaleway undertakes to inform its customers in advance in the event of a request for information from an administrative or judicial authority in order to enable them to assert their rights subject to compliance with applicable regulations. Scaleway cannot oppose such a request if it complies with French or European regulations, an international agreement (art. 48 of the GDPR) or with one of the exemptions provided for in art. 49 of the GDPR.
+Scaleway may receive direct (administrative or judicial authorities) or indirect (lawyers, bailiffs, notaries, etc.) requests from competent authorities to transmit certain data relating to its customers.
+
+In this case, and to the extent that Scaleway is legally entitled to do so, Scaleway may inform its customers in advance in order to enable them to assert their rights subject to compliance with applicable regulations. Scaleway cannot oppose such a request if it complies with French or European regulations, an international agreement (art. 48 of the GDPR) or with one of the exemptions provided for in art. 49 of the GDPR.
 
 Children
 --------
@@ -177,6 +190,6 @@ You can exercise your rights directly in the privacy section of your Scaleway ac
 Policy update
 -------------
 
-This privacy policy may be updated according to regulatory developments. Any modification will enter into force from its date of publication.
+This privacy policy may be updated to reflect changes in regulations or services offered by Scaleway, as well as to improve the transparency of our practices. Any changes will take effect from the date of publication.
 
-\_Last update : january 2024 \_
+Last update : November 2025
