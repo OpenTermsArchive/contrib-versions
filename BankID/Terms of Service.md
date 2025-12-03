@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/kvinna-kavaj.jpg)
+[![](/assets/stock/1400x930/bankid_id-kort02-lo.jpg)
+
+#### Extenda Retail merchants can now verify digital ID cards
+
+2025-12-03
+
+Extenda Retail is launching support for digital ID cards from BankID in the Hii Retail cloud platform.](https://www.bankid.com/en/about-us/news/extenda-retail-merchants-can-now-verify-digital-id-cards) [![](/assets/stock/1400x930/kvinna-kavaj.jpg)
 
 #### BankID through ’Auktorisationssystem för elektronisk identifiering’
 
@@ -130,10 +136,4 @@ Public organisations can now connect to BankID through ’Auktorisationssystem f
 
 2025-09-16
 
-Qliro added BankID and immediately saw a positive effect on conversion.](https://www.bankid.com/en/about-us/news/bankid-helped-qliro-increase-conversion-by-10)[![](/assets/stock/news/almedalen.jpg)
-
-#### Almedalen 2025
-
-2025-06-13
-
-Cybersecurity and resilience, digital inclusion and collaboration. Read our take aways from this year's Almedalen.](https://www.bankid.com/en/about-us/news/almedalen-2025)
+Qliro added BankID and immediately saw a positive effect on conversion.](https://www.bankid.com/en/about-us/news/bankid-helped-qliro-increase-conversion-by-10)
