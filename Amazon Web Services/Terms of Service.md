@@ -1,8 +1,8 @@
 AWS Service Terms
 =================
 
-Last Updated: November 21, 2025
--------------------------------
+Last Updated: December 2, 2025
+------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -87,7 +87,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, and the Amazon Quick Suite (including Amazon QuickSight).
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
@@ -541,24 +541,12 @@ The distribution of files created by Amazon Elastic Transcoder may require that 
 
 **27.2.** In the event a particular Cognito User Pool has no active users within a 12 month period, we may delete the Cognito User Pool upon 30 days’ prior notice to you.
 
-28\. Amazon WorkDocs
---------------------
+28\. AWS Security Hub (launched on December 2, 2025)
+----------------------------------------------------
 
-**28.1.** Portions of Amazon WorkDocs in Japan are sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
+**28.1.** "Security Hub Content" is Your Content that AWS Security Hub processes.
 
-**28.2.** We may delete any of your End Users’ Content uploaded to Amazon WorkDocs if the End User is marked “Inactive” in the Amazon WorkDocs’ Administrator Dashboard and you have not been billed for more than 30 days for this End User’s usage. We may also delete your Amazon WorkDocs site and Your Content when you have no End Users marked “Active” within the Amazon WorkDocs Administrator Dashboard for more than 30 days.
-
-**28.3.** If no End User accounts associated with your AWS account have registered any usage of the Services for several months, then we may delete the inactive End Users’ accounts after providing 30 days’ notice.
-
-**28.4.** Your use of the Amazon WorkDocs Sync Software is governed by the [Amazon WorkDocs Sync License Agreement](http://amazonzocalo.com/sync-terms).
-
-**28.5.** Your use of the Amazon WorkDocs Application is governed by the [Amazon WorkDocs Application License Agreement](http://amazonzocalo.com/terms).
-
-**28.6.** Open with Office 365 is Third-Party Content provided by Microsoft. By using Open with Office 365, you are subject to Microsoft’s [terms of use](https://www.microsoft.com/en-us/servicesagreement/) and [privacy policy](https://privacy.microsoft.com/en-us/PrivacyStatement). You are solely responsible for obtaining all required licenses from Microsoft to use Open with Office 365 and for complying with all applicable Microsoft licensing requirements.
-
-**28.7.** The Hancom document editing service is Third-Party Content. Your use of the Hancom document editing service through Amazon WorkDocs is subject to the Hancom Terms of Service. If you do not accept the Hancom Terms of Service applicable to the Hancom document editing service, then do not enable and use the Hancom document editing service. If you enable and use the Hancom document editing service, Hancom will have access to the contents of the document being edited and the End User’s user name and profile picture. Hancom is only authorized by AWS to access the above information for the purpose of providing the Hancom document editing service and only for the duration of the editing session.
-
-**28.8**. AWS is the registrant of, and controls the DNS records for, all \[name\].workdocs.aws domain names (“Domain Names”). Customer does not acquire any rights in any such domain. Termination or suspension of Customer’s AWS account may result in the termination or suspension of Customer’s ability to use its previously assigned Domain Names. In order to use a Domain Name, Customer must comply with all guidelines included in the [Amazon WorkDocs Site Naming Policy](https://aws.amazon.com/workdocs/policy/).
+**28.2.** You agree and instruct that after you have enabled the new AWS Security Hub: (a) we may use and store your Security Hub Content to develop and improve AWS Security Hub and its underlying technologies; (b) we may use and store Security Hub Content that is not personal data to develop and improve other AWS security services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Security Hub Content in an AWS region outside the AWS region where you are using AWS Security Hub. You may instruct AWS not to use and store Security Hub Content to develop and improve AWS Security Hub or other AWS security services by configuring an AI services opt-out policy using AWS Organizations.
 
 29\. Amazon Pinpoint and AWS End User Messaging (formerly, the SMS, MMS, voice message, and push notification features of Amazon Pinpoint)
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -870,7 +858,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 50\. AWS Machine Learning and Artificial Intelligence Services
 --------------------------------------------------------------
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, and the Amazon Quick Suite (including Amazon QuickSight). “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview). “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -1667,7 +1655,7 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 105\. Amazon Inspector
 ----------------------
 
-**105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances
+**105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances.
 
 106\. AWS RTB Fabric
 --------------------
