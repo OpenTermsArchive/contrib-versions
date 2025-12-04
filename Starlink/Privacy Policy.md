@@ -101,6 +101,7 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
     *   If you are located in **Mexico**, our [Mexico Privacy Notice](https://www.starlink.com/legal/documents/DOC-1007-52792-69) applies to you.
     *   If you are located in **Brazil**, our [LGPD Privacy Notice](https://www.starlink.com/legal/documents/DOC-1033-43987-74) applies to you.
     *   If you are located in **Nigeria**, our [Nigeria Privacy Notice](https://www.starlink.com/legal/documents/DOC-DF-1906-75496-66) applies to you.
+    *   If you are located in **South Korea**, our [South Korea Privacy Notice](https://www.starlink.com/legal/documents/DOC-DF-1909-87689-76) applies to you.
     
     To opt-out of marketing communications please email us at [privacy@spacex.com](mailto:privacy@spacex.com) or by following the instructions included in the email or text correspondence. Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law. Additionally, if you withdraw your consent or object to processing, or if you choose not to provide certain personal information, we may be unable to provide some or all of our services to you.
     
