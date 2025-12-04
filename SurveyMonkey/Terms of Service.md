@@ -7,7 +7,11 @@ For terms that apply to SurveyMonkey services purchased directly through our ent
 
 For terms that apply to SurveyMonkey services purchased through a third party, please see our [End Customer Terms of Use](https://prod.smassets.net/assets/content/sm/End-User-Terms-of-Use-2024-02.pdf).
 
-LAST UPDATED: December 27, 2025
+UPDATED: November 3, 2025
+
+EFFECTIVE DATE: December 27, 2025
+
+See drop-down menu for previous versions
 
 Introduction
 ------------
