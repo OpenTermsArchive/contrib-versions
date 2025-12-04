@@ -588,6 +588,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     12.  **Colombia**
          *   District Secretary of the Environment of Bogotá
              
+         *   Datos Abiertos Colombia.: [https://www.datos.gov.co/dataset/Ciclorruta-Bogot-D-C/paza-35v4/about\_data](https://www.datos.gov.co/dataset/Ciclorruta-Bogot-D-C/paza-35v4/about_data), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     13.  **Czechia**
          *   Prague PID Agency - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
@@ -600,6 +602,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Czech Land Survey and Cadastre Office - [https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx](https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx)
              
          *   Geoportal Praha - [https://geoportalpraha.cz/en/data-and-services/45063acce89d4b37afc6d51f03f3ad49](https://geoportalpraha.cz/en/data-and-services/45063acce89d4b37afc6d51f03f3ad49), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+             
+         *   Pardubicky Kraj Map portal. - [https://mapy.pardubickykraj.cz/data](https://mapy.pardubickykraj.cz/data), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+             
+         *   Data Olomouc. - [https://opendata.olomouc.eu/datasets/ea0770e82b3941379989303e5c5ada91\_0/explore?location=49.58832217.24285111.97](https://opendata.olomouc.eu/datasets/ea0770e82b3941379989303e5c5ada91_0/explore?location=49.58832217.24285111.97), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+         *   Czech Data Portal. - [https://data.gov.cz/datová-sada?iri=https://data.gov.cz/zdroj/datové-sady/00266094/de4ba6a0ef4db1d074a9d719a45332a0](https://data.gov.cz/datov%C3%A1-sada?iri=https://data.gov.cz/zdroj/datov%C3%A9-sady/00266094/de4ba6a0ef4db1d074a9d719a45332a0), [https://creativecommons.org/licenses/by/4.0/deed.cs](https://creativecommons.org/licenses/by/4.0/deed.cs)
+             
+         *   Otevřená data MMPr. - [https://open-data-prerov.hub.arcgis.com/datasets/c18ef7eaa5aa493298294eb7c5395e94/about](https://open-data-prerov.hub.arcgis.com/datasets/c18ef7eaa5aa493298294eb7c5395e94/about), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
     14.  **Denmark**
          *   © COWI A/S
@@ -1350,6 +1360,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   DataMap Wales [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
+         *   OS Data Hub. Boundary-Line - Contains public sector information licensed under the Open Government Licence v3.0: [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
     23.  **Greece**
          *   EuroGeographics; Copyright Geomatics Ltd.
              
@@ -1587,9 +1599,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 9 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 10 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 9 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 10 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -2226,6 +2238,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Data Gov TW: [https://data.gov.tw/en/license](https://data.gov.tw/en/license)
              
          *   İzmir Open Data Portal: [https://acikveri.bizizmir.com/dataset/bisiklet-altyapi-haritasi/resource/966cffaa-ccf1-4306-8da9-ac0cffbebb88](https://acikveri.bizizmir.com/dataset/bisiklet-altyapi-haritasi/resource/966cffaa-ccf1-4306-8da9-ac0cffbebb88), [https://acikveri.bizizmir.com/tr/license](https://acikveri.bizizmir.com/tr/license)
+             
+         *   Open data portal İstanbul.: [https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi](https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi), [https://data.ibb.gov.tr/license](https://data.ibb.gov.tr/license)
              
     67.  **Turks and Caicos**
          
@@ -3015,6 +3029,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Contains data from the Croatia State Geodetic Administration, Upravne jedinice INSPIRE (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
              
          *   Contains data from the Croatia State Geodetic Administration, Adrese INSPIRE – WMS servis (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+             
+         *   City of Zagreb. Bicycle path geoportal, 02/28/2024. (HR): [https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze](https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze), [https://data.gov.hr/otvorena-dozvola/](https://data.gov.hr/otvorena-dozvola/)
              
     100.  **Paraguay**
           *   Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
