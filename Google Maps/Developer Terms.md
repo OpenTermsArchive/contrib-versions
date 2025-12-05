@@ -1429,6 +1429,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Open Government Data Platform India: [https://www.data.gov.in/terms-of-use](https://www.data.gov.in/terms-of-use)
              
+         *   National Highways Authority of India - Ministry of Road Transport & Highways - Government of India. Wayside Amenites Master APISetu: [https://directory.apisetu.gov.in/api-collection/nhai#collection01](https://directory.apisetu.gov.in/api-collection/nhai#collection01), [https://docs.apisetu.gov.in/document-central/terms-of-use/](https://docs.apisetu.gov.in/document-central/terms-of-use/)
+             
+         *   National Highways Authority of India - Ministry of Road Transport & Highways - Government of India. Toilet Block Details APISetu: [https://directory.apisetu.gov.in/api-collection/nhai#collection01](https://directory.apisetu.gov.in/api-collection/nhai#collection01), [https://docs.apisetu.gov.in/document-central/terms-of-use/](https://docs.apisetu.gov.in/document-central/terms-of-use/)
+             
     30.  **Indonesia**
          *   OPEN DATA JAWA TENGAH: [https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73](https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73)
              
