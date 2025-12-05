@@ -3,8 +3,8 @@ YouTube API Services - Developer Policies Stay organized with collections Save a
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
-AI-generated Key Takeaways
---------------------------
+Page Summary
+------------
 
 outlined\_flag
 
