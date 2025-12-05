@@ -30,7 +30,7 @@ We collect the following personal information and documentation:
 
 Information You Provide to Us
 
-
+󰀐
 
 | Information Category | Description |
 | --- | --- |
@@ -46,7 +46,7 @@ Information You Provide to Us
 
 Information Collected Automatically
 
-
+󰀐
 
 | Information Category | Description |
 | --- | --- |
@@ -56,7 +56,7 @@ Information Collected Automatically
 
 Information we obtain from Affiliates and third parties
 
-
+󰀐
 
 | Information Category | Description |
 | --- | --- |
@@ -74,7 +74,7 @@ We use your personal information to deliver, personalize, operate, improve, crea
 
 Data use necessary to perform our contract with you
 
-
+󰀐
 
 We use certain information that is necessary to conclude and perform our [Customer Agreement](https://www.coinbase.com/en-gb/legal/user_agreement/) or other relevant contract(s) with you. We will need to terminate your account if we cannot process your personal information for such purposes.
 
@@ -94,7 +94,7 @@ We use certain information that is necessary to conclude and perform our [Custom
 
 Data use to comply with our legal obligations
 
-
+󰀐
 
 Our Services are subject to laws and regulations requiring us to collect, use, and store your personal information in certain ways. If you do not provide the personal information required by law, we will have to close your account.
 
@@ -106,7 +106,7 @@ Our Services are subject to laws and regulations requiring us to collect, use, a
 
 Data use for our Legitimate Interests
 
-
+󰀐
 
 Where permitted by applicable laws, we rely on our legitimate interests or those of third parties  (like our other Customers and in some cases, the general public), provided that those legitimate  interests are not outweighed by your rights and freedoms. In the EEA and UK, you have the right  to object to, and seek the restriction of, this processing. See Section 8. Your Privacy Rights and  Choices for more information. For certain jurisdictions where legitimate interests may not be  available or appropriate, we rely on other legal bases such as consent.
 
@@ -122,7 +122,7 @@ Where permitted by applicable laws, we rely on our legitimate interests or those
 
 Data use based on your consent
 
-
+󰀐
 
 When we use your information based on your consent, you have the right to withdraw your consent at any time on a go-forward basis (which will not affect our prior use of your data, based on your previously given consent). You may change your device-based or in-app settings anytime as described in [Section 7. Your Privacy Rights and Choices.](#your-privacy-rights-and-choices)
 
@@ -134,7 +134,7 @@ When we use your information based on your consent, you have the right to withdr
 
 Data use to protect your or others’ vital interests
 
-
+󰀐
 
 | Why and How We Use Your Information | Information Categories Used |
 | --- | --- |
@@ -151,25 +151,25 @@ We work with service providers, partners and other third parties to help us prov
 
 Affiliates
 
-
+󰀐
 
 Personal information that we process and collect may be transferred between companies, Services, and employees affiliated with us as a normal part of conducting business and offering our Services to you. See [Section 11. Our Relationship With You](#our-relationship-with-you) for a list of our affiliated companies and Services.
 
 Linked Third Party Websites
 
-
+󰀐
 
 When you use third-party services (like when you connect your Coinbase account with your bank account) or websites that are linked through our Services, the providers of those services or products may receive information about you that Coinbase, you, or others share with them. Please note that when you use third-party services or Coinbase Affiliate Services which are not governed by this Privacy Policy, their own terms and privacy policies will govern your use of those services and products.
 
 Travel Rule
 
-
+󰀐
 
 In accordance with regulations commonly known as the “TraveI Rule” in multiple jurisdictions, Coinbase may collect, retain, and/or share with other service providers information about the counterparties in certain cryptocurrency transfers. For example, Coinbase may collect  counterparty information when you receive a deposit of cryptocurrency from outside of the Coinbase platform or when you send cryptocurrency to a non-Coinbase wallet address. In some instances, Coinbase may further be obligated under the Travel Rule to provide information about you and/or  the counterparty to the virtual asset service provider (or applicable regional equivalent) (“VASP”)  that is transferring cryptocurrency to, or receiving it from, Coinbase. To do this, Coinbase employs  tools such as TRUST (the Travel Rule Universal Solution Technology) – a global, secure, and  industry-driven solution designed to comply with the Travel Rule while helping to protect your security  and privacy.
 
 Professional advisors, industry partners, authorities and regulators
 
-
+󰀐
 
 Professional advisors, industry partners (and their service providers), authorities and  regulators. We share your information described in [Section 1. What Information We Collect](#what-information-we-collect) with our advisors, regulators, tax authorities, law enforcement, government agencies, and industry  partners (and their service providers) to: 
 
@@ -185,13 +185,13 @@ e) to facilitate subscription, transfer or redemption requests.
 
 Asset Transfer or Company Acquisition
 
-
+󰀐
 
 We may choose to buy or sell assets, and may share and/or transfer information about our Customers in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, merged, reorganized, or if we go out of business, enter bankruptcy, or go through some other change of control or similar event, your personal information could be one of the assets transferred to the acquiring party. 
 
 Third-Party Service Providers
 
-
+󰀐
 
 We work with third-party service providers to help us provide or  promote our Services. This involves disclosing to our third-party service providers conversion data,  including IP address, with advertisers such as Meta to create custom audience lists and AppLovin.  (See here for more information about AppLovin’s collection and use of your information). These third party service providers will match this information with their user data (gathered in accordance with  their own privacy policies and terms of service) to allow us to target ads to groups of individuals who  have interacted with us. 
 
@@ -316,7 +316,7 @@ You can contact either entity via our Data Protection Officer at dpo@coinbase.co
 
 CONSUMER/INSTITUTIONAL SERVICES
 
-
+󰀐
 
 NORTH AMERICA (UNITED STATES & CANADA)
 
@@ -357,7 +357,7 @@ OUTSIDE EU, US, UK, APAC
 
 DEVELOPER SERVICES
 
-
+󰀐
 
 | Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
 | --- | --- | --- | --- |
@@ -368,6 +368,6 @@ DEVELOPER SERVICES
 
 INSTITUTIONAL SERVICES
 
-
+󰀐
 
 For institutional entities or private clients receiving institutional services (such as Prime Trading & Custody and Prime DMA), the data controller is the entity with which you have contracted for the  products offered. Please refer to the terms of service or reach out to our Data Protection Officer at dpo@coinbase.com.
