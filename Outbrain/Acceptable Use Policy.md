@@ -436,7 +436,7 @@ If you encounter any content that violates our guidelines, or have any questions
 
 Outbrain Direct Response (ODR) by Teads uses years of performance expertise to boost ROI across the open internet, combining unique reach, contextual insights, and predictive AI technology.
 
-Outbrain for Direct Response is subsidiary of the new Teads. Visit [Teads website](https://www.teads.com/) to discover how it delivers elevated outcomes, from branding to performance.
+Outbrain Direct Response is a subsidiary of the new Teads. Visit [Teads website](https://www.teads.com/) to discover how it delivers elevated outcomes, from branding to performance.
 
 *   [](https://www.linkedin.com/showcase/outbrain-direct-response "Linkedin")
 *   [](https://www.facebook.com/OutbrainDirectResponse "Facebook")
