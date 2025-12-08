@@ -5,20 +5,22 @@ General information
 -------------------
 
 *   Last updated: 01 December 2025
-*   Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
+*   Here we inform you about data processing in connection with the entire service XING and its applications (XING, onlyfy, etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Christian Schmidt.
 
 #### XING is a comprehensive service with various applications
 
-[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service XING include, in particular, the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, an employer rating platform and a talent acquisition platform. Some of the XING applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. kununu, onlyfy).  
+[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) include, in particular, the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, and a talent acquisition platform. Some of the [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. onlyfy).  
   
-We provide this Privacy Policy to inform you about data processing in connection with the entire service XING (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
+Essentially, [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) is a jobs network where professionals from all industries and career levels can find jobs and get found by employers and recruiters. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) helps its users navigate the many opportunities to find the job that truly suits them and their individual needs. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) is about more than just CVs, it’s about finding the perfect match between talent and the right employer. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) shows users the career opportunities available to them and empowers them to make informed decisions about their professional job journey.  
+  
+XING’s applications also include recruiting solutions that employers and recruiters can use to identify and attract suitable talent for their organisations. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) offers a wide range of solutions, ranging from job postings to active sourcing tools and candidate management systems. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) users, also in the context of this Privacy Policy, are both private individuals (talent) and business users (employers, recruiters). XING’s recruiting solutions are an extension of the [social network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk) (making business users members of the [social network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk)) or are directly linked to it.  
+  
+We provide this Privacy Policy to inform you about data processing in connection with the entire service [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
-*   [onlyfy TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
+*   [XING TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
 *   [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
-*   [XING AdCreator](https://www.xing.com/terms)
-*   [FreelancerManager](https://www.xing.com/legal/privacy_policy_freelancermanager)
 
 #### Responsible body
 
@@ -149,7 +151,7 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### Mandatory information in other applications
 
-In order to provide our services we require certain information from you. On our employer review platform we only need your e-mail address.
+In order to provide our services we require certain information from you.
 
 #### Category
 
@@ -179,7 +181,6 @@ As well as the mandatory information we require, you can also enter additional i
 
 e.g.
 
-*   Employer reviews
 *   CV and job application data
 *   Correspondence, conversations
 *   Projects
@@ -191,9 +192,9 @@ Whether and to what extent your mandatory information is visible to other users 
 
 #### Period saved for
 
-If you delete the data, it will be removed from the respective application. We will erase the data in full when you delete your user account. We may also save certain information (e.g. employer reviews) in an anonymous form beyond this point.  
+If you delete the data, it will be removed from the respective application. We will erase the data in full when you delete your user account. We may also save certain information in an anonymous form beyond this point.  
   
-This differs from recruiting applications for business customers (onlyfy) where multiple users at a company can work together and share information and content with one another. Such information and content shared by a business user in a business account remain there, even if the business user no longer has access to the business account. Current and future business users can continue to see this information and content.
+This differs from recruiting applications for business customers where multiple users at a company can work together and share information and content with one another. Such information and content shared by a business user in a business account remain there, even if the business user no longer has access to the business account. Current and future business users can continue to see this information and content.
 
 #### Legal basis
 
@@ -272,7 +273,7 @@ e.g.
 #### Visibility
 
 Generally speaking, the content and reactions you share in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) are visible to all users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).  
-Any comments you make in XING Klartext/Zukunft.machen articles are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
+Any comments you make in XING News and Insider articles are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
 For individual features the level of visibility may be more restricted (e.g. only visible to contacts). In such cases you will be informed about visibility when using the respective feature. Please be aware that even if you restrict visibility, the content and reactions that you share may become visible beyond your own network if your contacts choose to share this information with other users.
 
 #### Period saved for
@@ -395,7 +396,7 @@ One reason for tracking is to ensure and preserve the legitimate interest of the
 
 We mainly use tracking and the associated user behaviour analysis to meet our contractual obligations and to perform pre-contractual measures. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR). If tracking is not used to meet our contractual obligations or to perform pre-contractual measures, but to provide the service you visit or use, the legal basis for this processing is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR). To this end, we pursue the legitimate interest of providing you with a smooth and user-friendly service.
 
-Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to identify and correct any errors and faults. To this end, we also use several services from third-party providers, such as Google. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) and to ensure that you gain the greatest possible benefit from [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing). The implicit feedback that you provide to us through our tracking of your usage of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) we have obtained through tracking in order to provide our service.
+Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to identify and correct any errors and faults. To this end, we also use several services from third-party providers, such as Adobe. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) and to ensure that you gain the greatest possible benefit from [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing). The implicit feedback that you provide to us through our tracking of your usage of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) we have obtained through tracking in order to provide our service.
 
 #### Examples
 
@@ -418,22 +419,16 @@ In order to be able to identify you as a valuable business contact or potential 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection.
 
 You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis:  
-http://anschreiben.com: [https://stan.anschreiben.com/adobe.html](https://stan.anschreiben.com/adobe.html)  
-http://bewerbung.com: [https://stan.bewerbung.com/adobe.html](https://stan.bewerbung.com/adobe.html)  
-http://lebenslauf.com: [https://stan.lebenslauf.com/adobe.html](https://stan.lebenslauf.com/adobe.html)  
-http://new-work.se: [https://stan.new-work.se/adobe.html](https://stan.new-work.se/adobe.html)  
-http://xing.com: [https://stan.xing.com/adobe.html](https://stan.xing.com/adobe.html)  
-http://onlyfy.io: [https://stan.onlyfy.io/adobe.html](https://stan.onlyfy.io/adobe.html)  
-onlyfy.jobs: [https://stan.onlyfy.jobs/adobe.html](https://stan.onlyfy.jobs/adobe.html)  
-jobbörse.com: [https://stan.jobbörse.com/adobe.html](https://stan.xn--jobbrse-d1a.com/adobe.html)  
+  
+xing.com: [https://stan.xing.com/adobe.html](https://stan.xing.com/adobe.html)  
+1\. onlyfy.io: [https://stan.onlyfy.io/adobe.html](https://stan.onlyfy.io/adobe.html)  
+2\. onlyfy.jobs: [https://stan.onlyfy.jobs/adobe.html](https://stan.onlyfy.jobs/adobe.html)  
+anschreiben.com: [https://stan.anschreiben.com/adobe.html](https://stan.anschreiben.com/adobe.html)  
+bewerbung.com: [https://stan.bewerbung.com/adobe.html](https://stan.bewerbung.com/adobe.html)  
+lebenslauf.com: [https://stan.lebenslauf.com/adobe.html](https://stan.lebenslauf.com/adobe.html)  
+new-work.se: [https://stan.new-work.se/adobe.html](https://stan.new-work.se/adobe.html)  
   
 Please note that this opt-out option installs a [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) on the end device you’re using when you click on the link. You therefore might not be excluded from tracking if you then delete the [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) in question. When using mobile apps, you need to opt out in the respective app settings.
-
-#### Google Analytics
-
-We use the web analysis tool Google Analytics, developed by Google Inc. ("Google"). Google Analytics uses so-called "[cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies)": text files that are saved on your computer and enable the analysis of your usage of a website. The information generated by the [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) about your use of this website (including your IP address) is transferred to a server of Google in the USA and saved there. We use the so-called "\_anonymizeIp()" script here, which ensures that your IP address (after identifying the geolocation) is immediately anonymised by Google. We have also closed a data processing agreement with Google. Google will use this information to evaluate your use of the website, to compile reports about website activity for website operators, and to provide other services relating to website and online usage. Google may also pass this information on to third parties if this is required by law or if these third parties process the data on behalf of Google. Google will not link your IP address to any other data about you it has stored.  
-  
-You can prevent the installation of cookies by adjusting the settings in your browser software accordingly; please note though that you may not be able to use all the features of the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) in full as a result. Google also offers so-called deactivation tools for some web browsers, where you can opt out of your user behaviour being recorded and analysed. You will find more information and download options for these tools here: [http://tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB)
 
 #### Braze
 
@@ -446,14 +441,6 @@ You can enable or deactivate this data collection. We recommend you enable it so
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
 
-#### Wingify/VWO
-
-We use a tool called VWO to run A/B tests. You can opt out of this kind of web analysis [here](https://vwo.com/opt-out/)
-
-#### Mouseflow
-
-We use the web analysis tool Mouseflow from Mouseflow ApS, Denmark. You can opt out of this form of web analysis by clicking on the following link: [https://mouseflow.com/opt-out/](https://mouseflow.com/opt-out/)
-
 #### Measurement and optimisation of advertising
 
 With your permission, we and third-party providers we commission will use cookies, device identifiers or other information saved or viewed on your device (tracking) and your data (see also [information you provide us with](https://privacy.xing.com/en/privacy-policy/information-you-provide-us-with/)) to measure the success of advertising campaigns, to build up a profile of your interests, and to serve you relevant ads based on this profile. If you opt in, a cookie is set on your end device that enables us to recognise you on XING web pages even if you’re not logged in. The cookies have a lifespan of up to 2 years.  
@@ -464,155 +451,7 @@ Third-party providers are solely responsible for operating their IT systems in l
   
 Tracking and processing of your data as described here are based on your consent, see Section 25 (1) of the New German Telecommunications and Telemedia Data Protection Act (TTDSG) and Article 6 (1) a) of the EU General Data Protection Regulation (GDPR). Along with our protective measures, data processing in third countries is based on your consent, see Article 49 (1) of the EU General Data Protection Regulation (GDPR). You can withdraw your consent at any time.
 
-#### Third-party providers we use
-
-In the following you will find further information about the tracking technologies used and information from providers about data processing.
-
-#### Active Agent
-
-More information is available [here](https://www.adition.com/en/privacy-platform/)
-
-#### Adform
-
-More information is available [here](https://site.adform.com/privacy-center/overview)
-
-#### ADITION
-
-More information in German is available [here](https://www.adition.com/datenschutz)
-
-#### Adjust
-
-More information is available [here](https://www.adjust.com/terms/privacy-policy/)
-
-#### Adobe DMP
-
-More information is available [here](https://www.adobe.com/privacy/policy.html)
-
-#### advanced store
-
-More information is available [here](https://www.advanced-store.com/en/data-privacy/)
-
-#### Adzuna
-
-More information is available [here](https://www.adzuna.co.uk/privacy-policy.html)
-
-#### AppNexus / Xandr
-
-[More information](https://www.xandr.com/privacy/platform-privacy-policy/)
-
-#### Criteo
-
-More information is available [here](https://www.criteo.com/privacy/)
-
-#### Emetriq
-
-More information is available [here](https://www.emetriq.com/datenschutz/)
-
-#### Google
-
-More information is available [here](https://policies.google.com/technologies/partner-sites)
-
-#### ID5 Technology Ltd
-
-More information is available [here](https://id5.io/platform-privacy-policy/)
-
-#### Instapage
-
-More information is available [here](https://instapage.com/privacy-policy)
-
-#### IQ Digital
-
-More information is available [here](https://www.iqdigital.de/en/Ueber-uns/Datenschutz)
-
-#### Joblift
-
-More information is available [here](https://joblift.freshdesk.com/en/support/solutions/articles/7000048898-privacy-policies-for-joblift-s-tracking-pixel)
-
-#### Jobrapido
-
-More information is available [here](https://de.jobrapido.com/info/privacy-policy)
-
-#### Jooble
-
-More information is available [here](https://de.jooble.org/info/privacy)
-
-#### LinkedIn
-
-More information is available [here](https://www.linkedin.com/legal/privacy-policy?)
-
-#### Meta
-
-More information is available [here](https://www.facebook.com/about/privacy)
-
-#### Microsoft Advertising
-
-More information is available [here](https://privacy.microsoft.com/en-gb/privacystatement)
-
-#### OptinMonster
-
-[More information](https://optinmonster.com/gdpr/cookies/)
-
-#### OSDS/The Adex
-
-More information is available [here](https://theadex.com/privacy-platform/)
-
-#### Outbrain
-
-More information is available [here](https://www.outbrain.com/legal/privacy)
-
-#### Performance Media
-
-More information in German is available [here](https://www.performance-media.de/datenschutz/)
-
-#### Pinterest
-
-More information is available [here](https://policy.pinterest.com/privacy-policy)
-
-#### Pubmatic
-
-More information is available [here](https://pubmatic.com/legal/privacy-policy/)
-
-#### RTB House
-
-More information is available [here](https://www.rtbhouse.com/rtbhouse-paperflite-privacy-policy/)
-
-#### Snap Pixel
-
-More information is available [here](https://values.snap.com/en-GB/privacy/privacy-center)
-
-#### Taboola
-
-More information is available [here](https://www.taboola.com/policies/privacy-policy)
-
-#### Talent.com
-
-More information is available [here](https://www.talent.com/tos#cookies)
-
-#### Teads
-
-More information is available [here](https://www.teads.com/privacy-policy/)
-
-#### The Trade Desk
-
-More information is available [here](https://www.thetradedesk.com/us/privacy)
-
-#### TikTok
-
-More information is available [here](https://www.tiktok.com/legal/page/eea/privacy-policy/en)
-
-#### Twitter
-
-More information is available [here](https://twitter.com/en/privacy)
-
-#### XAD spoteffects GmbH
-
-More information is available [here](https://xadspoteffects.com/en/privacy-policy#part_a)
-
-#### Yieldlab
-
-More information is available [here](https://yieldlab.com/datenschutz/)
-
-#### Opting out of tracking for the measurement and optimisation of advertising in our applications
+#### Third-party providers we use and opting out of tracking for the measurement and optimisation of advertising in our applications
 
 ### Tracking settings for individual XING applications
 
@@ -625,12 +464,10 @@ When using mobile apps, you need to opt out in the respective app settings.
 Your changes only apply in the browser you’re currently using.
 
 *   Tracking on XING [Adapt Opt-In](https://www.xing.com/?showUserConsentBanner=1)
-*   Tracking on kununu [Adapt Opt-In](https://www.kununu.com/?showUserConsentBanner=1)
 *   Tracking on New Work [Adapt Opt-In](https://www.new-work.se/?showUserConsentBanner=1)
 *   Tracking on Bewerbung.com [Adapt Opt-In](https://www.bewerbung.com/?showUserConsentBanner=1)
 *   Tracking on Lebenslauf.com [Adapt Opt-In](https://www.lebenslauf.com/?showUserConsentBanner=1)
 *   Tracking on Anschreiben.com [Adapt Opt-In](https://www.anschreiben.com/?showUserConsentBanner=1)
-*   Tracking on HalloFreelancer [Adapt Opt-In](https://www.hallofreelancer.com/?showUserConsentBanner=1)
 
 #### Erasure of previously saved cookies
 
@@ -790,27 +627,13 @@ In cases where we work together with external service providers for our data pro
 
 #### Other users
 
-Other users means any users of the comprehensive XING service and all its applications (XING, kununu, onlyfy, etc.). Other users can also include companies and their authorised users that use an application which is part of the XING service (business user). Information about what is visible to other users can be found under [“Information you provide to us”](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) under [“Information we receive about you from other sources,”](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources) and in the examples of how we use your usage data to fulfil our contractual obligations to you or to provide the service you are using.
+Other users means any users of the comprehensive XING service and all its applications (XING, onlyfy, etc.). Other users can also include companies and their authorised users that use an application which is part of the XING service (business user). Information about what is visible to other users can be found under [“Information you provide to us”](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) under [“Information we receive about you from other sources,”](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources) and in the examples of how we use your usage data to fulfil our contractual obligations to you or to provide the service you are using.
 
 #### Non-users
 
 You can determine whether you want non-users to be able to find and access the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile), e.g. via search engines. Separate privacy settings are available to you here. If you opt not to restrict these settings, the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) will be visible and accessible to non-users, although this does not include any personal contact details such as e-mail addresses and phone numbers.  
 The standard external accessibility of profile information by non-users forms a central element of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
 With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings, we will inform you about the respective use of your data in the respective feature.
-
-#### People you want to invite to the social network or other XING application
-
-As a user, you will be able to invite other persons to use [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) under certain circumstances. We process the data recorded here solely for this purpose.  
-After a certain period we send out a reminder e-mail ("automatic reminder") on your behalf to the person you invited. You can prevent this automatic reminder from being sent by deleting the invitation in your settings. You also have the option of sending your own reminder e-mails manually. We save the e-mail addresses that invitations are sent to in encrypted form. This encryption is temporarily suspended to display the e-mail addresses in your account. You can delete this data in your account at any time.  
-Every person you invite has the option to object to invitations being sent to their e-mail address from that point onwards.  
-Please note that, depending on the invitation feature used, recipients may be shown the following information in the invitation you send:
-
-*   Your name
-*   Your company
-*   Your job title
-*   Your e-mail address
-*   Your photo
-*   Your user status
 
 #### Selected developers and companies ("API Partners")
 
@@ -879,7 +702,7 @@ XING and onlyfy offer multiple ways for you to apply for jobs directly by enteri
 Certain XING features use partner technologies from Google, e.g. to generate previews when users post YouTube videos on the platform.  
 Information about this is available on [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) and in Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-#### Subsidiaries such as NEW WORK AUSTRIA XING kununu onlyfy GmbH
+#### New Work SE subsidiaries
 
 Acting as a service provider for commissioned data processing
 
@@ -903,7 +726,7 @@ You have the right to object at any time to the processing of [personal data](ht
 
 #### Direct marketing / newsletters
 
-If we process your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) for direct marketing purposes, you have the right to object at any time to the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) concerning you for such marketing. This includes [profiling](https://privacy.xing.com/en/privacy-policy/glossary/profiling) to the extent that it is related to such direct marketing. You can unsubscribe to our [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) at any time in your notifications settings on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), or in your e-mails by clicking on the link provided at the end of the respective [newsletter](https://privacy.xing.com/en/privacy-policy/glossary/newsletter), without incurring any costs other than the transmission costs in accordance with the basic tariffs. In some applications there are different ways of unsubscribing to a [newsletter](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) or notifications. In the XING ReferralManager you can deactivate the option to receive the [newsletter](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) by going to your profile settings in the XING ReferralManager.
+If we process your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) for direct marketing purposes, you have the right to object at any time to the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) concerning you for such marketing. This includes [profiling](https://privacy.xing.com/en/privacy-policy/glossary/profiling) to the extent that it is related to such direct marketing. You can unsubscribe to our [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) at any time in your notifications settings on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), or in your e-mails by clicking on the link provided at the end of the respective [newsletter](https://privacy.xing.com/en/privacy-policy/glossary/newsletter), without incurring any costs other than the transmission costs in accordance with the basic tariffs. In some applications there are different ways of unsubscribing to a [newsletter](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) or notifications.
 
 #### Right of access
 
@@ -911,27 +734,11 @@ You have the right to demand confirmation as to whether we process your [persona
   
 As a user of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
   
-As a kununu, kununu Research Community, HalloFreelancer, onlyfy TalentService, XING Exchange, or applications via XING user you can also easily access the data we have saved about you there. Simply send an e-mail request:
+As a XING TalentService, XING Exchange, or applications via [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) user you can also easily access the data we have saved about you there. Simply send an e-mail request:
 
-#### kununu
+#### XING TalentService
 
-Use the following link to request the data we saved about you in this application: [kununu data disclosure report](https://www.kununu.com/user/inquiry). Please e-mail support@kununu.com if you don't have a kununu account.
-
-#### kununu Research Community
-
-Use the following e-mail address to request the data we saved about you in the kununu Research Community: [research@kununu.com](mailto:research@kununu.com)
-
-#### HalloFreelancer
-
-Use the following e-mail address to request the data we saved about you in this application: [HalloFreelancer data disclosure report](mailto:support@hallofreelancer.com)
-
-#### onlyfy TalentService
-
-Use the following e-mail address to request the data we saved about you in onlyfy TalentService: [gdpr\_xts@xing.com](mailto:gdpr_xts@xing.com)
-
-#### XING Exchange
-
-Use the following e-mail address to request the data we saved about you in this application: [xing-exchange@xing.com](mailto:xing-exchange@xing.com)
+Use the following e-mail address to request the data we saved about you in XING TalentService: [gdpr\_xts@xing.com](mailto:gdpr_xts@xing.com)
 
 #### Applications via XING
 
@@ -978,7 +785,7 @@ If you feel that the processing of your [personal data](https://privacy.xing.com
 Terms used in our Privacy Policy
 --------------------------------
 
-**XING:** The service XING and the applications belonging to the service XING (XING, kununu, onlyfy, etc.).  
+**XING:** The service XING and the applications belonging to the service XING (XING, onlyfy, etc.).  
   
 **XING Websites:** All websites, subdomains, aliases, mobile applications, background applications, web services and embedding in third-party websites where the service XING is available.  
   
