@@ -692,11 +692,3 @@ The Marketplace uses the parameters described above to algorithmically determine
 ### 48\. Content Moderation
 
 For more information about our content moderation practices, please visit our [Safety and Security Center](https://safety.epicgames.com/).
-
-* * *
-
-**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 15, 2025).**
-
-The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.1M.
-
-Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
