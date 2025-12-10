@@ -1918,6 +1918,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Magistrát mesta Košice: [https://opendata.kosice.sk/datasets/kosice-mesto::adresné-body/about](https://opendata.kosice.sk/datasets/kosice-mesto::adresn%C3%A9-body/about)
              
+         *   GeoPresovRegion Slovakia: [https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home](https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+             
     57.  **Solomon Islands**
          *   Pacific Data Hub (SB): [https://pacificdata.org/](https://pacificdata.org/)
              
@@ -2125,6 +2127,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Eustat - Euskal Estatistika Erakundea - Instituto Vasco de Estadística: [https://www.eustat.eus/informacionLegal\_c.html/](https://www.eustat.eus/informacionLegal_c.html)
              
          *   Centro Nacional de Información Geográfica, CNIG: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
+             
+         *   Centro Nacional de Información Geográfica,BTN 2025 CC-BY 4.0 Instituto Geográfico Nacional: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
              
     61.  **Sweden**
          *   © 2009 Cartesia GIS AB
