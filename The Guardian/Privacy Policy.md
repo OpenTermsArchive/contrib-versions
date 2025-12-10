@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Tue 1 Jul 2025 13.21 BST
+Tue 1 Jul 2025 14.21 CEST
 
 Introduction
 ------------
