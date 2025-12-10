@@ -62,3 +62,13 @@ Please note that the above contact details are reserved for requests from compet
 #### [](#average-monthly-active-recipients-of-service-in-the-eu)Average monthly active recipients of service in the EU
 
 Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2025, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
+
+#### [](#transparency-reports)Transparency reports
+
+In line with the DSA, Telegram publishes transparency reports covering content moderation, handling complaints, and official requests:
+
+*   [Telegram's DSA Transparency Report for the period from 17 February 2024 to 17 February 2025](https://telegram.org/tos/eu-dsa/transparency-2025)
+
+In line with Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021 on addressing the dissemination of terrorist content online (**“TCO Regulation”**), Telegram publishes transparency reports under Article 7 of the TCO Regulation.
+
+*   [Telegram's transparency reports under the TCO Regulation](https://telegram.org/tos/eu/transparency-tco)
