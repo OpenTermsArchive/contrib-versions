@@ -8,8 +8,8 @@ Terms and Conditions
 
 **1.2.** These Terms and Conditions apply whenever you:
 
-* use FT.com, FT.com mobile and online digital apps and services (together “FT.com”) and access the content and services available on them including the Financial Times newspaper (the “Newspaper”) (together, the “FT Content”); and
-* purchase access to FT.com, the Newspaper and/or the FT Content (together, the "FT Services") on a subscription basis.
+*   use FT.com, FT.com mobile and online digital apps and services (together “FT.com”) and access the content and services available on them including the Financial Times newspaper (the “Newspaper”) (together, the “FT Content”); and
+*   purchase access to FT.com, the Newspaper and/or the FT Content (together, the "FT Services") on a subscription basis.
 
 **1.3.** You should read these Terms and Conditions carefully before using FT.com and/or FT Content or subscribing to the FT Services. By accessing, using or subscribing to any of the above, you agree to be bound by these Terms and Conditions (as applicable) and the documents referred to in them.
 
@@ -22,10 +22,10 @@ Terms and Conditions
 
 **2.1.** We offer a range of subscriptions: 
 
-* to FT.com (“Digital Subscriptions”);
-* the Newspaper (“Print Subscriptions”),
-* to both FT.com and the Newspaper (“Bundled Subscriptions”); and 
-* we also offer subscriptions on a trial basis ("Trial Subscriptions")
+*   to FT.com (“Digital Subscriptions”);
+*   the Newspaper (“Print Subscriptions”),
+*   to both FT.com and the Newspaper (“Bundled Subscriptions”); and 
+*   we also offer subscriptions on a trial basis ("Trial Subscriptions")
 
 The above are referred together as "**the Subscriptions**" and individually as a "Subscription". Please note that separate and/or additional terms and conditions may apply to any Trial Subscriptions that we may offer. Any such additional terms shall be clearly indicated. 
 
@@ -51,23 +51,23 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.11.** In addition to the Subscription fees you are responsible for paying for any:
 
-* broadband, mobile, data, messaging or other internet connection and telecommunications charges that you may incur by accessing FT Content; 
-* charges that may be levied by your bank or credit card issuer (for example foreign transaction fees on transactions which take place abroad or in a foreign currency).
+*   broadband, mobile, data, messaging or other internet connection and telecommunications charges that you may incur by accessing FT Content; 
+*   charges that may be levied by your bank or credit card issuer (for example foreign transaction fees on transactions which take place abroad or in a foreign currency).
 
 **2.12.** We will do all that we reasonably can to ensure that all of the information you give us when paying is secure by using an encrypted secure payment mechanism. However, in the absence of negligence on our part, any failure by us to comply with this contract or our Privacy Policy or breach by us of our duties under applicable laws, we will not be legally responsible to you for any loss that you may suffer if a third party gains unauthorised access to any information that you give us.
 
 **Home Delivery**
 
-**2.13.** We will deliver your Newspaper from Monday through to Saturday to the address you provided during the sign-up process if it is within our delivery areas. Delivery of the Newspaper may be delayed until the next business day where national or other public holidays are being observed in your country. We do not guarantee delivery to non-secure locations or beyond ground floor levels.  Any special delivery requests may be printed on your Newspaper and seen by third parties, and we cannot guarantee that these requests will be fulfilled.
+**2.13.** We will deliver your Newspaper, in accordance with your Subscription type and the delivery schedule communicated during the sign-up process, to the address you provided during the sign-up process, if it is within our delivery areas. Delivery of the Newspaper may be delayed until the next business day where national or other public holidays are being observed in your country. We do not guarantee delivery to non-secure locations or beyond ground floor levels. Any special delivery requests may be printed on your Newspaper and seen by third parties, and we cannot guarantee that these requests will be fulfilled.
 
 **2.14.** We aim to commence delivery of your Newspaper within 2 business days (UK), 7-10 business days (Eurozone) or 10-12 business days (United States) of your Subscription commencing.  Delivery times for other regions will be confirmed separately. 
 
-**2.15.** If you do not receive your Newspaper on the expected delivery date, please [contact us](https://help.ft.com/contact/) within 7 days and we may arrange an extension or credit for that delivery (excluding Trial Subscriptions of 4 weeks or fewer).
+**2.15.** If you do not receive your Newspaper on the expected delivery date, please [contact us](https://help.ft.com/contact/) within 7 days and we may arrange credit for that delivery.
 
-**2.16.** If you wish to change your address for home delivery then please [contact us](https://help.ft.com/contact/) at least 10 days' before the date on which you wish your change of address to take effect. If we are not able to provide you with a home delivery service to your new address then:
+**2.16.** If you wish to change your address for home delivery then please [contact us](https://help.ft.com/contact/) at least 4 working days before the date on which you wish your change of address to take effect. If we are not able to provide you with a home delivery service to your new address then:
 
-* If you have a Print Subscription we will cancel your Subscription and issue a pro rata refund for the unexpired period of your Subscription; and 
-* If you have a Bundled Subscription we will cancel your Subscription, issue a pro rata refund for the unexpired period of your Subscription and, at your option, transfer you onto a new Digital Subscription. 
+*   If you have a Print Subscription we will cancel your Subscription and issue a pro rata refund for the unexpired period of your Subscription; and 
+*   If you have a Bundled Subscription we will cancel your Subscription, issue a pro rata refund for the unexpired period of your Subscription and, at your option, transfer you onto a new Digital Subscription. 
 
 **Paper or Digital Vouchers**
 
@@ -83,34 +83,34 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.21.** A monetary credit will be applied against your next payment (or refunded if your Subscription is not renewed). However:
 
-* You will only be credited up to a maximum of 24 editions for 5 or 6 day Subscriptions, or 4 editions for a Weekend-only Subscriptions, in each full subscription year.
-* You cannot carry over any allowance not taken in one subscription year into the next year.
-* You will not be entitled to suspend your Subscription if you use vouchers, or if you have subscribed through an intermediary rather than directly from the FT.
+*   You will only be credited up to a maximum of 48 editions for 5 or 6 day Subscriptions, or 8 editions for a Weekend-only Subscriptions, in each full subscription year.
+*   You cannot carry over any allowance not taken in one subscription year into the next year.
+*   You will not be entitled to suspend your Subscription if you use vouchers, or if you have subscribed through an intermediary rather than directly from the FT.
 
 **Your Cancellation Rights**
 
 **2.22.** Digital Subscriptions:
 
-* By placing your order for a Digital Subscription subject to these Terms and Conditions, you agree that we may start your Subscription immediately upon our acceptance of your order and that you waive your statutory right to cancel our contract within 14 days of our confirmation email. 
-* This means that you lose your right to cancel this contract once we have provided confirmation via email of your Digital Subscription (see section 2.3 above) and that any notice of cancellation that you provide (whether before or after the 14-day period) will only take effect at the end of your current subscription period. You will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services. 
+*   By placing your order for a Digital Subscription subject to these Terms and Conditions, you agree that we may start your Subscription immediately upon our acceptance of your order and that you waive your statutory right to cancel our contract within 14 days of our confirmation email. 
+*   This means that you lose your right to cancel this contract once we have provided confirmation via email of your Digital Subscription (see section 2.3 above) and that any notice of cancellation that you provide (whether before or after the 14-day period) will only take effect at the end of your current subscription period. You will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services. 
 
 **2.23.** Print Subscription or Bundled Subscription:
 
-* You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
-* If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a pro rated amount for each Newspaper you received before cancelling.
-* After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
-* You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) any 72 hour period during your Subscription; or (b) more than five 24-hour periods over a 30 day period; in either case as a direct result of a fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription.
+*   You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
+*   If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a pro rated amount for each Newspaper you received before cancelling.
+*   After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
+*   You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) any 72 hour period during your Subscription; or (b) more than five 24-hour periods over a 30 day period; in either case as a direct result of a fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription.
 
 **2.24.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
 
-* the subscriber's full name (person on the billing information if different from the user);
-* the Account email address or Account Number (Customer Reference Number);
-* the billing address and delivery address (Including zip code/postcode); and
-* your contact telephone number.
+*   the subscriber's full name (person on the billing information if different from the user);
+*   the Account email address or Account Number (Customer Reference Number);
+*   the billing address and delivery address (Including zip code/postcode); and
+*   your contact telephone number.
 
 **Our Cancellation Rights**
 
-**2.25.** We may suspend or terminate your Subscription if we are prevented from providing services to you, or accepting payment from you, by applicable law or circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services. If we terminate for any of these reasons, we will provide you with a pro rata refund to the extent permitted by applicable law.
+**2.25.** We may suspend or terminate your Subscription if we are prevented from providing services to you, or accepting payment from you, by applicable law or circumstances beyond our control (which may include a reduction of distribution service availability in your area), or if we cease publishing the Newspaper or FT.com or FT Services. If we terminate for any of these reasons, we will provide you with a pro rata refund to the extent permitted by applicable law.
 
 **2.26.** We may also suspend or terminate your Subscription, without refund, if you breach these Terms and Conditions, or in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team, other FT personnel, or any member of the public, with or without notice and without further obligation to you. 
 
@@ -165,23 +165,23 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **3.13.** You must not post any UGC that we believe to be: 
 
-* illegal, offensive, libellous or indecent;
-* harassment or bullying, including making personal attacks on other commenters; 
-* misinformation; 
-* hate speech, including anything which makes attacks on the grounds of race, religion, sex, gender, sexual orientation, disability or age; 
-* irrelevant to the Forum or the Forum’s topic; 
-* spam, including any any form of advertising or promotion for goods and services or any form of unsolicited communication;
-* impersonation, including impersonation of FT employees or of Forum guests or hosts, or misrepresenting any connection with any person or entity;
-* private or confidential information or trade secrets of any person or entity; 
-* infringing copyright or other intellectual property rights;
-* in breach of financial services regulations, such as recommendations to buy or not buy a particular share or investment or anything which otherwise has the purpose of affecting the price or value of any share or other investment; 
-* harmful, such as software viruses, files or code designed to interrupt, destroy or limit the functionality of FT.com or any computer software or equipment; or 
-* against our [commenting guidelines](https://help.ft.com/faq/commenting-on-articles/what-are-your-commenting-guidelines/). 
+*   illegal, offensive, libellous or indecent;
+*   harassment or bullying, including making personal attacks on other commenters; 
+*   misinformation; 
+*   hate speech, including anything which makes attacks on the grounds of race, religion, sex, gender, sexual orientation, disability or age; 
+*   irrelevant to the Forum or the Forum’s topic; 
+*   spam, including any any form of advertising or promotion for goods and services or any form of unsolicited communication;
+*   impersonation, including impersonation of FT employees or of Forum guests or hosts, or misrepresenting any connection with any person or entity;
+*   private or confidential information or trade secrets of any person or entity; 
+*   infringing copyright or other intellectual property rights;
+*   in breach of financial services regulations, such as recommendations to buy or not buy a particular share or investment or anything which otherwise has the purpose of affecting the price or value of any share or other investment; 
+*   harmful, such as software viruses, files or code designed to interrupt, destroy or limit the functionality of FT.com or any computer software or equipment; or 
+*   against our [commenting guidelines](https://help.ft.com/faq/commenting-on-articles/what-are-your-commenting-guidelines/). 
 
 **3.14.** You must not: 
 
-* collect or store other users’ personal data; or
-* restrict or inhibit any other user from using the Forums. 
+*   collect or store other users’ personal data; or
+*   restrict or inhibit any other user from using the Forums. 
 
 **3.15.** It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially illegal or potentially in breach of these Terms and Conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. If you are aware of any such UGC, please notify us immediately with specific details, using the “report” function on FT.com, or by contacting us at help@ft.com.
 
@@ -189,9 +189,9 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **3.17.** If you breach our Terms and Conditions regarding UGC, then we may: 
 
-* remove any UGC you have posted that breaches our Terms and Conditions; 
-* ban you (temporarily or permanently) from participating in UGC on FT.com; and 
-* at our discretion, remove any other UGC you have posted. 
+*   remove any UGC you have posted that breaches our Terms and Conditions; 
+*   ban you (temporarily or permanently) from participating in UGC on FT.com; and 
+*   at our discretion, remove any other UGC you have posted. 
 
 **3.18.** FT is not obliged to provide commenting facilities or other Forums on FT.com or for any specific content within FT.com. FT may, at its sole discretion, choose to close (or not to enable) posting of UGC on any article or other content, or to restrict posting of UGC to specified categories of user. Posting of comments on FT.com is restricted to users with a Subscription (excluding Trial Subscriptions).
 
@@ -243,10 +243,10 @@ in each case even if we have been advised that such damages may arise.**
 
 **6.2.** If you buy a Print or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
 
-* Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
-* Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
-* Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
-* Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 6/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
+*   Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
+*   Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
+*   Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
+*   Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 6/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
 
 **6.3.** The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
 
