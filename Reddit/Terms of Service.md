@@ -21,7 +21,7 @@ No one under 13 is allowed to use or access the Services. Parts of our Services 
   
 By using the Services, you state that:
 
-*   You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;
+*   You are [at least 13 years old and over the minimum age required by the laws of your country of residence](https://support.reddithelp.com/hc/articles/360043066492) to access and use the Services;
     
 *   You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;
     
