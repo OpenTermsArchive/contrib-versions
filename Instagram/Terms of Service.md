@@ -7,7 +7,7 @@ Welcome to Instagram!
   
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
   
-The Instagram Service is one of the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=igtos&helpref=faq_content), provided to you by Meta Platforms, Inc. These Terms of Use therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Instagram.  
+The Instagram Service is one of the [Meta Products](https://www.facebook.com/legal/meta-products), provided to you by Meta Platforms, Inc. These Terms of Use therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Instagram.  
   
 
 **1\. The Instagram Service**
@@ -34,7 +34,7 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 **2\. How Our Service Is Funded**
 ---------------------------------
 
-Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=dp&helpref=faq_content). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the [Meta Company Products](https://www.facebook.com/legal/meta-company-products). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We show you relevant and useful ads without telling advertisers who you are. We don’t sell your personal data. We allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
 
@@ -47,7 +47,7 @@ You may see branded content on Instagram posted by account holders who promote p
 **3\. The Privacy Policy**
 --------------------------
 
-Providing our Service requires collecting and using your information. The [Privacy Policy](https://privacycenter.instagram.com/policy/) explains how we collect, use, and share information across the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos&helpref=faq_content). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](https://help.instagram.com/285881641526716?ref=igtos). You must agree to the Privacy Policy to use Instagram.
+Providing our Service requires collecting and using your information. The [Privacy Policy](https://privacycenter.instagram.com/policy/) explains how we collect, use, and share information across the [Meta Products](https://www.facebook.com/legal/meta-products). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](https://help.instagram.com/285881641526716?ref=igtos). You must agree to the Privacy Policy to use Instagram.
 
   
 
