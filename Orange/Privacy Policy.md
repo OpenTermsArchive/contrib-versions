@@ -329,9 +329,11 @@ Vous pouvez utiliser le [formulaire de contact en ligne](https://espace-client.o
 
 Vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.services.orange.fr/1770) disponible sur pro.orange.fr > nous contacter et nous l'adresser numériquement ou écrire à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.
 
-### Prospects
+### Prospects et anciens clients
 
-Vous pouvez écrire à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9 pour les prospects Grand Public. Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban pour les prospects pros.
+Pour les particuliers vous pouvez utiliser le [formulaire de contact en ligne](https://espace-client.orange.fr/compte/demande-publique) disponible sur orange.fr ou écrire à Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9
+
+Pour les pros vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.services.orange.fr/1770) disponible sur pro.orange.fr > nous contacter et nous l'adresser numériquement ou écrire à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.
 
 ### Possibilité de saisir le DPO
 
@@ -438,4 +440,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 16/10/2025
+Dernière mise à jour le 10/12/2025
