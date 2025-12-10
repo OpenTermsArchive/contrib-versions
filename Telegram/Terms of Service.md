@@ -8,9 +8,11 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 *   Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
 *   Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
 
-We reserve the right to update these Terms of Service later.
+For users accessing Telegram within the European Union, the [User Guidance for the EU Digital Services Act](https://telegram.org/tos/eu-dsa) constitutes an integral part of our Terms of Service.
 
-> Citizens of EU countries and the United Kingdom must be at least 18 years old to sign up.
+> Users from EU countries must be at least 18 years old to sign up.
+
+We reserve the right to update these Terms of Service later.
 
 * * *
 
@@ -18,7 +20,8 @@ If you access certain optional features and services on the Telegram platform, y
 
 * * *
 
-### [](#terms-of-service-for-telegram-stars)Terms of Service for Telegram Stars
+[](#terms-of-service-for-telegram-stars)Terms of Service for Telegram Stars
+---------------------------------------------------------------------------
 
 Telegram users can acquire Telegram Stars, which are used to purchase digital goods and services from bots and mini-apps inside the Telegram app. Should you wish to use Telegram Stars, you in turn accept the [Terms of Service for Telegram Stars](https://telegram.org/tos/stars).
 
@@ -401,6 +404,12 @@ Users whose publications were taken down in connection with the TCO Regulation c
 *   by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
 
 Requests can be accepted in English and French.
+
+#### [](#q-is-telegram-a-very-large-online-platform-according-to-the-eu-d)Q: Is Telegram a “very large online platform” according to the EU Digital Services Act?
+
+No. The EU Digital Services Act (DSA) requires certain services (which it describes as “online platforms”) to publish information about their average monthly active users in the European Union.
+
+Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2025, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
 
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
