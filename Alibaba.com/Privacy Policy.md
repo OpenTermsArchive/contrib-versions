@@ -1,9 +1,11 @@
 Alibaba.com Privacy Policy
 ==========================
 
-2024-08-28 02:22
+2024-08-28 07:52
 
-(Last Updated: May 30, 2025)
+(Last Updated: December 22, 2025)
+
+﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_7_29236.html?spm=a1z3jd.368d007a.0.0.7da85111FRBxS6)﻿
 
 Note: This Privacy Policy applies to Users outside of Mainland China and South Korea (registered country/region other than “Mainland China” and “South Korea”) who are provided with various products and services through websites, apps, and new forms emerging with technological development by Alibaba.com. In other words, this Privacy Policy does not apply to Users within Mainland China and South Korea (registered country/region as “Mainland China” and “South Korea”). For Users from the two (2) jurisdictions, the applicable privacy policies are as follows:
 
