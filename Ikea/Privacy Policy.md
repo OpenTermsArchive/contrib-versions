@@ -361,7 +361,7 @@ We are IKEA Ireland Limited (“IKEA” or “we”, “us”), and our register
     
     We try to respond to all legitimate requests within one calendar month. Occasionally it could take us longer than this if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
     
-    You can read more about your rights, including the circumstances in which they apply, in the Guidance from the Irish Data Protection Commissioner (DPC) https://www.dataprotection.ie/. You also have the right to complain about our use of personal data to the DPC. You can do these by contacting the DPC via their website https://www.dataprotection.ie/en/contact/how-contact-us or by emailing info@dataprotection.ie. If you would like to speak to us in relation to any of your rights, please **[contact us](https://www.ikea.com/ie/en/customer-service/contact-us/)**.
+    You can read more about your rights, including the circumstances in which they apply, in the Guidance from the Irish Data Protection Commissioner (DPC) https://www.dataprotection.ie/. You also have the right to complain about our use of personal data to the DPC. You can do these by contacting the DPC via their website https://www.dataprotection.ie/en/contact/how-contact-us or by emailing [\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection). If you would like to speak to us in relation to any of your rights, please **[contact us](https://www.ikea.com/ie/en/customer-service/contact-us/)**.
     
 *   Changing your preferences
     
@@ -465,7 +465,7 @@ We are IKEA Ireland Limited (“IKEA” or “we”, “us”), and our register
     
     01 696 6246
     
-    **[dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com%20\()**
+    **[\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection)**
     
     You have the right to make a complaint at any time to the DPC, the Ireland regulator for data protection issues (https://www.dataprotection.ie/en). We would, however, appreciateInternalthe chance to deal with your concerns before you approach the DPC, so please contact us in the first instance.
     
@@ -504,7 +504,7 @@ We are IKEA Ireland Limited (“I**KEA**” or “**we**”, “**us**”), 
     *   object in certain other situations to our continued processing of your personal data and 
     *   otherwise restrict or temporarily stop our processing of your personal data in certain circumstances. 
     
-    You can read more about your rights, including the circumstances in which they apply, in the Guidance from the Irish Data Protection Commissioner (DPC) [https://www.dataprotection.ie/](https://www.dataprotection.ie/). You also have the right to complain about our use of personal data to the DPC. You can do these by contacting the DPC via their website [https://www.dataprotection.ie/en/individuals/raising-concern-commission](https://www.dataprotection.ie/en/individuals/raising-concern-commission) or by emailing [info@dataprotection.ie](mailto:info@dataprotection.ie). If you would like to speak to us in relation to any of your rights, please [contact us](https://www.ikea.com/ie/en/customer-service/contact-us/). 
+    You can read more about your rights, including the circumstances in which they apply, in the Guidance from the Irish Data Protection Commissioner (DPC) [https://www.dataprotection.ie/](https://www.dataprotection.ie/). You also have the right to complain about our use of personal data to the DPC. You can do these by contacting the DPC via their website [https://www.dataprotection.ie/en/individuals/raising-concern-commission](https://www.dataprotection.ie/en/individuals/raising-concern-commission) or by emailing [\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection). If you would like to speak to us in relation to any of your rights, please [contact us](https://www.ikea.com/ie/en/customer-service/contact-us/). 
     
 *   How long will we keep your data? 
     
@@ -520,7 +520,7 @@ We are IKEA Ireland Limited (“I**KEA**” or “**we**”, “**us**”), 
     
     01 696 6246
     
-    [dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com)  
+    [\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection)  
     
     Version I, date of publishing December 2021 
     
