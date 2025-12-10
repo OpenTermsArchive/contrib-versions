@@ -46,7 +46,7 @@ These Cookies may be set through our Services by us or by our advertising partne
 
 Note that, at any time you are able to change your Cookies settings and the tracking operation to control Cookies placement by limiting use of Cookies on your device, opt out or delete certain Cookies already stored on your device – all as detailed under the “[**Your Choices & How to Opt-Out**](#your-cookie-choices)” section below. Where required under applicable laws, we will obtain your consent for data collection through use of Cookies.
 
-[Back to top](#top)  
+  
 
 ###### **Cookies & Tracking Technologies Used on Viber’s Services** 
 
@@ -123,7 +123,7 @@ The following tables set out details of the third-party Cookies we use as part o
 | Targeting | YSC | youtube.com |     | Third party | Session |
 | Targeting | VISITOR\_PRIVACY\_METADATA | youtube.com |     | Third party | 5 months |
 
-[Back to top](#top)  
+  
 
 ###### **Advertising and Marketing Policy** 
 
@@ -157,7 +157,7 @@ When we market the Viber App and Services outside of Viber, we might share your 
 
 For users in the EEA, the UK and Switzerland, we attest to industry standard related to the use of Cookies for advertising purposes. We have implemented a consent mechanism in order to obtain your consent for the use of Cookies, where required under applicable law, and we follow the applicable frameworks and procedures to ensure that other third parties in the digital advertising chain will respect your preferences. You can access and manage these consents at any time through the Viber personal information settings, under manage ad preferences and these changes will apply going forward. Users from California may also limit the use of GPS information, and for US states residents, as detailed in our [**United States Regional Privacy Notice** **(“US Notice”)**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/), you may opt-out from cross-behavior advertisement or targeted advertisement as further detailed herein below or under the US Notice.
 
-[Back to top](#top)  
+  
 
 ###### **Your Choices & How to Opt-Out** 
 
@@ -211,7 +211,7 @@ In the US, Viber follows the [Policy Framework for Addressable Media Identifiers
 
 UID2 Opt-Out: To opt out of advertising based on Unified ID 2.0 (UID2), visit The Trade Desk’s Transparency Portal at **[https://www.transparentadvertising.com/](https://www.transparentadvertising.com/).** You can enter your phone number or email address to opt out of UID2-based targeted advertising across all participating companies.
 
-[Back to top](#top)  
+  
 
 ###### **Additional Information – Types of Tracking Technologies and Unique Identifiers**   
 
@@ -222,7 +222,7 @@ UID2 Opt-Out: To opt out of advertising based on Unified ID 2.0 (UID2), visit Th
 | **Unique Identifier** | Unique identifiers tell your device apart from other users and may be assigned to your device by Viber or our advertising service providers/partners, and include IP address, MAC identifiers, hashed identifiers (based on hashed phone numbers/emails, such as UID2 Identifiers) etc. The most common unique identifier is an identifier known as advertising ID (on android) or IDFA on iOS and represents a serial number, or string of characters, specific to a user’s mobile device.  It is stored on the mobile device and can be retrieved by any app that is downloaded and installed. Apps typically retrieve this identifier for identification when communicating with servers. This identifier is a tool that allows us and our advertising and marketing partners and service providers to identify your device for tracking user advertising activities and preferences (to know when and which kind of ad has been viewed or clicked, led the user to install an app, make our own marketing and advertising campaigns more relevant and meaningful to user, and to track the efficiency and analyze these campaigns). This identifier is currently the main persistent means of tracking advertising and marketing activity on and across devices. |
 | **SDK (Software Development Kit)** | An SDK is a set of tools that developers use to build apps. It helps apps work with other software or services. For example, an SDK might help create an app user interface, track how you use an app or show you ads. SDKs can also manage cookies, scripts, and unique identifiers to collect data and improve your app experience. |
 
-[Back to top](#top)  
+  
 
 ###### **Contact Us** 
 
@@ -235,8 +235,6 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
     **Viber Media S.à r.l.,  
     **Attention:** Privacy Policy Administrator  
     2, rue du Fossé, L-1536 Luxembourg, Grand Duchy of Luxembourg.
-
-[Back to top](#top)
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
