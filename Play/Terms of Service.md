@@ -40,9 +40,9 @@ If you are part of a family group on Google Play, your family members in the fam
 
 **Purchase of Content**. When you buy Content on or using Google Play you will enter into a separate sale contract based on these Terms (as applicable) with the seller which will be either:
 
-(a) Google Digital Inc. or
+(a) Google LLC; or
 
-(b) provider of the Content (the "**Provider**"), including where Google Digital Inc. is acting as an agent for the Provider.
+(b) provider of the Content (the "**Provider**"), including where Google LLC is acting as an agent for the Provider.
 
 The separate sale contract is in addition to these Terms.
 
@@ -103,7 +103,7 @@ Your contract for the purchase and use of Content is completed once you receive 
 
 **Defective Content.** Once Content is available to you through your account, you should check the Content as soon as reasonably possible to ensure that it functions and performs as stated, and notify us or Provider as soon as reasonably possible if you find any errors or defect. See the [Google Play Refund Policy](https://support.google.com/googleplay/answer/2479637) for more information.
 
-**Removal or Unavailability of Content.** Subject to the Terms, Content that you purchase or install will be available to you through Google Play for the period selected by you, in the case of a purchase for a rental period, and in other cases as long as Google has the right to make such Content available to you. In certain cases (for example if Google loses the relevant rights, a service or Content is discontinued, there are critical security issues, or there are breaches of applicable terms or the law), Google may remove from your Device or cease providing you with access to certain Content that you have purchased. For Content sold by Google Digital Inc. you may be given notice of any such removal or cessation, when possible. If you are not able to download a copy of the Content before such removal or cessation, Google may offer you either (a) a replacement of the Content if possible or (b) a full or partial refund of the price of the Content. If Google issues you a refund, the refund shall be your sole remedy.
+**Removal or Unavailability of Content.** Subject to the Terms, Content that you purchase or install will be available to you through Google Play for the period selected by you, in the case of a purchase for a rental period, and in other cases as long as Google has the right to make such Content available to you. In certain cases (for example if Google loses the relevant rights, a service or Content is discontinued, there are critical security issues, or there are breaches of applicable terms or the law), Google may remove from your Device or cease providing you with access to certain Content that you have purchased. For Content sold by Google LLC, you may be given notice of any such removal or cessation, when possible. If you are not able to download a copy of the Content before such removal or cessation, Google may offer you either (a) a replacement of the Content if possible or (b) a full or partial refund of the price of the Content. If Google issues you a refund, the refund shall be your sole remedy.
 
 **Multiple Accounts.** If you have multiple Google Accounts with different user names, in some cases you may transfer Content out of an account and into another account, provided you are the owner of each such account and provided Google has enabled a feature of the relevant service allowing such transfers.
 
