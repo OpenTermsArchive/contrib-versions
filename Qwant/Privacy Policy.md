@@ -11,6 +11,19 @@ Qwant, located at 42 Avenue de la Porte de Clichy, 75017 Paris, acts as the data
 
 #### Table of contents
 
+1.  [Why Qwant processes your data and uses cookies?](#elementor-toc__heading-anchor-0)
+    
+2.  [What Data is processed on our Site?](#elementor-toc__heading-anchor-1)
+    
+3.  [How are your data used by us and our partners?](#elementor-toc__heading-anchor-2)
+    
+4.  [Who are Qwant's Partners?](#elementor-toc__heading-anchor-3)
+    
+5.  [How are your data used for advertising purposes?](#elementor-toc__heading-anchor-4)
+    
+6.  [What are your rights and how to exercise them?](#elementor-toc__heading-anchor-5)
+    
+
 Why Qwant processes your data and uses cookies?
 -----------------------------------------------
 
