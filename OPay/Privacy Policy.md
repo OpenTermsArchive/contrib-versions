@@ -223,7 +223,7 @@ Company
 
 [Press & Media](https://www.opayweb.com/privacy-policy/#)
 
-[Contact us](https://www.opayweb.com/contact-us)
+[Contact us](https://www.opayweb.com/new/contact-us)
 
 [Report an Issue](https://feedback.opayweb.com/report)
 
@@ -257,7 +257,7 @@ HQ:Alexander House, Plot 9, Dr.Nurudeen Olowopopo Avenue, Alausa, Lagos
 
 OPay Office Address
 
-ABUJA: Uyk Hexahub Plaza, Balanga Cresent off Uke Street by Bolton White Hotel, opposite Hawthrone Suites, Garki 11, Abuja
+ABUJA: Plot 819, Pushkin Building, Ebitu Ukiwe Street, Jabi, Opposite AA Rano Fuel Station, Abuja
 
 LAGOS, ALLEN IKEJA: No 103 Mosesola House, Allen Road, Ikeja Lagos
 
@@ -267,7 +267,7 @@ LAGOS, IKORODU: No. 132B Lagos Road, Ikorodu Jumofak Bus Stop, Ikorodu, Lagos St
 
 ABEOKUTA: Dolly House Opposite Laroy Hotel, Abiola Way
 
-IBADAN: Tricennial House, 189B, Fajuyi Road, Beside Ideal Consult, Opposite Thermocool Showroom, Along Adamasingba Road, Eleganza, Ibadan
+IBADAN: OPay building, Theoplius Akinyele express, Opposite Zanak filling station, Akala Express, Ibadan
 
 [More >>](https://www.opayweb.com/contact-us/#address-section)
 
