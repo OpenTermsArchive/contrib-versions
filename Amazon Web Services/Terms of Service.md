@@ -1,8 +1,8 @@
 AWS Service Terms
 =================
 
-Last Updated: December 5, 2025
-------------------------------
+Last Updated: December 10, 2025
+-------------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1202,20 +1202,10 @@ You agree not to and will not attempt to perform any network discovery or load t
 
 **AWS Support.** You will remain enrolled in [Business Support](https://aws.amazon.com/premiumsupport/plans/business/) or better during the entire period of your use of AWS Telco Network Builder.  
 
-63\. AWS RoboMaker
-------------------
+63\. Database Savings Plan
+--------------------------
 
-**63.1**. AWS RoboMaker includes an integrated development and simulation environment and related assets and tools we make available here (collectively, “RoboMaker Materials”).
-
-**63.2.** In addition to the rights granted to AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), AWS, Inc. also grants you a limited, revocable, non-exclusive, non-sublicensable (except to End Users as provided below), non-transferrable license to do the following during the Term:  
-
-(a) You may use, reproduce, modify, and create derivative works of the RoboMaker Materials to develop and support AWS RoboMaker test and simulation environments that run only on your AWS or your on-premises computing resources (each such simulation environment, a “RoboMaker Simulation”).
-
-(b) You may use, reproduce, modify, create derivative works of, publicly display, publicly perform, and distribute to End Users the RoboMaker Materials (including any permitted modifications and derivatives) as part of a RoboMaker Simulation.
-
-(c) You may sublicense the rights set forth in this Section 63.2 to your End Users solely for the purpose of enabling your End Users to use and modify your RoboMaker Simulation.
-
-**63.3.** Each RoboMaker Simulation must provide material content or functionality beyond that provided by the RoboMaker Materials, and the RoboMaker Materials may not be distributed to End Users except as part of a RoboMaker Simulation.  
+We may change Database Savings Plan ("DB Savings Plan") pricing or terminate the program at any time. Any price changes will not apply to previously purchased DB Savings Plans. All amounts paid in connection with DB Savings Plans are nonrefundable, except that if we terminate the Agreement other than for cause, or terminate the DB Savings Plan program, we will refund you a pro rata portion of any up-front fee paid. DB Savings Plans are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement. Upon expiration or termination of the term of DB Savings Plans, the reserved pricing will expire and standard on-demand usage prices will apply. You are responsible for determining if you are subject to any limitations arising from the purchase or use of the DB Savings Plan and for complying with any applicable laws, policies, terms, or conditions governing your payment of up-front fees, including any fiscal or appropriation laws, or other policies or restrictions governing up-front payments for goods or services.
 
 64\. Amazon FSx
 ---------------
