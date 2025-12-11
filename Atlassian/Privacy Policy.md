@@ -342,3 +342,5 @@ San Francisco, CA 94104
 E-Mail: [privacy@atlassian.com](mailto:privacy@atlassian.com)
 
 Individuals in the European Economic Area or United Kingdom may also contact the appropriate representatives identified in the “[European Economic Area and United Kingdom privacy disclosures](https://www.atlassian.com/legal/privacy-policy#european-economic-area-and-united-kingdom-privacy-disclosures)” section.
+
+[![TRUSTe](https://privacy.trustarc.com/ctv/images/certified-seal/PSV/seal_PSV_en_m.svg)](https://privacy.trustarc.com/privacy-seal/validation?rid=540ec164-5d63-4016-9aa9-16be73ff682d)
