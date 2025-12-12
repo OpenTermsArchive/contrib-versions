@@ -19,7 +19,7 @@ This Privacy Policy applies to information that we collect about you when you us
 
 *   Our websites (including automattic.com, wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, mailpoet.com, automatewoo.com, jetpackcrm.com, happy.tools, wpcourses.com, wpscan.com, newspack.pub, and wp.cloud);
 *   Our mobile applications (including the WordPress mobile app for Android and iOS);
-*   Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com, Jetpack, Woo Shipping, Woo Tax, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, WPScan, Newspack, and WP Cloud); and
+*   Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com, Jetpack, WooCommerce Shipping, WooCommerce Tax, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, WPScan, Newspack, and WP Cloud); and
 *   Other users’ websites that use our Services, while you are logged in to your account with us.
 
 This Privacy Policy also applies to information we collect when you apply for a job at Automattic or one of our subsidiaries.
@@ -46,7 +46,7 @@ It’s probably no surprise that we collect information that you provide to us d
 
 *   **Basic account information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address and password, along with a username or name — and that’s it. You may provide us with more information — like your address and other information you want to share — but we don’t require that information to create a WordPress.com account.
 *   **Public profile information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, like a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
-*   **Payment and contact information:** There are various ways in which you may provide us payment information and associated contact information. For example, if you buy something from us or earn revenue through your site, we’ll collect information to process those payments and contact you. If you buy something from us — a subscription to a WordPress.com plan, a premium theme, a [custom domain](https://wordpress.com/support/domains/domain-registrations-and-privacy/), some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via the Payments feature or the Pay with PayPal block), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our Ecommerce Services (including Woo Shipping, Woo Tax, and WooPayments), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. Additionally, if you use [WooPay](https://woo.app/) to make purchases on other sites, we will store the contact information and payment information you provide to that service. And if you participate in a revenue sharing opportunity for your site, like [WordAds](https://wordads.co/), you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
+*   **Payment and contact information:** There are various ways in which you may provide us payment information and associated contact information. For example, if you buy something from us or earn revenue through your site, we’ll collect information to process those payments and contact you. If you buy something from us — a subscription to a WordPress.com plan, a premium theme, a [custom domain](https://wordpress.com/support/domains/domain-registrations-and-privacy/), some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via the Payments feature or the Pay with PayPal block), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our Ecommerce Services (including WooCommerce Shipping, WooCommerce Tax, and WooPayments), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. Additionally, if you use [WooPay](https://woo.app/) to make purchases on other sites, we will store the contact information and payment information you provide to that service. And if you participate in a revenue sharing opportunity for your site, like [WordAds](https://wordads.co/), you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
 *   **Business Profile:** Some of our products collect additional information from you as part of creating a user/customer profile. For example, if you are a Jetpack CRM customer we may add you to our customer relationship database (powered by Jetpack CRM!) using information you provide us including your name, your employer, your job title or role, your contact information, and your communications with us. If you are a Happy Tools user, we use information you provide us like your timezone and location information, your company and team information, and your contact information, to set up your account and power the Service’s features.
 *   **Content information:** You might provide us with information about you in draft and published content (a blog post or comment that includes biographic information about you, or any media or files you upload).
 *   **Credentials:** Depending on the Services you use, you may provide us with credentials for your self-hosted website (like SSH, FTP, and SFTP username and password). Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems more quickly.
@@ -204,7 +204,7 @@ We collect personal information for the business and commercial purposes describ
 
 In some US states you have additional rights subject to any exemptions provided by your state’s respective law, including the right to:
 
-*   Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories of third parties we share it with;
+*   Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories or list of third parties we share it with;
 *   Request deletion of personal information we collect or maintain;
 *   Request correction of personal information we collect or maintain;
 *   Opt out of the sale or sharing of personal information;
@@ -260,17 +260,17 @@ _**Automattic Services (except Woo)**_
 |     |     |
 | --- | --- |
 | If you reside outside of the Designated Countries: | **Automattic Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110 |
-| If you reside in the Designated Countries: | **Aut O’Mattic A8C Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland<br><br>Automattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. |
+| If you reside in the Designated Countries: | **Aut O’Mattic A8C Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>IrelandAutomattic Inc. is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. |
 
 _**Woo Services  
 **_
 
-_Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet, and other products and services available at woocommerce.com._
+_Woo services includes WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products and services available at woocommerce.com._
 
 |     |     |
 | --- | --- |
-| If you reside outside of the Designated Countries: | **WooCommerce, Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110<br><br>Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc. |
-| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland<br><br>Automattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
+| If you reside outside of the Designated Countries: | **WooCommerce, Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc. |
+| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>IrelandAutomattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
 
 ### How to Reach Us
 
@@ -324,6 +324,7 @@ That’s it! Thanks for reading.
 
 ### Change log
 
+*   _December 11, 2025:_ Updated some product names as well as the US Privacy Laws section to include an additional right.
 *   _October 6, 2025:_ Added more detail about the use of information we collect about job applicants.
 *   _August 5, 2025_: Added more detail about information we collect about job applicants.
 *   _April 22, 2024:_ Removed the outdated list of specific US states covered by the US Privacy Laws section.
