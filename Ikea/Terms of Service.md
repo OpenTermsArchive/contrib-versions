@@ -164,7 +164,7 @@ Although we hope to be able to supply all products ordered, we reserve the right
 
 ### **Payment**
 
-We accept all major credit and debit cards that you may have, including VISA, Mastercard and American Express. We also accept IKEA Gift Cards, One4All and Me2You pre-paid cards, Apple Pay, Google Pay and PayPal payments.
+We accept all major credit and debit cards that you may have, including VISA, Mastercard and American Express. We also accept IKEA Gift Cards, One4All and Me2You pre-paid cards, Apple Pay, Google Pay and PayPal and humm payments.
 
 We will take payment from your card at the time you place your order. Taking payment does not mean we have accepted your order and if for any reason we are unable to accept your order we will provide you with a full refund within 14 days.
 
