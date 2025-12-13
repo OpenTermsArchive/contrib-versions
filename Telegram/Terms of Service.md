@@ -245,6 +245,7 @@ Telegram FAQ
 *   [How does account self-destruction work?](#q-how-does-account-self-destruction-work)
 *   [My phone was stolen. What do I do?](#q-my-phone-was-stolen-what-do-i-do)
 *   [What does Profile Rating mean?](#q-what-does-profile-rating-mean)
+*   [What is a Passkey?](#q-what-is-a-passkey)
 
 [**Bots**](#bots)
 
@@ -881,6 +882,18 @@ Telegram profiles show a badge with a numerical rating based on the total volume
 Your profile rating highlights your Telegram level and helps channel owners see that you can be trusted for [Suggested Posts](https://telegram.org/blog/checklists-suggested-posts#suggest-posts-in-channels) and other requests.
 
 Purchasing gifts, sending [Paid Messages](https://telegram.org/blog/star-messages-gateway-2-0-and-more#stay-in-control-of-your-inbox-with-star-messages) and funding [Suggested Posts](https://telegram.org/blog/checklists-suggested-posts#suggest-posts-in-channels) with Stars increases your rating. However, if you refund Star purchases or convert gifts to Stars, your rating will decrease.
+
+#### [](#q-what-is-a-passkey)Q: What is a Passkey?
+
+If you are already logged in to Telegram on a device, you can **create a passkey** that allows you to enter your Telegram account the same way you **unlock your device**. With a passkey, you can log in to your device simply by entering a **PIN code** or **biometric data** like your Face ID or fingerprint scan.
+
+Passkeys are an **additional login method** that can be used **instead of SMS** to instantly enter your account – even if you are traveling or don't have SMS service. Passkeys are also **more secure** than SMS codes, helping **protect users** from unauthorized access to their account.
+
+> Your passkeys can be managed in _Settings > Privacy and Security > Passkeys_ from any app — which **shows detailed info** for each of your passkeys, like their **creation date** and when they were **last used** to log in.
+
+If you have a password manager like iCloud Keychain, Google Password Manager or another third-party service, you can use it to **back up your passkey** in case you upgrade or lose access to your device.
+
+> With a passkey, you can still **request an SMS code** in order to log in – so always make sure your account uses an [up-to-date phone number](https://telegram.org/faq#q-how-do-i-change-my-phone-number) that is **controlled by you**. For even more security, you can add an [extra password](https://telegram.org/faq#q-how-does-2-step-verification-work) to your account that is required **each time** you log in.
 
 ### [](#bots)Bots
 
