@@ -794,7 +794,7 @@ Any video whose access has been restricted will not be monetized or recommended 
 
 Last Update of this DPA:
 
-June 3rd, 2025
+December 11, 2025
 
 ###   
 **PREAMBLE**
@@ -830,8 +830,6 @@ If You act on behalf of a different Data Controller, You are a Data Processor an
 
 In this DPA, capitalized terms and phrases have the meanings indicated below, which are applicable to both the singular and the plural thereof. Any other term not defined in this DPA shall have the same meaning as that attributed to it in the main body of the Terms above or else in the GDPR or in other Applicable Data Protection Laws.
 
-**“2021 SCCs”** means, in relation to the Processing of personal data pursuant to the EU Data Protection Law, the standard contractual clauses for the transfer of personal data established in Third Countries, as approved by the European Commission from time to time, the approved version of which is the one set out in the Commission Implementing Decision (EU) 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council, available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en).  
-
 **“Applicable Data Protection Laws”:**  means any and all applicable privacy and data protection laws and regulations, including without limitation, where applicable, EU Data Protection Law, the California Consumer Privacy Act of 2018 (**“****CCPA**”) and similar state laws in effect at any time during the Term, the Brazilian General Personal Data Protection Law (“**LGPD**”), etc., as amended, complemented or superseded from time to time.
 
 **“EU Data Protection Law”:** means the (i) EU General Data Protection Regulation (Regulation 2016/679) **(“GDPR”);** (ii) the EU e-Privacy Directive (Directive 2002/58/EC), as amended **(“e-Privacy Law”)**; (iii) the  Data Protection Act 2018 (“**UK GDPR**”); (iv) the Swiss Federal Act on Data Protection (“**LPD**”), and (v) any national or European data protection laws made under, pursuant to, amending, replacing or succeeding (i), (ii), (iii) or (iv).
@@ -840,13 +838,18 @@ In this DPA, capitalized terms and phrases have the meanings indicated below, 
 
 “**Processing**” means the Third-Party Personal Data processing entrusted to Dailymotion and described in Section 3 of this DPA.
 
+“**Standard Contractual Clauses**” or “**SCC**”: means:
+
+1.  in relation to the Processing of Personal Data pursuant to this DPA, the standard clauses for the transfer of Personal Data to Third Countries, approved by the European Commission from time to time, the approved version of which in force at present is that set out in the Commission Implementing Decision (EU) 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council, available at: [https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers\_en](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en) (**“EU SCC”).** Unless otherwise stated in the DPA, any reference to the SCC is a reference to the Standard Contractual Clauses as that term is defined by the relevant Applicable Data Protection Law in the United Kingdom and Switzerland.
+2.  In relation to the Processing of Personal Data subject to the LGDP, and to the extent the standard contractual clauses referred to hereinabove are not considered as equivalent standard contractual clauses under the LGPD, the standard clauses for the transfer of Personal Data as established in the Annex II to the [Resolution CD/ANPD No. 19 of August 23, 2024](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/regulation-on-international-transfer-of-personal-data.pdf/) and available at: [https://www.gov.br/anpd/pt-br/centrais-de-conteudo/outros-documentos-e-publicacoes-institucionais/regulation-on-international-transfer-of-personal-data.pdf](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/outros-documentos-e-publicacoes-institucionais/regulation-on-international-transfer-of-personal-data.pdf) (“**Brazilian SCC**”).
+
 “**Sub-Processor**” has the definition attributed to it in the GDPR, and in this case means specifically any Sub-Processor engaged by Dailymotion (or any of their Sub-Processors) who, receives from Dailymotion any Third-Party Personal Data exclusively intended for carrying out data Processing operations entrusted by You under the present DPA. Additionally, any company that is member of the group of companies to which Dailymotion belongs and which may be involved such Processing of Third-Party Personal Data shall also be considered as a Sub-Processor under this DPA.
 
 “**Supervisory Authority**” means the independent public authority responsible for monitoring the application of Applicable Data Protection Laws in each applicable country in order to protect the fundamental rights and freedoms of natural persons with respect to data Processing and to facilitate the free flow of data within the applicable country. In France, the competent supervisory authority is the “_Commission Nationale de l’Informatique et des Libertés_” (CNIL).
 
 **“Third Countries**” means (a) for the purpose of application of the EU Data Protection Law: a country which: (i) is not part of the European Economic Area (“**EEA**”); and (ii) is not subject of a formal adequacy decision of the European Commission (“**EC**”) taken in accordance with Art. 25 (6) of Directive 95/46/EC of the European Parliament and the Council of the European Union or Art. 45 (3) of GDPR, recognizing that the country ensures an adequate level of protection of Personal Data; and (iii) is not subject to a formal [Swiss adequacy decision](https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-flows.html), and (iv) is not subject to [UK adequacy decision](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1), and b) for the purpose of application of the LGPD: a country outside of Brazil and not considered as providing adequate protection.When Personal Data is transferred to the US, and during the validity of the DPF under the applicable EC adequacy decision, the term “Third Country” refers to transfers to entities that do not participate in the Data Privacy Framework (“**DPF**”).
 
-“**UK Addendum**” means the terms complementing the 2021 SCCs as adapted under the UK GDPR and available [here](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf).
+“**UK Addendum**” means the terms complementing the SCCs as adapted under the UK GDPR and available [here](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf).
 
 ###   
 **3\. Characteristics of the Processing**
@@ -1044,7 +1047,7 @@ If Dailymotion receives a legally binding request to provide Third-Party Persona
 
 Dailymotion Service is operated by companies belonging to the Dailymotion group, some of which are located outside the EEA. When your Content includes Third-Party Personal Data, non-EEA Dailymotion entities may process such Personal Data outside the EEA, namely in the USA, Singapore or other territories they operate from. In particular, if Your video containing Third Party Personal data is available in the USA, it is Dailymotion Inc’s USA-based content moderation team that will analyze it if it receives a notification of it allegedly infringing character.
 
-Note that Dailymotion Inc. participates in the Data Privacy Framework. Any transfer of Third-Party Personal Data to Dailymotion Inc. relies on that DPF participation. In the event of either, Dailymotion’s Inc. discontinuing its DPF participation or invalidation of the DPF, any such transfer shall rely on the 2021 SCC, as further detailed hereinbelow.
+Note that Dailymotion Inc. participates in the Data Privacy Framework. Any transfer of Third-Party Personal Data to Dailymotion Inc. relies on that DPF participation. In the event of either, Dailymotion’s Inc. discontinuing its DPF participation or invalidation of the DPF, any such transfer shall rely on the SCC, as further detailed hereinbelow.
 
 *   **Storage and Content Delivery**:
     
@@ -1058,9 +1061,9 @@ Note that Dailymotion Inc. participates in the Data Privacy Framework. Any trans
 
 ##### 9.2.1. Transfer of Third-Party Personal Data from You to Dailymotion
 
-To the extent our provision of the Processing Services to You results in the transfer of the Third-Party Personal Data incorporated in Your Content from the European Economic Area, United Kingdom or Switzerland to a Third Country, the 2021 SCC, as complemented below, shall be applicable to such transfer.
+To the extent our provision of the Processing Services to You results in the transfer of the Third-Party Personal Data incorporated in Your Content from the European Economic Area, United Kingdom, Switzerland or Brazil to a Third Country, the 2021 SCC, as complemented below, shall be applicable to such transfer.
 
-It is agreed by the Parties that the 2021 SCC are complemented as follows:
+It is agreed by the Parties that the SCC are complemented as follows:
 
 *   The data exporter: You
     
@@ -1082,26 +1085,33 @@ It is agreed by the Parties that the 2021 SCC are complemented as follows:
 For transfers from the EEA:
 
 *   Module Two applies where You (data exporter) are a Controller and Dailymotion (data importer) is a Processor,
-    
-    *   Module Three applies where You (data exporter) are a Processor of a third-party Data Controller and Dailymotion (data importer) is a Processor;
-    
-    *   in Clause 7, the optional docking clause does not apply;
+*   Module Three applies where You (data exporter) are a Processor of a third-party Data Controller and Dailymotion (data importer) is a Processor;
+*   Module Four applies where You (data exporter) are a Controller residing outside the EEA and Dailymotion (data importer) is a Processor residing in the EEA,
+*   in Clause 7, the optional docking clause does not apply;
+
 *   in Clause 9(a) of Module Three, option 2 applies, and the time period for prior notice of Sub-processor changes is 14 days;
 *   in Clause 11(a), the optional language does not apply;
 *   in Clause 17, Option 1 applies with the governing law being that of France;
 *   in Clause 18(b), disputes will be resolved before the courts in Paris, France;
-*   Annex I of the 2021 SCCs and parties activities are completed with the information in Section 3 of the DPA;
-*   Annex II of the 2021 SCCs is completed with the information in Section 4 of the DPA; and
-*   Annex III of the 2021 SCCs is completed with the information in Section 5.2 of the DPA.  
-    
-*   For transfers from **Switzerland**: where a transfer to a Third Country is made from Switzerland, the 2021 SCCs incorporated into this DPA, as modified in Section 9, apply to the transfer except that:
+*   Annex I of the EU SCCs and parties activities are completed with the information in Section 3 of the DPA;
+*   Annex II of the EU SCCs is completed with the information in Section 4 of the DPA; and
+*   Annex III of the EU SCCs is completed with the information in Section 5.2 of the DPA.
+*   For transfers from **Switzerland**: where a transfer to a Third Country is made from Switzerland, the SCCs incorporated into this DPA, as modified in Section 9, apply to the transfer except that:
 *   in Clause 13, the competent Supervisory Authority is the Swiss Federal Data Protection and Information Commissioner if the transfer is governed by the Swiss Federal Act on Data Protection; and
-*   references to “Member State” in the 2021 SCCs refer to Switzerland, and data subjects located in Switzerland may exercise and enforce their rights under the 2021 SCCs in Switzerland; and
-*   references to the “General Data Protection Regulation”, “Regulation 2016/679” and “GDPR” in the 2021 SCCs refer to the Swiss Federal Act on Data Protection (as amended or replaced).
+*   references to “Member State” in the SCCs refer to Switzerland, and data subjects located in Switzerland may exercise and enforce their rights under the SCCs in Switzerland; and
+*   references to the “General Data Protection Regulation”, “Regulation 2016/679” and “GDPR” in the SCCs refer to the Swiss Federal Act on Data Protection (as amended or replaced).
 
-*   For transfers from the UK: where a transfer to a Third Country is made from the UK, the UK Addendum is incorporated into this DPA and applies to the transfer as follows: the UK Addendum is completed with the information in Sections 3, 4 and 5.2 of this DPA; and both “Importer” and “Exporter” are selected in Table 4.
+For transfers from the UK: where a transfer to a Third Country is made from the UK, the UK Addendum is incorporated into this DPA and applies to the transfer as follows: the UK Addendum is completed with the information in Sections 3, 4 and 5.2 of this DPA; and both “Importer” and “Exporter” are selected in Table 4.
 
-The acceptance of  the Terms constitutes mutual acceptance and  signature of the 2021 SCC, incorporated in the present DPA,  and their annexes.
+For transfers from Brazil: where a transfer to a Third Country is made from Brazil, the Brazilian SCC is incorporated into this DPA and applies to the transfer as follows:
+
+*   Identification of the Parties: as detailed hereinabove with Dailymotion being Importer and You being Exporter.
+*   Object: as detailed hereinabove in section 9.1 of the present DPA.
+*   Onward transfers: Option B is chosen. The Importer may carry out Onward Transfers of the Personal Data subject to the International Data Transfer governed by these Clauses under the conditions described below and provided that the provisions of Clause 18 are observed.
+*   Security measures: as detailed in section 4 of the present DPA.
+*   Responsibilities of the Parties: Option A is chosen, with Exporter being a Designated Party under 4.1 (a), 4.1.(b) and 4.1.(c).
+
+The acceptance of  the Terms constitutes mutual acceptance and  signature of the SCC, incorporated in the present DPA,  and their annexes.
 
 ##### 9.2.2. Transfer of Third-Party Personal Data from Dailymotion to Sub-Processors
 
