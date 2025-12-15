@@ -6,9 +6,10 @@ The purpose of these General Terms and Conditions of services (hereinafter the "
 Article 1. DEFINITIONS
 ----------------------
 
+*   **Beta Services**: means the Services specifically identified as “beta” on the Platform, which are subject to specific conditions and are expressly excluded from SCALINGO’s commitments under its SLA. Beta Services are provided “as is”, with no guarantee of availability, performance, or support;
 *   **Client Account**: refers to the account created by the Client;
 *   **Confidential Information**: refers to all data, documents of any nature provided by one Party to the other for the purposes of the Agreement, verbally, in writing or by any other means and including, but not limited to, all personal, technical, commercial, strategic or financial information, know-how, methods, studies, specifications, software, products and processes, whether this information is protected under intellectual and industrial property rights or not.
-*   **Agreement**: means the Order as well as the GTC and its appendices: (i) General Terms of Use (GTU), (ii) Service Level Agreement (SLA), (iii) Data processing agreement (DPA), and if applicable, (iv) Hosting of Personal Health Data (HDS Agreement), (v) Service of Maintenance in Operational Condition, all together indivisible;
+*   **Agreement**: means the Order as well as the GTC and its appendices: (i) General Terms of Use (GTU), (ii) Service Level Agreement (SLA), (iii) Data Processing Agreement (DPA), and if applicable, (iv) Hosting of Personal Health Data (HDS Agreement), (v) Service of Maintenance in Operational Condition, and (vi) the Specific Terms and Conditions applicable to the relevant Services, all together forming an indivisible whole;
 *   **Data**: refers to any type of information, data and content of the Client, provided by a User in the context of the use of the Services, which may contain Personal Data;
 *   **Documentation**: refers to the documentation provided by SCALINGO on the Platform, as well as any other written document explaining how the Platform and/or the Services work;
 *   **General Terms of Use**: refers to all the rules of use of the Platform and/or the Services (hereinafter the "GTU");
@@ -19,6 +20,7 @@ Article 1. DEFINITIONS
 *   **Regulation applicable to the protection of personal data**: refers to any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act";
 *   **Resources**: means the Client's resources hosted on the Platform, including in particular the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
 *   **Services**: refers to all the services detailed in the Agreement, in particular in the Order and within the appendices, that SCALINGO undertakes to provide to the Client through the Platform, namely the hosting of the Resources entitled under the terms: "Managed application environments"; "Managed Databases"; "Managed Networks"; "Professional Services"; "Maintenance service in operational condition";
+*   **Specific Terms and Conditions**: means the specific provisions applicable to certain Services or categories of Services, made available to the Client by SCALINGO via the Platform dashboard, and accepted when placing the Order. The Specific Terms and Conditions supplement these GTC and, in the event of any contradiction, shall prevail over them;
 *   **Support**: means the support and maintenance services of the Platform and/or Services that SCALINGO undertakes to provide in accordance with the SLA;
 *   **Users**: refers to the persons authorized by the Client to access the Platform and use the Services.
 
@@ -35,6 +37,8 @@ SCALINGO reserves the right to amend the GTC at any time. Any modification shall
 
 The GTC are freely accessible on the Platform, where they can be consulted and downloaded by the Client at no cost.
 
+The Client also acknowledges having read and, where applicable, accepted the Specific Terms and Conditions applicable to the Services ordered, which supplement the GTC.
+
 Article 3. ORDER OF SERVICES
 ----------------------------
 
@@ -44,7 +48,7 @@ To order Services, the Client must first create a Client Account on the Platform
 
 The Client undertakes to provide all mandatory information requested by SCALINGO depending on the selected Services. Otherwise, the Order cannot be finalized.
 
-Once logged into its Client Account, the Client selects the Service(s) it wishes to subscribe to and completes the Order by choosing a billing method and following the dedicated procedure available on the Platform.
+Once logged into its Client Account, the Client selects the Service(s) it wishes to subscribe to and completes the Order, in particular by choosing a billing method, by following the dedicated procedure provided for this purpose on the Platform. The Client acknowledges that certain Services may be subject to Specific Terms and Conditions, provided by SCALINGO and accepted when placing the Order. Acceptance of the Order implies acceptance of such Specific Terms and Conditions.
 
 Once the Order has been completed and validated by the Client, it shall be considered firm and final.
 
@@ -55,20 +59,24 @@ SCALINGO reserves the right to modify its Service catalog at any time. For Servi
 Article 4. FREE TRIAL
 ---------------------
 
-The Client may benefit from a free trial of the Platform lasting thirty (30) days from the date of their first registration. This free trial is intended to allow the Client to discover and evaluate the features of the Platform in order to decide, at the end of this period, whether they wish to place an Order.
+For certain Services, as specified on the Platform, the Client may, if it so wishes, benefit from a free trial of the Platform lasting thirty (30) days from the date of their first registration. This free trial is intended to allow the Client to discover and evaluate the features of such Services in order to decide, at the end of this period, whether they wish to place an Order.
 
 To activate the free trial, the Client must first create a Client Account. SCALINGO reserves the right to carry out any checks it deems necessary on the information provided by the Client. In particular, SCALINGO may refuse access to the free trial in cases where the Client uses a temporary email address, a disposable payment card, a newly created domain, or a newly created GitHub account.
 
 The refusal of access to the free trial shall not entitle the Client to any claim or compensation of any kind.
 
-The free trial gives restricted access to the features of the Platform and is strictly limited to one (1) Resource using a maximum of five (5) containers (size S or M) and one add-on of each type (sandbox size). Any additional request must be the subject of a paid Service Order.
+The free trial shall start on the date the Client Account is created. The free trial grants reduced access to the features of the Platform, under the conditions defined on the Platform. Any additional request must be the subject of a paid Service Order.
 
-At the end of the free trial period, the Client will have the opportunity to subscribe to the Services by placing an Order in accordance with Article 5. If no subscription is made, the rights of use will cease immediately and the Client will no longer be able to use the Services. After a period of thirty (30) days, if no Order is being placed by the Client, the Resources will be deleted from the Platform.
+It is specified that carrying out a trial of certain Services does not preclude the Client from being granted a trial for other Services.
+
+At the end of the free trial period, the Client will have the opportunity to subscribe to the relevant Services by placing an Order in accordance with Article 5. If no subscription is made, the rights of use will cease immediately and the Client will no longer be able to use the Services. After a period of thirty (30) days, if no Order is being placed by the Client, the Resources will be deleted from the Platform.
 
 Article 5. FINANCIAL TERMS
 --------------------------
 
 **Price**. The price of the Services corresponds to a number of credits of space reserved for Resources, calculated according to the quantity and/or volume of Resources that the Client wishes to host on the Platform, as well as the duration of the Service subscribed.
+
+When offered, the free trial is not subject to billing and does not give rise to any credit or financial commitment.
 
 The Services are invoiced on a per-consumer basis according to the rates and terms agreed between the Parties in the Order (the "**Budget Line**"). Prices are indicated in euros excluding tax. SCALINGO reserves the right to pass on, without delay, any tax or any increase in the rate of existing taxes. If required by applicable law, the Client will provide SCALINGO with its tax identification information.
 
@@ -143,12 +151,16 @@ In the event that the Support involves access to the Resources, and in particula
 
 It is expressly agreed between the Parties that under no circumstances should SCALINGO be held liable for any intervention involving access to a Resource and, in particular, to the source codes of the solutions hosted on the Platform, SCALINGO having no knowledge nor control of the Client's Resources (and in particular the source codes of the Client's software solutions).
 
+Beta Services are provided “as is” and are expressly excluded from the benefit of Support and from all obligations set out in the SLA.
+
 Article 9. DURATION AND TERMINATION – INACTIVE APPLICATIONS
 -----------------------------------------------------------
 
 **Services subscribed with commitment of duration.** The GTC are applicable throughout the duration of subscription to the Services. The Services are subscribed for the initial period set out in the Order and will be renewed by tacit renewal for successive periods of the same duration as the initial duration, unless the Client unsubscribes the Services through its Client Account or one of the Parties terminate the Agreement by registered letter with acknowledgement of receipt sent to the other Party, observing a notice period of one (1) month prior to the start of new contractual term.
 
 **Services subscribed without commitment of duration.** The Client may unsubscribe at any time through its Client Account. The Client may choose to delete its Client Account with immediate effect, as a result of which, he will be charged for the Resources consumed for the current month. The Client is informed that the deletion of its Client Account entails the deletion of all the Resources still allocated on the Platform.
+
+**Free trial.** The free trial is not subject to renewal and automatically expires at the end of its term.
 
 **Termination for fault.** In the event of a breach by one of the Parties of one of the obligations, the other Party may, thirty (30) full days from the date of receipt, or failing that, the date of the first attempted delivery of a letter, sent by registered post with proof of delivery, giving formal notice and which went unheeded, declare the automatic termination of the Agreement, without further notice or legal formality, and without affecting any other rights or measures, including seeking any damages to which it might be entitled.
 
@@ -173,6 +185,8 @@ Article 11. WARRANTY
 The Parties warrant that they have all the rights, powers, authorizations, and licenses necessary to enter into the Agreement.
 
 SCALINGO warrants, as of the date of their availability, the proper functioning and compliance of the Platform and/or the Services with the Documentation. SCALINGO does not provide any other express or implied warranties, including with respect to the continuity, performance, and/or sustainability of the Platform and/or the Services, or their suitability and/or compliance with any specific use or the Client's needs, other than those expressly provided in the Agreement. The Client acknowledges that the use of the Platform and/or the Services implies awareness and acceptance of the characteristics and limitations of internet networks, particularly with regard to technical performance, response times for data transfers, risks of service interruption, and more generally, risks inherent to any connection and data transmission. SCALINGO does not warrant that the features of the Platform and/or the Services or any other related components will be available at all times, uninterrupted, or error-free, that any defect or error will be immediately corrected, or that the Platform and/or the Services will at all times be free of viruses or any other harmful components.
+
+Due to their experimental nature, Beta Services are expressly excluded from any commitment as to conformity, availability, performance or quality, including those provided for in the SLA.
 
 Article 12. PERSONAL DATA
 -------------------------
@@ -253,6 +267,8 @@ Article 18. GENERAL PROVISIONS
 **Severability**. If any provision of the Agreement is declared null and void, in whole or in part, the validity of the remaining provisions shall not be affected. In such a case, the Parties shall, if possible, replace the invalid provision with a valid one that reflects the spirit and purpose of the Agreement.
 
 **Domicile**. The Parties elect domicile at their respective registered offices.
+
+**Hierarchy of contractual documents.** In the event of any inconsistency between the contractual documents, the following order of precedence shall apply: (1) the Specific Terms and Conditions, (2) these GTC, (3) the GTU, and (4) the technical appendices.
 
 Article 19. APPLICABLE LAW – COMPETENT JURISDICTION
 ---------------------------------------------------
