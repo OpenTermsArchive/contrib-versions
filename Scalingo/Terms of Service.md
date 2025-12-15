@@ -8,7 +8,7 @@ Article 1. Definitions
 
 In the GTU, the terms identified below by a capital letter have the following meaning, whether used in the singular or plural:
 
-**Client**: means any legal or natural person, professional registered in the trade and companies register or any equivalent commercial register, which subscribes either to the freemium version of the Platform or to a paid subscription to the Platform;
+**Client**: means any legal or natural person, professional registered in the trade and companies register or any equivalent commercial register, which subscribes either to the free trial version of the Platform or to a paid subscription to the Platform.
 
 **GTU** : means these general terms and conditions of use.
 
@@ -22,9 +22,9 @@ In the GTU, the terms identified below by a capital letter have the following me
 
 **Regulation applicable to the protection of personal data**: means any regulation applicable to the protection of personal data and in particular the Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act".
 
-**Resources**: means the Client's resources hosted on the Platform, including the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
+**Resources**: means the Client's resources hosted on the Platform, including the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO.
 
-**Services**: means all the services provided to the User through the Platform, it being specified that the scope of the Services open to the User is agreed in the Agreement between the Client and SCALINGO among the following categories of services: "Managed application environments"; "Managed databases"; "Managed networks"; "Professional services"; "Operational readiness maintenance service";
+**Services**: means all the services provided to the User through the Platform, it being specified that the scope of the Services open to the User is agreed in the Agreement between the Client and SCALINGO among the following categories of services: "Managed application environments"; "Managed databases"; "Managed networks"; "Professional services"; "Operational readiness maintenance service".
 
 **User:** means the Client and/or any natural person designated by the Client who accesses the Platform to use the Services, regardless of where they are located and how they access them, and who acts under the responsibility of the Client.
 
@@ -89,18 +89,20 @@ The User undertakes to use the Platform in accordance with the GTU, with the Cli
 
 It is strictly prohibited to use the Platform for the following purposes :
 
-*   carrying out illegal, discriminatory, fraudulent actions or actions that infringe the rights or safety of third parties;
-*   uploading or distributing illicit or infringing content;
-*   uploading or installing on the Platform malicious software, spyware, viruses, worms, Trojan horses or similar harmful code ;
-*   accessing, extracting Data from other users of the Services and/or the Platform;
-*   acts intended to interrupt, suspend, slow down or prevent the continuity of the Services and/or the Platform;
-*   intrusion or attempted intrusion into SCALINGO's systems;
-*   breach of security and authentication measures;
-*   creation of multiple accounts in order to circumvent the limits of the free trial;
+*   carrying out illegal, discriminatory, fraudulent actions or actions that infringe the rights or safety of third parties.
+*   uploading or distributing illicit or infringing content.
+*   uploading or installing on the Platform malicious software, spyware, viruses, worms, Trojan horses or similar harmful code.
+*   accessing, extracting Data from other users of the Services and/or the Platform.
+*   acts intended to interrupt, suspend, slow down or prevent the continuity of the Services and/or the Platform.
+*   intrusion or attempted intrusion into SCALINGO's systems.
+*   breach of security and authentication measures.
+*   creation of multiple accounts in order to circumvent the limits of the free trial.
+*   the use, reproduction, display, uploading, publication or any other use of logos, trademarks, distinctive signs, creations or any element protected by intellectual property rights that do not belong to the User, or for which the User does not hold any right of use, in the context of the use of the Services and/or the Platform.
 *   any act likely to infringe the rights and interests of SCALINGO or the Users of its Services and/or Platform.
-*   and more generally any practice that hijacks the Platform for purposes other than those for which it was designed, including in particular, the mining of cryptocurrencies.
+*   any practice that hijacks the Platform for purposes other than those for which it was designed, including in particular, the mining of cryptocurrencies.
+*   and more generally, any use of the Services or the Platform for which the User does not hold the rights, authorisations or approvals required, on any grounds whatsoever, including in the event of any error, omission or incorrect assessment on the part of the User.
 
-SCALINGO may terminate the User's access to the Platform in the event of non-compliance with this article, without prejudice to any damages that SCALINGO may seek.
+In the event of non-compliance with this article, SCALINGO may, at its sole discretion, (i) immediately and without prior notice suspend the User’s access to the Services and/or the Platform until the breach has ceased or has been remedied, and/or (ii) terminate the User’s access to the Platform and terminate the contractual relationship with the User, without prejudice to any damages that SCALINGO may seek.
 
 Article 5. Guarantees
 ---------------------
