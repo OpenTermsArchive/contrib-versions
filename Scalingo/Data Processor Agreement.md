@@ -163,7 +163,7 @@ As of the date of signature of the DPA, the subcontractors designated by SCALING
 
 | Name | Contact details | Purpose of the processing | Legal base | Categories of data processed | Location | Transfers outside the EU |
 | --- | --- | --- | --- | --- | --- | --- |
-| OUTSCALE | 1 rue Royale 92210 SAINT-CLOUD | Database hosting | Execution of the contract concluded between SCALINGO and the subcontractor | All the Client's databases hosted by SCALINGO as part of the subscription to the Services | See ARTICLE 8. | N/A (no transfer) |
+| OUTSCALE | 1 rue Royale 92210 SAINT-CLOUD | Database hosting | Execution of the contract concluded between SCALINGO and the subcontractor | All the Client's databases hosted by SCALINGO as part of the subscription to the Services | See ARTICLE 8. | N/A (no transfer) |
 
 ### ARTICLE 14 - DOCUMENTATION AND AUDITS
 
