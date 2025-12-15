@@ -137,7 +137,7 @@ The Terms of Use, our Privacy Policy and terms of conditions for the registratio
 
 **Your Comments and Concerns**
 
-The Websites are operated by the Foundation. All other feedback, comments, requests for technical support and other communications relating to the Websites should be directed to: [support@ethereum.orgopens email client](mailto:support@ethereum.org).
+The Websites are operated by the Foundation. All other feedback, comments, requests for technical support and other communications relating to the Websites should be directed to: [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection).
 
 Page last update: August 21, 2025
 
