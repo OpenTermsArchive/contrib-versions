@@ -14,21 +14,13 @@ To see our [California Consumer Privacy Act (CCPA) Notice at Collection](https:/
 At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handle your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
 *   [What Personal Data does GitLab Collect about Me?](#what-personal-data-does-gitlab-collect-about-me)
-    
 *   [What Personal Data is Not Collected by GitLab?](#what-personal-data-is-not-collected-by-gitlab)
-    
 *   [How Does GitLab Use My Personal Data and Our Legal Basis for Processing?](#how-does-gitlab-use-my-personal-data-and-our-legal-basis-for-processing)
-    
 *   [With Whom does GitLab Share My Personal Data?](#with-whom-does-gitlab-share-my-personal-data)
-    
 *   [How does GitLab Secure My Personal Data?](#how-does-gitLab-secure-my-personal-data)
-    
 *   [What are My Rights and Choices Regarding Personal Data?](#what-are-my-rights-and-choices-regarding-personal-data)
-    
 *   [U.S. State Privacy Rights](#us-state-privacy-rights)
-    
 *   [Other Important Privacy Information](#other-important-privacy-information)
-    
 
 This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com and [GitLab Dedicated](https://about.gitlab.com/dedicated/) ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
 
@@ -263,4 +255,4 @@ GitLab may change its Privacy Statement from time to time. When we do, we will u
 
 #### **Contact Us**
 
-Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email our privacy office with the subject line "Privacy Concern" at (email protected, possibly dpo@gitlab.com).
+Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email our privacy office with the subject line "Privacy Concern" at [\[email protected\]](https://about.gitlab.com/cdn-cgi/l/email-protection).
