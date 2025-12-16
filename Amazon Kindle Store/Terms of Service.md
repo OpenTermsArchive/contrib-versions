@@ -1,7 +1,9 @@
 Kindle Store Terms of Use
 =========================
 
-**Last updated: December 31, 2024**
+  
+
+**Last updated: December 10, 2025**
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon", "we" or "us"). Please read these Amazon Kindle Store Terms of Use, the Amazon.com Privacy Notice ([https://www.amazon.com/privacy](https://www.amazon.com/privacy)), the Amazon.com Conditions of Use ([https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)), and the other applicable rules, policies, and terms posted on the Amazon.com website or the Kindle Store or provided with any Service (collectively, this "Agreement") before purchasing or using any aspect of the Service. By using the Kindle Store, purchasing or using any Kindle Content, using any Kindle Software, or using any aspect of the Service, you agree to be bound by the terms of this Agreement on behalf of yourself and all members of your household and others who use the Service under your account. If you do not accept the terms of this Agreement, then you may not use the Kindle Store, any Kindle Content, any Kindle Software or the Service.
 
@@ -23,6 +25,8 @@ For the purposes of this Agreement:
 
 "**Supported Device**" means a mobile, computer or other supported electronic device on which you are authorized to operate Kindle Software, including a Kindle e-reader.
 
+"**Third-Party Service**" means a service or application provided by a third party that we make available to you for use on or through any Service or Supported Device.
+
 **1\. Kindle Content License**
 
 **Use of Kindle Content.** **Kindle Content is licensed, not sold, to you by the Content Provider.** Upon your download or access of Kindle Content and payment of any applicable fees (including applicable taxes), the Content Provider grants you subject to the terms of this Agreement, including without limitation those in “Changes to Service; Amendments” below, a non-exclusive right to view, use, and display such Kindle Content (for Subscription Content, only as long as you remain an active member of the underlying membership or subscription program), solely through Kindle Software or as otherwise permitted as part of the Service, solely on the number of Supported Devices specified in the Kindle Store, and solely for your personal, non-commercial use. Content Provider may include additional terms for use within its Kindle Content. Those terms will also apply, but this Agreement will govern in the event of a conflict. Some Kindle Content, such as interactive or highly formatted content, may not be available to you on all Kindle Software.
@@ -41,7 +45,11 @@ For the purposes of this Agreement:
 
 **Additional Software Terms**. For additional terms that apply to Kindle Software, see the Additional Amazon Software Terms in the Amazon.com Conditions of Use ([https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)), and any terms provided with Kindle Software (for example, in the Legal Notices or similar section).
 
-**3\. Kindle Vella Tokens**
+**3.Integration with Third-Party Services**
+
+When you link your Amazon account with a Third-Party Service, such as a cloud storage service, (i) that Third Party Service may share information with us about you and your use of the Third-Party Service, such as your contact information and the content you store or use in that Third-Party Service and (ii) Amazon may use, copy, modify, store, and display that information to provide and improve our services (for instance, to allow you to read shared content on Supported Devices). We will handle any information we receive in accordance with the Amazon.com Privacy Notice. You can find more information about integrating with Third-Party Services in our Kindle Connections FAQ ([https://www.amazon.com/kindle/connections](https://www.amazon.com/kindle/connections)) including how to disconnect your account.
+
+**4\. Kindle Vella Tokens**
 
 **Use of Tokens; Expiration.** Kindle Vella is an offering of the Service that allows customers to receive and purchase tokens ("Tokens") and to redeem those Tokens for eligible Kindle Vella Content we offer through the Kindle Store. Eligible products may change over time. Not all devices support the use of Tokens. Kindle Vella Content may only be unlocked with Tokens, and the entire Token amount for the applicable product, plus any applicable taxes, must be redeemed with Tokens. Tokens do not expire. We are not responsible if any Tokens are used without your permission.
 
@@ -51,7 +59,7 @@ For the purposes of this Agreement:
 
 **Limited to U.S.** Kindle Vella is currently only available to customers located in the United States. You may not purchase, receive, or redeem Tokens if you are outside the United States. "United States" refers to the 48 contiguous states, the District of Columbia, Alaska, Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands.
 
-**4\. General**
+**5\. General**
 
 **Information Provided to Amazon**. Kindle Software will provide Amazon with information about your use of the Kindle Software, including information about its interaction with Kindle Content, other content, and the Service (such as your last page read; content that you use, Distribute, or archive; your viewing data and search queries; and available memory, up-time, log files, and signal strength). Information provided to Amazon may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice ([https://www.amazon.com/privacy](https://www.amazon.com/privacy)).
 
