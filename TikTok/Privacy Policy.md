@@ -1,5 +1,3 @@
-_Click_ [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) _to view our current Privacy Policy._
-
 Last updated: _30 November 2025_
 
 **Introduction**
