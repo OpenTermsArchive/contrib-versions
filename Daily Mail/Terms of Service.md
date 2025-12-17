@@ -5,7 +5,7 @@ By DAILY MAIL
 
 Published: 04:50, 7 June 2011 | Updated: 16:09, 29 July 2025
 
-Please note that by using this website or our mobile applications (for example our [iPhone](https://www.dailymail.co.uk/sciencetech/iphone/index.html) and [iPad](https://www.dailymail.co.uk/sciencetech/apple/index.html) apps) (a “Site”), you accept these Terms. If you do not accept these Terms, do not use this Site. We may change these Terms from time to time, so you should review them each time that you visit the Site. You should print a copy of these Terms for future reference.
+Please note that by using this website or our mobile applications (for example our iPhone and iPad apps) (a “Site”), you accept these Terms. If you do not accept these Terms, do not use this Site. We may change these Terms from time to time, so you should review them each time that you visit the Site. You should print a copy of these Terms for future reference.
 
 Index
 
