@@ -6,7 +6,7 @@ Privacy Policy
 Introduction
 ------------
 
-This Privacy Policy explains how we collect, use, and share your personal information when you use www.w3schools.com (the “Website”) and or our product and or our services (the “Services”).
+This Privacy Policy explains how we collect, use, and share your personal information when you use www.w3schools.com (the "Website") and or our product and or our services (the "Services").
 
 We categorize our users as either "Customers" or "Free Users":
 
