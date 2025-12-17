@@ -3,15 +3,11 @@
 Politique de confidentialité
 ----------------------------
 
-Mise à jour : 16 décembre 2025
-
-Nous allons utiliser les interactions avec l'IA pour offrir des expériences personnalisées et des publicités ciblées. Cette mise à jour prendra effet le 16 décembre 2025.
-
-[Lisez la nouvelle politique.](https://fr-fr.facebook.com/privacy/policy/version/23954169707588482/)
+Nous avons mis à jour notre politique de confidentialité le 16 décembre 2025. [Consulter notre politique précédente.](https://fr-fr.facebook.com/privacy/policy/version/10052835831416190/)
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
-Date effective : 16 juin 2025 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/version/10052835831416190/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/version/10052835831416190/?show_versions=1)
+Date effective : 16 décembre 2025 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/version/25862970456621906/?show_versions=1)
 
 ### 
 
@@ -19,9 +15,9 @@ En bref
 
 Chez Meta, nous souhaitons que vous compreniez quelles informations nous recueillons et comment nous les utilisons et les partageons. C’est pourquoi nous vous encourageons à lire notre Politique de confidentialité. Cela vous permet d’utiliser les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) de la manière qui vous convient le mieux.
 
-Dans cette Politique de confidentialité, nous expliquons comment nous recueillons, utilisons, partageons, stockons et transférons les informations. Nous vous faisons également savoir quels sont vos droits. Chaque section de la présente Politique comprend des exemples utiles et un langage simple pour rendre nos pratiques plus simples à comprendre. Nous avons également ajouté des liens vers des ressources qui vous permettent d’en savoir plus sur les thèmes relatifs à la confidentialité susceptibles de vous intéresser.
+Dans cette Politique de confidentialité, nous expliquons comment nous recueillons, utilisons, partageons, stockons et transférons les informations. Nous vous informons également de vos droits. Chaque section de la présente Politique comprend des exemples utiles et un langage simple pour rendre nos pratiques plus simples à comprendre. Nous avons également ajouté des liens vers des ressources qui vous permettent d’en savoir plus sur les thèmes relatifs à la confidentialité susceptibles de vous intéresser.
 
-Il nous importe que vous sachiez comment contrôler votre confidentialité, c’est pourquoi nous vous montrons également où vous pouvez gérer vos informations dans les paramètres des Produits Meta que vous utilisez. Vous pouvez [modifier ces paramètres](https://fr-fr.facebook.com/privacy/policy/?link_dialog=PLATFORM_SETTINGS) pour moduler votre expérience.
+Savoir comment contrôler votre confidentialité est important. Nous vous montrons donc où gérer vos informations dans les paramètres de vos Produits Meta. Vous pouvez [modifier ces paramètres](https://fr-fr.facebook.com/privacy/policy/?link_dialog=PLATFORM_SETTINGS) pour moduler votre expérience.
 
 Lisez la Politique complète ci-dessous.
 
@@ -37,7 +33,7 @@ Quelles informations recueillons-nous ?
 
 En bref
 
-Les informations vous concernant que nous recueillons et traitons dépendent de la manière dont vous utilisez nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Nous recueillons par exemple des informations différentes selon que vous vendez des meubles sur Marketplace ou publiez un reel sur Instagram. Lorsque vous utilisez nos Produits, nous recueillons certaines informations à votre sujet [même si vous ne possédez pas de compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
+Les informations vous concernant que nous recueillons et traitons dépendent de la manière dont vous utilisez nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Nous recueillons par exemple des informations différentes selon que vous vendez des meubles sur Marketplace ou que vous demandez à l’[IA par Meta](https://www.facebook.com/privacy/genai) de vous inventer une blague. Lorsque vous utilisez nos Produits, nous recueillons certaines informations à votre sujet [même si vous ne possédez pas de compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
 
 Voici les informations que nous recueillons :
 
@@ -45,7 +41,7 @@ Voici les informations que nous recueillons :
 
 * * *
 
-[Amis, abonnés et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+[Amis, followers et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
 
 * * *
 
@@ -53,7 +49,7 @@ Voici les informations que nous recueillons :
 
 * * *
 
-[Les informations provenant de partenaires, fournisseurs et tout autre tiers :](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+[Informations provenant de partenaires, fournisseurs et tout autre tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
 Que se passe-t-il si vous ne nous laissez pas collecter certaines informations ?
 
@@ -89,19 +85,24 @@ Voici les manières dont nous utilisons vos informations :
 
 Pour offrir, personnaliser et améliorer nos Produits
 
-Nous utilisons les informations à notre disposition pour fournir et améliorer nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Cela inclut la personnalisation des fonctionnalités, du contenu et des [recommandations](https://www.facebook.com/help/1257205004624246), comme votre [fil Facebook](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=2.ex.4-HowWePersonalizeYour), [votre fil Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%2F), vos stories et vos publicités. Nous utilisons les [informations avec des protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de fournir à ces fins, mais pas pour vous montrer des publicités.
+Nous utilisons les informations à notre disposition pour fournir et améliorer nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Par exemple :
+
+*   Vérifier si nos Produits fonctionnent correctement, par exemple pour procéder à des dépannages et résoudre les problèmes en cas de dysfonctionnement.
+*   Personnaliser des fonctionnalités, du contenu et des [recommandations](https://www.facebook.com/help/1257205004624246), comme votre [fil Facebook](https://www.facebook.com/help/1155510281178725/), [votre fil Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%2F), l’[IA par Meta](https://www.facebook.com/privacy/genai), vos stories et vos publicités.
+
+Nous utilisons les [informations avec des protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de fournir à ces fins, mais pas pour vous montrer des publicités.
 
 En savoir plus sur la manière dont nous utilisons des informations pour fournir, personnaliser et améliorer nos Produits :
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-41-Mobile.png)
 
-Comment nous affichons les publicités et autres contenus commerciaux ou sponsorisés](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.2-HowWeShowAds)
+Comment nous montrons les publicités et autres contenus commerciaux ou sponsorisés](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.2-HowWeShowAds)
 
 * * *
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-44-Mobile.png)
 
-Comment nous utilisons les informations pour améliorer nos Produits](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.4-HowWeUseInformation)
+Comment nous utilisons les informations pour améliorer nos les Produits Meta](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.4-HowWeUseInformation)
 
 * * *
 
@@ -183,7 +184,7 @@ En savoir plus sur les audiences.
 
 Centre de confidentialité](https://www.facebook.com/privacy/guide/sharing/)
 
-[Gestion des applications et sites web](https://fr-fr.facebook.com/privacy/policy/?link_dialog=MANAGE_APPS)
+[Gestion des applications et sites Web](https://fr-fr.facebook.com/privacy/policy/?link_dialog=MANAGE_APPS)
 
 Comment partageons-nous des informations avec des tiers ?
 
@@ -247,7 +248,7 @@ En bref
 
 ![Un Meta Quest, un téléphone mobile affichant les applications Facebook, Instagram et Messenger et une paire de lunettes Ray-Ban Stories sont posés sur une table.](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png)
 
-Nous faisons partie des [Entités Meta](https://www.facebook.com/help/111814505650678) qui fournissent les Produits des Entités Meta. [Les Produits des Entités Meta](https://www.facebook.com/help/195227921252400) comprennent tous les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) couverts par la présente Politique et d’autres produits comme WhatsApp et bien d’autres.
+Nous faisons partie des [Entités Meta](https://www.facebook.com/help/111814505650678) qui fournissent les Produits des Entités Meta. [Les Produits des Entités Meta](https://www.facebook.com/legal/meta-company-products) comprennent tous les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) couverts par la présente Politique et d’autres produits comme WhatsApp et bien d’autres.
 
 Nous partageons les informations que nous recueillons, l’infrastructure, les systèmes et la technologie avec les autres Entités Meta. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?section_id=9-HowDoWeTransfer) sur la manière dont nous transférons les informations vers d’autres pays.
 
@@ -259,7 +260,7 @@ Les Produits Meta partagent des informations avec les autres Entités Meta :
 
 *   Pour assurer la sûreté, la sécurité et l’intégrité ainsi que pour respecter la loi applicable
 *   Pour personnaliser des offres, des publicités et d’autres contenus commerciaux ou sponsorisés
-*   Pour développer et fournir des fonctionnalités et des intégrations
+*   Pour développer, fournir et personnaliser des fonctionnalités et des intégrations
 *   Pour comprendre la manière dont les personnes utilisent et interagissent avec les Produits des Entités Meta
 
 [Voir quelques exemples](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=5.ex.2-WhyWeShareAcross) des raisons pour lesquelles nous partageons des informations.
@@ -377,32 +378,715 @@ Meta Platforms, Inc.
 
 ATTN : Privacy Operations
 
-1601 Willow Road
+1 Meta Way
 
 Menlo Park, CA 94025, États-Unis
 
 Finalités et moyens de traitement de vos informations
 
-Les catégories d’informations que nous utilisons, les raisons pour lesquelles elles sont traitées et la manière dont elles le sont, sont définies ci-dessous :
+Les catégories d’informations que nous utilisons, les raisons pour lesquelles elles sont traitées et la manière dont elles le sont sont définies ci-dessous :
 
-| Finalités et moyens de traitement de vos informations | Catégories d’informations que nous utilisons (voir « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations) Les informations que nous utilisons dépendent des circonstances, mais elles peuvent inclure les éléments suivants : |
-| --- | --- |
-| Personnalisation des [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) (autres que les publicités, voir ci-dessous) : Nos systèmes traitent automatiquement les informations que nous recueillons et stockons, et qui vous sont associées, à vous et à d’autres personnes, afin d’évaluer et de comprendre vos intérêts et vos préférences, ainsi que de vous proposer des expériences personnalisées sur tous les Produits Meta, conformément à nos Conditions générales. Voici comment nous :<br><br>*   personnalisons les fonctionnalités et les contenus (par exemple, votre [fil Facebook](https://www.facebook.com/help/166738576721085?ref=dp), votre [fil Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433) et vos Stories) ;<br>*   vous faisons des suggestions (comme des personnes que vous connaissez peut-être, des groupes ou des évènements qui pourraient vous intéresser ou des sujets que vous pourriez vouloir suivre) sur nos Produits et en dehors.<br><br>[Apprenez-en davantage](https://www.facebook.com/help/119468292028768) sur la manière dont nous utilisons vos informations pour personnaliser votre expérience sur nos Produits Meta et dont nous choisissons les publicités que vous voyez. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les [métadonnées](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Metadata) sur le contenu ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’[appareil](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Device) et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil (comme la localisation GPS) ;<br>*   les informations géographiques ;<br>*   les informations au sujet du réseau auquel votre appareil est connecté ;<br>*   les rapports sur les performances de nos Produits sur votre appareil ;<br>*   les informations provenant de cookies et de technologies similaires ;<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Diffusion des publicités dans les Produits des entités Meta :<br><br>Notre système publicitaire traite automatiquement les informations que nous avons recueillies et stockées vous concernant. Notre système publicitaire utilise ces informations afin de comprendre vos centres d’intérêt et vos préférences et de personnaliser vos publicités dans les Produits des entités Meta.<br><br>Notre système publicitaire hiérarchise les publicités à vous montrer en fonction de l’audience que les annonceurs souhaitent atteindre. Nous faisons ensuite correspondre la publicité aux personnes susceptibles d’être intéressées. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=11.ex.1-HowOurAdsSystemWorks) sur le fonctionnement de notre système publicitaire | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   l’âge ;<br>*   le genre que vous indiquez ;<br>*   les informations concernant les publicités que nous vous montrons et vos interactions avec ces publicités.<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les information de localisation ;<br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ; |
-| Si vous décidez d’ajouter un compte WhatsApp à un Espace Comptes contenant déjà d’autres comptes de Produits des entités Meta :<br><br>*   Pour associer vos comptes sur les Produits des entités Meta à votre compte WhatsApp dans le même Espace Comptes et partager vos informations avec WhatsApp. | Note : la liste ci-dessous porte sur les informations issues de Meta. Pour en savoir plus sur les informations que partage WhatsApp avec Meta, consultez l’[article qui figure dans les pages d’aide de WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331).<br><br>[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation)<br><br>[Amis, abonnés et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) |
-| Mise à disposition et amélioration de nos Produits Meta : La mise à disposition des Produits Meta implique la collecte, la conservation et, le cas échéant, le partage, le profilage, l’examen, la sélection et, dans certains cas, non seulement le traitement automatisé des données, mais aussi leur examen manuel (humain) en vue de :<br><br>*   créer et maintenir votre compte et votre profil ;<br>*   connecter vos comptes des Produits Meta, en ce compris les informations de votre profil public, à un partenaire intégré afin de vous connecter ou de partager vos informations ;<br>*   faciliter le partage de contenu et de statut ;<br>*   fournir et sélectionner des fonctionnalités ;<br>*   fournir des services de messagerie, la capacité de passer des appels vocaux ou vidéo et d’interagir avec les autres ;<br>*   fournir des produits publicitaires ;<br>*   comprendre et permettre la création de contenu comme du texte, de l’audio, des images et des vidéos, et notamment par l’intermédiaire de la [technologie d’intelligence artificielle](https://www.facebook.com/privacy/genai) que nous fournissons ;<br>*   effectuer des analyses ; et<br>*   faciliter vos achats et paiements sur Meta Pay ou d’autres expériences de paiement Meta.<br><br>Nous utilisons également les informations pour développer, rechercher et tester des améliorations de nos Produits. Nous utilisons les informations dont nous disposons pour :<br><br>*   vérifier le bon fonctionnement d’un produit ;<br>*   résoudre et corriger les éventuels problèmes ;<br>*   tester nos nouveaux produits et fonctionnalités pour vérifier qu’ils fonctionnent bien ;<br>*   recueillir des avis sur nos idées de produits ou de fonctionnalités ; et<br>*   organiser des sondages et d’autres recherches pour déterminer ce que vous aimez de nos Produits et marques, et ce qui peut être amélioré. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   les informations de votre profil public (y compris votre nom, nom d’utilisateur et photo de profil) ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br>*   votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   Les signaux d’appareil<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre [adresse IP](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-IPAddress) ;<br>*   les informations provenant de cookies et de technologies similaires ;<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Promotion de la sûreté, de l’intégrité et de la sécurité sur les Produits Meta : Les Produits Meta sont conçus pour rechercher et aider à garantir la sûreté, l’intégrité et la sécurité des services et des personnes qui en bénéficient, sur les Produits Meta et en dehors. Nous traitons les informations auxquelles vous avez été associé, recourons à des techniques de traitement automatisé et, dans certains cas, procédons à un examen manuel (humain) en vue de :<br><br>*   vérifier les comptes et l’activité ;<br>*   localiser et traiter les infractions à nos conditions générales ou à nos politiques. Dans certains cas, les décisions que nous prenons au sujet des infractions sont examinées par le [Conseil de surveillance](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oversightboard.com%2F) ;<br>*   enquêter sur les activités suspectes ;<br>*   détecter, prévenir et combattre les comportements préjudiciables ou illicites, notamment en examinant et, dans certains cas, en supprimant le contenu qui nous est signalé ;<br>*   identifier et combattre les disparités et les préjugés racistes contre des communautés historiquement marginalisées ;<br>*   protéger la vie, la santé physique ou mentale, le bien-être ou l’intégrité de nos utilisateurs ou d’autrui ;<br>*   détecter et prévenir les contenus indésirables, ou d’autres problèmes de sécurité, et autres mauvaises expériences ;<br>*   détecter et neutraliser les menaces envers notre personnel et nos biens ; et<br>*   maintenir l’intégrité de nos Produits.<br><br>Pour en savoir plus sur la sûreté, l’intégrité et la sécurité en général sur les Produits Meta, consultez les [Pages d’aide consacrées à la sécurité de Facebook](https://www.facebook.com/help/379220725465972) et les [Conseils de Sécurité d’Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369). | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br>*   votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   Les signaux d’appareil<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   Les informations géographiques<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Communication avec vous : Nous utilisons les informations que vous nous avez données (comme vos coordonnées sur votre profil) pour vous envoyer des communications, par e-mail ou au sein même des produits, notamment :<br><br>*   nous vous enverrons des e-mails ou des notifications au sein même des produits pour vous informer au sujet des Produits Meta, des problèmes se rapportant aux produits, des recherches ou de nos conditions générales et de nos politiques.<br><br>Nous utilisons également les coordonnées telles que votre adresse e-mail pour vous répondre lorsque vous nous contactez. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   les coordonnées qui figurent sur votre profil et vos communications avec nous ;<br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   Les signaux d’appareil<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   Les informations géographiques<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires. |
-| Le transfert, la conservation ou le traitement de vos informations à l’étranger, notamment depuis et vers les États-Unis et d’autres pays : Nous partageons les informations que nous recueillons dans le monde entier, à la fois en interne dans nos bureaux et nos data centers, et en externe avec nos [partenaires](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Partner), avec des [tiers](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-ThirdParty) et avec nos [prestataires de services](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-ServiceProvider). Puisque Meta est une entreprise internationale, avec des utilisateurs, des partenaires, des fournisseurs et du personnel dans le monde entier, les transferts sont nécessaires pour :<br><br>*   exploiter et fournir les services décrits dans les conditions générales qui s’appliquent au(x) Produit(s) Meta que vous utilisez. Cela vous permet notamment de partager des informations et d’interagir avec votre famille et vos amis dans le monde entier ; et<br>*   corriger, analyser et améliorer nos Produits.<br><br>Pour en savoir plus, consultez la section [« Comment transférons-nous des informations ? »](https://fr-fr.facebook.com/privacy/policy/?section_id=9-HowDoWeTransfer) de la Politique de confidentialité de Meta. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br>*   votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Traiter les informations soumises à des protections spéciales en vertu des lois applicables que vous fournissez afin que nous puissions les partager avec les personnes de votre choix pour fournir, personnaliser et améliorer nos Produits et effectuer des analyses. Nous recueillerons, conserverons et publierons des données et leur appliquerons un traitement automatique, ou parfois manuel (humain), aux fins décrites. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   toute information assortie de protections spéciales que vous choisissez de fournir, comme vos convictions religieuses, votre orientation sexuelle, vos opinions politiques, votre état de santé, votre origine ethnique, vos convictions philosophiques ou votre appartenance syndicale, ou dans le cadre de sondages auxquels vous choisissez de participer, et lorsque vous avez donné votre consentement explicite. |
-| Recevoir et utiliser des informations provenant de tiers pour vous présenter des publicités personnalisées : Nous utiliserons les informations que les annonceurs, les entreprises et d’autres Partenaires nous communiquent au sujet de votre activité en dehors des Produits des entités Meta et qui vous ont été associées afin de personnaliser les publicités que nous vous montrons sur les Produits Meta, ainsi que sur les sites web, les applications et les appareils qui utilisent nos services publicitaires. Nous recevons ces informations, que vous soyez connecté ou non et que vous ayez un compte ou non sur nos Produits. Consultez la [Politique d’utilisation des cookies](https://www.facebook.com/policies/cookies/) pour en savoir plus. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   les informations et contenus que vous fournissez, comme votre nom ou adresse e-mail ;<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Partager vos coordonnées, vos informations de profil et autres avec des tiers à votre demande : le type de tiers et les catégories d’informations partagées dépendent des circonstances liées à ce que vous nous demandez de partager. Par exemple :<br><br>*   nous partageons votre adresse e-mail (ou d’autres coordonnées) ou d’autres informations que vous choisissez lorsque vous nous demandez de les partager avec un annonceur afin qu’il puisse vous contacter pour vous fournir de plus amples informations sur un produit présenté ; et<br>*   si vous choisissez d’intégrer d’autres applications, jeux ou sites web aux produits Meta et de vous y connecter, nous partagerons vos informations avec l’application, le jeu ou le site web pour vous connecter. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   les informations telles que vos coordonnées et les informations de votre profil ;<br>*   le contenu que vous créez, comme les publications et les commentaires. |
-| Fournir des mesures, des analyses et des services professionnels :<br><br>Nos systèmes traitent automatiquement, avec un complément de traitement manuel (humain), les informations que nous avons recueillies et conservées à propos de vous et d’autres personnes. Nous utilisons ces informations pour :<br><br>*   fournir des analyses et des rapports de mesure aux entreprises, aux annonceurs et aux autres partenaires pour les aider à mesurer l’efficacité et la diffusion de leurs publicités, contenus et services (ou bien de leurs clients), à comprendre les types de personnes qui voient leur contenu et leurs publicités ainsi que la manière dont leur contenu et leurs publicités fonctionnent sur les Produits Meta et en dehors ; et<br>*   fournir des rapports agrégés d’information et d’analyse des utilisateurs visant à aider les utilisateurs, les entreprises, les annonceurs et les autres partenaires à mieux comprendre les audiences qu’ils souhaitent atteindre ainsi que les types de personnes qui utilisent leurs services et la manière dont elles interagissent avec leur contenu, mais aussi leurs sites web, applications et services. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires ; |
-| Partage d’informations entre les Entités Meta :<br><br>*   Pour proposer une expérience fluide, cohérente, plus riche et innovante sur l’ensemble des Produits des Entités Meta et pour permettre des interactions entre les applications ainsi que le partage, l’affichage et l’interaction avec le contenu (y compris les messages et les vidéos) entre les apps. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées sur le contenu ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires ; |
-| Intelligence économique et statistiques :<br><br>*   pour comprendre globalement votre utilisation de nos produits, pour compter précisément les personnes et les entreprises ; et<br>*   pour valider les indicateurs qui y sont directement liés afin d’informer et d’améliorer l’orientation et le développement des produits et de respecter les obligations de déclaration (actionnaires/revenus). | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Identification en tant qu’utilisateur des Produits Meta et personnalisation des publicités que nous vous montrons sur le réseau Meta Audience Network lorsque vous consultez d’autres applications :<br><br>*   Lorsque nous vous montrons des publicités via le réseau [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search) quand vous consultez d’autres applications, nos systèmes traitent automatiquement les informations que nous avons recueillies et stockées à propos de vous et d’autres personnes afin de vous identifier en tant qu’utilisateur des Produits Meta et de personnaliser les publicités que vous voyez. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   les informations que vous fournissez ;<br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées sur le contenu ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires ; |
-| Envoi de communications commerciales :<br><br>*   En fonction de vos paramètres et sous réserve de la loi applicable, nous vous enverrons des communications commerciales.<br>*   Nous recueillerons et stockerons vos informations et les utiliserons pour vous envoyer des communications commerciales, notamment par e-mail, sous réserve de la loi applicable. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   les informations et contenus que vous fournissez, y compris vos coordonnées telles qu’une adresse e-mail.<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les identifiants de l’appareil. |
-| Recherche et innovation pour le bien-être social :<br><br>*   Nous réalisons des sondages et utilisons des informations (notamment celles des chercheurs avec lesquels nous collaborons) pour orienter et soutenir la recherche et l’innovation sur des sujets de bien-être social général, d’avancement technologique, d’intérêt public, de santé et de bien-être.<br>*   Par exemple, nous analysons les informations à notre disposition concernant les schémas de migration pendant les crises. Cela aide les organisations à but humanitaire à agir aux bons endroits.<br>*   Nous recueillons, stockons, combinons, analysons les informations et nous les soumettons à des techniques de traitement automatique (telles que l’agrégation) ou à des examens manuels (humains), et les partageons dans la mesure nécessaire pour mener des recherches et innover pour le bien-être social.<br>*   Nous soutenons la recherche dans des domaines tels que l’intelligence artificielle et le machine learning.<br><br>[En savoir plus](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) sur nos programmes de recherche. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Anonymisation de vos informations<br><br>Dans certains cas, nous anonymisons les informations que nous vous avons associées, notamment votre activité sur nos Produits et en dehors, et utilisons les informations qui en découlent, par exemple pour proposer et améliorer nos Produits Meta, y compris les publicités. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les métadonnées sur le contenu ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Partage d’informations avec des tiers comme les forces de l’ordre et réponse aux demandes juridiques.<br><br>Pour en savoir plus sur les circonstances dans lesquelles nous partageons des informations avec la police ou autre, consultez la section « [Comment procédons-nous pour répondre aux demandes légales, éviter tout risque de dommage et favoriser la sécurité et l’intégrité ?](https://fr-fr.facebook.com/privacy/policy/?section_id=10-HowDoWeRespond) » de la Politique de confidentialité de Meta.<br><br>Les catégories d’informations auxquelles nous accédons, que nous conservons, que nous utilisons et que nous partageons dépendent des circonstances spécifiques. Par exemple, lorsque nous répondons à des demandes légales sans y être pour autant obligés par la loi, les informations concernées sont généralement limitées (notamment les coordonnées et les informations de connexion).<br><br>Toutefois, les informations que nous traitons dépendront des finalités, qui peuvent inclure les éléments suivants :<br><br>*   Pour répondre à des demandes légales de tiers comme des parties civiles, la police et d’autres autorités gouvernementales<br>*   Pour nous conformer à la loi applicable ou à des fins légales légitimes<br>*   Pour promouvoir la sûreté, la sécurité et l’intégrité des Entités Meta, des Produits Meta, des utilisateurs, du personnel, des biens et du public.<br><br>[En savoir plus](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.8-PromotingSafetySecurityAnd) sur la manière dont nous promouvons la protection, la sécurité et l’intégrité. | [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   Les métadonnées à propos du contenu, sous réserve de la loi applicable<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats ou autres transactions que vous effectuez ;<br>*   les hashtags que vous utilisez ;<br>*   votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
-| Pour traiter des informations lorsque la loi l’exige : Lorsque nous sommes soumis à l’obligation de divulguer certaines informations, par exemple si nous recevons une demande légale valide relative à certaines informations, telle qu’un mandat de perquisition, nous accédons à vos informations, les conservons et/ou les partageons avec des autorités de réglementation, la police ou autres.<br><br>Les modalités du traitement des informations dépendent des circonstances particulières. Consultez la section [« Comment procédons-nous pour répondre aux demandes légales, éviter tout risque de dommage et favoriser la sécurité et l’intégrité ? »](https://fr-fr.facebook.com/privacy/policy/?section_id=10-HowDoWeRespond) de la Politique de confidentialité de Meta pour en savoir plus. La section [« Informations pour les autorités judiciaires et de police »](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Factions%2Fsafety%2Faudiences%2Flaw%2Fguidelines) précise les lignes directrices opérationnelles à suivre par la police. | Les catégories d’informations dépendent des circonstances spécifiques entourant chaque obligation ou demande impérative. Seules les informations nécessaires au respect de l’obligation légale en question seront partagées ou autrement traitées. Par exemple, en matière civile, les informations concernées sont généralement limitées (notamment les coordonnées et les informations de connexion). Toutefois, en fonction des circonstances, elles peuvent inclure les éléments suivants :<br><br>[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :<br><br>*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;<br>*   le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;<br>*   les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable ;<br>*   les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable ;<br>*   les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux ;<br>*   les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci ;<br>*   les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit ;<br>*   les hashtags que vous utilisez ;<br>*   l’heure, la fréquence et la durée de vos activités sur nos Produits ;<br>*   votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.<br><br>[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)<br><br>[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :<br><br>*   les caractéristiques de l’appareil et le logiciel de l’appareil ;<br>*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;<br>*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;<br>*   les signaux d’appareil ;<br>*   les informations que vous avez partagées via les paramètres de votre appareil ;<br>*   les informations géographiques ;<br>*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;<br>*   les informations provenant de cookies et de technologies similaires.<br><br>[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) |
+Personnalisation des Produits Meta
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Personnalisation des [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) : Nos systèmes traitent automatiquement les informations que nous avons recueillies et stockées, et qui vous sont associées, à vous et à d’autres personnes, afin d’évaluer et de comprendre vos intérêts et vos préférences, ainsi que de vous proposer des expériences personnalisées sur et à travers tous les Produits des entités Meta, conformément à nos Conditions générales. Voici comment nous :
+
+*   personnalisons les fonctionnalités et les contenus (par exemple, votre [fil Facebook](https://www.facebook.com/help/166738576721085?ref=dp), votre [fil Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433), l’[IA par Meta](https://www.facebook.com/privacy/genai) et vos Stories) ;
+*   personnalisons les publicités que vous voyez ; et
+*   vous faisons des suggestions (comme des personnes que vous connaissez peut-être, des groupes ou des évènements qui pourraient vous intéresser ou des sujets que vous pourriez vouloir suivre) sur nos Produits et en dehors.
+
+Notre système publicitaire hiérarchise les publicités à vous montrer en fonction de l’audience que les annonceurs souhaitent atteindre. Nous faisons ensuite correspondre la publicité aux personnes susceptibles d’être intéressées. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=11.ex.1-HowOurAdsSystemWorks) sur le fonctionnement de notre système publicitaire.
+
+[En savoir plus](https://www.facebook.com/ads/about) sur notre sélection des publicités que vous voyez.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les [métadonnées](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Metadata) sur le contenu
+*   Les interactions avec l’IA par Meta et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangent avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’[appareil](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Device) et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil (comme la localisation GPS) ;
+*   les informations géographiques ;
+*   les informations au sujet du réseau auquel votre appareil est connecté ;
+*   les rapports sur les performances de nos Produits sur votre appareil ;
+*   les informations provenant de cookies et de technologies similaires ;
+
+[Informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Pour les personnes utilisant WhatsApp, [en savoir plus](https://l.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331) sur la nature des informations partagées avec Meta.
+
+Association de vos comptes
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Si vous décidez d’ajouter un compte WhatsApp à un Espace Comptes contenant déjà d’autres comptes de Produits des entités Meta :
+
+*   Pour associer vos comptes sur les Produits des entités Meta à votre compte WhatsApp dans le même Espace Comptes et partager vos informations avec WhatsApp.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+Note : la liste ci-dessous porte sur les informations issues de Meta. Pour en savoir plus sur les informations que partage WhatsApp avec Meta, consultez l’[article qui figure dans les pages d’aide de WhatsApp](https://l.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331).
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation)
+
+[Amis, abonnés et autres relations](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice)
+
+Mise à disposition et amélioration des Produits Meta
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Mise à disposition et amélioration de nos Produits Meta : La mise à disposition des Produits Meta implique la collecte, la conservation et, le cas échéant, le partage, le profilage, l’examen, la sélection et, dans certains cas, non seulement le traitement automatisé des données, mais aussi leur examen manuel (humain) en vue de :
+
+*   créer et maintenir votre compte et votre profil ;
+*   connecter vos comptes des Produits Meta, en ce compris les informations de votre profil public, à un partenaire intégré afin de vous connecter ou de partager vos informations ;
+*   faciliter le partage de contenu et de statut ;
+*   fournir et sélectionner des fonctionnalités ;
+*   fournir des services de messagerie, la capacité de passer des appels vocaux ou vidéo et d’interagir avec les autres ;
+*   fournir des produits publicitaires ;
+*   comprendre et permettre la création de contenu comme du texte, de l’audio, des images et des vidéos, et notamment par l’intermédiaire de l’[IA par Meta](https://www.facebook.com/privacy/genai) ;
+*   effectuer des analyses ;
+*   faciliter vos achats et paiements sur Meta Pay ou d’autres expériences de paiement Meta ; et
+*   vérifier si nos Produits fonctionnent correctement, par exemple pour procéder à des dépannages et résoudre les problèmes en cas de dysfonctionnement.
+
+Nous utilisons également les informations pour développer, rechercher et tester des améliorations des produits Meta. Nous utilisons les informations dont nous disposons pour :
+
+*   développer et améliorer des produits ainsi que des fonctionnalités ;
+*   développer et tester nos nouveaux produits et fonctionnalités pour vérifier qu’ils fonctionnent bien ;
+*   recueillir des avis sur nos idées de produits ou de fonctionnalités ; et
+*   organiser des enquêtes et d’autres recherches pour déterminer ce que vous aimez de nos Produits et marques, ainsi que pour déterminer comment nous pouvons améliorer les marques et Produits Meta.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Les informations de votre profil public (y compris votre nom, nom d’utilisateur et photo de profil)
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’IA par Meta et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangent avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+*   Votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre [adresse IP](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-IPAddress) ;
+*   les informations provenant de cookies et de technologies similaires ;
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Développement et amélioration de l’IA par Meta
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Développer et améliorer l’[IA par Meta](https://www.facebook.com/privacy/genai) pour les Produits Meta et les tiers
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le [contenu public](https://fr-fr.facebook.com/privacy/policy/?subpage=3.subpage.3-PublicContentWhatContent) que vous ou d’autres personnes créez ou partagez sur les Produits Meta, comme les publications, les commentaires ou les fichiers audio
+*   Les interactions avec l’IA par Meta et les métadonnées connexes, Par exemple, les informations que vous ou d’autres personnes échangent avec l’IA par Meta, comme le contenu et les messages
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Promotion de l’intégrité et de la sécurité
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Promotion de l’intégrité et de la sécurité sur les Produits Meta : Les Produits Meta sont conçus pour rechercher et aider à garantir la sûreté, l’intégrité et la sécurité des services et des personnes qui en bénéficient, sur les Produits Meta et en dehors. Nous traitons les informations auxquelles vous avez été associé, recourons à des techniques de traitement automatisé et, dans certains cas, procédons à un examen manuel (humain) en vue de :
+
+*   vérifier les comptes et l’activité ;
+*   localiser et traiter les infractions à nos conditions générales ou à nos politiques. Dans certains cas, les décisions que nous prenons au sujet des infractions sont examinées par le [Conseil de surveillance](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oversightboard.com%2F) ;
+*   enquêter sur les activités suspectes ;
+*   détecter, prévenir et combattre les comportements préjudiciables ou illicites, notamment en examinant et, dans certains cas, en supprimant le contenu qui nous est signalé ;
+*   identifier et combattre les disparités et les préjugés racistes contre des communautés historiquement marginalisées ;
+*   protéger la vie, la santé physique ou mentale, le bien-être ou l’intégrité de nos utilisateurs ou d’autrui ;
+*   détecter et prévenir les contenus indésirables, ou d’autres problèmes de sécurité, et autres mauvaises expériences ;
+*   détecter et neutraliser les menaces envers notre personnel et nos biens ; et
+*   maintenir l’intégrité de nos Produits.
+
+Pour en savoir plus sur l’intégrité et la sécurité en général sur les Produits Meta, consultez les [Pages d’aide consacrées à la sécurité de Facebook](https://www.facebook.com/help/379220725465972) et les [Conseils de sécurité d’Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369).
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+*   Votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Communication avec vous
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Communication avec vous : Nous utilisons les informations que vous nous avez données (comme vos coordonnées sur votre profil) pour vous envoyer des communications, par e-mail ou au sein même des produits, notamment :
+
+*   nous vous enverrons des e-mails ou des notifications au sein même des produits pour vous informer au sujet des Produits Meta, des problèmes se rapportant aux produits, des recherches ou de nos conditions générales et de nos politiques.
+
+Nous utilisons également les coordonnées telles que votre adresse e-mail pour vous répondre lorsque vous nous contactez.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   les coordonnées qui figurent sur votre profil et vos communications avec nous ;
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   Informations provenant de cookies et de technologies similaires.
+
+Transfert, stockage ou traitement de vos informations dans le monde entier
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Le transfert, le stockage ou le traitement de vos informations à l’étranger, notamment depuis et vers les États-Unis et d’autres pays : Nous partageons les informations que nous recueillons dans le monde entier, à la fois en interne dans nos bureaux et nos data centers, et en externe avec nos [partenaires](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-Partner), avec des [tiers](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-ThirdParty) et avec nos [prestataires de services](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=Definition-ServiceProvider). Puisque Meta est une entreprise internationale, avec des utilisateurs, des partenaires, des fournisseurs et du personnel dans le monde entier, les transferts sont nécessaires pour :
+
+*   exploiter et fournir les services décrits dans les conditions générales qui s’appliquent au(x) Produit(s) Meta que vous utilisez. Cela vous permet notamment de partager des informations et d’interagir avec votre famille et vos amis dans le monde entier ; et
+*   corriger, analyser et améliorer nos Produits.
+
+Pour en savoir plus, consultez la section [« Comment transférons-nous des informations ? »](https://fr-fr.facebook.com/privacy/policy/?section_id=9-HowDoWeTransfer) de la Politique de confidentialité de Meta.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+*   Votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Traitement d’informations bénéficiant de protections spéciales
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Traiter les informations soumises à des protections spéciales en vertu des lois applicables que vous fournissez afin que nous puissions les partager avec les personnes de votre choix pour fournir, personnaliser et améliorer nos Produits et effectuer des analyses. Nous recueillerons, stockerons et publierons des informations et leur appliquerons un traitement automatique, ou parfois manuel (humain), aux fins décrites.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   toute information assortie de protections spéciales que vous choisissez de fournir, comme vos croyances religieuses, votre orientation sexuelle, vos opinions politiques, votre état de santé, votre origine ethnique, vos convictions philosophiques ou votre appartenance syndicale, ou dans le cadre d’enquêtes auxquelles vous choisissez de participer, et lorsque vous avez donné votre consentement explicite.
+
+Utilisation d’informations de tiers pour personnaliser des publicités
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Recevoir et utiliser des informations provenant de tiers pour vous présenter des publicités personnalisées : nous utiliserons les informations que les annonceurs, les entreprises et d’autres Partenaires nous communiquent au sujet de votre activité en dehors des Produits des entités Meta et qui vous ont été associées afin de personnaliser les publicités que nous vous montrons sur nos Produits, ainsi que sur les sites Web, les applications et les appareils qui utilisent nos services publicitaires. Nous recevons ces informations, que vous soyez connecté ou non et que vous ayez un compte ou non sur nos Produits. Consultez la [Politique d’utilisation des cookies](https://www.facebook.com/policies/cookies/) pour en savoir plus.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   les informations et contenus que vous fournissez, comme votre nom ou adresse e-mail ;
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Partage d’informations avec des tiers lorsque vous le demandez
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Partager vos coordonnées, vos informations de profil et autres avec des tiers à votre demande : le type de tiers et les catégories d’informations partagées dépendent des circonstances liées à ce que vous nous demandez de partager. Par exemple :
+
+*   nous partageons votre adresse e-mail (ou d’autres coordonnées) ou d’autres informations que vous choisissez lorsque vous nous demandez de les partager avec un annonceur afin qu’il puisse vous contacter pour vous fournir de plus amples informations sur un produit présenté ; et
+*   si vous choisissez d’intégrer d’autres applications, jeux ou sites web aux Produits Meta et de vous y connecter, nous partagerons vos informations avec l’application, le jeu ou le site web pour vous connecter.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   les informations telles que vos coordonnées et les informations de votre profil ;
+*   le contenu que vous créez, comme les publications et les commentaires.
+
+Fourniture de mesures, d’analyses et de services professionnels
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Fournir des mesures, des analyses et des services professionnels :
+
+Nos systèmes traitent automatiquement, avec un complément de traitement manuel (humain), les informations que nous avons recueillies et conservées à propos de vous et d’autres personnes. Nous utilisons ces informations pour :
+
+*   fournir des analyses et des rapports de mesure aux entreprises, aux annonceurs et aux autres partenaires pour les aider à mesurer l’efficacité et la diffusion de leurs publicités, contenus et services (ou bien de leurs clients), à comprendre les types de personnes qui voient leur contenu et leurs publicités ainsi que la manière dont leur contenu et leurs publicités fonctionnent sur les Produits Meta et en dehors ; et
+*   fournir des rapports agrégés d’information et d’analyse des utilisateurs visant à aider les utilisateurs, les entreprises, les annonceurs et les autres partenaires à mieux comprendre les audiences qu’ils souhaitent atteindre ainsi que les types de personnes qui utilisent leurs services et la manière dont elles interagissent avec leur contenu, mais aussi leurs sites web, applications et services.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+Fourniture d’une expérience fluide
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Partage d’informations entre les Entités Meta :
+
+*   Pour proposer une expérience fluide, cohérente, plus riche et innovante sur l’ensemble des Produits des entités Meta et pour permettre des interactions entre les applications ainsi que le partage, l’affichage et l’interaction avec le contenu (y compris les messages et les vidéos) entre les apps.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement
+*   Les métadonnées sur le contenu
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+Pour les personnes utilisant WhatsApp, [en savoir plus](https://l.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331) sur la nature des informations partagées avec Meta.
+
+Veille stratégique et statistiques
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Veille stratégique et statistiques :
+
+*   pour comprendre globalement votre utilisation de nos produits, pour compter précisément les personnes et les entreprises ; et
+*   pour valider les indicateurs qui y sont directement liés afin d’informer et d’améliorer l’orientation et le développement des produits et de respecter les obligations de déclaration (actionnaires/revenus).
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Personnalisation des publicités sur le Meta Audience Network
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Identification en tant qu’utilisateur des Produits Meta et personnalisation des publicités que nous vous montrons sur le réseau [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search) lorsque vous consultez d’autres applications :
+
+*   Lorsque nous vous montrons des publicités via le réseau Meta Audience Network quand vous consultez d’autres applications, nos systèmes traitent automatiquement les informations que nous avons recueillies et stockées à propos de vous et d’autres personnes afin de vous identifier en tant qu’utilisateur des Produits Meta et d’adapter les publicités que vous voyez.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   les informations que vous fournissez ;
+*   le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio ;
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement
+*   Les métadonnées sur le contenu
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+Envoi de communications commerciales
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Envoi de communications commerciales :
+
+*   En fonction de vos paramètres et sous réserve de la loi applicable, nous vous enverrons des communications commerciales.
+*   Nous recueillerons et stockerons vos informations et les utiliserons pour vous envoyer des communications commerciales, notamment par e-mail, sous réserve de la loi applicable.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   les informations et contenus que vous fournissez, y compris vos coordonnées telles qu’une adresse e-mail.
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les identifiants de l’appareil
+
+Recherche et innovation pour le bien-être social
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Recherche et innovation pour le bien-être social :
+
+*   Nous réalisons des sondages et utilisons des informations (notamment celles des chercheurs avec lesquels nous collaborons) pour orienter et soutenir la recherche et l’innovation sur des sujets de bien-être social général, d’avancement technologique, d’intérêt public, de santé et de bien-être.
+*   Par exemple, nous analysons les informations à notre disposition concernant les schémas de migration pendant les crises. Cela aide les organisations à but humanitaire à agir aux bons endroits.
+*   Nous recueillons, stockons, combinons, analysons les informations et nous les soumettons à des techniques de traitement automatique (telles que l’agrégation) ou à des examens manuels (humains), et les partageons dans la mesure nécessaire pour mener des recherches et innover pour le bien-être social.
+*   Nous soutenons la recherche dans des domaines tels que l’intelligence artificielle et le machine learning.
+
+[En savoir plus](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) sur nos programmes de recherche.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Anonymisation de vos informations
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Anonymisation de vos informations
+
+Dans certains cas, nous anonymisons les informations que nous vous avons associées, notamment votre activité sur nos Produits et en dehors, et utilisons les informations qui en découlent, par exemple pour proposer et améliorer nos Produits Meta, y compris les publicités.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement
+*   Les métadonnées sur le contenu
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Partage d’informations avec des tiers comme les forces de l’ordre pour répondre aux demandes légales
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Partage d’informations avec des tiers comme les forces de l’ordre et réponse aux demandes juridiques.
+
+Pour en savoir plus sur les circonstances dans lesquelles nous partageons des informations avec la police ou autre, consultez la section « [Comment procédons-nous pour répondre aux demandes légales, éviter tout risque de dommage et favoriser la sécurité et l’intégrité ?](https://fr-fr.facebook.com/privacy/policy/?section_id=10-HowDoWeRespond) » de la Politique de confidentialité de Meta.
+
+Les catégories d’informations auxquelles nous accédons, que nous conservons, que nous utilisons et que nous partageons dépendent des circonstances spécifiques. Par exemple, lorsque nous répondons à des demandes légales sans y être pour autant obligés par la loi, les informations concernées sont généralement limitées (notamment les coordonnées et les informations de connexion).
+
+Toutefois, les informations que nous traitons dépendront des finalités, qui peuvent inclure les éléments suivants :
+
+*   Pour répondre à des demandes légales de tiers comme des parties civiles, la police et d’autres autorités gouvernementales
+*   Pour nous conformer à la loi applicable ou à des fins légales légitimes
+*   Pour promouvoir la sûreté, la sécurité et l’intégrité des Entités Meta, des Produits Meta, des utilisateurs, du personnel, des biens et du public.
+
+[En savoir plus](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.8-PromotingSafetySecurityAnd) sur la manière dont nous promouvons la sécurité et l’intégrité.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les métadonnées à propos du contenu, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats ou autres transactions que vous effectuez
+*   Les hashtags que vous utilisez
+*   Votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Traitement d’informations lorsque la loi l’exige
+
+* * *
+
+Finalités et moyens de traitement de vos informations :
+
+Pour traiter des informations lorsque la loi l’exige : Lorsque nous sommes soumis à l’obligation de divulguer certaines informations, par exemple si nous recevons une demande légale valide relative à certaines informations, telle qu’un mandat de perquisition, nous accédons à vos informations, les conservons et/ou les partageons avec des autorités de réglementation, la police ou autres.
+
+Les modalités du traitement des informations dépendent des circonstances particulières. Consultez la section [« Comment procédons-nous pour répondre aux demandes légales, éviter tout risque de dommage et favoriser la sécurité et l’intégrité ? »](https://fr-fr.facebook.com/privacy/policy/?section_id=10-HowDoWeRespond) de la Politique de confidentialité de Meta pour en savoir plus. La section [« Informations pour les autorités judiciaires et de police »](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Factions%2Fsafety%2Faudiences%2Flaw%2Fguidelines) précise les lignes directrices opérationnelles à suivre par la police.
+
+* * *
+
+Catégories d’informations que nous utilisons (consulter « [Quelles informations recueillons-nous ?](https://fr-fr.facebook.com/privacy/policy/?section_id=1-WhatInformationDoWe) » pour en savoir plus sur chaque catégorie d’informations). Les informations utilisées dépendent des circonstances, mais elles peuvent inclure les éléments suivants :
+
+Les catégories d’informations dépendent des circonstances spécifiques entourant chaque obligation ou demande impérative. Seules les informations nécessaires au respect de l’obligation légale en question seront partagées ou autrement traitées. Par exemple, en matière civile, les informations concernées sont généralement limitées (notamment les coordonnées et les informations de connexion). Toutefois, en fonction des circonstances, elles peuvent inclure les éléments suivants :
+
+[Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) :
+
+*   Le contenu que vous créez, comme les publications, les commentaires ou les fichiers audio
+*   Le contenu que vous fournissez via notre fonctionnalité appareil photo, les paramètres de votre pellicule ou les fonctionnalités activées vocalement ;
+*   Les messages que vous envoyez et recevez, y compris leur contenu, conformément à la loi applicable
+*   Les métadonnées à propos du contenu et des messages, sous réserve de la loi applicable
+*   Les interactions avec l’[IA par Meta](https://www.facebook.com/privacy/genai) et les métadonnées connexes, y compris les informations que vous ou d’autres personnes échangez avec l’IA par Meta, comme le contenu et les messages
+*   Les types de contenus que vous visualisez ou avec lesquels vous interagissez, et la manière dont vous interagissez avec eux
+*   Les applications et les fonctionnalités que vous utilisez et les opérations que vous faites avec celles-ci
+*   Les achats et autres transactions que vous effectuez, y compris les informations tronquées de carte de crédit
+*   Les hashtags que vous utilisez
+*   L’heure, la fréquence et la durée de vos activités sur nos Produits
+*   Votre photo ou votre selfie vidéo si vous en avez fourni un lorsque vous nous avez contactés pour obtenir une assistance pour un compte.
+
+[Amis, followers et autres relations.](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[Informations sur l’application, le navigateur et l’appareil](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.3-AppBrowserAndDevice) :
+
+*   les caractéristiques de l’appareil et le logiciel de l’appareil ;
+*   ce que vous faites sur votre appareil, par exemple si notre application est au premier plan ou si votre souris bouge (ce qui peut aider à distinguer les humains des robots) ;
+*   les identifiants qui nous permettent de différencier votre appareil de celui d’autres utilisateurs ;
+*   les signaux d’appareil ;
+*   les informations que vous avez partagées via les paramètres de votre appareil ;
+*   les informations géographiques ;
+*   les informations sur le réseau auquel vous connectez votre appareil, y compris votre adresse IP ;
+*   les informations provenant de cookies et de technologies similaires.
+
+[Les informations provenant de partenaires, de fournisseurs et de tiers](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
