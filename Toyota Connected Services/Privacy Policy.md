@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: September 30, 2025  
+UPDATED AS OF: December 16, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on September 30, 2025.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. (collectively, "Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on December 16, 2025.
 
 **Information Collected**
 
@@ -46,7 +46,7 @@ This summary of the Toyota Privacy Notice applies to Personal Information (as d
 
 **Your Choices and Access**
 
-*   You have the right to have a copy of the Personal Information you provide to Toyota.
+*   You have the right to request we provide you with a copy of the Personal Information we have collected about you.
 *   You have the right to access, delete, correct or update your Personal Information,  opt-out of certain processing activities, and other rights under data privacy laws.
 *   You may instruct Toyota to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs or by contacting us.
 
@@ -66,9 +66,9 @@ To read our full Privacy Notice [click here](#privacy).
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: September 30, 2025  
+UPDATED AS OF: December 16, 2025  
 
-Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
+Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
 *   Publicly available information: information that is lawfully made available to the general public through government records, by you or from widely distributed media, or by a person to whom you have disclosed the information, unless you have restricted the information to a specific audience.
 *   De-identified (which we commit to keep de-identified) or aggregated information.
@@ -91,21 +91,22 @@ This Privacy Notice also does not apply to the data practices of any Toyota, Le
 
 **QUICK GUIDE TO CONTENTS**
 
-1.  **[INFORMATION WE COLLECT.](#_1)**
-2.  **[HOW WE COLLECT INFORMATION.](#_2)**
-3.  **[HOW WE USE THE INFORMATION WE COLLECT.](#_3)**
-4.  **[HOW WE DISCLOSE INFORMATION.](#_4)**
-5.  **[CHOICE, ACCESS, AND RETENTION OF PERSONAL INFORMATION.](#_5)**
-6.  **[ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.](#_6)**
-7.  **[CHILDREN.](#_7)**
-8.  **[SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.](#_8)**
-9.  **[OTHER SITES.](#_9)**
-10.  **[CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.](#_10)**
-11.  **[CHANGES.](#_11)**
-12.  **[DISCLOSURES FOR INDIVIDUALS IN THE UNITED STATES.](#_12)**
-13.  **[CONTACT US.](#_13)**
+1.  **[PERSONAL INFORMATION WE COLLECT.](#_1)**
+2.  **[HOW WE COLLECT PERSONAL INFORMATION.](#_2)**
+3.  **[HOW WE USE THE PERSONAL INFORMATION WE COLLECT.](#_3)**
+4.  **[HOW WE DISCLOSE PERSONAL INFORMATION.](#_4)**
+5.  **[CHOICES FOR COMMERICAL COMMUNICATIONS FROM TOYOTA](#_5)**
+6.  **[RETENTION OF PERSONAL INFORMATION.](#_6)**
+7.  **[ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.](#_7)**
+8.  **[CHILDREN.](#_8)**
+9.  **[SECURITY OF YOUR PERSONAL INFORMATION AND PHISHING SCAMS.](#_9)**
+10.  **[OTHER SITES.](#_10)**
+11.  **[CONSENT TO PROCESSING AND TRANSFER OF PERSONAL INFORMATION.](#_11)**
+12.  **[CHANGES.](#_12)**
+13.  **[DISCLOSURES FOR INDIVIDUALS IN THE UNITED STATES.](#_13)**
+14.  **[CONTACT US.](#_14)**
 
-**1. INFORMATION WE COLLECT.**
+**1. PERSONAL INFORMATION WE COLLECT.**
 
 We may collect certain types of Personal Information about you in a variety of ways, depending on your interactions with us, as described further below. We may also collect information from other parties, such as our dealers, as described further below.
 
@@ -119,7 +120,7 @@ We may collect certain types of Personal Information about you in a variety of w
 *   **Legal Activity Data**: Legal Activity Data includes information collected in connection with legal claims. Examples include information relating to disputes, claims, reimbursements and recalls.
 *   **Business-to-Business (“B2B”) Data**: B2B Data includes information related to our business-to-business and vendor relationships. Examples include business contact information provided to us online or offline to consummate the relationship and carry out business functions. Examples include your name, title, company you work for, address, email address, and phone number.
 
-**2. HOW WE COLLECT INFORMATION.**
+**2. HOW WE COLLECT PERSONAL INFORMATION.**
 
 We may collect Personal Information about you in a variety of ways, depending on your interaction with us or certain other parties. We may also supplement the information we collect about you directly and through our Platforms with information that we receive from other parties.
 
@@ -138,7 +139,7 @@ We may collect Personal Information about you in a variety of ways, depending on
       
     We use cookies provided by Google Analytics and LiveRamp to collect statistical information about the use of the website. You can opt out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout") (requires you to install a browser add-on). You can completely opt out of LiveRamp third-party data collection here: [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/ "https://liveramp.com/opt_out/").
 
-**3. HOW WE USE THE INFORMATION WE COLLECT.**
+**3. HOW WE USE THE PERSONAL INFORMATION WE COLLECT.**
 
 We use the information we collect about and from you for a variety of business purposes such as to:
 
@@ -160,7 +161,7 @@ We use the information we collect about and from you for a variety of business p
 *   For purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 *   You may share your location with us and we may use it for the purpose of providing you with offers and other information relevant to your location.
 
-**4. HOW WE DISCLOSE INFORMATION.**
+**4. HOW WE DISCLOSE PERSONAL INFORMATION.**
 
 Except as described here, we will not provide any of your Personal Information to any other parties without your specific consent. We may share non-Personal Information, such as aggregate data, and Usage Information with other parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances:
 
@@ -178,29 +179,31 @@ Except as described here, we will not provide any of your Personal Information t
 
 **Legal Disclosure.** We may transfer and disclose your information to other parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; in connection with a legal dispute; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of other parties, our customers and visitors or the public.
 
-**5\. CHOICE, ACCESS, AND RETENTION OF PERSONAL INFORMATION.**
+**5\. CHOICES FOR COMMERCIAL COMMUNICATIONS FROM TOYOTA.**
 
 We provide you with choices with respect to your Personal Information. If you choose to receive e-mails from us about products and other information, we strive to keep your Personal Information updated and accurate and provide you choices regarding the e-mail communications you receive from us.
 
 If you provided Toyota with Personal Information through the Owners section of toyota.com, you may review and update that information by clicking on the Owners link on the homepage of toyota.com, registering or logging in and then clicking on "Update Profile." If you have signed up for the Toyota marketing e-mail list, you can access the Preferences page and change your user profile or unsubscribe from the Toyota e-mail list [here](https://www.toyota.com/preferences?source=TOYOTA-COM&brand=Toyota) or by clicking the “unsubscribe” link on any Toyota Motor Sales, U.S.A., email you have received.
 
-For users who are not currently registered on our owner site, please call the Toyota Brand Engagement Center at [800-331-4331](tel:800-331-4331) to opt out from receiving e-mail communications from Toyota. If you receive an e-mail, you may opt out at any time by following the opt out instructions provided in the e-mail you receive. Your opt out request will be processed within 10 days of the date on which we receive it.
+For users who are not currently registered on our owner site, you may opt-out from receiving e-mail communications from Toyota in a number of ways. You may visit this page and choose to unsubscribe from the applicable communications from Toyota. You may also call the Toyota Brand Engagement Center at [800-331-4331](tel:800-331-4331) to opt out from receiving e-mail communications from Toyota. Finally, if you receive an e-mail from Toyota, you may also opt out at any time by following the opt out instructions provided in the e-mail you receive. Your opt out request will be processed within 10 days of the date on which we receive it.
 
-If you are participating in a Program, you may be able to access and update the information you provided as part of your participation in the Program. Please see the section of the Platforms concerning the specific Program to determine if you are able to access your information and how to do so.
+We also strive to keep your Personal Information updated and accurate. If you provided Toyota with Personal Information through the Owners section of Toyota.com, you may review and update that information by clicking on the Owners link on the homepage of Toyota.com, registering or logging in and then clicking on "Update Profile." If you are participating in a Program, you may be able to access and update the information you provided as part of your participation in the Program. Please see the section of the Platforms concerning the specific Program to determine if you are able to access your information and how to do so. Finally, you may also correct your Personal Information by exercising your rights as described in the Your Privacy Rights section below.
+
+**6\. RETENTION OF PERSONAL INFORMATION.**
 
 In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always be possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and X. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
-**6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.**
+**7\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.**
 
 We may use third-party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your location and/or your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is also subject to their own privacy notices.
 
 Certain web browsers may provide an option by which you may request your browser to inform websites you visit that you do not wish your activities to be tracked by cookies or other persistent identifiers, commonly called “Do Not Track Signals.” Although the websites we own and operate, including but not limited to Toyota.com, currently do not respond to Do Not Track Signals, you may choose to opt out of our use of targeting and advertising cookies on Toyota.com by visiting Toyota.com and clicking on “Cookie Consent Options.” You may also choose to block cookies with your browser. Please note that opting out of the use of such cookies on Toyota.com will not impact the use of third-party cookies by other websites, which we do not control. In addition, even if you choose to opt out of targeted advertising, you will still see advertisements while you're browsing online. However, the advertisements you see may be less relevant to you and your interests.
 
-**7\. CHILDREN.**
+**8\. CHILDREN.**
 
 The Platforms are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-**8\. SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.**
+**9\. SECURITY OF YOUR PERSONAL INFORMATION AND PHISHING SCAMS.**
 
 We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. When we collect sensitive information on our sites or within our mobile application (such as credit card number or geo-location information), we encrypt the transmission of that information using Secure Sockets Layer technology.
 
@@ -208,21 +211,21 @@ _Beware of Phishing Scams:_ There have been noticeable increases in the number o
 
 This type of e-mail solicitation is known commonly as a "phishing" scam, with the primary objective being to obtain one's Personal Information. This information can then be utilized to steal a person's identity. For example, a "Toyota Lottery" phishing scam is often sent from Chinese (.cn), German (.de) or British (.co.uk) addresses but can originate from anywhere and look very official even to the most savvy of Internet users. Toyota will never ask you to send passwords, login names, Social Security numbers, or other Personal Information through e-mail or U.S. mail or fax or text message. If you receive an email or letter by U.S. mail or fax or text message from Toyota asking you to update your credit card information, do not respond: this is a phishing scam. Recipients of suspicious e-mail like this should delete the message from their in-box and, if possible, update their e-mail filter settings to block e-mails from the e-mail address being used. The [Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/2008/04/new-ftc-videos-help-consumers-spot-phishing-scams) and the [Antiphishing Workgroup](https://www.antiphishing.org/) are also good sources of information about these types of security threats and how they may be reported to the authorities.
 
-**9\. OTHER SITES.**
+**10\. OTHER SITES.**
 
 The Platforms may contain links to other sites that we do not own or operate, such as the site for Toyota Financial Services and to sites for Toyota dealers, as well as links from advertisers, sponsors and/or partners. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy notices or practices, even though they may use the Toyota name or logo on their site through an agreement with us. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy notices. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
 
 The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
 
-**10\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.**
+**11\. CONSENT TO PROCESSING AND TRANSFER OF PERSONAL INFORMATION.**
 
 The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Toyota makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
 
-**11\. CHANGES.**
+**12\. CHANGES.**
 
 We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**12\. DISCLOSURES FOR INDIVIDUALS IN THE UNITED STATES.**
+**13\. DISCLOSURES FOR INDIVIDUALS IN THE UNITED STATES.**
 
 Privacy laws in the United States give consumers certain privacy rights related to their Personal Information. This section contains additional information for residents in the United States regarding our Personal Information handling practices and data privacy rights.
 
@@ -329,9 +332,7 @@ You may need to provide additional information as part of your responses to our 
 
 Except for rights related to sharing for targeted advertising or sale, which we will honor within fifteen (15) business days, we will respond to your request within forty-five (45) calendar days. However, in certain circumstances, we may require additional time to process your request, as permitted by applicable law. We will advise you within forty-five (45) calendar days after receiving your request if such an extension is necessary and why it is needed. If we cannot fulfill your request, our response to you will also explain the reason why we cannot fulfill your request.
 
-We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
-
-You may only make a verifiable consumer request to know about or access your Personal Information twice within a 12-month period.
+We generally do not charge a fee to process or respond to your verifiable consumer request — however, unless prohibited by applicable law, we reserve the right to charge a fee if it is your second or subsequent request within a 12-month period (unless the purpose of such second or subsequent request is to verify actions taken in the initial request) and/or it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
 **METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
 (January 1, 2024, to December 31, 2024)
@@ -352,7 +353,7 @@ You may only make a verifiable consumer request to know about or access your Per
 
 \*\*\*”Limit use and disclosure of sensitive personal information requests” are not offered because such data is already used for limited purposes under the California Consumer Privacy Act.
 
-**13\. CONTACT US.**
+**14\. CONTACT US.**
 
 To contact us with a question, call us at 800-331-4331, submit an inquiry at [Toyota Support: Contact Toyota,](https://support.toyota.com/s/questions-comments?language=en_US) or mail your inquiry to:
 
@@ -366,10 +367,10 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259001  
 Plano, TX 75025-9001
 
-PERSONAL INFORMATION SHARING PRACTICES FOR 2023
+PERSONAL INFORMATION SHARING PRACTICES FOR 2025
 
-(Effective as of January 1, 2024)  
-During 2023, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+(Effective as of January 1, 2026)  
+During 2025, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 **Name  
 Address  
