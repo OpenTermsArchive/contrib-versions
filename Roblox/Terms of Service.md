@@ -100,8 +100,8 @@ Roblox Terms of Use
     *   [Section 1: Illegal content](#section-1-illegal-content)
     *   [Section 2: Content harmful to children](#section-2-content-harmful-to-children)
 
-Effective Date: December 17, 2025  
-Last Updated: December 17, 2025
+Effective Date: December 16, 2025  
+Last Updated: December 16, 2025
 
 [Introduction](#introduction)  
 [USER TERMS](#user-terms)  
@@ -1187,8 +1187,8 @@ RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prep
 
 UK Users can report content they suspect to be illegal under UK laws using our reporting functionality available [here](https://www.roblox.com/illegal-content-reporting), and make other OSA-specific complaints using a process we will make available. UK Users will also be able to report content they suspect to be harmful to children using a reporting functionality we will make available. Further details will be made available [here](https://en.help.roblox.com/hc/articles/203312410). Details about how to appeal decisions will be made available [here](https://en.help.roblox.com/hc/articles/360000245263).
 
-Effective Date: December 17, 2025  
-Last Updated: December 17, 2025
+Effective Date: December 16, 2025  
+Last Updated: December 16, 2025
 
 *   [AR - شروط استخدام Roblox 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873588220948)
     
@@ -1198,7 +1198,7 @@ Last Updated: December 17, 2025
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873615804692)
     
-*   [EN - Roblox Terms of Use 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
+*   [EN - Roblox Terms of Use 20251216.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873616061588)
     
