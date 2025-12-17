@@ -5,7 +5,7 @@ Terms of Use
 
 * * *
 
-_Effective: January 1, 2025._
+_Effective: January 1, 2026._
 
 Thank you for using Coursera!
 -----------------------------
@@ -59,7 +59,7 @@ Except as described in the Degree, MasterTrack, and University Certificate Progr
 
 #### User Content
 
-The Services enable you to share your content, such as homework, quizzes, exams, projects, other assignments you submit, posts you make in the forums, and the like ("User Content"), with Coursera, instructors, and/or other users. You retain all intellectual property rights in, and are responsible for, the User Content you create and share. User Content does not include course content or other materials made available on or placed on to the Coursera platform by or on behalf of Content Providers or their instructors using the Services or Content Offerings. As between Coursera and Content Providers, such Content Offerings are governed by the relevant agreements in place between Coursera and Content Providers.
+The Services enable you to share your content, such as homework, quizzes, exams, projects, other assignments you submit, posts you make in the forums, and the like ("User Content"), with Coursera, instructors, and/or other users. You retain all intellectual property rights in, and are responsible for, the User Content you create and share. User Content does not include course content or other materials made available on or placed on to the Coursera platform by or on behalf of Content Providers or their instructors using the Services or Content Offerings. User Content also, does not include any changes, modifications, updates, enhancements or any kind of derivative works made by you to the Services and Content Offerings, including with the use of any artificial intelligence features provided to you on the Platform. As between Coursera and Content Providers, such Content Offerings are governed by the relevant agreements in place between Coursera and Content Providers.
 
 #### How Coursera and Others May Use User Content
 
@@ -94,7 +94,7 @@ Coursera is committed to advancing the science of learning and teaching, and rec
 8\. Paid Services from Coursera
 -------------------------------
 
-Coursera offers paid Services (e.g., course certificates for certain courses) for a fee. Unless otherwise stated, fees are quoted in local currency. You are responsible for paying all fees charged by or for Coursera and applicable taxes in a timely manner with a payment mechanism associated with the applicable paid Services. If your payment method fails or your account is past due, we may collect fees using other collection mechanisms. Fees may vary based on your location and other factors, and Coursera reserves the right to change any fees at any time at its sole discretion. Any change, update, or modification will be effective immediately upon posting through the relevant Services. Refunds may be available for paid Services as described in our Payments and Refund Policy below.
+Coursera offers paid Services (e.g., course certificates for certain courses) for a fee. Unless otherwise stated, fees are quoted in local currency. You are responsible for paying all fees charged by or for Coursera and applicable taxes in a timely manner with a payment mechanism associated with the applicable paid Services. If your payment method fails or your account is past due, we may collect fees using other collection mechanisms. Fifteen percent (15%) of the fees you pay is allocated as payment for access to, and use of, the Coursera platform. The remainder is allocated as payment for content access. Fees may vary based on your location and other factors, and Coursera reserves the right to change any fees at any time at its sole discretion. Any change, update, or modification will be effective immediately upon posting through the relevant Services. Refunds may be available for paid Services as described in our Payments and Refund Policy below.
 
 #### Degree, MasterTrack, and University Certificate Programs
 
@@ -112,7 +112,9 @@ We are constantly changing and improving our Services. We may add or remove func
 10\. Disclaimers
 ----------------
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES AND ALL INCLUDED CONTENT ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. THE COURSERA PARTIES SPECIFICALLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. THE COURSERA PARTIES FURTHER DISCLAIM ANY AND ALL LIABILITY RELATED TO YOUR ACCESS OR USE OF THE SERVICES OR ANY RELATED CONTENT. YOU ACKNOWLEDGE AND AGREE THAT ANY ACCESS TO OR USE OF THE SERVICES OR SUCH CONTENT IS AT YOUR OWN RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES AND ALL INCLUDED CONTENT ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. SOME OF COURSERA’S SERVICES UTILIZE ARTIFICIAL INTELLIGENCE (“AI”). CONSISTENT WITH THE FOREGOING, SERVICES THAT USE AI ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. THE COURSERA PARTIES SPECIFICALLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. THE COURSERA PARTIES FURTHER DISCLAIM ANY AND ALL LIABILITY RELATED TO YOUR ACCESS OR USE OF THE SERVICES OR ANY RELATED CONTENT. YOU ACKNOWLEDGE AND AGREE THAT ANY ACCESS TO OR USE OF THE SERVICES OR SUCH CONTENT IS AT YOUR OWN RISK.
+
+YOU UNDERSTAND AND AGREE THAT YOU MUST VERIFY ANY AI OUTPUTS THAT YOU USE IN YOUR COURSEWORK AND COURSERA IS NOT RESPONSIBLE FOR INACCURATE OR INCOMPLETE AI OUTPUTS. YOU FURTHER AGREE TO USE AI-ENHANCED SERVICES IN ACCORDANCE WITH THE [ACCEPTABLE USE POLICY](https://www.coursera.org/about/terms#acceptable-use-policy). PLEASE READ OUR AI DISCLOSURE IN OUR [PRIVACY NOTICE](https://www.coursera.org/about/privacy) FOR MORE INFORMATION ON YOUR RIGHTS WITH RESPECT TO AI.
 
 11\. Limitation of Liability
 ----------------------------
@@ -211,8 +213,6 @@ Acceptable Use Policy
 
 * * *
 
-_Effective: January 1, 2024._
-
 Our mission is to provide universal access to the world’s best education. We believe strongly in preserving free speech and expression for our users as well as academic freedom for our Content Providers and instructors. We also want to make sure that all of our users and instructors feel safe and comfortable while using our Services. We have drafted this policy to ensure that people understand and follow the rules when participating in our online community and otherwise using our Services.
 
 We may remove or edit inappropriate content or activity identified by or reported to us. We may separately suspend, disable, or terminate a user's access to all or part of the Services.
@@ -222,7 +222,7 @@ We may remove or edit inappropriate content or activity identified by or reporte
 *   Contains illegal content or promotes illegal activities with the intent to commit such activities. Please keep in mind that users who are as young as 13 use Coursera, and we do not allow content that is inappropriate for these younger users.
 *   Contains credible threats or organizes acts of real-world violence. We don’t allow content that creates a genuine risk of physical injury or property damage, credibly threatens people or public safety, or organizes or encourages harm.
 *   Harrasses others. We encourage commentary about people and matters of public interest, but abusive or otherwise inappropriate content directed at private individuals is not allowed.
-*   Violates intellectual property, privacy, or other rights. Do not share content that you do not have the right to share, claim content that you did not create as your own, or otherwise infringe or misappropriate someone else’s intellectual property or other rights. Always attribute materials used or quoted by you to the original copyright owner.
+*   Violates intellectual property, privacy, or other rights. Do not share content that you do not have the right to share, claim content that you did not create as your own (including content generated by AI), or otherwise infringe or misappropriate someone else’s intellectual property or other rights. Always attribute materials used or quoted by you to the original copyright owner.
 *   Spams others. Do not share irrelevant or inappropriate advertising, promotional, or solicitation content.
 *   Otherwise violates the Coursera Terms of Use.
 
@@ -230,7 +230,7 @@ Please note that specific Content Offerings may have additional rules and requir
 
 #### 2\. You also aren't allowed to:
 
-*   Do anything that violates local, state, national, or international law or breaches any of your contractual obligations or fiduciary duties.
+*   Do anything that violates applicable local, state, national, or international law or breaches any of your contractual obligations or fiduciary duties towards us.
 *   Share your password, let anyone besides yourself access your account, or do anything that might put your account at risk.
 *   Attempt to access any other user's account.
 *   Reproduce, transfer, sell, resell, or otherwise misuse any content from our Services, unless specifically authorized to do so.
@@ -254,8 +254,6 @@ Copyright and Trademark Policy
 ==============================
 
 * * *
-
-_Effective as of January 1, 2025._
 
 Coursera respects the intellectual property rights of our Content Providers, instructors, users, and other third parties and expects our users to do the same when using the Services. We reserve the right to suspend, disable, or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights, trademarks, or other intellectual property rights of others.
 
@@ -287,8 +285,6 @@ Refund and Cancellation Policy
 ==============================
 
 * * *
-
-_Effective as of October 1, 2025._
 
 For details on Coursera’s refund and cancellation policies, please refer to the information below. Please note that policies may differ depending on the type of plan or offering. For more information on how to request a refund or to cancel a subscription, please visit our [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US). This Refund and Cancellation Policy comes into effect on the Effective Date mentioned above.
 
@@ -401,16 +397,11 @@ Honor Code
 
 * * *
 
-_Effective as of June 28, 2023._
-
-All users of learning materials hosted on the Coursera platform are expected to abide by the following standards to ensure the integrity of learning within Coursera learning experiences. Learners are expected to familiarize themselves and comply with the [Terms of Use](https://www.coursera.org/about/terms) for the Coursera platform and any code of conduct, academic policy, honor code or or any institution's requirements associated with programs which a learner has enrolled onto through the Coursera platform has established.
+All users of learning materials hosted on the Coursera platform are expected to abide by the following standards to ensure the integrity of learning within Coursera learning experiences. Learners are expected to familiarize themselves and comply with the [Terms of Use](https://www.coursera.org/about/terms) for the Coursera platform and any code of conduct, academic policy, honor code or any institution's requirements associated with programs which a learner has enrolled onto through the Coursera platform has established.
 
 Academic misconduct undermines the value of Coursera hosted credentials and devalues the authentic efforts of other learners. Learners who engage in misconduct are therefore subject to consequences as described below.
 
 **Academic misconduct** is defined as any activity which circumvents, or attempts to circumvent, the learning experience provided by the course through violation of course learning policies or specific policies provided by the instructor or outlined by the syllabus, or misrepresentation of the authorship or conditions of completion of course activities. The following standards provide clarification of the most common types of academic misconduct, but the list is not exhaustive. Other behavior may constitute academic misconduct in a particular course or across the Coursera platform.
-
-Definitions
------------
 
 **Work within a Coursera activity** - all activity on the Coursera platform including logins and all course activities is subject to these policies. Work includes but is not limited to exams, quizzes, peer review activities, assessments, discussion board contributions, guided projects, and labs. Furthermore, activities outside the platform that pertain to coursework on the platform are also covered by these policies.
 
@@ -444,50 +435,3 @@ Coursera will determine relevant sanctions based on the kind of misconduct, the 
 ### Consequences for Degree Products
 
 For Degree, MasterTrack, and University Certificate Programs, consequences are at the sole discretion of the content provider.
-
-* * *
-
-Revisions
-=========
-
-* * *
-
-Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
-
-*   [2025-10-01: Updated refund policy](https://www.diffchecker.com/3idNkUC4/)
-*   [2024-12-18: Updated information on how to contact Coursera](https://www.diffchecker.com/l8Y2xk0w/)
-*   [2024-05-27: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/HqdSxYtK/)
-*   [2024-02-08: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/6CMgg3kF/)
-*   [2023-12-16: Updated terms specific to Modifying or Terminating our Services. Clarified and added terms specific to Export Controls. Updated terms specific to Governing Law and Venue. Clarified terms specific to Acceptable Use Policy. Updated terms specific to Payments and Refund Policy.](https://www.diffchecker.com/YmIR3V6I/)
-*   [2022-12-17: Updated general formatting of Terms of Use. Clarified and added terms specific to Using Coursera. Updated terms specific to Paid Services from Coursera. Clarified and added terms specific to Payments and Refund Policy.](https://www.diffchecker.com/XiPrZFzX)
-*   [2021-12-17: Updated terms specific to users based in certain jurisdictions. Updated terms specific to Degree, MasterTrack, and University Certificate programs. Added terms addressing export laws.](https://www.diffchecker.com/cRdj5n0M)
-*   [2020-12-18: Updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2JTCTEUY)
-*   [2019-12-20: Updated to reflect new product offerings including degrees, MasterTrack, and Coursera Plus](https://www.diffchecker.com/SVNlk3dr)
-*   [2018-07-11: Updated Introduction and Reference Policies for clarification purposes.](https://www.diffchecker.com/HnhrMdiT)
-*   [2018-03-26: Updated refund policy to clarify course and specialization purchases. Added links to Cookies Policy](https://www.diffchecker.com/wyB7EQ02)
-*   [2017-08-22: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/b9xCv6S6)
-*   [2017-08-08: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/67u8psoJ)
-*   [2017-06-28: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/V9V2O3xN)
-*   [2017-04-11: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/np2lUM3L)
-*   [2017-03-13: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/sUlMRWBH)
-*   [2017-01-19: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/Dbf5AYgE)
-*   [2016-11-01: Updated refund policy to reflect new products, and remove references to old platform courses](https://www.diffchecker.com/9dgDRnHv)
-*   [2015-03-24: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/ghik9hpr)
-*   [2015-08-24: Updated refund policy and changed Verified certificate to Course certificate](https://www.diffchecker.com/vt1zwrhg)
-*   [2015-04-03: Updated Terms of Use for Specializations-on-demand, clarification and simplification](https://www.diffchecker.com/jc9vwihk)
-*   [2014-09-12: Changed 'Terms of Service' to 'Terms of Use'](https://www.diffchecker.com/o1pm3cze)
-*   [2014-01-02: Updated and moved privacy policy to a new page](https://www.coursera.org/about/privacy)
-*   [2013-08-17: Added to rules of conduct and permission to use materials](https://www.diffchecker.com/ifvt4b79)
-*   [2013-06-13: Added section on e-Readers](https://www.diffchecker.com/wx9y570z)
-*   [2013-06-05: Added section on Partner sites](https://www.diffchecker.com/8t76slmm)
-*   [2013-05-22: Revised Online Certifications section](https://www.diffchecker.com/grd3yv4r)
-*   [2013-04-30: Reworded "universities" to "institutions"](https://www.diffchecker.com/x7s71waw)
-*   [2013-02-28: Changed effective dates](https://www.diffchecker.com/himokno0)
-*   [2013-01-14: Added sections on Fees/Taxes, Refund Policy, Identity Verification](https://www.diffchecker.com/gphp7zb0)
-*   [2012-12-22: Removed section on Minnesota students](https://www.diffchecker.com/xszjm56q)
-*   [2012-09-20: Added to Online Certifications section](https://www.diffchecker.com/aqigp1md)
-*   [2012-09-10: Revision to User Materials Submission section](https://www.diffchecker.com/bvdii4e4)
-*   [2012-08-30: Added section on Online Education Research](https://www.diffchecker.com/ewodcetj)
-*   [2012-08-28: Minor fixes and typos](https://www.diffchecker.com/qxrjy8a4)
-*   [2012-08-20: Added section on Minnesota students](https://www.diffchecker.com/ogb9znep)
-*   [2012-08-02: Added link to InCommons agreement](https://www.diffchecker.com/rqmnhuq3)
