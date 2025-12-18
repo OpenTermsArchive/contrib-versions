@@ -45,6 +45,8 @@ The technology that customizes the websites according to choices you have made f
 
 When you visit Kivra's websites, Kivra also collects certain data via your web browser to: Display the websites. Detect and investigate errors and crashes on the websites. Kivra stores this data for up to 45 days to detect and investigate errors and security threats against the websites.
 
+Analysis When you log in to Kivra's web service, you will be asked if you want to consent to Kivra collecting information about how you use the service for analysis. If you choose to provide such consent, we use the following tracking technology: - [Amplitude](https://amplitude.com/) This tracking technology is used to analyze how Kivra's users interact with Kivra's web service. The analysis consists partly of understanding at a high level who our users are, for example, which device models and operating systems most users have and in which countries most users are located. It also consists of examining how users generally interact with different features in Kivra's web service, for example whether/how users press a certain button or whether/how users read a certain notification. The analyses are used by Kivra's product development team to understand which features need to be developed and improved, and thus to improve the user experience in our web service. Kivra saves this data for up to 13 months.
+
 Personalization
 
 When you visit Kivra's websites in logged-in mode, you will be asked if you consent to Kivra collecting information about how you use the service for personalization. If you give such consent, we use the following tracking technology:
