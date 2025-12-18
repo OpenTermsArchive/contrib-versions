@@ -15,13 +15,13 @@ In case you provide us with the personal data of third persons (such as family m
 
 **2\. Responsible Person**
 
-For any matters, relating to data protection you may contact [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection) in writing by e-mail or letter to the following address:
+For any matters, relating to data protection you may contact [notices@ethereum.orgopens email client](mailto:notices@ethereum.org) in writing by e-mail or letter to the following address:
 
-Ethereum Foundation Zeughausgasse 7A, 6302 Zug, Switzerland Email: [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection)
+Ethereum Foundation Zeughausgasse 7A, 6302 Zug, Switzerland Email: [notices@ethereum.orgopens email client](mailto:notices@ethereum.org)
 
 Our representative in the EU according to article 27 GDPR is:
 
-Ethereum Dev GmbH Oranienstrasse 6, 10997 Berlin Email: [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection)
+Ethereum Dev GmbH Oranienstrasse 6, 10997 Berlin Email: [notices@ethereum.orgopens email client](mailto:notices@ethereum.org)
 
 **3\. Data processing in connection with the Websites**
 
@@ -81,7 +81,7 @@ The collected data, which you have voluntarily provided, is used for the purpose
 
 **3.5 Contact possibility via the Websites**
 
-You may contact us via our Websites’ contact page or by e-mail to the following e-mail address: [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection). For this, we require the following information: Name, Subject, E-Mail address, message.
+You may contact us via our Websites’ contact page or by e-mail to the following e-mail address: [support@ethereum.orgopens email client](mailto:support@ethereum.org). For this, we require the following information: Name, Subject, E-Mail address, message.
 
 We use this data, which you may give voluntarily, only in order to answer your contact question or to reply to your e-mail in the best possible manner. Therefore, the processing of this data is in our legitimate interest in accordance with Art. 6 Par. 1 lit. f GDPR and you have provided consent in accordance with Art. 6 Par. 1 lit. a GDPR.
 
@@ -217,7 +217,7 @@ For more information on applicable privacy regulations, you may refer to:
 *   Swiss Federal Act on Data Protection: [https://www.fedlex.admin.ch/eli/cc/2022/491/enopens in a new tab](https://www.fedlex.admin.ch/eli/cc/2022/491/en)
 *   Swiss Ordinance to the Federal Act on Data Protection: [https://www.fedlex.admin.ch/eli/cc/2022/568/enopens in a new tab](https://www.fedlex.admin.ch/eli/cc/2022/568/en)
 
-Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [\[email protected\]](https://ethereum.org/cdn-cgi/l/email-protection).
+Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.orgopens email client](mailto:support@ethereum.org).
 
 Page last update: November 14, 2025
 
