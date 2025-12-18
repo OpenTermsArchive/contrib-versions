@@ -258,6 +258,10 @@ Otherwise, the dispute shall be settled by a general court.
 Older versions
 --------------
 
+*   [Allmänna villkor för tjänsten.](https://images.ctfassets.net/7jy2i7elrvww/z8CtSUKL7hyjW6ko7FciM/b545e67106181be6d557b7325e8b3fe9/2025-08-14_-_2025-12-15__1_.pdf)
+
+Gällde fr.o.m 2025-08-14 t.om. 2025-12-15
+
 *   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6bOCYbPvW8cJQe7FWglMlV/c7da5e84b4a06caa124082320bf159cb/2025-06-28_-_2025-08-13.pdf)
 
 Gällde fr.o.m 2025-06-28 t.om. 2025-08-13
