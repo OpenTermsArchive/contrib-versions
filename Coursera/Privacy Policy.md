@@ -80,7 +80,7 @@ We may obtain your Personal Data from third parties, including the following:
     
 *   **Data relating to your use of partner sites**: This may include information such as the **amount of time spent on the partner site and pages viewed**. Partner sites providing Content Offering-related tools and services to Coursera users may collect non-financial individual-level user data regarding the individual’s use of that partner site while the partner sites provide those services to Coursera. The partner sites may share that data with Coursera for the purpose of improving our Services, the partner site’s services, and the individual’s education experience.
     
-*   **Account registration / invitation data**. When an organization invites you to join the Coursera platform through its Enterprise program, Coursera may receive Personal Data about you that the organization provides as part of the invitation / sign-up process.
+*   **Account registration / invitation data**: When an organization invites you to join the Coursera platform through its Enterprise program, Coursera may receive Personal Data about you that the organization provides as part of the invitation / sign-up process.
 
 **Personal Data third parties collect directly from you**
 
