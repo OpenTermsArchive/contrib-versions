@@ -226,6 +226,16 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 11.2.4.  Certified out-of-court dispute settlement. Where you have submitted a notice or lodged a complaint, you may select any certified out-of-court dispute settlement body in order to resolve dispute relating to Alibaba.com decisions following a notice or a complaint. In such case, you and Alibaba.com will engage, in good faith, with the selected certified out-of-court dispute settlement body with a view to resolving the dispute.
 
+11.2.5 Measures and Protections Against Misuse Alibaba.com maintains policies and procedures to prevent and respond to the misuse of its services. Misuse of our services includes, but is not limited to: (a) the repeated posting, uploading or sharing of illegal content, as defined under applicable EU or national laws; (b) the repeated submission of manifestly unfounded notices under Article 16 EU Regulation (2022/2065)(Digital Service Act, hereinafter referred to as ‘DSA’); (c) the repeated submission of manifestly unfounded complaints under Article 20 DSA; or (d) any other repeated activity that significantly disrupts or undermines the integrity, security or trust of the Platform or its users.
+
+Where a user is found to have repeatedly misused the Platform’s services, the Platform may take proportionate and effective measures, which may include: (a) issuing a formal warning to the user, explaining the nature of the misuse and the applicable legal and policy provisions; (b) temporarily suspending the user’s ability to post, list, or otherwise make content available on Alibaba.com; (c) temporarily suspending the processing of notices or complaints submitted by that user; or (d) in serious or repeated cases, permanently terminating the user’s account or access to the Platform’s services.
+
+Before imposing any suspension or termination, we will issue a prior warning, giving the user a reasonable opportunity to cease the misuse. The decision to suspend or terminate services will be proportionate, based on objective criteria, and applied within a reasonable timeframe following the warning.
+
+We keep internal records of actions taken under this clause and will include aggregated information on such actions in its transparency report pursuant to Article 15 DSA.
+
+Users who have been subject to a restriction under this clause may contest our decision through the internal complaint-handling system provided under Article 11.2.3 of this Terms of Use.
+
 12\. General Provisions
 =======================
 
