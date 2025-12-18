@@ -3,13 +3,13 @@ App Review Guidelines
 
 Apps are changing the world, enriching people’s lives, and enabling developers like you to innovate like never before. As a result, the App Store has grown into an exciting and vibrant ecosystem for millions of developers and more than a billion users. Whether you are a first-time developer or a large team of experienced programmers, we are excited that you are creating apps for our platforms, and want to help you understand our guidelines so you can be confident your app will get through the review process quickly.
 
- ![ASR & NR](/app-store/review/images/key-icon.svg)Show Notarization Review Guidelines Only
+ ![ASR & NR](/app-store/review/images/key-icon.svg)Highlight Notarization Review Guidelines Only
 
 ### Introduction
 
 The guiding principle of the App Store is simple—we want to provide a safe experience for users to get apps and a great opportunity for all developers to be successful. We do this by offering a highly curated App Store where every app is reviewed by experts and an editorial team helps users discover new apps every day. We also scan each app for malware and other software that may impact user safety, security, and privacy. These efforts have made Apple’s platforms the safest for consumers around the world.
 
-In the European Union, developers can also distribute notarized iOS and iPadOS apps from alternative app marketplaces and directly from their website. Learn more about [alternative app marketplaces](https://developer.apple.com/help/app-store-connect/distributing-apps-in-the-european-union/manage-distribution-on-an-alternative-app-marketplace), [Web Distribution](https://developer.apple.com/support/web-distribution-eu/), and [Notarization for iOS and iPadOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps). You can see which guidelines apply to Notarization for iOS and iPadOS apps by clicking on “Show Notarization Review Guidelines Only” in the menu to the left.
+In the European Union, developers can also distribute notarized iOS and iPadOS apps from alternative app marketplaces and directly from their website; in Japan, developers can also distribute iOS apps from alternative app marketplaces. Learn more about [alternative app marketplaces](https://developer.apple.com/help/app-store-connect/distributing-apps-in-the-european-union/manage-distribution-on-an-alternative-app-marketplace), [Web Distribution](https://developer.apple.com/support/web-distribution-eu/), and [Notarization for iOS and iPadOS apps](https://developer.apple.com/help/app-store-connect/managing-alternative-distribution/submit-for-notarization). You can see which guidelines apply to Notarization for iOS and iPadOS apps by clicking on “Highlight Notarization Review Guidelines Only” in the menu to the left.
 
 For everything else there is always the open Internet. If the App Store model and guidelines or alternative distribution and Notarization for iOS and iPadOS apps are not best for your app or business idea that’s okay, we provide Safari for a great web experience too.
 
@@ -62,7 +62,7 @@ Make sure you:
 *   [Add to Apple Wallet Guidelines](https://developer.apple.com/wallet/add-to-apple-wallet-guidelines/)
 *   [Guidelines for Using Apple Trademarks and Copyrights](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)
 
-Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS and iPadOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps) in the EU.
+Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS and iPadOS apps in the EU](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps) and [Notarization for iOS apps in Japan](https://developer.apple.com/support/app-distribution-in-japan/#notarization-for-ios-apps).
 
 ### 1\. Safety
 
