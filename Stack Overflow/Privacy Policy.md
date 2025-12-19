@@ -1,7 +1,7 @@
 Stack Exchange, Inc. Privacy Policy
 -----------------------------------
 
-Last updated: June 18, 2025
+Last updated: December 10, 2025
 
 ABOUT STACK OVERFLOW
 
@@ -36,13 +36,13 @@ We have set out below an overview of how our privacy notices work. Depending on 
 
 *   This Privacy Policy applies where you interact with us through the Network, or use any of our products and services.
 *   If you interact with us through our Collectives on Stack Overflow, please read the [Privacy Notice for Collectives](https://stackoverflow.com/legal/privacy-policy/collectives).
-*   If you interact with us through your organization’s Private Network on Stack Overflow for Teams and/or through one of our Stack Overflow for Teams Integrations, we will only process certain information as described in our [Stack Overflow for Teams Privacy Notice](https://policies.stackoverflow.co/teams/privacy-notice) and our [Stack Overflow for Teams Integrations Privacy Notice](https://policies.stackoverflow.co/teams/integrations-privacy-notice), respectively.
+*   If you interact with us through your organization’s Private Network on Stack Overflow Internal and/or through one of our Stack Overflow Internal Integrations, we will only process certain information as described in our [Stack Overflow Internal Privacy Notice](https://policies.stackoverflow.co/internal/privacy-notice) and our [Stack Overflow Internal Integrations Privacy Notice](https://policies.stackoverflow.co/internal/integrations-privacy-notice), respectively.
 *   If you’re a job applicant for a position at Stack, our [Applicant and Candidate Privacy Notice](https://policies.stackoverflow.co/company/candidate-privacy-policy) will be applicable.
 *   If you’re an employee, our Employee Privacy Notice will be applicable.
 
 GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.
 
-This Privacy Notice is applicable to you, including when you participate in our Public Community Platform for Questions and Answers by interacting with us through Stack Overflow’s Public Network (“Public Network”), or when you otherwise interact with us, e.g., when you purchase or use our Advertising or Teams or Collectives or other products (“Products”) or when you contact our Customer Service, Sales or other teams for assistance or inquiries (“Services”).
+This Privacy Notice is applicable to you, including when you participate in our Public Community Platform for Questions and Answers by interacting with us through Stack Overflow’s Public Network (“Public Network”), or when you otherwise interact with us, e.g., when you purchase or use Stack Overflow Business or other products (“Products”) or when you contact our Customer Service, Sales or other teams for assistance or inquiries (“Services”).
 
 The Public Network allows individual users to engage in a community to share their knowledge and expertise, and to acquire knowledge and expertise. It is community-moderated, and the content in the Public Network is public and therefore visible for anyone to see and is subject to our Public Network Terms of Use.
 
@@ -84,13 +84,13 @@ For Products and Services requiring payment, we collect a billing name, phone nu
 
 **Profile information**
 
-When completing a public “profile”, whether it is for use with the Network or our Products and Services, we may require you to share certain personally identifying information in required and optional profile fields. The name associated with your account, which you may review and change in your account settings, as well as reputation points are publicly displayed and connected to your activity on the Stack Overflow Network and via certain Products and Services, such as our Talent and Teams platforms. Moderators, who have elevated access privileges, may access non-public user profile data, as well as content in posts and other public data. For more information about moderators and their role in the Stack Exchange Network, please visit [our help center](https://stackoverflow.com/help/site-moderators).
+When completing a public “profile”, whether it is for use with the Network or our Products and Services, we may require you to share certain personally identifying information in required and optional profile fields. The name associated with your account, which you may review and change in your account settings, as well as reputation points are publicly displayed and connected to your activity on the Stack Overflow Network and via certain Products and Services, such as our Stack Ads and Stack Internal platforms. Moderators, who have elevated access privileges, may access non-public user profile data, as well as content in posts and other public data. For more information about moderators and their role in the Stack Exchange Network, please visit [our help center](https://stackoverflow.com/help/site-moderators).
 
 Other profile information may also be publicly displayed if you choose to complete certain elective components of the Account Registration options, including e.g., your Developer Story, display picture, affiliated role and company, your location, and your preferred technologies (javascript, swift, sql-server, etc.), and some information is publicly displayed and required, such as how long you have been a member.
 
 Similarly, you may elect to share additional information that is not required, but this will be displayed publicly if you so choose to share it.
 
-If you are using the private Network (e.g., Stack Overflow for Teams), your account settings, including name, affiliated role and company, and other information may be shared with your private Network Team members designated as authorized users of your private Network account. While some of the public and private Network profile information is required, much of it is within your control as we describe herein and can be modified, updated, and restricted by you in your settings.
+If you are using the private Network (e.g., Stack Overflow Internal), your account settings, including name, affiliated role and company, and other information may be shared with your private Network team members designated as authorized users of your private Network account. While some of the public and private Network profile information is required, much of it is within your control as we describe herein and can be modified, updated, and restricted by you in your settings.
 
 **Information we use to identify and authenticate you**
 
@@ -278,7 +278,7 @@ We use Microsoft services (e.g., Bing) for personalized advertising purposes, in
 
 You can also control the use of your data for interest-based advertising from Microsoft by visiting their [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
 
-**Employer Branding**
+**Stack Ads**
 
 Stack Overflow provides services that enable organizations to provide branded content on our website. We maintain a dedicated page on the public Stack Overflow page that enables our customers to set up a page and create branded content.
 
@@ -299,7 +299,7 @@ We share personal data with:
 *   Third parties we use to help deliver our products and services to you, e.g., payment service providers, payment processors, warehouses and delivery companies; cloud service providers, e.g., Microsoft Azure, service providers that help us carry out certain tasks, including order fulfilment, customer service providers, maintaining technology and related infrastructure, serving and targeting ads, measuring performance, managing and analysing research, email distribution, managing marketing e.g., Marketo and promotions and surveys.
 *   Additionally, to improve user experience, we offer single sign-on solutions for account login and these third parties (including Facebook and Google) may receive information from these services when you elect to use them.
 *   When Stack Overflow shares your personal information and other collected information with third party service providers, we require that they use your information only for the purpose of providing services to us and consistent with this privacy policy.
-*   Third parties that we partner with to deliver products and services, including certain marketing and features to you, such as [Employer Branding](#employer-branding); and Collectives on Stack Overflow (please read the [Collectives Privacy Notice](https://stackoverflow.com/legal/privacy-policy/collectives)).
+*   Third parties that we partner with to deliver products and services, including certain marketing and features to you, such as [Stack Ads](#stack-ads); and Collectives on Stack Overflow (please read the [Collectives Privacy Notice](https://stackoverflow.com/legal/privacy-policy/collectives)).
 *   Advertising partners – When you visit or interact with our websites, e.g., when you use the Public Network, we and authorized third parties will, with your permission, place certain cookies on your device and your account activity as described in more detail within our [cookie policy](https://policies.stackoverflow.co/stack-overflow/cookie-policy). We use this information to serve you certain advertising content. We also partner with other third parties, such as Google Ads and Microsoft Bing, to serve advertising content and manage advertising campaigns. When we use Google Ads or Microsoft Bing Customer Match for advertising campaigns, your personal data will be protected using hashed codes.  
     Google users can control the ads that they see on Google services, including Customer Match ads, in their Google Ads Settings.  
     More information on how to control your account settings or to opt out of direct marketing campaigns can be found under [Your Choices](#your-choices) section. You can also opt out in your [Profile Settings](https://stackoverflow.com/users/email/settings/current).
