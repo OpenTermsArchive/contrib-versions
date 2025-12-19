@@ -171,6 +171,8 @@ We may require users to verify their identity in order to register an Account, o
 
 We may also suspend or close your Account where you have multiple Accounts.
 
+Bumble may have to contact user Mobile Network Operator in order to validate telephone numbers, verify identity and carry out checks for the prevention and detection of crime including fraud and/or money laundering.
+
 When a member may be suspended or blocked
 -----------------------------------------
 
@@ -492,4 +494,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 3rd June, 2025.
+The Terms were last updated on: December 18th, 2025.
