@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: December 16, 2025  
+UPDATED AS OF: December 19, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. (collectively, "Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on December 16, 2025.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. (collectively, "Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on December 19, 2025.
 
 **Information Collected**
 
@@ -66,7 +66,7 @@ To read our full Privacy Notice [click here](#privacy).
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: December 16, 2025  
+UPDATED AS OF: December 19, 2025  
 
 Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
@@ -181,13 +181,11 @@ Except as described here, we will not provide any of your Personal Information t
 
 **5\. CHOICES FOR COMMERCIAL COMMUNICATIONS FROM TOYOTA.**
 
-We provide you with choices with respect to your Personal Information. If you choose to receive e-mails from us about products and other information, we strive to keep your Personal Information updated and accurate and provide you choices regarding the e-mail communications you receive from us.
+We provide you with choices with respect to your Personal Information. This section addresses your choices with respect to the e-mail communications you may receive from Toyota, and if you have a user profile with Toyota, how you may update that profile. These rights are in addition to those you may have under U.S. privacy laws. You can learn more about the rights available to consumers under U.S. privacy laws in the [**Your Privacy Rights**](#_prvri) section below.
 
-If you provided Toyota with Personal Information through the Owners section of toyota.com, you may review and update that information by clicking on the Owners link on the homepage of toyota.com, registering or logging in and then clicking on "Update Profile." If you have signed up for the Toyota marketing e-mail list, you can access the Preferences page and change your user profile or unsubscribe from the Toyota e-mail list [here](https://www.toyota.com/preferences?source=TOYOTA-COM&brand=Toyota) or by clicking the “unsubscribe” link on any Toyota Motor Sales, U.S.A., email you have received.
+You may opt-out from receiving e-mail communications from Toyota in a number of ways. You may visit [**this page**](https://www.toyota.com/preferences/personal-info) and choose to unsubscribe from the applicable communications from Toyota. You may also call the Toyota Brand Engagement Center at [800-331-4331](tel:800-331-4331) to opt out from receiving e-mail communications from Toyota. Finally, if you receive an e-mail from Toyota, you may also opt out at any time by following the opt out instructions provided in the e-mail you receive. Your opt out request will be processed within 10 days of the date on which we receive it.
 
-For users who are not currently registered on our owner site, you may opt-out from receiving e-mail communications from Toyota in a number of ways. You may visit this page and choose to unsubscribe from the applicable communications from Toyota. You may also call the Toyota Brand Engagement Center at [800-331-4331](tel:800-331-4331) to opt out from receiving e-mail communications from Toyota. Finally, if you receive an e-mail from Toyota, you may also opt out at any time by following the opt out instructions provided in the e-mail you receive. Your opt out request will be processed within 10 days of the date on which we receive it.
-
-We also strive to keep your Personal Information updated and accurate. If you provided Toyota with Personal Information through the Owners section of Toyota.com, you may review and update that information by clicking on the Owners link on the homepage of Toyota.com, registering or logging in and then clicking on "Update Profile." If you are participating in a Program, you may be able to access and update the information you provided as part of your participation in the Program. Please see the section of the Platforms concerning the specific Program to determine if you are able to access your information and how to do so. Finally, you may also correct your Personal Information by exercising your rights as described in the Your Privacy Rights section below.
+We also strive to keep your Personal Information updated and accurate. If you provided Toyota with Personal Information through the Owners section of Toyota.com, you may review and update that information by clicking on the Owners link on the homepage of Toyota.com, registering or logging in and then clicking on "Update Profile." If you are participating in a Program, you may be able to access and update the information you provided as part of your participation in the Program. Please see the section of the Platforms concerning the specific Program to determine if you are able to access your information and how to do so. Finally, you may also correct your Personal Information by exercising your rights as described in the Your Privacy Rights section below.
 
 **6\. RETENTION OF PERSONAL INFORMATION.**
 
