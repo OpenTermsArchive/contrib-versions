@@ -440,6 +440,9 @@ Outbrain Direct Response is a subsidiary of the new Teads. Visit [Teads website]
 
 *   [](https://www.linkedin.com/showcase/outbrain-direct-response "Linkedin")
 *   [](https://www.facebook.com/OutbrainDirectResponse "Facebook")
+*   [](https://www.youtube.com/playlist?list=PLeEpXoN2sZ42FQSvjld_2h3G8m61LbHud "Facebook")
+*   [](https://t.me/outbrain_direct_response "Facebook")
+*   [](https://open.spotify.com/show/6yNojFJc4foczvf1wYa5Kj?si=909819fa03a74b20 "Facebook")
 
 Advertisers
 -----------
