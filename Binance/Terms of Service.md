@@ -567,3 +567,339 @@ ii. the operation of the protocols underlying any Digital Asset, their functiona
 iii. whether Backed Digital Assets hold their value as against any asset, or if the issuer of the Backed Digital Asset holds sufficient reserves in relation to any Backed Digital Asset;
 
 iv. any action or inaction in accordance with these Terms;
+
+v. any inaccuracy, defect or omission of Digital Assets price data, any error or delay in the transmission of such data, and interruption in any such data;
+
+vi. regular or unscheduled maintenance we carry out including any service interruption and change resulting from such maintenance; 
+
+vii. the theft of a device enabled to access and use Binance Services;
+
+viii. other users’ actions, omissions or breaches of these Terms, and any damage caused by actions of any other third parties;
+
+ix. (1) for any damage or interruptions caused by any computer viruses, spyware, or other malware that may affect your computer or other equipment, or any phishing, spoofing, or other attack; (2) in the event that your hardware fails, is damaged or destroyed or any records or data stored on your hardware are corrupted or lost for any reason; or (3) for your use of the internet to connect to the Binance Services or any technical problems, system failures, malfunctions, communication line failures, high internet traffic or demand, related issues, security breaches or any similar technical problems or defects experienced;
+
+x. our decision to reject your application to open a Binance Account(s);
+
+xi. any termination, suspension, hold or restriction of access to any Binance Account or Binance Services, including your inability to withdraw Digital Assets, issue Instructions or enter into Transactions during the period of any suspension, hold or restriction, in accordance with these Terms or any Product Terms;
+
+xii. any Transaction limits applied to your Binance Account;
+
+xiii. any election by us to support or not support Digital Assets;
+
+xiv. us being unable to contact you using the contact information you provided;
+
+xv. us closing a dormant account;
+
+xvi. the failure of a Transaction or the length of time needed to complete any Transaction;
+
+xvii. our refusal or delay in acting upon any Instruction;
+
+xviii. any breach of security of your Email Account or a Security Breach; 
+
+xix. losses suffered by you as a result of third party action, including third party fraud or scams that involve Binance only as the recipient of your Fiat Currency or Digital Assets, and/or the conversion of Fiat Currency to Digital Assets;
+
+xx. losses suffered by you as a result of the transfer of Digital Assets away from our platform at your request;
+
+xxi. any losses arising or in connection with new offerings of Digital Assets, initial coin offerings (ICOs), or the decision to list or not list Digital Assets on the Platform;
+
+xxii. a Network Event, a Fork or an Airdrop; 
+
+xxiii. the correctness, quality, accuracy, security, completeness, reliability, performance, timeliness, pricing or continued availability of the Binance Services or for delays or omissions of the Binance Services, or for the failure of any connection or communication service to provide or maintain your access to the Binance Services, or for any interruption in or disruption of your access or any erroneous communications between us, regardless of cause; and 
+
+xxiv. any Transactions, Instructions, or operations effected by you or purported to be effected by you through your Email Account or Binance Account;
+
+b. any loss of business, profits, anticipated savings or opportunities, or any special, punitive, aggravated, incidental, indirect or consequential losses or damages, whether arising out of or in connection with our Sites, the Platform, your Binance Account, the Binance Services, these Terms, the Product Terms, the [Privacy Notice](https://www.binance.com/en/privacy) and/or any agreement entered into pursuant to, or in connection with, these Terms or otherwise; 
+
+c. any losses or damages you may incur due to Manifest Error and/or in the event of extreme market volatility and/or as a result of any cancellation/amendment of any Transactions, howsoever arising, whether direct or indirect, special or consequential, including, but not limited to, loss of profit and loss of opportunity even if Binance was aware of the possibility of such loss or damage arising or if such loss or damage was reasonably foreseeable; and/or
+
+d. any losses forming part of a Claim that has not been commenced by way of formal legal action WITHIN ONE CALENDAR YEAR of the commencement of matters giving rise to the Claim. YOU AGREE AND ACKNOWLEDGE THAT THIS CLAUSE VARIES ANY LIMITATION PERIOD OTHERWISE APPLICABLE BY LAW, AND THAT IF APPLICABLE LAW PROHIBITS THIS, THIS CLAUSE WILL BE READ AS A LIMITATION PERIOD OF THE MINIMUM ENFORCEABLE LENGTH. WITHOUT PREJUDICE TO THE GENERALITY OF THE FOREGOING, YOUR ATTENTION IS ALSO DRAWN TO CLAUSE 32 AGREEING THAT CLAIMS SHALL BE RESOLVED EXCLUSIVELY BY WAY OF BINDING ARBITRATION.
+
+**30.3 Damage or interruption**. We are not liable for any damage or interruptions caused by any computer viruses, spyware, scareware, Trojan horses, worms, or other malware that may affect your computer or other equipment, or any phishing, spoofing, or other attack. We advise the regular use of a reputable and readily available virus screening and prevention software. You should also be aware that SMS and email services are vulnerable to spoofing and phishing attacks and should use care in reviewing messages purporting to originate from us. You and, where relevant, your Permitted Users are responsible for all login credentials, including usernames and passwords and must keep security details safe at all times.
+
+**30.4 Fiat Currency.** For the avoidance of doubt, any balance on your Binance Account displayed and denominated in a Fiat Currency shall not be taken to mean that Binance directly holds Fiat Currency, nor does it mean that Binance receives, holds, or releases any Fiat Currency or engages in deposit taking, remittance or similar activity in respect of Fiat Currency.
+
+**RESOLVING DISPUTES: FORUM, ARBITRATION, CLASS ACTION WAIVER**
+
+**For the avoidance of doubt, nothing in this section will deprive you of any mandatory legal right from which you benefit under Applicable Law.**
+
+**31.Notice of Claim and Dispute Resolution Period**
+
+31.1 Please contact Binance first if you have any concerns with the Services. Binance wants to address your concerns without resorting to formal legal proceedings, if possible. A ticket number will be assigned to you if your concerns cannot be addressed to your satisfaction at first instance. The issuance of the ticket number commences the internal dispute resolution procedure. Binance will attempt to resolve the dispute internally as soon as possible. The parties agree to negotiate in good faith to resolve the dispute (which discussions shall remain confidential and be subject to applicable rules protecting settlement discussions from use as evidence in any legal proceeding).
+
+31.2. In the event the dispute cannot be resolved satisfactorily, and you wish to assert a Claim against Binance, then you agree to set forth the basis of such Claim in writing in a “Notice of Claim,” as a form of prior notice to Binance. The Notice of Claim must (1) describe the nature and basis of the claim or dispute, (2) set forth the specific relief sought, (3) provide the original ticket number, and (4) include your custody account email. The Notice of Claim should be submitted to the following web address: [https://www.binance.com/en/chat](https://www.binance.com/en/chat). After you have provided the Notice of Claim to Binance, the dispute referenced in the Notice of Claim may be submitted by either Binance or you to arbitration in accordance with the below clause (Agreement to Arbitrate). 
+
+31.3. For the avoidance of doubt, the submission of a dispute to Binance for resolution internally and the delivery of a Notice of Claim to Binance are prerequisites to commencement of an arbitration proceeding (or any other legal proceeding).
+
+31.4. During the arbitration, the amount of any settlement offer made by you or Binance shall not be disclosed to the arbitrator.
+
+**32\. Agreement to Arbitrate**
+
+32.1. Aside from where Applicable Law requires or provides you with a choice otherwise, you and Binance agree that, subject to the immediately preceding clause above (Notice of Claim and Dispute Resolution Period), any Claim shall be determined by mandatory final and binding individual (not class) arbitration administered by the Hong Kong International Arbitration Centre (“**HKIAC**”) in accordance with the HKIAC Rules for the time being in force, which rules are deemed incorporated by reference in this clause.
+
+32.2. The seat of arbitration shall be Hong Kong. 
+
+32.3. The Tribunal shall consist of one (1) arbitrator to be appointed in accordance with the HKIAC Rules for the time being in force. 
+
+32.4. The language of the arbitration shall be in English.
+
+32.5. You and Binance further agree that the arbitrator shall have the exclusive power to rule on his or her own jurisdiction, including without limitation any objections with respect to the existence, scope or validity of the Agreement to Arbitrate, or to the arbitrability of any Claim.
+
+32.6. The arbitration provisions set forth in this clause will survive termination of these Terms.
+
+32.7. Limitation period for filing: Any arbitration against Binance must be commenced by filing and serving a Notice of Arbitration in accordance with the HKIAC Rules within one (1) year after the date that the user asserting the Claim first found out or reasonably should have found out the alleged act, omission or default giving rise to the Claim (“**Limitation Period**”). For the avoidance of doubt, the Limitation Period shall include the Dispute Resolution Period set out at clause 31.1. There shall be no right to any remedy or relief for any Claim by the user if the Notice of Arbitration in respect of that Claim is not filed and served on Binance within that Limitation Period. If the Limitation Period is contrary to applicable law, the user shall be required to bring any Claim against Binance within the shortest time period permitted by the applicable law. A Notice of Arbitration may be served on Binance in accordance with the Applicable Laws and rules of service.
+
+32.8. Notice: if Binance commences arbitration against you, Binance will give you notice at the email address or mailing address you have provided. You agree that any notice sent to this email or mailing address shall be deemed effective for all purposes, including without limitation to determinations of the adequacy of service. It is your obligation to ensure that the email address and/or mailing address on file with Binance is up-to-date and accurate.
+
+**33\. Confidentiality**
+
+**33.1.** The parties agree that the arbitration shall be kept confidential. The existence of the arbitration, the existence or content of the Claim, all documents and information provided or exchanged in connection with the arbitration, and any submissions, orders or awards made in the arbitration shall be kept confidential and no party shall disclose any of the foregoing to any third party except the tribunal, the HKIAC, the parties, their counsels, experts, witnesses, accountants and auditors, insurers and reinsurers, and any other persons necessary to the conduct of the arbitration. Notwithstanding the foregoing, a party may disclose such confidential information:
+
+a. if the written consent of the other party is obtained;
+
+b. to the extent required by applicable law or by the regulations of any regulatory or supervisory authority of competent jurisdiction to which the party is or may become subject to or pursuant to any order of court or other competent authority or tribunal of competent jurisdiction;
+
+c. in connection with the commencement, pursuit or defence by a party of any bona fide legal proceedings to enforce or challenge any award rendered in the arbitration; and
+
+d. to the extent that the relevant confidential information is in the public domain otherwise than by breach of this agreement.
+
+This term of confidentiality in this clause shall survive termination of these Terms and conclusion or stay of any arbitration brought pursuant to these Terms.
+
+**34\. Governing law**
+
+Aside from where Applicable Law requires or provides you with a choice otherwise, these Terms (including this arbitration agreement) shall be governed by, and construed in accordance with laws of Hong Kong .
+
+**35\. Class action waiver**
+
+You and Binance agree that any Claims shall be brought against Binance in an arbitration on an individual basis only and not as a plaintiff or class member in a purported class or representative action. You further agree to waive any right for such Claims to be brought, heard, or arbitrated as a class, collective, representative, or private attorney general action, to the extent permissible by applicable law. Combining or consolidating individual arbitrations into a single arbitration is not permitted without the consent of Binance.
+
+**GENERAL** 
+
+**36\. General terms**
+
+36.1. **Applicable Law**. You and any Permitted User must comply with all Applicable Law, licensing requirements and third party rights (including data privacy laws and anti-money laundering and countering the financing of terrorism laws) in your use of the Binance Services, your Binance Account and the Platform.
+
+36.2. **Notices**. We may give notice by email to your Email Account. It is your responsibility to ensure that the Email Account is up to date and accurate. Notices may be given, and are deemed to be received, if sent to your Email Account, whether or not a notice of delivery failure is received.
+
+You may give us notices only as we direct, which may change from time to time. 
+
+Any notices, consent or other communication given under these Terms must be in writing, in English, and signed or otherwise authorised by the party giving it.
+
+36.3. **Announcements**. All official announcements, news, promotions, competitions and Airdrops will be listed on the Website. These announcements are important, and may relate to issues that may impact the value of your Digital Assets, or their security. You are responsible for monitoring the Website and reading and considering these announcements.
+
+36.4. **Entire agreement**. The Terms, together with any applicable Product Terms, constitute the whole agreement between you and us with respect to the Binance Services. Each party acknowledges that it has not relied on, and shall have no right or remedy in respect of, any statement, representation, assurance or warranty (whether made negligently or innocently) other than as expressly set out in the Terms or any Product Terms.
+
+36.5. **Assignment**. You may not assign or transfer any of your rights or obligations under the Terms without our prior written consent, which may, in some cases, require additional information to be provided or enhanced due diligence to be performed. However, we may assign or transfer any of our rights or obligations under the Terms at any time to anyone else, including, without limitation, in connection with any merger, acquisition, or other corporate reorganisation involving Binance. Binance may assign, transfer, or novate all or part of its rights or obligations under these Terms and any terms and conditions incorporated by reference (including any Product Terms) to any Binance Affiliate without restriction, provided that any such Binance Affiliate agrees to assume all rights and obligations to be transferred in full. You hereby irrevocably consent, in advance and without further action by you, to any such novation or to the addition of any Binance Affiliate as an additional contracting party with you in respect of any Binance Services. Any such novation shall be effected by an agreement between Binance and the relevant Binance Affiliate. From the effective date of such novation, the relevant Binance Affiliate will assume those rights and obligations, and Binance will be released from those rights and obligations so transferred. The fact of any assignment or novation will be published on our website and may also be notified to users separately by email, through the app or by such other means as Binance determines in its discretion. In the event of a novation, users will be informed of the new contracting entities and their roles as  data controllers, including an updated [Privacy Notice](https://www.binance.com/en/privacy), prior to the effective date. Any transfer of personal data will be carried out in accordance with Applicable Laws.
+
+36.6. **Invalidity**. If, at any time, any clause or sub-clause of the Terms is or becomes illegal, invalid, or unenforceable in any respect, neither the legality, validity or enforceability of the remaining clauses or sub-clauses will in any way be affected or impaired.
+
+36.7. **Records**. You agree that we may record any telephone, email and chat conversations with you, as well as any other forms of communications, including communication used to give Instructions or effect Transactions, between you and us, and that the recordings may be used as evidence in any proceedings relating to any agreement with you. These records will be our sole property.
+
+36.8. **Language**. These Terms may be translated into a language other than the English language. Any such translation is provided solely for your convenience. In the event of inconsistency or ambiguity, the English text will prevail.
+
+36.9. **Third party rights**. Other than in relation to Binance Affiliates, nothing expressed or referred to in these Terms will be construed to give any person other than the parties to these Terms any legal or equitable right, remedy, or claim under or with respect to these Terms or any clause or sub-clause of these Terms. The Terms and all of its clauses and sub-clauses are for the sole and exclusive benefit of the parties to these Terms and their successors and permitted assigns.
+
+36.10. **Survival**. All clauses and sub-clauses of these Terms, which by their nature extend beyond the expiration or termination of these Terms, will continue to be binding and operate after the termination or expiration of these Terms.
+
+36.11. **Relationship of the parties**. Binance is not an agent of you in the performance of these Terms. These Terms shall not be interpreted as facts or evidence of an association, joint venture, partnership, or franchise between the parties.
+
+36.12. **Digital Assets.** We record in your Binance Account the quantity and type of any Digital Assets that are held to your credit. Digital Assets held by Binance to your credit will not be segregated on-chain in different wallets from Digital Assets held to the credit of other users or Digital Assets maintained by Binance for operating and business purposes. Binance uses an internal ledger to record customer entitlements to the quantity and type of Digital Assets. Each user will have an account which is a ledger-based (off-chain) account (or sub-account) within the Binance system with a unique identifier (UID) and associated login credentials, against which the relevant user credit balances are recorded. Binance is not a trustee of, and does not owe any trustee duties in relation to, any Digital Assets held to your credit. When you Instruct Binance to transfer or otherwise deal with Digital Assets, Binance will not use any specifically identifiable Digital Assets to act on your Instructions. Subject to these Terms, Binance will use Digital Assets in the same quantity and of the same type as those credited to your Binance Account when acting on your Instructions. Similarly, you will not have the right to recover any specific Digital Assets, rather you will have the right to receive the same quantity and same type of Digital Assets as those credited to your Binance Account.
+
+36.13. **Force Majeure**. We will not be liable for any delay or failure to perform as required by these Terms to the extent the delay or failure is caused by a Force Majeure Event.
+
+36.14. **No waiver**. No delay or omission by us in exercising any right or remedy under the Terms will operate as a waiver of the future exercise of that right or remedy or of any other rights or remedies under the Terms. The rights and remedies provided in the Terms are cumulative and not exclusive of any rights or remedies provided by Applicable Law.
+
+36.15. **Set-off**. In addition to any legal or other remedy available under the Terms or by law, we may set-off any amounts you owe to us under the Terms or otherwise. You must pay all sums that you owe to us free and clear without any set-off, counterclaim, deduction or withholding of any kind, save as may be required by Applicable Law.
+
+36.16. **Privacy of others**. If you receive information about another user through the Platform or from utilising the Binance Services, you must keep the information confidential and only use it in connection with the Binance Services and always in accordance with Applicable Law. You must not disclose or distribute any user information to a third party or use the information in any manner except as reasonably necessary to effect a Transaction.
+
+36.17. **Publication of breaches.** Where you have breached these Terms, Binance may publish, or otherwise provide its users with details of the breach, including any information that you have provided Binance. Binance may only do so where it determines that doing so is necessary for the protection of other users, and consistent with Applicable Law.
+
+36.18. **Death of Binance Account holder**. In the event of your death or incapacity, the representative(s) or legal beneficiary/beneficiaries of your estate may give us written notice. If we have reason to believe you have died, we may suspend your Binance Account. Your Binance Account will be suspended until: 
+
+a. a representative of your estate or authorised beneficiary completes a successful inheritance application to receive the assets in your Binance Account in accordance with our requirements which may be amended from time to time without notice; ; or
+
+b. you provide satisfactory proof that you are not deceased. 
+
+Our ability to provide your representative(s) with the assets in your Binance Account is subject to the restrictions imposed by Applicable Law and these Terms. We do not commit to any particular timeline for the transfer of assets held to the credit of your Binance Account.
+
+36.19. **Tax**. It is your responsibility to determine what, if any, taxes apply to the payments you make or receive, and it is your responsibility to collect, report, and remit the correct tax to the appropriate tax authority. You agree that we are not responsible for determining whether any taxes apply to your use of the Binance Services, or for collecting, reporting or remitting any taxes arising from any Transaction or use of the Binance Services. 
+
+You acknowledge that we may make certain reports to tax authorities regarding Transactions made on the Platform, and that we may, in our sole discretion or as required by Applicable Law, provide you with additional documentation or records needed by you to calculate any tax obligations. We may also withhold and deduct at source any taxes due under Applicable Law in our sole discretion.
+
+**37\. Definitions and interpretation**
+
+In these Terms:
+
+a. clause headings and numbering are for convenience only and do not affect the meaning, priority or interpretation of any clause or sub-clause of these Terms;
+
+b. the words “include” or “including” shall mean including without limitation and include without limitation respectively;
+
+c. any undertaking to do or not do a thing shall be deemed to include an undertaking not to permit or suffer the doing of that act or thing;
+
+d. words importing the singular include the plural and vice versa and words importing a gender include any gender; 
+
+e. any reference to a document is to that document as amended, varied or novated from time to time otherwise than in breach of these Terms or that document; and
+
+f. in the event of inconsistency between these Terms (including any documents referred to in these Terms) the inconsistency shall be solved by giving such provisions and documents the following order of precedence:
+
+i. the Product Terms;
+
+ii. the [Privacy Notice](https://www.binance.com/en/privacy); and
+
+iii. these Terms.
+
+g. except where the context requires others, the following terms shall have the following meanings:
+
+_**"Access IDs"**_ means your Binance Account details, username, passwords, personal identification numbers, API keys, API secret keys, or any other codes or forms of authentication that you use to access your Binance Account or the Binance Services or to send Instructions.
+
+_**"Account History"**_ means the written record (including electronic records) of your Transactions and your Binance Account.
+
+**"**_**Airdrop**_**"** means the attempted distribution or distribution by a Digital Asset network or other parties of any Digital Asset to Digital Asset addresses of a supported network.
+
+**"**_**API**_" means application program interface.
+
+**"**_**Applicable Law**_**"** means all relevant or applicable statutes, laws (including rules of common law), principles of equity, rules, regulations, regulatory principles and requirements, notices, orders, writs, injunctions, judgements, bye-laws, rulings, directives, proclamations, circulars, mandatory codes of conduct, guidelines, practice notes and interpretations (whether of a governmental body, regulatory or other authority, or self-regulatory organisation of which Binance is a member), that are applicable to the provision, receipt or use of the Binance Services, or any other products or deliverables provided, used or received in connection with the Binance Services, these Terms, or any Product Terms.
+
+_**"Backed Digital Assets"**_ has the meaning given to it in clause ‎15.3.
+
+_**"Binance**__," "__**we"**__, "__**our"**_ or "_**us"**_ means Nest Services Limited (a company incorporated under the laws of the Republic of Seychelles with registration number 238045 and address at House of Francis, Room 303, Ile Du Port, Mahe, Seychelles).
+
+_**"Binance Account"**_ means any accounts (including Corporate Binance Accounts) or sub-accounts (including any Binance Sub-Account), which are opened by Binance for you to record your use of Binance Services. 
+
+_**"Binance Affiliates"**_ means with respect to Nest Services Limited: any other person which, directly or indirectly, Controls, is Controlled by, or is under common Control with, Nest Services Limited.
+
+_**"Binance API**_ "means an API made available by a Binance Affiliate to you as a service, or third-party applications relying on such an API.
+
+_**"Binance IP"**_ means the Created IP and all other Intellectual Property Rights owned by or licensed, on a sub-licenseable basis, to us as at the date of the Terms and any other Intellectual Property Rights owned or acquired by or licensed, on a sub-licenseable basis, to us after the date of these Terms, and which are provided by us to you in the course of providing you with the Binance Services.
+
+_**"Binance Services**_ "means the services offered by us to you through the Platform.
+
+_**"Binance Sub-Account"**_ means a sub-account that is set up under a primary Binance Account.
+
+_**"Chat Service"**_ has the meaning given to it in clause ‎5.
+
+_**"Claim**_ "means any dispute, claim, difference or controversy between you and Binance (and/or any Binance Affiliates) arising out of, in connection with, or relating in any way to: 
+
+(a) these Terms or any Product Terms, including their existence, validity, subject matter, interpretation, performance, breach, negotiation, termination, enforceability or the consequences of their nullity;
+
+(b) your relationship with Binance (and/or any Binance Affiliates) as a user (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of these Terms); or
+
+(c) any non-contractual obligations arising out of or relating to these Terms, or any Product Terms, or your relationship with Binance (and/or any Binance Affiliates).
+
+_**"Control"**_ means the power of a person to secure that the affairs of another are conducted in accordance with the wishes of the first person whether by means of:
+
+(a) in the case of a company, being the beneficial owner of more than fifty percent (50%) of the issued share capital of or of the voting rights in that company, or having the right to appoint and remove a majority of the directors or otherwise control the votes at board meetings of that company by virtue of any powers conferred by the organisational documents, shareholders’ agreement, a majority of the board of directors or any other document regulating the affairs of that company or by any other means; or
+
+(b) in the case of a partnership, being the beneficial owner of more than fifty percent (50%) of the capital of that partnership, or having the right to control the composition of or the votes to the majority of the management of that partnership by virtue of any powers conferred by the partnership agreement or any other document regulating the affairs of that partnership or by any other means.
+
+_**"Corporate Binance Account "**_ means a Binance Account maintained for a corporation, entity, or other organisation for the provision of Binance Services.
+
+_**"Created IP"**_ means any Intellectual Property Rights created by you pursuant to these Terms, including the User Materials, but excluding any other User IP.
+
+_**"Digital Assets**__"_ means a digital representation of value or rights which may be transferred and stored electronically, using distributed ledger technology or similar technology, including, but not limited to, cryptocurrencies, stablecoins, non-fungible tokens and tokenised derivatives of any other digital asset.
+
+_**"Dominant Digital Asset"**_ means a Forked Digital Asset that has dominance over one or more other versions of a Digital Asset that was subject to the relevant Fork, as determined by us in our sole discretion.
+
+_**"Email**_ _**Account**__"_ means the email account(s) associated with your Binance Account(s), as agreed with Binance from time to time, in accordance with any processes identified by Binance when using the Platform.
+
+_**"Fiat Currency"**_ means any government or central bank issued national, or supra-national, currency, or other monetary obligation denominated in such currency and which is not a Digital Asset.
+
+_**"Force Majeure Event**_**s"** means: 
+
+a. any fire, strike, riot, civil unrest, terrorist act, war or industrial action;
+
+b. any natural disaster such as floods, tornadoes, earthquakes and hurricanes;
+
+c. any epidemic, pandemic or public health emergency of national or international concern;
+
+d. any act or regulation made by a government, supra national body or authority that we believe stops us from providing Binance Services on the Platform;
+
+e. the suspension or closure of any Binance Affiliate;
+
+f. the nationalisation of any Binance Affiliate;
+
+g. the imposition of limits or unusual terms by a government on any Digital Assets traded on our Platform;
+
+h. technical failures in transmission, communication or computer facilities including power failures and electronic or equipment failures;
+
+i. the failure of any supplier, intermediate broker, agent, principal custodian, sub-custodian, dealer, exchange, staking platform, liquidity pool, bridge provider, issuer of a Backed Digital Asset, market maker, clearing house or regulatory organisation to perform its obligations to us; 
+
+j. any labour or trade disputes, strikes, industrial actions or lockouts (other than in each case by Binance or the Binance Affiliates); and/or
+
+k. an event which significantly disrupts the market for Digital Assets, which could include excessive movements in the price, supply or demand of a Digital Asset, whether regulated or unregulated.
+
+_**"Fork"**_ means any planned, unplanned, sudden, scheduled, expected, unexpected, publicised, not well-known, consensual, and/or controversial changes to the underlying operating rules of certain Digital Assets that may occur from time to time, in such a way as to result in the creation of one or more related versions of an existing Digital Asset.
+
+_**"Forked Digital Asset"**_ means a Digital Asset that results from a Fork.
+
+_**"Improper Intent**__"_ means Binance reasonably determines that there may be actual or suspected market manipulation and market abuse on your part, including (without limitation), capitalising on opportunities where the executable price of a Transaction does not reflect prevailing market rates, or taking unfair advantage of the way in which Binance offers prices.
+
+_**"Instruction"**_ means any instruction, request, or order given to Binance by you or a Permitted User in relation to the operation of your Binance Account or to execute any Transaction, through such medium and in such form and manner as Binance may require and “Instruct” shall be construed accordingly.
+
+_**"Intellectual Property Rights"**_ means: (a) copyright, patents, database rights and rights in trade marks, designs, know-how and confidential information (whether registered or unregistered); (b) applications for registration, and rights to apply for registration, of any of the foregoing rights; and (c) all other intellectual property rights and equivalent or similar forms of protection existing anywhere in the world.
+
+_**"List of Prohibited Countries**_ **"**means the list of countries accessible at [https://www.binance.com/en/legal/list-of-prohibited-countries](https://www.binance.com/en/legal/list-of-prohibited-countries).
+
+_**"Local Terms"**_ means the terms governing your use of the Binance Services provided in any particular jurisdiction.
+
+_**"Losses"**_ has the meaning given to it in clause **‎**29.1.
+
+_**"Manifest Error"**_ means any error, omission or misquote (whether an error of Binance or any third party) which is manifest or palpable, including a misquote by any representative of Binance taking into account the current market and currently advertised quotes, or any error of any information, source, official, official result or pronunciation.
+
+_**"Mobile App"**_ means any mobile application developed or provided by us or any of the Binance Affiliates that enables you to use or otherwise access Binance Services.
+
+_**"Network Event "**_means in relation to a Digital Asset, any event (other than an Airdrop or Fork) in respect of the blockchain or the smart contract that underlies a Digital Asset, which is beyond Binance’s control, and results in either (a) a loss of control or ownership by Binance or a third party of any amount of such Digital Asset; or (b) transaction records on the blockchain being altered, reversed or otherwise invalidated, whether by way of a fraudulent act or consensus, which shall include without limitation any double spending attack, 51-percent attack, or blockchain reorganization, in each case as determined by Binance in good faith and in its sole discretion.
+
+_**"Permitted User"**_ means any person identified by you and communicated to us, in accordance with these Terms, that is authorised to act on a user’s behalf with respect to any Corporate Binance Account, or with our prior written consent, on behalf of a third party with respect to a Binance Sub-Account associated with a Corporate Binance Account.
+
+_**"Platform"**_ means the digital platform that we or any of the Binance Affiliates may make accessible to you via Sites, the Mobile App, a Binance API or by such other means as Binance Affiliates may prescribe from time to time for the use of Binance Services.  
+  
+"_**Privacy Notice"**_ means the privacy notice located at [https://www.binance.com/en/privacy](https://www.binance.com/en/privacy). 
+
+_**"Product Terms"**_ means the product-specific terms and conditions that apply to the use of a Binance Service, in addition to these Terms.
+
+_**"Regulatory Authority"**_ means any foreign, domestic, state, federal, cantonal, municipal or local governmental, executive, legislative, judicial, administrative, supervisory or regulatory authority, agency, quasi-governmental authority, court, commission, government organisation, self-regulatory organisation having regulatory authority, tribunal, arbitration tribunal or panel or supra-national organisation, or any division or instrumentality thereof, including any tax authority.
+
+_**"Restricted Person"**_ means a person or legal entity who is (a) named on, or owned or controlled by any person or legal entity named on the lists maintained by the United Nations Security Council, the European Union, the United States, or any other sanctions authority as determined by Binance from time to time (including but not limited to the List of Specially Designated Nationals and Blocked Persons maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury (OFAC)) or (b) located, incorporated, otherwise established in, or resident in any territory in the [List of Prohibited Countries](https://www.binance.com/en/legal/list-of-prohibited-countries).
+
+_**"Risk Warning"**_ means the general risk warning published on the Website.
+
+_**"Security Breach"**_ means 
+
+a. your Binance Account(s) or any of your Access IDs have been compromised;
+
+b. the loss, theft, or unauthorised use of any of your Access IDs or any unauthorised access to and use of your Binance Account or the Binance Services on your behalf; or
+
+c. any other security incident (including a cyber-security attack) affecting you and/or Binance.
+
+_**"Sites**_ "means our Website and any other websites, pages, features, or content we own or operate.
+
+_**"Supported Digital Assets"**_ means those Digital Assets that are available in connection with your use of the Binance Services.
+
+_**"Terms"**_ means these terms of use, together with any other documents expressly incorporated by reference, including the Product Terms, in each case as amended or supplemented from time to time.
+
+_**"Trade Marks"**_ means the Intellectual Property Rights in the trade marks, service marks and logos used and displayed on or through the Platform, the Sites and/or the Binance Services.
+
+_**"Transaction"**_ means selling, purchasing, or entering into any other type of transactions, or agreeing to sell, purchase or enter into any other type of transactions involving Digital Asset(s), their derivatives, other asset(s) or product(s) as Binance may from time to time permit to be carried out on the Platform, and transferring Digital Assets or Fiat Currency into or out of your Binance Account.
+
+_**"User**_ _**IP"**_ means the Intellectual Property Rights owned by or licensed to you as at the date of these Terms and any other Intellectual Property Rights owned or acquired by or licensed to you after the date of these Terms, excluding Binance IP. 
+
+_**"User Materials"**_ means the Intellectual Property Rights in any reviews, posts, information, data, and comments you or other users provide to us on the Sites (through our “Contact Us” pages or otherwise), the Platform, through use of Binance Services, or otherwise.
+
+_**"Website"**_ means the website located at [www.binance.com](http://www.binance.com/). 
+
+**Product Terms**
+
+Please note, some products may not be available in your location..
+
+|     |     |     |
+| --- | --- | --- |
+| [Auto-Invest](https://www.binance.com/en/terms-autoinvest) | [BFUSD](https://www.binance.com/en/about-legal/terms-BFUSD) | [Binance Wallet](https://www.binance.com/en/about-legal/terms-web3wallet) |
+| [Buy&Sell](https://www.binance.com/en/about-legal/terms-buy-sell-crypto) | [Cloud Mining](https://www.binance.com/en/terms-cloud-mining) | [Convert](https://www.binance.com/en/terms-convert) |
+| [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) | [ETH Staking](https://www.binance.com/en/terms-ETH-2-0-staking) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |
+| [Fixed Rate Loan](https://www.binance.com/en/about-legal/terms-fixed-rate-loan) | [Futures](https://www.binance.com/en/binance-futures-services-agreement) | [Gift Card](https://www.binance.com/en/legal/terms-gift-card) |
+| [Launchpool](https://www.binance.com/en/about-legal/terms-launchpool) | [Megadrop](https://www.binance.com/en/about-legal/terms-megadrop) | [Mining Pool](https://www.binance.com/en/terms-binance-pool) |
+| [NFT Staking](https://www.binance.com/en/legal/terms-nft-staking) | [On Chain Yields](https://www.binance.com/en/about-legal/terms-on-chain-yields) | [Options](https://www.binance.com/en/legal/terms-options) |
+| [OTC Terms](https://www.binance.com/en/terms-otc) | [Pay](https://www.binance.com/en/legal/terms-pay) | [P2P](https://www.binance.com/en/terms-p2p) |
+| [RWUSD](https://www.binance.com/en/about-legal/terms-rwusd) | [Sharia Earn](https://www.binance.com/en/about-legal/terms-sharia-earn) | [Simple Earn](https://www.binance.com/en/terms-simple-earn) |
+| [Soft Staking](https://www.binance.com/en/about-legal/terms-soft-staking) | [Sol Staking](https://www.binance.com/en/about-legal/terms-sol-staking) | [Spot](https://www.binance.com/en/terms-spot) |
