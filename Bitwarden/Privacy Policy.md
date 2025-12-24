@@ -9,23 +9,37 @@ Bitwarden Inc. Privacy Policy
 
 Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
 
-If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [](https://www.dataprivacyframework.gov/)
+
+[https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
 
 [](#data-privacy-framework-principles "#data-privacy-framework-principles")
 
 ### Data Privacy Framework (Principles)
 
-*   [Notice](#notice)
+*   [](#notice)
     
-*   [Data Integrity and Purpose Limitation](#data-integrity-and-purpose-limitation)
+    [Notice](#notice)
     
-*   [Choice; Access](#choice-access)
+*   [](#data-integrity-and-purpose-limitation)
     
-*   [Accountability and Onward Transfer](#accountability-and-onward-transfer)
+    [Data Integrity and Purpose Limitation](#data-integrity-and-purpose-limitation)
     
-*   [Recourse and Enforcement](#recourse-and-enforcement)
+*   [](#choice-access)
     
-*   [Security](#security)
+    [Choice; Access](#choice-access)
+    
+*   [](#accountability-and-onward-transfer)
+    
+    [Accountability and Onward Transfer](#accountability-and-onward-transfer)
+    
+*   [](#recourse-and-enforcement)
+    
+    [Recourse and Enforcement](#recourse-and-enforcement)
+    
+*   [](#security)
+    
+    [Security](#security)
     
 
 [](#notice "#notice")
@@ -178,7 +192,11 @@ Here is how to exercise your rights to access and control your Personal Informat
 
 ##### Email Communications Preferences
 
-Bitwarden respects your email communications and marketing preferences. If you prefer not to receive product release notes communications or promotional email messages (such as product updates, security alerts, marketing, events, training and certifications) from Bitwarden, you can unsubscribe from Bitwarden email marketing by following the unsubscribe link located at the bottom of each promotional email, or [Contact Us](#contact-us). Note: Please allow five (5) business days to be removed from all email communications.
+Bitwarden respects your email communications and marketing preferences. If you prefer not to receive product release notes communications or promotional email messages (such as product updates, security alerts, marketing, events, training and certifications) from Bitwarden, you can unsubscribe from Bitwarden email marketing by following the unsubscribe link located at the bottom of each promotional email, or [](#contact-us)
+
+[Contact Us](#contact-us)
+
+. Note: Please allow five (5) business days to be removed from all email communications.
 
 ##### Accessing, Correcting And Deleting Your Personal Information
 
@@ -246,12 +264,20 @@ We may also provide your Personal Information to a third party in connection wit
         
     *   inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
         
-*   You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
+*   You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please[](#contact-us)
+    
+    [Contact Us](#contact-us)
+    
+    . We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
     
 
 ##### International Transfer And Storage Of Information Collected
 
-Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/subprocessors/](https://bitwarden.com/help/subprocessors/).
+Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [](https://bitwarden.com/help/subprocessors/)
+
+[https://bitwarden.com/help/subprocessors/](https://bitwarden.com/help/subprocessors/)
+
+.
 
 We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the Data Privacy Framework.
 
@@ -263,7 +289,11 @@ You may contact us about our practices or to make a complaint and seek recourse 
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
 
-If you have an unresolved complaint, Bitwarden has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. 
+If you have an unresolved complaint, Bitwarden has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit[](https://www.jamsadr.com/dpf-dispute-resolution)
+
+[https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution)
+
+for more information or to file a complaint. 
 
 The services of JAMS Data Privacy Framework are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
 
@@ -275,7 +305,11 @@ Bitwarden is subject to the investigatory and enforcement powers of the Federal 
 
 The security of your Personal Information is important to us. Your data, including Personal Information, is never sent to the Bitwarden cloud servers without first being encrypted on your local device using AES 256 bit encryption. In addition, Bitwarden encrypts the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [Contact Us](#contact-us).
+We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [](#contact-us)
+
+[Contact Us](#contact-us)
+
+.
 
 #### Additional Terms
 
@@ -289,7 +323,11 @@ Strictly Necessary cookies such as CloudFlare's cookies help us identify malicio
 
 Functional cookies help us learn how you use the Site to help improve performance and design. These cookies provide us with analytics information such as number of page visits, page load speeds, how long a user spends on a particular page, and the types of browsers or devices used to access the Site. Some of the Functional cookies we use are:
 
-Google Analytics which tracks user behavior on the Site, which helps us better understand how users are using the Site. Learn more at [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy), and to opt out, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
+Google Analytics which tracks user behavior on the Site, which helps us better understand how users are using the Site. Learn more at [](https://www.google.com/policies/privacy)
+
+[https://www.google.com/policies/privacy](https://www.google.com/policies/privacy)
+
+, and to opt out, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
 ##### Do Not Track Signals
 
@@ -301,7 +339,11 @@ The Site or Bitwarden Service may contain links to a number of sites owned and o
 
 ##### Minimum Age
 
-The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](#contact-us). If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
+The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [](#contact-us)
+
+[Contact Us](#contact-us)
+
+. If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
 
 ##### Updates to this Privacy Policy
 
@@ -345,7 +387,11 @@ All of the categories of Personal Information we collect about you (as detailed 
 
 ##### California Rights and Choices
 
-Subject to certain restrictions, as a California resident, you have the right to request that we disclose what Personal Information we collect about you, to delete any Personal Information that we collected from or maintain about you, and to opt-out of the sale of Personal Information about you. You also have the right to designate an agent to exercise these rights on your behalf, subject to verification of that agency relationship. This section describes how to exercise those rights and our process for handling those requests, including our means of verifying your identity. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please [Contact Us](#contact-us).
+Subject to certain restrictions, as a California resident, you have the right to request that we disclose what Personal Information we collect about you, to delete any Personal Information that we collected from or maintain about you, and to opt-out of the sale of Personal Information about you. You also have the right to designate an agent to exercise these rights on your behalf, subject to verification of that agency relationship. This section describes how to exercise those rights and our process for handling those requests, including our means of verifying your identity. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please [](#contact-us)
+
+[Contact Us](#contact-us)
+
+.
 
 ##### Accessing and Deleting Your Personal Information
 
@@ -359,7 +405,11 @@ You may also request that we delete any Personal Information that we have collec
 
 _How to exercise your access and deletion rights_
 
-California residents may exercise their California privacy rights by submitting a request via email at privacypolicy@bitwarden.com. While email is the best way to reach us, you may also call us at the number listed in the [Contact Us](#contact-us) section.
+California residents may exercise their California privacy rights by submitting a request via email at privacypolicy@bitwarden.com. While email is the best way to reach us, you may also call us at the number listed in the [](#contact-us)
+
+[Contact Us](#contact-us)
+
+ section.
 
 For security purposes, we may request additional information from you to verify your identity when you request to exercise your California privacy rights. If you do not have an account with us, or if we have reason to suspect that the security of your account is compromised, we will request additional information from you to match with our existing records to verify your identity, depending on the nature of the request and the sensitivity of the information sought.
 
@@ -383,4 +433,6 @@ Phone: +1-904-664-9194
 
 Email: privacypolicy@bitwarden.com
 
-Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
+Web Form: [](https://bitwarden.com/contact/)
+
+[https://bitwarden.com/contact/](https://bitwarden.com/contact/)
