@@ -1,13 +1,12 @@
 User Agreement
 ==============
 
-Updated: June 26 2025, 09:26 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.livejournal.com/legal/tos-en.bml?r=15273)
+Updated: December 29 2025, 09:44 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15274](https://www.livejournal.com/legal/tos-en.bml?r=15274)
 
 1.  #### Subject of the Agreement
     
     1.  SIM Limited Liability Company (the Administration) shall make the Service available to user of the information and telecommunications network Internet (User) under the terms and conditions defined in this User Agreement (the Agreement). The Service may be used only by individuals aged 14 and above.
-    2.  The Administration shall make the Service available to User for free.
 2.  #### General Provisions
     
     1.  This Agreement constitutes a public offer in accordance with Article 437 of the Civil Code of the Russian Federation. By using the Service, including every access to the Website pages by any means, User unconditionally accepts this Agreement in its entirety.
@@ -27,13 +26,15 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.liv
     
     **Community Owner** means User who created a Blog in the form of Community.
     
+    **Documents** are jointly an Agreement and a Privacy Policy, as well as other documents governing the relationship between the Administration and the User on the provision and use of the Service, posted on the Resource.
+    
     **Content** means User\`s information within the Service in Blogs and Communities as a note or comment as well as sent by User in private messages using the Service.
     
     **Community Moderator** means User to whom the Community Owner provided access to the functionality necessary to moderate the Community’s Content.
     
-    **Paid Services** means any one time and continuing additional services provided to User by the Administration on a monetary base.
-    
     **Registration** means User’s actions performed in order to create an Account in accordance with the Agreement pursuant to the procedure established by the Administration. User shall give his/her Authentication Details during the Registration process and may also give any other non-obligatory information which he/she deems fit.
+    
+    **Resource** is a website, software, and/or other Internet resource of the Administration.
     
     **Website** means a website in the information and telecommunications network Internet identified by its domain name LiveJournal.com.
     
@@ -54,10 +55,18 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.liv
     7.  User shall be responsible for all actions performed using the User’s Authentications Details, All actions performed upon the Authorisation using the User’s Authentication Details shall be deemed performed by the User personally, unless the User has duly notified the Administration in advance of possible Unauthorised Access and/or any breach (alleged breach) of confidentiality of his/her Authentication Details in accordance herewith.
     8.  The User shall be responsible for any possible loss or distortion of information and for other consequences of any nature which may occur due to the User’s breach of any provisions of the Agreement.
     9.  User also can get an access to additional Service functions via her/his VKontakte, Mail.ru, Rambler ID, Sber ID, OpenID and other Third Party Accounts. Third Party Account functions can be limited in comparison with Account functions.
+    10.  The User is provided with access to the Service’s function for posting Content on a Blog with the «Personal» access level (all entries and comments are visible only to the User). The User can access additional functions of the Service such as creating public notes, messaging, and commenting after Registration/Authorization when the User fulfills one of the conditions: 1) using an Sber ID for Authorization or linking an account; 2) the User has an Account with the «Professional» package enabled; 3) the social capital of a user with a value above 500 (for more information about social capital, see the link: [https://www.livejournal.com/support/faq/359.html](https://www.livejournal.com/support/faq/359.html), 4) a blog (journal) whose personal page is included in the Roskomnadzor list, 5) a blog (journal) that has received the verified status ([https://www.livejournal.com/support/faq/442.html](https://www.livejournal.com/support/faq/442.html)).
 5.  #### User Details
     
-    1.  The terms and conditions of User’s data processing and its security measures while using of the Service are governed by [the Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml).
-    2.  **Please note that no information which can directly or indirectly identify the individual is needed in order to use the Service, including registration process; thus, the relationship connected with the Service, the Registration and information provided in the process of Registration, is not governed by the provisions of Federal Act of the Russian Federation No. 152-FZ.**
+    1.  The Administration does not verify that Accounts belong to specific individuals.
+    2.  To provide a separate functionality of the Service, it is necessary to:
+        *   send service messages to the User;
+        *   the use of recommendation technologies. Such technologies are used on the Resource in accordance with the Rules for the use of Recommendation Technologies;
+        *   user data processing. Such processing is carried out in accordance with the terms of the Privacy Policy. The User undertakes not to process personal data of third parties in violation of the requirements of applicable law. If the User provides the Administration with the data of third parties, he guarantees the Administration that there is a legal basis for processing them in accordance with the terms of the applicable Documents, as well as notifying such persons of the relevant processing by the Administration and other persons specified in the Documents.
+    3.  When the User uses the relevant functionality of the Service, the Administration must process the User's data in order to fulfill the Agreement, including providing it to third parties for subsequent processing within the framework of the following processes:
+        *   to support the activities of the Administration by a service provider (BDE LLC, RIH, LLC on behalf of the Administration);
+        *   to personalize the offers of AA “Index 20”, LLC (with subsequent provision Sberbank of Russia, Cloud Technologies LLC, Yandex LLC).
+    4.  Cookies (small fragments of data about past visits) are used on the Resource to provide the functionality of the Service. Cookies are necessary, among other things, to ensure the functioning of the Service; to personalize Content and other offers; to conduct statistical and other research on the use of the Service. The user can view the validity period of cookies, as well as prohibit their storage in their browser settings. Cookies are processed using web analytics services, in particular, Statistics from SberAds, Yandex.Metrica, Mediascope, and AppMetrica.
 6.  #### Account Termination
     
     1.  Termination of Inactive Accounts by the Administration
@@ -70,7 +79,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.liv
         1.  any information related to receipt, transfer, delivery and/or processing of voice information, written texts, images, sounds, video and other electronic messages of Users and information on Users who performed the above actions, within one year upon performing such actions;
 7.  #### Blog
     
-    1.  User may keep Blog, post notes and comments within his/her own Blog (Community) or in other Users’ Blogs (Communities).
+    1.  User may keep Blog, post notes and comments within his/her own Blog (Community) or in other Users’ Blogs (Communities) under the terms of this Agreement.
     2.  Using the Service functions, User shall define the Content and the level of Content availability to Users subject to the requirements specified herein and applicable laws.
     3.  User who created Blog shall be responsible for such a Blog as well as for the Content posted therein.
     4.  User who posted comments in Blog and User keeping such a Blog shall be jointly and severally liable in respect of such comments.
@@ -124,7 +133,6 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.liv
      2.  The Administration may at any time change the method, type and quantity of the advertising placed on the Service.
      3.  The User’s participation in campaigns and events advertised within the Service, as well as User’s purchasing of any products, work or services shall create rights and obligations only between User and the entity selling the respective product, work or service or holding such campaign or event.
      4.  If User places any advertising Content on the Service (or promises to place such Content), this does not create any obligations of the Administration.
-     5.  The Administration may send to User information related to the Service as well as third-party advertising using the email address provided by User.
 13.  #### The procedure for considering Users’ requests
      
      1.  All requests related to the Content shall be submitted to the Administration via the [contact form](https://www.livejournal.com/support/submit).
@@ -141,10 +149,11 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.liv
              1.  [ljlegal@rambler-co.ru](mailto:ljlegal@rambler-co.ru)
              2.  bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
          2.  to User: the address provided for registration:
-     3.  All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 14.2 hereof.
+     3.  All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 12.1 hereof.
      4.  If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
      5.  The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version June 26 2025, 09:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15273) (archived)  
 [Previous version November 23 2023, 08:31 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15272) (archived)  
 [Previous version May 17 2023, 14:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15271) (archived)  
 [Previous version March 31 2023, 13:45 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15270) (archived)  
