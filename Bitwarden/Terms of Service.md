@@ -12,18 +12,18 @@ Summary
 
 | **Section** | **What can you find there?** |
 | --- | --- |
-| [](#definitions)<br><br>[A. Definitions](#definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
-| [](#account-terms)<br><br>[B. Account Terms](#account-terms) | These are the basic requirements of having an account on Bitwarden. |
-| [](#acceptable-use)<br><br>[C. Acceptable Use](#acceptable-use) | These are the basic rules you must follow when using your Bitwarden account. |
-| [](#intellectual-property-notice)<br><br>[D. Intellectual Property Notice](#intellectual-property-notice) | This describes Bitwarden's rights in the website and service. |
-| [](#payment)<br><br>[E. Payment](#payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [](#cancellation-and-termination)<br><br>[F. Cancellation and Termination](#cancellation-and-termination) | You may cancel this agreement and close your account at any time. |
-| [](#communications-with-bitwarden)<br><br>[G. Communications with Bitwarden](#communications-with-bitwarden) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
-| [](#disclaimer-of-warranties)<br><br>[H. Disclaimer of Warranties](#disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
-| [](#limitation-of-liability)<br><br>[I. Limitation of Liability](#limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you**. |
-| [](#release-and-indemnification)<br><br>[J. Release and Indemnification](#release-and-indemnification) | You are fully responsible for your use of the service. |
-| [](#changes-to-these-terms-of-service)<br><br>[K. Changes to these Terms of Service](#changes-to-these-terms-of-service) | We may modify this agreement. |
-| [](#miscellaneous)<br><br>[L. Miscellaneous](#miscellaneous) | Please see this section for legal details including our choice of law. |
+| [A. Definitions](#definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
+| [B. Account Terms](#account-terms) | These are the basic requirements of having an account on Bitwarden. |
+| [C. Acceptable Use](#acceptable-use) | These are the basic rules you must follow when using your Bitwarden account. |
+| [D. Intellectual Property Notice](#intellectual-property-notice) | This describes Bitwarden's rights in the website and service. |
+| [E. Payment](#payment) | You are responsible for payment. We are responsible for billing you accurately. |
+| [F. Cancellation and Termination](#cancellation-and-termination) | You may cancel this agreement and close your account at any time. |
+| [G. Communications with Bitwarden](#communications-with-bitwarden) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
+| [H. Disclaimer of Warranties](#disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
+| [I. Limitation of Liability](#limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you**. |
+| [J. Release and Indemnification](#release-and-indemnification) | You are fully responsible for your use of the service. |
+| [K. Changes to these Terms of Service](#changes-to-these-terms-of-service) | We may modify this agreement. |
+| [L. Miscellaneous](#miscellaneous) | Please see this section for legal details including our choice of law. |
 
 [](#the-bitwarden-terms-of-service "#the-bitwarden-terms-of-service")
 
@@ -38,19 +38,11 @@ Effective date: June 1, 2017
 
 **Short version:** _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information._
 
-1.  The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the Bitwarden Privacy Policy, available at[](https://bitwarden.com/privacy/)
-    
-    [bitwarden.com/privacy](https://bitwarden.com/privacy/)
-    
-    ) and procedures that we may publish from time to time on the Website.
+1.  The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the Bitwarden Privacy Policy, available at [bitwarden.com/privacy](https://bitwarden.com/privacy/)) and procedures that we may publish from time to time on the Website.
     
 2.  The "Service" refers to the applications, software, products, and services provided by Bitwarden.
     
-3.  The "Website" refers to Bitwarden's website located at[](https://bitwarden.com/)
-    
-    [bitwarden.com](https://bitwarden.com/)
-    
-    , and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as[vault.bitwarden.com](https://vault.bitwarden.com/)and[bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3.  The "Website" refers to Bitwarden's website located at [bitwarden.com](https://bitwarden.com/), and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as [vault.bitwarden.com](https://vault.bitwarden.com/) and [bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
     
 4.  "The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age.
     
@@ -67,11 +59,7 @@ Effective date: June 1, 2017
 
 1\. Required Information
 
-You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a [](#payment)
-
-[paid account](#payment)
-
-, in which case additional information will be necessary for billing purposes.
+You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a [paid account](#payment), in which case additional information will be necessary for billing purposes.
 
 2\. Account Requirements
 
@@ -81,11 +69,7 @@ We have a few simple rules for accounts on Bitwarden's Service.
     
 *   One person or legal entity may maintain no more than one free account.
     
-*   You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, without parental consent, we will[](#cancellation)
-    
-    [terminate that User's account immediately](#cancellation)
-    
-    . If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.
+*   You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, without parental consent, we will [terminate that User's account immediately](#cancellation). If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.
     
 *   Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid organization account may create separate logins for as many users as its subscription allows.
     
@@ -100,11 +84,7 @@ You are responsible for keeping your account secure while you use our Service. W
     
 *   You are responsible for maintaining the security of your account and password. Bitwarden cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
     
-*   You will promptly[](https://bitwarden.com/contact/)
-    
-    [notify Bitwarden](https://bitwarden.com/contact/)
-    
-    if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
+*   You will promptly [notify Bitwarden](https://bitwarden.com/contact/) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
     
 
 4\. Additional Terms
@@ -166,11 +146,7 @@ Bitwarden and our licensors, vendors, agents, and/or our content providers retai
 
 1\. Pricing
 
-Our pricing and payment terms are available at [](https://bitwarden.com/)
-
-[bitwarden.com](https://bitwarden.com/)
-
-. If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
+Our pricing and payment terms are available at [bitwarden.com](https://bitwarden.com/). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
 
 2\. Upgrades, Downgrades, and Changes
 
@@ -196,11 +172,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 
 5\. Responsibility for Payment
 
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Bitwarden any charge incurred in connection with your use of the Service. If you dispute the matter, contact [](https://bitwarden.com/contact/)
-
-[Bitwarden Support](https://bitwarden.com/contact/)
-
-. You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Bitwarden any charge incurred in connection with your use of the Service. If you dispute the matter, contact [Bitwarden Support](https://bitwarden.com/contact/). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
 [](#cancellation-and-termination "#cancellation-and-termination")
 
@@ -210,11 +182,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 
 1\. Account Cancellation
 
-It is your responsibility to properly cancel your account with Bitwarden. You can [](https://bitwarden.com/help/delete-your-account/)
-
-[delete your account at any time](https://bitwarden.com/help/delete-your-account/)
-
- by going into your web vault Settings. The Settings screen provides a simple, no questions asked delete option.
+It is your responsibility to properly cancel your account with Bitwarden. You can [delete your account at any time](https://bitwarden.com/help/delete-your-account/) by going into your web vault Settings. The Settings screen provides a simple, no questions asked delete option.
 
 2\. Upon Cancellation
 
@@ -309,11 +277,7 @@ Except to the extent applicable law provides otherwise, this Agreement between y
 
 2\. Non-Assignability
 
-Bitwarden may assign or delegate these Terms of Service and/or the [](https://bitwarden.com/privacy/)
-
-[Bitwarden Privacy Policy](https://bitwarden.com/privacy/)
-
-, in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Policy without our prior written consent, and any unauthorized assignment and delegation by you is void.
+Bitwarden may assign or delegate these Terms of Service and/or the [Bitwarden Privacy Policy](https://bitwarden.com/privacy/), in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Policy without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 3\. Section Headings and Summaries
 
@@ -329,18 +293,10 @@ These Terms of Service, together with the Bitwarden Privacy Policy, represent th
 
 6\. Questions
 
-Questions about the Terms of Service? [](https://bitwarden.com/contact/)
-
-[Contact us](https://bitwarden.com/contact/)
-
-.
+Questions about the Terms of Service? [Contact us](https://bitwarden.com/contact/).
 
 * * *
 
 Bitwarden Inc. is incorporated in the State of Delaware in the United States of America. 8bit Solutions LLC is wholly owned by Bitwarden Inc.
 
-This Terms of Service is available under a Creative Commons license (CC BY 4.0). Attribution to [](https://github.com/)
-
-[GitHub, Inc.](https://github.com/)
-
- Changes have been made to the original content.
+This Terms of Service is available under a Creative Commons license (CC BY 4.0). Attribution to [GitHub, Inc.](https://github.com/) Changes have been made to the original content.
