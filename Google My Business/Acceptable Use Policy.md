@@ -19,11 +19,6 @@ For the best results managing your Business Profile:
 *   Choose the fewest number of categories that it takes to describe your overall core business.
 *   There should only be one profile per business, as this can cause problems with how your information displays on Google Maps and Search.
 
-**Tips:**
-
-*   If you’d like to get one-to-one guidance and tailored recommendations on how to make the most out of your profile, [book an appointment with Small Business Advisors](https://business.google.com/advisors/).
-*   This service is currently only available to merchants in the US.
-
 Learn content guidelines for Business Profiles
 ----------------------------------------------
 
