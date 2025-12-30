@@ -3,13 +3,13 @@ Terms of Service
 
 **Evernote Terms of Service**
 
-Effective Date: August 21, 2024
+Effective Date: January 1, 2026
 
 Welcome to Evernote! We invite you to access our websites and use the Evernote Service, but please note that your invitation is subject to your agreement with these Terms. This document describes in detail your rights and our rights relating to the provision of the Evernote Service, so please review these Terms carefully. Capitalized terms that are not defined in this document are defined in our [Glossary](https://evernote.com/legal/glossary).
 
 ### **What Are the Terms of Service?**
 
-The Terms of Service constitute a contract between you and us. The Terms of Service include the provisions set forth in this document and in the Evernote [Commercial Terms](https://evernote.com/legal/commercial-terms), [User Guidelines](https://evernote.com/legal/user-guidelines), [IP Compliance Program](https://evernote.com/legal/ip-compliance), [Supplemental Terms](https://evernote.com/legal/supplemental-terms), and if applicable the Evernote Business Agreement or Evernote Teams Agreement, and other terms or conditions that may be presented by us and accepted by you from time to time in connection with specific Evernote Service offerings (all of which we collectively refer to as the “Terms”).
+The Terms of Service constitute a contract between you and us. The Terms of Service include the provisions set forth in this document and in the Evernote [Commercial Terms](https://evernote.com/legal/commercial-terms), [User Guidelines](https://evernote.com/legal/user-guidelines), [IP Compliance Program](https://evernote.com/legal/ip-compliance), [Supplemental Terms](https://evernote.com/legal/supplemental-terms), and if applicable the Evernote Business Agreement or Evernote Enterprise Agreement, and other terms or conditions that may be presented by us and accepted by you from time to time in connection with specific Evernote Service offerings (all of which we collectively refer to as the “Terms”).
 
 **IF YOU RESIDE IN THE UNITED STATES OR ARE OTHERWISE SUBJECT TO THE U.S. FEDERAL ARBITRATION ACT, THESE TERMS ALSO CONTAIN A MANDATORY AND BINDING INDIVIDUAL ARBITRATION AGREEMENT AND CLASS-ACTION WAIVER WHICH MEANS THAT MOST DISPUTES BETWEEN YOU AND US WILL BE RESOLVED IN BINDING, INDIVIDUAL ARBITRATION AND NOT BY MEANS OF A CLASS ARBITRATION, A CLASS ACTION, ANY OTHER KIND OF REPRESENTATIVE PROCEEDING, OR A JURY TRIAL. (SEE THE SECTION FURTHER BELOW IN THESE TERMS TITLED “WHAT DO I DO IF I THINK I HAVE A CLAIM AGAINST EVERNOTE?”). YOU MAY OPT OUT OF THE ARBITRATION REQUIREMENT WITHIN 30 DAYS OF ACCEPTING THESE TERMS OR WITHIN 30 DAYS OF THE AVAILABILITY OF THIS OPT-OUT, WHICHEVER IS LATER. INSTRUCTIONS FOR OPTING OUT ARE IN THE SAME SECTION FURTHER BELOW.**
 
@@ -25,13 +25,13 @@ The Evernote Software and other products, services and websites made available t
 
 You, the Account Holder, are one party to this contract. (An Account Holder is the person or entity who has contracted with Evernote.)
 
-If you reside anywhere other than in Brazil, then Evernote Corporation, a Delaware corporation headquartered in California, USA is the distributor of the Evernote Service and is another party to this contract. If you reside in Brazil, then Evernote do Brasil Serviços de Aplicações Ltda., a Brazilian company headquartered in the city of São Paulo, State of Sao Paolo, Brazil (“Evernote Brasil”) is the distributor of the Evernote Service and another party to this contract instead of Evernote Corporation. Additionally, Bending Spoons S.p.A., an Italian company headquartered in Milan, Italy (“Bending Spoons”), is the owner of the Evernote Software and is a party to this contract in that capacity. Evernote Corporation, Evernote Brasil, and Bending Spoons may be referred to in these Terms, when applicable, as “we” and “us.”
+If you reside anywhere other than in Brazil, then Bending Spoons US Inc., a Delaware corporation headquartered in New York, USA ("Bending Spoons US") is the distributor of the Evernote Service and is another party to this contract. If you reside in Brazil, then Evernote do Brasil Serviços de Aplicações Ltda., a Brazilian company headquartered in the city of São Paulo, State of Sao Paolo, Brazil (“Evernote Brasil”) is the distributor of the Evernote Service and another party to this contract instead of Bending Spoons US. Additionally, Bending Spoons Operations S.p.A., an Italian company headquartered in Milan, Italy (“Bending Spoons”), is the owner of the Evernote Software and is a party to this contract in that capacity. Bending Spoons US, Evernote Brasil, and Bending Spoons may be referred to in these Terms, when applicable, as “we” and “us.”
 
 On some occasions, you may be purchasing products or service subscriptions from an authorized reseller. Please review our [Commercial Terms](https://evernote.com/legal/commercial-terms) for information about additional contract terms relating to such purchases.
 
 ### **Is This the Only Contract That Applies to the Evernote Service?**
 
-It depends upon how you interact with the Evernote Service and our software applications. If you install any Evernote Software on your computing devices, you may be asked to agree to an end user license agreement. If you pay for an Evernote subscription, you will be asked to agree to the [Commercial Terms](https://evernote.com/legal/commercial-terms). If you use related Evernote products or services (such as Evernote Teams) or participate in our User Forum, you may also need to enter into a separate agreement with us (usually by clicking “accept” or “agree”). We refer to each of these as a “Separate Agreement.” If that happens, the Separate Agreement shall take precedence if there is a conflict between those terms and this Terms of Service document, to the extent of such conflict and with respect to the particular subject matter of that Separate Agreement.
+It depends upon how you interact with the Evernote Service and our software applications. If you install any Evernote Software on your computing devices, you may be asked to agree to an end user license agreement. If you pay for an Evernote subscription, you will be asked to agree to the [Commercial Terms](https://evernote.com/legal/commercial-terms). If you use related Evernote products or services (such as Evernote Enterprise) or participate in our User Forum, you may also need to enter into a separate agreement with us (usually by clicking “accept” or “agree”). We refer to each of these as a “Separate Agreement.” If that happens, the Separate Agreement shall take precedence if there is a conflict between those terms and this Terms of Service document, to the extent of such conflict and with respect to the particular subject matter of that Separate Agreement.
 
 ### **Will These Terms Ever Change?**
 
@@ -107,9 +107,9 @@ RIGHT TO UPDATE OUR SOFTWARE.
 
 In connection with any modification of the Evernote Service, we may automatically download software updates on your computers and devices from time to time with the intention of improving, enhancing, repairing and/or further developing the Evernote Service. We will endeavor to provide you with the option of whether or not to install the update; however, in certain circumstances (e.g., security risks), we may require you to install the update to continue accessing the Evernote Service. In all cases, you agree we may deliver these updates to you (and you agree to receive them) as part of your use of the Evernote Service.
 
-### **Do These Terms Apply to Evernote Business and Teams Users?**
+### **Do These Terms Apply to Evernote Enterprise Users?**
 
-If you are using the Evernote Service as part of a Multi-Seat Account (Evernote Business or Teams), your use of the Evernote Service is governed by these Terms, except to the extent the Separate Agreement governing your account provides conflicting terms. If you subscribed through our online [Evernote Business Agreement](https://evernote.com/legal/business), your subscription will now be governed by the [Evernote Teams Agreement](https://evernote.com/legal/teams). The Customer who has contracted with Evernote and the Administrator of the account (as “Customer” and “Administrator” are defined in the applicable agreement) have the responsibility to and agree to share the terms of such Separate Agreement with each individual End User whose user account is linked to the Evernote Teams Account.
+If you are using the Evernote Service as part of a Multi-Seat Account (Evernote Enterprise), your use of the Evernote Service is governed by these Terms, except to the extent the Separate Agreement governing your account provides conflicting terms. If you subscribed through our online Evernote Business Agreement, your subscription will now be governed by the [Evernote Enterprise Agreement](https://evernote.com/legal/teams). The Customer who has contracted with Evernote and the Administrator of the account (as “Customer” and “Administrator” are defined in the applicable agreement) have the responsibility to and agree to share the terms of such Separate Agreement with each individual End User whose user account is linked to the Evernote Enterprise Account.
 
 If you are an End User of such an account, please note that the Customer of your account (such as your employer or organization) may have established its own rules regarding End Users’ access, use, disclosure, or retention of data stored in that account. If you registered your Individual Account in connection with a legacy Evernote Business Account before September 15, 2017, you can find more information on how to update that Individual Account with your personal email address in this [Help and Learning article](https://help.evernote.com/hc/articles/360019020593).
 
@@ -195,9 +195,9 @@ This is another reason why it’s important for you to make sure your Basic Subs
 
 Except where these Terms or any Separate Agreement specifically provide for use of a different means or address for notice, any notice to us must be delivered by email to compliance@evernote.com. This email address may be updated as part of any update to these Terms. If you are unable to deliver notice via email, you may send a notice to us at the following address (as applicable to your Evernote Service distributor):
 
-Evernote Corporation  
-4231 Balboa Avenue, #1008  
-San Diego, CA 92117 USA  
+Bending Spoons US Inc.  
+169 Madison Ave, Suite 11218  
+New York, NY 10016  
 Attention: Legal Notice
 
 Evernote Do Brasil Serviços De  
@@ -267,7 +267,7 @@ These Terms affect interstate commerce, and the enforceability of this section w
 **Arbitration Procedure and Location**  
 You or we may initiate arbitration of any claim not resolved during the Informal Resolution Period by filing a demand for arbitration with NAM (or with AAA if applicable).
 
-Instructions for filing a demand for arbitration with NAM are available on the NAM website or by emailing NAM at commercial@namadr.com, and instructions for filing a demand for arbitration with AAA are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any demand for arbitration to us by certified mail addressed to 4231 Balboa Avenue, #1008, San Diego, CA 92117 or by email to legalnotice@evernote.com. We will send any demand for arbitration to you by certified mail or by the email address associated with your Evernote account.
+Instructions for filing a demand for arbitration with NAM are available on the NAM website or by emailing NAM at commercial@namadr.com, and instructions for filing a demand for arbitration with AAA are available on the AAA website or by calling AAA at 800-778-7879. You will send a copy of any demand for arbitration to us by certified mail addressed to 169 Madison Ave, Suite 11218, New York, NY 10016, or by email to legalnotice@evernote.com. We will send any demand for arbitration to you by certified mail or by the email address associated with your Evernote account.
 
 The arbitration will be conducted by a single arbitrator in the English language. You and we both agree that the arbitrator will be bound by these Terms.
 
@@ -307,9 +307,9 @@ The provisions of this section, entitled “Claims Are Time-Barred” shall be d
 
 Under California Civil Code Section 1789.3, users of the Evernote Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. You may contact us via email at legalnotice@evernote.com or at:
 
-Evernote Corporation  
-4231 Balboa Avenue, #1008  
-San Diego, California 92117 USA  
+Bending Spoons US Inc.  
+169 Madison Ave, Suite 11218  
+New York, NY 10016  
 Attention: Legal Notice
 
 ### **Anything Else?**
@@ -324,7 +324,7 @@ In the event of a conflict, the English language version shall govern.
 *   [User Guidelines](https://evernote.com/legal/user-guidelines)
 *   [Commercial Terms](https://evernote.com/legal/commercial-terms)
 *   [Supplemental Terms](https://evernote.com/legal/supplemental-terms)
-*   [Evernote Teams Agreement](https://evernote.com/legal/teams)
+*   [Evernote Teams Agreement](https://evernote.com/legal/enterprise)
 *   [Glossary](https://evernote.com/legal/glossary)
 *   [IP Compliance Program](https://evernote.com/legal/ip-compliance)
 *   [Trademark Use](https://evernote.com/legal/trademark-use)
