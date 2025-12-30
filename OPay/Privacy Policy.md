@@ -239,6 +239,8 @@ Resources
 
 [Terms & Conditions](https://www.opayweb.com/terms-and-conditions)
 
+[SMS Alert Service](https://mkt.opayweb.com/proh5/?code=1625444603442458626&id=143)
+
 [Documentation](https://documentation.opaycheckout.com/)
 
 [Security](https://www.opayweb.com/security)
