@@ -3,9 +3,9 @@ Alibaba.com Privacy Policy
 
 2024-08-28 07:52
 
-(Last Updated: December 22, 2025)
+(Last Updated: December 30, 2025)
 
-﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_7_29236.html?spm=a1z3jd.368d007a.0.0.7da85111FRBxS6)﻿
+﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_11_33255.html)﻿
 
 Note: This Privacy Policy applies to Users outside of Mainland China and South Korea (registered country/region other than “Mainland China” and “South Korea”) who are provided with various products and services through websites, apps, and new forms emerging with technological development by Alibaba.com. In other words, this Privacy Policy does not apply to Users within Mainland China and South Korea (registered country/region as “Mainland China” and “South Korea”). For Users from the two (2) jurisdictions, the applicable privacy policies are as follows:
 
@@ -204,7 +204,7 @@ social media account information, such as social media username, profile picture
 
 ●
 
-communication information, such as feedback and other communications with us (including when you interact with our subcontracted customer support agents), disputes/complaints from Sellers/Buyers on the Platform, copy of your correspondence if you contact us such as via our customer services department chat service, telephone or email (including in the case wherein those functions involved integration of services provided by third-party service providers) , chat information between you and other users via instant messaging services provided by DingTalk.
+communication information, such as feedback and other communications with us (including when you interact with our subcontracted customer support agents), disputes/complaints from Sellers/Buyers on the Platform, copy of your correspondence if you contact us such as via our customer services department chat service, telephone or email (including in the case wherein those functions involved integration of services provided by third-party service providers).
 
 ●
 
@@ -216,7 +216,11 @@ information about your interactions with products and services offered by our gr
 
 ●
 
-If you choose to participate in reviewing or rating products and/or services on Alibaba.com, we may receive personal information about you from third parties that work with us to conduct reviews into our services and/or rate us.
+chat information between you and other users via instant messaging services. The instant messaging service on the Platform is provided by our partner DingTalk (data controllers: Dingding Technology Co., Ltd. and DingTalk (China) Information Technology Co., Ltd.). DingTalk will collect your chat information and device information and share a copy of your chat information with us. We will use your chat information based on security, risk control and other compliance requirements based on our platform policies and rules, legal and regulatory requirements, response to requests from regulatory authorities, provision of services (including but not limited to transactions processing and dispute settlement between the Buyers and Sellers, Users complaints handling) and other analytical and service needs. You may refer to the applicable [privacy policy of DingTalk](https://terms.alicdn.com/legal-agreement/terms/privacy_policy_full/20231103142915365/20231103142915365.html)for more data processing details relating to such service.
+
+●
+
+If you choose to participate in reviewing or rating products and/or services on Alibaba.com, we may receive personal information about you from third parties that work with us to conduct reviews into our services and/or rate us.  
 
 3.DISCLOSURE OR SHARING OF PERSONAL INFORMATION
 ===============================================
@@ -225,7 +229,7 @@ We may disclose (or provide access to) personal information to the following cat
 
 ●
 
-Other Platform Users where necessary in connection with the facilitation of purchases and communications made between you and the other Users.
+Other Users where necessary in connection with the facilitation of purchases and communications made between you and the other Users.
 
 ●
 
@@ -298,8 +302,6 @@ Actual or potential business acquirers (and its agents and advisers) in connecti
 We may provide anonymized data to third parties, but when we do so, the information we share is in a de-identified format that does not personally identify you.
 
 We have established relationships with third parties and websites to offer you products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from our Platform or through offering co-branded sites in which both we and other parties share the same uniform resource locator (URL), domain name or pages within a domain name on the Internet. In some cases, you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third-party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third-party sites and co-branded sites before responding to any offers, products or services advertised by those parties.
-
-The instant messaging service on the Platform is provided by our partner DingTalk (data controllers: Dingding Technology Co., Ltd. and DingTalk (China) Information Technology Co., Ltd.). DingTalk will collect your chat information and device information and share a copy of your chat information with us. We will use your chat information based on security, risk control and other compliance requirements based on our platform policies and rules, legal and regulatory requirements, response to requests from regulatory authorities, provision of services (including but not limited to transactions processing and dispute settlement between the Buyers and Sellers, Users complaints handling) and other analytical and service needs. You may refer to the applicable [privacy policy of DingTalk](https://terms.alicdn.com/legal-agreement/terms/privacy_policy_full/20231103142915365/20231103142915365.html) for more data processing details relating to such service.
 
 The audio and video conferencing services on the Platform are provided by our partner Alibaba Cloud Computing Co. Ltd. Alibaba Cloud will collect and process your personal information independently, and will not share it with us. You may refer to the applicable [privacy policy](https://video.aliyuncs.com/mapp/apsara-media-box/imp-privacy-policy/en.html) of Alibaba Cloud for more data processing details relating to such service.
 
@@ -445,9 +447,49 @@ The right to receive clear and complete information about the possibility and co
 10.INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
 ==================================================
 
-We will store the personal information we collect from you through the Platform in the United States, Germany, Singapore or China, depending on the country in which you reside.
+To support our global operations:
 
-Being a cross-border B2B platform, it is inevitable that there will be certain cases that require international transfers of personal information of the Users among the above-mentioned countries. These countries have data protection laws that may have different provisions to the laws of your country. We ensure that any such international transfers will only be conducted to achieve legitimate purposes and with legal basis or as otherwise permitted by applicable law. We take appropriate steps to ensure that recipients of your personal information are bound to duties of confidentiality and we implement appropriate technical and organizational measures to ensure your personal information will remain protected in accordance with this Privacy Policy, such as standard contractual clauses. A copy of those clauses can be requested from DataProtection@service.alibaba.com.
+We store the personal information described in section 2\. “DETAILS OF DATA PROCESSING” in servers located in the following jurisdictions:
+
+●
+
+For Users located in Mainland China: China
+
+●
+
+For Users located in the European Union, European Economic Area and Switzerland: Germany
+
+●
+
+For Users located in the United States, the United Kingdom, Canada, Australia and New Zealand: United States
+
+●
+
+For Users located in other locations: Singapore or Germany
+
+Certain entities in our corporate group located in Mainland China and Singapore are given limited remote access to this information so they can provide certain important functions, as described in section 2\. “DETAILS OF DATA PROCESSING”. Any such access is limited, secure and only granted where necessary under strict security controls and authorization approval protocols.
+
+We share certain of your personal information with other Users, business partners, service providers and other third-party entities, as described in section 3\. “DISCLOSURE OR SHARING OF PERSONAL INFORMATION”. If you are from the European Union, European Economic Area, Switzerland or the United Kingdom, these third parties can be located outside your country of residence.
+
+When processing your personal information, we require those entities to commit with taking the necessary steps to comply with the applicable privacy laws and to implement appropriate security measures to protect the information.
+
+When we transfer your personal information outside of the European Union, European Economic Area, Switzerland or the United Kingdom, we ensure that it benefits from an adequate level of data protection by relying on:
+
+●
+
+Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognize that a country offers an adequate level of data protection. We transfer your information as described in section2\. “DETAILS OF DATA PROCESSING” to some countries with adequacy decisions, such as the countries listed [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); or
+
+●
+
+Article 49. In the absence of an adequacy decision, we rely on Article 49 (1)(b) and (c) GDPR to transfer the Transaction information and Payment information as described in section2\. “DETAILS OF DATA PROCESSING” to the other Users and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
+
+●
+
+Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR thatallows companies subject to the GDPR to transfer data outside the European Union and European Economic Area. These (and their approved equivalents for the United Kingdom and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in section 2\. “DETAILS OF DATA PROCESSING” to certain of our group companies and affiliates and third parties in countries without an adequacy decision.
+
+For a copy of these adequacy decisions or standard contractual clauses, please contact us via DataProtection@service.alibaba.com.
+
+In addition, we regularly assess the legal and regulatory frameworks of countries receiving the data to ensure the ongoing effectiveness of our transfer safeguards, particularly in cases where standard contractual clauses are used. These assessments help us determine whether supplementary measures are needed to ensure an essentially equivalent level of data protection as required by the GDPR.
 
 In the event where you are a Buyer and have access to personal information belonging to Users from China on the Platform, you shall comply with the [Alibaba.com Website Users Data Processing Terms](https://terms.alicdn.com/legal-agreement/terms/platform_service/20221229143150169/20221229143150169.html).
 
