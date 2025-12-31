@@ -1189,9 +1189,9 @@ UK Users can report content they suspect to be illegal under UK laws using our r
 Effective Date: December 19, 2025  
 Last Updated: December 19, 2025
 
-*   [AR - شروط استخدام Roblox 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873588220948)
+*   [AR - شروط استخدام Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873588220948)
     
-    700 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873588220948)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873588220948)
     
 *   [DE - Nutzungsbedingungen von Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873615804692)
     
@@ -1209,9 +1209,9 @@ Last Updated: December 19, 2025
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873624080788)
     
-*   [ID - Roblox Ketentuan Penggunaan 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873635535764)
+*   [ID - Roblox Ketentuan Penggunaan 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873635535764)
     
-    400 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873635535764)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873635535764)
     
 *   [IT - Condizioni di utilizzo di Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873635889940)
     
@@ -1237,9 +1237,9 @@ Last Updated: December 19, 2025
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873618817812)
     
-*   [TH - ข้อกำหนดการใช้งานของ Roblox 20251104.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873626399892)
+*   [TH - ข้อกำหนดการใช้งานของ Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873626399892)
     
-    700 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873626399892)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/38873626399892)
     
 *   [TR - Roblox Kullanım Koşulları 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/38873606337300)
     
