@@ -246,13 +246,15 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      
      If your Services are interrupted, you may have certain rights depending on where you live.
      
-     *    **For Connecticut residents:** In the event of an interruption of TV of more than twenty-four (24) consecutive hours and of which we have received actual notice, a credit will be issued to your TV monthly service charges for the length of time TV was interrupted.
+     *   **For Connecticut residents:** In the event of an interruption of TV of more than twenty-four (24) consecutive hours and of which we have received actual notice, a credit will be issued to your TV monthly service charges for the length of time TV was interrupted.
          
-     *    **For Maine residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
+     *   **For Maine residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
          
-     *    **For New Jersey residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
+     *   **For New Jersey residents:** In the event TV is interrupted for six (6) or more consecutive hours, you may request a pro rata credit or refund by calling 1-800-XFINITY within thirty (30) days of the service outage.
          
-     *    **For New York residents:** In the event TV is interrupted for at least four (4) hours between 6:00 p.m. and 12:00 a.m., except for emergency notice events, a credit equal to one day will be issued to your TV monthly service charges. If TV is interrupted for less than four (4) hours or outside of the hours of 6:00 p.m. and 12:00 a.m., please call 1-800-XFINITY to request a credit.
+     *   **For New York residents:** In the event TV is interrupted for at least four (4) hours between 6:00 p.m. and 12:00 a.m., except for emergency notice events, a credit equal to one day will be issued to your TV monthly service charges. If TV is interrupted for less than four (4) hours or outside of the hours of 6:00 p.m. and 12:00 a.m., please call 1-800-XFINITY to request a credit.
+         
+     *   **For Ohio residents:** In the event TV is interrupted for four (4) or more hours in a given day and found to be caused by Xfinity, you may request a credit equal to one day of TV service. In the event TV is interrupted for more than twenty-four (24) consecutive hours and is found not to be caused by Xfinity, a pro rata hourly credit may be requested for each hour interruption.
          
      
       **g. Our liability for third parties is limited**
@@ -359,7 +361,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      
 19.  ### YOUR REPRESENTATIONS AND WARRANTIES
      
-      **You represent and warrant that you are at least 18 years of age and that you have provided us with information that is accurate, complete, and current.**For example, you must provide us with your accurate, complete, and current legal name, address (including apartment, unit, suite number, etc., where applicable), telephone number(s), the number of devices on which or through which the Services are being used, and payment information. You must also provide accurate information when authorizing recurring payments. You agree to promptly update your contact information to keep it accurate and complete. YOU ARE RESPONSIBLE FOR MAINTAINING THE ACCURACY OF YOUR INFORMATION, EVEN AFTER TERMINATION OF THIS AGREEMENT, UNTIL YOU PAY ALL AMOUNTS DUE AND RETURN ALL XFINITY EQUIPMENT. FAILURE TO DO SO IS A BREACH OF THIS AGREEMENT.
+     **You represent and warrant that you are at least 18 years of age and that you have provided us with information that is accurate, complete, and current.** For example, you must provide us with your accurate, complete, and current legal name, address (including apartment, unit, suite number, etc., where applicable), telephone number(s), the number of devices on which or through which the Services are being used, and payment information. You must also provide accurate information when authorizing recurring payments. You agree to promptly update your contact information to keep it accurate and complete. YOU ARE RESPONSIBLE FOR MAINTAINING THE ACCURACY OF YOUR INFORMATION, EVEN AFTER TERMINATION OF THIS AGREEMENT, UNTIL YOU PAY ALL AMOUNTS DUE AND RETURN ALL XFINITY EQUIPMENT. FAILURE TO DO SO IS A BREACH OF THIS AGREEMENT.
      
      **You represent and warrant that you will comply with all applicable laws, including export rules.**
      
@@ -389,15 +391,15 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      
      If you experience a problem with your Services, please contact us first and give us an opportunity to resolve your problem.
      
-     *    **Massachusetts Residents:**In addition, if you are unsatisfied with our handling of your TV complaint, you may contact the Consumer Division of the Department of Telecommunications and Cable (DTC) toll free at 1-800-392-6066, or you may write to them at 1000 Washington Street, Suite 600, Boston, MA 02118.
-     *    **Connecticut Residents:**If a TV matter is not resolved to your satisfaction, please contact the Connecticut Public Utilities Regulatory Authority at 1-800-382-4586 (toll free within Connecticut) or 1-860-827-1553 (outside Connecticut) or TDD 1-860-827-2837.
-     *    **New York Residents:**If your TV concerns have not been resolved, contact your local government, or call the  **New York State Public Service Commission (PSC) at 1-800-342-3377,**or write to:  **Customer Service Representative, New York State Public Service Commission, Office of Customer Services,**Three Empire State Plaza, Albany, NY 12223-1350.
-     *    **New Hampshire Residents:**The Office of the Attorney General Consumer Protection Bureau has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Protection Bureau, 33 Capitol Street, Concord, NH 03301.
-     *    **Maine Residents:**The Office of the Attorney General Consumer Protection Division has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Information and Mediation Service, 6 State House Station, Augusta, ME 04333.
-     *   **Seattle, Washington Residents:** Contact the City's Digital Equity Program, the City's Hub for Cable Assistance. Leave a message on the 24-hour Digital Equity line: **(206) 684-8498**, via the Web: **[seattle.gov/cable](https://seattle.gov/cable)** or write to **P.O. Box 94709, Seattle, Washington 98124-4709**.  For more information on the **Cable Customer Bill of Rights (CCBOR)** visit: **[seattle.gov/cable](https://seattle.gov/cable)**.
+     *   **Connecticut Residents:** If a TV matter is not resolved to your satisfaction, please contact the Connecticut Public Utilities Regulatory Authority at 1-800-382-4586 (toll free within Connecticut) or 1-860-827-1553 (outside Connecticut) or TDD 1-860-827-2837.
+     *   **Maine Residents:** The Office of the Attorney General Consumer Protection Division has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Information and Mediation Service, 6 State House Station, Augusta, ME 04333.
+     *   **Massachusetts Residents:** In addition, if you are unsatisfied with our handling of your TV complaint, you may contact the Consumer Division of the Department of Telecommunications and Cable (DTC) toll free at 1-800-392-6066, or you may write to them at 1000 Washington Street, Suite 600, Boston, MA 02118.
+     *   **New Hampshire Residents:** The Office of the Attorney General Consumer Protection Bureau has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Protection Bureau, 33 Capitol Street, Concord, NH 03301.
+     *   **New York Residents:** If your TV concerns have not been resolved, contact your local government, or call the **New York State Public Service Commission (PSC) at 1-800-342-3377,** or write to: **Customer Service Representative, New York State Public Service Commission, Office of Customer Services,** Three Empire State Plaza, Albany, NY 12223-1350.
+     *   **West Virginia Residents:** If your TV complaint has not been resolved to your satisfaction, contact the **West Virginia Public Service Commission (WVPSC) at 1-800-344-5113,** write to **Public Service Commission of West Virginia,** PO Box 812, Charleston, WV 25323, or submit a complaint form through their website, www.psc.state.wv.us/. Written complaints to the Commission must include the name and address of the cable operator, a clear and concise statement of the facts, and the remedy sought. In the event the Commission cannot, informally, resolve your complaint to the satisfaction of all parties, you are entitled to file a request for a formal hearing before the Commission.
 26.  ### SURVIVAL
      
      The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
      
 
-Stnd1025
+Stnd0126
