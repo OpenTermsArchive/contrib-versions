@@ -1153,7 +1153,7 @@ Leur disponibilité et leur contenu peuvent varier en cours d’Abonnement, sans
 
 **ARTICLE  3 - PRIX DU SERVICE**
 
-**3.1.** Le prix de l’Abonnement au Service est celui qui est indiqué sur le Site le jour où l'Abonné passe commande de l'Abonnement au Service.  
+**3.1.** Le prix de l’Abonnement au Service est celui qui est indiqué sur le Site le jour où l’Abonné passe commande de l'Abonnement au Service.  
 
 Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de l’Abonnement au Service, Cdiscount en informera personnellement l’Abonné, par email, préalablement à l'application de ce prix, lequel ne sera en tout état de cause applicable, qu'au jour du renouvellement de l’Abonnement au Service dans les conditions précisées ci-après.  
   
