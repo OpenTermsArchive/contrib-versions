@@ -1,7 +1,7 @@
 Amazon.com Privacy Notice
 =========================
 
-**Last updated: June 30, 2025.** View the [prior version](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900) of this Privacy Notice.
+**Last updated: December 31, 2025.** View the [prior version](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900) of this Privacy Notice.
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon products, services, stores, website and physical locations, devices and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
 
@@ -129,6 +129,7 @@ Related Practices and Information
 *   [Help pages](https://www.amazon.com/hz/contact-us/foresight/hubgateway)
 *   [Most Recent Purchases](https://www.amazon.com/your-orders)
 *   [Community Guidelines](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF)
+*   [Generative AI Development Disclosure](https://www.amazon.com/gp/help/customer/display.html?nodeId=TmGoGN3UbFaQ1CAph7)
 
 Examples of Information Collected
 ---------------------------------
