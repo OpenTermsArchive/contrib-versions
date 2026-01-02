@@ -5,7 +5,7 @@ When you use the Gutenberg website, no personally identifiable information is co
 
 Project Gutenberg processes data from its access logs, including your IP address, for periodic analysis of website usage, quality assurance, and aggregate reporting. All access log data, _including_ your IP address, are _automatically_ and _permanently_ deleted after at most 60 days.
 
-All requests for data addition, correction, or deletion should be sent by email to `errata2025 (at) pglaf.org`
+All requests for data addition, correction, or deletion should be sent by email to `errata2026 (at) pglaf.org`
 
 Uses of Cookies and Captchas
 ----------------------------
