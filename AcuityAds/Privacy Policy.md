@@ -145,6 +145,10 @@ If you have a particularly sensitive request, you may want to consider contactin
 
 illumin reserves the right to revise its policies and practices periodically. If you would like to keep up to date, please visit this page to find out about any changes. We will post any updates as well as their effective dates on this webpage.
 
+### Appendix
+
+*   [Legitimate Interest Assessment](https://illumin.com/legalcenter/appendix-1-legitimate-interest-assessment/)
+
 ### Contacting us
 
 If you have any questions about our privacy policy or data protection, please contact us:
