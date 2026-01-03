@@ -324,7 +324,7 @@ In the event of a conflict, the English language version shall govern.
 *   [User Guidelines](https://evernote.com/legal/user-guidelines)
 *   [Commercial Terms](https://evernote.com/legal/commercial-terms)
 *   [Supplemental Terms](https://evernote.com/legal/supplemental-terms)
-*   [Evernote Teams Agreement](https://evernote.com/legal/enterprise)
+*   [Evernote Enterprise Agreement](https://evernote.com/legal/enterprise)
 *   [Glossary](https://evernote.com/legal/glossary)
 *   [IP Compliance Program](https://evernote.com/legal/ip-compliance)
 *   [Trademark Use](https://evernote.com/legal/trademark-use)
