@@ -8,7 +8,7 @@ Frequently asked questions
 
 ### Why was Optimize sunsetted?
 
-We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in third-party A/B testing integrations for Google Analytics 4. We are focused on bringing the most effective solutions and integrations to our customers, especially as we look toward the future with Google Analytics 4.
+We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in third-party A/B testing integrations for Google Analytics. We are focused on bringing the most effective solutions and integrations to our customers, especially as we look toward the future with Google Analytics.
 
 Optimize, though a longstanding product, did not have many of the features and services that our customers request and need for experimentation testing. We therefore have decided to invest in solutions that will be more effective for our customers.
 
