@@ -1,7 +1,7 @@
 Cookie Policy
 -------------
 
-Last Modified: 3rd July 2025
+Last Modified: 7th January 2026
 
 This policy applies to the websites at [overleaf.com](https://www.overleaf.com/), [sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -49,6 +49,7 @@ We use various third party services in connection with Overleaf that also involv
 | `_gcl*` | 90 days | Analytics used to distinguish users - May include other cookies for Google Ads functioning as per [Google documentation](https://business.safety.google/adscookies/) | choose 'essential cookies only' in our cookie banner |
 | `hj*` | 365 days | Analytics used to distinguish users - May include other cookies for Hotjar functioning as per [Hotjar documentation](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | choose 'essential cookies only' in our cookie banner |
 | `*.propensity.com` | 13 months | Marketing, advertising, sales, and analytics | choose 'essential cookies only' in our cookie banner |
+| `*.linkedin.com` | 12 months | Analytics used to distinguish users - May include other cookies for LinkedIn functioning as per [LinkedIn documentation](https://www.linkedin.com/legal/l/cookie-table#thirdparty) | choose 'essential cookies only' in our cookie banner |
 
 ### Update on sharelatex
 
