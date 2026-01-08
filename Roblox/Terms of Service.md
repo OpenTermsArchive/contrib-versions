@@ -101,7 +101,7 @@ Roblox Terms of Use
     *   [Section 2: Content harmful to children](#section-2-content-harmful-to-children)
 
 Effective Date: December 19, 2025  
-Last Updated: December 19, 2025
+Last Updated: January 7, 2026
 
 [Introduction](#introduction)  
 [USER TERMS](#user-terms)  
@@ -146,6 +146,7 @@ The Roblox TermsThe terms and conditions that apply to and govern a User’s and
     *   **Europe.** These terms apply to Users located in EU/EEA.
     *   **United Kingdom.** These terms apply to Users located in the United Kingdom.
     *   **Vietnam.** Part A of these terms applies to Users located in Vietnam. Part B of these terms governs the publication of Creator UGC in Vietnam and applies to all Creators, whether located inside or outside of Vietnam.
+    *   **Australia**. These terms apply to Users located in Australia.
 
 Plus certain other Additional TermsAny set of terms and conditions—other than the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions—that applies to a User’s or Creator’s use of the Services., which may be applicable depending on your use of the ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox, and PlayStation apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services. and may require separate consent. These include but are not limited to:
 
