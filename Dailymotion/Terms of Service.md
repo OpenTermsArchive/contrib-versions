@@ -9,7 +9,7 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 Last update:
 
-December 5, 2025. The new changes become **effective as of December 12, 2025**.
+January 8, 2026. The new changes become **effective as of January 15, 2026**.
 
 If you do not agree to the updated Terms, you can stop using the Dailymotion Service. If you continue to use the Dailymotion Service after the effective date, we consider that you accepted the updated Terms.
 
@@ -29,7 +29,7 @@ If you do not agree to the updated Terms, you can stop using the Dailymotion Ser
 
 1.7. Both Users and Partners can record and/or edit video files via the Dailymotion Service, upload those video files on the Dailymotion Service, post comments and reacts, provide further information with each video, such as a title, a description, and pick a video category. Any and all elements saved or posted through Your Dailymotion Account on the Dailymotion Service are deemed to be “**Your Content**”.
 
-1.8. Users and Partners are expected to be an active part of the Dailymotion community. As such, You acknowledge that if Your Dailymotion Account remains inactive for a significant period of time, Dailymotion reserves the right to delete, reclaim or remove Your Dailymotion Account in its sole discretion with or without prior notice to You.
+1.8. Users and Partners are expected to be an active part of the Dailymotion community. As such, You acknowledge that if Your Dailymotion Account remains inactive for a significant period of time, Dailymotion reserves the right to delete, reclaim or remove Your Dailymotion Account for this reason, with or without prior notice to You.
 
 1.9. Any individual or entity accessing the Dailymotion Service may be referred hereafter as a “**Visitor,**” regardless of their status (Viewer, User or Partner). Any Visitor shall respect these Terms.
 
@@ -183,7 +183,7 @@ For clarity, when the provision or use of the Dailymotion Service involves trans
 
 8.6. Dailymotion takes Your privacy and the protection of Your personal data collected and processed in connection with Your use of the Dailymotion Service very seriously. If You want to find out more about the personal data collected, how we collect it and the related processes, You can check our [Privacy Policy](https://www.dailymotion.com/legal/privacy) any time available from the Dailymotion homepage.
 
-8.7. Please note that the Dailymotion Service relies on content recommendation tools. You may find more information about these tools on our dedicated page: [Dailymotion Recommendation Tools Transparency](https://legal.dailymotion.com/en/recommendation-tools-transparency/) where we explain how our recommendation systems work, highlighting transparency, diversity, and user control. Recommendations are based on user interactions, content metadata, and engagement trends, while promoting a wide variety of creators and topics. Users can personalize or reset their feed at any time.
+8.7. Please note that the Dailymotion Service relies on automated content recommendation tools. You may find more information about these tools on our dedicated page: [Dailymotion Recommendation Tools Transparency](https://legal.dailymotion.com/en/recommendation-tools-transparency/) where we explain how our recommendation systems work, highlighting transparency, diversity, and user control. Recommendations are based on user interactions, content metadata, and engagement trends, while promoting a wide variety of creators and topics. Users can personalize or reset their feed at any time.
 
 ###   
 **SECTION 9: MISCELLANEOUS**
