@@ -161,8 +161,6 @@ We may transfer, process, and store all personal information we collect anywhere
 
 If we transfer personal information from the European Economic Area, Switzerland, Brazil and/or the United Kingdom to a country that does not provide an adequate level of protection under applicable data protection laws, we will do so (i) using appropriate safeguards; (ii) based on safeguards like the European Commission-approved, UK Government-approved, or Brazil’s Data Protection Authority Standard Contractual Clauses or Addenda; or (iii) otherwise in accordance with applicable data protection laws.
 
-If we transfer personal information from the European Economic Area, Switzerland, Brazil and/or the United Kingdom to a country that does not provide an adequate level of protection under applicable data protection laws, we will do so (i) using appropriate safeguards; (ii) based on safeguards like the European Commission-approved, UK Government-approved, or Brazil’s Data Protection Authority Standard Contractual Clauses or Addenda; or (iii) otherwise in accordance with applicable data protection laws.
-
 For more information about the safeguards we use for international transfers of your personal information, please contact us as set forth below.
 
 13\. Your Privacy Choices and Rights
