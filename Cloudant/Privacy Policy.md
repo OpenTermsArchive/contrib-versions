@@ -105,7 +105,7 @@ We accept no responsibility for the content provided on, or privacy practices, o
 
 #### Marketing
 
-Subject to your preferences, we use the information that we collect to communicate with you about relevant products, services, and offerings. We also use this information to personalize your online experience with our content and advertisements and to develop internal marketing and business intelligence. To set or update your preferences with regards to marketing communications by email, phone, or postal, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center"). You may also submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** at the bottom of each marketing email. To review or set your preferences regarding the information that we collect about you online on our websites, select **Cookie Preferences** in the website footer.
+Subject to your preferences, we use the information that we collect to communicate with you about relevant products, services, and offerings. We also use this information to personalize your online experience with our content and advertisements and to develop internal marketing and business intelligence. You may submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** at the bottom of each marketing email. To review or set your preferences regarding the information that we collect about you online on our websites, select **Cookie Preferences** in the website footer.
 
 Learn more
 
@@ -121,7 +121,7 @@ Subject to your preferences, we may use this information to market to you regard
 *   Personalize your experience with IBM products and services, such as sharing more relevant content or pre-filling registration forms on our websites.
 *   Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address.
 
-To set or update your preferences with regards to marketing activities using your email address, phone, or postal address, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center").  You may also submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** in each marketing email.
+To set or update your preferences you may submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** in each marketing email.
 
 To opt out of the use of your hashed email for personalization or targeted advertising, you can withdraw your email consent by using any of these options.
 
@@ -206,7 +206,7 @@ We collect information from the use of our business processes, websites, cloud a
 
 #### Cookies and Similar Technologies
 
-When you visit our websites, cloud and online services, software products, or view our content on certain third-party websites, we collect information regarding your connection and your activity by using various online tracking technologies, such as cookies, web beacons, Local Storage, or HTML5. Information that is collected with these technologies may be necessary to operate the website or service, to improve performance, to help us understand how our online services are used, or to determine the interests of our users. We use advertising partners to provide and assist in the use of such technologies on IBM and other sites.
+When you visit our websites, cloud and online services, software products, or view our content on certain third-party websites, we collect information regarding your connection and your activity by using various online tracking technologies, such as cookies, web beacons, Local Storage, or HTML5. Information that is collected with these technologies may be necessary to operate the website or service, to improve performance, to help us understand how our online services are used, to determine the interests of our users or to enable access continuity that eliminates repeated form submissions. We use advertising partners to provide and assist in the use of such technologies on IBM and other sites.
 
 Learn more
 
@@ -365,7 +365,7 @@ You may also have the right to complain to the competent supervisory authority. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
 
-To set or update your marketing communications preferences, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en). You can also submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537), or select **Unsubscribe** at the end of each marketing email.
+To set or update your marketing communications preferences, you can submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537), or select **Unsubscribe** at the end of each marketing email.
 
 Legal Basis
 -----------
