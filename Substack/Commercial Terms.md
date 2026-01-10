@@ -169,7 +169,7 @@ The above covers most of the questions that we typically receive about Substack.
 *   Entire Agreement: You agree that this Agreement is the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement. 
     
 
-### [](#annex)**[ANNEX 1](https://substack.com/pa#annex)**
+### [](#annex-1)**[ANNEX 1](https://substack.com/pa#annex)**
 
 #### [](#data-processing-addendum-dpa)**[Data processing addendum (DPA)](https://substack.com/pa#data-processing-addendum-dpa)**
 
@@ -257,7 +257,7 @@ This DPA shall automatically terminate upon any termination or expiration of the
 | --- | --- | --- |
 |     | [![](https://substackcdn.com/image/fetch/$s_!_6rl!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88837eb1-29ac-4249-9fea-40401d7ebb85_1126x1420.png)](https://substackcdn.com/image/fetch/$s_!_6rl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88837eb1-29ac-4249-9fea-40401d7ebb85_1126x1420.png) |     |
 
-### [](#appendix-to-the-dpa)_**[APPENDIX 3 TO THE DPA](https://substack.com/pa#appendix-to-the-dpa)**_
+### [](#appendix-3-to-the-dpa)_**[APPENDIX 3 TO THE DPA](https://substack.com/pa#appendix-to-the-dpa)**_
 
 **STANDARD CONTRACTUAL CLAUSES**
 
@@ -265,7 +265,7 @@ This DPA shall automatically terminate upon any termination or expiration of the
 
 ### [](#section-i)**[SECTION I](https://substack.com/pa#section-i)**
 
-### [](#clause)_**[Clause 1](https://substack.com/pa#clause)**_
+### [](#clause-1)_**[Clause 1](https://substack.com/pa#clause)**_
 
 #### [](#purpose-and-scope)**[Purpose and scope](https://substack.com/pa#purpose-and-scope)**
 
@@ -283,9 +283,9 @@ This DPA shall automatically terminate upon any termination or expiration of the
 > 
 > (d)  The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
 
-##### [](#where-the-data-exporter-is-a-processor-subject-to-regulation-eu-acting-on-behalf-of-a-union-institution-or-body-as-controller-reliance-on-these-clauses-when-engaging-another-processor-sub-processing-not-subject-to-regulation-eu-also-ensures-compliance-with-article-of-regulation-eu-of-the-european-parliament-and-of-the-council-of-october-on-the-protection-of-natural-persons-with-regard-to-the-processing-of-personal-data-by-the-union-instituti)**[\[1\] Where the data exporter is a processor subject to Regulation (EU) 2016/679 acting on behalf of a Union institution or body as controller, reliance on these Clauses when engaging another processor (sub-processing) not subject to Regulation (EU) 2016/679 also ensures compliance with Article 29(4) of Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39), to the extent these Clauses and the data protection obligations as set out in the contract or other legal act between the controller and the processor pursuant to Article 29(3) of Regulation (EU) 2018/1725 are aligned. This will in particular be the case where the controller and processor rely on the standard contractual clauses included in Decision 2021/915.](https://substack.com/pa#where-the-data-exporter-is-a-processor-subject-to-regulation-eu-acting-on-behalf-of-a-union-institution-or-body-as-controller-reliance-on-these-clauses-when-engaging-another-processor-sub-processing-not-subject-to-regulation-eu-also-ensures-compliance-with-article-of-regulation-eu-of-the-european-parliament-and-of-the-council-of-october-on-the-protection-of-natural-persons-with-regard-to-the-processing-of-personal-data-by-the-union-instituti)**
+##### [](#1-where-the-data-exporter-is-a-processor-subject-to-regulation-eu-2016679-acting-on-behalf-of-a-union-institution-or-body-as-controller-reliance-on-these-clauses-when-engaging-another-processor-sub-processing-not-subject-to-regulation-eu-2016679-also-ensures-compliance-with-article-294-of-regulation-eu-20181725-of-the-european-parliament-and-of-the-council-of-23-october-2018-on-the-protection-of-natural-persons-with-regard-to-the-processing-of-personal-data-by-the-union-instituti)**[\[1\] Where the data exporter is a processor subject to Regulation (EU) 2016/679 acting on behalf of a Union institution or body as controller, reliance on these Clauses when engaging another processor (sub-processing) not subject to Regulation (EU) 2016/679 also ensures compliance with Article 29(4) of Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39), to the extent these Clauses and the data protection obligations as set out in the contract or other legal act between the controller and the processor pursuant to Article 29(3) of Regulation (EU) 2018/1725 are aligned. This will in particular be the case where the controller and processor rely on the standard contractual clauses included in Decision 2021/915.](https://substack.com/pa#where-the-data-exporter-is-a-processor-subject-to-regulation-eu-acting-on-behalf-of-a-union-institution-or-body-as-controller-reliance-on-these-clauses-when-engaging-another-processor-sub-processing-not-subject-to-regulation-eu-also-ensures-compliance-with-article-of-regulation-eu-of-the-european-parliament-and-of-the-council-of-october-on-the-protection-of-natural-persons-with-regard-to-the-processing-of-personal-data-by-the-union-instituti)**
 
-### [](#clause)_**[Clause 2](https://substack.com/pa#clause)**_
+### [](#clause-2)_**[Clause 2](https://substack.com/pa#clause)**_
 
 #### [](#effect-and-invariability-of-the-clauses)**[Effect and invariability of the Clauses](https://substack.com/pa#effect-and-invariability-of-the-clauses)**
 
@@ -293,7 +293,7 @@ This DPA shall automatically terminate upon any termination or expiration of the
 > 
 > (b)  These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
 
-### [](#clause)_**[Clause 3](https://substack.com/pa#clause)**_
+### [](#clause-3)_**[Clause 3](https://substack.com/pa#clause)**_
 
 #### [](#third-party-beneficiaries)**[Third-party beneficiaries](https://substack.com/pa#third-party-beneficiaries)**
 
@@ -317,7 +317,7 @@ This DPA shall automatically terminate upon any termination or expiration of the
 > 
 > (b)  Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
 
-### [](#clause)_**[Clause 4](https://substack.com/pa#clause)**_
+### [](#clause-4)_**[Clause 4](https://substack.com/pa#clause)**_
 
 #### [](#interpretation)**[Interpretation](https://substack.com/pa#interpretation)**
 
@@ -327,19 +327,19 @@ This DPA shall automatically terminate upon any termination or expiration of the
 > 
 > (c)  These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
 
-### [](#clause)_**[Clause 5](https://substack.com/pa#clause)**_
+### [](#clause-5)_**[Clause 5](https://substack.com/pa#clause)**_
 
 #### [](#hierarchy)**[Hierarchy](https://substack.com/pa#hierarchy)**
 
 > In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
 
-### [](#clause)_**[Clause 6](https://substack.com/pa#clause)**_
+### [](#clause-6)_**[Clause 6](https://substack.com/pa#clause)**_
 
 #### [](#description-of-the-transfers)**[Description of the transfer(s)](https://substack.com/pa#description-of-the-transfers)**
 
 > The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
 
-### [](#clause-optional)_**[Clause 7 - Optional](https://substack.com/pa#clause-optional)**_
+### [](#clause-7-optional)_**[Clause 7 - Optional](https://substack.com/pa#clause-optional)**_
 
 #### [](#docking-clause)**[Docking clause](https://substack.com/pa#docking-clause)**
 
@@ -351,35 +351,35 @@ This DPA shall automatically terminate upon any termination or expiration of the
 
 ### [](#section-ii-obligations-of-the-parties)**[Section II - OBLIGATIONS OF THE PARTIES](https://substack.com/pa#section-ii-obligations-of-the-parties)**
 
-### [](#clause)_**[Clause 8](https://substack.com/pa#clause)**_
+### [](#clause-8)_**[Clause 8](https://substack.com/pa#clause)**_
 
 #### [](#data-protection-safeguards)**[Data protection safeguards](https://substack.com/pa#data-protection-safeguards)**
 
 The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.
 
-#### [](#instructions)**[8.1 Instructions](https://substack.com/pa#instructions)**
+#### [](#81-instructions)**[8.1 Instructions](https://substack.com/pa#instructions)**
 
 > (a)  The data importer shall process the personal data only on documented instructions from the data exporter. The data exporter may give such instructions throughout the duration of the contract.
 > 
 > (b)  The data importer shall immediately inform the data exporter if it is unable to follow those instructions.
 
-#### [](#purpose-limitation)**[8.2 Purpose limitation](https://substack.com/pa#purpose-limitation)**
+#### [](#82-purpose-limitation)**[8.2 Purpose limitation](https://substack.com/pa#purpose-limitation)**
 
 > The data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I. B, unless on further instructions from the data exporter.
 
-#### [](#transparency)**[8.3 Transparency](https://substack.com/pa#transparency)**
+#### [](#83-transparency)**[8.3 Transparency](https://substack.com/pa#transparency)**
 
 > On request, the data exporter shall make a copy of these Clauses, including the Appendix as completed by the Parties, available to the data subject free of charge. To the extent necessary to protect business secrets or other confidential information, including the measures described in Annex II and personal data, the data exporter may redact part of the text of the Appendix to these Clauses prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand the its content or exercise his/her rights. On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information. This Clause is without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679.
 
-#### [](#accuracy)**[8.4 Accuracy](https://substack.com/pa#accuracy)**
+#### [](#84-accuracy)**[8.4 Accuracy](https://substack.com/pa#accuracy)**
 
 > If the data importer becomes aware that the personal data it has received is inaccurate, or has become outdated, it shall inform the data exporter without undue delay. In this case, the data importer shall cooperate with the data exporter to erase or rectify the data.
 
-#### [](#duration-of-processing-and-erasure-or-return-of-data)**[8.5 Duration of processing and erasure or return of data](https://substack.com/pa#duration-of-processing-and-erasure-or-return-of-data)**
+#### [](#85-duration-of-processing-and-erasure-or-return-of-data)**[8.5 Duration of processing and erasure or return of data](https://substack.com/pa#duration-of-processing-and-erasure-or-return-of-data)**
 
 > Processing by the data importer shall only take place for the duration specified in Annex I.B. After the end of the provision of the processing services, the data importer shall, at the choice of the data exporter, delete all personal data processed on behalf of the data exporter and certify to the data exporter that it has done so, or return to the data exporter all personal data processed on its behalf and delete existing copies. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit return or deletion of the personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process it to the extent and for as long as required under that local law. This is without prejudice to Clause 14, in particular the requirement for the data importer under Clause 14(e) to notify the data exporter throughout the duration of the contract if it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under Clause 14(a).
 
-#### [](#security-of-processing)**[8.6 Security of processing](https://substack.com/pa#security-of-processing)**
+#### [](#86-security-of-processing)**[8.6 Security of processing](https://substack.com/pa#security-of-processing)**
 
 > (a)  The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to that data (hereinafter ‘personal data breach’). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subjects. The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner. In case of pseudonymisation, the additional information for attributing the personal data to a specific data subject shall, where possible, remain under the exclusive control of the data exporter. In complying with its obligations under this paragraph, the data importer shall at least implement the technical and organisational measures specified in Annex II. The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security.
 > 
@@ -389,11 +389,11 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (d)  The data importer shall cooperate with and assist the data exporter to enable the data exporter to comply with its obligations under Regulation (EU) 2016/679, in particular to notify the competent supervisory authority and the affected data subjects, taking into account the nature of processing and the information available to the data importer.
 
-#### [](#sensitive-data)**[8.7 Sensitive data](https://substack.com/pa#sensitive-data)**
+#### [](#87-sensitive-data)**[8.7 Sensitive data](https://substack.com/pa#sensitive-data)**
 
 > Where the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (hereinafter ‘sensitive data’), the data importer shall apply the specific restrictions and/or additional safeguards described in Annex I.B.
 
-#### [](#onward-transfers)**[8.8 Onward transfers](https://substack.com/pa#onward-transfers)**
+#### [](#88-onward-transfers)**[8.8 Onward transfers](https://substack.com/pa#onward-transfers)**
 
 > The data importer shall only disclose the personal data to a third party on documented instructions from the data exporter. In addition, the data may only be disclosed to a third party located outside the European Union (\[2\]) (in the same country as the data importer or in another third country, hereinafter ‘onward transfer’) if the third party is or agrees to be bound by these Clauses, under the appropriate Module, or if:
 > 
@@ -407,7 +407,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation.
 
-#### [](#documentation-and-compliance)**[8.9 Documentation and compliance](https://substack.com/pa#documentation-and-compliance)**
+#### [](#89-documentation-and-compliance)**[8.9 Documentation and compliance](https://substack.com/pa#documentation-and-compliance)**
 
 > (a)  The data importer shall promptly and adequately deal with enquiries from the data exporter that relate to the processing under these Clauses.
 > 
@@ -419,9 +419,9 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (e)  The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.
 
-##### [](#the-agreement-on-the-european-economic-area-eea-agreement-provides-for-the-extension-of-the-european-unions-internal-market-to-the-three-eea-states-iceland-liechtenstein-and-norway-the-union-data-protection-legislation-including-regulation-eu-is-covered-by-the-eea-agreement-and-has-been-incorporated-into-annex-xi-thereto-therefore-any-disclosure-by-the-data-importer-to-a-third-party-located-in-the-eea-does-not-qualify-as-an-onward-transfer-for-the-purpose-of-these-clauses)**[\[2\] The Agreement on the European Economic Area (EEA Agreement) provides for the extension of the European Union’s internal market to the three EEA States Iceland, Liechtenstein and Norway. The Union data protection legislation, including Regulation (EU) 2016/679, is covered by the EEA Agreement and has been incorporated into Annex XI thereto. Therefore, any disclosure by the data importer to a third party located in the EEA does not qualify as an onward transfer for the purpose of these Clauses.](https://substack.com/pa#the-agreement-on-the-european-economic-area-eea-agreement-provides-for-the-extension-of-the-european-unions-internal-market-to-the-three-eea-states-iceland-liechtenstein-and-norway-the-union-data-protection-legislation-including-regulation-eu-is-covered-by-the-eea-agreement-and-has-been-incorporated-into-annex-xi-thereto-therefore-any-disclosure-by-the-data-importer-to-a-third-party-located-in-the-eea-does-not-qualify-as-an-onward-transfer-for-the-purpose-of-these-clauses)**
+##### [](#2-the-agreement-on-the-european-economic-area-eea-agreement-provides-for-the-extension-of-the-european-unions-internal-market-to-the-three-eea-states-iceland-liechtenstein-and-norway-the-union-data-protection-legislation-including-regulation-eu-2016679-is-covered-by-the-eea-agreement-and-has-been-incorporated-into-annex-xi-thereto-therefore-any-disclosure-by-the-data-importer-to-a-third-party-located-in-the-eea-does-not-qualify-as-an-onward-transfer-for-the-purpose-of-these-clauses)**[\[2\] The Agreement on the European Economic Area (EEA Agreement) provides for the extension of the European Union’s internal market to the three EEA States Iceland, Liechtenstein and Norway. The Union data protection legislation, including Regulation (EU) 2016/679, is covered by the EEA Agreement and has been incorporated into Annex XI thereto. Therefore, any disclosure by the data importer to a third party located in the EEA does not qualify as an onward transfer for the purpose of these Clauses.](https://substack.com/pa#the-agreement-on-the-european-economic-area-eea-agreement-provides-for-the-extension-of-the-european-unions-internal-market-to-the-three-eea-states-iceland-liechtenstein-and-norway-the-union-data-protection-legislation-including-regulation-eu-is-covered-by-the-eea-agreement-and-has-been-incorporated-into-annex-xi-thereto-therefore-any-disclosure-by-the-data-importer-to-a-third-party-located-in-the-eea-does-not-qualify-as-an-onward-transfer-for-the-purpose-of-these-clauses)**
 
-### [](#clause)_**[Clause 9](https://substack.com/pa#clause)**_
+### [](#clause-9)_**[Clause 9](https://substack.com/pa#clause)**_
 
 #### [](#use-of-sub-processors)**[Use of sub-processors](https://substack.com/pa#use-of-sub-processors)**
 
@@ -435,7 +435,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (d)  The data importer shall agree a third-party beneficiary clause with the sub-processor whereby – in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent – the data exporter shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
 
-### [](#clause)_**[Clause 10](https://substack.com/pa#clause)**_
+### [](#clause-10)_**[Clause 10](https://substack.com/pa#clause)**_
 
 #### [](#data-subject-rights)**[Data subject rights](https://substack.com/pa#data-subject-rights)**
 
@@ -445,7 +445,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (c)  In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.
 
-### [](#clause)_**[Clause 11](https://substack.com/pa#clause)**_
+### [](#clause-11)_**[Clause 11](https://substack.com/pa#clause)**_
 
 #### [](#redress)**[Redress](https://substack.com/pa#redress)**
 
@@ -465,7 +465,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (f)   The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
 
-### [](#clause)_**[Clause 12](https://substack.com/pa#clause)**_
+### [](#clause-12)_**[Clause 12](https://substack.com/pa#clause)**_
 
 #### [](#liability)**[Liability](https://substack.com/pa#liability)**
 
@@ -483,7 +483,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (g)  The data importer may not invoke the conduct of a sub-processor to avoid its own liability.
 
-### [](#clause)_**[Clause 13](https://substack.com/pa#clause)**_
+### [](#clause-13)_**[Clause 13](https://substack.com/pa#clause)**_
 
 #### [](#supervision)**[Supervision](https://substack.com/pa#supervision)**
 
@@ -495,11 +495,11 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (b)  The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses. In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures. It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
 
-##### [](#this-requirement-may-be-satisfied-by-the-sub-processor-acceding-to-these-clauses-under-the-appropriate-module-in-accordance-with-clause)**[\[3\] This requirement may be satisfied by the sub-processor acceding to these Clauses under the appropriate Module, in accordance with Clause 7.](https://substack.com/pa#this-requirement-may-be-satisfied-by-the-sub-processor-acceding-to-these-clauses-under-the-appropriate-module-in-accordance-with-clause)**
+##### [](#3-this-requirement-may-be-satisfied-by-the-sub-processor-acceding-to-these-clauses-under-the-appropriate-module-in-accordance-with-clause-7)**[\[3\] This requirement may be satisfied by the sub-processor acceding to these Clauses under the appropriate Module, in accordance with Clause 7.](https://substack.com/pa#this-requirement-may-be-satisfied-by-the-sub-processor-acceding-to-these-clauses-under-the-appropriate-module-in-accordance-with-clause)**
 
 ### [](#section-iii-local-laws-and-obligations-in-case-of-access-by-public-authorities)**[SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES](https://substack.com/pa#section-iii-local-laws-and-obligations-in-case-of-access-by-public-authorities)**
 
-### [](#clause)_**[Clause 14](https://substack.com/pa#clause)**_
+### [](#clause-14)_**[Clause 14](https://substack.com/pa#clause)**_
 
 #### [](#local-laws-and-practices-affecting-compliance-with-the-clauses)**[Local laws and practices affecting compliance with the Clauses](https://substack.com/pa#local-laws-and-practices-affecting-compliance-with-the-clauses)**
 
@@ -521,13 +521,13 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (f)   Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
 
-##### [](#as-regards-the-impact-of-such-laws-and-practices-on-compliance-with-these-clauses-different-elements-may-be-considered-as-part-of-an-overall-assessment-such-elements-may-include-relevant-and-documented-practical-experience-with-prior-instances-of-requests-for-disclosure-from-public-authorities-or-the-absence-of-such-requests-covering-a-sufficiently-representative-time-frame-this-refers-in-particular-to-internal-records-or-other-documentation-drawn-up-on-a-continuous-basis-in-accordance)**[\[5\] As regards the impact of such laws and practices on compliance with these Clauses, different elements may be considered as part of an overall assessment. Such elements may include relevant and documented practical experience with prior instances of requests for disclosure from public authorities, or the absence of such requests, covering a sufficiently representative time-frame. This refers in particular to internal records or other documentation, drawn up on a continuous basis in accordance with due diligence and certified at senior management level, provided that this information can be lawfully shared with third parties. Where this practical experience is relied upon to conclude that the data importer will not be prevented from complying with these Clauses, it needs to be supported by other relevant, objective elements, and it is for the Parties to consider carefully whether these elements together carry sufficient weight, in terms of their reliability and representativeness, to support this conclusion. In particular, the Parties have to take into account whether their practical experience is corroborated and not contradicted by publicly available or otherwise accessible, reliable information on the existence or absence of requests within the same sector and/or the application of the law in practice, such as case law and reports by independent oversight bodies.](https://substack.com/pa#as-regards-the-impact-of-such-laws-and-practices-on-compliance-with-these-clauses-different-elements-may-be-considered-as-part-of-an-overall-assessment-such-elements-may-include-relevant-and-documented-practical-experience-with-prior-instances-of-requests-for-disclosure-from-public-authorities-or-the-absence-of-such-requests-covering-a-sufficiently-representative-time-frame-this-refers-in-particular-to-internal-records-or-other-documentation-drawn-up-on-a-continuous-basis-in-accordance)**
+##### [](#5-as-regards-the-impact-of-such-laws-and-practices-on-compliance-with-these-clauses-different-elements-may-be-considered-as-part-of-an-overall-assessment-such-elements-may-include-relevant-and-documented-practical-experience-with-prior-instances-of-requests-for-disclosure-from-public-authorities-or-the-absence-of-such-requests-covering-a-sufficiently-representative-time-frame-this-refers-in-particular-to-internal-records-or-other-documentation-drawn-up-on-a-continuous-basis-in-accordance)**[\[5\] As regards the impact of such laws and practices on compliance with these Clauses, different elements may be considered as part of an overall assessment. Such elements may include relevant and documented practical experience with prior instances of requests for disclosure from public authorities, or the absence of such requests, covering a sufficiently representative time-frame. This refers in particular to internal records or other documentation, drawn up on a continuous basis in accordance with due diligence and certified at senior management level, provided that this information can be lawfully shared with third parties. Where this practical experience is relied upon to conclude that the data importer will not be prevented from complying with these Clauses, it needs to be supported by other relevant, objective elements, and it is for the Parties to consider carefully whether these elements together carry sufficient weight, in terms of their reliability and representativeness, to support this conclusion. In particular, the Parties have to take into account whether their practical experience is corroborated and not contradicted by publicly available or otherwise accessible, reliable information on the existence or absence of requests within the same sector and/or the application of the law in practice, such as case law and reports by independent oversight bodies.](https://substack.com/pa#as-regards-the-impact-of-such-laws-and-practices-on-compliance-with-these-clauses-different-elements-may-be-considered-as-part-of-an-overall-assessment-such-elements-may-include-relevant-and-documented-practical-experience-with-prior-instances-of-requests-for-disclosure-from-public-authorities-or-the-absence-of-such-requests-covering-a-sufficiently-representative-time-frame-this-refers-in-particular-to-internal-records-or-other-documentation-drawn-up-on-a-continuous-basis-in-accordance)**
 
-### [](#clause)_**[Clause 15](https://substack.com/pa#clause)**_
+### [](#clause-15)_**[Clause 15](https://substack.com/pa#clause)**_
 
 #### [](#obligations-of-the-data-importer-in-case-of-access-by-public-authorities)**[Obligations of the data importer in case of access by public authorities](https://substack.com/pa#obligations-of-the-data-importer-in-case-of-access-by-public-authorities)**
 
-#### [](#notification)**[15.1  Notification](https://substack.com/pa#notification)**
+#### [](#151-notification)**[15.1  Notification](https://substack.com/pa#notification)**
 
 > (a)  The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
 > 
@@ -543,7 +543,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (e)  Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
 
-#### [](#review-of-legality-and-data-minimization)**[15.2  Review of legality and data minimization](https://substack.com/pa#review-of-legality-and-data-minimization)**
+#### [](#152-review-of-legality-and-data-minimization)**[15.2  Review of legality and data minimization](https://substack.com/pa#review-of-legality-and-data-minimization)**
 
 > (a)  The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
 > 
@@ -553,7 +553,7 @@ The data exporter warrants that it has used reasonable efforts to determine that
 
 ### [](#section-iv-final-provisions)**[SECTION IV – FINAL PROVISIONS](https://substack.com/pa#section-iv-final-provisions)**
 
-### [](#clause)_**[Clause 16](https://substack.com/pa#clause)**_
+### [](#clause-16)_**[Clause 16](https://substack.com/pa#clause)**_
 
 #### [](#non-compliance-with-the-clauses-and-termination)**[Non-compliance with the Clauses and termination](https://substack.com/pa#non-compliance-with-the-clauses-and-termination)**
 
@@ -575,13 +575,13 @@ The data exporter warrants that it has used reasonable efforts to determine that
 > 
 > (e)  Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
 
-### [](#clause)_**[Clause 17](https://substack.com/pa#clause)**_
+### [](#clause-17)_**[Clause 17](https://substack.com/pa#clause)**_
 
 #### [](#governing-law)**[Governing law](https://substack.com/pa#governing-law)**
 
 > These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third- party beneficiary rights. The Parties agree that this shall be the law of the Netherlands.\]
 
-### [](#clause)_**[Clause 18](https://substack.com/pa#clause)**_
+### [](#clause-18)_**[Clause 18](https://substack.com/pa#clause)**_
 
 #### [](#choice-of-forum-and-jurisdiction)**[Choice of forum and jurisdiction](https://substack.com/pa#choice-of-forum-and-jurisdiction)**
 
@@ -615,13 +615,13 @@ The Dutch data protection authority (_Autoriteit Persoonsgegevens_)
 
 ### [](#annex-ii)_**[ANNEX II](https://substack.com/pa#annex-ii)**_
 
-#### [](#please-see-appendix-to-the-dpa)**[Please see Appendix 2 to the DPA](https://substack.com/pa#please-see-appendix-to-the-dpa)**
+#### [](#please-see-appendix-2-to-the-dpa)**[Please see Appendix 2 to the DPA](https://substack.com/pa#please-see-appendix-to-the-dpa)**
 
 ### [](#annex-iii)_**[ANNEX III](https://substack.com/pa#annex-iii)**_
 
 #### [](#list-of-sub-processors)**[LIST OF SUB-PROCESSORS](https://substack.com/pa#list-of-sub-processors)**
 
-#### [](#please-see-appendix-to-the-dpa)**[Please see Appendix 3 to the DPA](https://substack.com/pa#please-see-appendix-to-the-dpa)**
+#### [](#please-see-appendix-3-to-the-dpa)**[Please see Appendix 3 to the DPA](https://substack.com/pa#please-see-appendix-to-the-dpa)**
 
 ### [](#annex-iv)_**[ANNEX IV](https://substack.com/pa#annex-iv)**_
 
@@ -633,21 +633,21 @@ This Addendum is applicable if, when and to the extent a transfer of personal da
 
 This Addendum has been issued by the Information Commissioner for Parties making Restricted Transfers. The Information Commissioner considers that it provides Appropriate Safeguards for Restricted Transfers when it is entered into as a legally binding contract.
 
-### [](#part-tables)**[Part 1: Tables](https://substack.com/pa#part-tables)**
+### [](#part-1-tables)**[Part 1: Tables](https://substack.com/pa#part-tables)**
 
-#### [](#table-parties)**[Table 1: Parties](https://substack.com/pa#table-parties)**
+#### [](#table-1-parties)**[Table 1: Parties](https://substack.com/pa#table-parties)**
 
 |     |     |     |
 | --- | --- | --- |
 |     | [![](https://substackcdn.com/image/fetch/$s_!jyAr!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa20b0141-9216-4f75-92fd-64dda98616e4_1048x538.png)](https://substackcdn.com/image/fetch/$s_!jyAr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa20b0141-9216-4f75-92fd-64dda98616e4_1048x538.png) |     |
 
-#### [](#table-selected-sccs-modules-and-selected-clauses)**[Table 2: Selected SCCs, Modules and Selected Clauses](https://substack.com/pa#table-selected-sccs-modules-and-selected-clauses)**
+#### [](#table-2-selected-sccs-modules-and-selected-clauses)**[Table 2: Selected SCCs, Modules and Selected Clauses](https://substack.com/pa#table-selected-sccs-modules-and-selected-clauses)**
 
 |     |     |     |
 | --- | --- | --- |
 |     | [![](https://substackcdn.com/image/fetch/$s_!OmJ1!,w_538,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f10c7e-870a-42da-8f4b-fed529523259_538x515.png)](https://substackcdn.com/image/fetch/$s_!OmJ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f10c7e-870a-42da-8f4b-fed529523259_538x515.png) |     |
 
-#### [](#table-appendix-information)**[Table 3: Appendix Information](https://substack.com/pa#table-appendix-information)**
+#### [](#table-3-appendix-information)**[Table 3: Appendix Information](https://substack.com/pa#table-appendix-information)**
 
 “**Appendix Information**” means the information which must be provided for the selected modules as set out in the Appendix of the Approved EU SCCs (other than the Parties), and which for this Addendum is set out in:
 
@@ -655,13 +655,13 @@ This Addendum has been issued by the Information Commissioner for Parties making
 | --- | --- | --- |
 |     | [![](https://substackcdn.com/image/fetch/$s_!Ervp!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef960ed4-ca48-432f-a1c3-a528c0efa041_1024x292.png)](https://substackcdn.com/image/fetch/$s_!Ervp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef960ed4-ca48-432f-a1c3-a528c0efa041_1024x292.png) |     |
 
-#### [](#table-ending-this-addendum-when-the-approved-addendum-changes)**[Table 4: Ending this Addendum when the Approved Addendum Changes](https://substack.com/pa#table-ending-this-addendum-when-the-approved-addendum-changes)**
+#### [](#table-4-ending-this-addendum-when-the-approved-addendum-changes)**[Table 4: Ending this Addendum when the Approved Addendum Changes](https://substack.com/pa#table-ending-this-addendum-when-the-approved-addendum-changes)**
 
 |     |     |     |
 | --- | --- | --- |
 |     | [![](https://substackcdn.com/image/fetch/$s_!xlFd!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a72707-c8b1-45f6-a30e-dcde17461ce3_1028x244.png)](https://substackcdn.com/image/fetch/$s_!xlFd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a72707-c8b1-45f6-a30e-dcde17461ce3_1028x244.png) |     |
 
-### [](#part-mandatory-clauses)**[Part 2: Mandatory Clauses](https://substack.com/pa#part-mandatory-clauses)**
+### [](#part-2-mandatory-clauses)**[Part 2: Mandatory Clauses](https://substack.com/pa#part-mandatory-clauses)**
 
 #### [](#entering-into-this-addendum)**[Entering into this Addendum](https://substack.com/pa#entering-into-this-addendum)**
 
