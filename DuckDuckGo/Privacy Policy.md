@@ -1,5 +1,3 @@
-**Update November 2025:** We’ve updated our policy to cover how we’re anonymously improving our own search indexes.
-
 Privacy Policy
 
 We don’t track you.
