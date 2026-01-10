@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last updated: May 20th, 2025
+Last updated on: May 20th, 2025
 
 In these terms of service (“**Terms of Service**”), the words "you," "your," and "User" mean each and every person who accesses or uses any Service (as defined below), including any business or other entity on behalf of which any Service is accessed. The words "we," "us," "our", refer to Dune (as defined below).
 
@@ -11,17 +11,15 @@ All Services are provided by the company Dune Analytics AS, a Norwegian register
 
 IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE WITHOUT LIMITATION OR EXCLUSION OR TO ANY CHANGES TO THESE TERMS OF SERVICE, YOU MUST IMMEDIATELY EXIT THE SITE AND STOP USING THE SERVICE.
 
-Contact
+### Contact
 
-For inquiries, support or to notify Dune of any violations of these Terms of Service, please contact [support@dune.com](mailto:support@dune.com) and we will get back to you as soon as possible.
+For inquiries, support or to notify Dune of any violations of these Terms of Service, please contact support@dune.com and we will get back to you as soon as possible.
 
 General Terms and Conditions
 ============================
 
-**General**
------------
-
-  
+General
+-------
 
 The terms and conditions found in these "General Terms and Conditions" section of the Terms of Service apply to all Services. You understand that specific terms and conditions may apply to certain Users and Services as set out in the following Addenda incorporated into these Terms of Service:
 
@@ -39,7 +37,8 @@ The terms and conditions found in these "General Terms and Conditions" section o
 
 [Data Processing Agreement](https://dune.com/data%20processing%20agreement)
 
-**Services:**
+**  
+Services:**
 
 *   **The Dune Application Service** allows Users to create SQL queries on blockchain data or on data uploaded by the User through the Dune Data Hub Service. The results are visualized as charts and the charts can be assembled into dashboards displayed within the Site.
 *   **The Dune Data Hub Service** allows Users to bring different sets of data through uploads and/or synchronization and connection of data in different formats (as made available by Dune from time to time) into Dune for use of the data in connection with the other Dune Services.
@@ -51,8 +50,8 @@ Your access to Services, specific features, performance and pricing will be dete
 
 Terms provided in the Addenda shall supersede these General Terms and Conditions and control the terms for that specific Service in the case of conflict.
 
-**Changes to the Terms of Service**
------------------------------------
+Changes to the Terms of Service
+-------------------------------
 
 We may make changes to these Terms of Service from time to time. If we do this, we will post the changed Terms of Service on this page and will indicate at the top of this page the date the Terms of Service were last revised. You understand and agree that your continued use of any Service after we have made any such changes constitutes your acceptance of the new Terms of Service.
 
@@ -129,7 +128,7 @@ For information specific to data that you upload to the Dune Data Hub, please se
 
 We reserve the right, but are not obligated to, remove used, forked, copied or reproduced User Content that does not, at Dune’s sole discretion, provide appropriate credits to the User who created the User Content.
 
-**_If you think any User Content infringes your rights, or if you want to challenge any User Content posted or uploaded by another User or your own User Content that has been taken down from the site, please contact us at [support@dune.com](mailto:support@dune.com)._**
+**_If you think any User Content infringes your rights, or if you want to challenge any User Content posted or uploaded by another User or your own User Content that has been taken down from the site, please contact us at support@dune.com._**
 
 Dune AI
 -------
