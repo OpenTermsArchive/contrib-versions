@@ -77,7 +77,7 @@ You may not use automated tools to collect SourceHut data for solicitation, prof
 
 #### [#](#content-rights)Content rights
 
-When uploading content to SourceHut, you must have the right to do so. You grant SourceHut sufficient rights for the operation of the services in relation to your content, such as the right to display the content on the website. These rights are revoked upon the removal of your content from our services. We may retain your content in our system (e.g. for backups) for up to six weeks, but it will not displayed on our website during this period.
+When uploading content to SourceHut, you must have the right to do so. You grant SourceHut sufficient rights for the operation of the services in relation to your content, such as the right to display the content on the website. These rights are revoked upon the removal of your content from our services. We may retain your content in our system (e.g. for backups) for up to six weeks, but it will not display on our website during this period.
 
 If you own the copyright for the content you upload, these rights are granted automatically when you upload the content. If you do not own the copyright, in part or in full, you must have received a license which provides for these rights. You may not upload content for which you do not own the copyright and have not received a suitable license.
 
