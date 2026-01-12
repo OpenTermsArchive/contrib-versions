@@ -126,3 +126,103 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
      **Email:** [privacy@spacex.com](mailto:privacy@spacex.com)
      
      **Postal Mail:** Space Exploration Technologies Corp., Attn: Privacy/Legal, 1 Rocket Road, Hawthorne, CA 90250
+
+- - -
+
+EEA+ Privacy Notice
+===================
+
+_Last updated: November 1, 2022_
+
+If you are located in the **European Economic Area**, **the United Kingdom**, or **Switzerland (EEA+)**, and access our website, subscribe for Starlink services in your personal capacity, or use Starlink services as an authorized user of an organization that subscribes for Starlink services, this EEA+ Privacy Notice applies to you.
+
+As mentioned in our other privacy disclosures, we don’t sell your personal information, but the data protection laws of the EEA+, including the EU General Data Protection Regulation and the so-called UK GDPR (together, “GDPR”), require us to provide information about our data processing practices to certain people in the EEA+.
+
+1.  #### WHO IS THE DATA CONTROLLER?
+    
+    Space Exploration Technologies Corp. is the controller and responsible for your personal data.
+    
+    With effect from June 30, 2021 – our representative in the European Union for data protection matters, pursuant to Article 27 of the GDPR is VeraSafe Ireland Ltd.
+    
+    With effect from June 30, 2021 – our representative in the United Kingdom for data protection matters, pursuant to Article 27 of the UK GDPR is VeraSafe United Kingdom, Ltd.
+    
+    For information about how to contact us or our representatives, please see Section 7 of this Supplemental EEA+ Privacy Notice.
+    
+2.  #### WHAT ARE OUR LEGAL BASES FOR PROCESSING PERSONAL DATA?
+    
+    We rely on the following legal bases to process your personal data, as appropriate:
+    
+    *   necessary for us to perform a contract with you or take steps at your request prior to entering into a contract (“**Contract Performance Legal Basis**”), to comply with an applicable legal obligation (“**Legal Obligations Legal Basis**”), or to realize a legitimate interest based on an assessment of that interest and your privacy and other fundamental interests (“**Legitimate Interest Legal Basis**”); and
+        
+    *   is performed according to your consent (“**Consent Legal Basis**”).
+        
+    
+    More information is provided below. Please contact us if you need details.
+    
+    | Purpose of Use or Disclosure | Legal Basis |
+    | --- | --- |
+    | To manage our relationship with customers, such as communicating with them about our goods and services, providing customer service, and notifying them of changes to our terms or privacy policy | *   If we are legally obligated to respond to your request or inquiry, Legal Obligations Legal Basis.<br>*   In all other cases, Legitimate Interest Legal Basis, including to maintain the quality of and keep our records updated, and understand how customers use our website so that we can improve them for you and others. |
+    | To process and deliver customer orders, and manage payments, fees and charges | *   Contract Performance Legal Basis based on our Terms of Service, Terms of Sale or other applicable contract.<br>*   If the processing of your personal data is necessary for us to collect amounts owed to us, Legitimate Interest Legal Basis based on this legitimate interest. |
+    | To administer and protect our business and services, including troubleshooting, and performing data analysis, testing, system maintenance, support, reporting and hosting of data | *   If the processing is necessary to comply with an applicable contractual obligation with you, Contract Performance Legal Basis per the applicable contract.<br>*   If the processing is necessary to comply with an applicable legal obligation, such as under data security laws, Legal Obligations Legal Basis.<br>*   In all other cases, Legitimate Interest Legal Basis, including as necessary to run our business, provide administration and IT services, maintain network security, and prevent fraud. |
+    | To understand what may be of interest to a customer, deliver relevant news, offers and other content to a customer, and measure or understand the effectiveness of the content, in accordance with applicable laws | *   We process your personal data and contact you for direct marketing purposes on the Consent Legal Basis as required by applicable law.<br>*   In all other cases, Legitimate Interests Legal Basis as necessary to understand how customers use our products and services, to develop and improve them for you and others, to remain a competitive business, and to inform our marketing strategy. |
+    | To use data analytics to debug, optimize, and improve our products and services, marketing, customer relationships and experiences | *   Legitimate Interests Legal Basis as necessary to define types of customers for our products and services, to keep our website updated and relevant, to develop our business, and to inform our marketing strategy. |
+    | To detect, prevent, or otherwise address fraud, security or technical issues, including by monitoring and enforcing compliance with our terms of use, appropriate use policies, and privacy policies<br><br>To comply with legal obligations that apply to us, monitor and ensure compliance with our terms, and defend our legal interests in the event of a potential dispute | *   If the processing is necessary to comply with an applicable contractual obligation with you, Contract Performance Legal Basis per the applicable contract.<br>*   If necessary to comply with applicable laws, Legal Obligations Legal Basis per applicable laws.<br>*   In all other applicable cases, Legitimate Interest Legal Basis to prevent fraud, danger or other unlawful conduct, and to defend our legitimate legal interests. |
+    | Disclose your personal data to our service providers (i.e., processors) as necessary to achieve the above purposes | *   The lawful bases listed above apply to any disclosure necessary to further the corresponding purpose. |
+    | Disclose your personal data to a prospective or actual purchaser or seller in the context of a merger, acquisition or other reorganization or sale of our business or assets. | *   If the confidential processing of your personal data is necessary for us to evaluate or execute such a transaction while protecting our trade secrets or sensitive business information and your privacy interests to do not override such interests, Legitimate Interest Legal Basis based on the pursuit of such legitimate interests.<br>*   Otherwise, we will obtain your consent and rely on the Consent Legal Basis. |
+    | Disclose your personal data to courts, law enforcement or regulatory authorities as permitted or required by applicable law. | *   If necessary to comply with applicable laws, Legal Obligations Legal Basis per applicable laws.<br>*   In all other applicable cases, Legitimate Interest Legal Basis to prevent fraud, danger or other unlawful conduct, and to defend our legitimate legal interests. |
+    
+3.  #### HOW DO WE PROTECT PERSONAL DATA IF WE TRANSFER IT INTERNATIONALLY?
+    
+    We may transfer your personal data to service providers and business partners outside of the EEA and/or UK.
+    
+    Some of these recipients are located in countries in respect of which either the European Commission and/or UK Government (as and where applicable) has issued adequacy decisions, in which case, the recipient’s country is recognized as providing an adequate level of data protection under UK and/or European data protection laws (as applicable) and the transfer is therefore permitted under GDPR Art. 45.
+    
+    Some recipients of your personal data may be located in countries outside of the EEA and/or the UK for which the European Commission or UK Government (as and where applicable) has not issued adequacy decisions in respect of the level of data protection in such countries (“Restricted Countries”). For example, the United States is a Restricted Country. Where we transfer your personal data to a recipient in a Restricted Country, we will either:
+    
+    *   enter into appropriate data transfer agreements based on so-called Standard Contractual Clauses approved from time-to-time under GDPR Art. 46 by the European Commission, the UK Information Commissioner’s Office or UK Government (as and where applicable); or
+    *   rely on other appropriate means permitted by GDPR Chapter V, which establish that such recipients will provide an adequate level of data protection and that appropriate technical and organizational security measures are in place to protect personal data against accidental or unlawful destruction, loss or alteration, unauthorized disclosure or access, and against all other unlawful forms of processing.
+    
+    You may ask for a copy of such appropriate data transfer agreements by contacting us using the contact details below.
+    
+4.  #### HOW LONG DO WE KEEP PERSONAL DATA?
+    
+    We will only keep personal data for as long as reasonably necessary to fulfil the purposes we collected it for. We may keep your personal data for a longer period to comply with our legal obligations or in the event of a complaint or litigation.
+    
+5.  #### YOUR RIGHTS
+    
+    Regarding your personal data, you may have the right to:
+    
+    *   **Request access (commonly known as a "data subject access request")** - enables you to receive a copy of the personal data we hold about you and information about how it is processed.
+        
+    *   **Request correction** - enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+        
+    *   **Request erasure** - enables you to ask us to delete or remove personal data where there is no lawful reason for us continuing to store or process it, where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons that will be notified to you, if applicable, at the time of your request.
+        
+    *   **Object to processing** - where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation that makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms.
+        
+    *   **Request restriction of processing** - enables you to ask us to suspend the processing of your personal data if, (i) you want us to establish the data's accuracy; (ii) where our use of the data is unlawful but you do not want us to erase it; (iii) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (iv) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+        
+    *   **Request the transfer of your personal data** to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+        
+    *   **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent.
+        
+    
+    To exercise these rights, please contact us using the contact details below. Although we urge you to contact us first to resolve your issue, you always have the right to contact your data protection authority.
+    
+6.  #### YOUR CHOICES
+    
+    You are not required to provide personal data to us but if you do not provide any personal data to us, you may not be able to use our website or we may not be able to authenticate and assist you with your orders, inquiries or requests, and we generally will not be able to provide you with our products and services.
+    
+7.  #### CONTACT US
+    
+    You may contact us using the following details:
+    
+    **Email address:** [privacy@spacex.com](mailto:privacy@spacex.com) **Postal address:** ATTN: Privacy/Legal, Space Exploration Technologies Corp., 1 Rocket Road, Hawthorne, CA 90250
+    
+    You may contact our representative in the EU using the following details:
+    
+    **Email address:** [privacy@spacex.com](mailto:privacy@spacex.com) **Postal address:** VeraSafe Ireland, Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland **Telephone:** +420 228 881 031
+    
+    You may contact our representative in the UK using the following details:
+    
+    **Email address:** [privacy@spacex.com](mailto:privacy@spacex.com) **Postal address:** VeraSafe United Kingdom, Ltd., 37 Albert Embankment, London, SE1 7TL, United Kingdom **Telephone:** +44 (20) 4532 2003
