@@ -3,6 +3,8 @@ Privacy Policy
 
 Last updated: December 10, 2025
 
+We are updating our Terms of Service and Privacy Policy. The new versions that will be applicable to you from 16 February can be found [here](https://my.nordaccount.com/legal/privacy-policy-16-february/).
+
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
 The data controller of your personal data, as described in this Privacy Policy, is nordvpn S.A. (address: PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama; email: [privacy@nordaccount.com](mailto:privacy@nordaccount.com)) (“**Nord**”, “**we**”, “**us**”, or “**our**”).
