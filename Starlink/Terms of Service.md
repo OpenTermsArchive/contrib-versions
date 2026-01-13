@@ -288,7 +288,7 @@ Expected speeds per Service Plan:
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| **SERVICE PLAN** | RESIDENTIAL LITE (FIXED) | RESIDENTIAL 100 MBPS (FIXED) | RESIDENTIAL (FIXED) | ROAM 10GB or 50GB and PAUSE (MOBILITY) | ROAM UNLIMITED (MOBILITY) | PRIORITY |
+| **SERVICE PLAN** | RESIDENTIAL LITE (FIXED) | RESIDENTIAL 100 MBPS (FIXED) | RESIDENTIAL (FIXED) | ROAM 10GB, 50GB, 100GB and PAUSE (MOBILITY) | ROAM UNLIMITED (MOBILITY) | PRIORITY |
 | **AVAILABILITY** | ≥99% | ≥99% | ≥99% | ≥99% | ≥99% | ≥99% |
 | **DOWNLOAD** | 80–200 Mbps | 80-100 Mbps | [Click For Download Speeds](https://starlink.com/map?view=download) | 65–260 Mbps | 65–260 Mbps | 135–310 Mbps |
 | **UPLOAD** | 15–35 Mbps | 15–35 Mbps | [Click For Upload Speeds](https://starlink.com/map?view=upload) | 15–35 Mbps | 15–35 Mbps | 20–44 Mbps |
