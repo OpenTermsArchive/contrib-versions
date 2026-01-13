@@ -64,6 +64,13 @@ Starlink’s Fair Use Policy describes how we manage our network traffic and ass
     | **Data Amount & Type** | 10GB OR 50GB Roam Data |
     | **Price for Additional Roam Data** | [Click For Country Specific Pricing for Additional Roam Data](https://api.starlink.com/public-files/RoamOveragePricing.pdf) |
     
+    ##### ROAM 100GB
+    
+    |     |     |
+    | --- | --- |
+    | **Data Amount & Type** | 100GB Roam Data |
+    | **Price for Additional Roam Data** | Unavailable; Must Upgrade to Roam Unlimited |
+    
     ##### PAUSE SERVICE PLAN
     
     |     |     |
