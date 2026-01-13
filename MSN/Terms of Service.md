@@ -2,6 +2,12 @@ Published: **30 July 2025**
 
 Effective: **30 September 2025**
 
+**Introduction to the Microsoft Services Agreement**
+
+The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services (including related support).
+
+We understand that you may have questions about the Microsoft Services Agreement. We have an [FAQ page](https://www.microsoft.com/en-gb/servicesagreement/faq) (https://www.microsoft.com/en-gb/servicesagreement/faq) that provides more information, including what Microsoft products and services it covers. Whenever we make changes, we provide a summary of the most notable changes to the current Microsoft Services Agreement on the [Summary of Changes](https://www.microsoft.com/en-gb/servicesagreement/updates) (https://www.microsoft.com/en-gb/servicesagreement/updates) page.
+
 Microsoft Services Agreement
 ----------------------------
 
@@ -482,6 +488,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Rewards
 *   Microsoft Search in Bing
 *   Microsoft Soundscape
+*   Microsoft Support (Consumer)
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Sway
 *   Microsoft Teams
