@@ -110,8 +110,8 @@ We share your information to provide the Website and or the Services, comply wit
 We share your information with partners who specialize in advertising across multiple websites. This sharing allows us to personalize your experience and provide you with targeted advertisements. We use sub-processors for this purpose; you can review their Privacy Policy here:
 
 *   Google: [Privacy Policy](https://policies.google.com/privacy?hl=en-US)
-*   Snigel: [Privacy Policy](https://www.snigel.com/privacy-policy/)
-*   Buy Sell Ads: [Privacy Policy](http://buysellads.com/privacy)
+*   Actirise: [Privacy Policy](https://corporate.sparteo.com/privacy-policy)
+*   Viously: [Privacy Policy](https://corporate.sparteo.com/privacy-policy)
 
 Opting Out of Targeted Advertising:
 
@@ -288,18 +288,18 @@ Appendix: Sub-Processors
 
 | Company | Location | Service |
 | --- | --- | --- |
+| Actirise | EU  | Ad-Service |
 | Airwallex | EU  | Payment processing |
 | Amazon | USA | Cloud Infrastructure for the Website and the Services |
 | Brevo | EU  | Market activities |
-| Buy Sell Ads | USA | Ad-Service |
 | Google, Inc | USA | Site analytics (web) and customer interactions (email) |
 | Paypal | USA | Payment processing |
-| Refinery 89 | EU  | Ad-Service |
+| Pipedrive | EU  | CRM System |
 | Revinova | USA | LMS platform - (Specific for AWS courses) |
 | Shopify | USA | E-commerce store |
-| Snigel | EU  | Ad-Service |
 | Stripe | USA | Payment processing |
-| Zendesk | EU  | Customer support and CRM system |
+| Viously | EU  | Ad-Service |
+| Zendesk | EU  | Customer support |
 
 Last updated: 2025.05.19
 
