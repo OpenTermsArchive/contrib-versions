@@ -12,6 +12,8 @@ Amazon Europe Core SARL, Amazon EU SARL and/or their affiliates (Amazon) provide
 *   [Conditions of Use](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_A42D0C7332414FCF922E73F6D0E7EEF3)
 *   [Conditions of Sale](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_DE289546269C476B94AC853787C5CF48)
 
+  
+
 Conditions of Use
 -----------------
 
@@ -19,6 +21,8 @@ Conditions of Use
 
 *   [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/report/infringement)
 *   [Notice and Procedure for Notifying Amazon of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680)
+
+  
 
 1\. ELECTRONIC COMMUNICATIONS
 -----------------------------
@@ -164,6 +168,8 @@ RCS Luxembourg No: B180022
 Business Licence Number: 10040783
 Luxembourg VAT Registration Number: LU 26375245
 
+  
+
 **Other contacts:**
 
 **For Amazon EU SARL:**
@@ -175,6 +181,8 @@ RCS Luxembourg No: B-101818
 Business Licence Number: 134248
 Luxembourg VAT Registration Number: LU 20260743
 
+  
+
 **Local Registered Branch:**
 
 Amazon EU SARL, UK Branch, 1 Principal Place, London, Worship Street, EC2A 2FA, United Kingdom
@@ -182,6 +190,8 @@ Registered in England & Wales
 Company No. FC032354
 UK Establishment No. BR17427
 UK VAT Number: GB 727255821
+
+  
 
 **For Amazon Media EU SARL:**
 
@@ -192,6 +202,8 @@ RCS Luxembourg No: 112767
 Business Licence Number: 136312
 Luxembourg VAT Registration Number: LU 20944528
 
+  
+
 **For Amazon Digital UK Limited:**
 
 Amazon Digital UK Ltd
@@ -199,6 +211,8 @@ Amazon Digital UK Ltd
 London, EC2A 2FA
 Registered in UK
 Company Number: 6528297
+
+  
 
 20\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF RIGHT INFRINGEMENTS
 ------------------------------------------------------------------
@@ -225,6 +239,8 @@ c/o Amazon UK Services Ltd, Legal Department
 London
 EC2A 2FA
 United Kingdom 
+
+  
 
 **Important Warning:** giving false, misleading or inaccurate information in the [Notice to Amazon.co.uk of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G201015680) on Amazon.co.uk may result in civil and criminal liability.
 
@@ -253,6 +269,8 @@ The terms in this section (“Agent Terms”) apply if you use, allow, enable, o
     3.  Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.
     4.  Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service.
     
+
+  
 
 Conditions of Sale
 ------------------
@@ -379,7 +397,7 @@ We do not sell products for purchase by children. We sell children's products fo
 13\. GOVERNING LANGUAGE
 -----------------------
 
-In the event of any inconsistency, discrepancy or conflict between the \[insert main local language for each store\] version of these Conditions of Sale and their translation in another language, the \[insert main local language for each store\] version shall prevail.
+In the event of any inconsistency, discrepancy or conflict between the English version of these Conditions of Sale and their translation in another language, the English version shall prevail.
 
 14\. OUR CONTACT DETAILS
 ------------------------
@@ -392,6 +410,8 @@ Registered in Luxembourg
 RCS Luxembourg No: B-101818
 Business Licence Number: 134248
 Luxembourg VAT Registration Number:  LU 20260743
+
+  
 
 Local Registered Branch:
 
