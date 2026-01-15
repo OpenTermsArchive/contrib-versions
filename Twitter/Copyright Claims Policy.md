@@ -14,7 +14,7 @@ If you are concerned about the use of your brand or entity’s name, please revi
 
 #### Am I a copyright holder? How do I know?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](https://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
+If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as X cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/) and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), just to name a few.
 
 #### What to consider before submitting a copyright complaint
 
