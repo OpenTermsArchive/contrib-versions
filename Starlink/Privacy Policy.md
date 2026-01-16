@@ -1,7 +1,9 @@
 Global Privacy Policy
 =====================
 
-_Last updated November 25, 2025_
+### **We updated our Privacy Policy and CA Privacy Notice. Visit the [Starlink FAQs](https://starlink.com/support/article/b82cf54a-8e57-917a-bd06-2765642f4a64) for more information.**
+
+_Last updated January 15, 2026_
 
 This Global Privacy Policy (“Policy”) explains how Starlink and its subsidiaries and affiliates (collectively, “Starlink” or “we”) collect, use, share, and protect your personal information while you are using our website (“Site”) or communicating with us about our satellite internet telecommunication services (“Services”).
 
@@ -31,7 +33,7 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
         
     *   **From Third Parties** – For example, we may work with business partners, subcontractors, advertising networks, analytics providers, and search information providers, who may provide us with personal information about you.
         
-    *   **Through Cookies and Other Online Tracking Technologies** – We and our service providers operating on our behalf collect information about your activity, or activity on devices associated with you, on our Site and applications, using tracking technologies such as cookies, Flash cookies, pixels, tags, software development kids, application program interfaces, device identifiers and web beacons. Additional information about tracking technologies and their uses can be found at: [http://www.Cookiepro.com](http://www.cookiepro.com/). This tracking data may be used for several different purposes, including to:
+    *   **Through Cookies and Other Online Tracking Technologies** – We and our service providers operating on our behalf collect information about your activity, or activity on devices associated with you, on our Site and applications, using tracking technologies such as cookies, Flash cookies, pixels, tags, software development kits, application program interfaces, device identifiers and web beacons. Additional information about tracking technologies and their uses can be found at: [http://www.Cookiepro.com](http://www.cookiepro.com/). This tracking data may be used for several different purposes, including to:
         
         *   Provide useful features to simplify your experience when you return to our Site and applications (e.g., remembering your shipping information for future product purchases);
         *   Deliver relevant content and targeted advertising based on your preferences, service usage, and location;
@@ -41,7 +43,7 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
         
     *   We do not advertise third-party products and services on our Site, but we do advertise Starlink services on third-party websites, social media platforms and other applications. Those third-party websites and applications may also collect information about your activity on our Site and applications, or devices associated with you. Tracking data collected by our advertising websites and platforms helps us determine what ads we may use on the platforms and helps us analyze improvements to our advertising strategy.
         
-    *   Our Site uses first-party and third-party cookies to provide you services and resources you may have requested while on our Site. We classify these cookies in the following categories::
+    *   Our Site uses first-party and third-party cookies to provide you services and resources you may have requested while on our Site. We classify these cookies in the following categories:
         
         *   **Strictly necessary cookies** – used for providing our Services, applications, and other essential functionalities of our Site.
         *   **Functional cookies** – used in limited ways to enable our Site to provide enhanced functionality and personalization. If you do not allow these cookies then some or all of these services may not function properly.
@@ -63,6 +65,7 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
     *   To detect, prevent, or otherwise address fraud, security or technical issues, including by monitoring and enforcing compliance with our legal notices, including our Terms of Use, appropriate use policies, and applicable privacy policies;
     *   To defend our interests in the event of a dispute;
     *   To comply in good faith with applicable laws, legal processes, and lawful government requests;
+    *   To train our machine learning or artificial intelligence models for the purposes outlined in this policy;
     *   To understand what may be of interest to a customer;
     *   To deliver relevant news, promotional offers, and other content to a customer and measure and understand the effectiveness of the content;
     *   To ask and enable a customer to take a survey; and
@@ -70,13 +73,11 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
     
     When information collected from or about you does not identify you as a specific person (e.g., when it has been de-identified), we may use that information for any purpose, including improving our services, to the extent permitted by applicable law.
     
-    We do not knowingly sell your information.
-    
 4.  #### With Whom Do We Share Personal Information?
     
     We may share your personal information with the following categories of people:
     
-    *   **Our Service Providers:** We may share your personal information with our affiliates and service providers for the purposes we outline above. For example, we may rely on service providers to host and maintain our online services, perform backup and storage services, process payments, transmit communications, perform advertising or analytics services, and complete your privacy rights requests.
+    *   **Our Service Providers:** We may share your personal information with our affiliates, service providers, and third-party collaborators for the purposes we outline above (e.g., hosting and maintaining our online services, performing backup and storage services, processing payments, transmitting communications, performing advertising or analytics services, or completing your privacy rights requests) and, unless you opt out, for training artificial intelligence models, including for their own independent purposes.
     *   **Government or Law Enforcement Agencies, Regulators, Professional Advisors, or Auditors:** Where required by applicable law, or as we deem necessary to protect any person from death or serious bodily injury, we may also transfer your personal information to government regulators or law enforcement agencies in response to requests from such entities.
     *   **Organizations Involved in Business Transfers:** If we sell, merge or reorganize our company, we expect that the personal information that we have collected will be transferred to the surviving or acquiring entity in accordance with applicable law.
     
@@ -103,7 +104,9 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
     *   If you are located in **Nigeria**, our [Nigeria Privacy Notice](https://www.starlink.com/legal/documents/DOC-DF-1906-75496-66) applies to you.
     *   If you are located in **South Korea**, our [South Korea Privacy Notice](https://www.starlink.com/legal/documents/DOC-DF-1909-87689-76) applies to you.
     
-    To opt-out of marketing communications please email us at [privacy@spacex.com](mailto:privacy@spacex.com) or by following the instructions included in the email or text correspondence. Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law. Additionally, if you withdraw your consent or object to processing, or if you choose not to provide certain personal information, we may be unable to provide some or all of our services to you.
+    To opt-out of marketing communications please email us at [privacy@spacex.com](mailto:privacy@spacex.com) or, where applicable, by following the instructions included in the email or text correspondence. Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law.
+    
+    To opt-out of the use of your data for artificial intelligence model training by third-party collaborators, please navigate to your user settings and check the relevant option.
     
 7.  #### Children’s Privacy
     
