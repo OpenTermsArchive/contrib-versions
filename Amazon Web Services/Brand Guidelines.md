@@ -1,12 +1,9 @@
 AWS Trademark Guidelines & License Terms
 ========================================
 
-Last Updated: April 25, 2025
+Last Updated: January 15, 2026
 
-1\. Introduction.
------------------
-
-These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.
+**1\. Introduction.** These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.
 
 **2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 17).
 
@@ -34,7 +31,7 @@ WITHOUT LIMITATION, YOUR USE OF THE AWS MARKS IS AT YOUR SOLE RISK AND WE HAVE N
 
 **5\. No Affiliation or Endorsement;** No Dominant Display. You will not misrepresent or embellish your relationship with AWS. You will not display the AWS Marks in any manner that implies sponsorship or endorsement by AWS other than by using the Marks as specifically authorized by AWS. You will not display any AWS Mark in a way that is larger or more prominent than your own branding in materials associated with your products or services.
 
-**6\. Quality Control;** Manner of Use. You must use the AWS Marks in a manner that maintains or exceeds the high standard, quality, and reputation associated with AWS. Upon request from AWS, you will provide samples of your materials featuring the AWS Marks sufficient for AWS to confirm compliance with these Guidelines and to ensure your permitted use is of a consistent high quality. If AWS finds that your use is not in compliance, you will make any changes requested by AWS or cease use of the AWS Marks. You will not use the AWS Marks to disparage AWS or its products or services or display the AWS Marks in any manner that is misleading, unfair, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable as determined by AWS in its sole discretion. You will not use the AWS Marks in any manner that violates any law or regulation. You will not display any AWS Mark on your website if your website contains or displays adult content or promotes illegal activities, gambling, or the sale of tobacco or alcohol to persons under the age of twenty-one.
+**6\. Quality Control;** **Manner of Use**. You must use the AWS Marks in a manner that maintains or exceeds the high standard, quality, and reputation associated with AWS. Upon request from AWS, you will provide samples of your materials featuring the AWS Marks sufficient for AWS to confirm compliance with these Guidelines and to ensure your permitted use is of a consistent high quality. If AWS finds that your use is not in compliance, you will make any changes requested by AWS or cease use of the AWS Marks. You will not use or display the AWS Marks in any manner that is misleading, unfair, defamatory, infringing, or libelous. You will not use the AWS Marks in any manner that violates any law or regulation. You will not display any AWS Mark on your website if your website contains or displays adult content or promotes illegal activities, gambling, or the sale of tobacco or alcohol to persons under the age of twenty-one.
 
 **7\. No Combination.** You will not combine, abbreviate, telescope, or hyphenate AWS Marks with any other words, trademarks, or brand elements. You will not incorporate AWS Marks into the names of your organization, products, or services, or into your trademarks or logos.
 
@@ -50,8 +47,8 @@ WITHOUT LIMITATION, YOUR USE OF THE AWS MARKS IS AT YOUR SOLE RISK AND WE HAVE N
 
 **13\. Fair Use.** AWS does not object to fair use of its marks by third parties, so long as the use would not be confusing for customers. Any such use should be in plain text only (no logos) and used to make true factual statements. Fair use does not permit you to state or imply affiliation, sponsorship, or endorsement by AWS. If you want to reference AWS in connection with your own product, service, or event, please use the following format:
 
-Format: \[Your Brand or Use Case\] \[relational phrase\] \[AWS Mark\]  
-Example: YourApp for Amazon S3
+*   Format: \[Your Brand or Use Case\] \[relational phrase\] \[AWS Mark\]
+*   Example: YourApp for Amazon S3
 
 Note: You may replace “for” in this example with any of the following relational phrases, so long as the term is accurate when used with the AWS Mark: “for use with”; “with”; “compatible with”; “works with”; “built on”; “built with”; “developed on”; “developed with”; etc.
 
@@ -61,7 +58,7 @@ Note: You may replace “for” in this example with any of the following relati
 
 **16\. Contact Information.** If you have questions regarding your obligations under these AWS Trademark Guidelines or questions about any AWS Mark, please contact [trademarks@amazon.com](mailto:trademarks@amazon.com).
 
-**17\. AWS Marks (non-exhaustive list):**  
+**17\. AWS Marks (non-exhaustive list)**:  
 Amazon Web Services  
 AWS  
 Amazon AppStream  
@@ -69,6 +66,7 @@ Amazon Athena
 Amazon Aurora  
 Amazon Aurora DSQL  
 Amazon Bedrock  
+Amazon Bedrock AgentCore  
 Amazon Braket  
 Amazon Chime  
 Amazon CloudFront  
@@ -111,13 +109,15 @@ Amazon Macie
 Amazon Mechanical Turk  
 Amazon MemoryDB  
 Amazon Neptune  
+Amazon Nova  
+Amazon Nova Forge  
 Amazon One  
 Amazon Pinpoint  
 Amazon Polly  
 Amazon Q  
-Amazon QuickSight  
+Amazon Quick  
+Amazon Quick Sight  
 Amazon Redshift  
-Amazon Redshift Spectrum  
 Amazon Rekognition  
 Amazon Relational Database Service  
 Amazon RDS  
@@ -150,6 +150,7 @@ AWS Amplify
 AWS App Studio  
 AWS AppSync  
 AWS Artifact  
+AWS Builder Center  
 AWS BugBust  
 AWS Chalice  
 AWS CloudFormation  
@@ -216,41 +217,25 @@ AWS Wavelength
 AWS X-Ray  
 AWSome Day  
 Babelfish  
-Blazegraph  
-BlazingText  
-Blu AgeBlu Insights  
 Bottlerocket  
 Buy with AWS  
-Cedar  
-CloudEndure  
 Cloudscape  
 Contact Lens  
-Datarow  
 Finch  
 Firecracker  
-Fix This  
-Flexmatch  
-Fortuna  
 FreeRTOS  
-Intersect by AWS  
 Just Walk Out  
 Karpenter  
+Kiro  
 NICE  
 NWCD  
 Open Distro  
-OpenSearch  
-PartiQL  
 PartyRock, an Amazon Bedrock playground  
 Powered by AWS  
-Quivela  
-Re:Freezer  
-SceneStream  
-Sequoia  
 Smithy  
 Stat That  
+Strands Agents  
 The Frugal Architect  
-Umbra  
-Umbra Composit  
 Wickr  
 亚马逊云  
 亚马逊网络服务
