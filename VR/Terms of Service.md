@@ -312,6 +312,7 @@ Special remarks concerning loading and unloading of vehicles:
         
     *   The loading of a car whose width in relation to the ceiling height prevents normal entry and exit of the vehicle may be banned.  
         
+    
 *   If it has been agreed that VR will load the car at the time of the car space booking:
     
     *   The car must be delivered to a designated parking space at the car-carrier station  
@@ -322,6 +323,7 @@ Special remarks concerning loading and unloading of vehicles:
         
     *   In this case, VR loads the vehicle onto the train and delivers the car keys to the destination station. The keys can be picked up from the location indicated on the ticket by proving that you have the right to pick up the car.  
         
+    
 
 ### Vehicle dimensional limitations in car-carrier wagons
 
