@@ -1,268 +1,228 @@
-Terms of Service  
+Effective as of November 8, 2024 
 
-===================
+Terms of Service
+----------------
 
-Effective as of October 29, 2025 ([View Previous Version](https://www.superhuman.com/media-resources/nov-2024-terms))  
+([View Previous Version](https://www.grammarly.com/terms-2024))  
   
-These Terms of Service (the “**Terms**”) form an agreement between Superhuman Platform Inc. , formerly known as Grammarly, Inc. (“**Superhuman**”, “**us**”, “**we**” or “**our**”) and you or the Entity you represent (“**you**” or “**your**”).  
+Welcome to Grammarly! These terms of service govern your use of our products, except where stated otherwise. References to our products in these terms of service refer to all of our products and services, including our apps, websites, and software.  
   
-**These Terms do not apply to our various enterprise-tier products and services, which are provided as subscriptions through our enterprise sales team to organizations (collectively, the “Enterprise-Tier Services”). If your organization has purchased the Enterprise-Tier Services, the governing terms and conditions will be our** [**Customer Business Agreement**](https://www.superhuman.com/legal/terms/customer-business-agreement)**.**  
-  
-Please read these Terms carefully as they govern your access to and use of our websites (each, a “**Site**”); our products and services, including mobile and desktop applications (“**Apps**”), application programming interfaces (“**APIs**”), and software development kits (“**SDKs**”). References to the “**Services**” in these Terms collectively refer to all our products and services, including, when applicable, the Sites, Apps, APIs, and SDKs.  
-  
-**PLEASE BE AWARE THAT SECTION 12 CONTAINS PROVISIONS GOVERNING HOW TO RESOLVE DISPUTES BETWEEN YOU AND SUPERHUMAN. AMONG OTHER THINGS, SECTION 12 INCLUDES AN AGREEMENT TO ARBITRATE (“ARBITRATION AGREEMENT”) WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING AND FINAL ARBITRATION. SECTION 12 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER. PLEASE READ SECTION 12 CAREFULLY.**  
-  
-**UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT WITHIN 30 DAYS: (1) YOU WILL ONLY BE PERMITTED TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF AGAINST US THROUGH BINDING, FINAL ARBITRATION, WITH LIMITED EXCEPTIONS, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR OTHER REPRESENTATIVE PROCEEDING OR CLASS-WIDE ARBITRATION; AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.**  
-  
-**If you are a user in the European Economic Area (“EEA“), or any other country that does not allow such an arbitration agreement, Sections 12.1-12.8 do not apply to you.**  
-  
-**IF YOU SUBSCRIBE TO A PAID SUBSCRIPTION TO THE SERVICES, SUCH PAID SUBSCRIPTION WILL BE AUTOMATICALLY RENEWED FOR ADDITIONAL PERIODS OF THE SAME DURATION AS YOUR INITIAL SUBSCRIPTION PERIOD AT SUPERHUMAN’S THEN-CURRENT FEES FOR SUCH SUBSCRIPTION UNLESS YOU CANCEL OR DECLINE TO RENEW YOUR SUBSCRIPTION IN ACCORDANCE WITH SECTION 8.8 BELOW.**  
+**_Which terms apply to me? These_** **_terms of service apply to most Grammarly customers. If you’ve signed up for Grammarly Business or Grammarly for Education, please refer to our_** [**_Customer Business Agreement_**](https://www.grammarly.com/terms/customer-business-agreement) **_and_** [**_Data Privacy Addendum_**](https://www.grammarly.com/terms/Grammarly-DPA.pdf)**_. If you signed up for Grammarly Pro on behalf of a company, organization, or other legal entity, you must have authority to bind that entity to these terms of service. In such cases, “you” and “your” in these terms will refer to that legal entity. If you signed up for a Grammarly Pro account that has multiple users, please see “_**[**_Limitations on Use and Responsibilities_**](#sectionSingleColumn_5BG4o0HW7q6LJOE3ktdl7n)**_” for additional details._**   
 
-1\. Your Acceptance of these Terms
-----------------------------------
-
-These Terms become effective from the date you sign up for a Superhuman account, access our Services, or otherwise indicate that you accept the Terms, whichever happens first. You agree that you are not barred from using the Services under the laws of the United States, your place of residence, or any other applicable jurisdiction. If you are accepting these Terms on behalf of a company, organization, or other legal entity (an “**Entity**”), you agree that: (i) you have full legal authority to bind the Entity to these Terms, and (ii) all references to “you” and “your” in these Terms will refer to that Entity, unless we indicate otherwise. By checking the box indicating your acceptance of these Terms during sign-up or by accessing or using this Site or any of our Services, you agree to be bound by these Terms. If you do not accept these Terms, please refrain from accessing or using the Services.  
-
-2\. Our Modification of these Terms
------------------------------------
-
-Subject to Section 12.8 below, we may make changes to these Terms at our discretion. If we make changes, we will notify you either by email or through the Services at least thirty (30) days before the changes take effect. We will also post the updated version of the Terms on our Site and change the “Last Updated” date at the top of these Terms to indicate when the changes took effect. It is important for you to regularly review these Terms for any modifications. Continuing to access or use the Services after this new date means you accept the updated Terms. If you disagree with the new Terms, you must cease accessing and using the Services.  
-
-3\. Your Use of the Services
-----------------------------
-
-**3.1. Permitted Use.**  
-Subject to your compliance with these Terms, Superhuman hereby grants to you a limited, revocable, non-exclusive, non-transferable, and non-sublicensable right to access and use our Services, and where necessary, install and use any software provided by us as described in the documentation for the Services made available at [http://superhuman.com/support](https://www.superhuman.com/support) (“**Documentation**”). You acknowledge that the Services and any related software are provided to you on a subscription basis; they are not being sold to you. If you are an Entity, you must only access and use our Services for internal business purposes.  
-  
-**3.2. Eligibility.**  
-You may only use our Services if you are old enough to consent (by yourself and not by a parent or guardian) to share your data under applicable law. For example, you must be at least 13 years old under most United States law, or 16 years old under European Union law. If the law where you reside requires that you be older for us to lawfully provide the Services to you without parental consent (including using your information), you must meet that age requirement.  
-  
-**3.3. Account Creation & Management.**  
-  
-**3.3.1. Account Credentials.** To access our Services, you may be required to create an online account (“**Account**”) with a username, password, and other access credentials assigned to or chosen by you (“**Credentials**”). Your Credentials are unique to you and must not be shared with other persons, entities, or end users, except as permitted by these Terms. You are responsible for all activities undertaken using your Credentials. You are responsible for maintaining the confidentiality of your Credentials and must notify us promptly of any actual or suspected unauthorized use of your Credentials. We reserve the right to terminate any Credentials that we reasonably determine may have been accessed or used by an unauthorized third party. We strongly recommend enabling two-factor authentication for added security for your Account.  
-**3.3.2. Responsibility for Multi-User Accounts.** When you create an Account that includes multiple end users (a “**Multi-User Account**”), you are responsible for ensuring they comply with these Terms. For more information on managing a Multi-User Account, please review the relevant pages within our [Documentation](https://www.superhuman.com/support). If you are an individual operating under a Multi-User Account, we will handle your User Content and process your personal information as instructed by the administrator of that Multi-User Account, unless otherwise prohibited by applicable law.  
-**3.3.3. School and Work Email Addresses**. If you are an individual and you create an Account using an email address that belongs to your employer, school, or other group, such as a church or sports team (an “**Organization**”), your use of our Services under that Account is subject to that Organization’s control. As such, you acknowledge that the Organization may access, view, restrict, merge, or terminate your Account (each, an “**Account Control Action**”). For instance, if you initially registered your Account with an email address provided by your Organization and that Organization subsequently purchases a Subscription to our Services, we may merge your Account with the Organization’s Account at their request, and after which, your use of our Services will be subject to the terms applicable to the Organization’s Account.  
-**3.3.4. Account Deletion.** If you no longer wish to use our Services and would like to delete your Account, please navigate to the relevant ‘how to delete my account’ page within our [Documentation](https://www.superhuman.com/support). **Please note that** **once you delete your Account, you will not be able to reactivate it or retrieve any content or information associated with it**. If you would like to cancel your existing Paid Subscription but keep your Account, please refer to Section 8.8 (Subscription Cancellation).  
-  
-**3.4. Restrictions on Use; Compliance.**  
-You agree that, as a condition of using our Services, you and, if applicable, your end users, will not, and will not encourage or assist any third parties to: (i) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, know-how, or algorithms relevant to the Services (except to the extent that such a restriction is impermissible under applicable law); (ii) provide, sell, resell, transfer, sublicense, lend, distribute, or rent the Services, or otherwise allow others to access or use the Services; (iii) copy, modify, create derivative works of, or remove proprietary notices from the Services; or (iv) circumvent any technical limitations implemented by us, or (v) violate our [Acceptable Use Policy](https://www.superhuman.com/legal/acceptable-use). You agree to comply with all applicable export and import laws in accessing and using the Services. You represent and warrant that you are not listed on any United States government list of prohibited or restricted parties or located in (or a national of) a country subject to a United States government embargo or designated by the United States government as a “terrorist supporting” country (as applicable to you as an individual or an Entity). You agree that you will not submit any data to the Services that is controlled under the United States International Traffic in Arms Regulations.  
-  
-**3.5. Processing of Personal Information.**  
-If you open an Account on behalf of an Entity, we will process your personal information and that of the end users of that Account in accordance with our [Data Privacy Addendum,](https://www.superhuman.com/legal/dpa) and we and you agree to comply with its terms, as applicable. In such cases, the Entity is responsible for providing any legally required notices and obtaining any necessary consents for us to provide our Services to the Entity’s end users. If you have opened an Account as an individual (i.e., not on behalf of an Entity), Superhuman’s [Privacy Policy](https://www.grammarly.com/privacy-policy) will govern the processing of personal information about you, and if applicable, the end users associated with your Account. You can export or delete your User Content, including your personal information, at any time while you have an Account by following the steps detailed in the [Data Privacy Addendum](https://www.superhuman.com/legal/dpa) (if you are acting on behalf of an Entity) or the [Privacy Policy](https://www.grammarly.com/privacy-policy) (if you are an individual).  
-  
-**3.6. Reservation of Rights.**  
-As between Superhuman and you, Superhuman owns all intellectual property rights in the Services (including all Superhuman-created Enhancements), Beta Services, Documentation, and Usage Data. Except as expressly stated herein, these Terms do not grant you any rights, implied or otherwise, to our intellectual property. The visual interfaces, graphics, design, information, data, computer code (including source code or object code), and all other elements of the Services (the “**Materials**”) provided by us are protected by all relevant intellectual property and proprietary rights and applicable laws. All Materials contained in our Services are the property of Superhuman or our third-party licensors, and we reserve all rights to them. Except as expressly authorized by us under these Terms, you are not permitted to make use of the Materials. You agree not to remove, alter, or obscure any copyright, trademark, service mark, or other proprietary rights notices incorporated in or accompanying the Services or the Materials.  
-  
-**3.7. Feedback and Usage Data.**  
-If you provide us with any suggestions, enhancement requests, recommendations, or other feedback regarding our Services, we may use that feedback without restriction or any further obligation to you. We may also collect and analyze data relating to your access and use of our Services (“**Usage Data**”). Examples of Usage Data include, but are not limited to, technical logs, metadata, telemetry data, and usage information about User Content, such as how often it is accessed.  
-  
-**3.8. Changes to the Service.**  
-We may modify or discontinue any feature, functionality, or component of our Services at any time (a “**Services Update**”). If we believe a Services Update may significantly impair your use of our Services, we will use reasonable efforts to notify you before making such Services Update by either sending an email to the email address associated with your Account or via an in-product notification.  
-
-4\. Your Use of AI Features
----------------------------
-
-**4.1. AI-Generated Content.**  
-Depending on your Subscription Plan, you may be able to use generative AI features within our Services that allow you to input prompts and other text (“**Inputs**”) and receive AI-generated outputs (“**Outputs**”). When you use our generative AI features, your Inputs and the resulting Outputs are your User Content. Notwithstanding the foregoing, you acknowledge that other users of our Services may, through no fault of Superhuman, use inputs that are similar to yours and, as a result, receive the same or similar outputs as your Outputs. Outputs generated for other users based on their inputs are not considered your User Content.  
-  
-**4.2. Usage Limits; Add-Ons.**  
-Depending on your Subscription Plan, you may have limits on your use of our generative AI features. If you exceed your Subscription Plan’s usage limits, we may require you to purchase additional capacity or units to continue accessing and using the generative AI features of the Services. Any additional generative AI capacity or units that you purchase (i) will be tied to your then-current Subscription, (ii) are not transferable to another Account, and (iii) will not be refunded to you upon expiry or termination of your Subscription.  
-  
-**4.3. AI Usage Restrictions.**  
-Your use of our generative AI features must comply with these Terms, including the restrictions and obligations imposed upon you in Section 3.4 (Restrictions on Use; Compliance). You also must not use our generative AI features i) in a way that infringes, violates, or misappropriates any of our rights or the rights of any third party, or ii) to develop foundation or large language models that compete with our Services.  
-
-5\. Your Use of Integrations
-----------------------------
-
-**5.1. Integrations Generally.**  
-If you access or use any third-party product or service that interoperates with our Services (a “**Third-Party Service**”), your use of such a Third-Party Service is solely governed by the terms of service, end user license agreement, privacy policies, and/or any other applicable terms and policies of the third-party providing the Third-Party Service. You acknowledge that the Third-Party Service might access or use your User Content, and you permit us to transmit your User Content to the provider of the Third-Party Service as necessary for the Third-Party Service to interoperate with our Services. You acknowledge and agree that Superhuman is not responsible for any harms, damages, loss, lost profits, special or consequential damages, or claims arising out of or in connection with the installation of, use of, or reliance on any such Third-Party Service.  
-  
-**5.2. With Superhuman Marketplace.**  
-Depending on your Subscription Plan, you may have the opportunity to access and engage with our vibrant online customer community marketplace that we host (the “**Superhuman Marketplace**”). On the Superhuman Marketplace, you may, at your discretion, further enhance the functionality of the Services by purchasing or otherwise accessing special integrations, agents, apps, packs, applications, code, plugins, content, services, extensions, or other offerings that interoperate with our Services (“**Enhancements**”). By accessing and/or using the Superhuman Marketplace, you agree to comply with the [Superhuman Marketplace Terms](https://www.superhuman.com/legal/terms/marketplace).  
-  
-**5.3. Your Developed Integrations.**  
-Depending on your Subscription Plan, you may, at your discretion, access and use Superhuman’s developer tools to build your own Enhancements. By (i) using our developer tools, (ii) building an Enhancement, or (iii) otherwise publishing or releasing your User Content or your Enhancements on the Superhuman Marketplace for other users to enjoy, you agree to comply with the [Superhuman Developer Terms](https://www.superhuman.com/legal/terms/developer).  
-  
-**5.4. Within Superhuman Mail.**  
-Superhuman's use of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.  
-
-6\. Your Use of Beta Services
------------------------------
-
-We may occasionally provide you with access to new service offerings that are still in development (“**Beta Services**”). You may choose to use these Beta Services at your sole discretion. We will label Beta Services as “alpha,” “beta,” “early access,” or something similar within our Services, on our Sites, or in the Documentation. Beta Services may have additional terms that apply to them. In using the Beta Services, you agree to comply with all terms related to the Beta Services that we provide to you. If we do not provide any additional terms, then you agree that the restrictions imposed on you with respect to our Services that are contained in Section 3.4 (Restrictions on Use; Compliance) of these Terms will apply to the Beta Services. You acknowledge that Beta Services may not be as secure or reliable as our Services. We are under no obligation to provide support for Beta Services or to make them generally available. We may, in our sole discretion, change the functionality of the Beta Services and/or discontinue, suspend, or remove your access to such Beta Services (including any data that you input or store within the Beta Services). NOTWITHSTANDING ANYTHING ELSE STATED IN THESE TERMS, SUPERHUMAN WILL HAVE NO LIABILITY ARISING OUT OF OR IN CONNECTION WITH BETA SERVICES.  
-
-7\. Ownership and License of User Content
------------------------------------------
-
-**7.1. Ownership of User Content.**  
-In connection with your use of our Services, you and your end users (if applicable) may upload and/or create certain content, text, output, and documents to and through the Services, including text and images displayed within an application window (“**User Content**”). You own all right, title, and interest in and to User Content. **7.2. License to User Content.**  
-To provide our Services to you, we need your permission (i.e., a license) to use your User Content. You grant us a worldwide, non-exclusive, royalty-free license to your User Content that allows us to use, store, reproduce, publish, and publicly display (to show your User Content to you or other users as you may specify), modify, and create derivative works from it (such as writing suggestions and autocorrecting words) for the limited purposes of:  
-  
-(i). Operating, providing, improving, troubleshooting, and debugging our Services (for example, your acceptance or rejection of our grammatical suggestions may help train our suggestion engine);  
-(ii). Protecting our Services (for example, to analyze patterns in usage to prevent abuse);  
-(iii). Customizing our Services (for example, to create personalized suggestions for you);  
-(iv). Developing new products or adding features for our Services (for example, creating our tone detector); and  
-(v). Account management (for example, using information you upload or provide to us, such as your name, to encourage other people within your Organization to join your Organization’s Account).  
-  
-The above license lasts as long as intellectual property laws protect your User Content, and it also permits our service providers to assist us in performing these limited purposes.  
-
-8\. Fees, Billing, and Payment
+Our Mission and Business Model
 ------------------------------
 
-**8.1. Subscriptions and Billing.**  
-We offer free and paid subscriptions to our Services (respectively, “**Free Subscriptions**” and “**Paid Subscriptions**”, and collectively, “**Subscriptions**”). Pricing and included features for the Subscriptions are set forth [here](https://www.grammarly.com/plans) (“**Subscription Plan(s)**”). For Paid Subscriptions, we will bill you in advance on a recurring monthly or annual basis, as applicable for the selected Subscription Plan (“**Billing Cycle**”).  
+Our mission is to improve lives by improving communication.  
   
-**8.2. Upgrades.**  
-You may have the option to upgrade your existing Subscription Plan to a higher subscription tier for access to additional features and functionality of our Services. When you upgrade your Subscription Plan, we will automatically bill you from the date the subscription tier upgrade takes effect and on each subsequent applicable Billing Cycle until you cancel your then-current Subscription Plan (see Section 8.8 below for how to cancel).  
-  
-**8.3. Authorization for Recurring Payments.**  
-To access a Paid Subscription, you will be required to provide us with your credit card information (“**Payment Method**”). By providing a Payment Method, you are authorizing us to charge your Payment Method on a monthly, annual, or pay-as-you-go basis, or as otherwise applicable, for the fees associated with the selected Subscription Plan. The Payment Method you provide must be valid and kept current by you. By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method. We will begin billing your Payment Method for the Paid Subscription on the day that you are given access to the Services, regardless of whether you have fully configured or started using the Services as of that date.  
-  
-**8.4. Third-Party Payments Processor.**  
-Superhuman uses Stripe, Inc. and its affiliates as its third-party service provider for payment services (e.g., card acceptance, merchant settlement, and related services) (“**Third-Party Payments Processor**”). If you make a purchase on the Services, you will be required to provide your payment details and any additional information required to complete your order directly to our Third-Party Service Provider. You agree to be bound by Stripe’s Privacy Policy (currently accessible at [https://stripe.com/us/privacy](https://stripe.com/us/privacy)) and its Terms of Service (currently accessible at [https://stripe.com/ssa](https://stripe.com/ssa)) and hereby consent and authorize Superhuman and Stripe to share any information and payment instructions you provide with one or more Third-Party Payments Processor(s) to the minimum extent required to complete your transactions. Please note that online payment transactions may be subject to validation checks by our Third-Party Payments Processor and your card issuer, and we are not responsible if your card issuer declines to authorize payment for any reason. For your protection, our Third-Party Payments Processor uses various fraud prevention protocols and industry-standard verification systems to reduce fraud, and you authorize it to verify and authenticate your payment information. Your card issuer may charge you an online handling fee or processing fee. We are not responsible for this. In some jurisdictions, our Third-Party Payments Processor may use third parties under strict confidentiality and data protection requirements for the purposes of payment processing services.  
-  
-**8.5. Taxes.**  
-The stated fees for Paid Subscriptions are exclusive of any taxes or similar governmental assessments of any nature, including, for example, value-added, sales, use, or withholding taxes, assessable by any jurisdiction (collectively, “**Taxes**”). You will be responsible for paying all Taxes associated with your Paid Subscription, except for taxes based on our net income. Should any payment for our Services be subject to withholding tax by any government, you will reimburse us for such withholding tax.  
-  
-**8.6. Fee Changes.**  
-We may change the fees for our Services and associated Subscription Plans at our discretion, but we will give you advance notice before those changes take effect. Any fee changes will apply to your next Billing Cycle.  
-  
-**8.7. Promotional Offers.**  
-We may offer special promotional offers, plans, or trial subscriptions from time to time at our discretion (“**Offer**”). Offer eligibility will be determined by us at our sole discretion, and we reserve the right to revoke or end an Offer at any time. You agree that we may use your information, such as device ID, Payment Method, and the name and email address associated with the Account, to determine your eligibility for the Offer. The eligibility requirements and other limitations and conditions will be disclosed when you sign up for the Offer or in other communications we make to you.  
-  
-**8.8. Subscription Cancellation.**  
-You may cancel your Subscription at any time (instructions on how to do so can be found by navigating to the relevant ‘how do I cancel my subscription?’ page on our Customer Care site [here](https://www.superhuman.com/support)). If you need help to cancel your Subscription, please feel free to contact [care@superhuman.com](mailto:care@superhuman.com) our Customer Care team and indicate your desire to cancel your Subscription. Following cancellation of a Paid Subscription, (i) you will continue to have access to that Paid Subscription through the end of your then-current Billing Cycle (except with respect to Services that are subject to usage-based billing), (ii) at the end of that current Billing Cycle, your Account will be converted to a Free Subscription, and (iii) all future payments for your Paid Subscription will be canceled. We acknowledge that some countries have mandatory local laws regarding your cancellation rights, and this section does not override those laws.  
-  
-**8.9. Account Communications.**  
-You agree that Superhuman may contact you at any time by email, push notifications, or other method with information relevant to your Subscription, billing, and use of the Services.  
-  
-**8.10. No Refunds.**  
-To the fullest extent permitted by applicable law, all payments made by you under these Terms are non-refundable and payment obligations are non-cancelable, and we do not provide refunds or credits for any partially used Subscription periods or unused consumption or capacity.  
-  
-**8.11. Overdue Fees.**  
-If any fees owed by you for a Paid Subscription are overdue by 30 days or more, we may (i) limit functionality of our Services, (ii) suspend our provision of our Services to you, or (iii) convert your Paid Subscription to a Free Subscription, until such overdue amounts are paid in full.  
+We offer free and paid products and hope you’ll purchase one of our paid products. Grammarly does not monetize data or use the content customers upload to our products for advertising purposes.  
 
-9\. Suspension, Termination, and Survival
------------------------------------------
+Who We Are
+----------
 
-**9.1. Term.**  
-The term of these Terms commences on the date when you accept these Terms (as described in the preamble above) and continues in full force and effect while you use the Services, unless terminated earlier in accordance with these Terms.  
-  
-**9.2. Effect of Termination.**  
-Upon termination of the Services or the applicable feature or functionality thereof, your right to use the Services or the applicable feature or functionality will automatically terminate, and we may delete User Content from our live databases. If we terminate your Account for cause, we may also bar your further use or access to the Services. Superhuman will not have any liability whatsoever to you for any suspension or termination, including for deletion of User Content.  
-  
-**9.3. Suspension and Termination.**  
-We reserve the right to suspend or terminate your access to our Services and/or your Account if: (a) You have breached these Terms or our [Acceptable Use Policy](https://www.superhuman.com/legal/acceptable-use), (b) You use our Services in a manner that would cause a real risk of harm or loss to other Superhuman users or us, or (c) You have a Free Subscription and you haven’t accessed the Services for at least 12 consecutive months. Before suspending or terminating your access to the Services and/or Account for one of the issues outlined immediately above, we will provide you with reasonable advance notice via the email address associated with your Account so that you have an opportunity to remedy the issue. If you fail to promptly remediate the issue after such notice, we will, at our discretion, either suspend or terminate your access to our Services and/or your Account. Notwithstanding the foregoing, we will not provide you advance notice before suspension or termination where we believe that (x) you are in material breach of these Terms or our [Acceptable Use Policy](https://www.superhuman.com/legal/acceptable-use), (y) doing so would cause us legal liability or compromise our ability to provide our Services to our other users, or (z) the law prohibits us from doing so. We may terminate these Terms at any time without liability to you.  
-  
-**9.4. Survival.**  
-Upon expiry or termination of these Terms or your Account for any reason, all the sections within these Terms that one would reasonably expect to survive will survive, including, but not limited to, “Warranty Disclaimers,” “Limitation of Liability,” “Arbitration and Dispute Resolution Agreement,” “Miscellaneous Legal Terms,” “Reservation of Rights,” “Fees, Billing and Payment,”, and “Ownership and License of User Content”. Termination does not cancel or otherwise affect any amounts owed by you before the termination took effect.  
+Grammarly products are provided by Grammarly, Inc., a Delaware corporation. For more information about Grammarly, please visit [https://www.grammarly.com/about](https://www.grammarly.com/about).  
 
-10\. Warranty Disclaimers
+Paid Accounts
+-------------
+
+_Billing:_ You can upgrade your account to access paid features, which would turn your account into a paid account. When you do that, we’ll automatically bill you from the date you convert to a paid account and on each periodic renewal until cancellation. You are responsible for all applicable taxes, and we’ll charge tax when required. Some countries have mandatory local laws regarding your cancellation rights, and this paragraph doesn’t override these laws.  
+  
+_Refunds:_ You may cancel your Grammarly paid account at any time (instructions on how to do so are [here](https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-subscription)). Refunds are issued if they are required by law.  
+  
+_Downgrades:_ Your paid account will remain in effect until it’s canceled or terminated under these terms. If you don’t pay for your paid account on time, we reserve the right to suspend it or reduce your access to the free version of our products.  
+  
+_Free trials:_ Grammarly may offer a free trial membership. If you are using a free trial membership and cancel it before the end of the trial period, all your rights to any remaining free trial period will end (unless you started your trial via our iOS app, in which case your trial will continue until the end of the trial period). Typically, we will only offer one free trial per user.   
+  
+_Changes:_ We may change the fees in effect but will give you advance notice before those changes take effect. Any change in prices will apply to your next billing cycle.  
+  
+_Account merges:_ If you open an account using an email address belonging to an employer or an organization that has purchased Grammarly Business, Grammarly Pro, or Grammarly for Education, your account may be merged with your employer’s or organization’s account upon their request. Following such a merger, your use of our services will be governed by the terms applicable to the parent account, which may differ from these terms.  
+
+Your Ownership of Your Data and the Limited Permissions You Give Us
+-------------------------------------------------------------------
+
+**User Content** refers to the text and documents you enter, upload, and transmit when you use our products. You own your User Content; Grammarly doesn’t own it. To provide our products to you, we need your permission (in legal language, a license) to use your User Content.  
+  
+You grant us a license to your User Content for the limited purposes of:  
+
+*   Operating, providing, improving, troubleshooting, and debugging our products (for example, your acceptance or rejection of suggestions may help train our suggestion engine);  
+    
+*   Protecting our products (for example, to analyze patterns in usage to prevent abuse);  
+    
+*   Customizing our products (for example, to create personalized suggestions for you);  
+    
+*   Developing new products or features (for example, creating our tone detector); and  
+    
+*   Using information you upload or provide to us (such as your name) to encourage other people in your organization to join your company’s or organization’s Grammarly account.  
+    
+
+  
+The license you give us is only for the above purposes. That means we will not, for example, sell or license your User Content to third-party data brokers.  
+  
+The license you grant us is:  
+
+*   Worldwide (so you can access your User Content from anywhere in the world);  
+    
+*   Non-exclusive (meaning you own your User Content and can also license it to other people or companies);  
+    
+*   Royalty-free (meaning we don’t pay you for it); and  
+    
+*   For as long as intellectual property laws protect your User Content.  
+    
+
+  
+The license you give us allows us to—solely for the purposes outlined above—store, reproduce, use, publish, and publicly display (to show your User Content to you), modify, and create derivative works of (such as providing writing suggestions and autocorrecting words) your User Content. The license you give us also permits our service providers to assist us in doing this.   
+  
+Grammarly does not own, control, verify, or endorse User Content. You are responsible for all of your User Content. That means you should back up all your User Content and not do anything illegal or harmful with it (including violate any intellectual property or trade secret laws).  
+
+Our Intellectual Property Rights and License to You
+---------------------------------------------------
+
+Some of our products allow you to download client software. So long as you comply with these terms, we give you a limited, non-exclusive, non-transferable, revocable license to use our client software solely to access the products.   
+  
+Our products are protected by copyright, trademark, and other laws. Except for this limited license, we reserve all right, title, and interest in our products, trademarks, logos, and other brand features. We welcome feedback, but you agree that we can use that feedback without restriction or any obligation to you.  
+
+Your Use of Generative AI
 -------------------------
 
-**10.1. General Disclaimer.**  
-THE SERVICES ARE PROVIDED TO YOU ON AN “AS IS,” AND “AS AVAILABLE” BASIS, WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, SUPERHUMAN AND OUR AFFILIATES, SUPPLIERS, AND DISTRIBUTORS (COLLECTIVELY, THEY ARE THE “**SUPERHUMAN ENTITIES**”) DO NOT WARRANT THAT THE OPERATION OF THE SERVICES WILL MEET YOUR REQUIREMENTS, BE UNINTERRUPTED, OR BE ERROR-FREE. SUPERHUMAN AND THE SUPERHUMAN ENTITIES EXPRESSLY DISCLAIM ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, REGARDING THE SERVICES, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES, AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.  
+Additional terms apply when you use Grammarly’s generative AI services and features.  
   
-**10.2. Outputs Disclaimer.**  
-SUPERHUMAN AND THE SUPERHUMAN ENTITIES DO NOT MAKE ANY REPRESENTATION OR WARRANTY REGARDING THE OUTPUTS THAT MAY BE GENERATED FROM USE OF GENERATIVE AI FEATURES, INCLUDING WITH RESPECT TO THE FACTUAL ACCURACY OF ANY OUTPUTS OR SUITABILITY FOR YOUR USE-CASE. ALL OUTPUTS ARE PROVIDED “AS IS” AND WITH “ALL FAULTS.” YOU UNDERSTAND AND AGREE THAT YOUR USE OF ANY GENERATIVE AI OUTPUTS IS DONE AT YOUR SOLE RISK. YOU ASSUME ALL RISKS ASSOCIATED WITH YOUR USE OF ANY OUTPUTS, INCLUDING ANY POTENTIAL COPYRIGHT INFRINGEMENT CLAIMS FROM THIRD PARTIES OR ANY DISCLOSURE OF YOUR OUTPUTS THAT PERSONALLY IDENTIFIES YOU OR ANY THIRD PARTY. DUE TO THE CURRENT NATURE OF GENERATIVE AI TECHNOLOGY, YOU SHOULD NOT RELY ON SUPERHUMAN’S GENERATIVE AI AS A SINGLE SOURCE OF FACTUAL INFORMATION. NO INFORMATION OR ADVICE, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM OR THROUGH SUPERHUMAN OR THE SUPERHUMAN ENTITIES WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE IN THESE TERMS. LAWS AND REGULATIONS GOVERNING USE OF GENERATIVE ARTIFICIAL INTELLIGENCE ARE RAPIDLY EVOLVING, AND SUPERHUMAN DOES NOT GUARANTEE THAT YOUR USE OF THE SERVICES OR OUTPUT WILL COMPLY WITH APPLICABLE LAWS AND REGULATIONS OR THAT FUTURE LAWS AND REGULATIONS WILL NOT IMPACT YOUR USE THEREOF. YOU ARE SOLELY RESPONSIBLE FOR ENSURING THAT YOUR USE OF THE SERVICES AND ANY OUTPUT COMPLIES WITH ALL APPLICABLE LAWS.  
+_Generated Content._ You may use generative AI features to submit inputs and receive generated outputs. When you use generative AI features, the inputs and outputs are your User Data. You are responsible for your User Data and will not use Grammarly’s generative AI features in a way that infringes, violates, or misappropriates any of our rights or the rights of any third party. You acknowledge that due to the nature of machine learning and the technology powering generative AI, outputs may not be unique and Grammarly may generate the same or similar output for third parties.  
   
-**10.3. Superhuman Email Disclaimer and Release.**  
-SUPERHUMAN AND THE SUPERHUMAN ENTITIES DO NOT MAKE ANY REPRESENTATION OR WARRANTY REGARDING THE INFORMATION THAT YOU RECEIVE FROM SUPERHUMAN OR OTHERWISE OBTAIN ABOUT THE RECIPIENTS OF YOUR EMAILS SENT USING THE SERVICES (“**PERSONAL INSIGHTS**”). SUPERHUMAN AND THE SUPERHUMAN ENTITIES ARE NOT RESPONSIBLE FOR THE ACCURACY, AVAILABILITY, OR RELIABILITY OF ANY PERSONAL INSIGHTS. FURTHER, YOU ACKNOWLEDGE AND AGREE THAT SUPERHUMAN AND THE SUPERHUMAN ENTITIES DO NOT CONTROL THE CONTENT YOU TRANSMITTED USING THE SERVICES (“**EMAIL CONTENT**”) OR WHAT DIRECT AND DOWNSTREAM RECIPIENTS OF THAT EMAIL CONTENT (COLLECTIVELY, “**RECIPIENTS**”), MAY DO WITH SUCH EMAIL CONTENT (INCLUDING FORWARDING ON SUCH EMAIL CONTENT). YOU AGREE THAT SUPERHUMAN AND THE SUPERHUMAN ENTITIES WILL HAVE NO LIABILITY, AND HEREBY RELEASE SUPERHUMAN FROM ANY LIABILITY, ARISING FROM (I) USE OR RELIANCE ON PERSONAL INSIGHTS AND (II) ANY ACT OR OMISSION OF ANY RECIPIENT WITH RESPECT TO EMAIL CONTENT.  
+_Usage Limits._ Depending on your subscription plan, you may have a limit on your use of Grammarly’s generative AI features. You acknowledge and agree that if you exceed the usage limit allotted by your subscription plan: (i) you may be required to purchase additional usage to continue accessing and using generative AI assistance and (ii) Grammarly may suspend or degrade performance of the generative AI features. You acknowledge that any purchased usage for generative AI assistance is tied to your Grammarly subscription plan, and account termination will invalidate any remaining purchased usage.  
+  
+_Usage Restrictions._ You may not use Grammarly’s generative AI features:  
 
-11\. Limitation of Liability
-----------------------------
+*   To develop foundation or large language models that compete with Grammarly;   
+    
+*   To mislead any third party that any output from Grammarly’s generative AI was solely human generated;  
+    
+*   In a manner that violates these terms, Grammarly documentation, usage guidelines, or our Acceptable Use Policy.  
+    
 
-**11.1. Limitation on Liability Amounts.**  
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL SUPERHUMAN AND THE SUPERHUMAN ENTITIES' TOTAL AGGREGATE LIABILITY TO YOU UNDER THESE TERMS EXCEED THE AMOUNT THAT YOU HAVE PAID IN FEES TO SUPERHUMAN OR THE SUPERHUMAN ENTITIES DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT(S) GIVING RISE TO SUCH LIABILITY. HOWEVER, IF THAT AMOUNT IS ZERO BECAUSE YOU HAVE A FREE SUBSCRIPTION, SUPERHUMAN AND THE SUPERHUMAN ENTITIES’ TOTAL AGGREGATE LIABILITY WILL NOT EXCEED ONE HUNDRED DOLLARS ($100).  
   
-**11.2. Limitations on Types of Damages.**  
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL SUPERHUMAN AND THE SUPERHUMAN ENTITIES’ BE LIABLE TO YOU OR OTHERWISE RESPONSIBLE FOR (I) ANY LOST PROFITS, LOST OR DAMAGED USER CONTENT OR OTHER DATA, OR FAILURE TO MEET ANY DUTY, INCLUDING WITHOUT LIMITATION GOOD FAITH AND REASONABLE CARE, AND (II) ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER.  
-  
-**11.3. Basis of the Bargain; Limitation Beneficiaries; As Permitted Under Local Laws.**  
-YOU AGREE THAT THE LIMITATIONS OF LIABILITY CONTAINED IN SECTIONS 11.1 AND 11.2 REPRESENT A REASONABLE ALLOCATION OF RISK AND ARE A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND SUPERHUMAN (OR IF APPLICABLE, THE RELEVANT SUPERHUMAN ENTITIES). YOU UNDERSTAND OUR SERVICES WOULD NOT BE PROVIDED TO YOU WITHOUT SUCH LIMITATIONS. YOU FURTHER AGREE THAT THE SUPERHUMAN ENTITIES ARE INTENDED THIRD-PARTY BENEFICIARIES OF SECTION 11. CERTAIN COUNTRIES AND US STATES DO NOT ALLOW THE LIMITATION OF CERTAIN TYPES OF DAMAGES OR DAMAGE AMOUNTS. IN CASES WHERE THAT IS APPLICABLE, YOU AGREE THAT SUPERHUMAN AND THE SUPERHUMAN ENTITIES’ LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMISSIBLE UNDER THE LAW APPLICABLE TO THESE TERMS.  
 
-12\. Arbitration and Dispute Resolution Agreement
--------------------------------------------------
+Grammarly Business, Grammarly for Education, or Certain Grammarly Pro Plan End Users
+------------------------------------------------------------------------------------
 
-If you’re upset with us, let us know, and we’ll work together in good faith to resolve your issue. But if we can’t work it out, then you and Superhuman agree to submit our disputes exclusively to binding individual arbitration, and we won’t sue each other in court before a judge or jury, except in the limited circumstances described below. This Section 12 (which we’ll also refer to as the “**Arbitration Agreement**”) applies to the fullest extent allowable by law.  
+When you sign up for an account under the management of a company, organization, or other legal entity, including Grammarly Business, Grammarly Pro, or Grammarly for Education, your organization’s terms will govern your use of such Grammarly account.  
   
-**12.1. Disputes that We’ll Arbitrate.**  
-You and Superhuman agree to mandatory individual arbitration for all claims arising out of or relating in any way to your access to or use of the Services, the Apps or the Site, these and prior versions of the Terms, any products, data, or content bought, sold, offered, accessed, displayed, transmitted, or listed through the Services, the Apps or the Site and actions or statements by Superhuman, in each case including disputes that arose before the effective date of these Terms (each, a “Dispute”). The exception is that we each may (1) bring qualifying individual claims in “small claims” court, so long as those claims remain in small claims court; and (2) seek injunctive relief in court for infringement or misuse of intellectual property rights. All other Disputes must be arbitrated, which means you and Superhuman are each waiving your right to sue in court and have a court or jury trial.  
-  
-**12.2. Informal Dispute Resolution.**  
-Before filing an arbitration, you and Superhuman will try in good faith to resolve any Dispute informally. To start the dispute process, you must send an individualized written notice (“Notice of Dispute”) to support@superhuman.com or regular mail to our offices located at 2261 Market Street, STE 85232, San Francisco, CA 94114, Attn: Legal Department that includes (1) your name, phone number, the email address for your account and username, and (2) a description of the Dispute and how you’d like it resolved. If Superhuman has a Dispute with you, we will send a Notice of Dispute with the same information to the email address for your account. The Notice of Dispute must be signed by the party initiating the Dispute (i.e., either you personally or a Superhuman representative). Once a complete Notice of Dispute has been received, the recipient has 60 days to investigate the claims. If either side requests a settlement conference during this period, then you and Superhuman must cooperate to schedule that meeting by phone or videoconference. You and Superhuman each will personally participate and can each bring counsel, but the conference must be individualized, even if the same firm(s) represent multiple parties. For the claims in the Notice of Dispute, any statute of limitations will be tolled from the date the notice is received until the later of (i) 60 days, or (ii) after a timely requested settlement conference is completed (“Informal Resolution Period”). An arbitration cannot be filed until the Informal Resolution Period has ended, and a court can enjoin the filing or prosecution of an arbitration in breach of this Section.  
-  
-**12.3. Waiver of Class and Other Non-Individualized Relief.**  
-You and Superhuman agree that each of us may bring claims against the other only on an individual basis, and not on a class, representative, or collective basis (and we each waive any right we have to bring such claims). We each may only seek or obtain individualized relief, and, except as provided in Section 12.6 (Batch Arbitration), Disputes between us cannot be arbitrated or consolidated with those of any other person or entity. If there is a final decision (after exhaustion of all appeals) that any part of this Section 12.3 is unenforceable as to a particular claim or request for relief, then solely that particular claim or request for relief will be severed from the arbitration and may be litigated in in the state or federal courts located in San Francisco County, California (but only after the arbitrator issues an award on the arbitrable claims and remedies). This subsection does not prevent you or Superhuman from participating in a class-wide or mass settlement of claims.  
-  
-**12.4. Rules and Forum.**  
-The Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this Arbitration Agreement. To initiate arbitration, either you or we must file an arbitration demand with National Arbitration & Mediation ("NAM”) in accordance with the NAM Comprehensive Dispute Resolution Rules and Procedure in effect at the time of arbitration except as supplemented, where applicable, by the NAM Mass Filing Supplemental Dispute Resolution Rules and Procedures (the “NAM Rules”), and as modified by this Arbitration Agreement. You must serve Superhuman with any arbitration demand by email to support@superhuman.com or regular mail to our offices located at 2261 Market Street, STE 85232, San Francisco, CA 94114, Attn: Legal Department. If Superhuman has a dispute with you, we will send an arbitration demand to the email or mail address for your account. If NAM cannot or will not administer the arbitration in accordance with Section 12, you and we will select another provider (and if we can’t agree, a court will choose the provider). The arbitration will be conducted in the English language by a single arbitrator. Unless otherwise agreed by the parties or ordered by the arbitrator, (i) if the amount in dispute is less than $25,000, the arbitration will be conducted as a documents-only arbitration (i.e., there will be no in-person or telephonic hearing); and (ii) if the amount in dispute is $25,000 or more, the arbitration will be held by videoconference with no in-person hearing. If an in-person hearing is required, it will be held in the county where you live (for US residents), San Francisco County, California (for non-US residents), or as determined by the arbitrator (in the case of Batch Arbitration). As in court, the arbitrator will apply governing law and any counsel must comply with Federal Rule of Civil Procedure 11(b); and the arbitrator may impose any sanctions available under the NAM Rules, Rule 11, or other applicable law. The arbitrator also will enforce statutes of limitations and other time-based defenses, offers of judgment/compromise, and fee-shifting rules in the same way as a court would. The arbitrator will be either a retired judge or an attorney and will be selected by the parties from NAM's roster of consumer dispute arbitrators. If the parties are unable to agree upon an arbitrator within thirty-five (35) days of delivery of the Demand, then NAM will appoint the arbitrator in accordance with NAM Rules, provided that if the Batch Arbitration process is triggered, NAM, without soliciting input or feedback from any party, will appoint the arbitrator for each batch, subject to your right to object to that appointment. The arbitrator will have exclusive authority to resolve any Dispute, including, without limitation, Disputes regarding the interpretation or application of the Arbitration Agreement, including the enforceability, revocability, scope, or validity of the Arbitration Agreement or any portion of the Arbitration Agreement, except that all Disputes regarding the subsection entitled “Waiver of Class and Other Non-Individualized Relief,” including any claim that all or part of that same subsection is unenforceable, illegal, void or voidable, or that such subsection has been breached, will be decided by a court of competent jurisdiction and not by an arbitrator. Except as provided in Section 12.6 (Batch Arbitration), the arbitrator can award damages and other relief only in favor of the individual claimant, and only to the extent necessary to provide relief warranted by the claimant’s individual claim(s). The arbitrator will not be bound by decisions reached in other arbitrations. The arbitrator’s award is final and binding on you and Superhuman. Judgment on the award may be entered in any court with jurisdiction.  
-  
-**12.5. Arbitration Fees.**  
-Payment of all filing, case-management, administrative, hearing, and arbitrator fees (“**Arbitration Fees**”) will be governed by the NAM Rules and fee schedules, unless otherwise stated in this Arbitration Agreement.  
-  
-**12.6. Batch Arbitration.**  
-To ensure efficient resolution, if within a 90-day period, 25 or more claimants submit Notices of Dispute or file arbitrations raising similar claims (i.e., with similar facts and legal issues) and are represented by the same or coordinated counsel, the disputes must be arbitrated in batches of up to 100 claimants each (“Batch”). NAM will thereafter provide for the resolution of each Batch as a single consolidated arbitration with a single arbitrator appointed by NAM, one set of Arbitration Fees, and one hearing (if any) per Batch to be held by videoconference (or in a place decided by the arbitrator). NAM will administer all batches concurrently, to the extent possible. The parties will cooperate in good faith to implement this process and minimize the time and costs of arbitration. Any challenges to administrative determinations by NAM will be heard by a single process arbitrator. If this Section 12.6 is deemed unenforceable as to a particular claimant or Batch, then it will be severed as to that claimant or Batch, and those parties will arbitrate in individual proceedings. However, if this Section 12.6 is found under the law to be invalid or unenforceable then, in that case, the entire Arbitration Agreement will be void, and the parties agree that all Disputes will be heard in the state or federal courts in San Francisco County, California in accordance with Section 12.9 below.  
-  
-**12.7. 30-Day Right to Opt Out.**  
-If you are a new user of our Services, you can opt out of this Arbitration Agreement (excluding Section 12.9) within 30 days after you first accept the Terms. To opt out, you must send a timely email to [arbitration-opt-out@superhuman.com](mailto:arbitration-opt-out@superhuman.com) with your name, the email address for your account, your username, and a request to opt out of this Arbitration Agreement. Any opt-out notice will be effective only if you send it yourself, on an individual basis, and opt out notices from any third-party purporting to act on your behalf will have no effect on your or Superhuman’s rights. If you validly opt out, neither Superhuman nor you will be required to arbitrate as a result of this (or any prior version of the) Arbitration Agreement, but the Terms (and any other agreements between us) will otherwise apply to you. Your opt-out notice will have no effect on prior versions of the arbitration clause to which you have agreed.  
-  
-**12.8. Modification.**  
-Superhuman will notify you of material changes to this Arbitration Agreement at least 30 days before they become effective. You may reject future changes to the Arbitration Agreement by emailing [arbitration-opt-out@superhuman.com](mailto:arbitration-opt-out@superhuman.com) within 30 days after you receive notice, including your name, email address associated with your account and username. Otherwise, you’ll be bound by the change, and the modified Arbitration Agreement will apply to all Disputes between you and Superhuman, including those arising before the effective date of the changes, but excluding any claims pending in arbitration (or court, if permitted) as of the effective date. If you reject a change, you’ll be bound by the most recent version of the Arbitration Agreement before the change you rejected.  
-  
-**12.9. Choice of Law and Forum.**  
-Superhuman is based in California, so if there are claims between you and Superhuman that aren’t subject to arbitration, you and Superhuman each agree to litigate those claims exclusively in state or federal court located in San Francisco County, California, and to submit to the personal jurisdiction of those courts. The exception is if you file in small claims court–you can do that in the county of your residence. Except as prohibited by law, these Terms will be governed exclusively by California law, without regard to conflict-of-law rules, and U.S. federal law (including the Federal Arbitration Act). However, if you are based in Canada, you may instead bring any non-arbitrable claims in the courts and under the laws (including federal law) of either Quebec (if you are an individual or sole proprietor in Quebec) or Ontario. For clarity, this Section 12.9 will continue to apply even if you validly opt out of arbitration under Section 12.8.  
-If you are a resident in a member state of the EEA or a country in which the Arbitration Agreement in Section 12 is prohibited by local law, you may be entitled to invoke the mandatory consumer protection laws of your country of residence, and/or to bring legal proceedings in the courts of that country. If Superhuman needs to enforce its rights against you as an individual consumer in the EEA, we will do so only in your country of residence. The application of the United Nations Convention on Contracts for the International Sale of Goods (CISG) is excluded.  
+_Y_ou must use the products in compliance with such organization’s terms and policies. Please note that such Grammarly accounts are subject to your organization’s control. Your administrators can downgrade, restrict, or terminate your access to such a Grammarly account and view information about it. Also, if you use a Grammarly for Education account, your parents and school administrator may have the legal right to access your account or delete it.  
 
-13\. Miscellaneous Legal Terms
-------------------------------
+Limitations on Use and Responsibilities
+---------------------------------------
 
-**13.1. Entire Agreement.**  
-These Terms, including the terms herein that are incorporated by reference, constitute the entire agreement between you and Superhuman regarding our Services. They supersede any prior agreements between us.  
+_Acceptable Use Policy._ You must comply with our [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy) when you use our products.   
   
-**13.2. Waiver, Severability, and Conflicting Terms.**  
-Our failure to enforce any provision of these Terms is not a waiver of our right to do so later. Subject to Sections 12.3 and 12.6 above, if a provision is unenforceable, the remaining provisions will remain in full effect, and an enforceable term will be substituted with the goal of reflecting our intent as closely as possible. If there is a conflict between the documents referenced in these Terms, the documents will control in the following order, as applicable: the Acceptable Use Policy, the Data Privacy Addendum (if applicable); the Privacy Policy (if applicable); the Developer Terms; the Marketplace Terms, these Terms; and then the Documentation.  
+_Keeping your account information up to date and safe._ You are responsible for safeguarding your password to our products. Don’t share your account credentials or give others access to your account. We will use your account email address to contact you about our products, so you must ensure that your account information stays current.   
   
-**13.3. Third-Party Beneficiaries.**  
-Except where expressly stated, these Terms do not confer any benefits on any third party.  
+_Minimum age requirements._ To use our products, you must be at least 13 if you reside in the United States and 16 if you reside anywhere else. If the law where you reside requires that you are older for us to lawfully provide our products to you without parental consent (including using your information), you must be that age. You may not use our products if you don’t meet these age requirements. However, if your parents or guardians have allowed you to join a Grammarly for Education account, you may still use our products.  
   
-**13.4. Assignment.**  
-You may not assign any of your rights or obligations under these Terms, and any such attempt will be void. We may assign or otherwise transfer our rights and/or obligations without restriction, including assigning to any of our affiliates or subsidiaries or any successor in interest of any business associated with the Services.  
+_Processing of Personal Information._ If you open a paid account on behalf of a company, organization, or other legal entity with multiple seats, Grammarly will process the personal information of your end users in accordance with the [Data Privacy Addendum](https://assets.ctfassets.net/1e6ajr2k4140/Bu72J3VyTvOlAeKMJC2td/7fa68723cc630157d202ae1eaef997a7/Grammarly_Data_Privacy_Addendum__11.6.24.pdf). In such cases, you are responsible for providing any legally required notices and obtaining any necessary consents for us to provide our products to your end users on your behalf. If you’ve opened a Grammarly Pro account with multiple end users, but are not a formal organization or legal entity, Grammarly’s [Privacy Policy](https://www.grammarly.com/privacy-policy) will govern the processing of personal information about the users of your account.   
   
-**13.5. Force Majeure.**  
-We will not be liable by reason of any failure or delay in the performance of our obligations on account of events beyond our reasonable control, which may include, but are not limited to, denial-of-service attacks, a failure by a third-party hosting provider or utility provider, acts of God, pandemics, acts of civil or military authorities, riots or civil disobedience, zombie apocalypse, wars, strikes or labor disputes.  
-  
-**13.6. Open Source.**  
-To the extent any component of our software may be offered under open-source license terms (see [here](https://grammarly.com/terms/thirdpartynotices) and [here](https://coda.io/trust/oss) for the lists of the open-source software that we use), the provisions of open-source licenses that we make available to you may expressly override some of the terms within these Terms. In addition, certain code distributed in and as part of the platform used to provide the Services may be licensed under or include components subject to open-source software licenses. Notwithstanding the foregoing, any use of open-source software as part of the Services must comply with these Terms.  
-  
-**13.7. Government.**  
-Where applicable to United States government customers and end users, the Services are “commercial computer software” or a “commercial item” for purposes of FAR 12.212 and DFARS 227.7202. To the extent permitted within these Terms, use, reproduction, release, modification, disclosure, or transfer of the Services is governed solely by these Terms, and all other use is prohibited.  
-  
-**13.8. Notice.**  
-Where Superhuman requires that you provide an email address, you are responsible for providing Superhuman with a valid and current email address. In the event that the email address you provide to Superhuman is not valid, or for any reason is not capable of delivering to you any notices required by these Terms, Superhuman’s dispatch of the email containing such notice will nonetheless constitute effective notice. You may give notice to Superhuman at the following address: Superhuman Platform Inc., 2261 Market Street STE 85232, San Francisco, CA 94114, United States. Such notice shall be deemed given when received by Superhuman by letter delivered by nationally recognized overnight delivery service or first class postage prepaid mail at the above address.  
-  
-**13.9. Copyright Policy; DMCA.**  
-We respect artist and content owner rights, and it is our policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“**DMCA**”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Services, please notify our copyright agent as set forth in the DMCA by completing this [form](https://coda.io/form/DMCA-Takedown-Notice_dGq65T_ModN)⁠. Please send notice of claimed infringement to:  
-  
-Superhuman Copyright Agent  
-Superhuman Platform Inc.  
-2261 Market Street STE 85232  
-San Francisco, CA 94114  
-United States  
-Email: [ip-external@superhuman.com](mailto:ip-external@grammarly.com)  
-  
-UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES. Please note that this procedure is exclusively for notifying us and our affiliates that your copyrighted material has been infringed. The preceding requirements are intended to comply with our rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws. In accordance with the DMCA and other applicable law, we have adopted a policy of terminating the Accounts of users who are deemed to be repeat infringers. We may also at our sole discretion limit access to the Services and/or terminate any subscriptions of any user of the Services who infringes any intellectual property rights of others, whether or not there is any repeat infringement.  
+_Handling_ _multi-user_ _account_s_._ When you set up an account for multiple end users, it is your duty to ensure they follow these terms of service. For more information on managing multi-user accounts, please review our technical documentation and usage guides for our products made available on our [Support page](https://support.grammarly.com/). If you are an individual operating under a multi-user Grammarly Pro account, your account administrator is responsible for providing us instructions on how to process User Content, such as by selecting applicable settings, and we will process your User Content in accordance with such instructions unless otherwise prohibited by applicable law.   
 
-14\. Additional Terms for Mobile Applications
----------------------------------------------
+Termination
+-----------
 
-**14.1. Mobile Applications.**  
-We may make available Apps to access the Services via a mobile device (which, for simplicity, will include tablets or other devices that make use of the mobile application) (“**Mobile Applications**”). To use any Mobile Applications, you must have a mobile device that is compatible with the Mobile Applications. We do not warrant that the Mobile Applications will be compatible with your mobile device. You may use mobile data in connection with the Mobile Applications and may incur additional charges from your wireless provider for these services. You agree that you are solely responsible for any such charges. We hereby grant you a non-exclusive, non-transferable, revocable license to use a compiled code copy of the Mobile Applications for one Account on mobile devices owned or leased solely by you, for your personal use. You acknowledge that we may, from time to time, provide updated versions of the Mobile Applications, and may automatically electronically update the version of the Mobile Applications that you are using on your mobile device. You consent to such automatic updating on your mobile device, and agree that the Agreement will apply to all such updates. Any third-party code that may be incorporated in the Mobile Applications is covered by the applicable open source or third-party license EULA, if any, authorizing use of such code. The foregoing license grant is not a sale of the Mobile Applications or any copy thereof, and we or our third-party partners or suppliers retain all right, title, and interest in the Mobile Applications (and any copy thereof). Any attempt by you to transfer any of the rights, duties or obligations hereunder, except as expressly provided for in these Terms, is void. We reserve all rights not expressly granted under these Terms.  
+We reserve the right to suspend or terminate your access to our products with notice to you if:  
   
-**14.2. Mobile Applications from Apple App Store.**  
-The following applies to any Mobile Applications acquired from the Apple App Store (“**Apple-Sourced Software**”): you acknowledge and agree that these Terms are made and entered into solely between you and Superhuman, not Apple, Inc. (“**Apple**”) and that Apple has no responsibility for the Apple-Sourced Software or content thereof. Your use of the Apple-Sourced Software must comply with the App Store Terms of Service. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Apple-Sourced Software. In the event of any failure of the Apple-Sourced Software to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Apple-Sourced Software (if any); to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Apple-Sourced Software, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be solely governed by these Terms and any law applicable to us as provider of the software. You acknowledge that Apple is not responsible for addressing any claims by you or any third party relating to the Apple-Sourced Software or your possession and/or use of the Apple-Sourced Software, including, but not limited to: (a) product liability claims; (b) any claim that the Apple-Sourced Software fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation; and all such claims are governed solely by these Terms and any law applicable to us as provider of the software. You acknowledge and agree that, in the event of any third-party claim that the Apple-Sourced Software or your possession and use of that Apple-Sourced Software infringes that third party’s intellectual property rights, Apple will not be responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim. You and we acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of the Agreement as relates to your license of the Apple-Sourced Software, and that, upon your acceptance of the terms and conditions that make up these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms as relates to your license of the Apple-Sourced Software against you as a third-party beneficiary thereof.  
+(a) you have breached these terms or our [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy),  
+(b) you use the products in a manner that would cause a real risk of harm or loss to other Grammarly users or us, or  
+(c) you don’t have a paid account and haven’t accessed our products for 12 consecutive months.  
   
-**14.3. Mobile Applications from Google Play Store.**  
-The following applies to any Mobile Applications you acquire from the Google Play Store (“**Google-Sourced Software**”): (i) you acknowledge that these Terms are made and agreed to as between you and Superhuman only, and not with Google, Inc. (“**Google**”); (ii) your use of Google-Sourced Software must comply with Google’s then-current Google Play Store Terms of Service; (iii) Google is only a provider of the Google Play Store where you obtained the Google-Sourced Software; (iv) Superhuman, and not Google, is solely responsible for its Google-Sourced Software; (v) Google has no obligation or liability to you with respect to Google-Sourced Software or these Terms; and (vi) you acknowledge and agree that Google is a third-party beneficiary to the Terms as it relates to our Google-Sourced Software.  
+Before suspending or terminating your account, we’ll (1) provide you with reasonable advance notice via the email address associated with your account so you can try to remedy the activity that prompted us to contact you and (2) allow you to export your documents from our products. If you fail to take the steps we ask of you after such notice, we’ll terminate or suspend your access to our products.  
   
-\*\*\*
+We won’t provide notice before termination where we believe that:  
+  
+(a) you’re in material breach of these terms or our [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy),  
+(b) doing so would cause us legal liability or compromise our ability to provide our products to our other users, or  
+(c) the law prohibits us from providing notice.  
+  
+When this agreement terminates for any reason, all the sections one would expect to survive will survive, including, but not limited to, “Warranty Disclaimers,” “Limitation of Liability,” “Resolving Disputes,” “Miscellaneous Legal Terms,” “Our Intellectual Property Rights and License,” and “Paid Accounts.” The termination of this agreement doesn’t affect any amounts owed before that termination.   
+
+Discontinuation and Modification of Products
+--------------------------------------------
+
+We are continually changing and improving our products, and we may add or remove features or functionality. If we discontinue a product, where reasonably possible we will give you reasonable advance notice and a chance to download your stored User Content.  
+
+Open Source Software, Reverse Engineering, and Automatic Updates
+----------------------------------------------------------------
+
+To the extent any component of our Software may be offered under open-source license terms that we make available to you, see [here](https://grammarly.com/terms/thirdpartynotices) for a list of the open-source software that we use. The provisions of open-source licenses may expressly override some of these terms.   
+  
+Unless the following restrictions are prohibited by law, you agree not to reverse engineer or decompile our products, attempt to do so, or assist anyone in doing so. Our products may update themselves automatically to ensure you’re using the latest version.  
+
+Third-Party Websites
+--------------------
+
+Any links to third-party websites or apps are provided for your convenience only and are subject to the third party’s terms. Grammarly isn’t responsible or liable for those websites, products, or services.  
+
+Beta Products
+-------------
+
+We sometimes release products and features that we are still testing and evaluating. We will mark these products with the words “beta,” “preview,” “early access,” or “evaluation” (or with words or phrases with similar meanings). If you decide to use them, please remember that they may not be as reliable or as thoroughly tested as our other products. To improve and evaluate these products, we will log and analyze information about how you use and interact with them.  
+
+Warranty Disclaimers
+--------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GRAMMARLY, ITS AFFILIATES, AND ITS AND THEIR SUPPLIERS AND DISTRIBUTORS (COLLECTIVELY, THE “GRAMMARLY ENTITIES”), EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, REGARDING OUR PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, SATISFACTORY QUALITY OR ARISING FROM A COURSE OF DEALING, LAW, USAGE, OR TRADE PRACTICE, OR REGARDING SECURITY, QUIET ENJOYMENT, RELIABILITY, TIMELINESS, AND PERFORMANCE. YOU AGREE THAT YOUR USE OF OUR PRODUCTS ARE AT YOUR OWN SOLE RISK AND THAT OUR PRODUCTS ARE PROVIDED ON AN “AS IS,” “WHERE IS,” “AS AVAILABLE,” “WITH ALL FAULTS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, THE GRAMMARLY ENTITIES DO NOT WARRANT THAT THE OPERATION OF OUR PRODUCTS WILL MEET YOUR REQUIREMENTS OR WILL BE UNINTERRUPTED OR ERROR-FREE. GRAMMARLY’S AFFILIATES AND THE GRAMMARLY ENTITIES’ SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD-PARTY BENEFICIARIES OF THIS SECTION.  
+  
+THE GRAMMARLY ENTITIES DO NOT MAKE ANY WARRANTY REGARDING THE OUTPUTS THAT MAY BE GENERATED FROM USE OF GENERATIVE AI FEATURES, INCLUDING WITH RESPECT TO THE FACTUAL ACCURACY OF ANY OUTPUTS OR SUITABILITY FOR YOUR USE CASE. YOU UNDERSTAND AND AGREE THAT YOUR USE OF ANY GENERATIVE AI OUTPUTS IS DONE AT YOUR SOLE RISK. DUE TO THE CURRENT NATURE OF GENERATIVE TECHNOLOGY, YOU SHOULD NOT RELY ON GRAMMARLY’S GENERATIVE AI AS A SINGLE SOURCE OF FACTUAL INFORMATION. NO INFORMATION OR ADVICE, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM OR THROUGH GRAMMARLY SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.  
+
+Limitation of Liability
+-----------------------
+
+IN COUNTRIES WHERE LIABILITY LIMITATIONS ARE ALLOWED, IN NO EVENT SHALL THE GRAMMARLY ENTITIES BE LIABLE WITH RESPECT TO THE PRODUCTS FOR (I) ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE FEES YOU HAVE ACTUALLY PAID TO THE GRAMMARLY ENTITIES DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT(S) GIVING RISE TO SUCH LIABILITY; (II) ANY LOST PROFITS, LOST OR DAMAGED CONTENT OR OTHER DATA, OR FAILURE TO MEET ANY DUTY, INCLUDING WITHOUT LIMITATION GOOD FAITH AND REASONABLE CARE; OR (III) ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER.  
+  
+YOU AGREE THAT THIS LIMITATION OF LIABILITY REPRESENTS A REASONABLE ALLOCATION OF RISK AND IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN GRAMMARLY AND YOU. YOU UNDERSTAND THAT OUR PRODUCTS WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS.  
+  
+Certain countries and states don’t allow the limitation of certain damages, so some or all of this limitation of liability may not apply to you, and you may have additional rights. In that case, you agree that the Grammarly Entities’ liability is limited to the maximum extent permissible in your country of residence.  
+  
+IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID, THE INVALIDITY OF SUCH PORTION SHALL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THESE TERMS. GRAMMARLY’S AFFILIATES AND THE GRAMMARLY ENTITIES’ SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD-PARTY BENEFICIARIES OF THIS SECTION.  
+
+Resolving Disputes
+------------------
+
+_Let’s try to sort things out first._ Before filing a claim against Grammarly, you agree to try to resolve the dispute informally by contacting [support@grammarly.com](mailto:support@grammarly.com). We’ll try to resolve the dispute informally by contacting you via email. If you and we cannot resolve the dispute informally, then a party seeking to bring a formal proceeding must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Grammarly should be sent to 548 Market Street, #35410, San Francisco, CA 94104, Attn: Legal Department. The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Grammarly and you do not resolve the claim within sixty (60) calendar days after receiving the Notice, you or Grammarly may commence a formal proceeding.   
+  
+_Judicial forum for disputes._ You and Grammarly agree that any judicial proceeding to resolve claims relating to these terms or our products will be brought in the federal or state courts of San Francisco County, California, subject to the mandatory arbitration provisions below. Both you and Grammarly consent to venue and personal jurisdiction in such courts. If you reside in a country with laws that give consumers the right to bring disputes in their local courts (for example, European Union member states), this paragraph doesn’t affect those requirements.  
+  
+**IF YOU’RE A U.S. RESIDENT, YOU ALSO AGREE TO THE FOLLOWING MANDATORY ARBITRATION PROVISIONS:**  
+  
+_We both agree to arbitrate._ You and Grammarly agree to resolve any claims relating to these terms or our products through final and binding arbitration by a single arbitrator, except as set forth under “Exceptions to agreement to arbitrate” below. This includes disputes arising out of or relating to interpretation or application of this “Mandatory Arbitration Provisions” section, including its enforceability, revocability, or validity.  
+  
+_Opt-out of agreement to arbitrate._ You have the right to opt out of these arbitration provisions (and any future changes to arbitration provisions) by emailing [arbitration-opt-out@grammarly.com](mailto:arbitration-opt-out@grammarly.com) within 30 days of agreeing to a version of these terms containing arbitration terms (however, if you agreed to a previous version of these terms of service that contain an arbitration provision, you are still bound by those arbitration provisions).  
+  
+_Arbitration procedures._ The American Arbitration Association (AAA) will administer the arbitration under its Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes. The arbitration will be held in San Francisco County, California, or any other location we agree to. During the arbitration, the amount of any settlement offer made by Grammarly or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Grammarly is entitled.  
+  
+_Arbitration fees and incentives._ The AAA rules will govern the payment of all arbitration fees. Grammarly will pay all arbitration fees for individual arbitration for non-frivolous claims less than $75,000. Grammarly will not seek its attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous.  
+  
+_Exceptions to agreement to arbitrate._ Either you or Grammarly may assert claims, if they qualify, in small claims court in San Francisco County, California, or any United States county where you live or work. Either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the products or intellectual property infringement (for example, trademark, trade secret, copyright, or patent rights) without first engaging in arbitration or the informal dispute-resolution process described above. If the agreement to arbitrate is found not to apply to you or your claim, you agree to the exclusive jurisdiction of the state and federal courts in San Francisco County, California, to resolve your claim.  
+  
+**_NO CLASS ACTIONS._** You may only resolve disputes with us individually. That is, you may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations aren’t allowed.  
+  
+_Severability._ If the “NO CLASS ACTIONS” paragraph is held unenforceable, then the entirety of this “Mandatory Arbitration Provisions” section will be deemed void. If you are found to have a non-waivable right to bring a specific claim or request a specific form of relief that an arbitrator lacks the authority to redress or award under this “Mandatory Arbitration Provisions” section, including public injunctive relief, then only that particular claim or request may be brought in court, and you and we agree that litigation of this claim or request will be stayed pending the resolution of any other claims or requests for relief in arbitration.  
+  
+**Controlling Law**  
+  
+Unless otherwise required by a mandatory law of a member state of the European Union, United Kingdom, Switzerland, or any other jurisdiction, this Agreement and terms and any disputes shall be governed by California law except for its conflicts of laws principles. However, some countries (including those in the European Union) have laws that require agreements to be governed by the local laws of the consumer’s country. This paragraph doesn’t override those laws nor any general rights to have disputes settled in court rather than by arbitration.   
+
+Miscellaneous Legal Terms
+-------------------------
+
+**Entire Agreement**  
+  
+These terms make up the entire agreement between you and Grammarly, Inc., regarding your use of our products. They supersede any prior agreements.  
+  
+**Waiver, Severability, and Assignment**  
+  
+Grammarly’s failure to enforce a provision is not a waiver of its right to do so later. If a provision (other than the “NO CLASS ACTIONS” paragraph) is unenforceable, the remaining provisions will remain in full effect, and an enforceable term will be substituted with the goal of reflecting our intent as closely as possible. You may not assign any of your rights or obligations under these terms, and any such attempt will be void. Grammarly may assign its rights to any of its affiliates or subsidiaries or any successor in interest of any business associated with the products.  
+  
+**Modifications to These Terms**  
+  
+From time to time, we may revise these terms to, for example, reflect changes to the law, new regulations, and changes to our products.  
+  
+If an update significantly negatively affects your use of our products or your legal rights as a user of our products, we’ll notify you before the update’s effective date by sending an email to the email address associated with your account or via an in-product notification. We will give you at least 30 days after that notice before the update takes effect.   
+  
+We may also update these terms in ways that won’t significantly negatively affect your rights. For example, we may change the feature or product names or change the email address you can use to contact us. In those cases, we will post the change to our website and link to the previous version.   
+  
+If you don’t agree to the updates we make, you must cancel your account before they become effective. Where required, we’ll offer you a prorated refund based on the amounts you have prepaid for our products and your account cancellation date. By using or accessing the products after the updates come into effect, you agree to be bound by the revised terms.
