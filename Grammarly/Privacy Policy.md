@@ -1,333 +1,281 @@
-Effective as of October 29, 2025
+Effective as of March 28, 2025
 
-Superhuman Privacy Policy
--------------------------
+Privacy Policy
+--------------
 
-([View previous version](https://www.grammarly.com/privacy-policy-march-2025))  
+([View Previous Version](https://www.grammarly.com/privacy-policy-november-2024))  
   
-Welcome to Superhuman. A little bit about us: We’re the productivity platform that brings AI to you everywhere you work, however you work. When you use Superhuman products, you’re trusting us to handle your personal data with care. We take that trust seriously. We make money when users purchase our paid products and not by selling or monetizing user content. We offer a free product and hope you’ll purchase one of our paid products.   
+When you use Grammarly’s products, you’re trusting us to handle your personal data with care. We take that trust seriously.   
   
-This Privacy Policy describes how Superhuman Platform Inc. (formerly Grammarly) and our subsidiaries (such as Grammarly Inc., Coda Project, LLC, and Superhuman Labs LLC) and affiliated companies (collectively, “**Superhuman**”, “**we**,” or “**us**”), collect, use, and disclose information about you, as well as privacy choices available to you. We offer lots of tools to different people and organizations, so we need to explain when this Privacy Policy applies:  
-
-*   This Privacy Policy applies when you interact with us as an individual, such as when you create an account, receive our products directly from us, or browse our websites.   
-    
-*   Unless we tell you a different policy applies, this Privacy Policy covers our products, including those offered as “Grammarly”, “Coda”, “Superhuman Go”, and “Superhuman Mail”. It also covers your interactions with and on our online marketplace (if you build, access, use, purchase, or integrate third-party products in our marketplace, additional terms will apply).    
-    
-*   If you use our products under the management of a company, organization, or other legal entity (such as if your employer gives you access to our inbox assistant tools for work), this Privacy Policy won’t apply to the information you upload to or output from our products (Customer Personal Data, as defined in our [Data Privacy Addendum](https://www.superhuman.com/legal/dpa)). In these cases, we process Customer Personal Data on behalf of your company or organization. Please see more info [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2DFPeZ0mQRMBchzsvMJXHd).   
-    
-
-Below, we provide some additional privacy information for those living in the [United States](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5buwFstMYZvwdMBeRcp0dk) (US), the [European Union, European Economic Area (EEA), United Kingdom (UK), or Switzerland](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO).  
+**When this policy applies:** We, Grammarly, Inc., provide this Privacy Policy to explain how we collect, use, and disclose your personal data when you interact with us as an individual, such as when you create an account and receive our products directly from us. It also applies when you browse our websites, our mobile or tablet-based applications, and productivity application services offered in connection with the websites or similarly interact with us, such as by subscribing to our marketing emails. As used in this Privacy Policy, “Grammarly” refers to both Grammarly and Coda products, unless otherwise specified.    
   
-We may update this Privacy Policy from time to time by publishing an updated version. If we make material changes, we will provide you additional notice, such as by sending you an email.   
+**When this policy doesn’t apply:** If you use our products under the management of a company, organization, or other legal entity (for example, Grammarly Business, Grammarly for Education, Grammarly Pro, or Coda as applicable), then this Privacy Policy does not apply to the Customer Personal Data (as defined in our [Grammarly Data Privacy Addendum](https://www.grammarly.com/media-resources/dpa)) you upload to such accounts. For those accounts, we process Customer Personal Data on behalf of and in accordance with the contract and data protection terms with such legal entity ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2m292rcyHNO9V6e3TfFe2I)).   
+  
+We may update this Privacy Policy from time to time, in which case we will provide you with notice of material updates or seek your consent to the updates as may be required by applicable laws.  
+  
+**Summary**  
+  
+While we hope you read this entire Privacy Policy, here is a brief overview of some important points:  
+
+*   This policy explains our global privacy practices. If you live in certain places, additional disclosures may apply to you. For instance, if you reside in California, you can read our [California Notice at Collection,](https://www.grammarly.com/privacy-policy#sectionSingleColumn_47y4NWiOf89wt12wcc6a74) and if you reside in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, you can read our [Supplemental EEA+ Privacy Statement](https://www.grammarly.com/eea-privacy-notice).  
+    
+*   We make money when users purchase our paid products, and not by selling or monetizing your content. We offer a free product and hope you’ll purchase one of our paid products ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2BY3yGiyOjdXcNjfiXIsCY)).   
+    
+*   When you sign up for and use our products, we process your account information, and—if applicable—we work with payment processors to handle your payment information ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_7uOOWJJPY0z52gJF3HafYg)).  
+    
+*   To provide you with writing suggestions in certain Grammarly products (such as Grammarly Free, Premium, and Pro), we process your text. To provide you with an optimized product, we also process some additional information, such as the type of device you’re using. For such products, we offer you tools in account settings to control how we use your text and personalize your experience ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1ZFKil4JH2VO74XoITm1cJ)).  
+    
+*   We have stringent security mechanisms in place to protect your data and maintain your privacy ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1sdf4GsEf3NlWrsI9MXwIP)).  
+    
+*   We use trusted service providers to help provide our products and describe other scenarios in which we may disclose information below ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH)).  
+    
+*   We offer and allow you to exercise privacy rights and choices, including as may be required under applicable laws ([read more](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3cD2NaNV0m3ONXNF8C1cj0)).  
+    
+
+  
 
 Table of contents
 -----------------
 
-[How We Use Information We Collect](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2UGbKwsXWIJoYNAZHcEMvW)  
+[How Does Grammarly Make Money?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2BY3yGiyOjdXcNjfiXIsCY)  
   
-[When We Disclose Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4EPx9RaSjayi21F7JSK8et)  
+[What Types of Personal Data Does Grammarly Collect?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_7uOOWJJPY0z52gJF3HafYg)  
   
-[Retention and Security](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4aEHnCnR1kxRUCup7jtgiM)  
-
-[Your Rights and Choices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1nnaT0HxWegbJd0aVxdNG7)  
+[Does Grammarly Obtain Any Data From Third-Party Sources?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1tmlS8o6KQPFidDKvQ6mDE)  
   
-[Data Transfers](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4Y7YE5EfjJJhTJ3Yxv9w42)  
+[For What Purposes Does Grammarly Use Personal Data?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1ZFKil4JH2VO74XoITm1cJ)  
   
-[Related Privacy Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2DFPeZ0mQRMBchzsvMJXHd)  
+[How Does Grammarly Secure and Store Personal Data?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1sdf4GsEf3NlWrsI9MXwIP)  
 
-[Contact Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_Qd2pMjIZPtUs8A9f5lT8k)  
+[To Whom Does Grammarly Disclose Personal Data?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH)  
   
-[Additional US State Law Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5buwFstMYZvwdMBeRcp0dk)  
+[Your Privacy Rights & Choices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3cD2NaNV0m3ONXNF8C1cj0)  
   
-[Additional European Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO)  
-
-Information We Collect
-----------------------
-
-The information we collect depends on how you use our products and how you manage your privacy settings.  
+[California Notice at Collection and Additional Information for Residents of Certain U.S. States](https://www.grammarly.com/privacy-policy#sectionSingleColumn_47y4NWiOf89wt12wcc6a74)  
   
-**We collect information you provide to us**. This includes:  
-
-*   **Account information:** When you create an individual or organizational account, we collect information such as your email address, password, name, email preferences, job titles, and phone numbers. If you use a single sign-on partner, like Google or Apple, we’ll collect the information from them that you authorize.  
-    
-*   **Payment information:** If you make a purchase or payment with us, we collect information about the transaction, and our third-party payment processor will handle your payment information.   
-    
-*   **User content:** We receive the content you upload or enable our products to access, such as emails and drafts, text, documents, files, calendars, images, data, and any other content you allow our products to access.   
-    
-*   **Communications with us and feedback:** You may have the option to submit additional information to us as you use our products or when you interact with our customer support or sales teams. For example, you may choose to participate in surveys where you can provide feedback about our products.    
-    
-
+[Notice to End Users on a Grammarly Business, Grammarly for Education, or Certain Grammarly Pro Plans](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2m292rcyHNO9V6e3TfFe2I)  
   
-**We collect some information automatically.** We do this when you use our products or browse our websites, for example. This includes:   
-
-*   **Technical information:** We collect technical information about your device and how you access our products. This includes your IP address, device type, browser type and version, apps installed on your device, time zone setting and location, browser plugin types and versions, operating system, and platform. Depending on how you use our products, we may also collect technical information about third-party apps and tools where you use our products.  
-    
-*   **Usage data:** We collect usage data about how you interact with us and our products, including your activity on our websites and apps and your interactions with our marketing communications. We collect usage data about actions you take using our products, such as logs of which features you use and data from these features, like read receipts, security logs, as well as quality and performance information about the operation of our products. We also collect data about how you interact with our online marketplace, such as if you access, use, develop, or purchase an offering on the marketplace or integrate third-party marketplace products into your Superhuman account(s).   
-    
-*   **Cookie information:** We use cookies and similar technologies, such as pixels and local storage technology, (collectively, “**Cookies**”) to collect some of the technical information and usage data described above, including to recognize your browser or device. Below, we describe how we use Cookies for advertising and the [choices you have](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1nnaT0HxWegbJd0aVxdNG7), and we also provide more information about Cookies in the [Additional European Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO) section and in the [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies).   
-    
-
+[Contact Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3DzxSPN00XGuynKygHP5Nt)  
   
-**Information about non-users.** Your user content may include information about others, such as when you exchange emails with people who don’t use our products or if you choose to give our products access to your contacts so our editing products make appropriate spelling suggestions. We use the contact information and other information we receive about non-users through user content only to provide our products to you and will not use it to contact, advertise, or market to such individuals.   
-  
-**Information from other sources.** We may collect information about users and non-users that’s publicly available, and we may license data such as your contact info or information about your company or job function from third parties. In addition, we may receive information about you from third parties that you choose to connect with through our online marketplace. For example, if you integrate a third-party marketplace product with a Superhuman account(s), we may receive metrics related to your use of that product or other content depending upon your settings with the third party. This data may be combined with the other information we collect and might include aggregate-level data, such as which IP addresses correspond to zip codes or countries.  
-  
-**Information we infer.** Finally, we may infer information about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address, predict that you are interested in certain products we offer based on your usage data and past purchases, and, depending upon your account settings, we may infer what industry you work in and your writing style based on your use of our products.  
 
-How We Use Information We Collect
----------------------------------
+How Does Grammarly Make Money? 
+-------------------------------
 
-How we use the information we collect depends upon how you use our products and your privacy settings. We use information to:  
+We offer free and paid products, and we make money from subscriptions of the paid products. Grammarly does not monetize data or use the content customers upload to our products for advertising purposes.  
 
-*   **Provide and tailor our products to you.** We use the information we collect to provide our products to you and to power rich, interactive, and personalized experiences while using them. For example, we process your user content and usage data to show you context-appropriate and personalized suggestions for writing, communications, and scheduling, to prioritize your workflows, and to offer tips on optimizing your use of our products.  
+What Types of Personal Data Does Grammarly Collect?
+---------------------------------------------------
+
+We collect the following types of personal data:  
+
+*   **Account information** when you or your organization sign up for an account, which includes your email address, password, name, and email preferences, and, as applicable, job titles and phone numbers. If you sign up through a third-party service, like Google or Apple, we’ll collect the information from them that you authorize.  
     
-*   **Improve our products and build new ones.** We’re continually developing new ways of making our products smarter, faster, more secure, and more helpful, and imagining new products we could build. For example, we analyze usage data to help us decide what new features to build or improve.  
+*   **Payment information** if you make a purchase or payment on our website(s), which includes payment transaction history and limited payment card information, including billing address. If you use PayPal, the Google Play Store, the Apple App Store, or another payment processor to finalize and pay for your order, you will provide your payment information directly to those providers, not us.  
     
-*   **Develop and improve AI.** We also use information we collect to train our AI models. You can decide whether Superhuman can use your user content to train our AI models by adjusting the available training control(s) in your account settings.  
+*   **Log data, application, network and device information**, which includes, for example, internet protocol (IP) address, device type, browser type and version, time zone setting and location, browser plug-in types and versions, and operating system and platform.  
     
-*   **Secure our products and troubleshoot problems.** We use the information we collect to resolve technical issues that arise with our products. For example, technical data and usage data help us to track outages and monitor security within our products.   
+*   **User content**, which consists of all the text and documents that you upload, enter, or otherwise transmit to us when you use our products. For information on how we use, process, protect, and store user content, please see [For What Purposes Does Grammarly Use Personal Data](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1ZFKil4JH2VO74XoITm1cJ) and [How Does Grammarly Secure and Store Personal Data?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_572yz4dIpV8Vs0noJxPXC) You can also review our [Technical Specifications](https://www.grammarly.com/technical-specifications), as applicable.   
     
-*   **Process payments.** If you are a paying customer, we work with payment processors to process your payment information to enable your transaction. If you purchase our products through a third-party app store or payment processor, you may provide your payment information directly to those providers—not to us.   
+*   **Usage data** includes information about how you use and interact with our products. For example, we collect usage data to provide you with weekly activity reports, personalized insights on how to optimize your use of our products, and performance optimization in the sites and applications you use our products in. For more information on the types of usage data we collect and how we process it, please see our [Technical Specifications](https://www.grammarly.com/technical-specifications).  
     
-*   **Communicate with you and provide customer service.** We use information we collect to communicate with you, such as to resolve issues you encounter with our products or to provide account or product notices. For example, if you contact our support team, we may need access to account information to respond to your request.   
+*   **Cookie information** and other identifiers to enable our systems to recognize your browser or device and provide, protect, improve, and promote our products and services.   
     
-*   **Market and advertise our products to you.** We do not use your user content for marketing or advertising purposes. Depending on your settings, we do use some of the other information we collect (such as your email address, the types of products you have purchased, your usage data, and inferences we may have made about you) to send marketing communications, advertise our products to you on third-party sites and services, and otherwise promote our products and conduct market research. See more info on our advertising practices [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4EPx9RaSjayi21F7JSK8et).   
+*   **Names of user contacts in the Grammarly Keyboard (on-device storage only)** to make appropriate spelling suggestions. The Grammarly Keyboard may request or obtain access to your contacts’ names on your device. For instance, Grammarly will not try to autocorrect names in your list of contacts. These names will be stored solely on your device within the Grammarly Keyboard app and are never sent to Grammarly servers.  
     
-*   **Handle compliance issues and protect against harm.** We use the information we collect to comply with law, to protect our users, Superhuman, or others, and to resolve disputes. This includes, for example, responding to legal process and governmental requests, defending our or others’ legal rights, and protecting our users, Superhuman, and others, against fraud, abuse, or other illegal, malicious, or other potentially harmful activities.  
+*   **Other information you provide directly to us**, such as in situations where you may have the option to submit additional information as you use our products or when you interact with our customer support or sales teams. For example, you may choose to participate in surveys where you can provide feedback on our products.  
+    
+*   **Inferences**. We may also derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address, infer that you are looking to purchase certain Grammarly products based on your browsing behavior and past purchases, and, depending upon your account settings, we may infer the industry you work in based on your writing and other metadata, or infer writing style preferences based on your prior use of our products.  
     
 
   
 
-When We Disclose Information
-----------------------------
+Does Grammarly Obtain Any Data From Third-Party Sources?
+--------------------------------------------------------
 
-We disclose information to the types of recipients and in the scenarios described below.    
+Yes, we sometimes obtain information about you from our partners or others that we use to make our information and our products better or more useful. This data may be combined with the other information we collect and might include aggregate-level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific, such as data about your company or job function, which we may use, for example, to advertise Grammarly products to you.   
 
-*   **The Superhuman family of companies.** Companies within the Superhuman corporate family may access information about you, including for business operations, product integration, development, and improvement, and to support promotion of our products.   
-    
-*   **Trusted service providers.** We use trusted service providers to help power our products and operate our business. They help with things like payment processing, AI technology, and cloud storage. These trusted service providers are bound by agreements that require them to follow data privacy and security requirements and to follow our instructions. For example, we restrict our AI service providers from training their models on user content of Superhuman customers.   
-    
-*   **Marketplace Participants.** Using our online marketplace, you can choose to build, access, use, purchase, or integrate (collectively, “use”) agents, apps, packs, applications, code, plugins, content, services, extensions, or other third-party offerings with your Superhuman account(s). If you choose to use a third-party offering, Superhuman may disclose information to that third party and/or an associated API provider in accordance with your settings. Superhuman does not own or control the third-party offerings available through our marketplace, so please review the policies and choices offered by any third party (including an associated API provider) you choose to engage or integrate.   
-    
-*   **Advertising partners.** We engage other companies to serve advertisements promoting our products and our company and to perform related services. We do not make user content available to these companies. These companies may use Cookies to collect limited information about your interactions with our websites, such as a cookie ID or device identifier and a link you click or page you visit on our websites. In addition, we may work with advertising partners to translate your email address or phone number into a unique identifier that such partners can then use to show ads promoting our products on other websites and online services. These activities–disclosing unique IDs and disclosing data through Cookies–may constitute “targeted advertising”, “sharing”, or “selling” under certain privacy laws, and depending on where you live, we may require your consent or you may be able to opt out of such activities. See “[Your Rights and Choices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1nnaT0HxWegbJd0aVxdNG7)” below for more.   
-    
-*   **Government, legal, and similar authorities.** We may disclose information about you to governmental agencies, regulators, and other authorities or authorized parties to comply with any applicable law, regulation, legal process, or appropriate governmental request. We may also disclose your personal information to protect ourselves, our users, or others from fraud, abuse, or other illegal or potentially harmful activities.  
-    
-*   **Disclosure in the event of merger, sale, or other asset transfer.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of some or all assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.  
-    
-*   **With your consent or otherwise at your direction.** If you consent to us disclosing your information to another user or other recipient or otherwise direct us to share your information, we may do so.  
-    
+For What Purposes Does Grammarly Use Personal Data?
+---------------------------------------------------
 
+The ways in which we use your personal data depend, in part, on how you use our products and what preferences you set.   
   
-We may use and disclose data that has been de-identified so that it can no longer reasonably be used to identify you. We commit to maintaining and using such information in de-identified form and not to attempt to re-identify the information, except for the purpose of determining whether our de-identification processes satisfy applicable legal requirements.  
+We use your personal data for the following specific purposes:  
 
-Security and Retention
-----------------------
-
-We design our products with security in mind, and we use a combination of safeguards and processes designed to secure data, including encryption, secure network configuration, and other measures, including encryption, network segregation, and access minimization.   
-  
-We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, to resolve disputes, and for other legitimate business purposes. We retain the data we collect for different periods of time depending on what it is, how it’s used, and how you configure your settings.  
-  
-For example, where we process information for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in the future.  
-
-Your Rights and Choices
------------------------
-
-We offer you controls to manage your information and communications preferences with us.  
-
-*   **AI training control.** As described [above](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2UGbKwsXWIJoYNAZHcEMvW), you can decide whether Superhuman can use your user content to train our AI models by adjusting the available training control(s) in your account settings.  
+*   **Providing and tailoring our products to you.** We use your personal data to operate our products and provide a rich, interactive, and personalized experience. For example, we process your user content and usage data to show you appropriate suggestions, personalize our suggestions based on the content and context of your usage, and offer tips on optimizing your use of our products. As another example, if you set up a personal dictionary, we will customize your suggestions to account for your personal dictionary. For more details about how we process your personal data when you use applicable Grammarly products and the controls available to you, please see our [Technical Specifications](https://www.grammarly.com/technical-specifications).  
     
-*   **Opt out of targeted advertising.** We work with advertising partners to promote our products on other websites and online services. Depending on your location, you can opt out of these disclosures following the instructions presented when you click the link titled “Your Privacy Choices” on the footer of each Superhuman product website.   
+*   **Communicate with you.** We use your personal data to communicate with you and to resolve any issues that you may encounter with our products. For example, if you contact our support team, we may need access to account information in order to respond to your request. Or, for example, we may use your personal data to communicate with you about product-related notifications such as product updates or account-related matters such as invoices.   
     
-*   **Control cookies and similar technologies.** You can use controls in your internet browser to limit how the websites you visit use cookies or withdraw your consent by clearing or blocking cookies. Depending on your location, we offer additional controls on our websites to turn off use of cookies, pixels, and similar technologies for non-essential purposes. Please see our [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies) for more information.  
+*   **Troubleshooting and debugging our products.** We use personal data to resolve technical issues that arise with our products. For example, we use log data to track outages.  
     
-*   **Unsubscribe from marketing communications.** You can unsubscribe from our marketing emails by following the instructions in those emails, adjusting the marketing communications preferences in your settings, or emailing us at [privacy@superhuman.com](mailto:privacy@superhuman.com).  
+*   **Building and improving our products.** We’re continually developing new methods to make our products smarter, faster, more secure, and more helpful. Our privacy-preserving uses of personal data are core to continually improving Grammarly’s product offerings and maintaining a high-quality product experience. For example, we refer to usage data to help us decide what new features to build. As set forth in our [Technical Specifications](https://www.grammarly.com/technical-specifications), for applicable Grammarly products, you are in control of whether your user content is used for training and improvement of our models. For applicable Grammarly products, you can learn more about these controls, how we build and improve our products, and the steps we take to preserve your privacy before doing so in our [Technical Specifications](https://www.grammarly.com/technical-specifications).  
     
-*   **Mobile push notifications.** With your permission, we may send push notifications to your mobile device. You can deactivate these notifications at any time by changing the settings on your mobile device.  
+*   **Processing payments.** If you are a paying customer, we work with payment processors to process your payment information to enable your transaction.  
     
-*   **Data rights.** Depending on where you live, you may have rights under privacy laws to access, correct, or delete your personal data, as well as other rights, all as described below. Please review our [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies) for information on how to make these requests for the different Superhuman products.  
+*   **Promoting our products.** We use personal data to send promotional communications and to conduct marketing research. For example, depending on your location, communications preferences, and consent settings (as applicable), we may use account information to send you personalized marketing emails about new products or offers, from which you can unsubscribe.  
+    
+*   **Managing Events**. We use personal data to manage event registrations, seminars, panels, discussions, and other event attendance. We may process your personal information to plan and host events or webinars for which you have registered, inquired about, or that you attend, including sending related communications to you.  
+    
+*   **Complying with legal obligations and protecting against harm.** We use personal data to: (a) comply with applicable laws, regulations, legal processes, and governmental requests, (b) protect our or others’ legal rights, and (c) protect ourselves or our users from fraud, abuse, or other illegal or potentially harmful activities.  
     
 
   
 
-Data Transfers
---------------
+How Does Grammarly Secure and Store Personal Data?
+--------------------------------------------------
 
-We may transfer and process your data outside of the country where you live. Countries’ data protection laws vary, with some providing more protection than others. Regardless of where your information is processed, we apply the protections described in this policy and we comply with certain legal frameworks relating to the transfer of data, including ensuring that relevant safeguards are in place for the transfer of data where required by law. See more in the [Additional European Information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_5i1os6vyncbBcC3KEhOdSO) section below.  
-
-Related Privacy Information
----------------------------
-
-**Enterprise Users**  
+**Grammarly products**  
   
-If you use our products under the management of a company, organization, educational institution, or other legal entity (“Organization”), such as Grammarly Business, Grammarly for Education, Grammarly Pro, Coda, or Superhuman Business or Enterprise as applicable, please note:   
+As described in more detail on our [Security page](https://www.grammarly.com/security), we use a combination of technical, physical, and logical safeguards designed to secure your data. These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and other measures.  
+  
+We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes. For more information, please see our [Technical Specifications](https://www.grammarly.com/technical-specifications#sectionSingleColumn_4L6TzGQmY9msWQw1iwNlgn).  
+  
+When it comes to user content, by default, we process user content associated with your account to provide services to you (for example, writing suggestions, customization, and insights on how to use our features). For troubleshooting and product improvement, we typically retain user content for no longer than one year, after which we either delete or de-identify the content unless you choose to retain it in your account for longer or specifically ask us to delete it sooner, subject to any legal obligations requiring us to maintain the content for a longer period. We also pseudonymize, aggregate, and/or de-identify data and content when providing our services to you as described in our [Technical Specifications](https://www.grammarly.com/technical-specifications). With the Grammarly Editor, we will store documents you create until you delete them or we close your account.  
+  
+**Coda**   
+  
+For information about security and data storage with respect to Coda, see [https://coda.io/trust/security#application-security](https://coda.io/trust/security#application-security).  
 
-*   This Privacy Policy does not apply to user content you upload or create using such accounts. Instead, we process your user content in accordance with the contract and data protection terms with that Organization.   
+To Whom Does Grammarly Disclose Personal Data?
+----------------------------------------------
+
+We may disclose personal data to the following types of companies, organizations, or individuals outside of Grammarly:  
+
+*   **Trusted service providers.** We use service providers like Amazon Web Services to provide services that allow us to serve our users. These trusted service providers are bound by agreements that require them to follow data privacy and security requirements and only use your data in the way we tell them to.   
     
-*   Your Organization can access and control your account. If you created an account using an email address belonging to your Organization, we may share your email address or other usage information with the administrators or representatives of that Organization.  
+*   **Government agencies, regulators, and similar authorities.** We may disclose your information to governmental agencies, regulators, and other authorities or authorized parties if we determine that such disclosure is reasonably necessary to (a) comply with any applicable law, regulation, legal process, or appropriate governmental request or (b) protect ourselves, our users, or others from fraud, abuse, or other illegal or potentially harmful activities.  
     
-*   If you join an Organization account or create an account with an email address belonging to your Organization, we may suggest you as a potential collaborator to other users of that account.  
+*   **Organization IT administrators and representatives.** When you join Grammarly through a company, organization, or other legal entity (e.g., through Grammarly Business, Grammarly for Education, or certain Grammarly Pro offerings), the administrator of that team may access and control your Grammarly account (for Grammarly products, see [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2m292rcyHNO9V6e3TfFe2I)). If you created an account using an email address belonging to your employer or organization, we may share your email address with the administrators or representatives of that employer or organization to, for example, allow them to invite you to a Grammarly Business account or reach out to them about purchasing Grammarly Business.  
     
-*   You should contact your Organization to exercise any of your rights related to your information. If you contact us with a request, we will refer your request to the Organization that provides you with access to the product, or ask that you do the same, and we will assist that Organization in responding to your request.  
+*   **Other users.**  If you join a Coda, Grammarly Business or Grammarly for Education account or create an account with an email address belonging to your employer or organization, we may suggest you as a potential collaborator to other users of that account.  
+    
+*   **Advertising partners**. We engage other companies to provide analytics services, serve advertisements promoting Grammarly across the web and in other companies’ mobile apps, and perform related services. We do not make user content available to these advertising partners. These companies may use cookies, web beacons, pixels, and other technologies to collect limited information about your interactions with our marketing websites, such as a cookie ID or device identifier and a link you click or page you visit on Grammarly’s websites. In addition, we may work with advertising partners to translate other identifiers, such as your email address, into a unique identifier (called a hashed value) that such partners can then use to show ads promoting Grammarly on other websites and online services. These disclosures of hashed identifiers and information disclosed through advertising cookies and similar technologies may constitute “targeted advertising,” “sharing,” or “selling” under certain privacy laws, and you may opt out at any time. See the “[Your Opt-Out Rights and Communication Choices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3cD2NaNV0m3ONXNF8C1cj0)” section for information about how to opt out of these disclosures.   
+    
+*   **An acquirer of Grammarly’s business or assets.** We may disclose personal data to manage or give effect to a reorganization, restructuring, merger, acquisition, or whole or partial sale or transfer of our business or assets (“**Business Transaction**”) that our business decides to enter into. We’ll notify you (for example, via a message to the email address associated with your account) of any Business Transaction involving your personal data and outline your choices in that event.  
+    
+*   **With your consent or otherwise at your direction.** If you consent to us disclosing your personal data to a particular recipient or otherwise direct us to do so, we may do so.  
     
 
   
-**Our Online Marketplace**  
-  
-Third-party offerings made available to you through our online marketplace are not owned or controlled by Superhuman. Please refer to the terms, documentation, and policies offered by such third parties to understand their data and security practices.   
 
-Additional US State Law Information
------------------------------------
+Your Privacy Rights & Choices
+-----------------------------
 
-Some US states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“**State Privacy Laws**”). If you reside in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, or another state governed by a State Privacy Law, then this section applies to you. **This section also serves as our California notice at collection.**  
+Grammarly offers privacy controls to everyone, for example with respect to receiving marketing emails or how content is used to personalize users’ experience. You can find most of these controls within your account settings. Below we explain these choices and rights and how to exercise them. Note that the wording of these rights and how they are exercised may vary somewhat by region (for example, if you live in Europe, you can read more about your rights below).  
   
-**Additional Disclosures**  
-Above, we explain how we [collect](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2Pp6j27yCkk6aFMsxWp9DU), [use](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2UGbKwsXWIJoYNAZHcEMvW), and [disclose information](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4EPx9RaSjayi21F7JSK8et) about you, as well as our [targeted advertising practices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4EPx9RaSjayi21F7JSK8et). As required by certain State Privacy Laws, we use the tables below to explain this same information.   
+**Your Opt-Out Rights and Communications Choices**  
+  
+
+*   **Opt out of targeted advertising.** As described [above](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH), we work with select advertising partners to promote Grammarly on other websites and online services. Depending on your location, you can opt out of these disclosures following the instructions presented when you click the link titled “Your Privacy Choices” on the footer of our websites.   
+    
+*   **Other choices regarding cookies and similar technologies**. Depending on your location, Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes. Please follow the prompts behind the “Your Privacy Choices ” links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service. For Coda, you can find additional information [here](https://coda.io/trust/cookie-notice) and [here](https://coda.io/trust/cookies). All users can adjust browser settings to remove or reject browser cookies.  
+    
+*   **Stop us from using your personal data for marketing communications.** You can ask us to stop using your personal data to send you marketing emails by following the instructions in those emails. Alternatively, to stop receiving marketing emails promoting Grammarly, you can contact us using the contact information [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3DzxSPN00XGuynKygHP5Nt) or, to stop receiving emails promoting Coda, by contacting us at support@coda.io.  
+    
+
+  
+**Your Other Data Rights**   
+  
+You may have rights under privacy laws to submit requests to us to access, correct, update, stop using for certain purposes, delete, or move your personal data out of Grammarly. If you would like to submit a request to exercise your rights, please follow these instructions:   
+  
+
+*   **Request a personal data report.** You can submit an access request for your data through [your Grammarly account settings](https://support.grammarly.com/hc/en-us/articles/27530062641293).  
+    
+*   **Correct or update your data.** You can update your name, email address, and language preferences through your Grammarly account settings. If you registered for Grammarly using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://support.grammarly.com/hc/en-us/requests/new?showform).   
+    
+*   **Delete your data.** You can remove your personal data from Grammarly by [deleting your account](https://support.grammarly.com/hc/en-us/articles/115000090052-Delete-your-Grammarly-account). Note that if you use a paid Grammarly account as part of an account managed by your employer, organization, or other legal entity, you may need to ask the administrator of your account to request deletion or remove you from their account before we can act on your request.    
+    
+*   **Move your data out of Grammarly.** You can download the documents you’ve stored in your Grammarly account by following the steps [here](https://support.grammarly.com/hc/en-us/search/click?data=BAh7DjoHaWRsKwjYIorGGgA6D2FjY291bnRfaWRpApuAOgl0eXBlSSIMYXJ0aWNsZQY6BkVUOgh1cmxJImtodHRwczovL3N1cHBvcnQuZ3JhbW1hcmx5LmNvbS9oYy9lbi11cy9hcnRpY2xlcy8xMTUwMDAwOTEzNTItQ3JlYXRlLXVwbG9hZC1hbmQtZG93bmxvYWQteW91ci1kb2N1bWVudHMGOwhUOg5zZWFyY2hfaWRJIikwYjU1ZGY5NS01MzE0LTQxOGEtOTk1MC05ZmQyNmFhNGZlOTAGOwhGOglyYW5raQY6C2xvY2FsZUkiCmVuLXVzBjsIVDoKcXVlcnlJIhZkb3dubG9hZCBkb2N1bWVudAY7CFQ6EnJlc3VsdHNfY291bnRpAZE%3D--34eb85f08df80abc0e1761e32aca1b6cfeb7061f). You can download your billing receipts by following the instructions [here](https://support.grammarly.com/hc/en-us/articles/360041219071-Where-can-I-find-my-receipts-) and download a copy of your document statistics by following the instructions [here](https://support.grammarly.com/hc/en-us/search/click?data=BAh7DjoHaWRsKwhkI4rGGgA6D2FjY291bnRfaWRpApuAOgl0eXBlSSIMYXJ0aWNsZQY6BkVUOgh1cmxJImxodHRwczovL3N1cHBvcnQuZ3JhbW1hcmx5LmNvbS9oYy9lbi11cy9hcnRpY2xlcy8xMTUwMDAwOTE0OTItRG93bmxvYWQtUERGLXJlcG9ydC1vZi1kb2N1bWVudC1zdGF0aXN0aWNzBjsIVDoOc2VhcmNoX2lkSSIpMGI1NWRmOTUtNTMxNC00MThhLTk5NTAtOWZkMjZhYTRmZTkwBjsIRjoJcmFua2kHOgtsb2NhbGVJIgplbi11cwY7CFQ6CnF1ZXJ5SSIWZG93bmxvYWQgZG9jdW1lbnQGOwhUOhJyZXN1bHRzX2NvdW50aQGR--4df5fdc09433c520a7c8cfe1ce661fd2a736a837).   
+    
+*   **Coda.** If you would like to submit a request to exercise your rights related to Coda, please submit a request by emailing support@coda.io with the subject line “Rights Request,” or complete an [Export My Data](https://coda.io/account) or [Delete My Account](https://coda.io/account) request through the [Coda Account Settings](https://coda.io/account) page under “Advanced Settings.”  
+    
+
+  
+To exercise any other rights you may have under privacy laws or if you need additional assistance, please contact us using the contact information [below](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3DzxSPN00XGuynKygHP5Nt) and describe your request. We may ask for additional information from you to clarify your request and verify that you are authorized to make this request. We will respond to requests to exercise privacy rights according to applicable laws.    
+
+California Notice at Collection & Additional Information for Residents of Certain US States
+-------------------------------------------------------------------------------------------
+
+Some US states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“**State Privacy Laws**”). If you reside in California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, or Virginia, this section applies to you. **This section also serves as our California notice at collection.**  
+  
+_Additional Disclosures_  
+  
+Above we explain how we [collect](https://www.grammarly.com/privacy-policy#sectionSingleColumn_7uOOWJJPY0z52gJF3HafYg), [use](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1ZFKil4JH2VO74XoITm1cJ), and [disclose](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH) information about you, as well as our [targeted advertising practices](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH). As required by certain State Privacy Laws, we use the tables below to explain this same information.   
   
 _Use, Disclosure, and Retention of Personal Information for Business Purposes_  
 
-| Category of Personal Information | Uses of Personal Information | Category of Recipients |
+| **Category of Personal Information** | **Categories of Recipients** | **Uses of Personal Information** |
 | --- | --- | --- |
-| Account information (which includes identifiers, such as your email address and account ID)   <br>Payment information (which includes commercial information, such as records of products purchased)  <br>  <br>Communications with us and feedback (which includes survey responses and interactions with our customer support or sales teams)  <br>  <br>Technical information and usage data (which includes internet or other electronic network activity information, such as your activity on our websites and apps and device and browser information, and identifiers, such as your IP address)  <br>  <br>Cookie information (which includes identifiers, such as Cookie IDs)  <br>  <br>Professional  information (which includes your job title or industry, which we may license from others)  <br>  <br>Inferences (which includes predictions, such as your approximate location based on your IP address)  <br>  <br>User content | Provide and tailor our products to you;   <br>Improve our products and build new ones;  <br>  <br>Develop and improve AI (subject to your settings);  <br>  <br>Secure our products and troubleshoot problems;   <br>Process payments;   <br>Communicate with you and provide customer service;   <br>Market our products to you (excluding user content); and  <br>  <br>Handle compliance issues and protect against harm. | The Superhuman family of companies;  <br>  <br>Trusted service providers;  <br>  <br>Marketplace participants;   <br>Government, legal, and similar authorities;   <br>Recipients in connection with a merger, acquisition, or similar transaction; and  <br>  <br>Others with your consent or at your direction. |
+| \- Account information (which includes identifiers, such as your email address and account ID)  <br>\- Payment information (which includes commercial information, such as records of Grammarly products purchased)  <br>  <br>\- Log data, application, network, **device information** and usage data (which includes internet or other electronic network activity information, such as actions you take within Grammarly products or on a Grammarly website, and identifiers, such as your IP address or device ID)  <br>  <br>\- Cookie information and other identifiers (which includes identifiers such as a cookie ID)  <br>  <br>\- Names of user contacts  <br>  <br>\- Other information you provide directly to us, such as sales and support data (including identifiers and our customer support communications with you)  <br>  <br>\- Inferences | \- Trusted service providers that assist us with cloud storage, account management, troubleshooting, fraud detection, marketing, and similar operational services   <br>\- Government agencies, regulators, and similar authorities   <br>\- Organization IT administrators and representatives (if you use a Grammarly Business, Grammarly for Education, or certain Grammarly Pro accounts)  <br>  <br>\- Other users (if you use a Grammarly Business or Grammarly for Education account)  <br>  <br>\- An acquirer of Grammarly’s business or assets  <br>  <br>\- Others with your consent or otherwise at your direction | \- Providing and tailoring our products to you  <br>  <br>\- Communicating with you, including providing support to you  <br>  <br>\- Troubleshooting and debugging our products  <br>  <br>\- Building and improving our products  <br>  <br>\- Processing payments  <br>  <br>\- Promoting our products  <br>  <br>\- Managing events   <br>\- Complying with legal obligations and protecting against harm (including fraud prevention) |
+| \- User content | \- Service providers that provide cloud hosting  <br>  <br>\- Service providers that power the functionality of our products | \- Providing and tailoring our products to you  <br>  <br>\- Troubleshooting and debugging  <br>  <br>\- Building and improving our products, unless you choose to opt out of such use in your account settings (see our Technical Specifications for more information)  <br>  <br>\- Complying with legal obligations and protection against harm (including fraud prevention) |
 
   
-When we process information that is considered “sensitive” under State Privacy Laws (such as when such information is included in your user content), we use such data only for the legally permitted purposes described above, in the same way we process user content generally. We similarly limit how we process account log-in information and contents of communications not sent to us, which may be considered “sensitive” under certain State Privacy Laws. We do not use or disclose such information for the purpose of inferring characteristics about you.  
+When we process information that is considered “sensitive” under State Privacy Laws (such as when such information is included in your user content, including the content of communications you use Grammarly products to edit and improve), we use such data only for the legally permitted purposes described [above](#sectionSingleColumn_6bK2Xll9RxNtqJ4sHgXCuN), in the same way we process user content generally. We similarly limit how we process account log-in information, which may be considered “sensitive” under certain State Privacy Laws. We do not use or disclose such information for the purpose of inferring characteristics about you.  
   
-Above, we describe that we [collect](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2Pp6j27yCkk6aFMsxWp9DU) personal information from various sources, including directly from you, automatically when you access or use our products, and from other sources, as well as the purposes and time periods for which we [retain](https://www.grammarly.com/privacy-policy#sectionSingleColumn_4aEHnCnR1kxRUCup7jtgiM) personal information.   
+As described in the “[What Types of Personal Data Does Grammarly Collect](https://www.grammarly.com/privacy-policy#sectionSingleColumn_7uOOWJJPY0z52gJF3HafYg)?” and “[Does Grammarly Obtain Any Data from Third Party Sources?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1tmlS8o6KQPFidDKvQ6mDE)” sections above, we collect personal information from various sources, including directly from you, automatically when you access or use our products, and from third-party sources.   
   
-_Sales, Sharing, and Targeted Advertising_   
+We may use data that has been de-identified so that it can no longer reasonably be used to identify you for any purpose. We commit to maintaining and using such information in de-identified form and not to attempt to re-identify the information, except for the purpose of determining whether our de-identification processes satisfy applicable legal requirements.  
   
-To promote our products on third-party websites and services, we disclose the following categories of personal information to the following categories of recipients. These disclosures may be considered “sales”, “sharing”, or use of personal information for “targeted advertising” under State Privacy Laws.   
+_Retention_  
+  
+We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes. For more information about retention generally and protections for user content specifically, please see "[How Does Grammarly Secure and Store Personal Data?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1sdf4GsEf3NlWrsI9MXwIP)" and our [Technical Specifications](https://www.grammarly.com/technical-specifications#sectionSingleColumn_4L6TzGQmY9msWQw1iwNlgn) (as applicable).  
+  
+_Sales, Sharing, and Targeted Advertising Activities_  
+  
+We also disclose certain categories of personal information to advertising partners in order to promote Grammarly on third-party websites and services. These disclosures may be considered “sales,” “sharing,” or use of personal information for “targeted advertising” under State Privacy Laws, and the table below provides more information about our practices.   
 
 | Category of Personal Information Disclosed | Category of Third-Party Recipient |
 | --- | --- |
-| Identifiers (such as cookie IDs, IP addresses, or unique IDs generated from your email address or phone number)  <br>  <br>Internet or other electronic network activity information (such as links you click or pages you visit on a Superhuman marketing website)  <br>  <br>Commercial information (such as product purchase information)  <br>  <br>Inferences (such as predictions about your interest in certain products we offer based on your usage data) | Advertising networks;  <br>  <br>Social networks |
+| \- Identifiers (such as pseudonymous cookie IDs, IP address, or, if you have an account with Grammarly, a hashed version of your email address)  <br>  <br>\- Internet or other electronic network activity information (such as links you click or pages you visit on a Grammarly marketing website)  <br>  <br>\- Commercial information (such as whether you subscribe to Grammarly Pro) | \- Advertising networks  <br>  <br>\- Social networks |
 
   
-We do not engage in sales, sharing, or targeted advertising using personal information about anyone we know to be under the age of 18.  
+We do not engage in sales, sharing, or targeted advertising using personal information about anyone we know to be under the age of 18.   
   
-**Your Rights under State Privacy Laws**  
+_Your Rights under State Privacy Laws_  
   
-_Opt-Out Rights_  
+**Opt Out of Sales, Sharing, and Targeted Advertising**  
   
-You may opt out of activities that we engage in that may constitute “targeted advertising”, “sharing”, or “sales” of personal information under the State Privacy Laws. To do so:  
+You may opt out of activities that we engage in that may constitute “targeted advertising,” “sharing,” or “sales” of personal information under the State Privacy Laws. To do so:    
+  
 
-*   To turn off our use of cookies and similar technologies for such purposes, follow the instructions presented when you click the link titled “Your Privacy Choices” on the footer of each Superhuman product website. Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit from a new device or browser, or if you clear your browser’s cookies. Alternatively, you may visit Superhuman websites with a Global Privacy Control or other legally recognized universal opt-out signal enabled.   
+*   Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes. Please follow the prompts behind the “Your Privacy Choices” links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service. (For Coda, you can also access such controls [here](https://coda.io/trust/cookies).) Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit Grammarly or Coda websites from a new device or browser, or if you clear your browser’s cookies. You can also opt out by visiting Grammarly or Coda websites with a legally recognized universal opt-out signal enabled, such as the Global Privacy Control.  
     
-*   To turn off our use of unique identifiers generated from your email address or phone number for such purposes.  
-    
-*   Please review our [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies) for more information.  
+*   You may also opt out of Grammarly sharing a hashed version of your email address with advertising partners to promote Grammarly on third-party websites and services. If you have a Grammarly account, use the control in your account settings to do so. If you do not have a Grammarly account, please contact us at privacy@grammarly.com to opt out. You may opt out of Coda sharing a hashed version of your email address with advertising partners by contacting support@coda.io.  
     
 
+   
+**Access, Correction, and Deletion**  
   
-_Access, Correction, and Deletion_  
+You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information. To exercise these rights, follow the instructions in the “[Your Other Data Rights](https://www.grammarly.com/privacy-policy#sectionSingleColumn_3cD2NaNV0m3ONXNF8C1cj0)” section above. We may ask you for information to verify your identity and, if you do not provide enough information for us to reasonably verify your identity, we will not be able to fulfill your request.   
   
-You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information. We may ask for additional information from you to verify that you are authorized to make a data rights request. Please review our [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies) for information on how to make these requests for the different Superhuman products.   
-  
-_Nondiscrimination_  
+**Nondiscrimination**  
   
 You have the right not to be discriminated against for exercising any of your privacy rights.  
   
-_Appeals_  
+**Appeals**  
   
 If we deny your request, you may appeal our decision by submitting a support ticket. If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.  
   
-_Authorized Agents_   
+**Authorized Agents**   
   
-If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies), or you can email us at privacy@superhuman.com.    
+If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please contact us at [privacy@grammarly.com](mailto:privacy@grammarly.com).    
   
-If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the consumer who is the subject of the request to verify their own identity or confirm that the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California consumer, [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies), or you can email us at privacy@superhuman.com.  
+If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the consumer who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California consumer, please submit a [support ticket](https://support.grammarly.com/hc/en-us/requests/new#/) or contact [support@coda.io](mailto:support@coda.io) as applicable.   
 
-Additional European Information
--------------------------------
+Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans
+-----------------------------------------------------------------------------------------------------
 
-This section provides additional information where you are in a country in the European Union, European Economic Area, UK or Switzerland.  
+If you use products such as Coda, Grammarly Business, Grammarly for Education, or Grammarly Pro under the management of a company, organization, or other legal entity, your use of our product is subject to such legal entity’s policies (if any), and you should direct any privacy inquiries to your account administrator. Grammarly is not responsible for the privacy or security practices of such legal entity, which may differ from this Privacy Policy. Also, if you are a Grammarly for Education team member, your parents and school administrator may have the legal right to access or delete your account.  
   
-**Data Controller**  
-  
-Unless otherwise stated (for instance in a product-specific policy), the data controller for your information is Superhuman Platform Inc., and our contact details are as follows:  
+Please note that administrators of these Grammarly accounts may be able to:  
 
-*   Superhuman Platform Inc., 2261 Market Street, STE 85232, San Francisco, CA 94114   
+*   Access information related to your account, such as usage data  
     
-*   You can contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com).  
-    
-*   We’ve appointed VeraSafe as our representative in the EEA and UK for data protection matters. You can contact VeraSafe in matters related to personal information processing using [this contact form](https://www.verasafe.com/privacy-services/contact-article-27-representative). Alternatively:   
-    *   **For users in the EEA:** You can contact VeraSafe at VeraSafe Ireland Ltd, Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland.  
-        
-    *   **For users in the UK:** You can contact VeraSafe at VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom.  
-        
-
-  
-**Legal Bases of Processing**  
-  
-The table below outlines the legal basis and, where applicable, the legitimate interest pursued, for each purpose for which we process your information.  
-
-| **Purpose** | **Relevant Data** | **Legal Basis** |
-| --- | --- | --- |
-| Provide and tailor our products to you | All categories of data | If there’s a contractual obligation for us to process your information to fulfill our contract with you, or to take steps at your request prior to entering into a contract with you: contractual necessity (Art. 6 (1)(b) GDPR/UK GDPR)  <br>  <br>Otherwise, we process your information because we have a legitimate interest in providing a relevant, well-functioning service to you (Art.6(1)(f) GDPR/ UK GDPR) |
-| Improve our products and build new ones | Account information  <br>  <br>Technical information  <br>  <br>Usage data  <br>User content  <br>  <br>Information we infer | We have a legitimate interest in operating and improving our services and developing new products (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Managing events | Account information | We have a legitimate interest in organizing and managing events (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| To develop and improve AI | All categories of data | We have a legitimate interest in operating and improving our services and developing new products through the use of AI (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Secure our products and troubleshoot problems | Technical information  <br>  <br>Usage data  <br>  <br>Account information  <br>  <br>Feedback and communications  <br>  <br>Cookie data  <br>  <br>Payment information | We have a legitimate interest in ensuring the security of our services and data (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Process payments | Payment information | It is necessary for us to process your personal data in order to perform our contract with you, or to take steps at your request prior to entering into a contract with you (Art. 6 (1)(b) GDPR/  UK GDPR)  <br>  <br>We have a legitimate interest in improving and troubleshooting our payment processes (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Communicate with you and provide customer service | Account information  <br>  <br>Communications with us and feedback | We have a legitimate interest in managing our relationship with you (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Market and advertise our products to you | Account information  <br>  <br>Usage data  <br>  <br>Information we infer  <br>  <br>Cookie data | Your consent where required (Art. 6 (1)(a) GDPR/ UK GDPR)  <br>  <br>We have a legitimate interest in promoting our products and conducting market research (Art. 6 (1)(f) GDPR/ UK GDPR) |
-| Handle compliance issues and protect against harm | All categories of data | Where we have a legal obligation under EEA/UK laws (for EEA/ UK users respectively):  <br>We have a legal obligation to comply with applicable laws and regulations (Art. 6 (1)(c) GDPR/ UK GDPR)  <br>  <br>Where we have a legal obligation under other laws: We have a legitimate interest in protecting our business interests and legal rights, and the interests and legal rights of our users (Art. 6 (1)(f) GDPR. UK GDPR) |
-
-Your European Privacy Rights
-----------------------------
-
-If you live in a country in the European Union or the European Economic Area or live in the UK or Switzerland, you have the following rights:  
-
-*   **The right of access,** which enables you to receive a copy of your information.   
-    
-*   **The right to rectification,** which enables you to correct any inaccurate or incomplete information we hold about you.  
-    
-*   **The right to erasure,** which enables you to ask us to delete your information in certain circumstances.  
-    
-*   **The right to restrict processing,** which enables you to ask us to halt the processing of your information in certain circumstances.  
-    
-*   **The right to object,** which enables you to object to us processing your information on the basis of our legitimate interests (or those of a third party), including processing for direct marketing purposes or profiling for purposes of direct marketing.  
-    
-*   **The right to data portability,** which enables you to ask us to transmit information that you have provided to us, to a third party without hindrance, or to give you a copy of it so that you can transmit it to a third party, where technically feasible.  
-    
-*   **If you live in France****: the right to instruct us on use of your information after your death,** which enables you to instruct us now on the retention, deletion, and disclosure of your information after your death. You can change or revoke such instructions at any time.  
-    
-*   **If you live in Italy****: the right to stop your heirs exercising your GDPR rights after your death** through a written declaration. You may change or revoke these instructions at any time. This does not affect the exercise, by third parties, of property rights arising from your death, nor the right to defend their interests in court.  
+*   Control your account, including restricting or terminating your access to it  
     
 
-  
-These rights may be limited, for example, if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law or have compelling legitimate interests to keep.   
-  
-If you wish to exercise any of these rights, please review our [Privacy and Data Rights, Choices and Cookies page](https://support.grammarly.com/hc/en-us/articles/40540355410957-Superhuman-Privacy-and-Data-Rights-Choices-and-Cookies)..  
-  
-Wherever we rely on your consent, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal. We may however have other legal grounds for processing your data for other purposes, such as those set out above.   
-  
-If you have unresolved concerns, you can contact us at privacy@superhuman.com. You also have the right to complain to a data protection authority in the country that you reside in, the country of your place of work, or the country where the alleged infringement took place. If you are based in the EEA, details of EEA data protection authorities are available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en). In the UK, this is the Information Commissioner’s Office and their website is [here](https://ico.org.uk/make-a-complaint/). In Switzerland, the contact details are available [here](https://www.edoeb.admin.ch/en/contact-2).   
-  
-**Data transfers**  
-  
-_Transfers to the United States_  
-  
-For personal data about EEA, Swiss and UK individuals, we comply with the EU-U.S. Data Privacy Framework, the UK Extension of the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework, each as set forth by the U.S. Department of Commerce (collectively, the “**Frameworks**”), regarding the collection, use, and retention of personal data transferred from the EEA, UK, and Switzerland in reliance on the Frameworks.   
-  
-As described in Superhuman Platform Inc.’s Frameworks certification, we have certified that we adhere to the Frameworks Principles with respect to such information. To learn more about the Data Privacy Framework program and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/s/).  
-  
-In compliance with the Frameworks, we commit to resolve complaints about our processing of your personal data under the Frameworks. If you have questions about our compliance with Frameworks Principles, you should first contact us at: [privacy@superhuman.com](mailto:privacy@superhuman.com).   
-  
-Under the Frameworks, we commit to refer unresolved complaints concerning our handling of personal data received under the Frameworks to VeraSafe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit [here](https://verasafe.com/public-resources/dispute-resolution/submit-dispute/) for more information or to file a complaint.  
-  
-If your complaint is not resolved through these channels, under certain conditions, a binding arbitration option may be available before a Data Privacy Framework Panel. For additional information, please visit: [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).   
-  
-Finally, we remain responsible under the Onward Transfer Principle for personal data that we disclose to third parties for processing on our behalf. To learn more about the Frameworks or to view our certification, please visit the Frameworks [website](https://www.dataprivacyframework.gov/). The Federal Trade Commission has jurisdiction over our compliance with the Frameworks.  
-  
-_Transfers to other third countries_   
-  
-For transfers from the EEA/UK to other countries, we rely on standard contractual clauses published by the EU Commission or the UK government or recognized in Switzerland.  
-  
-You can ask us for a copy of the relevant contracts or other measures we rely upon to transfer personal data by using the contact details below.  
+Please contact your organization for more information.  
 
 Contact Information
 -------------------
 
-You can contact us with questions relating to this Privacy Policy by emailing us at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+You can contact us with questions relating to this Privacy Policy or requests to exercise your privacy rights by submitting a help desk request [here](https://support.grammarly.com/hc/en-us/requests/new), emailing [privacy@grammarly.com](mailto:privacy@grammarly.com), or contacting us via postal mail at Grammarly, Inc., 548 Market Street, #35410, San Francisco, CA 94104.
