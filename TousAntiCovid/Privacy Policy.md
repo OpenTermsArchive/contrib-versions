@@ -54,7 +54,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -880,7 +880,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -1678,7 +1678,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -2409,7 +2409,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -2841,7 +2841,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -3273,7 +3273,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -3705,7 +3705,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4137,7 +4137,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4569,7 +4569,7 @@ Recherche  Rechercher sur tout le site
     
     *   *   [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
-            *   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+            *   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
             *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
             
         *   [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
@@ -4974,7 +4974,7 @@ Retour
 *   [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
 *   [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
 
-*   [Droit d’accès aux soins palliatifs et à l’accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
+*   [Droit d’accès aux soins palliatifs et à accompagnement de la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-palliatifs-et-a-l-accompagnement-de-la-fin-de-vie/)
 *   [Fin de vie : vers l’évolution du cadre actuel de la loi](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/fin-de-vie-vers-l-evolution-du-cadre-actuel-de-la-loi/)
 
 *   [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
