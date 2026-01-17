@@ -107,3 +107,7 @@ YOU AGREE THAT YOUR USE OF GOOGLE PRODUCTS AND SERVICES WILL BE AT YOUR SOLE RIS
 BY ATTENDING ANY EVENT, YOU ACKNOWLEDGE AND AGREE ON BEHALF OF YOURSELF AND YOUR GUEST THAT ATTENDANCE AT AND PARTICIPATION IN AN EVENT IS VOLUNTARY, POTENTIALLY DANGEROUS AND MAY INVOLVE A RISK OF SERIOUS INJURY, DEATH AND/OR PROPERTY DAMAGE. ON BEHALF OF YOURSELF, YOUR HEIRS, ASSIGNS AND NEXT OF KIN, YOU WAIVE ALL CLAIMS FOR DAMAGES, INJURIES AND DEATH SUSTAINED TO YOU OR YOUR PROPERTY, THAT YOU MAY HAVE AGAINST GOOGLE, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND LICENSORS TO SUCH ACTIVITY WHETHER CAUSED BY THE ORDINARY NEGLIGENCE OF SUCH PARTIES OR OTHERWISE, WITH THE EXCEPTION OF ACTS OF GROSS NEGLIGENCE OR INTENTIONAL MISCONDUCT AS INDICATED ABOVE.
 
 Local Guides (and, if applicable, their guests) must assume full responsibility for any such risk. Each Local Guide (and any guest of a Local Guide) is solely responsible for his or her own safety and well-being while participating in or attending an Event, and is solely responsible for any costs incurred if medical treatment is necessary. At some Events, Google may require you and your guest to sign additional releases.
+
+Give feedback about this article
+
+Choose a section to give feedback on
