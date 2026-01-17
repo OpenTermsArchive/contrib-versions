@@ -53,7 +53,7 @@ If we change this Privacy Notice, we will post those changes on our website to k
 
 If you have any questions about this Privacy Notice, the practices of this site, or your dealings with this Web site, please [contact us](https://www.goodreads.com/about/contact_us), or send mail to:
 
-Goodreads, Inc  
+Goodreads LLC  
 188 Spear Street, Suite 250  
 San Francisco, CA 94105
 
