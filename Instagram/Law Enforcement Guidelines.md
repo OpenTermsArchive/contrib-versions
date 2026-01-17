@@ -3,6 +3,8 @@
 Information for law enforcement
 ===============================
 
+Copy link
+
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
@@ -83,13 +85,6 @@ Online:
 Law enforcement officials may use the [Law Enforcement Online Request System](https://www.facebook.com/records), a law enforcement contact process, for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
 Please note:
-
-For U.S. Law Enforcement:
-
-Law enforcement officials seeking Instagram account records must address their request to:  
-Meta Platforms, Inc.,  
-1 Meta Way  
-Menlo Park, CA 94025
 
 For Law Enforcement outside of the U.S.:
 
