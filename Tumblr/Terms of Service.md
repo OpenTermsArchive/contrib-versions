@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last Modified: 2024-09-06
+Last Modified: 2026-01-16
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
@@ -34,9 +34,9 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 **Eligibility:**
 
-You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), (ii) sixteen (16) for users in the European Union or the United Kingdom, or (iii) eighteen (18) for certain features. You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), (ii) sixteen (16) for users in Australia, the European Union, or the United Kingdom, (iii) fourteen (14) in South Korea, or (iii) eighteen (18) for certain features. You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
-You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
+You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 5, or try books.
 
 **Service Changes and Limitations:**
 
@@ -146,9 +146,9 @@ To develop and distribute Custom Themes that are Premium Themes, please [contact
 
 Some of the Services require payment of fees (the "**Paid Services**," including without limitation Premium Themes, Blaze, and Subscriptions). All fees are stated in United States dollars. You shall pay all applicable fees, as described in the applicable Services, in connection with such Services, and any related taxes or additional charges.
 
-Paid Services are limited licenses for you to use particular for-pay aspects of the Services. Usage of terms like sell, sale, buy, purchase, or similar terms all refer to your acquisition of a license to use Paid Services, and do not represent any transfer of any right, title, or ownership interest of any kind. You may not relicense, resell, transfer, or exchange Paid Services within or outside of the Services, except as expressly allowed by the rules of those Paid Services.
+When you purchase any of the Paid Services, you are purchasing a limited, revocable license to use particular for-pay aspects of the Services in accordance with the terms of this Agreement. Usage of terms like sell, sale, buy, purchase, or similar terms all refer to your acquisition of a limited, revocable license to use Paid Services, and do not represent any transfer of any right, title, or ownership interest of any kind. You may not relicense, resell, transfer, or exchange Paid Services within or outside of the Services, except as expressly allowed by the rules of those Paid Services.
 
-Tumblr may, in its sole discretion, modify the functionality of, or eliminate, Paid Services, or the terms and conditions under which Paid Services are provided.
+Tumblr may, in its sole discretion, modify the functionality of, or eliminate, Paid Services, or the terms and conditions under which Paid Services are provided. In certain situations, such as when a feature is deprecated, when needed to comply with law, or in response to a demand from a rightsholder, a Paid Service you previously purchased may later be removed from the Services and become unavailable for further use by you.
 
 Purchases of Paid Services are final and non-refundable (particularly those Paid Services that may be used immediately, such as Promotions, as defined below), except at Tumblr's sole discretion and in accordance with the rules governing each Paid Service. Termination of your Account or your rights under this Agreement may result in forfeiture of purchased Paid Services. For example, if your Account is suspended, you forfeit your license to any Premium Themes you have purchased.
 
@@ -168,7 +168,7 @@ Some Paid Services on Tumblr automatically renew as recurring subscriptions (“
 13\. Domain Names
 -----------------
 
-We may work with third-party registrars to provide domain name services. When you register a domain on Tumblr or transfer an existing domain to Tumblr, the policies of the respective registry apply, and you become bound by the relevant registrar’s terms and conditions. Depending on the domain, you may be subject to the terms of the [Automattic Domain Name Registration Agreement](https://wordpress.com/automattic-domain-name-registration-agreement/), or the [Key-Systems GmbH Registration Agreement](https://www.centralnicreseller.com/en/registration-agreement?rrp), in addition to this Agreement. When you register a domain, you’re presented with and agree to the applicable domain registration agreement. If you didn’t make a note of it, please see the [Domain Registration Agreements](https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement) page to determine which domain registration agreements apply to you and your domains. These registrar terms are incorporated by reference into this Agreement.
+We may work with third-party registrars to provide domain name services. When you register a domain on Tumblr or transfer an existing domain to Tumblr, the policies of the respective registry apply, and you become bound by the relevant registrar’s terms and conditions. Depending on the domain, you may be subject to the terms of the [Automattic Domain Name Registration Agreement](https://wordpress.com/automattic-domain-name-registration-agreement/) or the [Key-Systems GmbH Registration Agreement](https://www.centralnicreseller.com/en/registration-agreement?rrp), in addition to this Agreement. When you register a domain, you’re presented with and agree to the applicable domain registration agreement. If you didn’t make a note of it, please see the [Domain Registration Agreements](https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement) page to determine which domain registration agreements apply to you and your domains. These registrar terms are incorporated by reference into this Agreement.
 
 Your domain is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”), and you can read about your [rights and responsibilities as a domain name registrant](https://www.icann.org/resources/pages/responsibilities-2014-03-14-en).
 
