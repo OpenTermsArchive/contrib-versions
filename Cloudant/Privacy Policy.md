@@ -365,7 +365,7 @@ You may also have the right to complain to the competent supervisory authority. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
 
-To set or update your marketing communications preferences, you can submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537), or select **Unsubscribe** at the end of each marketing email.
+To set or update your marketing communications preferences, you can submit an [opt-out request](https://www.ibm.com/account/reg/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** at the end of each marketing email.
 
 Legal Basis
 -----------
@@ -422,7 +422,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1.  Facilitating International Transfers
-2.  Your Additional Rights: US States
+1.  Marketing
+2.  Cookies and Similar Technologies
+3.  Your Rights
 
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
