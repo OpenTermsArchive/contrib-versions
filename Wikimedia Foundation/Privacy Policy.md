@@ -121,7 +121,7 @@ Other languages:
 *   [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (23% translated)")
 *   [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sat "ᱟᱹᱨᱤ: ᱩᱱᱩᱠᱩ ᱟᱹᱱᱟᱹᱨᱤ (12% translated)")
 *   [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (100% translated)")
-*   [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (90% translated)")
+*   [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (91% translated)")
 *   [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (23% translated)")
 *   [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "ꠘꠤꠔꠤ ꠪ ꠀꠟꠣꠉꠣꠁ ꠞꠣꠈꠣꠞ ꠘꠤꠔꠤ (11% translated)")
 *   [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "ꯑꯔꯣꯟ ꯑꯊꯨꯞ (5% translated)")
