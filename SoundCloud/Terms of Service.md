@@ -1,7 +1,7 @@
 **SoundCloud Terms of Use**
 ===========================
 
-Welcome to SoundCloud®, a service provided by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany ("**SoundCloud**", "**we**" "**our**", or "**us**").
+Welcome to SoundCloud®, a service provided by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Karl-Marx-Strasse 101, 12043 Berlin, Germany ("**SoundCloud**", "**we**" "**our**", or "**us**").
 
 These Terms of Use govern your use of soundcloud.com and m.soundcloud.com (together, the "**Website**"), our mobile and desktop apps (our "**Apps**") and all related players, widgets, tools, features, applications, data, software, APIs (which are also subject to separate API Terms of Use) and other services provided by SoundCloud (the "**Services**").
 
@@ -399,7 +399,7 @@ SoundCloud may change the features of any type of account, may withdraw, or intr
 **Termination**
 ---------------
 
-You may terminate this Agreement at any time by sending notice in writing to SoundCloud at Rheinsberger Str. 76/77, 10115 Berlin, Germany confirming such termination, by removing all of your Content from your account, or by deleting your account and thereafter by ceasing to use the Platform. If you have a Subscription, and terminate this Agreement before the end of such Subscription, we are unable to offer any refund for any unexpired period of your Subscription.
+You may terminate this Agreement at any time by sending notice in writing to SoundCloud at Karl-Marx-Strasse 101, 12043 Berlin, Germany confirming such termination, by removing all of your Content from your account, or by deleting your account and thereafter by ceasing to use the Platform. If you have a Subscription, and terminate this Agreement before the end of such Subscription, we are unable to offer any refund for any unexpired period of your Subscription.
 
 SoundCloud may suspend your access to the Platform and/or terminate this Agreement at any time if (i) you are deemed to be a [Repeat Infringer](#repeat-infringers) as described above; (ii) you are in breach of any of the material provision of these Terms of Use or our [Community Guidelines](https://soundcloud.com/community-guidelines), including without limitation, the provisions of the following sections: [Your Use of the Platform](#your-use-of-the-platform), [your Content](#your-content), [Grant of License](#grant-of-license), and [Your Representations and Warranties](#representations-and-warranties); (iii) SoundCloud elects at its discretion to cease providing access to the Platform in the jurisdiction where you reside or from where you are attempting to access the Platform, or (iv) in other reasonable circumstances as determined by SoundCloud at its discretion. If you have a Subscription and your account is suspended or terminated by SoundCloud pursuant to (i) or (ii) above, you will not be entitled to any refund for any unexpired period of your subscription. If your account is terminated pursuant to (iii) or (iv), refunds may be payable at the reasonable discretion of SoundCloud.
 
@@ -441,20 +441,21 @@ The foregoing provisions of this Applicable Law and Jurisdiction section do not 
 **Disclosures**
 ---------------
 
-The services hereunder are offered by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany. More information about SoundCloud is available [here](https://soundcloud.com/imprint). You may contact us by sending correspondence to the foregoing address or by emailing us at contact@soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use. Additional information for the EU Digital Services Act (DSA):
+The services hereunder are offered by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Karl-Marx-Strasse 101, 12043 Berlin, Germany. More information about SoundCloud is available [here](https://soundcloud.com/imprint). You may contact us by sending correspondence to the foregoing address or by emailing us at contact@soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use. Additional information for the EU Digital Services Act (DSA):
 
 We are required to have a single point of contact for authorities and our users.
 
 *   The European Commission, EU Member States’ authorities, and the European Board for Digital Services may contact us at legal@soundcloud.com. Communications with us and requests can be in the German or English language.
 *   Users may contact us at legal@soundcloud.com or visit our Help Center.
 
-**Last Amended:** [September 10, 2025](https://soundcloud.com/terms-of-use/09-2025)
+**Last Amended:** January 19, 2026
 
 **Link to prior versions**
 --------------------------
 
 You will find a link to prior versions of our Terms of Use below.
 
+*   [September 2025](https://soundcloud.com/terms-of-use/09-2025)
 *   [May 2025](https://soundcloud.com/terms-of-use/05-2025)
 *   [February 2024](https://soundcloud.com/terms-of-use/02-2024)
 *   [October 2022](https://soundcloud.com/terms-of-use/10-2022)
