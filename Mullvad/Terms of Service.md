@@ -1,7 +1,7 @@
 Terms of service
 ================
 
-Last updated: February 19, 2025
+Last updated: January 20, 2026
 
 By using or paying for Mullvad VPN AB’s Mullvad VPN service, you agree to these terms. Any material changes to these terms will be notified via a prominent notice on [mullvad.net/blog](https://mullvad.net/blog) at least one month before the changes are applied. If you wish to exercise your right to reject such changes, you should stop using the service (for refunds, see below).
 
@@ -19,7 +19,7 @@ We do not modify, redirect, or inject data into users' traffic.
 Access to the service
 ---------------------
 
-To use the service, you need to use a Mullvad account number together with the Mullvad VPN app, or with another WireGuard® or OpenVPN client and our downloadable configuration files.  
+To use the service, you need to use a Mullvad account number together with the Mullvad VPN app, or with another WireGuard® client and our downloadable configuration files.  
 The cost for the service is €5 per month. An account can be used on up to 5 devices. You are prohibited from utilizing this service to provide a service similar to that provided by Mullvad or other services where VPN constitutes a significant part of the service. Please be sure to write down your account number in a safe place, since the account number is the only confirmation to prove you have the right to use the service and exercise your right to refund.
 
 Payment
