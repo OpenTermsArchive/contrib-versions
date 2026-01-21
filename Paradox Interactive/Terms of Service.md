@@ -1,7 +1,7 @@
 Paradox Interactive - User Agreement
 ====================================
 
-Last update: March 1, 2023
+Last update: January 21, 2026
 
 This User Agreement (“Agreement”) governs your access and use of products, content, and services offered by Paradox Interactive AB (“Paradox”), such as games published by Paradox (“Games”) and thereto related content, mod tools, upgrades, patches, features, launchers, websites, forums, events hosted by Paradox and any other service offered by Paradox (collectively “Services”).
 
@@ -83,6 +83,15 @@ Unless otherwise agreed, the creation and publication of UGC are for strictly no
 Paradox is under no obligation to use, distribute or continue to distribute UGC and we may restrict or remove your UGC at our sole discretion.
 
 If you encounter content created by another user that you find offensive, we encourage you to report this content by filing a ticket using our support portal. You can access the portal using the following URL: [https://support.paradoxplaza.com/hc/en-us](https://support.paradoxplaza.com/hc/en-us). Please provide as much detailed information in the ticket as possible, including but not limited to: what content you find offensive, the user name of the person exposing you to such content, what type of platform you were using, game version number, save game ID/SGID for the multiplayer session (if applicable) and any other form of relevant information that might help us identify the content and/or user.
+
+Paradox may review, restrict, remove or disable access to UGC that violates applicable law, this Agreement or our Code of Conduct. If you believe that any UGC made available through our Services is illegal or otherwise violates this Agreement or our Code of Conduct, you may submit a report using the following forms:
+
+*   Form for individuals (EU) [http://dsa.paradoxinteractive.com](http://dsa.paradoxinteractive.com/)
+*   Form for authorities or trusted flaggers (EU) [http://dsa.paradoxinteractive.com/authority](http://dsa.paradoxinteractive.com/authority)
+
+Reports must include sufficient detail for us to identify the content and assess the report. Paradox will process reports in accordance with its Digital Services Act Information (EU), which also explains our moderation procedures and internal complaint-handling system.
+
+In providing our services we may use various tools, including but not limited to artificial intelligence tools, where appropriate to improve efficiency and accuracy. Any such tools are used under human review.
 
 ### 6\. Streaming Paradox Games
 
