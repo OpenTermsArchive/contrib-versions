@@ -274,7 +274,7 @@ Privacy Notice Addendum
 
 * * *
 
-_Last updated: December 3, 2025._
+_Last updated: January 21, 2026._
 
 Coursera is providing and integrating a ChatGPT-branded app within ChatGPT solely to provide staff of OpenAI customers (“**you**”) with access to OpenAI courses (the “**App**”). In order to access the App you must have a Coursera account. If you choose to close your Coursera account, or if Coursera closes or suspends your Coursera account in accordance with its [Terms of Use](https://www.coursera.org/about/terms?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_gb_en_m_hyb_25-04_x&campaignid=22490486852&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6577627676&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22483915359&gbraid=0AAAAADdKX6ao-RrZGfNG0kJ7wvcjO9PxX&gclid=Cj0KCQiA0KrJBhCOARIsAGIy9wAN3jSsg4VOf4NPMIKe_SEMT-g4SwPC19LXkwOMJHFLn76uJgF6J68aAq42EALw_wcB), you will no longer be able to access the App and any related OpenAI courses provided via the App.
 
