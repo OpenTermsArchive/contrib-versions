@@ -86,8 +86,8 @@ If you encounter content created by another user that you find offensive, we enc
 
 Paradox may review, restrict, remove or disable access to UGC that violates applicable law, this Agreement or our Code of Conduct. If you believe that any UGC made available through our Services is illegal or otherwise violates this Agreement or our Code of Conduct, you may submit a report using the following forms:
 
-*   Form for individuals (EU) [http://dsa.paradoxinteractive.com](http://dsa.paradoxinteractive.com/)
-*   Form for authorities or trusted flaggers (EU) [http://dsa.paradoxinteractive.com/authority](http://dsa.paradoxinteractive.com/authority)
+*   Form for individuals (EU) [https://dsa.paradoxinteractive.com](https://dsa.paradoxinteractive.com/)
+*   Form for authorities or trusted flaggers (EU) [https://dsa.paradoxinteractive.com/authority](https://dsa.paradoxinteractive.com/authority)
 
 Reports must include sufficient detail for us to identify the content and assess the report. Paradox will process reports in accordance with its Digital Services Act Information (EU), which also explains our moderation procedures and internal complaint-handling system.
 
