@@ -318,4 +318,4 @@ Our registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS.
 Effective date
 --------------
 
-The Terms were last updated on: 14th March 2025.
+The Terms were last updated on: 28th October 2025.
