@@ -4,479 +4,221 @@
 
 ### **1\. GENERAL INFORMATION**
 
-Epassi Finland Oy, Epassi Sweden AB and Epassi Clearing Oy (together ”**Epassi**”, “**we**” or “**us**”) respects your privacy and is dedicated to protecting the privacy of persons using Epassi’s services. This privacy policy describes how Epassi processes personal data; e.g. what kinds of personal data we collect, for which purposes the personal data is used and to which parties the personal data can be disclosed.
+Epassi Finland Oy, Epassi Sweden AB, and Epassi Clearing Oy (together “Epassi” or “we” in all grammatical forms) respect your privacy and aim to maintain the protection of personal data of individuals using Epassi’s services. This Privacy Policy describes how Epassi processes personal data, including what types of personal data are collected, the purposes for which personal data is used, and to whom personal data may be disclosed.
 
-This privacy policy applies to users of Epassi’s services, including users of Epassi’s end-user services and our websites as well as when we communicate about our services or for customer relationship management reasons. In addition, this privacy policy also applies to our employer customers’ contact persons, potential employer customers’ contact persons and merchant customers’ contact persons.
+This Privacy Policy applies when you use Epassi’s services, including services intended for Epassi end-users and our websites.  
+It also applies in other situations listed in section 3 below, for example when we communicate about our services or manage customer relationships with our clients’ contact persons.
 
-Personal data refers to any information relating to a natural person (“**data subject**”) that can identify him/her directly or indirectly. Personal data, data subject, controller and other key terms are defined in the General Data Protection Regulation (2016/679, “**GDPR**”). Epassi complies with the GDPR in all processing of personal data in conjunction with other applicable national data protection legislation (“**data protection legislation**”).
+Personal data refers to any information relating to a natural person (“data subject”) that can identify the person directly or indirectly. Terms such as personal data, data subject, and controller are defined in the General Data Protection Regulation ((EU) 2016/679, “GDPR”), which applies to all processing of personal data by Epassi. Epassi complies with the GDPR and other applicable national data protection laws (“data protection legislation”) in all personal data processing.
 
-Our services may also contain links to external websites and services operated by other organizations that we do not manage. This privacy policy is not applicable to their use, so we encourage you to review the privacy policies that apply to them. We are not responsible for the privacy policies of other websites or external services.
+Our services may also include links to external websites and services to which this Privacy Policy does not apply. These websites or services are operated by other organizations that Epassi does not control and therefore Epassi is not responsible for their processing of personal data. For this reason, we encourage you to review the applicable privacy policies of those websites or services.
 
-### **2\. JOINT CONTROLLERS AND CONTACT INFORMATION**
+### 2\. JOINT CONTROLLERS AND CONTACT INFORMATION
 
-Joint controller: Epassi Finland Oy
+**Joint Controller:** Epassi Finland Oy  
+Business ID: 3220764-7  
+Address: Porkkalankatu 22 A, 00180 Helsinki, Finland  
+Email: dataprivacy@epassi.com  
+Representative of the joint controller: Data Protection Officer – Taika Pöntinen
 
-Business ID: 3220764-7
+**Joint Controller:** Epassi Sweden AB  
+Business ID: 556617-0030  
+Address: Storgatan 31, 461 30 Trollhättan, Sweden  
+Email: dataprivacy@epassi.com  
+Representative of the joint controller: Data Protection Officer – Taika Pöntinen
 
-Address: Porkkalankatu 22 A, 00180 Helsinki, Finland
-
-Email: dataprivacy@epassi.com
-
-Joint controller representative: Taika Pöntinen
-
-Joint controller: Epassi Sweden AB
-
-Business ID: 556617-0030
-
-Address: Storgatan 31, 461 30 Trollhättan, Sweden
-
-Email: dataprivacy@epassi.com
-
-Joint controller representative: Taika Pöntinen
-
-Joint controller: Epassi Clearing Oy
-
-Business ID: 2872241-9
-
-Address: Porkkalankatu 22 A, 00180 Helsinki, Finland
-
-Email: dataprivacy@epassi.com
-
-Joint controller representative: Taika Pöntinen
+**Joint Controller:** Epassi Clearing Oy  
+Business ID: 2872241-9  
+Address: Porkkalankatu 22 A, 00180 Helsinki, Finland  
+Email: dataprivacy@epassi.com  
+Representative of the joint controller: Data Protection Officer – Taika Pöntinen
 
 ### **3\. PURPOSES, TYPE OF DATA, LEGAL BASES AND RETENTION TIMES FOR PROCESSING**
 
-Epassi collects only such personal data that is relevant and necessary for the purposes described in this privacy policy. The personal data is subject to periodic updates, as required by mandatory law. The personal data is processed fully separately from other Epassi systems and is not connected to other processing purposes.
+Epassi processes only personal data that is relevant and necessary to fulfill the purposes defined in this Privacy Policy. Personal data is processed separately from other Epassi systems and is not combined with other processing purposes. Below, you will find tables listing the purposes of processing identified by Epassi, the categories of personal data involved, a description of the processing and retention periods, and the applicable legal basis under the GDPR.
 
-Personal data will be processed for the following purposes:
+### _3.1 Epassi Service for End-Users_
 
-### **_3.1. User profiles and Authentication of end-users_**
+Epassi processes personal data for the following purposes related to providing its service:
 
-The personal data is processed in order to verify the user’s identity, complete  
-an user profile and carry out the end-users’ KYC (Know Your Customer) process so that Epassi is able to identify end-users according to its legal obligation and provide end-user services.
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Purpose** | **Categories of Personal Data** | **Description and Retention** | **Legal Basis (GDPR Art. 6)** |
+| 3.1.1 Providing the Epassi Service | *   Name<br>*   Personal identity code<br>*   Phone number<br>*   Postal address<br>*   Email address<br>*   Amount and type of employee benefit<br>*   Payment transactions and history<br>*   Service usage history | We process personal data to provide the Epassi platform as a service to the end-user. This includes platform access and login, as well as execution of payment transactions. Data is retained according to the agreement between Epassi and the end-user. | *   Contract |
+| 3.1.2 Identifying End-Users for Payment Services | *   Name<br>*   Nationality<br>*   Date of birth<br>*   Personal identity code<br>*   Home address<br>*   Occupation<br>*   Political exposure<br>*   Details of the identity document used for verification or, if the person is remotely identified, details of the methods or sources used for verification | Personal data is processed to identify end-users, complete user profiles, and perform the necessary KYC (Know Your Customer) process so that Epassi can fulfill its legal obligations and provide end-user services.  <br>Personal data is retained for as long as the end-user uses Epassi services and for up to five years after termination. Epassi may process personal data for a longer period if there are pending inquiries related to the end-user or if mandatory national legislation requires it. | *   Legal obligation |
+| 3.1.3 Execution of Epassi Payment Transactions and Instruments | *   Name<br>*   Company (employer)<br>*   Transaction details<br>*   Purchase history<br>*   Usage logs<br>*   User device<br>*   Email address<br>*   Phone number<br>*   Postal code<br>*   Account balances<br>*   Personal data provided by the data subject | Personal data is processed for the distribution, use, maintenance, and development of Epassi’s specific and general payment instruments, as well as for financial data, application usage data, and other technical background information.<br><br>Personal data is retained for as long as the end-user uses Epassi services and for up to two years thereafter.  <br>Financial and transaction-related data is retained for ten years from the date of creation as required by law. | *   Contract<br>*   Legitimate interest (service maintenance and development) |
+| 3.1.4 Reporting on Used Benefits | *   Granted benefit amount<br>*   Used benefit amount<br>*   Employee name, email address, and other identifiers if necessary<br>*   Top ten merchants most favored by employees<br>*   Benefit category<br>*   At employer’s request: individual benefit usage data (amount in SEK and location) (Sweden) | Personal data is processed to report benefit usage to employer clients for payroll purposes, salary deductions, taxation, and invoicing.  <br>Personal data is retained for as long as the end-user uses Epassi services or as required by law in relation to fraud/misuse cases (10 years for transaction data). | *   Contract<br>*   Legitimate interest (fraud and misuse prevention) |
+| 3.1.5 Communication Related to EpassiBIKE Service | *   Name<br>*   Email address<br>*   Phone number<br>*   Address<br>*   Personal identity code of guarantor (if agreed) | Personal data is processed to implement the EpassiBIKE service. Epassi communicates with financing partners regarding bike activation and usage, and with potential buyers regarding bike collection.  <br>Personal data is processed/retained for as long as the end-user uses the EpassiBIKE service. | *   Contract |
+| 3.1.6 Customer Support | *   Contact details of the party initiating the support case<br>*   Contact details of the person managing the case<br>*   Information provided in text fields<br>*   Log file details<br>*   Phone number | Personal data is processed to manage support cases and provide phone support.  <br>Personal data is retained for up to two years after the resolution of the support case. | *   Legitimate interest |
+| 3.1.7 Receipt Handling (Sweden) | *   Data contained in receipts<br>*   Employee benefit details | If you use Epassi Sweden AB’s receipt management service, you can consent to automatic receipt processing using Epassi’s AI solution. The AI analyzes the entire receipt content against your granted benefits. Decisions regarding the reimbursement of the receipt and benefit are based solely on the personal data you provided in the receipt.  <br>You will always be informed of the decision, its content, and its basis.  <br>You have the right to request a human review of the decision through the system. | *   Consent<br>*   Legitimate interest |
+| 3.1.8 Service Development and Analytics | *   Data generated from end-user service usage | Epassi uses service usage data to analyze functionalities and improve the service. Analysis helps us develop the service according to your needs and preferences. Epassi strives to process personal data as minimally as possible relative to the purpose and legitimate interest.  <br>Data is retained for up to two years or until the data category is deleted earlier. | *   Legitimate interest |
+| 3.1.9 Epassi Superdeals | *   Data processed in the Epassi SuperDeals portal is handled in accordance with its [Privacy Policy](https://epassi.vipdistrict.com/privacy-policy.action). | Epassi provides the Epassi SuperDeals portal as an additional service to end users through its employer clients. In the SuperDeals portal, end users can access offers from Epassi’s partners.<br><br>The SuperDeals portal collects end users’ personal data as described in its [Privacy Policy](https://epassi.vipdistrict.com/privacy-policy.action), which includes the information required by data protection regulations regarding the processed personal data and the rights of the data subject. |     |
 
-The personal data we process within the scope of this purpose include:
+### _3.2 Other functions of Epassi Service_
 
-*   Name
-*   Nationality
-*   Date of birth
-*   Personal identification code
-*   Residential address
-*   Profession
-*   Political exposure
-*   Information on the document used to verify the identity, or if the person has been remotely identified, information about the procedure or sources used in the verification
+|     |     |     |     |
+| --- | --- | --- | --- |
+| 3.2.1 Identification of Merchant Customers | *   Date of birth<br>*   Personal identity code<br>*   Nationality<br>*   PEP status (Politically Exposed Person) of board members, CEO, and individuals owning more than 25% of the company | Personal data is processed to collect and store the necessary KYC (Know Your Customer) information and risk classifications for identifying Epassi’s merchant customers in order to fulfill our legal obligations.  <br>Personal data is retained for as long as the end-user uses Epassi services and generally for up to five years after the termination of service use. Epassi may process personal data for a longer period if there are pending consumer-related inquiries or if mandatory legislation requires it. | *   Legal obligation |
+| 3.2.2 Communication with Employer and Merchant Customers | *   Name<br>*   Email address<br>*   Phone number | Personal data is processed to enable communication with contact persons of Epassi’s employer and merchant customers.  <br>Personal data is processed/retained for as long as the contact person is identified as representing the company. | *   Legitimate interest |
+| 3.2.3 Account Management for Employer and Merchant Customers | *   Contact details and account information of employer and merchant customer representatives | Personal data is processed to implement employer and merchant portals.  <br>Personal data is processed for as long as the agreement between the employer or merchant customer and Epassi remains in force. | *   Sopimus |
+| 3.2.4 Processing of Personal Data of a Sole Trader | *   The same categories of personal data as listed above in section 3.2, as applicable to the situation. | Some merchant customers using Epassi’s service may operate as sole traders, in which case information related to their business may constitute personal data in a different way than for other merchant customers.<br><br>Epassi processes such merchant customers’ data to fulfill the purpose of the merchant agreement and service agreement, as well as to comply with its own legal obligations.<br><br>Since a sole trader is considered a data subject under data protection legislation, any data subject requests regarding this information may be limited to their merchant status only.<br><br>Data is retained for the duration of the agreement and in accordance with each of Epassi’s legal obligations. | *   Contract<br>*   Legal obligation |
 
-The personal data required for authenticating the end-user is processed by Telia Finland Oyj on behalf of Epassi.
+### _3.3 Other data processing conducted by Epassi_
 
-Legal basis: The processing of personal data is based on a contract and a legal obligation.
+|     |     |     |     |
+| --- | --- | --- | --- |
+| 3.3.1 Accessibility Feedback | *   As specified in the accessibility statement | If you provide us with accessibility feedback via Epassi’s accessibility feedback form, we process the categories of personal data you include in your feedback to address it.  <br>Data is retained for three years from the response to each feedback submission. | *   Legal obligation |
+| 3.3.2 Website, Web Analytics, and Cookies | *   Categories of personal data defined in the cookie policy | Personal data is processed to develop Epassi’s services using web analytics and cookies, as well as to manage our website and fulfill user requests.  <br>For more detailed information on what personal data is processed through web analytics and cookies, and instructions on how you can manage cookie-based processing, please refer to Epassi’s cookie policy \[link\]. | *   Consent<br>*   Legitimate interest |
+| 3.3.3 Marketing to Employer Customer Contact Persons | *   Name<br>*   Email address<br>*   Phone number | Personal data of employer customer contact persons may be used for marketing Epassi’s services and/or the services of its partners.  <br>Personal data is processed for the duration of the marketing campaign and up to two (2) years thereafter, or until the data subject withdraws consent for processing. | *   Legitimate interest |
+| 3.3.4 Marketing of the Epassi Platform and Other Marketing | *   Contact details related to service use<br>*   Log data and other analytics<br>*   Location data (with consent) | Epassi sends marketing communications to end-users related to their use of Epassi services.  <br>Marketing is carried out based on both consent and legitimate interest.  <br>Marketing based on legitimate interest applies only to marketing related to an existing customer relationship and is not targeted beyond that relationship.  <br>End-users can also give consent for targeted and location-based marketing, such as presenting nearby offers and electronic direct marketing. You can manage your marketing consent using the consent management tool.  <br>Personal data is retained for as long as your consent remains valid, and if processing is based on legitimate interest, for as long as you remain an Epassi customer or until the relevant data category is deleted earlier. | *   Consent<br>*   Legitimate interest |
 
-Retention period: Personal data is stored for as long as the end-user uses the Epassi services and maximum period of five years thereafter, and even after such a period in case any open inquiries relating to the end-user exist or required by the mandatory national legislation.
+Epassi uses tools that leverage artificial intelligence (AI), including large language models and machine learning models, in the delivery of its services. However, Epassi’s use of AI is strictly limited by contractual agreements, technical restrictions, and internal policies to ensure that personal data is never disclosed to AI models in a way that would compromise data protection, such as by training the AI. The use of these tools and applications within Epassi does not affect or hinder the exercise of data subject rights. You always have the option to refuse the processing of your personal data by AI by notifying Epassi as described in section 9, “Data Subject Rights.”
 
-### **_3.2. Authentication of merchant customers_**
+### 4\. Sources of Personal Data
 
-The personal data is processed in order to collect and store the KYC (Know Your Customer) information and the risk categories of the Epassi’s merchant customers to comply with our legal obligations.
+Personal data is primarily collected directly from data subjects, for example, during registration for our services, while using them, or during the customer relationship.
 
-The personal data we process within the scope of this purpose include:
+Personal data concerning end-users is also collected from the end-user’s employer in connection with services provided jointly by the employer and Epassi under their service agreement. This data is collected to register the end-user as an Epassi consumer customer by creating a personal account and to report the use of employment benefits to the employer for tax purposes.
 
-*   Date of birth
-*   Personal identification code
-*   Nationality
-*   PEP status of the members of the boards of directors, managing director and persons who own more than 25 % of the firm
+Personal data received from employers is used solely to identify the end-user for service access, and data about the end-user’s service usage is disclosed to the employer only to the extent necessary to provide benefits or as otherwise agreed for benefit tracking.
 
-The data is processed by Visma Solutions Oy as a processor on behalf of Epassi.
+In connection with Epassi’s legal obligations regarding payment instruments and customer due diligence, Epassi may update and supplement related data from private and public sources. 
 
-Legal basis: The processing of personal data is based on a legal obligation.
+### 5\. Disclosure, Transfer, and Recipients of Personal Data
 
-Retention period: Personal data is stored for as long as the end-user uses the Epassi services and maximum period of five years thereafter, and even after such a period in case any open inquiries relating to the consumer exist or required by the mandatory legislation.
+Personal data may be disclosed, as necessary for the purposes described in this Privacy Policy, to the following third parties:
 
-### **_3.3. Epassi product and system data_**
+*   Epassi merchants for financial and payment-related purposes during service use.
+*   Financial service providers or other service providers for financing products included in Epassi’s offering.
+*   Employer customers as described in section 4 “Sources of Personal Data.”
+*   Epassi’s service providers, such as web service providers, to the extent necessary to deliver the Epassi service.
+*   Epassi group companies under agreed data processing agreements, where they perform parts of the Epassi service or its support functions.
 
-The personal data is processed for the distribution, use, maintenance, and development of Epassi specific and general payment instruments, financial data, application usage data and other tech solution back-end data.
+Epassi may also share personal data in connection with a potential merger, sale of assets, financing, or transfer of all or part of its business, and similar arrangements.
 
-The personal data we process within the scope of this purpose include:
+Personal data may be disclosed to third parties if required by applicable data protection regulations or an order from a competent authority, and for investigating misuse of products or services, as well as ensuring the security and usability of Epassi’s products and services.
 
-*   Name
-*   Company (Employer)
-*   Transactional information
-*   Purchase history
-*   Access logs
-*   User device
-*   Email address
-*   Personal identification code (in Sweden)
-*   Phone number
-*   Postal code
-*   User balances
-*   Personal data provided by the data subject
+To provide agreed services, the following Epassi data processors also process personal data. A list of processors and other recipients includes:
 
-Legal basis: The processing of personal data is based on valid and legal contract relationship when distributing and using services, and in other respects, the processing is based on Epassi’s legitimate interest to maintain and develop such services, both toward its employer customers and end-users (consumer customers). The processing of the personal identification code is based on the applicable legislation, or the consent given by the data subject.
-
-Retention period: Personal data is stored for as long as the end-user uses the Epassi services and thereafter for a maximum period of two years. Personal data processed and retained for transactional and financial information is stored for 10 years from date of creation as required by mandatory law. The storing may continue based on reasons presented in Section 3.1 and 3.2 for even longer periods of time.
-
-### **_3.4. Reporting to employer customers about used benefits_**
-
-The personal data is processed in order to report to Epassi’s employer customer of benefit usage in relation to allocated benefit. The processing is necessary in order to inform the employer customers of the use of employment benefits for payroll purposes, conclude salary deductions as well as for taxation and invoicing purpose. The personal data can also be processed and shared with employer customers to investigate fraud or misuse of benefits (or suspected cases thereof).
-
-The personal data we process within the scope of this purpose include:
-
-*   Amount of benefit given
-*   Amount of benefit used
-*   Employee name, email address, ID and department
-*   10 most popular merchants used by the employees
-*   Benefit category (in Sweden)
-*   If requested by the employer: individual benefit usage data i.e., amount of benefit used and place of purchase.
-
-Legal basis: The processing of personal data is based on a contract. The processing of personal data is based on a legal obligation (fraud/misuse).
-
-Retention period: Personal data is stored for as long as the end-user uses the Epassi services or as required by law in relation to fraud/misuse (10 years transaction history).
-
-### **_3.5. Storage of end-users’ transaction history_**   
-
-The personal data is processed in order to store the end-users’ transactional history to establish or defend legal claims, if necessary.
-
-The personal data we process within the scope of this purpose include:
-
-*   Name
-*   Company
-*   Transactional information
-*   Purchase history
-*   Access logs
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to store transaction history in order to establish or defend legal claims.
-
-Retention period: Personal data is stored for a period necessary in order to establish, exercise or defend legal claims. For transactional and financial information, the storing period is at least 10 years as required by mandatory law.
-
-### **_3.6. User communications and marketing_**
-
-The personal data we process within the scope of this purpose include:
-
-*   Name
-*   Email address
-*   Telephone number
-*   User preferences
-*   User balances
-*   Company (Employer)
-*   Geographical location (in Sweden)
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to promote Epassi’s products and/or services to the users. The processing of personal data is also based on the consent given by the data subject in relation to direct marketing in order to provide targeted marketing and advertising, as well as to provide marketing of third parties’ products or services. The data subject has the right to refuse personal data being used for direct marketing and may at any time recall prior consent.
-
-The electronic user communications (as delivered via email) are conducted through APSIS and Apsis International AB acts as the processor. More information on data transfers in Section 6.
-
-Retention period: Personal data is processed as long as the end-user remains a customer of Epassi and/or has accepted the relevant marketing opt-ins for direct marketing purposes.
-
-### **_3.7. Evaluation and follow-up_** **_of emails_**
-
-The personal data is processed in order to evaluate and follow-up the email recipients’ actions when the email has been sent to the end-users of the Epassi services. This might also include generating aggregated statistics regarding the actions.
-
-The personal data we process within the scope of this purpose include:
-
-*   Email address
-*   Information whether the data subject has opened an e-mail or any attached material or if the data subject has clicked on any links or deleted the e-mail
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to be able to follow up on how the recipients of e-mail act when receiving e-mails from Epassi.
-
-Retention period: Personal data is processed as long as the end-user remains a customer of Epassi and/or has accepted the relevant marketing opt-ins for direct marketing purposes.
-
-### **_3.8. Website, web analytics and cookies_**   
-
-The personal data is processed in order to develop Epassi’s services using web analytics and cookies as well as to administrate our website and fulfill user requests.
-
-You can get more detailed information on what personal data web analytics and cookies collect and process from Epassi [cookie policy](https://www.epassi.fi/cookie-policy) including information on how you can affect data collected by the cookies.
-
-Legal basis: The processing of personal data is based on the consent given by the data subject.
-
-Retention period: Personal data is stored for a maximum period of two years.
-
-### **_3.9. Communicating with Epassi’s employer and merchant customers_**
-
-The personal data is processed in order to communicate with the Epassi’s employer and merchant customers’ contact persons.
-
-The personal data we process within the scope of this purpose include:
-
-*   Name
-*   Email address
-*   Phone number
-*   Bank account number
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to communicate with Epassi’s employer and merchant customers’ contact persons.
-
-The personal data is processed by HubSpot, Inc. as a processor on behalf of Epassi.
-
-Retention period: Personal data is processed/stored for as long as the employer or merchant customer’s contact person is identified as the contact person representing the company.
-
-### **_3.10. Marketing directed to contact persons of Epassi's employer customers_**
-
-The personal details of the contact persons of Epassi’s employer customers can be used to merket Epassi's and/or its partners services. The personal data we process within the scope of this purpose include:  
-  
-
-*   Name
-*   Email address
-*   Phone number
-
-Legal basis: The processing of personal data is based on consent by the contact person of Epassi’s employer customer. Retention period: Personal data is processed/stored for marketing purposes during the marketing capaign and two (2) years after the campaign or until the contact person withdraws his/her consent.
-
-### **_3.11. Communicating with Epassi's financing partner for EpassiBIKE service_**
-
-The personal data is processed in order to communicate with the Epassi’s financing partner.
-
-The personal data we process within the scope of this purpose include:
-
-*   Name
-*   Email address
-*   Phone number
-*   Social security number of a guarantor to a leasing agreement (only in exceptional circumstances when a guarantor is required by financing partner)
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to communicate with Epassi’s financing partners’ contact persons.
-
-The personal data is processed by Tukirahoitus Oy, Svea Bank AB or Svea Bank AB, filial i Finland or Tukirahoitus Oy as a processor on behalf of Epassi.
-
-Retention period: Personal data is processed/stored for as long as the financing partner’s contact person is identified as the contact person representing the company.
-
-### **_3.12. Product deliveries_**
-
-The personal data is processed in order to deliver products to Epassi’s end-users.
-
-The personal data we process within the scope of this purpose include:
-
-*   Name
-*   Email address
-*   Phone number
-*   Delivery address for product(s)
-*   Name of employer
-
-Legal basis: The processing of personal data is based on a contract and on Epassi’s legitimate interest to communicate with Epassi’s employer and merchant customers’ contact persons.
-
-The personal data is processed by Shopify, Inc. as a processor on behalf of Epassi.
-
-Retention period: Personal data is processed/stored for as long as the end-user is employed by the same employer, is leasing a product from an employer, or as long as a certain legal obligation requires.
-
-### **_3.13. Support Matters_**
-
-The personal data is processed in order to administrate the support matters for Epassi’s employer customers and end-users as well as to provide phone line support.
-
-The personal data we process within the scope of this purpose include:
-
-*   Contact details to the party initiating the support matter
-*   Contact details to the person responsible for managing the matter
-*   Information in text fields provided by the party initiating the support matter
-*   Information in log files
-*   Phone number 
-
-In accordance with this section, we also process feedback you provide in the application and otherwise on our platforms, to the extent that it contains personal data.
-
-Legal basis: The processing of personal data is based on Epassi’s legitimate interest to administrate the support matters.
-
-Retention period: Personal data is stored for this purpose only as long as necessary for the purpose it was collected and thereafter for a maximum period of 2 years.
-
-### **_3.14. Complying with legal obligations  
-(accounting, bookkeeping etc.)_**
-
-The personal data is processed in order to fulfil our legal obligations, such as for example accounting or tax legislation related obligations.
-
-The personal data we process within the scope of this purpose include:
-
-*   All categories of personal data which have been collected and are necessary in order to comply with legal obligations.
-
-Legal basis: The processing of personal data is based on a legal obligation.
-
-Retention period: Personal data is stored for as long as a certain legal obligation requires. For example, in Finland the Accounting Act imposes an obligation to maintain information on the accounting’s supporting material for 6 years following the end of the financial year. In Sweden, the obligation is 7 years following the end of the financial year.
-
-For processing activities that are based on a legitimate interest, we have carefully balanced such legitimate interest with the data subjects right to privacy and concluded that our interest outweighs the data subjects’ rights and freedoms.
-
-Where the processing is such that a consent is required by the applicable legislation, we will state so and obtain the consent, and this will be the legal basis for the processing. However, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If such withdrawal means that we are no longer able to provide our services, we may cease to provide the services.
-
-### **_3.15. Accessibility feedback_**
-
-If you provide us with accessibility feedback via the Epassi accessibility feedback form, we will process the categories of personal data you include in your feedback in order to act on the feedback.
-
-More information about accessibility feedback and how to submit it can be found in Epassi’s Accessibility Statement.
-
-Legal basis: Statutory obligation for fulfilling the requirements set out in the Act on the Provision of Digital Services (306/2019).
-
-Retention period: The information is stored for three years following the response to each feedback submission.
-
-### **4\. DATA SOURCES**
-
-The personal data is mainly collected directly from the data subjects themselves, for example, at the time of registration or use of our services or during a customer relationship.
-
-The personal data can also be collected from the end-user’s employer in relation to services which are provided by the employer and Epassi to the end-user. These are gathered based on the need to contract the end-user as a consumer customer of Epassi and create their personal account at Epassi.
-
-The personal data may also be collected automatically when the data subject uses our services e.g., when using our end-user services and visiting our website.
-
-In addition, and with the permission of the data subject, data may be collected in other ways in a marketing context.
-
-Personal data may be updated and supplemented by collecting data from private and public sources.
-
-### **5\. RETENTION OF PERSONAL DATA**
-
-Personal data collected in connection with our services shall be retained as long as defined in this privacy policy and as required by the law unless such data is replaced through regular updates or otherwise. The periods vary greatly from one type of processing to another.
-
-We evaluate the necessity and accuracy of the personal data on a regular basis and endeavor to ensure that the incorrect and unnecessary personal data are corrected or deleted.
-
-Detailed retention times can be provided upon requests.
-
-### **6\. DISCLOSURES, TRANSFERS AND RECIPIENTS OF PERSONAL DATA**
-
-For the purposes stated in this privacy policy, the personal data may be disclosed, when necessary, to authorities, among and to other companies within the same group of companies of Epassi, and to selected third parties, such as third-party service providers (such as our IT vendors and marketing agencies conducting marketing on our behalf etc.). In such case, the personal data will only be disclosed for purposes defined above and any disclosure is always limited to only the strictly necessary personal data included in such purposes. We do not sell or otherwise disclose personal data to any third parties outside Epassi for such third parties’ own purposes.
-
-Regular disclosures of personal data undertaken to third parties in order to provide the agreed services:
-
-*   To Epassi Partners, where such partner’s customer is also an Epassi end-user, and the two purposes coincide and require cross-transferring or matching of personal data;
-*   To Epassi Merchants, as required for financial and payment processing related purposes while using the services;
-*   To provider(s) of financial services for financing products provided under Epassi’s product portfolio.
-
-In addition, Epassi may share the personal data in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business and in connection with other similar arrangements.
-
-The personal data is also disclosed to third parties if required under any applicable law or regulation or order by competent authorities, and to investigate possible infringing use of the products and services as well as to guarantee the safety and usability of the Epassi products and services.
-
-In order for Epassi to provide the agreed services, personal data is processed also by the following processors of Epassi. List of the processors and other recipients:
-
-*   Amazon Web Services (Support tool)
-*   APSIS International AB (Marketing tool)
-*   BitBot Oy (Support tool for Epassibike)
-*   Cellip AB (Support tool)
-*   Databricks (Support tool) 
+*   Amazon Web Services (support tool)
+*   APSIS International AB (marketing tool)
+*   BitBot Oy (support tool for EpassiBIKE)
+*   Cellip AB (support tool)
+*   Databricks (support tool)
 *   Epassi Finland Oy (IT operations)
-*   Fortnox AB (Finance tool)
-*   Freshworks Inc. (Support tool)
+*   Fortnox AB (financial management tool)
+*   Freshworks Inc. (support tool)
+*   HeadQ Oy (digital commerce platform)
 *   Google LLC (Google Analytics, Google Ads)
-*   HeadQ Oy (Digital Commerce Platform)
-*   Hetzner Online GmbH (Hosting the online service platform)
+*   Hetzner Online GmbH (web hosting)
 *   HubSpot, Inc. (CRM tool)
-*   InExchange Factorum AB (Electronic invoicing)
-*   Kund-o AB (Support tool used for case management)
-*   Lime Technologies AB (CRM tool, Epassi's Swedish employer and merchant customers' contact persons, only applicable in Sweden)
-*   Mainloop AB (IT-development)
-*   Microsoft Corporation (Business tools)
-*   Oneflow AB (Digital Contract platform)
-*   Oura Health Oy (Marketing Partner)
-*   Parvus Vulpes Oy (Platform tool)
-*   Sharpspring (Marketing tool)
-*   Shopify (Platform for EpassiBIKE)
-    *   Lightward Inc. (Functionality tool in Shopify)
-    *   HulkApps Inc. (Functionality tool in Shopify)
-    *   Instacollect Inc. (Functionality tool in Shopify)
-*   Signicat AS (Identification authentication service)
-*   Svea Bank AB and Svea Bank AB, filial i Finland or Tukirahoitus Oy (EpassiBIKE financing partner)
-*   Telavox AB (Support tool)
-*   Telia Finland Oyj (Strong authentication)
-*   Tradedoubler AB (Marketing partner)
-*   Visma Solutions Oy (Netvisor and know your customer).
+*   InExchange Factorum AB (e-invoicing)
+*   Kund-o AB (case management support tool)
+*   Lime Technologies AB (CRM tool for Swedish employer and merchant contacts, Sweden only)
+*   Mainloop AB (IT development)
+*   Microsoft Corporation (business tools)
+*   Oneflow AB (digital contract platform)
+*   Oura Health Oy (marketing partner)
+*   Parvus Vulpes Oy (platform tool)
+*   Sharpspring (marketing tool)
+*   Shopify (EpassiBIKE platform)
 
-### **7\. DATA TRANSFERS OUTSIDE THE EU/EEA**
+o Lightward Inc. (Shopify functionality tool)
 
-Some of the services used by Epassi for processing personal data may operate outside the territory of the European Union (EU) or the European Economic Area (EEA). Thus, personal data can be transferred outside the European Union and the European Economic Area. In case personal data is transferred outside the EU/EEA, such transfers are either made to a country that is deemed to provide a sufficient level of privacy protection by the European Commission or transfers are carried out by using appropriate safeguards such as Standard Contractual Clauses (SCC) adopted, including any supplementary measures, where assessed to be necessary, or otherwise approved by the EU Commission or competent data protection authority in accordance with the GDPR.
+o HulkApps Inc. (Shopify functionality tool)
 
-The following recipients may transfer personal data outside the EU/ EEA:
+o Instacollect Inc. (Shopify functionality tool)
 
-*   HubSpot, Inc. (Epassi’s Finnish employer and merchant customers’ contact persons data)
-*   Shopify, Inc. (Epassi’s end-user data for EpassiBIKE)
-    *   Lightward Inc. (Functionality tool in Shopify)
-    *   HulkApps Inc. (Functionality tool in Shopify)
-    *   Instacollect Inc. (Functionality tool in Shopify)
+*   Signicat AS (identity verification service)
+*   Svea Bank AB and affiliates or Tukirahoitus Oy (EpassiBIKE financing partner)
+*   Telavox AB (support tool)
+*   Telia Finland Oyj (strong authentication)
+*   Tradedoubler AB (marketing tool)
+*   Visma Solutions Oy (Netvisor and customer due diligence)
+*   RevQore (Hubspot consulting)
+*   Kaks.io (Hubspot consulting)
+*   Vainu.io (Business information service)
 
-### **8\. PROTECTION OF PERSONAL DATA**
+### 6\. Transfers Outside the EU/EEA
 
-Securing the confidentiality, integrity, and availability of personal data is important to Epassi. Epassi's Security Management System is based on the requirements from laws, regulations, contracts and certain standards (such as ISO 27001). Security Management System consists of appropriate technical, administrative, and organizational security measures to protect personal data against unauthorized access, disclosure, destruction, or other unauthorized processing.
+Some third parties and their services used by Epassi for personal data processing may operate outside the European Union (EU) or European Economic Area (EEA), meaning personal data may be transferred outside these regions. If personal data is transferred outside the EU/EEA, such transfers are subject to the following legal safeguards:  
+• Transfers are made to a country for which the European Commission has issued an adequacy decision regarding minimum data protection standards;  
+• Transfers are carried out using the European Commission’s standard contractual clauses or other appropriate safeguards approved by a competent data protection authority.
 
-Administrative and organizational measures:
+When transferring data to third countries, Epassi implements appropriate safeguards, including additional protective measures where necessary, or other methods approved by the European Commission or competent data protection authority to maintain data protection in accordance with the GDPR.
 
-*   Dedicated servers in two different geographical locations in the EU. Facilities are certified against internationally recognized Information Security Standard.
-*   Role based access rights management
+Recipients that may transfer personal data outside the EU/EEA include:  
+• Shopify, Inc. (EpassiBIKE end-user data)  
+o Lightward Inc.  
+o HulkApps Inc.  
+o Instacollect Inc.
 
-Technical measures:
+### 7\. Security measures
 
-*   Firewalls
-*   Backups
-*   Access controls
-*   Monitoring of processing
-*   Safe encryption technologies
-*   Encrypted network connections (HTTPS)
+Ensuring the confidentiality, integrity, and availability of personal data is important to Epassi. Epassi’s security management system is based on legal, regulatory, and contractual requirements. The Epassi service and IT systems are certified according to the ISO27001 information security standard. The security management system consists of appropriate technical, administrative, and organizational measures to protect personal data from unauthorized access, disclosure, destruction, and processing.
 
-Nevertheless, considering the cyber threats in modern day online environment, we cannot give full guarantee that our security measures will prevent illegally and maliciously operating third parties from obtaining access to personal data or absolute security of the personal data during its transmission or storage on our systems.
+**Administrative and organizational measures:**  
+• Epassi services are implemented and personal data stored in two separate EU-based data centers certified to internationally recognized security standards  
+• Role-based access control  
+• Technical segregation of personal data  
+• Supplier and system monitoring in accordance with ISO27001
 
-All parties processing personal data have a duty of confidentiality in matters related to the processing of personal data. Access to personal data is restricted to those employees and parties who need it to perform their duties. We also require our service providers to have appropriate methods in place to protect personal data.
+**Technical measures:**  
+• Firewalls  
+• Backups  
+• Access control  
+• Technical monitoring of processing and errors  
+• Secure encryption techniques  
+• Encrypted network connections (HTTPS)
 
-### **9\. USE OF COOKIES AND SIMILIAR TECHNOLOGIES**
+All parties involved in personal data processing are bound by contractual confidentiality obligations. We also require our service providers to use appropriate methods to protect personal data.
 
-The Epassi website uses cookies.
+### 8\. Use of Cookies and Similar Technologies
 
-A cookie is a small text file that is stored on your computer and contains information. Cookies are normally used to improve the website for you as a visitor. There are two types:
+Epassi’s website uses cookies.  
+Details of the use of cookies and similar technologies are documented in Epassi’s Cookie Policy, which explains how and for what purposes Epassi uses each cookie. See “Epassi Cookie Policy” \[link\].
 
-One type saves a file that remains on the visitor's computer. This file is used, for example, to make it easier for you to use the website according to your preferences and interests.
+### 9\. Data subject’s rights
 
-The second type is called session cookie. While a visitor is on a website, it is temporarily stored in the visitor's computer memory. Session cookies disappear when you close your browser. No personal information is stored about you, such as your email address and name.
+When we process your personal data, you have certain rights under applicable data protection legislation. Each right applicable to the purposes listed in section 3 is described below, along with instructions for exercising these rights:
 
-Our website uses both types. When you visit the site, a session cookie is sent between your computer and our web server to facilitate navigation, among other things. Session cookies are also used when you use our e-services. The cookie disappears when you end your visit.
+**Right of access and right to review data**  
+You have the right to obtain confirmation of whether your personal data is being processed and to access your data in written or electronic form upon request.
 
-Our website also uses Google Analytics to collect anonymous data for service development purposes.
+**Right to rectification and erasure**  
+You have the right to request correction of inaccurate personal data and the right to request deletion of your personal data. Epassi must delete personal data where there is no legal basis for processing (e.g., withdrawal of consent).
 
-### **10\. AUTOMATED DECISION-MAKING AND PROFILING**
+**Right to data portability**  
+You have the right to receive personal data you have provided to Epassi in a structured, commonly used, machine-readable format and to transfer that data to another controller.
 
-Epassi does not use any automated decision-making nor any profiling pursuant to the Article 22 GDPR.
+**Right to restriction of processing**  
+You have the right to restrict processing where there is no longer a legal basis for processing but data must be retained for other legitimate purposes. In cases where data suspected to be inaccurate cannot be corrected or deleted, or where a deletion request is unclear, Epassi will restrict access to the data.
 
-### **11\. RIGHT OF THE DATA SUBJECTS**
+**Right to object to processing**  
+You have the right to object to processing based on Epassi’s legitimate interest or for direct marketing unless Epassi demonstrates compelling legitimate grounds for processing.
 
-The data subject has certain rights in relation to the processing of personal data under applicable data protection laws.
+**Right to withdraw consent**  
+Where processing is based on consent, you have the right to withdraw consent at any time by notifying Epassi.
 
-**Right of access and right of inspection**
+**Right to lodge a complaint with a supervisory authority**  
+If you believe your personal data has been processed unlawfully, you have the right to lodge a complaint with the competent data protection authority.  
+In Finland: Data Protection Ombudsman (http://www.tietosuoja.fi)  
+In Sweden: Swedish Authority for Privacy Protection (https://www.imy.se/)
 
-The data subject has the right to obtain confirmation as to whether or not personal data concerning them is being processed.
+**Exercising your rights**  
+Requests must be made in writing or electronically and sent to the address specified in section 1. Please clearly specify your request and related personal data to facilitate resolution. Include your name, phone number, email address, username, and details of the products or services used.  
+Epassi will verify your identity before fulfilling the request and providing data. Responses will be provided within a reasonable time, typically within one month of the request and identity verification.  
+If your request cannot be fulfilled, Epassi will inform you in writing. Epassi may refuse requests (such as deletion) based on legal obligations or rights, including service-related requirements. Epassi may charge a reasonable fee if requests are particularly burdensome or manifestly unfounded.
 
-The data subject has the right to inspect and view data concerning them and, upon a request, the right to obtain the data in a written or electric form. This applies to information that the data subject has provided to Epassi insofar the processing is based on a contract/consent.
+Contact us if you have questions about our privacy practices or wish to exercise your rights.
 
-Exercising this right is generally free of charge.
+### 10\. Changes to the Privacy policy
 
-**Right to rectification and right to erasure**
+Epassi may update this Privacy Policy by posting changes on its website and/or through other appropriate means. Data subjects are strongly encouraged to review the Privacy Policy on our website regularly.  
+If you object to any changes, you must discontinue use of the services and may request deletion of your personal data unless applicable law requires retention. Unless otherwise stated, the current Privacy Policy applies to all personal data we process.
 
-The data subject has the right to demand the rectification of incorrect personal data concerning them and to have incomplete personal data completed.
-
-The data subject has the right to require Epassi to delete or stop processing the data subject’s personal data, for example where the data is no longer necessary for the purposes of processing. However, please note that certain personal data is strictly necessary in order to achieve the purposes defined in this privacy policy and may also be required to be retained by applicable laws.
-
-**Right to data portability**
-
-The data subject has the right to receive the personal data that he or she has provided to Epassi in a structured, commonly used, and machine-readable format and, if desired, transmit that data to another controller. The right to data portability applies on the processing of the personal data based on consent or a contract.
-
-**Right to restriction of processing**
-
-The data subject has the right, under conditions defined by data protection legislation, to request the restriction of processing of his or her personal data. In situations where personal data suspected to be incorrect cannot be corrected or removed, or if the removal request is unclear, Epassi will limit the access to such data.
-
-**Right to object to processing**
-
-The data subject has the right to object to the processing of your personal data where Epassi is relying on its legitimate interests as the legal ground for processing. For example, the data subject may object to his or her personal data being used for marketing purposes.
-
-**Right to withdraw consent**
-
-In cases where the processing is based on the data subjects’ consent, the data subject has the right to withdraw his or her consent to such processing at any time.
-
-**Right to lodge a complaint with a supervisory authority**
-
-The data subject has the right to lodge a complaint with a competent data protection authority if the data subject considers that the processing of personal data relating to the data subject infringes current legislation.
-
-However, we request that the matter will be dealt with Epassi in the first instance.
-
-The relevant authority in Finland is the Data Protection Ombudsman ([http://www.tietosuoja.fi](http://www.tietosuoja.fi/))
-
-In Sweden relevant authority is Swedish Data Protection Authority ([https://www.imy.se/](https://www.imy.se/)).
-
-**Exercising rights**
-
-Requests regarding the rights of data subjects shall be made in written or in electronic form, and the request shall be addressed to the controller, Epassi.
-
-Identity will be checked before the information is given out, which is why we may have to ask for additional details. The request will be responded to within a reasonable time and, where possible, within one month of the request and the verification of identity.
-
-If the data subject’s request cannot be met, the refusal shall be communicated to the data subject in writing. Epassi may refuse the request (for example erasure of data) due to a statutory obligation or a statutory right of the company, such as an obligation or a claim relating to our services. Please note that Epassi may charge a reasonable fee where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character.
-
-The data subject may exercise the aforementioned rights by sending a written request by email or mail using the contact information provided in this privacy policy, including the following information: name, phone number, email address, user id and details of the products and services you have used.
-
-If you have any questions relating to our data protection policies or wish to exercise your rights, please do not hesitate to contact us.
-
-### **12\. CHANGES TO THIS PRIVACY POLICY**
-
-Epassi may make changes to this privacy policy at any time by giving a notice on the website and/or by other applicable means. The data subjects are highly recommended to review the privacy policy on our website every now and then.
-
-If the data subject objects to any of the changes to this privacy policy, the data subject should cease using the services, where applicable, and he/she can request that we remove the personal data, unless applicable laws require us to retain such personal data. Unless stated otherwise, the then-current privacy policy applies to all personal data we process at the time.
-
-This privacy policy has been published on 21.10.2021, version 1.0
+This Privacy Policy was published on 21 October 2021 (version 1.0).  
+Version history available upon request. 
 
 Version history
 
@@ -494,3 +236,4 @@ Version history
 | 2.7 | Document updated | 12.9.2024 |
 | 2.8. | Document updated | 25.6.2025 |
 | 2.9. | Document updated | 18.7.2025 |
+| 3.0. | Document updated | 15.1.2026 |
