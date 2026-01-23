@@ -93,7 +93,7 @@ Other languages:
     سیاست محرمانگی (32% translated)")
 *   [مازِرونی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mzn "Policy:Privacy policy/mzn (1% translated)")
 *   [پښتو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ps "د پټنتیا تگلاره (23% translated)")
-*   [کوردی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ckb "سیاسەتی تایبەتێتی (34% translated)")
+*   [کوردی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ckb "سلاو من کردم  تریلی از رو پام رد شده تقریبا تاقص میباشم اگه صلاح میدانی عکس بفرستم پام در کل کج شده و ته پا ندارم راه نمیتانم برم محض رضای هر کی دوست داریید کمکی بهم بکنید سیاسەتی تایبەتێتی (34% translated)")
 *   [کٲشُر](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ks-arab "رازدٲری اۆصوٗل (4% translated)")
 *   [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (90% translated)")
 *   [भोजपुरी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bho "गोपनीयता नीति (1% translated)")
