@@ -24,11 +24,11 @@ We provide this Privacy Policy to inform you about data processing in connection
 
 #### Responsible body
 
-We, New Work SE, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Am Strandkai 1, 20457 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
+We, New Work SE, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Baumwall 7, 20459 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Christian Schmidt, Am Strandkai 1, 20457 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
+Our Data Protection Officer is Christian Schmidt, Baumwall 7, 20459 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
 
 #### Processing for another purpose
 
