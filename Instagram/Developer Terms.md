@@ -318,7 +318,7 @@ Meta Platform Terms
         
         *     
             
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [](https://developers.facebook.com/docs/datasecurity) and
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [ℹ️](https://developers.facebook.com/docs/datasecurity) and
             
         *   2\. Are designed to prevent any unauthorized (including in violation of these Terms or any other applicable terms or policies) Processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution, or compromise) of Platform Data.
             
