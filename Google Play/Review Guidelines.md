@@ -37,7 +37,7 @@ Choose a Google product
 *   [![](//gstatic.com/ads/external/images/logo_google_ads_64px.png)
     
     ### Google Ads](https://support.google.com/google-ads?hl=en-GB)
-*   [![](//fonts.gstatic.com/s/i/productlogos/photos/v6/web-64dp/logo_photos_color_1x_web_64dp.png)
+*   [![](//www.gstatic.com/images/branding/productlogos/photos_2025/v1/web-64dp/logo_photos_2025_color_1x_web_64dp.png)
     
     ### Google Photos](https://support.google.com/photos?hl=en-GB)
 *   [![](//www.gstatic.com/images/branding/product/1x/family_link_64dp.png)
