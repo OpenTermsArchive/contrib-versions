@@ -408,7 +408,7 @@ Referral Program Terms
 Deliveroo Plus Terms and Conditions
 -----------------------------------
 
-Last updated 20 January 2026
+Last updated 28 January 2026
 
 These T&Cs apply to you if you subscribe to a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account or the Deliveroo Terms of Use for Website and Applications, which will continue to apply except to the extent these T&C vary them.
 
@@ -440,7 +440,7 @@ You must:
 
 ●      be located primarily in a city that has been notified to you via the Service, or on the Deliveroo website as operating Deliveroo Plus (“Participating City”);
 
-●      sign up to Deliveroo Plus on your personal account (if you are a Deliveroo for Business customer, you will not be eligible to use your Deliveroo Plus benefits when you are using your company allowance to pay for an order);
+●      sign up to Deliveroo Plus on your personal account (if you are a Deliveroo for Work customer, you will not be eligible to earn Plus Credit Back when you are using your company allowance to pay for an order);
 
 ●      have a valid credit or debit card saved on your profile  that is not already used to pay for a different Deliveroo Plus account  (see Section 6 of these terms “Payment Method” for more details); and
 
@@ -580,25 +580,9 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 
 *   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. If you end your Amazon Prime membership, your access to Plus will end, and you will need to sign up to a new Plus plan should you wish to continue using the service.
 
-### **13\. Deliveroo Plus Offer with Revolut**
+### **13\. Terms Applicable to Deliveroo Plus Gold Only**
 
-Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes free delivery from a huge range of restaurants on orders over €18 and free delivery from grocery and retail stores on orders over €30.
-
-Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
-
-*   If you close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying account, you will no longer benefit from the free Deliveroo Plus subscription and the Free Period will be terminated. You will be notified via email once your Deliveroo Plus subscription has ended.
-*   If you were previously a Deliveroo Plus subscriber and decided to switch to the Deliveroo Plus Offer with Revolut, and then close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription. 
-*   If you want to restart your free Deliveroo Plus Silver subscription with Revolut and it is still available as part of your qualifying Revolut account, you will need to reactivate the Deliveroo Plus Offer with Revolut by following the offer redemption process set out below:
-*   Go into the Revolut app or website;  
-    \- Follow the link found on the Deliveroo offer page in the Revolut app or website;  
-    \- Log in or sign up to create a Deliveroo account (if you do not already have one);  
-    \- Once signed in, you will be automatically redirected to Deliveroo’s voucher entry page where your unique voucher code will be pre-populated;  
-    \- Submit the code and follow the instructions to join Deliveroo Plus.
-*   Existing fee paying Deliveroo Plus subscribers may also benefit from this offer (provided they have a qualifying Revolut account) and, if they fulfil the eligibility criteria of Revolut, will be moved onto the Deliveroo Plus Offer with Revolut for the Free Period, from the date they will have linked their qualifying Revolut account according to the process described above. At the end of the Free Period or if you close your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription.
-
-### **14\. Terms Applicable to Deliveroo Plus Gold Only**
-
-*   The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders or Group orders. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
+*   The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders, Group orders or, if you are a Deliveroo for Work customer, when using your company allowance. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
 *   The Deliveroo Plus On-Time Promise benefit only to Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
 
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
