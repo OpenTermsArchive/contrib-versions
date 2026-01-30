@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Last updated: January 1, 2026._
+_Last updated: January 29, 2026._
 
 Key Information
 ---------------
@@ -168,9 +168,9 @@ If you would like further information in relation to your rights or would like t
 
 For more information in relation to your rights with respect to automated decision-making please refer to the “How we use AI” section above.
 
-We try to answer every request promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that when deleting your Personal Data there may be residual information that will remain within our databases, access logs, and other records, which may or may not contain your Personal Data. Please also note that certain Personal Data may be exempt from such requests in certain circumstances, which may include if we need to retain your Personal Data to comply with a legal obligation. When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
+We try to answer every request promptly where possible, and provide our response within the time period stated by applicable law. Further information for residents of U.S. States which have enacted state privacy laws is available in our [U.S. State Privacy Laws Notice](https://www.coursera.org/about/privacy/ccpa).
 
-Further information for residents of U.S. States which have enacted state privacy laws is available in our [U.S. State Privacy Laws Notice](https://www.coursera.org/about/privacy/ccpa).
+If you request deletion of your Personal Data, we will delete the Personal Data associated with that account, including your learner profile, course history, and any certificates or certifications issued through our platform. Once your account is deleted, certificates and certifications cannot be accessed, verified, or reissued, and we recommend downloading any certificates and certifications you wish to keep before submitting a deletion request. Following deletion, we may retain limited Personal Data where necessary for lawful and legitimate purposes, which may vary depending on your location, such as complying with legal obligations. In addition, residual information may remain within our databases, access logs, or other records, which may or may not contain your Personal Data.
 
 Questions, Suggestions, and Complaints
 --------------------------------------
