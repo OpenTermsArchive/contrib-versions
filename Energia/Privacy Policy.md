@@ -1,7 +1,7 @@
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
-Request a callback
-==================
+Energia Privacy Statement
+=========================
 
 We care about your privacy
 
