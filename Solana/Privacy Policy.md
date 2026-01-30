@@ -5,8 +5,6 @@ Powerful for developers. Fast for everyone.
 
 Last modified date: October 11, 2023
 
-  
-
 This privacy policy ("**_Privacy Policy_**") explains how Solana Foundation ("**_Solana_**," "**_our_**," "**_we_**," or "**_us_**") collects, uses, and discloses information about you. This Privacy Policy applies when you use [www.solana.com](http://www.solana.com/) (the "**_Website_**"), contact our customer service team, engage with us on social media, or otherwise interact with us.
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy and, in some cases, we may provide you with additional notice (such as adding a statement to our Website or sending you a notification). We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.
@@ -74,7 +72,7 @@ We use the information we collect to:
 
 We share personal information in the following circumstances or as otherwise described in this policy:
 
-*   We share personal information with vendors, service providers, and consultants that need access to personal information in order to perform services for us, such as companies that assist us with web hosting, shipping and delivery, payment processing, fraud prevention, customer service, data analytics and marketing and advertising.
+*   We share personal information with vendors, service providers, and consultants that need access to personal information in order to perform services for us, such as companies that assist us with web hosting, shipping and delivery, payment processing, fraud prevention, customer service, data analytics and marketing and advertising.
 *   We may disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
 *   We may share personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of Solana, our users, the public, or others.
 *   We share personal information with our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
