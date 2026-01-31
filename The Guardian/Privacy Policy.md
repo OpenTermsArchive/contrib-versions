@@ -3,6 +3,8 @@ Privacy policy
 
 Tue 1 Jul 2025 14.21 CEST
 
+[Add the Guardian on Google](https://www.google.com/preferences/source?q=theguardian.com)
+
 Introduction
 ------------
 
