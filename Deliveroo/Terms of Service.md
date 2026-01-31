@@ -5,11 +5,11 @@ Deliveroo Terms Of Service
 
 Welcome to Deliveroo. This page (together with the documents referred to in it) tells you the terms (the “**Terms**”) which apply when you order any items (the **"Items"**) from our deliveroo.co.uk website or mobile applications and related services (each referred to as an **“Application”**).
 
-Please read these Terms carefully before ordering any Items from our Application. If you have any questions relating to these Terms please contact support@deliveroo.ie before you place an order. If you are a consumer, you have certain legal rights when you order Items using our Application. You can find more information about these rights at: [https://www.citizensinformation.ie/en/consumer\_affairs/consumer\_protection/consumer\_rights/](https://www.citizensinformation.ie/en/consumer_affairs/consumer_protection/consumer_rights/) and from the Competition and Consumer Protection Commission (CCPC), https://www.ccpc.ie. Your legal rights are not affected by these Terms, which apply in addition to them and do not replace them.  By setting up your Deliveroo account, you confirm that you accept these Terms.
+Please read these Terms carefully before ordering any Items from our Application. If you have any questions relating to these Terms please contact customersupport@deliveroo.ie before you place an order. If you are a consumer, you have certain legal rights when you order Items using our Application. You can find more information about these rights at: [https://www.citizensinformation.ie/en/consumer\_affairs/consumer\_protection/consumer\_rights/](https://www.citizensinformation.ie/en/consumer_affairs/consumer_protection/consumer_rights/) and from the Competition and Consumer Protection Commission (CCPC), https://www.ccpc.ie. Your legal rights are not affected by these Terms, which apply in addition to them and do not replace them.  By setting up your Deliveroo account, you confirm that you accept these Terms.
 
 ### 1\. Information About Us
 
-Deliveroo Ireland Limited is a company incorporated and registered in Ireland, with a registered office at 1-2 Victoria Buildings, Haddington Road, Dublin 4, DUBLIN, Ireland.  Our Company registration number is 556923. Our VAT number is 3332774RH. You may contact us at support@deliveroo.ie or by using the instant messaging facility on our Application.
+Deliveroo Ireland Limited is a company incorporated and registered in Ireland, with a registered office at 1-2 Victoria Buildings, Haddington Road, Dublin 4, DUBLIN, Ireland.  Our Company registration number is 556923. Our VAT number is 3332774RH. You may contact us at customersupport@deliveroo.ie or by using the instant messaging facility on our Application.
 
 ### 2\. Purpose
 
@@ -211,7 +211,7 @@ We may revise these terms of use at any time by amending this page. You are expe
 
 ### 16\. Your Concerns
 
-We set standards for content provided by our partners who offer their Services on the Site. If you become aware of any content on our Site that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, descriptions of items, imagery, issues such as intellectual property infringement, or illegal items or other material), you can submit a notice via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact.](https://deliveroo.ie/contact) Alternatively, you can notify us via the email address [support@deliveroo.ie](mailto:support@deliveroo.ie). We will review your notice, take the appropriate action and then notify you of the outcome including how to complain and available options for out of court settlement. Please ensure that your notice is true, accurate and complete to the best of your knowledge.
+We set standards for content provided by our partners who offer their Services on the Site. If you become aware of any content on our Site that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, descriptions of items, imagery, issues such as intellectual property infringement, or illegal items or other material), you can submit a notice via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact.](https://deliveroo.ie/contact) Alternatively, you can notify us via the email address customersupport@deliveroo.ie. We will review your notice, take the appropriate action and then notify you of the outcome including how to complain and available options for out of court settlement. Please ensure that your notice is true, accurate and complete to the best of your knowledge.
 
 Deliveroo Voucher and Account Credit Terms
 ------------------------------------------
@@ -446,7 +446,7 @@ You must:
 
 ●      comply with any other criteria communicated to you at the time of signing up.
 
-If it has been determined by Deliveroo that you do not comply with the above criteria, but you believe that you do, you should contact the Customer Services Team by emailing [support@deliveroo.ie](mailto:support@deliveroo.ie). You may only use your Plus account primarily within the country in which you established your account. 
+If it has been determined by Deliveroo that you do not comply with the above criteria, but you believe that you do, you should contact the Customer Services Team by emailing customersupport@deliveroo.ie. You may only use your Plus account primarily within the country in which you established your account. 
 
 _Eligible Orders_
 
@@ -546,7 +546,7 @@ Cooling Off Period: You have a right to cancel a Deliveroo Plus membership  dur
 
 ○      at the expiry of the Free Trial Period.
 
-Exercising Your Right to Cancel: To exercise the right to cancel under this section, you may either use the option within “My Account” area of your profile or you must inform our Customer Support Team by email (at [support@deliveroo.ie](mailto:support@deliveroo.ie)) of your decision to cancel your Deliveroo Plus membership by clear statement.
+Exercising Your Right to Cancel: To exercise the right to cancel under this section, you may either use the option within “My Account” area of your profile or you must inform our Customer Support Team by email (at customersupport@deliveroo.ie) of your decision to cancel your Deliveroo Plus membership by clear statement.
 
 Reimbursement: If you cancel your Deliveroo Plus membership during the Cooling-Off Period, we will reimburse you for the payment you have made at the date of cancellation. If a reimbursement is due and payable to you, we will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel this contract using the same means of payment as you have used to pay your Deliveroo Plus Subscription Fee.
 
@@ -596,7 +596,7 @@ This section (together with the documents referred to in it) tells you the terms
 
 (b) upload, post, publish, design or display any other content or material to our Site (“**User Contribution**”). 
 
-Please read these User Review and Contribution Terms before submitting any Review or User Contribution to our Site. If you have any questions relating to these User Review and Contribution Terms please contact support@deliveroo.ie before you submit a Review or User Contribution.
+Please read these User Review and Contribution Terms before submitting any Review or User Contribution to our Site. If you have any questions relating to these User Review and Contribution Terms please contact customersupport@deliveroo.ie before you submit a Review or User Contribution.
 
 **1\. User Conduct**
 
@@ -634,11 +634,11 @@ You acknowledge and agree that we may preserve your Reviews and User Contributio
 
 **5\. How to Complain about Illegal Content or Misconduct**
 
-We respect the law and the rights of others, and we ask our users to do the same. If you believe that any Review or User Contribution is illegal, harmful, or breaches these terms, or you believe we are not meeting our legal obligations to manage the risk of harm to individuals, to facilitate reporting of online harms or to protect a user’s freedom of expressions and a user’s legal rights to privacy (“**Alleged Misconduct**”), you should notify Deliveroo by either clicking the ‘Report Review’ function available for all Reviews and User Contributions in-app, or via the Webform for Digital Services Act reports, which can be accessed via the Contact Us option at [https://deliveroo.ie/contact](https://deliveroo.ie/contact). You can also submit a notice via the email address [support@deliveroo.ie](mailto:support@deliveroo.ie). We will review your report, take the appropriate action and notify you of the outcome, including how to complain if you are dissatisfied with our decision. writing to support@deliveroo.co.uk. You can also report Alleged Illegal Content in-app, by clicking the ‘Report Review’ function available for all Reviews and User Contributions. 
+We respect the law and the rights of others, and we ask our users to do the same. If you believe that any Review or User Contribution is illegal, harmful, or breaches these terms, or you believe we are not meeting our legal obligations to manage the risk of harm to individuals, to facilitate reporting of online harms or to protect a user’s freedom of expressions and a user’s legal rights to privacy (“**Alleged Misconduct**”), you should notify Deliveroo by either clicking the ‘Report Review’ function available for all Reviews and User Contributions in-app, or via the Webform for Digital Services Act reports, which can be accessed via the Contact Us option at [https://deliveroo.ie/contact](https://deliveroo.ie/contact). You can also submit a notice via the email address customersupport@deliveroo.ie. We will review your report, take the appropriate action and notify you of the outcome, including how to complain if you are dissatisfied with our decision. You can also report Alleged Illegal Content in-app, by clicking the ‘Report Review’ function available for all Reviews and User Contributions. 
 
 The provisions of paragraph 7 below will also apply to any complainants who frequently submit illegal content notices that are manifestly unfounded.
 
-In addition, to the processes which will be notified to you should you submit a notice via the Webform,, you may also raise a complaint in writing to support@deliveroo.ie if your Review or User Contribution is taken down by us on the basis that it is illegal or if we have issued you with a warning, suspended or banned you from using our services or the Site, or in any other way restricted your ability to use our services or the Site, as a result of your Review or User Contribution which we consider to be illegal (“**Take Down Procedures**”).
+In addition, to the processes which will be notified to you should you submit a notice via the Webform, you may also raise a complaint in writing to customersupport@deliveroo.ie if your Review or User Contribution is taken down by us on the basis that it is illegal or if we have issued you with a warning, suspended or banned you from using our services or the Site, or in any other way restricted your ability to use our services or the Site, as a result of your Review or User Contribution which we consider to be illegal (“**Take Down Procedures**”).
 
 Your notification or complaint must be in writing and contain the following information:
 
