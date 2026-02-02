@@ -2184,6 +2184,8 @@ Fees for using the Storage Service are as follows.
     Fees incurred for storage of Stored Merchandise, which shall be billed pursuant to Articles 7 and 9.
 2.  Shipping fees  
     Fees incurred for shipping of Stored Merchandise, which shall be calculated based on the number of items pursuant to Article 10 and shall be billed when the order is completed.
+3.  Return shipping fees  
+    Fees related to the outbound procedures (hereinafter, “Outbound Procedures”) incurred when the User requests return of Stored Merchandise, or fees required for the return of Stored Merchandise to the User that the Company forces due to the User’s failure to pay storage fees, exceeding the storage period, termination of the Contract or other reasons (hereinafter, “Return”), which shall be billed pursuant to Article 10.
 
 Article 7. Storage fees and payment for ordinary Stored Merchandise
 -------------------------------------------------------------------
@@ -2193,7 +2195,7 @@ Article 7. Storage fees and payment for ordinary Stored Merchandise
 3.  Users can purchase multiple Storage Tickets in advance.
 4.  The Company will bill the Ordinary Storage Fee on the first day of the month following the month in which storage procedures at the Company have been completed and the data regarding the Stored Merchandise has been registered in the Company’s system. If the User has purchased Storage Tickets in advance pursuant to Items 1 through 3 of this Article, the Storage Tickets shall be consumed automatically and payment of the Ordinary Storage Fee shall be completed.
 5.  If the User has not purchased Storage Tickets before the Ordinary Storage Fees are billed, the User is required to purchase Storage Tickets before the 15th of the month in which the Company issued the User a notification requesting that the User purchase Storage Tickets. If the User purchases the required number of Storage Tickets within this timeframe, the Ordinary Storage Fees will be considered paid.
-6.  If the User does not purchase the required number of Storage Tickets within the time frame stipulated in the previous Item, at the Company’s discretion, the Company may return the Stored Merchandise to the User, regardless of whether the User has canceled their Contract with the Company, or may dispose of the merchandise and cancel the storage of the Stored Merchandise. In this case, all fees related to the return or disposal of the Stored Merchandise shall be borne by the User.
+6.  If the User does not purchase the required number of Storage Tickets within the time frame stipulated in the previous Item, at the Company’s discretion, the Company may return the Stored Merchandise to the User, regardless of whether the User has canceled their Contract with the Company, or may dispose of the merchandise and cancel the storage of the Stored Merchandise. In this case, the Company shall bill the User for the return shipping fees related to such hand-back or the disposal fees, and the User shall promptly pay in accordance with the invoice.
 7.  Notwithstanding Items 1 and 5 of this Article, if, in a one-month period during which the Stored Merchandise is stored (the “Storage Period”), the sales rate of the relevant Stored Merchandise is 20% or more, the Ordinary Storage Fee for such one-month period shall not arise and the User shall not be required to pay the Ordinary Storage Fee.\*  
     \*Sales rate = number of units of the Stored Merchandise sold during the relevant Storage Period (number for which shipping procedures have been completed) ÷ (inventory of the Stored Merchandise as of the first day of the relevant Storage Period + number of units of the Stored Merchandise entrusted to the warehouse during the relevant Storage Period)
 
@@ -2203,14 +2205,8 @@ Article 8. Storage Ticket expiration dates
 1.  There is no expiration date for Storage Tickets.
 2.  Storage Tickets (as set forth in the previous Article) shall be rendered null and void if the User deletes their shop registration.
 
-Article 9. Additional storage fees and payment
-----------------------------------------------
-
-1.  If the number of items exceeds the Ordinary Storage number set forth in Article 7, the Company may bill the User for additional storage fees (hereinafter, “Additional Storage Fees”).
-2.  If the User is billed for Additional Storage Fees as stipulated in the previous Item of this Article, the User must pay the fees before the deadline stipulated by the Company.
-
-Article 10. Shipping fees and payment
--------------------------------------
+Article 9. Shipping fees and payment
+------------------------------------
 
 The shipping fees stipulated in the Contract consist of the following: the Shipping Request Fee and the Warehouse Dispatch Handling Fee, and the User shall pay the shipping fees to the Company by the method prescribed by the Company.
 
@@ -2219,17 +2215,22 @@ The shipping fees stipulated in the Contract consist of the following: the Shipp
 2.  Warehouse Dispatch Handling Fee  
     The fee incurred when merchandise is dispatched from the warehouse shall be the amount stated separately in the Help Center.
 
+Article 10. Return shipping fees and payment
+--------------------------------------------
+
+The User shall pay the return shipping fees set forth in Article 6, in the amount stated separately in the Help Center, by the date designated by the Company.
+
 Article 11. Revision of the Storage Service usage fees
 ------------------------------------------------------
 
-1.  The Company may revise, without prior consent of Users, the fees, etc. for the Storage Service (including, without limitation, the shipping fees set forth in Article 10 and the costs set forth in Article 12).
-2.  If the Company revises its fee structure as stipulated in the previous Item of this Article, the Company shall issue notifications to Users by email or communicate with Users based on the contact methods stipulated in the Article 31, and shall make it clear to Users in advance that the Storage Service usage fee structure is being revised, and provide the numerical details of the new fee structure.
+1.  The Company may revise, without prior consent of Users, the fees, etc. for the Storage Service (including, without limitation, the shipping fees set forth in Article 9 and the costs set forth in Article 12).
+2.  If the Company revises its fee structure as stipulated in the previous Item of this Article, the Company shall issue notifications to Users by email or communicate with Users based on the contact methods stipulated in Article 30, and shall make it clear to Users in advance that the Storage Service usage fee structure is being revised, and provide the numerical details of the new fee structure.
 3.  If a User wishes to continue using the Storage Service after the change in fee structure goes into effect (in accordance with the notification issued by the Company to the User as stipulated in the previous Item of this Article), the User is considered to have consented to the new fee structure without objection.
 
 Article 12. Fees and burden of responsibility
 ---------------------------------------------
 
-1.  In using the Storage Service, the User shall bear the costs set forth below. When the Company bills for such costs, the User shall promptly pay in accordance with the invoice.
+1.  In using the Storage Service, if the costs set forth below arise, the Company shall bill the User for such costs, and the User shall promptly pay in accordance with the invoice.
     1.  Special handling fees
         *   Costs incurred when set-assembly work is performed for storage or shipping of Stored Merchandise
         *   Picking fees incurred when Stored Merchandise is returned or handed over
@@ -2239,12 +2240,10 @@ Article 12. Fees and burden of responsibility
         *   Actual expenses incurred (including but not limited to shipping costs for the relevant merchandise) when Stored Merchandise shipped pursuant to Article 13 is returned and reshipped
     3.  Reimbursable fees
         *   Costs in cases where merchandise is sent freight collect to the Company, or where the Company has made advance payments on the User’s behalf for costs such as shipping for return, hand-back or reshipping due to product defects.
-    4.  Shipping and handling fees (for Return to User)
-        *   Costs related to the outbound procedures (hereinafter, “Outbound Procedures”) incurred when the User requests return or hand-back of Stored Merchandise (including but not limited to return shipping costs for such merchandise)
-    5.  Return fees
-        *   Costs required to return Stored Merchandise upon termination of the Contract (including but not limited to shipping costs when returning such merchandise)
-    6.  Other fees
-        *   Costs, other than the foregoing five items, that the User is obligated to bear under the provisions of the Contract
+    4.  Additional storage fees
+        *   Costs incurred when the quantity of Stored Merchandise exceeds the scope of ordinary storage set forth in Article 7
+    5.  Other fees
+        *   Costs, other than the foregoing four items, that the Company is deemed under the provisions of the Contract to bill to the User
 2.  The User shall promptly pay the above after the Company has sent an invoice.
 
 Article 13. Shipping Stored Merchandise
@@ -2254,8 +2253,8 @@ Article 13. Shipping Stored Merchandise
 2.  When the User requests the Company to ship Stored Merchandise, the User shall be deemed to have given prior consent that the freight motor vehicle forwarding terms and conditions prescribed by the relevant carrier shall apply.
 3.  If for whatever reason, the items being shipped are broken, damaged, or lost in transit, the User shall not contact the shipping company directly, but rather shall follow the procedures set forth by the Company to make inquiries or other communications.
 4.  The Company’s obligations regarding shipping are limited to shipping the Stored Merchandise to the address specified by the User, and the Company shall bear no liability even if, as a result of performing shipping procedures to the address specified by the User, the merchandise does not reach the User or the specified address due to addressee error, wrong address, or inability to receive due to absence.
-5.  If, pursuant to the preceding Item, the Stored Merchandise does not reach the specified address and is returned to the Company, and the User desires re-shipping, the User shall bear the reshipment fees separately specified by the Company.
-6.  If Stored Merchandise is returned to the Company and the User does not request reshipping within three (3) months from the date the merchandise arrives at the Company, the User shall be deemed to have abandoned ownership of the Stored Merchandise. In such case, the Company may dispose of the Stored Merchandise, or instruct the Partner Warehouse Contractors to dispose of the Stored Merchandise. Costs incurred in disposal shall be borne by the User.
+5.  If, pursuant to the preceding Item, the Stored Merchandise does not reach the specified address and is returned to the Company, and the User desires re-shipping, the User shall pay the reshipment fees separately specified by the Company pursuant to Article 12.
+6.  If Stored Merchandise is returned to the Company and the User does not request reshipping within three (3) months from the date the merchandise arrives at the Company, the User shall be deemed to have abandoned ownership of the Stored Merchandise. In such case, the Company may dispose of the Stored Merchandise, or instruct the Partner Warehouse Contractors to dispose of the Stored Merchandise. The Company shall bill the User for costs incurred in such disposal (hereinafter, “Disposal Fees”) pursuant to Article 12, and the User shall promptly pay in accordance with the invoice.
 
 Article 14. Rejection of Stored Merchandise
 -------------------------------------------
@@ -2285,13 +2284,13 @@ Article 14. Rejection of Stored Merchandise
     5.  Items which require special circumstances for storage
     6.  Items for which storage is prohibited by law, items that violate the standards of common decency, or items which could potentially fall into either of these categories
     7.  Other items which the Company deems ineligible for any reason
-3.  If, after receipt of Stored Merchandise under Article 5, the Company becomes aware that the merchandise is Prohibited Merchandise set forth in Item 1, the Company may immediately return or dispose of such merchandise to the User, and the User shall raise no objection thereto. Return or disposal costs shall be borne by the User.
+3.  If, after receipt of Stored Merchandise under Article 5, the Company becomes aware that the merchandise is Prohibited Merchandise set forth in Item 1, the Company may immediately hand back or dispose of such merchandise to the User, and the User shall raise no objection thereto. The Company shall bill the User for the return shipping fees related to such hand-back or the disposal fees, and the User shall promptly pay in accordance with the invoice.
 
 Article 15. Inspection of contents of Stored Merchandise at the time of Load-in
 -------------------------------------------------------------------------------
 
 1.  The Company accepts Stored Merchandise for load-in into the Storage Service (hereinafter, “Load-in”). At the time of Load-in, the Company reserves the right to inspect the actual content of the Stored Merchandise to ensure that it matches the items listed on the application form, including product names, number of items, and whether the merchandise adheres to the rules for storage and handling at the Storage Service.
-2.  If, as a result of the inspection in the preceding Item, any of the following apply, the Company may refuse Load-in or request correction of Load-in procedures. All costs arising in connection with refusal or correction of Load-in (including but not limited to return shipping costs) shall be borne by the User. Even if Load-in is canceled as a result, the Company shall not refund any fees already received.
+2.  If, as a result of the inspection in the preceding Item, any of the following apply, the Company may refuse Load-in or request correction of Load-in procedures. The Company shall bill the User for all fees and costs that arise in connection with such refusal or correction (including, without limitation, return shipping costs), and the User shall promptly pay in accordance with the invoice. Even if Load-in is canceled as a result, the Company shall not refund any fees already received.
     1.  The entries in the Merchandise Storage Application do not match the Item name, quantity or Storage Precautions of the actual Stored Merchandise load-in
     2.  Merchandise not entered in the Merchandise Storage Application was actually loaded in, or was included in the Stored Merchandise actually loaded in.
     3.  Stored Merchandise includes Prohibited Merchandise set forth in Article 14
@@ -2320,7 +2319,7 @@ Article 18. Inspection of contents of Stored Merchandise after Load-in
 1.  During the storage period, if there is doubt regarding the Item name, quantity or Storage Precautions of the Stored Merchandise entered and submitted in the Merchandise Storage Application, the Company and Partner Warehouse Contractors may inspect the contents of the Stored Merchandise at any time.
 2.  If, based on the exterior of the Stored Merchandise, it is presumed that there is an abnormality in the contents, the Company and Partner Warehouse Contractors may inspect the contents of the Stored Merchandise.
 3.  If the Company conducts an inspection as detailed in Item 1 and Item 2 in this Article, but finds no discrepancies between the information on the Stored Merchandise Application and the actual content of the merchandise sent to the Storage Service, the Company shall bear responsibility by offering compensation for any damage to the items.
-4.  If, when an inspection is conducted pursuant to Item 1 or Item 2 of this Article, the contents of the Stored Merchandise differ from those entered and submitted in the Merchandise Storage Application, the User shall bear the costs required for the inspection.
+4.  If, when an inspection is conducted pursuant to Item 1 or Item 2 of this Article, the contents of the Stored Merchandise differ from those entered and submitted in the Merchandise Storage Application, and costs for such inspection arise, the Company shall bill the User for such costs, and the User shall promptly pay in accordance with the invoice.
 
 Article 19. Changes in storage methods
 --------------------------------------
@@ -2338,7 +2337,7 @@ Article 20. Return or disposal of merchandise unsuitable for storage
     1.  It is recognized that the Stored Merchandise has become unsuitable for storage due to alteration in quality, damage, etc.
     2.  It is recognized that the Stored Merchandise may cause damage to the warehouse or other Stored Merchandise
 2.  If the User does not perform Outbound Procedures within the period specified by the Company, the Company may, via Partner Warehouse Contractors, return or dispose of the Stored Merchandise or take other measures.
-3.  All costs of the measures in the previous Item shall be borne by the User.
+3.  The Company shall bill the User for the return shipping fees or disposal fees required for the measures in the previous Item, and the User shall promptly pay in accordance with the invoice.
 4.  If the Company takes measures as specified in Item 2 of this Article, the Company shall notify the User without delay.
 
 Article 21. Outbound Procedures for Stored Merchandise
@@ -2350,14 +2349,14 @@ Article 21. Outbound Procedures for Stored Merchandise
 Article 22. Refusal of Outbound Procedures
 ------------------------------------------
 
-1.  Until payment in full is received of all fees and costs set forth in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Additional storage fees and payment), Article 10 (Shipping fees and payment) and Article 12 (Fees and burden of responsibility), the Company may refrain from performing Outbound Procedures.
+1.  Until payment in full is received of all fees and costs set forth in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Shipping fees and payment), Article 10 (Return shipping fees and payment) and Article 12 (Fees and burden of responsibility), the Company may refrain from performing Outbound Procedures.
 2.  The company shall not be liable to compensate the User for any damages incurred if a removal application is not filed according to the stipulations in the previous Item.
 
 Article 23. Handling upon termination of the Contract
 -----------------------------------------------------
 
 1.  If the Storage Service is discontinued or the Contract terminates for any reason, the Company shall return the Stored Merchandise to the User’s address registered with the Company via Partner Warehouse Contractors.
-2.  When returning Stored Merchandise pursuant to the preceding Item, or when returning Stored Merchandise due to discontinuation of the Storage Service, the Company shall bear the return costs to the extent attributable to the Company; in cases of return other than the foregoing, such costs shall be borne by the User.
+2.  When returning Stored Merchandise pursuant to the preceding Item, or when returning Stored Merchandise due to discontinuation of the Storage Service, the Company shall bear the return costs to the extent attributable to the Company. When returning Stored Merchandise other than in cases where such return is not attributable to the Company, the Company shall bill the User for the costs related to such return, and the User shall promptly pay in accordance with the invoice.
 3.  If, after the Company has performed return procedures for the Stored Merchandise pursuant to Item 1 of this Article, the Stored Merchandise is returned to the Company or Partner Warehouse Contractors, the Company may deem that the User has abandoned ownership of the Stored Merchandise and may dispose of the same, or instruct Partner Warehouse Contractors to dispose of the same.
 
 Article 24. Termination of the Contract
@@ -2371,10 +2370,10 @@ Article 24. Termination of the Contract
     5.  Commencement of inheritance occurs with respect to the User
     6.  It becomes apparent that the Application Content is contrary to fact
     7.  It is found that the User or a person related to the User is a member of, or has transactions with, an organized crime group or a group that commits or is likely to commit organized violent illegal acts
-    8.  Fees and costs set forth in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Additional storage fees and payment), Article 10 (Shipping fees and payment) and Article 12 (Fees and burden of responsibility) are not paid by the date specified in a notice from the Company
+    8.  Fees and costs set forth in Article 6 (Storage service usage fees), Article 7 (Storage fees and payment for ordinary Stored Merchandise), Article 9 (Shipping fees and payment), Article 10 (Return shipping fees and payment) and Article 12 (Fees and burden of responsibility) are not paid by the date specified in a notice from the Company
     9.  The User refuses inspection of Stored Merchandise pursuant to Article 15
 2.  If the Company or a third party suffers damages due to any of the factors listed in the previous Item, the User shall pay compensation for the damages.
-3.  If the Contract is terminated under this Article, the Company may, at its option, immediately return or dispose of the Stored Merchandise via Partner Warehouse Contractors. If costs arise in returning or disposing of the Stored Merchandise, such costs shall be borne by the User.
+3.  If the Contract is terminated under this Article, the Company may, at its option, immediately return or dispose of the Stored Merchandise via Partner Warehouse Contractors. The Company shall bill the User for the return shipping fees related to such hand-back or the disposal fees, and the User shall promptly pay in accordance with the invoice.
 
 Article 25. Discontinuation of the Storage Service
 --------------------------------------------------
@@ -2431,6 +2430,7 @@ Supplementary Provisions
 Revision
 --------
 
+*   February 2, 2026 The entirety of the BOOTH Storage Service Individual Terms has been revised.
 *   August 28, 2025 The entirety of the BOOTH Storage Service Individual Terms has been revised.
 *   October 1, 2023 The BOOTH storage service Terms of Use have been completely revised and updated.
 *   August 14, 2023 "Article 3. Method of Use and Storage Fees" and "Article 7. Product Shipping on behalf of User and its Charges" were modified.
