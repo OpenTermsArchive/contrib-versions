@@ -238,4 +238,4 @@ Last update: 25 October, 2021
 
 [Home](http://wordfeud.com/) — [Wordfeud Dictionaries](http://wordfeud.com/dictionaries/) — [Terms of Service](http://wordfeud.com/tos/) — [Support](http://wordfeud.com/support/) — [Report a security vulnerability](http://wordfeud.com/secreport/) — [Company info (Norwegian)](http://wordfeud.com/company/)
 
-© 2025 Bertheussen IT AS
+© 2026 Bertheussen IT AS
