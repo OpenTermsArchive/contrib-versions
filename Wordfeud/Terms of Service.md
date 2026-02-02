@@ -83,4 +83,4 @@ Bertheussen IT may terminate your account and your access to the Service (or, at
 
 [Home](http://wordfeud.com/) — [Wordfeud Dictionaries](http://wordfeud.com/dictionaries/) — [Privacy Policy](http://wordfeud.com/privacy/) — [Support](http://wordfeud.com/support/) — [Report a security vulnerability](http://wordfeud.com/secreport/) — [Company info (Norwegian)](http://wordfeud.com/company/)
 
-© 2025 Bertheussen IT AS
+© 2026 Bertheussen IT AS
