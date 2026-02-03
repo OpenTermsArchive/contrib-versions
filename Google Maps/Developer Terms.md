@@ -577,6 +577,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         136.  Statistics Canada, Intercensal - Census Subdivision Boundary Files, 2025: [https://www.statcan.gc.ca/en/terms-conditions/open-licence](https://www.statcan.gc.ca/en/terms-conditions/open-licence)
               
+        137.  Ministère des Ressources naturelles et des Forêts Quebec. Découpages administratifs: ([https://mrnf.gouv.qc.ca/repertoire-geographique/couches-decoupages-administratifs/](https://mrnf.gouv.qc.ca/repertoire-geographique/couches-decoupages-administratifs/)), [https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -1588,6 +1590,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Open Data Comune di Genova: [https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations](https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations)
          *   Comune di Firenze:[https://www.comune.fi.it/i](https://www.comune.fi.it/)
          *   Comune di Verona: [https://dati.veneto.it/content/numerazione\_civica\_comune\_di\_verona](https://dati.veneto.it/content/numerazione_civica_comune_di_verona)
+         *   SardegnaGeoportale. DBGT10K\_22\_v05 - 09 Citta Metropolitana: ([https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R\_SARDEG:11111111-1111-1111-1111-111111113292](https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R_SARDEG:11111111-1111-1111-1111-111111113292)), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+         *   SardegnaGeoportale. DBGT10K\_22\_v05 - 09 Provincia: ([https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R\_SARDEG:11111111-1111-1111-1111-111111113295](https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R_SARDEG:11111111-1111-1111-1111-111111113295)), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+         *   SardegnaGeoportale. DBGT10K\_22\_v05 - 09 Comune: ([https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R\_SARDEG:11111111-1111-1111-1111-111111113293](https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R_SARDEG:11111111-1111-1111-1111-111111113293)), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     35.  **Ivory Cost (Côte d'Ivoire)**
          
          OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1603,9 +1611,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 11 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 12 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 11 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 12 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
