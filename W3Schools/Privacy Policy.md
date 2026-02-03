@@ -82,6 +82,8 @@ We use your personal information to provide you with targeted advertisements or 
 
 * * *
 
+* * *
+
 How We Share Your Information
 -----------------------------
 
