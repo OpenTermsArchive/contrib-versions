@@ -14,9 +14,7 @@ Platform Terms
 [11\. General](#general)  
 [12\. Glossary](#glossary)
 
-_Last updated August 22, 2025_
-
-We’re updating the Platform Terms. The updates go into effect on February 3, 2026. [Read the new terms](https://developers.facebook.com/terms/dfc_platform_terms/preview)
+_Last updated February 3, 2026_
 
 Meta Platform Terms
 ===================
@@ -56,7 +54,7 @@ Meta Platform Terms
         **i. _Your Content:_**
         
         *     
-            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of any information, data, and other content made available by you or on your behalf (including by your Service Providers or through your App) in connection with Platform (collectively, “Your Content”) for any business purpose in connection with operating, providing, or improving Platform or any other [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos). This license remains in effect even if you stop using Platform. Without limitation, your license to us includes: the right to incorporate Your Content into other parts of [Meta Products](https://www.facebook.com/help/1561485474074139), the right to attribute the source of Your Content using your name, trademarks, or logos; the right to use Your Content for promotional purposes, and the right to analyze Your Content (including to make sure you’re complying with these Terms and all other applicable terms and policies).
+            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of any information, data, and other content made available by you or on your behalf (including by your Service Providers or through your App) in connection with Platform (collectively, “Your Content”) for any business purpose in connection with operating, providing, or improving Platform or any other [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos). This license remains in effect even if you stop using Platform. Without limitation, your license to us includes: the right to incorporate Your Content into other parts of [Meta Products](https://www.facebook.com/help/1561485474074139), the right to attribute the source of Your Content using your name, trademarks, or logos; the right to use Your Content for promotional purposes, and the right to analyze Your Content (including to make sure you’re complying with these Terms and all other applicable terms and policies). To the extent you provide Your Content to us, you represent and warrant that such sharing is in accordance with all applicable laws and regulations, including that you have obtained and continue to maintain and provide all applicable consents, permissions, and/or disclosures required under applicable laws and regulations to enable such sharing for the purposes set forth herein.
             
         *     
             2\. If you use the Meta Business Tools to send us Business Tool Data, our use of that data is governed by the Business Tools Terms rather than the foregoing license for Your Content.
@@ -118,7 +116,7 @@ Meta Platform Terms
         v. Processing Platform Data without valid User consent in order to build or augment user profiles for any purpose.
         
     *     
-        vi. Attempting to decode, circumvent, re-identify, de-anonymize, unscramble, unencrypt, or reverse hash, or reverse-engineer Platform Data that is provided to you.
+        vi. Attempting to decode, circumvent, re-identify, de-anonymize, unscramble, unencrypt, reverse hash, or reverse-engineer Platform Data that is provided to you.
         
     *     
         vii. Changing your App’s core functionality or data Processing so that Users would view it as an unfamiliar or different App, or materially changing the scope of Processing of previously collected Platform Data, unless in each case you first re-submit your App and receive our approval through App Review.
@@ -220,7 +218,7 @@ Meta Platform Terms
     a. You will provide, maintain, and comply with a privacy policy that is available through an active, publicly available, easily accessible (including by our crawlers), and non-geoblocked URL. This URL must also be disclosed in the privacy policy field in the settings of your App Dashboard.
     
 *     
-    b. Your privacy policy must clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data.
+    b. Your privacy policy must clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data. The right to request deletion must be available to all Users who can access your App.
     
 *     
     c. You may only Process Platform Data as clearly described in your privacy policy and in accordance with all applicable law and regulations, these Terms, and all other applicable terms and policies.
@@ -339,7 +337,7 @@ Meta Platform Terms
     
     *     
         
-        i. If any of the following incidents happen, you must notify us using [this form](https://developers.facebook.com/incident/report) as soon as practicable and provide us with information we request regarding:
+        i. If any of the following incidents happen, you must notify us using [this form](https://developers.facebook.com/incident/report) as soon as practicable but no later than required under applicable laws and regulations and provide us with information we request regarding:
         
         *     
             1\. Any unauthorized (including in violation of these Terms or any other applicable terms or policies) Processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution or compromise) of Platform Data; or
@@ -454,7 +452,7 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
         iii. "Sensitive data" is personal data about a person's racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions or alleged commission of an offence;
         
     *     
-        iv. "Frequency of the transfer" is on a continuous basis to the extent required to fulfill the purpose outlined in Section 10.b.v below;
+        iv. "Frequency of the transfer" is on a continuous basis to the extent required to fulfill the purpose outlined in Section 10A.b.v below;
         
     *     
         v. "Nature and purpose of the data transfer(s)" is the provision of the App and other products and services by you to Users pursuant to the applicable terms and conditions and Privacy Policy of you and/or your Client; and
@@ -472,22 +470,19 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
 
 10B. International Transfers — UK Data Transfers
 
-This Section 10B shall apply to the extent that your Processing of Platform Data includes personal data controlled by Meta Platforms, Inc. that is subject to the UK GDPR (as defined in the UK's Data Protection Act 2018 ("DPA")) (“UK Data”) and the transfer of such UK Data to a territory outside of the United Kingdom that, at the time of such transfer, does not have a positive adequacy decision from the Secretary of State in accordance with the relevant provisions of the UK GDPR and the DPA (“UK Data Transfer”).
+This Section 10B shall apply to the extent that: (i) your Processing of Platform Data includes personal data controlled by Meta Platforms, Inc. that is subject to the UK GDPR (as defined in the UK's Data Protection Act 2018 ("DPA")) ("Meta UK Data"); and/or (ii) you share personal data with Meta Platforms, Inc. in connection with Platform that is controlled by you and subject to the UK GDPR ("Developer UK Data") (Meta UK Data and Developer UK Data, together “UK Data”) and in each case the transfer of such UK Data to a territory outside of the United Kingdom that, at the time of such transfer, does not have a positive adequacy decision from the Secretary of State in accordance with the relevant provisions of the UK GDPR and the DPA (“UK Data Transfer”).
 
-Whenever there is a UK Data Transfer, your use of UK Data is subject to your compliance with the Approved Addendum (which is hereby incorporated by reference into these Terms and is deemed to have been entered into and completed as set out below). Nothing in this Section 10A (International transfers – UK Data Transfers) is intended to vary or modify the Approved Addendum. All defined terms used below shall have the meanings given to them in the Approved Addendum. For the purpose of the Approved Addendum, the following will apply:
+Whenever there is a UK Data Transfer, your and Meta Platforms, Inc.’s use of UK Data is subject to compliance with the Approved Addendum (which is hereby incorporated by reference into these Terms and is deemed to have been entered into and completed as set out below). Nothing in this Section 10B (International transfers – UK Data Transfers) is intended to vary or modify the Approved Addendum. All defined terms used below shall have the meanings given to them in the Approved Addendum. For the purpose of the Approved Addendum, the following will apply:
 
 *     
     a. In Table 1 of the Approved Addendum, the parties' details are as follows:
     
     *     
-        i. Meta Platforms, Inc. is the "data exporter" and you are the "data importer" as defined in the Approved Addendum.
+        i. For transfers of Meta UK Data, Meta Platforms, Inc. is the "data exporter" and you are the "data importer" as defined in the Approved Addendum. For transfers of Developer UK Data, you are the "data exporter" and Meta Platforms, Inc. is the "data importer."
         
     *     
-        ii. The parties details and key contact information are:
-        
-        Meta Platforms, Inc., 1 Meta Way, Menlo Park, CA 94205, USA, and the contact person's details are as notified by the data exporter to the data importer from time to time.
-        
-        Developer's details and key contact information are your details notified to Meta Platforms, Inc. from time to time.
+        ii. The parties details and key contact information are:  
+        Meta Platforms, Inc., 1 Meta Way, Menlo Park, CA 94205, USA, and the contact person's details are as notified by Meta Platforms, Inc. to you from time to time. Developer's details and key contact information are as set out in your agreement(s) with Meta Platforms, Inc or such contact person's details as are notified by you to Meta Platforms, Inc. from time to time.
         
     *     
         iii. The parties agree that execution of these Terms by the parties shall constitute execution of the Approved Addendum.
@@ -495,30 +490,40 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
     
 
 *     
-    b. For the purposes of Table 2 of the Approved Addendum, the selected modules of the Approved EU SCCs shall be Module 1 (controller to controller).
+    b. For the purposes of Table 2 of the Approved Addendum, the selected modules of the Approved EU SCCs shall be Module 1 (controller to controller) for transfers of both Meta UK Data and Developer UK Data.
     
-    c. Table 3 of the Approved Addendum shall be populated as follows:
+    c. For transfers of Meta UK Data, Table 3 of the Approved Addendum shall be populated as follows:
     
     *     
         i. Annex 1A: List of Parties: See Table 1 references above and the activities relevant to the data transferred are as described in these Terms.
         
     *     
-        ii. Annex 1B: Description of Transfer: The information in Section 10.b shall apply, albeit references to "Meta Platforms Ireland Limited" shall be replaced with "Meta Platforms, Inc." and references to "Meta Ireland Data" shall be replaced with "UK Data".
+        ii. Annex 1B: Description of Transfer: The information in Section 10A shall apply, albeit references to "Meta Platforms Ireland Limited" shall be replaced with "Meta Platforms, Inc." and references to "Meta Ireland Data" shall be replaced with "UK Data".
         
     *     
         iii. Annex II: Technical and organizational measures: For the purposes of Annex II, you will implement and maintain [Meta's Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
         
     
 
+*   d. For transfers of Developer UK Data, Table 3 of the Approved Addendum shall be populated as follows:
+    
+    *   i. Annex 1A: List of Parties: See Table 1 references above and the activities relevant to the data transferred are as described in these Terms.
+        
+    *   ii. Annex 1B: Description of Transfer: (a) Categories of data subjects: \[TBC\] OR \[As set out in our applicable agreement(s) with you\]; (b) Categories of personal data: \[Threat indicator data, which may include telephone numbers, emails, key words and IP addresses\] OR \[As set out in our applicable agreement(s) with you\]; (c) Sensitive data: It is not anticipated that Developer UK Data will include any sensitive data; (d) Frequency of the transfer: Continuous basis for the duration of the applicable agreement(s); (e) Nature and purpose of the data transfer(s): \[Integrity investigations\] OR \[As set out in our applicable agreement(s) with you\]; and (f) Period for which personal data will be retained: In accordance with Meta Platform, Inc.’s internal data retention policies.
+        
+    *   iii. Annex II: Technical and organizational measures: For the purposes of Annex II, you will implement and maintain the [Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
+        
+    
+
 *     
-    d. In Table 4 of the UK Addendum, the data exporter may end the UK Addendum in accordance with the terms of the UK Addendum.
+    e. In Table 4 of the UK Addendum, the data exporter may end the UK Addendum in accordance with the terms of the UK Addendum.
     
 
   
 
 10C. International Transfer - Other Data Transfers
 
-The Supplementary Data Transfer Addendum forms part of, and is incorporated by reference into, these Terms and applies to certain transfers of Platform Data as set out therein. For purposes of the Supplementary Data Transfer Addendum, you and Meta Platforms, Inc. are each independent “controllers.”
+The Global Data Transfer Addendum forms part of, and is incorporated by reference into, these Terms and applies to certain transfers of Platform Data as set out therein. For purposes of the Global Data Transfer Addendum, you and Meta Platforms, Inc. are each independent “controllers.”
 
   
 
@@ -526,7 +531,7 @@ The Supplementary Data Transfer Addendum forms part of, and is incorporated by r
 ------------
 
 *     
-    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our [prior written consent](https://developers.facebook.com/docs/development/create-an-app/transfer-an-app/notify-meta/). Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, the new owner must follow [our instructions](https://developers.facebook.com/docs/development/create-an-app/transfer-an-app) before Processing Platform Data subject to these Terms.
+    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our consent. Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. For any such transfer, you must update the App Dashboard and the Business Manager.
     
 *     
     b. You also must comply with all applicable laws and regulations (including the Children’s Online Privacy Protection Act (“COPPA”) and the Video Privacy Protection Act (“VPPA”)).
@@ -549,6 +554,9 @@ The Supplementary Data Transfer Addendum forms part of, and is incorporated by r
 *     
     h. When these Terms have ended, all rights granted to you under these Terms will immediately stop and you will immediately stop using Platform. The following Sections will remain in effect after these Terms have ended: Section 2.b, Section 2.c, Section 3, Section 4, Section 5, Section 6, Section 7, Section 9, Section 10, Section 10A, Section 11, and Section 12.
     
+*     
+    i. If any portion of these Terms is found to be unenforceable, then that portion will be limited to the minimum extent necessary to remain enforceable or, if necessary, severed and the remaining portions will remain in full force and effect.
+    
 
 12\. Glossary
 -------------
@@ -557,13 +565,13 @@ The Supplementary Data Transfer Addendum forms part of, and is incorporated by r
     a. “App” means any technical integration with Platform or to which we have assigned an App identification number. Any code, APIs, SDKs, tools, plugins, bots, websites, applications, specifications, and other technology made available by you or on your behalf in connection with Platform is considered part of your App.
     
 *     
-    b. "Approved Addendum" means the International Data Transfer Addendum to the Approved EU SCCs, Version B1.0, issued by the Information Commissioner under s119A of the Data Protection Act 2018 and dated 21 March 2022, as may be amended, replaced or superseded by the Information Commissioner.
+    b. "Approved Addendum" means the International Data Transfer Addendum to the Approved EU SCCs, Version B1.0, issued by the Information Commissioner under s119A of the Data Protection Act 2018 and dated 21 March 2022, as may be amended, replaced or superseded by the Information Commissioner and which, as of the Last Updated date, is available at [https://ico.org.uk/media2/migrated/4019539/international-data-transfer-addendum.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fico.org.uk%2Fmedia2%2Fmigrated%2F4019539%2Finternational-data-transfer-addendum.pdf).
     
 *     
     c. “Audit” means a review, inspection, or audit of your and your Service Providers’ IT Systems or Records.
     
 *     
-    d. “Clauses” means the standard contractual clauses annexed to European Commission Decision (EU) 2021/914.
+    d. “Clauses” means the standard contractual clauses annexed to European Commission Decision (EU) 2021/914 and which, as of the Last Updated date, are available at [https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj](https://l.facebook.com/l.php?u=https%3A%2F%2Feur-lex.europa.eu%2Feli%2Fdec_impl%2F2021%2F914%2Foj).
     
 *     
     e. “Client” means the User of a Tech Provider’s App.
@@ -575,10 +583,13 @@ The Supplementary Data Transfer Addendum forms part of, and is incorporated by r
     g. “Developer Docs” has the meaning given in Section 1.c (“Introduction”).
     
 *     
-    h. “IT Systems” means information technology systems (real and virtual), networks, technologies, and facilities (including physical and remote access to data centers and cloud facilities) that Process Platform Data.
+    h. “Global Data Transfer Addendum” means the terms available at [https://facebook.com/legal/terms/Privacy/GDTA](https://facebook.com/legal/terms/Privacy/GDTA).
     
 *     
-    i. “Necessary Condition” means any of the following:
+    i. “IT Systems” means information technology systems (real and virtual), networks, technologies, and facilities (including physical and remote access to data centers and cloud facilities) that Process Platform Data.
+    
+*     
+    j. “Necessary Condition” means any of the following:
     
     *     
         i. it is required by applicable law, rule, or regulation or otherwise required or requested by a court order or governmental authority;
@@ -597,31 +608,28 @@ The Supplementary Data Transfer Addendum forms part of, and is incorporated by r
         
     
 *     
-    j. “Platform” has the meaning given in Section 1.a (“Introduction”).
+    k. “Platform” has the meaning given in Section 1.a (“Introduction”).
     
 *     
-    k. “Platform Data” means any information, data, or other content you obtain from us, through Platform or through your App, whether directly or indirectly and whether before, on, or after the date you agree to these Terms, including data anonymized, aggregated, or derived from such data. Platform Data includes all [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) access tokens, [app secrets](https://developers.facebook.com/docs/facebook-login/security#appsecret), Meta user IDs, email addresses, profile pictures and usernames.
+    l. “Platform Data” means any information, data, or other content you obtain from us, through Platform or through your App, whether directly or indirectly and whether before, on, or after the date you agree to these Terms, including data anonymized, aggregated, or derived from such data. Platform Data includes all [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) access tokens, [app secrets](https://developers.facebook.com/docs/facebook-login/security#appsecret), Meta user IDs, email addresses, profile pictures and usernames.
     
 *     
-    l. “Process” means any operation or set of operations performed on data or sets of data, whether or not by automated means, including use, collection, storage, sharing, or transmission.
+    m. “Process” means any operation or set of operations performed on data or sets of data, whether or not by automated means, including use, collection, storage, sharing, or transmission.
     
 *     
-    m. “Prohibited Practices” has the meaning given in Section 3.a (“Prohibited Practices”).
+    n. “Prohibited Practices” has the meaning given in Section 3.a (“Prohibited Practices”).
     
 *     
-    n. "Records” mean books, agreements, access logs, third-party reports, policies, processes, and other records regarding the Processing of Platform Data.
+    o. "Records” mean books, agreements, access logs, third-party reports, policies, processes, and other records regarding the Processing of Platform Data.
     
 *     
-    o. “Restricted Platform Data” means Platform Data that (i) reasonably can be used to identify a particular User or device; (ii) is accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/); or (iii) we otherwise designate as Restricted. Notwithstanding the foregoing, Restricted Platform Data does not include data that can be accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/).
+    p. “Restricted Platform Data” means Platform Data that (i) reasonably can be used to identify a particular User or device; (ii) is accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/); or (iii) we otherwise designate as Restricted. Notwithstanding the foregoing, Restricted Platform Data does not include data that can be accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/).
     
 *     
-    p. “SDKs” means any object code, source code, or documentation you receive from us that helps you create Apps or content for use with the Platform.
+    q. “SDKs” means any object code, source code, or documentation you receive from us that helps you create Apps or content for use with the Platform.
     
 *     
-    q. “Service Provider” means an entity you use to provide you services in connection with Platform or any Platform Data.
-    
-*     
-    r. “Supplementary Data Transfer Addendum” means the terms available at https://www.facebook.com/legal/terms/Privacy/Transfers.
+    r. “Service Provider” means an entity you use to provide you services in connection with Platform or any Platform Data.
     
 *     
     s. “Tech Provider” means a Developer of an App whose primary purpose is to enable Users thereof to access and use Platform or Platform Data.
