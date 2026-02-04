@@ -1,7 +1,7 @@
 Viber Ads, Cookies & Tracking Technologies Policy
 =================================================
 
-_Last Updated: August 04, 2025_
+_Last Updated: February 04, 2026_
 
 Viber Media S.à r.l., its subsidiaries and affiliated companies (collectively, “**Viber**”, “**we**”, “**our**”, or “**us**”) maintain our websites available at: [**www.viber.com**](http://www.viber.com/) and [**www.forbusiness.viber.com**](http://www.forbusiness.viber.com/), and our mobile applications, services and tools (collectively, the “**Services**”, and as further detailed under **[Viber’s Terms of Service](https://www.viber.com/en/terms/viber-terms-use/)**).
 
@@ -69,11 +69,12 @@ The following tables set out details of the third-party Cookies we use as part o
 | Braze | In app usage, conversion tracking | For privacy information and to opt-out, go to:<br><br>[https://www.braze.com/preferences/#cookie-consent-tool](https://www.braze.com/preferences/#cookie-consent-tool) |
 | Survey Monkey | Surveys | For privacy information, go to:<br><br>[https://www.surveymonkey.com/mp/legal/privacy/](https://www.surveymonkey.com/mp/legal/privacy/)<br><br>To opt-out, visit:<br><br>[https://help.surveymonkey.com/en/surveymonkey/account/opt-out/](https://help.surveymonkey.com/en/surveymonkey/account/opt-out/) |
 | Google Ads | User acquisition, conversion | For privacy information, go to:<br><br>[https://policies.google.com/privacy?hl=en-US#infochoices](https://policies.google.com/privacy?hl=en-US#infochoices)<br><br>To opt out, visit:<br><br>[https://policies.google.com/technologies/ads?hl= en-US](https://policies.google.com/technologies/ads?hl=%20en-US)<br><br>For additional information regarding our use of Google products, visit:<br><br>[https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) |
-| Criteo | User acquisition, conversion | For privacy information, go to:<br><br>[https://www.criteo.com/privacy](https://www.criteo.com/privacy)<br><br>To opt out, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers)<br><br>For additional information, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/) |
+| Criteo | User acquisition, conversion, advertising | For privacy information, go to:<br><br>[https://www.criteo.com/privacy](https://www.criteo.com/privacy)<br><br>To opt out, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers)<br><br>For additional information, visit:<br><br>[https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/) |
 | Huawei Mobile Services Core (HMS Core) | Supporting Huawei Mobile services (e.g. Supporting push messages and location sharing) | For Privacy Information, go to:<br><br>[https://consumer.huawei.com/sa-en/privacy/privacy-policy/](https://consumer.huawei.com/sa-en/privacy/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version](https://consumer.huawei.com/ie/support/content/en-gb15841692/#:~:text=If%20you%20are%20not%20aquianted,Core%20to%20its%20factory%20version) |
 | Meta Audience Network | Advertising | For Privacy Information, go to:<br><br>[https://www.facebook.com/privacy/policy/?entry\_point=data\_policy\_redirect&entry=0](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)<br><br>For additional information, go to:<br><br>[https://accountscenter.facebook.com/ad\_preferences/ad\_settings/](https://accountscenter.facebook.com/ad_preferences/ad_settings/) |
-| Amazon Publisher Services (mobile) and Amazon Apstag (desktop) | Advertising | For Privacy Information, go to:<br><br>[https://aps.amazon.com/aps/privacy-policy/](https://aps.amazon.com/aps/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://www.amazon.com/adprefs](https://www.amazon.com/adprefs) |
+| Amazon Publisher Services (Amazon Apstag – desktop) | Advertising | For Privacy Information, go to:<br><br>[https://aps.amazon.com/aps/privacy-policy/](https://aps.amazon.com/aps/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://www.amazon.com/adprefs](https://www.amazon.com/adprefs) |
 | Snap Inc. | Viber Lenses feature | Viber Lenses are an augmented reality tool powered by Snap technology.<br><br>For Privacy Information, go to:<br><br>[https://values.snap.com/privacy/privacy-policy?lang=en-US](https://values.snap.com/privacy/privacy-policy?lang=en-US) |
+| The Trade Desk | Advertising | For privacy information, go to: [https://www.thetradedesk.com/us/privacy](https://www.thetradedesk.com/us/privacy)<br><br>To opt-out of UID2, visit: [https://www.transparentadvertising.com/](https://www.transparentadvertising.com/) |
 
 **Cookies we use on our main website (**[**www.viber.com**](http://www.viber.com/)**):**  
 
@@ -128,11 +129,15 @@ To make our ads relevant, we use information we learn about you and that our adv
 
 Information that is **provided by you:** includes your identifiers such as your mobile phone number country code (from where we are able to know your country level location), personal details provided at registration (e.g. name, age or age range), and, with your permission, GPS location data (which you can withdraw at any time in your device settings, or, if you are a user in the EEA or UK, via controlling your manage ad preferences under Viber personal data settings).
 
-Information we **automatically collect** from you: including through Cookies and tracking technologies, includes location (city or country level extracted from the IP address), Unique Identifiers, your activity data within the App and Service based on your engagement with communities, channels, bots, dating services, businesses and links you interact with inside Viber (e.g. data about the communities, business accounts, dating profiles and channels you visit, follow or manage, messages you like, messages you send, the content you post or view, links you click on), and contextual information based on device information, such as your OS, language selection, etc.
+Information we **automatically collect** from you:  including through Cookies and tracking technologies, includes location (city or country level extracted from the IP address), Unique Identifiers, your activity data within the App and Service based on your engagement with communities, channels, bots, dating services, businesses and links you interact with inside Viber (e.g. data about the communities, business accounts, dating profiles and channels you visit, follow or manage, messages you like, messages you send, the content you post or view, links you click on), and contextual information based on device information, such as your OS, language selection, etc.
 
-Information we **infer** based on your activities: such as your age range (for example 20-30), your gender and your interests.
+We participate in Unified ID 2.0 (“UID2”), an advertising framework operated by The Trade Desk. As part of this framework, we may convert your phone number into a hashed and encrypted identifier (a “UID2 Token”) that is used by us and our advertising partners to deliver more relevant advertisements. This hashed identifier is designed to enable targeted advertising without directly sharing your phone number with advertisers. You can opt out of UID2-based advertising at any time by visiting https://www.transparentadvertising.com/ and entering your phone number or email address. If you opt out, your identifier will no longer be used for UID2-based targeted advertising.
 
-Information we **receive**: We may receive data associated with your Unique Identifier from trusted third parties, which is used to show you more relevant ads and content on our Services or for better advertising analytics, based on information and your activity collected by such third parties on other websites and services outside Viber. This means that the Unique Identifier associated with your device could be linked to certain characteristics and interests as part of our aggregated segmentation groups for advertising purposes.
+We may also work with other advertising partners who use similar hashed identifier technologies to deliver relevant advertisements.
+
+Information we **infer** based on your activities: such as your age range (for example 20-30), your gender and your interests.
+
+Information we **receive**: We may receive data associated with your Unique Identifier from trusted third parties, which is used to show you more relevant ads and content on our Services or for better advertising analytics, based on information and your activity collected by such third parties on other websites and services outside Viber. This means that the Unique Identifier associated with your device could be linked to certain characteristics and interests as part of our aggregated segmentation groups for advertising purposes.
 
 We also use Unique Identifiers for our own marketing and advertising campaigns, to make them more relevant and meaningful to you, and to track the efficiency and analyze these campaigns, both on our Services and on other websites or mobile apps.
 
@@ -198,6 +203,8 @@ Viber participates in the IAB Europe Transparency & Consent Framework and compli
 
 In the US, Viber follows the [Policy Framework for Addressable Media Identifiers](https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/AMI_Principles_Booklet.pdf) (by Digital Advertising Alliance).
 
+UID2 Opt-Out: To opt out of advertising based on Unified ID 2.0 (UID2), visit The Trade Desk’s Transparency Portal at **[https://www.transparentadvertising.com/](https://www.transparentadvertising.com/).** You can enter your phone number or email address to opt out of UID2-based targeted advertising across all participating companies.
+
 [Back to top](#top)  
 
 ###### **Additional Information – Types of Tracking Technologies and Unique Identifiers**   
@@ -227,6 +234,6 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy August 2025 [**Viber Cookies Policy August 2025**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-August-20251.pdf)
+Current Cookies policy February 2026 [**Viber Cookies Policy February 2026**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-February-2026.pdf)
 
-Previous Cookies policy March 2025 [**Viber Cookies Policy March 2025**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2025.pdf)
+Previous Cookies policy August 2025 [**Viber Cookies Policy August 2025**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-August-20251.pdf)
