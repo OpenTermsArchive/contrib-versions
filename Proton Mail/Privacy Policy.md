@@ -32,7 +32,7 @@ Our overriding policy is to collect as little user information (personal data in
 
 Data collection is limited to the following:
 
-**2.1 Visiting proton.me or protonvpn.com website:** We employ a local installation of self-developed analytics tools. Analytics are anonymized whenever possible and stored locally (and not on the cloud). IP addresses are not retained and stored for such analytics.
+**2.1 Visiting proton.me or protonvpn.com website:** We employ a local installation of self-developed analytics tools. Analytics are anonymized whenever possible and stored locally (and not on the cloud). IP addresses are not retained and stored for such analytics. Third-party services may process your data to deliver images displayed on our website.
 
 **2.2 Account creation**: Depending on the Services you want to use, you can either create a Proton account with a Proton Mail address, or use an external (non-Proton) address. 
 
