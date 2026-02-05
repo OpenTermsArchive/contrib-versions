@@ -62,3 +62,5 @@ If we fail to enforce any of our Terms, that does not mean we waive the right to
 * * *
 
 Effective as of May 25, 2018
+
+Updated May 25, 2018
