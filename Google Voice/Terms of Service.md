@@ -9,7 +9,7 @@ If you have a Google Voice number, it will appear on the recipient's caller ID. 
 
 ### Emergency calls
 
-You understand and agree that Google Voice is an enhanced call management application and that Google Voice isn't capable of placing or receiving emergency service calls. In addition, if you haven't set up a Google Voice number but you're using Google Voice to call a public-safety answering point (PSAP), then the PSAP  see a generic number or the word 'unknown' on your caller ID and might not be able to call you back.
+You understand and agree that Google Voice is an enhanced call management application and that Google Voice isn't capable of placing or receiving emergency service calls. In addition, if you haven't set up a Google Voice number but you're using Google Voice to call a public safety answering point (PSAP), then the PSAP gets a generic number or the word 'unknown' on your caller ID and might not be able to call you back.
 
 ### Google's proprietary rights
 
@@ -28,6 +28,12 @@ You may purchase prepaid credits to be used for Google Voice services. Google is
 Unless prohibited by law, any outbound calling credit that you've purchased expires six months from the most recent date of use, and may not be transferred.
 
 Calling credit may be used for calls made using the Service.
+
+### Taxes
+
+You are responsible for any taxes and will pay any fees for the Service without reduction for taxes. If Google is obligated to collect or pay any taxes, Google will invoice the taxes to you and you are responsible for paying such taxes to Google, unless you provide Google with a timely and valid tax exemption certificate for such taxes.
+
+You will provide Google with any applicable tax identification information that Google may require under applicable law to ensure its compliance with applicable tax regulations and authorities in applicable jurisdictions. You will be responsible for paying (or reimbursing Google for) any taxes, interest, penalties or fines arising out of any mis-declaration that you have made.
 
 ### General
 
