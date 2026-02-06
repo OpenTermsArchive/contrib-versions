@@ -8,7 +8,7 @@ DE LA PLATEFORME « Cdiscount Marketplace »
 
 
 
-Version du 01/02/2022
+Version du 01/12/2023
 
 
 
@@ -64,7 +64,7 @@ SOMMAIRE
 
 
 
-3. Parcours commande
+3. Parcours de commande
 
 
 
@@ -107,6 +107,10 @@ SOMMAIRE
 
 
 10. Droit applicable et règlement des différends
+
+
+
+11. Autorités nationales et sécurité des produits
 
 3
 
@@ -180,7 +184,7 @@ l’Acheteur sous 2 jours ouvrés.
 
 
 
-3. Parcours commande
+3. Parcours de commande
 
 
 
@@ -734,7 +738,7 @@ une question au Vendeur en utilisant la fonctionnalité « Poser une question su
 
 Le Vendeur reste tenu envers l’Acheteur consommateur de la garantie légale de conformité de 24 mois
 
-(articles L.217-4 et suivants du Code de la consommation) et de la garantie des vices cachés
+(articles L.217-3 et suivants du Code de la consommation) et de la garantie des vices cachés
 
 (articles 1641 et suivants du Code civil).
 
@@ -940,9 +944,13 @@ invitons à consulter la Politique de Protection des Données Personnelles de Cd
 
 
 
-CDISCOUNT adhère à la Fédération du e-commerce et de la vente à distance (FEVAD) et au service de
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des
 
-médiation du e-commerce (60 rue la Boétie – 75008 PARIS – relationconso@fevad.com).
+litiges, CDISCOUNT adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-
+
+commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la
+
+consommation FEVAD – BP 20015 – 75362 PARIS CEDEX 8 – https ://www.mediateurfevad.fr.
 
 
 
@@ -985,3 +993,33 @@ illégale ou inopposable par une décision de justice, les autres stipulations r
 Les présentes CGU sont régies par le droit français. Tout litige y afférent sera soumis aux juridictions
 
 françaises.
+
+
+
+11. Autorités nationales et sécurité des produits
+
+
+
+Tout Acheteur peut, en cas de plainte relative à la sécurité des produits, contacter l’autorité nationale
+
+de protection des consommateurs et de surveillance du marché. Il s’agit en France de la Direction
+
+générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF).
+
+
+
+Il est également possible de contacter le Centre Européen des Consommateurs France (CEC France –
+
+https://www.europe-consommateurs.eu/index.html).
+
+
+
+Pour plus d’informations, sont disponibles les sites internet suivants :
+
+
+
+- Safety Gate (anciennement « RAPEX ») : https://ec.europa.eu/safety-gate-
+
+alerts/screen/webReport ;
+
+- Rappel Conso : https://rappel.conso.gouv.fr/.
