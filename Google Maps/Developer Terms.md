@@ -250,6 +250,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   STIB Open Data license Brussels - [https://statbel.fgov.be/sites/default/files/files/opendata/Licence open data\_EN.pdf](https://statbel.fgov.be/sites/default/files/files/opendata/Licence%20open%20data_EN.pdf)
             
+        *   Open Data Portal for Belgian Public Transport - [https://data.belgianmobility.io/terms.html](https://data.belgianmobility.io/terms.html), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     7.  **Belgium**
         *   GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -683,6 +685,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Bundesamt für Landestopografie swisstopo: [https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices)
              
          *   Finnish Environment Institute: [https://www.syke.fi/en/environmental-data/use-license-and-responsibilities](https://www.syke.fi/en/environmental-data/use-license-and-responsibilities)
+             
+         *   Digitraffic. Fintraffic / digitraffic.fi, license CC 4.0 BY: [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
              
     19.  **France and Monaco**
          *   © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
@@ -2243,6 +2247,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Taiwan Map Service: [https://maps.nlsc.gov.tw/MbIndex\_qryPage.action?fun=4&language=EN#](https://maps.nlsc.gov.tw/MbIndex_qryPage.action?fun=4&language=EN#)
              
          *   Data Gov TW: [https://data.gov.tw/en/licenses](https://data.gov.tw/en/licenses)
+             
+         *   Data Gov TW. Kaohsiung City 2025 House Coordinates - TWD97. License: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
+             
+         *   Data Gov TW. Tainan City Government, Address Coordinates 2026. License: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
              
     65.  **Timor-Leste**
          
