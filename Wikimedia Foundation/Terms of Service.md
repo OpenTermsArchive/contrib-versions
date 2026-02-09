@@ -139,7 +139,7 @@ Other languages:
 *   [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (99% translated)")
 *   [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
 *   [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "I Want hacker counts (3% translated)")
-*   [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (94% translated)")
+*   [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "سياسة: شروط الاستخدام (97% translated)")
 *   [جهلسری بلوچی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bcc "سیاست:کاربندگءِ ڈؤل (5% translated)")
 *   [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "شرایط استفاده (26% translated)")
 *   [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "شروط الاستخدام (3% translated)")
