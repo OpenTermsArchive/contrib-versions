@@ -135,11 +135,11 @@ If you are a Starlink enterprise subscriber, please consult your account adminis
 EEA+ Privacy Notice
 ===================
 
-_Last updated: November 1, 2022_
+_Last updated: January 30, 2026_
 
-If you are located in the **European Economic Area**, **the United Kingdom**, or **Switzerland (EEA+)**, and access our website, subscribe for Starlink services in your personal capacity, or use Starlink services as an authorized user of an organization that subscribes for Starlink services, this EEA+ Privacy Notice applies to you.
+This EEA+ Privacy notice is a continuation of our Global Privacy Policy, provides additional, region-specific information, and applies to you if you are located in the **European Economic Area**, **the United Kingdom**, or **Switzerland (EEA+)**, and access our website, subscribe for Starlink services in your personal capacity, or use Starlink services as an authorized user of an organization that subscribes for Starlink Services as set out in Starlink's Global Privacy Policy.
 
-As mentioned in our other privacy disclosures, we don’t sell your personal information, but the data protection laws of the EEA+, including the EU General Data Protection Regulation and the so-called UK GDPR (together, “GDPR”), require us to provide information about our data processing practices to certain people in the EEA+.
+The data protection laws of the EEA+, including the EU General Data Protection Regulation and the so-called UK GDPR (together, “GDPR”), require us to provide information about our data processing practices to certain people in the EEA+.
 
 1.  #### WHO IS THE DATA CONTROLLER?
     
@@ -153,7 +153,7 @@ As mentioned in our other privacy disclosures, we don’t sell your personal inf
     
 2.  #### WHAT ARE OUR LEGAL BASES FOR PROCESSING PERSONAL DATA?
     
-    We rely on the following legal bases to process your personal data, as appropriate:
+    We rely on the following legal bases to process your personal data, as further specified in our Global Privacy Policy, where appropriate:
     
     *   necessary for us to perform a contract with you or take steps at your request prior to entering into a contract (“**Contract Performance Legal Basis**”), to comply with an applicable legal obligation (“**Legal Obligations Legal Basis**”), or to realize a legitimate interest based on an assessment of that interest and your privacy and other fundamental interests (“**Legitimate Interest Legal Basis**”); and
         
@@ -173,6 +173,7 @@ As mentioned in our other privacy disclosures, we don’t sell your personal inf
     | Disclose your personal data to our service providers (i.e., processors) as necessary to achieve the above purposes | *   The lawful bases listed above apply to any disclosure necessary to further the corresponding purpose. |
     | Disclose your personal data to a prospective or actual purchaser or seller in the context of a merger, acquisition or other reorganization or sale of our business or assets. | *   If the confidential processing of your personal data is necessary for us to evaluate or execute such a transaction while protecting our trade secrets or sensitive business information and your privacy interests to do not override such interests, Legitimate Interest Legal Basis based on the pursuit of such legitimate interests.<br>*   Otherwise, we will obtain your consent and rely on the Consent Legal Basis. |
     | Disclose your personal data to courts, law enforcement or regulatory authorities as permitted or required by applicable law. | *   If necessary to comply with applicable laws, Legal Obligations Legal Basis per applicable laws.<br>*   In all other applicable cases, Legitimate Interest Legal Basis to prevent fraud, danger or other unlawful conduct, and to defend our legitimate legal interests. |
+    | To disclose your information to our affiliates and trusted third-party collaborators who may use such information to improve our customer service tooling and/or train their artificial intelligence models, whether generative or otherwise.. | *   We process your personal data on the Consent Legal Basis where you have actively chosen to share your personal data for AI model training. You may adjust your sharing preferences by navigating to your account’s user settings, clicking “Edit Profile,” and checking the relevant option. In all other cases, we process your personal data based on the Legitimate Interests legal basis to help us develop AI-enabled tools that improve our services and our customers’ experiences when using our service. |
     
 3.  #### HOW DO WE PROTECT PERSONAL DATA IF WE TRANSFER IT INTERNATIONALLY?
     
