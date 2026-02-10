@@ -378,6 +378,6 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=538102](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=538102)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=549863](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=549863)"
 
 :
