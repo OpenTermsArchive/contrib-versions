@@ -300,7 +300,7 @@ Cdiscount, en partenariat avec FLOA Bank, peut vous proposer, pour certains prod
 4.1.3 Paiement rapide  
   
 (a) Paiement Flash  
-Ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
+Ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées é la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
 
 (b) Par Paypal :  
 La commande peut être réglée par PayPal. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).
