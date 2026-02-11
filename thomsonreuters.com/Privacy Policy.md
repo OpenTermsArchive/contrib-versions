@@ -1,3 +1,236 @@
+[Skip to main content](#mainContent)
+
+[](https://www.thomsonreuters.com/en)
+
+*   Solutions
+*   Products
+*   Purchase
+*   Resources
+
+*   [](https://www.thomsonreuters.com/en/search-results)
+
+Back
+
+Solutions
+---------
+
+### Law firms
+
+*   [AI for legal](https://legal.thomsonreuters.com/en/legal/legal-ai)
+*   [Legal research & guidance](https://legal.thomsonreuters.com/en/legal/legal-research-guidance)
+*   [Legal forms](https://legal.thomsonreuters.com/en/legal/legal-forms)
+*   [Business development](https://legal.thomsonreuters.com/en/legal/business-development)
+*   [Legal data & document management](https://legal.thomsonreuters.com/en/legal/data-document-management)
+*   [Business practice & procedure](https://legal.thomsonreuters.com/en/legal/corporate-business-organization)
+*   [Drafting software, service & guidance](https://legal.thomsonreuters.com/en/legal/drafting-software-service-guidance)
+*   [Evidence](https://legal.thomsonreuters.com/en/legal/evidence)
+*   [Trial readiness, process & case guidance](https://legal.thomsonreuters.com/en/legal/trial-readiness-process-case-guidance)
+
+### Tax, audit & accounting firms
+
+*   [Audit & accounting](https://tax.thomsonreuters.com/en/tax-accounting/audit-accounting)
+*   [Tax planning & preparation](https://tax.thomsonreuters.com/en/tax-accounting/tax-planning-preparation)
+*   [Tax research & guidance](https://tax.thomsonreuters.com/en/tax-accounting/tax-research-guidance)
+*   [Data & document management](https://tax.thomsonreuters.com/en/tax-accounting/data-document-management)
+*   [Financial planning & analysis](https://tax.thomsonreuters.com/en/tax-accounting/financial-planning-analysis)
+*   [Estate planning](https://tax.thomsonreuters.com/en/tax-accounting/estate-planning)
+*   [Practice management & growth](https://tax.thomsonreuters.com/en/tax-accounting/practice-management-growth)
+*   [Professional development & education](https://tax.thomsonreuters.com/en/tax-accounting/professional-development-education)
+
+### Corporations
+
+*   [All corporate solutions](https://www.thomsonreuters.com/en/products-services/corporate-solutions)
+
+### Governments
+
+*   [All government solutions](https://www.thomsonreuters.com/en/products-services/government)
+
+### Success stories
+
+*   [A true competitive advantage
+    
+    Law firm Zarwin Baum’s embrace of generative AI as the natural next step in the evolution of legal work and their adoption of CoCounsel Legal has helped them achieve remarkable efficiency gains and improved client relationships.](https://legal.thomsonreuters.com/en/insights/case-studies/zarwin-baum-experiences-the-transformative-power-of-genai-in-cocounsel)
+*   [Workflow transformation drives impact
+    
+    Brinks, a global leader in secure logistics and security solutions, used CoCounsel to reimagine what was possible with AI tools, turning legal challenges into a competitive advantage.](https://legal.thomsonreuters.com/en/insights/case-studies/cocounsel-empowers-brinks-to-transform-legal-workflows-and-drive-impact)
+*   [The forefront of audit tech
+    
+    A better auditing workflow solution was the answer to multiple challenges faced by The Mercadien Group. Find out how they achieved greater efficiency by embracing Cloud Audit Suite.](https://tax.thomsonreuters.com/en/insights/case-studies/mercadien-and-thomson-reuters-partnership)
+
+*   [Partnership program](https://www.thomsonreuters.com/en/partners)
+*   [Partner directory](https://www.thomsonreuters.com/en/partners/partner-directory)
+
+Questions? We are here to help.
+
+[Contact us](https://www.thomsonreuters.com/en/contact-us "Contact us")
+
+Back
+
+Products
+--------
+
+### Legal
+
+*   [CoCounsel Legal](https://legal.thomsonreuters.com/en/products/cocounsel-legal)
+*   [HighQ](https://legal.thomsonreuters.com/en/products/highq)
+*   [Legal Tracker](https://legal.thomsonreuters.com/en/products/legal-tracker)
+*   [Practical Law](https://legal.thomsonreuters.com/en/products/practical-law)
+*   [Westlaw Advantage](https://legal.thomsonreuters.com/en/products/westlaw-advantage)
+*   [Westlaw Edge](https://legal.thomsonreuters.com/en/products/westlaw-edge)
+*   [View all](https://legal.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Legal)
+
+### Trade & supply
+
+*   [ONESOURCE Foreign Trade Zone Management](https://tax.thomsonreuters.com/en/products/onesource-foreign-trade-zone-management)
+*   [ONESOURCE Global Classification AI](https://tax.thomsonreuters.com/en/products/onesource-global-classification-ai)
+*   [View all](https://tax.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=International%20trade%20%26%20supply%20chain&sortCriteria=relevancy)
+
+### Tax, audit & accounting
+
+*   [1040SCAN](https://tax.thomsonreuters.com/en/products/1040scan)
+*   [Audit Intelligence Analyze](https://tax.thomsonreuters.com/en/products/audit-intelligence-analyze)
+*   [CoCounsel Audit](https://tax.thomsonreuters.com/en/products/cocounsel-audit)
+*   [CoCounsel Tax](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
+*   [Ready to Advise](https://tax.thomsonreuters.com/en/products/ready-to-advise)
+*   [Ready to Review](https://tax.thomsonreuters.com/en/products/ready-to-review)
+*   [View all](https://tax.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Tax%20%26%20accounting)
+
+### Corporate tax
+
+*   [CoCounsel Tax](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
+*   [ONESOURCE Determination](https://tax.thomsonreuters.com/en/products/onesource-determination)
+*   [ONESOURCE Income Tax](https://tax.thomsonreuters.com/en/products/onesource-income-tax)
+*   [ONESOURCE Indirect Compliance](https://tax.thomsonreuters.com/en/onesource/indirect-tax/compliance)
+*   [ONESOURCE Pagero](https://tax.thomsonreuters.com/en/products/onesource-pagero)
+*   [ONESOURCE Tax Provision](https://tax.thomsonreuters.com/en/onesource/tax-provision)
+*   [View all](https://tax.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Tax%20%26%20accounting)
+
+### Risk & fraud
+
+*   [CLEAR](https://legal.thomsonreuters.com/en/products/clear)
+*   [CLEAR Adverse Media](https://legal.thomsonreuters.com/en/products/clear-adverse-media)
+*   [CLEAR ID Confirm](https://legal.thomsonreuters.com/en/products/clear-id-confirm)
+*   [CLEAR Risk Inform](https://legal.thomsonreuters.com/en/products/clear-risk-inform)
+*   [CLEAR Skip Tracing](https://legal.thomsonreuters.com/en/products/clear-skip-tracing)
+*   [Fraud Detect](https://legal.thomsonreuters.com/en/products/fraud-detect)
+*   [View all](https://legal.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Risk%2C%20fraud%20%26%20investigations&sortCriteria=relevancy)
+
+### Books
+
+*   [Legal books](https://store.legal.thomsonreuters.com/en-us/home)
+*   [Tax books](https://store.tax.thomsonreuters.com/accounting/)
+
+### Recommended products
+
+*   [CoCounsel Legal
+    
+    Transform your work with the only AI legal solution uniting research, drafting, and document analysis in a single experience. Designed by legal experts and built on trusted content and advanced AI, CoCounsel Legal accelerates multistep work so you can better serve your clients and grow your business.](https://legal.thomsonreuters.com/en/products/cocounsel-legal)
+*   [CoCounsel Tax
+    
+    Transform your tax practice with CoCounsel Tax, an AI-powered assistant that combines trustworthy answers, automation, and firm knowledge into one seamless platform. Enhance efficiency, reduce risk, and improve client confidence with CoCounsel Tax.](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
+*   [CLEAR
+    
+    Powerful software designed for law enforcement, compliance, risk, and fraud investigators. Conduct thorough investigations with ease using our intuitive online investigation software. Efficiently, prevent, detect, and solve crime.](https://legal.thomsonreuters.com/en/products/clear)
+
+Questions? We are here to help.
+
+[Contact us](https://www.thomsonreuters.com/en/contact-us "Contact us")
+
+Back
+
+Purchase
+--------
+
+### Buy solutions
+
+*   [CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-essentials/plans-pricing)
+*   [CoCounsel Legal](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/700/plans-pricing)
+*   [Practical Law](https://sales.legalsolutions.thomsonreuters.com/en-us/products/practical-law/plans-pricing)
+*   [Practical Law Dynamic Tool Set with CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/500/plans-pricing)
+*   [Westlaw Advantage](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-advantage/plans-pricing)
+*   [Westlaw Advantage with CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/300/plans-pricing)
+*   [Westlaw Edge](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge/plans-pricing)
+*   [Westlaw Edge with AI-Assisted Research](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edgeAAR/plans-pricing)
+
+### Buy books
+
+*   [Legal books](https://store.legal.thomsonreuters.com/en-us/home)
+*   [Tax books](https://store.tax.thomsonreuters.com/accounting/)
+
+### Contact sales
+
+*   [For legal products](https://legal.thomsonreuters.com/en/contact-sales)
+*   [For tax products](https://tax.thomsonreuters.com/en/contact-sales)
+
+### Questions? We are here to help.
+
+[Contact us](https://www.thomsonreuters.com/en/contact-us "Contact us")
+
+Back
+
+Resources
+---------
+
+### Insights
+
+*   [Thomson Reuters Institute](https://www.thomsonreuters.com/en/institute)
+*   [Innovation @ Thomson Reuters](https://www.thomsonreuters.com/en-us/posts/innovation/)
+*   [Legal insights](https://legal.thomsonreuters.com/en/insights#t=insights&sort=%40tr_wpublishedtime%20descending)
+*   [Tax insights](https://tax.thomsonreuters.com/en/insights#t=insights&sort=%40tr_wpublishedtime%20descending&numberOfResults=12)
+
+### Events
+
+*   [Upcoming events](https://www.thomsonreuters.com/en-us/posts/events/)
+*   [On-demand webinars](https://www.thomsonreuters.com/en-us/posts/on-demand-webinars/)
+
+### Product training
+
+*   [Legal learning hub](https://training.legalprofessionals.thomsonreuters.com/learn/signin)
+*   [Tax & accounting professional services](https://tax.thomsonreuters.com/us/en/cs-professional-suite/professional-services)
+*   [On-demand learning](https://training.thomsonreuters.com/)
+*   [ONESOURCE University](https://tax.thomsonreuters.com/en/onesource/services/onesource-university)
+
+### Product communities
+
+*   [Legal](https://community.thomsonreuters.com/legal/)
+*   [Tax & accounting](https://community.thomsonreuters.com/tax-accounting/)
+*   [All communities](https://community.thomsonreuters.com/)
+
+### Developers
+
+*   [Developer portal](https://developers.thomsonreuters.com/pages/home)
+*   [API catalog](https://developers.thomsonreuters.com/pages/api-catalog?tab=messages&numberOfResults=10)
+*   [Use case library](https://developers.thomsonreuters.com/pages/use-case-library?tab=messages&numberOfResults=10)
+*   [Communities](https://community.thomsonreuters.com/developers/)
+
+### Highlights
+
+*   [2026 SKILLS showcase
+    
+    Join weekly sessions to experience in-depth demonstrations of the leading legal AI products while connecting with strategic law firm leaders in knowledge management, innovation, and AI.](https://skills.law/)
+*   [Ghosts on the ledger
+    
+    Payroll fraud is a major compliance risk. Learn how payroll analytics and AI-powered tools can help exorcise phantom employees and employers.](https://tax.thomsonreuters.com/news/ghosts-on-the-ledger-how-payroll-analytics-can-help-exorcise-phantom-employees-and-employers/)
+*   [Future of professionals report 2025
+    
+    The Thomson Reuters Future of Professionals Report 2025 reveals how AI continues to shape professional work — and what it takes to get ahead. This year’s report shows that increased efficiency, productivity, and cost savings top the list of benefits professionals attribute to AI, making it indispensable for organizations facing rapid change.](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/reports/future-of-professionals-report-2025.pdf)
+
+[Help](https://www.thomsonreuters.com/en-us/help.html)
+
+### Help
+
+*   [Product help](https://www.thomsonreuters.com/en-us/help.html)
+*   [Communities](https://community.thomsonreuters.com/)
+*   [Account management](https://www.thomsonreuters.com/en-us/help/account-management)
+
+### Learn
+
+*   [Legal Learning Hub](https://training.legalprofessionals.thomsonreuters.com/learn/signin)
+*   [ONESOURCE University](https://tax.thomsonreuters.com/en/onesource/services/onesource-university)
+*   [Tax & Accounting Professional Services](https://tax.thomsonreuters.com/us/en/cs-professional-suite/professional-services#clo)
+
+[Sign into your products](https://www.thomsonreuters.com/en/login "Sign into your products") [Sign in to manage account](https://www.thomsonreuters.com/en/account-management "Sign in to manage account")
+
 Thomson Reuters Privacy Statement
 =================================
 
@@ -523,3 +756,70 @@ To submit a request, you can contact us through our [Data Subject Rights Portal]
 If you wish to exercise your rights or have any comments, complaints or questions on or about this Privacy Statement, this China Statement and/or our processing of your personal information, please email us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com "privacy.issues@thomsonreuters.com").
 
 We last updated this China Statement on September 27, 2024.
+
+*   About us
+    
+    ### About us
+    
+    *   [About Thomson Reuters](https://www.thomsonreuters.com/en/about-us)
+    *   [Annual report](https://ir.thomsonreuters.com/financial-information/annual-reports)
+    *   [Careers](https://www.thomsonreuters.com/en/careers)
+    *   [Digital accessibility](https://www.thomsonreuters.com/en/policies/digital-accessibility-policy)
+    *   [Investor relations](https://ir.thomsonreuters.com/)
+    *   [Our purpose](https://www.thomsonreuters.com/en/about-us/our-purpose)
+    *   [Press releases](https://www.thomsonreuters.com/en/press-releases#t=pressreleases&sort=%40tr_wpublishedtime%20descending)
+    *   [Social impact](https://www.thomsonreuters.com/en/about-us/social-impact)
+    *   [The Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)
+
+*   Learn more
+    
+    ### Learn more
+    
+    *   [Partnership information](https://www.thomsonreuters.com/en/partners)
+    *   [Supplier information](https://www.thomsonreuters.com/en/resources/global-sourcing-procurement)
+    *   [Global sites directory](https://www.thomsonreuters.com/en/global-gateway)
+    *   [Site map](https://www.thomsonreuters.com/en/site-map)
+
+*   Contact us
+    
+    ### Contact us
+    
+    *   [Sales & support](https://www.thomsonreuters.com/en/contact-us)
+    *   [Investors support](https://ir.thomsonreuters.com/shareholder-services/investor-contacts)
+    *   [Media relations](https://www.thomsonreuters.com/en/contact-us/media-contacts)
+    *   [Office locations](https://www.thomsonreuters.com/en/locations#t=locations&sort=%40tr_title%20ascending)
+
+*   Reuters
+    
+    ### Reuters
+    
+    *   [Reuters News & Media](https://reutersagency.com/)
+    *   [Reuters Best](https://reutersbest.com/)
+    *   [Reuters Professionals](https://www.reutersprofessional.com/homepage/p/1)
+
+*   Core Publishing Solutions
+    
+    ### Core Publishing Solutions
+    
+    *   [Book printing for publishers](https://coreprintsolutions.thomsonreuters.com/)
+
+*   Connect with us
+    
+    ### Connect with us
+    
+    *   [Facebook](https://www.facebook.com/thomsonreuters)
+    *   [Instagram](https://www.instagram.com/thomsonreuters/)
+    *   [LinkedIn](https://www.linkedin.com/company/thomson-reuters)
+    *   [X](https://x.com/thomsonreuters)
+    *   [YouTube](https://www.youtube.com/thomsonreuters)
+
+[Thomson Reuters](https://www.thomsonreuters.com/en.html)
+
+*   [](https://www.thomsonreuters.com/en/privacy-statement#cookies "Cookie policy")
+*   [](# "Cookies Settings")
+*   [](https://www.thomsonreuters.com/en/terms-of-use "Terms of use")
+*   [](https://www.thomsonreuters.com/en/privacy-statement "Privacy statement")
+*   [](https://www.thomsonreuters.com/en/policies/copyright "Copyright")
+*   [](https://www.thomsonreuters.com/en/modern-slavery-act "Supply chain transparency")
+
+Do not sell or share my personal information and limit the use of my sensitive personal information[](https://www.thomsonreuters.com/ccpa-dsar)
