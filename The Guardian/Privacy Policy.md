@@ -3,6 +3,8 @@ Privacy policy
 
 Mon 2 Feb 2026 14.45 CET
 
+[Prefer the Guardian on Google](https://www.google.com/preferences/source?q=theguardian.com)
+
 **About this privacy policy**
 -----------------------------
 
