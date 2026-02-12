@@ -81,6 +81,8 @@ Applicable cookies:
 
 * * *
 
+checkbox
+
 Analytics
 
 These cookies are used to monitor the performance of our site and to enhance your browsing experience.
@@ -88,6 +90,8 @@ These cookies are used to monitor the performance of our site and to enhance you
 Applicable cookies: **Amplitude, Algolia**
 
 * * *
+
+checkbox
 
 Marketing
 
