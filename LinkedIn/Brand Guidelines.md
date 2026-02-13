@@ -1,3 +1,5 @@
+The LinkedIn Local program has been discontinued as of January 1, 2026. [**Learn what this means for you →**](https://brand.linkedin.com/linkedin-local-discontinued)
+
 **LinkedIn Branding Guidelines**
 ================================
 
@@ -24,7 +26,7 @@ Our Brand may only be used as outlined in these guidelines or with express writt
 
 You may not use our Brand, including our name, logos, or any elements that are identical to, incorporate, or closely resemble our Brand, in any way that could cause confusion about the source, sponsorship, or affiliation of your product, service, or account. LinkedIn reserves the right to determine, at its sole discretion, whether a use is misleading or otherwise violates the LinkedIn Brand and User Agreements.
 
-Your use must also be consistent with applicable law and align with LinkedIn’s values (which include, but are not limited to, not using the Brand in a misleading, unfair, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable manner).  Failure to follow these guidelines could result in the suspension or termination of your LinkedIn account and other actions by LinkedIn. We may modify these Guidelines at any time, and your continued use of the Brand Features will constitute your consent to such modifications.
+Your use must also be consistent with applicable law and align with LinkedIn’s values (which include, but are not limited to, not using the Brand in a misleading, unfair, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable manner).  Failure to follow these guidelines could result in the [suspension or termination of your LinkedIn account](https://www.linkedin.com/help/linkedin/answer/a8318393) and other actions by LinkedIn. We may modify these Guidelines at any time, and your continued use of the Brand Features will constitute your consent to such modifications.
 
 Overall, you should ensure that you do not use our Brand in a manner that might create the impression that your use is sponsored by LinkedIn. Please ensure compliance with these guidelines, make clear that your use is separate from the LinkedIn Brand, and ensure that you do not copy or imitate the LinkedIn platform’s overall look and feel. Any logos or images found elsewhere on the web are not approved for use. Please help us protect our Brand, and present your work in the most appropriate way, by following these guidelines and only using approved Brand assets from this site.
 
