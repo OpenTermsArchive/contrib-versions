@@ -110,8 +110,8 @@ Products
 *   [CLEAR](https://legal.thomsonreuters.com/en/products/clear)
 *   [CLEAR Adverse Media](https://legal.thomsonreuters.com/en/products/clear-adverse-media)
 *   [CLEAR ID Confirm](https://legal.thomsonreuters.com/en/products/clear-id-confirm)
+*   [CLEAR Investigate](https://legal.thomsonreuters.com/en/products/clear-investigate)
 *   [CLEAR Risk Inform](https://legal.thomsonreuters.com/en/products/clear-risk-inform)
-*   [CLEAR Skip Tracing](https://legal.thomsonreuters.com/en/products/clear-skip-tracing)
 *   [Fraud Detect](https://legal.thomsonreuters.com/en/products/fraud-detect)
 *   [View all](https://legal.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Risk%2C%20fraud%20%26%20investigations&sortCriteria=relevancy)
 
@@ -128,9 +128,9 @@ Products
 *   [CoCounsel Tax
     
     Transform your tax practice with CoCounsel Tax, an AI-powered assistant that combines trustworthy answers, automation, and firm knowledge into one seamless platform. Enhance efficiency, reduce risk, and improve client confidence with CoCounsel Tax.](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
-*   [CLEAR
+*   [CLEAR Investigate
     
-    Powerful software designed for law enforcement, compliance, risk, and fraud investigators. Conduct thorough investigations with ease using our intuitive online investigation software. Efficiently, prevent, detect, and solve crime.](https://legal.thomsonreuters.com/en/products/clear)
+    Intelligently surface critical connections and insights in actionable format through AI-driven research workflows seamlessly integrated with the trusted and transparent CLEAR platform. Accelerate investigations and empower your team to make strategic decisions with confidence.](https://legal.thomsonreuters.com/en/products/clear-investigate)
 
 Questions? We are here to help.
 
