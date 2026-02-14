@@ -449,7 +449,7 @@ Les zones de livraison concernées par la livraison standard sont : France mét
 
 \-         _Livraison Confort d’articles électroménagers et télévisions (Livraison et installation chez vous)_ (uniquement en France) : seuls les articles électroménagers et les télévisions peuvent bénéficier de ce mode de livraison (hors hottes et plaques de cuisson).
 
-La livraison des produits commandés s’effectue avec prise de rendez-vous. Un ou plusieurs livreurs déchargera(ont) votre colis, le déposera(ont) et le déballera(ont) é l'intérieur de votre domicile, dans la pièce de votre choix. L’installation et les tests de mise en service seront effectués.
+La livraison des produits commandés s’effectue avec prise de rendez-vous. Un ou plusieurs livreurs déchargera(ont) votre colis, le déposera(ont) et le déballera(ont) à l'intérieur de votre domicile, dans la pièce de votre choix. L’installation et les tests de mise en service seront effectués.
 
 Nos livreurs ne sont cependant pas habilités à procéder à des travaux de menuiserie, plomberie et/ou électricité. Par exemple, dans le cas de produits encastrables, le(s) livreur(s) ne procède(n)t pas au montage/habillage de la porte du produit avec le mobilier de cuisine existant. Concernant les télévisions, la prestation inclut la mise en service, le branchement de périphériques existants et la recherche de canaux, à l'exclusion de la pose murale.
 
@@ -681,7 +681,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre demande.
 
-Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
+Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d'une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
 
 votre décision de vous rétracter
 
