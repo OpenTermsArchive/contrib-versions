@@ -1,272 +1,285 @@
-Privacy Policy
-==============
+General Privacy Policy
+======================
 
-Last updated: December 10, 2025
+Last Updated: February 16, 2026
 
-We are updating our Terms of Service and Privacy Policy. The new versions that will be applicable to you from 16 February can be found [here](https://my.nordaccount.com/legal/privacy-policy-16-february/).
+This document (“**Privacy Policy**”) explains how nordvpn S.A. (“**Nord**”, “**we**”, “**us**”, or “**our**”) collects, uses, protects, discloses, and deletes your personal data when you access or use our Services and Websites where this Privacy Policy is posted, regardless of the device you're using (such as a computer, mobile phone, tablet, or TV).
 
-This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
+Please note that we only collect and use the bare minimum of information needed. For example, NordVPN follows a no-logs policy: it does not track your online activity. For details on which information may be collected (and which is never collected), please see the “Service-specific privacy notices” section.
 
-The data controller of your personal data, as described in this Privacy Policy, is nordvpn S.A. (address: PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama; email: [privacy@nordaccount.com](mailto:privacy@nordaccount.com)) (“**Nord**”, “**we**”, “**us**”, or “**our**”).
+Unless explained here, any capitalized terms have the same meaning as in our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
 
-The capitalized words used in this Privacy Policy as definitions are defined here or in our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
-
-By visiting our Websites, by submitting your personal data to us, and by accessing, installing and/or using our Services, you confirm that you have read this Privacy Policy and agree to be bound by this Privacy Policy. If you do not agree with this Privacy Policy or any provisions hereof, please do not use our Services and Websites.
-
-**Product-specific Privacy Notices.** As Nord products cater to different user needs, they may process different personal data points during their performance. The following links provide further information on:
-
-*   [NordVPN Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordvpn/)
-*   [NordPass Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordpass/)
-*   [NordLocker Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordlocker/)
-
-Additional information on your personal data may also be indicated in contractual terms, supplemental privacy statements, or notices.
-
-**PLEASE NOTE:** To help you understand this Privacy Policy, we've included a short summary at the beginning of each section. While these summaries are not legally binding, they highlight the key points of the text using clear everyday language. Be sure to read the full Privacy Policy for all the details.
-
-TABLE OF CONTENTS
-
-1.  [PROCESSING OF YOUR PERSONAL DATA](#PROCESSING OF YOUR PERSONAL DATA)
-2.  [GROUNDS FOR PROCESSING OF PERSONAL DATA](#GROUNDS FOR PROCESSING OF PERSONAL DATA)
-3.  [SHARING YOUR PERSONAL DATA](#SHARING YOUR PERSONAL DATA)
-4.  [CHOICES RELATED TO YOUR PERSONAL DATA](#CHOICES RELATED TO YOUR PERSONAL DATA)
-5.  [DATA SECURITY](#DATA SECURITY)
-6.  [DATA RETENTION AND DELETION](#DATA RETENTION AND DELETION)
-7.  [COUNTRY-SPECIFIC PROVISIONS](#COUNTRY-SPECIFIC PROVISIONS)
-8.  [CONTACT US](#CONTACT US)
-9.  [CHILDREN’S DATA](#CHILDREN’S DATA)
-10.  [OTHER TERMS](#OTHER TERMS)
-
-1\. PROCESSING OF YOUR PERSONAL DATA
-
-SUMMARY: As per our no-logs policy, we don't track your online activity — but we do need some of your personal data (such as your email address and payment details) to provide our services. You may also voluntarily give us your data in situations that don't involve using our products, such as when you agree to accept cookies on our website or participate in a giveaway. In all cases, we only store the bare minimum of information needed to work with you.
-
-Nord processes personal data to a limited scope to provide Services, process payments for the Services, and enable the functioning of our Websites and mobile applications. We may process the following categories of personal data:
-
-Information for creating your Account
-
-*   **Email address.** We ask for your email address as part of your registration. It is necessary for the creation of your Nord Account, retrieving a lost password, and using the Services.
-
-Subscription information
-
-*   **Subscription data.** When you subscribe to our Services we process certain subscription information (e.g., your email address, the subscription plan you have chosen, subscription term, subscription ID, subscription frequency, amount, currency, status, auto-renewal status, information about enabled/disabled features such as multi-factor authentication (MFA), etc.).
-
-**Payment related information** (if using paid Services)
-
-*   **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer's IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us. In some cases, information about your two previous transactions, along with your IP address, may also be used to resolve transaction disputes. This data helps verify the legitimacy of disputed transactions.
-*   **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
-*   **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as payer's email address and device information) can be verified by our and/or our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
-*   **Information concerning zero authorization for billing.** The purpose of the zero authorization is to confirm that your payment method is still valid, which, respectively, leads to a seamless continuation of your Subscription. No personally identifiable information is collected in this case, apart from the fact that your provided payment method is still valid (or not) and the date of such authorization.
-*   **Information related to A/B price testing.** The results and/or insights obtained from A/B price testing may be used by Nord to optimize its pricing strategies, improve Service offerings, and/or enhance your experience. This may include the collection of data related to your behavior, preferences, or responses to pricing strategies.
-
-Communication data
-
-*   **Email address.** We use your email address to: i) send you important updates and announcements related to your use of the Services and Websites; ii) respond to your requests or inquiries; iii) send you offers, surveys, and other marketing content (you can opt-out of those at any time).
-*   **Customer support inquiries.** We keep the information that you provide to our customer support team that was necessary to resolve the query. Depending on what information is necessary, it can consist of, but not limited to: payment information for customer verification processes, your country name, information of your OS, local application logs, etc.
-*   **Communication optimization data.** We use various tools to help us optimize our emailing campaigns. These tools may track actions you perform with an email, such as open it or unsubscribe from further communication. We may also be able to see the user device’s operating system (e.g., Windows, Mac, iOS, Android) and country in order to optimize push and email notifications and automatically set the language.
-*   **Chatbot.** If you contact us via our chatbot on our Websites, in addition to processing your contact information, we will be able to collect your device information and IP address.
-*   **Live chat widget.** If you contact us via live chat widget, in addition to processing your contact information, we will also process your device information (such as type of the operating system and browser) and IP address. This information is necessary for our support to determine the user's country, prevent abuse,see if the user is connected to our servers, and help our support to process queries faster.
-*   **Phone calls.** If phone contact is available in your country and you reach out to us in response to one of our TV advertisements, we will record the call for quality assurance and to respond to your queries (including complaints) about our Services you are interested in, but only with your prior consent. In this case, we will process call metadata (such as your phone number, call time, and duration) along with the content of the call (including your voice, email address, details about our Services you are interested in, and any other information exchanged). Additionally, if your call is dropped while we are locating an available consultant or during your conversation, or if you call when the phone line is closed, we will record your phone number and may call you back. If you prefer not to have your call recorded, we encourage you to contact us via email at [support@nordaccount.com](mailto:support@nordaccount.com) instead of reaching out by phone.
-
-Information collected on our applications and Websites
-
-*   **Service usage.** We collect information about specific Nord Services (NordVPN, NordPass, NordLocker, etc.) and features you use.
-*   **Access logs.** As most websites on the internet, our Websites collect access logs (such as IP address, browser type, operating system) to operate our Services and ensure their secure, reliable, and robust performance. This information is also essential for fighting against DDoS attacks, scanning, and similar hacking attempts.
-*   **Cookies.** Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our [Cookie policy](https://my.nordaccount.com/legal/cookie-policy/).
-
-Referrals data
-
-*   **Information for participating in referral programs.** Participation in referral programs maintained by Nord requires referrers to submit personal data (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that Nord could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties’ personal data to Nord, including informing third parties that they are providing referred parties’ personal data to Nord and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.
+1.  Introduction
     
-
-Promotional games data
-
-*   **Information for participating in our promotional games (e.g., sweepstakes, giveaways, contests).** When you decide to participate in any promotional game that requires additional personal information, you will be explicitly requested to provide it. The personal data we ask you to provide typically includes your full name, e-mail address, phone number, information about the purchased subscription plan. However, you have the right to refuse to provide such information and cease your participation in the promotional game at any time. In certain cases we also may share the mentioned data with third parties that help us to organize/coordinate such promotional games. Please carefully review the terms and conditions of each promotional game in which you participate as they may contain specific additional information about the processing of your personal data. If the terms and conditions of such promotional games concerning the treatment of your personal data conflict with this Privacy Policy, the terms and conditions of such promotional games shall prevail.
+    Please read this Privacy Policy carefully to understand our policies and practices regarding your personal data. By using our Services and/or visiting our Websites, you confirm that you have read this Privacy Policy and agree to be bound by it. If you do not agree with any part of this Privacy Policy, please refrain from accessing/using our Services and Websites.
     
-
-Social networks data
-
-*   **Account data.** For the purpose of managing and administering our profiles on social networks (e.g., “Facebook”, “Instagram”, “Twitter”, “LinkedIn”, “YouTube” accounts), we may collect and process your personal data (e.g., full name, social network profile name, pictures, and/or public comments) you provided voluntarily.
+    The company responsible for handling your personal data is nordvpn S.A. (PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama). We are the "data controller" as specified under many privacy laws, like the European Union's General Data Protection Regulation ("**GDPR**") and the United Kingdom's Data Protection Act 2018.
     
-
-2\. GROUNDS FOR PROCESSING OF PERSONAL DATA
-
-SUMMARY: We mainly process your personal data to provide you with our services and to fulfil legal requirements for our business. In rare situations, we may have to process data to protect our or certain third parties legitimate interests (such as preventing the services abuse). In some cases, we also process your personal data when you give us your consent (for example, when you want to receive our newsletters).
-
-Your personal data is processed:
-
-*   **Where it is necessary to fulfill our contract with you at your request.** Such cases include: i) to provide access to our Services; ii) to process your purchase transactions; iii) to ensure the secure, reliable, and robust performance of our Services and Websites.
+    **PLEASE NOTE:** To help you understand this Privacy Policy, we've included a short summary at the beginning of each section. While these summaries are not legally binding, they highlight the key points of the text using clear everyday language. For the full details, be sure to read the actual text of the Privacy Policy.
     
-*   **When we have a legal obligation to process certain personal data collected from you** (e.g., to keep and process records for tax purposes and accounting).
+2.  Service-specific privacy notices
     
-*   **Where you have provided your consent to us.** Such cases may include: i) to send marketing communication (unless applicable law permits us to contact you without your prior consent); ii) to communicate with you and manage your participation in Nord’s contests, offers, referrals, or promotions; iii) to record your call. Please note that although Nord may also process your personal data for marketing purposes when applicable law permits us to contact you without your separate consent, if you choose not to receive marketing communication from us (i.e., if you opt-out), we will honor your request.
+    Summary:
     
-*   **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used (crash reports, app store reviews, information about the channel from which our app was downloaded, etc.).
+    Different Nord Services may process different types of personal data based on your needs.
     
-
-3\. SHARING YOUR PERSONAL DATA
-
-SUMMARY: In some cases, we may need to share personal data with certain third parties, such as trusted service providers, partners, and other Nord group companies. In all cases, we make sure to handle your data safely and respect your privacy — even when it needs to be processed outside of your country.
-
-We do not share your personal data with third parties except as described in this Privacy Policy.
-
-Service providers. We use third-party service providers to help us with various operations, such as payment processing, email automation, Websites and app diagnostics, analytics, and other. As a result, some of these service providers may process personal data.
-
-Some of our main long-term service providers:
-
-*   Live chat and support service platform, e.g., Zendesk (provided by Zendesk Inc.), Klaus (provided by Qualitista OÜ)
-*   Emailing service providers, e.g., Braze (provided by Braze, Inc.), Sendgrid (provided by Twilio Inc.)
-*   Marketing, application analytics and diagnostics, e.g., Google Analytics, Firebase Analytics (provided by Google), AppsFlyer (provided by AppsFlyer Ltd.), Bugsnag (provided by Bugsnag Inc.)
-*   Conversion attribution system, e.g., Hasoffers (provided by Tune Inc.)
-*   Payments processing, e.g., Mollymind AG, NordSec B.V., Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd, Checkout Ltd
-
-**Nord partners.** Sometimes our partners, for example, distributors, resellers, and app store partners, will be independent data controllers of your personal data. In such cases, the procedures established by them (e.g., terms of service and privacy policies) will apply to such relationships. In other cases we may collaborate with partners as joint controllers meaning that we jointly define the purpose and means of data processing with them. Both joint controllers are then responsible for the data processing and its compliance with applicable privacy laws.
-
-We also partner with third parties to display advertising on our Websites or to manage our advertising on other sites. These partners help us deliver more relevant ads and promotional messages to you, which may include behavioral, contextual, and generic advertising. We and our advertising partners may process certain personal data to help us understand your preferences so that we can deliver advertisements that are more relevant to you.
-
-Your personal data may be processed in any country in which we engage service providers and partners. When you use our Services and Websites, you understand and acknowledge that your personal data may be transferred outside of the country where you reside.
-
-**Bundled subscriptions (Third Party Services acquired through Nord)**. By subscribing to the Bundled Subscription which includes Third Party Services acquired through Nord, you agree that certain purchase information (e.g., your email address, Subscription term, payment amount, subscription ID) will be shared with the respective provider of Third Party Services for purposes of activating, administering, and provision of Third Party Services, also for improving your experience, and communicating with you about the Bundled Subscription and Third Party Services. When you use Third Party Services, your personal data is processed by the provider of Third Party Services (which acts as a separate data controller of your personal data) according to the procedures established by it and governed by its privacy policies.
-
-**Other Nord group companies.** We share your personal data with other Nord group companies to carry out our daily business operations and to enable us to maintain and provide our Services to you. We may also share the contact information of Nord business customers (i.e., our customers which use our products as a tool for their business) with Nord group companies for marketing of their B2B products purposes (business users have a right to object to such transfer at any time).
-
-**Protection of our rights.** We may disclose personal data to establish or exercise our legal rights or defend against any legal claims or other complaints. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and violations of our General Terms.
-
-**Business transfers.** We may share your personal data in those cases where we sell or negotiate to sell our business or go through a corporate merger, acquisition, consolidation, asset sale, reorganization, or similar event. In these situations, Nord will continue to ensure the confidentiality of your personal data.
-
-**Requests for data.** Any request for user data should follow an appropriate official legal process recognized by the laws of the Republic of Panama (e.g., mutual legal assistance treaty, letters rogatory). We carefully review each request to make sure it satisfies laws applicable to our company, laws of requesting country, international norms, and our internal policies. However, it is important to note that the laws of the Republic of Panama do not oblige us to store logs of users’ online activity. Accordingly, we do not log users’ browsing history, traffic information, or IP addresses used to access the internet via our services. This means that we are not able to link shared IP addresses of VPN services to an individual user or otherwise individual users based on data that we do not process. Therefore, even if we were to receive a rightfully served request, it might be impossible for us to identify a specific person or provide any identifying information related to that person. In cases where, following an appropriate legal process, we are obligated to comply with a request and we are able to identify a specific person, we will provide the limited data we process as per our Privacy Policy given it falls within the scope of the request. Contact information for government authorities: nordvpn S.A., address PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama, email [inquiries@nordvpn.com](mailto:inquiries@nordvpn.com).
-
-Cross-border transfers of personal data
-
-To facilitate our Services and Websites, we may store, access, and transfer personal data from around the world, including in countries where Nord has operations. These locations may not guarantee the same level of protection of personal data as the one in which you reside. We assess the circumstances involving all cross-border data transfers and have suitable safeguards in place to require that your personal data will remain protected in accordance with this Privacy Policy. For example, in case your personal data is transferred to countries outside the EEA, we make sure there is an adequacy decision from the European Commission with regards to the recipient country or we use standard contractual clauses approved by the European Commission for such transfer of your personal data.
-
-4\. CHOICES RELATED TO YOUR PERSONAL DATA
-
-SUMMARY: You have certain rights when it comes to your data processing. You can contact our customer support team at any time if you need help exercising them.
-
-Please note that there are various data protection laws across different jurisdictions that provide privacy rights to you as a data subject. Subject to those applicable data protection laws, among others, you may have the following rights:
-
-*   **Delete**: request us to erase your personal data;
+    Our Services are designed to meet diverse user needs. Therefore, they may process different types of personal data depending on their specific functionalities. Additional information on our data processing for specific Services can be found here:
     
-*   **Access**: know and access personal data Nord has collected about you;
+    *   [NordVPN Privacy Notice](https://my.nordaccount.com/legal/privacy-policy/nordvpn/)
+    *   [NordPass Privacy Notice](https://my.nordaccount.com/legal/privacy-policy/nordpass/)
+    *   [NordLocker Privacy Notice](https://my.nordaccount.com/legal/privacy-policy/nordlocker/)
+    *   [NordLabs Privacy Notice](https://my.nordaccount.com/legal/privacy-policy/nordlabs/)
     
-*   **Rectify**: rectify, correct, update, or complement inaccurate/incomplete personal data Nord has about you;
+    For information about how we use cookies and similar technologies on our Websites, please see:
     
-*   **Object**: object to the processing of your personal data which is done on the basis of our legitimate interests (e.g., for marketing purposes);
+    *   Nord's [Cookie policy](https://my.nordaccount.com/legal/cookie-policy/)
     
-*   **Portability**: request us to provide you with a copy of your personal data in a structured, commonly used and machine-readable format or to transmit (if technically feasible) your personal data to another controller (only where our processing is based on your consent and carried out by automated means);
+    Contractual terms, supplemental privacy statements, or notices may also provide more information on your personal data.
     
-*   **Restrict**: restrict the processing of your personal data (when there is a legal basis for that);
+3.  Personal data we process
     
-*   **Withdraw consent**: withdraw your consent where processing is based on a consent you have previously provided;
+    Summary:
     
-*   **Lodge a complaint**: exercise your rights by contacting us directly or, if all else fails, by lodging a complaint with a supervisory authority.
+    We do collect personal data like your email address and payment details to provide our Services. You may also voluntarily give us your data in situations that don't involve using our products, such as when you agree to accept cookies on our Website or participate in a promotional campaign. In all cases, we only collect and use the bare minimum of information needed.
     
-
-**Rectification.** If you’d like to edit your profile information (e.g., change your email address, add additional username), please contact our support team at [support@nordaccount.com](mailto:support@nordaccount.com).
-
-**Access.** If you wish to make an access request to provide you with a copy of your personal data, please contact us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com). Please note that you will need to pass through the Account verification process so that we can verify you are the owner of the Account before taking further action on your request.
-
-**Deletion.** You can delete your account at any time from your Nord Account. Log in to your Account, navigate to “Account settings” and in the “Account deletion” section click the “Delete account” button. We will ask you to verify this request via email.
-
-Please note that in certain circumstances, additional steps may be required before your Account can be deleted. For example, this may apply if your subscription was purchased via the Apple App Store or if your account is associated with Nord’s business account.
-
-If you are unable to delete your account following the steps provided on Nord Account, please contact us at [support@nordaccount.com](mailto:support@nordaccount.com) for further assistance.
-
-Additionally, you may also delete your Account in our applications. To initiate deletion, please follow these steps:
-
-*   **Nord Account via NordVPN application on mobile devices**: open the NordVPN app and log into your Account. Tap on the profile icon on the bottom right corner. After that tap “Help Center” tab and you will see a list of options. Choose “Contact us” and select “Request account deletion”. Please note that this action is permanent and you will lose access to all of your services purchased. Tap “Continue” and we will take you to your NordAccount to complete the process.
+    To provide our Services and operate our Websites, we need to process certain information that can identify you, such as your email address or payment details (referred to as “personal information,” “personal data,” or simply “data”). The specific types of data we collect depend on how you interact with us, our Services, and Websites, as well as the applicable legal requirements.
     
-*   **Nord Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Request account deletion”, type in “Please delete my account”, and click “SEND”.
+    Your personal data may be collected by us in several ways:
     
-*   **Nord Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Delete Account” option, and confirm by pressing “Submit Delete Request”; you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
+    *   Through information you provide directly (e.g., when creating your Nord Account).
+    *   Automatically while you use our Services and/or Websites (e.g., through cookies).
+    *   From third-party sources (e.g., when you subscribe to our Services through external platforms), as detailed below.
     
-*   **Nord Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, click the “Delete Account” option, and confirm by pressing “Submit Delete Request”; then, you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
+    3.1. When you create your Account
     
-*   **Nord Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+    3.2. When we provide our Services and communicate with you
     
-
-**Nord's Obligations on Termination.** Upon expiration or termination of your Account and/or Subscription, Nord will immediately cease processing information that’s associated with you. However, please note that there might be cases when we retain information associated with you after expiration or termination of your Account and/or Subscription: (i) all Nord products' databases are connected; after expiration or termination of your Account, basic information (such as your email address) would still be visible in our system in case you have another existing Account associated with a different Nord product (e.g., if we delete your NordPass Account, your email address would still be visible in our system if you have a NordVPN or NordLocker Account). In order to delete all of your data, we would need to delete all of your Accounts associated with different Nord products (in order to do so, please contact our support team); (ii) Nord also may retain information associated with you (e.g., payments data) in order to fulfill its obligations as required by applicable laws, regulations, court orders, subpoenas, or other legal processes for archival purposes.
-
-**Opt-out.** If you wish to unsubscribe from our communication, you can opt out at any time by clicking the “unsubscribe” link at the bottom of each email or contacting us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
-
-You can control the use of cookies at the individual browser level on your device. To disable cookies, follow your browser’s instructions on how to block or clear cookies.
-
-If you do not agree with the processing of your personal data by Nord, please do not use our Services and Websites. You can request us to discontinue processing your personal data, in which case your data will be processed only as much as it is necessary to effect the discontinuation of your use of the Services (e.g., final settlement or deleting all personal data based on your email address), or finalizing other Nord’s legal relationship with you (e.g., record keeping, accounting, processing refunds). Please note that we or our third-party service providers may be obliged to retain your certain personal data as required by law.
-
-To raise any other questions, concerns, or complaints about our privacy practices or about our processing of your personal data, please contact us as provided below (Section “Contact Us”).
-
-5\. DATA SECURITY
-
-SUMMARY: We take your data security very seriously, using a number of protective measures to keep your personal information safe.
-
-We maintain tight controls over the personal data we collect. Our dedicated IT security team has implemented appropriate physical, technical, and organizational measures to protect information about you against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access and against all other unlawful forms of processing:
-
-*   **Physical Measures.** We control access to our facilities with access cards.We also use security alarm systems and CCTV. We store devices with personal data information only in locked rooms or cabinets. Our printers are protected by access control measures. A clean desk policy is implemented.
+    3.3. When we handle your payments
     
-*   **Technical Measures.** We use layered defense with firewalls, anti-malware protection, intrusion detection and prevention systems. Our infrastructure is regularly updated and regular vulnerability scans are in place to detect possible vulnerabilities. We have security event and incident management solutions to correlate and investigate signals in security tools. Servers are hardened and automated configuration tools are used to manage them. All workplaces are managed from a centralized endpoint management tool. Data at rest and in transit are encrypted. Encryption protocols are used according to the newest security practices.
+    3.4. When you interact with our Services
     
-*   **Organizational Measures.** We adopted information security and data processing policies according to best practices. We have external audits to prove our information security and data processing policies are up to standards. We adopted a constant development culture of security and data protection awareness among our employees (including organizing regular and ongoing training and other awareness activities).. We analyze the threat landscape and attack surface and constantly update our security measures. Access to databases containing personal data is granted on a need-to-know basis.
+    3.5. When we provide you customer support
     
-
-If we detect something suspicious, we will notify you immediately and guide you through steps to stay better protected. However, no company can guarantee the absolute security of internet communications as no technology is completely bulletproof. By using the Services and Websites, you expressly acknowledge that we cannot guarantee the 100% security of personal data provided to or received by us through the Services and that any information received from you through Websites or our Services is provided at your own responsibility. If you have any reason to believe that your interaction with us is no longer secure, please notify us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
-
-6\. DATA RETENTION AND DELETION
-
-SUMMARY: We only keep your personal data for as long as we need it to provide our services or comply with the law. Once there are no legitimate grounds for holding this information, we'll immediately dispose of it in a secure way.
-
-Nord will keep your personal data only as long as necessary to provide you with the Services, or for as long as we have another legitimate ground to do so, but not longer than permitted or required by law. Some of more specific data retention terms are provided below:
-
-*   Customer billing information and payment details are kept by Nord for 10 years from the last payment transaction.
+    3.6. When we improve our Services
     
-*   Nord will use your email for marketing communication for 1 year after the end of your Subscription or until you exercise your right to opt-out, whichever comes first.
+    3.7. When we carry out our marketing and advertising activities
     
-*   If the call with our support team is recorded, recordings will be retained for a maximum period of 2 years unless further retention is required for legal or compliance purposes.
+    3.8. When we administer our social media accounts
     
-
-When we no longer have a legal ground to keep your personal data, it will either be securely disposed of, or de-identified through appropriate anonymization means. Nord will destroy personal data recorded or stored in the form of electronic files using method(s) that would prevent the recovery of the data.
-
-7\. COUNTRY-SPECIFIC PROVISIONS
-
-SUMMARY: While some of your rights are rooted in this Privacy Policy, you may have additional rights available to you depending on your country. If you want to exercise them (or if you want to know more), simply contact us.
-
-For users in European Economic Area (“EEA”)
-
-If you are a resident of EEA countries, you can exercise your rights as provided in the European Union's General Data Protection Regulation (“**GDPR**”) by contacting us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
-
-For users in California
-
-If you are a California resident, you can exercise your rights as provided in the California Consumer Privacy Act (“**CCPA**”) by contacting us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com). As per definitions in the CCPA, please note that Nord does not sell, share, lease, or rent your personal information.
-
-For Users in the Republic of Korea
-
-As set out in Section 3 of this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties, along with additional Korea-specific terms, is provided in the Korean-specific Privacy Policy, [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
-
-8\. CONTACT US
-
-SUMMARY: Legal documents can be tricky. If you have any questions about your personal data or this Privacy Policy (or if you want to exercise your rights), our contacts are provided below.
-
-If you have questions, requests, concerns, or complaints about this Privacy Policy or our personal data processing practices, or you wish to exercise your data subject rights, please contact us via [privacy@nordaccount.com](mailto:privacy@nordaccount.com) or by writing to us at the following address:
-
-nordvpn S.A., PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama
-
-On matters related to the processing of personal data, you may also contact our representative in the EEA through the following means:
-
-NordSec B.V. ([representative@nordsec.com](mailto:representative@nordsec.com); Fred. Roeskestraat 115, 1076 EE Amsterdam, the Netherlands).
-
-Nord has also appointed a Data Protection Officer (DPO) to ensure the protection of your personal data. You can contact our DPO at [dpo@nordsec.com](mailto:privacy@nordaccount.com).
-
-9\. CHILDREN’S DATA
-
-Nord does not knowingly collect or solicit personal data from anyone under the age of 18. If you are under 18, please do not attempt to send any personal data about yourself to Nord. If we acknowledge that we have collected and processed personal data from a child under the age of 18, we will delete that data as quickly as possible.
-
-10\. OTHER TERMS
-
-SUMMARY: We will do our end to keep your personal data safe, but you are ultimately responsible for your actions online while using our services. In addition, this Privacy Policy does not apply to other websites, even if you got to them by following a link on our page. Finally, this document is not set in stone — but if we do change it in a way that significantly concerns you, we'll let you know.
-
-**Limitation of Liability.** To ensure the security of personal data, Nord employs various technical, physical, and organizational security measures; however, it is your responsibility to exercise caution and reason when using the Services and Websites. You will be personally liable if your use of the Services and Websites violates any third party privacy or any other rights or any applicable laws. Under no circumstances is Nord liable for the consequences of your unlawful, willful and negligent activities, and any circumstances that may not have been reasonably controlled or foreseen (please read the [General Terms](https://my.nordaccount.com/legal/terms-of-service/) for more information).
-
-**Links to other websites.** Our Websites may include links to other websites (e.g., social media websites) whose privacy practices may be different from ours. If you access any of those websites via such links and/or submit your personal data to any of those websites, your personal data is processed by the procedures established by them and governed by their privacy policies. We encourage you to carefully read the privacy policy (or other respective privacy notice) of any website you visit.
-
-**Prevailing Language.** For all purposes, the English language version of the Privacy Policy shall be the original, governing instrument and understanding between you and us. In the event of any conflict between this English language version of the Privacy Policy and any subsequent translation into any other language, the English language version shall govern and control.
-
-**Updates to the Privacy Policy.** We develop our Services and Websites introducing new features or modifying current ones constantly. Therefore, we may need to amend the Privacy Policy from time to time. If the amendments to the Privacy Policy materially affect the activities of our processing of your personal data, we will notify you in advance of such changes by reasonable means (e.g., notification through the respective applications, our Websites, or via email), and we will always indicate the date of the last update. Unless it is stated by us otherwise, each update of the Privacy Policy comes into force as of the moment when the amended Privacy Policy is published on this Website. You are expected to check this Privacy Policy regularly so that you are familiar with the most current wording of the Privacy Policy. Your continued use of the Services and Websites will be deemed acceptance thereof.
+    3.9. When we maintain security of your Account and our Services
+    
+4.  Sharing your personal data
+    
+    Summary:
+    
+    In some cases, we may need to share personal data with certain third parties, such as trusted service providers, partners, and other Nord group companies. In all cases, we make sure to handle your data safely and respect your privacy — even when it needs to be processed outside of your country.
+    
+    Nord shares your personal data in the following instances:
+    
+    **With our Service providers.** We use third-party service providers to help us with various operations, such as payment processing, email automation, Website and app diagnostics, analytics, and others. As a result, some of these service providers may process personal data.
+    
+    Some of our main long-term service providers are:
+    
+    *   **Customer support services** that help us deliver customer support and service-related communications (e.g., Zendesk Inc. (USA), spectra tech, UAB (Lithuania), Microsoft Ireland Operations Limited (Ireland), and Qualitista OÜ (Estonia).
+    *   **Communication services** that help us send you transactional notifications and, subject to your preferences, marketing communications (e.g., Braze, Inc. (USA) and Twilio Inc. (USA).
+    *   **Analytics and diagnostics services** that help us understand how our Services/Websites are used, monitor performance, detect technical issues, and improve the overall functionality and user experience (e.g., Google Analytics/Firebase Analytics (USA), Amazon group (USA), Atlassian Pty Ltd (USA), SmartBear Software Inc. (USA), Microsoft Corporation (USA), and Tune Inc. (HasOffers) (USA). The tools and data involved may vary depending on the Service or application you use.
+    *   **Advertising and marketing services** that help us measure the effectiveness of our marketing campaigns and deliver more relevant promotional content (e.g., AppsFlyer Ltd. (USA), Tune Inc. (HasOffers) (USA), Google Analytics/Firebase Analytics (USA), Braze, Inc. (USA). The tools and data involved may vary depending on the Service or applications you use.
+    *   **Payments processing services** that support secure payment transactions, recurring billing, refunds, and financial operations (e.g., Stripe (USA), Adyen (the Netherlands), PayPal (USA), Coingate (Lithuania), and Checkout Ltd (UK).
+    *   **Security features providers** that help us enhance security and performance (e.g., Cloudflare, Inc. (USA).
+    
+    **Within Nord.** We share your personal data with other Nord group companies to carry out our daily business operations and to maintain and provide Nord Services to you. We may also share the contact information of Nord business customers (i.e., customers who want to use our products as a tool for their business) with other Nord group companies for B2B product sales purposes (business customers have the right to object to such transfers at any time).
+    
+    **With our partners.** Sometimes our partners (such as distributors, resellers, and app store partners) will act as independent data controllers of your personal data. In such cases, your relationship will be governed by the procedures they have established (e.g., their terms of use and privacy policies). In other cases, we may collaborate with partners as joint controllers, meaning that we will jointly define the purpose and means of data processing. Both joint controllers are then responsible for the data processing and its compliance with the applicable privacy laws.
+    
+    **With providers of Third Party Services that you have acquired through Nord (Bundled Subscriptions or standalone services).** When you purchase Third Party Services through Nord (such as Incogni, Saily, or NordProtect), you agree that certain information (e.g., your email address, Subscription term, payment amount, and Subscription ID) will be shared with the provider of Third Party Services for the purpose of activating, administering, providing you with, and communicating to you about their services, as well as for improving your experience. When you use Third Party Services, your personal data is processed by the provider of Third Party Services in accordance with their established procedures and privacy policies.
+    
+    Nord may also share your personal data in the following cases:
+    
+    **Business transfers.** We may share your personal data with relevant third parties (and their agents or advisors) when we sell or negotiate to sell our business, or go through a corporate merger, acquisition, consolidation, asset sale, reorganization, liquidation, or similar event. In the course of such proceedings, Nord will take all reasonable measures to ensure the confidentiality of your personal data.
+    
+    **Protection of our rights.** We may need to disclose personal data to establish or exercise our legal rights, or to defend ourselves against any legal claims or other complaints. We may also need to share such information if we believe it is necessary in order to investigate, prevent, or take action with respect to illegal activities, suspected fraud, and violations of our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
+    
+    **Requests for data.** The law may require us to disclose limited personal data to law enforcement authorities. In most cases, we have no data to share. In accordance with our strict no-logs policy, we do not record our users' internet activity or their IP addresses when using our NordVPN services. As a result, there is no link between IP addresses, websites visited, and individual users. If we receive a legally valid request that includes specific identifiers (such as an email address) enabling us to identify a particular user, we may be required to disclose the requested data (to the limited extent it is available to us and in accordance with this Privacy Policy). All such requests are carefully reviewed to ensure they are legally binding — among other things, they must follow the appropriate legal process set out under the laws of the Republic of Panama (such as being submitted through a mutual legal assistance treaty or via letters rogatory) and must meet all applicable legal standards. Law enforcement authorities may contact us by using the following information: nordvpn S.A., address PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama, email [inquiries@nordvpn.com](mailto:inquiries@nordvpn.com).
+    
+    **With your consent.** In addition to the reasons identified above, we may request your permission to share your personal information for specific purposes. In these cases, we will notify you of the fact in advance and ask for your consent before you provide the personal data (or before the personal data you have already provided is shared). You may revoke your consent at any time by contacting us via email at [privacy@nordaccount.com](mailto:privacy@nordaccount.com) (but keep in mind that this will only affect future operations, not any data processing that has already been carried out).
+    
+    Cross-border transfers
+    
+    As a global company, we may process your personal data outside of your country of residence to deliver our Services and operate our Websites effectively. For example, your personal data may be transferred internationally, including to countries where Nord operates or where our trusted third-party service providers are located (such as the United States). Some of these countries may not offer the same level of data protection as your home country, but in all cases, we have implemented appropriate safeguards to ensure that your personal data remains protected in accordance with this Privacy Policy and all applicable data protection laws. These safeguards may include:
+    
+    *   Relying on adequacy decisions issued by the European Commission or other relevant authorities.
+    *   Using [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) ("**SCCs**") approved by the European Commission (or other relevant authorities) together with any additional legal, technical, and organizational measures required.
+    
+    These measures help ensure that your personal data receives an adequate level of protection regardless of where it is processed.
+    
+5.  Your privacy rights
+    
+    Summary:
+    
+    You have certain rights regarding the processing of your personal data. You can contact our customer support team at any time if you want to exercise your rights.
+    
+    Please note that there are various data protection laws across different jurisdictions that provide privacy rights to you as an individual. Subject to the applicable data protection laws and any other applicable factors, you may have the following rights:
+    
+    *   **Right to access.** You have the right to know about your personal data being processed for the purposes listed in this Privacy Policy. You can ask us about your personal data that we process and have us send you a copy of it.
+    *   **Right to rectification.** You have the right to ask us to rectify personal data you think is inaccurate or incomplete. If you'd like to edit your Nord Account information, please contact our support team at [support@nordaccount.com](mailto:support@nordaccount.com).
+    *   **Right to deletion.** You have the right to request the deletion of personal data that we have collected from or about you (also known as the right to be forgotten). However, please note that this right isn't absolute — for example, it does not cover situations where data is needed for us to comply with a legal obligation.
+    *   **Right to restrict processing.** If you believe that your personal data is inaccurate or that we are processing it without valid legal reason, you have the right to request that we restrict the processing of such personal data.
+    *   **Right to object to processing.** In cases where we are processing your personal data in pursuit of our legitimate interests, you have the right to object to this processing by referencing your personal circumstances.
+    *   **Rights related to automated decision-making.** You have the right not to be subjected to a decision based solely on automated processing (including profiling) if such a decision could have a legal or otherwise significant impact on you.
+    *   **Right to data portability.** You have the right to ask us to transfer the personal information you gave us to you or another organization. However, you only have this right when: (i) you have provided your personal information to us; (ii) the legal basis for the processing was your consent or the performance of a contract; and (iii) the processing was carried out by automated means.
+    *   **Right to withdraw consent.** Even if you had previously given your consent to the processing of your data for a specific purpose, you have the right to withdraw that consent.
+    *   **Right to lodge a complaint**. You can always exercise your rights by contacting us directly or, if all else fails, by lodging a complaint with a supervisory authority.
+    
+    Rights requests
+    
+    To exercise your rights, ask questions, or submit complaints regarding our privacy practices, or to appeal our decisions on your privacy rights requests, please contact us using the details provided in the "Contact us" section.
+    
+    **PLEASE NOTE:** You will be required to complete the Account verification process at a level appropriate to the request to verify you are the rightful owner of the Account in question. Only you (or an individual authorized by you) may make a request regarding your personal data. If you are an authorized representative acting on someone else's behalf, you may be asked to provide proof that the individual gave you signed permission to submit the request on their behalf.
+    
+    Account deletion
+    
+    You can delete your Account at any time. Log in to your [Nord Account](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96), navigate to "Account settings," go to the "Account deletion" section, and click the "Delete account" button. You will have to verify this request via email. Alternatively, you can delete your Account using our applications by following the instructions provided in corresponding [support guides](https://support.nordvpn.com/hc/en-us/articles/19477434542865-How-to-delete-my-NordVPN-account).
+    
+    Deleting your Account permanently removes your access to all Nord products and Services linked to that Account, including NordVPN, NordPass, and NordLocker. If you wish to delete your personal data associated only with a specific Nord product (such as NordVPN, NordPass or NordLocker), you will have to initiate the deletion separately. If you are unable to delete your Account using the means outlined above, please contact us using the details provided in the "Contact us" section.
+    
+6.  Your marketing choices
+    
+    Summary:
+    
+    You're in control of how we use your data for marketing. For example, you can turn off cookies or unsubscribe from marketing emails anytime.
+    
+    When it comes to using your personal data for marketing and analytics purposes, you can choose to:
+    
+    *   **Opt out of marketing communications.** Steps you need to take opting out of our marketing communications depend on the means of marketing communications:
+        
+        *   **Marketing emails:** You can opt out of our marketing emails at any time by updating the notification preferences in your [Nord Account](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96) settings or by clicking the "unsubscribe" link included in such email.
+        *   **Marketing in-app messages and push notifications:** You can turn off marketing in-app messages and push notifications by adjusting the notification preferences in your Nord Account settings, if this option is available for a specific Nord product. In addition, you can always disable all push notifications in your device simply by adjusting your device settings or our applications settings (if available) – this will turn off all push notifications (including marketing push notifications).
+        
+        Please note that opting out of marketing communications will not affect service-related or transactional notifications because they are necessary for provision of the Services in accordance with our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
+        
+    *   **Manage consent for cookies and similar tracking technologies:**
+        
+        *   **Websites:** You can manage your privacy preferences at any time using the "Cookie Preferences" link (or, depending on your location, the "Your privacy choices" link) in the footer of our Websites.
+        *   **Applications:** You have full control and can disable analytics and advertising at first use of applications and any time later in your "Privacy Preferences" settings, located in the application settings.
+7.  Data security
+    
+    Summary:
+    
+    We take your data security very seriously, using a number of protective measures to keep your personal information safe.
+    
+    We maintain control over the personal data we collect to ensure that it is adequately protected. Our dedicated IT security team has implemented appropriate physical, technical, and organizational measures to protect information about you against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure, or access, and against all other unlawful forms of processing. These safeguards include:
+    
+    *   **Physical measures.** We control access to our facilities using secure electronic access systems. We also use security alarm systems and CCTV. Devices with personal data are stored only in locked rooms or cabinets, while our printers are protected by access control measures. We also follow a clean desk policy.
+    *   **Technical measures.** We use a layered defense with firewalls, anti-malware protection, and intrusion detection and prevention systems. Our infrastructure is regularly updated, with vulnerability scans carried out periodically to detect possible gaps. We have security event and incident management solutions in place to correlate and investigate signals in security tools. Our servers are hardened and managed using automated configuration tools. All our workplaces are managed using a centralized endpoint management tool. We encrypt data at rest and in transit, using encryption protocols in accordance with the latest security practices.
+    *   **Organizational measures.** We have adopted information security and data processing policies in accordance with the best practices. We have undergone external audits to prove that our information security and data processing policies meet the required standards. When it comes to our employees, we consciously foster a culture of continuous improvement with regard to security and data protection awareness (including organizing regular and ongoing training, as well as engaging in other activities to raise awareness). We analyze our organization's threat landscape and attack surface to continuously update our security measures. Finally, access to databases containing personal data is granted only on a need-to-know basis.
+    
+    If we detect anything suspicious, we will notify you without undue delay and guide you through the steps you need to take to stay protected.
+    
+    **PLEASE NOTE:** No company can guarantee the total security of your internet communications because no technology is infallible. By using our Services/Websites, you expressly acknowledge that we cannot guarantee 100% security for any personal data provided to or received by us through the Services/Websites, and that any information received from you through the Services/Websites is provided at your own responsibility. If you have any reason to believe that your interactions with us are no longer secure, please notify us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
+    
+8.  Data retention and deletion
+    
+    Summary:
+    
+    We only keep your personal data for as long as we need it to provide our Services or comply with the law. Once there are no legitimate grounds for holding this information, we'll immediately dispose of it in a secure way.
+    
+    Nord will only keep your personal data for as long as it is necessary to provide you with our Services, or for as long as we have other legitimate grounds to do so (but not longer than permitted or required by law).
+    
+    Information retained until your Account is deleted
+    
+    We retain some of your data while your Account exists, including account details such as your email address, notification preferences, and certain usage information. This helps us improve our Services, understand how users interact with our features, and personalize your experience. You can delete your Account at any time.
+    
+    Retention for specific purposes
+    
+    We may need to retain certain information for a set amount of time (which may extend beyond the deletion of your Account) to meet business or legal requirements:
+    
+    *   **Legal compliance.** We retain billing and payment information for ten (10) years after your last transaction to comply with accounting, tax, and financial regulations.
+    *   **Marketing communications.** We may continue sending you marketing emails, push notifications, and/or in-app messages for up to one (1) year after your Subscription ends, unless you opt out earlier.
+    *   **Legal requests, claims, and disputes.** If you contact us (e.g., for support or data access requests), we may retain related communications for as long as necessary to resolve the matter and/or protect our legal rights.
+    
+    Please note that some of our Services may be subject to their own privacy notices or policies (as listed in the "Service-specific privacy notices" section), which may specify different lengths of time for data retention depending on the nature of the Service or applicable legal requirements.
+    
+    Secure disposal
+    
+    When we no longer have a valid reason to retain your personal data, it will either be:
+    
+    *   Permanently and securely deleted using industry-standard data destruction methods, or
+    *   Irreversibly anonymized so it can no longer be linked to you.
+9.  Country-specific provisions
+    
+    Summary:
+    
+    While some of your rights are rooted in this Privacy Policy, you may have additional rights available to you depending on your country. If you want to exercise them (or if you want to know more), simply contact us.
+    
+    For users in the United States
+    
+    Sharing in the last twelve (12) months
+    
+    In the past twelve (12) months, we have disclosed personal information for business purposes to the categories of service providers and contractors listed in the "Sharing your personal data" section.
+    
+    "Do not sell or share my personal information"
+    
+    We do not sell personal data to third parties. We share information gathered by cookies and other tracking technologies with our data analytics and advertising partners for our advertising. Consistent with applicable privacy laws (e.g., the California Consumer Privacy Act as amended by the California Privacy Rights Act, collectively referred to as the "**CCPA**"), you may opt-out of such processing of your personal data by disabling third-party cookies. To disable them when you first visit our Websites, please click the "Privacy controls" link on a cookie banner of the Website. If you'd like to adjust your choices later, you can manage your preferences at any time using the "Your privacy choices" link (or, depending on your location, the "Cookie preferences" link) in the footer of our Websites. To manage third-party provider settings via our applications and extensions, follow the instructions provided therein.
+    
+    "Do not track"
+    
+    For details on the use of cookies and tracking technologies on our Websites (including how we respond to "Do not track" signals), please see our [Cookie Policy](https://my.nordaccount.com/legal/cookie-policy/).
+    
+    Additional rights for California residents
+    
+    In addition to the rights described in the "Your privacy rights" section, California residents may also have the following rights under the provisions of the CCPA applying to the processing of personal information:
+    
+    *   **Right to opt out of sale/sharing.** You have the right to opt out of the sale or sharing of your personal information to third parties. However, please note that Nord does not sell your personal information as defined by the CCPA.
+    *   **Right to non-discrimination.** You have the right to not receive discriminatory treatment if and when you exercise your privacy rights under the CCPA.
+    *   **Right to limit the use of sensitive personal information.** In general, you have the right to limit the use of your sensitive personal information (as described in the CCPA) when such use goes beyond that which is necessary for providing the Service (or for certain other permissible purposes, like fraud prevention, customer service, or quality control). However, Nord does not process sensitive information in a manner which might give rise to this right.
+    
+    For users in the Republic of Korea
+    
+    As set out in this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties (along with additional Korea-specific terms) is provided in the Korean-specific Privacy Policy [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
+    
+10.  Children's data
+     
+     Summary:
+     
+     Nord's Services are not intended for children under 18, and we do not knowingly collect personal data from minors.
+     
+     We do not offer our Services to children and, therefore, do not knowingly collect or solicit personal data from anyone under the age of eighteen (18). If you are such an individual, please do not attempt to submit any personal data about yourself to Nord.
+     
+11.  Other terms
+     
+     Summary:
+     
+     We will do our best to keep your personal data safe, but you are ultimately responsible for your actions online while using our Services and Websites. In addition, this Privacy Policy does not apply to other websites, even if you got to them by following a link on our page. Finally, this document is not set in stone — but if we do change it in a way that significantly concerns you, we'll let you know.
+     
+     Limitation of liability
+     
+     It is important that you use our Services and Websites carefully and responsibly — if your actions violate someone else's privacy, rights, or any applicable laws, the responsibility lies with you and you alone. Nord is not liable for any consequences resulting from your unlawful, intentional, or careless actions, or for events that go beyond what Nord could reasonably control or foresee. For more details, please refer to our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
+     
+     Links to other websites
+     
+     Our apps or Websites may contain links to third-party websites (such as social media platforms), which are not operated by us. If you follow a link to one of these websites and share your personal data with them, that data will be handled according to their own privacy policies, which may differ from ours. We strongly encourage you to review them before providing any personal information.
+     
+     Prevailing language
+     
+     For all intents and purposes, the English language version of this Privacy Policy shall be the original, governing instrument and understanding between you and us. In the event of any conflict between this English language version of the Privacy Policy and any subsequent translation of it into any other language, the English language version shall prevail.
+     
+     Updates to this Privacy Policy
+     
+     We're continuously developing and improving our Services and Websites, which may require us to update this Privacy Policy from time to time. When the changes are significant and materially impact how we process your personal data, we will inform you in advance using reasonable means (such as in-app notifications, messages on our Websites, or by email).
+     
+     We always include the "last updated" date at the top of this Privacy Policy so that you know when changes were made. Unless stated otherwise, any updated version becomes effective as soon as it is published on the Website. We encourage you to review this Privacy Policy regularly to stay informed about how we protect your personal data. By continuing to use our Services and Websites after the changes are published, you agree to the updated terms.
+     
+12.  Contact us
+     
+     Summary:
+     
+     Legal documents can be tricky. If you have any questions about how we handle your personal data, this Privacy Policy, or if you wish to exercise your privacy rights, please contact us using the details provided below.
+     
+     If you have any questions, concerns, or complaints about this Privacy Policy or our handling of your personal data, or if you wish to exercise your privacy rights, please contact us directly:
+     
+     *   **Email:** [privacy@nordaccount.com](mailto:privacy@nordaccount.com);
+     *   **Postal address:** nordvpn S.A., PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Panama City, Republic of Panama.
+     
+     For the purposes of the GDPR, Nord's representative in the European Economic Area (**EEA**) is NordSec B.V. (email: [representative@nordsec.com](mailto:representative@nordsec.com); postal address: Fred. Roeskestraat 115, 1076 EE Amsterdam, the Netherlands).
+     
+     To oversee matters related to data privacy, Nord has also appointed a Data Protection Officer (email: [dpo@nordsec.com](mailto:dpo@nordsec.com)).
