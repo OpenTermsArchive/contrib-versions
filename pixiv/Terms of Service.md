@@ -764,38 +764,47 @@ Article 1. Definitions
     8.  “Remittance Restricted User” means a person who falls under one or both of the following:
         1.  A User who resides in a Subject Country; or
         2.  A User who designates an account with a financial institution in a Subject Country as the account for receiving a Deposit or Payment Funds.
-    9.  The Users of the preceding two items are referred to collectively as “Subject User”.
-    10.  “Sanctioned Person” means an individual or group whose transactions are restricted under laws and regulations etc. of the Japanese government or a foreign government etc.
+    9.  “Sanctioned Person” means an individual or group whose transactions are restricted under laws and regulations etc. of the Japanese government or a foreign government etc.
 
 Article 2. Restrictions on Settlement Restricted Users
 ------------------------------------------------------
 
-1.  The Company will not permit a Settlement Restricted User to use Obligation Payment Means, and the Company may choose not to accept a request by a Settlement Restricted User to use Obligation Payment Means.
-2.  If a Settlement Restricted User uses or attempts to use any Obligation Payment Means in violation of the preceding paragraph, the Company may choose not to provide any Obligation Payment Means to such Settlement Restricted User.
+1.  The Company will not permit a Settlement Restricted User to use Obligation Payment Means or any service within the Services that requires use of Obligation Payment Means (such service, a “Service Requiring Obligation Payment Means”), and the Company may choose not to accept a request by a Settlement Restricted User to use Obligation Payment Means or a Service Requiring Obligation Payment Means.
+2.  If a Settlement Restricted User uses or attempts to use any Obligation Payment Means or Service Requiring Obligation Payment Means in violation of the preceding paragraph, the Company may choose not to provide any Obligation Payment Means or Service Requiring Obligation Payment Means to such Settlement Restricted User.
+3.  If it is found that a User is a Settlement Restricted User, the Company may suspend such Settlement Restricted User from using any Service Requiring Obligation Payment Means.
+4.  If, at the time it is found that a User is a Settlement Restricted User, such Settlement Restricted User has paid money to the Company in the use of the Services, or has made payment to other Users using any Service Requiring Obligation Payment Means, the Settlement Restricted User shall pay the amount equivalent to the money paid by such Settlement Restricted User to the Company or the amount of the Deposit to the Company as a penalty.
+5.  The Company will be entitled to set off the penalty of the preceding paragraph against any money paid by a Settlement Restricted User to the Company or any Deposit regardless of whether the payment date has arrived and regardless of payment date order.
 
 Article 3. Restrictions on Remittance Restricted Users
 ------------------------------------------------------
 
 1.  A Remittance Restricted User must not use any Service with Remittance.
-2.  In the case where a Remittance Restricted User uses a Service with Remittance in violation of the preceding paragraph, if there is any Deposit or Payment Funds balance of such Remittance Restricted User, the Remittance Restricted User shall pay the amount of such Deposit or Payment Funds to the Company as a penalty.
-3.  The Company will be entitled to set off the penalty of the preceding paragraph against any Deposit or Payment Funds regardless of whether the payment date has arrived and regardless of payment date order.
+2.  If it is found that a User is a Remittance Restricted User, or if a Remittance Restricted User uses a Service with Remittance in violation of the preceding paragraph, the Company may suspend such Remittance Restricted User from using any Service with Remittance.
+3.  In the case of the preceding paragraph, if there is any Deposit or Payment Funds balance of such Remittance Restricted User, the Remittance Restricted User shall pay the amount of such Deposit or Payment Funds to the Company as a penalty.
+4.  The Company will be entitled to set off the penalty of the preceding paragraph against any Deposit or Payment Funds regardless of whether the payment date has arrived and regardless of payment date order.
 
 Article 4. Measures against Sanctioned Persons
 ----------------------------------------------
 
-1.  The Company may apply provisions relating to anti-social forces etc. specified in the Services Terms of Use against a Sanctioned Person and may take the following measures.
+1.  The Company may take the following measures against a Sanctioned Person.
 
 1.  If a Sanctioned Person directly or through a third party requests creation of an account for the Services: Refuse such request.
 2.  If a Sanctioned Person directly or through a third party creates an account for the Services and uses the Service as a User: Take the following measures:
 
-1.  Delete the account created by the Sanctioned Person;
-2.  Withhold Obligation Payment Means from the Sanctioned Person; or
-3.  Confiscate any Deposit or Payment Funds that may arise.
+1.  Suspend the use of the Services;
+2.  Delete the account created by the Sanctioned Person;
+3.  Withhold Obligation Payment Means from the Sanctioned Person; or
+4.  Confiscate any Deposit or Payment Funds that may arise.
 
 Supplementary Provisions
 ------------------------
 
 *   The Restrictions will be enforced from January 10, 2025.
+
+Revision
+--------
+
+*   February 17, 2026: Provisions relating to penalty and suspension of use of the Services were added to Article 2. Provisions relating to suspension of use of the Services were added to Article 3 and Article 4.
 
 Individual Terms of Use
 =======================
