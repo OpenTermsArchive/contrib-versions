@@ -60,7 +60,7 @@ Your subscription will remain active from the time you cancel until the end of y
 
 ### [](#3-paid-services-obtained-through-third-parties)3\. Paid Services Obtained Through Third Parties
 
-If you obtain a Telegram Premium subscription via a third party (e.g. Google Play, Apple App Store), your purchase may be further subject to the third party's terms as agreed between you and the third party. For paid services obtained via a third party, your billing relationship will be directly with the applicable third party.
+If you obtain a Telegram Premium subscription via a [third party](https://telegram.org/tos/third-party-payments) (e.g. Google Play, Apple App Store), your purchase may be further subject to the third party's terms as agreed between you and the third party. For paid services obtained via a third party, your billing relationship will be directly with the applicable third party.
 
 #### [](#3-1-refunding-services-obtained-through-third-parties)3.1 Refunding Services Obtained Through Third Parties
 
