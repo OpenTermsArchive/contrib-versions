@@ -140,7 +140,7 @@ We will not be liable for any losses you sustain as a result of updating or modi
 Please make sure that your login details, password and all your other account details remain confidential at all times. If you know or suspect that the security of your account is at risk, you should **[contact us](https://www.ikea.com/ie/en/customer-service/contact-us/)**.
 
 Eligibility to order products  
-You can only purchase from IKEA Shop Online if you are aged 18 or over and a resident of the United Kingdom. You will need an active email address and a telephone number so that we can easily contact you.
+You can only purchase from IKEA Shop Online if you are aged 18 or over and a resident of the Republic of Ireland. You will need an active email address and a telephone number so that we can easily contact you.
 
 All products sold through IKEA Shop Online are intended for domestic use only: products are not suitable for commercial or industrial use unless expressly stated.
 
