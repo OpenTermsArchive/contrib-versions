@@ -66,7 +66,7 @@ We may offer you the ability to interact with AI features, such as chatbots, age
 You will need to create an account and provide personal data to access most of our services. 
 
 *   Beginning November 18, 2025, we offer users the ability to log in to our services using an Indeed services account. By creating, logging into, connecting, and/or utilizing an Indeed services account to access our services, you agree to Indeed’s [Terms](https://www.indeed.com/legal?hl=en&from=gnav-homepage#tos) and acknowledge Indeed’s [Cookie](https://hrtechprivacy.com/brands/indeed#Cookies) and [Privacy Policy](https://hrtechprivacy.com/brands/indeed#privacypolicy) (“Indeed Login”).
-    *   Existing Glassdoor users may continue to log in to our services using our legacy account authentication system (“Legacy Login”) until February 18, 2025. After February 18, 2025, we will no longer offer Legacy Login and our services will only be accessible using Indeed Login.
+    *   Existing Glassdoor users may continue to log in to our services using our legacy account authentication system (“Legacy Login”) until April 20, 2026. Starting on April 20th, 2026, you may be required to log in with a connected account to get full access to Glassdoor.
     *   New users must utilize Indeed Login to access our services.
 *   By logging into our services using Indeed Login, you agree to connect your Glassdoor services account with your Indeed services account and create a “Connected Profile”, as described below:
     *   Your Profile information will be synchronized between our services and the Indeed services to keep it accurate and up to date.
