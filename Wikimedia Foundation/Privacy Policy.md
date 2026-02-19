@@ -70,7 +70,7 @@ Other languages:
 *   [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ba "Сер һаҡлау сәйәсәте (12% translated)")
 *   [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Палітыка канфідэнцыяльнасці (1% translated)")
 *   [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Палітыка прыватнасьці (87% translated)")
-*   [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Декларация за поверителност (40% translated)")
+*   [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Декларация за поверителност/Резюме (41% translated)")
 *   [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Купуялык саясаты (90% translated)")
 *   [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Заштита на личните податоци (5% translated)")
 *   [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Privacy policy (5% translated)")
