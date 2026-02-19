@@ -53,13 +53,13 @@ In this privacy notice:
 *   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
-Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are registered in Ireland under company number 326967. Our main switchboard is (01) 2037000 or you can email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are registered in Ireland under company number 326967. Our main switchboard is (01) 2037000 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 #### How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy notice, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can contact our Customer Care team on 1907.
+Your opinion matters to us – if you have any questions about our privacy notice, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can contact our Customer Care team on 1907.
 
-You may contact our Data Protection Officer by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or in writing to Mountainview, Leopardstown, Dublin 18.
+You may contact our Data Protection Officer by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or in writing to Mountainview, Leopardstown, Dublin 18.
 
 #### Our principles
 
@@ -335,11 +335,11 @@ Vodafone strives to only process and retain your data for as long as we need to.
 
 Right to object to processing where we rely on our legitimate interests:
 
-Please contact our Customer Care team on 1907 or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).  
+Please contact our Customer Care team on 1907 or email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).  
 
 Right to withdraw consent
 
-You can withdraw your consent anytime after giving it. Depending on how you provided your consent, you should be able to withdraw your consent in the same way. You can also contact our Customer Care team on 1907 or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).  
+You can withdraw your consent anytime after giving it. Depending on how you provided your consent, you should be able to withdraw your consent in the same way. You can also contact our Customer Care team on 1907 or email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).  
 
 To opt out of Marketing messages
 
@@ -358,7 +358,7 @@ There are various ways to opt out:
 *   Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
     
 
-Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) for guidance.
+Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
 
 Opting out does not mean that you won’t any longer receive service-related messages. You will continue to receive those (unless we have indicated otherwise).
 
@@ -372,9 +372,9 @@ Want to disable a cookie, or understand more about what these are? Check the [Co
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support.html) team or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help, but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support.html) team or email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). We’ll do our best to help, but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (1) 765 01 00 or 1800 437 737
     
@@ -838,9 +838,9 @@ How to contact us
 
 Your opinion matters to us. If you have any queries about our Privacy Statement or practices, please contact us.
 
-Our main switchboard is (01) 2037000 or you can email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com)
+Our main switchboard is (01) 2037000 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
-You may contact our Data Protection Officer by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or writing to Mountainview, Leopardstown, Dublin 18.
+You may contact our Data Protection Officer by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or writing to Mountainview, Leopardstown, Dublin 18.
 
 Personal information we collect about you
 
@@ -971,14 +971,14 @@ Right to access personal data
 You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please [download this form](https://binaries.vodafone.co.uk/tizrehont83j/122j4pENa7QlOO086rERsd/ea767982fdfa0a00b6ce07398a8c95e8/subject-access-request-form.pdf) and email or post it to the address on the form. Alternatively, you can contact the Customer Care on 1907.
 
 Right to data portability  
-You have the right to be able to take with your data you provided to us in certain circumstances. For example, Vodafone ensures that you can take your data with you by allowing you to download your monthly bills, at the click of a button, in a format of your choice. In order to do this, log in to My Vodafone and go to your billing area. Some specific apps and services allow you to take out the information stored by the user into Vodafone’s cloud and hosting services, for example Backup+. For any queries send an email to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+You have the right to be able to take with your data you provided to us in certain circumstances. For example, Vodafone ensures that you can take your data with you by allowing you to download your monthly bills, at the click of a button, in a format of your choice. In order to do this, log in to My Vodafone and go to your billing area. Some specific apps and services allow you to take out the information stored by the user into Vodafone’s cloud and hosting services, for example Backup+. For any queries send an email to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 Right to object to use of personal data
 
-In some cases you will have the right to object to use of personal data. Contact our Customer Care team on 1907 or email us at dataprotection.ie@vodafone.com
+In some cases you will have the right to object to use of personal data. Contact our Customer Care team on 1907 or email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 How to lodge a complaint  
-If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Care team at 1907 or email us at dataprotection.ie@vodafone.com. We’ll do our best to help but if you’re still unhappy, you can contact the Data Protection Commission who may be contacted by email [info@dataprotection.ie](mailto:info@dataprotection.ie) or by post to Data Protection Commission, Canal House, Station Road, Portarlington, or 32 AP23 Co Laois.
+If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Care team at 1907 or email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). We’ll do our best to help but if you’re still unhappy, you can contact the Data Protection Commission who may be contacted by email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or by post to Data Protection Commission, Canal House, Station Road, Portarlington, or 32 AP23 Co Laois.
 
 Right to restrict use of your data  
 If you feel data we hold on you is inaccurate or believe we shouldn’t be processing your data, please contact our Customer Care team on 1907 to discuss your rights. In certain circumstances you will have the right to ask us to restrict processing.
@@ -1355,7 +1355,7 @@ Vodafone’s Who’s Home service is provided solely by Vodafone Ireland Limited
 
 Contact details
 
-If you have any queries in any aspect of this privacy supplement, please contact [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+If you have any queries in any aspect of this privacy supplement, please contact [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 ### Vodafone TV
 
@@ -1403,7 +1403,7 @@ There are various ways to opt out:
     
 *   Disable push notification messages, including marketing messages, at any time in our apps by changing the notification settings on your device or by uninstalling the app;
     
-*   Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com)
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
     for guidance.
     
@@ -1449,13 +1449,13 @@ Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are 
 
 Our lead supervisory authority is the Data Protection Commissioner.
 
-*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:00353761104800)
     
 *   In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
-*   How to contact us Your opinion matters to us – if you have any queries about our Privacy Statement or practices, please contact us. Our main switchboard is [(01) 2037000](tel:0035312037000). You may contact our Data Protection Officer by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or writing to: Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
+*   How to contact us Your opinion matters to us – if you have any queries about our Privacy Statement or practices, please contact us. Our main switchboard is [(01) 2037000](tel:0035312037000). You may contact our Data Protection Officer by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or writing to: Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
     
 
 ### Personal information we collect about you
@@ -1522,7 +1522,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -1600,9 +1600,9 @@ Right to restrict use of your data
 If you wish to restrict the use of your data by Vodafone, please contact our Customer Services team on 1907. It is helpful to let us know the reason for your restriction request.
 
 How to lodge a complaint  
-If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via vodafone.ie or by email at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via vodafone.ie or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: [+353 (0)57 868 4757](tel:00353578684757) or [+353 (0)761 104 800](tel:353761104800)
     
@@ -1721,7 +1721,7 @@ Our main switchboard is +353 1 2037000.
 
 How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can write to our privacy team at:
+Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Data Protection Officer  
 Vodafone Ireland  
@@ -1822,7 +1822,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -1901,7 +1901,7 @@ Right to correct personal data
 If you become aware that any of the information we keep about you is incorrect or outdated, you can log into your My Vodafone account to edit your personal details. Alternatively, please contact customer care on 1907.
 
 Right to access personal data  
-If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) including details of the account in question or any accounts you have previously had.
+If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) including details of the account in question or any accounts you have previously had.
 
 We will confirm receipt of your request and ensure that you receive this information within one month of the date of your request.
 
@@ -1916,9 +1916,9 @@ Right to object to use of personal data
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: info@dataprotection.ie
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
@@ -1926,11 +1926,11 @@ If you want to contact us about any of your rights, or to enquire or make a comp
     
 
 Right to restrict use of your data  
-If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
+If you wish to restrict the use of your data by Vodafone, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). It is helpful to let us know the reason for your restriction request.
 
 Right to erasure
 
-If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) to let us know what information you would like to have deleted.
+If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to let us know what information you would like to have deleted.
 
 We will send you confirmation when your request has been completed. Please note that if you have an active service with us, much of the information that we keep about you cannot be deleted as this is required to provide you with the service to you and to provide support to you.
 
@@ -1970,7 +1970,7 @@ Our main switchboard is +353 1 2037000.
 
 How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can write to our privacy team at:
+Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
 
@@ -2055,7 +2055,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2128,7 +2128,7 @@ Below we set out details on how you can exercise your rights. If you have a ques
 
 Right to correct personal data If you become aware that any of the information we keep about you is incorrect or outdated, you can log into your My Vodafone account to edit your personal details. Alternatively, please contact customer care on 1907.
 
-Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) including details of the account in question or any accounts you have previously had.
+Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) including details of the account in question or any accounts you have previously had.
 
 We will confirm receipt of your request and ensure that you receive this information within one month of the date of your request.
 
@@ -2143,9 +2143,9 @@ Right to object to use of personal data
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: info@dataprotection.ie
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
@@ -2154,11 +2154,11 @@ If you want to contact us about any of your rights, or to enquire or make a comp
 
 Right to restrict use of your data
 
-If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
+If you wish to restrict the use of your data by Vodafone, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). It is helpful to let us know the reason for your restriction request.
 
 Right to erasure
 
-If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) to let us know what information you would like to have deleted.
+If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to let us know what information you would like to have deleted.
 
 We will send you confirmation when your request has been completed. Please note that if you have an active service with us, much of the information that we keep about you cannot be deleted as this is required to provide you with the service to you and to provide support to you.
 
@@ -2229,7 +2229,7 @@ Our main switchboard is +353 1 2037000.
 
 How to contact us
 
-Your opinion matters to us –if you have any questions about our privacy policy, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can write to our privacy team at:
+Your opinion matters to us –if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Data Protection Officer Vodafone Ireland Mountain View Leopardstown Dublin 18 Ireland
 
@@ -2325,7 +2325,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2402,7 +2402,7 @@ Below we set out details on how you can exercise your rights. If you have a ques
 
 Right to correct personal data If you become aware that any of the information we keep about you is incorrect or outdated, you can log into your My Vodafone account to edit your personal details. Alternatively, please contact customer care on 1907.
 
-Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) including details of the account in question or any accounts you have previously had.
+Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) including details of the account in question or any accounts you have previously had.
 
 We will confirm receipt of your request and ensure that you receive this information within one month of the date of your request.
 
@@ -2412,20 +2412,20 @@ Right to object to use of personal data · If you do not want your personal info
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: info@dataprotection.ie
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
 *   In writing: Data Protection Office, Canal House, Station Road, Portarlington, County Laois, R32 AP23, or Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
     
 
-Right to restrict use of your data If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
+Right to restrict use of your data If you wish to restrict the use of your data by Vodafone, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). It is helpful to let us know the reason for your restriction request.
 
 Right to erasure
 
-If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) to let us know what information you would like to have deleted.
+If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to let us know what information you would like to have deleted.
 
 We will send you confirmation when your request has been completed. Please note that if you have an active service with us, much of the information that we keep about you cannot be deleted as this is required to provide you with the service to you and to provide support to you.
 
@@ -2463,7 +2463,7 @@ Our main switchboard is +353 1 2037000.
 
 How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can write to our privacy team at:
+Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Data Protection Officer
 
@@ -2603,7 +2603,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2685,7 +2685,7 @@ Below we set out details on how you can exercise your rights. If you have a ques
 
 Right to correct personal data If you become aware that any of the information we keep about you is incorrect or outdated, you can log into your My Vodafone account to edit your personal details. Alternatively, please contact customer care on 1907.
 
-Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) including details of the account in question or any accounts you have previously had.
+Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) including details of the account in question or any accounts you have previously had.
 
 We will confirm receipt of your request and ensure that you receive this information within one month of the date of your request.
 
@@ -2702,9 +2702,9 @@ Right to object to use of personal data
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: info@dataprotection.ie
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
@@ -2713,11 +2713,11 @@ If you want to contact us about any of your rights, or to enquire or make a comp
 
 Right to restrict use of your data
 
-If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
+If you wish to restrict the use of your data by Vodafone, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). It is helpful to let us know the reason for your restriction request.
 
 Right to erasure
 
-If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) to let us know what information you would like to have deleted.
+If you would like us to remove your personal data from our records, you can request this by logging into your My Vodafone account. If you do not have an active account, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to let us know what information you would like to have deleted.
 
 We will send you confirmation when your request has been completed. Please note that if you have an active service with us, much of the information that we keep about you cannot be deleted as this is required to provide you with the service to you and to provide support to you.
 
@@ -2779,7 +2779,7 @@ V-Auto is powered by our processor, Vodafone Automotive Italia SpA.
 
 How to contact us
 
-Your opinion matters to us –if you have any questions about our privacy policy, you can email us at: [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) or you can write to our privacy team at:
+Your opinion matters to us –if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Data Protection Officer
 
@@ -2900,7 +2900,7 @@ There are various ways to opt out:
     
 *   Tell the adviser if you receive an outbound marketing call;
     
-*   Email \[data.protection.ie@vodafone.com\] for guidance.
+*   Email \[[\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)\] for guidance.
     
 
 Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms & Conditions change. You will still continue to receive those (unless we have indicated otherwise).
@@ -2991,7 +2991,7 @@ Right to correct personal data
 
 If you become aware that any of the information we keep about you is incorrect or outdated, you can log into your My Vodafone account to edit your personal details. Alternatively, please contact customer care on 1907.
 
-Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) including details of the account in question or any accounts you have previously had.
+Right to access personal data If you are a current customer and would like a copy of your personal data, you can submit your request by logging into your My Vodafone account. If you are not an active customer, please send your request to [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) including details of the account in question or any accounts you have previously had.
 
 We will confirm receipt of your request and ensure that you receive this information within one month of the date of your request.
 
@@ -2999,9 +2999,9 @@ Right to data portability You can submit a portability request by this by loggin
 
 Right to object to use of personal data · If you do not want your personal information to be used for any purpose, other than those necessary to provide a service to you, please let us know by selecting your data preferences. You can change your preferences at any time using your My Vodafone account, by selecting ‘settings’ on the My Vodafone App or by calling 1800 200 234. For customers without a Vodafone mobile number, you can manage your permissions in the V by Vodafone App.
 
-How to lodge a complaint If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at dataprotection.ie@vodafone.com We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
+How to lodge a complaint If you want to contact us about any of your rights, or to enquire or make a complaint about how we use your information, contact our Customer Services team via v.vodafone.com or by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
-*   Email: info@dataprotection.ie
+*   Email: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
     
 *   Phone: +353 (0)57 868 4757 or +353 (0)761 104 800
     
@@ -3010,7 +3010,7 @@ How to lodge a complaint If you want to contact us about any of your rights, or 
 
 Right to restrict use of your data
 
-If you wish to restrict the use of your data by Vodafone, please email [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). It is helpful to let us know the reason for your restriction request.
+If you wish to restrict the use of your data by Vodafone, please email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). It is helpful to let us know the reason for your restriction request.
 
 Our cookie policy
 
@@ -3092,11 +3092,11 @@ In this privacy policy:
 
 Vodafone Ireland limited is a private Company Limited by Shares, registered in Ireland with registered office at MountainView, Leopardstown, Dublin18. We are registered in Ireland under company number 326967.
 
-Our main switchboard is 1907 or you can email us at dataprotection.ie@vodafone.com .
+Our main switchboard is 1907 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) .
 
 ### How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: dataprotection.ie@vodafone.com com or you can write to our privacy team at:
+Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) com or you can write to our privacy team at:
 
 Vodafone Privacy Team
 
@@ -3203,7 +3203,7 @@ There are various ways to opt out:
     
 *   Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 *   Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
     
@@ -3275,27 +3275,27 @@ Below we set out details on how you can exercise your rights. If you have a ques
 
 Right to correct personal data
 
-You have the right to have your personal data corrected if it is incorrect. You can request this by contacting our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to have your personal data corrected if it is incorrect. You can request this by contacting our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to access personal data
 
-You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please contact the Customer Services online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please contact the Customer Services online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to data portability
 
-You have the right to port your data. You can request this by contacting our Customer Services Team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to port your data. You can request this by contacting our Customer Services Team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to object to use of personal data
 
-In certain circumstances, you have the right to object to the use of your personal data. Contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+In certain circumstances, you have the right to object to the use of your personal data. Contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com. We’ll do our best to help but if you’re still unhappy, you can contact by post to the Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23 Co Laois.”
+If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). We’ll do our best to help but if you’re still unhappy, you can contact by post to the Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23 Co Laois.”
 
 Right to restrict use of your data
 
-If you feel data we hold on you is inaccurate or believe we shouldn’t be processing your data, please contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com to discuss your rights. In certain circumstances you will have the right to ask us to restrict processing.  
+If you feel data we hold on you is inaccurate or believe we shouldn’t be processing your data, please contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to discuss your rights. In certain circumstances you will have the right to ask us to restrict processing.  
   
 
 Right to erasure
@@ -3340,11 +3340,11 @@ In this privacy policy:
 
 Vodafone Ireland limited is a private Company Limited by Shares, registered in Ireland with registered office at MountainView, Leopardstown, Dublin18. We are registered in Ireland under company number 326967.
 
-Our main switchboard is 1907 or you can email us at dataprotection.ie@vodafone.com .
+Our main switchboard is 1907 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) .
 
 How to contact us
 
-Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: dataprotection.ie@vodafone.com or you can write to our privacy team at:
+Your opinion matters to us – if you have any questions about our privacy policy, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can write to our privacy team at:
 
 Vodafone Privacy Team
 
@@ -3449,7 +3449,7 @@ There are various ways to opt out:
     
 *   Tell the adviser you no longer want to be marketed to, if you receive an outbound marketing call;
     
-*   Email dataprotection.ie@vodafone.com for guidance.
+*   Email [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) for guidance.
     
 *   Opting out does not mean that you won’t any longer receive service-related messages, such as messages telling you about your order status or when our Terms and Conditions change. You will still continue to receive those (unless we have indicated otherwise). You may also receive marketing via push notifications if you have not turned them off via your App settings.
     
@@ -3523,27 +3523,27 @@ Below we set out details on how you can exercise your rights. If you have a ques
 
 Right to correct personal data
 
-You have the right to have your personal data corrected if it is incorrect. You can request this by contacting our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to have your personal data corrected if it is incorrect. You can request this by contacting our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to access personal data
 
-You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please contact the Customer Services online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please contact the Customer Services online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to data portability
 
-You have the right to port your data. You can request this by contacting our Customer Services Team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+You have the right to port your data. You can request this by contacting our Customer Services Team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 Right to object to use of personal data
 
-In certain circumstances, you have the right to object to the use of your personal data. Contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com
+In certain circumstances, you have the right to object to the use of your personal data. Contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com. We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission - by post to Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23 Co Laois.
+If you want to contact us about any of your rights or if complain about how we use your information, contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection). We’ll do our best to help but if you’re still unhappy, you can contact Data Protection Commission - by post to Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23 Co Laois.
 
 Right to restrict use of your data
 
-If you feel data we hold on you is inaccurate or believe we shouldn’t be processing your data, please contact our Customer Services team online or by calling 1907 or emailing dataprotection.ie@vodafone.com to discuss your rights. In certain circumstances you will have the right to ask us to restrict processing.
+If you feel data we hold on you is inaccurate or believe we shouldn’t be processing your data, please contact our Customer Services team online or by calling 1907 or emailing [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to discuss your rights. In certain circumstances you will have the right to ask us to restrict processing.
 
 Right to erasure
 
@@ -3831,7 +3831,7 @@ Please visit your My Vodafone account or call 1800 200 234 if you want to check 
 
 ### I am receiving communications from Vodafone but am not a Vodafone customer. What should I do?
 
-If you are not a Vodafone customer, please contact us at 01 2037000 or at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com) to report any unwanted communications that you have received.
+If you are not a Vodafone customer, please contact us at 01 2037000 or at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) to report any unwanted communications that you have received.
 
 We may need to collect some information from you in order to investigate this, (for example, we may ask for your email address and information on the content of the email received).
 
@@ -3861,7 +3861,7 @@ If you feel that you did not receive all the personal data that you expected, pl
 
 Please contact us if you have any queries about the personal data you have received.
 
-If you are not satisfied, you have the right to complain to the Data Protection Officer at Dataprotection.ie@vodafone.com
+If you are not satisfied, you have the right to complain to the Data Protection Officer at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection)
 
 ### I want to have all of my personal data deleted under the right to be forgotten
 
@@ -3871,7 +3871,7 @@ While we need to collect and store your personal data in order to manage your ac
 
 If you decide to cease your service, we will retain your personal data for a reasonable period to allow us to answer any queries you might have after you close your account. We may need to extend this period if we require your data for other purposes, such as recovering any outstanding balances.
 
-You can request to have your personal data deleted through your online account, or by contacting Vodafone by phone or in store. If you do not have an active account, or if you wish to make a request regarding specific information that you would like us to delete please email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+You can request to have your personal data deleted through your online account, or by contacting Vodafone by phone or in store. If you do not have an active account, or if you wish to make a request regarding specific information that you would like us to delete please email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 You will receive a response within one month of receipt of your request.
 
@@ -3879,7 +3879,7 @@ You will receive a response within one month of receipt of your request.
 
 You can update your contact information (address, email etc.) using your My Vodafone online account.
 
-If you become aware that Vodafone may have other information that is incorrect or outdated relating to you, you can submit a request to have this rectified by emailing us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com).
+If you become aware that Vodafone may have other information that is incorrect or outdated relating to you, you can submit a request to have this rectified by emailing us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 You will receive a notification of completion of your request within 30 days.
 
