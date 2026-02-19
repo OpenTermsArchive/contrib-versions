@@ -87,7 +87,7 @@ Lutakonaukio 7
 
 40100 Jyväskylä
 
-[www.paytrail.com](https://www.vr.fi/enwww.paytrail.com)
+[www.paytrail.com﻿, Opens in a new tab](https://www.paytrail.com/en/)
 
 2 Luggage, pets and children travelling alone
 ---------------------------------------------
