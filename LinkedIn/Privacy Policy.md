@@ -107,7 +107,7 @@ Table of Contents
     
     #### Related Companies and Other Services
     
-    We receive data about you when you use some of the other services provided by us or our [Affiliates](https://lithograph.linkedin.com/preview/en-us/legal/privacy-policy#key-terms-1), including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services or we may receive information from Microsoft about your engagement with their sites and services.
+    We receive data about you when you use some of the other services provided by us or our [Affiliates](#key-terms-1), including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services or we may receive information from Microsoft about your engagement with their sites and services.
     
     ### 1.3 Service Use
     
