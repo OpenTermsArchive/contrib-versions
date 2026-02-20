@@ -62,7 +62,7 @@ How we use your information
 
 Under certain data protection laws like GDPR, companies must have a “legal basis”—a valid reason—to process personal information. Discord relies on different legal bases to process your information for the purposes described in this Privacy Policy. We use the Information We Collect—[Account information](https://discord.com/privacy#:~:text=Account%20information.), [Content you create](https://discord.com/privacy#:~:text=a%20display%20name.-,Content%20you%20create.,-This%20includes%20any), [Payment information](https://discord.com/privacy#:~:text=you%20create%20servers.-,Payment%20information.,-If%20you%20buy), [Information from actions you take](https://discord.com/privacy#:~:text=Information%20from%20actions%20you%20take.), [Information used to enable optional features](https://discord.com/privacy#:~:text=Information%20used%20to%20enable%20optional%20features.), [Other information you provide directly to us](https://discord.com/privacy#:~:text=Other%20information%20you%20provide%20directly%20to%20us.), [Information about your device](https://discord.com/privacy#:~:text=Information%20about%20your%20device.), [Information about your use of the apps or websites](https://discord.com/privacy#:~:text=Information%20about%20your%20use%20of%20the%20apps%20or%20websites.), [other information that we collect automatically](https://discord.com/privacy#:~:text=Other%20information%20that%20we%20collect%20automatically.), and [Information we receive from other sources](https://discord.com/privacy#:~:text=Cookie%20Policy.-,Information%20we%20receive%20from%20other%20sources,We%20may%20receive,-information%20about%20you)—for the following reasons and according to these legal bases (where applicable). For each reason, we describe how we process your information to achieve each purpose. This processing can include use of automated technologies such as machine learning systems that help us power and improve our services. In certain jurisdictions, we rely on consent (implied or express) to collect, use and disclose personal information, subject to limited exceptions. As a result, the legal bases below may not apply to you. Please see Information About Local Privacy Laws page located [here](https://discord.com/terms/local-laws).
 
-‍**To fulfill our contract with you**
+**To fulfill our contract with you**
 
 *   **To provide you with the services**. We use your information to provide you with the Discord services. For example, when you start a video call, we process your images and audio to make that work. We similarly collect and store the messages you send and display them as you direct. We also use the information you provide to us to create and manage your account and to facilitate purchases. When you enable optional features (like connecting your Discord account to other platforms), we use information to power the feature (like displaying what song you are listening to or game you are playing on another service within the Discord app).
 *   **To meet our commitments to the Discord community**. We work hard to try to make Discord a safe, positive, and inclusive place. To do so, we use your information to monitor for and take action against users and content that violate our [Terms of Service](http://discord.com/terms), [Community Guidelines](https://discord.com/guidelines), and [other policies](https://support.discord.com/hc/en-us/articles/4420312247575). This includes responding to user reports, generating transcriptions of content as part of our investigation, detecting fraud and malware, and proactively scanning attachments and other content for illegal or harmful activity. We also use certain information, which may include content reported to us, content that violates our [Terms of Service](http://discord.com/terms), and certain other content widely available on the service (such as public posts, usernames, avatars, banners, user profiles, server names, server icons, and server banners), [to create systems and models](https://discord.com/privacy#2) that can be automated to more swiftly detect, categorize, and take action against prohibited content or conduct.
@@ -83,11 +83,11 @@ Under certain data protection laws like GDPR, companies must have a “legal bas
 
 We retain and use your information in connection with potential legal claims when necessary and for compliance, regulatory, and auditing purposes. For example, we retain information where we are required by law or if we are compelled to do so by a court order or regulatory body. Also, when you exercise any of your applicable legal rights to access, amend, or delete your personal information, we may request additional information from you for the purpose of confirming your identity.
 
-‍**With your consent**
+**With your consent**
 
 ‍We may also collect and use personal information with your consent, such as to send you marketing communications and personalize sponsored content where legally required. You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information.
 
-‍**To protect someone’s vital interests**
+**To protect someone’s vital interests**
 
 We may collect or share personal data if we think someone’s life is in danger—for example, to help resolve an urgent medical situation.
 
@@ -118,11 +118,11 @@ How to control your privacy
 
 We believe that users should be able to tailor their Discord experience to their preferences, including privacy. And while local laws may require different things, we believe that our users should have at least the same basic ability to shape their experience no matter where they are in the world. Here’s how you can control how we process your information, how to delete or correct certain information, and how to request access to your information. Users in certain places may have specific rights under their local laws. You can learn more about these in the [Information About Local Privacy Laws page](https://discord.com/terms/local-laws).
 
-‍**Be aware of the Discord spaces you choose to participate in**
+**Be aware of the Discord spaces you choose to participate in**
 
 You can choose what spaces to participate in and what information you add to our services. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in certain spaces, such as servers listed in Server Discovery or with public invite links, your content may be accessed by anyone.
 
-‍**Customize your personal Discord settings**
+**Customize your personal Discord settings**
 
 We offer a number of settings that allow you to tailor your experience within Discord. Some of these relate to specific features: for example, you can choose whether to display your current activity (like the game you are playing or the music you are listening to) in your status in your User Settings page (this is the gear icon next to your username).
 
