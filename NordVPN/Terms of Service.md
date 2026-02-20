@@ -191,3 +191,9 @@ Last Updated: February 16, 2026
      
      1.  If you have questions regarding the Terms, please contact us at [support@nordaccount.com](mailto:support@nordaccount.com).
      2.  For contacts regarding any allegations of abuse, please see the Service-Specific Terms of each of our Services.
+
+Table of contents
+
+* * *
+
+[*   Introduction](#Introduction)[*   Your agreement with Nord](#Your agreement with Nord)[*   Subscription and auto-renewals](#Subscription and auto-renewals)[*   Your user account](#Your user account)[*   Prices and payments](#Prices and payments)[*   Automatic renewal cancellation and refund policy](#Automatic renewal cancellation and refund policy)[*   License terms; Intellectual property](#License terms; Intellectual property)[*   Prohibited and restricted use](#Prohibited and restricted use)[*   Disclaimer of warranties](#Disclaimer of warranties)[*   Limitation of liabilities](#Limitation of liabilities)[*   Indemnification](#Indemnification)[*   Suspension and termination](#Suspension and termination)[*   Application platform terms](#Application platform terms)[*   Bundled subscriptions and third-party services](#Bundled subscriptions and third-party services)[*   Governing law and dispute resolution](#Governing law and dispute resolution)[*   Miscellaneous](#Miscellaneous)[*   Contact us](#Contact us)
