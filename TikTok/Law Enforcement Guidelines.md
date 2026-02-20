@@ -4,7 +4,7 @@ _Last updated: January 22, 2026_
 
   
 
-These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](https://www.tiktok.com/legal/page/global/law-enforcement/en#FAQ).
+These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#FAQ).
 
 In line with our [human rights statement](https://www.tiktok.com/transparency/en-us/upholding-human-rights/), TikTok is committed to cooperating with law enforcement while respecting the privacy, freedom of expression, and other rights of its users.
 
