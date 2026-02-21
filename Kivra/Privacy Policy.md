@@ -1,7 +1,7 @@
 Privacy notice
 ==============
 
-Here we have gathered information about how we process your personal data. This data protection information is effective from 2025-09-12.
+Here we have gathered information about how we process your personal data. This data protection information is effective from 2026-02-20.
 
 ### **We protect your privacy**
 
@@ -192,6 +192,13 @@ _Here is how we process your personal data throughout the entire recruitment jou
 | **Carry out and assess case assignments/work samples** (to evaluate practical skills) | Name, results from case/work sample, possible link to external platform where work sample was performed (e.g. GitHub) | Our legitimate interest in being able to assess your practical skills and your suitability for the position applied for | 180 days after completion of process for specific service | Teamtailor AB<br><br>which provides a recruitment platform in the EU/EEA in the role of Kivra's personal data assistant. |
 
 **3.4 In other interactions and legal obligations**
+
+**3.4.1 When you receive digital receipts without being a Kivra User** Here is a description of how your personal data is handled if you receive digital receipts without being a Kivra User. Kivra then processes your personal data for analysis on an overall level in order to develop and improve our services.
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Purpose | Categories of personal data and source of the data | Legal basis | How long is the personal data used for the purpose? | Who do we share personal data with? |
+| Process your personal data and use it for so-called business intelligence and business development, i.e. to understand how our services are used so that we can make appropriate business and product development decisions. | **Information about your Content** (From the Sender) | Balancing of interests motivated by Kivra's legitimate interest in making appropriate business and product development decisions. | The data is anonymized 48 hours after processing. | Google Cloud EMEA Limited providing data storage and analytics infrastructure in the EU/EEA in the role of data processor. Hex Technologies Inc. providing an analytics and visualization service in the EU/EEA in the role of Kivra's data processor. Tableau Ireland providing an analytics and visualization service in the EU/EEA in the role of Kivra's data processor. |
 
 **3.4.1 When you interact with us on social media**
 
