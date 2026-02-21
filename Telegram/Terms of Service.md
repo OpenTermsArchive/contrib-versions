@@ -412,7 +412,7 @@ Requests can be accepted in English and French.
 
 No. The EU Digital Services Act (DSA) requires certain services (which it describes as “online platforms”) to publish information about their average monthly active users in the European Union.
 
-Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2025, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
+Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of February 2026, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
 
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
