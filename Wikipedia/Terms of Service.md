@@ -49,7 +49,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 |     |     |
 | --- | --- |
@@ -191,12 +191,8 @@ To grow the commons of free knowledge and free culture, all users contributing t
 You agree to the following licensing requirements:
 
 1.  **Text to which you hold the copyright:** When you submit text to which you hold the copyright, you agree to license it under:
-    
     *   [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en) ("CC BY-SA 4.0"), and
-    *   [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html) ("GFDL") (unversioned, with no invariant sections, front-cover texts, or back-cover texts).
-    
-    Reusers may comply with either license or both.  
-    The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under the particular license prescribed by the Project edition or the feature. Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms of the respective licenses. Where you own Sui Generis Database Rights covered by CC BY-SA 4.0, you waive these rights. As an example, this means facts you contribute to the projects may be reused freely without attribution.
+    *   [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html) ("GFDL") (unversioned, with no invariant sections, front-cover texts, or back-cover texts).Reusers may comply with either license or both. The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under the particular license prescribed by the Project edition or the feature. Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms of the respective licenses. Where you own Sui Generis Database Rights covered by CC BY-SA 4.0, you waive these rights. As an example, this means facts you contribute to the projects may be reused freely without attribution.
 2.  **Attribution:** Attribution is an important part of these licenses. We consider it giving credit where credit is due – to authors like yourself. When you contribute text, you agree to be attributed in any of the following fashions:
     1.  Through hyperlink (where possible) or URL to the article to which you contributed (since each article has a history page that lists all contributors, authors and editors);
     2.  Through hyperlink (where possible) or URL to an alternative, stable online copy that is freely accessible, which conforms with the relevant license, and which provides credit to the authors in a manner equivalent to the credit given on the Project Website; or
@@ -255,7 +251,6 @@ The community has the primary role in creating and enforcing policies applying t
 
 It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons . However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community. Please note that this contact method functions as the Foundation’s grievance redressal mechanism for all jurisdictions that require one. Grievances submitted through this contact will be reviewed, in accordance with applicable legal requirements.
 
-  
 Each Project will usually provide "Help" or "Contact" pages for further guidance, or specific tools for reporting issues. Alternatively – if in doubt – you can ask members of the community for help, by sending an email to info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org or a more language-specific address from the . Please note that these mailboxes are monitored by users of the Projects, not the Foundation. As a result, they should not be threatened or issued with legal demands.
 
 If you contact the Foundation with a problem, we will typically explore whether and how existing community-led mechanisms can investigate and, where appropriate, resolve it.
@@ -279,7 +274,7 @@ Especially problematic users who have had accounts or access blocked on multiple
 
 The blocking of an account or access or the banning of a user under this provision shall be in accordance with Section 13 of these Terms of Use.
 
-If you believe we have not satisfactorily acted on a problematic content report, or if you have been subjected to a Foundation moderation action that you wish to challenge, you may be able to .  Other information about routes of appeal may also be explained to you at the time, or in Project-specific help pages.
+If you believe we have not satisfactorily acted on a problematic content report, or if you have been subjected to a Foundation moderation action that you wish to challenge, you may be able to . Other information about routes of appeal may also be explained to you at the time, or in Project-specific help pages.
 
 We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures. Additional information for persons in the EU can be found on .
 
@@ -374,10 +369,10 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 * * *
 
-**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**
+Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=549863](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=549863)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=554823](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=554823)"
 
 :
