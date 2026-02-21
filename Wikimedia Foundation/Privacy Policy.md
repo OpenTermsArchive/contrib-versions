@@ -131,7 +131,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Wikimedia Foundation Privacy Policy
 
@@ -569,4 +569,4 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=544281](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=544281)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=555910](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=555910)"
