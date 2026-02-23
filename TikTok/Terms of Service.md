@@ -16,7 +16,10 @@ While we encourage you to read these Terms in full, click [here](https://www.tik
 
 _In short: This is a contract between you and TikTok. You should read it and any other terms that apply to you._
 
+  
+
 **1\. Who your contract is with**
+---------------------------------
 
 The company you are contracting with depends on where you are resident or have your principal place of business:
 
@@ -28,6 +31,7 @@ We and the companies affiliated with us (such as TikTok Information Technologies
 _In short: The specific TikTok company your contract is with depends on where you live. If we say_ “_TikTok_”_,_ “_we_” _or_ “_us_” _in these Terms, we mean that company unless we say otherwise._
 
 **2\. The services covered by these Terms**
+-------------------------------------------
 
 These Terms govern your use of TikTok services, which includes TikTok apps, websites, software and related services (the “**Platform**”). Our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) also form part of our contract with you and, by agreeing to these Terms, you agree that you will comply with them and that you will not circumvent them.
 
@@ -36,6 +40,7 @@ Your use of TikTok’s Commercial Products (defined in the Commercial Terms of S
 _In short: These Terms apply to your use of all TikTok services (except Commercial Products) however you access them. You must also follow our Community Guidelines and any other terms and policies that apply to you._
 
 **3\. Additional terms that apply if you use certain features**
+---------------------------------------------------------------
 
 The additional terms and policies below apply to certain products or features of the Platform, or if you use the Platform for business or commercial purposes. Where they apply, they form part of these Terms and your contract with us and you must comply with, and not circumvent, them.
 
@@ -57,6 +62,7 @@ Further terms may apply to certain activities. We will let you know about these 
 _In short: There are some additional terms and policies that apply if you access additional functionality, post or live stream certain kinds of content, or use the Platform for business or commercial purposes._
 
 **4\. Using the Platform**
+--------------------------
 
 **4.1 Our Platform and business model**
 
@@ -207,6 +213,7 @@ If you choose to submit comments, ideas or feedback to us, you agree we can use 
 _In short: When you post content to the Platform, it remains yours. But we can use your content to provide the Platform, and if you choose to make it available to others, we can show it to other users. Those other users may be able to reuse it too. That is what our Platform is all about. If you later take it down, copies of it made by others may stay on the Platform._
 
 **5\. What we promise to you**
+------------------------------
 
 We promise to use reasonable skill and care and to act with professional diligence for so long as we choose to offer the Platform. We will also take all reasonable steps to keep the Platform a safe and secure environment for our users. We do not promise to offer the Platform forever or in its current form for any particular period of time.
 
@@ -237,6 +244,7 @@ If you are an EEA-based consumer, then EEA consumer laws provide you with a lega
 _In short: We always want you to have a great and safe user experience, but you take the Platform as it is and understand we do not control everything on it. We also cannot promise all content posted on the Platform is to your liking. If you are an EEA consumer, you have a legal guarantee covering the Platform, and you can make a claim under this by contacting us._
 
 **6\. Restricting, suspending or ending our relationship**
+----------------------------------------------------------
 
 **6.1 Your rights**
 
@@ -266,6 +274,7 @@ We can request that you install updates or automatically update or modify the Pl
 _In short: We have rules you must follow. If you break them, we can take action against you which may include terminating your account._
 
 **7\. Changes to these Terms or the Platform**
+----------------------------------------------
 
 **7.1 What happens when we make changes**
 
@@ -294,6 +303,7 @@ Reasons we might make changes to these Terms or the Platform are:
 _In short: We can make changes to these Terms or the Platform for a limited number of reasons._
 
 **8\. Resolving disputes**
+--------------------------
 
 If we have a dispute, we will first try and resolve it with you amicably.
 
@@ -309,6 +319,7 @@ If you are operating a business, please see our [Business Terms](https://www.tik
 _In short: We hope we do not get into a dispute but, if we do, there are a couple of ways we can try to resolve it._
 
 **9\. Other**
+-------------
 
 These Terms, and any rights and permissions granted in them, cannot be transferred by you, but may be transferred by TikTok. If we do so, this will not negatively affect any rights you may have as a consumer. And, if you are not happy, you always have the right to terminate this contract and stop using the Platform at any time.
 
@@ -323,6 +334,7 @@ Even if we or you delay in enforcing these Terms, either of us can still enforce
 _In short: Just because you or we do not rely on one of these Terms, this does not change the fact that we both agree these Terms are the agreement between us._
 
 **10\. Contacting TikTok**
+--------------------------
 
 You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)
 
