@@ -221,12 +221,4 @@ Please do not hesitate to contact us if you have any questions regarding this Pr
 
 Page last update: November 14, 2025
 
-[![mdqst](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98899785%3Fv%3D4&w=1920&q=100)mopens in a new tab](https://github.com/mdqst)
-
-[![pete-vielhaber](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178667149%3Fv%3D4&w=1920&q=100)popens in a new tab](https://github.com/pete-vielhaber)
-
-[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/corwintines)
-
-+7
-
 See contributors
