@@ -141,12 +141,4 @@ The Websites are operated by the Foundation. All other feedback, comments, reque
 
 Page last update: August 21, 2025
 
-[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/corwintines)
-
-[![0xwitty](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131909329%3Fv%3D4&w=1920&q=100)0opens in a new tab](https://github.com/0xwitty)
-
-[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=100)nopens in a new tab](https://github.com/nhsz)
-
-+3
-
 See contributors
