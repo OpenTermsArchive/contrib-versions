@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: February 9, 2026
+Last Updated: February 23, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1185,6 +1185,8 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 **60.3.7.** For purposes of your use of Amazon SageMaker Partner AI Apps, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
 **60.3.8.** You will have exclusive use of the customized Nova model(s) you create using SageMaker Training Jobs, SageMaker Hyperpod, or Amazon Nova Forge (the latter, “Amazon Nova Forge Models”). We will not access or use your customized model except as necessary to maintain or provide those Services, or as necessary to comply with the law or a binding order of a governmental body.
+
+**60.3.9.** As part of providing the Service, deployment of Amazon Nova Forge Models in Amazon SageMaker Inference may use automated abuse detection mechanisms designed to detect harmful content, including related to potential violations of our or third-party model providers’ terms of service or acceptable use policies. If these mechanisms detect apparent child sexual abuse material, you agree and instruct that we may report the incident to the National Center for Missing and Exploited Children or other authority. See [here](https://docs.aws.amazon.com/nova/latest/userguide/nova-sagemaker-inference-abuse-detection.html) for more details about abuse detection used by SageMaker Inference when deploying Amazon Nova Forge Models and related information sharing with third parties.
 
 **60.4. Amazon SageMaker Data Agent**
 
