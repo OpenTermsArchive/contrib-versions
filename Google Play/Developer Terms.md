@@ -1,8 +1,8 @@
 Google Play Developer Distribution Agreement
 ============================================
 
-Effective as of September 15, 2025 ([view archived version](https://play.google/developer-distribution-agreement/archive.html))
--------------------------------------------------------------------------------------------------------------------------------
+Effective as of September 15, 2025 | [Archived versions](https://play.google/developer-distribution-agreement/archive-versions.html)
+------------------------------------------------------------------------------------------------------------------------------------
 
 1\. Definitions
 ---------------
