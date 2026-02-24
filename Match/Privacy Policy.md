@@ -64,6 +64,7 @@ It goes without saying, we can’t help you develop meaningful connections witho
 | --- | --- |
 | Other data we collect |     |
 | Categories | Description |
+| Geolocation Data | If you give us permission, we can collect your geolocation (latitude and longitude) from your device. If you decline permission, certain features that rely on precise geolocation will not be available to you. |
 | Face Data | You may choose to participate in certain of our features like Photo Verification, that involve the collection of face data, which is considered biometric data in some jurisdictions. [Learn more about our verification featureand how we process your face data](https://uk.match.com/faq/?answer=0309_ProfileVerifiedPhoto). |
 | ID Data | You may choose to provide us with a copy of your government-issued ID to help us check that you’re who you say you are. |
 
