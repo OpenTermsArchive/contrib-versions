@@ -397,7 +397,7 @@ The data controller for This Website and Services is:
 
 Thryv, Inc. 1301 Municipal Way, Suite 220Grapevine, TX 76051
 
-Our Data Protection Officer is: Jeff Wing, [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
+You may contact our Data Protection Officer at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
 
 We have appointed VeraSafe as our representative in the EU for data protection matters. While you may also contact us, VeraSafe can be contacted on matters related to the processing of Personal Information. To contact VeraSafe, please use this contact form or via telephone at: +420 228 881 031.
 
