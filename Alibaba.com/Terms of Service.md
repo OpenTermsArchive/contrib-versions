@@ -3,8 +3,8 @@ Terms of Use
 
 2024-06-17 11:11
 
-Part A: New version -updated on 23th of Sept 2025, effective as of 29th of Sept 2025
-====================================================================================
+Part A: New version -updated on 16 Feburary 2026, effective as of 16 Feburary 2026
+==================================================================================
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
