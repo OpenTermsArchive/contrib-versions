@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: February 23, 2026
+Last Updated: February 24, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -905,7 +905,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 50\. AWS Machine Learning and Artificial Intelligence Services
 --------------------------------------------------------------
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview), and the model customization agent in SageMaker AI. “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, the Amazon Quick Suite (including Amazon QuickSight), AWS Elemental Inference, AWS DevOps Agent (Preview), and AWS Security Agent (Preview), and the model customization agent in SageMaker AI. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -1126,7 +1126,7 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 58\. AWS Elemental Media Services and Amazon Interactive Video Service (“IVS”)
 ------------------------------------------------------------------------------
 
-**58.1.** “AWS Elemental Media Services” means AWS Elemental MediaConnect, MediaConvert, MediaLive, MediaPackage, MediaStore and MediaTailor.
+**58.1.** “AWS Elemental Media Services” means AWS Elemental Inference, MediaConnect, MediaConvert, MediaLive, MediaPackage, MediaStore and MediaTailor.
 
 **58.2**. The encoding, transcoding or decoding of files with AWS Elemental Media Services and IVS, and the use or distribution of files processed or created by AWS Elemental Media Services and IVS, may require that you have or obtain license rights from third parties, including owners or licensors of certain third-party patents related to audio and video formats. You are solely responsible for having or obtaining such licenses and paying any necessary royalties or fees, and AWS will have no obligations or liabilities under the Agreement (including defense and/or payment obligations) for third-party patent claims if you fail to have or obtain such licenses. 
 
