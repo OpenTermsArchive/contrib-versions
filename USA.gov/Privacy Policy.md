@@ -35,11 +35,11 @@ USA.gov manages a presence on social media sites such as [Facebook](https://www
 **If you send us personal information**
 ---------------------------------------
 
-We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [subscribing to our email subscription services](https://connect.usa.gov/subscribe), or signing up to participate in user research.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by subscribing to our email subscription services, or signing up to participate in user research.
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
-LAST UPDATED: November 12, 2024
+LAST UPDATED: February 24, 2026
 
 SHARE THIS PAGE:
 
