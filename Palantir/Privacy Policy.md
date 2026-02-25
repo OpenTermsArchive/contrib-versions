@@ -1,7 +1,7 @@
 Palantir's Privacy Statement
 ============================
 
-_Last updated July 2025_
+_Last updated February 2026_
 
 Who is Palantir?
 ----------------
@@ -272,11 +272,9 @@ Palantir Technologies Inc.
 
 Attention**:** Data Protection Officer
 
-1200 17th Street
+19505 Biscayne Boulevard, Suite 2350 Aventura,
 
-Floor 15
-
-Denver, Colorado, USA 80202
+Florida 33180
 
 Email**:** privacy@palantir.com
 
@@ -420,7 +418,7 @@ Open
 
 **US Consumer Privacy Act Notice**
 
-_Last updated February 2025_
+_Last updated February 2026_
 
 This section (the “US Notice”) provides additional information regarding the applicable US state comprehensive privacy laws that are in effect as of January 15, 2025 (individually known as a “US State Privacy Law” and collectively known as “US State Privacy Laws”) and supplements the disclosures and information throughout this Statement. The commitments in this US Notice apply only to individuals covered by the US State Privacy Laws and are subject to certain statutory exceptions laid out in the US State Privacy Laws. This US Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
@@ -736,19 +734,7 @@ To opt-out of sale or sharing, please visit “Do Not Sell or Share My Personal 
 
 **Contact Us**
 
-If you have any questions or requests in connection with the US State Privacy Laws, please contact us at the methods provided below:
-
-_Mailing address:_
-
-Palantir Technologies Inc.
-
-Attention: Legal Department, Privacy Statement Issues
-
-100 Hamilton Ave.
-
-Suite 300
-
-Palo Alto, CA 94301
+If you have any questions or requests in connection with the US State Privacy Laws, please contact us at:
 
 _Email:_ privacy@palantir.com
 
