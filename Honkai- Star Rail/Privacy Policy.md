@@ -206,7 +206,7 @@ xxix. track your process across our websites and applications to verify that you
 
 xxx. for any other purposes for which we provide specific notice at the time the information is collected.
 
-**Like many AI-powered experiences, we may use your user-generated input such as chat data to train and improve the model that we use to provide our Services. You can opt-out of model training anytime in your Service-related settings. Opting out will not affect your existing gameplay.**
+**Like many AI-powered experiences, we may use your user-generated input such as chat data to train and improve the model that we use to provide our Services. We do not use personal information of users in the US who are identified as children (as defined in COPPA) for model training. You can opt-out of model training anytime in your Service-related settings. Opting out will not affect your existing gameplay.**
 
 **For the purposes mentioned above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms in this Privacy Policy.** "Affiliates" in this Privacy Policy means an entity that directly or indirectly controls, is controlled by, or is under common control with COGNOSPHERE PTE. LTD.
 
