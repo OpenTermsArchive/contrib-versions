@@ -84,9 +84,9 @@ Prohibited practices
 > 
 > ### [Data collection and use](https://support.google.com/adspolicy/answer/6020956)
 > 
-> > We want users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate disclosures or security measures.
+> > Google wants users to trust that information about them will be respected and handled with appropriate care. As such, the advertising partners shouldn’t misuse this information, nor collect it for unclear purposes or without appropriate disclosures or security measures.
 > > 
-> > Note that additional policies apply when using [personalized advertising, which includes remarketing and custom audiences.](https://support.google.com/adspolicy/answer/143465) If you use personalized advertising targeting features, be sure to review the personalized ads [data collection and use policies](https://support.google.com/adspolicy/answer/143465).
+> > **Note**: Additional policies apply when using [personalized advertising, which includes remarketing and custom audiences.](https://support.google.com/adspolicy/answer/143465) If you use personalized advertising targeting features, be sure to review the personalized ads [data collection and use policies](https://support.google.com/adspolicy/answer/143465).
 > > 
 > > **Examples of user information that should be handled with care (non-exhaustive)**: full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion
 > > 
@@ -253,6 +253,6 @@ Advertisers have a responsibility not to promote content or engage in behavior t
 Need help?
 ----------
 
-If you have questions about our policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about the policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 Rate how helpful this page is and share your feedback with us below:
