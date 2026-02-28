@@ -77,7 +77,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -903,7 +903,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -1701,7 +1701,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2432,7 +2432,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2864,7 +2864,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3296,7 +3296,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3728,7 +3728,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -4160,7 +4160,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -4592,7 +4592,7 @@ Recherche  Rechercher sur tout le site
     *   *   [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         *   [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
             *   [Stéphanie Rist](https://sante.gouv.fr/ministere/les-ministres/stephanie-rist/)
-            *   [Charlotte Parmentier-Lecocq](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
+            *   [Camille Galliard-Minier](https://sante.gouv.fr/ministere/les-ministres/charlotte-parmentier-lecocq/)
         *   [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     
     *   *   [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
