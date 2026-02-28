@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: February 24, 2026
+Last Updated: February 27, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -86,7 +86,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview).
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
