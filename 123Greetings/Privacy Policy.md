@@ -118,8 +118,8 @@ If you have any questions, comments or suggestions regarding our website's priva
   
 You can also post your views to our office at:  
 123Greetings.com, Inc.  
-255 Executive Drive, Suite 400,  
-Plainview, New York NY-11803;
+4052 S 124th Street,  
+Greenfield, WI 53228;
 
 **Special Note for Parents**  
 Protecting the privacy of young children is especially important. For that reason, 123Greetings does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If 123Greetings learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then 123Greetings will take the appropriate steps to delete this information.
@@ -140,4 +140,4 @@ Third Parties' Practices: This Privacy Policy does not cover the information pra
 
 **Non-U.S. Users:** The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
 
-**Last Updated:** May 22, 2018
+**Last Updated:** February 24, 2026
