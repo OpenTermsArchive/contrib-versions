@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last modified: February 4th, 2026_
+_Last modified: 2nd March 2026_
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
@@ -56,7 +56,7 @@ In order to pursue our legitimate interest of preventing the creation of account
 
 **2.9 Payment information:** We rely on Chargebee to process payments. Strictly necessary information is shared with Chargebee for credit card, PayPal, Stripe and Bitcoin transactions in order for the payment to be successful and associated with your account. Chargebee does not have access to your email or your Proton account information. We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. We do not retain full credit card details, we only save your name and the last 4 digits of the credit card number. Anonymous cash or Bitcoin payments and donations are accepted. We may use your account data for payment-related matters, including but not limited to sending you emails, invoices, receipts, notices of delinquency, and alerts to update payment information. The legal basis of these processing activities is the necessity to the execution of the contract to provide the Services. In order to respect the principle of data minimisation, we reserve our right to remove payment information from our systems that is no longer valid, without notice.
 
-**2.10 Native applications:** When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software, app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google's Play Store or Apple's App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.  
+**2.10 Native applications:** When you use our native applications, including mobile and desktop versions, we (or platform and operating system providers) may collect certain technical information. We may use analytics software, app statistics and crash reporting, or other tools to help diagnose problems, send information to our developers in order to rapidly fix bugs and improve our services. Some platforms and system components, such as Google's Play Store or Apple's App Store, may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and Terms of Service. Such statistics can include most commonly used devices and operating systems, total number of installs and uninstalls, and the total number of active users.  
 Our applications do not access or track any location-based information from your device.
 
 **2.11** **Proton Scribe:** Proton Scribe is a feature that allows you to use our self-developed writing assistant to help you compose your messages or documents. By default, this feature operates locally on your device. You also have the possibility to have it operate server side, in which case only the minimal data necessary to make our service function will be shared with the servers. No log, account data or content data will be stored on our servers. Proton Scribe does not use content data or any of your data to train its models. 
