@@ -104,7 +104,7 @@ When you use our website purely for informational purposes, we only collect the 
 
   
 
-##### 5.2 Use of the Apps
+**5.2 Use of the Apps**
 
 When using our apps, we additionally collect the data necessary for functionality (Art. 6 para. 1 lit. f GDPR):
 
@@ -391,7 +391,11 @@ For the transfer of personal data to third countries outside the EU/EEA, such as
 
 ##### 14\. Job Postings and Wellfound
 
-You can apply to us via our application portal and the Wellfound platform (formerly AngelList). We process your personal data (master data, resume, certificates, cover letter) exclusively for the decision on an employment relationship. The legal basis is Art. 6 para. 1 lit. b GDPR (implementation of pre-contractual measures) in conjunction with § 26 BDSG.
+Applications sent directly by email to [careers@gumb.app](mailto:careers@gumb.app) are processed via Zendesk and treated as support requests. We reserve the right to retain application documents for future suitable positions. If you wish to have them deleted, please let us know at any time by email to [privacy@gumb.app](mailto:privacy@gumb.app) - we will delete the data immediately.
+
+  
+
+You can apply to us via our application portal and the **Wellfound platform**. We process your personal data (master data, resume, certificates, cover letter) exclusively for the decision on an employment relationship. The legal basis is Art. 6 para. 1 lit. b GDPR (implementation of pre-contractual measures) in conjunction with § 26 BDSG.
 
 If you wish to be included in our **applicant pool**, we obtain your express consent (Art. 6 para. 1 lit. a GDPR). The data will then be stored as long as the consent exists or a legitimate interest applies. You can withdraw your consent at any time; upon explicit deletion request, we will delete the data immediately.
 
@@ -400,10 +404,6 @@ Wellfound may transfer data to the USA; the basis is EU Standard Contractual Cla
   
 
 You can also apply to us via the **Indeed platform** (Indeed Inc., USA). We process your personal data (master data, resume, certificates, cover letter) exclusively for the decision on an employment relationship. The legal basis is Art. 6 para. 1 lit. b GDPR (implementation of pre-contractual measures) in conjunction with § 26 BDSG. Indeed may transfer data to the USA; the basis is EU Standard Contractual Clauses as well as certification under the EU-U.S. Data Privacy Framework. Further information: [Indeed privacy policy.](https://www.indeed.com/legal/privacy)
-
-  
-
-Applications sent directly by email to [careers@gumb.app](mailto:careers@gumb.app) are processed via Zendesk and treated as support requests. We reserve the right to retain application documents for future suitable positions. If you wish to have them deleted, please let us know at any time by email to [privacy@gumb.app](mailto:privacy@gumb.app) - we will delete the data immediately.
 
   
 
