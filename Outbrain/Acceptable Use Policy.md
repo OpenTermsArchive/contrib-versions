@@ -450,6 +450,7 @@ Advertisers
 *   [Advertisers](https://www.outbrain.com/advertisers/)
 *   [Ads Specs](https://www.outbrain.com/help/ads-specs/)
 *   [Buy Your Way](https://www.outbrain.com/advertisers/buying-options/)
+*   [Referral Program](https://www.outbrain.com/partnerships/referral-program/)
 *   [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
 *   [Advertising FAQ](https://www.outbrain.com/help/advertisers/)
 *   [Support](https://www.outbrain.com/contact?who=support)
@@ -484,6 +485,7 @@ Resources
 
 *   [Blog](https://www.outbrain.com/blog/)
 *   [Resources Hub](https://www.outbrain.com/resources/)
+*   [ODR Podcast](https://www.outbrain.com/blog/performance-marketing-minds-podcast-conversations-with-industry-leaders/)
 *   [Case Studies](https://www.outbrain.com/case-studies/)
 *   [Help Center](https://www.outbrain.com/help/)
 
