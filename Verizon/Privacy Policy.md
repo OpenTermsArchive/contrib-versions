@@ -330,7 +330,7 @@ Open all
     
     The [Choices section](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) of this policy describes additional choices you have about our use and sharing of personal information.
     
-    ### We disclose certain Fios TV information for audience measurement and market research purposes
+    ### We disclose certain Fios TV information for audience measurement and market research purposes.
     
     The [Fios TV apps](#) and website include [Comscore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) and [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) software that collects information for these companies’ market research and audience measurement purpose, including information about the content you viewed; the apps, website and device you used; your advertising identifier (if available); IP address; and operating system. [You have a choice about participating](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
     
@@ -762,7 +762,7 @@ Open all
     *   [https://www.net10wireless.com/ccpa/home](https://www.net10wireless.com/ccpa/home)
     *   [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
     *   [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
-    *   [SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
+    *   SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
@@ -960,7 +960,8 @@ Open all
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
-      
+    instructions for submitting requests
+    
     **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:  
       
     HALO Branded Solutions  
