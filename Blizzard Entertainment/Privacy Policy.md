@@ -394,12 +394,12 @@ As with any business, your personal information is also an asset of Blizzard and
 
 **4\. For legal reasons or in the event of a dispute.** Blizzard may share your information if we believe it is required by applicable law, regulation, operating agreement, legal process or governmental request. This includes sharing your information with law enforcement officials, government authorities or other third parties as necessary to enforce our End User Licence Agreement, user agreements or other policies to protect Blizzard’s rights or property or the rights or property of others, or in the event of a claim or dispute relating to your use of our services.
 
-5\. International Transfer
+6\. International Transfer
 --------------------------
 
 Your information will be transferred to and processed in the United States where many of our central databases operate. We use European Commission approved Standard Contractual Clauses and UK International Data Transfer Agreement to protect your information. Where we share personal information with vendors, we use these clauses, or other appropriate legal mechanisms. A copy of the relevant mechanism can be provided for your review on request to our Data Protection Officer using the details set out below.
 
-6\. What rights do I have?
+7\. What rights do I have?
 --------------------------
 
 **Access my personal information:** You may be able to receive a report about the personal information Blizzard stores about you. To learn more about accessing your personal information, please click on this [link](https://eu.battle.net/support/en/help/product/services/1327/1329).
