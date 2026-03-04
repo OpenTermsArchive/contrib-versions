@@ -2256,6 +2256,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data Gov TW. Tainan City Government, Address Coordinates 2026. License: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
              
+         *   Data Gov TW. Taipei City address location data, 2026 (臺北市門牌位置數值資料) This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW. New Taipei City address location data- 11502, 2026 (新北市門牌位置數值資料) This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
+             
     65.  **Timor-Leste**
          
          OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
