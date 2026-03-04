@@ -854,7 +854,7 @@ Open all
     *   [https://www.net10wireless.com/ccpa/home](https://www.net10wireless.com/ccpa/home)
     *   [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
     *   [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
-    *   [SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
+    *   SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
@@ -956,7 +956,7 @@ Open all
     *   [https://www.net10wireless.com/ccpa/home](https://www.net10wireless.com/ccpa/home)
     *   [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
     *   [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
-    *   [SafeLink:](https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/myAccount/privacy) [https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
+    *   SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
@@ -1063,7 +1063,7 @@ Open all
     *   [https://www.net10wireless.com/ccpa/home](https://www.net10wireless.com/ccpa/home)
     *   [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
     *   [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
-    *   [SafeLink:](https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/myAccount/privacy) [https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
+    *   SafeLink: https://www.privacy.tracfone.com/privacyhome?lang=en
     *   [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
     *   [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
     
