@@ -68,6 +68,17 @@ Some non-essential elements of the services provided by Telegram may qualify as 
 In line with the DSA, Telegram publishes transparency reports covering content moderation, handling complaints, and official requests:
 
 *   [Telegram's DSA Transparency Report for the period from 17 February 2024 to 17 February 2025](https://telegram.org/tos/eu-dsa/transparency-2025)
+    
+*   **Telegram's DSA Transparency Report for the period from 17 February 2025 to 31 December 2025**:
+    
+    [— Telegram Messenger](https://telegram.org/file/400780400407/2/atUmypooqok.21938.zip/9dc8086947d9aee379)
+    
+    [— Telegram Private Communities](https://telegram.org/file/400780400323/4/Otp2j8Ud1mo.23627.zip/6ffb811e82f7c83f96)
+    
+    [— Telegram Public Communities](https://telegram.org/file/400780400129/3/mUeL3WnJQg4.23991.zip/d6aba122267f4089bd)
+    
+
+  
 
 In line with Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021 on addressing the dissemination of terrorist content online (**“TCO Regulation”**), Telegram publishes transparency reports under Article 7 of the TCO Regulation.
 
