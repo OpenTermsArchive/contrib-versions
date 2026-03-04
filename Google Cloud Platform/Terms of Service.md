@@ -35,7 +35,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 (b) _To this Agreement._ Subject to subsections (i) and (ii), Google may make updates to this Agreement from time to time. Google will post any update to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms/). This subsection 1.4(b) does not apply to updates to the URL Terms, which are governed by subsection 1.4(c) below.
 
-(i) With respect to GCP Services and their corresponding TSS, unless otherwise noted by Google, material updates to this Agreement will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent any updates apply to new functionality or are required to comply with applicable law, they will be effective immediately. If Customer does not agree to any update to the Agreement regarding GCP or its TSS, Customer may stop using the GCP Services or TSS. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the GCP Services or TSS after a material update will constitute Customer's consent to such update.
+(i) With respect to GCP Services and their corresponding TSS, unless otherwise noted by Google, material updates to this Agreement will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent any updates apply to new functionality or are required to comply with applicable law, they will be effective immediately. If Customer does not agree to any update to the Agreement regarding GCP or its TSS, Customer may stop using the GCP Services or TSS. Customer may also terminate this Agreement for convenience under Section 8.5 (Termination for Convenience). Customer's continued use of the GCP Services or TSS after a material update will constitute Customer's consent to such update.
 
 (ii) With respect to GWS Services, SecOpS Services, Looker (original) Services, and Cloud Identity Services, and their respective corresponding TSS, material updates to this Agreement will only take effect if and when Customer's Order Term renews.
 
@@ -83,7 +83,7 @@ Google may change its offering of billing options (including by limiting or ceas
 
 2.5 _No Purchase Order Number Required._ Customer is obligated to pay all applicable Fees without any requirement for Google to provide a purchase order number on Google's invoice (or otherwise).
 
-2.6 _Fee Revisions._ Google may change the Fees at any time unless otherwise expressly agreed in an addendum or Order Form. For GWS Services, Looker (original) Services, and Cloud Identity Services only, (a) Google will notify Customer at least 30 days in advance of any changes, and (b) Customer's pricing will change if and when Customer's Order Term renews after the 30-day period. If Customer objects to any change in Fees, Customer may terminate this Agreement for convenience under Section 8.4 (Termination for Convenience).
+2.6 _Fee Revisions._ Google may change the Fees at any time unless otherwise expressly agreed in an addendum or Order Form. For GWS Services, Looker (original) Services, and Cloud Identity Services only, (a) Google will notify Customer at least 30 days in advance of any changes, and (b) Customer's pricing will change if and when Customer's Order Term renews after the 30-day period. If Customer objects to any change in Fees, Customer may terminate this Agreement for convenience under Section 8.5 (Termination for Convenience).
 
 **3. Customer Obligations.**
 
