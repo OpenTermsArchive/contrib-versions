@@ -21,7 +21,7 @@ Customer will use the Recruiter Lite Service (and related services) and informat
 
 **1.4. Additional Terms for Recruiter**
 
-Recruiter seats may be reassigned in accordance with the terms set forth on the [Recruiter Help Portal](https://www.linkedin.com/help/recruiter/answer/a411940?lang=en). Customer will not share any information regarding a LinkedIn Member’s Open to Opportunities status with that Member’s current employer. Customer will ensure that its Customer Users use the Recruiter InMail feature in accordance with LinkedIn’s [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181/recruiter-inmail-policy?lang=en). Customer’s breach of this Section will be deemed a material breach of the Agreement.
+Recruiter seats may be reassigned in accordance with the terms set forth on the [Recruiter Help Portal](https://www.linkedin.com/help/recruiter/answer/a418521). Customer will not share any information regarding a LinkedIn Member’s Open to Opportunities status with that Member’s current employer. Customer will ensure that its Customer Users use the Recruiter InMail feature in accordance with LinkedIn’s [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181/recruiter-inmail-policy?lang=en). Customer’s breach of this Section will be deemed a material breach of the Agreement.
 
 **1.5. Job Postings, Job Posts, and Job Slots**
 
