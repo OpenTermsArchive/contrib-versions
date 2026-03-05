@@ -83,18 +83,18 @@ Voici les manières dont nous utilisons vos informations :
 
 Pour offrir, personnaliser et améliorer nos Produits
 
-Nous utilisons les informations à notre disposition pour fournir et améliorer nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Par exemple :
+Nous utilisons les informations à notre disposition pour fournir et améliorer nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Ceci inclut :
 
 *   Vérifier si nos Produits fonctionnent correctement, par exemple pour procéder à des dépannages et résoudre les problèmes en cas de dysfonctionnement.
 *   Personnaliser des fonctionnalités, du contenu et des [recommandations](https://www.facebook.com/help/1257205004624246), comme votre [fil Facebook](https://www.facebook.com/help/1155510281178725/), [votre fil Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%2F), l’[IA par Meta](https://www.facebook.com/privacy/genai), vos stories et vos publicités.
 
-Nous utilisons les [informations avec des protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de fournir à ces fins, mais pas pour vous montrer des publicités.
+Nous utilisons les [informations qui bénéficient de protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de fournir à ces fins, mais pas pour vous montrer des publicités.
 
 En savoir plus sur la manière dont nous utilisons des informations pour fournir, personnaliser et améliorer nos Produits :
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-41-Mobile.png)
 
-Comment nous montrons les publicités et autres contenus commerciaux ou sponsorisés](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.2-HowWeShowAds)
+Comment nous affichons les publicités et autres contenus commerciaux ou sponsorisés](https://fr-fr.facebook.com/privacy/policy/?subpage=2.subpage.2-HowWeShowAds)
 
 * * *
 
