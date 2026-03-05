@@ -251,7 +251,9 @@ Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute ac
 _ARTICLE 4 : MODALITES DE PAIEMENT_
 -----------------------------------
 
- **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
+ **4.1. Modes de paiement**  
+
+Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
 4.1.1 Paiement au comptant  
   
@@ -281,16 +283,14 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 4.1.2 Paiement en plusieurs fois  
   
 (a) Paiement en « 4 fois »  
-Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)  
+Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)
 
 Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier les clients et commandes éligibles au paiement "4 fois".  
 (b) Paiement jusqu'à 20 fois par carte bancaire Cdiscount  
 La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Votre souscription à la Carte Cdiscount est soumise à l’acceptation de FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr). Pour en savoir plus sur la Carte Cdiscount, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
   
 (c) Paiement jusqu’à 60 fois avec Floa  
-CDISCOUNT, en partenariat avec FLOA Bank, peut vous offrir la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 999 euros et 15000 euros.
-
-A noter : la commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr).
+CDISCOUNT, en partenariat avec FLOA Bank, peut vous offrir la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 999 euros et 15000 euros. A noter : la commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr).
 
 Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. Pour en savoir plus sur cette solution de crédit, cliquez [ici](http://https//www.cdiscount.com/payment/paymentinfo.html).
 
@@ -312,7 +312,7 @@ Il utilise des méthodes de sécurité comme l'authentification biométrique (Fa
   
 4.1.4 Paiement par virement sécurisé  
    
-Ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
+Ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://cdn.prod.website-files.com/6674250de1acfb13fc4a9da4/68249da69928a67cd5194d9c_20231213%20CGS%20AIS%20%2B%20PIS%20\(1\).pdf).  
   
 
 **Généralités**
@@ -322,7 +322,6 @@ CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de p
 \- l'une de vos précédentes commandes n'aurait pas été intégralement payée à l'échéance ou un litige relatif au paiement d'une de vos précédentes serait en cours de traitement ;  
 \- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.
 
-  
 Dans le cas où vous utilisez les coordonnées bancaires d'un tiers sur le Site, vous garantissez à Cdiscount que vous disposez des droits nécessaires pour utiliser la carte de paiement dont vous n'êtes pas le titulaire.
 
 Dans le cas où le client aurait reçu un remboursement indu de la part de Cdiscount (par exemple, un retour non conforme dans le cadre de l'exercice du droit de rétractation, etc.) alors Cdiscount se réserve le droit de récupérer les sommes qui lui sont dues, par tous moyens, au titre du paiement initial de la commande concernée.
