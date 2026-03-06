@@ -549,6 +549,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Windows Movie Maker
 *   Windows Photo Gallery
 *   Windows Store
+*   Xbox apps and websites
 *   Xbox Cloud Gaming
 *   Xbox Game Pass
 *   Xbox Game Studios games, apps and websites
