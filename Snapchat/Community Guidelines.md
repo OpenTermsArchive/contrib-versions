@@ -7,7 +7,7 @@ Community Guidelines
 
 ![Yes or No](https://images.ctfassets.net/kw9k15zxztrs/1UwZbQH2zgrFsy9A4ARSL5/c6d55934e03c0dbfee7a00ed5769dcef/1-community_guidelines-cover.png?q=40&h=650)
 
-At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines are part of your contract with Snap and you must follow them. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
+At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines, [in line with our commitment to respecting human rights](https://www.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB), to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines are part of a Snapchatter's contract with Snap and they must be followed. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
 
   
 
@@ -15,7 +15,7 @@ At Snap, we empower people to express themselves, live in the moment, learn abou
 
 Note About Severe Harm
 
-While we prohibit all content or behaviour that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. We disable accounts we identify engaging in such behaviour. Guidance about what we consider to be severe harm and how we take action against it is available. [Learn More](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB)
+While we prohibit all content or behaviour that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. When we identify accounts engaging in such behaviour, we disable those accounts. Guidance about what we consider to be severe harm and how we take action against it is available. [Learn More](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB)
 
   
 
@@ -74,7 +74,7 @@ Hateful Content, Terrorism and Violent Extremism
 
 Harassment and Bullying
 
-*   We prohibit bullying or harassment of any kind. This extends to all forms of sexual harassment, including sending unwanted sexually explicit, suggestive or nude images to other users. If someone blocks you, you may not contact them from another Snapchat account.
+*   We prohibit bullying or harassment of any kind. If someone blocks you, you may not contact them from another Snapchat account.
     
 *   Sharing images of a person in a private space – like a bathroom, bedroom, locker room or medical facility – without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e. “doxxing”).
     
@@ -87,7 +87,7 @@ Harassment and Bullying
 
 Illegal or Regulated Activities
 
-*   Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating or participating in criminal activity, such as buying, selling, exchanging or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
+*   Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
     
 *   We prohibit the illegal promotion of regulated goods or industries, including unauthorised promotion of gambling, tobacco or vape products and alcohol.
     
@@ -100,9 +100,9 @@ Harmful False or Deceptive Practices
     
 *   We prohibit pretending to be someone (or something) that you're not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands or other people or organisations for harmful, non-satirical purposes.
     
-*   We prohibit spam, including undisclosed paid or sponsored content, pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
+*   We prohibit spam, including pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
     
-*   We prohibit fraud and other deceptive practices, including the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
+*   We prohibit fraud and other deceptive practices, including undisclosed paid or sponsored content, the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-GB)
@@ -116,15 +116,15 @@ Information and Q&A
 
 How can I report something?
 
-You can always submit a report to our Trust & Safety team using our [in-app reporting features](https://help.snapchat.com/hc/articles/7012399221652?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-US) or by completing [this form](https://help.snapchat.com/hc/requests/new?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-US) (which allows you to report a concern whether you have a Snapchat account or not). We review these reports to determine violations of these Guidelines.
+You can always submit a report to our safety teams using our [in-app reporting features](https://help.snapchat.com/hc/articles/7012399221652?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-GB) or by completing [this form](https://help.snapchat.com/hc/requests/new?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-GB), which allows you to report a concern whether you have a Snapchat account or not. We review these reports to determine violations of these guidelines.
 
 What happens if I violate the Community Guidelines?
 
-If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account and/or notify law enforcement. We also refer information to law enforcement when activity poses an imminent threat to human life. If your account is terminated for violating these Guidelines, you are not allowed to use Snapchat again or circumvent this termination in any way.
+If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account and/or notify law enforcement. Our policy is to refer information to law enforcement, potentially including relevant content and other account data, when we believe activity poses an imminent threat to human life. If your account is disabled for violating these guidelines, you are not allowed to use Snapchat again without our permission.
 
 Do you consider off-platform behaviour?
 
-Snap reserves the right to remove or restrict account access for users whom we have reason to believe, in our sole discretion, pose a danger to others, on or off of Snapchat. These include leaders of hate groups and terrorist organisations, individuals with a reputation for inciting violence or perpetrating severe harms against others, or behaviour that we believe poses a threat to human life. In evaluating such behaviour, we may consider guidance from other sources, such as subject-matter experts or law enforcement, in determining whether to remove or restrict account access.
+Snap reserves the right to remove or restrict account access for users whom we have reason to believe, in our sole discretion, pose a danger to others, on or off of Snapchat. Examples include convicted sex offenders, leaders of terrorist organisations, individuals who incite violence or perpetrate severe harms against others, or behaviour that we believe poses a threat to human life. In evaluating such behaviour, we may consider guidance from other sources, such as subject matter experts or law enforcement, in determining whether to remove or restrict account access.
 
 Where can I find more information?
 
