@@ -31,8 +31,9 @@ We have revised our privacy notice as we are introducing some new features and w
 | 2.0 | All | Structural and content changes in the privacy notice template. | 14 October 2024 |
 | 2.1 | Profiling, Fraud Management and Security | Updated What data is used? in Fraud Prevention & Security to include 'Credential information' | 4 February 2025 |
 | 2.2 | How we use your personal information and our lawful basis to do so | Referenced use of automated tools | 4 July 2025 |
+| 2.3 | To comply with mandatory legal obligation | Nuisance Communications purposes | 13 Jan 2026 |
 
-Last updated: 4 July 2025
+Last updated: 13 Jan 2026
 
 #### How to use this privacy notice
 
