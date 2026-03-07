@@ -58,7 +58,7 @@ From Wikimedia Foundation Governance Wiki
 Other languages:
 
 *   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruikstermrces (6% translated)")
-*   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
+*   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Keterbatasan Penggunaan (100% translated)")
 *   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (2% translated)")
 *   [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
 *   [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
