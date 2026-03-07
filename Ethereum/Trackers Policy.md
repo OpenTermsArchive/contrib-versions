@@ -27,11 +27,11 @@ Except for essential cookies, all cookies will expire after two years.
 
 Page last update: August 21, 2025
 
-[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/corwintines)
+[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)c (opens in a new tab)](https://github.com/corwintines)
 
-[![cratiu222](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156356273%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/cratiu222)
+[![cratiu222](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156356273%3Fv%3D4&w=1920&q=100)c (opens in a new tab)](https://github.com/cratiu222)
 
-[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=100)nopens in a new tab](https://github.com/nhsz)
+[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=100)n (opens in a new tab)](https://github.com/nhsz)
 
 +4
 
