@@ -85,7 +85,7 @@ Some webinars are directly hosted by Canonical on our sites. Where a webinar is 
 
 Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the "cookie" section below.
 
-Please note that Canonical may also collect system information during installation of Ubuntu and on first login to Ubuntu. This system information is subject to a [Legal Notice](https://ubuntu.com/legal/online-account-terms).
+Please note that Canonical may also collect system information during installation of Ubuntu and on first login to Ubuntu. This system information is subject to a [Legal Notice](https://ubuntu.com/legal/systems-information-notice).
 
 ### Error reports
 
