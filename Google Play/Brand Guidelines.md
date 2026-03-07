@@ -2,21 +2,8 @@
 *   [Google Play](https://developer.android.com/distribute)
 *   [Branding & Marketing](https://developer.android.com/distribute/marketing-tools)
 
-Was this helpful?
-
 Brand guidelines Stay organized with collections Save and categorize content based on your preferences.
 =======================================================================================================
-
-*   On this page
-*   [Google Play](#google-play)
-    *   [Google Play name and icon](#google_play_name_and_icon)
-    *   [Google Play badge](#google_play_badge)
-    *   [Other](#other)
-*   [Android](#brand-android)
-    *   [Android robot](#android_robot)
-    *   [Android in text](#android_in_text)
-    *   [Android wordmark](#android_wordmark)
-*   [Marketing reviews and brand inquiries](#marketing-review)
 
 The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
 
@@ -174,5 +161,3 @@ Submit a brand request to make any marketing reviews or brand inquires. Typical 
 For questions about Partner Marketing Hub, our brands, or marketing permissions.
 
 arrow\_forward](https://support.google.com/contact/partner_brand_approval)
-
-Was this helpful?
