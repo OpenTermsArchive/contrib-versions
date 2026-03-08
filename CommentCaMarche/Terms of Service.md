@@ -6,9 +6,9 @@ General Terms and Conditions of Use
 
    ![General Terms and Conditions of Use](https://img-19.ccm.net/DHIPOk9Ypuf3HyVAyWrkYC4W1b0=/480x335/smart/fb370537ed49497384c46ade8ca32fea/ccmcms-enccm/38208810.jpg)
 
- [![Natalia Kudryavtseva](https://img-19.ccm.net/68iTj6lXo2wlC1kbuQrFzCmUn2k=/50x50/smart/5d73755bba064c42b7d238ce9fb5e166/auth-avatar/61695f7dbef41)](https://ccm.net/account/nataliakudryavtseva-11754057)
+ ![NataliaKudryavtseva](https://img-19.ccm.net/68iTj6lXo2wlC1kbuQrFzCmUn2k=/50x50/smart/5d73755bba064c42b7d238ce9fb5e166/auth-avatar/61695f7dbef41)
 
-[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057)
+NataliaKudryavtseva
 
 9 mars 2023 13:46
 
