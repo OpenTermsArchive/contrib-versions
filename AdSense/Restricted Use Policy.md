@@ -316,4 +316,8 @@ Video inventory restrictions
 
   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about video inventory restrictions](https://support.google.com/publisherpolicies/answer/15208072)_ 
 
+Give feedback about this article
+
+Choose a section to give feedback on
+
 [](https://support.google.com/adsense/answer/10502938?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
