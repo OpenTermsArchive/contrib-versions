@@ -252,6 +252,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Open Data Portal for Belgian Public Transport - [https://data.belgianmobility.io/terms.html](https://data.belgianmobility.io/terms.html), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        *   Open Data Wallonie-Bruxelles. Axes de rues - Vitesses maximales 2026. [https://www.odwb.be/terms/terms-and-conditions/](https://www.odwb.be/terms/terms-and-conditions/), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     7.  **Belgium**
         *   GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -1619,9 +1621,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 12 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 1 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 12 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 1 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -1801,6 +1803,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data Govt: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   NZ Transport Agency, Waka Kotahi open data portal. National Speed Limit Register (NSLR) 2026. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     48.  **Northern Ireland**
          *   © Ordnance Survey of Northern Ireland
              
@@ -1918,6 +1922,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Land Transport Authority [https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html](https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html)
              
          *   LTA Data Mall [https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html](https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html)
+             
+         *   Land Transport Authority, DataMall. Contains information from API for Electric Vehicle Charging Points accessed on 23/02/2026 from Land Transport Authority which is made available under the terms of the Singapore Open Data Licence version 1.0 ([https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html](https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html), [https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html](https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html))
              
     56.  **Slovakia**
          *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
