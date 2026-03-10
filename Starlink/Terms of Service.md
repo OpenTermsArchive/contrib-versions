@@ -402,6 +402,8 @@ Starlink users typically experience download speeds between 25 and 220 Mbps, wit
 
 Expected speeds during peak hours of usage:
 
+**For the table below, please consider the low end of the range to be the "Minimum" speeds, the top end of the range to be the "Maximum" speeds, and the entire range to be the "Normally Available" speeds**
+
 | Service Plan Name | Download Speed | Upload Speed | Latency |
 | --- | --- | --- | --- |
 | **Residential** | 50-150 Mbps | 5-25 Mbps | 25-50 ms |
