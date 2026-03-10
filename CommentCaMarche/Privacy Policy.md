@@ -6,9 +6,9 @@ How is your data processed by CCM?
 
    ![How is your data processed by CCM?](https://img-19.ccm.net/43mF4m2xPar_Apol5RGgBuKC0os=/480x335/smart/db89bf34464943adb6e34d367a1fa989/ccmcms-enccm/38352558.jpg)
 
- [![David Webb](https://img-19.ccm.net/m4DSObubGTUMXmjYuJZRBY-cvP4=/50x50/smart/0942e0cbe00745daaacb957ada715f8d/auth-avatar/659ef94e4b20c)](https://ccm.net/account/dwebb-11634883)
+ ![dwebb](https://img-19.ccm.net/m4DSObubGTUMXmjYuJZRBY-cvP4=/50x50/smart/0942e0cbe00745daaacb957ada715f8d/auth-avatar/659ef94e4b20c)
 
-[David Webb](https://ccm.net/account/dwebb-11634883)
+dwebb
 
 6 octobre 2022 10:30
 
