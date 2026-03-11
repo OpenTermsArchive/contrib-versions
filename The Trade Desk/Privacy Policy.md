@@ -1,7 +1,7 @@
 Website Privacy Policy
 ======================
 
-_Last updated: November 20, 2024_  
+_Last updated: March 11, 2026_  
  
 
 **WHAT THIS POLICY COVERS**
@@ -12,17 +12,13 @@ _Last updated: November 20, 2024_
 
 **HOW WE SHARE INFORMATION**
 
-**EUID**  
- 
+**UID2 AND EUID**
 
-**COOKIES ON OUR WEBSITES**  
- 
+**COOKIES ON OUR WEBSITES**
 
-**CANDIDATE INFORMATION**  
- 
+**CANDIDATE INFORMATION**
 
-**YOUR RIGHTS**  
- 
+**YOUR RIGHTS**
 
 **INTERNATIONAL TRANSFERS**
 
@@ -62,7 +58,7 @@ Any personal information you provide to us will only be used for the purposes fo
 *   To consider you for a role which you have applied for;
 *   To send you marketing communications related to our products, such as our newsletter, if you are a client or have chosen to receive it.
 
-If you no longer wish to receive marketing email communications, you can either follow the unsubscribe link and instructions contained in the emails you receive or you can request to unsubscribe at: [Preference Center | Update email preferences](https://pages.thetradedesk.com/Preference-Center.html).
+If you no longer wish to receive marketing email communications, you can either follow the unsubscribe link and instructions contained in the emails you receive or you can request to unsubscribe at [our Email Preference Center](https://pages.thetradedesk.com/Preference-Center.html).
 
 **HOW WE SHARE INFORMATION**
 
@@ -76,7 +72,9 @@ We will also disclose your information:
 *   If the Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, in such case you will be notified via email and/​or a prominent notice on our websites of any change in ownership or uses of your information, as well as any choices you have regarding your information, or
 *   With your permission, to another third party.
 
-**UID2 and EUID**
+We may use cookies and similar tracking technologies, and allow our partners to use such technologies, to advertise The Trade Desk on other sites and services. These practices may be considered “sales,” “sharing,” or “targeted advertising” under certain U.S. state consumer privacy laws. You may opt out of these activities as described under the “Website Cookies Settings” or equivalent link in the footer of our websites.
+
+**UID2 AND EUID**
 
 We may use your email address to create a consistent unique identifier called an UID2 or, in Europe, a EUID. These allow us, and other participants in the UID2/EUID advertising framework, to ensure that the ads you see online are relevant and measure the effectiveness of our advertising.
 
@@ -103,8 +101,8 @@ Depending upon where you live, some states, countries or regions provide individ
 If you reside in a state, country or region that provides individuals such rights to their personal data and would like to access, correct, or request deletion of the personal data we have about you in connection with the scope of this privacy policy, please follow the steps indicated below, depending on your relationship to us:  
  
 
-*   For Website visitors or general business contacts: please fill out and submit this [webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/61b81601-fe65-4dfe-a922-e1c5a68fa8cb)
-*   For employment applicants through our Careers Page: fill out and submit the [TTD Applicant/​Employee Privacy Request webform](https://privacyportal-eu.onetrust.com/webform/2abc1a63-35c5-4ef7-b11b-1c55714738b5/2da26cf0-fabe-431f-91a6-568f4fc5dc04).
+*   For Website visitors or general business contacts: fill out and submit this [webform](https://submit-irm.trustarc.com/services/validation/short/d9f1fb99/?brandId=9cbf55ca-6676-48dc-8e9f-ff1f056f80a5)
+*   For employment applicants through our Careers Page: fill out and submit the TTD Applicant/​Employee [Privacy Request webform](https://submit-irm.trustarc.com/services/validation/short/69b1b4da/?brandId=9cbf55ca-6676-48dc-8e9f-ff1f056f80a5).
     *   Please be aware that requesting a deletion of personal data will remove your entire profile information from the career site including any active job applications. This will also remove any subscriptions you might have made on the career site.
 
 We will ask you to verify your identity once you submit your request. Should your request be denied, we will inform you of the reasons for denial, including any relevant exceptions or exemptions we relied upon when responding to your request. We will not discriminate against you if you exercise your rights under applicable law.  
