@@ -1,7 +1,7 @@
 Information about Tracking Technology
 =====================================
 
-### and Other Use of Personal Data on Kivra's Websites
+And Other Use of Personal Data on Kivra's Websites
 
 On Kivra's websites (i.e., [kivra.se](https://kivra.se/) and all subdomains of the logged-in mode on our site, [kivra.com](https://kivra.com/)) and in Kivra's apps, cookies, SDKs, and similar technologies (“tracking technology”) are used, which involve data being stored on or retrieved from your mobile phone, computer, and similar devices. Here you will find information about why Kivra uses tracking technology, what it means for you, and the choices you can make if you do not want us to use certain tracking technologies.
 
