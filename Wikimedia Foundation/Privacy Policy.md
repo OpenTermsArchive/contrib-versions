@@ -88,7 +88,7 @@ Other languages:
 *   [تۆرکجه](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/azb "گیزلیلیک سیاستی (10% translated)")
 *   [روچ کپتین بلوچی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bgn "حریم خصوصي (5% translated)")
 *   [سرائیکی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/skr "رازداری پالیسی (13% translated)")
-*   [سنڌي](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sd "رازداريءَ جي پاليسي (20% translated)")
+*   [سنڌي](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sd "نِيَمَ:نويڪلائي نِيَمَ (20% translated)")
 *   [فارسی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fa "
     سیاست محرمانگی (32% translated)")
 *   [مازِرونی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mzn "Policy:Privacy policy/mzn (1% translated)")
