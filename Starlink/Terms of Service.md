@@ -406,11 +406,12 @@ Expected speeds during peak hours of usage:
 
 | Service Plan Name | Download Speed | Upload Speed | Latency |
 | --- | --- | --- | --- |
-| **Residential** | 50-150 Mbps | 5-25 Mbps | 25-50 ms |
-| **Residential Lite** | 30-100 Mbps | 5-25 Mbps | 25-50 ms |
-| **Roam (10GB, 50GB, Unlimited)** | 30-100 Mbps | 10-30 Mbps | 25-50 ms |
-| **Local Priority (50GB, 500GB, 1TB, 2TB)** | 50-220 Mbps | 10-30 Mbps | 25-50 ms |
-| **Global Priority (50GB, 500GB, 1TB, 2TB)** | 50-220 Mbps | 10-30 Mbps | 25-50 ms |
+| **Residential Max** | 50–300 Mbps | 15–35 Mbps | 25–50 ms |
+| **Residential 100 Mbps** | 80–100 Mbps | 15–35 Mbps | 25–50 ms |
+| **Residential 200 Mbps** | 80–200 Mbps | 15–35 Mbps | 25–50 ms |
+| **Roaming (10 GB, 50 GB, unlimited)** | 65–260 Mbps | 15–35 Mbps | 25–50 ms |
+| **Local Priority (50 GB, 500 GB, 1 TB, 2 TB)** | 50–220 Mbps | 10–30 Mbps | 25–50 ms |
+| **Global Priority (50 GB, 500 GB, 1 TB, 2 TB)** | 50–220 Mbps | 10–30 Mbps | 25–50 ms |
 
 Location-based information on expected speeds and latency is available at [starlink.com/map](http://starlink.com/map).
 
