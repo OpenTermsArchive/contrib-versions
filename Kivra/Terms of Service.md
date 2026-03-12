@@ -1,7 +1,7 @@
 General Terms and Conditions for the Service
 ============================================
 
-**Effective from 2026-04-10 and until further notice.**  
+**Effective from 2026-04-11 and until further notice.**  
   
 
 _Kivra updates the terms and conditions and removes shared folder functionality._
@@ -14,7 +14,7 @@ By choosing to register to use the Service, you also agree to follow these gener
 
 ### 2\. The Service
 
-\_\_2.1 Registration\_\_
+2.1 Registration
 
 You register for the Service by applying for an account with Kivra through any of the registration options that Kivra offers from time to time.
 
@@ -24,11 +24,11 @@ If you have a sole proprietorship, you will also receive electronic corresponden
 
 An agreement on the Service is considered to have been entered into between you and Kivra once the registration is completed, and the account is approved. The Service is free of charge for you as a User.
 
-\_\_2.2 Access\_\_
+2.2 Access
 
 Access to the Service is provided through any of the access options that Kivra informs about via the Service from time to time.
 
-\_\_2.3 Receiving Electronic Correspondences\_\_
+2.3 Receiving Electronic Correspondences
 
 The Service means that Kivra, after approved registration of your account, among other things, receives digital messages and dispatches including invoices and digital receipts ("Electronic Correspondences") to your digital mailbox from companies, organizations, authorities, municipalities, and others who have chosen to join Kivra ("Senders").
 
@@ -36,15 +36,15 @@ To be able to receive Electronic Correspondences from authorities and municipali
 
 Kivra continuously informs Senders that you wish to receive Electronic Correspondences in your digital mailbox. You can at any time choose not to receive Electronic Correspondences from one or more Senders via settings in the Service. You can also choose not to receive digital receipts in your digital mailbox via settings in the Service. After such a notification, you may continue to receive Electronic Correspondences from the concerned Sender for up to ten (10) days and digital receipts for up to three (3) days.
 
-\_\_2.4 Registered Letters\_\_
+2.4 Registered Letters
 
 The Service allows you to receive Letters where the Sender receives a receipt when you choose to open the Letter (“Registered Letters”). The Sender is responsible for how long Registered Letters are available for you to open.
 
-\_\_2.5 Uploads\_\_
+2.5 Uploads
 
 You can also upload Content to the Service. The number of Contents that can be uploaded is limited as stated in the Service.
 
-\_\_2.6 Payments\_\_
+2.6 Payments
 
 In the Service, you can make payments of invoices and bills delivered as Electronic Correspondences to your digital mailbox. You can also upload invoices yourself and make them payable in the Service. Kivra then interprets the Content through text recognition and suggests what information should be entered as payment details. You are responsible for ensuring that the information is correct before proceeding with the payment.
 
@@ -54,27 +54,27 @@ It is the payment service provider, and not Kivra, that is responsible for initi
 
 ensuring that invoices are paid on time. Kivra is not responsible for any additional costs that arise due to your late or non-payments.
 
-\_\_2.7 Offers\_\_
+2.7 Offers
 
 In the Service, you can choose to receive marketing ("Offers") from Senders. The Sender is responsible for the content of the Offer and for how long it is available to you. You choose yourself which Senders you want to receive Offers from and can at any time choose to opt-out of Offers from Senders through settings in the Service.
 
-\_\_2.8 Forms\_\_
+2.8 Forms
 
 In the Service, you can choose to respond to questionnaires ("Forms") from Senders. The Sender is responsible for the content of the Form and how long it is available to you.
 
-\_\_2.9 Sharing Content\_\_
+2.9 Sharing Content
 
 In the Service, you may choose to share Content and individual data with a third party ("Recipient"). You choose which Recipients you wish to share your Content or data with. The recipient is responsible for informing you of the purpose of the sharing and for the handling of your Content or data after sharing.
 
-\_\_2.10 Translations\_\_
+2.10 Translations
 
 In the Service, you may choose to translate Content into different languages. You choose which Content you wish to translate. Kivra is not responsible for the accuracy of the translation.
 
-\_\_2.11 AI Features\_\_
+2.11 AI Features
 
 In the Service, You may choose to process Content using AI, for example by summarizing or extracting information from the Content (“AI Features”). You are responsible for ensuring that Content that You choose to process using the AI ​​Feature may be processed in this manner and that it does not violate any law or infringe upon the rights of third parties. Kivra is not responsible for the accuracy or completeness of the results produced by the AI ​​Feature. AI Features are only available to Users who are 18 years of age or older.
 
-\_\_2.12 Authorization\_\_
+2.12 Authorization
 
 Within the framework of the Service, you can choose to share your digital mailbox with another user, thereby giving this person read and management rights, for example, to be able to pay your invoices. To access your digital mailbox, however, this user must log in with e-identification and accept the sharing. You can revoke the sharing at any time.
 
@@ -82,11 +82,11 @@ Digital receipts are not covered by the possibility to share your digital mailbo
 
 Folders are also not covered by the possibility to share your digital mailbox. Instead, you can give other users access to Content by creating shared folders.
 
-\_\_2.13 Kivra's communication with you\_\_
+2.13 Kivra's communication with you
 
 Kivra communicates with you via, among other things, email, SMS, push notifications, and Electronic Correspondences. You can choose to opt-out of notifications via email and push notifications through settings in the Service. You can also choose to opt-out of marketing via email through a link in the email message itself. Communication regarding the Service is considered an integrated part of the Service, which means it cannot be opted out of. It is also not possible to opt out of Kivra as a Sender in the Service.
 
-\_\_2.14 Receiving and responsibility for Electronic Correspondences\_\_
+2.14 Receiving and responsibility for Electronic Correspondences
 
 An Electronic Correspondence is considered to have been received by you when it has been made available to you in your digital mailbox.
 
@@ -94,7 +94,7 @@ Senders are responsible for the content of the Electronic Correspondences.
 
 You are responsible, in the same way as for physical correspondences, for reviewing the content of Electronic Correspondences.
 
-\_\_2.15 Storage\_\_
+2.15 Storage
 
 Content and your account history are stored for as long as you have an approved account registered with Kivra.
 
@@ -150,13 +150,13 @@ If Kivra suspects that you are using the Service in violation of this section, K
 
 ### 9\. Processing of personal data
 
-You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the \[data processing agreement\](/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
+You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
 
-Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in our \[Privace Notice\](https://kivra.se/en/private/privacy-notice/).
+Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in our [Privace Notice](https://kivra.se/en/private/privacy-notice/).
 
 ### 10\. Accessibility
 
-Kivra is responsible for ensuring that the Service's payment functions meet the requirements of the Act (2023:254) on the accessibility of certain products and services. Depending on which payment method you choose, the different providers are responsible for the accessibility of their respective services. You can read more about \[accessibility in Kivra here.\](https://kivra.se/en/about-kivra/accessibility-at-kivra)
+Kivra is responsible for ensuring that the Service's payment functions meet the requirements of the Act (2023:254) on the accessibility of certain products and services. Depending on which payment method you choose, the different providers are responsible for the accessibility of their respective services. You can read more about [accessibility in Kivra here](https://kivra.se/en/about-kivra/accessibility-at-kivra).
 
 ### 11\. Liability and limitations of liability
 
@@ -178,7 +178,7 @@ Kivra is exempt from liability for damages or other responsibilities if damage o
 
 ### 13\. Suspension and termination of the Service
 
-\_\_13.1 Your rights\_\_
+13.1 Your rights
 
 You have the right to terminate the Agreement or an Additional Service at any time by notifying Kivra that you wish to deregister your account or terminate the Additional Service.
 
@@ -188,7 +188,7 @@ After the notice period, the Service is terminated, and your account is deleted 
 
 You may also choose to pause your account by contacting Kivra. While the account is paused, any mailings from Senders will be sent as physical items. However, after the account is paused, you may continue to receive Emails for a maximum of ten (10) days. It is not possible to pause incoming Emails sent through My Messages. You reactivate your account by logging into the Service or by contacting Kivra.
 
-\_\_13.2 Kivra's rights\_\_
+13.2 Kivra's rights
 
 Kivra has the right, through written notification to you, to fully or partially terminate the Service for you and terminate the Agreement with immediate effect if you breach your obligations under the Agreement or against legislation, governmental decisions, or provided instructions.
 
@@ -198,7 +198,7 @@ terminate the Service for you and terminate the Agreement with a three (3) month
 
 Kivra also has the right to fully or partially terminate the Service for you and terminate the Agreement without observing the notice period if you have not used the Service for a period of one (1) year or if the registration of an account has not been completed within two (2) weeks.
 
-\_\_13.3 Death\_\_
+13.3 Death
 
 In the event of death, Kivra reserves the right to terminate the Service and delete Content in the Service for the deceased User after twelve (12) months from the death.
 
