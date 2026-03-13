@@ -358,32 +358,37 @@ If you upgrade from Coursera Plus monthly to a Coursera Plus annual plan, then y
 
 Please allow 7 – 10 business days for any applicable refund to be processed and reflected in your account.
 
-3\. Degree and University Certificate Programs
+3\. Premium Content
+-------------------
+
+Refunds are not available where you have accessed, unlocked, or otherwise obtained any benefit or item of value from premium content made available as part of a purchase, including any content designated as restricted or protected by a paywall or other access control mechanism.
+
+4\. Degree and University Certificate Programs
 ----------------------------------------------
 
 Refund policies for Degree, and University Certificate programs are set and administered by the content provider offering the program. You should consult the institution’s policies and communications for specific refund terms.
 
-4\. Other Paid Services
+5\. Other Paid Services
 -----------------------
 
 Unless otherwise stated in this Policy or explicitly during the sign-up process, Coursera is not obligated to provide refunds or credits for any other paid services.
 
-5\. Third-Party Marketplaces
+6\. Third-Party Marketplaces
 ----------------------------
 
 If a purchase is made through a third-party marketplace, such as the Apple App Store or another payment platform, the refund policy of that marketplace applies. In such cases, Coursera does not process the refund and assumes no responsibility for the marketplace’s decision. Unless explicitly stated otherwise by Coursera, the third-party provider is solely responsible for handling any refund requests.
 
-6\. Promotional Offers
+7\. Promotional Offers
 ----------------------
 
 Coursera may occasionally offer special discounts or promotional offers. Eligibility for these offers is determined at Coursera’s sole discretion. Offers may be revoked if you are deemed ineligible. Coursera may consider factors such as your payment method or account history to determine eligibility. Limitations and terms will be disclosed at the time the offer is presented.
 
-7\. Changes to Price and Subscription Plans
+8\. Changes to Price and Subscription Plans
 -------------------------------------------
 
 Coursera reserves the right to change its subscription plans or adjust pricing at any time and at its sole discretion. Except where otherwise stated, any changes will take effect following advance notice to you.
 
-8\. European Users Right of Withdrawal
+9\. European Users Right of Withdrawal
 --------------------------------------
 
 In accordance with applicable laws, if you are in the European Union and the United Kingdom you have a right of withdrawal for 14 days from the date a contract commences. You may withdraw without providing a reason and without incurring costs, except as noted. If the Services have already been fully performed with your express consent, or if Service use has begun with their acknowledgment, the right of withdrawal is forfeited. You must notify Coursera of your decision to withdraw using a clear statement at the [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US). If the contract is withdrawn, Coursera will reimburse all payments within 14 days of being notified. Reimbursement will be made using the original payment method unless otherwise agreed.
