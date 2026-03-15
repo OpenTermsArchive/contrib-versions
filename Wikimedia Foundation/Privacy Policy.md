@@ -48,7 +48,7 @@ Other languages:
 *   [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hr "Zaštita privatnosti (6% translated)")
 *   [interlingua](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ia "Politica de confidentialitate (46% translated)")
 *   [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Informativa sulla privacy (90% translated)")
-*   [kabuverdianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kea "Pulítika:Pulítika di privasidadi (5% translated)")
+*   [kabuverdianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kea "Pulítika:Pulítika di Privasidadi di Fundason Uikimídia (5% translated)")
 *   [latviešu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lv "Privātuma politika (48% translated)")
 *   [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lt "Privatumo politika (7% translated)")
 *   [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (86% translated)")
