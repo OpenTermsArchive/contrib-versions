@@ -171,6 +171,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Data Gov Au - Administrative Boundaries © Geoscape Australia licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International license (CC BY 4.0).: [https://www.anzlic.gov.au/resources/foundation-spatial-data-framework/fsdf-themes-datasets/administrative-boundaries](https://www.anzlic.gov.au/resources/foundation-spatial-data-framework/fsdf-themes-datasets/administrative-boundaries)
             
+        *   Geoscience Australia. National Roads 2026 ([https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147684](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147684)). License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     4.  **Austria**
         *   You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -1425,6 +1427,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Natural Science Institute of Iceland/Icelandic Institute of Natural History [https://www.natt.is/en/resources/open-data](https://www.natt.is/en/resources/open-data)
              
+         *   HMS Húsnæðis Mannvirki Skipulag. Address book (Stað­fanga­skrá). License: [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
     29.  **India**
          
          Google’s maps of India include data licensed from the following:
@@ -1805,12 +1809,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   NZ Transport Agency, Waka Kotahi open data portal. National Speed Limit Register (NSLR) 2026. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
-    48.  **Northern Ireland**
+    48.  **Nigeria**
+         *   GRID3. NGA - Settlement Names 2025 ([https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-names/about](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-names/about)). License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+    49.  **Northern Ireland**
          *   © Ordnance Survey of Northern Ireland
              
          *   Translink: [License](https://www.translink.co.uk/api)
              
-    49.  **Norway**
+    50.  **Norway**
          *   Elveg©Statens kartverk and Statens vegvesen, N50 Kartdata©Statens kartverk
              
          *   © Bergen kommune
@@ -1833,10 +1840,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Geonorge - Norway: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
-    50.  **Philippines**
+    51.  **Philippines**
          *   Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
              
-    51.  **Poland**
+    52.  **Poland**
          *   © MGGP Aero
              
          *   © ZSIP Powiat Olesnicki
@@ -1867,7 +1874,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   GUGIK Główny Urząd Geodezji i Kartografii: [https://creativecommons.org/licenses/by/3.0/pl/deed.en](https://creativecommons.org/licenses/by/3.0/pl/deed.en)
              
-    52.  **Portugal**
+    53.  **Portugal**
          *   IgeoE - Portugal
              
          *   © 2012 SRES DRIGOT
@@ -1894,15 +1901,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Direção-Geral do Território: Licença de utilização - CC-BY-4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)) Sempre que o utilizador publique e/ou divulgue, por meio analógico ou digital, informação geográfica propriedade da Direção-Geral do Território, ainda que parcialmente adaptada, deverá atribuir créditos com inclusão do texto "Informação geográfica cedida pela Direção-Geral do Território
              
-    53.  **Russia**
+    54.  **Russia**
          
          GIS Innovatsia 2011, Database«TopoRF\_1000000» (с) ДАТА+, 2006 2013 Rosreestr
          
-    54.  **Romania**
+    55.  **Romania**
          
          [National Agency for Cadastre and Land Registration of Romania - ANCPI](http://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=faeba2d173374445b1f13512bd477bb2) ''Contains public information under the Open Government License v1.0''
          
-    55.  **Singapore**
+    56.  **Singapore**
          *   This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
              
          *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Cycling Path Network" accessed on 2021 from [https://data.gov.sg/dataset/cycling-path-network](https://data.gov.sg/dataset/cycling-path-network) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
@@ -1925,7 +1932,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Land Transport Authority, DataMall. Contains information from API for Electric Vehicle Charging Points accessed on 23/02/2026 from Land Transport Authority which is made available under the terms of the Singapore Open Data Licence version 1.0 ([https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html](https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html), [https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html](https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html))
              
-    56.  **Slovakia**
+    57.  **Slovakia**
          *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
              
          *   © Eurosense/Geodis Slovakia
@@ -1942,24 +1949,24 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   GeoPresovRegion Slovakia: [https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home](https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
              
-    57.  **Solomon Islands**
+    58.  **Solomon Islands**
          *   Pacific Data Hub (SB): [https://pacificdata.org/](https://pacificdata.org/)
              
          *   Pacific Community, PopGIS (SB): [https://sdd.spc.int/innovation-sdd/popgis-v3](https://sdd.spc.int/innovation-sdd/popgis-v3)
              
-    58.  **South Africa**
+    59.  **South Africa**
          *   © AfriGIS (Pty) Ltd
              
          *   © CDNGI
              
          *   AGEOS - African Association for Geospatial Development - [http://www.opengeodata.ageos.org/](http://www.opengeodata.ageos.org/)
              
-    59.  **South Korea**
+    60.  **South Korea**
          *   Based upon electronic data © SK telecom Co., Ltd. All rights reserved. Korean Association Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
              
          *   NSPO FORMOSAT-2
              
-    60.  **Spain**
+    61.  **Spain**
          *   Vectorial cartographic information based on Base Cartográfica Nacional from Instituto Geográfico Nacional de España
              
          *   Ajuntament de Roses
@@ -2152,7 +2159,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Centro Nacional de Información Geográfica,BTN 2025 CC-BY 4.0 Instituto Geográfico Nacional: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
              
-    61.  **Sweden**
+    62.  **Sweden**
          *   © 2009 Cartesia GIS AB
              
          *   © Swedish Environmental Protection Agency
@@ -2167,7 +2174,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   SMHI, [https://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759,](https://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759) changes were made.
              
-    62.  **Switzerland**
+    63.  **Switzerland**
          *   © Swisstopo
              
          *   Swiss Postal Data (March 2011) are © Die Schweizerische Post. You are not permitted, at any one time, to use Swiss Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
@@ -2212,10 +2219,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Federal Office of Topography swisstopo: [https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste](https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste)
              
-    63.  **Syria**
+    64.  **Syria**
          *   HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
              
-    64.  **Taiwan**
+    65.  **Taiwan**
          *   © 2013 Kingwaytek Technology Co., Ltd.
              
          *   © GeoForce Technologies
@@ -2266,11 +2273,13 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data Gov TW. New Taipei City address location data- 11502, 2026 (新北市門牌位置數值資料) This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
              
-    65.  **Timor-Leste**
+         *   Data Gov TW. Taoyuan City address location coordinates 2025 (桃園市門牌位置坐標資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+    66.  **Timor-Leste**
          
          OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
          
-    66.  **Turkey**
+    67.  **Turkey**
          *   © 2013 Basarsoft
              
          *   Data Gov TW: [https://data.gov.tw/en/license](https://data.gov.tw/en/license)
@@ -2279,11 +2288,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Open data portal İstanbul.: [https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi](https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi), [https://data.ibb.gov.tr/license](https://data.ibb.gov.tr/license)
              
-    67.  **Turks and Caicos**
+    68.  **Turks and Caicos**
          
          © Salt Cay Devco Ltd.
          
-    68.  **UK**
+    69.  **UK**
          *   Abundance Distributions for Tree Species in UK, [https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2661), changes were made.
              
          *   Edinburgh DataShare [https://datashare.ed.ac.uk/](https://datashare.ed.ac.uk/)
@@ -2294,11 +2303,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   DataMap Wales [https://datamap.gov.wales/layers/inspire-nrw:NRW\_FOREST\_ROADS](https://datamap.gov.wales/layers/inspire-nrw:NRW_FOREST_ROADS)
              
-    69.  **Ukraine**
+    70.  **Ukraine**
          
          © Transnavicom - [http://www.transnavi.com/](http://www.transnavi.com/)
          
-    70.  **United States.**
+    71.  **United States.**
          
          Google’s maps of the United States include data provided from the following sources:
          
@@ -2856,13 +2865,13 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                
          277.  The Pennsylvania State University: [https://policy.psu.edu/policies/ad91#POLICYSTATEMENT](https://policy.psu.edu/policies/ad91#POLICYSTATEMENT), [https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty\_Address202307.xml](https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty_Address202307.xml)
                
-    71.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
+    72.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
          
-    72.  **United Arab Emirates / Abu Dhabi**
+    73.  **United Arab Emirates / Abu Dhabi**
          
          Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
          
-    73.  **Uruguay**
+    74.  **Uruguay**
          *   © 2000 Aviation Systems
              
          *   Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
@@ -2873,7 +2882,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Uruguayan Post Office- Catálogo de Datos Abiertos, Postal Codes, Licencia de Datos Abiertos – Uruguay - Version 0.1: [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)
              
-    74.  **Worldwide**
+    75.  **Worldwide**
          *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
              
          *   © Europa Technologies Ltd. ([https://www.europa.uk.com/map-data/global/](https://www.europa.uk.com/map-data/global/))
@@ -2938,7 +2947,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   GeoJunxion
              
-    75.  **Chile**
+    76.  **Chile**
          *   Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
              
          *   IDE del Gobierno Regional de Coquimbo
@@ -2949,56 +2958,56 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   National Institute of Statistics (INE) [https://www.ine.gob.cl/](https://www.ine.gob.cl/)
              
-    76.  **Zambia**
+    77.  **Zambia**
          *   OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
              
          *   GRID3 (ZM): [https://grid3.org/](https://grid3.org/) ; License provided at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
              
-    77.  **Mali**
+    78.  **Mali**
          
          OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
          
-    78.  **Madagascar**
+    79.  **Madagascar**
          
          OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
          
-    79.  **Papua New Guinea**
+    80.  **Papua New Guinea**
          *   WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
              
          *   Papua New Guinea National Statistics Office - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
              
-    80.  **Yemen**
+    81.  **Yemen**
          *   OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
              
          *   The Humanitarian Data Exchange (YE): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
              
-    81.  **Zimbabwe**
+    82.  **Zimbabwe**
          
          OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
          
-    82.  **Senegal**
+    83.  **Senegal**
          
          OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
          
-    83.  **Uganda**
+    84.  **Uganda**
          
          OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
          
-    84.  **Ghana**
+    85.  **Ghana**
          *   OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
              
          *   Government of Ghana - [https://data.gov.gh/](https://data.gov.gh/) Licenses: [https://opendatacommons.org/licenses/by/1-0/](https://opendatacommons.org/licenses/by/1-0/)
              
-    85.  **Morocco**
+    86.  **Morocco**
          *   OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
              
          *   Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
              
-    86.  **Dominican Republic**
+    87.  **Dominican Republic**
          
          OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
          
-    87.  **Latvia**
+    88.  **Latvia**
          *   Latvian Open Data Portal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
          *   Open Data Latvia - [https://data.gov.lv/lv](https://data.gov.lv/lv)
@@ -3007,156 +3016,158 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Geo Riga - [https://creativecommons.org/licenses/by/4.0/legalcode.lv](https://creativecommons.org/licenses/by/4.0/legalcode.lv)
              
-    88.  **Slovenia**
+    89.  **Slovenia**
          *   Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://www.e-prostor.gov.si/fileadmin/struktura/Preberi\_me.docx](https://www.e-prostor.gov.si/fileadmin/struktura/Preberi_me.docx)
              
          *   Republika Slovenija - [https://ipi.eprostor.gov.si/jgp/data](https://ipi.eprostor.gov.si/jgp/data)
              
          *   OPSI Odprti Podatki Slovenije - [https://podatki.gov.si/dataset/kolesarske-poti-v-obcini-domzale](https://podatki.gov.si/dataset/kolesarske-poti-v-obcini-domzale)
              
-    89.  **Niue**
+    90.  **Niue**
          
          Pacific Environment Data Portal - [https://pacificdata.org/data/dataset/2011\_niu\_phc\_admin\_boundaries](https://pacificdata.org/data/dataset/2011_niu_phc_admin_boundaries)
          
-    90.  **Kazakhstan**
+    91.  **Kazakhstan**
          
          The Humanitarian Data Exchange (HDX), Kazakhstan - [https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431](https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431)
          
-    91.  GitHub - [https://github.com/openaddresses/openaddresses/blob/master/LICENSE](https://github.com/openaddresses/openaddresses/blob/master/LICENSE)
+    92.  GitHub - [https://github.com/openaddresses/openaddresses/blob/master/LICENSE](https://github.com/openaddresses/openaddresses/blob/master/LICENSE)
          
-    92.  **South Sudan**
+    93.  **South Sudan**
          
          The Humanitarian Data Exchange (HDX), South Sudan - [https://data.humdata.org/dataset/cod-ab-ssd](https://data.humdata.org/dataset/cod-ab-ssd)
          
-    93.  **Tonga**
+    94.  **Tonga**
          *   Pacific Data Hub - [https://pacificdata.org/](https://pacificdata.org/)
              
          *   Pacific Community, PopGIS (TO): [https://sdd.spc.int/innovation-sdd/popgis-v3](https://sdd.spc.int/innovation-sdd/popgis-v3)
              
-    94.  **Sudan**
+    95.  **Sudan**
          
          The Humanitarian Data Exchange (SD) : [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
          
-    95.  **Serbia**
+    96.  **Serbia**
          
          Republic of Serbia Open Data Portal: [https://data.gov.rs/sr/datasets/adresni-registar/](https://data.gov.rs/sr/datasets/adresni-registar/)
          
-    96.  **Togo**
+    97.  **Togo**
          
          Ocha Political All HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
          
-    97.  **Tunisia**
+    98.  **Tunisia**
          
          The Humanitarian Data Exchange (TN): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
          
-    98.  **Mongolia**
+    99.  **Mongolia**
          
          The Humanitarian Data Exchange (MN): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
          
-    99.  **Croatia**
-         *   Narodne Novine, State Geodetic Administration (2023) (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
-             
-         *   Croatia State Geodetic Administration (HR): [https://rgi.dgu.hr/](https://rgi.dgu.hr/) Political Boundaries, 2023
-             
-         *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
-             
-         *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
-             
-         *   Republika Hrvatska, Cikloturizam (HR): [https://cikloturizam.gov.hr/](https://cikloturizam.gov.hr/), [https://dgu.gov.hr/uvjeti-koristenja/76](https://dgu.gov.hr/uvjeti-koristenja/76)
-             
-         *   Contains data from the Croatia State Geodetic Administration, Upravne jedinice INSPIRE (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
-             
-         *   Contains data from the Croatia State Geodetic Administration, Adrese INSPIRE – WMS servis (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
-             
-         *   City of Zagreb. Bicycle path geoportal, 02/28/2024. (HR): [https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze](https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze), [https://data.gov.hr/otvorena-dozvola/](https://data.gov.hr/otvorena-dozvola/)
-             
-    100.  **Paraguay**
+    100.  **Croatia**
+          *   Narodne Novine, State Geodetic Administration (2023) (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+              
+          *   Croatia State Geodetic Administration (HR): [https://rgi.dgu.hr/](https://rgi.dgu.hr/) Political Boundaries, 2023
+              
+          *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
+              
+          *   Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
+              
+          *   Republika Hrvatska, Cikloturizam (HR): [https://cikloturizam.gov.hr/](https://cikloturizam.gov.hr/), [https://dgu.gov.hr/uvjeti-koristenja/76](https://dgu.gov.hr/uvjeti-koristenja/76)
+              
+          *   Contains data from the Croatia State Geodetic Administration, Upravne jedinice INSPIRE (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+              
+          *   Contains data from the Croatia State Geodetic Administration, Adrese INSPIRE – WMS servis (HR): [https://narodne-novine.nn.hr/clanci/sluzbeni/2023\_05\_56\_970.html](https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_970.html)
+              
+          *   City of Zagreb. Bicycle path geoportal, 02/28/2024. (HR): [https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze](https://data.zagreb.hr/dataset/geoportal-biciklisticke-staze), [https://data.gov.hr/otvorena-dozvola/](https://data.gov.hr/otvorena-dozvola/)
+              
+    101.  **Paraguay**
           *   Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
               
           *   INE Instituto Nacional de Estadísticas Paraguay [https://www.ine.gov.py/](https://www.ine.gov.py/)
               
-    101.  **Gibraltar**
+    102.  **Gibraltar**
           
           H.M. Government of Gibraltar - Geoportal - GIS (GI): [https://www.geoportal.gov.gi/](https://www.geoportal.gov.gi/)
           
-    102.  **Qatar**
+    103.  **Qatar**
           *   The Humanitarian Data Exchange (QA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
           *   Qatar - Planning and Statistics Authority: [https://www.npc.qa/en/aboutus/pages/TermsOfUse.aspx](https://www.npc.qa/en/aboutus/pages/TermsOfUse.aspx)
               
-    103.  **Cameroon**
+    104.  **Cameroon**
           *   The Humanitarian Data Exchange (CM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    104.  **Micronesia**
+    105.  **Micronesia**
           *   The Humanitarian Data Exchange (FM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    105.  **Georgia**
+    106.  **Georgia**
           *   The Humanitarian Data Exchange (GE): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    106.  **Lesotho**
+    107.  **Lesotho**
           *   The Humanitarian Data Exchange (LS): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    107.  **Nicaragua**
+    108.  **Nicaragua**
           *   The Humanitarian Data Exchange (NI): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    108.  **Laos**
+    109.  **Laos**
           *   The Humanitarian Data Exchange (LA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    109.  **Liberia**
+    110.  **Liberia**
           *   The Humanitarian Data Exchange (LR): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    110.  **Djibouti**
+    111.  **Djibouti**
           *   The Humanitarian Data Exchange (DJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    111.  **Wallis & Futuna**
+    112.  **Wallis & Futuna**
           *   Pacific Data Hub (WF): [https://pacificdata.org/](https://pacificdata.org/)
               
-    112.  **Cyprus**
+    113.  **Cyprus**
           *   Open Data Cyprus (CY): [https://www.data.gov.cy/el/dataset/dieythynseis-addresses-inspire](https://www.data.gov.cy/el/dataset/dieythynseis-addresses-inspire)
               
           *   The National Access Point (NAP) of Cyprus: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
               
           *   Open Data CY: [https://data.gov.cy/el/kateythyntiries-grammes](https://creativecommons.org/licenses/by/4.0/)
               
-    113.  **Cuba**
+          *   CYNAP The National Access Point of Cyprus. Speed Limits 2025 ([https://www.traffic4cyprus.org.cy/dataset/speed\_limits/resource/724eb9b2-a1d2-41ed-81f4-5d17b03d9126](https://www.traffic4cyprus.org.cy/dataset/speed_limits/resource/724eb9b2-a1d2-41ed-81f4-5d17b03d9126)). License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+              
+    114.  **Cuba**
           *   The Humanitarian Data Exchange (CU): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    114.  **Somalia**
+    115.  **Somalia**
           *   The Humanitarian Data Exchange (SO): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    115.  **Madagascar**
+    116.  **Madagascar**
           *   The Humanitarian Data Exchange (MG): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    116.  **Mauritania**
+    117.  **Mauritania**
           *   The Humanitarian Data Exchange (MR): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
           *   Humanitarian Data Exchange - HDX (MR): [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
               
-    117.  **El Salvador**
+    118.  **El Salvador**
           *   The Humanitarian Data Exchange (SV): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
           *   Centro Nactional de Registros: [https://www.cnr.gob.sv/](https://www.cnr.gob.sv/)
               
-    118.  **Benin**
+    119.  **Benin**
           *   The Humanitarian Data Exchange (BJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
-    119.  **Peru**
+    120.  **Peru**
           *   Platforma Nacional de Datos Abiertos (PE): [https://www.datosabiertos.gob.pe/](https://www.datosabiertos.gob.pe/) Licensed under the ODC Attribution License
               
           *   Plataforma Nacional de Datos Abiertos Peru (PE): [https://www.datosabiertos.gob.pe/dataset/limites-departamentales](https://www.datosabiertos.gob.pe/dataset/limites-departamentales)
               
-    120.  **Bosnia and Herzegovina**
+    121.  **Bosnia and Herzegovina**
           *   The Federal Hydrometeorological Institute, FHMZ (BA): [https://www.fhmzbih.gov.ba/latinica/PRISTUP/index.php](https://www.fhmzbih.gov.ba/latinica/PRISTUP/index.php)
               
-    121.  **Kosovo**
+    122.  **Kosovo**
           *   IHMK - Instituti Hidrometeorologjik i Kosovës
               
-    122.  **Puerto Rico**
+    123.  **Puerto Rico**
           *   United States Census Bureau: [https://www.census.gov/data/developers/about/terms-of-service.html](https://www.census.gov/data/developers/about/terms-of-service.html)
               
           *   United States Census Bureau: [https://www.census.gov/about/policies/privacy.html](https://www.census.gov/about/policies/privacy.html)
               
-    123.  **Vietnam**
+    124.  **Vietnam**
           *   Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
               
 4.  **Business Listings Data.**
