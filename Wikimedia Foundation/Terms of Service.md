@@ -99,6 +99,7 @@ Other languages:
 *   [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Termos de uso (40% translated)")
 *   [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hr "Policy:Terms of Use/hr (99% translated)")
 *   [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Condizioni d'uso (100% translated)")
+*   [kabuverdianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kea "Pulítika:Térmus di Uzu (4% translated)")
 *   [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Mercên bikaranînê (3% translated)")
 *   [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Mūsu lietošanas nosacījumi (100% translated)")
 *   [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Naudojimo sąlygos (99% translated)")
