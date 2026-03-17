@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: February 27, 2026
+Last Updated: March 16, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -86,7 +86,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview).
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, Amazon Connect Health, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security Agent (Preview).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
@@ -202,7 +202,7 @@ c. The specific compliance and assurance programs for which AWS Outposts are in
 
 **5.6.6.** For each Seller, we will collect the necessary data and tax forms to enable compliance with applicable tax laws. For example, for U.S.-based Sellers, we will collect and retain Seller name and address, and may collect the tax identification number and other data as needed to comply with Form 1099K reporting requirements; for non-U.S.-based Sellers, we will collect and retain a Form W-8BEN tax form (which includes name, address, and a signature) as proof that you are exempt from Form 1099K reporting. For each Buyer, we will collect and retain the Buyer’s name and address. Buyers and Sellers will not know the name of the other party to the Transaction until the Transaction is completed. Upon completion of the Transaction, we will share the applicable Buyer’s city, state, and zip with the Seller so that the Seller can calculate the appropriate tax (if any) to remit to the appropriate government entity. We will share the Seller’s legal name on the Buyer’s invoice. Buyers and Sellers may not use information about the Transaction or about the other party gained in connection with a Transaction (“Transaction Information”) for any purpose that is not related to the Transaction. For example, you may not, directly or indirectly: (1) disclose any Transaction Information to any third party, except as necessary for you to perform your tax obligations or other obligations under these Service Terms and only if you ensure that every recipient uses the information only for that purpose and complies with these restrictions; (2) use any Transaction Information for any marketing or promotional purposes whatsoever; (3) use any Transaction Information in any way inconsistent with applicable law; (4) contact a party to influence them to make an alternative sale or purchase; or (5) target communications of any kind on the basis of the intended recipient being an RI Marketplace Buyer or Seller.
 
-**5.7.** Amazon EC2 enables you to provision Amazon EC2 instances using your Microsoft Software and Microsoft Licenses (the “BYOL Program”). Unless otherwise specified in your agreement(s) with Microsoft, you can participate in the BYOL Program only if you comply with the requirements [here](https://docs.aws.amazon.com/workspaces/latest/adminguide/byol-windows-images.html), and you (a) use Dedicated Instances or Dedicated Hosts; and (b) launch from Virtual Machines (VMs) sourced from software binaries provided by you.
+**5.7.** Amazon EC2 enables you to provision Amazon EC2 instances using your Microsoft Software and Microsoft Licenses (the “BYOL Program”). Unless otherwise specified in your agreement(s) with Microsoft, you can participate in the BYOL Program only if you comply with the requirements [here](https://docs.aws.amazon.com/vm-import/latest/userguide/licensing-considerations.html), and you (a) use Dedicated Instances or Dedicated Hosts; and (b) launch from Virtual Machines (VMs) sourced from software binaries provided by you.
 
 You must be eligible to use the BYOL Program for the applicable Microsoft Software under your agreements with Microsoft. You are solely responsible for obtaining all required licenses and for complying with all applicable Microsoft licensing requirements, including the Product Use Rights/Product Terms. By using the Microsoft Software under the BYOL Program, you agree to Microsoft's End User License Agreement.
 
@@ -552,6 +552,12 @@ The encoding, transcoding or decoding of files with Amazon Elastic Transcoder, a
 **28.1.** "Security Hub Content" is Your Content that AWS Security Hub processes.
 
 **28.2.** You agree and instruct that after you have enabled the new AWS Security Hub: (a) we may use and store your Security Hub Content to develop and improve AWS Security Hub and its underlying technologies; (b) we may use and store Security Hub Content that is not personal data to develop and improve other AWS security services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Security Hub Content in an AWS region outside the AWS region where you are using AWS Security Hub. You may instruct AWS not to use and store Security Hub Content to develop and improve AWS Security Hub or other AWS security services by configuring an AI services opt-out policy using AWS Organizations.
+
+**28.3. AWS Security Hub Extended**
+
+**28.3.1.** The AWS Security Hub Extended plan enables you to access and use security solutions and content made available by third-party providers ("Security Offerings") within Security Hub. Security Offerings are (a) Third Party Content, and (b) provided to you under a separate agreement between you and the applicable Security Offering provider.  
+
+**28.3.2.** AWS may change, discontinue, or deprecate support for a Security Offering (within the AWS Security Hub Extended plan) at any time. Where practicable under the circumstances, AWS will provide you with prior notice of any discontinuation or deprecation of support for a Security Offering. Upon discontinuation or deprecation of support for a Security Offering, your access to that Security Offering through the Security Hub Extended plan will be discontinued.
 
 29\. Amazon Pinpoint and AWS End User Messaging (formerly, the SMS, MMS, voice message, and push notification features of Amazon Pinpoint)
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -937,7 +943,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.9.3.** Your use of Amazon Rekognition is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms/)[](#_msocom_1).
 
-**50.10. Defense of Claims and Indemnity for Indemnified Generative AI Services.** AWS Services may incorporate generative AI features and provide Generative AI Output to you. “Generative AI Output” means output generated by a generative artificial intelligence model in response to inputs or other data provided by you. “Indemnified Generative AI Services” means, collectively, generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Nova Forge Models (as defined below)**,** Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform, Amazon Connect, Amazon Lex, Kiro (excluding Kiro Free Tier), and the Amazon Quick Suite (including Amazon QuickSight). The following terms apply to the Indemnified Generative AI Services:
+**50.10. Defense of Claims and Indemnity for Indemnified Generative AI Services.** AWS Services may incorporate generative AI features and provide Generative AI Output to you. “Generative AI Output” means output generated by a generative artificial intelligence model in response to inputs or other data provided by you. “Indemnified Generative AI Services” means, collectively, generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Nova Forge Models (as defined below)**,** Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform, Amazon Connect, Amazon Connect Health, Amazon Lex, Kiro (excluding Kiro Free Tier), and the Amazon Quick Suite (including Amazon QuickSight). The following terms apply to the Indemnified Generative AI Services:
 
 **50.10.1.** Subject to the limitations in this Section 50.10, AWS will defend you and your employees, officers, and directors against any third-party claim alleging that the Generative AI Output generated by an Indemnified Generative AI Service infringes or misappropriates that third party’s intellectual property rights, and will pay the amount of any adverse final judgment or settlement.
 
@@ -945,7 +951,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.10.3.** The obligations under this Section 50.10 will apply only if you: (a) give AWS prompt written notice of the claim; (b) permit AWS to control the defense of the claim; (c) retain and provide sufficient records to the extent necessary to evaluate your eligibility for the defense of claims and indemnity set forth in this Section 50.10; and (d) reasonably cooperate with AWS (at AWS’s expense) in the defense and settlement of the claim. AWS may settle the claim as AWS deems appropriate, provided that AWS obtains your prior written consent (not to be unreasonably withheld) before entering into any settlement.
 
-**50.11.** Neither you nor your End Users will, or will attempt to, reverse engineer, disassemble, or decompile AI Services, or apply any other process or procedure to derive the source code or other underlying components (such as the model, model parameters, or model weights) or reproduce the training data of AI Services.
+**50.11.** Neither you nor your End Users will, or will attempt to, extract or derive underlying components, including any model, model parameters, or model weights or reproduce the training data of AI Services.
 
 **50.12. Amazon Bedrock.** The following terms apply to Amazon Bedrock:
 
@@ -1095,6 +1101,8 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 (c) You will not, and will not allow any third-party to, use Amazon Connect AI Features to, directly or indirectly, develop or improve a similar or competing product or service.
 
 (d) Amazon Connect AI Features are not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage. Amazon Connect AI Features may be used in connection with supporting healthcare services but are not medical devices and are not intended to be used by themselves for any clinical decision-making or other clinical use.
+
+(e) For Amazon Connect Health Content, the terms in Section 106 apply instead of the terms in this Section 54.7.
 
 **54.8. Amazon Connect Voice ID**
 
@@ -1699,5 +1707,26 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 ----------------------
 
 **105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances.
+
+106\. Amazon Connect Health
+---------------------------
+
+**106.1.** "Amazon Connect Health Content" means Your Content that is processed by Amazon Connect Health. 
+
+**106.2.** You agree and instruct that: (a) we may use and store Amazon Connect Health Content for troubleshooting, quality assurance, and testing of Amazon Connect Health and its underlying technologies; and (b) solely in connection with the troubleshooting, quality assurance, and testing described in clause (a), we may store such Amazon Connect Health Content in an AWS region outside of the AWS region where you are using Amazon Connect Health. Using Amazon Connect Health Content for troubleshooting, quality assurance, and testing does not include training models on Amazon Connect Health Content. You may instruct AWS not to use and store Amazon Connect Health Content for the purposes outlined in this Section 106.2 by using the opt-out mechanism indicated in the applicable service documentation.
+
+**106.3.** You agree and instruct that: (a) we may use and store de-identified Amazon Connect Health Content to develop and improve Amazon Connect Health and its underlying technologies; and (b) solely in connection with the development and improvement described in clause (a), we may store your Amazon Connect Health Content in AWS regions outside the AWS regions where you are using Amazon Connect Health. If you are subject to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), you must execute the Healthcare and Life Sciences BAA Addendum before AWS can de-identify your Amazon Connect Health Content under this Section. You can find and execute the Healthcare and Life Sciences BAA Addendum in AWS Artifact. You may instruct AWS not to use and store Amazon Connect Health Content for the purposes outlined in this Section 106.3 by using the opt-out mechanism indicated in the applicable service documentation. 
+
+**106.4.** By using Amazon Connect Health, you represent to us that you or any applicable third party has provided all necessary notices to and obtained all necessary consents from your End Users whose information will be processed. You are responsible for notifying us in the event that any Amazon Connect Health Content stored by Amazon Connect Health must be deleted under applicable law.
+
+**106.5**. Your use of Amazon Connect Health is subject to additional [Electronic Communication Notice and Consent Service Terms](http://aws.amazon.com/legal/electronic-communication-notice-and-consent-terms/).
+
+**106.6.** The output that you generate using Amazon Connect Health is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
+
+**106.7.** Except where permitted by Amazon Connect Health, you may not use Amazon Connect Health to generate Content for the express purpose of training an AI model or service or developing a substantially similar AI model or service. 
+
+**106.8.** Neither you nor your End Users will, or will attempt to, extract or derive underlying components, including any model, model parameters, or model weights or reproduce the training data of Amazon Connect Health.
+
+**106.9.** Amazon Connect Health is not intended to be used by itself for any clinical decision-making and is not a medical device. Healthcare providers remain responsible for finalizing all clinical documentation and for patient care coordination. 
 
 [Previous Version(s)](https://aws.amazon.com/service-terms/previous/)
