@@ -1,14 +1,13 @@
 Privacy Policy
 --------------
 
-_Last updated: April 2025_
+_Last updated: March 2026_
 
 #### Quick Links:
 
-*   [Scope and Additional Notices](#scope)
 *   [What Information We Collect](#what-information)
-*   [How We Collect Data](#how-we-collect)
-*   [How and Why We Use Your Data](#how-we-use)
+*   [How We Use Your Data](#how-we-use)
+*   [Legal Basis for Processing](#legal-basis)
 *   [International Transfers](#international)
 *   [Your Rights](#your-rights)
 *   [Security](#security)
@@ -61,6 +60,16 @@ We collect personal data through technologies such as cookies and server logs wh
 *   Visit duration and interaction information
 *   Navigation paths to and from the Website
 
+#### Programmatic Advertising
+
+We participate in programmatic advertising marketplaces in order to deliver advertising and measure campaign performance. When advertising inventory is offered through automated advertising exchanges, limited technical information may be transmitted in advertising bid requests. This may include information such as IP address, device type, browser information, general location derived from IP address, and the context of the page where advertising will appear.
+
+This information is used to determine whether to place an advertisement, to deliver advertising through programmatic auctions, and to measure advertising delivery and effectiveness. In some cases this information may also be used to generate aggregated audience statistics and reporting for advertising campaigns.
+
+This programmatic advertising activity is separate from the advertising and analytics technologies used directly on our own websites.
+
+Certain technical advertising data such as programmatic advertising logs may be retained for limited periods for campaign measurement, fraud prevention, and aggregated statistical analysis before being deleted or anonymized.
+
 For more information on cookies used on the Website, please see our [Cookie Policy](https://www.theregister.com/Profile/cookies/).
 
 #### Third parties or publicly available sources
@@ -87,16 +96,14 @@ We will only use your personal data when the law allows us to. Most commonly, we
 | Managing customer relationships | Identity, contact, profile data | Contract preparation; Performance of a contract; Legal obligations; Legitimate interests (record keeping) |
 | Administering prize draws or surveys | Identity, contact, profile, usage data | Performance of a contract; Legitimate interests (understanding customers) |
 | Website management and protection | Identity, contact, technical data | Legitimate interests (business administration, IT services, network security, fraud prevention); Legal obligations |
-| Content and advertisement delivery | All types of data | Legitimate interests (promoting our products/services and understanding customer preferences) |
-| Analytics to improve the Website | All types of data | Legitimate interests (optimizing Website content and functionality) |
+| Content and advertisement delivery | Technical data, usage data, and device information | Legitimate interests (promoting our products/services and understanding customer preferences) |
+| Analytics to improve the Website | Technical data, usage data, and device information | Legitimate interests (optimizing Website content and functionality) |
 | Responding to inquiries | Identity, contact, technical data | Legitimate interests (customer service) |
-| Developing new services | All types of data | Legitimate interests (business growth and development) |
+| Developing new services | Technical data, usage data, and device information | Legitimate interests (business growth and development) |
 
 ### Artificial Intelligence and Automated Processing
 
-We may use AI and automated systems to improve your experience on our Website and personalize content delivery. These systems may analyze your usage patterns and preferences to provide more relevant content and better user experience.
-
-You have the right to human review of any significant decisions made using automated processing. Please contact us if you wish to exercise this right.
+We may use automated systems to analyze usage patterns and improve the performance, functionality, and security of our Website. These systems may also be used to analyze aggregated data in order to improve content presentation and advertising performance. These processes do not produce legal or similarly significant effects for users.
 
 ### Marketing and Advertising
 
@@ -225,6 +232,8 @@ If you have any questions about this Policy or wish to exercise your rights, ple
 
 **Email:** readerservices@situationpublishing.com
 
+**Email:** datacontroller@sitpub.com
+
 **Postal address UK**  
 Situation Publishing Limited,  
 27 Old Gloucester St  
@@ -232,7 +241,7 @@ London
 WC1N 3AX
 
 **Postal address USA**  
-Situation Publishing Ltd Inc  
+Situation Publishing Inc  
 447 Suter Street Ste 405 #1091  
 San Francisco CA 94108
 
