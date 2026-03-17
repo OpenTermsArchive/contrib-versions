@@ -229,9 +229,7 @@ To prevent unnecessary disputes, we encourage You to review your purchase detail
 
 The amount and the decision to provide a refund will be made by Proctorio in its sole and absolute discretion. If You receive a refund for any reason, Proctorio reserves the right to terminate Your access to the relevant Services.
 
-Proctorio may suspend or cancel payment or refuse a refund request if we find evidence of fraud, abuse, or unlawful or other manipulative behavior.
-
-Lifetime Subscription is intended for use by a single person and remains valid as long as that person continues to attend the same Institution and uses the same integration provided by that Institution. For purposes of example only, if a student attends an Institution that utilizes Canvas as its system integration, and that student purchases a Lifetime Subscription, the Subscription shall remain valid for so long as the student is enrolled at the institution and continues accessing Canvas through the Institution's integration. However, if the student transfers to another school or the Institution replaces Canvas with a different integration, the Lifetime Subscription shall no longer be valid.
+Proctorio may suspend or cancel payment or refuse a refund request if we find evidence of fraud, abuse, or unlawful or other manipulative behavior. Lifetime Subscription is intended for use by a single person and remains valid as long as that person continues to attend the same Institution and uses the same integration provided by that Institution. For purposes of example only, if a student attends an Institution that utilizes Canvas as its system integration, and that student purchases a Lifetime Subscription, the Subscription shall remain valid for so long as the student is enrolled at the institution and continues accessing Canvas through the Institution's integration. However, if the student transfers to another school or the Institution replaces Canvas with a different integration, the Lifetime Subscription shall no longer be valid.
 
 ### F. Advertising.
 
