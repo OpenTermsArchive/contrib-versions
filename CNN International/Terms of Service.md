@@ -316,9 +316,9 @@ Atlanta, GA 30318
 
 **Phone**: +1 (404) 827-3326
 
-**Email**: licensing@cnn.com
+**Email**: [copyrightagent@turner.com](mailto:copyrightagent@turner.com)
 
-For web posting, reprint, transcript for CNN material, please contact [licensing@cnn.com](mailto:licensing@cnn.com)
+For web posting, reprint, transcript for CNN material, please contact [copyrightagent@turner.com](mailto:copyrightagent@turner.com)
 
 For any questions or requests other than copyright issues or licensing requests, please contact [cnn.com/feedback](http://www.cnn.com/feedback).
 
