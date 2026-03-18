@@ -178,7 +178,7 @@ If a data subject does not agree with the creation of the account, they can dele
 
 ##### 8\. Online Orders and Payment Service Providers
 
-If you place an order online via our website or apps, we collect the data necessary for the conclusion of the contract (legal basis: Art. 6 para. 1 lit. b GDPR). The data is stored for the duration of the contract and in accordance with statutory retention obligations (in particular tax law requirements) (legal basis: Art. 6 para. 1 lit. c GDPR).
+If you place an order online via our website or apps, we collect the data necessary for the conclusion of the contract (legal basis: Art. 6 para. 1 lit. b GDPR). The data is stored for the duration of the contract and in accordance with statutory retention obligations (in particular, tax law requirements) (legal basis: Art. 6 para. 1 lit. c GDPR).
 
 For payment processing, we use the following external payment service providers, who process your payment data as independent controllers:
 
@@ -256,7 +256,7 @@ We fully respect your consent settings via the Consent Mode. Depending on your c
 
 **Storage Period:**
 
-Data at user level is stored for a maximum of 14 months and then automatically deleted or anonymized.
+Data at the user level is stored for a maximum of 14 months and then automatically deleted or anonymized.
 
 **Recipients and Data Transfer:**
 
@@ -286,7 +286,7 @@ The data processing takes place on Google servers, which may also be located in 
 
 **11.3 Hotjar**
 
-We use Hotjar (Hotjar Ltd., Malta) to analyze the user experience. Hotjar records e.g. clicks, mouse movements, scroll behavior, and screen resolution. The data is collected in anonymized form; no personal data is stored. The legal basis is your consent (Art. 6 para. 1 lit. a GDPR).
+We use Hotjar (Hotjar Ltd., Malta) to analyze the user experience. Hotjar records, e.g., clicks, mouse movements, scroll behavior, and screen resolution. The data is collected in anonymized form; no personal data is stored. The legal basis is your consent (Art. 6 para. 1 lit. a GDPR).
 
 Further information: [Hotjar privacy policy](https://www.hotjar.com/legal/policies/privacy/)
 
@@ -439,7 +439,7 @@ We store personal data only for as long as is necessary for the respective purpo
 
 ##### 18\. Update of the Privacy Policy
 
-We occasionally adapt this privacy policy to technical developments, new functions, or legal changes, e.g., through EU reforms such as the BDSG adjustments 2026 for simplification of Data Protection Officer obligations or updates to the EU-U.S. Data Privacy Framework. The date of the last change can be found at the beginning of this document. We recommend that you read our privacy policy again at regular intervals. In the case of material changes, we will inform you by email or app notification.
+We occasionally adapt this privacy policy to technical developments, new functions, or legal changes, e.g., through EU reforms such as the BDSG adjustments in 2026 for simplification of Data Protection Officer obligations or updates to the EU-U.S. Data Privacy Framework. The date of the last change can be found at the beginning of this document. We recommend that you read our privacy policy again at regular intervals. In the case of material changes, we will inform you by email or app notification.
 
 **For questions about data protection, please contact:**
 
