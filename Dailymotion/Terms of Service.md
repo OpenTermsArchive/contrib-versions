@@ -779,7 +779,9 @@ While we truly believe these reports allow the Dailymotion Service to remain a s
 
 Indeed, unfounded reports done repeatedly and/or reports reasonably suspected to be willfully made (i) to harm the User having posted the reported Content for instance, or (ii) to abuse Dailymotion’s reporting systems (notably by sending duplicatives or spammy reports, e.g. through the use of automated tools) might lead to the de-prioritization of such reports or even to the refusal of Dailymotion to process the further reports you might make for a certain period of time. 
 
-We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such reporting restriction. 
+We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such reporting restriction.  
+
+However, once all available remedies have been exhausted and a final decision has been communicated, no further appeals will be processed. Similarly, Users who have exhausted all available remedies and continue to submit repeated appeals and/or requests for reconsideration on matters that have already been fully addressed may be considered abusive appealers.
 
 ### IV) RESTRICTED MODE
 
