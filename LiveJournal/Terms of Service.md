@@ -1,8 +1,8 @@
 User Agreement
 ==============
 
-Updated: December 29 2025, 09:44 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15274](https://www.livejournal.com/legal/tos-en.bml?r=15274)
+Updated: March 18 2026, 15:33 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15275](https://www.livejournal.com/legal/tos-en.bml?r=15275)
 
 1.  #### Subject of the Agreement
     
@@ -62,11 +62,15 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15274](https://www.liv
     2.  To provide a separate functionality of the Service, it is necessary to:
         *   send service messages to the User;
         *   the use of recommendation technologies. Such technologies are used on the Resource in accordance with the Rules for the use of Recommendation Technologies;
-        *   user data processing. Such processing is carried out in accordance with the terms of the Privacy Policy. The User undertakes not to process personal data of third parties in violation of the requirements of applicable law. If the User provides the Administration with the data of third parties, he guarantees the Administration that there is a legal basis for processing them in accordance with the terms of the applicable Documents, as well as notifying such persons of the relevant processing by the Administration and other persons specified in the Documents.
+        *   user data processing. Such processing is carried out in accordance with the terms of [the Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml).
     3.  When the User uses the relevant functionality of the Service, the Administration must process the User's data in order to fulfill the Agreement, including providing it to third parties for subsequent processing within the framework of the following processes:
         *   to support the activities of the Administration by a service provider (BDE LLC, RIH, LLC on behalf of the Administration);
         *   to personalize the offers of AA “Index 20”, LLC (with subsequent provision Sberbank of Russia, Cloud Technologies LLC, Yandex LLC).
     4.  Cookies (small fragments of data about past visits) are used on the Resource to provide the functionality of the Service. Cookies are necessary, among other things, to ensure the functioning of the Service; to personalize Content and other offers; to conduct statistical and other research on the use of the Service. The user can view the validity period of cookies, as well as prohibit their storage in their browser settings. Cookies are processed using web analytics services, in particular, Statistics from SberAds, Yandex.Metrica, Mediascope, and AppMetrica.
+    5.  The User undertakes not to process personal data of third parties in violation of the requirements of the applicable legislation of the Russian Federation (including Federal Law of the Russian Federation No. 152‑ФЗ “On Personal Data”), and in particular to comply with the following requirements:
+        *   To process personal data, including their dissemination (i.e., making personal data available to an unlimited circle of persons), solely on the basis of a legal ground for such processing, including (where applicable) consent to the processing of personal data. The User undertakes to immediately cease any processing carried out without an appropriate legal basis and to delete information containing the relevant personal data;
+        *   To ensure the accuracy, adequacy and relevance of the processed personal data. If errors or outdated information are identified, the User is obliged to promptly correct the data or cease their processing;
+        *   To limit the processing of personal data to the achievement of specific, predefined and lawful purposes.If the User provides the Administration with the data of third parties, he guarantees the Administration that there is a legal basis for processing them in accordance with the terms of the applicable Documents, as well as notifying such persons of the relevant processing by the Administration and other persons specified in the Documents.
 6.  #### Account Termination
     
     1.  Termination of Inactive Accounts by the Administration
@@ -153,6 +157,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15274](https://www.liv
      4.  If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
      5.  The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version December 29 2025, 09:44 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15274) (archived)  
 [Previous version June 26 2025, 09:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15273) (archived)  
 [Previous version November 23 2023, 08:31 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15272) (archived)  
 [Previous version May 17 2023, 14:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15271) (archived)  
