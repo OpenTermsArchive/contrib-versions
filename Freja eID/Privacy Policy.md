@@ -1,4 +1,4 @@
-Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-10-30T11:20:06+01:00
+Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2026-03-20T13:00:15+01:00
 
 Privacy Policy
 ==============
@@ -17,11 +17,17 @@ Privacy Policy
 
 ### 2\. Personal Data Controller and Data Protection Officer
 
-**2.1** Freja eID Group is the data controller for Freja eID Group’s processing of your personal data, and is responsible for ensuring that the processing is performed in accordance with applicable legislation.
+**2.1** A data controller is the entity that determines the purpose and means of the processing of personal data. A data processor is an entity that processes personal data of behalf of the data controller and in accordance with its instructions.
 
-**2.2** To the extent that the Service relates to an employment ID or Organisation eID, the organisation is the personal data controller for the data they are responsible for about you in your role. For example, this can be in your role as an employee, customer or as member in an organisation. In these cases, Freja eID is the personal data processor.
+**2.2** Freja eID Group is the data controller for the processing of your personal data within the Freja eID service and is responsible for ensuring that such processing is carried out in accordance with applicable legislation.
 
-**2.3** Freja eID Group has appointed Mr. Tony Buss as the Data Privacy Officer (“Data Privacy Officer”). The Data Privacy Officer’s duty is also to monitor that Freja eID Group processes personal data in accordance with applicable legislation. Contact information for the Data Protection Officer is gdpr@frejaeid.se. +46 8 5272 7984.
+**2.3** To the extent that the Service is used in connection with an organisation eID, a valid Freja eID issued to you as a private individual is required. The organisation (for example your employer) acts as a data controller for the data it process in relation to your role within the organisation (for example employment role or memberID). In such cases, Freja eID Group processes personal data on behalf of the organisation and therefore acts as a data processor.
+
+Freja eID Group remains the data controller for the personal data processed in relation to your private Freja eID.
+
+This means that different parties may act as data controllers for different parts of the processing of your personal data.
+
+**2.4** Freja eID Group has appointed Mrs. Mikaela Moen as the Data Privacy Officer (“Data Privacy Officer”). The Data Privacy Officer’s duty is also to monitor that Freja eID Group processes personal data in accordance with applicable legislation. Contact information for the Data Protection Officer is gdpr@frejaeid.se. +46 8 5272 7995.
 
 ### 3\. How We Process Your Personal Data
 
@@ -33,11 +39,11 @@ Privacy Policy
 
 **3.4** In addition to accepting the Terms of Use and this Privacy Policy, you can choose to give consent for certain personal data processing as described below. The legal basis for us to process this data will be your explicit consent.
 
-In other cases, where for example you are expected by an employer to use your Freja eID as a work tool, we will instead process your personal data as a personal data processor on behalf your employer, and the legal basis for processing will then be your employment contract with the employer. The legal basis for certain processing in the service is shown below.
+In other cases, where for example you are expected by an employer to use your Freja eID as a work tool, we will instead process your personal data as a personal data processor on behalf of your employer (see 2.2), and the legal basis for processing will then be your employment contract with the employer. The legal basis for certain processing in the service is shown below.
 
 If you start with only using Freja as an Organisation ID or employee ID and later start using Freja for other purposes, then Freja will be both a personal data processor and a personal data controller, depending on if you are using a service connected to your employer or a private service. For the private services, the legal basis applies as shown below.
 
-**3.5** Freja is available at different trust levels (Basic, Added ID document and Plus). You will be able to see what trust level you are in the mobile application. If you try to access a service at a higher level than you have, you will need to upgrade to the corresponding level in order to access that service.
+**3.5** Freja eID is available at different trust levels (Basic, Added ID document and Plus). You will be able to see what trust level you are in the mobile application. If you try to access a service at a higher level than you have, you will need to upgrade to the corresponding level in order to access that service.
 
 **Freja eID Basic**
 
@@ -47,7 +53,7 @@ For access to services that do not require your identity to be verified and only
 
 Some services require that your identity be verified when you use Freja to access their services or when you make electronic signatures with them.
 
-In addition to the information processed for Freja Basic, the sections “Freja with an added ID document” and “Freja eID+” apply. Freja eID+ is issued get after you have done an extra validation of your identity through a physical ID check at an Freja eID agent, or have had your identity verified by using a biometric ID document during registration. In this regard, biometric IDs are taken to mean passports and national ID cards (from EU/EEA countries only) with an embedded, NFC-readable chip.
+In addition to the information processed for Freja Basic, the sections “Freja with an added ID document” and “Freja eID+” apply. Freja eID+ is issued get after you have completed an additional identity verification, either through a physical check at an Freja eID agent or by having your identity verified using a biometric ID document during registration. In this regard, biometric IDs are taken to mean passports and national ID cards (from EU/EEA countries only) with an embedded, NFC-readable chip.
 
 **3.6** Below you will find how we process personal data at different trust levels, from lowest (Basic) to highest (Plus). Information collected at a lower trust level is also processed at a higher trust level.
 
@@ -73,6 +79,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 *   ID document number
 *   ID document expiry date
 *   High resolution image of your passport (if you registered with one)
+*   Unique personal identifier (UPI), which is an ID number created by Freja and can be shared with relying parties
 *   Where, when, and by whom you were vetted physically (only for Freja+)
 *   Other information that may be found in the passport’s data fields from certain countries
 
