@@ -16,7 +16,6 @@ Partager Partager
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
-
 *   Copier
 
 All Rights Reserved - 2018 © CCM BENCHMARK GROUP
@@ -147,7 +146,6 @@ Partager Partager
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
-
 *   Copier
 
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
