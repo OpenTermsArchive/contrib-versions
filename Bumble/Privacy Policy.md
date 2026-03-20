@@ -247,7 +247,7 @@ After these 28 days, we start the process of deleting your personal information,
 *   there is an outstanding issue, claim, or dispute that requires us to keep the relevant information until it is resolved
 *   the information must be kept for our legitimate business interests, such as fraud prevention and enhancing safety and security for people using our App and Sites
 
-Our App and Sites are global – we want you to be able to access Bumble and make connections wherever you happen to be in the world. To make this possible, we operate a global network of servers to provide the App and Sites, and store your personal information. Our network includes servers in the US, UK, and the EU. Here are some points to keep in mind:
+Our App and Sites are global – we want you to be able to access Bumble and make connections wherever you happen to be in the world. To make this possible, we operate a global network of servers to provide the App and Sites, and store your personal information. Our network includes servers in the US and the EU. Here are some points to keep in mind:
 
 *   Your personal information will be sent to and used in the US and UK, no matter what country you live in.
 *   The personal information collected by our trusted Service Providers and advertising partners might also be held outside the US and EU.
