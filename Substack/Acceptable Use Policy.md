@@ -1,7 +1,7 @@
 **Content Guidelines**
 ======================
 
-Last Updated: March 16, 2026
+Last Updated: March 19, 2026
 
 Substack is a place for independent writers, podcasters, and creators. We host and celebrate a diverse range of thought and discussion. The following guidelines outline what is and is not acceptable on Substack. We have the exclusive right to interpret and enforce these guidelines, although we may consult outside experts, research, and industry best practices in doing so. If you encounter content that may be in breach of these guidelines or have any questions about them, you can email us at [tos@substackinc.com](mailto:tos@substackinc.com).
 
@@ -44,8 +44,9 @@ We don’t allow content that promotes harmful or illegal activities, including 
 On top of the rules above, users in Australia must not post the following types of content. These restrictions reflect our obligations under the Australian Online Safety Act 2021:
 
 – pro-terror material (Class 1A);  
-– crime and violence material (Class 1A and Class 1B); and  
-– drug-related material (Class 1B).
+– crime and violence material (Class 1A and Class 1B);  
+– drug-related material (Class 1B); and  
+– content that depicts shocking, gratuitous, or exploitative real violence against people or animals, or gore, including images presented as if they are real (“high-impact violence material”).
 
 These rules apply to content accessible to people in Australia.
 
