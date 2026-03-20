@@ -86,7 +86,7 @@ When you are asked to provide personal data, you may decline. And you may use we
 
 ##### **Information Processed by AI-Powered Features**
 
-When you use the [GitLab Duo](https://about.gitlab.com/gitlab-duo/) suite of AI capabilities, including [Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions/index.html) and [other AI/ML](https://docs.gitlab.com/ee/user/ai_features.html) features, your Personal Data will be processed in accordance with this Privacy Statement.
+When you use the [GitLab Duo](https://about.gitlab.com/gitlab-duo-agent-platform/) suite of AI capabilities, including [Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions/index.html) and [other AI/ML](https://docs.gitlab.com/ee/user/ai_features.html) features, your Personal Data will be processed in accordance with this Privacy Statement.
 
 To provide these features, GitLab may transmit your code, supporting contextual information, and other prompts you submit to the Services to third-parties, such as private code modeling service providers. Further, GitLab may collect AI prompts and output to debug and troubleshoot the services and enforce our [Website Terms of Use](https://handbook.gitlab.com/handbook/legal/policies/website-terms-of-use/). We may also collect [first-party usage data](https://docs.gitlab.com/ee/user/gitlab_duo/data_usage.html#telemetry) related to Duo features for the purposes of identifying and developing product improvements and assessing features engagement. However, we will not use your AI-inputs to train any language models without your instruction or prior consent. This data may be collected in both the SaaS and Self-managed products where AI-features are enabled.
 
