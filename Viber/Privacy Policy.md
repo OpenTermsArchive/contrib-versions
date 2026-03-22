@@ -1,19 +1,19 @@
 Viber Privacy Policy
 ====================
 
-_Last Updated: August 04, 2025_
+_Last Updated: March 23, 2026_
 
-_We’ve recently updated our terms and policies. View the summary of changes_ [**_here_**](https://vb.me/policyupd2025)_._
+_We’ve recently updated our terms and policies. View the summary of changes_ **_here_**_._
 
 As part of our mission to spread good vibes, we want you to be able to share the things that matter to you most with your friends, family and anyone else around you. It’s important to us that you feel comfortable and trust us with your data when using the Viber Services (as detailed under [**Viber’s Terms of Service**](https://www.viber.com/en/terms/viber-terms-use/)), including Viber payment services (if you use it). Please take a few minutes to read this Privacy Policy, so that you understand what data we collect, what we do with it and why, how we protect it and what are your rights in relation to this data.
 
-In general, we collect data that allows us to provide you with an optimal experience while using our Services. This includes, for example, some basic benefits like allowing other users to see the name and picture you choose to show and the more advanced ones, like processing your registration and financial data to allow you to purchase our paid solutions, if you choose to use them. It also helps us to keep our Services clear of fraud and spam, and it allows us to get a unique understanding of what additional services may be useful to you, in addition to other purposes outlined in this Privacy Policy.
+In general, we collect data that allows us to provide you with an optimal experience while using our Services. This includes, for example, some basic benefits like allowing other users to see the name and picture you choose to show and the more advanced ones, like processing your registration and financial data to allow you to purchase our paid solutions, if you choose to use them. It also helps us to keep our Services clear of fraud and spam, and it allows us to get a unique understanding of what additional services may be useful to you, in addition to other purposes outlined in this Privacy Policy.  You retain the ability to choose whether or not to provide your personal information to us. However, please be aware that if you choose not to disclose data that is essential for certain Services or features, we may be unable to offer you those specific Services, or process related inquiries.
 
 Starting with Viber 6.0, Viber’s core features are secured with end-to-end encryption: Viber one-on-one calls, one-on-one messages, group messages, private media sharing and linked devices. This means that the encryption keys are stored only on your devices and no one, not even Viber itself, has access to them. To learn more about Viber Encryption, follow this link: [**http://www.viber.com/en/security**](http://www.viber.com/en/security)**.**
 
 If you are located in the [**European Economic Area (EEA)**](https://www.gov.uk/eu-eea#:~:text=Austria%2C%20Belgium%2C%20Bulgaria%2C%20Croatia,%2C%20Slovenia%2C%20Spain%20and%20Sweden.) or the UK, and are subject to the General Data Protection Regulation (“**GDPR**“) or the UK GDPR please see here: [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/).
 
-If you are a California resident and the California Privacy Protection Act (“**CCPA**“) applies to you, additional information that supplements this Privacy Policy is available at: **[Privacy Notice for California Residents](https://www.viber.com/en/terms/ccpa-privacy-rights/)**. Residents of various US states have additional rights and specifications, as detailed in the [**United States Regional Privacy Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/).
+If you are a California resident or a resident of various US states, you have additional rights and specifications, as detailed in the [**United States Regional Privacy Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/), that supplements this Privacy Policy.
 
 ######  **![](https://www.viber.com/app/uploads/legal_icon.png)****TABLE OF CONTENTS**
 
@@ -52,24 +52,25 @@ Data provided or collected through registration & under your Viber account or pa
 *   **Your photo**, if you provided it (e.g. any avatar).
 *   **Your phone address book**, meaning, the names, the phone numbers and the favorites list from your contact lists, if you approved access to them.
 *   If you choose to use our business accounts services, any personal data included in your **business account data**.
+*   **Interests** you choose to provide voluntarily.
 
 Geolocation data:
 
 *   **General location**, we use IP addresses we collect and additional information (e.g., phone number area codes), to estimate your general location (e.g., city level); we may also use your residential address, if it’s been provided by you.
 *   **GPS based location**, we will collect and use the GPS location for very specific purposes (as detailed below), and solely if you gave us permission.
 
-**Dating Data provided or collected through registration & usage of our dating services:**
+Dating Data provided or collected through registration & usage of our dating services:
 
 *   **Dating Profile data –** your identification and account data, such as your name, date of birth, your gender, your dating preference gender, type of relationship you are looking for, your photos, your hobbies and interests, and any other information and content you choose to post on your dating profile such as your  bio and a brief description of yourself, what are you looking to find, your habits, what you do for a living, your education.
 *   **Precise Location Data –** your accurate location (through and subject to your device permissions), is required and will be utilized to allow service functionality by finding you matches with the nearby participants of the dating services.
 *   **Dating Services Activity and Usage Data –** such as likes and dislikes of other participants’ profiles, matches, profiles you hide/block, use of Premium Items and any paid features, inferences from such activities.
-*   **Sensitive Information –** as part of your registration to and usage of the dating services, we may collect and process certain types of information that could be considered sensitive and personal in nature. This may include your dating preferences, and types of relationship you are looking for, which are inherently necessary for matching you with potential partners, and other sensitive information, such as your religious beliefs, which you may choose to provide at your discretion.
+*   **Sensitive Information –** as part of your registration to and usage of the dating services, we may collect and process certain types of information that could be considered sensitive and personal in nature. This may include your dating preferences, and types of relationship you are looking for, which are inherently necessary for matching you with potential partners, and other sensitive information, such as your religious beliefs, which you may choose to provide at your discretion. In addition, your use of AI features such as summaries, polish messages, instant answers, or other AI in-chat or chatbot features, may also involve information that could be considered sensitive and very private in nature, if you choose to provide it.
 *   **Biometric Data –** to verify that your dating profile is genuine and prevent impersonation, we process biometric data, subject to your consent, by comparing your profile photo with a selfie you provide. This involves analyzing unique facial features to determine whether the same person appears in both images, for which we only keep a score with the result of this analysis while your dating profile is active.
 
 Financial information provided or collected through your use of our financial services (e.g., payment solutions), or purchased subscriptions and offers:
 
 *   **Purchased subscriptions, products or services:  
-    **If you purchase or subscribe to our Premium Services (e.g. a Viber Out, Viber Plus and other applicable plans) on our App or websites, we will process your billing data (e.g., full name or your user name, phone number, payment method), as well as transactions-related information (e.g., the purchasing amount; date of purchase, currency; IP address, country, first and last 4 digits of your credit card).
+    **If you purchase or subscribe to our Premium Services (e.g. a Viber Out, Viber Plus, Viber eSIM and other applicable plans) on our App or websites, we will process your billing data (e.g., full name or your user name, phone number, payment method), as well as transactions-related information (e.g., the purchasing amount; date of purchase, currency; plan information, transaction result, IP address, country, first and last 4 digits of your credit card).
 *   **Viber Chatbot Payment Transactions:  
     **Transactions-related details (transaction ID, time and date of purchase, purchase description, purchase amount, currency, the merchant transaction result, user free text entered information).
 
@@ -84,10 +85,10 @@ Data we collect automatically from your device, e.g., data collected using cooki
 *   **Device identifiers**, meaning identifiers of the devices you have used to access our websites and application, including IP address, unique device identifiers (including hashed phone numbers/emails), advertising related identifiers, MAC identifiers. Unique identifiers tell your device apart from other users and may be assigned to your device by Viber or our advertising service providers/partners.
 *   **Electronic network activity data**, such as information stored on log files, when you access our Service and website for example, including access time and date stamp, pages viewed, IP address, the pages that directed you to our website, information related to errors and crash reports.
 *   **Activity data**, relating to your usage of Services, such as connection status, whether you have received and seen messages sent to you, if you are currently on another call and data related to the calls and messages that you send and receive, such as length of the call, who called who, who messaged who, and at what time, your personal preferences related to such usage (for example how often, for how long, what options are selected). Such activity data may also include:
-    *   We may collect activity data about communities, channels, bots, businesses, dating services, and links you interact with inside Viber – e.g. data about the communities, business accounts, dating profiles and channels you visit,follow or manage, messages you like, messages you send, the content you post or view, links you click on;
-    *   Items you searched and shared via Chat Extensions;
+    *   We may collect activity data about groups, communities, channels, bots (including AI assistants), businesses, dating services, and links you interact with inside Viber – e.g. data about the groups, communities, business accounts, dating profiles and channels you visit, follow or manage, messages you like, messages you send, the content you post or view, links you click on;
+    *   Items you searched on and shared via Viber features;
     *   Offers and rewards selected or redeemed;
-    *   Viber payment services or business accounts activity;
+    *   Viber Premium Services, payment services or business accounts activity;
     *   Dating Services Activity and Usage Data.
 *   **Other device data,** e.g., data about your device’s operating system, your browser, browser or operating system language, your wireless network, your mobile carrier, your privacy-related settings.
 
@@ -100,16 +101,21 @@ Data we collect or receive from other sources and inferred data:
 *   **Your contact name**, as saved on other users’ devices if they chose to share their contacts with us.
 *   **Viber may also process inferences about your account and device identifier**, such as:
     *   Inferred gender – for example, inferred from your name;
-    *   Inferred interests – inferred from your activity, such as the communities, channels, bots, businesses and links you interact with inside Viber;
+    *   Inferred interests – inferred from your activity, such as the communities, channels, bots, businesses, dating profiles or other Viber services, features and links (including the public content accessible through them) you interact with inside Viber and from other Data provided or collected through registration & under your Viber account or participation in Viber’s activities. For example, **your general location, travel patterns** inferred from it, **device type, and activity data within our services** **may be used to infer your income level**;
     *   Inferences from third party data and ads-related interactions – we may receive inferred data, linked to your device identifier (mainly, a unique device identifier generated by cookies or other tracking technologies used on our website and Services) from our trusted third-party advertisers and service providers. Such inferred data we receive may include inferences about your interests and characteristics, generated by such third parties from other websites and services you have visited (for example whether you are interested in fintech, cars etc., which income group you might pertain to, as well as the locations you tend to visit, based on your GPS location). In addition, inferences can be generated from data on how you interact with ads displayed on our App after clicking on them and data about your activity and preferences derived from the clicks on our own ads (and the subsequent installs of our App) associated with your device identifier, delivered on third party’s advertising platforms by our trusted third parties. For more information, please see our [**Viber Ads, Cookies & Tracking Technologies Policy.**](https://www.viber.com/en/terms/cookies-and-tracking/)
+*   **eSIM** **data**: For eSIM services, we receive data from our third-party network providers such as eSIM identifier data (e.g. ICCID, IMSI, activation code), data consumption information (e.g. data volume used and session timestamps), and location (e.g. country, network routing, MCC, MNC).
 
 User Submitted Content:
 
 If you choose to participate in Viber’s activities (e.g., contests), or as part of your participation in communities/channels/bots’ activities available on Viber, you may voluntarily publish, submit or post content such as videos, images, graphics, text, videos, etc. which may include personal data (e.g., an image of a person).
 
+When you use features like summaries, polish messages, instant answers, or other AI in-chat or chatbot features, we process your text messages to provide you with the translated or summarized message or to provide relevant responses or suggestions. This may include information that could be considered sensitive and personal in nature, if you choose to provide it.
+
 Data we collect from your communications with us, including support, customer services and other inquiries:
 
 If you choose to contact us through any means of communications we make available, you may provide us with certain information such as your contact details (e.g., name, email, phone number, mobile carrier, country – mainly where you are not a user of our Services) and other information you provide (mainly, related to the issue you wish us to address or resolve, including without limitation, information related to disputed transactions). We will further store our contact history and correspondence with you.
+
+When you submit feedback, ideas, suggestions, information or other communications to us through our Services, we may collect any personal data if you choose to provide it.
 
 Non-User Data:
 
@@ -117,13 +123,13 @@ Non-User Data:
 
 **If you are not a Viber user and would like to exclude your phone number, please contact us at [https://vb.me/ContactUs](https://vb.me/ContactUs)**
 
-**Caller ID**: Additionally, if you are not a Viber user, your phone number and contact name (if provided to us by a user through sharing their contacts or otherwise) will be added to our Caller ID database and used as part of Viber Caller ID feature (for more info see **[here](https://www.viber.com/en/blog/2023-04-05/free-caller-id-is-now-on-viber/)**), which allows to indicate your name to Caller ID users when you are on a call with them outside Viber. Such process enables Viber to improve Caller ID services with a purpose to reduce spam, fraud and harassment for our users.
+**Caller ID**: Your phone number and contact name (if provided to us by a user through sharing their contacts or otherwise) may be added to our Caller ID database and used as part of the caller identification under Viber Caller ID or Viber In feature. Your name can be indicated to Caller ID or Viber In users when you are on a call with them outside Viber or used to show them a probability of spam, if such number has been marked as spam by users. Such process enables Viber to improve our services with the purpose to reduce spam, fraud and harassment for our users.
 
-**To opt-out from the processing as part of Caller ID service, please visit this [page](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717).**
+**To opt-out from the caller identification processing as described above, please visit this [page](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717).**
 
 Business partners data:
 
-When you communicate with us for business purposes as a business partner of ours, we will save your contact data provided by you (e.g. names, phone number, email, address), as well as any correspondence we have had. We use trusted third-party providers to manage the maintenance and storage of such data.
+When you communicate with us for business purposes as a business partner of ours, we will save your contact data provided by you (e.g. names, phone number, email address, address), as well as any correspondence we have had. We use trusted third-party providers to manage the maintenance and storage of such data.
 
 If your business account is connected with your Viber payment services wallet, we will collect in addition:
 
@@ -139,7 +145,7 @@ At Viber, we use your personal data to provide you with the best possible Servic
 
 You can find here information regarding the purposes for which we collect and use your personal data.
 
-If you use our Services from the EEA or the UK, we must have a lawful basis to process your personal data. Please review our [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/) for detailed information.
+Viber uses your personal data only when there is an applicable legal ground to do so. This may include situations where using your data is necessary to provide the services to you, meet our legal obligations or where you have given your consent. Where applicable, we may also rely on our legitimate business interests, provided that such interests are not overridden by your rights and freedoms. If you use our Services from the EEA or the UK, information about our lawful bases for processing of your personal data is detailed in our [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/).
 
 **Authentication and Account Administration:**
 
@@ -171,7 +177,7 @@ Viber uses different types of personal data in order to operate, provide and del
 *   Enable you to upload and create backups of your messages on external services;
 *   Enable you to post and share your User Submitted Content (e.g., images, videos, texts) on our communities, channels, bots, dating and business services, where allowed by its administrator, and generally utilize our content features;
 *   Send you operational related and service-related communications, including administrative messages that relate to your use of the Services;
-*   Subject to the permission you provide, enabling you to share your location with your contacts or enabling you to make location-based search.
+*   Subject to the permission you provide, enabling you to share your location with your contacts or enabling location-based services for you.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
@@ -185,16 +191,19 @@ As stated above, your messages will not be stored by us once they have been deli
 
 **Enabling Your Use of Viber Premium Services and Viber Chatbot Payments:**
 
-Viber uses different types of personal data in order to enable your use and purchase of Premium Services on our App or website, including for verification purposes. This includes, for example, sharing your email address with our third-party Payment Service Providers, to enable the processing of your payments. Your credit card number will be provided by you directly to the applicable Payment Service Provider and Viber will not have access to this data. We will further store a log that will record your purchase for operational and fraud detection purposes, and such log will include your IP address or other device identifier.
+Viber uses different types of personal data in order to enable your use and purchase of Premium Services on our App or website, including for verification purposes. This includes, for example, sharing your email address with our third-party Payment Service Providers, to enable the processing of your payments. Your credit card number will be provided by you directly to the applicable Payment Service Provider and Viber will not have unmasked access to this data. We will further store a log that will record your purchase for operational and fraud detection purposes, and such log will include your IP address or other device identifier.
 
 We also use certain types of data to enable you to interact and pay to third party merchants through your use of the Viber Chatbot Payments. This data will be used solely for fulfilling our role as an intermediary and we will share with Google Pay or Apple Pay or any other linked payments provider. The confirmation of the payment is provided directly to the merchant and Viber does not receive or share any payment data or registration data from Apple Pay nor Google Pay. Note that, your use of Apple Pay and Google Pay, including their use of your data, is subject to their respective terms and privacy policy, which can be found here: [**Google Pay**](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldr=ZZ&ldl=en), [**Apple Pay**](https://support.apple.com/en-us/HT203027)**.**
+
+When you purchase an eSIM, we partner with trusted network and telecommunication partners, who process network connection data independently. Viber does not access the content of your communications.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
 *   Data provided or collected through registration & under your Viber account, such as Identifiers;
-*   Financial information, such as:
+*   Financial-related information, such as:
     *   for purchased subscriptions, products or services – billing data (e.g., billing address, full name or user name, phone number, account, payment method), transactions-related information (e.g., the purchasing amount date of purchase currency; IP address, country, first and last 4 digits of your credit card);
     *   for Viber Chatbot payment, transactions-related details including shopping history (transaction ID, time and date of purchase, purchase description, purchase amount, currency, the merchant, transaction result, user free text entered information).
+*   eSIM data
 
 **Enabling Your Use of Viber payment services:**  
 
@@ -231,7 +240,7 @@ The types of data we will use for such purpose will mainly include (as detailed 
 
 Viber uses different types of personal data in order to improve, enhance and evaluate the Services, as well as customize the Services. This may include, for example:
 
-*   We use activity data, device identifiers, IP-based location and, with your permission, GPS location to fix and evaluate the technical functionality and availability of the Services, as well as for statistical analysis of the usage and functionality, product development, continued improvement of existing features and provision of certain features;
+*   We use activity data, device identifiers, IP-based location, user feedback you choose to provide or communications to us and, with your permission, GPS location to fix and evaluate the technical functionality and availability of the Services, as well as for statistical analysis of the usage and functionality, product development, continued improvement of existing features and provision of certain features;
 *   We use your data provided through registration and inferred data (such as inferred gender, age range, inferred interests and general location) to customize content we show you, including customized our offers of certain services;
 *   When we advertise our Services to you on third party platforms, we might receive indications of which advertisement led you to join our Service based on unique device identifiers associated with your device, in order, among others, to assess the performance of our campaigns, to look for similar users, for better ad measurements, as well as to learn more about your activity and preferences on our Services.
 
@@ -241,6 +250,7 @@ The types of data we will use for such purpose will mainly include (as detailed 
 *   General location;
 *   Data we collect automatically from your device, e.g., data collected using cookies and other device identifying technologies, such as device identifiers, electronic network activity data, activity data and other device data;
 *   Data we collect from other sources and inferred data, such as social media data, your contact name and inferences about your account and device identifiers.
+*   Data we collect from your communications with us, including support, customer services and other inquiries, feedback, ideas, suggestions, information or other communications.
 
 **Marketing Communications with Viber’s Users & Location based Offers:**
 
@@ -302,32 +312,34 @@ Viber uses different types of personal data for security purposes such as fraud 
 *   We may use data from trusted third parties related to your IP addresses to enhance the precision in detecting fraudulent activity;
 *   Monitoring of your conduct and use of the dating services to prevent fraud, misuse, harassment and other unlawful conduct;
 *   We may use automated decisions to close or restrict an account based on such data and other logic we have created for this, in order to protect other users and prevent recurring breaches. If your account has been blocked, you can contact our support.
+*   When you use our AI features such as AI chatbot assistants, we keep your chatbot communications to ensure your interactions are safe and prevent harm to you or others.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
 *   Data provided or collected through registration & under your Viber account, such as Identifiers, business account or dating profile and usage data;
 *   Geolocation data;
 *   Financial information provided or collected through your use of our limited financial services (e.g., payment solutions), or purchased subscription and offers;
-*   Data we collect automatically from your device, such as device identifiers, electronic network activity data, activity data and other device data**.**
+*   Data we collect automatically from your device, such as device identifiers, electronic network activity data, activity data and other device data.
+*   Your AI assistant chatbot communications when you use AI features, which may include information that could be considered sensitive and personal in nature, if you choose to provide it.
 
-**B2B Communications and Engagements:**
+**B2B Communications and Services:**
 
-We will use Business Partners Data (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above) for the purpose of communicating with you, or as otherwise needed to facilitate our engagement, as well as to send you our marketing offers. You have the ability to opt out of our direct marketing emails at any time (see how you can do it in “**[**Your Choices**](#your-choices-and-controls)**” section).
+We will use Business Partners Data (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above) for the purpose of communicating with you, or as otherwise needed to facilitate our engagement, as well as to send you our marketing offers. You have the ability to opt out of our direct marketing emails at any time (see how you can do it in “**[**Your Choices**](#your-choices-and-controls)**” section). Email addresses provided as part of the access to Viber business related features and APIs are collected and processed to enable your access to such features and APIs, enable account functionality, provide visibility and tracking of account actions (such as template management and deletions), maintain the security of account activity, and for fraud prevention and investigation purposes. Login data for Viber’s internal resources (e.g. secure portals and knowledge bases) is collected and processed to manage and secure your access to such resources. We also process Business Partners Data to analyze how our business services are used and to improve our service offering.
 
 **Provide services using Non-User Data:**
 
 We will store and use Non-User Data (as detailed in the “[**Data We Collect**](#data-we-collect)” section above) which includes non-Viber users’ phone number (and names under which they were saved by Viber users) in the event such contact was included in our user’s address book that has been provided to us, for the purpose of showing our user who in their contacts is already using our Services and who is not, to allow the user find and communicate with their contacts in a more efficient way, through regular Viber and Viber Out communications.
 
-We also store and use Non-User Data for the Caller ID feature, to indicate your name to Caller ID users when you are on a call with them outside Viber for the purpose of reducing fraud, spam and harassment for our users.
+We also store and use Non-User Data to indicate your name to Caller ID or Viber In users when you are on a call with them outside Viber or to show a probability that your number is spam, if it has been marked as such by users, for the purpose of reducing fraud, spam and harassment for our users.
 
 **If you are not a Viber user and would like to be excluded from such processing, please contact us [here](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=5377663333917).**
 
 **Defend our Rights, Enforce our Policies & Compliance with Legal Obligations and Public Interests:**
 
-Viber may use and share different types of personal data, and depending on the circumstances, for the purpose of defending our rights and enforcing our polices, terms and agreements, where it is necessary to comply with legal obligations to which we are subject to and cooperation with regulators and law enforcement bodies (where there is a valid legal request such as binding order), as well as in very limited and rare circumstances, where we find it necessary and essential for the purpose of protecting your or third party’s life safety and security as well as humanitarian purposes. This may include, for example:
+Viber may use and share different types of personal data, and depending on the circumstances, for the purpose of defending our rights and enforcing our policies, terms and agreements, where it is necessary to comply with legal obligations to which we are subject to and cooperation with regulators and law enforcement bodies (where there is a valid legal request such as binding order), as well as in very limited and rare circumstances, where we find it necessary and essential for the purpose of protecting your or third party’s life safety and security as well as humanitarian purposes. This may include, for example:
 
 *   In the event of a dispute, claims and legal proceedings, and solely to the extent necessary for such purpose;
-*   We may record and log some of your actions, such as acceptance of our terms and polices, acceptance of certain offers, and notices;
+*   We may record and log some of your actions, such as acceptance of our terms and policies, acceptance of certain offers, and notices;
 *   We will store an indication of your request to exercise your rights related to your personal data in order to be able to demonstrate compliance;
 *   We may store telecommunication data in accordance with local laws;
 *   We may be required to provide authorities with information in compliance with criminal investigations laws applicable to electronic communications provider or otherwise applicable to us;
@@ -350,13 +362,14 @@ Other users can see on Viber the following data about you:
 *   If you are currently on another call.
 *   If they are part of the call with you, data related to the calls and messages you have sent and received such as length of the call, who called who, who messaged who, and at what time, the type of call (audio/video) and whether you answered the call on your primary or another device.
 *   For disappearing messages, we will notify the other users of any screenshots you’ve taken (so please respect the vibe and do not take them).
-*   Your name and photo may be shown to Viber Caller ID users when you initiate a phone call with them (on Viber or mobile).
+*   Your name and photo may be shown to Viber Caller ID or Viber In users when you initiate a phone call with them (on Viber or mobile).
 *   When you join Viber, the contacts in your address book that are already Viber members may be informed that you’re now on Viber too.
 *   A reminder about your birthday on the date of your birthday unless you have changed your settings.
 *   When you join Viber payment services, the contacts in your address book that are already Viber members may be informed that you’re now using Viber payment services. In addition, Viber users will see an indication whether you are a Viber payment services user and perform in app transactions with you.
 *   When you send money using Viber payment services, the recipient can see transaction and other related information including the IBAN, swift code, sort code, account number, amount, time, payment reference and for group payments the purpose and payment status of others in the group. The sender will see certain letters of the first and last name of the recipient, if the recipient of the transaction is not in the sender’s address book, so that the sender may verify that the recipient is a correct beneficiary of the transaction.
 *   If your “Use Peer-to-Peer” option is on, other users can use technical tools to see your IP address. You can turn this option off at any time on your privacy settings.
 *   **Your public posts:** if you post information on our public spaces such as communities, channels, business accounts, dating profiles, it may be searchable and available to other users on Viber. You can always delete your posts on those public spaces, but Viber cannot control and is not responsible for what other users do with this information (e.g., store on their devices, publish on Viber or outside of it, etc.), thus, we recommend you do not disclose your personal data through the content of your posts.
+*   Quality indicators and tags on your business account (e.g. responsiveness and activity indicators, categories) or dating profile (e.g. activity indicators) assigned by Viber, which are intended to provide other users more meaningful information about your business account or dating profile.
 
 [Back to top](#top)  
 
@@ -386,6 +399,8 @@ We share your personal data with our trusted service providers and business part
 *   **Data analytics and data management providers**, who help us analyze, improve, personalize, enhance our Services and moderate the content;
 *   **Measurement partners**, who help us with measurements, tracking and targeting;
 *   **Payment and fintech services providers**, who enable processing payments and fintech actions on our app;
+*   **Network and** **telecommunication partners**, who help us support communications and other services to users;
+*   **AI service providers**, which enable AI features on our app, including summary, in-chat assistance and chatbot features;
 *   **Data security partners**, who help us detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches and ensure compliance with legal obligations.
 
 Where we share information with services providers and partners, we ensure they only have access to such information that is strictly necessary in order for us to provide the Services. These parties are required to secure the data they receive and to use the data for pre-agreed purposes only, while ensuring compliance with all applicable data protection regulations (such service providers may use other non-personal data for their own benefit).
@@ -436,7 +451,7 @@ When personal data collected within the EEA (or UK) is transferred outside the E
 
 ######  **![](https://www.viber.com/app/uploads/Picture6.png) Data Retention**
 
-As we have explained above, we process personal data for various purposes. Accordingly, we only keep personal data as long as required to fulfill the purpose for which the data was collected, or, in some instance, where we have other necessities to retain the personal data, for example, where required by law. We explain below the criteria used by us to determine the retention of your personal data (meaning, for how long we store it and when we delete it, aligned with the type of data and purpose of collection).
+As we have explained above, we process personal data for various purposes. Accordingly, we only keep personal data as long as required to fulfill the purpose for which the data was collected, or, in some instances, where we have other necessities to retain the personal data, for example, where required by law. We explain below the criteria used by us to determine the retention of your personal data (meaning, for how long we store it and when we delete it, aligned with the type of data and purpose of collection).
 
 The criteria used by us to determine Viber’s retention periods are as follows:
 
@@ -449,13 +464,13 @@ The criteria used by us to determine Viber’s retention periods are as follows:
 
 If you decide to delete your Viber account, the CDRs and communications with our customer support will be retained as detailed above, and we will further retain records of financial information (with respect to Viber payment services this means KYC data, transaction and wallet related information or your hashed pin code), Viber Out usage including CDRs, purchasing subscriptions,), for the periods required under applicable laws, or as needed in accordance with our fraud monitoring program or to identify a returning user (for Viber payment services).
 
-All other types of data related to your Viber account will be deleted, unless we are required to further retain the data, subject to the criteria detailed below. We may keep activity data on a non-identifiable basis to improve our Services. Your posts on channels and communities may remain available if you do not delete them. Please note that deletion of the App (i.e., uninstall the App from your device) will not immediately delete your account, but if you do not reinstall it within subsequent two weeks your account may be deactivated; provided however if you have Viber Credit under your Viber Out account, other time periods will apply as set forth under “Viber Credits Specifications” clause of **[Viber Out Service Specific Terms](https://www.viber.com/en/terms/viber-terms-use/)**. Note that your account may also be deactivated if you do not log into Viber for twelve consecutive months.
+All other types of data related to your Viber account will be deleted, unless we are required to further retain the data, subject to the criteria detailed below. We may keep measurement data and activity data on a non-identifiable basis to improve our Services _and for business analytics purposes_. Your posts on channels and communities may remain available if you do not delete them. Please note that deletion of the App (i.e., uninstall the App from your device) will not immediately delete your account, but if you do not reinstall it within subsequent two weeks your account may be deactivated; provided however if you have Viber Credit under your Viber Out account, other time periods will apply as set forth under “Viber Credits Specifications” clause of **[Viber Out Service Specific Terms](https://www.viber.com/en/terms/viber-terms-use/)** and any eSIMs purchased through the App will remain active on your device independently of the App. Note that your account may also be deactivated if you do not log into Viber for twelve consecutive months.
 
 Please see information and instruction regarding your account deletion [**HERE**](https://help.viber.com/hc/en-us/articles/9174583112861-Deactivate-or-Uninstall-Viber-on-Your-Phone)**.**
 
 *   **Compliance with our legal obligations** – we are required to retain certain types of data in order to comply with our obligations under applicable laws. For example, we need to retain transactions information to comply with tax legislation. In addition, we may retain certain types of personal data in the event we are required to do so subject to a binding legal request or a court order. Further, subject to EU Directive 2002/58/EC we are required to retain certain personal data (such as phone number) to convey messages and calls.
 *   **Dispute, claims and legal proceedings** – if you have a dispute with us, we may retain certain types of personal data as necessary and applicable to your claims, including any legal proceedings between us, until such dispute was resolved, and following, if we find it necessary, in accordance with applicable statutory limitation periods. In addition**,** in the event you request to exercise your rights, we will maintain the applicable correspondence for as long as needed to demonstrate compliance, and usually in accordance with applicable statutory limitation periods.
-*   **Retention for Non-User Data** – if you are not a Viber user, and we process your data to enable Viber users to communicate with you via Viber Services we will retain such data as long as it is relevant to Viber users, or until you have requested us to stop processing your phone number. You can request to exclude your phone number and opt out **[here](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717)**. You can also opt out from the processing for the Caller ID service by contacting us [**here**](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717). Furthermore, if one of our users used our Viber Out Services in order to communicate with you (i.e., call you through Viber), we will retain a log of such call (Call Detail Records – CDR – as detailed above), which will include your phone number, for 24 months from creation. In relation to Viber payment services we store non-user data as long as it is relevant to a Viber payment services user (i.e. you are the sender or a recipient in a transaction with them or as part of a promotion). Further, this information may be stored as part of our fraud prevention program or in response to specific customer queries.
+*   **Retention for Non-User Data** – if you are not a Viber user, and we process your data to enable Viber users to communicate with you via Viber Services we will retain such data as long as it is relevant to Viber users, or until you have requested us to stop processing your phone number. You can request to exclude your phone number and opt out **[here](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717)**. You can also opt out from the caller identification processing under Viber Caller ID or Viber In service by contacting us [**here**](https://help.viber.com/hc/en-us/requests/new?ticket_form_id=11857662434717). Furthermore, if one of our users used our Viber Out Services in order to communicate with you (i.e., call you through Viber), we will retain a log of such call (Call Detail Records – CDR – as detailed above), which will include your phone number, for 24 months from creation. In relation to Viber payment services we store non-user data as long as it is relevant to a Viber payment services user (i.e. you are the sender or a recipient in a transaction with them or as part of a promotion). Further, this information may be stored as part of our fraud prevention program or in response to specific customer queries.
 
 [Back to top](#top)  
 
@@ -487,9 +502,15 @@ Viber respects your ability to exercise certain rights with regards to your pers
 *   **The right to be provided with information** **about our data collection and privacy practices** – including the sources from which we collect data, the purposes for which we collect and share data, the data we hold. This Privacy Policy describes our practices in detail using simple language. Everything you need to know is here. If you have more questions, feel free to contact our [**support team**](https://vb.me/ContactUs)**.**
 *   **The right to access your personal data** – you may receive your profile data by using the **[request your data button](https://help.viber.com/hc/en-us/articles/9062953104029)** (see below) and for further access requests you can contact our [](https://vb.me/ContactUs)**[support team](https://vb.me/ContactUs).**
 *   **The right to request rectification the personal data we hold about you** – if you believe we have the wrong data about you, or that your data is incomplete, feel free to change your personal data at any time through the profile settings on your Viber settings on your mobile device. You may edit your dating profile data at any time through the dating profile (except for non-editable categories such as your name, age and gender). If you can’t find what you are looking for, [**contact us**](https://vb.me/ContactUs).
-*   **The right to erase your personal data** – we have made it easy for you to delete your historical data on the App, while continuing to use the App. Simply tap on the **delete your data** button in your privacy settings. We will delete the data which we are not otherwise required to keep or is not necessary for the provision of the Service. And no need to worry – deleting your data won’t remove the chats on your Viber App on your phone. Note that when you deactivate the Viber account your data and chats are automatically deleted from your devices.
-*   You may always delete your dating profile data either through removing the information from the non-mandatory fields of your dating profile data at any time, or by deleting your dating profile through the Dating Settings in the App. Please note that content shared, sent or made available to other participants of the dating services prior to your account deletion may be retained and utilized by such participants, outside of our control and responsibility.
-*   Note that when you deactivate the Viber account your data and chats are automatically deleted from your devices.
+*   **The right to erase your personal data –** **You can exercise your right to erasure in the following ways:**
+    *   **Delete your account or service-specific profile.** Deleting your Viber account is the most comprehensive way to erase your personal data from our servers. You can deactivate your account through your Viber settings, and upon deactivation, your data and chats will be automatically deleted from your devices. We will delete all data associated with your account, except data we are required to retain under applicable law (such as financial records and certain activity logs, as described in our Data Retention section).
+
+If you use specific Viber services that maintain a separate profile (such as Viber Dating or Business Account), you may delete your data either through removing the information from the non-mandatory fields of your service-specific profile or delete that service-specific profile entirely without deactivating your main Viber account. For example, you may delete your Dating profile through the Dating Settings in the App or your Business Account through the Business Account settings. Deleting a service-specific profile removes the data associated with that service.
+
+*   *   **Delete your data while continuing to use the App.** We have also made it easy for you to request deletion of your historical **personal data from our servers while keeping your Viber account active** and allowing the continued use of the App. Simply tap on **the** **‘Personal Data > Delete Your Data’** button in your privacy settings. We will delete the data which we are not otherwise required to keep or is not necessary for the provision of the Service. And no need to worry – deleting your data won’t remove the chats on your Viber App on your phone.
+    *   Please note that content shared, sent or made available to other participants of the dating services prior to your account deletion may be retained and utilized by such participants, outside of our control and responsibility.
+    *   For a full description of what is and is not deleted through each method, check our support articles [**here**](https://help.viber.com/hc/en-us/articles/9174583112861-Deactivate-or-uninstall-Rakuten-Viber-on-your-phone) and [**here**](https://help.viber.com/hc/en-us/articles/9062953104029-Request-review-and-delete-your-data-on-Rakuten-Viber).
+
 *   **The right to restrict our use of your personal data** – We allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device. You can decide which processing operations you want to opt-out of. You can also change the settings on your mobile device operating system at any time to prevent us gaining access to certain data such as your accurate location – but this may negatively impact on your user experience.
 *   **The right to object to our use of your personal data (right to opt out)** – you can object to the processing of certain forms of data by contacting our support. Complete this [**online form**](https://vb.me/ContactUs) and explain your special circumstances. If you receive emails from us, you can always opt out on the bottom of the email, or by contacting our support. We also allow you to opt out of certain processing of your data by using the [**Viber privacy settings**](https://vb.me/PrivacySettings) on your mobile device.
 *   **The right to receive your personal data in a usable electronic format and transmit it to an external party (right to data portability) –** we have created a [**request your data button**](https://vb.me/RequestDeleteData) in Viber’s privacy settings on your mobile device to make a simple way for you to access the data connected to your account. Once it is ready, you will receive a file from Viber containing this data.
@@ -497,7 +518,7 @@ Viber respects your ability to exercise certain rights with regards to your pers
 *   **Right to non-discrimination.**
 *   **The right to lodge a complaint with your local data protection authority or attorney general, as applicable, and the right to appea****l****.**
 
-If you are using our Services from the EEA, UK or you are a California resident, you might have additional rights related to your personal data. Please see our [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/) and [**CCPA Notice**](https://www.viber.com/en/terms/ccpa-privacy-rights/), as applicable. Residents of various US states have additional rights and specifications, as detailed in the [**United States Regional Privacy Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/).
+If you are using our Services from the EEA, UK or you are a California or certain US states resident, you might have additional rights related to your personal data. Please see our [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/) and [**United States Regional Privacy Notice**](https://www.viber.com/en/terms/viber-united-states-regional-privacy-notice/).
 
 We provide you with the ability to independently exercise certain choices and controls in connection with your personal data – please see details under the “**[**Your Choices**](#your-choices-and-controls)**” paragraph above. If you wish to further exercise your rights, please contact us as specified under “**[**Contact Us**](#contact-us)**” section below. We will contact you if we need additional information from you in order to honor your requests.
 
@@ -513,13 +534,11 @@ We implement technical and organizational measures to ensure a level of security
 
 ######  **![](https://www.viber.com/app/uploads/legal_icon.png) Third-Party Websites, Apps, Services and Back-Ups**
 
-Our App may contain links to other third-party websites or you may access Apps from a third-party website. We may also allow certain functionalities through third-party services. We are not responsible for the data collection by such third parties, and their privacy practices and polices shall govern your personal data processed by them.
+Our App may contain links to other third-party websites or you may access Apps from a third-party website. We may also allow certain functionalities through third-party services. We are not responsible for the data collection by such third parties, and their privacy practices and policies shall govern your personal data processed by them.
 
 **Third parties’ websites, apps and services:**
 
-If you access our Services and App from any third-party website, service or other digital source, or access any third-party site or service from our Services and App, note that, your use and the personal data collected by such third parties or provided by you in connection therewith will be subject to such third party’s practices and we do not monitor, nor are responsible for the privacy practices of these third parties.
-
-We use the Google Maps API for some functions of the App, therefore the Google privacy policy **[http://www.google.com/privacy.html](http://www.google.com/privacy.html)** is incorporated herein.
+We use third-party APIs, including the Google Maps API and Google Business Profile API, to support certain functions of the App, including location-based features and business account services. If you choose to connect your Viber business account to a third-party service such as Google Business Profile, we access your profile data (including business name, address, profile image, aggregated review ratings, review count, and verification status) in read-only mode and display it as part of your business account on Viber. This data is refreshed periodically; you may disconnect at any time through your Business Account settings, after which your imported data will be removed. The Google privacy policy is incorporated herein  **[http://www.google.com/privacy.html](http://www.google.com/privacy.html)**.
 
 **Back-ups:**
 
@@ -535,7 +554,7 @@ Starting the end of June 2021 we added a new face lens feature that uses camera 
 
 Our Services are not intended for children under the age of 13 and we do not knowingly collect personal data from individuals under this age.
 
-Our Services are not intended for children under the age of 13. Therefore, we do not knowingly collect personal data via our websites, applications, services, or tools from anyone under 13. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will stop providing Services to you and delete your account and data. In the EEA and the UK, certain default privacy settings will be applied to children. Learn more about the age restrictions on Viber [**here**](https://help.viber.com/hc/en-us/articles/8922029685789-Age-restrictions).
+Our Services are not intended for children under the age of 13. Therefore, we do not knowingly collect personal data via our websites, applications, services, or tools from anyone under 13. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will stop providing Services to you and delete your account and data. In the EEA and the UK, certain default privacy settings will be applied to children. Learn more about the age restrictions on Viber [**here**](https://help.viber.com/hc/en-us/articles/8922029685789-Age-restrictions). Some of our features, such as business accounts and dating services, are strictly limited to users over the age of 18, and we reserve the right to request additional data from you to validate your eligibility to use such services.
 
 [Back to top](#top)  
 
@@ -560,10 +579,12 @@ If we change this privacy policy (except for technical tweaks), we will notify y
     **2, rue du Fossé, L-1536  
     Luxembourg, Grand Duchy of Luxembourg.
 
-We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your local data protection authority or to the data protection authority of Luxembourg using their website [**https://cnpd.public.lu/en.html**](https://cnpd.public.lu/en.html).
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy, and **encour**a**ge you to contact us using the methods above so we can address your concerns directly**. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your local data protection authority or to the data protection authority of Luxembourg using their website [**https://cnpd.public.lu/en.html**](https://cnpd.public.lu/en.html).
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version [Viber Privacy Policy August 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2025.pdf)
+Current Privacy Policy PDF Version Viber Privacy Policy March 2026
+
+Previous Privacy Policy PDF Version [Viber Privacy Policy August 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2025.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy March 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2025.pdf)
