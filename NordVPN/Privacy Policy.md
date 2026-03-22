@@ -283,3 +283,10 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
      For the purposes of the GDPR, Nord's representative in the European Economic Area (**EEA**) is NordSec B.V. (email: [representative@nordsec.com](mailto:representative@nordsec.com); postal address: Fred. Roeskestraat 115, 1076 EE Amsterdam, the Netherlands).
      
      To oversee matters related to data privacy, Nord has also appointed a Data Protection Officer (email: [dpo@nordsec.com](mailto:dpo@nordsec.com)).
+     
+
+Table of contents
+
+* * *
+
+[*   Introduction](#Introduction)[*   Service-specific privacy notices](#Service-specific privacy notices)[*   Personal data we process](#Personal data we process)[*   Sharing your personal data](#Sharing your personal data)[*   Your privacy rights](#Your privacy rights)[*   Your marketing choices](#Your marketing choices)[*   Data security](#Data security)[*   Data retention and deletion](#Data retention and deletion)[*   Country-specific provisions](#Country-specific provisions)[*   Children's data](#Children's data)[*   Other terms](#Other terms)[*   Contact us](#Contact us)
