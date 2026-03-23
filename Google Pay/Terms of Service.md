@@ -1,7 +1,7 @@
 IMPORTANT: If you reside in India, the Google Pay terms of service applicable to you are [here](http://pay.google.com/intl/en_in/about/terms/).
 
 Google Pay/Google Payments Terms of Service
--------------------------------------------
+===========================================
 
 Last modified: 4 March 2025
 
