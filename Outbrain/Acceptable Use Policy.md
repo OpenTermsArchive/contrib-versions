@@ -479,6 +479,7 @@ Company
 *   [Trust & Transparency](https://www.outbrain.com/trust-and-transparency/)
 *   [News](https://www.outbrain.com/news)
 *   [Contact Us](https://www.outbrain.com/contact)
+*   [Partnerships](https://www.outbrain.com/partnerships/)
 
 Resources
 ---------
@@ -488,6 +489,7 @@ Resources
 *   [Marketing Podcast](https://www.outbrain.com/blog/performance-marketing-minds-podcast-conversations-with-industry-leaders/)
 *   [Case Studies](https://www.outbrain.com/case-studies/)
 *   [Help Center](https://www.outbrain.com/help/)
+*   [Partners](https://www.outbrain.com/partnerships/partners-program/)
 
 *   [Interest-Based Ads (Opt Out)](https://dsr.outbrain.com/recommendations-settings/home)
 *   [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
