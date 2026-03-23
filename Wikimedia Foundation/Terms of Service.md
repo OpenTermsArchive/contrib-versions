@@ -111,7 +111,7 @@ Other languages:
 *   [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Termos e condições de uso (100% translated)")
 *   [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Politică:Termeni de Utilizare (100% translated)")
 *   [sardu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sc "Cunditziones de impreu (3% translated)")
-*   [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Kushtet e përdorimit (8% translated)")
+*   [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Kushtet e Përdorimit (44% translated)")
 *   [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Podmienky používania (100% translated)")
 *   [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Pogoji uporabe (100% translated)")
 *   [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Käyttöehdot (100% translated)")
