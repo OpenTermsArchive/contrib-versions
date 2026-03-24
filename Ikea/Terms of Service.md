@@ -448,7 +448,7 @@ All items that are returned are sent for onward recycling with trusted partners.
 
 The service only available at IKEA Stores. The service is not available at IKEA Plan & Order Points, and IKEA Pick Up Points. For more information on your local IKEA store, please see the IKEA website.
 
-These Terms and Conditions are governed by and construed in accordance with the Laws of the UK. IKEA reserves the right to amend these Terms at any time, and in accordance with change the law and WEEE legislation. Participants will be notified of any changes via the IKEA website. By participating in the offer, you acknowledge that you have read, understood and agree to these Terms and Conditions.
+These Terms and Conditions are governed by and construed in accordance with the Laws of Ireland. IKEA reserves the right to amend these Terms at any time, and in accordance with change the law and WEEE legislation. Participants will be notified of any changes via the IKEA website. By participating in the offer, you acknowledge that you have read, understood and agree to these Terms and Conditions.
 
 * * *
 
