@@ -1,17 +1,21 @@
 Information about Tracking Technology
-=====================================
+
+
+=========================================
 
 And Other Use of Personal Data on Kivra's Websites
 
 On Kivra's websites (i.e., [kivra.se](https://kivra.se/) and all subdomains of the logged-in mode on our site, [kivra.com](https://kivra.com/)) and in Kivra's apps, cookies, SDKs, and similar technologies (“tracking technology”) are used, which involve data being stored on or retrieved from your mobile phone, computer, and similar devices. Here you will find information about why Kivra uses tracking technology, what it means for you, and the choices you can make if you do not want us to use certain tracking technologies.
 
-### **About Tracking Technology**
+**About Tracking Technology**
+-----------------------------
 
 Kivra uses tracking technology for two reasons: Either the technology is necessary to provide our services, or it is an effective way for Kivra to analyze and improve the user experience of our services. According to the law (2022:482) on electronic communication, you have the right to receive information about which tracking technologies are used on a website you visit or in an app you use. You also have the right to information about how and why tracking technology is used. The provider of the website or app also needs to obtain your consent to use tracking technology that is not necessary to provide a service you have requested to use. If the use of a tracking technology involves the collection of personal data about you, the General Data Protection Regulation applies to the collection and use of your personal data. This means that you also have certain rights and are entitled to certain information in relation to how your personal data is used. Kivra fulfills its obligations under the Electronic Communications Act and the General Data Protection Regulation by: - Informing you that tracking technology is used when you visit our websites or use one of our apps. - Allowing you to choose whether to consent to our use of tracking technology that is not necessary to provide you with the service you are going to use. - Providing you with this information. - Providing you with our [data protection information.](https://kivra.se/sv/privat/dataskyddsinformation)
 
 If you want to read more about tracking technology in general, and what rights you have regarding the use of such technology, you can read more on the [Swedish Post and Telecom Authority's website](https://www.pts.se/sv/privat/internet/integritet/kakor-cookies/) and the [Swedish Authority for Privacy Protection's website.](https://www.imy.se/privatperson/dataskydd/informationssakerhet/sa-surfar-du-mer-anonymt/)
 
-### Tracking Technology in Kivra's Apps
+Tracking Technology in Kivra's Apps
+-----------------------------------
 
 When you use Kivra's app for iOS or Android, data is placed in the local storage space of your device, either by us or by a third party on our behalf. The data remains in your device until you or we (ourselves or through the third party) remove it, or until you uninstall the app. Using the data, certain data points are collected about your installation of the app and how it is used.
 
@@ -35,7 +39,8 @@ If you do not want Kivra to use tracking technology for analytics or personaliza
 
 How to change your settings: If you are using Kivra's app for iOS: Go to the app's settings. Go to More, select Settings, and then Tracking Technology. If you are using Kivra's app for Android: Go to Menu, select App Settings, and then Tracking Technology.
 
-### Tracking Technology on Kivra's Websites
+Tracking Technology on Kivra's Websites
+---------------------------------------
 
 Essential Functions We use the following tracking technologies to perform functions necessary to provide our services through the web: - Customize the websites according to choices you have made, such as opting to close information from Kivra on the websites (i.e., ensuring that you do not need to see that information again), choosing to read the website in a particular language, or adjusting the color theme of the website. - Ensure security and functionality of the websites, in terms of keeping you logged in and in the correct version of the website. The technologies that control logged-in mode and website version are only stored for a session, i.e., until you close your web browser. - [Spotify Confidence](https://confidence.spotify.com/) - Used for controlled rollout of our services to be able to launch services gradually and quickly recall versions that do not work well. Also used for so-called A/B testing of our services to be able to determine which version works best.
 
