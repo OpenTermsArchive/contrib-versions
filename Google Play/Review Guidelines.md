@@ -28,7 +28,7 @@ Choose a Google product
 *   [![](//www.gstatic.com/images/branding/productlogos/google_search_round/v8/web-64dp/logo_google_search_round_color_1x_web_64dp.png)
     
     ### Pixel Phone](https://support.google.com/pixelphone?hl=en-GB)
-*   [![](//fonts.gstatic.com/s/i/productlogos/maps/v6/web-64dp/logo_maps_color_1x_web_64dp.png)
+*   [![](//www.gstatic.com/images/branding/productlogos/maps_2025/v1/web-64dp/logo_maps_2025_color_1x_web_64dp.png)
     
     ### Google Maps](https://support.google.com/maps?hl=en-GB)
 *   [![](//fonts.gstatic.com/s/i/productlogos/google_cloud/v8/web-64dp/logo_google_cloud_color_1x_web_64dp.png)
