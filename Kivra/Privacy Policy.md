@@ -1,9 +1,12 @@
 Privacy notice
-==============
+
+
+==================
 
 Here we have gathered information about how we process your personal data. This data protection information is effective from 2026-04-11.
 
-### **We protect your privacy**
+**We protect your privacy**
+---------------------------
 
 On this page, we explain how Kivra handles your personal data when you use Kivra's services or otherwise interact with Kivra. You also receive information about your rights and how you can exercise them. 
 
@@ -11,7 +14,8 @@ To make it easier for you to find the information you are interested in, we have
 
 The terms used in this data protection information have the same meaning as in Kivras [terms](https://kivra.se/sv/om-oss/om-kivra/villkor). When we talk about Kivra, we mean Kivra Sweden AB (org no. 556917-3544). If you are looking for a job at Kivra, it refers instead to Kivra AB (org no. 556840-2266). 
 
-### **1\. About the processing of personal data**
+**1\. About the processing of personal data**
+---------------------------------------------
 
 Personal data is all information that can be directly or indirectly linked to a living natural person. Examples of personal data are name, e-mail address, telephone number, social security number, IP address and account number.
 
@@ -21,7 +25,8 @@ Most obligations under data protection legislation fall on the person responsibl
 
 In certain situations, personal data controllers can hire a so-called personal data assistant. A personal data processor is an actor who is tasked with processing personal data on behalf of the personal data controller. A personal data assistant may only process personal data according to instructions from the personal data controller, and may never use the data for other purposes.
 
-### **2\. Is Kivra a personal data controller or a personal data assistant?**
+**2\. Is Kivra a personal data controller or a personal data assistant?**
+-------------------------------------------------------------------------
 
 Kivra processes personal data both in the role of personal data controller and as personal data assistant for others. Sections 3-8 of this data protection information describe what applies when Kivra processes your personal data as a data controller. If you want to get a complete picture of which treatments it refers to **see section 3** below. 
 
@@ -34,7 +39,8 @@ Below is a description of the most important examples when Kivra processes your 
 *   When Kivra sends an SMS that you can access a credit report copy, it is the credit reporting company that created the credit report and is the personal data controller for the processing. Kivra is a personal data assistant for the credit reporting company. If you want information about how your personal data is processed at the brokerage, we refer you to the credit information company that created the credit information. You can find general information about how your personal data is processed in connection with credit reporting companies sending credit report copies [here](https://faq.kivra.se/hc/sv/articles/22936719743901-Vem-%C3%A4r-personuppgiftansvarig-f%C3%B6r-SMS-utskicket-g%C3%A4llande-en-kreditupplysning). 
     
 
-### **3\. What does Kivra use your personal data for?**
+**3\. What does Kivra use your personal data for?**
+---------------------------------------------------
 
 The tables below describe:
 
@@ -229,7 +235,8 @@ _This describes the processing that we carry out in order to fulfill your statut
 | Meet your rights under Section 6 of this data protection information (apart from the right to register extracts - see column below) under the Data Protection Regulation | **All categories of personal data that Kivra processes** may be used, depending on which right you invoke. | The processing is necessary to fulfill Kivra's legal obligations according to the data protection regulation. | Up to 20 days after you terminate the Service. |     |
 | Satisfy your right of access and provide you with information about which personal data we process about you and how it is used, in a so-called register extract | All categories of personal data that Kivra processes as a data controller can be included in a register extract | The processing is necessary for us to be able to fulfill our legal obligations according to the data protection regulation | A copy of your register extract is saved for three (3) months in order to be able to answer any questions from you.<br><br>Information about when you requested the register extract and when we responded is saved for ten (10) years. |     |
 
-### **4\. Is your personal data processed in other countries outside the EU/EEA?**
+**4\. Is your personal data processed in other countries outside the EU/EEA?**
+------------------------------------------------------------------------------
 
 As a general rule, your personal data is only processed in Sweden or within the EU/EEA. However, there are situations where Kivra has chosen to process your personal data using services and tools that store and process your personal data outside the EU/EEA, see section 3. 
 
@@ -237,7 +244,8 @@ In that case, Kivra only transfers personal data to countries outside the EU/EEA
 
 If the processing takes place in the USA, Kivra ensures that the receiving party is part of the Data Privacy Framework (DPF) developed between the EU and the USA. Kivra only has US subcontractors who have chosen to join the framework and Kivra always contracts and verifies that Kivra's subcontractors include DPF in their data protection information. Furthermore, Kivra always checks that personal data processing that the subcontractor specifies in their data protection information also includes the personal data processing that we want them to carry out on Kivra's behalf. You can find the list of which companies are connected to DPF at [US Department of Commerce website](https://www.dataprivacyframework.gov/s/participant-search).
 
-### **5\. What rights do you have?**
+**5\. What rights do you have?**
+--------------------------------
 
 Under the various subheadings below, you can read about the rights you have when Kivra is the data controller for the processing of your personal data. For information on how to exercise your rights, see section 8 below. 
 
@@ -305,7 +313,8 @@ You also have the right to submit a complaint to the Swedish Data Protection Aut
 
 You can find more information about how to submit a complaint to the Swedish Privacy Protection Authority at [the authority's website](https://www.imy.se/privatperson/utfora-arenden/lamna-ett-klagomal/). 
 
-### **6\.** Where do you contact with comments or questions?
+**6\.** Where do you contact with comments or questions?
+--------------------------------------------------------
 
 If you would like to contact Kivra to ask questions, provide comments or exercise your rights under the Data Protection Regulation, you can reach us at the email address: dataskydd@kivra.seor by phone at 077-045 70 00. You will also find answers to the most frequently asked questions in our help center.
 
@@ -317,7 +326,8 @@ It is free of charge for you to exercise your rights, unless your request is man
 
 If we do not take action on your request, we will, within one month of receiving it, inform you of the reason for not taking action and of the possibility of filing a complaint with the Privacy Protection Authority and requesting a legal review.
 
-### **7\. Updates to the data protection information**
+**7\. Updates to the data protection information**
+--------------------------------------------------
 
 We update this data protection information when necessary - for example, because we start processing your personal data in some new way, when we want to make the information even clearer for you, or if it needs to be updated to meet requirements in accordance with data protection legislation.
 
