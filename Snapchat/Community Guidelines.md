@@ -46,11 +46,11 @@ apply to all content and behaviour on Snapchat's platform and products, and cove
 
 Sexual Content
 
-*   We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming or sexual extortion (sextortion), or the sexualisation of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
+*   We prohibit any activity that invlolves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming for sexual purposes, sexual extortion (sextortion), or attempts to persuade, trick or coerce a minor with the intent of sexual abuse or exploitation. We also prohibit sexual extortion (sextortion), or the sexualisation of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
     
-*   We prohibit promoting, distributing or sharing pornographic content, as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
+*   We prohibit promoting, distributing, or sharing pornographic content, including unsolicited sexual imagery (such as cyberflashing), as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
     
-*   Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted.
+*   Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted, unless posted without the subject's consent.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB)
@@ -59,40 +59,50 @@ Threats, Violence & Harm
 
 *   Encouraging or engaging in violent or dangerous behaviour is prohibited. Never intimidate or threaten to harm a person, a group of people or someone’s property.
     
-*   Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
+*   Content depicting gratuitous or graphic violence, including animal abuse, is not allowed.
     
-*   We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide or eating disorders.
+*   Graphic depictions of serious injury (whether real or realistic) to humans or animals are not allowed, except in the context of news coverage (for example, reporting from war zones — and even in such instances, we encourage blurring or obscuring graphic harm).
+    
+*   We don’t allow the glorification, encouragement, or assistance of self-harm, including the promotion of self-injury, suicide, eating disorders, or other forms of serious self-harm.
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-GB)
 
 Hateful Content, Terrorism and Violent Extremism
 
-*   Terrorist organisations, violent extremists and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
+*   We prohibit the use of our platform to support terrorist organisations, violent extremists, or hate groups. We also prohibit content that supports, glorifies, praises, or advocates for terrorism, violent extremism, or hate.
     
-*   Hate speech or content that demeans, defames or promotes discrimination or violence on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability or veteran status, immigration status, socio-economic status, age, weight or pregnancy status is prohibited.
+*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity or reassignment, disability, veteran status, immigration status, age, weight, or pregnancy status is prohibited.
     
 
 [Read Next](https://www.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB)
 
 Harassment and Bullying
 
-*   We prohibit bullying or harassment of any kind. If someone blocks you, you may not contact them from another Snapchat account.
+*   We prohibit bullying and harassment. If someone blocks you, you may not contact them from another Snapchat account.
     
-*   Sharing images of a person in a private space – like a bathroom, bedroom, locker room or medical facility – without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e. “doxxing”).
+*   We consider harassment to include any unwanted behavior that would cause an ordinary person to experience emotional distress, including mocking, shaming, rumour spreading, wishing harm on another party, sharing humiliating imagery (including manipulated or AI-generated imagery), or repeated, unwanted contact.
     
-*   If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
+*   We also prohibit non-consensual sharing of another person’s private content, imagery, or information, including sharing personally identifiable information (PII), screenshots or recording of private conversations.
     
-*   Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.
+*   We also prohibit sharing another person’s private or identifiable information for the purpose of harassment (i.e., “doxxing”).
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-GB)
 
 Illegal or Regulated Activities
 
-*   Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
+*   Using Snapchat to engage in illegal activity may result in account termination, and may be a crime! Do not use Snapchat to engage in, encourage, or glorify illegal activity. 
     
-*   We prohibit the illegal promotion of regulated goods or industries, including unauthorised promotion of gambling, tobacco or vape products and alcohol.
+*   We prohibit facilitating or participating in human trafficking or human smuggling, as well as the promotion of gangs, organised crime, or recruiting for criminal activity.
+    
+*   We prohibit the glorification, sale, or distribution of illicit drugs (including prescription medication that is commonly abused, such as opioids, barbiturates, and amphetamines).  
+    
+*   We prohibit the sale or distribution of regulated drugs (including prescription drugs) and substances. 
+    
+*   We prohibit the sale or promotion of weapons (including fireworks or explosives), as well as the depiction of reckless or irresponsible weapons use. 
+    
+*   We prohibit the promotion of certain goods or activities that are often regulated. This includes the attempted sale or promotion of regulated goods such as tobacco, alcohol, or vape products. We also prohibit the sale, facilitation, or promotion of regulated services and activities, such as offering financial loans or other financial products or services, or promoting gambling services (including betting websites, gambling apps, tip or prediction services, or referral codes).
     
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-GB)
@@ -119,11 +129,17 @@ Information and Q&A
 
 How can I report something?
 
-You can always submit a report to our safety teams using our [in-app reporting features](https://help.snapchat.com/hc/articles/7012399221652?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-GB) or by completing [this form](https://help.snapchat.com/hc/requests/new?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-GB), which allows you to report a concern whether you have a Snapchat account or not. We review these reports to determine violations of these guidelines.
+You can submit a report to our safety teams using our [in-app reporting features](https://help.snapchat.com/hc/articles/7012399221652?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-GB) or by completing [this form](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-GB), which allows you to report a concern, whether you have a Snapchat account or not. We review these reports to determine violations of these guidelines. The fastest and best way to report potential safety concerns to our safety teams is through the in-app reporting feature in the Snapchat app. 
+
+Residents of certain jurisdictions (for example, the EU or UK) may also have additional options for reporting content that they believe is illegal.  You can find more information on our [Support Site](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-GB).
+
+  
 
 What happens if I violate the Community Guidelines?
 
-If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account and/or notify law enforcement. Our policy is to refer information to law enforcement, potentially including relevant content and other account data, when we believe activity poses an imminent threat to human life. If your account is disabled for violating these guidelines, you are not allowed to use Snapchat again without our permission.
+If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account or content, limit your access to certain features on Snapchat, notify law enforcement, and/or take technical steps to prevent you from creating or using another account. Our policy is to refer information to law enforcement, potentially including relevant content and other account data, when we believe activity poses an imminent threat to human life. If your account is disabled for violating these guidelines, you are not allowed to use Snapchat again without our permission. Learn more in our [Moderation explainer](https://www.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-GB).
+
+  
 
 Do you consider off-platform behaviour?
 
