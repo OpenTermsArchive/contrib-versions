@@ -1,18 +1,22 @@
 General Terms and Conditions for the Service
-============================================
+
+
+================================================
 
 **Effective from 2026-04-11 and until further notice.**  
   
 
 _Kivra updates the terms and conditions and removes shared folder functionality._
 
-### 1\. General
+1\. General
+-----------
 
 These general terms and conditions apply when Kivra Sverige AB, corporate ID number 556917-3544, or another company within the same group as Kivra Sverige AB ("Kivra") provides individuals ("User/You") with one or more services and features ("the Service"), including but not limited to a digital mailbox for receiving, managing, transferring, and storing digital messages, receipts, and other documents ("Content"), as well as any other features and services that Kivra may offer from time to time ("Additional Services"). The term Service also includes Additional Services unless otherwise expressly stated in these general terms and conditions or in the specific conditions for the Additional Service in question. To access such Additional Services, you must accept the specific conditions that apply to the Additional Service. The specific conditions and any other written agreements concerning the Service and Additional Services between you and Kivra, together with these general terms and conditions, constitute the agreement between you and Kivra ("the Agreement").
 
 By choosing to register to use the Service, you also agree to follow these general terms and conditions and any other rules and instructions that Kivra may publish via the Service from time to time. You are also obliged to comply with applicable laws, regulations, and governmental decisions when using the Service.
 
-### 2\. The Service
+2\. The Service
+---------------
 
 2.1 Registration
 
@@ -102,7 +106,8 @@ During this time, you are responsible for which Content you choose to delete. Di
 
 Upon suspension or termination of the Service according to section 11 below, all Content, as well as your account history stored within the framework of the Service, will be deleted after twenty (20) days.
 
-### 3\. Additional Services
+3\. Additional Services
+-----------------------
 
 Kivra has the right to introduce and offer Additional Services at any time.
 
@@ -110,7 +115,8 @@ You automatically gain access to such Additional Services that are provided free
 
 Special conditions apply to Additional Services.
 
-### 4\. Beta Services
+4\. Beta Services
+-----------------
 
 Kivra may from time to time offer beta services. A “Beta Service” means a feature or service that is still under development, pilot or testing, and is made available to you for a limited time for evaluation. Beta Services may differ from the rest of the Service in terms of stability, functionality, performance and support level.
 
@@ -124,21 +130,25 @@ Kivra may terminate a Beta Service at any time by launching it as a regular serv
 
 You may terminate Your use of a Beta Service at any time by exiting the beta program on the platform (Google Play or Apple TestFlight) that You use. This does not affect Your use of regular Services under the Agreement.
 
-### 5\. Changes in the Service
+5\. Changes in the Service
+--------------------------
 
 Kivra has the right to make changes to the Service and the functions that can be used via the Service at any time. The scope and design of the functions available through the Service may vary over time. Kivra reserves the right to continuously develop, expand, limit, or otherwise change the design, technical features, systems, technical conditions for access to the Service, and other components, as well as the conditions for these.
 
-### 6\. Access to the Service
+6\. Access to the Service
+-------------------------
 
 The Service is normally available 24 hours a day, seven (7) days a week, year-round. However, Kivra does not guarantee and is not responsible for the Service being free from errors, delays, and/or interruptions. Kivra reserves the right to temporarily interrupt the provision of the Service for service purposes, e.g., bug fixes, maintenance, and upgrades.
 
-### 7\. Your responsibility for access to the Service, etc.
+7\. Your responsibility for access to the Service, etc.
+-------------------------------------------------------
 
 You are responsible for: - having the necessary connections and equipment for the Service, including a working internet connection and digital devices and browsers that enable access to the Service. - the accuracy of the information provided in connection with registration and use of the Service and any Additional Services. - continuously updating your contact details so that they are correct at all times and ensuring that you have access to the specified contact details and that these are functional for receiving information from Kivra. - ensuring that personal and user-specific information such as user identity and password or other documents, certificates, or devices
 
 that can be used for access to the Service are stored in a secure manner and are not used by or disclosed to any unauthorized person. If you suspect that such information has come into the possession of an unauthorized person or is otherwise misused, you are obliged to immediately take action to limit access to the Service and inform Kivra about the situation.
 
-### 8\. Your responsibility for using the Service
+8\. Your responsibility for using the Service
+---------------------------------------------
 
 You are responsible for activities conducted by you and any other users to whom you have given read and/or management rights. You are thus responsible, among other things, for any transfer of information and Content conducted by you within the framework of the Service.
 
@@ -148,17 +158,20 @@ You may not use the Service in such a way that Kivra or another party suffers in
 
 If Kivra suspects that you are using the Service in violation of this section, Kivra has the right to delete and/or prevent you from transferring information and/or Content without prior notice to you and has the right to suspend the Service for you and terminate the Agreement with you with immediate effect, see further section 11.2 below.
 
-### 9\. Processing of personal data
+9\. Processing of personal data
+-------------------------------
 
-You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
+You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/en/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
 
 Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in our [Privace Notice](https://kivra.se/en/private/privacy-notice/).
 
-### 10\. Accessibility
+10\. Accessibility
+------------------
 
 Kivra is responsible for ensuring that the Service's payment functions meet the requirements of the Act (2023:254) on the accessibility of certain products and services. Depending on which payment method you choose, the different providers are responsible for the accessibility of their respective services. You can read more about [accessibility in Kivra here](https://kivra.se/en/about-kivra/accessibility-at-kivra).
 
-### 11\. Liability and limitations of liability
+11\. Liability and limitations of liability
+-------------------------------------------
 
 Kivra is responsible for the information security of the Service.
 
@@ -172,11 +185,13 @@ You are obliged to present claims for compensation to Kivra within three (3) mon
 
 The rights that accrue to a consumer, or a registered when Kivra is the data controller for the relevant processing, according to applicable Swedish law are not restricted by what is prescribed about Kivra's liability and limitations of liability.
 
-### 12\. Force majeure
+12\. Force majeure
+------------------
 
 Kivra is exempt from liability for damages or other responsibilities if damage or failure to act is due to an obstacle outside Kivra's control that Kivra could not reasonably have been expected to anticipate and whose consequences Kivra could not reasonably have avoided or overcome, including but not limited to, for example, war, natural disasters, lockouts or other labor conflicts, fire, interruptions in energy supply, and interruptions in the operation of electronic data processing caused by the above. The same applies if a subcontractor to Kivra is affected by obstacles referred to in this section.
 
-### 13\. Suspension and termination of the Service
+13\. Suspension and termination of the Service
+----------------------------------------------
 
 13.1 Your rights
 
@@ -202,19 +217,23 @@ Kivra also has the right to fully or partially terminate the Service for you and
 
 In the event of death, Kivra reserves the right to terminate the Service and delete Content in the Service for the deceased User after twelve (12) months from the death.
 
-### 14\. Confidentiality
+14\. Confidentiality
+--------------------
 
 Kivra shall observe confidentiality regarding Content handled via the Service and shall not improperly gain access to Content or disclose Content to unauthorized persons. However, Kivra reserves the right to disclose information or Content that Kivra is obliged to disclose or release according to law.
 
-### 15\. Intellectual property rights
+15\. Intellectual property rights
+---------------------------------
 
 All rights, including but not limited to all intellectual property rights, to the Service including the technical solution and any content therein provided by Kivra, belong to Kivra or its right holders and are protected by law.
 
-### 16\. Changes to terms
+16\. Changes to terms
+---------------------
 
 Kivra reserves the right to change and/or add to these general terms and conditions and/or the specific conditions for Additional Services at any time. Changes to the terms will be communicated to you in the manner decided by Kivra at least thirty (30) days before the change takes effect. However, Kivra always has the right to immediately make such changes and additions that are necessitated by law, regulation, or governmental decision. If you do not accept changes and additions, you always have the right to terminate the Agreement according to section 11 above.
 
-### 17\. Assignment and subcontractors
+17\. Assignment and subcontractors
+----------------------------------
 
 You may not assign this Agreement, or your rights and obligations under this Agreement, without prior written consent from Kivra.
 
@@ -222,7 +241,8 @@ Kivra has the right to assign this Agreement, or its rights and obligations unde
 
 Kivra has the right to engage subcontractors for the fulfillment of its obligations under the Agreement. Kivra is in such cases fully responsible for the subcontractor's fulfillment of its obligations.
 
-### 18\. Choice of law and dispute resolution
+18\. Choice of law and dispute resolution
+-----------------------------------------
 
 The Agreement is governed by Swedish law. In the event of a dispute regarding the interpretation or application of the Agreement, you and Kivra shall primarily attempt to reach an agreement.
 
@@ -254,56 +274,32 @@ Otherwise, the dispute shall be settled by a general court.
 [](#nav)
 
 Older versions
---------------
 
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/55NmkXUmGLITjmFnnxAP5l/44474346f23054beb699ca0c687034ee/2026-01-16_-_2026-04-10.pdf)
 
-Gällde fr.o.m 2025-01-16 t.om. 2026-04-10
+------------------
 
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6cXdBUmYPn2p5GuxbCYSei/28950256a3e0c9544524e0a30ba5ca16/2025-08-14_-_2026-01-15.pdf)
-
-Gällde fr.o.m 2025-08-14 t.om. 2026-01-15
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6bOCYbPvW8cJQe7FWglMlV/c7da5e84b4a06caa124082320bf159cb/2025-06-28_-_2025-08-13.pdf)
-
-Gällde fr.o.m 2025-06-28 t.om. 2025-08-13
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/25IGjBQ5g84h1aosyC22KY/31c3532595e444c3ab7f47b0bed3b4fd/2025-05-29_-_2025-06-27.pdf)
-
-Gällde fr.o.m 2025-05-29 t.om. 2025-06-27
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6AxEynhhIzD61TeMMUxUla/5ea22f380ee8105c0105cb29fff0dfd2/2025-02-15_-_2025-05-28.pdf)
-
-Gällde fr.o.m 2025-02-15 t.om. 2025-05-28
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/26M8dcm2LB4X0vqKXi9rw3/79687a0e7a2300c4c115c66d032380cc/2024-10-18_-_2025-02-14.pdf)
-
-Gällde fr.o.m 2024-10-18 t.om. 2025-02-14
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4SN09jNzr8OXtNTK48iwTu/273a197a888f3f521feb037003df92c8/2024-03-28_-_2024-10-17.pdf)
-
-Gällde fr.o.m 2024-03-28 t.om. 2024-10-17
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/vVFfwMKtWzqviJlVEPuJW/ffd10c43a05796ae11573ab7a1992422/2023-11-24_-_2024-03-27.pdf)
-
-Gällde fr.o.m 2023-11-24 t.om. 2024-03-27
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6soAUYXAbBWG38atd8F4jj/663930ed388474fb7eae046df35a2f07/2022-04-30_-_2023-11-24.pdf)
-
-Gällde fr.o.m 2022-04-29 t.om. 2023-11-24
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/9yc1OZYzbe1gGoyB17m4b/817f7547885cf85cf79ede2cae9de988/2022-01-20_-_2022-04-29.pdf)
-
-Gällde fr.o.m 2022-01-20 t.om. 2022-04-29
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/7mqLiknrUN8BCoFeLcui2R/ac3d98055ad14fa5af9f091f3f835cdd/2021-06-08_-_2022-01-19.pdf)
-
-Gällde fr.o.m. 2021-06-08 t.om. 2022-01-19
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4C9XBg4ePMAAMXyMommxHO/f57e3d608fc6fb9dcc908764f37aa127/2020-12-02_-_2021-06-07.pdf)
-
-Gällde fr.o.m. 2020-12-02 t.o.m. 2021-06-07
-
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/2UmqoX2JoG17VPjBOBIrwW/54f1cf01ab13afa9b082b540cef7d25e/2018-05-25_-_2020-12-01.pdf)
-
-Gällde fr.o.m. 2018-05-25 t.o.m. 2020-12-01
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/55NmkXUmGLITjmFnnxAP5l/44474346f23054beb699ca0c687034ee/2026-01-16_-_2026-04-10.pdf) Gällde fr.o.m 2025-01-16 t.om. 2026-04-10
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6cXdBUmYPn2p5GuxbCYSei/28950256a3e0c9544524e0a30ba5ca16/2025-08-14_-_2026-01-15.pdf) Gällde fr.o.m 2025-08-14 t.om. 2026-01-15
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6bOCYbPvW8cJQe7FWglMlV/c7da5e84b4a06caa124082320bf159cb/2025-06-28_-_2025-08-13.pdf) Gällde fr.o.m 2025-06-28 t.om. 2025-08-13
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/25IGjBQ5g84h1aosyC22KY/31c3532595e444c3ab7f47b0bed3b4fd/2025-05-29_-_2025-06-27.pdf) Gällde fr.o.m 2025-05-29 t.om. 2025-06-27
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6AxEynhhIzD61TeMMUxUla/5ea22f380ee8105c0105cb29fff0dfd2/2025-02-15_-_2025-05-28.pdf) Gällde fr.o.m 2025-02-15 t.om. 2025-05-28
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/26M8dcm2LB4X0vqKXi9rw3/79687a0e7a2300c4c115c66d032380cc/2024-10-18_-_2025-02-14.pdf) Gällde fr.o.m 2024-10-18 t.om. 2025-02-14
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4SN09jNzr8OXtNTK48iwTu/273a197a888f3f521feb037003df92c8/2024-03-28_-_2024-10-17.pdf) Gällde fr.o.m 2024-03-28 t.om. 2024-10-17
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/vVFfwMKtWzqviJlVEPuJW/ffd10c43a05796ae11573ab7a1992422/2023-11-24_-_2024-03-27.pdf) Gällde fr.o.m 2023-11-24 t.om. 2024-03-27
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6soAUYXAbBWG38atd8F4jj/663930ed388474fb7eae046df35a2f07/2022-04-30_-_2023-11-24.pdf) Gällde fr.o.m 2022-04-29 t.om. 2023-11-24
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/9yc1OZYzbe1gGoyB17m4b/817f7547885cf85cf79ede2cae9de988/2022-01-20_-_2022-04-29.pdf) Gällde fr.o.m 2022-01-20 t.om. 2022-04-29
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/7mqLiknrUN8BCoFeLcui2R/ac3d98055ad14fa5af9f091f3f835cdd/2021-06-08_-_2022-01-19.pdf) Gällde fr.o.m. 2021-06-08 t.om. 2022-01-19
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4C9XBg4ePMAAMXyMommxHO/f57e3d608fc6fb9dcc908764f37aa127/2020-12-02_-_2021-06-07.pdf) Gällde fr.o.m. 2020-12-02 t.o.m. 2021-06-07
+    
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/2UmqoX2JoG17VPjBOBIrwW/54f1cf01ab13afa9b082b540cef7d25e/2018-05-25_-_2020-12-01.pdf) Gällde fr.o.m. 2018-05-25 t.o.m. 2020-12-01
