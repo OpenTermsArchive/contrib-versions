@@ -1,3 +1,5 @@
-Cookies are small text files that provide information regarding the device used by a website visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies although doing so may impact website functionality.
+Cookies, web beacons, pixels, conversion APIs and similar technologies help us recognise site visitors, analyse site usage, personalise your experience and measure our marketing performance. These technologies may collect identifiers which enable the linking of activity across websites and devices.
 
-Any questions, complaints, comments and requests regarding Cookies are welcome and should be addressed to support@kraken.com.
+Kraken respects your privacy and you can choose to disable processing in the categories of performance, functional and advertising. Disabling these categories may impact site functionality. Click on Cookie Settings in the pop-up banner or in the footer of the website to find out more or to change your preferences.
+
+Please note we do not sell your personal data but if you are resident in the US and wish to exercise your Do Not Share rights, you can exercise these rights by adjusting your preferences or by contacting us using our [contact form](https://support.kraken.com/forms/648008).
