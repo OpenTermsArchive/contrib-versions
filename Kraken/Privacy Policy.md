@@ -1,10 +1,8 @@
-_Last Updated: 12 December 2025_
+_Last Updated: 2 March 2026_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice).
 
 For residents of Brazil, a Portuguese translation of this Privacy Notice is available [here](https://www.kraken.com/legal/br-privacy) for ease of reference and understanding. While we have taken care to ensure consistency between versions, in the event of any discrepancies, the English version shall prevail.
-
-  
 
 **1\. Introduction**
 --------------------
@@ -35,7 +33,7 @@ The following terms are defined as follows:
 
 Our products and services are provided through local operating entities that are part of the Kraken group of companies.
 
-You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
+You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/legal) (unless you are contracting for MIFID II financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
 
 **4\. How do we protect personal data?**
 ----------------------------------------
@@ -68,6 +66,8 @@ The minimum information required for entering into a contract governing your use
 *   Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, Kraken Pay Service transaction records, user generated content such as payment descriptions, comments and attachments (“**Kraken Pay Service information**”);
     
 *   Krak card information, including card details such as PAN (Primary Account Number), card issuer ID and Krak card transaction records (**“Krak card information”**);
+    
+*   Salary Match information, including salary deposit amounts, payment frequency and timing, payer/employer identity and sender details, detected payment patterns used for salary classification, ML scoring signals, reward history, tier assignment, cashback currency preferences, and employer tags shown in Address Book and Activity feeds (**“Salary Match information”**);
     
 *   On-chain interaction and attestation information, meaning information generated when you interact with DeFi products or services or when carrying out other on-chain activities via Kraken interfaces. This category may include DeFi transaction records, liquidity-provision data, wallet-verification status (e.g., whether a wallet is associated with a Kraken account), wallet addresses used for attestations or other on-chain interactions, and related metadata such as timestamps, transaction hashes, protocol, smart contract or vault identifiers, schema details, and other technical information recorded on public blockchains (“**On-chain interaction and attestation information**”);
     
@@ -110,13 +110,11 @@ We also receive information about you from third parties such as your payment pr
 
 As part of the processing activities described above, Kraken may share your personal data within the Kraken company group and with carefully selected third parties. We only disclose data for legitimate purposes and when it is lawful to do so, and we require each recipient to process the data in line with applicable data protection laws.
 
-Kraken engages third party service providers and business partners for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics, DeFi and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification. Please note no mobile information will be shared with third parties for their marketing or promotional purposes.
+Kraken engages third party service providers and business partners for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics, DeFi and research.
 
-In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations. Other business partners may act as independent controllers where they enable access to DeFi or other on-chain services.
+Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification. Please note no mobile information will be shared with third parties for their marketing or promotional purposes. Kraken may also disclose your personal data to banking and payments partners for the purpose of investigating and responding to potential sanctions violations and crime including fraud and money laundering.
 
-If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
-
-Kraken may also disclose your personal data to banking and payments partners for the purpose of investigating and responding to potential sanctions violations and crime including fraud and money laundering.
+If you sign up for Kraken using a referral link or code, we may share limited pseudonymised and aggregated information with the referring affiliate to operate and measure the performance of the programme and calculate and pay commissions.
 
 With your consent, Kraken may disclose your name and email to Trustpilot to enable you to leave a review of Kraken without having to create a full Trustpilot account.
 
@@ -124,12 +122,16 @@ In connection with Kraken’s global operations and our compliance with applicab
 
 Kraken may also disclose your data in the event of a prospective merger, acquisition, or sale of all or part of our business or assets.
 
+In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations. Other business partners may act as independent controllers where they enable access to DeFi or other on-chain services. In some cases, other Kraken group companies may act as independent controllers for specific processing activities when providing certain products or services.
+
+If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
+
 On-chain attestations are publicly available and may be accessed by third parties via blockchain explorers and APIs. Kraken does not control or restrict third-party access to on-chain attestation data.
 
 **8\. Where we store your personal data**
 -----------------------------------------
 
-Our operations are supported by a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement, regulators and security agencies of these jurisdictions may be able to use legal processes to access your personal data. Additionally, we may be required by law to disclose your personal information to regulators or other authorities in these jurisdictions where such disclosure is mandated by applicable law.
+Client data, including account, transactional, and KYC information, is primarily hosted within European and UK data centres. To support our operations we use a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement, regulators and security agencies of these jurisdictions may be able to use legal processes to access your personal data. Additionally, we may be required by law to disclose your personal information to regulators or other authorities in these jurisdictions where such disclosure is mandated by applicable law.
 
 **9\. International transfers of personal data**
 ------------------------------------------------
