@@ -76,7 +76,7 @@ These Terms shall be governed and construed in accordance with the laws of Finla
 
 Disputes, controversies and claims relating to these Terms shall be primarily settled by mutual negotiations between you and Frank. In the event a dispute, controversy or claim arising out of or relating to these Terms, or the breach, termination or validity thereof cannot be settled by mutual negotiations it shall be finally settled in Helsinki District Court.
 
-A consumer may also refer a dispute relating to these Terms to the Consumer Disputes Board ([www.kuluttajariita.fi](https://www.frank.fi/en/terms/clkn/http/www.kuluttajariita.fi/)). Before referring a dispute to the Consumer Disputes Board, the consumer shall contact the Consumer Advisory Service ([www.kuluttajaneuvonta.fi](https://www.frank.fi/en/terms/clkn/http/www.kuluttajaneuvonta.fi/)). 
+A consumer may also refer a dispute relating to these Terms to the Consumer Disputes Board ([www.kuluttajariita.fi](http://www.kuluttajariita.fi/)). Before referring a dispute to the Consumer Disputes Board, the consumer shall contact the Consumer Advisory Service ([www.kuluttajaneuvonta.fi](http://www.kuluttajaneuvonta.fi/)). 
 
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
 
