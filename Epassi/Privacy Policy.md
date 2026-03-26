@@ -37,7 +37,7 @@ Representative of the joint controller: Data Protection Officer – Taika Pönti
 
 Epassi processes only personal data that is relevant and necessary to fulfill the purposes defined in this Privacy Policy. Personal data is processed separately from other Epassi systems and is not combined with other processing purposes. Below, you will find tables listing the purposes of processing identified by Epassi, the categories of personal data involved, a description of the processing and retention periods, and the applicable legal basis under the GDPR.
 
-### _3.1 Epassi Service for End-Users_
+### 3.1 Epassi Service for End-Users
 
 Epassi processes personal data for the following purposes related to providing its service:
 
@@ -50,9 +50,9 @@ Epassi processes personal data for the following purposes related to providing i
 | 3.1.4 Reporting on Used Benefits | *   Granted benefit amount<br>*   Used benefit amount<br>*   Employee name, email address, and other identifiers if necessary<br>*   Top ten merchants most favored by employees<br>*   Benefit category<br>*   At employer’s request: individual benefit usage data (amount in SEK and location) (Sweden) | Personal data is processed to report benefit usage to employer clients for payroll purposes, salary deductions, taxation, and invoicing.  <br>Personal data is retained for as long as the end-user uses Epassi services or as required by law in relation to fraud/misuse cases (10 years for transaction data). | *   Contract<br>*   Legitimate interest (fraud and misuse prevention) |
 | 3.1.5 Communication Related to EpassiBIKE Service | *   Name<br>*   Email address<br>*   Phone number<br>*   Address<br>*   Personal identity code of guarantor (if agreed) | Personal data is processed to implement the EpassiBIKE service. Epassi communicates with financing partners regarding bike activation and usage, and with potential buyers regarding bike collection.  <br>Personal data is processed/retained for as long as the end-user uses the EpassiBIKE service. | *   Contract |
 | 3.1.6 Customer Support | *   Contact details of the party initiating the support case<br>*   Contact details of the person managing the case<br>*   Information provided in text fields<br>*   Log file details<br>*   Phone number | Personal data is processed to manage support cases and provide phone support.  <br>Personal data is retained for up to two years after the resolution of the support case. | *   Legitimate interest |
-| 3.1.7 Receipt Handling (Sweden) | *   Data contained in receipts<br>*   Employee benefit details | If you use Epassi Sweden AB’s receipt management service, you can consent to automatic receipt processing using Epassi’s AI solution. The AI analyzes the entire receipt content against your granted benefits. Decisions regarding the reimbursement of the receipt and benefit are based solely on the personal data you provided in the receipt.  <br>You will always be informed of the decision, its content, and its basis.  <br>You have the right to request a human review of the decision through the system. | *   Consent<br>*   Legitimate interest |
+| 3.1.7 Receipt Handling (Sweden) | *   Data contained in receipts<br>*   Employee benefit details | If you use Epassi Sweden AB’s receipt management service, you can consent to automatic receipt processing using Epassi’s AI solution. The AI analyzes the entire receipt content against your granted benefits. Decisions regarding the reimbursement of the receipt and benefit are based solely on the personal data you provided in the receipt.  <br>You will always be informed of the decision, its content, and its basis.  <br>You have the right to request a human review of the decision through the system. We process the information contained in receipts in order to assess the eligibility of the receipts for reimbursement, to translate the text, to make decisions, and to store the supporting documents. | *   Consent<br>*   Legitimate interest |
 | 3.1.8 Service Development and Analytics | *   Data generated from end-user service usage | Epassi uses service usage data to analyze functionalities and improve the service. Analysis helps us develop the service according to your needs and preferences. Epassi strives to process personal data as minimally as possible relative to the purpose and legitimate interest.  <br>Data is retained for up to two years or until the data category is deleted earlier. | *   Legitimate interest |
-| 3.1.9 Epassi Superdeals | *   Data processed in the Epassi SuperDeals portal is handled in accordance with its [Privacy Policy](https://epassi.vipdistrict.com/privacy-policy.action). | Epassi provides the Epassi SuperDeals portal as an additional service to end users through its employer clients. In the SuperDeals portal, end users can access offers from Epassi’s partners.<br><br>The SuperDeals portal collects end users’ personal data as described in its [Privacy Policy](https://epassi.vipdistrict.com/privacy-policy.action), which includes the information required by data protection regulations regarding the processed personal data and the rights of the data subject. |     |
+| 3.1.9 Epassi Savings | *   Name<br>*   Email address<br>*   Data generated from the use of the Epassi Service | Epassi offers the Epassi Savings add on service to its end users. Through the Epassi Savings service, end users gain access to offers from Epassi’s partners.<br><br>  <br>In accordance with the Terms of Use of the Epassi Service, within the Epassi Savings service Epassi acts as the service provider and as the controller of personal data to the extent that Epassi implements the service, meaning that the use of partners’ offers may result in the processing of personal data and controller responsibility by those partners. You should always review the privacy notice of Epassi’s partner when using the partner’s offer.<br><br>  <br>Data is stored for as long as the end user uses the Epassi Savings service. |     |
 
 ### _3.2 Other functions of Epassi Service_
 
@@ -68,7 +68,7 @@ Epassi processes personal data for the following purposes related to providing i
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 3.3.1 Accessibility Feedback | *   As specified in the accessibility statement | If you provide us with accessibility feedback via Epassi’s accessibility feedback form, we process the categories of personal data you include in your feedback to address it.  <br>Data is retained for three years from the response to each feedback submission. | *   Legal obligation |
-| 3.3.2 Website, Web Analytics, and Cookies | *   Categories of personal data defined in the cookie policy | Personal data is processed to develop Epassi’s services using web analytics and cookies, as well as to manage our website and fulfill user requests.  <br>For more detailed information on what personal data is processed through web analytics and cookies, and instructions on how you can manage cookie-based processing, please refer to Epassi’s cookie policy \[link\]. | *   Consent<br>*   Legitimate interest |
+| 3.3.2 Website, Web Analytics, and Cookies | *   Categories of personal data defined in the cookie policy | Personal data is processed to develop Epassi’s services using web analytics and cookies, as well as to manage our website and fulfill user requests.  <br>For more detailed information on what personal data is processed through web analytics and cookies, and instructions on how you can manage cookie-based processing, please refer to Epassi’s [cookie policy](https://www.epassi.fi/cookie-policy). | *   Consent<br>*   Legitimate interest |
 | 3.3.3 Marketing to Employer Customer Contact Persons | *   Name<br>*   Email address<br>*   Phone number | Personal data of employer customer contact persons may be used for marketing Epassi’s services and/or the services of its partners.  <br>Personal data is processed for the duration of the marketing campaign and up to two (2) years thereafter, or until the data subject withdraws consent for processing. | *   Legitimate interest |
 | 3.3.4 Marketing of the Epassi Platform and Other Marketing | *   Contact details related to service use<br>*   Log data and other analytics<br>*   Location data (with consent) | Epassi sends marketing communications to end-users related to their use of Epassi services.  <br>Marketing is carried out based on both consent and legitimate interest.  <br>Marketing based on legitimate interest applies only to marketing related to an existing customer relationship and is not targeted beyond that relationship.  <br>End-users can also give consent for targeted and location-based marketing, such as presenting nearby offers and electronic direct marketing. You can manage your marketing consent using the consent management tool.  <br>Personal data is retained for as long as your consent remains valid, and if processing is based on legitimate interest, for as long as you remain an Epassi customer or until the relevant data category is deleted earlier. | *   Consent<br>*   Legitimate interest |
 
@@ -109,7 +109,7 @@ To provide agreed services, the following Epassi data processors also process pe
 *   Fortnox AB (financial management tool)
 *   Freshworks Inc. (support tool)
 *   HeadQ Oy (digital commerce platform)
-*   Google LLC (Google Analytics, Google Ads)
+*   Google LLC (Google Analytics, Google Ads, Google Translation)
 *   Hetzner Online GmbH (web hosting)
 *   HubSpot, Inc. (CRM tool)
 *   InExchange Factorum AB (e-invoicing)
@@ -176,7 +176,7 @@ All parties involved in personal data processing are bound by contractual confid
 ### 8\. Use of Cookies and Similar Technologies
 
 Epassi’s website uses cookies.  
-Details of the use of cookies and similar technologies are documented in Epassi’s Cookie Policy, which explains how and for what purposes Epassi uses each cookie. See “Epassi Cookie Policy” \[link\].
+Details of the use of cookies and similar technologies are documented in Epassi’s [Cookie Policy](https://www.epassi.fi/cookie-policy), which explains how and for what purposes Epassi uses each cookie.
 
 ### 9\. Data subject’s rights
 
@@ -238,3 +238,4 @@ Version history
 | 2.9. | Document updated | 18.7.2025 |
 | 3.0. | Document updated | 15.1.2026 |
 | 3.1. | Document updated | 20.2.2026 |
+| 3.2. | Document updated | 25.3.2026 |
