@@ -1102,8 +1102,8 @@ Vodafone Secure Net and Secure Net Find and Ring are provided solely by Vodafone
 
 ### Tozi app
 
-Tozi App Privacy Statement ([access pdf](https://binaries.vodafone.co.uk/tizrehont83j/1UcRa7LiwcWf6SbcoKNdl2/cd9523ad81de758dcd4a75a20009931f/tozi_privacy_policy.pdf))  
-Tozi Child Friendly Privacy Statement ([access pdf](https://binaries.vodafone.co.uk/tizrehont83j/2RaIicxt7VvnGau7ZASA3E/967ce688701e57d0ce95ebb223ca9bec/tozi_child_friendly_privacy_statement.pdf))
+[Tozi App Privacy Statement \[PDF, 326.13 KB\]](https://binaries.vodafone.co.uk/tizrehont83j/7xOaFetL0jhcmopxWQMsML/729693b838ffd232979cdffb08d11a41/Tozi_-_Privacy_Notice_from_March_20_2026.pdf)  
+[Tozi Child Friendly Privacy Statement \[PDF, 329.60 KB\]](https://binaries.vodafone.co.uk/tizrehont83j/1vLpQ0wOEq9YjT14SqhxGx/a5f0a3d342142c09c7bc4e7fbb4e820a/Tozi_-_child_friendly_privacy_statement_from_March_20_2026.pdf)
 
 ### Vodafone Broadband and Gigabox Apps
 
