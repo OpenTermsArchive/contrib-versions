@@ -10,6 +10,8 @@ The Office of Management and Budget [released guidance](https://obamawhitehouse.
 
 The guidance says agencies may not compromise or invade website visitors' personal privacy. Agencies can use cookies and other technologies to improve website visitors' experiences, and to see what is useful to the public and respond accordingly.
 
+[Read the General Services Administration (GSA) website policies](https://www.gsa.gov/website-information/website-policies) to understand what policies and procedures USAGov follows as a GSA-managed website.
+
 **Cookies**
 -----------
 
@@ -39,7 +41,7 @@ We do not collect personal information for any purpose other than to respond to 
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
-LAST UPDATED: February 24, 2026
+LAST UPDATED: March 26, 2026
 
 SHARE THIS PAGE:
 
