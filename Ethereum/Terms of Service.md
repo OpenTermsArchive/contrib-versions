@@ -138,15 +138,3 @@ The Terms of Use, our Privacy Policy and terms of conditions for the registratio
 **Your Comments and Concerns**
 
 The Websites are operated by the Foundation. All other feedback, comments, requests for technical support and other communications relating to the Websites should be directed to: [support@ethereum.org (opens email client)](mailto:support@ethereum.org).
-
-Page last update: August 21, 2025
-
-[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)c (opens in a new tab)](https://github.com/corwintines)
-
-[![0xwitty](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131909329%3Fv%3D4&w=1920&q=100)0 (opens in a new tab)](https://github.com/0xwitty)
-
-[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=100)n (opens in a new tab)](https://github.com/nhsz)
-
-+3
-
-See contributors
