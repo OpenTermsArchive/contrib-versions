@@ -218,15 +218,3 @@ For more information on applicable privacy regulations, you may refer to:
 *   Swiss Ordinance to the Federal Act on Data Protection: [https://www.fedlex.admin.ch/eli/cc/2022/568/en (opens in a new tab)](https://www.fedlex.admin.ch/eli/cc/2022/568/en)
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.org (opens email client)](mailto:support@ethereum.org).
-
-Page last update: February 25, 2026
-
-[![mnelsonBT](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74370515%3Fv%3D4&w=1920&q=100)m (opens in a new tab)](https://github.com/mnelsonBT)
-
-[![mdqst](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98899785%3Fv%3D4&w=1920&q=100)m (opens in a new tab)](https://github.com/mdqst)
-
-[![pete-vielhaber](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178667149%3Fv%3D4&w=1920&q=100)p (opens in a new tab)](https://github.com/pete-vielhaber)
-
-+8
-
-See contributors
