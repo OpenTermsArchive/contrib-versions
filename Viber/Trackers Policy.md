@@ -240,6 +240,6 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy March 2026 **Viber Cookies Policy March 2026**
+Current Cookies policy March 2026 [**Viber Cookies Policy March 2026**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2026.pdf)
 
 Previous Cookies policy February 2026 [**Viber Cookies Policy February 2026**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-February-2026.pdf)
