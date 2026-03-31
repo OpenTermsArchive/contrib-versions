@@ -1,15 +1,15 @@
 Terms of Service
 ================
 
-Last modified: 12 March 2026  
+Last modified: 31 March 2026  
   
-By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](https://protonvpn.com/) websites, making use of a Proton Account (the “Account”) and all its related features or otherwise using our services (with or without an Account) Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass, Proton Meet, and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation, based in Switzerland. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
 The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://proton.me/wallet/terms). If you use Proton Wallet or receive Bitcoin in Proton Wallet, you also consent to the Proton Wallet terms of use.
 
 The Proton Lumo integration with the Services is subject to its own [terms of use(new window)](https://lumo.proton.me/legal/terms). By using Lumo with your Account, you also consent to the Lumo terms of use.
 
-If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
+If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services. If you operate an organization on our Services, you must ensure that all individuals with access to an Account within your organization have read and understood these Terms, and you accept that any actions taken by such users may result in enforcement measures being applied to the organization’s Account.
 
 1\. Users of the Services
 -------------------------
@@ -27,26 +27,29 @@ You agree not to use your Account or the Services for any illegal or prohibited 
 
 1.  Disrupting the Company's networks and Servers in your use of the Service;
 2.  Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
-3.  Infringing upon or violating the intellectual property rights of the Company or a third party;
+3.  Infringing upon or violating the intellectual property rights or personality rights of the Company or a third party;
 4.  Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating against someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
 5.  Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Company);
-6.  Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
-7.  Having multiple free Accounts (e.g. creating bulk signups, creating and/or operating a large number of free Accounts for a single organization or individual);
-8.  Paying for your subscription with fraudulent payment means, such as a stolen credit card;
-9.  Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
-10.  Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
-11.  Abusive registrations of email addresses (including aliases) for third-party services;
-12.  Using a free account email address (including aliases) for the unique purpose of registering to third-party services;
-13.  Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
-14.  Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
+6.  Sharing your Account or login credentials with any other person or entity, except where such sharing is expressly permitted under your subscription plan or has been otherwise authorized in writing by the Company;
+7.  Reselling, sublicensing, or otherwise making the Services available to any third party, except where expressly permitted under your subscription plan or authorized in writing by the Company;
+8.  Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
+9.  Having multiple free Accounts (e.g. creating bulk signups, creating and/or operating a large number of free Accounts for a single organization or individual);
+10.  Accessing the Services through automated means (including but not limited to bots, scripts, or similar technologies);
+11.  Paying for your subscription with fraudulent payment means, such as a stolen credit card;
+12.  Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
+13.  Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
+14.  Abusive registrations of email addresses (including aliases) for third-party services;
+15.  Using a free account email address (including aliases) for the unique purpose of registering to third-party services;
+16.  Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
+17.  Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
 
-Any Account found to be committing any of the the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
+Any Account found to be committing any of the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
 
 The Company may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.
 
 We reserve the right to limit service capacity for free Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
 
-The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
+The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
 
 If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://proton.me/support/appeal-abuse).
 
@@ -135,7 +138,7 @@ Subscriptions for the Services are charged on a monthly, yearly or bi-yearly bil
 
 The prices displayed on our Websites and Apps at the time of your initial purchase are subject to change. If the renewal price has changed, you will be charged the then-current price valid at the time of the renewal of your subscription. If you do not wish to continue using our paid Services, you must cancel your subscription before its renewal date by visiting your Account dashboard and following the cancel subscription steps. If you are unable to access your Account dashboard, you may cancel your subscription by [contacting our Customer Support](https://proton.me/support/contact).
 
-Certain Proton subscription plans (Essentials, Professional, Business Suite) are intended for companies and businesses. By subscribing to these plans, you represent that you are acting as a company or business. Proton relies on this representation to apply the correct tax treatment and may request additional information or documentation (such as a VAT or GST number). Other Proton subscription plans are intended for consumers. By subscribing to these plans, you represent that you are acting as a consumer, and Proton will rely on this representation to apply the correct tax treatment. Depending on your status (business or consumer) and your place of purchase, prices may be displayed inclusive or exclusive of indirect taxes (VAT, GST) as required by applicable law. If Proton becomes aware that pricing was based on an incorrect representation, Proton reserves the right to adjust the subscription price accordingly.
+Certain Proton subscription plans (Essentials, Professional, Workspace, Business Suite) are intended for companies, businesses and organizations. By subscribing to these plans, you represent that you are acting as such. Proton relies on this representation to apply the correct tax treatment and may request additional information or documentation (such as a VAT or GST number). The other Proton subscription plans are intended for consumers. By subscribing to these plans, you represent that you are acting as a consumer, and Proton will rely on this representation to apply the correct tax treatment. Depending on your status (business or consumer) and your place of purchase, prices may be displayed inclusive or exclusive of indirect taxes (VAT, GST) as required by applicable law. If Proton becomes aware that pricing was based on an incorrect representation, Proton reserves the right to adjust the subscription price accordingly.
 
 You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user.** This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
