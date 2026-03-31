@@ -434,14 +434,6 @@ The sub-processors that Proctorio uses are listed below but Proctorio may update
 
 Required sub-processors for all services:
 
-#### Amazon Web Services
-
-Purpose: DNS Services
-
-Location: International
-
-Website:[https://aws.amazon.com/](https://aws.amazon.com/)
-
 #### Azure
 
 Purpose: Cloud Service Provider
@@ -449,14 +441,6 @@ Purpose: Cloud Service Provider
 Location: International
 
 Website: [https://azure.microsoft.com/](https://azure.microsoft.com/)
-
-#### Backblaze
-
-Purpose: Cloud Service Provider
-
-Location: USA and Europe
-
-Website: [https://www.backblaze.com/](https://www.backblaze.com/)
 
 #### Cloudflare
 
@@ -467,8 +451,6 @@ Location: International
 Website: [https://cloudflare.com/](https://cloudflare.com/)
 
 #### Constellix
-
-Purpose: DNS Services
 
 Location: International
 
@@ -490,8 +472,6 @@ Optional sub-processors for support services:
 
 Purpose: Email support provider
 
-Location: USA and Europe
-
 Website: [https://workspace.google.com/](https://workspace.google.com/)
 
 #### Olark
@@ -501,14 +481,6 @@ Purpose: Chat support provider
 Location: USA
 
 Website: [https://olark.com/](https://olark.com/)
-
-#### Postmark
-
-Purpose: Transactional email support provider
-
-Location: USA
-
-Website: [https://postmarkapp.com/](https://postmarkapp.com/)
 
 #### Proctorio d.o.o
 
@@ -543,8 +515,6 @@ Optional sub-processors for payment services:
 #### Stripe
 
 Purpose: Payment processing provider
-
-Location: USA and Europe
 
 Website: [https://stripe.com/](https://stripe.com/)
 
