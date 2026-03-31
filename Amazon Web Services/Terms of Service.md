@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: March 16, 2026
+Last Updated: March 31, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -101,6 +101,8 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 **1.28.** These Service Terms incorporate the [AWS EU Data Act Addendum](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/legal/approved/eu-data-act-addendum.pdf), if the EU Data Act (Regulation (EU) 2023/2854) applies to your use of the Services.
 
 **1.29.** Use of the AWS European Sovereign Cloud is subject to the [AWS European Sovereign Cloud Addendum](https://aws.eu/esca).
+
+**1.30.** These Service Terms incorporate the [AWS UK Switching Addendum](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/legal/approved/aws-uk-customer-switching-addendum.pdf) for customers with an Eligible Account, as defined in the AWS UK Switching Addendum.
 
 2\. Betas and Previews
 ----------------------
