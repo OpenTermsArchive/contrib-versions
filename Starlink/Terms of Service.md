@@ -37,11 +37,9 @@ Starlink Internet Services Limited (Floor 3, Block 3, Miesian Plaza, Dublin 2, D
         
     3.  **Payments for Renting a Starlink Kit**. For customers renting a Starlink Kit, you authorize Starlink to charge your approved payment method for the following—
         
-        a) **Activation Fee**. A one-time immediate activation fee due when the Order is placed;
+        a) **Monthly Rental Fee**. The first charge for the Services selected in your Order will be on the earlier of (i) the date you activate the Starlink Kit; (ii) 7 days after Starlink delivers your Starlink Kit, or (iii) if no delivery date is available, 30 days from the date your Starlink Kit was shipped (“Payment Due Date”). Starlink will automatically charge your approved payment method for the second and all subsequent monthly rental fees on the anniversary of the Payment Due Date; and
         
-        b) **Monthly Rental Fee**. The first charge for the Services selected in your Order will be on the earlier of (i) the date you activate the Starlink Kit; (ii) 7 days after Starlink delivers your Starlink Kit, or (iii) if no delivery date is available, 30 days from the date your Starlink Kit was shipped (“Payment Due Date”). Starlink will automatically charge your approved payment method for the second and all subsequent monthly rental fees on the anniversary of the Payment Due Date; and
-        
-        c) **Retail Penalty, _if applicable_**. A retail fee penalty for the Starlink Kit if you fail to return the Kit to Starlink undamaged, untampered and unmodified, within 30 days of cancelling your Service, as described in Section 6.4.
+        b) **Retail Penalty, _if applicable_**. A retail fee penalty for the Starlink Kit if you fail to return the Kit to Starlink undamaged, untampered and unmodified, within 30 days of cancelling your Service, as described in Section 6.4.
         
         Rental Kit provided to you may be new or refurbished at Starlink’s sole discretion. Rented Starlink Kit will remain the property of Starlink and title will not transfer to you. Starlink Kits may only be rented with the Residential Service Plans for residential use as described in the [Service Plan Descriptions](https://starlink.com/legal/documents/DOC-1728-44881-79); however, at Starlink’s sole discretion, rental Kits may be made available for Priority and Roam Service Plans. The option to rent a Starlink Kit is not available in all locations.
         
