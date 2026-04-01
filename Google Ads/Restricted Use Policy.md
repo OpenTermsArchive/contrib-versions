@@ -146,9 +146,11 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Healthcare and medicines](https://support.google.com/adspolicy/answer/176031)
 > 
-> > We're dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved locations. Check local regulations for the locations you want to target.
+> > Google Ads is dedicated to following advertising regulations for healthcare and medicine, so ads and destinations are expected to follow appropriate laws and industry standards. Some types of healthcare-related content can’t be advertised at all, while others can only be advertised in certain locations by advertisers who have applied and been approved to advertise those products or services using Google Ads.
 > > 
-> > For most healthcare policies, if your ad campaign targets allowed locations and the domain is properly certified, your ad will be labeled “[Eligible (limited)](https://support.google.com/google-ads/answer/2684542)” and can run in allowed locations.
+> > For most healthcare policies, if your ad campaign targets allowed locations and the domain is properly certified, your ad will be labeled "[Eligible (limited)](https://support.google.com/google-ads/answer/2684542)" and can run in allowed locations.
+> > 
+> > Below are some examples of healthcare content that is allowed in certain circumstances. You’re expected to familiarize yourself with the [local law and regulations](https://support.google.com/adspolicy/answer/6023676) for any location your ads target. Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > > 
 > > **Examples of restricted healthcare content (non-exhaustive)**: clinical trial recruitment; HIV home tests;  addiction services; prescription drug services
 > 
