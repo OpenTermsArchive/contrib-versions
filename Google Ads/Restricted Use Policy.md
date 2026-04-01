@@ -122,9 +122,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 > 
-> > Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations.  Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served. 
-> > 
-> > Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
+> > Ads should respect user preferences and comply with legal regulations. Google Ads restricts certain kinds of sexual content in ads and destinations, which will only show in limited scenarios based on user search queries, user age and local laws where the ad is being served. Ads must not target minors.
 > > 
 > > **Examples of restricted sexual content (non-exhaustive)**: Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, models in sexualized poses
 > 
@@ -213,7 +211,9 @@ We want to deliver ads that are engaging for users without being annoying or dif
 
 ### [Editorial](https://support.google.com/adspolicy/answer/6021546)
 
-> In order to provide a quality user experience, Google requires that all ads, assets, and destinations meet high professional and editorial standards. We only allow ads that are clear, professional in appearance, and that lead users to content that is relevant, useful, and easy to interact with.
+> To ensure that ads on the Google Ad Network uphold high editorial and professional standards, Google Ads only allows ads, assets, and destinations that are clear, easy to interact with, and relevant to users.
+> 
+> Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > 
 > **Examples of promotions that don't meet these editorial and professional requirements (non-exhaustive)**: overly generic ads that contain vague phrases such as "Buy products here"; gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 
