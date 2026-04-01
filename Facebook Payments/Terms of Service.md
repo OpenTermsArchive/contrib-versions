@@ -1,5 +1,7 @@
 Community Payments Terms
 
+We’re updating these Community Payment Terms. These changes will go into effect on April 30, 2026. View a preview of the updated terms [here](https://www.facebook.com/payments_terms/preview).
+
 Last updated: January 7, 2026
 
 **If you are under the age of eighteen (18), or age of majority in the state or country of your residence, you may use payments features through the Meta Products only with the involvement of your parent or guardian. Make sure you review the Payments Terms with your parent or guardian so that you both understand all of your rights and responsibilities.**
