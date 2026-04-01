@@ -1,4 +1,4 @@
-Effective June 28, 2025. Last Revised May 29, 2025
+Effective March 31, 2026. Last Revised March 31, 2026
 
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
@@ -89,7 +89,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
-*   Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
+*   Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
 *   Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
     
@@ -290,7 +290,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
-*   Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
+*   Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
 *   Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
     
