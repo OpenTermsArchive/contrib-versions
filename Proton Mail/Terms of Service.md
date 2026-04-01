@@ -47,7 +47,7 @@ Any Account found to be committing any of the listed unauthorized activities wil
 
 The Company may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.
 
-We reserve the right to limit service capacity for free Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
+We reserve the right to limit service capacity for Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
 
 The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
 
