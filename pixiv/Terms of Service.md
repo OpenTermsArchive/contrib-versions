@@ -832,164 +832,208 @@ Article 1: Introduction
 
 1.  These Requests Feature Individual Terms of Service (“Individual Terms”) apply to all acts when Users use the “Requests” feature (“Individual Feature”) on the “pixiv” services provided by the Company.
 2.  These Individual Terms set forth the conditions of use of the Individual Feature. Users shall consent to these Individual Terms before using the Individual Feature in accordance herewith.
-3.  By using the Individual Feature, Users will be deemed to have consented to all particulars set forth herein.
+3.  By using the Requests Feature, Users will be deemed to have consented to all particulars set forth herein.
+4.  Any guidelines established by the Company in relation to this feature also constitute part of the Requests Feature Terms and apply as an integrated whole. In the event of any discrepancy between such guidelines and these Individual Terms, the relevant guidelines shall take precedence.
 
 Article 2: Definitions
 ----------------------
 
 The terms used herein shall have the meanings ascribed to them in their respective items below. Moreover, any defined terms herein other than those set forth in the following items shall have the definitions ascribed to them in the Master Terms of Use, unless specifically noted otherwise.
 
-1.  “Site” means the website entitled “pixiv” (PC site –[https://www.pixiv.net/](https://www.pixiv.net/)), which is operated by the Company.
-2.  “Individual Feature” (“pixiv Requests Feature”) means a feature in which Users may use by the following procedures specified on the Site.
-    1.  Creators may make “Plans” set forth in the item (3) of this Article 2 and receive the requests from “Fans” set forth in the item (5) of this Article 2 for the creation of content in accordance with the Plans (“Requests”);
-    2.  Fans may send the Requests to Creators for the creation of content in accordance with the Plans produced by such Creators; and
-    3.  After the acceptance of the Request, the Creators create the content in accordance with the conditions based on the Plans and the Request and provide the same to the relevant Fans in exchange for compensation.
-3.  “Plan” means conditions applicable when Creators receive creation requests such as “create illustration” or “create novel” using the pixiv Requests Feature, and includes the following information.
+1.  “Site” means the website entitled “pixiv” ([https://www.pixiv.net/](https://www.pixiv.net/)), which is operated by the Company.
+2.  “Individual Feature” (“pixiv Requests Feature”) means a feature in which Users may use the following procedures specified on the Site.
+    1.  Creators may create “Terms” set forth in item (3) of this Article 2 and receive the requests from “Fans” set forth in item (5) of this Article 2 for the creation of content in accordance with the Terms (“Requests”);
+    2.  Fans may send the Requests to Creators for the creation of content in accordance with the Terms set by such Creators; and
+    3.  After accepting the Request, the Creators create the content and provide it to the relevant Fans in exchange for compensation.
+3.  “Terms” are sets of conditions applicable when Creators receive creation requests such as “creating an illustration” or “writing a novel” using the pixiv Requests Feature, and include the following information.
     1.  Type of work (illustration, novel, etc.);
     2.  Reference Price (defined in Article 4, Paragraph 1); and
     3.  Specific genres available, etc.
-4.  “Creator” means any User that uses the pixiv Requests Feature to create a Plan that is open for Requests.
+4.  “Creator” means any User who uses the pixiv Requests Feature to create a Set of terms that is open for Requests.
 5.  “Fan” means any User that uses the pixiv Requests Feature to send a Request to a Creator or engage in Co-requesting.
-6.  “Request Acceptance” or “Accept a Request” means a Creator’s acceptance of a Request from a Fan.
-7.  “Cancel” means retraction by a Fan of the transmission of a Request before the relevant Creator Accepts such Request.
-8.  “Request Reward” means content created by a Creator in accordance with a sales contract or the other agreement formed between such Creator and a Fan with respect to a Plan (“Request Agreement”).
-9.  “Co-requesting” means entry into a Request Agreement in regard to a Plan subject to an already-formed Request Agreement, by a User other than the Fan of such already-formed agreement.
-10.  “Sale Proceeds” means money serving as consideration for a Request Reward, which is to be paid to a Creator by a Fan under a Request Agreement.
+6.  “Request Acceptance” or to “accept a Request” means a Creator’s acceptance of a Request from a Fan.
+7.  To “Cancel” means the retraction by a Fan of a Request before the relevant Creator accepts such Request.
+8.  “Request Reward” is content created by a Creator in accordance with an agreement formed between such Creator and a Fan (“Request Agreement”).
+9.  “Gift File” is data related to the Request Reward, designated by the Creator.
+10.  “Co-requesting” is when a User (other than the Fan who submitted a Request) joins said accepted Request, matching the content of the existing agreement.
+11.  “Sale Proceeds” are money serving as consideration for a Request Reward, which is to be paid to a Creator by a Fan under a Request Agreement.
 
-Article 3: Creation of Plans
+Article 3: Creation of Terms
 ----------------------------
 
-When creating Plans, Creators shall specify the matters indicated below by Company-prescribed method. Creators will be obligated to create Plans with content in conformity with these Individual Terms and the pixiv Guidelines, and if the Company determines that any breach whatsoever has occurred, the Company will be entitled to take any action it deems necessary, including termination of relevant Plans. Except where explicitly specified otherwise, the Company will bear no liability whatsoever for any damage suffered by a Creator in connection with such action.
+When creating Terms, Creators shall specify the matters indicated below by the Company-prescribed method. Creators will be obligated to create Terms with content in conformity with these Individual Terms and the pixiv Guidelines, and if the Company determines that any breach whatsoever has occurred, the Company will be entitled to take any action it deems necessary, including termination of relevant Terms. Except where explicitly specified otherwise, the Company will bear no liability whatsoever for any damage suffered by a Creator in connection with such action.
 
-1.  Creation of Multiple Plans
-2.  Price settings for creation of multiple Plans and for each Plan; and
-3.  Particulars of Request Rewards to be provided to Fans in accordance with each Plan.
+1.  Reference price for each set of Terms
+2.  Request Rewards to be provided to Fans in accordance with each set of Terms
 
 Article 4: Setting of Sale Proceeds
 -----------------------------------
 
 1.  Creators will be entitled to set reference prices for the Sale Proceeds for Request Rewards (“Reference Prices”). Creators shall be entitled to determine Reference Prices as they see fit, within a price range designated by the Company.
-2.  Fans (excluding Co-requesting Fans) shall be entitled to set Sale Prices as they see fit within the price range designated by the Company, and the price set by a Fan (“Set Price”) shall be the Sale Proceeds of the relevant Request Agreement formed in accordance with Article 5.
+2.  Fans (excluding Co-requesting Fans under this paragraph) shall be entitled to set Sale Prices as they see fit within the price range designated by the Company, and the price set by a Fan (“Set Price”) shall be the Sale Proceeds of the relevant Request Agreement formed in accordance with Article 5.
 3.  The Set Price as stipulated in the preceding paragraph shall be the Sale Proceeds for any Users Co-requesting on a given Request Agreement.
 
 Article 5: Formation of Request Agreements
 ------------------------------------------
 
-1.  Fans will be entitled to transmit Requests to Creators by Company-prescribed method. The Company will confirm that such Fans have capacity to make payments equivalent to the Sale Proceeds by using a prescribed payment settlement method.
-2.  When a Creator has Accepted a Request from a Fan by Company-prescribed method as specified in the preceding paragraph, a Request Agreement shall be formed as a two-party agreement between the Creator and the Fan stipulating that the Creator will provide the relevant Request Reward within the extent of the Plan set by such Creator, and that the Fan will pay the Sale Proceeds as consideration for such provision. The Company receives the Sale Proceeds paid by Fans to Creators on behalf of Creators and the payment obligation for the Sale Proceeds of the Fans under Request Agreement shall extinguish upon receipt of the Sale Proceeds from the Fans by the Company or the third party specified by the Company in accordance with Article 8, Paragraph 1. Creators will be entitled to determine the content of Request Rewards at their discretion, as long as such determinations are within the extent of the Plans set by such Creators in applicable Request Agreements.
-3.  Fans other than the Fans that are parties of completed Request Agreements can also make Requests in respect of the Plans of such completed Request Agreements, by Co-requesting. When the relevant Creator has Accepted such new Requests, Request Agreements shall be formed individually between the Creator and each Fan that has made such a Request; provided, however, that Co-requesting will be possible only if all of the following conditions are satisfied.
-    1.  The total Sale Proceeds for the completed Request Agreement are no more than one million yen; and
-    2.  Co-requesting on the completed Request Agreement will not result in the total of the Sale Proceeds for the completed Request Agreement and all Sale Proceeds increases due to such Co-requesting rising over one million yen.
-4.  Request Agreements are agreements executed between Fans and Creators, and the Company will not be a party to Request Agreements or be liable therefor; provided, however, that the Company will have the right, as the entity providing the venue for execution of Request Agreements, to take appropriate measures vis a vis Fans or Creators in relation to Request Agreements, within the extent explicitly specified herein.
+1.  Fans will be entitled to transmit Requests to Creators by the Company-prescribed method. The Company will confirm that such Fans have the capacity to make payments equivalent to the Sale Proceeds by using a prescribed payment settlement method.
+2.  After the Company confirms the Fan’s ability to make payment as described in the preceding paragraph, and the Creator accepts the Fan’s Request by the Company-prescribed method, a Request Agreement shall be formed as a two-party agreement between the Creator and the Fan stipulating that the Creator will provide the relevant Request Reward and that the Fan will pay the Sale Proceeds as consideration for such provision.
+3.  The Company can receive the Sale Proceeds paid by Fans to Creators on behalf of Creators. In such a case, the Fan’s payment obligation for the Sale Proceeds under the Request Agreement shall be extinguished upon receipt of the Sale Proceeds by the Company or by a third party designated by the Company in accordance with Article 8, Paragraph 1.
+4.  Fans shall pay the Sale Proceeds to the Company or the Creator by a method separately designated by the Company, and any fees required for such payment shall be borne by the Fan. With respect to any procedures necessary for the selected payment method, including assignment of claims or other required steps, the User shall provide the necessary consent and complete the required procedures with the Company.
+5.  Fans other than the Fans that are parties to accepted Requests can also join an accepted Request, matching the content of the existing agreement, by Co-requesting. A Co-request is considered accepted as soon as the third-party Fan submits the request, and Request Agreements shall be formed individually between the Creator and each Fan that has made such a Request; provided, however, that Co-requesting will be possible only if all of the following conditions are satisfied.
+    1.  The total Sale Proceeds for the completed Request Agreement are no more than the amount separately designated by the Company; and
+    2.  Co-requesting on the completed Request Agreement will not result in the total of the Sale Proceeds for the completed Request Agreement and all Sale Proceeds increases due to such Co-requesting rising over the amount separately designated by the Company
+6.  Request Agreements are agreements executed between Fans and Creators, and the Company will not be a party to Request Agreements or be liable for the content of Request Agreements or any non-performance or breach therefor; provided, however, that the Company will have the right, as the entity providing the venue for execution of Request Agreements, to take appropriate measures vis a vis Fans or Creators in relation to Request Agreements, within the extent explicitly specified herein.
+7.  Notwithstanding the provisions of Paragraphs 2 and 5, if the Fan selects a payment method separately specified by the Company as the payment method, the Request Agreement will not be formed at the time the Creator accepts the Request. Instead, the Request Agreement between the Creator and the Fan shall be deemed formed at the time the Creator provides the Request Reward.
 
-Article 6: Performance of Request Agreements, Permissibility of Cooling Off, etc.
----------------------------------------------------------------------------------
+Article 6: Performance of Request Agreements
+--------------------------------------------
 
-1.  If a Request Agreement has been formed, the relevant Fan will not be entitled to demand refunds of any Sale Proceeds already paid, except where explicitly specified otherwise. Sale Proceeds are not eligible for cooling off and cannot be refunded pursuant thereto.
-    *   \*Cooling off is a system enabling unconditional withdrawal of agreement applications or termination of agreements, for a certain period after application for or execution of an agreement. However, online sales are outside the scope of such systems, and cooling off systems thus cannot be used for Request Agreements as in Paragraph 1 of this article.
-2.  A Fan will not be entitled to terminate the relevant Request Agreement, refuse payment of the Sale Proceeds, or demand refunds of any already-paid Sale Proceeds for reason of the particulars of the Request Reward provided by a Creator; provided, however, that if the Creator has not provided the Request Reward in accordance with the relevant Plan, or if there is noncompliance with the agreement in formal terms (e.g., if there is an error in the file format provided by the Creator, if the Fan cannot download the Reward), the Fan shall be entitled to contact the Company about such matter using the “Inquiry Form” on the Site. If the Company has considered such communication from the Fan and determined that the Fan’s claims are reasonable, the Company will be entitled, but not obligated, to instruct the Creator to make corrections, refund the Sale Proceeds, or take other such action. In such case, the Fan and the Creator shall act in accordance with the Company’s instructions, and except where explicitly specified otherwise, the Company will bear no liability for any damage etc. arising due to any decision or action by the Company.
-3.  Creators shall comply with the Act against Unjustifiable Premiums and Misleading Representations, the Act on Specified Commercial Transactions, and other related laws and regulations. In addition, where required under the Act on Specified Commercial Transactions, subject Creators shall make appropriate notations on the Site as required under the Act on Specified Commercial Transactions.
-    *   To determine whether a notation under the Act on Specified Commercial Transactions is required, please refer to the “Guidelines related to ‘Sellers’ in Internet Auctions” on the website of the Consumer Affairs Agency, and other such resources.[https://www.no-trouble.caa.go.jp/what/mailorder/](https://www.no-trouble.caa.go.jp/what/mailorder/)
-4.  Creators shall have fully performed their obligations to provide Request Rewards when they provide such Request Rewards to Fans in accordance with Request Agreements. The acceptance of new Co-requesting shall also terminate at such time. Payment to Creators of Sale Proceeds that the Company has received from Fans on behalf of Creators shall be as specified in Article 8.
+1.  If a Request Agreement has been formed, the relevant Fan will not be entitled to demand refunds of any Sale Proceeds already paid, except as provided in the Requests Feature Terms.
+2.  The Creator shall have no obligation under a Request Agreement to provide the data file of the Request Reward to the Fan, and the Fan agrees to this in advance.
+3.  The Creator shall have no obligation under a Request Agreement to provide any Gift Files to the Fan, and the Fan agrees to this in advance.
+4.  Except as otherwise provided in the Requests Feature Terms, the Creator makes no warranties whatsoever regarding the content or quality of the work.
+5.  A Fan will not be entitled to terminate the relevant Request Agreement, refuse payment of the Sale Proceeds, or demand refunds of any already-paid Sale Proceeds for reason of the particulars of the Request Reward provided by a Creator; provided, however, that if the Request Reward falls under any of the following circumstances, the Fan shall be entitled to contact the Company about such matter using the “Inquiry Form” on the Site. If the Company has considered such communication from the Fan and determined that the Fan’s claims are reasonable, the Company will be entitled, but not obligated, to instruct the Creator to make corrections, refund the Sale Proceeds, or take other such action. In such a case, the Fan and the Creator shall act in accordance with the Company’s instructions, and except where explicitly specified otherwise, the Company will bear no liability for any damage, etc. arising due to any decision or action by the Company.
+    1.  If the file for the Request Reward is corrupted or otherwise cannot be opened or accessed by the Fan
+    2.  If the Request Reward is of extremely low resolution or otherwise prevents the Fan from properly enjoying its content
+    3.  If the Request Reward is significantly lower in quality compared to the Creator’s usual posts
+    4.  If the Request Reward lacks reasonable relevance to the Fan’s request
+6.  Creators shall comply with the Act against Unjustifiable Premiums and Misleading Representations, the Act on Specified Commercial Transactions, and other related laws and regulations. In addition, where required under the Act on Specified Commercial Transactions, subject Creators shall make appropriate notations on the Site as required under the Act on Specified Commercial Transactions.
+    *   \*To determine whether a notation under the Act on Specified Commercial Transactions is required, please refer to the “Guidelines related to ‘Sellers’ in Internet Auctions” on the website of the Consumer Affairs Agency, and other such resources.[https://www.no-trouble.caa.go.jp/what/mailorder/](https://www.no-trouble.caa.go.jp/what/mailorder/)
+7.  Creators shall have fully performed their obligations to provide Request Rewards when they provide such Request Rewards to Fans in accordance with Request Agreements. The acceptance of new Co-requesting shall also terminate at such time. Payment to Creators of Sale Proceeds that the Company has received from Fans on behalf of Creators shall be as specified in Article 8.
 
 Article 7: Deletion or Termination of Requests
 ----------------------------------------------
 
-1.  A Fan will be entitled to rescind the transmission of Requests by Company-prescribed procedures if the relevant Creator has not yet Accepted such Request.
-2.  A Request will be retracted automatically if seven days have passed from the date of transmission of such Request without the relevant Creator Accepting such Request.
-3.  If, after the formation of a Request Agreement, the Creator has not completed the Request Reward and posted it to the Company within 60 days from the date of transmission of such Request (inclusive of the first day, being the date of such transmission), the relevant Request Agreement will be terminated.
-4.  For the purposes of the preceding paragraph, completion of a Request Reward means completion of a Request Reward that conforms to the relevant Plan and does not breach any of the various terms and conditions prescribed by the Company, and any Request Reward in breach thereof will not be deemed a posting of a Request Reward as set forth in the preceding paragraph.
-5.  The following items shall apply in the case where a Creator account has been deleted.
-    1.  If account deletion occurred before the formation of a Request Agreement (before Request Acceptance), the Plan set by the relevant Creator will be deemed to have been retracted, and will be deleted.
-    2.  If account deletion occurred after the formation of a Request Agreement (after Request Acceptance) but before full provision of the Request Reward, the relevant Request Agreement will be terminated.
-6.  The following items shall apply in the case where a Fan account has been deleted.
-    1.  If account deletion occurred before the formation of a Request Agreement (before Request Acceptance), the Fan will be deemed to have retracted the relevant Request.
-    2.  If account deletion occurred after the formation of a Request Agreement (after Request Acceptance), the relevant Request Agreement will continue to be in force even if the account has been deleted. In such case, the Creator will be deemed to have fully performed the relevant agreement by submitting the Request Reward to the Company, and the Fan will be obligated to pay the Sale Proceeds to the Creator.
-7.  The Company will be entitled to terminate Request Agreements before full provision of the relevant Request Rewards if it determines that a prohibited act as set forth in Article 13 has been committed. All Sale Proceeds received by the Company in connection with such Request Agreements will be refunded to the Fans of such Request Agreements.
+1.  A Fan will be entitled to rescind the transmission of Requests by Company-prescribed procedures if the relevant Creator has not yet accepted such Request.
+2.  A Request will be retracted automatically if the relevant Creator does not accept such Request and the period separately designated by the Company has elapsed.
+3.  If, after the formation of a Request Agreement, the Creator has not completed the Request Reward and posted it to the Site within the period separately designated by the Company, the relevant Request Agreement will be terminated.
+4.  If the Request Reward referred to in the preceding paragraph violates the Requests Feature Terms, it shall not be deemed a posting of a Request Reward as set forth in the preceding paragraph.
+5.  The following items shall apply in the case where a Creator account has been deleted or suspended (hereinafter collectively referred to as “deletion, etc.”).
+    1.  If account deletion, etc., occurred before the formation of a Request Agreement (before Request Acceptance), the Company may take appropriate measures in accordance with Article 13, Paragraph 3.
+    2.  If account deletion, etc., occurred after the formation of a Request Agreement (after Request Acceptance) but before full provision of the Request Reward, the Company may take appropriate measures in accordance with Article 13, Paragraph 3.
+6.  The following items shall apply in the case where a Fan account has been deleted, etc.
+    1.  If account deletion, etc., occurred before the formation of a Request Agreement (before Request Acceptance), the Company may take appropriate measures in accordance with Article 13, Paragraph 3.
+    2.  If account deletion, etc., occurred after the formation of a Request Agreement (after Request Acceptance), the Company may take appropriate measures in accordance with Article 13, Paragraph 3. Furthermore, if the Request Agreement is carried on, the Creator will be deemed to have fully performed the relevant agreement by submitting the Request Reward to the Company, and the Fan will be obligated to pay the Sale Proceeds to the Creator.
+7.  The Company will be entitled to terminate Request Agreements before full provision of the relevant Request Rewards if it determines that a prohibited act as set forth in Article 13 has been committed or otherwise determines such termination to be necessary. In such a case, all Sale Proceeds received by the Company in connection with such Request Agreements will be refunded to the Fans of such Request Agreements.
 
 Article 8: Payment of Sale Proceeds to Creators
 -----------------------------------------------
 
 1.  Creators shall grant in advance to the Company the legal right to receive the Sale Proceeds paid by Fans to Creators on behalf of Creators and the authority to grant such proxy receipt authority to a third party specified by the Company.
-2.  When the total balance of Sale Proceeds is 5,000 yen or greater, such balance shall be automatically paid to the relevant Creator on a monthly basis in accordance with this article (“Automatic Payment”). When the total balance of Sale Proceeds is less than 5,000 yen, the Creator will be entitled to demand payment of such Sale Proceeds by making a request for remittance of Sale Proceeds (“Remittance Request”) .
-3.  When paying Sale Proceeds as specified in the preceding paragraph, the Company shall subtract the Platform Fee (defined in Item (1) below) from the relevant Creator’s Sale Proceeds (the amount thereby calculated is hereinafter the “Received Amount”), subtract from the Received Amount a Remittance Fee (defined in Item (2) below), and pay the Creator the resulting amount, in accordance with the provisions of Paragraph 7, by remittance to a remittance destination determined in accordance with this article; provided that unless otherwise specified, the remittance will be transferred to the transfer account registered by the Creator as of the 19th of that month.
+2.  Creators shall also provide the necessary consent and complete any procedures required in connection with the assignment of claims or other procedures necessary for the payment method selected by the Fan.
+3.  When the total balance of unpaid Sale Proceeds is equal to or greater than the amount separately designated by the Company, such balance shall be automatically paid to the relevant Creator on a monthly basis in accordance with this Article (“Automatic Payment”). When the total balance of unpaid Sale Proceeds is less than the amount separately designated by the Company, the Creator may demand payment of such Sale Proceeds by making a request for remittance (“Remittance Request”).
+4.  When paying Sale Proceeds as specified above, the Company shall subtract the Platform Fee (defined below) from the relevant Creator’s Sale Proceeds (the resulting amount being the “Received Amount”), subtract the Remittance Fee from the Received Amount, and remit the balance to the transfer destination determined in accordance with this Article. Unless otherwise specified, payment shall be made to the transfer account registered by the Creator as of the date separately designated by the Company.
     
-    *   \*In situations where the Received Amount is high, the remittance destination shall be determined by the first business day of the month of when the remittance will be done. The details regarding transfer accounts and transfer fees are listed in the following Help section: ( [https://www.pixiv.help/hc/sections/900000413206](https://www.pixiv.help/hc/sections/900000413206)).
+    *   \*In situations where the Received Amount is high, the remittance destination shall be determined on a date separately designated by the Company. The details regarding transfer accounts and transfer fees are listed in the following Help section. ([https://www.pixiv.help/hc/sections/900000413206](https://www.pixiv.help/hc/sections/900000413206)).
     
-    1.  The Platform Fee shall be an amount equivalent to 10% of the Sale Proceeds (including consumption tax equivalent, and rounding off fractions to the nearest whole number).
-4.  The amount remitted for a single Remittance Request shall not exceed 1,000,000 yen.
-5.  If, in the case where a Sale Proceeds balance is less than 5,000 yen, the relevant Creator has not made a Remittance Request by the last day of the month preceding the month marking the passage of 180 days from the Request transmission date (if there is Co-requesting, then the date of transmission of the original Request), the Company shall pay such balance to a transfer account designated in advance by such Creator. Cases of flawed account information etc. shall be handled in accordance with the terms of Article 9.
-6.  No interest shall accrue for the period from receipt of Sale Proceeds by the Company or a third party designated by the Company until payment by the Company to the relevant Creator.
-7.  When the setting for the Automatic Payment is valid, or when a Creator has made a Remittance Request, the Company shall remit the Received Amount as of the last day of the preceding month within five business days of the 20th of the month immediately following the month in which the balance of the Received Amount subject to the Automatic Payment existed or in which the Remittance Request was made (“Remittance Period”);
-8.  Received Amounts shall include consumption tax equivalents for the prices of any Request Rewards sold.
-9.  When a payment date falls on a non-work day of the Company or a relevant financial institution, the Company shall make remittance within five business days of the business day immediately following such payment date.
-10.  When due to a Company system failure or other such cause there has been overpayment to a Creator of an amount for remittance, the Creator will be obligated to immediately return the amount of such overpayment to the Company regardless of reason.
-11.  In the case where doubts have arisen as to Creator’s rights etc. related to a Request Reward, or where it is determined that a problem arising between a Creator and a Fan as a result of an inquiry from a User or the like has not been resolved after a certain period, the Company shall be entitled, at its discretion, to halt any remittance of Received Amounts over which such Creator holds rights; Creators shall consent to the foregoing.
-12.  When a Creator has resigned membership and there are Received Amounts still unpaid to such Creator, the Company shall subtract the Remittance Fee from the total of such Received Amounts, and thereupon shall remit the Received Amounts to an account designated by the Creator within five business days of the 20th of the month immediately following the month containing the date of membership resignation, or the 20th of the month immediately following such immediately following month; provided, however, that if the unpaid Received Amount is less than the Remittance Fee, the Company shall make no payment to the Creator.
+    1.  The Platform Fee shall be the amount separately designated by the Company (including consumption tax equivalent, with fractions rounded to the nearest whole number).
+5.  The amount remitted for a single Remittance Request shall not exceed the amount separately designated by the Company.
+6.  If, in the case where a Sale Proceeds balance is less than the amount separately designated by the Company, the relevant Creator has not made a Remittance Request by the date separately designated by the Company, the Company shall pay such balance to a transfer account designated in advance by such Creator. Cases of flawed account information, etc., shall be handled in accordance with the terms of Article 9.
+7.  No interest shall accrue for the period from receipt of Sale Proceeds by the Company or a third party designated by the Company until payment by the Company to the relevant Creator.
+8.  When the setting for the Automatic Payment is valid, or when a Creator has made a Remittance Request, the Company shall remit the Received Amount as of the last day of the preceding month within the period separately designated by the Company.
+9.  Received Amounts shall include consumption tax equivalents for the prices of any Request Rewards sold.
+10.  When a payment date falls on a non-work day of the Company or a relevant financial institution, the Company shall make remittance within the period separately designated by the Company.
+11.  When, due to a Company system failure or other such cause, there has been overpayment to a Creator of an amount for remittance, the Creator will be obligated to immediately return the amount of such overpayment to the Company regardless of reason.
+12.  In the case where doubts have arisen as to Creator’s rights etc. related to a Request Reward, or where it is determined that a problem arising between a Creator and a Fan as a result of an inquiry from a User or the like has not been resolved after a certain period, the Company shall be entitled, at its discretion, to halt any remittance of Received Amounts over which such Creator holds rights; Creators shall consent to the foregoing.
+13.  When a Creator has resigned membership, and there are Received Amounts still unpaid to such Creator, the Company shall subtract the Remittance Fee from the total of such Received Amounts, and thereupon shall remit the Received Amounts to an account designated by the Creator within the period separately designated by the Company. However, if the unpaid Received Amount is less than the Remittance Fee, the Company shall make no payment to the Creator.
 
 Article 9: Flaws or Errors in Remittance Account Information
 ------------------------------------------------------------
 
-1.  In the case where a Creator has made a Remittance Request but the Company has been unable to complete the remittance due to a flaw or error in the remittance account information designated by such Creator, the Company shall be entitled to demand the amount of the reverse transaction fee of such remittance from the Creator. In such case, the Company shall contact the Creator indicating the flaw or error in remittance account information and urging another request for payment.
-2.  When the Company has made remittance to a remittance account designated by a Creator pursuant to a Remittance Request by such Creator, the Company will be entitled to deem such payment a payment to the Creator. In such case, the Company will bear no liability in regard to the accuracy of the relevant remittance account information.
-3.  When remittance cannot be made by the remittance date specified in Article 8, Paragraph 7 due to a flaw etc. in remittance destination information, the Company shall attempt to remit the Sale Proceeds of the relevant Remittance Request within five business days of the 20th of each month, starting from the month immediately following the month in which the remittance date falls; provided, however, that in the case where the 19th of the month immediately following the month in which a remittance procedure implementation date falls is more than 180 days from the transmission date of the relevant Request, the Company shall not carry out remittance on or after such remittance implementation date, and shall instead act in accordance with the following paragraph.
-4.  In the case where remittance cannot be made due to a flaw etc. in remittance destination information and the 19th of the month immediately following the month containing the date such remittance failed to be implemented is more than 180 days from the transmission date of the relevant Request, the relevant Creator will be deemed to have waived the right to receive the amount of such remittance as of the date such remittance failed to be implemented.
+1.  In the case where a Creator has made a Remittance Request but the Company has been unable to complete the remittance due to a flaw or error in the remittance account information designated by such Creator, the Company shall be entitled to demand the amount of the reverse transaction fee of such remittance from the Creator. In such a case, the Company shall contact the Creator, indicating the flaw or error in the remittance account information and urging another request for payment.
+2.  When the Company has made remittance to a remittance account designated by a Creator pursuant to a Remittance Request by such Creator, the Company will be entitled to deem such payment a payment to the Creator. In such a case, the Company will bear no liability in regard to the accuracy of the relevant remittance account information.
+3.  When remittance cannot be made by the remittance date specified in Article 8, Paragraph 8, due to a flaw or deficiency in the remittance destination information, the Company shall attempt to remit the Sale Proceeds relating to the relevant Automatic Payment or Remittance Request within the period separately designated by the Company. However, if the remittance procedure implementation date exceeds the period separately designated by the Company, the Company shall not carry out the remittance on or after such implementation date and shall instead act in accordance with the following paragraph.
+4.  If remittance cannot be made due to a flaw or deficiency in the remittance destination information, and the date on which such remittance failed exceeds the period separately designated by the Company, the relevant Creator shall be deemed to have waived the right to receive the amount relating to such remittance as of the date the remittance failed.
 
 Article 10: Responsibilities of Creators
 ----------------------------------------
 
-1.  When the Company has indicated that a Request Reward falls under registration-prohibited information as in the pixiv Guidelines or that a Request Reward is not in conformity with a Request Agreement, the relevant Creator shall, under its own responsibility and cost burden, exchange, repair, delete, alter the scope of public accessibility of, or take other appropriate measures in respect of, the Request Reward.
-2.  Creators shall, under their own responsibility and cost burden, manage and retain any posted information constituting the particulars of Plans established by such Creators.
+When the Company has deemed that a Request Reward meets the conditions described as “Prohibited Post Content” in the pixiv Guidelines or that a Request Reward is not in conformity with a Request Agreement, the relevant Creator shall, under their own responsibility and cost burden, exchange, repair, delete, alter the scope of public accessibility of, or take other appropriate measures in respect of, the Request Reward.
 
 Article 11: Responsibilities of Fans
 ------------------------------------
 
-1.  Fans are not entitled to instruct Creators to redo the creation of Request Rewards, modify or add to the contents of Request Rewards or do any other similar action (Collectively, "Retake") in any methods. Fans are entitled to communicate their desires to Creators only at the time when they transmit their Requests. Otherwise, Fans must not communicate their individual desires on Retake to Creators by using Requests Feature or any other communication tools such as pixiv message feature. Furthermore, Creators shall not bear responsibility to check or correspond to such desires in relation to Request Rewards at the time other than the time of the transmission of such Request Rewards.
-2.  Fans are not entitled to have interactions with Creators, in connection with or through use of the Requests Feature, if such interactions are not directly related to the content of Request Rewards of which said Fans have requested creation from such Creators on the Requests Feature.
+1.  Fans are not entitled to instruct Creators to redo the creation of Request Rewards, modify or add to the contents of Request Rewards, or do any other similar action (Collectively, "Retake") in any method. Fans are entitled to communicate their desires to Creators only at the time when they transmit their Requests. Otherwise, Fans must not communicate their individual desires on Retake to Creators by using the Requests Feature or any other communication tools, such as pixiv message feature. Furthermore, Creators shall not bear responsibility to check or correspond to such desires in relation to Request Rewards at any time other than the time of the transmission of such Request Rewards.
+2.  Fans are not entitled to have interactions with Creators, in connection with or through use of the Requests Feature, if such interactions are not directly related to the content of Request Rewards, of which said Fans have requested creation from such Creators on the Requests Feature.
 3.  Fans shall, under their own responsibility and cost burden, manage and retain the posted information for Requests they have transmitted.
 4.  Fans shall personally preserve Request Rewards received from Creators, by backing up such Request Rewards as appropriate or by other such method. The Company is not responsible for providing data storage or the like for Request Rewards, and in no way guarantees that data storage or the like will be performed for Request Rewards.
 
 Article 12: Responsibilities of the Company
 -------------------------------------------
 
-1.  The Company will bear no liability whatsoever in regard to the conformity with Request Agreements of Request Reward types, quality or quantity, or in regard to the conformity with Request Agreements of rights related to Request Rewards, including the legality of Request Reward ownership, retention, use or the like.
-2.  Users shall agree in advance that Request Agreements and Co-requesting agreements will be two-party agreements between Creators and Fans, and shall confirm and agree in advance that the Company will bear no liability whatsoever in regard to the particulars of Request Rewards provided under such agreements.
+1.  The Company will bear no liability whatsoever in regard to the conformity with Request Agreements of Request Reward types, quality or quantity, or in regard to the conformity with Request Agreements of rights related to Request Rewards, including the legality of ownership, possession, use, exploitation, or any other rights related to Request Rewards.
+2.  Users shall agree in advance that Request Agreements (including cases of Co-requesting) will be two-party agreements between Creators and Fans, and shall confirm and agree in advance that the Company will bear no liability whatsoever in regard to the particulars of Request Rewards provided under such agreements.
 
 Article 13: Prohibitions Related to pixiv Requests Feature
 ----------------------------------------------------------
 
-1.  Users shall not breach these Individual Terms when using the pixiv Requests Feature.
-2.  When using the pixiv Requests Feature, Users shall not register Request Rewards that fall under or may fall under the conduct prohibited under the items of Article 14 of these Individual Terms, or Request Rewards falling under the following.
-    1.  Request Rewards containing information related to FX, stock, virtual currency, crypto asset, or other commercial-use information related to finance, and tools or Request Rewards associated therewith.
-3.  Users shall not make public posts falling under any of the following.
+1.  When using this feature, Users shall not engage in any of the following acts.
+    1.  Acts that violate laws or regulations
+    2.  Acts that infringe copyrights or other rights of third parties
+    3.  Acts that violate the Service Master Terms of Use or the Requests Feature Terms
+    4.  Making payments through fraudulent or unauthorized settlement methods
+    5.  Registering the following types of Request Rewards
+        1.  Request Rewards containing information related to FX, stock, virtual currency, crypto asset, or other commercial-use information related to finance, and tools or Request Rewards associated therewith.
+        2.  Tools related to the above information products and any related Request Rewards
+    6.  Any of the following acts by either the Fan or the Creator toward the other party after a Fan has sent a Request to a Creator and until the Request Reward has been delivered
+        1.  Contacting the other party by any means, including DM, comments, email, or otherwise, whether through the Site or not
+        2.  Requesting revisions (retakes)
+        3.  Negotiating changes to the conditions
+        4.  Pressuring for progress updates
+        5.  Harassment
+        6.  Any other act deemed inappropriate by the Company
+    7.  The following acts by Creators
+        1.  Directing Fans to communicate through methods outside the Site
+        2.  Negotiating price increases with Fans or otherwise forcing changes to terms in the Creator’s favor
+        3.  Forcing Fans to submit additional Requests
+        4.  Sending Requests to themselves, either directly or through a third party
+    8.  The following acts by Fans
+        1.  Negotiating discounts with Creators or otherwise forcing changes to terms in the Fan’s favor
+        2.  Contacting Users who have engaged in Co-requesting
+    9.  Any other act deemed inappropriate by the Company
+2.  Users shall not make public posts nor send to other Users any data falling under any of the following.
     1.  Violent or atrocious material which will cause strong disgust or distress;
     2.  Material extolling or promoting extremist views or antisocial acts;
     3.  Material extolling or promoting discrimination on the basis of race, creed, occupation, sex, religion, or the like;
     4.  Material extolling or promoting religious cult activity or overbearing political activity;
-    5.  Material in respect of which a third party has claimed rights infringement or the like and the Company, upon examination, has determined that such third party’s claim cannot be considered unreasonable;
+    5.  Material in respect of which a third party has claimed rights infringement or the like, and the Company, upon examination, has determined that such third party’s claim cannot be considered unreasonable;
     6.  Material that an official body or expert (e.g., the national government, a local government, a reliability verification organization as set forth in a guideline on the Act on the Limitation of Liability for Damages of Specified Telecommunications Service Providers and the Right to Demand Disclosure of the Identification Information of the Senders, an internet hotline, or an attorney) has indicated or opined to be illegal, in violation of public order and morality, an infringement of another person’s rights, or the like;
     7.  Material that infringes a third party’s rights or falls under Paragraph 1 of this article, and that is deemed, even after consideration of freedom of expression, to be inappropriate for provision on the pixiv Requests Feature; or
-    8.  Material that, other than as in the foregoing, breaches the Master Terms of Use, these Individual Terms, or other guidelines.
-4.  When a User has breached even one of the preceding three paragraphs, the Company may revoke such User’s membership, annul the registration of such User’s account, suspend use by such User, terminate Request Agreements with such User prior to completion, halt the acceptance of Co-requesting by such User, terminate, render non-public, or alter the scope of public accessibility of such User’s Requests or uploaded work data in whole or in part, or take other similar action in respect of such User; provided, however, that the Company will not be obligated to take any such action or disclose the reason any such action was taken.
+    8.  Material that, other than as in the foregoing, breaches the Master Terms of Use and/or these Individual Terms.
+3.  When a User is determined by the Company to have breached even one of the two preceding paragraphs, the Company may take all or some of the following actions or issue a warning regarding such actions, or take other necessary measures against such User. Provided, however, that the Company will not be obligated to take any such action or disclose the reason any such action was taken.
+    1.  Deletion of the Request Reward
+    2.  Suspension or setting to private of a Request
+    3.  Restriction or suspension of the User’s account
+    4.  Forced withdrawal of the User or deletion of the User’s account registration
+    5.  Termination of a Request Agreement prior to completion
+    6.  Suspension of acceptance of Co-requesting
+    7.  Deletion, setting to private, or change of visibility (in whole or in part) of any Request or posted work data
+    8.  Investigation into the User’s conduct
+    9.  Refund processing of Sale Proceeds or suspension of remittance
+    10.  Deletion of Terms
+    11.  Deletion or correction of a Creator’s posted content
+    12.  Any other measures the Company deems appropriate
 
 Article 14: Ownership and Licensing of Intellectual Property Rights Related to Request Rewards etc.
 ---------------------------------------------------------------------------------------------------
 
-1.  All copyrights and other rights to Request Reward information registered using the pixiv Requests Feature will belong to the Creator that created or registered such Request Reward. Fans will be entitled to use Request Rewards only for personal amusement and for posting to their own social media accounts with a credit attribution for the relevant Creators.
-2.  The Company shall be entitled to use or alter Request Reward information registered by Creators to the extent necessary for the smooth provision of the pixiv Requests Feature and the construction, improvement and maintenance of Company systems.
+1.  All copyrights and other rights to Request Reward information registered using the pixiv Requests Feature will belong to the Creator who created or registered such Request Reward. Fans will be entitled to use Request Rewards only within the scope of use specified at the time of sending the Request (including minor modifications such as trimming or adding text, provided such changes do not harm the integrity of the work). However, the scope for Co-requesting Users shall be subject to the scope separately determined by the Company.
+2.  The Company shall be entitled to use or alter Request Reward information registered by Creators to the extent necessary for the smooth provision of the pixiv Requests Feature and the construction, improvement, and maintenance of Company systems.
 3.  When using Request Reward information in the form specified in the preceding paragraph, the Company shall be entitled to omit some information or a name attribution.
 
 Article 15: Handling of Problems
 --------------------------------
 
-1.  The Company shall bear no liability whatsoever in regard to, and shall be in no way obligated to respond to, any problems arising between Users or between Users and third parties in connection with the pixiv Requests Feature, except where explicitly specified otherwise; provided, however, that the Company may conduct contact point operations, such as communicating the particulars of a counterparty’s claim, for Users or third parties if the Company deems such action necessary for the operation of the pixiv Requests Feature, that in such cases, the relevant User(s) shall respond in good faith as instructed by the Company and that the Company will be in no way obligated to conduct such contact point operations.
-2.  When a third party (including Users for the purposes of this paragraph) has claimed infringement of copyrights or other such rights against the Company in respect of a Request Reward, the Company shall communicate with the User that published the relevant content and shall be entitled to render such content non-public at its discretion.
+1.  The Company shall bear no liability whatsoever in regard to, and shall be in no way obligated to respond to, any problems arising between Users or between Users and third parties in connection with the pixiv Requests Feature, except where explicitly specified otherwise.
+2.  However, the Company may conduct contact point operations, such as communicating the particulars of a counterparty’s claim, for Users or third parties if the Company deems such action necessary for the operation of the pixiv Requests Feature, that in such cases, the relevant User(s) shall respond in good faith as instructed by the Company and that the Company will be in no way obligated to conduct such contact point operations.
+3.  When a third party (including Users for the purposes of this paragraph) has claimed infringement of copyrights or other such rights against the Company in respect of a Request Reward, the Company may contact the User who posted the relevant content and, at its discretion, take appropriate measures such as rendering the content private, or other actions in accordance with Article 13, Paragraph 3.
 
 Article 16: Monitoring of the Requests Feature by the Company
 -------------------------------------------------------------
 
-The Company and third parties entrusted by the Company which agreed with the Company to have confidentiality obligation regarding protection of information of Users and operate at the minimum standard required to do the monitoring set forth in this Article are entitled to monitor the Posted Information concerning the pixiv Requests Feature and Request Rewards on the Site by using automatic filtering in order to do the investigations necessary for provision of the pixiv Requests Feature to Users in accordance with these Individual Terms including the following investigations: the investigation on whether any Posted Information has been posted or transmitted on the Site in violation of these Individual Terms, whether any Request Reward has been provided in violation of these Individual Terms or whether Creators and Fans comply with laws and regulations. When a breach on any of these Individual Terms is confirmed by the Company through the monitoring, the Company may take any of the actions prescribed in the paragraph 4 of the Article 13 such as termination of Request Agreements. The information obtained by the Company or such third parties shall be used for one year on and after the time of transmission of each Request relevant to the information.  
-Please be advised that the enquiries on the information obtained for the purpose above shall be sent to the contact below.  
+The Company and third parties entrusted by the Company which agreed with the Company to have confidentiality obligation regarding protection of information of Users and operate at the minimum standard required to do the monitoring set forth in this Article are entitled to monitor the Posted Information concerning the pixiv Requests Feature and Request Rewards on the Site by using automatic filtering in order to do the investigations necessary for provision of the pixiv Requests Feature to Users in accordance with these Individual Terms including the following investigations: the investigation on whether any Posted Information has been posted or transmitted on the Site in violation of these Individual Terms, whether any Request Reward has been provided in violation of these Individual Terms or whether Creators and Fans comply with laws and regulations. When the Company confirms a breach of any of these Individual Terms through monitoring, the Company may take any of the actions in accordance with Article 13, such as termination of Request Agreements. The information obtained by the Company or such third parties shall be used for a period separately determined by the Company.  
+Be advised that the enquiries on the information obtained for the purpose above shall be sent to the contact below.  
 [https://www.pixiv.net/support.php?mode=inquiry&service=pixiv&type=28](https://www.pixiv.net/support.php?mode=inquiry&service=pixiv&type=28)
 
 Collection Feature Individual Terms of Use
