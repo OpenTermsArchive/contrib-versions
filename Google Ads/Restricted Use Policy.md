@@ -162,11 +162,13 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Financial products and services](https://support.google.com/adspolicy/answer/2464998)
 > 
-> > We want users to have adequate information to make informed financial decisions. Our policies are designed to give users information to weigh the costs associated with financial products and services, and to protect users from harmful or deceitful practices. For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and [cryptocurrencies](https://support.google.com/adspolicy/answer/14009787), including personalized advice.
+> > Google is committed to helping users make informed financial decisions. Google Ads policies are designed to provide users with the information they need to weigh the costs of financial products and services and to protect them from harmful or deceptive practices.
+> > 
+> > Under this policy, financial products and services are defined as products and services related to the management or investment of money and [cryptocurrencies](https://support.google.com/adspolicy/answer/14009787), including personalized advice.
 > > 
 > > When promoting financial products and services, you must comply with state and local regulations for any location that your ads target — for example, include specific disclosures required by local law. Advertisers are expected to do their own research on the local regulations for any location their ads target.
 > > 
-> > Below you can find policy requirements related to financial services, personal loans, and certain restricted financial products. As the online advertising and regulatory space continues to evolve, we'll update this policy with additional product-specific guidelines on an ongoing basis. Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
+> > This policy is updated with additional product-specific guidelines on an ongoing basis. Learn more about [What happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > > 
 > > **Examples of restricted Financial products and services (non-exhaustive):** personal loans, loan modification, credit repair services
 > 
@@ -192,7 +194,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Other restricted businesses](https://support.google.com/adspolicy/answer/6368711)
 > 
-> > We restrict certain businesses from advertising to prevent user exploitation, even if they comply with other policies. Continuous reviews and feedback from users, regulators, and consumer protection authorities help us identify products or services that are prone to abuse. We may limit or stop ads from businesses that pose an unreasonable risk to user safety or experience.
+> > Google uses continuous reviews and feedback from users, regulators, and consumer protection authorities to help identify products and services that are prone to abuse and user exploitation. Google Ads may limit or stop ads from businesses that pose an unreasonable risk to user safety or experience, even if they comply with other policies.
 > 
 > ### [Restricted ad formats and features](https://support.google.com/adspolicy/answer/9481382)
 > 
