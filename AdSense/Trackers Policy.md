@@ -3,8 +3,6 @@ Advertising
 
 Advertising keeps Google and many of the websites and services you use free of charge. We work hard to make sure that ads are safe, unobtrusive, and as relevant as possible. For example, you won’t see pop-up ads on Google, and we terminate the accounts of hundreds of thousands of publishers and advertisers that violate our policies each year – including ads containing malware, ads for counterfeit goods, or ads that attempt to misuse your personal information.
 
-Google advertising services are experimenting with new ways of supporting the delivery and measurement of digital advertising in ways that better protect people’s privacy online via the [Privacy Sandbox](https://privacysandbox.com/) initiative on Chrome and Android. Users with the relevant Privacy Sandbox settings enabled in Chrome or Android may see relevant ads from Google’s advertising services based on [Topics](https://developer.chrome.com/docs/privacy-sandbox/topics/overview/) or [Protected Audience](https://developer.chrome.com/docs/privacy-sandbox/protected-audience/) data stored on their browser or mobile device. Google’s advertising services may also measure ad performance using [Attribution Reporting](https://developer.chrome.com/docs/privacy-sandbox/attribution-reporting/) data stored on their browser or mobile device. [More information on the Privacy Sandbox](https://privacysandbox.com/).
-
 How Google uses cookies in advertising
 --------------------------------------
 
@@ -16,7 +14,7 @@ We store a record of the ads we serve in our logs. These [server logs](https://p
 
 ### Our advertising cookies
 
-To help our partners manage their advertising and websites, we offer many products, including AdSense, AdWords, Google Analytics, and a range of DoubleClick-branded services. When you visit a page or see an ad that uses one of these products, either on Google services or on other sites and apps, various cookies may be sent to your browser.
+To help our partners manage their advertising and websites, we offer many products, including AdSense, Google Ads, Google Analytics, and a range of DoubleClick-branded services. When you visit a page or see an ad that uses one of these products, either on Google services or on other sites and apps, various cookies may be sent to your browser.
 
 These may be set from a few different domains, including google.com, doubleclick.net, googlesyndication.com, or googleadservices.com, or the domain of our partners’ sites. Some of our advertising products enable our partners to use other services in conjunction with ours (like an ad measurement and reporting service), and these services may send their own cookies to your browser. These cookies will be set from their domains.
 
@@ -33,7 +31,7 @@ Finally, you can [manage cookies in your web browser](https://policies.google.co
 Other technologies used in advertising
 --------------------------------------
 
-Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. When using information to measure the effectiveness of ads, we may infer whether activity from different devices or accounts is associated. We may also select advertising based on information about your computer or device, such as the time and date, your device model, browser type, or sensors in your device like the accelerometer.
+Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. When using information to measure the effectiveness of ads or to improve the relevance of ads you see, we may infer whether activity from different devices, browsing sessions, or accounts is associated. We may also select advertising based on information about your computer or device, such as the time and date, your device model, browser type, or sensors in your device like the accelerometer.
 
 #### Location
 
@@ -137,7 +135,7 @@ Sometimes the ad you see is based on your current or past location. Your IP addr
 
 Sometimes the ad you see is based on the context of a page. If you’re looking at a page of gardening tips, you might see ads for gardening equipment.
 
-Sometimes you might also see an ad on the web that’s based on your app activity or activity on Google services; an in-app ad that’s based on your web activity; or an ad based on your activity on another device.
+Sometimes you might also see an ad on the web that’s based on your app activity or activity on Google services, including sites and apps that use Google services; an in-app ad that’s based on your web activity; or an ad based on your activity on another device.
 
 Sometimes the ad you see on a page is served by Google but selected by another company. For example, you might have registered with a newspaper website. From information you’ve given the newspaper, it can make decisions about which ads to show you, and it can use Google’s ad serving products to deliver those ads.
 
