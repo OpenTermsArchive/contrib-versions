@@ -78,7 +78,7 @@ We collect information about your activity in our services, which we use to do t
 
 If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy?hl=en-GB#footnote-calls-messages), we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information and types and volumes of calls and messages.
 
-You can visit your Google Account to find and manage activity information that’s saved in your account.
+You can visit your Google Account to find and manage activity information that's saved by your Activity controls.
 
 [Go to Google Account](https://myaccount.google.com/?hl=en_GB)
 
@@ -135,7 +135,7 @@ Depending on your settings, we may also show you [personalised ads](https://poli
 
 ### Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyse data about your visits to our sites to do things like optimise product design. And we also use data about the ads that you interact with, including your related Google Search activity, to help advertisers understand the [performance of their ad campaigns](https://policies.google.com/privacy?hl=en-GB#footnote-link-performance). We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy?hl=en-GB#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyse data about your visits to our sites to do things like optimise product design. And we also use data about the ads that you interact with, including your related Google Search activity, to help advertisers understand the [performance of their ad campaigns](https://policies.google.com/privacy?hl=en-GB#footnote-link-performance). We use a variety of tools to do this, including ad and analytics services. When you visit sites or use apps that use Google's ad or analytics services, those services may [link information](https://policies.google.com/privacy?hl=en-GB#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our services.
 
 ### Communicate with you
 
@@ -176,7 +176,7 @@ We also built a place for you to review and control information saved in your Go
 
 ### Activity Controls
 
-Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos that you watch and the things that you search for are saved in your account so that you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so that you can get more personalised experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether [information about your activity on other sites, apps and devices that use Google services](https://support.google.com/websearch/answer/54068?hl=en_GB#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services), such as apps that you install and use on Android, is saved in your Google Account and used to improve Google services.
+Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos that you watch and the things that you search for are saved in your account so that you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so that you can get more personalised experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether some [information about your activity on other sites, apps and devices that use Google services](https://support.google.com/websearch/answer/54068?hl=en_GB#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services), such as apps that you install and use on Android, is saved in your Google Account and used to improve Google services.
 
 [Go to Activity Controls](https://myaccount.google.com/activitycontrols?hl=en_GB)
 
@@ -512,7 +512,7 @@ You can view and control your Web & App Activity at [My Activity](https://myacti
 
 Websites and apps that integrate Google services like ads and analytics share information with us.
 
-This information is collected regardless of which browser or browser mode you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third-party sites and apps that integrate our services may still share information with Google when you visit them.
+This information is shared regardless of which browser or browser mode that you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third-party sites and apps that integrate our services still share information with Google when you visit them.
 
 You can [learn more](https://policies.google.com/technologies/partner-sites?hl=en-GB) about some of the ways that you can control the information that is shared when you visit or interact with sites and apps that use Google services.
 
@@ -572,7 +572,7 @@ For example, we use cookies to analyse how people interact with our services. An
 
 ### may link information
 
-Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyse its traffic. [Learn more](https://support.google.com/analytics?p=privpol_data&hl=en_GB)
+For example, a customer may want to use its Google Analytics data to create more relevant ads, or to further analyse its traffic. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to cookies and other technologies that are related to visits to other websites and apps. [Learn more](https://support.google.com/analytics?p=privpol_data&hl=en_GB)
 
 ### our users
 
