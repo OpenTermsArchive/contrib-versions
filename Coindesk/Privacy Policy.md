@@ -70,7 +70,7 @@ We only process personal information where we have a lawful basis for doing so, 
 
 **3.1. Your consent**
 
-We will process your personal information based on the permission you have given us for a specific purpose. For instance, if you submit a general enquiry form, we will ask for your consent if we intend to use your personal information for any other reason. You always have the right to revoke this consent by contacting us at: [\[email protected\]](https://www.coindesk.com/cdn-cgi/l/email-protection).
+We will process your personal information based on the permission you have given us for a specific purpose. For instance, if you submit a general enquiry form, we will ask for your consent if we intend to use your personal information for any other reason. You always have the right to revoke this consent by contacting us at: [privacy@coindesk.com](mailto:privacy@coindesk.com).
 
 **3.2. Legitimate business purposes**
 
@@ -230,7 +230,7 @@ The Services are intended for general audiences, and are not directed to childre
 
 **12\. How to contact us**
 
-If you have any questions, comments, or concerns regarding our Privacy Notice or practices, please send an email at [\[email protected\]](https://www.coindesk.com/cdn-cgi/l/email-protection).
+If you have any questions, comments, or concerns regarding our Privacy Notice or practices, please send an email at [privacy@coindesk.com](mailto:privacy@coindesk.com).
 
 **13\. Changes to this Privacy Notice**  
 We reserve the right to change this Privacy Notice at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Notice will mean you accept those changes.
@@ -459,13 +459,13 @@ If you are a California resident, CCPA may permit you to request that we:
 *   Delete certain information we have about you.
 *   Correct inaccurate information we have about you.
 
-You or your authorized agent may submit a request to exercise these rights by using our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or sending us an email at [\[email protected\]](https://www.coindesk.com/cdn-cgi/l/email-protection). We will require you to verify your identity before we can act on your request.
+You or your authorized agent may submit a request to exercise these rights by using our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or sending us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). We will require you to verify your identity before we can act on your request.
 
 You have the right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
 
 Financial Incentives: We may run promotions from time to time and ask you to share personal information with us. We will always give you clear notice about these types of programs when you sign up, and participation is always voluntary. If you change your mind, you will be able to opt out, and if you do not participate, you will still be able to use our services.
 
-California “Shine the Light” Rights: If you are a California resident, California law permits you to request certain information regarding the disclosure of your information by us and our related companies to third parties for the third parties' direct marketing purposes. To make such a request, please send us an email at [\[email protected\]](https://www.coindesk.com/cdn-cgi/l/email-protection).
+California “Shine the Light” Rights: If you are a California resident, California law permits you to request certain information regarding the disclosure of your information by us and our related companies to third parties for the third parties' direct marketing purposes. To make such a request, please send us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com).
 
 **15\. Notice for residents of the European Economic Area, Switzerland, and United Kingdom**
 
@@ -483,7 +483,7 @@ You have certain rights under applicable law. These rights include:
 *   To object to our processing when we process your personal data based on legitimate interest.
 *   To lodge a complaint about our collection or processing of your personal data with your Data Protection Authority (DPA).
 
-If you would like to exercise rights, please use our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or send us an email at [\[email protected\]](https://www.coindesk.com/cdn-cgi/l/email-protection). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [www.edoeb.admin.ch](https://www.edoeb.admin.ch/en).
+If you would like to exercise rights, please use our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or send us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [www.edoeb.admin.ch](https://www.edoeb.admin.ch/en).
 
 **15.2. Your personal data**
 
