@@ -3,7 +3,7 @@ Terms of Service
 
 [Community Guidelines](https://www.youtube.com/t/community_guidelines)
 
-#### Consultez les conditions d'utilisation dans d'autres langues : [Français (Canada)](https://www.youtube.com/t/terms?hl=fr-ca&override_hl=1) et [الإنجليزية](https://www.youtube.com/t/terms?hl=en&override_hl=1)
+#### View the Terms of Service in other languages: [Français (Canada)](https://www.youtube.com/t/terms?hl=fr-ca&override_hl=1) and [English](https://www.youtube.com/t/terms?hl=en&override_hl=1)
 
 **What’s in these terms?**
 ==========================
