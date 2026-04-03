@@ -1,40 +1,36 @@
-Privacy policy
+Privacy Policy
 ==============
 
-**Effective date:** 18th of March, 2025
+Effective date: March 17, 2025
 
-At Linear Orbit (**"Linear"**), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal data. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy.**
+At Linear Orbit (**“Linear”**), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal data. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy.**
 
-Remember that your use of Linear's Services is at all times subject to our [Terms of Service](https://linear.app/terms). Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](https://linear.app/terms).
+Remember that your use of Linear’s Services is at all times subject to our [Terms of Service](https://linear.app/terms). Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](https://linear.app/terms).
 
 If you have a disability, you may access this Privacy Policy in an alternative format by contacting hello@linear.app.
 
-[**Privacy Policy Table of Contents**⁠](#privacy-policy-table-of-contents)
---------------------------------------------------------------------------
+1.  [What this Privacy Policy Covers](#What-this-Privacy-Policy-Covers)
+2.  [Personal Data](#Personal-Data)
+3.  [How We Share Your Personal Data](#How-We-Share-Your-Personal-Data)
+4.  [Tracking Tools and Opt-Out](#Tracking-Tools-and-Opt-Out)
+5.  [Data Security and Retention](#Data-Security-and-Retention)
+6.  [Personal Data of Children](#Personal-Data-of-Children)
+7.  [State Law Privacy Rights](#State-Law-Privacy-Rights)
+8.  [European Union Data Subject Rights](#European-Union-Data-Subject-Rights)
+9.  [Changes to this Privacy Policy](#Changes-to-this-Privacy-Policy)
+10.  [Contact Information](#Contact-Information)
 
-*   **What this Privacy Policy Covers**
-*   **Personal Data**
-    *   Categories of Personal Data We Collect
-    *   Categories of Sources of Personal Data
-    *   Our Commercial or Business Purposes for Collecting Personal Data
-*   **How We Share Your Personal Data**
-*   **Tracking Tools** **and Opt-Out**
-*   **Data Security and Retention**
-*   **Personal Data of Children**
-*   **Other State Law Privacy Rights**
-*   **European Union Data Subject Rights**
-*   **Changes to this Privacy Policy**
-*   **Contact Information**
-
-[**What this Privacy Policy Covers**⁠](#what-this-privacy-policy-covers)
-------------------------------------------------------------------------
+What this Privacy Policy Covers
+-------------------------------
 
 This Privacy Policy covers how we treat Personal Data that we gather when you access or use our Services. “Personal Data” means any information that identifies or relates to a particular individual and also includes information referred to as “personally identifiable information” or “personal information” under applicable data privacy laws, rules or regulations. This Privacy Policy does not cover the practices of companies we don’t own or control or people we don’t manage.
 
-[**Personal Data**⁠](#personal-data)
-------------------------------------
+* * *
 
-### [Categories of Personal Data We Collect⁠](#categories-of-personal-data-we-collect)
+Personal Data
+-------------
+
+### Categories of Personal Data We Collect
 
 This list details the categories of Personal Data that we collect and have collected over the past 12 months:
 
@@ -102,7 +98,7 @@ This list details the categories of Personal Data that we collect and have colle
     *   Business Partners
     *   Parties You Authorize, Access or Authenticate
 
-### [Categories of Sources of Personal Data⁠](#categories-of-sources-of-personal-data)
+### Categories of Sources of Personal Data
 
 We collect Personal Data about you from the following categories of sources:
 
@@ -147,8 +143,10 @@ _Our Commercial or Business Purposes for Collecting Personal Data_
 
 We will not collect additional categories of Personal Data or use the Personal Data we collected for materially different, unrelated or incompatible purposes without providing you notice.
 
-[**How We Share Your Personal Data**⁠](#how-we-share-your-personal-data)
-------------------------------------------------------------------------
+* * *
+
+How We Share Your Personal Data
+-------------------------------
 
 We disclose your Personal Data to the categories of service providers and other parties listed in this section. Depending on state laws that may be applicable to you, some of these disclosures may constitute a “sale” of your Personal Data. For more information, please refer to the state-specific sections below.
 
@@ -182,8 +180,10 @@ All of your Personal Data that we collect may be transferred to a third party if
 
 We may create aggregated, de-identified or anonymized data from the Personal Data we collect, including by removing information that makes the data personally identifiable to a particular user. We may use such aggregated, de-identified or anonymized data and share it with third parties for our lawful business purposes, including to analyze, build and improve the Services and promote our business, provided that we will not share such data in a manner that could identify you.
 
-[**Tracking Tools and Opt-Out**⁠](#tracking-tools-and-opt-out)
---------------------------------------------------------------
+* * *
+
+Tracking Tools and Opt-Out
+--------------------------
 
 The Services use cookies and similar technologies such as pixel tags, web beacons, clear GIFs and JavaScript (collectively, “Cookies”) to enable our servers to recognize your web browser, tell us how and when you visit and use our Services, analyze trends, learn about our user base and operate and improve our Services. Cookies are small pieces of data– usually text files – placed on your computer, tablet, phone or similar device when you use that device to access our Services. We may also supplement the information we collect from you with information received from third parties, including third parties that have placed their own Cookies on your device(s). Please note that because of our use of Cookies, the Services do not support “Do Not Track” requests sent from a browser at this time.
 
@@ -197,20 +197,26 @@ You can decide whether or not to accept Cookies through your internet browser’
 
 To explore what Cookie settings are available to you, look in the “preferences” or “options” section of your browser’s menu. To find out more information about Cookies, including information about how to manage and delete Cookies, please visit [allaboutcookies.org](https://allaboutcookies.org/).
 
-[**Data Security and Retention**⁠](#data-security-and-retention)
-----------------------------------------------------------------
+* * *
+
+Data Security and Retention
+---------------------------
 
 We seek to protect your Personal Data from unauthorized access, use and disclosure using appropriate physical, technical, organizational and administrative security measures based on the type of Personal Data and how we are processing that data. You should also help protect your data by appropriately selecting and protecting your password and/or other sign-on mechanism; limiting access to your computer or device and browser; and signing off after you have finished accessing your account. Although we work to protect the security of your account and other data that we hold in our records, please be aware that no method of transmitting data over the internet or storing data is completely secure.
 
 We retain Personal Data about you for as long as you have an open account with us or as otherwise necessary to provide you with our Services. In some cases we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation. We may further retain information in an anonymous or aggregated form where that information would not identify you personally.
 
-[**Personal Data of Children**⁠](#personal-data-of-children)
-------------------------------------------------------------
+* * *
+
+Personal Data of Children
+-------------------------
 
 As noted in the [Terms of Use](https://linear.app/terms), we do not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at hello@linear.app.
 
-[**State Law Privacy Rights**⁠](#state-law-privacy-rights)
-----------------------------------------------------------
+* * *
+
+State Law Privacy Rights
+------------------------
 
 #### [_California Resident Rights_⁠](#california-resident-rights)
 
@@ -220,8 +226,10 @@ Under California Civil Code Sections 1798.83-1798.84, California residents are e
 
 If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at hello@linear.app with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account.
 
-[**European Union Data Subject Rights**⁠](#european-union-data-subject-rights)
-------------------------------------------------------------------------------
+* * *
+
+European Union Data Subject Rights
+----------------------------------
 
 #### [_EU Residents_⁠](#eu-residents)
 
@@ -274,21 +282,27 @@ Please note that in some circumstances, we may not be able to fully comply with 
 *   **Portability**:  You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
 *   **Objection**:  You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes.
 *   **Restriction of Processing**:  You can ask us to restrict further processing of your Personal Data.
-*   **Right to File Complaint**:  You have the right to lodge a complaint about Linear's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+*   **Right to File Complaint**:  You have the right to lodge a complaint about Linear’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
 #### [_Transfers of Personal Data_⁠](#transfers-of-personal-data)
 
 The Services are hosted and operated in the United States (“U.S.”) through Linear and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Linear in the U.S. and will be hosted on U.S. servers, and you authorize Linear to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to: (i) a data processing agreement incorporating standard data protection clauses promulgated by the European Commission, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087, (ii) binding corporate rules for data protection that align with the GDPR’s requirements, or (iii) adherence to an industry- or technology-specific approved code of conduct blessed by the European Commission.
 
-[**Changes to this Privacy Policy**⁠](#changes-to-this-privacy-policy)
-----------------------------------------------------------------------
+* * *
+
+Changes to this Privacy Policy
+------------------------------
 
 We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time, but we will alert you to any such changes by placing a notice on the Linear website, by sending you an email and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
-[**Contact Information**⁠](#contact-information)
-------------------------------------------------
+* * *
+
+Contact Information
+-------------------
 
 If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Data or your choices and rights regarding such collection and use, please do not hesitate to contact us at:
 
 **Email:** hello@linear.app  
 **Address**: 2261 Market St STE 10632 San Francisco, CA 94114
+
+* * *
