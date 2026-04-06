@@ -277,7 +277,7 @@ If Dispute against Viber involves a paid Viber Service and we are unable to reso
 
 *   **Effect of Opting Out:** If you opt out of this arbitration provision, you will not be required to arbitrate disputes with Viber as set forth above. Opting out of this arbitration provision will not affect any other part of these Terms or your relationship with Viber.
 
-  
+######   
 **19\. Miscellaneous**
 
 If any provision of these Terms is adjudged, by written decision, to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. These Terms are the entire agreement between you and Viber relating to the matters contained herein and the Services. Failure by Viber to enforce any rights or to take any action against you in the event of any breach hereunder shall not be deemed as a waiver of such rights or of subsequent actions in the event of future breaches. These Terms and any right granted herein may not be assigned by you without the prior written consent of Viber. Viber may assign its rights and obligations set forth herein at any time, at its sole discretion, to any of our affiliates or in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise. In the event of such an assignment, Viber will only transfer your information in compliance with applicable laws, and ask for your consent where required. These Terms will continue to govern your relationship with such third-party, if you do not agree to such an assignment, you must stop using the Services, delete your Viber Account and uninstall the App.
