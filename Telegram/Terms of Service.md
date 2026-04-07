@@ -227,6 +227,9 @@ Telegram FAQ
 *   [What if my hacker friend doubts you?](#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes)
 *   [Can Telegram protect me against everything?](#q-can-telegram-protect-me-against-everything)
 *   [How does 2-Step Verification work?](#q-how-does-2-step-verification-work)
+*   [What is Cocoon?](#q-what-is-cocoon)
+*   [Do Telegram AI features upload data to third parties?](#q-do-telegram-39s-ai-features-upload-data-to-third-parties)
+*   [What AI models does Telegram use?](#q-what-ai-model-does-telegram-use)
 
 [**Secret Chats**](#secret-chats)
 
@@ -729,6 +732,26 @@ You can do this in **Settings > Privacy and Security > 2-Step Verification**. On
 Using a rooted or jailbroken device makes it easier for a potential attacker to gain full administrative control over your device — [root access](https://en.wikipedia.org/wiki/Superuser).
 
 A user with root access can easily bypass security features built into the operating system, read process memory or access restricted areas, such as the [internal storage](https://developer.android.com/training/data-storage#filesInternal). Once an attacker has root access, any efforts to mitigate threats become futile. No application can be called safe under these circumstances, no matter how strong the encryption.
+
+#### [](#q-what-is-cocoon)Q: What is Cocoon?
+
+[Cocoon](https://cocoon.org/) is a secure, open-source and decentralized AI platform that allows privacy-conscious applications like Telegram to utilize the latest AI models.
+
+Telegram developed Cocoon and uses it to securely power its AI features without relying on third parties, ensuring your data remains **protected** and **inaccessible**.
+
+#### [](#q-do-telegram-39s-ai-features-upload-data-to-third-parties)Q: Do Telegram's AI features upload data to third parties?
+
+**No**. Telegram's AI features like translation and custom tones rely on [Cocoon](#q-what-is-cocoon) and **never upload any data** to third parties.
+
+When you use an AI feature provided by Telegram, the processing happens within a highly secure, isolated and encrypted environment – your data remains inaccessible.
+
+#### [](#q-what-ai-model-does-telegram-use)Q: What AI model does Telegram use?
+
+Telegram's AI features like translation and custom tones are powered by [Cocoon](#q-what-is-cocoon). Cocoon is a secure, open source and decentralized AI platform that allows privacy-conscious applications like Telegram to utilize the latest AI models.
+
+When you use an AI feature provided by Telegram, the processing happens within a highly secure, isolated and encrypted environment – your data remains inaccessible.
+
+> Note that if you access AI through a third-party [bot](#q-are-bots-made-by-telegram) or mini app, you are interacting with a **third-party service**, not with Telegram. In this case, please refer to the relevant bot's privacy policy for more information on how data is handled.
 
 ### [](#secret-chats)Secret Chats
 
