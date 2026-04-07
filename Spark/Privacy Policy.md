@@ -1,28 +1,16 @@
 Privacy Policy for App
 ======================
 
-**Date:** November 7, 2025
+**Date:** April 7, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
-At Spark, we greatly care about our users. As Spark evolves, we update our Terms of Service and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
+At Spark, we greatly care about our users. As Spark evolves, we update our [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure it remains clear and aligned with how the product works. 
 
-As part of our ongoing commitment to transparency and improving your experience, we have revised these documents for better readability and structure. While the language and layout have been modernized, the core terms of our agreement with you remain unchanged.
+In a nutshell, we added a few details about communications you may receive and on data storage in relation to new features.
 
-Here is a summary of the most important updates:
-
-**Terms of Service**
-
-*   **Subscription Plans:** The Terms of Service have been revised to align with Spark’s expanded subscription model and evolving service offerings.
-*   **Individual & Business Use**: The Terms now provide clearer guidance for both individual users and business customers, reflecting how each may use Spark.
-*   **Updated Refund Policy**: The Terms now provide clearer details on refund eligibility and the steps to request a refund.
-
-**Privacy Policy**
-
-*   **More details on Data Processing:** We have made the Privacy Policy easier to understand by grouping personal data into clear categories and detailing why we process it, on what legal basis, and for how long.
-
-We encourage you to carefully review the [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
+We encourage you to carefully review the [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
 
 * * *
 
@@ -132,7 +120,7 @@ We may also ask for some information about you to help tailor the App for you.
 | Data | Reasons for Processing | Lawful Basis |
 | --- | --- | --- |
 | *   Email address used to create Spark account<br>*   Name | Providing the functionality of the App | Performance of the contract |
-| Communication about the product (updates, recommendations, tips) and our major news and offers | Legitimate interest |
+| Communication about the product (tips, updates, digests), our special offers, and surveys | Legitimate interest |
 | Confirming the payment for compliance with the applicable law | Legal obligation |
 | *   Other email addresses added to Spark<br>*   OAuth login or mail server credentials<br>*   Photo | Providing the functionality of the App | Performance of the contract |
 | *   Spark usage type<br>*   Your role and industry<br>*   Problems with inbox and goals for Spark<br>*   How do you know about Spark | Tailoring the App for you and its improvement | Legitimate interest |
@@ -185,7 +173,7 @@ While the data below may be processed by Spark, it does not mean we store all of
 
 | Data | Reasons for Processing | Lawful Basis |
 | --- | --- | --- |
-| *   Inputs and outputs (requests and results)<br>*   Emails and email drafts content, including attachments<br>*   Email contacts<br>*   In-app comments<br>*   Calendar data, including meeting title, description, participants, date, time, and location<br>*   Read statuses<br>*   Audio stream and video (only to extract audio) for Meeting Notes<br>*   Meeting notes and summaries<br>*   Your writing style description<br>*   AI commands and rules | Providing you with the functionality of the App | Performance of the contract |
+| *   Inputs and outputs (requests and results)<br>*   Emails and email drafts content, including attachments<br>*   Email contacts<br>*   In-app comments<br>*   Calendar data, including meeting title, description, participants, date, time, and location<br>*   Read statuses<br>*   Audio stream and video (only to extract audio) for Meeting Notes<br>*   Meeting notes and summaries<br>*   Your writing style description<br>*   Worfklows (commands, labels, rules) | Providing you with the functionality of the App | Performance of the contract |
 
 **My Writing Style**
 
@@ -283,7 +271,7 @@ If the data category is not listed herein, it is stored locally on your device. 
 | Emails shared via link (incl. attachments, contacts, comments) | Until the link or account is deleted |
 | Large attachments | For thirty (30) days, if autocleaning is enabled, or until you delete the data manually via settings, or until deletion of Spark account |
 | Read Statuses | Until deletion of the Spark account |
-| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI commands and rules | Until deletion of Spark account or until you delete the data manually via settings |
+| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI worflows (commands, labels, rules) | Until deletion of Spark account or until you delete the data manually via settings |
 | Customer Support Requests | For six (6) years after the communication on the ticket is closed |
 | Feedback Provided to Us Directly | For six (6) years from the feedback or last communication on feedback |
 | Feedback Provided via a Third-Party Platform | For two (2) years from the feedback or last communication on feedback |
@@ -318,6 +306,7 @@ We may receive some personal data from third parties. The amount of data collect
 | Setapp | [Privacy Notice](https://setapp.com/privacy-notice) |
 | Typeform | [Privacy Policy](https://www.typeform.com/help/a/what-is-typeforms-privacy-policy-360029578471/) |
 | Yahoo Mail | [Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
+| Zoho Mail | [Privacy Policy](https://www.zoho.com/privacy.html) |
 | Zapier | [Privacy Policy](https://zapier.com/privacy) |
 
 Additionally, Spark integrates with popular third-party services: Notion, Asana, etc. We may receive some data within such integrations.
