@@ -1,3 +1,28 @@
+[By industry](https://zoom.us/en/industry/)
+-------------------------------------------
+
+[Education](https://zoom.us/en/industry/education/)[Financial Services](https://zoom.us/en/industry/finance/)[Government](https://zoom.us/en/industry/government/)[Healthcare](https://zoom.us/en/industry/healthcare/)[Manufacturing](https://zoom.us/en/industry/manufacturing/)[Retail](https://zoom.us/en/industry/retail/)[Frontline](https://zoom.us/en/products/collaboration-tools/solutions/frontline-workers/)[Broadcast](https://zoom.us/en/audiences/broadcast/)
+
+By audience
+-----------
+
+[Small and midsize business](https://zoom.us/en/small-business/)
+
+Enterprise
+----------
+
+[Information Technology](https://zoom.us/en/audiences/information-technology/)[Customer Experience](https://zoom.us/en/audiences/cx/)[Sales and Revenue](https://zoom.us/en/audiences/sales-and-revenue/)[Facilities](https://zoom.us/en/audiences/av-facilities/)[Marketing and Events](https://zoom.us/en/audiences/marketing-events/)
+
+[For Developer](https://developers.zoom.us/docs/)
+-------------------------------------------------
+
+[Video SDK](https://zoom.us/en/video-sdk/)[Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/)[App Marketplace](https://marketplace.zoom.us/)[APIs](https://developers.zoom.us/docs/api/)[Webhooks](https://developers.zoom.us/docs/api/webhooks/)[Zoom Apps](https://zoom.us/en/zoom-apps/)[Developer Solutions](https://developers.zoom.us/docs/)
+
+[For partners](https://partner.zoom.com/)
+-----------------------------------------
+
+[Partner Solutions](https://partner.zoom.com/solutions/)[Find a Partner](https://partner.zoom.com/partner-locator)[Become a Partner](https://partner.zoom.com/)[Partner Portal](https://mypartnerportal.zoom.us/)[Partner Learning Center](https://mypartnerportal.zoom.us/s/)
+
 ZOOM TERMS OF SERVICE
 =====================
 
