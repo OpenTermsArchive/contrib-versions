@@ -1,11 +1,6 @@
 People Inc. - America's Largest Digital & Print Publisher
 =========================================================
 
-Dotdash Meredith is now People Inc.
------------------------------------
-
-[Read our press release here →](https://www.prnewswire.com/news-releases/dotdash-meredith-is-now-people-inc-302518654.html)
-
 Featured Video
 
 Watch this featured video content
