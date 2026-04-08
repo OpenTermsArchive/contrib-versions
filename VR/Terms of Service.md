@@ -341,7 +341,7 @@ There are two types of car-carrier wagons:
     
 *   Width: not more than 2.20 m, including load. Please note: the roofline of a car higher than 1.84 m can be up to 1.64 m wide  
     
-*   Weight: not more than 3,000 kg and the axle or axle-group weight not more than 2,000 kg  
+*   Gross vehicle mass: Not more than 3,000 kg and the axle or axle-group weight not more than 2,000 kg  
     
 *   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
@@ -354,7 +354,7 @@ There are two types of car-carrier wagons:
     
 *   Width: not more than 2.20 m, including load  
     
-*   Weight: not more than 2,500 kg and the axle or axle-group weight not more than 1,400 kg  
+*   Gross vehicle mass: not more than 2,500 kg and the axle or axle-group weight not more than 1,400 kg  
     
 *   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
