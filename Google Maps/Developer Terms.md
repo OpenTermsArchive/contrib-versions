@@ -302,6 +302,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   IBGE - Instituto Brasileiro de Geografia e Estatística: [https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)
             
+        *   Plataforma de Painéis Analíticos do Observatório Nacional de Transporte e Logística. [https://www.infrasa.gov.br/dados-abertos/](https://www.infrasa.gov.br/dados-abertos/)
+            
     9.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -585,6 +587,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         137.  Ministère des Ressources naturelles et des Forêts Quebec. Découpages administratifs: ([https://mrnf.gouv.qc.ca/repertoire-geographique/couches-decoupages-administratifs/](https://mrnf.gouv.qc.ca/repertoire-geographique/couches-decoupages-administratifs/)), [https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr)
               
+        138.  Open Canada. Government of New Brunswick, New Brunswick Road Network (NBRN). Contains information licensed under the Open Government Licence – New Brunswick - [https://www.snb.ca/e/2000/data-E.html](https://www.snb.ca/e/2000/data-E.html)
+              
+        139.  Statcan Open Canada. Source: Statistics Canada, 2021 Census – Boundary files, 2025. Reproduced and distributed on an "as is" basis with the permission of Statistics Canada. [https://www.statcan.gc.ca/en/terms-conditions/open-licence](https://www.statcan.gc.ca/en/terms-conditions/open-licence)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -645,6 +651,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Datafordeler: [https://datafordeler.dk/vejledning/brugervilkaar/kds-geografiske-data/](https://datafordeler.dk/vejledning/brugervilkaar/kds-geografiske-data/)
              
          *   Contains data from the Danish Climate Data Agency, Danish Place Names Predefined SHAPE, November 2025. [https://creativecommons.org/licenses/by/4.0/deed.da](https://creativecommons.org/licenses/by/4.0/deed.da)
+             
+         *   Statistics Denmark. PKM1: Passenger transport performance by transport unit ([https://www.statbank.dk/PKM1](https://www.statbank.dk/PKM1)). License: [https://www.dst.dk/en/presse/kildeangivelse](https://www.dst.dk/en/presse/kildeangivelse)
+             
+         *   Statistics Denmark. VEJ23: Road traffic of Danish vehicles on Danish roads by means of transport ([https://www.statbank.dk/VEJ23](https://www.statbank.dk/VEJ23)). License: [https://www.dst.dk/en/presse/kildeangivelse](https://www.dst.dk/en/presse/kildeangivelse)
              
     15.  **Ecuador**
          *   Quito, [https://www.quito.gob.ec/.](https://www.quito.gob.ec/)
@@ -1505,6 +1515,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Tailte IE: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Central Statistics Office, An Phríomh-Oifig Staidrimh. SAP2022T11T1ED - Usually resident by means of travel to work, school, college or childcare, Traffic Count, Bike Sharing Scheme. [https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/](https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     32.  **Isle of Man**
          
          Isle of Man Government
@@ -1613,9 +1625,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   SardegnaGeoportale. DBGT10K\_22\_v05 - 09 Comune: ([https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R\_SARDEG:11111111-1111-1111-1111-111111113293](https://webgis2.regione.sardegna.it/geonetwork/srv/ita/catalog.search#/metadata/R_SARDEG:11111111-1111-1111-1111-111111113293)), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
     35.  **Ivory Cost (Côte d'Ivoire)**
-         
-         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
-         
+         *   OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+             
+         *   Energy Data. Cote d'Ivoire - Administrative Boundaries, 2025 ([https://energydata.info/dataset/cote-divoire-administrative-boundaries-2016](https://energydata.info/dataset/cote-divoire-administrative-boundaries-2016)) License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     36.  **Japan**
          *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
              
@@ -1627,9 +1640,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 1 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 2 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 1 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 2 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -1662,6 +1675,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   大東市: [https://www.city.daito.lg.jp/soshiki/67/44745.html](https://www.city.daito.lg.jp/soshiki/67/44745.html)
              
          *   Dobox: [https://hiroshima-dobox.jp/resources/32489#:~:text=CreativeCommonsAttribution](https://hiroshima-dobox.jp/resources/32489#:~:text=CreativeCommonsAttribution)
+             
+         *   政府統計の総合窓口(e-Stat). Source: Portal Site of Official Statistics of Japan website ([https://www.e-stat.go.jp/](https://www.e-stat.go.jp/)), 出典：政府統計の総合窓口(e-Stat). Chapter 13 Transport and Tourism. [https://www.e-stat.go.jp/en/terms-of-use](https://www.e-stat.go.jp/en/terms-of-use)
              
     37.  **Liechtenstein**
          *   “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
@@ -1905,6 +1920,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Lisboa.pt Cartografia não homologada, não podendo ser utilizada para fins legais. Aplica-se a licença Creative Commons CCZero([https://opendefinition.org/licenses/cc-zero/](https://opendefinition.org/licenses/cc-zero/)). A reprodução da aplicação é autorizada, devendo ser citados os créditos do autor.
              
          *   Direção-Geral do Território: Licença de utilização - CC-BY-4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)) Sempre que o utilizador publique e/ou divulgue, por meio analógico ou digital, informação geográfica propriedade da Direção-Geral do Território, ainda que parcialmente adaptada, deverá atribuir créditos com inclusão do texto "Informação geográfica cedida pela Direção-Geral do Território
+             
+         *   Instituto Da Mobilidade E Dos Transportes. Sectoral Statistics and Reports. [https://www.imt-ip.pt/termos-de-utilizacao-e-responsabilidade/](https://www.imt-ip.pt/termos-de-utilizacao-e-responsabilidade/)
+             
+         *   Instituto Nacional de Estatística, Statistics Portugal. Modal split of freight transport (% of Tkm) of Inland transports by Geographic localization (Mainland) and Modes of transport; Annual - Statistical Office of the European Union, 2025. [https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine\_cont\_inst&INST=3585857](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_cont_inst&INST=3585857), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
              
     55.  **Russia**
          
@@ -2165,6 +2184,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Centro Nacional de Información Geográfica, CNIG: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
              
          *   Centro Nacional de Información Geográfica,BTN 2025 CC-BY 4.0 Instituto Geográfico Nacional: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
+             
+         *   OTLE - Observatorio del Transporte y la Logística en España. 2.7.1. Cuotas modales del transporte de viajeros. License: [https://otle.transportes.gob.es/aviso-legal](https://otle.transportes.gob.es/aviso-legal)
              
     63.  **Sweden**
          *   © 2009 Cartesia GIS AB
