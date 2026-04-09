@@ -380,7 +380,7 @@ This section survives any termination of this Agreement or the provision of Play
 
 ### **15\. GOVERNING LAW AND JURISDICTION**
 
-**15.1** You can only use PlayStation Store Wallet Funds on the PlayStation Store. We are not a bank and the PlayStation Store Wallet is not a bank account. PlayStation Store Wallet Funds do not earn interest. 
+The laws of the State of California, without regard to conflict-of-law rules, govern this Agreement and any dispute between you and the Sony Entities. Any dispute not subject to arbitration and not initiated in small claims court may be brought by either party in a court of competent jurisdiction in either the Superior Courts for the State of California in and for the County of San Mateo or in the United States District Court for the Northern District of California. Each party submits itself to the exclusive jurisdiction and venue of those courts, and waives all jurisdictional, venue and inconvenient forum objections to those courts. In any litigation to enforce any part of this Agreement, all costs and fees, including attorney’s fees, will be paid by the non-prevailing party.
 
 ### **16\. GENERAL LEGAL**
 
