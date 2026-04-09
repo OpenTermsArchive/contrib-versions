@@ -1,262 +1,98 @@
-This statement describes how Aetna (“Aetna”, “we” or “us”) may collect information about you through your interactions with us on our website and mobile applications (“apps”) that contain a link to this statement (collectively, the “Services”).
+Effective date: December 16, 2025
 
-If information collected through the Services is member information, please refer to the "[Notice of Privacy Practices](https://www.aetna.com/legal-notices/privacy.html#tab_content_section_responsivegrid_copy_responsivegrid_tabs_link_tabs_3)" and not this Privacy Statement. If you are a member covered by an Aetna insured policy, this Notice can be found on this app. If you are covered through an employer plan which is self funded, ask your employer for a copy of your Notice. Examples of member information are information collected when you enroll in an Aetna health plan or access services related to your health plan.
+Read these terms and conditions (this “Agreement”) for important information about our text alert services (“Aetna® text alerts”). Aetna is the brand name used for products and services provided by one or more of the Aetna group of companies, including Aetna Life Insurance Company and its affiliates (“Aetna”). **This agreement contains a mandatory arbitration of disputes provision that requires the use of arbitration on an individual basis to resolve disputes, rather than jury trials or class actions.**
 
-Our websites and mobile applications are designed for general audience and not directed to children under the age of 13. We do not knowingly collect personal information online from any person we know to be under the age of 13.
+Aetna or one or more of its affiliates offers access to health care service messages via recurring SMS (Short Message Service), MMS (Multimedia Message Service) text alerts and email alerts. Enrollment in text alerts requires a member to provide his or her own mobile phone number with an area code within the 50 United States or the District of Columbia. Enrollment in email alerts requires member to provide an email address. By enrolling to receive Aetna text or email alerts, you agree to these terms and conditions, which become effective upon your enrollment. You may be asked to verify your mobile phone number before the service will start. This requires responding to a text alert sent to your mobile phone confirming your enrollment in this Service.
 
-We want you to know what person information we may collect about you. Some examples of the personal information we may collect about you include:
+You acknowledge that alerts will be sent to the mobile phone number or email address you provide to Aetna. Such alerts may include personal information about your health based on the type of information you choose to receive via electronic communication, and whoever has access to the mobile phone or carrier account or email address will also be able to see this information.
 
-*   Contact information including your name, address, email address, telephone number and certain personal device information
-*   Your password, if you create an account
-*   Demographic information, such as your age and date of birth, sex and/or gender
-*   Language preferences
-*   Driver’s license information or Social Security number
-*   Information collected automatically through your device, such as web browser information, server log files, cookies, pixel tags and web beacons and other tracking information
+You acknowledge that if you elect to receive protected health information (PHI) as defined in the Health Insurance Portability and Accountability Act (HIPAA) via text alerts or email alerts, you are:
 
-We collect your personal information when you:
+1.  Electing to receive such information through an unencrypted method of communication.
+2.  Acknowledging that information contained in an unencrypted e-mail and/or text message is at risk of being intercepted and read by, or disclosed to, unauthorized third parties.
 
-*   Sign up or create a personal profile with us
-*   Enter into a transaction with us
-*   Request products, services or information from us
-*   Sign up with or interact with our products or services
-*   Participate in surveys or quizzes
+Once you enroll, the frequency of text or email alerts we send to you will vary. You will typically receive alerts when we have information for you about health care information. Aetna does not impose a separate charge for text alerts; however, your mobile carrier’s message and data rates may apply depending on the terms and conditions of your mobile phone contract. You are solely responsible for all message and data charges that you incur. Contact your mobile service provider about such charges.
 
-We may also automatically collect certain device information. This may include your device’s physical location, internet protocol (IP) address, battery information, app activity, data usage, and malware information. This helps us identify you and your device to prevent fraud and data loss and keep our app secure. It may also help us customize your application or website experience.
+**The following carriers are supported:**
 
-In some cases, and in all cases required by law, you can update the information you give us. Just send us an email or update your online profile. Please revisit the specific place in the app where you first gave us your information.
+AT&T, Verizon Wireless, Sprint, T-Mobile, U.S. Cellular, Boost Mobile, MetroPCS, Virgin Mobile, Alaska Communications Systems (ACS), Appalachian Wireless (EKN), Bluegrass Cellular, Cellular One of East Central, IL (ECIT), Cellular One of Northeast Pennsylvania, Cricket, Coral Wireless (Mobi PCS), COX, Cross, Element Mobile (Flat Wireless), Epic Touch (Elkhart Telephone), GCI, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri), Illinois Valley Cellular, Inland Cellular, iWireless (Iowa Wireless), Keystone Wireless (Immix Wireless/PC Man), Mosaic (Consolidated or CTC Telecom), Nex-Tech Wireless, NTelos, Panhandle Communications, Pioneer, Plateau (Texas RSA 3 Ltd), Revol, RINA, Simmetry (TMP Corporation), Thumb Cellular, Union Wireless, United Wireless, Viaero Wireless, and West Central (WCC or 5 Star Wireless).
 
-Providing personal information for the purposes of seeking health insurance coverage/enrollment is a voluntary submission of personal information under applicable law. If you choose not to provide your personal information to us, we may not be able to provide you with requested products, services or information.
+You may opt out of Aetna text alerts at any time.
 
-To respond to you. We use your personal information to deliver services and to respond to your requests. For instance, we may use it to fulfill your order, contact you about your order, send you email alerts, send you newsletters, and to provide you with related customer service.
+*   To stop receiving text alerts, text **STOP** to the number upon which you are receiving text alerts, including **37046, 37986, 37686, 39561, 41368, 41568, 41938, 46716, 47313, 49540, 66902, 67954, 69022, 70276, 72483, 77583, 79720** or **90156** (or the number from which you are receiving Aetna alerts). After you submit a request to unsubscribe, you will receive one final text alert from Aetna confirming that you will no longer receive text alerts. No additional text alerts will be sent unless you re-activate your enrollment to the text alert program.
+*   For questions about text alerts, text the word **HELP** to **37046, 37986, 37686, 39561, 41368, 41568, 41938, 46716, 47313, 49540, 66902, 67954, 69022, 70276, 72483, 77583, 79720** or **90156**.
 
-To send marketing and administrative information to you. For example, we may use your personal information to manage subscription services, such as your order management, billing, reorder experience, and account communication. We may also offer other products and services that may be of interest to you. This could be done through push notifications in our apps.
+Text alerts may come from any one of these short codes, and Aetna may change, add or remove short codes as necessary.
 
-To add to your experience. We may use your personal information to personalize your experience when interacting with us. We may present products and offers tailored to you. And we may use your details for our business purposes, along with data analysis, audits, fraud monitoring and prevention, and new product and service development. We may also use it to gauge the effectiveness of our campaigns, and to run and grow our business efforts.
+The Aetna text alert programs are offered on an “as is” basis and:
 
-For a sale or transfer of business assets. We may share or transfer your personal information to other parties if some or all of our business, assets or stock are sold, transferred or used as security. This includes in connection with any bankruptcy or similar proceeding.
+1.  May not be available in all areas at all times.
+2.  May not continue to work in the event of product, software, coverage or other service changes made by your wireless carrier.
 
-To give information to our businesses. As allowed by law, we may give your personal information to our affiliated businesses or to our business partners. They may use it to send you marketing and other communications.
+Aetna may change or discontinue any of its text alert programs without notice or liability to you. Aetna and its related companies and each of their respective officers, directors and employees are not responsible and shall not be liable for any losses or injuries of any kind resulting, directly or indirectly, from any Aetna text alert program or from technical failures or delays of any kind. Aetna reserves the right to cease delivery of text alerts to any person at any time in its sole discretion.
 
-To respond to law enforcement officials. We may share your personal information if required to do so by law enforcement officials or judicial authorities.
+#### **Dispute resolution**
 
-We may use or share your information including without court process, in matters involving claims of personal, public safety or in a litigation, where the information is pertinent. This may include use or sharing to allow us to pursue remedies or to limit the damages we may sustain.
+**Arbitration agreement; jury trial waiver; class action waiver; jurisdiction and venue.  
+**  
+**Please read this section carefully. it contains an arbitration agreement. this section may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. this section also contains procedures for final binding individual arbitration and a waiver of any and all rights to proceed in a class, collective, consolidated, private attorney general, or representative action (collectively, “class action”) in arbitration or litigation.  
+**  
+**This section also addresses that you and Aetna are giving up the right to have a jury trial to the fullest extent permissible by applicable law and to file or participate in a class action subject to the limited exclusion below. in arbitration, disputes are resolved by an arbitrator, not a judge or jury, and there is less discovery and appellate review than in court.**
 
-We may also use or share your information to enforce our terms and conditions, to protect our operations or those of any of our affiliates, or to protect our rights, privacy, safety or property and/or that of our affiliates, you or others.
+Most customer concerns can be resolved by contacting Member Service at the phone number on your ID card. In the event Member Service is unable to resolve a complaint to your satisfaction, this Section explains how any Dispute (as defined below) will be resolved.
 
-To our service providers. We may disclose personal information to our service providers, who provide services such as website hosting, data analysis, payment processing, order fulfilment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
+For purposes of this Section, the terms “Aetna,” “our,” “we,” or “us” include the Aetna group of companies, including Aetna Life Insurance Company and its affiliates, including its agents, representatives, employees, vendors and suppliers.
 
-To look for security breaches. We may use and disclose personal information to investigate security breaches or otherwise work with authorities in a legal matter.
+a) Arbitration Agreement. **You and Aetna agree that any dispute (defined below) shall be resolved by final and binding individual arbitration except as otherwise provided herein. notwithstanding the foregoing, either party may elect to have individual claims heard in small claims court if those claims qualify for small claims court and so long as the matter remains in such court and is not removed or appealed to a court of general jurisdiction and advances only on an individual (non-class action basis). any dispute over whether claims qualify for small claims court is for the small claims court to decide in the first instance and, if necessary, for a court of competent jurisdiction to decide.**
 
-To use information that does not identify you. If information does not personally identify you, we may use and share it for any purpose except as limited by applicable law. This includes information described in the “Cookies and other technologies” section. To the extent we are required to treat such information as personal information under applicable law, then we may use it for all the purposes we use and disclose personal information.
+You and Aetna agree that this Agreement affects interstate commerce and that the Federal Arbitration Act, 9 U.S.C. § 1 et seq., and federal arbitration law apply to this Arbitration Agreement and govern all questions as to whether a Dispute is subject to arbitration.
 
-To combine information. We may combine information that does not personally identify you with personal information. If we do, we will treat the combined information as personal information for as long as it stays combined.
+For purposes of this Section, except for disputes that qualify for Small Claims Court, “Dispute” shall include all disputes arising out of or related to this Agreement, text messages and/or emails sent from Aetna, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, including those that: (a) arose before you entered into this Agreement or out of a prior agreement with Aetna; (b) are subject to ongoing litigation where you are not a party or a member of a certified class; and/or (c) arise after the termination of this Agreement. “Dispute,” however, does not include disagreements or claims concerning patents, copyrights, trademarks, and trade secrets and claims of piracy or unauthorized use of intellectual property or claims for personal bodily injury, which shall not be subject to arbitration or the notice and informal process described below. The arbitrator shall decide all issues except for: (a) those that are specifically reserved for a court herein; (b) those issues relating to the scope, validity, and enforceability of the Arbitration Agreement or any of the provisions of this Section; (c) any issues arising from or relating to the arbitrability of any Dispute; and (d) whether the arbitration administrator cannot or will not administer the arbitration in accordance with this Arbitration Agreement—all of which are for a court of competent jurisdiction to decide. This Arbitration Agreement does not prevent you from bringing your Dispute to the attention of any federal, state, or local government agency.
 
-Like many other websites and online services, we collect traffic and usage patterns. It helps us analyze and improve the services we provide you. We use cookies, Web server logs and similar technologies to do this.
-
-We use this information for various purposes:
-
-*   Enhance web and mobile navigation
-*   Personalize your experience
-*   Understand how you use our Services
-*   Diagnose problems
-*   Measure the success of our marketing campaigns
-*   Deliver online content on services/products that may interest you
-*   Otherwise administer our Services
-
-A "cookie" is a bit of data that we can send to your browser when you link to our apps. It isn’t a computer program. It can’t get any data or personal information on your computer. Your browser software can be set to reject or accept cookies.
-
-Collecting IP addresses is also a standard practice and is done automatically by many websites and apps. We use IP addresses to administer our Services, measure service levels and help diagnose server problems. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses our Services, along with the time of the visit and the page(s) visited.
-
-Our Services use tracking technologies to collect and record your activities and movements across our websites throughout your browsing session, including page hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and API calls (“session data”). We use this information to provide us with analytics and to improve our products, services, and your experience. Such tracking may also include recorded sessions, which we may play back for these purposes. We may share session data with our vendors (which may change over time) for these purposes, who will use the session data solely on our behalf.
-
-We understand that the security, integrity and confidentiality of your information are very important to you. And we want to protect it. Here’s how:
-
-*   We seek to use technical, administrative and physical security measures to protect your personal information from unauthorized access, disclosure, use or changes.
-*   We regularly review our security practices. We test our apps regularly to mimic attempts to breach our security. We also have robust disaster recovery plans in place. Despite our best efforts, though, note that no security measures are perfect or 100 percent secure.
-
-We don’t show you third parties’ ads on our apps. But we may use third-party advertising companies to serve you our ads on other sites based on the web pages you may have visited or your online activity. These are known as interest-based or personalized ads. They may also be known as targeted ads.
-
-We (Aetna) show you these ads so you can see products and services that might interest you.
-
-In order to serve up information related to our Services, the third-party companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). We follow the guidelines of the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](https://youradchoices.com/principles). These help you understand and have greater control over the ads you see based on your online behavior. The DAA has a web site where you can [opt out from getting targeted ads](https://optout.aboutads.info/?c=2&lang=EN) from some or all of the companies in the program. Our apps don’t respond to “Do Not Track” signals from browsers.
-
-We may use analytics providers that use cookies, pixel tags and other, similar technologies to collect information about your use of the Services and your use of other websites and online services. Aetna and these other parties use these details to understand your online activity. We also use it to deliver ads and web site content based on your interests.
-
-This statement doesn’t apply to, and we aren’t responsible for, the cookies or web beacons, or other tracking methods used by third parties. You can check out the privacy policies of these other companies to learn more.
-
-The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf (“Third-Party Services”). We aren’t responsible for the privacy practices, content or accuracy of the Third-Party Services. We also don’t review or endorse their content or the products or services they describe.
-
-We are not responsible for the privacy or security of any information you provide to them or their handling of information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
-
-In addition, we aren’t responsible for the information, collection, use, disclosure or security policies and practices of other organizations. These include companies such as Apple, Google, Microsoft, RIM, or any other app developer, app provider, operating system provider, wireless service provider, or device manufacturer.
-
-If you have any questions or concerns about this statement, or the way your information is collected and used, please contact the Aetna Privacy Office at [Privacy.Officer@cvshealth.com](mailto:Privacy.Officer@cvshealth.com).
-
-Keep your information safe. Don’t email us information you consider confidential. If you’re a health plan member, call us at the number on your member ID card instead. Or call the number in the app you’re using. There are also some secure areas of our apps to share this type of information.
-
-We may change this Privacy Statement. You can find the date changes were last made at the bottom of the page. Any changes become effective when we post the revised Privacy Statement. Your use of the Services following these changes means you accept the revised version.
-
-A list of steps we take to secure your health information.
-
-[17 steps for securing health information (PDF)](https://www.aetna.com/document-library/about-aetna-insurance/document-library/17-steps-securing-health-information.pdf)
-
-### Our effort to reduce the use of SSNs
-
-#### Protect your medical records and identity
-
-Because we’re committed to protecting the privacy of our members, we’re moving away from the use of Social Security numbers whenever possible. Thieves often steal Social Security numbers when they hack websites and computers. A Social Security number is not required for health care services.
-
-**Here's how you can help**
-
-If you're a health care professional working with us:
-
-*   Collect the patient's member ID number, rather than a Social Security number.  
+1.  Mandatory Pre-Arbitration Informal Dispute Resolution. You and Aetna agree to engage cooperatively to try to resolve any Dispute informally prior to you or Aetna initiating an arbitration proceeding. You or Aetna must first send a written notice to the other party providing a detailed description of the Dispute; your or our name and contact information (address, telephone number, email address, and account number if applicable); sufficient information to enable you or us to identify any transaction at issue (including any receipts or purchase details); and a detailed description of: (a) the nature and basis of the Dispute and any claims and (b) the nature and basis of the relief sought (including a detailed calculation of any damages). Your notice to us must be personally signed by you (and your attorney if you are represented by legal counsel). Our notice to you must be personally signed by an Aetna representative (and our attorney if we are represented by legal counsel).  
+      
+    Your notice to Aetna must be sent to Aetna Life Insurance Company, c/o CT Corporation System, 357 E Center St. Ste 2J, Manchester, CT, 06040-4471. Our notice to you must be sent to the most recent contact information that you have provided to us.  
+      
+    For a period of 60 days from the date of receipt of a completed notice from the other party, you and we will work together using reasonable efforts to try to resolve the Dispute. If requested by us in connection with a notice initiated by you, you agree to personally participate in an individualized telephone settlement conference (and if you are represented by an attorney, your attorney may also participate) to discuss a potential early resolution of the matter. If requested by you in connection with a notice initiated by us, we agree to have an Aetna representative personally participate in an individualized, telephone settlement conference (and if we are represented by an attorney, our attorney may also participate). If the Dispute is not resolved within this 60-day period (which can be extended by agreement of the parties), you or we may commence arbitration consistent with the process set forth below. Compliance with this informal dispute resolution process is mandatory and a condition precedent to initiating arbitration.  
+      
+    Any applicable limitations period (including statutes of limitations) shall be tolled while the parties engage in this informal dispute resolution process.  
+      
+    If the sufficiency of a notice or compliance with this informal dispute resolution process is at issue, such issue may be raised with and decided by a court of competent jurisdiction at either party’s election, and the parties agree that any arbitration shall be stayed pending resolution of the issue. The court shall have the authority to enforce this condition precedent to arbitration, which includes the power to enjoin the filing or prosecution of a demand for arbitration. You or we may also elect to raise non-compliance with this informal dispute resolution process and seek relief in arbitration.  
+      
     
-*   For your own transactions, use your Employer Identification Number (EIN), rather than a Social Security number.  
+2.  Arbitration Rules and Procedures; Individualized Relief; Fees. To begin an arbitration proceeding, you must send an arbitration demand to National Arbitration and Mediation (“NAM”) with a copy to Aetna Life Insurance Company, c/o CT Corporation System, 357 E Center St. Ste 2J, Manchester, CT, 06040-4471 or we must send an arbitration demand to NAM with a copy sent to you at the most current address we have on file. The arbitration demand must be accompanied by a certification of completion of the informal dispute resolution process and a copy of the notice. The arbitration demand and certification must be personally signed by you and your attorney, if you are represented by legal counsel (if you are initiating arbitration) or by an Aetna representative or our attorney, if we are represented by legal counsel (if we are initiating arbitration). By filing the arbitration demand, the party and its attorney initiating the arbitration represent that to the best of their information, knowledge, and belief, formed after a reasonable inquiry that: (a) the arbitration demand is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (b) the claims or other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (c) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after reasonable opportunity for further investigation or discovery. The arbitrator is expressly authorized to impose any sanctions available under Federal Rule of Civil Procedure 11 on represented parties and their counsel.  
+      
+    The arbitration will be administered by NAM under its applicable rules, including the Comprehensive Dispute Resolution Rules and Procedures and/or the Supplemental Rules for Mass Arbitration Filings, as applicable (“NAM Rules”), as modified by this Arbitration Agreement. The NAM Rules and fee information are available at www.namadr.com. If NAM is unavailable or unwilling to administer the arbitration consistent with the NAM Rules as modified by this Arbitration Agreement, the parties shall agree on an administrator that will do so. If the parties cannot agree on an administrator, they shall jointly petition a court of competent jurisdiction to appoint an administrator that will administer the arbitration consistent with the NAM Rules as modified by this Arbitration Agreement. Payment of all arbitration fees will be governed by the NAM Rules. Notwithstanding the foregoing, the arbitrator may issue an award pursuant to Federal Rules of Civil Procedure 11 and 68 as referenced in this Arbitration Agreement. Aetna will consider a request to reimburse the consumer filing fee upon a demonstration of hardship. You and we agree that the parties have a shared interest in reducing the fees and costs and increasing the efficiencies associated with arbitration. Therefore, you or we may elect to engage with NAM regarding fees, and you and we agree that the parties (and your and our counsel, if you and we are represented) will work together in good faith to ensure that arbitration remains cost-effective for all parties.  
+      
+    You may choose to have the arbitration conducted by a phone, video, or in-person hearing, or through written submissions, except any Dispute seeking $25,000 or more or injunctive relief shall have an in-person or video hearing. You and Aetna reserve the right to request a hearing in any matter from the arbitrator. You and Aetna agree that you and an Aetna representative will personally appear at any hearing (along with your and our respective legal counsel, if the parties are represented by counsel). If an in-person arbitration hearing is required, then it will be conducted at a location in the United States county where you live or work or such other location agreed upon by both parties.  
+      
+    The arbitration will be conducted by a single arbitrator who will apply this Agreement as a court would and will adjudicate any Dispute according to applicable law and facts based upon the record only. The arbitrator shall issue a reasoned written award. The cost-shifting provisions of Federal Rule of Civil Procedure 68 shall apply and be awarded by the arbitrator if required by the Rule. The arbitration award shall have no preclusive effect in any other arbitration or proceeding that does not involve you and Aetna. An award that has been satisfied may not be entered in court.  
+    **Unless both you and we agree otherwise, all claims and disputes within the scope of this arbitration agreement must be arbitrated or litigated on an individual basis and not on a class, representative, collective, or private attorney general basis. claims of more than one person cannot be arbitrated jointly or be consolidated with those of any other person. additionally, you and Aetna agree that the arbitrator may award individual relief available in court (including, without limitation, damages, declaratory, injunctive, or other equitable relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's particular claim. the arbitrator may not issue a “public injunction.” the arbitrator does not have the power to vary these class action waiver provisions. if, for any reason, a court of competent jurisdiction holds that these restrictions are unenforceable with respect to a particular claim or request for relief (such as a request for public injunctive relief), and all appeals from that decision have been exhausted (or the decision is otherwise final), the parties agree that the particular claim or request for relief may proceed in a court of competent jurisdiction but shall be stayed pending arbitration of all remaining claims and requests for relief.  
+      
+    **
+3.  Additional Procedures for Mass Filings. You and Aetna agree that these procedures (in addition to all others provided in Section) shall also apply if you choose to participate in a “Mass Filing” (defined below).  
+      
+    If 25 or more similar Disputes (including yours) are asserted against Aetna by the same or coordinated counsel or are otherwise coordinated (“Mass Filing”), consistent with the definition and criteria of Mass Filing set forth in the NAM Rules, you understand and agree that by choosing to be part of a Mass Filing, these additional procedures shall apply, and the resolution of your Dispute might be delayed and ultimately proceed in court if not resolved through the process set forth below. The parties agree that throughout this process, their counsel shall meet and confer in an effort to informally resolve the Disputes, streamline procedures, address the informal exchange of information, modify the number of Disputes to be adjudicated and to promote efficiency, conservation of resources, and the resolution of claims.  
+      
+    If your claim is part of a Mass Filing, any applicable limitations periods (including statutes of limitations) shall be tolled for your Dispute from the time that the Mass Filing is first submitted to NAM until your Dispute proceeds in arbitration or is settled, withdrawn, otherwise resolved, or opted out of arbitration pursuant to this Section.  
+      
+    STAGE ONE: Counsel for the claimants and counsel for Aetna shall each select 25 claims per side (50 claims total) to proceed as cases in individual arbitration proceedings as part of an initial staged process. Alternatively, either side’s counsel may elect to have their 25 cases selected randomly. The number of Disputes to be selected to proceed as part of this initial staged process can be increased by agreement of counsel for the parties (and if there are fewer than 100 Disputes, all shall proceed individually in Stage One). Each of the 50 (or fewer) cases shall be assigned to a different arbitrator and proceed in individual arbitrations. If a case is withdrawn without the consent of both parties, then another Dispute shall be selected consistent with the selection process referenced above to proceed as part of this Stage One. The remaining Disputes shall not be filed or deemed filed in arbitration nor shall any administrative fees be assessed or collected in connection with those claims until they are selected to proceed to individual arbitration proceedings as part of a staged process. If after this initial set of proceedings the parties are unable to informally resolve the remaining Disputes, they shall participate in a global mediation session with a retired federal or state court judge to be jointly selected by counsel for the parties in an effort to resolve the remaining Disputes (as informed by the adjudications of cases in Stage One), and Aetna shall pay the mediator’s fee.  
+      
+    STAGE TWO: If the remaining Disputes have not been resolved at the conclusion of Stage One, counsel for the claimants and counsel for Aetna shall each select 50 Disputes per side (100 claims total) to be filed and to proceed as cases in individual arbitrations as part of a second staged process, subject to any procedural changes the parties agree to in writing following mediation or through continuing, good faith discussions. Alternatively, either side’s counsel may elect to have their 50 Disputes selected randomly. The number of Disputes to be selected to proceed as part of this second staged process can be increased by agreement of counsel for the parties (and if there are fewer than 200 Disputes, all shall proceed individually in Stage Two). No more than 3 cases may be assigned to a single arbitrator to proceed individually unless the parties agree otherwise. If a case is withdrawn without the consent of both parties, then another Dispute shall be selected consistent with the selection process referenced above to proceed as part of this Stage Two. The remaining Disputes shall not be filed or deemed filed in arbitration nor shall any administrative fees be assessed or collected in connection with those claims. After this second set of staged proceedings is completed, the parties shall engage in a global mediation session of all remaining Disputes with a retired federal or state court judge to be jointly selected by counsel for the parties in an effort to resolve the remaining Disputes (as informed by the adjudications of cases in Stages One and Two), and Aetna shall again pay the mediator’s fee.  
+      
+    Upon the completion of the global mediation session set forth in Stage Two, each remaining Dispute (if any) that is not settled or not withdrawn shall be opted out of arbitration and may only proceed in a court of competent jurisdiction consistent with this Agreement. Notwithstanding the foregoing, counsel for the parties may mutually agree in writing to proceed with the adjudication of the remaining Disputes in individual arbitration proceedings consistent with the process set forth in Stage Two (except Disputes shall be randomly selected and mediation shall be elective by agreement of counsel for the parties) or through another mutually-agreeable process.  
+      
+    A court of competent jurisdiction shall have the authority to enforce the Additional Procedures for Mass Filings section of the Arbitration Agreement, including by enjoining the Mass Filing, and the prosecution or administration of arbitrations.  
+      
+    The Additional Procedures for Mass Filings section of the Arbitration Agreement and each of its requirements are essential parts of this Arbitration Agreement. If, after exhaustion of all appeals, a court of competent jurisdiction decides that this section applies to your Dispute and is not enforceable, then your Dispute shall not proceed in arbitration and shall only proceed in a court of competent jurisdiction consistent with the remainder of this Agreement.  
+      
     
-
-If you're an Aetna member:
-
-*   Give your member ID number -- not your Social Security number -- when you go to the doctor, dentist or hospital.
-
-If you're an employer working with us:
-
-*   Work with your Aetna Contact or Account Rep to reduce the transmission of SSNs
-
-Protecting the privacy and security of sensitive information is one of our highest priorities. Accordingly, Aetna encrypts all Internet e-mails that contain member-specific health and financial information -- examples include, but aren't limited to, personal and demographic information (e.g., name, SSN, address), employment information, information about payment of benefits, provider information, diagnostic or treatment information, claims status information and information related to behavioral health and/or sexually transmitted disease services.
-
-Use of encrypted e-mail enables us to send quick, reliable communications while maintaining our commitment to protecting the confidentiality of member-specific information.
-
-**What is encrypted e-mail?**
-
-Encrypted e-mail is scrambled by the sender's e-mail program, which renders it unreadable until it is descrambled or "decrypted" by the recipient. Unencrypted e-mail is similar to a postcard - the message can be viewed by anyone who picks it up. Encrypted e-mail is similar to a sealed letter -- the content cannot be viewed until the envelope is opened - except, in this case, the envelope has a lock on it to which only the recipient has a key.
-
-**How does Aetna's use of encrypted e-mail impact recipients?**
-
-*   Whenever Aetna transmits member-specific health or financial information via Internet e-mail, the e-mail includes a message indicating that the content has been secured via encryption.
-*   Encrypted e-mails from Aetna include instructions on how to decrypt the message for viewing - this requires the recipient to perform a few simple clicks.
-*   Anyone who receives an encrypted e-mail from Aetna is able to send an encrypted reply.
-*   Third party messages that are sent to Aetna via the "Contact Us" feature on Aetna.com are also encrypted.
-
-**Who can receive member-specific health and financial information?**
-
-Aetna has strict procedures in place for determining if a third party can receive member health and financial information i.e., Aetna employees are required to verify whether a requestor is authorized to receive the information before it is released.
-
-**Whom can the recipient of an Aetna encrypted e-mail call with questions?**
-
-Each encrypted e-mail from Aetna includes instructions on how to open the message and view the secure content. In the event a recipient receives an error message while in the process of trying to open an Aetna-generated encrypted e-mail, the error message provides guidance for troubleshooting the problem. In addition, the error message includes the following contact information:
-
-If you experience any problems, please contact **[1-800-237-7476](tel:1-800-237-7476) (TTY: 711)**, option 4 (Secure Email) during normal business hours; 8AM to 6PM ET.
-
-### Medical identity theft is a growing problem
-
-Medical identity theft happens when someone steals your personal or health insurance information. They use it to get medical care, prescriptions, insurance payouts, even surgery. It’s a lot like regular identify theft. It can damage your credit rating. Cost you money and take time to clear up. Even hurt your chances to get some jobs. And it's happening more and more in the United States.
-
-#### Here are a few steps to protect yourself
-
-**Be careful with your member ID card**
-
-It could be used to get medical services or drugs. And these will be on your medical record permanently. If your card is missing, lost or stolen, notify Aetna Member Services right away.
-
-**Keep personal information personal**
-
-Don’t give out your insurance ID, Social Security or driver’s license numbers on the phone or by mail to just anyone. Make sure you initiated the contact. And make sure there is a valid reason for giving out the number.
-
-**Be on guard even if someone claims to be from Aetna**
-
-We avoid asking for your Social Security number. However, there are times we need it. For example, if you:
-
-*   Sent us a form that requested your Social Security number but you didn’t provide it or it is not readable, we might call you to ask for it.
-*   Left a voice mail for someone at Aetna that did not include enough information to identify you, we might ask for additional information when returning your call.
-
-**Review health care information**
-
-Take time to read mailed Explanation of Benefits (EOB) statements or online claims. Even if they are marked, “This is not a bill."  Look for:  
-
-*   Wrong group or identification numbers
-*   Unfamiliar provider offices or hospitals
-*   Dates for services on which you did not receive care
-*   Prescriptions you did not fill
-
-**Make sure “free” is free**
-
-If you visit a free clinic, make sure it’s free. Don’t show your ID card for any reason.
-
-**Check your credit report**
-
-Identity thieves can run up medical costs in your name. The bills can be mailed to another address. You won’t know unless you check your report. Or you get a call from a collection agency.
-
-Find out how you can get a credit report for free visit the [Federal Trade Commission](https://www.consumer.ftc.gov/articles/free-credit-reports).
-
-If you don't believe your health information is protected, you may be less likely to visit or talk to your doctors and other health care experts about health issues because you are afraid of who else may learn about your conditions. This may place you at greater risk: Your doctor needs to know as much as possible about your health to give you the best possible care.
-
-The Health Insurance Portability and Accountability Act (“HIPAA”) includes a privacy rule that require people who manage your health care keep your information private (other federal and state laws include privacy protections as well). Health care companies must follow the HIPAA privacy rule as well as health care providers. Examples of health care companies and health care providers include:
-
-*   Doctors
-*   Dentists
-*   Psychologists
-*   Chiropractors
-*   Hospitals
-*   Clinics
-*   Nursing homes
-
-Here are some examples of protected information:
-
-*   Anything your doctors, nurses, and others put in your medical record
-*   Conversations your doctor has about your care or treatment with nurses and others
-*   Information about you in an insurer's computer system
-*   Billing information about you at a doctor's office, clinic or hospital  
+4.  Opt-out. You have the right to opt out of arbitration by sending your personally signed, written notice of your decision to opt out to the following address: Aetna Life Insurance Company, c/o CT Corporation System, 357 E Center St. Ste 2J, Manchester, CT, 06040-4471, postmarked within 60 days of the first time you agreed to terms with Aetna that included an arbitration agreement. You must include: (a) your name and residential address; (b) the email address and/or telephone number associated with your account; and (c) a clear statement that you want to opt out of arbitration and seek to have any Dispute addressed in a court of competent jurisdiction consistent with this Agreement. By opting out of arbitration, all other provisions in this Agreement, including the class action waiver and jury trial waiver, remain in effect to the fullest extent permissible by applicable law.  
+      
     
+5.  Severability and Survival. Except as specifically provided in the Arbitration Agreement (e.g., the Additional Procedures for Mass Filings), if any part or parts of this Arbitration Agreement is/are found by a court of competent jurisdiction to be invalid or unenforceable as to your Dispute, then such specific part or parts shall be of no force and effect and shall be severed, and the remainder of the Arbitration Agreement shall continue in full force and effect. This Arbitration Agreement will survive the termination of this Agreement.  
+      
+    
+6.  Future Changes to Arbitration Agreement. If we make any future changes to this Arbitration Agreement (other than a change to our mailing address), you may reject any such change by sending your personally signed, written notice to the following address: Aetna Life Insurance Company, c/o CT Corporation System, 357 E Center St. Ste 2J, Manchester, CT, 06040-4471, postmarked within 30 days of the change. Such written notice does not constitute an opt-out of arbitration altogether. By rejecting any future change, you are agreeing that you will arbitrate any Dispute between you and Aetna in accordance with this version of the Arbitration Agreement.
 
-You have the right to:
-
-*   Know who has your personal health information
-*   Request limits on who can see this information
-*   Get a copy of this information
-*   Be provided with privacy notices that explain our use and disclosure of your information
-*   Have this information safeguarded
-*   Request corrections to your information
-*   Decide if you want to give your permission before your information can be used or shared for certain purposes, such as for marketing
-*   Get a report on when and why your information was shared for certain purposes
-*   File a complaint if you feel your right to privacy has been violated
-
-We have the responsibility to:
-
-*   Put safeguards in place to protect your information
-*   Limit the use and disclosure of your information to the minimum needed to accomplish our goals
-*   Enter into agreements with our contractors and others to make sure they use and disclose your information properly and safeguard it appropriately
-*   Have procedures in place to limit who can see your information
-*   Hold training programs for employees to learn how to protect your information
-
-Call us at the number on your member ID card. Tell us what you need. For example, you may want to:
-
-*   Request information on how we may use or share your health information
-*   See what health information we have about you
-*   Authorize someone else to see your private health information
-*   Ask us to refrain from sharing your information under certain circumstances. You may need to complete and send in a form depending on your request. Our response will depend on the nature of your request.
-
-Do you get your health insurance where you work? If so, where you go for privacy information depends on the kind of plan you joined.
-
-There are two kinds of health plans offered by employers. One kind of plan is called "insured" because an insurance company pays for claims. The other kind of plan is called "self-insured" because your employer actually pays for claims and hires another company only to run the systems that support the plan. If you are a member of a self-insured plan, you may need to work with your employer to address your privacy concerns.
-
-To find out whether to address a privacy issue with your employer or with Aetna, call the number on your member ID card or talk to your company HR representative.
-
-Contact us if you think your rights are being denied or your health information isn't being protected. Call the number on your member ID card. Or write to:
-
-HIPAA Member Rights Team  
-P.O. Box 14079  
-Lexington, KY 40512-4079  
-
-You may also write to the Secretary of the U.S. Department of Health and Human
-
-Services. You will not be penalized for filing a complaint.
-
-You have the right to ask us to communicate with you in a certain way or at a certain location.
-
-If you are on someone else's insurance and would like us to send your Explanation of Benefits statements and other claim information to an address that's different from the primary subscriber's, please call Member Services at the number on your ID card.
-
-To stop paper mailings of Explanation of Benefits and claim information, log in to your secure account and use the "Profile" link in the upper right corner to change your paper saving preferences. Your Explanation of Benefits and claim information will still be available in your secure account.
-
-You also can use the "Profile" link to opt in or out of receiving emails from us, or to add or change a phone number.
-
-[Log in or register](https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-xU5km2Pz5%2f9A%2f2FCwUlXE48HlDkyH9ruz3da8Iqw6pwcy09mgHFN5RmlkMNqguY5&TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue&WT.svl=Login_nav)
+b) Waiver of Jury Trial; Waiver of Class Actions. **To the fullest extent permissible by applicable law, you and Aetna waive the right to a jury trial. you and Aetna also waive any right to bring or participate in a class action in arbitration or in litigation in court. notwithstanding the foregoing, the parties retain the right to participate in a class-wide settlement.**
