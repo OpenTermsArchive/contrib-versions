@@ -353,7 +353,7 @@ _**Consent functionality in account management** – Communications Preferences_
 _**Consent obtained in other instances**_
 
 *   _Cookies and Tracking Technology_ - Information stored on your device (cookies and similar tracking technology), so that we can better understand how our sites and apps are used and send more relevant offers to you. See the Tracking Technology section below regarding how to withdraw this consent.
-*   _Sensitive Data_ - Such as allergies, disabilities or other health requirements which you provide when you enrol in an Esports Pro-Gaming competition. Contact [Privacy@Blizzard.com](mailto:Privacy@Blizzard.com) to withdraw this type of consent.
+*   _Sensitive Data_ - Such as allergies, disabilities or other health requirements which you provide when you enrol in an Esports Pro-Gaming competition. Contact [DPO@Blizzard.com](mailto:DPO@Blizzard.com) to withdraw this type of consent.
 
 3.  **Legitimate interest.** We use your information for purposes that are not harmful to your privacy and that can be reasonably expected within the context of your relationship with Blizzard. This includes using information for:
 
@@ -455,7 +455,7 @@ To help protect the privacy of the information and personal information you prov
 
 We recognise a special obligation to protect personal information about children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission when they are on line.
 
-Once a child states that his/her age is under 16 (or under 18 in the UK), he or she will be unable to register an account with us. Parents or guardians will be prompted to create a parental account and a child account for their child. If parents believe that we have unintentionally collected their children’s personal information, they may request the deletion of the information by contacting us at [EU-Privacy@Blizzard.com](mailto:EU-Privacy@Blizzard.com).
+Once a child states that his/her age is under 16 (or under 18 in the UK), he or she will be unable to register an account with us. Parents or guardians will be prompted to create a parental account and a child account for their child. If parents believe that we have unintentionally collected their children’s personal information, they may request the deletion of the information by contacting us at [DPO@Blizzard.com](mailto:DPO@Blizzard.com).
 
 Blizzard has engineered Parental Controls to help parents monitor and limit, if necessary, the amount of time their children spend interacting with our games. For more information, you may visit our Parental Controls area at [BattleNet Support](https://eu.battle.net/support/en/article/32243).
 
