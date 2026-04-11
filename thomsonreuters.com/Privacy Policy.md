@@ -15,7 +15,7 @@
 *   Corporations
 *   Tax, audit & accounting firms
 *   Government
-*   Partners & alliances
+*   Partnerships & alliances
 
 *   By use case
 *   By practice area
@@ -103,7 +103,7 @@ Discover how Harris, Hardy & Johnstone reduced hour-long reviews into minutes wi
 [Read case study](https://tax.thomsonreuters.com/en/insights/case-studies/elevating-audit-and-advisory-work-with-cocounsel-tax-and-audit)
 
 *   Legal professionals
-*   [Law enforcement](https://legal.thomsonreuters.com/en/c/clear/law-enforcement)
+*   [Law enforcement](https://legal.thomsonreuters.com/en/legal/law-enforcement)
 
 *   [City attorneys](https://legal.thomsonreuters.com/en/legal/city-attorneys)
 *   [Courts](https://legal.thomsonreuters.com/en/legal/courts)
@@ -121,16 +121,9 @@ See how the Pascua Yaqui Tribe used HighQ to transform legal matter management.
 
 [Read case study](https://legal.thomsonreuters.com/en/insights/case-studies/pascua-yaqui-tribe-transforms-legal-matter-management-with-highq)
 
-*   [Partnership program](https://www.thomsonreuters.com/en/partners)
-*   Become a partner
-*   Find a partner
-
+*   [About our Partnership program](https://www.thomsonreuters.com/en/partners)
 *   [Become a partner](https://www.thomsonreuters.com/en/partners/become-a-partner)
-*   [Partner portal](https://partnerengage.thomsonreuters.com/partnerengage/s/login/?ec=302&startURL=%2Fpartnerengage%2Fs%2F)
-
 *   [Find a partner](https://www.thomsonreuters.com/en/partners/find-a-partner)
-*   [Integration directory](https://www.thomsonreuters.com/en/partners/integrations-directory)
-*   [Partner directory](https://www.thomsonreuters.com/en/partners/partner-directory)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_1.svg)
 
