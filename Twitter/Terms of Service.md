@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-**Effective: January 15, 2026**
+**[X's Terms of Service](#outside-eu) for users outside the European Union, EFTA States, or the United Kingdom (including in the United States) have been updated. [X's Terms of Service](#intlTerms) for users in the European Union, EFTA States or the United Kingdom remain unchanged.**
 
 Summary of our Terms
 --------------------
@@ -147,7 +147,7 @@ Protecting our users’ data and our system resources is important to us. You fu
 
 We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at [https://x.com/tos](https://x.com/tos), will govern our relationship with you. We will try to notify you of material revisions, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms. 
 
-The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Services, or any patents — including without limitation disputes related to or arising from any Content (whether your or others’ Content), or your or others’ use of the Services or the complete or partial termination thereof — shall be brought and must proceed exclusively in the federal or state courts located in Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, X may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
+The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Services, or any patents — including without limitation disputes related to or arising from any Content (whether your or others’ Content), or your or others’ use of the Services or the complete or partial termination thereof — shall be brought and must proceed exclusively in the federal or state courts located in Wichita County or Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, X may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
 
 **To the extent permitted by law, you also waive the right to participate as a plaintiff or class member in any purported class action, collective action or representative action proceeding against us or our corporate affiliates.**
 
@@ -161,7 +161,7 @@ The X User Agreement is written in English but is made available in multiple lan
 
 If you have any questions about these Terms, please contact [us](https://help.x.com/forms).
 
-**Effective:** January 15, 2026
+**Effective:** April 10, 2026
 
 [Archive of Previous Terms](https://x.com/tos/previous)
 
