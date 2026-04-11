@@ -24,7 +24,7 @@
 
 Terms of Service
 
-*   _Last Updated: April 1, 2026_
+*   _Last Updated: April 10, 2026_
 *   [Change log](https://wordpress.com/tos-change-log)
 
 The Gist
@@ -352,7 +352,7 @@ Unless a refund is required by law, there are no refunds for POS terminals and a
 *   You are bound to [Google’s Terms of Service](http://www.google.com/intl/en/policies/terms) (because WooPay uses [Google’s Places API](https://developers.google.com/maps/documentation/places/web-service/overview) for a smoother checkout for your customers);
 *   You will comply with any additional terms and conditions required by any third-party services associated with your use of WooPay.
 
-**More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
+**More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [DHL](https://www.dhl.com/), [FedEx](https://www.fedex.com/), [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
 You’re solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and any regulations imposed by the mailing service(s) you use.
 
@@ -361,7 +361,17 @@ If you use services provided by the US Postal Service (“USPS”):
 *   You agree to comply with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm) and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among others.
 *   The following Privacy Act Statement applies to information you provide to USPS: Your information will be used to facilitate the purchase of USPS postage and fulfill transactional reporting requirements for USPS postage systems. Collection is authorized by 39 U.S.C. 401, 403, and 404. Providing the information is voluntary, but if not provided, your transaction may not be processed. USPS does not disclose your information to third parties without your consent except to facilitate the transaction, to act on your behalf or request, or as legally required. This includes the following limited circumstances: to a congressional office on your behalf; to financial entities regarding financial transaction issues; to a US Postal Service (USPS) auditor; to entities, including law enforcement, as required by law or in legal proceedings; and to contractors and other entities aiding us to fulfill the service (service providers). For more information regarding USPS privacy policies, visit [http://www.usps.com/privacypolicy](http://www.usps.com/privacypolicy)
 
-When using DHL’s services, you are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
+ If you ship with FedEx:
+
+*   Each shipment made with FedEx is subject to the country of origin location’s terms and conditions of carriage and the FedEx Service Guide in effect at the time of shipment, which terms are incorporated into this agreement by reference. FedEx reserves the right to modify the FedEx Service Guide, including a modification of the published transportation rates, at any time without notice. You are directed to the FedEx web site [www.fedex.com](http://www.fedex.com/) for changes in the FedEx Service Guide.
+*   You may not under any circumstances sell, assign, or transfer (including but not limited to, through third party billing) the benefit of pricing to any other party.
+*   You acknowledge and agree that your identity, contact information, account information and FedEx shipping information and data may be provided by FedEx to Easyship and by Easyship to FedEx. FedEx shall use the aforementioned information in accordance with the [FedEx Data Privacy Notice](https://www.fedex.com/en-us/trust-center/privacy.html).
+*   Claims for loss, damage, misdelivery, non-delivery, misinformation, non-information or processing of a package transported via FedEx pursuant to this agreement, must be filed with FedEx directly and solely by Easyship, and will be paid directly and solely to Easyship, in accordance with the FedEx Service Guide. FedEx shall have no liability to you for any claims.
+*   You cannot ship alcohol, firearms, or other items or commodities that may be prohibited by law. Such commodities require a separate agreement.
+
+When using DHL’s services:
+
+You are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
 
 In addition, you’re solely responsible for customs charges, import taxes or duties, and any other charges related to your shipments. If we incur any charges as a result of your use of the shipping services, you agree to reimburse us for the full amount within 7 days.
 
