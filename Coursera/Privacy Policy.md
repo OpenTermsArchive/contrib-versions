@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Last updated: January 29, 2026._
+_Last updated: April 13, 2026._
 
 Key Information
 ---------------
@@ -152,7 +152,7 @@ Retention of Personal Data
 
 We keep your Personal Data for no longer than necessary for the purposes for which the Personal Data is collected and processed, to comply with our legal and regulatory obligations, to exercise our legal rights, and to protect ourselves from legal claims. The length of time we retain Personal Data for depends on the purposes for which we collect and use it, the nature of your interaction with us, or as required to comply with applicable laws and to establish, exercise, or defend our legal rights.
 
-Biometric information is not retained beyond successful completion of identity verification, and in no event more than 2 years or in accordance with applicable law.
+Biometric facial data generated as part of the identity verification process is deleted upon successful completion of verification and in any event, no later than 2 years after collection. Other information uploaded as part of the identity verification process, including your name, address, date of birth, and a photo identification document, is deleted upon request and in any event, no later than 2 years after collection.
 
 Confidentiality & Security of Personal Data
 -------------------------------------------
