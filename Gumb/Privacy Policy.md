@@ -230,9 +230,9 @@ We distinguish the following categories:
 
 **10.3 Consent Management with CookieScript**
 
-We use CookieScript (a service of Digital Data Solutions B.V., Netherlands) to manage and document your consent settings. CookieScript stores your consent preferences in a cookie on your device and allows us to track your selection. The legal basis is Art. 6 para. 1 lit. f GDPR in conjunction with § 25 TTDSG or the corresponding ePrivacy provisions.
+To manage and document your consent preferences, we use CookieScript (a service provided by Objectis, UAB, Laisvės str. 60, LT-05120 Vilnius, Lithuania). CookieScript stores your consent preferences in a cookie on your device and allows us to keep track of your choices. The legal basis is Art. 6(1)(f) GDPR in conjunction with the applicable ePrivacy regulations.
 
-You can adjust or withdraw your consent settings (e.g., for cookies, analytics, or marketing tools) at any time via the cookie banner on our website or in the app settings. The withdrawal is free of charge, simple, and takes effect for the future without affecting the lawfulness of the processing carried out up to that point. Alternatively, you can direct your withdrawal to the contact details provided in section 1.
+You may adjust or withdraw your consent settings (e.g. for cookies, analytics or marketing tools) at any time via the cookie banner on our website or in the app settings. Withdrawal is free of charge, straightforward, and takes effect for the future, without affecting the lawfulness of any processing carried out prior to the withdrawal. Alternatively, you may direct your withdrawal to the contact details provided in Section 1.
 
   
 
