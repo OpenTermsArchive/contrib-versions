@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: April 8, 2026
+Last Updated: April 14, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -86,7 +86,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, Amazon Connect Health, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent, AWS Security Agent, and Amazon WorkSpaces.
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon Bio Discovery, Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, Amazon Connect Health, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent, AWS Security Agent, Amazon WorkSpaces, and AWS Deadline Cloud.
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
@@ -480,10 +480,28 @@ For clarity, you must not deduct or withhold taxes on payments to AWS if (a) you
 
 **21.9.** If you are part of the Amazon Dedicated Antenna Program, AWS may make equipment available to you to support your use of AWS Ground Station (the “Ground Station Equipment”). AWS or its affiliates maintain all rights in and control of the Ground Station Equipment and is not selling, renting, leasing, or transferring any ownership, control, intellectual or other rights in the Ground Station Equipment to you. You will not, and will not purport to, assign, grant, or transfer the Ground Station Equipment or any interest in the Ground Station Equipment to any individual or entity, and any such purported assignment, grant or transfer is void.
 
-22\. Amazon Elastic Transcoder
-------------------------------
+22\. Amazon Bio Discovery
+-------------------------
 
-The encoding, transcoding or decoding of files with Amazon Elastic Transcoder, and the use or distribution of files processed or created by Amazon Elastic Transcoder, may require that you have or obtain license rights from third parties, including owners or licensors of certain third-party patents related to audio and video formats. You are solely responsible for having or obtaining such licenses and paying any necessary royalties or fees, and AWS will have no obligations or liabilities under the Agreement (including defense and/or payment obligations) for third-party patent claims if you fail to have or obtain such licenses.
+**22.1.** "Amazon Bio Discovery Content" means Your Content that is processed by Amazon Bio Discovery.
+
+**22.2.** You agree and instruct that: (a) we may use and store Amazon Bio Discovery Content for troubleshooting, quality assurance, and testing of Amazon Bio Discovery and its underlying technologies; and (b) solely in connection with the troubleshooting, quality assurance, and testing described in clause (a), we may store such Amazon Bio Discovery Content in an AWS region outside of the AWS region where you are using Amazon Bio Discovery. Using Amazon Bio Discovery Content for troubleshooting, quality assurance, and testing does not include training models on Amazon Bio Discovery Content. You may instruct AWS not to use and store Amazon Bio Discovery Content for the purposes outlined in this Section 22.2 by using the opt-out mechanism indicated in the applicable service documentation.
+
+**22.3.** “Redacted Amazon Bio Discovery Content" means your Amazon Bio Discovery Content with your protein targets, structural identifiers, amnio acid sequences, experimental scores and results, and wet lab order results redacted in accordance with the redaction processes described in the applicable service documentation. You agree and instruct that: (a) we may use and store Redacted Amazon Bio Discovery Content to develop and improve Amazon Bio Discovery and its underlying technologies and to develop and improve AWS and affiliate machine-learning and artificial-intelligence technologies; and (b) solely in connection with the development and improvement described in clause (a), we may store your Redacted Amazon Bio Discovery Content in AWS regions outside the AWS regions where you are using Amazon Bio Discovery. You may instruct AWS not to use and store Redacted Amazon Bio Discovery Content for the purposes outlined in this Section 22.3 by using the opt-out mechanism indicated in the applicable service documentation.
+
+**22.4.** The output that you generate using Amazon Bio Discovery is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
+
+**22.5.** Except where permitted by Amazon Bio Discovery, you may not use Amazon Bio Discovery to generate Content for the express purpose of training an AI model or service or developing a substantially similar AI model or service.
+
+**22.6.** Neither you nor your End Users will, or will attempt to, extract or derive underlying components, including any model, model parameters, or model weights or reproduce the training data of Amazon Bio Discovery. Amazon Bio Discovery may allow you to customize models with data you provide (for example, by fine-tuning). You will have exclusive use of your customized model.
+
+**22.7.** Third-party models are available to you on Amazon Bio Discovery as “Third-Party Content”. By using a third-party model, you agree to the applicable terms provided to you.
+
+**22.8.** By using the Amazon Bio Discovery wet lab feature, you agree and instruct us to send Your Content to the selected wet lab vendor and their subcontractors. The wet lab feature is provided subject to the wet lab vendor’s capacity, availability, and acceptance of an order.
+
+**22.9.** Amazon Bio Discovery is not intended for use by itself in regulatory submissions. You are responsible for making your own assessment of whether your use of Amazon Bio Discovery meets applicable legal and regulatory requirements.
+
+**22.10.** You may access some parts of Amazon Bio Discovery without providing a payment method. Until you provide a payment method, your AWS Contracting Party is Amazon Web Services, Inc. Once AWS prompts you for a payment method, continued access to Amazon Bio Discovery may require you to provide and maintain a valid form of payment. 
 
 23\. AWS OpsWorks
 -----------------
@@ -953,7 +971,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.9.3.** Your use of Amazon Rekognition is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms)[](#_msocom_1).
 
-**50.10. Defense of Claims and Indemnity for Indemnified Generative AI Services.** AWS Services may incorporate generative AI features and provide Generative AI Output to you. “Generative AI Output” means output generated by a generative artificial intelligence model in response to inputs or other data provided by you. “Indemnified Generative AI Services” means, collectively, generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Nova Forge Models (as defined below)**,** Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform, Amazon Connect, Amazon Connect Health, Amazon Lex, Kiro (excluding Kiro Free Tier), and the Amazon Quick Suite (including Amazon QuickSight). The following terms apply to the Indemnified Generative AI Services:
+**50.10. Defense of Claims and Indemnity for Indemnified Generative AI Services.** AWS Services may incorporate generative AI features and provide Generative AI Output to you. “Generative AI Output” means output generated by a generative artificial intelligence model in response to inputs or other data provided by you. “Indemnified Generative AI Services” means, collectively, generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Nova Forge Models (as defined below)**,** Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform, Amazon Bio Discovery (excluding Amazon Bio Discovery Academic Tier), Amazon Connect, Amazon Connect Health, Amazon Lex, Kiro (excluding Kiro Free Tier), and the Amazon Quick Suite (including Amazon QuickSight). The following terms apply to the Indemnified Generative AI Services:
 
 **50.10.1.** Subject to the limitations in this Section 50.10, AWS will defend you and your employees, officers, and directors against any third-party claim alleging that the Generative AI Output generated by an Indemnified Generative AI Service infringes or misappropriates that third party’s intellectual property rights, and will pay the amount of any adverse final judgment or settlement.
 
