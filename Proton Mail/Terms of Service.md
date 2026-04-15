@@ -7,7 +7,7 @@ By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](http
 
 The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://proton.me/wallet/terms). If you use Proton Wallet or receive Bitcoin in Proton Wallet, you also consent to the Proton Wallet terms of use.
 
-The Proton Lumo integration with the Services is subject to its own [terms of use(new window)](https://lumo.proton.me/legal/terms). By using Lumo with your Account, you also consent to the Lumo terms of use.
+The Proton Lumo integration with the Services is subject to its own [terms of use](https://proton.me/lumo/terms). By using Lumo with your Account, you also consent to the Lumo terms of use.
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services. If you operate an organization on our Services, you must ensure that all individuals with access to an Account within your organization have read and understood these Terms, and you accept that any actions taken by such users may result in enforcement measures being applied to the organization’s Account.
 
@@ -166,7 +166,7 @@ Subscriptions and credits are linked to the Account they have originally been pu
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your Account. In case of a dispute or chargeback, we reserve our right to suspend your account until settlement of the dispute.
 
-Participating in Proton's referral program (by inviting a third party to create an account and use a Service through the dedicated in-Service process) may reward you with credits on your Account and/or additional features (such as storage space) for your Account, based on availability and specific promotional campaigns. These benefits are provided by Proton at its own discretion and no referral activity shall entitle you to credits, additional features, and/or a right to a payment from Proton. For the avoidance of any doubt, no monetary compensation is offered by Proton for any such referral, unless agreed otherwise in writing by Proton.
+Participating in Proton's referral program (by inviting a third party to create an account and use a Service through the dedicated in-Service process) may reward you with credits on your Account and/or additional features (such as storage space) for your Account, based on availability and specific promotional campaigns. These benefits are provided by Proton at its own discretion and no referral activity shall entitle you to credits, additional features, and/or a right to a payment from Proton.
 
 10\. Modification of plan or billing cycle
 ------------------------------------------
