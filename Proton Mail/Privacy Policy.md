@@ -14,7 +14,7 @@ Proton’s Privacy Policy describes how Proton collects, uses, and deletes your 
 *   [Proton Pass Privacy Policy](https://proton.me/pass/privacy-policy)
 *   [Proton Wallet Privacy Policy](https://proton.me/wallet/privacy-policy)
 *   [Proton Meet Privacy Policy](https://proton.me/meet/privacy-policy)
-*   [Lumo Privacy Policy(new window)](https://lumo.proton.me/legal/terms)
+*   [Lumo Privacy Policy](https://proton.me/lumo/privacy-policy)
 *   [Proton Business Privacy Policy](https://proton.me/business/privacy-policy)
 
 By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy and its product-specific privacy policies (together, the "Privacy Policy"). The Privacy Policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. The Privacy Policy is to be read and understood as being a complement to our [Terms of Service](https://proton.me/legal/terms).
