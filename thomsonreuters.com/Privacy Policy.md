@@ -296,6 +296,7 @@ Complete legal work faster with AI that unites research, analysis, and drafting 
 [Learn more](https://legal.thomsonreuters.com/en/products/cocounsel-legal)
 
 *   [Westlaw Edge](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge/plans-pricing?segment=corporation)
+*   [Westlaw Advantage](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-advantage/plans-pricing?segment=corporation)
 *   [CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-essentials/plans-pricing?segment=corporation)
 *   [CoCounsel Legal](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/700/plans-pricing?segment=corporation)
 *   [Practical Law](https://sales.legalsolutions.thomsonreuters.com/en-us/products/practical-law/plans-pricing?segment=corporation)
