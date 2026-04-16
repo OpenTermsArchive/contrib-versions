@@ -5,23 +5,6 @@ Version 1.7, 09-08-2025
 
 [Easy-to-read version](https://www.bankid.com/en/legal/privacy-policy-bankid/easy-to-read-privacy-policy)
 
-**Contents:**
-
-*   General
-*   Who we are
-*   How your personal data is gathered
-*   How your personal data is processed
-*   List of personal data processing
-*   Reinforcement measures
-*   Support cases
-*   Improving and maintaining the services
-*   Our processing as data controller
-*   Recipients of personal data
-*   How your data is protected
-*   Your rights
-*   Data transfer
-*   Changes
-
 General
 -------
 
@@ -571,3 +554,20 @@ Changes
 -------
 
 We may change this Privacy Policy from time to time. If we change the Privacy Policy, the new version will apply from the time we publish it on this page. You can see when we last made updates at the top of the page.
+
+**Contents:**
+
+*   General
+*   Who we are
+*   How your personal data is gathered
+*   How your personal data is processed
+*   List of personal data processing
+*   Reinforcement measures
+*   Support cases
+*   Improving and maintaining the services
+*   Our processing as data controller
+*   Recipients of personal data
+*   How your data is protected
+*   Your rights
+*   Data transfer
+*   Changes
