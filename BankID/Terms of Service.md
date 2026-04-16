@@ -118,22 +118,22 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/tjej_orange_1400x930.jpg)
+[![](/assets/stock/news/news_payment_ENG.jpg)
 
-#### BankID contributes to a secure digital society
+#### New payment flow launched
 
-2025-12-17
+2026-04-08
 
-Read about how our work is contributing to decreasing fraud and protecting citizens, organizations and society at large.](https://www.bankid.com/en/about-us/news/bankid-contributes-to-a-secure-digital-society)[![](/assets/stock/1400x930/bankid_id-kort02-lo.jpg)
+For businesses who initiate payments, we are launching a new payment flow with the possibility to add a warning.](https://www.bankid.com/en/about-us/news/new-payment-flow-launched)[![](/assets/stock/news/widget_2025.jpg)
 
-#### Extenda Retail merchants can now verify digital ID cards
+#### Have you added our widgets?
 
-2025-12-03
+2026-02-19
 
-Extenda Retail is launching support for digital ID cards from BankID in the Hii Retail cloud platform.](https://www.bankid.com/en/about-us/news/extenda-retail-merchants-can-now-verify-digital-id-cards) [![](/assets/stock/1400x930/kvinna-kavaj.jpg)
+Our widgets takes you straight to scanning a QR code or your digital ID card from your phone's locked screen.](https://www.bankid.com/en/about-us/news/have-you-added-our-widgets)[![](/assets/stock/employees/andreas-bergqvist_outdoors.jpg)
 
-#### BankID through ’Auktorisationssystem för elektronisk identifiering’
+#### Finansinspektionen prioritises security
 
-2025-11-20
+2026-02-10
 
-Public organisations can now connect to BankID through ’Auktorisationssystem för elektronisk identifiering’.](https://www.bankid.com/en/about-us/news/bankid-through-auktorisationssystem-for-elektronisk-identifiering)
+Two of Finansinspektionen's three areas of priority for 2026 concern security. A welcomed move, says our Head of Security Andreas Bergqvist.](https://www.bankid.com/en/about-us/news/finansinspektionen-prioritizes-security)
