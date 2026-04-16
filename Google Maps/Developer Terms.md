@@ -210,6 +210,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Open Data Österreich - [https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4#additional-info](https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4#additional-info)
             
+        *   AustriaTech, Mobilitydata Austria - Mobilitaetsdaten Österreich. UVARBOX Pilot TEST-Datensatz, [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+            
     5.  **Argentina**
         *   Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -255,6 +257,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Open Data Portal for Belgian Public Transport - [https://data.belgianmobility.io/terms.html](https://data.belgianmobility.io/terms.html), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         *   Open Data Wallonie-Bruxelles. Axes de rues - Vitesses maximales 2026. [https://www.odwb.be/terms/terms-and-conditions/](https://www.odwb.be/terms/terms-and-conditions/), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        *   Open Data Wallonie-Bruxelles - Ville de Liège. Axes de rues - Vitesses maximales 2026. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     7.  **Belgium**
         *   GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
@@ -655,6 +659,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Statistics Denmark. PKM1: Passenger transport performance by transport unit ([https://www.statbank.dk/PKM1](https://www.statbank.dk/PKM1)). License: [https://www.dst.dk/en/presse/kildeangivelse](https://www.dst.dk/en/presse/kildeangivelse)
              
          *   Statistics Denmark. VEJ23: Road traffic of Danish vehicles on Danish roads by means of transport ([https://www.statbank.dk/VEJ23](https://www.statbank.dk/VEJ23)). License: [https://www.dst.dk/en/presse/kildeangivelse](https://www.dst.dk/en/presse/kildeangivelse)
+             
+         *   GeoDanmark. GeoFA Data, 2025. [https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/](https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/), [https://creativecommons.org/licenses/by/4.0/deed.da](https://creativecommons.org/licenses/by/4.0/deed.da)
              
     15.  **Ecuador**
          *   Quito, [https://www.quito.gob.ec/.](https://www.quito.gob.ec/)
@@ -1321,6 +1327,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Landeshauptstadt Stuttgart. Baustellen - aktuell. – [https://opendata.stuttgart.de/de/dataset/baustellen](https://opendata.stuttgart.de/de/dataset/baustellen), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Statistisches Bundesamt (Destatis). Federal Statistical Office 2026, Road freight transport statistics. [https://www-genesis.destatis.de/datenbank/online/#modal=register,termsofuse](https://www-genesis.destatis.de/datenbank/online/#modal=register,termsofuse)
+             
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
              
@@ -1387,6 +1395,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   DataMap Wales [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
          *   OS Data Hub. Boundary-Line - Contains public sector information licensed under the Open Government Licence v3.0: [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
+         *   London Datastore, Greater London Authority. London Wide Ultra Low Emission Zone 2023, Low Emission Bus Zones, Low Emission Zone. Contains public sector information licensed under the Open Government Licence v2.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)
+             
+         *   Scotland’s Census. Scotland's Census 2022 - Education, labour market and travel to work - Chart data. Contains public sector information licensed under the Open Government Licence v3.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
     23.  **Greece**
          *   EuroGeographics; Copyright Geomatics Ltd.
@@ -1516,6 +1528,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Tailte IE: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
          *   Central Statistics Office, An Phríomh-Oifig Staidrimh. SAP2022T11T1ED - Usually resident by means of travel to work, school, college or childcare, Traffic Count, Bike Sharing Scheme. [https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/](https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+         *   Gov.ie, Government of Ireland - Rialtas na hÉireann. Transport Trends 2020, from the Irish Government Economic and Evaluation Service (IGEES); Department of Transport. [https://www.gov.ie/en/privacy-policy/](https://www.gov.ie/en/privacy-policy/)
+             
+         *   TII - Transport Infrastructure Ireland. Traffic Data, 000000001073 - TMU N07 006.0 E - N07. [https://data.tii.ie/](https://data.tii.ie/), [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
              
     32.  **Isle of Man**
          
@@ -2187,6 +2203,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   OTLE - Observatorio del Transporte y la Logística en España. 2.7.1. Cuotas modales del transporte de viajeros. License: [https://otle.transportes.gob.es/aviso-legal](https://otle.transportes.gob.es/aviso-legal)
              
+         *   DGT, Dirección General de Tráfico. Zonas de Bajas Emisiones (ZBE). [https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es)
+             
+         *   INE, Instituto Nacional de Estadística. Estadística de Transporte de Viajeros. [https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+             
     63.  **Sweden**
          *   © 2009 Cartesia GIS AB
              
@@ -2201,6 +2221,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Data Stockholm University
              
          *   SMHI, [https://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759,](https://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759) changes were made.
+             
+         *   SCB - Official Statistics of Sweden. Vehicles kilometres, 2025. [https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/](https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+             
+         *   Sweden Trafikanalys - Transport Analysis. Vehicle statistics, 2025. Official Statistics of Sweden. [https://www.trafa.se/en/pages/official-statistics-of-sweden/](https://www.trafa.se/en/pages/official-statistics-of-sweden/)
              
     64.  **Switzerland**
          *   © Swisstopo
@@ -2316,6 +2340,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Open data portal İstanbul.: [https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi](https://data.ibb.gov.tr/dataset/istanbul-bisiklet-yollari-verisi), [https://data.ibb.gov.tr/license](https://data.ibb.gov.tr/license)
              
+         *   TÜİK - Turkish Statistical Institute, Türkiye İstatistik Kurumu. Motor Vehicles, February 2026 (Revised). [https://www.tuik.gov.tr/Kurumsal/Yasal\_Uyari](https://www.tuik.gov.tr/Kurumsal/Yasal_Uyari)
+             
     69.  **Turks and Caicos**
          
          © Salt Cay Devco Ltd.
@@ -2330,6 +2356,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Welsh Government (Wales, UK) [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
          *   DataMap Wales [https://datamap.gov.wales/layers/inspire-nrw:NRW\_FOREST\_ROADS](https://datamap.gov.wales/layers/inspire-nrw:NRW_FOREST_ROADS)
+             
+         *   Northern Ireland, Department for Infrastructure (An Roinn Bonneagair). Public Transport Statistics Northern Ireland 2024-25. Contains public sector information licensed under the Open Government Licence v3.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
+         *   Traffic Scotland Data Hub. Datex II. [https://www.traffic.gov.scot/terms-and-conditions](https://www.traffic.gov.scot/terms-and-conditions), [https://www.traffic.gov.scot/traffic-scotland-developer-hub.](https://www.traffic.gov.scot/traffic-scotland-developer-hub)
              
     71.  **Ukraine**
          
@@ -3025,6 +3055,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
              
          *   Government of Ghana - [https://data.gov.gh/](https://data.gov.gh/) Licenses: [https://opendatacommons.org/licenses/by/1-0/](https://opendatacommons.org/licenses/by/1-0/)
+             
+         *   Humanitarian Data Exchange- HDX. Ghana - Subnational Administrative Boundaries. [https://data.humdata.org/faqs/licenses#auto-faq-\_Data\_Licenses\_Content\_-Creative\_Commons\_Attribution\_for\_Intergovernmental\_Organisations\_\_CC\_BY\_IGO\_-a](https://data.humdata.org/faqs/licenses#auto-faq-_Data_Licenses_Content_-Creative_Commons_Attribution_for_Intergovernmental_Organisations__CC_BY_IGO_-a), [https://creativecommons.org/licenses/by/3.0/igo/](https://creativecommons.org/licenses/by/3.0/igo/)
              
     87.  **Morocco**
          *   OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
