@@ -12,6 +12,8 @@ Below, you will find privacy policies relevant to the various ways you may still
 
 To learn more about each user type and applicable privacy policy, please refer to sections below.
 
+Expand All
+
 User Privacy Policy
 -------------------
 
