@@ -1,367 +1,456 @@
-VR’s data protection notice
+VR’s Data Protection Notice
 ---------------------------
 
-17 February 2025
+21 April 2026
+
+This data protection notice may be updated from time to time, for example due to changes in legislation, service development, or changes in our practices. Any significant changes will be communicated appropriately, and the latest version of the data protection notice will always be available in our service. We recommend reviewing the notice regularly to stay informed of any updates.
 
 ### How we process your personal data
 
-As we want to protect your privacy as comprehensively as possible, we take data protection seriously. We use your personal data only for the purposes we have indicated in advance and only to the extent necessary for the purpose of the processing in question. Your data will only be processed by individuals authorised to process personal data due to their work tasks. The data protection notice covers the protection of your privacy and, for example, the following information:
+Protecting your privacy is important to us. We process your personal data carefully, lawfully and transparently. We use your personal data only for the purposes specified in advance and described in this notice, and only to the extent necessary for the purpose of the processing.
 
-*   what types of personal data we collect and for which purposes  
+Your personal data will only be processed by those individuals whose job duties require them to do so.
+
+In this data protection notice, we explain, among other things:
+
+*   what personal data we collect and for what purposes we use it  
     
-*   when and how we can share your personal data with partners  
+*   when and on what grounds we may disclose or transfer your personal data  
     
-*   what rights you have and how you can access your personal data.  
+*   what rights you have in relation to your personal data and how you can exercise these rights.  
     
 
-1 Controller
-------------
+1 Data controller
+-----------------
 
-*   VR-Group Plc (hereinafter referred to as “VR”)  
+*   VR Group Plc (hereinafter VR)  
     
 *   Business ID: 1003521-5  
     
-*   PO Box 488  
+*   PO Box 488, 00096 VR  
     
-*   FI-00096 VR, Finland  
-    
-*   Tel. +358 307 10  
+*   Tel. 0307 10  
     
 
-2 Data Protection Officer and contact information
--------------------------------------------------
+2 Contact person for matters relating to the register
+-----------------------------------------------------
 
-VR Group’s data protection officer: **tietosuojavastaava(a)vr.fi**
-
-In any questions related to the register, please contact us through [the data request form](https://www.vr.fi/en/privacy-statement-request).
-
-3 Customers who have created a VR account
------------------------------------------
-
-Anyone over the age of 13 can create an account in VR’s services. Once you have created an account, you are responsible for your account’s login information as well as its accuracy, timeliness and appropriate use. If you suspect that someone has gained unauthorised access to your login information, please change your password immediately. You can delete your account by requesting its deletion via the [feedback form](https://www.vr.fi/en/feedback).
-
-### 3.1 What customer information do we collect and process?
-
-**Basic information about you and your customer account, such as**
-
-*   Name  
+*   VR Group Data Protection Officer: **tietosuojavastaava(a)vr.fi**  
     
-*   Address details  
-    
-*   Phone number  
-    
-*   Email address  
-    
-*   Date of birth  
-    
-*   Language  
-    
-*   Start of customer relationship and registration channel  
+*   You can contact us regarding questions about the register [via the form.](https://www.vr.fi/en/privacy-statement-request)  
     
 
-**Any consent and prohibitions related to direct marketing you have given**
+3 Data subjects and data sources
+--------------------------------
 
-*   Marketing  
-    
-*   Surveys and questionnaires  
-    
-*   Travel-related notifications  
-    
-*   Use of location data  
-    
+This data protection notice describes the processing of personal data relating to VR’s customer relationships, travel, the use of digital services and customer communications.
 
-**Information relating to travel and services**
+### 3.1 Categories of data subjects
 
-*   Purchase-related service, sales, payment and travel transaction data, including the journey details, payment method and other payment information, email address and/or telephone number needed for train ticket delivery or other service.  
-    
-*   When you purchase a personal ticket, we also ask you to provide your name and date of birth.  
-    
-*   Travel document information required for border crossings, such as passport number.  
-    
-*   Vehicle information provided by you for car transport and any photographs taken by VR of your car for processing damage cases.  
-    
-*   Data required for ordering and carrying out assistance service, such as name and contact information and a description of the need of assistance.  
-    
+This notice applies to the following groups of data subjects:
 
-**Information relating to the use of electronic services and background processes, such as**
+**Customers who have created a VR account**
 
-*   Service usage data in different transaction channels, such as the Internet, vending machine and mobile services, including log and service transaction data and cookies required for combining the page view count.  
+Individuals who have registered for VR’s services and created a personal VR account. Anyone aged 13 or over can create an account. The VR account contains information relating to the customer relationship, transactions and travel, as well as the consents and choices provided by the customer.
+
+**Other customers**
+
+Other customers include people who interact with VR without a VR account, for example:
+
+*   when buying a ticket from a ticket office, ticket machine or retailer  
     
-*   You can read about the collection of cookies in our [cookie policy](https://www.vr.fi/en/cookie-information).  
+*   when travelling on a train  
+    
+*   when contacting customer service  
+    
+*   when taking part in surveys, campaigns or prize draws.  
     
 
-**Information relating to communications and studies**
+**Corporate customer contacts and business travellers**
 
-*   Information that you have submitted on feedback and claim application forms and payments and messages relating to their processing. We will only process your health data in conjunction with customer contacts requiring it.  
+A corporate customer refers to a company that has entered into an agreement with VR. These registered parties include:
+
+*   contact persons appointed by the company  
     
-*   Information provided in surveys related to service events, such as purchases or feedback processing.  
+*   company administrators for VR’s services  
     
-*   In customer surveys, we request demographic information, such as gender, to assess how representative the respondents are of the Finnish population.  
-    
-*   Information provided in connection with games and draws.  
-    
-*   Data related to marketing and customer communications, such as what kind of messages you have been sent and which messages you have opened.  
-    
-*   Information collected in surveys and questionnaires aimed at registered customers.  
+*   business travellers whose VR account is linked to a corporate profile  
     
 
-### 3.2 How do we use your information and for what purposes will your information be processed
+Journeys made via the corporate profile and related data can be linked to the client company’s contractual relationship.
 
-The processing of your personal data can be based on the performance of a contract that you have entered into with VR or your consent. In addition, the basis for processing can be a legitimate interest or legal obligation.
+**Individuals using social media channels**
 
-**Based on a contract made with you**
+Data subjects also include individuals who interact with VR on social media channels, for example:
 
-We use your information to provide you with the best possible service throughout your customer relationship, both in face-to-face customer service and through our digital channels. By identifying you and your travel history and purchase behaviour, we can better address your needs and experience.
-
-We use the e-mail address you have provided to communicate about changes that are relevant to the customer relationship or other matters relevant to the customer relationship.
-
-We use your information for performing the services of your choice when you contact our customer service. In customer service, we use your information to find your previous purchase and message history and be able to assist you in questions and problems relating to your bookings. We process your ticket delivery details (telephone and/or email) in order to inform you of major changes and disruptions concerning the services you have purchased. If you submit feedback to us or claim for compensation, we will store your information to process your contact. We may also compile any of your future contacts. When you take part in games and draws, we create a contact person with your details to perform any drawing.
-
-The purpose of our surveys and questionnaires is to develop the quality and content of services. We send questionnaires targeting different customer groups, and after you have used our services, we may ask you about your experience of them. In addition, we may contact you to test new products and services. You can refuse to be sent surveys by contacting our customer service though the [feedback form](https://www.vr.fi/en/feedback). We process customer information to create diverse customer profiles and segments for marketing and targeting of benefits or for the development and statistical aggregation of our services, for instance. Such profiling does not have material impacts on the subject of the profiling.
-
-**Based on your consent**
-
-When you consent to marketing, we may send you general and targeted marketing messages. In these messages, we provide information about our topical campaigns, new products and services. In the VR Matkalla app, you can enable travel-related communications to get real-time information about the progress of your journey. By enabling location in the app, we can enrich your user experience of the app. When the processing of your personal data is based on your consent, you can change your consent whenever you like. To change your consent, [log in](https://www.vr.fi/en/log-in) to your personal details on our website or using the VR Matkalla app. Your health data may be occasionally required for processing your claims. In this case, we will separately request your consent. In order to improve your customer experience, we may offer customised content or other individual services in our digital channels. For additional information about the customisation of services, [see our cookie practices](https://www.vr.fi/en/cookie-information).
-
-**Based on legitimate interest** VR uses a social media management tool that collects and aggregates data from social media services. VR’s service agents and marketing communications specialists use the tool for creating and reporting responses and social media posts. We may transfer your information within VR Group on the basis of a legitimate interest, if there is a particular reason to do so. **Based on our legal obligations** With regard to trips to Russia, we collect your information and transfer it to border and other authorities. In addition, we may process your personal data to fulfil our obligations as laid down by law and regulations given by authorities, not forgetting security and responsibility. We may also transfer your data based on the authorities’ right to obtain information.
-
-4 Contact persons of corporate customers, ad­min­is­tra­tors and business travellers
-------------------------------------------------------------------------------------
-
-Corporate customers refer to companies that have a contract with us.
-
-Each company has a contact person whose information is stored in our customer register.
-
-Business travellers are employees of a customer company with a business profile linked to their VR account (see section 3 for more information) and who can travel on business trips.
-
-The company's administrator is a business traveller who has been granted the admin rights to VR’s services in the customer company. The company’s administrator can invite the company's business travellers and administrators to the service. The user accepts the creation or linking of the VR account to their own profile. The administrator can remove a business traveller of his own company from the user.
-
-The VR account can be connected to several different companies. The user chooses under which company they use VR's services.
-
-### 4.1 What customer information do we collect and process?
-
-We combine trips taken on a business profile with the customer company information. From the business traveller and the company administrator, we collect and process information about the company to which their account was linked as well as information about the VR account (more information in section 3). From the company's contact person, we collect the person’s name, email address, phone number and title.
-
-**Information relating to questionnaires and surveys**
-
-*   Information collected in other surveys and questionnaires  
+*   by following or commenting on VR’s pages  
     
-*   In customer surveys, we request demographic information, such as gender, to assess how representative the respondents are of the Finnish population.  
+*   sending messages  
     
-*   In some questionnaires/surveys, the survey results can be linked to an individual. However, the information is not reviewed at the individual level, but as groups, assessing satisfaction with on-board services among passengers on a specific route, for example.  
+*   taking part in campaigns or competitions  
     
 
-### 4.2 How do we use your information and for what purposes will your information be processed?
+In these situations, the processing of personal data may also involve joint controllership with the social media service provider, which is described in more detail later in this notice.
 
-The grounds for processing your personal data can be to perform a contract you have entered into with VR, your consent. legitimate interest or legal obligation.
+### 3.2 Sources of personal data
 
-**On the basis of a contract**
+We collect personal data primarily from the data subject themselves. Data is collected, for example:
 
-Information related to the VR account can be found in section 3.
-
-**Based on your consent**
-
-When you consent to marketing, we may send you general and targeted marketing messages. In these messages, we provide information about our topical campaigns, new products and services.
-
-When the processing of your personal data is based on your consent, you can change your consent whenever you like. To change your consent, [log in﻿, Opens in a new tab](https://www.vr.fi/en/log-in) to your personal details on our website or using the VR Matkalla app.
-
-**On the basis of legitimate interest**
-
-Processing the company contact person’s data is required for the controller’s legitimate interest and to perform the cooperation contract. We process the personal data of contact persons of VR’s external stakeholders for contacts necessary for the cooperation, such as communications, invoicing and to invite the contact person to different events. The data subject has been designated as the company’s contact person by the person who entered into the contract or by the data subject.
-
-5 Other VR customers
---------------------
-
-You can use our services anonymously when you purchase a ticket from a ticket vending machine, station ticket offices and R-Kioskis. On the other hand, you can use our services without logging in. In this case, your information will be collected in our customer register when purchasing and using our services.
-
-### 5.1 What customer information do we collect and process?
-
-We collect and process the customer information listed below: **Information relating to travel and services**
-
-*   Purchase-related service, sales, payment and travel transaction data, including the journey details, payment method and other payment information, email address and/or telephone number needed for train ticket delivery or other service.  
+*   in connection with registration for services and customer relationship management  
     
-*   When you purchase a personal ticket, we also ask you to provide your name and date of birth.  
+*   in connection with ticket purchases, travel and other service transactions  
     
-*   Travel document information required for border crossings, such as passport number.  
+*   in connection with customer service contacts, feedback and claims for compensation  
     
-*   Vehicle information provided by you for car transport and any photographs taken by VR of your car for processing damage cases.  
+*   in connection with surveys, research, campaigns and prize draws  
     
-*   Data required for ordering and carrying out assistance service, such as name and contact information and a description of the need of assistance.  
+*   in connection with the use of digital services (e.g. log and usage data)  
+    
+*   in connection with interactions on social media channels  
     
 
-**Information relating to the use of electronic services and background processes, such as**
+In addition, we may obtain personal data:
 
-*   Service usage data in different transaction channels, such as the Internet, vending machine and mobile services, including log and service transaction data and cookies required for combining the page view count.  
+*   from a client company when the relationship relates to a corporate contract  
     
-*   You can read about the collection of cookies in our [cookie policy](https://www.vr.fi/en/cookie-information).  
+*   from our partners in connection with the provision of the service  
     
-
-**Information relating to communications and studies**
-
-*   Customer service call recordings.  
-    
-*   Messages that you have sent to us, such as chat, email and social media messages.  
-    
-*   Information that you have submitted on feedback and claim application forms and payments and messages relating to their processing. We will only process your health data in conjunction with customer contacts requiring it.  
-    
-*   Information provided in surveys related to service events, such as purchases or feedback processing.  
-    
-*   In customer surveys, we request demographic information, such as gender, to assess how representative the respondents are of the Finnish population.  
-    
-*   Information provided in connection with games and draws.  
+*   from public authorities where required by law  
     
 
-### 5.2 How do we use your information?
+When using digital services, personal data may also be collected through the use of cookies and other similar technologies. Further information on these can be found [in our cookie policy.](https://www.vr.fi/en/cookie-information)
 
-The processing of your personal data can be based on the performance of a contract that you have entered into with VR or your consent. In addition, the basis for processing can be a legitimate interest or legal obligation.
+4 Purposes of processing personal data, categories of data and legal bases
+--------------------------------------------------------------------------
 
-**Based on a contract made with you**
+We process personal data for predefined purposes. The data categories processed for each purpose and the legal basis for processing are described below.
 
-We use your information for performing the services of your choice when you contact our customer service. In customer service, we use your information to find your previous purchase and message history and be able to assist you in questions and problems relating to your bookings.
+Processing may be based on a contract, consent, legitimate interest or a legal obligation, depending on the purpose of the processing.
 
-We process your ticket delivery details (telephone and/or email) in order to inform you of major changes and disruptions concerning the services you have purchased.
+Where the processing of your personal data is based on your consent, you may withdraw your consent at any time. You can withdraw your consent by logging into your account either [on our website](https://www.vr.fi/en/log-in) or in the VR Matkalla app.
 
-If you submit feedback to us or claim for compensation, we will store your information to process your contact. We may also compile any of your future contacts.
+If the processing is based on a legitimate interest, we have assessed the necessity of the processing and carried out a balancing test, in which we have weighed the controller’s legitimate interest against the data subject’s rights and freedoms. Our legitimate interests may include, for example, providing and improving transport services; ensuring safety and preventing misuse; maintaining and managing customer relationships; and developing services and customer experience. Processing is carried out only when we assess that it does not override the data subject’s fundamental rights or freedoms. In this assessment, we take into account, in particular, the data subject’s reasonable expectations based on their relationship with us, as well as the nature of the data and the impact of the processing.
 
-When you take part in games and draws, we create a contact person with your details to perform any drawing.
+### 4.1 Provision of services and fulfilment of the contractual relationship
 
-The purpose of our surveys and questionnaires is to develop the quality and content of services. After processing your contact, we may send you a customer survey concerning the service you received.
+**Purpose**
 
-On our site, we offer questionnaires targeting different customer groups, and after you have used our services, we may ask you about your experience of them. On our site, we may also offer you surveys with which we test new services and products. Participating in surveys is completely optional.
+Ticket sales, travel arrangements, establishing and managing customer relationships, fulfilling corporate contracts, payment processing, invoicing and reporting, providing additional and special
 
-We process customer information to create diverse customer profiles and segments for the development and statistical aggregation of our services, for instance. Such profiling does not have material impacts on the subject of the profiling.
+services (such as assistance and car transport services), and service-related fault reporting and other service communications.
 
-**Based on your consent**
+**Categories of data processed**
 
-Your health data may be occasionally required for processing your claims. In this case, we will separately request your consent.
-
-In order to improve your customer experience, we may offer customised content or other individual services in our digital channels. For additional information about the customisation of services, see our [cookie practices](https://www.vr.fi/en/cookie-information).
-
-When you consent to marketing in conjunction with games and draws, we can send you general and targeted marketing messages. In these messages, we provide information about our topical campaigns, new products and services and benefits of creating a VR username, for instance.
-
-**Based on legitimate interest**
-
-VR uses a social media management tool that collects and aggregates data from social media services. VR’s service agents and marketing communications specialists use the tool for creating and reporting responses and social media posts.
-
-We may transfer your information within VR Group on the basis of a legitimate interest, if there is a particular reason to do so.
-
-**Based on our legal obligations**
-
-With regard to trips to Russia, we collect your information and transfer it to border and other authorities.
-
-In addition, we may process your personal data to fulfil our obligations as laid down by law and regulations given by authorities, not forgetting security and responsibility.
-
-We may also transfer your data based on the authorities’ right to obtain information.
-
-6 Sources of data
------------------
-
-Customer-related data is collected primarily from the customer directly and when using our services and travelling. Customer-related data is accumulated in VR’s information systems, for instance,
-
-*   at station ticket sales, trains, ticket vending machines, telephone service and electronic service channels and our partners’ sales channels in conjunction with orders, service purchases and use and other customer service events  
+*   identification data, such as name and date of birth  
     
-*   when travelling, such as when the ticket is scanned and when using the restaurant car services  
+*   contact details, such as address, email address and telephone number  
     
-*   in conjunction with customer questionnaires and surveys  
+*   customer details, such as the start date of the customer relationship, the registration channel and the language  
     
-*   in conjunction with games and draws  
+*   travel, booking and service details  
     
-*   at customer events, such as fairs  
+*   location data when the data subject has enabled in-journey communication or another location-based service  
     
-*   in conjunction with marketing  
+*   payment details and payment transaction details  
     
-*   in our digital services, i.e. the website and when using the VR Matkalla app, for instance; read about cookies  
+*   ticket delivery details  
     
-*   in our social media channels.  
+*   passenger information relating to border crossings  
+    
+*   vehicle information relating to car transport and any photographs taken in the event of damage  
+    
+*   information relating to assistance services, which may include special categories of data, such as health-related information  
     
 
-7 Processors of personal data
+For corporate contracts, we also process:
+
+*   the names, contact details and job titles of the contact persons designated by the company  
+    
+*   information on which company the VR account is linked to  
+    
+*   journeys made using the corporate profile and related invoicing and reporting details  
+    
+
+**Legal basis**
+
+*   Contract with the data subject  
+    
+*   Legal obligation (e.g. accounting legislation, transport and safety regulations, obligations imposed by public authorities)  
+    
+*   Where special categories of personal data are processed, such processing is carried out only where necessary and based on applicable legal grounds under, such as explicit consent or compliance with obligations under applicable law  
+    
+*   In the case of corporate customers and stakeholder contacts, the data controller’s legitimate interest based on the management of contractual relationships and communication related to cooperation. The data subject has been designated as the company’s contact person at the request of the contracting party or the data subject themselves.  
+    
+
+### 4.2 Customer service and communications
+
+**Purpose**
+
+Provision of customer service, responding to enquiries, processing feedback, handling complaints and claims for compensation, paying compensation, informing customers of changes to the service, ensuring and developing the quality of customer service, and consolidating any subsequent enquiries relating to the same matter in order to handle the case. Some stages of customer service processing may be supported by automated methods and artificial intelligence solutions (such as the creation of transcripts of call recordings).
+
+**Data categories processed**
+
+*   contact details, such as email address and telephone number  
+    
+*   customer and travel details to the extent necessary for handling the matter  
+    
+*   recordings of customer service calls and the transcripts and summaries produced from them  
+    
+*   call history data (numbers)  
+    
+*   chat, email and social media messages  
+    
+*   information provided on feedback and claims forms  
+    
+*   any health information where necessary for the processing of an individual claims case  
+    
+*   information required for the payment of claims, as well as additional information relating to any international payment transactions  
+    
+
+**Legal basis**
+
+*   Contract with the data subject, insofar as the processing relates to the service agreement  
+    
+*   The data controller’s legitimate interest, based on the organisation of customer service, the documentation of operations, the prevention of misconduct and the development of service quality  
+    
+*   Explicit consent when processing health data for the purpose of handling an individual claims case, or, where applicable, processing necessary for the establishment, exercise or defence of legal claims.  
+    
+
+### 4.3 Marketing, campaigns and customer communications
+
+**Purpose** Sending general and targeted marketing messages, communicating about customer-related benefits and services, running campaigns and prize draws, target marketing and monitoring its effectiveness, promoting awareness of services, and communicating about the benefits of being a customer. Marketing and communications may also be planned and targeted using automated methods.
+
+**Data categories processed**
+
+*   contact details, such as email address and telephone number  
+    
+*   customer and purchase history  
+    
+*   marketing consents and opt-outs  
+    
+*   communication channel preferences  
+    
+*   information on messages sent, as well as opening of messages and click activity  
+    
+*   information provided in connection with campaigns and prize draws  
+    
+
+**Legal basis**
+
+*   Consent in the case of electronic direct marketing or other consent-based marketing  
+    
+*   The data controller’s legitimate interest where the processing relates to communications concerning an existing customer relationship and the marketing of services to customers.  
+    
+
+### 4.4 Surveys, customer questionnaires and service development
+
+**Purpose** Assessing customer satisfaction and service experience, conducting surveys and customer questionnaires, developing services, products and operating practices, and communication regarding the testing of new services and products.
+
+Surveys may be sent, for example, after a service event or targeted at different customer groups. In addition, personal data may be used for the design, testing and impact assessment of new services and features. The analysis of surveys and questionnaires, as well as service development, may be supported by automated methods and artificial intelligence.
+
+**Data categories processed**
+
+*   contact details for sending surveys  
+    
+*   customer, travel and service data insofar as they relate to the service event being evaluated  
+    
+*   responses to customer surveys and studies  
+    
+*   background information collected in surveys (e.g. postcode)  
+    
+*   data relating to the use of services for development purposes  
+    
+
+Survey results are generally reviewed at group level. Individual responses are not used for automated decision-making that would have legal consequences or similar significant effects on the data subject.
+
+**Legal basis**
+
+*   The data controller’s legitimate interest, based on the evaluation of the quality of the services, as well as development and the improvement of customer experience  
+    
+*   Consent where required by the research or survey.  
+    
+
+### 4.5 Analytics, profiling and personalisation
+
+**Purpose**
+
+Analysis of operations, monitoring of service usage, formation of customer groups and segments, and personalisation of digital services and communications. Data may be statistically combined to form customer profiles and segments, for example, for the purposes of service design, developing the customer experience and targeting communications. Analytics and segmentation may also be carried out using automated methods and artificial intelligence.
+
+**Data groups to be processed**
+
+*   service usage data across different service channels  
+    
+*   log and transaction data  
+    
+*   data collected using cookies and similar technologies  
+    
+*   customer and purchase history  
+    
+*   customer profiles and segmentation data  
+    
+
+Profiling is used to form customer groups and to target services and communications. Profiling and other automated analytics, including the use of artificial intelligence, do not result in automated decision-making that would have legal effects on the data subject or similarly significant effects.
+
+**Legal basis**
+
+*   The data controller’s legitimate interest, based on the analysis of operations, the development of services and the improvement of the customer experience  
+    
+*   Consent where processing is based on optional cookies or other similar technologies.  
+    
+
+### 4.6 Compliance with legal obligations and cooperation with authorities
+
+**Purpose**
+
+Fulfilment of obligations arising from legislation and official regulations, ensuring security, and responding to information requests from authorities. This includes, for example, fulfilling accounting obligations, disclosing information relating to border crossings to the competent authorities, and processing related to inspection fees and other statutory measures.
+
+**Data categories processed**
+
+*   accounting records and payment details  
+    
+*   passenger data relating to border crossings  
+    
+*   customer and travel data to be disclosed to the authorities  
+    
+*   identification and contact details relating to inspection fees  
+    
+
+**Legal basis**
+
+*   Legal obligation  
+    
+
+### 4.7 Social media channels and joint data controllership
+
+**Purpose**
+
+Interaction with customers and other stakeholders, providing customer service, communication, organising campaigns and competitions, analysing and developing social media activities, and using social media management tools for managing posts, customer communication and reporting.
+
+When you interact with social media channels maintained by VR, for example by following pages, commenting on posts or sending messages, we process personal data related to that interaction.
+
+The processing of personal data on social media channels may involve joint controllership with the relevant service provider to the extent that VR and the service provider jointly determine the purposes and means of processing, such as in relation to page visitor statistics or other analytics.
+
+**Categories of data processed**
+
+*   public profile information on the social media service  
+    
+*   messages and comments  
+    
+*   data provided in connection with campaigns and competitions  
+    
+*   analytics and statistical data produced by the service provider  
+    
+
+**Legal basis**
+
+*   The data controller’s legitimate interest, based on communication, maintaining customer relationships and enhancing the visibility of operations  
+    
+*   Consent where processing relates to tracking technologies or targeted advertising.  
+    
+
+5 Processors of personal data
 -----------------------------
 
-As the controller, we process the personal data ourselves, but we also use reliable service providers. The service providers can vary, but their duties include the maintenance and development of IT systems, service production and various research and development tasks. The service providers of our choice process personal data commissioned by us. The data processing follows the current legislation, and it has been agreed upon in contracts between the organisations.
+VR processes personal data as the data controller. However, in providing our services and supporting our operations, we use external service providers who process personal data on behalf of VR.
 
-8 Transfer or disclosure of data
---------------------------------
+Service providers may process personal data for purposes such as:
 
-We may disclose your personal data to our partners in the following situations:
-
-*   When you purchase our partner’s services from us, we may disclose your personal data necessary for the implementation of the service to our partner.  
+*   Maintenance and development of IT systems  
     
-*   We may disclose your feedback and contact information to our partner if your feedback concerns services provided by said partner. However, we ask you to primarily contact our partner directly. If we decide to transfer feedback containing your personal data, we will inform you of the disclosure of the data.  
+*   provision of customer service solutions and communication systems  
     
-*   When we resell HSL tickets, we provide HSL with personal data relating to your purchase, such as phone number and your device identifier.  
+*   payment processing and invoicing  
     
-*   When you submit feedback about HSL’s services, HSL is the controller. In this case, we will forward your feedback to HSL and inform you of the disclosure of your personal data.  
+*   analytics and reporting services  
     
-*   When we impose a penalty fare, we transfer your personal data to a service provider for sending the payment.  
+*   marketing implementation  
     
-*   If you start using a service and allow the disclosure of your data when taking it into use, data can be disclosed to the service provider in question (such as Mobile Pay).  
+*   social media management tools  
     
-*   In cases referred to in section 156 of the Act on Transport Services, we can disclose data/access a partner’s data for performing the partner’s services.  
-    
-*   We may disclose your feedback and contact information within the VR Group, if your feedback concerns other Group companies.  
-    
-*   With regard to journeys to Russia, necessary information relating to travelling is handed over to the border guard and other authorities and the Russian Railways (RZD). Personal data can be transferred outside the EU and EEA in conjunction with the provision of IT services if the personal data can be accessed from a country outside the EU and EEA. Transfer is possible when 1) a contract has been entered into with the service provider following the standard contractual clauses of the European Commission or 2) the receiving country has an adequate level of data protection as decided on by the European Commission or 3) the company that processes the data has Binding Corporate Rules or 4) there are other legal grounds for the transfer. You can see Commission decisions on standard contractual clauses [here. ﻿, Opens in a new tab](https://commission.europa.eu/publications/standard-contractual-clauses-international-transfers_en) We will not disclose customer information to parties outside VR or parties other than those participating in the production of VR’s services without grounds based on the General Data Protection Regulation.  
+*   call recording and transcription, as well as other technical support services  
     
 
-9 Data retention period
------------------------
+Service providers process personal data solely in accordance with VR’s instructions and may not use the data for their own purposes. VR ensures, through contracts and other appropriate measures, that the processing of personal data complies with data protection legislation and that personal data is adequately protected.
 
-We store personal data only for as long as it is necessary for the purposes of use and in accordance with the legislation that is in force at each particular moment. After this, personal data will be either erased or anonymised. In storing personal data, we comply with legal obligations, taking into consideration the legislation on accounting and the EU regulation on rail passengers’ rights and obligations and the Rail Traffic Liability Act. **We will store your personal data in our services as follows:**
+6 Disclosure and transfer of personal data
+------------------------------------------
 
-*   We will store your basic information and general customer relationship-related information, information relating to the management of the customer relationship, your consent and refusals and customer classification data throughout your customer relationship.  
+We may disclose your personal data to our partners in the following situations
+
+*   When you purchase services from our partners through us, we may disclose your personal data necessary for the provision of the service to our partners.  
     
-*   The end of your customer relationship will have an impact on the retention period. We will terminate your customer relationship without any separate measures if no journeys or contacts have been associated with your customer account for seven years. In this case, your data will be erased from the system within six months.  
+*   We may disclose your feedback and contact details to our partners if your feedback relates to a service provided by our partner. However, we ask you to primarily contact our partner directly. If we forward your feedback containing personal data, we will inform you of the disclosure of your personal data.  
     
-*   As a customer, you also always have the right to request your customer relationship to be terminated without delay. In this case, your data will be erased from the system within three months.  
+*   When we charge a inspection fee, we will pass on your personal data to the service provider for the purpose of sending the invoice.  
     
-*   We will store our accounting-related data (such as purchases and claims) for the current year and the next six years in line with the Accounting Act.  
+*   During service disruptions, necessary customer and travel data may be shared with service providers supporting real‑time disruption communication (e.g. traffic or incident communication partners).  
     
-*   We will store your feedback and other similar contacts for five years.  
+*   If you start using a service for which you consent to the disclosure of data during the set-up process, data may be disclosed to the relevant service provider (e.g. MobilePay).  
     
-*   Campaign and marketing data will be stored for two years.  
+*   If you are travelling on a corporate account, we may disclose journeys made via the corporate profile, along with related booking, travel, invoicing and reporting data, to authorised administrative users of the corporate account for the purpose of managing and coordinating journeys.  
     
-*   Survey and questionnaire data will be stored for five years.  
+*   We may disclose your feedback and contact details within the VR Group if your feedback concerns other companies within the Group.  
     
-*   Customer service call recordings will be stored for seven months and call history (numbers) for 12 months.  
-    
-*   Information collected through competitions and games will be stored for five months.  
-    
-*   We will store your passport information relating to cross-border travel for one month after your journey.  
-    
-*   Ticket delivery data (email and/or phone number) will be kept for seven years.  
-    
-*   Our social media tool stores data for three years.  
+*   Necessary passenger data relating to international travel is disclosed to foreign authorities and transport operators when crossing borders, if required by legislation or official requirements.  
     
 
-When the contractual relation ends, the data retention period is determined according to the purpose of use and existing legislation.
+Personal data may be transferred outside the EU and EEA in connection with the provision of IT services if the personal data can be accessed from a country outside the EU and EEA. A transfer is possible where 1) an agreement has been made with the service provider in accordance with the standard contractual clauses adopted by the European Commission, or 2) the recipient country has an adequate level of data protection as determined by a decision of the European Commission, or 3) the company processing the data has binding corporate rules (Binding Corporate Rules) or 4) there is another lawful basis for the transfer. Where required, we assess the level of data protection in the recipient country and carry out transfer impact assessments.
 
-10 Our customers’ rights
-------------------------
+We do not disclose customer data to parties outside VR or those involved in the provision of VR’s services without a basis under the General Data Protection Regulation.
 
-As our customer, you have a right to access your personal data of which VR is the controller. You can exercise your rights by submitting a data protection request with the [online form](https://www.vr.fi/en/privacy-statement-request) on the vr.fi website. Alternatively, you can submit the request by calling VR’s customer service. You will receive a response to your request no later than one month after sending the request. We ensure these rights as described here by taking the applicable legislation and restrictions set therein into account. If you buy tickets through another service provider, the provider in question will act as an independent controller. When exercising the rights of a data subject through VR’s services, the request will not be directed or transferred to the other controller. Please contact the service provider in question directly when wishing to exercise your rights under the General Data Protection Regulation. **As our customer, you have the following rights related to data protection:**
+7 Retention period for personal data
+------------------------------------
 
-1.  Right to access data: You have the right to receive a copy of your personal data from VR and a confirmation of whether we have processed your personal data. The primary method for delivering the copy is encrypted email or alternatively mailing the document. Some data, such as call recordings, can only be accessed by visiting a VR office.  
+We retain personal data only for as long as is necessary to fulfil the purposes described in this notice or to comply with legal obligations. After this, the data is deleted or anonymised.
+
+Retention periods are determined based on the purpose of processing as follows:
+
+*   Basic customer data is retained for the duration of the customer relationship. Customer data may be deleted if it has not been used for several years, after which the data will be deleted within a reasonable period of time.  
     
-2.  Right to rectification: You have the right to request us to rectify inaccurate or erroneous data about you. When you register in our digital services, you can edit your personal data directly through our website or application. Such data includes, for instance, your name, address and contact details.  
+*   Data relating to contracts and payments is retained in accordance with accounting legislation.  
     
-3.  Right to erasure: You have the right to request us to erase your personal data. Requests are handled on a case-by-case basis. VR has a legislation-based obligation or right to store certain data; such data cannot be erased.  
+*   Data relating to customer service, complaints and compensation matters is retained for as long as required for the handling of the matter and any monitoring of the liability period.  
     
-4.  Right to restriction of processing: You have a right in certain special situations stipulated by the regulation to request the restriction of the processing of your personal data.  
+*   Data relating to marketing is retained for as long as the customer relationship is active or until the data subject withdraws their consent or objects to the processing.  
     
-5.  Right to object: You also have a right to object to the use of your data in direct marketing, for instance. On grounds relating to your particular situation, you can object to processing that is based on VR’s legitimate interest.  
+*   Data collected for research and development purposes is generally retained in anonymised or statistical form.  
     
-6.  Right to data portability: You have the right to receive your data from us in a structured and commonly used format, which will enable you to transfer your data to another controller. This right concerns data that is in electronic format and whose processing is based on consent or the performance of a contract. We will provide the data to you via encrypted email.  
-    
-7.  Right to withdraw consent: You have the right to withdraw the consent you have given when it is the grounds for processing personal data. When the consent is withdrawn, the consent-based processing of personal data will be discontinued. Private customers who have registered in the service may withdraw their consent to electronic direct marketing by logging in to our website and editing their data.  
-    
-8.  Right to lodge a complaint with an authority: We seek to resolve any disputes primarily with our customers. If you find that we have not processed your personal data as stipulated by law, you may lodge a complaint with a supervisory authority.  
+*   Passenger data relating to border crossings is retained only for the period required by law.  
     
 
-11 Principles of data protection
---------------------------------
+8 Rights of data subjects
+-------------------------
 
-We ensure the data security of the processing of our customers’ personal data processing and personal data confidentiality, integrity and accessibility with appropriate technical and organisational measures in accordance with VR’s data security principles. Personal data is protected against unauthorised access and illegal or accidental processing. Personal data is processed only by persons specifically appointed by VR to such tasks. We provide data protection training and guidance to our employees who process customer data.
+As a data subject, you have rights regarding your personal data insofar as VR acts as the data controller. You can exercise your rights by submitting a data protection request via [the online form](https://www.vr.fi/en/privacy-statement-request) on the vr.fi website or by contacting our customer service. We respond to your request without undue delay and no later than one month after receiving it. We implement these rights in accordance with applicable legislation and take into account any statutory limitations.
+
+Requests are generally processed free of charge. However, we may charge a reasonable fee or refuse to act on requests that are manifestly unfounded or excessive. We may request additional information to verify your identity before fulfilling your request.
+
+If you purchase tickets or services through another service provider, that service provider acts as an independent data controller. A data protection request made via VR does not apply to or get passed on to another data controller. If you wish to exercise your rights in such a situation, please contact that service provider directly.
+
+The data subject has the following rights:
+
+**Right of access to data** You have the right to obtain confirmation as to whether we are processing your personal data, as well as the right to receive a copy of the personal data we process. The copy will primarily be provided electronically in a secure format or, if necessary, in writing.
+
+**Right to rectification** You have the right to request the rectification of inaccurate or incorrect personal data, as well as the completion of incomplete data.
+
+**Right to erasure** In certain circumstances, you have the right to request the erasure of your personal data. This right does not apply in situations where we have a legal obligation or other lawful grounds to retain the data.
+
+**Right to restriction of processing** In certain situations, you have the right to request that the processing of your personal data be restricted.
+
+**Right to object to processing** You have the right to object to the processing of your personal data based on the controller’s legitimate interests. You always have the right to object to the processing of your personal data for direct marketing purposes.
+
+**Right to data portability** You have the right to receive the personal data you have provided in a structured, commonly used format, and the right to transfer that data to another controller, insofar as the processing is based on consent or a contract and is carried out by automated means.
+
+**Right to withdraw consent** If the processing of personal data is based on consent, you have the right to withdraw your consent at any time. Withdrawing consent does not affect the lawfulness of processing carried out prior to withdrawal.
+
+**Right to lodge a complaint with a supervisory authority** If you consider that your personal data has been processed unlawfully, you have the right to lodge a complaint with the competent data protection authority.
+
+9 Data protection principles
+----------------------------
+
+We ensure the security of personal data processing and safeguard the confidentiality, integrity and availability of data through appropriate technical and organisational measures in accordance with VR’s data security principles.
+
+Personal data is protected against unauthorised access, unauthorised or unlawful processing, and accidental loss, alteration or destruction. Personal data may only be processed by those individuals who are authorised to do so by virtue of their job duties. We ensure our staff’s data protection competence through training and guidance.
 
 Joint register with Facebook
 ----------------------------
