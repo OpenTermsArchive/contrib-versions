@@ -132,6 +132,10 @@ You will be notified by e-mail of any change to the Steam Wallet balance and usa
 
 You may use Steam Wallet funds to order Subscriptions, including by making in-game orders where Steam Wallet transactions are enabled, and purchase Hardware. Subject to Section 3.I, funds added to the Steam Wallet are non-refundable and non-transferable. Steam Wallet funds do not constitute a personal property right, have no value outside Steam and can only be used to order Subscriptions and related content via Steam (including but not limited to games and other applications offered through the Steam Store, or in a Steam Subscription Marketplace) and Hardware. Steam Wallet funds have no cash value and are not exchangeable for cash. Steam Wallet funds that are deemed unclaimed property may be turned over to the applicable authority.
 
+For Japanese Subscribers:
+
+Any funds added to your Steam Wallet that you have not used within six (6) months following the date you added them will expire, as required by Japanese law. You can review your funds, and the expiration dates for your funds, in your Steam Wallet in your Steam account.
+
 D. Trading and Transactions of Subscriptions Between Subscribers
 
 Steam may include one or more features or sites that allow Subscribers to acquire or dispose of certain types of Subscriptions (for example, license rights to virtual items) with, to or from other Subscribers ("Subscription Marketplaces"). The Steam Community Market and the Steam Trading functionality are both examples of Subscription Marketplaces. By using or participating in Subscription Marketplaces, you authorize Valve, on its own behalf or as an agent or licensee of any third-party creator or publisher of the applicable Subscriptions in your Account, to transfer those Subscriptions from your Account in order to give effect to any transaction you make.
@@ -323,4 +327,4 @@ Valve’s obligations are subject to existing laws and legal process and Valve m
 
 You agree to comply with all applicable import/export laws and regulations. You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S. Bureau of Export Administration. You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.
 
-This Agreement was last updated on September 18, 2025 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces and supersedes your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
+This Agreement was last updated on April 20, 2026 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces and supersedes your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
