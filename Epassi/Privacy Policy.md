@@ -103,6 +103,7 @@ To provide agreed services, the following Epassi data processors also process pe
 *   Amazon Web Services (support tool)
 *   APSIS International AB (marketing tool)
 *   BitBot Oy (support tool for EpassiBIKE)
+*   Contentsquare SAS (analytics software)
 *   Cellip AB (support tool)
 *   Databricks (support tool)
 *   Epassi Finland Oy (IT operations)
@@ -239,3 +240,4 @@ Version history
 | 3.0. | Document updated | 15.1.2026 |
 | 3.1. | Document updated | 20.2.2026 |
 | 3.2. | Document updated | 25.3.2026 |
+| 3.3. | Document updated | 20.4.2026 |
