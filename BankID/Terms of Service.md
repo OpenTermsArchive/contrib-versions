@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/news/news_payment_ENG.jpg)
+[![](/assets/stock/612x408/home_talking_phone.jpg)
+
+#### New function for BankID in phone calls
+
+2026-04-22
+
+Payment services that use BankID for phone calls can use a new interface for payments made during phone calls.](https://www.bankid.com/en/about-us/news/new-function-for-bankid-in-phone-calls)[![](/assets/stock/news/news_payment_ENG.jpg)
 
 #### New payment flow launched
 
@@ -130,10 +136,4 @@ For businesses who initiate payments, we are launching a new payment flow with t
 
 2026-02-19
 
-Our widgets takes you straight to scanning a QR code or your digital ID card from your phone's locked screen.](https://www.bankid.com/en/about-us/news/have-you-added-our-widgets)[![](/assets/stock/employees/andreas-bergqvist_outdoors.jpg)
-
-#### Finansinspektionen prioritises security
-
-2026-02-10
-
-Two of Finansinspektionen's three areas of priority for 2026 concern security. A welcomed move, says our Head of Security Andreas Bergqvist.](https://www.bankid.com/en/about-us/news/finansinspektionen-prioritizes-security)
+Our widgets takes you straight to scanning a QR code or your digital ID card from your phone's locked screen.](https://www.bankid.com/en/about-us/news/have-you-added-our-widgets)
