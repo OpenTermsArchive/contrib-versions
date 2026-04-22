@@ -37,14 +37,14 @@
 *   [Criminal defense](https://legal.thomsonreuters.com/en/legal/criminal-law)
 *   [Family law](https://legal.thomsonreuters.com/en/legal/family-law)
 
-![Image Alt text](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
+![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
 Customer story
 
-AI for legal professionals
---------------------------
+Justly Prudent achieves 5 times the ROI with CoCounsel
+------------------------------------------------------
 
-Transform your firm with AI that plans, reasons, and executes complex legal tasks — powered by trusted legal content.
+Learn how Justly Prudent used CoCounsel and Westlaw AI to achieve exceptional return on investment (ROI) — increasing litigation capacity by 100%.
 
 [Read case study](https://legal.thomsonreuters.com/en/insights/case-studies/transforming-a-civil-rights-litigation-law-firm-with-cocounsel)
 
