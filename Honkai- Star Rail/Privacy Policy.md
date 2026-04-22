@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Version date: 25 Feb 2026**
+**Version date: 2 Apr 2026**
 
 _NOTE: We may translate this Privacy Policy into other languages. If there is any difference between the English version and other language versions, then the English version, subject to applicable laws and regulations, shall prevail._
 
@@ -162,7 +162,7 @@ vi. analyze and manage our services for system administration, user service, sec
 
 vii. correct bugs or errors, improve our services and respond to customer desires and preferences, including language and location customization, personalized support and instructions, and other responses;
 
-viii. develop new services or products and improve the user experience, including to train the model which powers our services;
+viii. develop new services or products and improve the user experience, including to train the model(s) which powers our services;
 
 ix. verify and confirm payment, ensure payment security, maintain transaction history record and resolving subsequent payment disputes;
 
@@ -208,7 +208,7 @@ xxix. track your process across our websites and applications to verify that you
 
 xxx. for any other purposes for which we provide specific notice at the time the information is collected.
 
-**Like many AI-powered experiences, we may use your user-generated input such as chat data to train and improve the model that we use to provide our Services. We do not use personal information of users in the US who are identified as children (as defined in COPPA) for model training. You can opt-out of model training anytime in your Service-related settings. Opting out will not affect your existing gameplay.**
+**Like many AI-powered experiences, we may use your user-generated input such as chat data to train and improve the model that we use to provide our Services. We do not use personal information of users in the US who are identified as children (as defined in COPPA) for model training. You can opt-out of model training anytime in the settings or, if unavailable, by contacting us at** [**privacy@hoyoverse.com**](http://mailto:privacy@hoyoverse.com/)**. Opting out will not affect your existing gameplay.**
 
 **For the purposes mentioned above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms in this Privacy Policy.** "Affiliates" in this Privacy Policy means an entity that directly or indirectly controls, is controlled by, or is under common control with COGNOSPHERE PTE. LTD.
 
@@ -374,7 +374,7 @@ You may have the right to complain to a data protection authority about our coll
 
 If we have collected and processed your personal data based on your consent, you can withdraw your consent in accordance with applicable laws. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal data conducted in reliance on lawful processing grounds other than consent. In many circumstances, we need to use your personal data in order for us to provide you with our services which you require. If you do not provide us with the required personal data, or if you withdraw your consent to our use and/or disclosure of your personal data for these purposes, it may not be possible for us to continue to serve you or provide you with the services that you require.
 
-**With regard to AI model training, you can withdraw your consent to authorize us to collect and process your user data for the purpose of model training by checking the "settings" page in our application and unticking the relevant checkbox. Once you turn this off, any new conversations and other user content will not be used to train our models.**
+**With regard to AI model training, you can withdraw your consent to authorize us to collect and process your user data for the purpose of model training by checking the "settings" page in our application and unticking the relevant checkbox, or if unavailable, by contacting us at** [**privacy@hoyoverse.com**](http://mailto:privacy@hoyoverse.com/)**. Any new conversations and other user content will not be used to train our models.**
 
 **9\. SECURING YOUR DATA**
 
@@ -466,7 +466,7 @@ In order to provide our services to you, we collect and process the following ca
 | Provide you the services required by you and perform our contractual obligations towards you | Contact Information and Identifiers/Account Registration Information, Service Account Information, Date of Birth, Connected Social Media Account Information (Third Party), Personal Profile Information, Game Data, Chat Data, Community Forum Information, User Generated Content, Malicious Content Information, User Service Information, Survey Information, Activity Participation Information, IP address & Device Data, Advertising Information, Payment Data, Pay Pal Account, Inferences |
 | Analyze and manage our services for system administration, user service, security, fraud-detection, checking the authenticity of an account owner, archival and/or backup purposes | Contact Information and Identifiers/Account Registration Information, Service Account Information, Date of Birth, Connected Social Media Account Information (Third Party), Personal Profile Information, Game Data, Chat Data, Community Forum Information, User Generated Content, Malicious Content Information, User Service Information, Survey Information, Activity Participation Information, IP address & Device Data, Advertising Information, Payment Data, Pay Pal Account, Inferences |
 | Correct bugs or errors, improve our services and respond to customer desires and preferences, including language and location customization, personalized support and instructions, and other responses | Contact Information and Identifiers/Account Registration Information, Service Account Information, Connected Social Media Account Information (Third Party), Game Data, User Service Information, IP address & Device Data, Payment Data, Inferences, Device Related Data, Cookies Data, Data Related to Bugs, Errors, Crashes and Diagnosis, Security Related Data, Services Interaction and/or Usage Data, Information About Your Interaction With Others, Data Shared With Us By Third Parties |
-| Develop new services or products and improve the user experience | Game Data, Community Forum Information, User Generated Content, User Service Information, Survey Information, Activity Participation Information, Inferences |
+| Develop new services or products and improve the user experience, including to train the model(s) which powers our services | Game Data, Chat Data, Community Forum Information, User Generated Content, User Service Information, Survey Information, Activity Participation Information, Inferences |
 | Verify and confirm payment | Contact Information and Identifiers/Account Registration Information, Service Account Information, Connected Social Media Account Information (Third Party), Game Data, IP address & Device Data, Payment Data, Pay Pal Account |
 | Deliver advertising that may be relevant to your interests and track the success of our advertising and marketing programs | Contact Information and Identifiers/Account Registration Information, Service Account Information, Game Data, IP address & Device Data, Advertising Information, Inferences |
 | Communicate with users (including by sending text messages and/or push notifications) and take action against violations | Contact Information and Identifiers/Account Registration Information, Service Account Information, Connected Social Media Account Information (Third Party), Personal Profile Information, Game Data, Chat Data, Community Forum Information, User Generated Content, Malicious Content Information, User Service Information, IP address & Device Data |
@@ -486,15 +486,15 @@ In order to provide our services to you, we collect and process the following ca
 
 **Data Retention**
 
-Where your data is required to be deleted in accordance with your request or where we are legally required to do so under applicable law or otherwise, we may retain certain personal information where permitted or required under law. For example, we may retain persistent identifiers such as device ID, device FP, IP address and other device information that was collected prior to obtaining verifiable parental consent, for the purpose of supporting internal operations.
+Where your personal information is required to be deleted in accordance with your request or where we are legally required to do so under applicable law, we will delete or de-identify such information as required. For more information relating to the deletion and retention of children's personal information in the US, including the reasons for retaining certain personal information, please refer to the section below entitled **"Data Retention for Children"**.
 
 **Your Rights and Choices**
 
 If you submit a request to us and you receive a response from us informing you that we have declined your request, in whole or in part, where provided by applicable law, you may appeal that decision by submitting your appeal using the contact method described in Section 12 of this Privacy Policy.
 
-_Right to Opt-out of Targeted Advertising and Data “Sales”_
+_Right to Opt-out of Targeted Advertising and Data "Sales"_
 
-Some privacy laws define “sale” broadly to include some of the data disclosures described in Section 6 above – in particular certain sharing with third party providers for targeted advertising purposes. To opt-out from targeted advertising and any related data “sales,” you have several options.
+Some privacy laws define "sale" broadly to include some of the data disclosures described in Section 6 above – in particular certain sharing with third party providers for targeted advertising purposes. To opt-out from targeted advertising and any related data "sales", you have several options.
 
 You can use browser or device-level controls as follows:
 
@@ -508,7 +508,92 @@ You can use browser or device-level controls as follows:
 
 These choices are specific to the device or browser you are using. If you access our services from other devices or browsers, take these actions from those devices or browsers to ensure your choices apply to the data collected when you use them.
 
-**_(b) Additional terms for California Residents_**
+**_(b) Additional Information Regarding Personal Information of Children in the United States_**
+
+**(i) Data Collection and Processing for Children**
+
+We collect, process and share personal information of children in the US in accordance with Sections 1, 2, 6 and 13(1)(a) of this policy. For more information regarding the sharing of such information with third parties, please refer to the section entitled **"Data Sharing"**.
+
+**(ii) Publicly available information**
+
+The personal information that a child may make publicly available is limited to information such as the user's nickname, user ID, account ID, forum information in the respective game(s) and/or service(s) used by the child and only where prior verifiable parental consent is obtained.
+
+**(iii) Data Retention for Children**
+
+In compliance with the Children's Online Privacy Protection Act (COPPA), our data retention policy regarding personal information of children in the US is set out below.
+
+_Where verifiable parental consent is obtained_
+
+For users in the US who are identified as under the age of 13, and for whom we have obtained verifiable parental consent, we will retain the child's personal information for the duration of the child's use of our services. In the event that the child (or parent) requests for the deletion of the child’s account or personal information, the account and all related personal information will be deleted after 30 days.
+
+Notwithstanding, certain categories of personal information are automatically deleted after a fixed period:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Children's Personal Information** | **Purpose of Collection** | **Business Need of Retention** | **Timeframe of Deletion** |
+| Technical and device information that we process to provide the services | To operate and maintain services, ensure system security and stability, detect fraud and abuse, and diagnose technical issues | Not applicable as data is not retained | Applicable to all users in the US identified as under 13 regardless of whether verifiable parental consent is obtained; deleted within 14 days from the date they were identified as under 13 |
+| Information we process when you seek customer service (e.g., user ID, email and any personal information that you submit in the process) | To process customer inquiries and fulfil compliance requests | For evidence preservation and other legal purposes. | Stored in email systems for up to 14 days from receipt, and within the ticketing system for up to 2 years following ticket closure |
+
+The following categories of personal information may be retained for a limited period following account deletion:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Children's Personal Information** | **Purpose of Collection** | **Business Need of Retention** | **Timeframe of Deletion** |
+| Account identifiers, e.g. Account ID and Game UID | To identify the account associated with purchases. | To support potential refund requests and prevent duplicate refunds. | Retained for up to 2 years after the account deletion. |
+| Contact information, e.g. email address | To match refund requests or related customer support inquiries with the relevant account. | To facilitate refund verification, investigate refund claims, and respond to disputes related to transactions made before account deletion. |
+| Third-party platform identifiers, e.g. PSN Online ID, Xbox Gamertag | To identify accounts associated with purchases made through third-party console platforms. | To verify purchase records and process refunds related to transactions conducted through third-party platforms. |
+| Transaction and payment-related information | To process transactions and support potential refunds for purchases made before account deletion. | For financial reconciliation, fraud prevention, payment security, and investigation of disputes or refund claims. |
+
+_Where verifiable parental consent is not obtained_
+
+For users in the US who are identified as under the age of 13, from whom we have not obtained verifiable parental consent within 14 days, we will then proceed to delete the child's account and all related personal information set out in the above table after 14 days, except for certain personal information as set out in the table below.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Children's Personal Information** | **Purpose of Collection** | **Business Need of Retention** | **Timeframe of Deletion** |
+| Zip code | To facilitate transactions and related services. | For transaction verification, tax compliance, fraud prevention, and financial recordkeeping. | Retained for up to 2 years after the user is identified as a child. |
+| Transaction, payment, and security-related information | To process transactions and refunds, verify payments, support secure payments, control risk and detect fraud. | For financial reconciliation, payment security, fraud prevention, investigation of suspicious transactions or account activities, and dispute resolution. |
+| User activity, and dispute-related Information | To operate our services and record user activities. | For financial reconciliation, fraud prevention, investigations, dispute resolution and audit purposes. |
+| Communications received via our child-specific contact email | To respond to child safety inquiries and parental or user support requests related to children’s accounts | For evidence preservation and other legal purposes. |
+
+**(iv) Persistent Identifiers Collected Prior to Verifiable Parental Consent**
+
+Prior to user login or before obtaining verifiable parental consent, we may collect certain persistent identifiers solely to support the internal operations of our services. We limit such collection to what is reasonably necessary to provide and maintain our services, ensure security and integrity, and perform other permitted internal operational exceptions.
+
+The table below describes the categories of persistent identifiers collected, the internal operational purposes they support, and the technical and organizational safeguards implemented by us to ensure that such identifiers are not used or disclosed to contact a specific individual, including through behavioral advertising, profiling, or cross-service tracking.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Collection Via** | **Persistent Identifier Collected** | **Internal Operation Purpose** | **Technical and Organizational Safeguards** |
+| Appsflyer SDK | GAID, IDFA,<br><br>IDFV | Internal Attribution | Used solely for internal attribution purposes. These identifiers are subject to strict access and technical controls and are not used for user contact, profiling, or advertising. |
+| Firebase Analytics SDK | Advertising IDs (including AAID/IDFA) | Internal Attribution | Used solely for internal attribution purposes. These identifiers are subject to strict technical and access controls and are not used for user contact, profiling, or advertising. |
+| Firebase Crashlytics SDK | RFC-4122 UUID,  <br>Crashlytics Install UUID, Firebase Installation ID (FID) | Service Maintenance and Crash Monitoring | Used solely for internal crash monitoring and service maintenance purposes, and not used for user contact, profiling, or advertising. |
+| Firebase Messaging SDK | Firebase Installation ID (FID) | Internal Messaging and Service Operation | Used solely to support internal service functionality and system reliability. The identifier is not used to contact users or for advertising purposes. Access is restricted through technical safeguards, and age-based controls ensure that messaging features are not enabled for users identified as under 13 without verifiable parental consent. |
+| Facebook Third Party Login SDK | GAID, IP Address | Support for Log-in Authentication and Account Security | Used only to enable login and protect user accounts. They are not used for advertising, marketing, profiling, or cross-service tracking purposes. |
+| Google Third Party Login SDK | GAID | Support for Log-in Authentication and Security Verification | Used only to enable login and protect user accounts. They are not used for advertising, marketing, profiling, or cross-service tracking purposes. |
+| FB SDK (iOS) – Third-Party Login | IDFA | Support for Internal Operations (Fraud Prevention and Security Verification) | Used solely for fraud prevention and service security purposes. These identifiers are subject to strict access controls and are not used for advertising, attribution, profiling, or cross-service tracking, nor disclosed to third parties for independent use. |
+| Application Self-Collection (Andriod） | GAID, Android ID, Device Fingerprint | Support for Internal Operations (Security, Anti-Abuse, and Fraud Prevention) | Used solely for account security, fraud prevention, anti-cheat, and service integrity protection. These identifiers are subject to strict technical and access controls and are not used for advertising, profiling, cross-service tracking, or independent third-party use. |
+| Self-Collection of IOS SDK | IDFV | Support for Internal Operations (Performance Diagnostics, Debugging, and Stability Analytics) | Used solely for crash diagnostics, device-level error aggregation, and service reliability monitoring. These identifiers are subject to strict technical controls and are not used for advertising, profiling, re-engagement, or cross-service tracking. |
+| Business Event Tracking (Internal Analytics) | Session ID, Device Fingerprints, Device Name | Support for Internal Operations (Service Analytics, Quality Monitoring) | Used solely for internal performance evaluation, stability monitoring, and operational analytics. These identifiers are subject to strict safeguards and are not used for advertising, profiling, re-engagement, or cross-service tracking. |
+
+**(v) Data Sharing**
+
+We may disclose or share personal information with service providers, partners, or other parties where necessary to operate our services, support functionality, maintain security, and comply with applicable legal obligations. Where personal information relates to users in the US who are identified as children, we share such information only as permitted under applicable laws. In particular, we may share children’s personal information solely for internal operational purposes as permitted under COPPA, or where we have obtained separate verifiable parental consent for the specific sharing.
+
+We require service providers and partners to process personal information only on our behalf and in accordance with our instructions. Such parties are contractually restricted from using children’s personal information for their own purposes, including for behavioral advertising, profiling, or any independent commercial use. We do not sell children’s personal information.
+
+Where applicable, we limit the information shared to the minimum necessary to provide the requested services or perform the relevant internal operations. The categories of third parties, the types of personal information shared, and the purposes of disclosure are described in the table below. We may update this table from time to time to reflect our current practices.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Name or Category of Data Recipients** | **Personal Information Shared** | **Purpose of Disclosure** | **Legal Basis** |
+| Volcengine (forum content recommendation) | Device ID | Removal of duplication for forum content | Internal operation exception |
+| Volcengine (voice data conversion) | Voice data and related technical information necessary to process speech input | To convert users’ voice input into text in real time for in-game communication features, as initiated by the user | Internal operation exception |
+| Sinointeractive Digital Marketing Co., Limited | Creator account information, contact information, participation records, reward eligibility information and related communications | To operate and manage creator community activities for Genshin Impact, respond to inquiries of Creators and facilitate the distribution of rewards | Internal operation exception |
+| Reward Fulfilment and Logistics Service Providers (including logistics companies, e-commerce platforms, and local procurement vendors) | Recipient name, shipping address, contact information, and order or reward fulfilment details | To purchase, arrange, and deliver physical rewards, prizes, or merchandise to users and support related fulfilment operations | Internal operation exception |
+| Customer Support Service Providers | Account identifiers, contact information, customer support requests, communications with support, device or service information and other information necessary to handle support inquiries | To provide customer support and troubleshooting services. | Internal operation exception |
+
+**_(c) Additional terms for California Residents_**
 
 **California Consumer Privacy Act.** The CCPA requires us to provide our users who reside in California with the additional notice below. For the purposes of this notice, Personal Information means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household, or as otherwise defined by the California Consumer Privacy Act of 2018 (California Civil Code §§ 1798.100 to 1798.199) and its implementing regulations, as amended or superseded from time to time (“CCPA”).
 
