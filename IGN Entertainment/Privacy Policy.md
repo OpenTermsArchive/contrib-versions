@@ -7,7 +7,7 @@ ZIFF DAVIS, LLC PRIVACY POLICY
 
 ![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
-**Effective October 15, 2022** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
+**Effective April 23, 2026** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
 
 If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).
 
@@ -199,7 +199,7 @@ We may Process your User Information to contact you with information regarding s
 
 We may Process your User Information to contact you via email, telephone, direct mail, SMS or other methods of communication to provide you with information regarding the Services that may be of interest to you. We may send information to you regarding the Services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law.
 
-You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for. You may opt out of any telephone marketing by contacting us at the contact details set out in Section 17 below. You may opt out of SMS messages by texting STOP to the received SMS. You can also text HELP for assistance, or contact [Customer Service](https://www.offers.com/company/contact/). You will not be charged by us for receiving or sending SMS messages, however, we make no representations, warranties or guarantees that a particular wireless service program will enable you to participate in an SMS program.
+You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for. You may opt out of any telephone marketing by contacting us at the contact details set out in Section 17 below. You may opt out of SMS messages by texting STOP to the received SMS. You can also text HELP for assistance, or contact [Customer Service](https://www.offers.com/company/contact/). You will not be charged by us for receiving or sending SMS messages, however, we make no representations, warranties or guarantees that a particular wireless service program will enable you to participate in an SMS program. Text message originator opt-in data and consent will not be shared with any third parties, excluding aggregators and providers of the Text Message services.
 
 7\. Cookies, Similar Technologies and Online Behavioral Advertising
 -------------------------------------------------------------------
