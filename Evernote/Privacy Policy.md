@@ -71,7 +71,7 @@ If you visit an Evernote website, we may also collect:
 | Type of Information | Purpose |     |     |     |
 | --- | --- | --- | --- | --- |
 | Your name, company, email address, phone number, and other information you choose to share | To communicate with you, including to answer press or partnership inquiries. |     |     |     |
-| Information from cookies and similar technologies | Please see our Cookie Notice |     |     |     |
+| Information from cookies and similar technologies | Please see our [Cookie Notice](https://evernote.com/privacy/cookies) |     |     |     |
 
 **Information we derive**
 
