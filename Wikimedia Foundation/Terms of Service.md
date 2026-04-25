@@ -133,7 +133,7 @@ Other languages:
 *   [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (22% translated)")
 *   [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
 *   [тыва дыл](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tyv "Policy:Terms of Use/tyv (3% translated)")
-*   [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (89% translated)")
+*   [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (92% translated)")
 *   [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (53% translated)")
 *   [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (14% translated)")
 *   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
