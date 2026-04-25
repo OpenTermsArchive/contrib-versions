@@ -127,7 +127,7 @@ Other languages:
 *   [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (23% translated)")
 *   [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "ꠘꠤꠔꠤ ꠪ ꠀꠟꠣꠉꠣꠁ ꠞꠣꠈꠣꠞ ꠘꠤꠔꠤ (11% translated)")
 *   [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "ꯑꯔꯣꯟ ꯑꯊꯨꯞ (5% translated)")
-*   [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "개인 정보 정책 (90% translated)")
+*   [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "개인 정보 정책 (91% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_Policy&filter=%21translated&action=page&language=).**
 
