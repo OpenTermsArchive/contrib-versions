@@ -595,6 +595,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         139.  Statcan Open Canada. Source: Statistics Canada, 2021 Census – Boundary files, 2025. Reproduced and distributed on an "as is" basis with the permission of Statistics Canada. [https://www.statcan.gc.ca/en/terms-conditions/open-licence](https://www.statcan.gc.ca/en/terms-conditions/open-licence)
               
+        140.  Open Canada, Government of Alberta. National Road Network (NRN) - AB, Alberta. Contains information licensed under the Open Government Licence – Alberta. [https://open.alberta.ca/licence](https://open.alberta.ca/licence)
+              
+        141.  Government of Alberta. Traffic volumes on links in the highway network. Contains information licensed under the Open Government Licence – Alberta. [https://open.alberta.ca/licence](https://open.alberta.ca/licence)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -1399,6 +1403,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   London Datastore, Greater London Authority. London Wide Ultra Low Emission Zone 2023, Low Emission Bus Zones, Low Emission Zone. Contains public sector information licensed under the Open Government Licence v2.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)
              
          *   Scotland’s Census. Scotland's Census 2022 - Education, labour market and travel to work - Chart data. Contains public sector information licensed under the Open Government Licence v3.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
+         *   Transport Scotland - Còmhdhail Alba. Chapter 5 - Road Traffic, 2024. Contains public sector information licensed under the Open Government Licence, [https://www.transport.gov.scot/terms-conditions/](https://www.transport.gov.scot/terms-conditions/)
+             
+         *   Gov.uk, Department for Transport (DfT). Road traffic statistics - Scotland, 2024. Contains public sector information licensed under the Open Government Licence v3.0. [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
     23.  **Greece**
          *   EuroGeographics; Copyright Geomatics Ltd.
@@ -2207,6 +2215,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   INE, Instituto Nacional de Estadística. Estadística de Transporte de Viajeros. [https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
              
+         *   DGT, Dirección General de Tráfico. Mobility Map. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     63.  **Sweden**
          *   © 2009 Cartesia GIS AB
              
@@ -2360,6 +2370,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Northern Ireland, Department for Infrastructure (An Roinn Bonneagair). Public Transport Statistics Northern Ireland 2024-25. Contains public sector information licensed under the Open Government Licence v3.0, [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
          *   Traffic Scotland Data Hub. Datex II. [https://www.traffic.gov.scot/terms-and-conditions](https://www.traffic.gov.scot/terms-and-conditions), [https://www.traffic.gov.scot/traffic-scotland-developer-hub.](https://www.traffic.gov.scot/traffic-scotland-developer-hub)
+             
+         *   Gov.uk, Department for Transport (DfT). Road traffic statistics. UK, 2024. Contains public sector information licensed under the Open Government Licence v3.0. [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
              
     71.  **Ukraine**
          
