@@ -452,23 +452,12 @@ Advertisers
 *   [Buy Your Way](https://www.outbrain.com/advertisers/buying-options/)
 *   [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
 *   [Advertising FAQ](https://www.outbrain.com/help/advertisers/)
-*   [Support](https://www.outbrain.com/contact?who=support)
 *   [Referral Program](https://www.outbrain.com/partnerships/referral-program/)
 
-Insights
---------
+Media Owners
+------------
 
-*   [Advertising Glossary](https://www.outbrain.com/glossary/)
-*   [Vertical Insights](https://www.outbrain.com/brainpower/)
-*   [Vertical Hub](https://www.outbrain.com/resources/vertical-hub/)
-
-Performance
------------
-
-*   [Affiliate Marketing](https://www.outbrain.com/blog/affiliate-marketing/)
-*   [Affiliate Hub](https://www.outbrain.com/affiliate-marketing-strategy/)
-*   [High-Conversion Content](https://www.outbrain.com/resources/guides/how-to-create-high-conversion-content-for-your-outbrain-campaigns/)
-*   [Repurpose Social Campaigns](https://www.outbrain.com/resources/guides/how-to-repurpose-your-social-campaigns-for-native-ads/)
+*   [Publishers](https://www.outbrain.com/publishers/)
 
 Company
 -------
@@ -477,19 +466,20 @@ Company
 *   [Leadership](https://www.teads.com/company-team/)
 *   [Join Us](https://www.teads.com/teads-careers/)
 *   [Trust & Transparency](https://www.outbrain.com/trust-and-transparency/)
-*   [News](https://www.outbrain.com/news)
 *   [Contact Us](https://www.outbrain.com/contact)
 *   [Partnerships](https://www.outbrain.com/partnerships/)
 
 Resources
 ---------
 
-*   [Blog](https://www.outbrain.com/blog/)
 *   [Resources Hub](https://www.outbrain.com/resources/)
-*   [Marketing Podcast](https://www.outbrain.com/blog/performance-marketing-minds-podcast-conversations-with-industry-leaders/)
-*   [Case Studies](https://www.outbrain.com/case-studies/)
+*   [Blog](https://www.outbrain.com/blog/)
 *   [Help Center](https://www.outbrain.com/help/)
-*   [Partners](https://www.outbrain.com/partnerships/partners-program/)
+*   [Case Studies](https://www.outbrain.com/case-studies/)
+*   [Partners Program](https://www.outbrain.com/partnerships/partners-program/)
+*   [Vertical Hub](https://www.outbrain.com/resources/vertical-hub/)
+*   [Affiliate Hub](https://www.outbrain.com/affiliate-marketing-strategy/)
+*   [Advertising Glossary](https://www.outbrain.com/glossary/)
 
 *   [Interest-Based Ads (Opt Out)](https://dsr.outbrain.com/recommendations-settings/home)
 *   [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
