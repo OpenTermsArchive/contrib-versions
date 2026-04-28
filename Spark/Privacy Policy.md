@@ -1,14 +1,14 @@
 Privacy Policy for App
 ======================
 
-**Date:** April 7, 2026
+**Date:** April 28, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
-At Spark, we greatly care about our users. As Spark evolves, we update our [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure it remains clear and aligned with how the product works. 
+At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
 
-In a nutshell, we added a few details about communications you may receive and on data storage in relation to new features.
+In a nutshell, we detailed provisions related to the use of third-party services and clarified data sharing practices for integrations.
 
 We encourage you to carefully review the [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
 
@@ -271,7 +271,7 @@ If the data category is not listed herein, it is stored locally on your device. 
 | Emails shared via link (incl. attachments, contacts, comments) | Until the link or account is deleted |
 | Large attachments | For thirty (30) days, if autocleaning is enabled, or until you delete the data manually via settings, or until deletion of Spark account |
 | Read Statuses | Until deletion of the Spark account |
-| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI worflows (commands, labels, rules) | Until deletion of Spark account or until you delete the data manually via settings |
+| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI Workflows (commands, labels, rules) | Until deletion of Spark account or until you delete the data manually via settings |
 | Customer Support Requests | For six (6) years after the communication on the ticket is closed |
 | Feedback Provided to Us Directly | For six (6) years from the feedback or last communication on feedback |
 | Feedback Provided via a Third-Party Platform | For two (2) years from the feedback or last communication on feedback |
@@ -314,13 +314,13 @@ Additionally, Spark integrates with popular third-party services: Notion, Asana,
 Data Sharing with Third Parties
 -------------------------------
 
-We may share your personal data with third parties without causing you any harm and in strict compliance with applicable laws. Additionally, we have put in place organizational and technical measures to secure your personal data during its transfer to third parties.
+We may share your personal data with third parties in compliance with applicable laws. 
 
 To share your data, we rely on the lawful bases such as consent, compliance with the law, and performance of a contract, depending on the specific circumstances.
 
 | Third Party | Description |
 | --- | --- |
-| Integrations | Spark integrates with popular third-party services so that you can work effectively. For example, you can turn an email into an Asana task, export it to Evernote, or add an email to OneNote Notebook. |
+| Integrations | To help you work effectively, Spark may integrates with third-party services via APIs, command-line interface, or other access points in the app. For example, you can turn an email into an Asana task, export it to Evernote, or integrate an AI agent and use it for work with your inbox.  <br>  <br>Please note that Spark is not responsible for the performance, security, or data handling practices of third-party services or your device. We also recommend reviewing the legal documents for such third-party services before using any integration. |
 | Contractors | We cooperate with contractors to operate, develop, and improve the App's features and functionality. For example, we may engage auditors, lawyers, customer support professionals, etc. |
 | Services the App uses | We use third-party services to provide you with the functionality of the App. |
 | Analytics tools | We use analytics tools to understand and promote our business. |
