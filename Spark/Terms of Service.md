@@ -1,30 +1,18 @@
 Terms of Service - Spark
 ========================
 
-**Date:** November 7, 2025
+**Date:** April 28, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
 At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
 
-As part of our ongoing commitment to transparency and improving your experience, we have revised these documents for better readability and structure. While the language and layout have been modernized, the core terms of our agreement with you remain unchanged. 
-
-Here is a summary of the most important updates:
-
-**Terms of Service**
-
-*   **Subscription Plans:** The Terms of Service have been revised to align with Spark’s expanded subscription model and evolving service offerings.
-*   **Individual & Business Use**: The Terms now provide clearer guidance for both individual users and business customers, reflecting how each may use Spark.
-*   **Updated Refund Policy**: The Terms now provide clearer details on refund eligibility and the steps to request a refund.
-
-**Privacy Policy**
-
-*   **More details on Data Processing:** We have made the Privacy Policy easier to understand by grouping personal data into clear categories and detailing why we process it, on what legal basis, and for how long.
+In a nutshell, we detailed provisions related to the use of third-party services and clarified data sharing practices for integrations.
 
 We encourage you to carefully review the [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
 
-These Terms of Service (“**Terms**”) govern your access to and use of the “Spark” mobile and desktop application (the “**App**”) and related [website](https://sparkmailapp.com/) services (collectively, the “**Service**”) provided by Spark Mail Limited (“**Spark**,” “**we**,” “**our**,” or “**us**”).  
+These Terms of Service (“**Terms**”) govern your access to and use of the “Spark” mobile and desktop application (the “**App**”),  including its underlying technologies, and related [website](https://sparkmailapp.com/) services (collectively, the “**Service**”) provided by Spark Mail Limited (“**Spark**,” “**we**,” “**our**,” or “**us**”).  
   
 We have two Privacy Policies that you should know about. Our [Privacy Policy for the App](https://sparkmailapp.com/legal/privacy-app) describes how we collect, use, and protect personal data in connection with your use of the App. The second one – [Privacy Policy for the website](https://sparkmailapp.com/legal/privacy-web)– is for our [website](https://sparkmailapp.com/).  
   
@@ -336,7 +324,9 @@ Third-Party Websites and Services
 
 Some functionality and features of the Service rely on or may be compatible with third-party websites and services, including, without limitation, email providers, artificial intelligence services, etc.
 
-We cannot guarantee that any third-party services, whether currently or in the future supported, will remain compatible with the Service or that all features will be constantly available and uninterrupted.
+We cannot guarantee that any third-party services, whether currently or in the future supported, will remain compatible with the Service or that all features will be constantly available and uninterrupted.  
+  
+The Service may also include functional access points intended for use with independent automated agents and external tools. When using the connectivity features, you are responsible for the security of your local operating environment and the integrity of the external tools you employ. Any interaction initiated by such tools is considered your own action. Spark is not responsible for the performance, security, or data handling practices of third-party services or your device.
 
 By accepting these Terms, you acknowledge that different terms of service (or equivalent legal documents) and privacy policies may apply to your use of the third-party websites, or services, their respective functionality, and content, and that it is your responsibility to familiarize yourself with such documents. Spark shall not be held responsible for any losses, damages, or other liabilities incurred due to your interaction with third-party websites and services.
 
