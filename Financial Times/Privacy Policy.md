@@ -94,7 +94,7 @@ We only process personal information where we have a lawful basis for doing so (
 *   **Legal obligation**  
     This is where we have to process personal information in order to comply with the law. For example, we process and retain customer invoice information to comply with financial regulations.
     
-*   **Recognised Legitimate Interest**  
+*   **Recognised Legitimate Interests**  
     These are defined in applicable data protection laws and may include, for example, processing necessary to prevent fraud or other crimes, as well as for wider public interest objectives.
     
 
@@ -163,7 +163,7 @@ For example, we may use AI to:
     
 *   support the delivery and relevance of advertising;
     
-*   improve search functionality and how content is presented, for example, our AskFT tool (current available to our FT Professional clients);
+*   improve search functionality and how content is presented, for example, our AskFT tool (currently available to our FT Professional clients);
     
 *   support internal processes and improve operational efficiency.
     
@@ -284,8 +284,7 @@ If you have a query in regards to the processing of your personal information, p
 
 The Financial Times Ltd  
 Registered Office: Bracken House,  
-1  
-Friday Street, London, EC4M 9BT, United Kingdom.  
+1 Friday Street, London, EC4M 9BT, United Kingdom.  
 Registered Number: 00227590
 
 **FT group**
@@ -394,7 +393,7 @@ You can opt-out using the ‘Do Not Sell or Share My Info’ link located in the
 
 fDi Markets is an online database that tracks and profiles companies investing overseas and uses this information to understand the trends in FDI on a global basis.  As part of the research process, we identify publicly available details of key individuals who are linked to either project activities or listed as a company contact.
 
-If your contact details have been included in the database, you will have received an email from us containing instructions on how to opt-out, which you can do by calling us on +44 (0)20 7775 6667, or by emailing fDiIntelligence+ccpa@ft.com.
+If your contact details have been included in the database, you will have received an email from us containing instructions on how to opt-out, which you can do by calling us on +44 (0)20 7775 6667, or by emailing [ccpa.privacy@ft.com](mailto:ccpa.privacy@ft.com).
 
 **More Information**
 
