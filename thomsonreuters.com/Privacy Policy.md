@@ -263,7 +263,7 @@ Simplify tax research with quick-reference handbooks that deliver accurate answe
 *   Books
 
 *   [Westlaw Edge](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge/plans-pricing?segment=lawfirm)
-*   [Westlaw Edge with AI-Assisted Research](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edgeAAR/plans-pricing?segment=lawfirm)
+*   [Westlaw Edge with AI-Assisted Research](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge-aar/plans-pricing?segment=lawfirm)
 *   [Westlaw Advantage](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-advantage/plans-pricing?segment=lawfirm)
 *   [Westlaw Advantage with CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/300/plans-pricing?segment=lawfirm)
 *   [CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-essentials/plans-pricing?segment=lawfirm)
