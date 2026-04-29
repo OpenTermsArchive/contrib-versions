@@ -457,7 +457,7 @@ Advertisers
 Media Owners
 ------------
 
-*   [Publishers](https://www.outbrain.com/publishers/)
+*   [Publishers](https://www.teads.com/media-owners/)
 
 Company
 -------
