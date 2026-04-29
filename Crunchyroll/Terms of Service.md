@@ -357,7 +357,7 @@ The agreement between you and Crunchyroll reflected by these Terms is effective 
 
 You may terminate your Account by managing your Account settings. We may also restrict, suspend, or terminate any Account for any reason at any time.
 
-Sections  3, 4, 5, 8, 9, and 11-19 of these Terms, and any other provisions that are necessary to effectuate those sections, shall survive termination.  
+Sections  3, 4, 5, 8, 9, and 11-19 of these Terms, and any other provisions that are necessary to effectuate those sections, shall survive termination.
 
 **18\. Export Controls and Sanctions Compliance**.
 --------------------------------------------------
