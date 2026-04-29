@@ -1,7 +1,5 @@
 TikTok Law Enforcement Guidelines
 
-  
-
 _Last updated: January 22, 2026_
 
   
