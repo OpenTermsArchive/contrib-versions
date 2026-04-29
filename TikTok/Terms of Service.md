@@ -338,4 +338,4 @@ _In short: Just because you or we do not rely on one of these Terms, this does n
 
 You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)
 
-In some countries, the law requires us to give you additional regulatory information and/or contact points, even though we may not be physically present there. You can find this information [here](https://www.tiktok.com/transparency/en/regulatory-notices/).
+In some countries, the law requires us to give you additional regulatory information and/or contact points, even though we may not be physically present there. You can find this information [here](https://www.tiktok.com/safety/en/transparency/dsa-contact-points).
