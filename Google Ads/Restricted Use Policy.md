@@ -235,6 +235,8 @@ We want to deliver ads that are engaging for users without being annoying or dif
 
 ### [Ad format requirements](https://support.google.com/adspolicy/topic/6021648)
 
+> ![](//storage.googleapis.com/support-kms-prod/pIDPlQarmWsAFo8mDlv9KU9PVQ2HwHhnLEKi)
+> 
 > In order to help you provide a quality user experience and deliver attractive, professional-looking ads, we only allow ads that comply with specific requirements for each ad format. Review the requirements for all ad formats that you're using.
 > 
 > We don't allow Non-family safe ads in image ads, video ads, and other non-text ad formats. Learn more about our [Sexual content](https://support.google.com/adspolicy/answer/6023699) policy.
