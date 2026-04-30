@@ -184,6 +184,7 @@ Business
 *   [### Google Cloud Platform Console](https://support.google.com/cloud?hl=en-GB)
 *   [### Google Merchant Center](https://support.google.com/merchants?hl=en-GB)
 *   [### Google Ad Manager](https://support.google.com/admanager?hl=en-GB)
+*   [### Payments centre](https://support.google.com/paymentscenter?hl=en-GB)
 *   [### Google Vault](https://support.google.com/vault?hl=en-GB)
 *   [### Search Ads 360](https://support.google.com/sa360?hl=en-GB)
 *   [### AppSheet](https://support.google.com/appsheet?hl=en-GB)
@@ -220,7 +221,6 @@ Developer
 
 *   [### Cast Developer](https://support.google.com/cast-developer?hl=en-GB)
 *   [### Play Console](https://support.google.com/googleplay/android-developer?hl=en-GB)
-*   [### Payments centre](https://support.google.com/paymentscenter?hl=en-GB)
 *   [### GDG](https://support.google.com/developergroups?hl=en-GB)
 *   [### Google Web Designer](https://support.google.com/webdesigner?hl=en-GB)
 *   [### reCAPTCHA](https://support.google.com/recaptcha?hl=en-GB)
