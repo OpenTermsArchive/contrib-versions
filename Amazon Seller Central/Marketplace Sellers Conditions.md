@@ -5,7 +5,7 @@ Amazon Services Business Solutions Agreement
 
 Sign in to use the tool and get personalized help (desktop browser required).
 
-[](https://sellercentral.amazon.com/gp/sign-in/sign-in.html?destination=%2Fhelp%2Fhub%2Freference%2Fexternal%2FG1791)
+[](https://sellercentral.amazon.com/sign-in?redirect_to=%2Fhelp%2Fhub%2Freference%2Fexternal%2FG1791)
 
 The version of this Agreement in English is the definitive legal version. If the Elected Country is Canada, then it is the express wish of the parties that this Agreement and the applicable Service Terms and Program Policies have been drafted in English. (The following is a French translation of the preceding sentence: Si le pays de service est le Canada, les parties conviennent que la présente convention et tous les termes et conditions applicables s'y rattachant soient rédigés en anglais.) We may make available translations to this Agreement and the applicable Service Terms and Program Policies, but the English version will control. 
 
