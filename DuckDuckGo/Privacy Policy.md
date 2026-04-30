@@ -8,7 +8,7 @@ That’s our Privacy Policy in a nutshell.
 
 ### About Us
 
-DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_app) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
+DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_app) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and using AIs in [Duck.ai](https://duck.ai/).
 
 Trackers lurk nearly everywhere online, trying to scoop up your search history, browsing history, location history, and more. Even everyday online activities like purchasing groceries or looking up the local weather can result in dozens of companies tracking you.
 
@@ -82,7 +82,7 @@ Last updated 11-21-25
 
 ### About Us
 
-DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_app) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
+DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_app) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and using AIs in [Duck.ai](https://duck.ai/).
 
 Trackers lurk nearly everywhere online, trying to scoop up your search history, browsing history, location history, and more. Even everyday online activities like purchasing groceries or looking up the local weather can result in dozens of companies tracking you.
 
