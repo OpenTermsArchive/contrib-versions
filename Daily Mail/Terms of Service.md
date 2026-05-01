@@ -61,7 +61,7 @@ The provisions in this clause 2.2 relating to text/data mining and web scraping 
 
 2.6. Users, whether or not registered, must not abuse our Report Abuse facility e.g. by making malicious reports.
 
-2.7. Information posted on Daily Mail official social media accounts, including X (f/k/a Twitter) and Facebook, is often published just as breaking news occurs and may not be amended or removed following updates made to articles. Whilst every effort is made to ensure the accuracy of posts, for the most current version of a story, readers should visit [www.dailymail.co.uk](https://www.dailymail.co.uk/)
+2.7. Information posted on Daily Mail official social media accounts, including X (f/k/a Twitter) and Facebook, is often published just as breaking news occurs and may not be amended or removed following updates made to articles. Whilst every effort is made to ensure the accuracy of posts, for the most current version of a story, readers should visit [www.dailymail.com](https://www.dailymail.co.uk/) [](https://www.dailymail.co.uk/)
 
 2.8. You may use and display on your website or social networking profile page content on our Site where an embed code is provided (the “Embeddable Content”) subject to these Terms and on the following conditions:
 
