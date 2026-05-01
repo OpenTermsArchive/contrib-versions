@@ -16,6 +16,7 @@ Partager Partager
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
+
 *   Copier
 
 All Rights Reserved - 2018 © CCM BENCHMARK GROUP
@@ -146,6 +147,7 @@ Partager Partager
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
+
 *   Copier
 
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
@@ -153,18 +155,18 @@ Partager Partager
 
 *   [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 *   [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
-*   [CCM: Who we are](https://ccm.net/apps-sites/internet-archeology/ccm/9987-ccm-who-we-are/)
 *   [CCM: Terms of Use and Legal Matters](https://ccm.net/apps-sites/internet-archeology/ccm/10123-terms-of-use-for-ccm/)
+*   [CCM: Who we are](https://ccm.net/apps-sites/internet-archeology/ccm/9987-ccm-who-we-are/)
 *   [How to register for CCM Membership?](https://ccm.net/apps-sites/internet-archeology/ccm/10029-ccm-membership-registration/)
 *   [Why CCM cannot recover your personal passwords](https://ccm.net/apps-sites/internet-archeology/ccm/3373-why-ccm-doesn-t-recover-lost-passwords/)
 *   [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
 *   [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 *   [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
-*   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
 *   [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
 *   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
+*   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
 *   [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 *   [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
-*   [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 *   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
+*   [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 *   [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
