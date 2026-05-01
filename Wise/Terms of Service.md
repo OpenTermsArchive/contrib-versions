@@ -30,6 +30,7 @@ The definitions of capitalised terms are below in the Glossary (section 2) or de
 
 In this Agreement:
 
+*   **Account Details** means a set of details made available to you for the purpose of receiving funds in your Wise Account as further detailed in Section 12.12 and which may be: (i) issued by Wise Europe SA, are linked to a Wise Europe SA BIC and are identifying your Wise Account as payment account; or (ii) or issued by another financial institution (Wise affiliate or third party) made available to you by Wise, and are an identifier causing payments to be redirected to your account held by Wise (virtual IBAN), so that Wise can credit your account. You can read more about Account Details at this [FAQ page](https://wise.com/help/articles/1SWRjhlFm80nuZirWQ5ha6/how-is-eur-in-my-main-account-managed-by-wise).
 *   **API** means the application programming interface provided by Wise, for example, through an API Partner.
 *   **API Partner** means a business we have partnered with for Wise to offer our Services through their website, mobile application or similar.
 *   **App** means the mobile application software where we offer our Services, the data supplied with the software and the associated media.
@@ -285,7 +286,9 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **12.2** Your money in the Wise Account is issued in accordance with the Law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions, access to the business of payment service providers and to the activity of issuing electronic money.
 
-**12.3 Wise is not a bank, and your Wise Account is not a bank account.** Wise is not a bank and your funds held with Wise, including balances in your Wise Account, are not insured by any deposit protection scheme, including the Guarantee Fund and Protection Fund. Wise holds funds held by its customers in permissible investments in accordance with applicable laws. Wise owns the interest or other earnings on these investments, if any. The Account Details that we provide to you (as described further below) are a means to receive funds from third parties into a bank account held by Wise and its affiliates, so that Wise can credit your Wise Account, and are not a bank account number for a bank account held by you.
+**12.3 Wise is not a bank, and your Wise Account is not a bank account.** Wise is not a bank and your funds held with Wise, including balances in your Wise Account, are not insured by any deposit protection scheme, including the Guarantee Fund and Protection Fund. Wise holds funds held by its customers in permissible investments in accordance with applicable laws. Wise owns the interest or other earnings on these investments, if any.
+
+The Account Details that we provide to you (as described further below) are a means to receive funds from third parties into an account held by Wise and its affiliates, so that Wise can credit your Wise Account when you use these Account Details.
 
 As required by the Payment Services Law, we will make sure that your money is always safe and identifiable in our books at any time.
 
@@ -312,7 +315,7 @@ You agree that you will not exercise your chargeback right for any other reason.
 
 **12.11 Restrictions on adding Money.** We only offer the Pay-In Methods you see when you access our Services. Other methods, such as a paper or e-cheque, will not be accepted. For legal, security, or other reasons, there may be limits on your chosen Pay-in Methods or currencies, including how much you can add to your Wise Account.
 
-**12.12 Adding money to your Wise Account from other sources.** In certain currencies, we may provide you with local account details that you or a third party can use to send money directly to your Wise Account (“**Account Details**”). Account Details do not reflect separate payment accounts. The Account Details that we provide to you are only a means to receive funds from third parties into a bank account held solely in the EEA by Wise Europe SA.
+**12.12 Adding money to your Wise Account from other sources.** In certain currencies, we may provide you with local account details that you or a third party can use to send money directly to your Wise Account (“**Account Details**”). These Account Details do not reflect separate payment accounts. The Account Details that we provide to you are only a means to receive funds from third parties so that Wise can credit your Wise Account when you use these Account Details.
 
 **12.13** We may carry out verification checks when you request Account Details in addition to the checks required to obtain a Wise Account, and we may carry out further checks on an ad-hoc basis. From time to time your Account Details may change. When this occurs, you are responsible for updating third parties and other arrangements you may have to receive funds using your Account Details. Wise is not responsible for issues that arise when Account Details are changed, and it is your responsibility to notify third parties that your Account Details have changed.
 
@@ -748,7 +751,7 @@ The User will not be liable for any loss attributable to transactions carried ou
 
 **30.1** We may change this Agreement by giving you at least two (2) months’ prior written notice. This notice will be provided by email and eventually also by displaying a notice in the App or in our Webpage. If we do this, you can terminate this Agreement immediately and without cost by closing your Wise Account or profile and ceasing use of our Services during the notice period (see section 7). If we do not hear from you during the notice period, you will be considered as having accepted the proposed changes and they will apply to you from the effective date specified on the notice.
 
-Changes to this Agreement which are (1) more favourable to you; (2) required by law; or (3) relating to the addition of a new service or extra functionality to the existing Service; or (4) any other change which neither reduces your rights nor increase your responsibilities, will come into effect immediately if they are stated in the change notice. Changes to exchange rates shall come into effect immediately without notice and you shall not have the right to object to such a change.
+Changes to this Agreement which are (1) more favourable to you; (2) required by law; or (3) relating to the addition of a new service or extra functionality to the existing Service; or (4) any other change which neither reduces your rights nor increase your responsibilities, will come into effect immediately. We may notify you of these changes but the changes will take effect at the time they are made. Changes to exchange rates shall come into effect immediately without notice and you shall not have the right to object to such a change.
 
 * * *
 
