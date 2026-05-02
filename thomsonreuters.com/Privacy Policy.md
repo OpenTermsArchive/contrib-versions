@@ -65,7 +65,7 @@ Learn how Justly Prudent used CoCounsel and Westlaw AI to achieve exceptional re
 *   [Tax, research & insights](https://tax.thomsonreuters.com/en/tax-accounting/tax-research-corp)
 *   [Transactional compliance](https://tax.thomsonreuters.com/en/tax-accounting/transactional-compliance-corp)
 
-[View all](https://tax.thomsonreuters.com/en/international-trade-supply-chain)
+[View all](https://tax.thomsonreuters.com/en/tax-accounting/tax-software-for-larger-businesses)
 
 *   [Collections & recovery](https://legal.thomsonreuters.com/en/risk-fraud-investigations/collections-recovery)
 *   [Continuous monitoring & fraud detection](https://legal.thomsonreuters.com/en/risk-fraud-investigations/continuous-monitoring-fraud-detection)
