@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last modified: 31 March 2026  
+Last updated: 31 March 2026  
   
 By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](https://protonvpn.com/) websites, making use of a Proton Account (the “Account”) and all its related features or otherwise using our services (with or without an Account) Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass, Proton Meet, and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation, based in Switzerland. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
