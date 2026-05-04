@@ -308,6 +308,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Plataforma de Painéis Analíticos do Observatório Nacional de Transporte e Logística. [https://www.infrasa.gov.br/dados-abertos/](https://www.infrasa.gov.br/dados-abertos/)
             
+        *   Confederação Nacional do Transporte, Anuário CNT do Transporte 2022. 1.1.Principais dados. [https://anuariodotransporte.cnt.org.br/2022/Direitos](https://anuariodotransporte.cnt.org.br/2022/Direitos)
+            
     9.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -1419,6 +1421,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   GeoPatras GR: [https://gissrvweb.geopatras.gr/](https://gissrvweb.geopatras.gr/)
              
+         *   EU - Eurostat. Road freight transport by load capacity, 2026. [https://ec.europa.eu/eurostat/help/copyright-notice](https://ec.europa.eu/eurostat/help/copyright-notice), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     24.  **Greenland**
          *   © Asiaq
              
@@ -1664,9 +1668,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 2 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 3 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 2 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 3 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -1720,6 +1724,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Vilnius Open Data: [https://opendata.vilnius.lt/dataset/vilnius-addresses](https://opendata.vilnius.lt/dataset/vilnius-addresses)
          *   Lithuanian Road Administration: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
          *   Registru Centras: [https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data](https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data)
+         *   Via Lietuva. OCPI 2.3.0 feed. [https://ev.vialietuva.lt/atviri-duomenys-1](https://ev.vialietuva.lt/atviri-duomenys-1), [https://creativecommons.org/licenses/by/4.0/deed.lt](https://creativecommons.org/licenses/by/4.0/deed.lt)
     39.  **Luxembourg**
          
          © Administration du Cadastre et de la Topography (ACT)
@@ -2217,6 +2222,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   DGT, Dirección General de Tráfico. Mobility Map. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Gobierno de España, Data source: Ministerio de Transportes y Movilidad Sostenible. Estimación tráfico RCE 2024. [https://www.transportes.gob.es/ministerio/aviso-legal](https://www.transportes.gob.es/ministerio/aviso-legal)
+             
     63.  **Sweden**
          *   © 2009 Cartesia GIS AB
              
@@ -2336,6 +2343,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Data Gov TW. New Taipei City address location data- 11502, 2026 (新北市門牌位置數值資料) This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
              
          *   Data Gov TW. Taoyuan City address location coordinates 2025 (桃園市門牌位置坐標資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the terms of this license: [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Civil Affairs Department. Hsinchu County address, 2025 (新竹縣門牌位置). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Civil Affairs Department. Hsinchu City address coordinates - for reference only, 2025 (新竹市門牌坐標資料-僅供參考). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Pingtung County Government. Pingtung County House Numbers, 2026 (屏東縣全縣門牌檔). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Civil Affairs Department. Miaoli County House Number Location, 2026 (苗栗縣迄114年12月31日門牌點位維護系統門牌座標資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Highway Bureau, Ministry of Transportation. Provincial Highway Speed ​​Limit Map, 2026 (省道速限圖資). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
              
     67.  **Timor-Leste**
          
@@ -3032,6 +3049,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
              
          *   GRID3 (ZM): [https://grid3.org/](https://grid3.org/) ; License provided at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
+             
+         *   HDX, Humanitarian Data Exchange. Zambia - Subnational Administrative Boundaries. [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses), [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
              
     79.  **Mali**
          
