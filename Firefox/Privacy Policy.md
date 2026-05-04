@@ -10,17 +10,25 @@ How is your data used?
 
 Mozilla collects [certain data](#bookmark-how-we-use-data), like technical and settings data, to provide the core functionality of the Firefox browser and associated services, distinguish your device from others, remember and respect your settings, and provide you with default features such as [New Tab](https://support.mozilla.org/kb/about-new-tab-page), [PDF editing](https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer), [password manager](https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager) and [Total Cookie Protection](https://support.mozilla.org/kb/introducing-total-cookie-protection-standard-mode). You can further customize your Firefox experience by adjusting your [controls, buttons, and toolbars](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars) and adding [features with add-ons](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox).
 
-Some Firefox features, like automated [translation](https://support.mozilla.org/kb/website-translation) for web pages and [“alt-text” suggestions when you upload images in your PDFs](https://support.mozilla.org/kb/pdf-alt-text), are powered by artificial intelligence (AI) based on small language models downloaded to your device. These operate locally — web page content, PDFs, images and tab URLs stay on your device and are not sent to Mozilla’s servers or used for training purposes without your explicit consent. Note that other Firefox features may integrate third-party AI models, as further detailed in this Notice.
+Some Firefox features, like automated [translation](https://support.mozilla.org/kb/website-translation) for web pages and [“alt-text” suggestions when you upload images in your PDFs](https://support.mozilla.org/kb/pdf-alt-text), are powered by artificial intelligence (AI) based on small language models downloaded to your device. These operate locally — web page content, PDFs, images and tab URLs stay on your device and are not sent to Mozilla’s servers or used for training purposes without your explicit consent. Note that other Firefox features may integrate third-party AI models, as further detailed in this Notice. Learn more, including how to [control AI-based features](https://support.mozilla.org/kb/firefox-ai-controls) and models in your settings.
+
+If you choose to use the Smart Window feature, your use of the feature is governed by the [Smart Window Privacy Notice](https://www.mozilla.org/privacy/smart-window/), which explains how data is processed in connection with Smart Window.
 
 ### To adapt Firefox to your needs
 
 Firefox processes a variety of personal data in a way that does not leave your device, such as browsing history, web form data, temporary internet files, and cookies. This means the data stays on your device and is not sent to Mozilla’s servers unless it says otherwise in this Notice. If you choose to allow it, your precise location may also be processed for location-related functionality for websites like Google Maps; this data is only accessed from your device by the website(s) you choose to enable it for — it is not sent to Mozilla’s servers.
 
-If you choose to enable the Shake to Summarize feature in Firefox mobile on a device with Apple Intelligence (iPhone 15 Pro+ with iOS 26+), summarizations will be created locally on your device when you request them. If you enable it on a device without Apple Intelligence, your page content will be sent to a Mozilla server for processing when you request a summary, and the summary will be returned to your device; Mozilla does not store this content or resulting summaries.
+If you enable the Shake to Summarize feature on a compatible device running a supported operating system that enables on-device intelligence, summaries you request will be created locally on your device. Otherwise, when you request a summary, your page content will be sent to a Mozilla server for processing and returned to your device; Mozilla does not store this content or resulting summaries. Learn more about Shake to Summarize on [iOS](https://blog.mozilla.org/en/firefox/shake-to-summarize/) and [Android](https://support.mozilla.org/kb/summarize-pages-android).
 
 _More details, including how to adjust your data settings:_ Data processed on your device remains in your control. You can [manage your browsing data](https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox) and your [local storage settings](https://support.mozilla.org/kb/storage), or update your [location permissions](https://support.mozilla.org/kb/does-firefox-share-my-location-websites) at any time.
 
-### Provide and improve search functionality and suggestions
+### To provide you with Firefox VPN
+
+If you are signed in to a Mozilla account, you can enable a Firefox feature to conceal your IP address through a proxy server (“VPN”). When enabled, it proxies Firefox network traffic through an intermediary to prevent your network provider from seeing which servers you connect to and to hide your IP address from the sites you visit. It does not proxy traffic from other applications on the device, and does not, on its own, make your website browsing fully anonymous. Use of VPN may impact your browsing experience, including by serving content not specific to your region.
+
+We use a proxy server operated on our behalf to provide the VPN feature. The proxy server does not have access to webpage content or other sensitive information, such as messages or passwords, and does not collect data about the websites you visit or the content of those sites. We do process limited technical data (such as the client version, connection status, and device type/operating system) to provide, maintain, and ensure the performance and stability of the service, as well as interaction data to understand usage of the feature and help guide improvements.
+
+### To provide and improve search functionality and suggestions
 
 As you type a search query within Firefox, Firefox offers [search suggestions](https://support.mozilla.org/kb/search-suggestions-firefox) to provide you with faster and more direct access to what you’re looking for. Some of the search suggestions come from your search provider (“Search Suggestions”). Others come from Firefox, and are based on information stored on your local device (including recent search terms, open tabs, and previously visited URLs), or content from Mozilla and Mozilla’s partners, including paid sponsors and internet resources like Wikipedia (“Suggestions from Firefox”).
 
@@ -32,7 +40,7 @@ In the United States, Firefox fetches suggestions from Mozilla’s servers as yo
 
 Some users — including users in some regions outside the U.S. and U.S.-based users who deselect “retrieve Suggestions from Mozilla as you type” in their settings — will instead receive locally processed results when using the Suggestions from Firefox feature. For these users, the suggestions will be served locally, using information stored on your device, in your copy of Firefox. Your de-identified click and interaction data for specific query keywords (but not your search query) are sent to Mozilla via OHTTP to conceal your IP address and other identifying information. For sponsored suggestions, our partners may receive aggregated information about which of their suggestions are shown and clicked on, but not which users saw the suggestions or which keywords caused those suggestions to be served. (If Suggestions from Firefox are unavailable in your region, you will only receive suggestions Search Suggestions).
 
-### Serve relevant content and advertising on Firefox New Tab
+### To serve relevant content and advertising on Firefox New Tab
 
 Firefox shows content on New Tab, along with advertising to support its development. You can turn these off at any time in your browser settings.
 
@@ -48,11 +56,11 @@ When a user visits a third-party website by clicking an advertisement or link in
 
 You can turn off or customize any of these New Tab features along with their associated data processing in your browser settings ([Desktop](https://support.mozilla.org/kb/customize-your-new-tab-page), [Android](https://support.mozilla.org/kb/customize-firefox-home-screen), [iOS](https://support.mozilla.org/kb/customize-firefox-home-ios)). You can also [disable sponsored content](https://support.mozilla.org/kb/sponsor-privacy) while continuing to use the rest of the features.
 
-### Provide Mozilla accounts
+### To provide Mozilla accounts
 
 If you sign up for a Mozilla account, we process additional information alongside the data set out in this Notice, such as account details, contact information and sync data, in accordance with the [Mozilla Accounts Privacy Notice](https://www.mozilla.org/privacy/mozilla-accounts/).
 
-### Provide AI chatbots
+### To provide AI chatbots
 
 You have the option to use a third-party AI chatbot of your choice to help you with things like summarizing what you’re reading, writing, and brainstorming ideas, subject to that provider’s [terms of use and privacy notice](https://support.mozilla.org/kb/ai-chatbot#w_learn-about-chatbot-providers).
 
@@ -60,7 +68,7 @@ If you choose to enable a chatbot in the sidebar and/or through a shortcut, Mozi
 
 _More details, including how to adjust your data settings:_ You can read more about how to [manage or remove](https://support.mozilla.org/kb/ai-chatbot) AI chatbots in Firefox.
 
-### Provide and enable add-ons (addons.mozilla.org)
+### To provide and enable add-ons (addons.mozilla.org)
 
 You can install add-ons from [addons.mozilla.org](https://addons.mozilla.org/) (“AMO”) or from the Firefox Add-ons Manager, which is accessible from the Firefox menu button in the toolbar. We process your search queries in the Add-ons Manager to be able to provide you with suggested add-ons. If you choose to install any add-ons, Firefox will process technical, IP-derived location, and settings data, and periodically connect with Mozilla’s servers to install and apply the correct updates to your add-ons. We also collect technical and interaction data on usage of add-ons, to help improve Firefox.
 
@@ -68,7 +76,7 @@ When you visit the [AMO website](https://addons.mozilla.org/firefox/), Mozilla c
 
 _More details, including how to adjust your data settings:_ Learn [how to remove or enable add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons). You can also review the [Privacy Notice](https://www.mozilla.org/privacy/websites/) for the [add-ons website](https://addons.mozilla.org/firefox/).
 
-### Maintain and improve features, performance and stability
+### To maintain and improve features, performance and stability
 
 Mozilla runs [studies](https://support.mozilla.org/kb/shield) within Firefox and makes certain [experimental features](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox) available through Firefox Labs to test different features and ideas before they’re made available to all Firefox users or become part of the core Firefox offering — this allows us to make more informed decisions about what our users want and need. This research uses technical, system performance, IP-derived location, settings and interaction data.
 
@@ -78,7 +86,7 @@ On desktop and Android, if Firefox encounters an unexpected issue, the [Mozilla 
 
 _More details, including how to adjust your data settings:_ You can [learn more](https://support.mozilla.org/kb/shield) about the studies you’re enrolled in and opt out of all (or a specific) studies at any time, and opt into experimental features through [Firefox Labs](https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox). You can also [learn more](https://support.mozilla.org/kb/technical-and-interaction-data) about the technical and interaction data we process, including how to turn it off.
 
-### Improve security
+### To improve security
 
 Because maintaining the latest version of Firefox helps keep you safe against vulnerabilities, desktop versions of Firefox regularly connect to Mozilla’s servers (or another service that you used to install Firefox) to check for software updates; updates for Android and iOS versions of Firefox are managed by Google’s Play Store and Apple’s App Store, respectively.
 
@@ -88,13 +96,13 @@ For [some Firefox users](https://support.mozilla.org/kb/firefox-dns-over-https),
 
 _More details, including how to adjust your data settings:_ [Upgrades and add-ons blocklist](https://support.mozilla.org/kb/how-stop-firefox-making-automatic-connections), [Google’s Safe Browsing Service](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [OHTTP](https://blog.mozilla.org/en/products/firefox/partnership-ohttp-prio/).
 
-### Understand usage of Firefox
+### To understand usage of Firefox
 
 We process [data](#bookmark-understand-usage) to better understand how you engage with our services, such as how much you use Firefox, your language preference, how often you use our search tools or interact with search suggestions, how fast pages load for you and how many ads or [CAPTCHAs](https://en.wikipedia.org/wiki/CAPTCHA) you see. This allows us to measure how people access and use our services, which helps improve our business and the functionality of Firefox.
 
 _More details, including how to adjust your data settings:_ You can update your data collection settings for [Desktop](https://support.mozilla.org/kb/share-data-mozilla-help-improve-firefox) and [Mobile](https://support.mozilla.org/kb/mobile-manage-firefox-data-collection-and-privacy) at any time. Note that deselecting “Allow Firefox to send technical and interaction data to Mozilla” will not impact the [Daily Usage Ping](https://support.mozilla.org/kb/usage-ping-settings). This Daily Usage Ping solely provides us with de-identified information that a user is using Firefox; it is not tied to any other data about you and you can opt out in settings.
 
-### Market our services
+### To market our services
 
 When you allow us to do so, Firefox sends Mozilla data about the website domain or specific advertising campaign (if any) that referred you to our download page to help us understand and improve our marketing efforts. Firefox also shares information with our marketing partners to measure and improve these campaigns; what information is specifically shared varies (depending on how you discovered Firefox and your operating system) but generally includes how you were referred to our download page and whether you actively use Firefox. When Firefox is pre-installed on your device, technical and interaction data (your device type and whether Firefox is used) will be sent to our marketing partners, and shared with Mozilla.
 
@@ -104,13 +112,13 @@ _More details, including how to adjust your data settings:_ Learn more about wha
 
 As part of the activities outlined above, such as understanding usage of Firefox and measuring our marketing, we may create pseudonymous, de-identified, aggregated or anonymized data. We use technology that is appropriate to the circumstances, including identifier removal, OHTTP, or [DAP](https://divviup.org/about/) — these help prevent data from being linked to you. In some cases, we may share or publish aggregated and anonymized data to facilitate research or as part of the lawful business purposes outlined above (such as sharing aggregated insights with advertising partners).
 
-### Communicate with you
+### To communicate with you
 
 Depending on your settings (and whether or not you have a Mozilla account), we may communicate with you via in-product messaging, send you communications (including marketing-related communications), ask you to participate in research / surveys, or respond to customer support communications. You may also reach out to us directly, such as to [report a broken site within Firefox](https://support.mozilla.org/kb/report-breakage-due-blocking#w_what-information-does-mozilla-collect-from-your-report). When you communicate with us via these methods, we will only use the information you share for the purpose you provided it. We also process interaction data related to these communications to better understand who has received our service-related announcements (such as new features, updates or security alerts).
 
 When you visit Mozilla’s help pages in connection with Firefox, Mozilla collects technical and interaction data about your usage of our websites in accordance with our [Mozilla Websites, Communications and Cookies](https://www.mozilla.org/privacy/websites/) notice to enable us to understand your usage of our support and help pages and improve them.
 
-### Comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity
+### To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity
 
 We may also be required to process your personal data to comply with applicable laws and protection purposes, such as:
 
@@ -225,4 +233,4 @@ Lawful bases
 | To market our services | *   Technical data<br>*   Location<br>*   Language preference<br>*   Settings data<br>*   Unique identifiers<br>*   Interaction data<br>*   Browsing data<br>*   System performance data | **Legitimate interest** in promoting our products and services, including sending marketing communications and measuring and improving our marketing campaigns.<br><br>**Consent**, where required under applicable law (e.g. jurisdictions which require consent to receive marketing communications). | Learn more about what [Campaign Measurement data](https://support.mozilla.org/kb/marketing-data) is collected and shared, and how to opt out. Note: Firefox does not share information like your browsing history, search queries, or saved passwords with marketing technology partners. Mozilla only collects the data necessary to measure and improve our marketing campaigns. |
 | To pseudonymize, de-identify, aggregate or anonymize data | *   All data types | **Legitimate interest** in taking privacy-enhancing measures prior to performing analytics or sharing data with partners. |     |
 | To communicate with you | *   Unique identifiers<br>*   Interaction data<br>*   Contact data<br>*   Content data<br>*   Language preference | **Legitimate interest** in letting you know about improvements or changes to our products or services, as well as reviewing and responding to questions or other requests. |     |
-| To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity | *   All data types | **Compliance with law** in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.<br><br>**Legitimate interest**, where compliance is not appropriate, in supporting legal or regulatory processes or requests, preventing fraud and managing and protecting our (and our users’) rights, property and/or safety. | Learn more about how we respond to [lawful requests](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process). |
+| To comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity | *   All data types | **Compliance with law** in responding to data subject rights requests, responding to law enforcement requests, managing and protecting our (and our users) rights, property and/or safety.<br><br>**Legitimate interest**, where not strictly required by law, to support legal or regulatory processes or requests, prevent fraud, and manage and protect our (and our users’) rights, property and/or safety. | Learn more about how we respond to [lawful requests](https://www.mozilla.org/about/policy/transparency/#dfn-legal-process). |
