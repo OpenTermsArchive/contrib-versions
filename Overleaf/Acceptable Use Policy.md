@@ -1,7 +1,7 @@
 Overleaf Acceptable Use Policy
 ------------------------------
 
-Last Modified: 15th August 2025
+Last Modified: \[1\] May 2026
 
 Overleaf is used by millions of people, and we are proud of the trust placed in us. In exchange, we trust you to use the services we provide responsibly.
 
@@ -24,3 +24,5 @@ You agree not to misuse the Overleaf services. For example, you must not, and mu
 *   violate or cause the violation of the law in any way;
 *   sell, rent, lease, license, frame, commercialize or use for the benefit of any other person. For clarity, this means you may not register or purchase Overleaf accounts, which you then resell or make available for use by others;
 *   copy, modify, adapt or create derivative works, or decipher, decompile, disassemble, reverse engineer or attempt to derive any source code or underlying ideas or algorithms.
+
+To help ensure the stability, security and availability of the Services for all users, usage is always subject to fair usage principles, including: (a) your use of the Services must be consistent with normal, manual human interaction; (b) you must not use the Services as a processing engine or API for external systems or applications, for systemic extraction or harvesting of Outputs, or in any way involving automated or scripted generation of AI prompts in volumes inconsistent with individual human use; and (c) you must not use the Services in a manner that we may determine (in our sole discretion) exceeds reasonable usage patterns or places a disproportionate load on our support or platform infrastructure. Without limiting that discretion, we may determine unreasonable usage by comparing your activity for any given period against the average of other users of the relevant part of the Service. We may, at our discretion, issue guidelines determining what constitutes excessive use of the Services, and you agree that your use of the Services will be subject to any such guidelines as issued or revised from time to time.
