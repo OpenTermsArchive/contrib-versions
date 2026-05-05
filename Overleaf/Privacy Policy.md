@@ -1,7 +1,7 @@
 Overleaf Privacy Notice
 -----------------------
 
-Last Modified: 1st December 2025
+Last Modified: \[1\] May 2026
 
 This Notice applies to the websites at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -33,6 +33,7 @@ In order to comply with European data privacy laws, we are required to set out t
 *   where the processing is necessary to comply with our legal obligations; or
 *   the processing is in our legitimate interests, provided these are not overridden by your individual rights. For example, we rely on our legitimate interests:
     *   to retain personal data that’s associated with content you’ve made public, so that personal information, associated with that content can be preserved.
+    *   to verify your identity and research affiliation.
     *   to contact you when you’ve not previously given us your consent to do so, such as to tell you about things that we think might be of interest to you, or to ask for your feedback or opinion on us or our products/services.
     *   to collect publicly available information, such as posts on social media, for market research and product improvement purposes.
     *   to use CCTV on our premises for security reasons.
@@ -47,6 +48,7 @@ We may share your personal data within our corporate group on a confidential bas
 *   to the subcontractors and service providers\* we use to provide and support Overleaf, including, for example, providers of hosting, security and infrastructure and customer support platforms;
 *   if you express interest in an initiative we’re involved in, to other participants in such initiative;
 *   if Overleaf is accessed, procured or used via, used to access or procure, or synced, integrated or connected with, other products or resources, to the provider of such products or resources;
+*   if you collaborate on another user’s Overleaf project, with that user and other collaborators on the project, and the respective Overleaf account owner(s);
 *   if part of our business is sold to or integrated with another business, to our advisers and any prospective purchasers (and their advisers);
 *   in such circumstances for which you have given your consent;
 *   if necessary for the performance of the contract we have with you or in order to enforce any claims we are entitled to;
@@ -57,7 +59,7 @@ We may share your personal data within our corporate group on a confidential bas
 *   if you have registered using an organizational email address, to authorized representatives of that organization, so they can understand how Overleaf is being used at their organization and get in contact with you about your account (for example to make you aware of available upgrades), but limited to your email address and statistics on usage;
 *   in the case of personal data you share in any Overleaf community services you participate in (for example blogs, forums, and wikis), to the public.
 
-\*\* We include appropriate confidentiality and security obligations in our contracts with our service providers and only permit them to process your personal data for specified purposes and in accordance with our instructions (not for their own purposes). Such service providers include: Netsuite, Inc. for billing (USA), Salesforce.com, LLC for customer relationship management (USA), Qualtrics LLC (USA) for product feedback, and may also include the third parties listed here.\*
+\*\* We include appropriate confidentiality and security obligations in our contracts with our service providers and only permit them to process your personal data for specified purposes and in accordance with our instructions (not for their own purposes). Such service providers include: Netsuite, Inc. for billing (USA), Salesforce.com, LLC for customer relationship management (USA), Qualtrics LLC (USA) for product feedback, and may also include the third parties listed [here](https://docs.overleaf.com/accounts-and-security/overleaf-data-processors).\*
 
 Note, where you are using Overleaf pursuant to an organization’s subscription, that organization may have certain admin rights over your account, including the ability to track your usage and, in the case of managed accounts, the ability to close your account and access, delete and/or share your stuff, including by re-assigning projects; and we will act in accordance with any instructions they may give in respect of such information (if any) they may provide to us about you or which we may collect on their behalf (whose policies - not this policy - will govern how the personal data we process on their behalf is used).
 
@@ -105,9 +107,9 @@ Under certain conditions, more fully described in Annex I of the DPF Principles,
 
 ### Marketing
 
-Depending on your preferences, we may contact you about things we think might be of interest to you. Some of these messages may be tailored to you, based on your interests (e.g. previous browsing activity), public profile and posts (e.g. on social media), use of our products/services and other information we may hold.
+Depending on your preferences, we may contact you about things we think might be of interest to you. Some of these messages may be tailored to you, based on your interests (e.g. previous browsing activity), public profile and posts (e.g. on social media), use of our products/services, history of interactions with us, public research history and other information we may hold.
 
-If you no longer wish to receive such communications, you can click the unsubscribe button. Note, even if you unsubscribe from marketing messages, we may still send you emails about the services you use, such as details of new functionality / changes to legal terms of use.
+If you no longer wish to receive such communications, you can click the unsubscribe button that will be included in our emails. If you have a registered account with Overleaf, separate email preferences may also apply. Note, even if you unsubscribe from marketing messages, we may still send you emails about the services you use, such as details of new functionality / changes to legal terms of use.
 
 ### Cookies
 
