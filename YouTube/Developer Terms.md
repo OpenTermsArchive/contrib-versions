@@ -1,24 +1,6 @@
 YouTube API Services - Developer Policies Stay organized with collections Save and categorize content based on your preferences.
 ================================================================================================================================
 
-![Spark icon](/_static/images/icons/spark.svg)
-
-Page Summary
-------------
-
-outlined\_flag
-
-*   These policies govern the use of YouTube API Services, requiring developers to build stable, user-friendly applications that add value to YouTube while adhering to quality, honesty, and user privacy principles.
-    
-*   API clients must prioritize transparency regarding data usage, ensuring users understand how their information will be used and maintained, as well as properly identifying their purpose for data access, and providing clear methods for consent revocation.
-    
-*   Developers must adhere to strict guidelines on API access, usage, quotas, and compliance, including using the Google Developers Console, protecting API credentials, and requesting quota extensions through an API Compliance Audit.
-    
-*   The handling of YouTube data and content requires developers to obtain user consent, limit data storage durations, and avoid unauthorized activities like downloading content, modifying user data without permission, or aggregating data in prohibited ways.
-    
-*   API clients are prohibited from actions such as disrupting YouTube API Services, defrauding others, infringing copyrights, or selling ads on YouTube content, and child-directed API clients must comply with specific laws and restrictions like COPPA and GDPR.
-    
-
 **Note:** [Complying with the YouTube Developer Policies](https://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](https://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
 This document (the "**YouTube API Services Policies**" or "**Policies**") sets out the policies that you need to follow when accessing or using [YouTube API Services](#definition-youtube-api-services) in your service, product, or application. These Policies help you access and use [YouTube API Services](#definition-youtube-api-services) in ways that are consistent with YouTube's interests and that respect and foster the growth of YouTube's community of creators, viewers, content rights holders, and advertisers.
@@ -501,6 +483,10 @@ You and your [API Clients](#definition-api-client) must not, and must not encour
 ### K. Reporting Noncompliance
 
 If you are aware of anyone accessing or using [YouTube API Services](#definition-youtube-api-services) in a manner that is not compliant with these policies or any other part of the [Agreement](#definition-agreement), you may contact the YouTube API Services team to escalate the issue [using this form](https://support.google.com/youtube/contact/yt_api_form).
+
+### L. Additional policies on derived metrics and data storage
+
+These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics and/or store statistical data through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
 
 IV. Definitions
 ---------------
