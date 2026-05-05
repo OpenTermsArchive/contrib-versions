@@ -75,6 +75,9 @@ Learn how Justly Prudent used CoCounsel and Westlaw AI to achieve exceptional re
 [View all](https://legal.thomsonreuters.com/en/risk-fraud-investigations)
 
 *   [Intelligent compliance network](https://www.thomsonreuters.com/en/power-your-enterprise-with-an-intelligent-compliance-network)
+*   [Chief financial officers and heads of tax](https://www.thomsonreuters.com/en/cfo-head-of-tax)
+*   [General counsel and chief legal officers](https://www.thomsonreuters.com/en/general-counsel-clo)
+*   [Chief risk officers](https://www.thomsonreuters.com/en/chief-risk-office)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_6.svg)
 
