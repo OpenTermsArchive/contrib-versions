@@ -1,7 +1,7 @@
 Overleaf Terms of Service
 -------------------------
 
-Last Modified: 1st December 2025
+Last Modified: \[1\] May 2026
 
 These terms of service (the **“Terms”**) govern your access to and use of the website at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) (the **“Site”**) and the products and services made available via or in connection with the Site, including related apps and browser extensions (the **“Services”**) operated and controlled by Digital Science UK Limited (**“we”** or **“our”** or **“Overleaf”**), so please carefully read them before using the Services.
 
@@ -27,7 +27,7 @@ Although we reserve the right to stop, suspend, or modify the Services at any ti
 
 ### Sharing Your Stuff
 
-The Services provide features that allow you to share your stuff with others (including third party apps that you use to access your Overleaf account or that you connect your account with) or to make it public. There are many things that may happen with your stuff once it’s been shared or made public (for example, people may copy it, modify it, re-share it). Please therefore consider carefully what you choose to share or make public and that you have all necessary rights and permissions to do so. We will not have any responsibility arising from the sharing of your stuff.
+The Services provide features that allow you to share your stuff with others (including third party apps that you use to access your Overleaf account or that you connect your account with, or via contributions to another user’s project) or to make it public. There are many things that may happen with your stuff once it’s been shared or made public (for example, people may copy it, modify it, re-share it). Please therefore consider carefully what you choose to share or make public and that you have all necessary rights and permissions to do so. We will not have any responsibility arising from the sharing of your stuff.
 
 ### Registering with us
 
@@ -49,9 +49,15 @@ If you use AI powered features or functionality of Overleaf (collectively, “Ov
 
 “Input” means an input you enter into the Overleaf AI Tool; and “Output” means an output generated and returned to you by the Overleaf AI Tool based on your Input.
 
-Inputs and Outputs will be treated by us as your Stuff under these Terms. We will not use your Inputs to train models without your consent, and as between you and us, you retain ownership of the Inputs and shall own Outputs, to the extent permitted by applicable law. Due to the nature of the Overleaf AI Tools and artificial intelligence generally, Outputs are provided “AS-IS” and may not be unique, meaning other users may receive similar outputs from the Overleaf AI Tools. You are solely responsible for all use of the Outputs, which you should always check, including for accuracy, completeness and suitability.
+Inputs and Outputs will be treated by us as your Stuff under these Terms. We will not use your Inputs or Outputs to train or develop AI models except where this is part of the Services we provide to you (and for your exclusive benefit) without your consent, and as between you and us, you retain ownership of the Inputs and shall own Outputs, to the extent permitted by applicable law. Where the processing of your Stuff involves third parties, such as LLM providers, we will ensure our contracts always include appropriate information security safeguards and do not authorize use of your Stuff for their own AI model development or training purposes. Due to the nature of the Overleaf AI Tools and artificial intelligence generally, Outputs are provided “AS-IS” and may not be unique, meaning other users may receive similar outputs from the Overleaf AI Tools. You are solely responsible for all use of the Outputs, which you should always check, including for accuracy, completeness and suitability.
 
 Writefull for Overleaf shall be deemed an Overleaf AI Tool and as such, form part of the Services and be subject to these Terms (and, for the avoidance of doubt, corresponding Inputs and Outputs will be treated as your Stuff). By being a Writefull for Overleaf user, you may also become eligible to access related products and services provided by our affiliate, ThinqLab Ltd (with whom we may share your details for such purposes in accordance with our privacy policy), use of which will be subject to their own terms of use and not these Terms.
+
+### Usage Limits
+
+The Services may be subject to specified usage limits, including compile timeouts, storage capacity, number of collaborators, active projects, prompts and tokens, and API request rates. Overleaf reserves the right to monitor your usage of the Services to ensure compliance with these limits.
+
+Certain features of Overleaf plans or add-ons may be described as ‘unlimited’ or subject to ‘fair usage’. Whilst this means that Overleaf does not impose a specific fixed limit on your use of these features, fair usage principles still apply (see the Acceptable Use Policy for more information).
 
 ### Our Rights
 
@@ -95,7 +101,7 @@ The Services may contain links to third-party websites or resources. We do not e
 
 ### Order Process and Formation of a Contract
 
-While the Services are operated and controlled by Digital Science UK Limited, in some cases, for example if your billing address is in the United States or Canada, the Services will be made available to you via its US affiliate, Digital Science & Research Solutions Inc (“Digital Science US”). In such cases, payments will be payable to Digital Science US and for such purposes, references to “Overleaf”, “we” or “our”, shall mean Digital Science US, as the context requires.
+While the Services are operated and controlled by Digital Science UK Limited, in some cases, for example if your billing address is in the United States, Canada or South Africa, or in other countries specified in the Documentation, the Services will be made available to you via its US affiliate, Digital Science & Research Solutions Inc (“Digital Science US”). In such cases, payments will be payable to Digital Science US and for such purposes, references to “Overleaf”, “we” or “our”, shall mean Digital Science US, as the context requires.
 
 If you are paying for a Service, a contract to provide that Service will only arise upon receipt of payment in cleared funds and once we have made the Service available to you.
 
