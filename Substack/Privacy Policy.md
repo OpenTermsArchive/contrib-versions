@@ -1,13 +1,13 @@
 **Privacy Policy**
 ==================
 
-Last Updated: December 1, 2025
+Last Updated: May 4, 2026
 
 **Changes in the Last Update**
 
-*   Address Creator privacy responsibilities
+*   Added disclosure that Substack shares account identifiers with child safety industry consortia to detect CSAM.
     
-*   Amend discussion of services providers
+*   Added a one-month response commitment for certain privacy rights requests and the right to object to certain types of processing.
     
 
 * * *
@@ -28,7 +28,7 @@ This Privacy Policy only applies to the processing of your Personal Information 
 
 **Will Substack ever change this Privacy Policy?**
 
-We’re constantly trying to improve our services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on our site, by sending you an email, and/or by some other means.
+We’re constantly trying to improve our services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to material changes by placing a notice on our site, by sending you an email, and/or by some other means.
 
 Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of Substack, and you are still responsible for reading and understanding them.
 
@@ -89,6 +89,8 @@ We process this Personal Information for the following purposes:
         
     *   to monitor any user accounts to prevent, investigate and/or report fraud, misrepresentation, terrorism, security incidents or crime in accordance with applicable law;
         
+    *   to share account identifiers with trusted industry child safety consortia for the detection and prevention of online child sexual exploitation and abuse (OCSEA);
+        
     *   to invite you to take part in surveys or market research;
         
     *   to facilitate contact syncing between users who opt in to our app’s contact syncing functionality;
@@ -120,6 +122,8 @@ We may share your Personal Information with third parties as described below:
     
 *   **Government authorities, law enforcement officials, and court-ordered disclosures:** If required for the purposes as described in this Privacy Policy, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws we may share Personal Information with competent regulatory, prosecuting, tax or governmental authorities, courts or other tribunals, or with litigants entitled by law to receive personal information, in any jurisdiction or markets, domestic or foreign.
     
+*   **Industry Child Safety Programs:** We may share account identifiers (such as email addresses and usernames) with trusted industry child safety organizations for the purpose of detecting and preventing online child sexual exploitation and abuse (OCSEA).
+    
 
 In certain cases, we may anonymize your Personal Information in such a way that you can no longer be identified as an individual, and we reserve the right to use and share such anonymized information to trusted partners not specified here. However, we never disclose aggregated or de-identified information in a manner that could identify you as an individual.
 
@@ -145,7 +149,7 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 
 **Privacy and your direct messages**
 
-You can use Substack to send direct messages to other Substack users, and to receive direct messages from other Substack users. **Please note that, at this time, direct messages are not end-to-end encrypted, and are not a substitute for secure messaging services.** Direct messaging contents are disclosed to their intended recipients. Recipients of direct messages may keep those messages even if you request their deletion, and even if you delete your Substack account. Keep in mind that recipients of your direct messages do not necessarily have any obligation to keep them private.
+You can use Substack to send direct messages to other Substack users, and to receive direct messages from other Substack users. **Please note that, at this time, direct messages are not end-to-end encrypted, and are not a substitute for secure messaging services.** Direct messaging contents are disclosed to their intended recipients. The platform may restrict your access to direct messages received from other users when those users delete messages or block your account. Nevertheless, please note that — regardless of platform functionality or policy — recipients of direct messages may keep those messages even if you request their deletion, and even if you delete your Substack account. Keep in mind that recipients of your direct messages do not necessarily have any obligation to keep them private.
 
 We will only disclose direct message contents to people other than the intended recipients in very limited circumstances where allowed or required by law, for example, in response to valid court orders or in emergency situations involving danger of death or serious physical injury. While we maintain strict internal access controls on direct messaging content, keep in mind that Substack personnel may access the contents of direct messages to enforce our Terms of Use, ensure the security of our platform, to provide user support, or as otherwise necessary to provide our services. We may also use automated means to ensure the safety of direct messaging content, including scanning for spam, malicious content, and child abuse material.
 
@@ -156,6 +160,10 @@ If you provide us with your phone number, we may use a third-party service provi
 **What are your rights?**
 
 Depending on applicable local laws, you may be entitled to ask Substack for a copy of your Personal Information, to correct it, erase or restrict its processing, or to ask us to transfer some of this information to other organizations. You may also have rights to object to some processing activities or to request restriction of some processing activities. Where we have asked for your consent to process your Personal Information, you may also have the right to withdraw this consent. These rights may be limited in some situations or in accordance with applicable law – for example, we cannot delete your Personal Information when we can demonstrate that we have a legal obligation to retain it. In some instances, this may mean that we are able to retain data even if you withdraw your consent or you delete your account.
+
+We will respond to any request to exercise your rights within one month of receipt. Where your request is complex or you have made a number of requests, we may extend this period by a further two months and will notify you of any such extension, together with the reasons for the delay, within one month of receipt of your request.
+
+In particular, where we process your Personal Information on the basis of our legitimate interests — including where we profile you in order to personalise content recommendations — you have the right to object to such processing at any time on grounds relating to your particular situation. We will cease such processing unless we can demonstrate compelling legitimate grounds which override your interests, rights and freedoms, or the processing is necessary for the establishment, exercise or defence of legal claims. To exercise this right, please contact us at privacy@substackinc.com.
 
 Where we require Personal Information to comply with legal or contractual obligations, then provision of such information is mandatory: if such information is not provided, then we will not be able to manage our contractual relationship, or to meet obligations placed on us. In all other cases, provision of requested personal data is optional. Please note we will always inform you where the provision of your Personal Information is mandatory or optional.
 
@@ -192,7 +200,7 @@ In the event you have unresolved concerns, please note that you have the right t
 
 Creators using our services are responsible for their own privacy compliance and this Privacy Policy does not apply to any processing of your Personal Information by Substack as a data processor on behalf of any Creator using our services. A Creator’s own terms and policies govern their use of the Personal Information they collect using our services, including their own marketing emails and other communications. A Creator’s editorial decision to include personal information in published content will always be made in the Creator’s capacity as a data controller.
 
-It is Substack’s obligation as a data processor is to provide any privacy notice it receives to the appropriate data controller, meaning that privacy complaints about editorial content will generally be provided to the Creator who posted the content in question.
+Substack’s obligation as a data processor is to provide any privacy notice it receives to the appropriate data controller, meaning that privacy complaints about editorial content will generally be provided to the Creator who posted the content in question.
 
 **How long will Substack retain your data?**
 
