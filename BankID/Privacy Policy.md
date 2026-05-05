@@ -176,7 +176,7 @@ ID card information is saved for as long as your physical ID document is valid o
 
 **Verification of ID document**
 
-Your personal data is processed in order to carry out a reinforcement measure for certain new issuances of BankID or for a specific usage, identification or signature, in order to prevent misuse or other unauthorised use of BankID. In the event this reinforcement measure is carried out, you will be asked to photograph and tap your Swedish passport or national ID card issued by the police.
+Your personal data is processed in order to carry out a reinforcement measure for certain new issuances of BankID or for a specific usage, identification or signature, in order to prevent misuse or other unauthorised use of BankID. In the event this reinforcement measure is carried out, you will be asked to photograph and tap your passport or national ID card. 
 
 Specification
 
