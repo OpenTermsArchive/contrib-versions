@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/612x408/home_talking_phone.jpg)
+[![](/assets/stock/1400x930/pass_bid.jpg)
+
+#### BankID renewal with EU passports
+
+2026-05-05
+
+We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/bankid-enew-bankid-with-eu-passports)[![](/assets/stock/612x408/home_talking_phone.jpg)
 
 #### New function for BankID in phone calls
 
@@ -130,10 +136,4 @@ Payment services that use BankID for phone calls can use a new interface for pay
 
 2026-04-08
 
-For businesses who initiate payments, we are launching a new payment flow with the possibility to add a warning.](https://www.bankid.com/en/about-us/news/new-payment-flow-launched)[![](/assets/stock/news/widget_2025.jpg)
-
-#### Have you added our widgets?
-
-2026-02-19
-
-Our widgets takes you straight to scanning a QR code or your digital ID card from your phone's locked screen.](https://www.bankid.com/en/about-us/news/have-you-added-our-widgets)
+For businesses who initiate payments, we are launching a new payment flow with the possibility to add a warning.](https://www.bankid.com/en/about-us/news/new-payment-flow-launched)
