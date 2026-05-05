@@ -391,7 +391,7 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-*   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
+*   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=%7B$policyLanguageCode%7D)
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Gemini Apps](https://support.google.com/gemini/answer/13594961?hl=en_GB#privacy_notice)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
