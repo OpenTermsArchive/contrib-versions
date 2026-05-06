@@ -5,13 +5,9 @@ Global Privacy Notice for Drivers
 
 At Bolt, we are focused on making cities for people. To do this, we offer a number of alternative transport solutions including ride-hailing, shared cars, e-scooters, e-bikes and food and grocery delivery. Your safety as a Driver is our priority and this includes the safety of your personal data that we process when you use the Bolt services on the “Bolt Platform” (being the technology infrastructure made available by Bolt to facilitate online intermediation of ride-hailing services, including the Bolt Driver Portal and the Bolt Driver app (“Bolt App”)).
 
-Date when this Privacy Notice was last updated: 28 August 2025
-
-  
+Date when this Privacy Notice was last updated: 5 September 2025
 
 ****Table of Contents****
-
-  
 
 1\. About this Privacy Notice
 
@@ -55,31 +51,19 @@ For Legal Proceedings and Compliance with the Law
 
 11\. How do we notify you of changes to this Notice?
 
-  
-
 ****1\. About this Privacy Notice**** 
 
-This Privacy Notice (“Notice”) describes how Bolt Operations OÜ (“Bolt”, “We” or “Us”), its group companies and third party partners collect and use the personal data of persons providing transportation services via the Bolt Platform - known as “Drivers” (including persons who are in the process of registering or have registered to Bolt as Driver, as well as persons who have previously owned an account as a Bolt Driver). More information about Bolt and its group companies, such as the relevant Bolt group company for your market, is set out [here](https://bolt.eu/en-ie/privacy/privacy-controller-list/?category=rides).
-
-  
+This Privacy Notice (“Notice”) describes how Bolt Operations OÜ (“Bolt”, “We” or “Us”), its group companies and third party partners collect and use the personal data of persons providing transportation services via the Bolt Platform - known as “Drivers” (including persons who are in the process of registering or have registered to Bolt as Driver, as well as persons who have previously owned an account as a Bolt Driver). More information about Bolt and its group companies, such as the relevant Bolt group company for your market, is set out [here](https://bolt.eu/en/privacy/privacy-controller-list/?category=rides).
 
 The term “you” or “your” refers to a Driver. This Notice lets you know how we promise to look after your personal data and tells you about your privacy rights and the choices and controls available to you.
 
-  
-
 This Notice applies to all Drivers globally who access the Bolt Platform to fulfil passenger transportation services (and other ancillary transportation services such as package delivery services), whether acting on their own behalf as an independent service provider or acting on behalf of another service provider (for example, acting on behalf of a fleet or another individual). This Notice should be read in combination with all terms and conditions, guidelines and policies that apply to your use of the Bolt services as are made available at [https://bolt.eu/legal](https://bolt.eu/legal).
-
-  
 
 The way we collect, use, and share your personal data may differ depending on the legal requirements of the country or region where you access or provide services through the Bolt Platform. Local laws can influence the types of personal data we process, the purposes for which we process it, the legal basis we rely on and the rights available to you. If you operate or travel across borders, please be aware that the data practices outlined in this Notice may be adapted to comply with the applicable laws of each location. In all cases, we apply safeguards to ensure compliance with relevant legal standards.
 
-  
-
 ****2\. How can you contact us?**** 
 
-Bolt (or the relevant Bolt group company for your market - as set out [here](https://bolt.eu/en-ie/privacy/privacy-controller-list/?category=rides) in more detail) is the data controller of your personal data processed under this Notice. We have appointed a Global Data Protection Officer and an Office of the Data Protection Officer Team who can be contacted by emailing our Privacy Mailbox at [​privacy@bolt.eu](mailto:%E2%80%8Bprivacy@bolt.eu) - please mark the subject line of the email ‘__For the attention of Bolt’s Data Protection Officer__’. You can also raise data subject rights requests via our Privacy Web Form available at [https://bolt.eu/en-ie/privacy/data-subject/](https://bolt.eu/en-ie/privacy/data-subject/), or raise any privacy-related requests or questions in the Bolt App when you go to the main menu and tap ‘Support’. Our Customer Support Team will then forward the issue internally to the Bolt Privacy Team.
-
-  
+Bolt (or the relevant Bolt group company for your market - as set out [here](https://bolt.eu/en/privacy/privacy-controller-list/?category=rides) in more detail) is the data controller of your personal data processed under this Notice. We have appointed a Global Data Protection Officer and an Office of the Data Protection Officer Team who can be contacted by emailing our Privacy Mailbox at [\[email protected\]](https://bolt.eu/cdn-cgi/l/email-protection) - please mark the subject line of the email ‘__For the attention of Bolt’s Data Protection Officer__’. You can also raise data subject rights requests via our Privacy Web Form available at [https://bolt.eu/en/privacy/data-subject/](https://bolt.eu/en/privacy/data-subject/), or raise any privacy-related requests or questions in the Bolt App when you go to the main menu and tap ‘Support’. Our Customer Support Team will then forward the issue internally to the Bolt Privacy Team.
 
 ****3\. What personal data do we process?****
 
@@ -107,7 +91,7 @@ The table below sets out the different categories of personal data we process ab
 | ****Geolocation Data**** | We collect data about your precise and/or approximate geolocation (including GPS and IP address) depending on your app settings and device permissions, and your driving routes (including the time, the trip progression, the final destination of a trip and average speed), when you open and use the Bolt App. |
 | ****Order Data**** | We collect details about scheduled trips and specific trips taken via the Bolt Platform, including:<br><br>*   Date, time and day of the week<br>*   Geolocation data, including pick up and drop off locations and driving routes<br>*   Actual and estimated distance and duration<br>*   Actual and estimated arrival time, pick up distance and duration<br>*   Payment history, including estimated and actual order price and currency <br>*   Order status, including the status of trips as rejected or cancelled<br>*   Trip category (such as comfort or premium)<br>*   Order number<br>*   Irregular activity due to fraud and cancellations<br><br>We also collect general information about your trips taken via the Bolt Platform, including:<br><br>*   Number of trips that were agreed to be performed and were / were not fulfilled <br>*   Total time spent providing trips each day<br>*   Number and rate of ride requests acknowledged on the Bolt Platform<br>*   Averages of statistics such as pickup distance, estimated time of arrival, distance travelled, rides that were / were not fulfilled (including order status), earnings and speed<br><br>If you accept cash-rides, we also collect data relating to your preferred payment method (cash or in-app payment method), your on-time or delayed payments to Bolt (such as the commission amount), and in case you get cash-blocked, data about how you repay any commission towards Bolt. |
 | ****App and Platform Usage Data**** | We collect personal data via the Bolt App about your use of the Bolt Platform such as your information on how long you’ve been using the Bolt Platform, your engagement and interactions on the Bolt Platform including: <br><br>*   The dates and times you log-in and log-off the Bolt App<br>*   Periods online and when fulfilling a trip <br>*   Averages of statistics over certain periods such as online time, waiting time, utilisation and orders per hour<br>*   Bolt App features or pages viewed<br>*   Browser type <br>*   App crashes<br>*   Other system activity |
-| ****Cookies, SDKs, Analytics, and Third-Party Technologies Data**** | We collect information through the use of cookies, tracking pixels, data analytics tools, SDKs, and other third-party technologies like advertising IDs, to understand how you navigate through the Bolt App, to make your experience safer, to improve your site and Bolt App experience, to serve you better ads on other sites (according to your marketing preferences), and to save your preferences. For more information about cookies, see our [Cookie Declaration](https://bolt.eu/en-ie/cookie-declaration/). |
+| ****Cookies, SDKs, Analytics, and Third-Party Technologies Data**** | We collect information through the use of cookies, tracking pixels, data analytics tools, SDKs, and other third-party technologies like advertising IDs, to understand how you navigate through the Bolt App, to make your experience safer, to improve your site and Bolt App experience, to serve you better ads on other sites (according to your marketing preferences), and to save your preferences. For more information about cookies, see our [Cookie Declaration](https://bolt.eu/en-mt/cookie-declaration/). |
 | ****Billing and Earnings Data**** | We collect information on applicable pricing structures that you have selected within the parameters provided by the Bolt App (where applicable).<br><br>We also collect information on the prices applicable to specific trips taken via the Bolt Platform (including applicable taxation and any prepaid amounts), as well as information on your earnings over certain periods of time (including your gross fare, balance, trips fees, bonuses, tips and overall distance travelled). |
 | ****Communication Data**** | We collect communication and correspondence data when you engage with our Customer Support Team via the in-app chat function, report an incident, communicate via emails, web forms, or speak with our Customer Support agents, or communicate with Passengers via the Bolt App using the in-app chat function or via internet calls (where available). <br><br>We record the date and time of the communications and its content and your phone number (where you use the call feature). We will record calls, only where you are notified in advance that the call may be recorded. In the markets where we facilitate phone calls and text messages between Drivers and Passengers without sharing either party’s actual phone number with the other, we protect your personal data by using a masked numbers application. |
 | ****Identification / Verification Data**** | We generate and collect information (including biometric information, where permitted by law) relating to the status and results of any verification checks. |
@@ -179,8 +163,6 @@ Here is a general explanation of each 'legal basis' that Bolt may rely on to pro
 
 When we process your personal data for a new purpose different from the purpose your personal data was originally collected for and we haven't asked for your consent, we take steps to check  that this new purpose is compatible with the initial purpose we collected it for. We will take into account any link between the two purposes and decide if the personal data can be used for this new purpose. Otherwise, we will take appropriate steps to ask for your consent or refrain from processing your personal data.
 
-  
-
 ****5\. Who do we share your personal data with?****
 
 We may share your personal data with the following categories of recipients. 
@@ -201,8 +183,6 @@ We may share your personal data with the following categories of recipients. 
 
 Please note, that our websites and apps may contain links to other third-party websites. If you follow a link to any of those third-party websites, please be aware that those websites may have their own privacy notices and that we do not accept any responsibility or liability for their notices or their processing of your personal data. Please check these notices before you submit any personal data to such third-party websites. 
 
-  
-
 ****6\. Does Bolt transfer your personal data to other countries?****
 
 We operate internationally and as a result, your personal data may be transferred to, stored and/or processed by Bolt Group Companies, subcontractors and partners when undertaking the activities described in this Notice outside the country where you are located. Please see our Bolt Group Companies table for details of the countries where your personal data may be transferred to within the Bolt Group. 
@@ -212,11 +192,7 @@ When we transfer your personal data outside of a country or region, such as the 
 *   ****Adequacy Decisions****: We will rely on decisions from the European Commission where they recognise that certain countries and territories outside of the European Economic Area ensure an adequate level of protection for personal information. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) to see the list of countries deemed ‘adequate’ by the European Commission and click [here ↗](https://www.gov.uk/government/publications/uk-approach-to-international-data-transfers/international-data-transfers-building-trust-delivering-growth-and-firing-up-innovation) to see the list of countries deemed ‘adequate’ by the UK Government. We rely on these adequacy decisions when we transfer personal data we collect from the EEA and the United Kingdom to the United States (where some of our third party service providers are based).
 *   ****Standard Contractual Clauses (SCCs):**** We will utilise standard contractual clauses approved by the European Commission for transfers outside the EEA and by the UK Government for transfers outside of the United Kingdom. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) to see the EEA SCCs and click [here ↗](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/) to see the UK SCCs. We will rely on SCCs when we transfer personal data we collect from the EEA and the United Kingdom to the United States, Singapore and Nigeria where some of our third party service providers are based. 
 
-  
-
 There may be certain situations (such as responding to law enforcement requests - see Section 4 “__What purposes do we use your personal data for and what is our legal basis for processing?__” above) where a transfer of personal data will take place on the basis of exemptions provided for under applicable data protection legislation. In these circumstances, we will take steps to minimise and protect the personal data transferred.   
-
-  
 
 ****7\. How do we keep your personal data safe?****
 
@@ -227,8 +203,6 @@ Any personal data collected in the course of providing Bolt Services is transfer
 For our research and scientific purposes, all data, like bulk Geolocation Data, is anonymised so you can never be identified from it. Regarding anonymised data, we will not attempt to re-identify your personal data that has been deidentified, in the course of sharing your data with other organisations. 
 
 You are responsible though for choosing a secure password when we ask you to set up a password to access parts of our sites or apps. You should keep this password confidential and you should choose a password that you do not use on any other site.
-
-  
 
 ****8\. How long do we retain your personal data for?****
 
@@ -268,27 +242,19 @@ We have listed below the specific retention periods that apply to the personal d
 *   ****Update/correct your personal data (known as “Right of Rectification”)****: You have the right to request us to correct personal data that is inaccurate or incomplete. You can change and correct certain personal data yourself within the Bolt App or by contacting our Customer Support Team. 
 *   ****Delete your personal data (known as “Right of Erasure”)****: You have the right to request that we erase your personal data, under certain conditions (e.g., we are processing your personal data under your consent). Personal data that is processed pursuant to a legal obligation or where we have an overriding legitimate interest may not be deleted upon request. You can request erasure of your personal data by contacting our Customer Support Team.
 *   ****Restrict use of your personal data (known as “Right to Restrict Processing”):**** You have the right to request that we restrict the processing of your personal data, under certain conditions (e.g., we are processing your personal data under consent). You can request restriction of the use of your personal data by contacting our Customer Support Team.
-
 *   ****Object to use of your personal data (known as “Right to Object”):**** You have the right to object to our processing of your personal data, under certain conditions (e.g., we are processing your personal data under legitimate interests). This includes the right to object to our processing of your personal data for direct marketing purposes. You may submit an objection to the use of your personal data by contacting our Customer Support Team. 
-
 *   ****Object to solely automated decisions being made about you which has legal or similarly significant effect on you (known as “Right to object to automated decision making”)**** - You have the right, under certain circumstances, to object to any solely automated decisions we have made which have a legal effect or similarly significant effect which does not involve human review. You can ask that a person review the decision, obtain an explanation of the decision reached after such assessment and challenge the decision by contacting our Customer Support Team. Please note that certain exceptions and limitations may apply to your right to object to automated decision-making, as permitted by applicable laws and regulations. We will provide you with clear information regarding the implications of exercising your rights and the processes involved in objecting to solely automated decision-making.
 *   ****Port your personal data (known as “Right to Data Portability”):**** You have the right to request that we transfer the personal data that you have given us to another organisation, or directly to you, under certain conditions. This only applies to information you have given us. You can request for your personal data to be ported by contacting our Customer Support Team.
 *   ****Withdraw your consent****: If we process your personal data using consent as legal basis, then you have the right to withdraw your consent at any time (e.g., by unsubscribing from marketing communications or by updating your communication preferences in the Bolt App). Where we rely on consent as the primary legal basis to process your personal data, your withdrawal of your consent may affect your ability to use the Bolt Platform. Withdrawing your consent won’t change the legality of processing undertaken by Bolt before you withdraw your consent. 
 *   ****File a complaint:**** If you have any concerns regarding the processing of your personal data, you have the right to lodge a complaint with the [Estonian Data Protection Inspectorate (“AKI”) ↗](https://www.aki.ee/en)who is our lead supervisory authority or your local data protection authority. You can find their contact details on their websites. You may also have a right to seek a judicial remedy.
 
-  
-
-To exercise any of the above rights, you can contact our Customer Support Team via the Bolt App or via our website. You can also contact the Office of the Data Protection Officer Team by emailing our Privacy Mailbox at [privacy@bolt.eu](mailto:privacy@bolt.eu) - please mark the subject line of the email “__For the attention of Bolt’s Data Protection Officer__”. You can also [contact our Customer Support Team](mailto:privacy@bolt.eu) via the Privacy Web Form available at [https://bolt.eu/en-ie/privacy/data-subject/](https://bolt.eu/en-ie/privacy/data-subject/) or in the Bolt App when you go to the main menu and tap ‘Support’. Our Customer Support Team will then escalate the issue internally to the Bolt Privacy Legal Team.
-
-  
+To exercise any of the above rights, you can contact our Customer Support Team via the Bolt App or via our website. You can also contact the Office of the Data Protection Officer Team by emailing our Privacy Mailbox at [\[email protected\]](https://bolt.eu/cdn-cgi/l/email-protection) - please mark the subject line of the email “__For the attention of Bolt’s Data Protection Officer__”. You can also [\[email protected\]](https://bolt.eu/cdn-cgi/l/email-protection) via the Privacy Web Form available at [https://bolt.eu/en/privacy/data-subject/](https://bolt.eu/en/privacy/data-subject/) or in the Bolt App when you go to the main menu and tap ‘Support’. Our Customer Support Team will then escalate the issue internally to the Bolt Privacy Legal Team.
 
 ****10\. How do we use your personal data for direct marketing?****
 
 Please be aware that you may from time to time receive updates about special offers and promotions related to our services. We send these communications based on our legitimate interests (soft opt-in) in providing you with information about opportunities that could be beneficial to you. In countries where soft opt-in is not an available lawful basis for Bolt’s processing activities, we will instead rely on an alternative valid legal basis. You have complete control over these communications, and if you decide at any time that you do not wish to receive them, you can stop them by clicking the “unsubscribe” link at the bottom of our emails, typing “STOP” for messages and SMS, or updating your communication preferences in your account settings.
 
 Additionally, we may seek your opt-in consent for specific direct marketing activities where this is required by law. For example, we might request your consent to send you information regarding third-party promotions and offers that we think might be of interest to you. You always have the ability to opt out by changing your communication preferences in your account settings. We also personalise direct marketing messages using information about how you use the Bolt services (for example, how often you use the Bolt App).
-
-  
 
 ****11\. How do we notify you of changes to this Notice?****
 
