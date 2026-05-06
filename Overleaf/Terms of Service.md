@@ -1,7 +1,7 @@
 Overleaf Terms of Service
 -------------------------
 
-Last Modified: \[1\] May 2026
+Last Modified: 5 May 2026
 
 These terms of service (the **“Terms”**) govern your access to and use of the website at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) (the **“Site”**) and the products and services made available via or in connection with the Site, including related apps and browser extensions (the **“Services”**) operated and controlled by Digital Science UK Limited (**“we”** or **“our”** or **“Overleaf”**), so please carefully read them before using the Services.
 
