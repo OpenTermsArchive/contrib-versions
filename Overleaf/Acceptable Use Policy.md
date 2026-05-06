@@ -1,7 +1,7 @@
 Overleaf Acceptable Use Policy
 ------------------------------
 
-Last Modified: \[1\] May 2026
+Last Modified: 5 May 2026
 
 Overleaf is used by millions of people, and we are proud of the trust placed in us. In exchange, we trust you to use the services we provide responsibly.
 
