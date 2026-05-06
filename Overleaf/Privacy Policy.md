@@ -1,11 +1,11 @@
 Overleaf Privacy Notice
 -----------------------
 
-Last Modified: \[1\] May 2026
+Last Modified: 5 May 2026
 
 This Notice applies to the websites at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
-Overleaf is operated and controlled by Digital Science UK Ltd (formerly Writelatex Ltd), with registered offices at 6 Briset Street, London, United Kingdom, EC1M 5NR (“Digital Science” or “we”). We respect your concerns about privacy and value our relationship with you. This Notice explains what personal data we collect, how we may use and manage it and the rights you may have in relation to such personal data. When we refer to “personal data” in this Notice, we mean information relating to an identified or identifiable individual that we collect and use in connection with Overleaf; not aggregate or other anonymised data or information we process on behalf of our customers.
+Overleaf is operated and controlled by Digital Science UK Ltd (formerly Writelatex Ltd), with registered offices at 6 Briset Street, London, United Kingdom, EC1M 5NR or its affiliate, Digital Science & Research Solutions Inc. in the case of sales-related resources and as may be specified (“Digital Science” or “we”). We respect your concerns about privacy and value our relationship with you. This Notice explains what personal data we collect, how we may use and manage it and the rights you may have in relation to such personal data. When we refer to “personal data” in this Notice, we mean information relating to an identified or identifiable individual that we collect and use in connection with Overleaf; not aggregate or other anonymised data or information we process on behalf of our customers.
 
 ### How do we collect and use personal data?
 
