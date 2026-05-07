@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Last updated: April 13, 2026._
+_Last updated: May 4, 2026._
 
 Key Information
 ---------------
@@ -15,9 +15,9 @@ You can find information about us and how we collect, use, store, disclose, or o
 Purpose and who we are
 ----------------------
 
-The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, and our international branches, ("**Coursera**," "**us**," "**we**," or "**our**") collects, uses, stores, discloses, and otherwise processes your Personal Data (as defined below), including through our websites, mobile applications (collectively, the "**Site**"), products, and Services.
+The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, affiliates, and our international branches, ("**Coursera**," "**us**," "**we**," or "**our**") collects, uses, stores, discloses, and otherwise processes your Personal Data (as defined below), including through our websites, mobile applications (collectively, the "**Site**"), products, and Services.
 
-Please read this Privacy Notice carefully to understand what we do. If you do not understand any aspects of our Privacy Notice, please feel free to contact us at [privacy@coursera.org](mailto:privacy@coursera.org). If you need to access this Privacy Notice in an alternative format due to a disability, please contact us at [privacy@coursera.org](mailto:privacy@coursera.org). Your use of our Site is also governed by our [Terms of Use](https://www.coursera.org/about/terms). Terms used but not defined in this Privacy Notice can be found in our Terms of Use.
+Please read this Privacy Notice carefully to understand what we do. If you do not understand any aspects of our Privacy Notice, please feel free to contact us at [privacy@coursera.org](mailto:privacy@coursera.org). If you need to access this Privacy Notice in an alternative format due to a disability, please contact us at [privacy@coursera.org](mailto:privacy@coursera.org). Your use of our Site is also governed by our [Terms of Use](https://www.coursera.org/about/terms). Terms used but not defined in this Privacy Notice can be found in our Terms of Use. This Privacy Notice does not apply to the Ollie mobile application or any related or supporting products, features, and services (collectively, the "**Ollie App**"). If you use the Ollie App, please refer to the [Ollie Privacy Notice](https://learnwithollie.com/privacy-notice) for details on how Coursera collects, uses, stores, discloses, and otherwise processes your Personal Data.
 
 Coursera, Inc. is a Delaware corporation with a principal place of business at 2440 West El Camino Real, Suite 500, Mountain View, CA 94040, USA. If you reside or are located in the European Economic Area ("**EEA**") or United Kingdom ("**UK**"), Coursera is the data controller of all Personal Data collected via the Site and of certain Personal Data collected from third parties, as set out in this Privacy Notice, unless you are part of a degree, certain certificate programs, or certain other circumstances as communicated to you, in which case Coursera is the data processor.
 
