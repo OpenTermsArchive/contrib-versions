@@ -124,7 +124,7 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 2026-05-05
 
-We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/bankid-enew-bankid-with-eu-passports)[![](/assets/stock/612x408/home_talking_phone.jpg)
+We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/renew-bankid-with-eu-passports)[![](/assets/stock/612x408/home_talking_phone.jpg)
 
 #### New function for BankID in phone calls
 
