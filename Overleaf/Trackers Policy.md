@@ -1,7 +1,7 @@
 Cookie Policy
 -------------
 
-Last Modified: 7th January 2026
+Last Modified: 5 May 2026
 
 This policy applies to the websites at [overleaf.com](https://www.overleaf.com/), [sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
