@@ -101,7 +101,9 @@ Users are prohibited from sharing or selling content that violates intellectual 
 
 8.1.
 
-You are prohibited from uploading, sharing, selling or promoting content that encourages or aids in illegal activities, which encompasses but is not limited to drug use, terrorism, and human trafficking. Any such content will be promptly removed, and appropriate action might be taken against you. **Simple speak:** Don’t promote any form of criminal activity, this means no content relating to or in connection with illegal drugs, any kind of exploitation such as human or sex trafficking and contraband (such as child sexual abuse or exploitation imagery).  
+You are prohibited from uploading, sharing, selling or promoting content that encourages or aids in illegal activities, which encompasses but is not limited to drug use, terrorism, and human trafficking. Any such content will be promptly removed, and appropriate action might be taken against you.
+
+8.2 **Simple speak:** Don’t promote any form of criminal activity, this means no content relating to or in connection with illegal drugs, any kind of exploitation such as human or sex trafficking and contraband (such as child sexual abuse or exploitation imagery).  
   
 
 9.
