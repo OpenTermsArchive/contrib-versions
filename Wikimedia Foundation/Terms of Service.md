@@ -161,7 +161,7 @@ Other languages:
 *   [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (89% translated)")
 *   [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tcy "Policy:Terms of Use/tcy (2% translated)")
 *   [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (39% translated)")
-*   [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (49% translated)")
+*   [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (52% translated)")
 *   [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (9% translated)")
 *   [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
 *   [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မူဝါဒ:အသုံးပြုမှု စည်းမျဉ်းများ (62% translated)")
