@@ -333,7 +333,7 @@ There are two types of car-carrier wagons:
 
 2) Partly covered and partly open car-carrier wagons
 
-1) Fully covered car-carrier wagon (Gd car-carrier wagon)
+**1) Fully covered car-carrier wagon (Gd car-carrier wagon)**
 
 *   Height (including roof rack and load): not more than 1.84 m on the lower deck and 2.04 m on the upper deck  
     
@@ -341,12 +341,12 @@ There are two types of car-carrier wagons:
     
 *   Width: not more than 2.20 m, including load. Please note: the roofline of a car higher than 1.84 m can be up to 1.64 m wide  
     
-*   Gross vehicle mass: Not more than 3,000 kg and the axle or axle-group weight not more than 2,000 kg  
+*   Gross vehicle mass: Not more than 3,300 kg and the axle or axle-group weight not more than 2,000 kg  
     
 *   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
 
-2) Partly covered car-carrier wagon (Gfot car-carrierwagon)
+**2) Partly covered car-carrier wagon (Gfot car-carrierwagon)**
 
 *   Height (including roof rack and load): not more than 1.65 m on the lower deck and 2.05 m, 2.30 m or 2.60 m on the upper deck  
     
