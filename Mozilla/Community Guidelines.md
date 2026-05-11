@@ -82,7 +82,7 @@ Mozillians come from many cultures and backgrounds. Cultural differences can enc
 
 ### Lead by Example
 
-By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for [Mozilla’s mission](https://www.mozilla.org/en-US/mission/).
+By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for [Mozilla’s mission](https://www.mozilla.org/en-GB/mission/).
 
 Behavior That Will Not Be Tolerated
 -----------------------------------
@@ -158,7 +158,7 @@ If you believe you’re experiencing unacceptable behavior that will not be tole
 
 After receiving a concise description of your situation, they will review and determine the next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
 
-*   Additional Resources: [How to Report](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+*   Additional Resources: [How to Report](https://www.mozilla.org/en-GB/about/governance/policies/participation/reporting/)
 *   Questions: [cpg-questions@mozilla.com](mailto:cpg-questions@mozilla.com)
 
 Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
