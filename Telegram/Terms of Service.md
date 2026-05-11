@@ -257,7 +257,7 @@ Telegram FAQ
 *   [How do I create a bot?](#q-how-do-i-create-a-bot)
 *   [How do I get rid of a bot?](#q-a-bot-is-sending-me-messages-how-do-i-make-it-stop)
 *   [Are bots safe?](#q-are-bots-safe)
-*   [Where can I get more bots?](#q-where-can-i-find-more-bots)
+*   [What are mini apps?](#q-what-are-mini-apps)
 
 [**Deeper Questions**](#deeper-questions)
 
@@ -295,7 +295,7 @@ Telegram FAQ
 
 Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free. You can use Telegram on all your devices **at the same time** — your messages sync seamlessly across any number of your phones, tablets or computers. Telegram is one of the **top 5 most downloaded apps** in the world with over **1 billion** active users.
 
-With Telegram, you can send messages, photos, videos and [**files**](https://telegram.org/blog/shared-files) of any type (doc, zip, mp3, etc), as well as create groups for up to **200,000** people or [channels](https://telegram.org/blog/channels) for broadcasting to **unlimited** audiences. You can write to your phone contacts and find people by their [**usernames**](#usernames-and-t-me). As a result, Telegram is like SMS and email combined — and can take care of all your personal or business messaging needs. We also support end-to-end encrypted [**voice**](https://telegram.org/blog/calls) and [**video calls**](https://telegram.org/blog/video-calls), [**group calls**](https://telegram.org/blog/group-calls-made-easy) for up to 200 participants, and [**voice chats**](https://telegram.org/blog/voice-chats) in groups that members can join whenever they want.
+With Telegram, you can send messages, photos, videos and [**files**](https://telegram.org/blog/shared-files) of any type (doc, zip, mp3, etc), as well as create groups for up to **200,000** people or **[channels](https://telegram.org/blog/channels)** for broadcasting to **unlimited** audiences. You can write to your phone contacts and find people by their [**usernames**](#usernames-and-t-me). As a result, Telegram is like SMS and email combined — and can take care of all your personal or business messaging needs. We also support end-to-end encrypted [**voice**](https://telegram.org/blog/calls) and [**video calls**](https://telegram.org/blog/video-calls), [**group calls**](https://telegram.org/blog/group-calls-made-easy) for up to 200 participants, and [**voice chats**](https://telegram.org/blog/voice-chats) in groups that members can join whenever they want.
 
 > Follow our [**Tips Channel**](https://t.me/TelegramTips) to learn more about Telegram features.
 
@@ -576,7 +576,7 @@ You can pin any message to be displayed at the top of the chat screen. All membe
 Appoint administrators that can mass-delete messages, control membership, and pin important messages. Define their admin privileges with granular precision.
 
 **Anti-spam tools**  
-In large groups, enable [Aggressive Anti-Spam](https://telegram.org/blog/ultimate-privacy-topics-2-0#aggressive-anti-spam) to use Telegram's full set of anti-spam tools in their chat.
+In large groups, enable [Aggressive Anti-Spam](https://telegram.org/blog/ultimate-privacy-topics-2-0#aggressive-anti-spam) to use Telegram's full set of anti-spam tools in your chat.
 
 **Group permissions**  
 Set default permissions to restrict all members from posting specific kinds of content. Or even restrict members from sending messages altogether – and let the admins chat amongst themselves while everybody else is watching.
@@ -631,7 +631,7 @@ Anyone who has Telegram installed will be able to join your group by following t
 
 > [Read more about invite links in our blog »](https://telegram.org/blog/invite-links)
 
-### [](#q-can-channels-and-subscribers-talk-to-each-other)Q: Can channels and subscribers talk to each other?
+#### [](#q-can-channels-and-subscribers-talk-to-each-other)Q: Can channels and subscribers talk to each other?
 
 Yes. Channel owners can turn on [Direct Messages](https://telegram.org/blog/direct-to-channel-trim-voice-and-more#send-direct-messages-to-channels) so subscribers can send them private messages — without the channel owner having to share their personal account.
 
@@ -1004,7 +1004,7 @@ No. While we have some official bots for specific purposes (like [@gif](https://
 
 Mini apps are full applications that run inside Telegram, built by outside developers on top of the [Bot platform](https://core.telegram.org/bots). They can look and feel like normal apps, with their own interface, payments, subscriptions and more.
 
-You can find mini apps in the **[Mini App Store](https://telegram.org/blog/w3-browser-mini-app-store#mini-app-store)** in the _Apps_ tab of Search, open them in [full-screen mode](https://telegram.org/blog/fullscreen-miniapps-and-more#full-screen-mode), and even add a [shortcut](https://telegram.org/blog/fullscreen-miniapps-and-more#home-screen-shortcuts) to your phone's home screen.
+You can find mini apps in the **Mini App Store** in the _Apps_ tab of Search, open them in [full-screen mode](https://telegram.org/blog/fullscreen-miniapps-and-more#full-screen-mode), and even add a [shortcut](https://telegram.org/blog/fullscreen-miniapps-and-more#home-screen-shortcuts) to your phone's home screen.
 
 Mini apps can sell digital goods and subscriptions for Telegram Stars. Some mini apps offer **affiliate programs** — when you share them with friends, you can [earn Stars](https://telegram.org/blog/affiliate-programs-ai-sticker-search#affiliate-programs).
 
@@ -1159,7 +1159,7 @@ This means that if you randomly contact people you don't know and send them anno
 
 If you think that this limit was applied to your account wrongly, please visit [this page](https://telegram.org/faq_spam).
 
-#### [](#q-can-39t-send-a-message-i-am-being-asked-for-stars)Q: Can't send a message, I am being asked for Stars
+#### [](#can-39t-send-a-message-i-am-being-asked-for-stars)Can't send a message, I am being asked for Stars
 
 Some users charge a small fee — paid in Telegram Stars — for messages from people who are not in their contacts. This is called a [Star Message](https://telegram.org/blog/star-messages-gateway-2-0-and-more#stay-in-control-of-your-inbox-with-star-messages), and it helps people reduce spam in their inbox.
 
