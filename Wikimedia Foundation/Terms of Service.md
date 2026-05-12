@@ -25,10 +25,6 @@ move to sidebar hide
 
 Actions
 
-*   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
-*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
-*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
-
 General
 
 *   [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
