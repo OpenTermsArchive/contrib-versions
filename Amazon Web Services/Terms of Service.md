@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: May 7, 2026
+Last Updated: May 11, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1016,6 +1016,16 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 **50.15.3.** You will: (a) use AgentCore Payments in compliance with applicable laws and industry-specific requirements and standards, including, if required for your use case, obtaining any government licenses or registrations; and (b) test, monitor, and implement safeguards (such as human-in-the-loop) for your use of AgentCore Payments as may be appropriate for your use case, including by managing and securing your wallet and private keys and ensuring transactions are accurate and authorized. You are solely responsible for any transactions, disputes, or payments liability arising from or related to your use of AgentCore Payments.
 
 **50.15.4.** AWS may change or discontinue AgentCore Payments’ support for any third-party wallet provider at any time. We will provide you with prior notice if we discontinue support of a wallet provider where practicable under the circumstances. AWS may impose limits on your use of AgentCore Payments, such as limits on transaction amounts, frequency, or volumes at any time.
+
+**50.16. Claude Platform on AWS**
+
+**50.16.1.** Your use of Claude Platform on AWS is subject to Anthropic’s [Commercial Terms of Service](https://www.anthropic.com/legal/commercial-terms), [Data Processing Addendum](https://www.anthropic.com/legal/data-processing-addendum), [Usage Policy](https://www.anthropic.com/legal/aup), and other agreements with Anthropic governing your use of their services. If you use Claude Platform on AWS you: (1) acknowledge that the Content you provide in connection with your use of Claude Platform on AWS, together with associated metadata, will be processed by Anthropic outside of AWS in a location of their choosing; (2) authorize AWS to transfer such Content and associated metadata to Anthropic for processing.
+
+**50.16.2.** We may change, deprecate or discontinue Claude Platform on AWS at any time. We will provide you with prior notice of any deprecation or discontinuation of Claude Platform on AWS where practicable under the circumstances.
+
+**50.16.3**. Invoicing for Claude Platform on AWS is facilitated by AWS Marketplace so Section 20.1 (AWS Marketplace Buyer Terms) above applies to your use of Claude Platform on AWS.
+
+**50.16.4**. We may share information about your use of Claude Platform on AWS with Anthropic, as well as any data and associated metadata necessary to provide or maintain the service. Anthropic may also share account and usage information with us.
 
 51\. Amazon Lightsail
 ---------------------
