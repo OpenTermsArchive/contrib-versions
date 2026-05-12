@@ -54,13 +54,13 @@ In this privacy notice:
 *   “Vodafone Group” means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
     
 
-Our registered office is Mountainview, Leopardstown, Dublin 18, Ireland. We are registered in Ireland under company number 326967. Our main switchboard is (01) 2037000 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
+Our registered office is 70 St. Stephen's Green, Dublin 2, D02 E2X4, Ireland. We are registered in Ireland under company number 326967. Our main switchboard is (01) 2037000 or you can email us at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection).
 
 #### How to contact us
 
 Your opinion matters to us – if you have any questions about our privacy notice, you can email us at: [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or you can contact our Customer Care team on 1907.
 
-You may contact our Data Protection Officer by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or in writing to Mountainview, Leopardstown, Dublin 18.
+You may contact our Data Protection Officer by email at [\[email protected\]](https://n.vodafone.ie/cdn-cgi/l/email-protection) or in writing to 0 St. Stephen's Green, Dublin 2.
 
 #### Our principles
 
