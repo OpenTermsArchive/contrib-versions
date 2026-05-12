@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Last updated: May 4, 2026._
+_Last updated: May 11, 2026._
 
 Key Information
 ---------------
@@ -47,7 +47,7 @@ We may collect your Personal Data directly from you, including the following:
     
 *   **Information about your interests, preferences and affiliations** insofar as they relate to the Product and/or Services that we provide (e.g., when you sign-up for email or account updates).
     
-*   The **Content of your Communications** such as information provided voluntarily in surveys you complete, or in other exchanges with us, including via email or through the use of an in-platform messaging/chat feature.
+*   The **Content of your Communications** such as information provided voluntarily in surveys you complete, or in other exchanges with us, including via email or through the use of an in-platform messaging/chat feature with free-text functionality and voice-enabled features (including audio inputs that are transcribed into text). You should not include any unnecessary Personal Data or information of a sensitive nature, whether relating to you or another person, in the Platform’s free-text functionality.
     
 *   **Education, Career and Skills Information** including information about your education, career, skills, interests, goals, and plans, as well as your professional and educational experience and qualifications.
     
@@ -97,13 +97,13 @@ We set out in this section each of the legal bases under applicable law (includi
 
 | Category of Personal data | Purpose of processing | Legal basis |
 | --- | --- | --- |
-| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Content of your Communications ; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data; Third Party Payment Processing Data | To allow you to access and use the Site and in order to provide any information, products, or Services that you request from us. | To comply with our contract to provide Services to you, your academic institution, your employer, or other organization that may be providing you with access to our Services |
+| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Content of your Communications ; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data; Third Party Payment Processing Data | To allow you to access and use the Site and in order to provide any information, products, or Services that you request from us, including processing your communications via text and voice. | To comply with our contract to provide Services to you, your academic institution, your employer, or other organization that may be providing you with access to our Services |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Personal Data we collect from your device(s) | To provide technical support to you, where required, and to ensure the security of our Services and the Site. | For our legitimate interests to operate our Site and provide our Services as securely as possible |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information | When you sign-up for updates, to send you messages in connection with the Site or Content Offerings. | With your consent |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To record and analyze how learners interact with the Site, its features and content, and our Services to build higher quality, more useful Products and/or Services. | For our legitimate interests to run, grow and develop our business |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information; Text and/or Images on third party sites; Data relating to your use of partner sites | To allow you to access and use the Forums. | To comply with our contract to provide the Forum Services to you, your academic institution, your employer, or other organization that may be providing you with access to Forum Services |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information | When you participate in a Content Offering through the Site including for tracking attendance, progress, and completion of the Content Offerings. | For our legitimate interests to provide an effective means to track participation in Content Offerings |
-| Identity and Contact Data; Account Registration Data; Demographic Information; Personal Data we collect from your device(s) | To facilitate and personalize your interaction with Site features such as chatbots, automated translation and grading functionality, tailored recommendations, and learner engagement features. | For our legitimate interests to run, grow and develop our business including by providing you with a personalized Service |
+| Identity and Contact Data; Account Registration Data; Demographic Information; Personal Data we collect from your device(s) | To facilitate and personalize your interaction with Site features, including tailoring content, recommendations, learning support and engagement tools, and remembering preferences or prior interactions to improve your experience. | For our legitimate interests to run, grow and develop our business including by providing you with a personalized Service |
 | Identity and Contact Data; Identity Verification Data | For Services that require identity verification, to verify your identity, and for authenticating that submissions made on the Site were made by you. | With your consent. In the case of biometric data that makes up part of the Identity Verification Data: with your explicit consent or another condition permitted under applicable law |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information | To manage communications with or from Coursera including to archive information and/or use it for future communications with you where we are legally entitled to do so. | For our legitimate interests to run, grow and develop our business including by communicating effectively with you |
 | Identity and Contact Data; Account Registration Data; Information about your interests, preferences and affiliations; Content of your Communications; Demographic Information; Personal Data we collect from your device(s) | Where we send you emails, to track the way that you interact with these emails, to optimize and tailor our communications to you. | With your consent |
@@ -112,7 +112,7 @@ We set out in this section each of the legal bases under applicable law (includi
 | Identity and Contact Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Data relating to your use of partner sites | To send marketing and serve advertising, to inform our marketing and advertising strategies and content, to understand more about our audiences and to personalize our marketing and advertising. | With your consent |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To share your Personal Data with government authorities in response to lawful subpoenas, court orders, or other legal processes. | To comply with our legal obligations |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To share your Personal Data with government authorities, external advisors and other relevant or affected third parties when we believe it is appropriate; to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Coursera, the Site, our users, customers, or others; and in connection with our Terms of Use and other agreements. | To comply with our legal obligations |
-| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data | To disclose and/or transfer your Personal Data to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business, or assets of Coursera. | For our legitimate interests to engage in a sale, merger, or reorganization process |
+| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data | To disclose and/or transfer your Personal Data to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business, or assets of Coursera, or becomes an affiliate or subsidiary of Coursera. | For our legitimate interests to engage in a sale, merger, or reorganization process |
 
 How we use AI
 -------------
@@ -121,11 +121,11 @@ We use a number of AI Product Features (“**Features**”) for the purposes set
 
 1.  **Support teaching and course generation**: Features like Course Builder, Program Builder and Smart Ingestion take data from teacher content and produce Coursera-aligned course drafts that students can engage with.
     
-2.  **Support learning**: these Features support learning e.g., by dubbing content into a student’s native language (like AI Dubbing does) or by helping students with self-study (e.g., by creating AI generated Flashcards) or by providing feedback (such as with Coach, Coach Dialogue, Tools Based Practice Generation, and Roleplay).
+2.  **Support learning**: these Features support learning e.g., by dubbing content into a student’s native language (like AI Dubbing does) or by helping students with self-study (e.g., by creating AI generated Flashcards) or by providing feedback (such as with Coursera AI, Dialogue, Tools Based Practice Generation, and Roleplay).
     
 3.  **Enable assessment and review**: these Features allow for peer review, grade assessment, and written feedback provision (such as AI Enabled Peer Review, AI Open Ended Questions, and AI Integrity Check). Certain Features also generate assessments (Assessment Generator) or pick up signs of potential exam misconduct (Course Proctoring).
     
-4.  **Drive chatbots and general analysis tools**: We have developed several chatbots (such as Cora) and analysis tools that assist both learners and Coursera’s own internal staff, including for customer services.
+4.  **Drive chatbots and general analysis tools**: We have developed and/or use several chatbots (such as Coursera AI and Cora) and analysis tools that assist both learners and Coursera’s own internal staff, including for customer services and engagement purposes.
 
 **Your Rights and Safeguards in relation to automated decision-making**
 
@@ -143,7 +143,7 @@ For your convenience we may provide links to sites operated by organizations oth
 How we share Personal Data
 --------------------------
 
-The different Coursera entities share common goals and certain resources. As such, your Personal Data may be shared amongst these entities and our other affiliated organisations.
+The different Coursera entities share common goals and certain resources. As such, your Personal Data may be shared amongst these entities and our affiliates and subsidiaries, and other affiliated organisations.
 
 We may share your Personal Data with third parties as follows:
 
