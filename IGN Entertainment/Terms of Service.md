@@ -357,7 +357,7 @@ Ziff Davis reserves the right, in its sole discretion, to restrict, suspend or t
 
 You may not post, distribute, perform, display, transmit or reproduce in any way any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights. Ziff Davis has registered a designated agent with the Copyright Office pursuant to 17 U.S.C. §512(c). 
 
-**_If you believe that your work has been copied and posted on the Services in a way that constitutes copyright or trademark infringement, please notify the designated agent, Ziff Davis, LLC at 114 5th Avenue 15th Floor New York, New York 10011, Attn: Legal Department fax: (212) 503-5136, or by email: ZDLegal1@ziffdavis.com and insert “Terms of Use” in the subject line._**
+**_If you believe that your work has been copied and posted on the Services in a way that constitutes copyright or trademark infringement, please notify the designated agent, Ziff Davis, LLC at 360 Park Avenue South, 17th Floor_**, **_New York, New York 10010, Attn: Legal Department_**, **or _by email: [legal@ziffdavis.com](mailto:legal@ziffdavis.com) and insert “Terms of Use” in the subject line._**
 
 A notification of claimed infringement must include the following:
 
@@ -551,5 +551,5 @@ Nothing in these Terms (including in Sections 6, 9 and 15) limits, excludes or m
 
 The applicable privacy policy will be made available on the property from which you accessed these Terms. Such privacy policy is incorporated by reference into these Terms.
 
-  
-**QUESTIONS?**_Please contact_ [**_ZDLegal1@ziffdavis.com_**](mailto:zdlegal1@ziffdavis.com) _and insert_ **_“Terms of Use”_** _in the subject line if you have any questions or comments about the Agreement, or to report user conduct violating the Agreement._
+**  
+QUESTIONS? Please contact [legal@ziffdavis.com](mailto:legal@ziffdavis.com) and insert “Terms of Use” in the subject line if you have any questions or comments about the Agreement, or to report user conduct violating the Agreement.**
