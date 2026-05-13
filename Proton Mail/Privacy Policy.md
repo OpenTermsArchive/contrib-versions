@@ -24,7 +24,7 @@ By using the proton.me or protonvpn.com website and making use of a Proton Accou
 
 The Services are operated by Proton AG (the “Company”, “We”), domiciled at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. It is therefore governed by the laws and regulations of Switzerland. Additional information about the legal framework can be found in our [transparency report](https://proton.me/legal/transparency).
 
-We are also GDPR compliant. The designated representative of the Company in the European Union (notably for the purpose of art. 27 GDPR) is Proton Europe sàrl, rue de Grünewald 94, L-1912 Luxembourg.
+We are also GDPR compliant and fully committed to [DSA](https://proton.me/legal/dsa) compliance for users within the European Union. The designated representative of the Company in the European Union (notably for the purpose of art. 27 GDPR) is Proton Europe sàrl, rue de Grünewald 94, L-1912 Luxembourg.
 
 2\. Data Proton collects from you, and how we use it
 ----------------------------------------------------
