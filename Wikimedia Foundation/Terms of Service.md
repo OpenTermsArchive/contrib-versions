@@ -25,6 +25,10 @@ move to sidebar hide
 
 Actions
 
+*   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
+
 General
 
 *   [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
@@ -128,7 +132,7 @@ Other languages:
 *   [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (94% translated)")
 *   [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (22% translated)")
 *   [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
-*   [тыва дыл](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tyv "Policy:Terms of Use/tyv (7% translated)")
+*   [тыва дыл](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tyv "Policy:Terms of Use/tyv (8% translated)")
 *   [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (89% translated)")
 *   [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (53% translated)")
 *   [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (14% translated)")
