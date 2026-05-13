@@ -17,6 +17,10 @@ move to sidebar hide
 
 Actions
 
+*   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
+
 General
 
 *   [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
