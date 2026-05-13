@@ -254,7 +254,7 @@ A consumer has the right to have a dispute concerning rail travel resolved by th
 VR Car transport terms and conditions
 -------------------------------------
 
-Valid from 22 June 2023.
+Valid from 13 May 2026.
 
 ### What kind of vehicles can be transported in a car-carrier wagon?
 
@@ -354,7 +354,7 @@ There are two types of car-carrier wagons:
     
 *   Width: not more than 2.20 m, including load  
     
-*   Gross vehicle mass: not more than 2,500 kg and the axle or axle-group weight not more than 1,400 kg  
+*   Gross vehicle mass: not more than 2,800 kg and the axle or axle-group weight not more than 1,400 kg  
     
 *   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
