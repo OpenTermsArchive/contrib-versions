@@ -129,6 +129,7 @@ Other languages:
 *   [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (94% translated)")
 *   [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (61% translated)")
 *   [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
+*   [олык марий](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mhr "Paydalanımaş kelşik (3% translated)")
 *   [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (94% translated)")
 *   [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (22% translated)")
 *   [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
