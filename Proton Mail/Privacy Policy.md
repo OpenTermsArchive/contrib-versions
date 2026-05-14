@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last modified: 31st March 2026_
+_Last modified: 12th May 2026_
 
 At Proton, we strongly believe in an internet where privacy is the default.
 
