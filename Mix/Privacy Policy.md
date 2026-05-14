@@ -3,6 +3,8 @@ Privacy Policy
 
 LAST UPDATED: September 15, 2023
 
+Privacy Settings
+
 Mix respects the privacy of its users. This Privacy Policy (**"Privacy Policy"**) informs you about our online and offline information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can opt-out of certain uses, or correct or change such information.
 
 **Notice at Collection**. At or before the time of collection, California residents may have a right to receive notice of our practices, including the categories of personal information to be collected, the purposes for which such information is collected or used, whether such information is sold or shared and how to opt-out of such uses, and how long such information is retained. You can find those details in this statement by clicking on the above links.
