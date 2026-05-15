@@ -299,7 +299,7 @@ We extend the following privacy rights to all individuals whose personal informa
 *   The right to request that we transfer (port) your personal information to another company or third party
 *   The right to not provide, or where applicable, withdraw your consent to processing your personal information
 
-For additional information about the additional rights that may be available to you if you live in certain US states, please see “[Additional Information: US States](#additional-information:-us-states)”.
+For additional information about the additional rights that may be available to you, please see “[Additional Information: US States](#additional-information:-us-states)”.
 
 If you would like to submit a request to exercise any of the rights that are available to you, ask a question, or contact the data protection officer, please visit the [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and select the relevant form.
 
@@ -307,7 +307,7 @@ Before responding to a request, we may need to ask for additional information an
 
 Please note that while we will carefully assess every request we receive, your rights may differ depending on where you live and may be limited by local law.
 
-If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision or contact your local data protection authority to lodge a complaint
+If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision or contact your local data protection authority to lodge a complaint.
 
 ##### Automated decision making
 
