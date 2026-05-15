@@ -1,11 +1,11 @@
 **Privacy Policy**
 ==================
 
-Last Updated: May 4, 2026
+Last Updated: May 14, 2026
 
 **Changes in the Last Update**
 
-*   Added disclosure that Substack shares account identifiers with child safety industry consortia to detect CSAM.
+*   Added disclosure that Substack shares account identifiers with, and receives information from, child safety industry consortia to detect CSAM.
     
 *   Added a one-month response commitment for certain privacy rights requests and the right to object to certain types of processing.
     
@@ -68,6 +68,8 @@ We collect and process Personal Information about you when you interact with us 
     
 
 We may also collect information about you when one of our users syncs their address book information with our app for contact syncing purposes. This information collection is strictly limited to email addresses and phone numbers, and any information collected in this manner is securely stored only as hashed values.
+
+We may also obtain additional information from third parties and sources. We use this information to supplement the information we collect about you in order to provide more relevant, safer experiences for you on the platform and to improve the platform and analytics. If we combine or associate information from other sources with information that we collect through the platform, we will treat the combined information in accordance with this Privacy Policy.
 
 Finally, we also collect information on the use of our website via Cookies. Please view the section “Cookies” below for more information.
 
