@@ -129,7 +129,10 @@ Other languages:
 *   [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Колдонуу шарттары (94% translated)")
 *   [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Услови на употреба (61% translated)")
 *   [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Лелоран хьал (1% translated)")
-*   [олык марий](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mhr "Paydalanımaş kelşik (3% translated)")
+*   [олык марий](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mhr "<templatestyles src=\"Module:Message box/ombox.css\"></templatestyles><table class=\"plainlinks ombox ombox-speedy\" role=\"presentation\"><tr><td class=\"mbox-image\">[[File:Ambox warning pn.svg|40x40px|link=|alt=]]</td><td class=\"mbox-text\">This content has been nominated for speedy deletion and was lasted edited on 15 May 2026.
+    <br />Reason for proposed speedy deletion:&nbsp;''Wrong language. Wrong transliteration <small>[[:m:Special:MyLanguage/User:TenWhile6/XReport|XReport]]</small>''
+    <br /><small>'''[//foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=delete&wpReason=%5B%5BTemplate%3ADelete%7CSpeedy+deletion+requested%5D%5D%3A+Wrong+language.+Wrong+transliteration+%3Csmall%3E%5B%5B%3Am%3ASpecial%3AMyLanguage%2FUser%3ATenWhile6%2FXReport%7CXReport%5D%5D%3C%2Fsmall%3E Administrator: Delete now!]'''</small></td></tr></table>[[Category:Deletion requests]]
+    Paydalanımaş kelşik (3% translated)")
 *   [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (94% translated)")
 *   [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (22% translated)")
 *   [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
