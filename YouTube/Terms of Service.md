@@ -262,4 +262,4 @@ In these terms, “include” or “including” means “including but not limi
 **Governing Law  
 **All claims arising out of or relating to these terms or the Service will be governed by California law, except California’s conflict of laws rules, and will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA. You and YouTube consent to personal jurisdiction in those courts.
 
-#### سارية اعتبارًا من January 5, 2022 ([عرض الإصدار السابق](https://www.youtube.com/t/terms?archive=20210601))
+#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
