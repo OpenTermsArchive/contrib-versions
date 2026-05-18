@@ -1,9 +1,6 @@
-DMCA & Copyright
-================
-
 We take intellectual property rights of others seriously and expect that our users do the same.
 
-Kick acts in accordance with the Digital Millennium Copyright Act of 1998, If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through Kick's services, please send a notice that meets the minimum requirements of the DMCA, to **[dmca@kick.com](mailto:dmca@kick.com)**, and we will take appropriate action.
+Kick acts in accordance with the Digital Millennium Copyright Act of 1998, If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through Kick's services, please send a notice that meets the minimum requirements of the DMCA, to [**dmca@kick.com**](mailto:dmca@kick.com), and we will take appropriate action.
 
 DMCA notice requirements
 ------------------------
@@ -17,35 +14,25 @@ You must include:
 *   The following statement: “The information in this notice is accurate and, under penalty of perjury, I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right that is allegedly infringed”; and
 *   An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
-Submissions under this DMCA Policy should be sent to **[dmca@kick.com](mailto:dmca@kick.com)**.
+Submissions under this DMCA Policy should be sent to [**dmca@kick.com**](mailto:dmca@kick.com).
 
 We will review your submission and take whatever action we deem appropriate under the DMCA, including the removal of the challenged content from the website. Further more, we may, in appropriate circumstances, disable access or terminate the account(s) of the reported user(s).
 
 DMCA Counter Notice requirements
 --------------------------------
 
-If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to **[dmca@kick.com](mailto:dmca@kick.com).** If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
+If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to [**dmca@kick.com**](mailto:dmca@kick.com)**.** If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
 
 *   URL(s) where the material that was the subject of the notification of claimed infringement appeared before it was identified, removed, or access to it was disabled
-    
 *   Name of the claimant who submitted the notification
-    
 *   Your Kick channel name (e.g., Kick.com/Username)
-    
 *   Your full legal name
-    
 *   Your email address
-    
 *   Your full postal address (Street, Unit #, State, Mailing Code, Country)
-    
 *   Your phone number, including International Code
-    
 *   Verify these statements by including, and adding your name and signature to, the following affidavit:
-    
 *   If based in the United States: “I consent to the jurisdiction of the Federal District Court for the judicial district in which my provided address is located”
-    
 *   If based outside of the United States: “I consent to the jurisdiction of any United States Federal District Court in which Kick may be found”
-    
 
 Trademark takedown request requirements
 ---------------------------------------
@@ -59,7 +46,7 @@ If you're sure you want to report content on Kick that you believe infringes you
 *   database of the applicable national intellectual property office(s).
 *   A declaration of the following statement: “By submitting this notice, I state that I have a good-faith belief that the reported use, in the manner that I have complained of, is not authorized by the intellectual property rights owner, its agent or the law; that the information contained in this notice is accurate; and, under penalty of perjury, that I am authorized to act on behalf of the owner of the intellectual property rights at issue”.
 
-You can send this information to **[dmca@kick.com](mailto:dmca@kick.com)**.
+You can send this information to [**dmca@kick.com**](mailto:dmca@kick.com).
 
 Repeat Infringer Policy
 -----------------------
