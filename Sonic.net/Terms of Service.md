@@ -14,7 +14,7 @@ By opening an account with [Sonic.net](https://www.sonic.com/), LLC you agree to
 
 [Sonic.net](https://www.sonic.com/), LLC is committed to preserving the privacy of its customers and protecting their personal data. [Sonic.net](http://sonic.net/) does not actively monitor customer use of the Internet, customer email or other customer communications in the course of its regular operations. [Sonic.net](https://www.sonic.com/) is also strongly opposed to the use of third-party information-harvesting strategies and technologies such as unlawful wiretapping.
 
-**Information retained by [Sonic.net](https://www.sonic.com/):**
+**Information retained by** [**Sonic.net**](https://www.sonic.com/)**:**
 
 [Sonic.net](https://www.sonic.com/), LLC keeps information about its customers such as names, addresses, telephone numbers, email addresses and details about [Sonic.net](https://www.sonic.com/) services used by the customer. All such information is considered private. [Sonic.net](https://www.sonic.com/) also keeps logs of limited technical information pertaining to matters such as customer connectivity and email processing. These logs are retained on a temporary basis in order to insure high-quality service, and no logs are kept indefinitely. The only circumstances wherein [Sonic.net](https://www.sonic.com/) will disclose any of the above-mentioned information to a third party are:
 
@@ -175,7 +175,7 @@ If you have any questions regarding privacy, please read our privacy policy: [h
 17\. Regulatory
 ===============
 
-**[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
+[**CA Tariff - Local Exchange Services**](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")
 
 18\. Force Majeure
 ==================
