@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-Last Updated: October 16, 2025
+Last Updated: May 18, 2026
 
-View the [prior version](http://aws.amazon.com/privacy/aws-privacy-prior-20250909/) of this Privacy Notice.   
+View the [prior version](https://aws.amazon.com/privacy/aws-privacy-prior-20251016/) of this Privacy Notice.   
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -15,6 +15,7 @@ This Privacy Notice does not apply to the “content” processed, stored, or ho
 *   [How We Share Personal Information](#How_We_Share_Personal_Information)
 *   [Location of Personal Information](#Location_of_Personal_Information)
 *   [How We Secure Information](#How_We_Secure_Information)
+*   [Advertising](#Advertising)
 *   [Access and Choice](#Access_and_Choice)
 *   [Children’s Personal Information](#Children.E2.80.99s_Personal_Information)
 *   [Third Party Sites and Services](#Third_Party_Sites_and_Services)  
@@ -229,7 +230,7 @@ We provide additional information about our controllers and data protection offi
     
     **Controller of Personal Information**
     
-    Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc.
+    Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 1-3-1 Azabudai, Minato-ku, Tokyo 106-0041 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc.
     
     **Use of Personal Information**
     
@@ -243,7 +244,7 @@ We provide additional information about our controllers and data protection offi
     
     **Your Rights**
     
-    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account (for AWS customers) or send us a letter at Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).
+    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account (for AWS customers) or send us a letter at Amazon Web Services Japan G.K., 1-3-1 Azabudai, Minato-ku, Tokyo 106-0041 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).
     
 *   Malaysia
     
