@@ -1,294 +1,198 @@
-Kick Community Guidelines
-=========================
+**KICK Community Guidelines**
+=============================
 
-**3.0- Updated 06/02/2025**
+  
 
-What are Community Guidelines
------------------------------
+**Updated 19/03/2026**
 
-At Kick, we aim to be a creator led platform. We support creators expressing themselves freely so they can stream entertaining and engaging content. To stay within the boundaries outlined in our Terms of Service we have developed these Community Guidelines which set out expectations while interacting with our service.
+  
 
-These Community Guidelines are primarily for the benefit of creators, however, moderators and chatters should fundamentally behave in line with these standards. Violations of these Community Guidelines are, by default, a violation of our Terms of Service and this can lead to streaming potentially harmful content.
+**Understanding Community Guidelines**
 
-We aim to create an environment where everyone can engage with our platform to suit their preferences and we encourage viewers to navigate away from any content or interactions which do not align with their personal values.
+At Kick, we aim to be a creator-led platform. We support creators safely expressing themselves to stream entertaining and engaging content. To stay within the boundaries outlined in our Terms of Service, we have developed these Community Guidelines, setting out expectations while interacting with our service. They are primarily for the benefit of creators, though moderators and viewers should also engage with our platform in line with these standards. Violations of these Guidelines are likely to be a violation of our Terms of Service.
 
-Moderator considerations
-------------------------
+  
 
-Live streaming, by its nature, is unpredictable. While it's impossible to foresee every outcome, there are several key factors that can lead to adverse content unfolding.  
-Our moderation team follows a structured approach to evaluating reported content, considering the full context, including the creator’s reasonable expectations, involvement and reaction alongside the potential risks and outcomes of streams. They carefully assess these factors to determine whether a violation of our Terms of Service has occurred and to what extent.
+**Evaluating Full Context**
 
-###### Full Context
+The nature of live streaming requires a moderation approach that carefully evaluates the full context when assessing content for potential breaches. We consider factors such as a creator’s intent, involvement, reaction, outcome, external influences and channel history to determine the most appropriate and proportionate action. While context is considered for most themes, Kick maintains a zero-tolerance policy for certain high-impact violations, including the protection of minors and incitement of terrorism, where context will not mitigate enforcement action.
 
-Not all situations are the same, context can influence how content is perceived. There can be situations where a scenario can be accepted as true, however, different moderation decisions will result based on the full context of reported content. Whether a creator shows positive or negative intentions, plays minor or major involvement in an incident, their differing reactions to issues and the ranging severity of issues will all influence content moderation. Creators should consider their past issues, the tone of their stream and any external factors impacting their content.
+**Intent**
 
-###### Intent
+A creator’s intent is an important part of our review process. We evaluate this by examining the level of involvement in escalating issues and any reaction as events unfold. While our team looks for evidence that a stream is being managed responsibly for entertainment, we also assess whether a harmful situation could have been reasonably anticipated or prevented. 
 
-The intent of a creator is difficult to assess, however, there are certain indicators that indicate whether streams are responsibly crafted, aiming for entertainment, education or positive engagement rather than sensationalism or exploitation. When evaluating whether content violates these Guidelines, moderators consider if harmful situations could have been reasonably anticipated.
+  
 
-###### Involvement
+**Outcome**
 
-The level of a streamer’s involvement in harmful content can vary widely, ranging from negligence to direct engagement in toxic behaviour. For instance, allowing harmful content to be streamed unintentionally due to lack of oversight, constitutes negligence. On the other hand, being actively involved in the participation of content which contravenes these Guidelines is more severe.
+The outcome and impact of content streamed are key drivers in moderation and enforcement decisions. Moderators consider the output of content with the impact and potential harm caused by what was viewable. Creators are responsible for all content streamed on their channel, and certain high-risk outcomes may result in enforcement regardless of surrounding context. Repeated violations will lead to increasingly severe enforcement action.
 
-###### Reaction
+  
 
-During a live stream, decisions made in the moment can contribute to or help mitigate harmful situations. Creators should make responsible choices while reacting as events unfold. In high risk situations, a prompt reaction may be the difference between preventing a problem, containing an issue or allowing it to escalate. Creators should remain vigilant and consider reactions to unexpected circumstances as quick responses, such as averting the camera, muting inappropriate audio or switching to a neutral screen, can help prevent or reduce streaming harmful material.
+**Moderator Summary**
 
-###### Outcome
+Ensuring a channel remains in line with platform standards requires a clear understanding of how different content themes carry varying levels of risk. By identifying the difference between low, moderate and high risk scenarios, creators can better navigate potential issues before they result in a violation. Our moderation team assesses whether a creator’s actions contributed to a harmful situation escalating and the resulting display of content streamed on their channel. Ultimately, we consider a wide range of influential factors to ensure every report is handled fairly while prioritizing the overall safety and integrity of the platform.
 
-The outcome of actions and output of content is considered when assessing content. Moderators assess what actually transpired and was freely displayed for consumption when considering whether there has been a breach of these Guidelines. Creators are responsible for the content they create and repeated violations can lead to more severe penalties.
+  
 
-###### Moderators Summary
+**Guideline 1**
 
-Across all content themes there are various levels of risk which should be considered. By understanding and accounting for low, moderate and high risk levels, creators can help ensure their content remains in line with platform Guidelines. Proactive planning, research, responsible decision-making and quick reactions all contribute to assessment of reported content by moderators. Our team will consider a wide range of influential factors to understand the full context.
+**Sexual Conduct**
 
-Guideline 1
------------
+Kick supports a wide range of creative content while ensuring the platform maintains a high standard of safety and community integrity. Suggestive themes are permitted within appropriate contexts, but these instances must involve consenting adults and be strictly age-restricted at all times. 
 
-### Sexual Conduct
+Creators are responsible for ensuring their content does not cross into prohibited material. This includes avoiding excessively erotic depictions, inappropriate enactments, nudity or camera angles that emphasize sensitive areas. Further, we do not permit the creation, intentional display or sharing of pornography, nor do we permit any form of sexual extortion.
 
-We allow sexually suggestive expressions which are lighthearted but we will take action if content is unfiltered and becomes excessively erotic. Consenting adult creators may stream content with sexually suggestive themes provided it remains appropriate for their audience and does not include nudity, sexual acts or overly sexual elements.
+Responsible streaming with awareness of these standards allows creator freedom while ensuring the platform remains respectful of our diverse community.
 
-Moderator's Summary
+  
 
-Content where sexual expression is displayed on your channel must be age-restricted with an 18+ label applied and streams where sexual themes are the primary focus must be placed in our Pools, Hot Tubs & Bikinis category.
+**Guideline 2**
 
-Our moderation team may request adjustments to content and prompt adherence rather than blatant disregard will help avoid infractions.
+**Protection of Minors**
 
-We do not permit explicit sexual content such as prolonged or overly sexual movements. Display of private body parts including uncovered breasts with exposed nipples or intimate areas is prohibited. Creators should be mindful of camera angles and avoid close-ups of sensitive areas.
+The safety and protection of minors is a fundamental priority for Kick. Users are expected to maintain a safe environment for underage individuals. This applies to all interactions across the platform and ensures that the safety of younger individuals is never compromised for entertainment.
 
-The use of pasties during body-art streams is allowed, provided the artwork is actively progressing. We permit links and banners to legal sites with sexual themes while streaming in the "Pools, Hot Tubs & Bikinis" category.
+We maintain a strict policy regarding the sexualization, exploitation or harm of minors. Creation, dissemination or instruction of Child Sexual Abuse Material (CSAM) in any form is illegal and not permitted under any circumstances. We do not allow content that depicts minors being groomed, harmed or involved in illegal activities. 
 
-Guideline 2
------------
+Unsupervised interactions involving minors on randomized video chat platforms are not permitted. If a creator encounters someone they reasonably believe to be underage, they must disengage and skip through to the next interaction immediately. Any streams featuring minors must take place with the knowledge and supervision of a parent or legal guardian.
 
-### Pornography
+  
 
-There is no pornography allowed on Kick. We do not permit the creation, sharing or intentional display of pornographic material.
+**Guideline 3**
 
-Moderator's Summary
+**Violence**
 
-Do not offer reward for performing sexual acts, such as sexually charged challenges, display of pornographic content, use of sex toys, prolonged genital touching, excessive sexual depictions and graphic representations.
+Extreme violence, graphic gore and unwanted aggression that poses a serious risk or results in significant harm is not permitted. 
 
-Guideline 3
------------
+Context is always considered. Certain depictions of violence, such as in professional sporting events, can be expected as part of the activity. This situation would be treated differently from content that promotes or normalizes serious harm.
 
-### Protection of Minors
+Content involving animals is also assessed with context in mind. Unnecessary suffering or harm, including illegal or abusive practices, is prohibited. Legal activities, such as regulated hunting or cultural practices, are permitted.
 
-Kick is fully committed to the protection of minors. We prohibit content that endangers or exploits children and our users must always respect the privacy and safety of minors. We have a strict, zero-tolerance policy against Child Sexual Abuse Material (CSAM).
+  
 
-Moderator's Summary
+**Guideline 4**
 
-It is essential to ensure that your streams and interactions are free from any content which could be exploitative of minors or promotes child exploitation. This includes refraining from requesting, creating, sharing or distributing any inappropriate and illegal material. You should avoid engaging in any inappropriate behavior or discussions with minors and never request or share any personal or identifiable information of minors.
+**Terrorism**
 
-We understand that parents or legal guardians may wish to include their children in streams, responsible supervision should be exercised ensuring their child's participation is safe, appropriate and respectful.
+We do not permit content that incites, promotes or displays acts of terror or violent extremism. This includes any content that seeks to radicalize users or instructs acts of terror, as well as any content involving radicalization, recruitment or propaganda on behalf of recognized terrorist organizations.
 
-We want to emphasize there can be real life severe consequences for any illegal activity involving minors and we will cooperate with law enforcement authorities and regulators, as required.
+  
 
-Guideline 4
------------
+**Guideline 5**
 
-### Hate-Speech
+**Hate Speech**
 
-Our moderation approach is guided by the needs of our global audience and the regulatory standards we uphold. Most definitions of hate-speech involve planning, incitement and calls for action to commit violent acts which could lead to significant harm or loss of life and may target individuals or entire demographic groups.
+Our moderation approach is guided by the needs of our global audience and the regulatory standards we uphold. We are a creator-led platform that values responsible freedom of expression, however, we do not permit hate speech against individuals or groups based on race, religion, sexual orientation, gender, disability, or other demographic identifiers. This includes communication that plans, incites, or coordinates violent action or calls for harm against these groups.
 
-Context is crucial in evaluating hate-speech. Words that may be acceptable in some situations can take on an entirely different meaning depending on the full context. Our aim is to take a considered approach to find balance between supporting free expression while ensuring we maintain a safe space for everyone.
+Context is crucial in evaluating these reports. Words that may be acceptable in some situations can take on an entirely different meaning in different contexts. As live streaming involves real-time unpredictability, our moderation team takes a considered approach to determine a balance between supporting free expression and maintaining a safe space. We assess the full context of content, including the creator’s intent, their level of involvement, and whether the content crosses into coordinated harassment or calls for action.
 
-Moderator's Summary
+We encourage creators to foster discussion and creativity while remaining mindful of how their content affects others. We support open dialogue, but provocative language must not be intended to incite violence or normalize serious harm.
 
-We are a creator led platform and value responsible freedom of expression. We consider the full context when assessing hate-speech reports including the intent, involvement, reaction and impact behind content. It is important to understand the broader and surrounding circumstances, especially in live streaming, as there are often unforeseen developments and real-time unpredictability.
+  
 
-We do not permit hate-speech against individuals or groups based on gender, sexual orientation, race, religion, disability or other demographic identifiers. This includes incitement of violence that could lead to physical harm or death. The intent behind provocative language is considered and it should never be to incite violence.  
-We encourage creators to foster discussion, expression and creativity while being mindful of how their content might affect others.
+**Guideline 6**
 
-Guideline 5
------------
+**Personal Safety and Self-Harm**
 
-### Violence
+The safety of our community is a priority. We do not permit content that promotes, encourages, or instructs acts that pose a serious risk to personal safety, including self-harm or suicide. This standard extends to the depiction of substance abuse, eating disorders, and the reckless endangerment of oneself or others. High-risk activities or dangerous stunts should only be performed by professionals, and creators must not put themselves in unsafe situations that could lead to serious injury or death.
 
-While violence may be contextual and there can be varying degrees of impact, we do not permit content that depicts or incites abhorrent violence including significant harm, suffering or death. We further do not allow malicious trolling, harassment or brigading.
+We also prohibit the sharing of graphic or triggering content related to self-harm, as well as any discussion regarding plans to commit self-harm. To maintain the integrity of our support systems, we do not allow the solicitation of financial support or subscriptions through the exploitation of personal distress.
 
-Moderator's Summary
+For support, the following available resources are published on our website: [Mental Health on Kick](https://help.kick.com/en/articles/10137474-mental-health-on-kick) and [Crisis Resource List](https://help.kick.com/en/articles/9365083-crisis-resource-list). 
 
-Our moderation team carefully evaluates reports of violence by assessing the context including the intent, involvement, reaction and degree of severity. Actions that could be considered violent in certain circumstances may be acceptable with a different context, provided there is positive intent, all participants are willing and reasonable steps are taken to minimize harm and ensure safety. It’s crucial to ensure that any potentially violent content such as stunts are handled responsibly and with consideration. Where the outcome of streamed content displays excessive violence we will take action.
+  
 
-Clear displays of unwanted aggression which lead to or are likely to lead to harm are not tolerated and harassment of others is not allowed.
+**Guideline 7**
 
-Illegal hunting practices or content showing unnecessary harm to animals is not permitted, however, we do allow streaming of legal hunting and cultural context is considered when assessing reports of violence involving animals.
+**Integrity and Authenticity**
 
-Guideline 6
------------
+We consider integrity and authenticity in engagement to be important in maintaining trust and safety across the platform. Users should be able to rely on interactions, content, and signals of influence being genuine, without deception, misrepresentation or concealed intent that could mislead others or result in harm.
 
-### Terrorism
+The sharing of false, widely disproven and unqualified misinformation that can cause real-world harm is not permitted. This may include, but is not limited to, misinformation that undermines civic and political process or is prejudicial to health and safety.
 
-At Kick, we do not permit any content which incites radicalization, terrorism and/or violent extremism.
+Deceptive or inauthentic behavior is not permitted. This includes scams, chat spam, malicious links, fraudulent services and the misrepresentation of affiliations or identity with predatory intent. The use of bots, engagement manipulation, or third-party tools to artificially inflate views, followers, or interactions is prohibited. If you believe your channel is being targeted with bots then reach out to [support@kick.com](mailto:support@kick.com) immediately.
 
-Moderator's Summary
+These principles also apply to the use of Artificial Intelligence (AI), where we prioritize transparency and the protection of individual identity. We support the creative and innovative use of AI, provided that all AI-generated content is created with informed consent and clearly disclosed to the community where it mimics reality. In line with our commitment to authenticity, users must not use AI to create or share synthetic media, including deepfakes or voice clones, that misleads viewers about real-world events or the actions of private individuals. This includes a strict prohibition on the creation or distribution of non-consensual intimate imagery, as well as the use of AI to simulate a realistic endorsement or the presence of another person without their express permission. To maintain an environment built on trust, any stream utilizing AI to generate realistic content should be clearly disclosed to viewers through the stream title or an on-screen overlay.
 
-Sharing or promoting content that promotes terrorist organizations or anything that encourages or incites violence based on extremist ideologies is not permitted. This includes offering guidance on how to commit extreme violence, terrorist organization recruitment material and propaganda. Violations will result in swift enforcement, including cooperation with law enforcement authorities and regulators to ensure safety and security for all. We allow discussion of global topics and issues related to terrorism but you should always ensure your content remains legal and appropriate.
+Unauthorized gaming hacks, cheats, or exploits that provide unfair advantages, particularly in multiplayer or competitive environments, are not allowed. 
 
-Guideline 7
------------
+  
 
-### Self-Harm
+**Guideline 8**
 
-We do not permit content which involves displays of serious and significant self-harm, concerning discussions of self-harm by individuals or genuine encouragement of others to commit self-harm.
+**Doxxing and Privacy**
 
-While we wholeheartedly allow open dialogue around mental health and well-being, we will not tolerate actions that may cause harm to oneself or individuals in distress.
+Respecting the privacy of others is critical to maintaining a safe community. Doxxing, or the unauthorized release of private personal information or non-consensual intimate images, is strictly prohibited. Commentating on other streamers is allowed, but sharing their private contact details or other sensitive information is not. 
 
-Moderator's Summary
+Any activity that facilitates harassment through exposure of private data violates our standards. Respecting privacy includes technical integrity. Users must not deploy unauthorized scripts, 'fingerprinting' technologies, or third-party tools to track other users off-platform.
 
-Always be mindful of how your content may impact your audience, especially when discussing sensitive topics like mental health. General commentary and discussions around mental health topics should be approached with care and sensitivity.
+  
 
-We do not permit any discussions that encourage self-harm or suicide, nor the sharing of graphic or triggering content related to self-harm. Do not discuss your own wishes or plans to commit self-harm. We further prohibit any form of solicitation for financial support or subscriptions by exploiting distressed conversations, including requests in exchange for discussing personal distress.
+**Guideline 9**
 
-If you are personally contemplating self-harm, we strongly encourage you to contact a mental health professional, emergency medical facility or a helpline specializing in providing support during challenging times, relevant information may be available in the [Kick Crisis Resource List](https://help.kick.com/en/articles/9365083-crisis-resource-list) on our website.
+**Public Safety, Order and Disturbances**
 
-Guideline 8
------------
+Creators must avoid actions that cause significant public disruption or panic. This includes pranks designed to incite fear and any conduct that leads to the unnecessary involvement of emergency services. When streaming in public or sensitive areas, creators are required to follow local laws and ensure they are not harassing or exploiting unwilling participants or vulnerable individuals. Conduct that creates a serious risk of physical harm, such as dangerous driving, the reckless operation of machinery, or endangering bystanders, is not permitted. Enforcement action will be proportionate to the creator's intent and the resulting risk of harm.
 
-### Authenticity
+  
 
-We value diversity of thought and believe in open dialogue, however, it is important to maintain integrity and authenticity when presenting yourself and the accuracy of information you share.
+**Guideline 10**
 
-Moderator's Summary
+**Lawfulness**
 
-We do not permit disinformation or sensationalised content with adverse intent that is presented in a serious manner for the purpose of widespread panic. It's crucial to maintain accuracy and responsibility when sharing information. Do not use edited content that presents a false narrative, including deep fakes or AI-generated content designed to adversely mislead or with harmful intent. Blatantly sensationalized information presented as fact, especially with the aim of influencing or misleading others, is not permitted.
+Creators must comply with all applicable local laws while streaming. This includes regulations related to copyright, intellectual property, trespassing, illicit substances, public nuisance, and any activity that may endanger themselves or others. We take into account both the severity and frequency of any violations, and serious or repeated offenses may result in enforcement actions, including account suspension or removal. We may cooperate with authorities across jurisdictions when necessary, and users are responsible for understanding and following the laws in the regions where they create or share content. Compliance with local law ensures the safety of both creators and viewers and helps maintain the integrity of the platform.
 
-Guideline 9
------------
+  
 
-### Doxxing
+**Guideline 11**
 
-Be mindful of not sharing personal, identifiable or confidential information of others without their consent as this is strictly prohibited. We prioritize a community of respect, trust and safety and we do not tolerate threats or actions involving the unwanted release of personal information.
+**Gambling**
 
-Moderator's Summary
+Creators must follow the gambling laws in their jurisdiction. Gambling involving funds provided by other users, such as requiring “buy-ins” to participate in giveaways, is strictly prohibited. Under no circumstances may minors participate in gambling-related activities.
 
-Personal, identifiable or confidential information includes, but is not limited to, addresses, bank account details, family information, places of work, medical records or other private information. Doxxing involves the release of this information when it has not been consented to.
+Creators may share affiliate links or engage in sponsored gambling content provided they comply with all applicable local laws and regulations. Sponsored gambling is permitted only for platforms holding valid licenses in the relevant jurisdiction. Creators must clearly disclose the presence of affiliate links. Disclosures should be clear and conspicuous, placed close to the link or mentioned audibly during the stream. Gambling streams must include proper age-labeling and categorization.
 
-We do not permit swatting, which is the dangerous act of making false emergency calls to law enforcement, leading to potentially life-threatening situations for the targeted individual.
+  
 
-These harmful activities may have legal consequences and we strongly condemn such actions. Please be aware that in cases of illegal activities such as doxxing or swatting, we will cooperate fully with law enforcement to ensure the safety and security of our community and the wider public.
+**ADDITIONAL STANDARDS**
 
-Commentary of Kick Staff or other Kick streamers is permitted but revealing personal details verbally, through written text or other means is strictly prohibited.
+**Channel Identity and Presentation**
 
-Guideline 10
-------------
+Usernames and profile information should remain appropriate and within the bounds of these Community Guidelines. Streams should be placed in the most accurate category to reflect the nature of the content being shared, and 18+ labels must be applied where appropriate.
 
-### Botting
+Kick supports your brand partnerships, but transparency is a requirement for platform integrity and legal compliance. You must use the “Branded Content” tool to notify viewers of a paid partnership. Paid promotions must include a visual overlay (e.g. #Ad or #Sponsored in the livestream title) and a verbal disclosure at the beginning of a sponsored segment. Creators should avoid vague terms like 'Partner' or 'Collab'; use plain language such as 'Paid Promotion' to ensure viewers understand the commercial nature of the content.
 
-Do not bot or inflate metrics. Using bots or artificially inflating metrics is strictly prohibited on Kick. Activities such as botting, view botting, follow-for-follow schemes, and subscriber fraud are prohibited. If you believe you are being viewbotted then reach out to [support@kick.com](mailto:support@kick.com) immediately.
+  
 
-Guideline 11
-------------
+**Stream Management and Tools**
 
-### Fraud and Deception
+Channel owners have final responsibility for the content streamed on their channel, including the appropriateness of stream titles, pinned messages, and links. This responsibility also extends to emotes, whether created by the channel owner or their moderators. While creators who have been indefinitely banned from Kick may briefly appear in your streams, they should not be the primary focus for prolonged periods. Links to illegal websites are strictly prohibited. Kick products and tools, including Channel Points and Kicks, are designed to foster positive community experiences. Users are expected to interact responsibly, as any use that undermines the integrity of these tools may result in the loss of features or account restrictions.
 
-We are committed to maintaining a safe and authentic environment and do not permit fraud, impersonation, evasion, excessive or unwanted spamming and adverse solicitation.
+  
 
-Moderator's Summary
+**Reporting and Safety**
 
-Full context is considered for reports of this nature.
+We provide an easily accessible Report button because we prioritize the safety of all members. If you encounter a user engaging in conduct that goes against our Guidelines, please use this feature to alert our moderation team or contact us at [support@kick.com](mailto:support@kick.com). Your reports are vital to our process, as we take all reports seriously and investigate them thoroughly.
 
-Creators should respect intellectual property rights and avoid deceptive practices.
+  
 
-Soliciting such as botting or graphic design services are prohibited. Moderators will actively monitor for content that promotes fraud, deception or the unauthorized use of intellectual property.
+**How We Apply Enforcement Action**
 
-Impersonation includes misrepresenting yourself as another person, entity or organization with the intent to deceive.
+Our enforcement actions may vary depending on the severity and frequency of the actions. Our primary goal is to work collaboratively with our creators to address and correct improper behaviors. We believe in reformative efforts whenever possible and where creators genuinely course correct. 
 
-Evasion, including attempts to bypass restrictions or enforcement actions, is prohibited.
-
-Spamming, such as excessive, irrelevant, or automated content intended to manipulate engagement or disrupt the platform, is also not allowed.
-
-Solicitation, including unauthorized and adverse promotions, advertisements or requests for money, goods or services, is not allowed. Violations are assessed on the broader content of these issues.
-
-We further do not tolerate Distributed Denial of Service (DDOS) attacks, which involves overwhelming a user's or creator's online presence with excessive traffic, disrupting their ability to use the platform.
-
-Guideline 12
-------------
-
-### Game Hacking
-
-The use of game hacks to gain an unfair advantage is strictly prohibited.
-
-Moderator's Summary
-
-Do not offer hacking services and we do not permit hacking in multiplayer games.
-
-This includes any violations of the End-User License Agreement (EULA) or Terms of Service (ToS) of online multiplayer games. Prohibited actions include a range of activities, such as wall hacks, aimbots, lag switches, macros, botting, boosting, win trading, ghosting, and scripting. It's important to note that these actions are permissible only in Single Player, Solo, or Speed Running situations.
-
-Guideline 13
-------------
-
-### Lawfulness
-
-Creators should be aware of the local laws regarding live streaming where they stream content. This can include rules around copyrighted material, privacy rights, public nuisance, destruction, illegal activity and other restrictions. Ignorance of the law is never an excuse and it’s important to protect yourself and your audience by respecting legal boundaries.
-
-Moderator's Summary
-
-The level of risk varies around this Guideline is crucial to understand. Escalating behavior, such as ignored warnings or intensifying harmful actions, will prompt a proportionate response by our moderators. Minor infractions warrant warnings and corrective guidance, while repeated or severe offenses may lead to stream or channel suspension. By enforcing this Guideline consistently we hope to create a safe, enjoyable space, free of harmful or illegal content to protect the community and wider public.
-
-Guideline 14
-------------
-
-### Gambling
-
-Adhere to the legal requirements regarding gambling activities in your region to ensure compliance with local laws.
-
-Moderator's Summary
-
-Streaming of gambling on Kick with other users' tender is strictly prohibited, this includes any form of "buy-in" via sweepstakes and lotteries. Sub-only competitions/weighted giveaways are not permitted.  
-Whether you are permitted to stream gambling games online (e.g., Online Poker, Online Blackjack) depends on the laws and regulations of the country in which you are located.
-
-Minors must not be involved with gambling, such as through participation.
-
-Other General Guidance
-----------------------
-
-###### Links
-
-We do not permit links to any illegal websites.
-
-###### Emotes
-
-Guidance on emotes can be found [here](https://help.kick.com/en/articles/10162055-emote-guide). Emotes should not violate these Guidelines and channel owners are wholly responsible for their emotes and those created by their moderators.
-
-###### Channel Responsibility
-
-Channel owners have final responsibility for the content streamed on their channel. Creators banned from Kick appearing on their channels should be avoided. These situations will be assessed in line with moderator considerations regarding intent and involvement and banned creators should not be the primary focus of a stream.
-
-Channel owners run the risk of having a more severe ban if a suspended creator is permitted to appear on their stream and breaks our Terms of Service.
-
-###### Streams
-
-Stream titles should abide by the standards set out in these Guidelines. Streams should be in the most accurate category to reflect the nature of the content being streamed. If content is only suitable for overage audiences then an 18+ label should be applied.
-
-###### Categories
-
-Creators streaming in age-restricted categories should take additional precautions.
-
-During IRL streaming, follow local laws and regulations related to filming, trespassing and public behavior. Avoid causing significant disruptions to public order and be considerate of others, especially those who may not be familiar with live streaming. Refrain from filming sensitive or confidential activities. Avoid any actions that could result in the unnecessary involvement of emergency services, including pranks that cause panic or disruption. Be aware of the people around you and refrain from filming individuals who clearly do not want to be included in your stream. Steer clear of pranks that involve harmful, discriminatory, or racist content. Always plan stunts, events, and pranks carefully and safely, and remember that the behavior of your community reflects on you. If your audience becomes disruptive or offensive, such as through vulgar text-to-speech (TTS) behavior, take responsibility and turn off TTS to maintain a respectful environment.
-
-While streaming in our Chat Roulette category it is important to understand that we do not permit any prolonged engagements with underage individuals who may be inadvertently encountered and we will take swift action following any discussion of a sexual nature. If you unexpectedly encounter a person who appears to be, or it would be reasonable to expect, is a minor then you must immediately skip through to the next engagement. Be mindful of sharing personally identifiable information of others as this could contravene our Guidelines related to doxxing.
-
-###### Reporting
-
-We prioritize safety for all members, which is why we have a 'Report' button easily accessible. This feature allows reporting of any behavior that violates our Terms of Service. If you encounter a user engaging in conduct that goes against the Guidelines we’ve set out, please don't hesitate to use the 'Report' button. Your reports are vital in alerting our moderation team to address such issues promptly. We take all reports seriously and investigate them thoroughly.
-
-###### How We Apply Enforcement Action
-
-Our enforcement actions may vary depending on the severity and frequency of the actions. Our primary goal is to work collaboratively with our creators to address and correct improper behaviors. We believe in reformative efforts whenever possible and where creators genuinely course correct.
-
-We have a zero-tolerance policy for some behaviors and will not collaborate to find a resolution in certain severe circumstances.
-
-Our enforcement actions may involve warnings in chat, via email or post-stream. To uphold safety standards we may also apply alterations, muting, revocation of privileges, added restrictions, content removal, temporary or indefinite account suspensions and in serious cases permanent account bans.
+Our enforcement actions may involve warnings in chat, via email or post-stream. To uphold safety standards we may also apply chat muting, revocation of privileges, added restrictions, content removal, temporary or indefinite account suspensions and in serious cases permanent account bans.
 
 Our moderators may apply a more severe ban based on channel suspension history, including frequency and types of bans.
 
-###### Appeals process
+  
 
-If your channel has been suspended for a breach of our Terms of Service and you wish to appeal the decision, then you can send an appeal to [appeals@kick.com](mailto:appeals@kick.com) for consideration of a reduced length of suspension or channel reactivation.
+**Appeals Process**
 
-###### Cooperation with authorities
+If your channel has been suspended and you wish to appeal the decision, you may contact [appeals@kick.com](mailto:appeals@kick.com) for consideration of a reduced suspension or channel reactivation.
 
-Kick engages with law enforcement and regulators to produce information we are legally obligated to provide whether as proactive notification or in response to a formal request.
+  
+
+**Cooperation with Authorities**
+
+Kick regularly engages with law enforcement and regulators through proactive notifications and responses to formal law enforcement and regulator requests.
