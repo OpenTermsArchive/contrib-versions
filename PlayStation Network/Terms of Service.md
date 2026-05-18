@@ -410,4 +410,4 @@ Accessing and using PlayStation and its Content may require an internet connecti
 
 For further information, or if you have questions about your Account, the best way to contact us is via our website at www.playstation.com/support. You may also reach us by phone at 800-345-7669 or write to us at the following address: Sony Interactive Entertainment, Attn: Consumer Services Department, 2207 Bridgepointe Pkwy, San Mateo, CA 94404, USA. Additional contact information for us is available at www.playstation.com/legal.
 
-Last revised: January 2026
+Last revised: April 2026
