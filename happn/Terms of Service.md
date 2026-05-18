@@ -1,16 +1,16 @@
 Terms of Service
 ================
 
-Updated on: 31/05/2025
+Updated on: **11/05/2026**
 
-Definitions
-===========
+**Definitions**
+---------------
 
-In these Terms of Service, the following terms are employed with the meanings set out below: 
+In these Terms of Service, the following terms are employed with the meanings set out below:
 
 **Application**: The HAPPN application, available on the Apple App Store and the Google Play Store and on the HAPPN Webapp : [https://app.happn.com](https://app.happn.com/)
 
-**HAPPN**: HAPPN, a French joint stock company (Société par Actions Simplifiée) with paid-in capital of €36 982,92 registered with the Paris RCS (trade and companies registry) under no. 535 217 723, and owner and sole operator of the HAPPN application and trademark.
+**HAPPN**: HAPPN, a French joint stock company (Société par Actions Simplifiée) with paid-in capital of €40 436,30 registered with the Paris RCS (trade and companies registry) under no. 535 217 723, and owner and sole operator of the HAPPN application and trademark.
 
 **TOS**: These Terms of Service.
 
@@ -30,7 +30,7 @@ In these Terms of Service, the following terms are employed with the meanings se
 
 **Crush**: An event that is created between two profiles, triggered by a Like on both profiles. It represents mutual interest and sends out a “You have a Crush” notification, allowing Members to start a conversation.
 
-**Boost**: a function enabling Members to increase the visibility of their profile during the time that this option is activated. 
+**Boost**: a function enabling Members to increase the visibility of their profile during the time that this option is activated.
 
 **Messages and/or voice messages**: Only Members who have a Crush (or a FlashNote, if eligible) can use the Application’s “Chat” function to send each other Messages. Messages are stored in the inbox, which is accessible via the icon on the top right of the homepage.
 
@@ -44,9 +44,9 @@ If the photo of the Member’s face is not placed in first position, it will be 
 
 **Shortlist**: A free feature enabling Members to access a selection of three profiles recommended by HAPPN every day. The Shortlist feature is available from Members’ third day of activity on their profiles.
 
-**HAPPN Premium**: All charged Services offered by HAPPN in the form of a subscription whose duration is chosen by the Member. 
+**HAPPN Premium**: All charged Services offered by HAPPN in the form of a subscription whose duration is chosen by the Member.
 
-**HAPPN Supreme:** a subscription-based set of paid Services offered by HAPPN allowing the Member to choose the duration.
+**HAPPN Supreme**: a subscription-based set of paid Services offered by HAPPN allowing the Member to choose the duration.
 
 **Subscriber Member**: member who has subscribed to HAPPN Premium or HAPPN Supreme.
 
@@ -54,28 +54,28 @@ If the photo of the Member’s face is not placed in first position, it will be 
 
 **CrushTime**: An optional game, offered by HAPPN via a notification to the Member. For each hand, guess which person Liked you from a board of four profiles by sending him or her a Like in return.
 
-Article 1: Scope 
-=================
+**Article 1: Scope**
+====================
 
 The TOS define the rights and obligations of the parties when using the Application. They form the basis of the contractual relationship between the Member and HAPPN.
 
-1.1 Conflicting Rules
----------------------
+**1.1 Conflicting Rules**
+-------------------------
 
 These Terms of Service (TOS) determine the main rules of use for the Application. They are supplemented by additional policies – the [Privacy Policy](http://www.happn.com/privacy), the [Cookies Use Policy](http://www.happn.com/cookies) and the [Confidence Charter](http://www.happn.com/trust) – in order to provide the Member with clearer guidance on how to use the Application. In the event of a conflict between the various policies making the rules inaccessible, unintelligible and/or unpredictable, these TOS shall prevail over the Privacy Policy, the Cookies Use Policy and the Confidence Charter.  
 
-1.2 Independence of Provisions
-------------------------------
+**1.2 Independence of Provisions**
+----------------------------------
 
-Should any provision of these TOS be declared invalid or inapplicable due to the effects of a law, regulation or ruling by a court with relevant jurisdiction, the other provisions shall remain effective and in force, unless these TOS become distorted, or the obligations of the parties significantly thrown out of balance. 
+Should any provision of these TOS be declared invalid or inapplicable due to the effects of a law, regulation or ruling by a court with relevant jurisdiction, the other provisions shall remain effective and in force, unless these TOS become distorted, or the obligations of the parties significantly thrown out of balance.
 
-Article 2: Amendments to the TOS
-================================
+**Article 2: Amendments to the TOS**
+====================================
 
-2.1 Updates
------------
+**2.1 Updates**
+---------------
 
-HAPPN reserves the right, unilaterally and at any time, to add to or amend these TOS as it sees fit or to terminate the Services. 
+HAPPN reserves the right, unilaterally and at any time, to add to or amend these TOS as it sees fit or to terminate the Services.
 
 The Member will be informed of updates to the TOS via the Application and/or by email sent to the address provided by the Member. It is the Member’s responsibility to ensure that this email address is valid.
 
@@ -85,21 +85,21 @@ Complete acceptance of the changes is implied by the Member’s continued use of
 
 Should the Member not agree with changes made to the TOS, he or she has the option to end the Services and delete his or her Account as per Article 14.3.
 
-2.2 Immediate Effect
---------------------
+**2.2 Immediate Effect**
+------------------------
 
 All new versions of the TOS shall be effective immediately for all Members.
 
-Article 3: Governing Law and Dispute Resolution
-===============================================
+**Article 3: Governing Law and Dispute Resolution**
+===================================================
 
-3.1 Governing Law
------------------
+**3.1 Governing Law**
+---------------------
 
 These TOS shall be governed by French law, exclusive of its conflict of laws rules.  
 
-3.2 Dispute Resolution
-----------------------
+**3.2 Dispute Resolution**
+--------------------------
 
 In the case of dispute, the Member agrees to contact HAPPN directly in writing (by email or letter, to the email or postal address provided in article 15 hereof) prior to taking any judicial or extra-judicial action, in order to try and find an amicable settlement to this dispute.
 
@@ -107,35 +107,39 @@ In the case of failure, the Member is informed that he or she may choose to have
 
 Any challenge or dispute related to the formation, interpretation, performance or expiry of these TOS or in any connection therewith which has not been amicably settled shall be submitted to the relevant courts of Paris (France).
 
-Article 4: Registration
-=======================
+**Article 4: Registration**
+===========================
 
-4.1 Application Download Options
---------------------------------
+**4.1 Application Download Options**
+------------------------------------
 
 The Application is available on the Apple and Google official download platforms and via la HAPPN Webapp, which is free to access at this address: [https://app.happn.com](https://app.happn.com/) . It can be downloaded free-of-charge from the Apple App Store and the Google Play Store, on iPhones running version iOS 10 or higher, and Android Smartphones running version 5 or higher.
 
-4.2 Member’s Rights when Registering
-------------------------------------
+**4.2 Member’s Rights when Registering**
+----------------------------------------
 
 Provided that the required conditions for Member status are met, HAPPN shall assign the Member a personal Account, which includes:
 
-•    A profile page 
+• A profile page
 
-•    An inbox
+• An inbox
 
-•    A “notifications” option
+• A “notifications” option
 
 A Member may only have one Account.
 
-4.3 Obligations of the Member when Registering
-----------------------------------------------
+As part of the fight against fraud and to ensure the security of Members, HAPPN reserves the right, with your consent, to capture a facial image or to verify an identity document at the stage of Member registration or during the use of the Service. This verification is carried out באמצעות facial captures from which biometric data will be generated, or by means of an identity document.
 
-The Member must be over the age of 18, and must guarantee that all information provided when registering is true and up-to-date. 
+Furthermore, in certain countries where required by law, HAPPN carries out age verification using an identity document or another legally accepted proof of majority.
+
+**4.3 Obligations of the Member when Registering**
+--------------------------------------------------
+
+The Member must be over the age of 18, and must guarantee that all information provided when registering is true and up-to-date.
 
 Registration can be done in these ways:
 
-\- via a mobile phone number: in this case, no information on the Member may be automatically retrieved and it is his or her responsibility to supply personal information such as first and last name, sex, date of birth as well as other additional information if desired and one or more personal photos at the time of registration. 
+\- via a mobile phone number: in this case, no information on the Member may be automatically retrieved and it is his or her responsibility to supply personal information such as first and last name, sex, date of birth as well as other additional information if desired and one or more personal photos at the time of registration.
 
 \- Via Apple or Google Sign in: it is the Member’s responsibility to provide information relating to him or her, such as first name, last name, gender, date of birth, and other additional information if he or she wishes. The Member must also provide one or more photos of himself or herself when registering.
 
@@ -143,20 +147,20 @@ Registration can be done in these ways:
 
 Upon registration, the Member accepts these TOS and the Privacy Policy and agrees to fulfill his or her obligations, and particularly those set out in the Member Code of Conduct defined in Article 8 of these TOS.
 
-Article 5: Services and Features
-================================
+**Article 5: Services and Features**
+====================================
 
-5.1 Purpose of the Service
---------------------------
+**5.1 Purpose of the Service**
+------------------------------
 
-HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected using artificial intelligence systems (« AIS ») based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. HAPPN undertakes to implement these AIS in accordance with the “AI Systems” article of these T&Cs. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application. However, the information that the Member fills in on his/her profile is likely to influence the recommendations.
+HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected using artificial intelligence systems (« AIS ») based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. HAPPN undertakes to implement these AIS in accordance with the “AI Systems” article of these T&Cs. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application. However, the information that the Member fills in on his/her profile is likely to influence the recommendations.
 
 Each Member is free to talk to and form relationships with other Members in compliance with these TOS and the law.
 
 The Services offered by HAPPN may in no case be likened to a counseling or marriage bureau service. Its sole aim is to facilitate virtual or real-life meet-ups through the Application between Members with mutual interests, according to their locations and preferences.
 
-5.2 Services for Members
-------------------------
+**5.2 Services for Members**
+----------------------------
 
 Some of HAPPN’s services are available on the Application free of charge (apart from connection and telecommunications costs) for Members who agree to comply with these TOS, including:
 
@@ -194,39 +198,39 @@ Some of HAPPN’s services are available on the Application free of charge (apar
 
 Charged services provided via the Application are available to Members after purchasing a Pack or a HAPPN subscription, the conditions of which are set out in article 9.
 
-Article 6: Protection of Personal Data
-======================================
+**Article 6: Protection of Personal Data**
+==========================================
 
-HAPPN is very concerned with the protection of your personal data and the respect of your privacy. We suggest that you read our Privacy Policy and our Confidence Charter carefully to better understand how we process your personal data, available by clicking on the following links: 
+HAPPN is very concerned with the protection of your personal data and the respect of your privacy. We suggest that you read our Privacy Policy and our Confidence Charter carefully to better understand how we process your personal data, available by clicking on the following links:
 
 • [Privacy Policy](https://www.happn.com/privacy)
 
 • [Confidence Charter](https://www.happn.com/trust)
 
-Article 7: HAPPN’s Obligations and Liability
-============================================
+**Article 7: HAPPN’s Obligations and Liability**
+================================================
 
-7.1 Technical Resources and Security
-------------------------------------
+**7.1 Technical Resources and Security**
+----------------------------------------
 
 HAPPN agrees to provide the infrastructure and technical resources to provide a high-quality service to Members with an iPhone device running operating system version iOS 10 or higher, an Android Smartphone running version 5 or higher.
 
 HAPPN cannot be held liable for any operating fault on the Member’s device or for any compatibility issue between the Application and the device.
 
-In addition, every effort is made to ensure that the risks of fraudulent access to HAPPN’s system are minimized.  In this respect, HAPPN uses a firewall or equipment located between the Internet and the company’s private network, in order to make its security more robust by filtering traffic to and from the internet. It is, however, impossible to fully guarantee the security of a network. 
+In addition, every effort is made to ensure that the risks of fraudulent access to HAPPN’s system are minimized.  In this respect, HAPPN uses a firewall or equipment located between the Internet and the company’s private network, in order to make its security more robust by filtering traffic to and from the internet. It is, however, impossible to fully guarantee the security of a network.
 
 HAPPN is not responsible for any failures, interruptions or poor performance of the Member’s internet provider Services, or for any cause beyond HAPPN’s control which might interrupt or have an adverse effect on access to HAPPN Services.
 
-The Member must have access to a secure email account. If such a precaution is not taken, or even if it is, while this probability remains low, the Member’s Account may be vulnerable to fraud. 
+The Member must have access to a secure email account. If such a precaution is not taken, or even if it is, while this probability remains low, the Member’s Account may be vulnerable to fraud.
 
 HAPPN shall also endeavor to avert Members of any exceptional risk of receiving spam Messages or Messages claiming to have been sent by HAPPN. The Member must be attentive and vigilant in order to avoid being the victim of scams and report any of the above circumstances to HAPPN by sending a letter or email to the address provided in Article 15 hereof.
 
-7.2 Illegal Conduct  
----------------------
+**7.2 Illegal Conduct**  
+-------------------------
 
 HAPPN and its partners cannot be held liable for actions by its Members which are illegal or which incur criminal penalties, including but not limited to:
 
-• All types of scams, 
+• All types of scams,
 
 • All activities of a commercial or professional nature,
 
@@ -236,20 +240,18 @@ HAPPN and its partners cannot be held liable for actions by its Members which ar
 
 • An infringement of a third-party intellectual property right,
 
-• An infringement of personal rights, such as image rights and the respect of the right to privacy. 
+• An infringement of personal rights, such as image rights and the respect of the right to privacy.
 
 • Any such behaviour may result in the suspension or termination of these terms and conditions of use in accordance with Article 15.4 herein.
 
-7.3 Reporting and Community Moderation System
----------------------------------------------
+**7.3 Reporting and Community Moderation System**
+-------------------------------------------------
 
-HAPPN, as host, is not bound by any general obligation to monitor the content transmitted or stored via the Application pursuant to Article 8 of Regulation (EU) 2022/2065 of 19 October 2022 on a single market for digital services (‘Digital Services Regulation’).
+In accordance with Article 16 of Regulation (EU) 2022/2065 of 19 October 2022 on a Single Market for Digital Services (“Digital Services Act”), HAPPN has implemented a notification system to report illegal, abusive, and harmful content.
 
-However, in accordance with Article 16 of the Digital Services Regulation, HAPPN shall set up a notification system to report illegal, abusive and harmful content.
+The Application thus enables Members to report unlawful content, in particular in cases of advocacy of crimes against humanity, provocation to the commission of terrorist acts and their advocacy, incitement to racial hatred, hatred towards persons on grounds of their sex, their sexual orientation or sexual identity or their disability, child pornography, incitement to violence, incitement to violence committed against women, as well as in cases of breach of human dignity.
 
-In this case, after verification by Customer Services, HAPPN undertakes to promptly remove the manifestly illegal content.
-
-In addition, the Application allows Members to report content if it constitutes apology for crimes against humanity, apology for and incitement to terrorism, incitement to racial hatred, incitement to hatred based on gender, sexual orientation or handicap and inter alia child pornography, incitement to violence against women and violation of human dignity.
+In the event of a report and, after verification by the Customer Service, HAPPN undertakes to promptly remove manifestly unlawful content.
 
 Guided by an extremely strict professional ethic and refusing any association with violent or insulting Members as well as unlawful, abusive or prejudicial content, HAPPN’s team takes this reporting procedure very seriously, which may also be implemented in the case of statements contrary to accepted social etiquette.
 
@@ -259,7 +261,7 @@ The Member having originally published the reported content will in no case be i
 
 Outside the scope of this reporting system, the Member can decide to block another Member whose conduct does not comply with the rules of etiquette in order to prevent any conversation with him or her (mutual prevention of access to Likes, SuperCrushs, Messages and voice messages that have been sent in the past and of sending any messages in the future, or being alerted of the presence of a Member who has been blocked, particularly if they think this Member is bothering them in one way or another).  This action is confidential and enables Members to control the Members with whom they want to keep in touch or not.  
 
-This reporting system is accessible and operational: 
+This reporting system is accessible and operational:
 
 • On iPhone: At the bottom of the Member's profile and at the top right corner of the conversation with the Member concerned.
 
@@ -267,68 +269,71 @@ This reporting system is accessible and operational: 
 
 Should content be published that was reported and that may be seen as a violation of law or regulations, the Member who is a victim of this content is encouraged to submit a complaint to the appropriate police authorities.
 
-The reporting system put in place by HAPPN does not replace any complaint and judicial procedure against a Member who authored the reported content. 
+The reporting system put in place by HAPPN does not replace any complaint and judicial procedure against a Member who authored the reported content.
 
-Any misuse of the community moderation system or any unjustified reporting of a Member (manifestly unfounded reports made in bad faith) shall be considered a breach of these TOS, and penalties may be imposed including Account suspension/termination, pursuant to Article 14.4 « Suspension/Termination of the Account by HAPPN in the event that a Member violates the terms and conditions of use » of the TOS, besides application of penalties pursuant to Article 6.I-4 of the French Trust in the Digital Economy Act or even legal proceedings, under which damages may have to be paid to victims.
+Any misuse of the community moderation system or any unjustified reporting of a Member (manifestly unfounded reports made in bad faith) shall be considered a breach of these TOS, and penalties may be imposed including Account suspension/termination, pursuant to Article 14.4 « Suspension/Termination of the Account by HAPPN in the event that a Member violates the terms and conditions of use » of the TOS.
 
-In addition, in accordance with its Privacy Policy, HAPPN puts measures in place to support its Members' peace of mind and security on the Application. 
+HAPPN recalls that, as a hosting provider, it is not subject to any general obligation to monitor the content transmitted or stored via the Application, in accordance with Article 8 of the Digital Services Regulation.
 
-7.4 Duty of Caution
--------------------
+However, in order to ensure the tranquility and safety of its Members, HAPPN takes the initiative to detect and identify unlawful content by relying on algorithms that are continuously updated and improved. The decisions likely to be taken by HAPPN in this context are detailed in Article 14.4 hereof. In the event of a challenge under the conditions provided for by this Article 14.4 or by Article 17 “Internal complaint handling system”, the decisions of HAPPN taken on the basis of these algorithms shall always be subject to a human review.
+
+**7.4 Duty of Caution**
+-----------------------
 
 The Member is solely liable for checking the identity of the people with whom he or she wishes to arrange a “real-life” meet-up. HAPPN may not be held liable for any problems whatsoever arising from a “real-life” meet-up.
 
 Similarly, the Member is solely liable for checking the identity of the Crush with whom they may want to engage in a Video Call and organize a “virtual” meetup. HAPPN may not be held liable for any incidents occurring during a “virtual” meetup.
 
-7.5 Group Events
-----------------
+**7.5 Group Events**
+--------------------
 
 Any use of HAPPN Services to organize a group meeting of its Members constitutes a misuse of the Service. This is why using the Application to plan or organize a demonstration in a public place is strictly prohibited. Should such a meeting take place, HAPPN may not be held liable in the case of a public order offense or any damage caused by such meeting.
 
-  
-7.6 AI Systems
------------------
+**7.6 AI Systems**
+------------------
 
 HAPPN uses AI systems to:
 
-•  detect fake profiles;
+• detect fake profiles;
 
-•  detect fraudulent behaviour on the Application, such as scams or other abusive behaviour;
+• detect fraudulent behaviour on the Application, such as scams or other abusive behaviour;
 
-•  generate profile recommendations.
+• generate profile recommendations.
+
+• detect, identify unlawful content and take the decisions detailed in Article 14.4 hereof.
 
 HAPPN has taken into account, during the design of the Services, and undertakes to continuously take into account (i) the applicable regulations on artificial intelligence, in particular Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 establishing harmonised rules on artificial intelligence ("AI Act"), (ii) the general principles and international standards on artificial intelligence, in particular relating to the use of ethical, responsible, and sustainable artificial intelligence technologies and models, (iii) respect for the rights of individuals, in particular their privacy, and (iv) the risks of bias and discrimination, which it will endeavour to limit.
 
 HAPPN makes no warranties with respect to the AI systems used in connection with the Services beyond the applicable provisions of the AI Act.
 
-Article 8: Member Code of Conduct
-=================================
+**Article 8: Member Code of Conduct**
+=====================================
 
-8.1 Duty of Fairness and Honesty when Registering
--------------------------------------------------
+**8.1 Duty of Fairness and Honesty when Registering**
+-----------------------------------------------------
 
 In order to become a Member, all of the following conditions must be met:
 
 • Must be an adult as specified by French law (minimum of 18 years old on last birthday).
 
-• Must have honestly and truthfully filled out the profile information directly in the Application in the case of registration via a cell phone number via Apple or Google Sign in, or via the HAPPN Webapp. The Member must have provided the first name, sex and date of birth shown in his or her personal information. At the same time, the Member agrees to provide a valid email address.
+• Must have honestly and truthfully filled out the profile information directly in the Application in the case of registration via a cell phone number via Apple or Google Sign in, or via the HAPPN Webapp. The Member must have provided the first name, sex and date of birth shown in his or her personal information. At the same time, the Member agrees to provide a valid email address.
 
 • Must agree to regularly update the information provided when accessing his or her Account from the Application.
 
 • Must have read these TOS and have accepted them when confirming his or her registration.
 
-HAPPN does not have a legal obligation or the technical resources to verify the identity and age of Members. However, in the event of any doubt or cause for suspicion, or following the use of the “report” feature by a third party pointing to identity theft or fictitious or incorrect information, HAPPN shall conduct an investigation as quickly as possible and may correct the information provided where necessary without misrepresenting the Member’s profile. 
+HAPPN does not have a legal obligation or the technical resources to verify the identity and age of Members. However, in the event of any doubt or cause for suspicion, or following the use of the “report” feature by a third party pointing to identity theft or fictitious or incorrect information, HAPPN shall conduct an investigation as quickly as possible and may correct the information provided where necessary without misrepresenting the Member’s profile.
 
 For the duration of the investigation, HAPPN reserves the right to suspend the Account of any Member giving cause for suspicion as well as his or her access to the Application, and to conduct the necessary checks, in particular by asking him or her to send a copy of an official ID. The Member will be informed of the suspension of his or her Account via the application and/or by email to the address given by the Member pursuant to Article 14.4 hereof.
 
-Should the Member be unable to provide said proof, or in the case of a proven offense under these TOS, HAPPN may terminate the Account of the Member in question in accordance with the conditions set out by Article 14.4 hereof. 
+Should the Member be unable to provide said proof, or in the case of a proven offense under these TOS, HAPPN may terminate the Account of the Member in question in accordance with the conditions set out by Article 14.4 hereof.
 
 The Member agrees to have only one single account. Failing that, HAPPN may delete the additional accounts, under the conditions described in article 14.4 hereof.
 
-8.2 Duty of Fairness and Honesty during Use
--------------------------------------------
+**8.2 Duty of Fairness and Honesty during Use**
+-----------------------------------------------
 
-In order to remain a Member, all of the following conditions must be met: 
+In order to remain a Member, all of the following conditions must be met:
 
 • Be honest and truthful in his or her statements.
 
@@ -338,7 +343,7 @@ In order to remain a Member, all of the following conditions must be met: 
 
 • Refrain from posting any content or photos on the Application which are pornographic or which violate modesty and human dignity.
 
-• Respect the private nature of content and conversations exchanged with other Members through the Application, and therefore refrain from disclosing the content of such Messages to third parties. 
+• Respect the private nature of content and conversations exchanged with other Members through the Application, and therefore refrain from disclosing the content of such Messages to third parties.
 
 • Refrain from violating intellectual property or laws on personality rights.
 
@@ -370,7 +375,7 @@ In order to remain a Member, all of the following conditions must be met: 
 
 The Member shall not copy and/or disseminate, and/or transfer technical data that it might intercept on the network connected to the HAPPN application.
 
-Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 15.4 of these terms and conditions of use. 
+Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 15.4 of these terms and conditions of use.
 
 Members also commit to abide by the following terms of use:
 
@@ -386,49 +391,49 @@ Members also commit to abide by the following terms of use:
 
 (iv) to attempt to circumvent the feature’s safety measures or to use the feature for purposes other than the ones it is intended for, i.e., calling and communicating with your Crush spontaneously via video call for a limited duration.
 
-8.3 Personal Use
-----------------
+**8.3 Personal Use**
+--------------------
 
-The Member agrees to use the Application solely for personal use. The HAPPN network must not be exploited for commercial, promotional, electoral or recruitment purposes. It is strictly prohibited to send Messages of a marketing and/or commercial nature and/or newsletters via the HAPPN inbox, including but not limited to content, guidelines or hyperlinks to third-party sites or materials, particularly those of HAPPN’s competitors. 
+The Member agrees to use the Application solely for personal use. The HAPPN network must not be exploited for commercial, promotional, electoral or recruitment purposes. It is strictly prohibited to send Messages of a marketing and/or commercial nature and/or newsletters via the HAPPN inbox, including but not limited to content, guidelines or hyperlinks to third-party sites or materials, particularly those of HAPPN’s competitors.
 
-8.4 Member’s Liability
-----------------------
+**8.4 Member’s Liability**
+--------------------------
 
 The Member is only liable for his or her own actions and for the data that he or she publishes via the Application.
 
 Should HAPPN be held liable for any failure by the Member to comply with its obligations, the Member shall hold HAPPN harmless against any conviction made against it regarding the Member’s infringement of the law or of these TOS.
 
-The Member may report unlawful content which violates French law or these TOS using the moderation tools provided by the Application in accordance with Article 7.3 hereof. 
+The Member may report unlawful content which violates French law or these TOS using the moderation tools provided by the Application in accordance with Article 7.3 hereof.
 
-8.5 Photos
-----------
+**8.5 Photos**
+--------------
 
 All photos of a pornographic or exhibitionist nature, or which violate modesty and are generally offensive to moral values are strictly prohibited. The publication of such photos will be considered a serious offense which can lead to the suspension and/or termination of the Member’s Account under the terms of Article 14.4 of these terms and conditions of use, in addition to any other penalties that may be imposed by the courts.
 
-8.6 Real-life Meet-ups
-----------------------
+**8.6 Real-life Meet-ups**
+--------------------------
 
-HAPPN advises Members who wish to arrange “real-life” meet-ups to be vigilant.  Members are solely responsible for verifying the identity of those with whom they meet. “Real-life” meet-ups are arranged independently of HAPPN and are the sole responsibility of Members. HAPPN cannot be held liable for any acts or problems of any type which have been committed or caused by Members and/or former Members when such events occur following use of the Application.  In this respect, one of the intended benefits of the HAPPN messaging service, again to ensure that Members remain safe and free from harassment, is to enable Members to decide which people should be allowed to see their profiles and talk to them. 
+HAPPN advises Members who wish to arrange “real-life” meet-ups to be vigilant.  Members are solely responsible for verifying the identity of those with whom they meet. “Real-life” meet-ups are arranged independently of HAPPN and are the sole responsibility of Members. HAPPN cannot be held liable for any acts or problems of any type which have been committed or caused by Members and/or former Members when such events occur following use of the Application.  In this respect, one of the intended benefits of the HAPPN messaging service, again to ensure that Members remain safe and free from harassment, is to enable Members to decide which people should be allowed to see their profiles and talk to them.
 
 As regards the people with whom the Member has agreed to exchange Messages, it is recommended that Members do not too readily reveal information which is not included in the profile such as a phone number, address or surname.  For safety reasons, HAPPN strongly advises that real-life meetings be arranged only in busy public places or that a friend or relative be informed of the meeting and that Members disclose their contact information only after a reasonable period of time.
 
-8.7 Account Management
-----------------------
+**8.7 Account Management**
+--------------------------
 
-The Member must regularly consult his or her inbox and notifications, which HAPPN will use inter alia to keep the Member updated on information pertaining to its Services. This information may also be sent to the Member’s email address provided by the Member when registering with a cell phone number, or via Apple, Google Sign in, or via the HAPPN Webapp.
+The Member must regularly consult his or her inbox and notifications, which HAPPN will use inter alia to keep the Member updated on information pertaining to its Services. This information may also be sent to the Member’s email address provided by the Member when registering with a cell phone number, or via Apple, Google Sign in, or via the HAPPN Webapp.
 
 The Member may access the Services of his or her Account by connecting to the Application using a confidential user name and password. The Member is solely responsible for his or her login information and must ensure that no third party may access them. In particular, the Member shall specifically hold HAPPN harmless against any communication, use or declaration made using his or her Account.
 
-8.8 Equipment
--------------
+**8.8 Equipment**
+-----------------
 
 The cost of equipment (hardware or software) required to access the Services together with all other costs related thereto, including telecommunications costs, shall be borne solely by the Member.  The Member is solely responsible for the hardware used to access the Service.
 
-Article 9: Charged Services 
-============================
+**Article 9: Charged Services**
+===============================
 
-9.1 Purchase of Packs of SuperCrushs and HAPPN Subscriptions
-------------------------------------------------------------
+**9.1 Purchase of Packs of SuperCrushs and HAPPN Subscriptions**
+----------------------------------------------------------------
 
 SuperCrushs cannot be purchased individually. They are available in Packs of multiple SuperCrushs, at prices indicated in the Apple App Store, the Google Play Store.
 
@@ -436,45 +441,45 @@ Members receive a free Pack of SuperCrushs when registering with the Application
 
 Each Member may also sign up for a HAPPN subscription at any time.
 
-Subscribers Members have access, in addition to free services, to additional services reserved for subscribers. 
+Subscribers Members have access, in addition to free services, to additional services reserved for subscribers.
 
 Subscription offers allow access to HAPPN Premium and HAPPN Supreme for a period corresponding to that of your subscription.  
 
 For eligible members, a promotional offer for a HAPPN subscription may be offered when the Member registers. This offer is valid for a limited period indicated in the offer. This offer is personal and valid only for first-time HAPPN subscribers and only once per Apple or Google Play account, depending on your device.
 
-9.2 Purchase of Packs of SuperCrushs
-------------------------------------
+**9.2 Purchase of Packs of SuperCrushs**
+----------------------------------------
 
 SuperCrushs cannot be purchased individually. They are available as Packs of several SuperCrushs and according to the pricing conditions indicated in the Apple App Store and the Google Play Store and the Stripe platform.
 
-9.3 Purchase of Boosts
-----------------------
+**9.3 Purchase of Boosts**
+--------------------------
 
 Boosts are available for purchase as Packs of several Boosts or individually, according to the pricing conditions indicated in the Apple App Store or the Google Play Store and the Stripe payment platform.
 
-9.4 Payment Terms
------------------
+**9.4 Payment Terms**
+---------------------
 
 Payment is due for the entire period of subscription at the time when the HAPPN contract is concluded.
 
-**Payment via your App Store or Play Store account.** Payment is processed and managed by the Apple App Store or Google Play Store depending on your device.
+Payment via your App Store or Play Store account. Payment is processed and managed by the Apple App Store or Google Play Store depending on your device.
 
-**HAPPN has no direct control over payment, exchange rate or transfer of funds nor on any possible fees inherent to these operations. Consequently, the Apple App Store and Google Play Store alone are liable for their payment terms and processes.**
+HAPPN has no direct control over payment, exchange rate or transfer of funds nor on any possible fees inherent to these operations. Consequently, the Apple App Store and Google Play Store alone are liable for their payment terms and processes.
 
-**This is why HAPPN has no control over reimbursement of your purchase. Any requests related to payment must be sent to your Store.**
+This is why HAPPN has no control over reimbursement of your purchase. Any requests related to payment must be sent to your Store.
 
 HAPPN does not collect any banking information. Your bank details are collected and processed directly by Apple or Google and remain outside of HAPPN’s control.
 
-**Payment by debit card.** Payment by debit card is possible on the Web Application and the Mobile Application on Android. It is managed via the Stripe payment platform. Any request relating to payment via the Web Application must be addressed to HAPPN's customer service department. 
+Payment by debit card. Payment by debit card is possible on the Web Application and the Mobile Application on Android. It is managed via the Stripe payment platform. Any request relating to payment via the Web Application must be addressed to HAPPN's customer service department.
 
-HAPPN does not collect any banking data. Your bank details are collected and processed directly by Stripe. 
+HAPPN does not collect any banking data. Your bank details are collected and processed directly by Stripe.
 
-9.5 Contract Term and Renewal of the HAPPN Subscription
--------------------------------------------------------
+**9.5 Contract Term and Renewal of the HAPPN Subscription**
+-----------------------------------------------------------
 
 If the Member chooses to take out a HAPPN subscription, he/she will be bound from the date of subscription. The HAPPN access contract is binding between the parties from the date of its conclusion and for the duration of the chosen subscription period. In the event of termination by the Member before the end of the subscription period, the sums paid to HAPPN for this period will be forfeited and will not be returned to the Member.
 
-Subscriptions are automatically renewed by default, unless the Member cancels using the dedicated function on the platform on which the Member has taken out the subscription (on the Apple App Store, the Google Play Store or the Application), which have a function enabling all subscriptions with application providers to be cancelled 24 hours before the previous subscription expires. 
+Subscriptions are automatically renewed by default, unless the Member cancels using the dedicated function on the platform on which the Member has taken out the subscription (on the Apple App Store, the Google Play Store or the Application), which have a function enabling all subscriptions with application providers to be cancelled 24 hours before the previous subscription expires.
 
 In the event of renewal of the subscription, and on receipt of automatic payment from your Store, HAPPN will validate your purchase and update your account, giving you access to HAPPN for a period corresponding to the amount received.
 
@@ -482,8 +487,8 @@ If you do not wish to use the default “automatic renewal” option, simply dea
 
 If you wish to circumvent this automatic renewal at the end of the subscription term set up by the Stores, you must deactivate it.
 
-9.6 Withdrawal Rights
----------------------
+**9.6 Withdrawal Rights**
+-------------------------
 
 As specified in article 9.5 of these TOS, payments are processed and managed entirely by the Apple App Store or the Google Play Store, such that the right of withdrawal, if applicable, must be exercised directly through the App Store or Google Play.  
 
@@ -497,20 +502,20 @@ For the App Store: you must notify that you are exercising your right to withdra
 
 [https://www.apple.com/legal/internet-services/itunes/fr/terms.html](https://www.apple.com/legal/internet-services/itunes/fr/terms.html)
 
-**For payment by debit card.** You must notify HAPPN of the exercise of your right of withdrawal.
+For payment by debit card. You must notify HAPPN of the exercise of your right of withdrawal.
 
-9.7 Early Termination of the Contract by the Member or by HAPPN 
-----------------------------------------------------------------
+**9.7 Early Termination of the Contract by the Member or by HAPPN**
+-------------------------------------------------------------------
 
 In the event of breach of the TOS or a legal provision by the Member, HAPPN has the right to terminate the contract, effective immediately and without prejudice. HAPPN is not required to justify its decision to terminate to the Member.
 
 In all cases, no reimbursement will be made if the Member is a HAPPN subscriber or has purchased Packs (of SuperCrushs and/or Boosts).
 
-Article 10: Scope of the Offer
-==============================
+**Article 10: Scope of the Offer**
+==================================
 
-10.1 SuperCrushs and Boost Validity Period
-------------------------------------------
+**10.1 SuperCrushs and Boost Validity Period**
+----------------------------------------------
 
 SuperCrushs and/or Boosts purchased and/or offered by HAPPN may only be used for the term during which the Account remains active, in compliance with the TOS.  In the event of early termination of the Account pursuant to Article 14.3, 14.4 or 14.5 hereafter, any remaining SuperCrushs and/or Boosts at the date of termination or deletion of the Member Account shall be permanently deleted from the Member Account, without compensation of any kind.
 
@@ -518,20 +523,20 @@ A subsequent re-registration of the Member will not allow him or her to recover 
 
 HAPPN may offer SuperCrushs to Members as part of its loyalty program or for a special event.
 
-10.2 Cumulative Offers
-----------------------
+**10.2 Cumulative Offers**
+--------------------------
 
 Packs of SuperCrushs or Boosts are cumulative. The number of SuperCrushs and Boosts in each Pack purchased is added to the SuperCrushs and Boosts already in the Member’s Account.
 
-Packs of SuperCrushs are also cumulative with subscriptions, meaning that they allow users to benefit from more SuperCrushs than those to which Premium Subscribers have access. 
+Packs of SuperCrushs are also cumulative with subscriptions, meaning that they allow users to benefit from more SuperCrushs than those to which Premium Subscribers have access.
 
-Article 11: Communication with the Member
-=========================================
+**Article 11: Communication with the Member**
+=============================================
 
-11.1 Push Notifications
------------------------
+**11.1 Push Notifications**
+---------------------------
 
-The Member may receive push notifications through the Application to notify him or her of important events, including but not limited to: 
+The Member may receive push notifications through the Application to notify him or her of important events, including but not limited to:
 
 • A SuperCrushs received from another Membre,
 
@@ -541,30 +546,30 @@ The Member may receive push notifications through the Application to notify him 
 
 The Member may change his or her push notification preferences through his or her Account settings.
 
-11.2 Newsletter
----------------
+**11.2 Newsletter**
+-------------------
 
 Upon registration with the Application, the Member receives a newsletter from HAPPN.  The Member may unsubscribe at any time by clicking on the “unsubscribe” link provided in the newsletter and/or by exercising his or her right of refusal by sending an email to the address provided in Article 15 of the TOS.
 
-11.3 Advertising and Promotional Messages
------------------------------------------
+**11.3 Advertising and Promotional Messages**
+---------------------------------------------
 
 HAPPN is free to post, within the scope of execution of the contract and through the Application, advertising and promotional messages from advertisers and any other partner.
 
-Article 12: Intellectual Property
-=================================
+**Article 12: Intellectual Property**
+=====================================
 
-12.1 Prerogatives related to Trademark Law
-------------------------------------------
+**12.1 Prerogatives related to Trademark Law**
+----------------------------------------------
 
 The HAPPN trademark is exclusively owned by HAPPN. HAPPN holds all of the related rights. The HAPPN trademark has been registered with various national and international offices, in particular with the World Intellectual Property Organization and has been registered with the French National Institute for Industrial Property (Institut National de Propriété Industrielle) under the number 4109777, as well as the European Union Intellectual Property Office under number 012787974.
 
-Any reproduction and/or use and/or partial and/or total affixing and/or modification and/or deletion of the trademark and related rights, such as for example (without limitation) the Application’s slogan and logo, through any method whatsoever and in any form whatsoever, in any format or through any medium whatsoever, is strictly prohibited without HAPPN’s prior, express and written authorization, and may give rise to legal proceedings. 
+Any reproduction and/or use and/or partial and/or total affixing and/or modification and/or deletion of the trademark and related rights, such as for example (without limitation) the Application’s slogan and logo, through any method whatsoever and in any form whatsoever, in any format or through any medium whatsoever, is strictly prohibited without HAPPN’s prior, express and written authorization, and may give rise to legal proceedings.
 
 The trademark is protected by Articles L713-2 et seq. of the French Intellectual Property Code (Code de la propriété intellectuelle) currently in force in France, and this protection is international.
 
-12.2 Prerogatives related to Copyright
---------------------------------------
+**12.2 Prerogatives related to Copyright**
+------------------------------------------
 
 The original works provided by HAPPN are exclusively owned by HAPPN. HAPPN holds all of the related rights.
 
@@ -572,33 +577,33 @@ Any representation and/or reproduction and/or distribution and/or partial and/or
 
 These original works are protected by Articles L335-3 et seq. of the French Intellectual Property Code (Code de la propriété intellectuelle) currently in force in France, and this protection is international.
 
-12.3 License
-------------
+**12.3 License**
+----------------
 
-The usage rights granted by HAPPN to the Member are restricted to private and personal use. Any other use by the Member is prohibited without HAPPN’s prior, express and written authorization. 
+The usage rights granted by HAPPN to the Member are restricted to private and personal use. Any other use by the Member is prohibited without HAPPN’s prior, express and written authorization.
 
 The Member grants HAPPN and its partners a free-of-charge, non-exclusive, international and permanent license for the use, reproduction, representation, modification and translation of any basic intellectual property-related component and personality rights (including rights of image, name, and voice) (text, photos, videos, etc.) that it may provide through the Application for the non-exclusive purpose of communicating with other Members.
 
-HAPPN shall use this license in a manner which complies with image rights, respect of personality attributes, and respect of the right to privacy which protects the user’s personal data, without misrepresenting the true nature of the Member’s profile and therefore in keeping with this profile. This license permits HAPPN to ensure that these components are compatible with its technical performance or the required media formats. These rights are granted on an international basis and throughout the performance of these TOS between the Member and HAPPN. 
+HAPPN shall use this license in a manner which complies with image rights, respect of personality attributes, and respect of the right to privacy which protects the user’s personal data, without misrepresenting the true nature of the Member’s profile and therefore in keeping with this profile. This license permits HAPPN to ensure that these components are compatible with its technical performance or the required media formats. These rights are granted on an international basis and throughout the performance of these TOS between the Member and HAPPN.
 
 The Member shall retain ownership of any content and personal data that he or she provides.
 
-The Member shall hold HAPPN harmless against any legal action, appeal or conviction brought against him or her due to his or her infringement of a third party’s intellectual property rights. The Member shall hold HAPPN harmless against any claims or damages which may result from it including, but not limited to, requests for compensation. 
+The Member shall hold HAPPN harmless against any legal action, appeal or conviction brought against him or her due to his or her infringement of a third party’s intellectual property rights. The Member shall hold HAPPN harmless against any claims or damages which may result from it including, but not limited to, requests for compensation.
 
-As part of the Profile recommendation service, the Member grants HAPPN the same rights and guarantees of use as described in the aforementioned license. This is to enable the sending of the indicative selection of three profiles to other Members via the Application and via an editorial or themed newsletter sent by email. It should be noted that this list of recommendations may be different to the one the Member may find in their Profile on the HAPPN Application as Profiles are continuously refined based on their relevance and status. 
+As part of the Profile recommendation service, the Member grants HAPPN the same rights and guarantees of use as described in the aforementioned license. This is to enable the sending of the indicative selection of three profiles to other Members via the Application and via an editorial or themed newsletter sent by email. It should be noted that this list of recommendations may be different to the one the Member may find in their Profile on the HAPPN Application as Profiles are continuously refined based on their relevance and status.
 
-Article 13: Counterfeiting, Unfair Competition and Parasitism
-=============================================================
+**Article 13: Counterfeiting, Unfair Competition and Parasitism**
+=================================================================
 
 It is strictly prohibited to design a product similar to the Application or to create a derivative, and more generally to be guilty of parasitism, imitation, a smear campaign or any other act of unfair competition. HAPPN reserves the right, in this case, to serve a writ on the Member in question in view of obtaining compensation for the injury caused by the Member.
 
 Additionally, the Member who succeeds in or attempts to grant licenses or sub-licenses, or to sell, resell, transfer, assign, distribute or commercially exploit in any other way, or to make available the Services or Application to a third party in any way shall risk serious legal penalties.
 
-Article 14: Termination 
-========================
+**Article 14: Termination**
+===========================
 
-14.1 Deactivation of the Account by the Member
-----------------------------------------------
+**14.1 Deactivation of the Account by the Member**
+--------------------------------------------------
 
 The Member may deactivate his or her Account without notice through the Application if he or she no longer wishes to be visible on it.
 
@@ -610,8 +615,8 @@ Once the profile has been deactivated:
 
 • In the event of an Account being reactivated during the one-year period following the closure of the Account, the details kept will be reallocated to the profile, which will be visible again.
 
-14.2 Uninstallation of the Application by the Member
-----------------------------------------------------
+**14.2 Uninstallation of the Application by the Member**
+--------------------------------------------------------
 
 The Member may uninstall the Application from his or her cell phone at any time without notice. Consequently, the Member shall have no further access to the Application unless he or she downloads it again.
 
@@ -621,14 +626,14 @@ The Member may uninstall the Application from his or her cell phone at any time 
 
 • In the event of the Application being re-downloaded during the one-year period following the uninstallation of the Account, the details kept will be reallocated to the profile, which will be active again.
 
-14.3 Deletion of the Account by the Member
-------------------------------------------
+**14.3 Deletion of the Account by the Member**
+----------------------------------------------
 
 The Member may decide, at any time and without notice, to permanently delete his or her Account using one of the following means:
 
-*   By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
+• By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
 
-*   By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 15 hereof. 
+• By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 15 hereof.
 
 Consequently, the Member’s profile will be permanently deleted, including the remaining SuperCrushs or Boosts in his or her Account.
 
@@ -640,25 +645,28 @@ Once the Account has been deleted:
 
 • The Member’s profile will be made invisible to other Members.
 
-• The Member’s data shall be retained for one year as of this date, as regards in particular the legal obligations incumbent upon HAPPN in accordance with the terms set out by Article 9 of the Privacy Policy, and shall be permanently deleted thereafter.
+• Certain Member data will be retained by HAPPN, in its capacity as a hosting service provider and, in particular, in compliance with the legal obligations incumbent upon HAPPN, in accordance with the terms set out in Article 9 of the Privacy Policy, and will thereafter be permanently deleted once this period has expired.
 
 • The remaining SuperCrushs or Boosts in the Member’s Account on the day the Account is deleted shall be definitively lost without the possibility to claim any reimbursement.
 
-The Member cannot reactivate his or her old Account. 
+The Member cannot reactivate his or her old Account.
 
-14.4 Suspension/Termination of the Account by HAPPN in case of breach of TOS
-----------------------------------------------------------------------------
+**14.4 Suspension/Termination of the Account by HAPPN in case of breach of TOS**
+--------------------------------------------------------------------------------
 
 In case of breach of TOS by the Member, his or her account can at any time and after prior warning be suspended as a safeguard measure for a reasonable period of time and then terminated as of right by HAPPN.
 
 HAPPN will be entitled to suspend a Member’s account as long as necessary to allow HAPPN’s customer service team to make all investigations necessary following the report as required by Article 7.3 hereof or in case of presumed breach of TOS which may be remediated.
 
-In its decision to suspend the Account, HAPPN will consider the seriousness of the violation and whether it is repeated or isolated. For example, in the event of suspension following misuse of the service, i.e. frequent supply of obviously illicit content and frequent and manifestly unfounded notifications and complaints, HAPPN will consider : 
+In its decision to suspend the Account, HAPPN will consider the seriousness of the violation and whether it is repeated or isolated. For example, in the event of suspension following misuse of the service, i.e. frequent supply of obviously illicit content and frequent and manifestly unfounded notifications and complaints, HAPPN will consider :
 
-*   the volume of obviously illicit content/notifications or obviously unfounded complaints;
-*   the relative proportion of these items in relation to the total number of items supplied or notifications submitted;
-*   the seriousness of misuse (nature and consequences);
-*   the Member's intention (where this can be determined).
+• the volume of obviously illicit content/notifications or obviously unfounded complaints;
+
+• the relative proportion of these items in relation to the total number of items supplied or notifications submitted;
+
+• the seriousness of misuse (nature and consequences);
+
+• the Member's intention (where this can be determined).
 
 The Member is invited to contact HAPPN customer service by email in order to obtain more information on the reasons for the suspension and in order to provide explanations and/or bring the proof that the breach has been remediated. Members may also turn to the internal complaints handling system set up by HAPPN.
 
@@ -670,14 +678,14 @@ Upon Termination of the Account:
 
 • The remaining SuperCrushs or Boosts, in the Member’s Account on the day the Account is terminated shall be definitively deleted without the possibility to claim any reimbursement.
 
-The Member will not be able to create another account for a maximum 2-years period from the notification of the Account termination. 
+The Member will not be able to create another account for a maximum 2-years period from the notification of the Account termination.
 
-14.5 Termination of Inactive Accounts by HAPPN
-----------------------------------------------
+**14.5 Termination of Inactive Accounts by HAPPN**
+--------------------------------------------------
 
 HAPPN will delete inactive accounts as defined below.
 
-An account is considered inactive if after a continuous period of two years, both of the following conditions are met:
+An account is considered inactive if after a continuous period of two years, both of the following conditions are met:
 
 • The Application of the Member did not establish contact with HAPPN’s servers (including because of deactivation of the geolocation process); and
 
@@ -693,33 +701,33 @@ Once the Account has been deleted:
 
 • The Member’s profile will be made invisible to other Members.
 
-• The Member’s data shall be retained for one year as of this date, as regards in particular the legal obligations incumbent upon HAPPN in accordance with the terms set out by Article 9 of the Privacy Policy, and shall be permanently deleted thereafter.
+• Certain Member data will be retained by HAPPN, in its capacity as a hosting service provider and, in particular, in compliance with the legal obligations incumbent upon HAPPN, in accordance with the terms set out in Article 9 of the Privacy Policy, and will thereafter be permanently deleted once this period has expired.
 
 • The remaining SuperCrushs or Boosts in the Member’s Account on the day the Account is terminated shall be definitively deleted without the possibility to claim any reimbursement.
 
 The Member will not be able to reactivate nor request reactivation of his/her old Account.
 
-Article 15: Contact 
-====================
+**Article 15: Contact**
+=======================
 
-HAPPN may be contacted by mail at 5 rue Feydeau, 75002, Paris (France). 
+HAPPN may be contacted by mail at 5 rue Feydeau, 75002, Paris (France).
 
-Members may also contact HAPPN by email at the following address: [support@happn.com](mailto:support@happn.com).
+Members may also contact HAPPN by email at the following address: support@happn.com.
 
-Article 16: Confidentiality Clause 
-===================================
+**Article 16: Confidentiality Clause**
+======================================
 
 Neither HAPPN nor the Member are authorized to disclose information about the agreement between them, and each party agrees to comply with a confidentiality clause which requires them to prefer confidential negotiations in the event of a disagreement.
 
-Article 17: Internal Complaints Handling System
-===============================================
+**Article 17: Internal Complaints Handling System**
+===================================================
 
 The Application is considered to be an ‘intermediary service’ within the meaning of Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a single market for digital services and amending Directive 2000/31/EC (the ‘Digital Services Regulation’ or ‘DSR’), which entered into force on 17 February 2024.
 
-In accordance with Article 20 of the Digital Services Regulation, HAPPN has set up an internal complaints handling system (the ‘ **Complaints Handling System** ’). Its internal regulations are available on the following page [https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations](https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations).
+In accordance with Article 20 of the Digital Services Regulation, HAPPN has set up an internal complaints handling system (the ‘ Complaints Handling System ’). Its internal regulations are available on the following page [https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations](https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations).
 
-This complaints handling system may benefit any person who has been the subject of a measure following a report or any person who is dissatisfied with the measure taken by HAPPN following a report. Any person concerned and wishing to contest the measure taken by HAPPN can contact HAPPN at the following e-mail address:[dispute@happn.com](mailto:dispute@happn.com).
+This complaints handling system may benefit any person who has been the subject of a measure following a report or any person who is dissatisfied with the measure taken by HAPPN following a report. Any person concerned and wishing to contest the measure taken by HAPPN can contact HAPPN at the following e-mail address:dispute@happn.com.
 
-You also have the possibility to refer the matter to [a certified out-of-court dispute resolution body](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement)  or to appeal to the competent court.
+You also have the possibility to refer the matter to [a certified out-of-court dispute resolution body](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement) or to appeal to the competent court.
 
 Any abuse in the use of the Internal Complaints Handling System (complaints that are manifestly unfounded and made in bad faith) will also be considered a breach of these T&Cs and may result in the suspension/termination of the Account of the Member who committed such abuse, in accordance with Article 14.4 “Suspension/Termination of the Account by HAPPN in the event of a Member’s breach of the T&Cs” of the T&Cs.
