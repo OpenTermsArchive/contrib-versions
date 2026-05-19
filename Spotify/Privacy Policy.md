@@ -1,5 +1,3 @@
-Your privacy is important. As of 13 April 2026 we’ve updated our Privacy Policy to include additional detail about our data processing.
-
 **Spotify Privacy Policy**
 ==========================
 
