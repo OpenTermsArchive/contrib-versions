@@ -72,7 +72,7 @@ We may also use personal information we collect:
 *   to communicate with you, including via email, text message, social media and/or telephone calls;
 *   to request you to complete surveys about our organization, organizations we partner with, and the Services;
 *   for marketing and advertising purposes, including to market to you or offer you information and updates on products or services we think that you may be interested in on our Services or through email, and to serve and improve or monitor the service of advertisements in general. Where applicable, we may send you marketing messages if you have given us your consent to do so or where we have relied on the soft opt-in rule. We will not serve personalized advertisements based on sensitive categories of data, such as race, religion, sexual orientation or health;
-*   to administer, improve and personalize our Services, including by recognizing you and remembering your information when you return to our Services;
+*   to administer, improve and personalize our Services, including by recognizing you and remembering your information when you return to our Services. For example helping us to develop and improve our personalised recommendation algorithms;
 *   to process payment for our Services;
 *   to facilitate customer benefits and services, including customer support through our command center services;
 *   to identify and analyze how you use our Services;
