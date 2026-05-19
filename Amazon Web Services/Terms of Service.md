@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: May 11, 2026
+Last Updated: May 18, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -439,7 +439,7 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 | --- | --- | --- | --- |
 | **Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address** |
 | Australia<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia |
-| Japan<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan |
+| Japan<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-3-1 Azabudai, Minato-ku, Tokyo 106-0041, Japan |
 | South Korea<br><br>(w.e.f. 1 April 2025) | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea |
 | The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)<br><br>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg |
 | India (for transactions between buyers and third party providers incorporated in India)<br><br>(w.e.f. 1 October 2025) | Amazon Web Services India Private Limited | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India |
