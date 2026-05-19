@@ -1,38 +1,7 @@
 Roblox Terms of Use
 ===================
 
-Effective Date: April 30, 2026  
-Last Updated: April 30, 2026
-
-We are updating our [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), effective April 30, 2026, to reflect certain changes we are making on RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V..
-
-Here’s a high-level summary of the changes we are making: 
-
-Terms of Use
-
-*   We are simplifying our Terms of Use, including clarifications around the use of AI tools, and their data use.
-    *   We have moved the terms that describe AI Features, which were previously written for a Creator audience and located under the AI-Based Tools Supplemental Terms and Disclaimer, into the User and Creator Terms.
-    *   We have added clarifying language in Creator Analytics, DevForum, and Talent Hub.
-    *   We added clarifying language to our Online Safety section describing our moderation practices.
-    *   We added clarifying language about the role of Group/Community Owners and made related edits to our Creator and User Terms.
-*   We are updating our policies to improve transparency around ads on the platform, to clarify eligibility for ads, and to provide more disclosure around how RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. uses content for brand advertising.
-    *   We are making changes to our Terms of Use and Privacy Policy to better moderate commercial content in experiences and permit ads to all users on the platform.
-    *   We added language clarifying who can see personalized and non-personalized ads on RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V..
-    *   We simplified and clarified Roblox's rights to use Creator UGC in marketing and advertising.
-    *   We’ve provided clarification regarding using our intellectual property tools and derivative works.
-*   We are clarifying language around pricing for Premium subscriptions, and for Creators who utilize Extended Services.
-    *   We have updated references to Premium subscription to broaden for all subscriptions and linking out to newly created stand-alone Subscription Terms.
-    *   We have added terms for Roblox Extended Services describing overage dues.
-*   We have updated language describing requirements for using our API’s and for government and law enforcement requests.
-    *   We added language describing our practices for sharing information with authorities.
-    *   We added language clarifying the terms applicable to Roblox APIs.
-
-We are also making changes to other portions of the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. to align with these changes. Please take some time to review them:
-
-*   [Subscription Terms](https://en.help.roblox.com/hc/articles/46804865425300)
-*   [Terms and Conditions for Gift Cards and Credits](https://en.help.roblox.com/hc/articles/12808609433108)
-
-The English version is the primary document, unless stated otherwise. Translations are provided for your ease of understanding.
+Effective Date: May 19, 2026
 
 [Introduction](#introduction)  
 [USER TERMS](#user-terms)  
@@ -208,11 +177,11 @@ These User TermsTerms applicable to all Users which provide an overview and the 
     
 7.  Online Safety.
     
-    RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. is dedicated to fostering and promoting a positive, safe, and respectful online environment. To achieve this, we utilize specialized safety teams, collaborate with external partners, and develop systems designed to detect, prevent, mitigate, and moderate potential misuse of our ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services.. We use a combination of human moderation and automated systems that analyze and moderate Content and conduct to help detect infringement, harmful and illegal content, bad behavior, and other violations of our Community Standards, which are incorporated by reference into these User TermsTerms applicable to all Users which provide an overview and the associated rules for things like (i) account creation, (ii) using Robux to make purchases, (iii) trading Virtual Items, and (iv) activities prohibited on the Platform. The User Terms also cover some of the more technical legal terms that govern use of the Services, including intellectual property ownership, online safety, disclaimers and other very important legal terms.. If you see any content or materials on the ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services. that appears to violate our Community Standards, please contact [Roblox Support](https://www.roblox.com/support) and select the “User Safety Concern” help category to immediately report the UserAny person or entity who uses or accesses the Services. and situation.
+    RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. is dedicated to fostering and promoting a positive, safe, and respectful online environment. To achieve this, we utilize specialized safety teams, collaborate with external partners, and develop systems designed to detect, prevent, mitigate, and moderate potential misuse of our ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services.. We use a combination of human moderation and automated systems that analyze and moderate Content and conduct to help detect infringement, harmful and illegal content, bad behavior, and other violations of our Community Standards, which are incorporated by reference into these User TermsTerms applicable to all Users which provide an overview and the associated rules for things like (i) account creation, (ii) using Robux to make purchases, (iii) trading Virtual Items, and (iv) activities prohibited on the Platform. The User Terms also cover some of the more technical legal terms that govern use of the Services, including intellectual property ownership, online safety, disclaimers and other very important legal terms.. If you see any content or materials on the ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services. that appears to violate our Community Standards, please contact [Roblox Support](https://www.roblox.com/support) and select the “User Safety Concern” help category to immediately report the UserAny person or entity who uses or accesses the Services. and situation. More information on safety features may be found [here](https://about.roblox.com/safety).
     
     1.  **Community Standards.** To keep its Users safe, RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. has created certain Community Standards to outline how Users should behave on the ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services. and what conduct is and isn’t allowed on the ServicesAny service or application offered by Roblox, such as those allowing Users to develop Virtual Content, connect with others, and use Virtual Content created by you and other Users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds, and other services.. These Community Standards, which are incorporated into these Terms, may be found [here](https://about.roblox.com/community-standards). Any violation of the Community Standards is considered a violation of the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. and may result in AccountA Roblox Account, which a User must create in order to access certain elements and functionality of the Services. suspension or termination. To further the safety of the RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. community, RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. may disclose your content to third parties when RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. has a good faith belief that it is required to do so by law or regulation or that doing so is necessary to prevent harm to a person or to protect Roblox’s rights and property.
     2.  **Parental Controls.** The RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. Community is made up of Users of all ages. We work hard to promote a safe and fun environment for all. To help foster this community, we provide Users and their parents/guardians with numerous safety features and controls. More information about these features may be found [here](https://corporate.roblox.com/parents/).
-    3.  **Content Maturity Ratings**. RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. uses “Content Maturity Ratings” to help Users make informed decisions about the Experiences they interact with and help to reduce the chances of encountering content they don't want to see. Our Content Maturity Ratings (Minimal, Mild, Moderate, Restricted) and content descriptors appear on Experience pages and are used to recommend Experiences to Users based on age group and regional content policies. Unrated Experiences without a Content Maturity Rating are not searchable or playable by Users under 13 years of age.
+    3.  **Content Maturity Ratings**. RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. uses “Content Maturity Ratings” to help Users make informed decisions about the Experiences they interact with and help to reduce the chances of encountering content they don't want to see. Our Content Maturity Ratings (Minimal, Mild, Moderate, Restricted) and content descriptors appear on Experience pages and are used to recommend Experiences to Users based on age group and regional content policies.
     4.  **Communication Features**. RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. offers various ways for Users to communicate including Party Chat, Experience Chat, Direct Chat, Voice Chat, and Team Create in Studio (collectively, “**Communication Features**”). You may need to complete an [age check](https://en.help.roblox.com/hc/en-us/articles/39143693116052) before using Communication Features. Roblox uses a variety of automated systems designed to identify behaviors that may violate the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), including: (a) for filtered text chat, using text filters and keyword lists to recognize violative communications and prevent Users from being exposed to them; and  
         (b) for voice chat, using a combination of automatic speech recognition and an in-house AI model to classify and detect violative language. 
 8.  AI Features.
@@ -1234,9 +1203,6 @@ _Terms of Use_
 
 We are also making changes to other portions of the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. to align with these changes. Please take some time to review them.
 
-Effective Date: April 30, 2026  
-Last Updated: April 30, 2026
-
 *   [TE - Roblox ఉపయోగ నిబంధనలు 20260330.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741716070036)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741716070036)
@@ -1265,13 +1231,13 @@ Last Updated: April 30, 2026
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741686732180)
     
-*   [ES - Términos de uso de Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741686740756)
+*   [ES - Términos de uso de Roblox 20260330.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741686740756)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741686740756)
+    500 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741686740756)
     
-*   [EN - Roblox Terms of Use 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741686745236)
+*   [EN - Roblox Terms of Use 20260330.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741686745236)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741686745236)
+    500 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741686745236)
     
 *   [TA - Roblox பயன்பாட்டு விதிமுறைகள் 20260330.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741716088468)
     
@@ -1317,9 +1283,9 @@ Last Updated: April 30, 2026
     
     500 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741716165524)
     
-*   [PT-BR - Termos de Uso da Roblox 20251219.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741716183956)
+*   [PT-BR - Termos de Uso da Roblox 20260330.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/47741716183956)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741716183956)
+    500 KB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/47741716183956)
     
 
 [Return to top](#article-container)
