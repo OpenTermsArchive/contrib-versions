@@ -1,14 +1,14 @@
 Privacy Policy for App
 ======================
 
-**Date:** April 28, 2026
+**Date:** May 19, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
-At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
+At Spark, we greatly care about our users. As Spark evolves, we update our [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure it remains clear and aligned with how the product works. 
 
-In a nutshell, we detailed provisions related to the use of third-party services and clarified data sharing practices for integrations.
+In a nutshell, we added details on the new AI features.
 
 We encourage you to carefully review the [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
 
@@ -173,7 +173,7 @@ While the data below may be processed by Spark, it does not mean we store all of
 
 | Data | Reasons for Processing | Lawful Basis |
 | --- | --- | --- |
-| *   Inputs and outputs (requests and results)<br>*   Emails and email drafts content, including attachments<br>*   Email contacts<br>*   In-app comments<br>*   Calendar data, including meeting title, description, participants, date, time, and location<br>*   Read statuses<br>*   Audio stream and video (only to extract audio) for Meeting Notes<br>*   Meeting notes and summaries<br>*   Your writing style description<br>*   Worfklows (commands, labels, rules) | Providing you with the functionality of the App | Performance of the contract |
+| *   Inputs and outputs (requests and results)<br>*   Emails and email drafts content, including attachments<br>*   Email contacts<br>*   In-app comments<br>*   Calendar data, including meeting title, description, participants, date, time, and location<br>*   Read statuses<br>*   Audio stream and video (only to extract audio) for Meeting Notes<br>*   Meeting notes and summaries<br>*   Your writing style description<br>*   Personalization context (as described below)<br>*   Worfklows (commands, rules)<br>*   Labels | Providing you with the functionality of the App | Performance of the contract /  Consent (as may be applicable) |
 
 **My Writing Style**
 
@@ -194,6 +194,23 @@ After you turn on this feature, please ensure that you always inform the meeting
 The feature captures an audio stream on your device with the help of the on-device AI model. Once the meeting ends or you finish the transcription, the audio stream is automatically sent to the third-party AI provider to obtain a transcription, which is further summarized. The transcription and summary are saved in your Spark account.
 
 Spark does not store the audio stream of the conversation, unless you choose to share one with us for troubleshooting. The AI provider may retain the audio stream for up to thirty (30) days for abuse and misuse monitoring.
+
+**Personalization**
+
+This feature lets you customize your experience with Spark+AI by using personalization context — a structured summary of how you work and communicate, and a set of instructions, which may include: 
+
+*   Role: General details about your job, location, timezone;
+*   Workflow: How you usually reply and prioritize requests, your key contacts;
+*   Schedule: How you usually schedule meetings, preferred meeting lengths, typical availability;
+*   Background: Your industry, current projects, interests, and other context.
+
+You may provide the personalization context manually by sharing any information and instructions you wish. Alternatively, you may choose to let Spark analyze your email data to generate this context automatically.  
+
+Spark does not use personalization context for marketing or AI training purposes.
+
+When enabled, +AI features use personalization context and may generate more relevant outputs. For example, AI-generated drafts will sound more like you, requiring less rewriting and editing.
+
+You may review, edit, or permanently delete your personalization context at any time. 
 
 ### Team Data
 
@@ -271,7 +288,8 @@ If the data category is not listed herein, it is stored locally on your device. 
 | Emails shared via link (incl. attachments, contacts, comments) | Until the link or account is deleted |
 | Large attachments | For thirty (30) days, if autocleaning is enabled, or until you delete the data manually via settings, or until deletion of Spark account |
 | Read Statuses | Until deletion of the Spark account |
-| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI Workflows (commands, labels, rules) | Until deletion of Spark account or until you delete the data manually via settings |
+| +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI workflows (commands, rules) | Until deletion of Spark account or until you delete the data manually via settings |
+| Personalization context | Until disabling 'Personalization' feature |
 | Customer Support Requests | For six (6) years after the communication on the ticket is closed |
 | Feedback Provided to Us Directly | For six (6) years from the feedback or last communication on feedback |
 | Feedback Provided via a Third-Party Platform | For two (2) years from the feedback or last communication on feedback |
@@ -314,13 +332,13 @@ Additionally, Spark integrates with popular third-party services: Notion, Asana,
 Data Sharing with Third Parties
 -------------------------------
 
-We may share your personal data with third parties in compliance with applicable laws. 
+We may share your personal data with third parties without causing you any harm and in strict compliance with applicable laws. Additionally, we have put in place organizational and technical measures to secure your personal data during its transfer to third parties.
 
 To share your data, we rely on the lawful bases such as consent, compliance with the law, and performance of a contract, depending on the specific circumstances.
 
 | Third Party | Description |
 | --- | --- |
-| Integrations | To help you work effectively, Spark may integrates with third-party services via APIs, command-line interface, or other access points in the app. For example, you can turn an email into an Asana task, export it to Evernote, or integrate an AI agent and use it for work with your inbox.  <br>  <br>Please note that Spark is not responsible for the performance, security, or data handling practices of third-party services or your device. We also recommend reviewing the legal documents for such third-party services before using any integration. |
+| Integrations | Spark integrates with popular third-party services so that you can work effectively. For example, you can turn an email into an Asana task, export it to Evernote, or add an email to OneNote Notebook. |
 | Contractors | We cooperate with contractors to operate, develop, and improve the App's features and functionality. For example, we may engage auditors, lawyers, customer support professionals, etc. |
 | Services the App uses | We use third-party services to provide you with the functionality of the App. |
 | Analytics tools | We use analytics tools to understand and promote our business. |
