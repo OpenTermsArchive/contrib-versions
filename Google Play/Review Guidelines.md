@@ -10,7 +10,7 @@ Choose a Google product
 *   [![](//www.gstatic.com/images/branding/product/1x/youtube_64dp.png)
     
     ### YouTube](https://support.google.com/youtube?hl=en-GB)
-*   [![](//fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/web-64dp/logo_gmail_2020q4_color_1x_web_64dp.png)
+*   [![](//www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web-64dp/logo_gmail_2026_color_1x_web_64dp.png)
     
     ### Gmail](https://support.google.com/mail?hl=en-GB)
 *   [![](//fonts.gstatic.com/s/i/productlogos/play_prism/v8/web-64dp/logo_play_prism_color_1x_web_64dp.png)
@@ -55,7 +55,7 @@ Choose a Google product
 *   [![](//fonts.gstatic.com/s/i/productlogos/gstore/v5/web-64dp/logo_gstore_color_1x_web_64dp.png)
     
     ### Google Store](https://support.google.com/store?hl=en-GB)
-*   [![](//fonts.gstatic.com/s/i/productlogos/drive_2020q4/v8/web-64dp/logo_drive_2020q4_color_1x_web_64dp.png)
+*   [![](//www.gstatic.com/images/branding/productlogos/drive_2026/v2/web-64dp/logo_drive_2026_color_1x_web_64dp.png)
     
     ### Google Drive](https://support.google.com/drive?hl=en-GB)
 *   [![](//fonts.gstatic.com/s/i/productlogos/accessibility/v4/web-64dp/logo_accessibility_color_1x_web_64dp.png)
@@ -146,7 +146,7 @@ Consumer
 *   [### Contacts](https://support.google.com/contacts?hl=en-GB)
 *   [### Snapseed](https://support.google.com/snapseed?hl=en-GB)
 *   [### Google Wifi](https://support.google.com/wifi?hl=en-GB)
-*   [### Fitbit](https://support.google.com/fitbit?hl=en-GB)
+*   [### Google Health](https://support.google.com/googlehealth?hl=en-GB)
 *   [### Google Workspace Individual](https://support.google.com/google-workspace-individual?hl=en-GB)
 *   [### My Maps](https://support.google.com/mymaps?hl=en-GB)
 *   [### Daydream](https://support.google.com/daydream?hl=en-GB)
