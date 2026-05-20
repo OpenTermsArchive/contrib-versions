@@ -1,7 +1,7 @@
 KICK PRIVACY POLICY
 ===================
 
-Date Modified: February 28, 2026
+Date Modified: May 19, 2026
 
 Welcome! We are Kick, a gaming livestreaming platform. Our goal is to create a creator-friendly streaming service for content creators.
 
