@@ -7,7 +7,7 @@ This Privacy Policy applies to all websites and web applications which link to t
 
 If you wish to amend any of the personal information that we hold about you, or update your marketing preferences, you can do so at any time through your account.
 
-If you have any queries about how we use your personal information, please contact our Data Protection Officer at privacy.officer@ft.com.
+If you have any queries about how we use your personal information, please contact our Data Protection Officer at [privacy.officer@ft.com](mailto:privacy.officer@ft.com).
 
 Information we collect
 ----------------------
@@ -163,7 +163,7 @@ For example, we may use AI to:
     
 *   support the delivery and relevance of advertising;
     
-*   improve search functionality and how content is presented, for example, our AskFT tool (currently available to our FT Professional clients);
+*   improve search functionality and how content is presented, for example, our AskFT tool;
     
 *   support internal processes and improve operational efficiency.
     
@@ -402,7 +402,7 @@ For more information on how we use your personal information and who we share yo
 Changes to this Privacy Policy
 ------------------------------
 
-This policy was reviewed on 24/04/2026 and last updated on 27/04/2026.
+This policy was reviewed on 24/04/2026 and last updated on 19/05/2026.
 
 Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated. 
 
