@@ -45,7 +45,7 @@ By taking part in the KPP and by activating the KPP option in your dashboard, yo
 6. **TERMINATION AND SUSPENSION**
 ---------------------------------
 
-*   6.1. Kick may terminate the Streamer’s participation in KPP with immediate effect and without prior notice if the Streamer:
+*   6.1. Kick may terminate or deny the Streamer’s participation in KPP with immediate effect and without prior notice if the Streamer:
 *   *   6.1.1. breaches these Terms;
     *   6.1.2. streams content that violates the Terms of Service (available [here](https://kick.com/terms-of-service)) or Kick’s Community Guidelines (available [here](https://kick.com/community-guidelines));
     *   6.1.3. makes, publishes, or communicates any statement (whether directly or indirectly) or otherwise represents Kick or Kick.com in any way that, in Kick’s sole discretion, Kick determines might damage Kick’s or Kick.com’s reputation or image, regardless of the platform or medium through which any such statement or representation is made;
