@@ -320,7 +320,7 @@ _Note: If you access a course or specialization through a subscription plan, rat
 2\. Subscription Plans
 ----------------------
 
-This section applies to all Coursera subscription offerings, including Coursera Lite, Coursera Plus Monthly and Annual plans, and individual course or specialization subscriptions. For Coursera Plus Annual, Coursera offers a 14-day refund period. For all other subscriptions, Coursera provides a 7-day free trial.
+This section applies to all Coursera subscription offerings, including Coursera Lite, Coursera Plus Monthly and Annual plans, and individual course or specialization subscriptions. For Coursera Plus Annual, Coursera offers a 14-day refund period. Certain subscriptions may come with a free trial period. Please see the applicable check out page for details regarding free trial availability and duration.
 
 Certificates cannot be earned during the free trial. In order to receive a certificate of completion, you must either (i) consent to being charged for the first applicable payment of their subscription, by ending the free trial period early; or (ii) wait until the relevant free trial period has expired without cancelling their subscription.
 
@@ -334,7 +334,7 @@ Coursera reserves the right to deny refund requests, even in cases that might ot
 
 #### Subscription Cancellation
 
-For monthly subscriptions, to avoid being charged after the applicable 7-day free trial, **you must [cancel](https://www.coursera.support/s/article/learner-000001189?language=en_US) the subscription before the trial period ends.**
+For monthly subscriptions, to avoid being charged after the applicable free trial period, **you must [cancel](https://www.coursera.support/s/article/learner-000001189?language=en_US) the subscription before the trial ends.**
 
 For annual subscriptions, which are paid in full at the time of purchase, you must [cancel](https://www.coursera.support/s/article/learner-000001189?language=en_US) within 14 days to receive a refund.
 
@@ -346,7 +346,7 @@ To cancel the subscription, **you must cancel under your account “My Purchase�
 
 Certain jurisdictions provide you with additional consumer protection rights. For example, if you are located in the United Kingdom or countries in the European Union you may be entitled to a 14-day refund period that begins when access to the applicable subscription commences. If you wish to exercise the right of withdrawal under these laws must submit a request through the [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US).
 
-Coursera will verify your location using the information associated with their account and process the refund if eligible. As of the effective date of this policy, countries such as the United States, Mexico, and India do not provide extended refund or withdrawal periods beyond Coursera’s standard 7-day free trial.
+Coursera will verify your location using the information associated with their account and process the refund if eligible. As of the effective date of this policy, countries such as the United States, Mexico, and India do not provide extended refund or withdrawal periods beyond Coursera’s free trial period.
 
 Please allow 7 – 10 business days for any applicable refund to be processed and reflected in your account.
 
@@ -393,7 +393,7 @@ Coursera reserves the right to change its subscription plans or adjust pricing a
 
 In accordance with applicable laws, if you are in the European Union and the United Kingdom you have a right of withdrawal for 14 days from the date a contract commences. You may withdraw without providing a reason and without incurring costs, except as noted. If the Services have already been fully performed with your express consent, or if Service use has begun with their acknowledgment, the right of withdrawal is forfeited. You must notify Coursera of your decision to withdraw using a clear statement at the [Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US). If the contract is withdrawn, Coursera will reimburse all payments within 14 days of being notified. Reimbursement will be made using the original payment method unless otherwise agreed.
 
-_Note: For subscriptions with a seven day free trial, such seven day trial period shall be counted as a part of and while counting the 14 days’ withdrawal right._
+_Note: For subscriptions that come with a free trial, the trial period shall be counted as a part of and while counting the 14 days’ withdrawal right._
 
 * * *
 
