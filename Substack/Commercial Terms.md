@@ -217,7 +217,7 @@ The terms of this DPA only apply if the Creator is based in the European Economi
     
 *   any sub-processors that are engaged by Substack for the provision of the Services shall be subject to written sub-processor terms with Substack requiring that the sub-processor abides by terms no less protective than this DPA.
     
-*   Substack currently uses the sub-processors included in Appendix 1 to this DPA. Substack may remove or appoint other suitable and reliable sub-processors at its own discretion in accordance with this article. Substack will give at least 6 weeks prior notice of any changes to the list of sub-processors. The Creator can object to a sub-processor by using its termination rights under the Agreement. If the Creator does not terminate the Agreement within this timeframe, the Creator is deemed to have accepted the respective sub-processor.
+*   Substack currently uses the sub-processors included in Appendix 3 to this DPA. Substack may remove or appoint other suitable and reliable sub-processors at its own discretion in accordance with this article. Substack will give at least 6 weeks prior notice of any changes to the list of sub-processors. The Creator can object to a sub-processor by using its termination rights under the Agreement. If the Creator does not terminate the Agreement within this timeframe, the Creator is deemed to have accepted the respective sub-processor.
     
 *   where the sub-processor fails to fulfill its data protection obligations, Substack shall remain similarly liable to the Creator for the performance of its obligations under this DPA.
     
@@ -226,7 +226,7 @@ The terms of this DPA only apply if the Creator is based in the European Economi
 
 *   Substack is based outside of the EEA in the US and that personal data may be transferred to the US or to other countries outside of the EEA provided that the specific conditions for such data transfers in applicable laws have been fulfilled.  
     
-*   Where applicable data protection laws require appropriate safeguards for a transfer of personal data to a third country, and in case no adequacy decision or any other appropriate data transfer mechanism applies, Substack shall enter into SCCs as further specified in Appendix 3 to this DPA. The Creator hereby expressly authorizes Substack to enter into SCCs (also) on its behalf and commissions Substack to enforce these SCCs on the Creator’s behalf where appropriate.
+*   Where applicable data protection laws require appropriate safeguards for a transfer of personal data to a third country, and in case no adequacy decision or any other appropriate data transfer mechanism applies, Substack shall enter into SCCs as further specified in Appendix 4 to this DPA. The Creator hereby expressly authorizes Substack to enter into SCCs (also) on its behalf and commissions Substack to enforce these SCCs on the Creator’s behalf where appropriate.
     
 *   Nothing in this DPA will be construed to prevail over any conflicting clause of any SCCs that have been entered into by Substack and for the prevention of doubt nothing in this DPA varies or modifies the SCCs nor affects any supervisory authority’s or data subject’s rights under the SCCs.
     
@@ -255,9 +255,9 @@ This DPA shall automatically terminate upon any termination or expiration of the
 
 |     |     |     |
 | --- | --- | --- |
-|     | [![](https://substackcdn.com/image/fetch/$s_!_6rl!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88837eb1-29ac-4249-9fea-40401d7ebb85_1126x1420.png)](https://substackcdn.com/image/fetch/$s_!_6rl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88837eb1-29ac-4249-9fea-40401d7ebb85_1126x1420.png) |     |
+|     | [![](https://substackcdn.com/image/fetch/$s_!NVVM!,w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b6f53ec-3c1d-4b4a-b825-1c87cc1f550a_1442x1322.png)](https://substackcdn.com/image/fetch/$s_!NVVM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b6f53ec-3c1d-4b4a-b825-1c87cc1f550a_1442x1322.png) |     |
 
-### [](#appendix-3-to-the-dpa)_**[APPENDIX 3 TO THE DPA](https://substack.com/pa#appendix-to-the-dpa)**_
+### [](#appendix-4-to-the-dpa)_**[APPENDIX 4 TO THE DPA](https://substack.com/pa#appendix-to-the-dpa)**_
 
 **STANDARD CONTRACTUAL CLAUSES**
 
