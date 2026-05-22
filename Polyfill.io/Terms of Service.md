@@ -1,15 +1,15 @@
 Who we are and how to contact us
 --------------------------------
 
-[Polyfill.io](https://polyfill.io/) is operated as a community service by the Polyfill.io maintainers (“we”, “us”).
+[Polyfill.io](https://polyfill.io/) is operated as a community service by Jake Champion (“we”, “us”).
 
 By using Polyfill.io you agree to our terms
 -------------------------------------------
 
 These terms apply to “Polyfill.io”, which means:
 
-* the Polyfill.io website (“Site”); and/or
-* the public instance of the Polyfill Service made available by us, as described on the Site.
+*   the Polyfill.io website (“Site”); and/or
+*   the public instance of the Polyfill Service made available by us, as described on the Site.
 
 By using Polyfill.io you confirm that you accept these terms of use and that you agree to comply with them. If you do not agree to these terms, you must not use Polyfill.io.
 
@@ -20,7 +20,7 @@ There are other terms that may apply to you
 
 These terms of use refer to the following additional terms, which also apply to your use of Polyfill.io:
 
-* The [Polyfill.io privacy policy](https://polyfill.io/v3/privacy-policy), which sets out the terms on which we process any personal data we collect from you or as a result of your use of Polyfill.io (including our logging of use of Polyfill.io). If you do not agree to the terms of that privacy policy then you must not use Polyfill.io.
+*   The [Polyfill.io privacy policy](https://polyfill.io/v3/privacy-policy), which sets out the terms on which we process any personal data we collect from you or as a result of your use of Polyfill.io (including our logging of use of Polyfill.io). If you do not agree to the terms of that privacy policy then you must not use Polyfill.io, and you should consider hosting the [Polyfill Service code](https://github.com/JakeChampion/polyfill-service) yourself.
 
 Polyfill.io are provided as-is and without any SLA
 --------------------------------------------------
@@ -30,6 +30,8 @@ Polyfill.io is made available free of charge.
 We do not guarantee that Polyfill.io, or any content on them, will always be available or be uninterrupted. We may suspend or withdraw or restrict the availability of all or any part of Polyfill.io for business and operational reasons.
 
 We do not provide any service level agreement or any other performance commitments for Polyfill.io. We are not able to participate in any technical due diligence or other procurement process that your organisation may have.
+
+If you require an SLA or guaranteed levels of resilience for Polyfill.io, then you are free to obtain your own copy of the Polyfill Service code from our [GitHub repository](https://github.com/JakeChampion/polyfill-service). The Polyfill Service code is licensed under the MIT License. You can then make your own arrangements for hosting.
 
 Do not rely on information on this site
 ---------------------------------------
@@ -47,18 +49,27 @@ _We exclude all implied conditions, warranties, representations or other terms t
 
 _We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:_
 
-* _use of, or inability to use, Polyfill.io; or_
-* _use of or reliance on any content displayed on Polyfill.io._
+*   _use of, or inability to use, Polyfill.io; or_
+*   _use of or reliance on any content displayed on Polyfill.io._
 
 _In particular, we will not be liable for:_
 
-* _loss of profits, sales, business, or revenue;_
-* _business interruption;_
-* _loss of anticipated savings;_
-* _loss of business opportunity, goodwill or reputation; or_
-* _any indirect or consequential loss or damage._
+*   _loss of profits, sales, business, or revenue;_
+*   _business interruption;_
+*   _loss of anticipated savings;_
+*   _loss of business opportunity, goodwill or reputation; or_
+*   _any indirect or consequential loss or damage._
 
-_By using Polyfill.io, you agree that the above exclusions of liability are reasonable, and that your use of Polyfill.io is therefore entirely at your own risk._
+_By using Polyfill.io, you agree that the above exclusions of liability are reasonable. You accept that it is always possible for you to host your own copy of the [Polyfill Service code](https://github.com/JakeChampion/polyfill-service), and that your use of Polyfill.io is therefore entirely at your own risk._
+
+We are not responsible for viruses and you must not introduce them
+------------------------------------------------------------------
+
+We do not guarantee that Polyfill.io will be secure or free from bugs or viruses.
+
+You are responsible for configuring your information technology, computer programs and platform to access Polyfill.io. You should use your own virus protection software.
+
+You must not misuse Polyfill.io by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to Polyfill.io, the server on which Polyfill.io are stored or any server, computer or database connected to Polyfill.io. You must not attack Polyfill.io via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use Polyfill.io will cease immediately.
 
 We may make changes to these terms
 ----------------------------------
