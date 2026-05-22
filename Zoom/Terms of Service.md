@@ -12,7 +12,13 @@ Enterprise
 
 [For Developer](https://developers.zoom.us/docs/)
 
-[Video SDK](https://zoom.us/en/video-sdk/)[Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/)[App Marketplace](https://marketplace.zoom.us/)[APIs](https://developers.zoom.us/docs/api/)[Webhooks](https://developers.zoom.us/docs/api/webhooks/)[Zoom Apps](https://zoom.us/en/zoom-apps/)[Developer Solutions](https://developers.zoom.us/docs/)
+Build
+
+[Video SDK](https://zoom.us/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)[AI Services](https://zoom.us/en/products/ai-services/)
+
+Integrate
+
+[Zoom Marketplace](https://marketplace.zoom.us/)[MCP](https://developers.zoom.us/docs/mcp/)[Realtime Media Streams](https://zoom.us/en/realtime-media-streams/)[APIs](https://developers.zoom.us/docs/api/)[Zoom Apps](https://zoom.us/en/zoom-apps/)[Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/)
 
 [For partners](https://partner.zoom.com/)
 
