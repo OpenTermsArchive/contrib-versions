@@ -415,7 +415,7 @@ Please see the table below for additional information relevant to your local cou
 | Russia | PayPal (Europe) S.a.r.l. et Cie, S.C.A.  <br>22-24 Boulevard Royal L-2449, Luxembourg  <br>Contact [Online](https://www.paypal.com/ru/smarthelp/contact-us/privacy) for Privacy queries |
 | Singapore | PayPal Pte. Ltd.  <br>5 Temasek Boulevard 09-01, Suntec Tower 5  <br>Singapore 038985  <br>Contact [Online](https://www.paypal.com/sg/smarthelp/contact-us/privacy) for Privacy queries |
 | Sri Lanka | PayPal Pte. Ltd.  <br>5 Temasek Boulevard 09-01, Suntec Tower 5  <br>Singapore 038985  <br>Contact [Online](https://www.paypal.com/lk/smarthelp/contact-us/privacy) for Privacy queries |
-| Switzerland | PayPal (Europe) S.a.r.l. et Cie, S.C.A.  <br>22-24 Boulevard Royal L-2449, Luxembourg  <br>Contact [Online](https://www.paypal.com/ch/smarthelp/contact-us/privacy) for Privacy queries |
+| Switzerland | PayPal Pte. Ltd.  <br>5 Temasek Boulevard 09-01, Suntec Tower 5  <br>Singapore 038985  <br>Contact [Online](https://www.paypal.com/ch/cshelp/contact-us/privacy) for Privacy queries |
 | Taiwan | PayPal Pte. Ltd.  <br>5 Temasek Boulevard 09-01, Suntec Tower 5  <br>Singapore 038985  <br>Contact [Online](https://www.paypal.com/tw/smarthelp/contact-us/privacy) for Privacy queries |
 | Thailand | Athenee Tower, 23F; 63 Wittayu Road; Lumpini, Pathumwan; Bangkok 10330, Thailand  <br>Contact [Online](https://www.paypal.com/th/smarthelp/contact-us/privacy) for Privacy queries |
 | UK  | PayPal UK Ltd  <br>5 Fleet Place  <br>London, UK EC4M 7RD  <br>Contact [Online](https://www.paypal.com/uk/smarthelp/contact-us/privacy) for Privacy queries |
