@@ -310,6 +310,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Confederação Nacional do Transporte, Anuário CNT do Transporte 2022. 1.1.Principais dados. [https://anuariodotransporte.cnt.org.br/2022/Direitos](https://anuariodotransporte.cnt.org.br/2022/Direitos)
             
+        *   Open Data Distrito Federal - DER-DF (Departamento de Estradas de Rodagem do Distrito Federal) - [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
+            
+        *   IPEA Institute for Applied Economic Research - BR - (Instituto de Pesquisa Econômica Aplicada) [https://www.ipea.gov.br/portal/categorias/146-declaracao-de-privacidade-de-dados-pessoais/10307-declaracao-de-privacidade-de-dados-pessoais](https://www.ipea.gov.br/portal/categorias/146-declaracao-de-privacidade-de-dados-pessoais/10307-declaracao-de-privacidade-de-dados-pessoais)
+            
     9.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -601,10 +605,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         141.  Government of Alberta. Traffic volumes on links in the highway network. Contains information licensed under the Open Government Licence – Alberta. [https://open.alberta.ca/licence](https://open.alberta.ca/licence)
               
+        142.  Government of Saskatchewan - Contains information licensed under the Government of Saskatchewan Standard Unrestricted Use Data Licence (Version 2.0).- [https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS\_Standard\_Unrestricted\_Use\_Data\_Licence\_v2.0.pdf](https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf)
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
          *   OCHA (KM): [https://data.humdata.org/dataset/7f80a5d1-9f1a-462c-b298-338c7edc9224](https://data.humdata.org/dataset/7f80a5d1-9f1a-462c-b298-338c7edc9224) Licensed under CC BY-IGO
+             
+         *   Humanitarian Data Exchange- HDX. Comoros - Subnational Administrative Boundaries - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
              
     11.  **Cape Verde**
          *   Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
@@ -1334,6 +1342,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Landeshauptstadt Stuttgart. Baustellen - aktuell. – [https://opendata.stuttgart.de/de/dataset/baustellen](https://opendata.stuttgart.de/de/dataset/baustellen), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
          *   Statistisches Bundesamt (Destatis). Federal Statistical Office 2026, Road freight transport statistics. [https://www-genesis.destatis.de/datenbank/online/#modal=register,termsofuse](https://www-genesis.destatis.de/datenbank/online/#modal=register,termsofuse)
+             
+         *   City of Rüsselsheim am Main - DE - [https://mobilithek.info/offers/110000000003176000](https://mobilithek.info/offers/110000000003176000)
              
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -2354,6 +2364,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data Gov TW - Highway Bureau, Ministry of Transportation. Provincial Highway Speed ​​Limit Map, 2026 (省道速限圖資). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
              
+         *   Data Gov TW - Hualien County Government, 2025 \[Hualien County address location data\] (花蓮縣門牌點位資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Penghu County Government, 2024 \[Numerical data on address locations in Penghu County\] (澎湖縣門牌位置數值資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Yunlin County Government, 2025 \[Yunlin County address coordinate data\] (雲林縣門牌座標資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Changhua County Government Civil Affairs Department, 2024 \[Changhua County address location data\] (彰化縣門牌點位資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
     67.  **Timor-Leste**
          
          OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
@@ -2951,6 +2969,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          276.  Pennsylvania Spatial Data Access (PASDA): [https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=SnyderCounty\_SiteAddressPoint202501.xml](https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=SnyderCounty_SiteAddressPoint202501.xml)
                
          277.  The Pennsylvania State University: [https://policy.psu.edu/policies/ad91#POLICYSTATEMENT](https://policy.psu.edu/policies/ad91#POLICYSTATEMENT), [https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty\_Address202307.xml](https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=BradfordCounty_Address202307.xml)
+               
+         278.  Geverdt, D. and Maselli, A. (2024). Education Demographic and Geographic Estimates Program (EDGE): Composite School District Boundaries Technical Documentation. U.S. Department of Education, National Center for Education Statistics. Washington, DC. Retrieved \[date\] from [https://nces.ed.gov/programs/edge/Geographic/DistrictBoundaries](https://nces.ed.gov/programs/edge/Geographic/DistrictBoundaries)
                
     73.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
          
