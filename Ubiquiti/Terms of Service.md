@@ -254,4 +254,6 @@ THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE
 
 [Schedule 4: CyberSecure](https://www.ui.com/legal/enhanced-threat-updates/)
 
+[Schedule 5: 5G redcap data plans](https://www.ui.com/legal/5g/)
+
 Copyright © 2026 Ubiquiti Inc. All rights reserved.
