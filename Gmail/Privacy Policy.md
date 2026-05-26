@@ -29,7 +29,7 @@ We build a range of services that help millions of people daily to explore and i
 *   Platforms such as the Chrome browser and Android operating system
 *   Products that are integrated into third-party apps and sites, like ads, analytics and embedded Google Maps
 
-You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content such as emails and photos, or to see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all; for example, searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like [Chrome Incognito](https://support.google.com/chrome/answer/9845881?hl=en_GB) mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings to control whether we collect some types of data and how we use it.
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content such as emails and photos, or to see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all; for example, searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like [Chrome Incognito](https://support.google.com/chrome/answer/9845881?hl=en_GB) mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings (like history and personalisation controls) to make choices about whether we save some types of data to your Google Account and how we use it.
 
 To help explain things as clearly as possible, we’ve added examples, explanatory videos and definitions for [key terms](https://policies.google.com/privacy/key-terms?hl=en-GB#key-terms). And if you have any questions about this Privacy Policy, you can [contact us](https://support.google.com/policies?p=privpol_privts&hl=en_GB).
 
@@ -41,7 +41,7 @@ We want you to understand the types of information we collect as you use our ser
 
 We collect information to provide better services to all our users – from figuring out basic stuff such as which language you speak, to more complex things like which [ads you’ll find most useful](https://policies.google.com/privacy?hl=en-GB#footnote-useful-ads), [the people who matter most to you online](https://policies.google.com/privacy?hl=en-GB#footnote-people-online) or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
 
-When you’re not signed in to a Google Account, we store the information that we collect with [unique identifiers](https://policies.google.com/privacy?hl=en-GB#footnote-unique-id) tied to the browser, application or [device](https://policies.google.com/privacy?hl=en-GB#footnote-device) that you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
+Google also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information that we collect with [unique identifiers](https://policies.google.com/privacy?hl=en-GB#footnote-unique-id) tied to the browser, application or [device](https://policies.google.com/privacy?hl=en-GB#footnote-device) that you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
 
 When you’re signed in, we also collect information that we store with your Google Account, which we treat as [personal information](https://policies.google.com/privacy?hl=en-GB#footnote-personal-info).
 
@@ -70,7 +70,7 @@ We collect information about your activity in our services, which we use to do t
 *   Terms that you search for
 *   Videos that you watch
 *   [Views and interactions with content and ads](https://policies.google.com/privacy?hl=en-GB#footnote-content-views)
-*   [Voice and audio information](https://policies.google.com/privacy?hl=en-GB#footnote-voice-audio-information)
+*   [Media (like images, files, audio and video) from your interactions](https://policies.google.com/privacy?hl=en-GB#footnote-voice-audio-information)
 *   Purchase activity
 *   People with whom you communicate or share content
 *   [Activity on third-party sites and apps that use our services](https://policies.google.com/privacy?hl=en-GB#footnote-activity-on-third-party)
@@ -78,7 +78,7 @@ We collect information about your activity in our services, which we use to do t
 
 If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy?hl=en-GB#footnote-calls-messages), we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information and types and volumes of calls and messages.
 
-You can visit your Google Account to find and manage activity information that's saved by your Activity controls.
+You can visit your Google Account to find and manage activity information that’s saved in your history.
 
 [Go to Google Account](https://myaccount.google.com/?hl=en_GB)
 
@@ -93,7 +93,7 @@ Depending on the products that you’re using and the settings that you choose, 
 *   [Activity on Google services](https://policies.google.com/privacy?hl=en-GB#footnote-activity-on-services); for example, from your searches or [places that you label such as home or work](https://policies.google.com/privacy?hl=en-GB#footnote-places-you-label)
 *   [Information about things near your device](https://policies.google.com/privacy?hl=en-GB#footnote-near-device), such as Wi-Fi access points, cell towers and Bluetooth-enabled devices
 
-The types of location data that we collect and how long we store it depend in part on your device and account settings. For example, you can [turn your Android device's location on or off](https://support.google.com/accounts?p=privpol_location&hl=en_GB) using the device's settings app. You can also turn on [Timeline](https://support.google.com/accounts?p=privpol_lochistory&hl=en_GB) if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about [how we use location information](https://policies.google.com/technologies/location-data?hl=en-GB).
+The types of location data that we collect and how long we store it depend in part on your device and account settings. For example, you can [turn your Android device's location on or off](https://support.google.com/accounts?p=privpol_location&hl=en_GB) using the device's settings app. You can also turn on [Timeline](https://support.google.com/accounts?p=privpol_lochistory&hl=en_GB) if you want to create a private map of where you go with your signed-in devices. Depending on your settings, your searches and other activity from Google services, which may also include location information, are saved as history to your Google Account. For example, activity from services like Search, Maps and Shopping is saved to Search services history, and your activity on some other Google sites and apps is saved to Web & App Activity. Learn more about [how we use location information](https://policies.google.com/technologies/location-data?hl=en-GB).
 
 * * *
 
@@ -123,7 +123,7 @@ We use the information we collect in existing services to help us develop new on
 
 ### Provide personalised services, including content and ads
 
-We use the information that we collect to customise our services for you, including providing recommendations, personalised content and [customised search results](https://policies.google.com/privacy?hl=en-GB#footnote-customized-search). For example, [Security Check-Up](https://myaccount.google.com/security-checkup?hl=en_GB) provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps that you’ve already installed and videos that you’ve watched on YouTube to suggest new apps that you might like.
+We use the information that we collect to tailor our services for you, including providing customised and personalised experiences and recommendations, including things like content and [search results](https://policies.google.com/privacy?hl=en-GB#footnote-customized-search). For example, [Security Check-Up](https://myaccount.google.com/security-checkup?hl=en_GB) provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps that you’ve already installed and videos that you’ve watched on YouTube to suggest new apps that you might like.
 
 Depending on your settings, we may also show you [personalised ads](https://policies.google.com/privacy?hl=en-GB#footnote-personalized-ads) based on your interests and activity across Google services. For example, if you search for 'mountain bikes', you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in [My Ad Centre](https://myadcenter.google.com/?hl=en_GB).
 
@@ -147,7 +147,7 @@ We use information to help improve the [safety and reliability](https://policies
 
 * * *
 
-We use different technologies to process your information for these purposes. We use automated systems that analyse your content to provide you with things like customised search results, personalised ads or other features tailored to how you use our services. And we analyse your content to help us [detect abuse](https://policies.google.com/privacy?hl=en-GB#footnote-detect-abuse) such as spam, malware, and illegal content. We also use [algorithms](https://policies.google.com/privacy?hl=en-GB#footnote-algorithm) to recognise patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases that you ask it to translate.
+We use different technologies to process your information for these purposes. We use automated systems that analyse your content to provide you with things like tailored search results, personalised ads or other features tailored to how you use our services. And we analyse your content to help us [detect abuse](https://policies.google.com/privacy?hl=en-GB#footnote-detect-abuse) such as spam, malware and illegal content. We also use [algorithms](https://policies.google.com/privacy?hl=en-GB#footnote-algorithm) to recognise patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases that you ask it to translate.
 
 We may [use the information that we collect](https://policies.google.com/privacy?hl=en-GB#footnote-combine-info) across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, [your activity on other sites and apps](https://policies.google.com/privacy?hl=en-GB#footnote-other-sites) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
 
@@ -174,11 +174,11 @@ We also built a place for you to review and control information saved in your Go
 
 ### Privacy controls
 
-### Activity Controls
+### Personalisation and Activity controls
 
-Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos that you watch and the things that you search for are saved in your account so that you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so that you can get more personalised experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether some [information about your activity on other sites, apps and devices that use Google services](https://support.google.com/websearch/answer/54068?hl=en_GB#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services), such as apps that you install and use on Android, is saved in your Google Account and used to improve Google services.
+Across many of our services, you can adjust history and personalisation controls to make choices about whether we save some types of data in your Google Account and how we use it to personalise your experience. For example, if you have YouTube History turned on, the videos that you watch and the things that you search for are saved in your account so that you can get better recommendations and remember where you left off. Saving activity from services like Search, Maps and Shopping to your Search services history lets you do things like resume an AI Mode interaction where you left off or see past searches as autocomplete suggestions. When Personalised Recommendations in Search services is on, these services can provide results, curated feeds and AI responses that are personalised to you based on info in your Google Account, including Search services history. And if you have Web & App Activity turned on, your activity from some other Google services are saved in your account so that you can get more personalised experiences. Web & App Activity also has a subsetting that lets you control whether some [information about your activity on other sites, apps and devices that use Google services](https://support.google.com/websearch/answer/54068?hl=en_GB#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services) is saved with Web & App Activity in your Google Account and used to improve Google services.
 
-[Go to Activity Controls](https://myaccount.google.com/activitycontrols?hl=en_GB)
+Go to [My Activity](https://myactivity.google.com/myactivity?hl=en_GB) and [Personalisation settings](https://myactivity.google.com/activitycontrols?hl=en_GB)
 
 ### Ad settings
 
@@ -226,7 +226,7 @@ Manage your contact information, such as your name, email and phone number.
 
 When you’re signed out, you can manage information associated with your browser or device, including:
 
-*   Signed-out search personalisation: [Choose](https://www.google.com/history/optout?hl=en_GB) whether your search activity is used to offer you more relevant results and recommendations.
+*   [Signed-out search customisation](https://www.google.com/history/optout?hl=en_GB): Choose whether your search activity is used to offer you more relevant results and recommendations.
 *   YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?hl=en_GB) and your [YouTube Watch History](https://www.youtube.com/feed/history?hl=en_GB).
 *   Ad Settings: [Manage](https://myadcenter.google.com/?hl=en_GB) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
 
@@ -389,7 +389,7 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-*   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=%7B$policyLanguageCode%7D)
+*   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Gemini Apps](https://support.google.com/gemini/answer/13594961?hl=en_GB#privacy_notice)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
@@ -502,11 +502,11 @@ Additional Context
 
 ### Activity on Google services
 
-If you’re signed in to your Google Account and have Web & App Activity turned on, your activity data on Google sites, apps and services may be saved in your account’s Web & App Activity. Some activity may include information about the general area that you were in when using the Google service. When you search for something using a general area, your search will use an area of at least three sq. km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
+For example, if you’re signed in to your Google Account and have Search services history or Web & App Activity turned on, your activity data on Google sites, apps and services that use those settings may be saved as history in your Google Account. Some activity may include information about the general area that you were in when using the Google service. When you search for something using a general area, your search will use an area of at least three sq. km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
 
-In some cases, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.
+In some cases, depending on your [personalisation settings](https://myactivity.google.com/activitycontrols?hl=en_GB) like Personalised Recommendations in Search services, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.
 
-You can view and control your Web & App Activity at [My Activity](https://myactivity.google.com/activitycontrols?hl=en_GB).
+You can view and control your Search services history and Web & App Activity at [My Activity](https://myactivity.google.com/myactivity?hl=en_GB).
 
 ### activity on third-party sites and apps that use our services
 
@@ -527,10 +527,6 @@ For example, merchants may upload data from their loyalty-card programmes so tha
 ### Android device with Google apps
 
 Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables and televisions. These devices use Google Play Services and other pre-installed apps that include services such as Gmail, Maps, your phone’s camera and phone dialler, text-to-speech conversion, keyboard input and security features. Learn more about [Google Play services](https://support.google.com/android/answer/10546414?hl=en_GB).
-
-### customised search results
-
-For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can obtain more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity&hl=en_GB). You may also get customised search results even when you’re signed out. If you don’t want this level of search customisation, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito&hl=en_GB) or turn off [signed-out search personalisation](https://www.google.com/history/optout?hl=en_GB).
 
 ### deliver our services
 
@@ -573,6 +569,10 @@ For example, we use cookies to analyse how people interact with our services. An
 ### may link information
 
 For example, a customer may want to use its Google Analytics data to create more relevant ads, or to further analyse its traffic. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to cookies and other technologies that are related to visits to other websites and apps. [Learn more](https://support.google.com/analytics?p=privpol_data&hl=en_GB)
+
+### Media (like images, files, audio and video) from your interactions
+
+For example, you can interact with many Google services using your device’s microphone or camera, or by uploading multimedia like files, images, screenshots, audio and video. When your device detects an audio activation command, like 'Hey Google', Google records your voice and audio plus a few seconds before the activation.
 
 ### our users
 
@@ -624,6 +624,10 @@ Some examples of how we use your information to help keep our services safe and 
 
 *   Collecting and analysing IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads or censoring content by launching a Distributed Denial of Service (DDoS) attack.
 *   The 'last account activity' feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location and the date and time of access. [Learn more](https://support.google.com/mail?p=privpol_signinactivity&hl=en_GB)
+
+### search results
+
+For example, when you're signed in to your Google Account and have the Personalised Recommendations in Search services control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. [Learn more about Personalised Recommendations in Search services](https://support.google.com/websearch?p=personalized_recommendations&hl=en_GB). You may also get customised search results even when you’re signed out. If you don’t want this level of search customisation, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito&hl=en_GB) or turn off [signed-out search customisation](https://www.google.com/history/optout?hl=en_GB).
 
 ### sensitive categories
 
@@ -684,19 +688,15 @@ For example, we process your information to report usage statistics to rights ho
 
 Depending on your available settings, some examples of how we use the information we collect across our services include:
 
-*   When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content that you have in other Google products, such as Gmail or Google Calendar. This can include things such as the status of your upcoming flights, restaurant and hotel reservations or your photos. [Learn more](https://support.google.com/websearch?p=privpol_privresults&hl=en_GB)
+*   When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content that you have in other Google products, such as Gmail or Google Calendar. This can include things such as the status of your upcoming flights, restaurant and hotel reservations or your photos.
 *   If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by auto-completing their email address when you start to type in their name. This feature makes it easier to share things with people you know. [Learn more](https://support.google.com/accounts?p=autocontacts&hl=en_GB)
-*   The Google app can use data that you have stored in other Google products to show you personalised content, depending on your settings. For example, if you have searches stored in your Web & App Activity, the Google app can show you news articles and other information about your interests, for example sports scores, based on your activity.
+*   The Google app can use data that you have stored in other Google products to show you personalised content, depending on your settings. For example, if you have searches stored in your Search services history and have turned on your Personalised Recommendations in Search services setting, the Google app can show you news articles and other information about your interests, like sports scores, based on your activity.
 *   If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. [Learn more](https://support.google.com/googlehome?p=privpol_actions&hl=en_GB)
 *   If you’re a user in the EU, the decisions that you make on linking services will affect how certain Google services can use the data across our services.
 
 ### Views and interactions with content and ads
 
 For example, we collect information about views and interactions with ads so that we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely to have been seen by a viewer. We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears.
-
-### Voice and audio information
-
-For example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant and Maps. When your device detects an audio activation command, like 'Hey Google', Google records your voice and audio plus a few seconds before the activation. [Learn more](https://support.google.com/websearch/answer/6030020?hl=en_GB#zippy=%2Chow-audio-recordings-are-saved)
 
 ### your activity on other sites and apps
 
