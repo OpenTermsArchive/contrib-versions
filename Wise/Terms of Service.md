@@ -755,26 +755,35 @@ Changes to this Agreement which are (1) more favourable to you; (2) required by 
 
 * * *
 
-31\. Complaints
----------------
+31\. Moving outside the EEA and branches
+----------------------------------------
 
-**31.1** If you have any complaints about us or our Services, you may contact us following our [customer complaint procedure](https://wise.com/help/articles/2235393/how-do-i-make-a-complaint). Make sure to reach out to us first. If you’re not satisfied with our final response, you can escalate your complaint to the Ombudsfin, North Gate II, Boulevard du Roi Albert II, n°8, bte. 2, 1000 Brussels, Belgium, or at ombudsman@ombudsfin.be. You may also contact the Economic Inspectorate of the Federal Public Service Economy, by phone at +32 800 120 33 or e-mail: info.eco@economie.fgov.be.
+**31.1** If you permanently move to any other country outside the EEA, your Wise Account will no longer be serviced by Wise Europe SA, and continuing to use your Wise Account means that you agree to be subject to the customer agreement based on your new address as outlined on the terms and conditions page [here](https://wise.com/en/legal/terms-and-conditions).
+
+**31.2** If Wise Europe SA opens a branch in a country where you reside, your Wise Account will be serviced by that branch once it becomes operational and continuing to use your Wise Account means that you agree to enter a customer agreement with your local branch. The applicable customer agreement and the date on which your local branch becomes operational can be found [here](https://wise.com/en/legal/terms-and-conditions).
 
 * * *
 
-32\. Other important terms
+32\. Complaints
+---------------
+
+**32.1** If you have any complaints about us or our Services, you may contact us following our [customer complaint procedure](https://wise.com/help/articles/2235393/how-do-i-make-a-complaint). Make sure to reach out to us first. If you’re not satisfied with our final response, you can escalate your complaint to the Ombudsfin, North Gate II, Boulevard du Roi Albert II, n°8, bte. 2, 1000 Brussels, Belgium, or at ombudsman@ombudsfin.be. You may also contact the Economic Inspectorate of the Federal Public Service Economy, by phone at +32 800 120 33 or e-mail: info.eco@economie.fgov.be.
+
+* * *
+
+33\. Other important terms
 --------------------------
 
-**32.1 Third Party rights.** This Agreement is between you and us. Except as expressly provided in this agreement, no other person shall have any rights to enforce any of its terms. Neither of us will need to get the agreement of any other person in order to end or make any changes to this Agreement.
+**33.1 Third Party rights.** This Agreement is between you and us. Except as expressly provided in this agreement, no other person shall have any rights to enforce any of its terms. Neither of us will need to get the agreement of any other person in order to end or make any changes to this Agreement.
 
-**32.2 Assignment.** You may not transfer, assign, mortgage, charge, subcontract, declare a trust over or deal in any other manner with any or all of your rights and obligations under this Agreement (including the Wise Account) without our prior written consent. We reserve the right to transfer, assign or novate this Agreement (including the Wise Account) or any right or obligation under this Agreement at any time without your consent. This does not affect your rights to close your Wise Account under section 9.
+**33.2 Assignment.** You may not transfer, assign, mortgage, charge, subcontract, declare a trust over or deal in any other manner with any or all of your rights and obligations under this Agreement (including the Wise Account) without our prior written consent. We reserve the right to transfer, assign or novate this Agreement (including the Wise Account) or any right or obligation under this Agreement at any time without your consent. This does not affect your rights to close your Wise Account under section 9.
 
-**32.3 Severability.** Each of the clauses of this Agreement operates separately. If any court or relevant authority decides that any of them are unlawful or unenforceable, the remaining clauses will remain in full force and effect.
+**33.3 Severability.** Each of the clauses of this Agreement operates separately. If any court or relevant authority decides that any of them are unlawful or unenforceable, the remaining clauses will remain in full force and effect.
 
-**32.4 Enforcement.** Even if we delay in enforcing this Agreement, we can still enforce it later. If we delay in asking you to do certain things or in taking action, it will not prevent us from taking steps against you at a later date.
+**33.4 Enforcement.** Even if we delay in enforcing this Agreement, we can still enforce it later. If we delay in asking you to do certain things or in taking action, it will not prevent us from taking steps against you at a later date.
 
-**32.5 Entire Agreement.** This Agreement supersedes and extinguishes all previous agreements between you and Wise, whether written or oral, relating to its subject matter.
+**33.5 Entire Agreement.** This Agreement supersedes and extinguishes all previous agreements between you and Wise, whether written or oral, relating to its subject matter.
 
-**32.6 Governing law.** This Agreement is governed by Belgian law. Any dispute between you and us in connection with the Services and/or this Agreement shall be brought in the courts of Belgium.
+**33.6 Governing law.** This Agreement is governed by Belgian law. Any dispute between you and us in connection with the Services and/or this Agreement shall be brought in the courts of Belgium.
 
-**32.7 Governing language.** This agreement has been drafted in English. You agree that the main language for communications related to this agreement shall be English and that the English language version of this Agreement and any notice or other document relating to it shall prevail if there is a conflict with a translated version.
+**33.7 Governing language.** This agreement has been drafted in English. You agree that the main language for communications related to this agreement shall be English and that the English language version of this Agreement and any notice or other document relating to it shall prevail if there is a conflict with a translated version.
