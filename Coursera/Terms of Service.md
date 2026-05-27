@@ -309,12 +309,6 @@ For specializations purchased with a one-time payment, you may receive a full re
 
 If you pre-enroll in a specialization, you may cancel for a full refund within 7 days of the specialization launch, or before earning a certificate, whichever is earlier.
 
-If you prepay for a specialization in India with a one-time payment, you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course within the specialization, whichever comes first.
-
-##### Coursera Plus Prepaid Plan for India
-
-If you prepay for a Coursera Plus 1, 3 or 6 months plan in India with a one-time payment you may receive a full refund if you cancel within 7 days of payment or before earning a certificate for any course that is included within your Coursera Plus plan, whichever comes first.
-
 _Note: If you access a course or specialization through a subscription plan, rather than a one-time purchase, the following section will govern._
 
 2\. Subscription Plans
