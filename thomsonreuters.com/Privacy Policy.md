@@ -148,7 +148,7 @@ Learn how Oracle users consolidate compliance into one platform that reduces com
 *   [CoCounsel Legal Integrate research, analysis, and drafting with professional-grade AI grounded in trusted Westlaw and Practical Law content.](https://legal.thomsonreuters.com/en/products/cocounsel-legal)
 *   Westlaw Find legal answers faster with trusted research software powered by 150 years of expertise and AI.
 *   [Practical Law Deliver confident legal work with AI powered by more than 650 attorney-editors’ guides, templates, and checklists.](https://legal.thomsonreuters.com/en/products/practical-law)
-*   [HiqhQ Accelerate legal delivery through secure collaboration, automated workflows, and AI-powered client engagement.](https://legal.thomsonreuters.com/en/products/highq)
+*   [HighQ Accelerate legal delivery through secure collaboration, automated workflows, and AI-powered client engagement.](https://legal.thomsonreuters.com/en/products/highq)
 *   [Legal Tracker Maximize legal efficiency while reducing annual spend through AI-powered matter management.](https://legal.thomsonreuters.com/en/products/legal-tracker)
 
 [View all](https://legal.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Legal)
@@ -316,7 +316,7 @@ Connect with our sales team to explore legal solutions tailored to your professi
 
 [Contact us](https://www.thomsonreuters.com/en/contact-us)
 
-*   [Contact us about plans for tax, audit & accounting firms Discover the right plan for your firm's tax, audit, and accounting professionals with the help of a knowledgeable sales repre](https://tax.thomsonreuters.com/en/contact-sales)
+*   [Contact us about plans for tax, audit & accounting firms Get expert guidance on tax, audit, and accounting solutions for your firm.](https://tax.thomsonreuters.com/en/contact-sales)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150_2.svg)
 
