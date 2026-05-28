@@ -833,7 +833,7 @@ Article 1: Introduction
 1.  These Requests Feature Individual Terms of Service (“Individual Terms”) apply to all acts when Users use the “Requests” feature (“Individual Feature”) on the “pixiv” services provided by the Company.
 2.  These Individual Terms set forth the conditions of use of the Individual Feature. Users shall consent to these Individual Terms before using the Individual Feature in accordance herewith.
 3.  By using the Requests Feature, Users will be deemed to have consented to all particulars set forth herein.
-4.  Any guidelines established by the Company in relation to this feature also constitute part of the Requests Feature Terms and apply as an integrated whole. In the event of any discrepancy between such guidelines and these Individual Terms, the relevant guidelines shall take precedence.
+4.  Any guidelines established by the Company in relation to this feature ([https://www.pixiv.net/request/guideline/creator](https://www.pixiv.net/request/guideline/creator), [https://www.pixiv.net/request/guideline/fan](https://www.pixiv.net/request/guideline/fan)) also constitute part of the Requests Feature Terms and apply as an integrated whole. In the event of any discrepancy between such guidelines and these Individual Terms, the relevant guidelines shall take precedence.
 
 Article 2: Definitions
 ----------------------
@@ -1123,6 +1123,8 @@ Supplemental Provisions
 Revision
 --------
 
+*   April 1, 2026:The entire Requests Feature Individual Terms of Service were revised.
+*   December 11, 2025:"Article 5: Formation of Request Agreements", "Article 6: Performance of Request Agreements, Permissibility of Cooling Off, etc.", and "Article 7: Deletion or Termination of Requests" of the Requests Feature Individual Terms of Service were revised.
 *   July 31, 2025:“Collection Feature Individual Terms of Use” was added.
 *   April 25, 2024:“INTRODUCTION”, Section 6 was updated.
 *   August 31st, 2023:In the Requests Feature Individual Terms of Service,“Article 8: Payment of Sale Proceeds to Creators” was updated.
@@ -1400,18 +1402,18 @@ FANBOX PRINT Terms of Use for Content Providers
 Article 1. Introduction
 -----------------------
 
-1.  pixiv Inc. (hereafter referred to as “the Company”) offers a service called “FANBOX PRINT” (hereafter referred to as “the Service,” defined in the next article) that allows customers to purchase and print their favorite content on the multi-function printer and copy machines at Lawson, Family Mart, and Ministop in Japan (excluding some stores). This is a one-of-a-kind service that was made possible thanks to the cooperation between Content Providers (defined in the next article) and the Company.
-2.  Any person who wishes to become a Content Provider shall fully understand the FANBOX PRINT Terms of Use for Content Providers (hereafter referred to as “Individual Terms of Use”) before registering as a Content Provider.
+1.  pixiv Inc. (hereafter referred to as "the Company") offers a service called "FANBOX PRINT" (hereafter referred to as "the Service," defined in the next article) that allows customers to purchase and print their favorite content on multi-function printer and copy machines and network printers (collectively referred to as "multi-function printer and copy machines and similar devices"; for information on locations, see [this page](https://fanbox-print.pixiv.help/hc/en-us/articles/35510163260697)). This is a one-of-a-kind service that was made possible thanks to the cooperation between Content Providers (defined in the next article) and the Company.
+2.  Any person who wishes to become a Content Provider shall fully understand the FANBOX PRINT Terms of Use for Content Providers (hereafter referred to as "Individual Terms of Use") before registering as a Content Provider.
 3.  These Individual Terms of Use define the relationship between the Company and Content Providers. If a person applies to become a Content Provider, it will be assumed that they have consented to all of these Individual Terms of Use.
-4.  In the case that a definition is not specified in these Individual Terms of Use, the pixiv Service Master Terms of Use (hereafter referred to as the "Service Master Terms of Use") and other provisions including guidelines and the like (“Other Provisions”) established by the Company for this Service shall apply.
+4.  In the case that a definition is not specified in these Individual Terms of Use, the pixiv Service Master Terms of Use (hereafter referred to as the "Service Master Terms of Use") and other provisions including guidelines and the like ("Other Provisions") established by the Company for this Service shall apply.
 
 Article 2. Definitions
 ----------------------
 
-The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Unless otherwise provided, terms used in these Individual Terms of Use other than those defined below shall have the meanings specified in the pixiv Master Terms of Use.
+The terms used in these Individual Terms of Use shall have the meanings set forth in the following sections. Unless otherwise provided, terms used in these Individual Terms of Use other than those defined below shall have the meanings specified in the pixiv Master Terms of Use.
 
-1.  “This Service” refers to “FANBOX PRINT,” a service provided by the Company in partnership with Sharp Marketing Japan Corporation which allows customers to buy Print Products (defined in the next section) from multi-function printer and copy machines at convenience stores.
-2.  “Print Products” refers to the products that the Company sells using this Service through multi-function printer and copy machines at convenience stores.
+1.  "This Service" refers to "FANBOX PRINT," a service provided by the Company in partnership with affiliated companies (listed [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35510163260697)) which allows customers to buy Print Products (defined in the next section) from multi-function printer and copy machines and similar devices.
+2.  "Print Products" refers to the products that the Company sells using this Service through multi-function printer and copy machines and similar devices.
 3.  "Content" refers to any data related to the image, including the image data registered with the service in the form of text, images, symbols, etc. provided by Content Providers, as well as metadata such as Content Provider names, and work titles. This also includes content printed using this Service, content that constitutes Print Products, and product information pages.
 4.  "Content Provider" is a person whose application to use the service has been approved by the Company’s Content Provider Review process.
 
@@ -1449,11 +1451,11 @@ Article 6. Content
 3.  The Content Review will be completed within 4 business days (for details on business days, click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35237331491481)) from the date of registration. The Content Provider must be aware that the start date and the time required for the Content Review are only estimates, and that there may be delays.
 4.  If the Company deems the Content is appropriate after the Content Review, the content will be registered on the Service.
 5.  Content Providers shall not object to the Content Review results.
-6.  When the Content is registered on the Service via the process described in Section 4, it will be deemed that the Content Provider has granted the Company a sublicense and non-exclusive right to use the Content. The Company shall pay the Content Provider royalties for their Content in accordance with Article 8 of these Individual Terms of Use (“Article 8. Royalties and Payment”). In addition, the Content Provider needs to inform the Company before providing the same Content to a third party with a service that competes with this Service (this includes those who are planning to or may in the future provide a competing service).
+6.  When the Content is registered on the Service via the process described in Section 4, it will be deemed that the Content Provider has granted the Company a sublicense and non-exclusive right to use the Content. The Company shall pay the Content Provider royalties for their Content in accordance with Article 8 of these Individual Terms of Use ("Article 8. Royalties and Payment"). In addition, the Content Provider needs to inform the Company before providing the same Content to a third party with a service that competes with this Service (this includes those who are planning to or may in the future provide a competing service).
 
 ### Prohibited Content
 
-1.  Content Providers shall agree that the content listed below (hereafter collectively referred to as "Prohibited Content") will not be registered even if an application is made according to the process outlined in “Content Registration and Review” above. n
+1.  Content Providers shall agree that the content listed below (hereafter collectively referred to as "Prohibited Content") will not be registered even if an application is made according to the process outlined in "Content Registration and Review" above.
     1.  Content prohibited by the [FANBOX PRINT Content Guidelines](https://fanbox-print.pixiv.help/hc/en-us/articles/35511843026841)
     2.  Content prohibited in Article 14 of the Service Master Terms of Use
     3.  Other Content prohibited by various regulations
@@ -1497,9 +1499,9 @@ Article 7. Sale of Print Products
     By setting the Sales Start Date, the Company shall assume that the Content Provider has given their approval to the Company to sell the approved Content (hereafter referred to as "Sales Approval"). Please note that once the Sales Start Date has been set, it cannot be changed.
 2.  As a general rule, once the Sales Start Date has been set for a Print Product, it will be available for purchase by customers for 30 days from the Sales Start Date defined in the preceding section. However, this does not apply if a separate agreement is made with the Company.  
     Due to Content Review delays, the actual Sales Start Date may be later than the date specified in the previous section. Even if it is delayed, the sales period will be approximately 30 days counting from the Sales Start Date specified in the previous paragraph. The Company shall not be liable for any damages arising from delays in Content Review or the Sales Start Date unless the damage is clearly caused by willful misconduct or negligence by the Company.
-3.  Content Providers can give Sales Approval to the Company for up to 5 Print Products at a time. Information about the types and prices of available Print Products is available [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35240014705177). Print Products with different sizes between L and 2L will be counted as 1. Print Products with different types of paper such as A4 plain paper and A4 glossy paper will also be counted as 1.
-4.  If a Content Provider wishes to list a Print Product for which the sales period has ended for sale again (hereafter referred to as "Restock"), it is possible to set a new Sales Start Date and give the Company the corresponding Sales Approval using the [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35238144896793) from the registration screen for the relevant Content. Print Products that have already passed the Content Review can be Restocked without going through Content Review again, and can be Restocked without limit.
-5.  The Company may choose to terminate the sale of Print Products without prior notice in the following cases. Unless otherwise stipulated in the Service Master Terms of Use or these Individual Terms of Use, the Company shall not be responsible for compensating Content Providers for damages caused by the termination of sales of Print Products based on this section.
+3.  Content Providers can give Sales Approval to the Company for up to 10 Print Products at a time. Information about the types, prices, and count of Print Products is available [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35240014705177).  
+    If a Content Provider wishes to list a Print Product for which the sales period has ended for sale again (hereafter referred to as "Relist"), it is possible to set a new Sales Start Date and give the Company the corresponding Sales Approval using the [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35238144896793) from the registration screen for the relevant Content. Print Products that have already passed the Content Review can be Relisted without going through Content Review again, and can be Relisted without limit.
+4.  The Company may choose to terminate the sale of Print Products without prior notice in the following cases. Unless otherwise stipulated in the Service Master Terms of Use or these Individual Terms of Use, the Company shall not be responsible for compensating Content Providers for damages caused by the termination of sales of Print Products based on this section.
     1.  When the author, copyright holder, publisher, or other rights holder of a Print Product wishes to terminate sales.
     2.  If it is found that there are any violations of the Terms and Conditions (not limited to the Service Master Terms of Use and Individual Terms) or guidelines agreed upon between the Content Provider and the Company, such as the FANBOX PRINT Content Guidelines.
     3.  If the Company deems it difficult to keep selling said Print Products.
@@ -1510,23 +1512,23 @@ Article 8. Royalties and Payments
 ### Royalties
 
 1.  The Company will compensate Content Providers for the Print Products sold with a monetary amount (hereafter referred to as "Royalties") calculated using the Company's [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35212037208729) depending on the number of Print Products sold by the Company through this service.
-2.  "Sold by the Company" means Print Products sold through orders placed on this Service, and printed by pressing the purchase button on the multi-function printer and copy machine installed at a convenience store. Note that a purchase is counted only when the user actually presses the purchase button on the machine.
-3.  Royalties will be the sum of each purchase from 0:00 on the first day of the month to 11:59 pm on the last day of the month. Information about the total number sold per content can be found on the Management Page. For more information on this, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/40561622395929).
+2.  "Sold by the Company" means Print Products sold through orders placed on this Service, and printed by pressing the purchase button on the multi-function printer and copy machine or similar devices. Note that a purchase is counted only when the user actually presses the purchase button on the machine.
+3.  Royalties will be the sum of each purchase from 0:00 on the first day of the month to 11:59 pm on the last day of the month, according to the local time of the region where the multi-function printer and copy machine or similar device is installed. Content Providers can check the relevant Royalties and Payment Amount (as defined in Section 1 of the following Item) on the Management Page after the 4th business day of the following month.
 
 ### Payments
 
-1.  The Company shall deposit the amount after deducting withholding tax (applicable to all individual recipients, whether within or outside Japan, or when the recipient is a corporate entity outside Japan) and a transfer fee determined by the Company from the current month's Royalties (hereafter referred to as “Payment Amount”) to the account specified in advance by the Content Provider within 5 business days from the 20th of the second following month. For more information on transfer fees and tax deductions, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35215404431513). If the payment date falls on a holiday for the Company or the financial institution, payment will be made within 5 business days from the next business day.
+1.  The Company shall transfer the amount (hereafter referred to as "Payment Amount") after deducting withholding tax (applicable to all individual recipients, whether within or outside Japan, or when the recipient is a corporate entity outside Japan) and a transfer fee determined by the Company from the current month's Royalties to the account specified in advance by the Content Provider within 5 business days from the 20th of the second following month. For more information on transfer fees and tax deductions, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35215404431513). If the payment date falls on a holiday for the Company or the financial institution, payment will be made within 5 business days from the next business day.
 2.  If the Payment Amount is very large, the Company may transfer all or part of the Payment Amount in the following month.
-3.  If Royalties for the month are less than 5000 JPY, the transfer will be carried over to the next month or later, and the same shall apply thereafter. However, regardless of total amount of Royalties, the Company shall settle the payment for the current fiscal year by transferring the Payment Amount on the last day of June of each year within 5 business days from the said date. Click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35214613493913) for more details.
+3.  If the Royalties are less than 5000 JPY (hereafter referred to as the "Minimum Royalties"), the transfer will be carried over to the next month or later, and the same shall apply thereafter. Regardless of the Royalties, the Company shall settle the payment for the current fiscal year by transferring the Payment Amount held on the last day of June of each year within 5 business days from the said date. Click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35214613493913) for more details.
 4.  If the transfer account information is incorrect, any service fees charged as a result of additional transfer attempts will be the responsibility of the Content Provider.
 5.  If an extra amount is paid to the Content Provider due to a malfunction in the Company system or for any other reason, the Content Provider is obligated to immediately return the extra amount to the Company regardless of the reason.
-6.  If the Content Provider is an individual in Japan and receives a total Royalties of 50,000 JPY or more from the Company in 1 year, the Content Provider shall provide the Company with their Individual Number (My Number) information using the Company's designated method by December 15th of each year. However, this does not apply in the case the Company already has the Content Provider's Individual Number (My Number) information or if the Content Provider refuses to share their Individual Number (My Number) with the Company.
+6.  If the Content Provider is an individual in Japan and receives a total Payment Amount of 50,000 JPY or more from the Company in 1 year, the Content Provider shall provide the Company with their My Number information using the Company's designated method by the end of December of each year. However, this does not apply in the case the Company already has the Content Provider's My Number information or if the Content Provider refuses to share their My Number with the Company.
 
 ### Inaccuracies or Mistakes in Transfer Account Information
 
 1.  If the Payment Amount cannot be transferred due to incomplete or incorrect registered transfer account information (hereafter referred to as "Transfer Account Information") set by the Content Provider, the Payment Amount will be transferred the following month. The same will be carried forward thereafter.
-2.  If a payment is not successful due to an error in the Transfer Account Information, the Content Provider will not be allowed to register new Content or Restock Print Products.
-3.  If a payment cannot be made due to incorrect Transfer Account Information even after 6 months have passed from the date of the payment, the Company shall assume that the Content Provider has exempted the Company from any obligation to transfer the Payment Amount.
+2.  If the Payment Amount cannot be transferred due to incomplete or incorrect Transfer Account Information, the Content Provider will not be allowed to register new Content or Relist Print Products.
+3.  If the Payment Amount cannot be transferred due to incomplete or incorrect Transfer Account Information even after 6 months have passed from the date of the payment, the Company shall assume that the Content Provider has exempted the Company from any obligation to transfer the Payment Amount.
 4.  If the Company makes a payment to a third party due to incomplete or incorrect Transfer Account Information, the Company may treat that payment as a payment to the Content Provider and shall be exempted from any claims made by the Content Provider.
 
 ### Waiving Payments
@@ -1620,6 +1622,11 @@ Supplementary Provisions
 ------------------------
 
 These Individual Terms of Use shall take effect on September 4th, 2024.
+
+Revision
+--------
+
+May 28, 2026: Revised Article 1 (Introduction), Article 2 (Definitions), Article 7 (Sale of Print Products), and Article 8 (Royalties and Payments).
 
 “pixiv COMIC” Terms of Use
 ==========================
