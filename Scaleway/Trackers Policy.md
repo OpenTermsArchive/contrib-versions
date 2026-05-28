@@ -37,6 +37,7 @@ As part of our commitment to transparency, Scaleway informs you that its website
 | rl\_anonymous\_id | .scaleway.com | technical | Stores the anonymous ID. By default, it would be the auto‑generated unique ID by SDK for each visitor unless overridden via setAnonymousId API. All the subsequent event payloads will contain this data unless cleared from the storage. | Rudderstack | [privacy](https://www.rudderstack.com/privacy-policy/) | 12 months |
 | rl\_page\_init\_referrer | .scaleway.com | technical | Stores the initial referrer of the page when a user visits a site for the first time. All the subsequent event payloads will contain this data. | Rudderstack | [privacy](https://www.rudderstack.com/privacy-policy/) | 12 months |
 | rl\_session | .scaleway.com | technical | Stores the session‑related information including sessionId if session tracking is enabled. | Rudderstack | [privacy](https://www.rudderstack.com/privacy-policy/) | 12 months |
+| MUID | .bing.com | advertising | Stores the session‑related information for Bing Ads display and conversion | Bing Ads | [privacy](https://www.rudderstack.com/privacy-policy/) | 13 months |
 
 How can I manage cookies on my device and/or disable cookies?
 -------------------------------------------------------------
