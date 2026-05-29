@@ -1,3 +1,5 @@
+Our technology powers the professionals who are shaping the world. [Meet the changemakers](https://www.thomsonreuters.com/changemakers/)
+
  [Skip to main content](#mainContent)
 
 [Thomson Reuters](https://www.thomsonreuters.com/en)
