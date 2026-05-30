@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: May 28, 2026
+Last Updated: May 29, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -257,14 +257,29 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 
 **9.9.** You are responsible for complying with all applicable data protection, import, re-import, export, and re-export control laws, including any applicable license requirements, and country-specific sanctions programs. You are responsible for serving as the exporter and importer of record (as applicable) for your data, software, or technology, and you accept that AWS will not participate in the export or import procedure. If you are using Appliances or Appliance Software for dual use items in the European Union, you represent that you, or the legal entity you represent, are “established” in the European Union; or, if you are not “established” in the European Union, that you will not upload, request that we download, or export such dual-use items outside the European Union. If you are using Appliances or Appliance Software in the European Union for military items, you represent that you, or the legal entity you represent, are permitted by the Member State of your incorporation to upload, request that we download or export any such military items from that Member State, and it is a condition of this Agreement and your use of AWS Snow Family that you are so permitted.
 
-10\. Amazon Relational Database Service (Amazon RDS)
-----------------------------------------------------
+10\. Amazon Relational Database Service (Amazon RDS) and Amazon Aurora
+----------------------------------------------------------------------
 
-**10.1.** You may store snapshots of Your Amazon RDS Content for later use in Amazon RDS, but snapshots cannot be downloaded outside the Services.
+**10.1 General Terms**
 
-**10.2.** The Reserved DB Instance program allows you to designate Amazon RDS database instances as subject to the reserved pricing and payment terms set forth on the Amazon RDS detail page on the AWS Site (each designated instance, a “Reserved DB Instance”). We may terminate the Reserved DB Instance program at any time. We may change pricing for the Reserved DB Instance program at any time, but price changes will not apply to previously designated Reserved DB Instances. Reserved DB Instances are noncancellable, and you will owe the amount charged for the Reserved DB Instance for the duration of the term you selected, even if the Agreement is terminated. Reserved DB Instances are nontransferable and all amounts paid in connection with the Reserved DB Instances are nonrefundable, except that if we terminate the Agreement other than for cause, terminate an individual Reserved DB Instance type, or terminate the Reserved DB Instance program, we will refund you a pro rata portion of any up-front fee paid in connection with any previously designated Reserved DB Instances. Upon expiration or termination of the term of a Reserved DB Instance, the Reserved DB Instance pricing will expire and standard on-demand usage prices will apply to the database instance.
+**10.1.1.** The Reserved DB Instance program allows you to designate Amazon RDS database instances as subject to the reserved pricing and payment terms set forth on the Amazon RDS detail page on the AWS Site (each designated instance, a “Reserved DB Instance”). We may terminate the Reserved DB Instance program at any time. We may change pricing for the Reserved DB Instance program at any time, but price changes will not apply to previously designated Reserved DB Instances. Reserved DB Instances are noncancellable, and you will owe the amount charged for the Reserved DB Instance for the duration of the term you selected, even if the Agreement is terminated. Reserved DB Instances are nontransferable and all amounts paid in connection with the Reserved DB Instances are nonrefundable, except that if we terminate the Agreement other than for cause, terminate an individual Reserved DB Instance type, or terminate the Reserved DB Instance program, we will refund you a pro rata portion of any up-front fee paid in connection with any previously designated Reserved DB Instances. Upon expiration or termination of the term of a Reserved DB Instance, the Reserved DB Instance pricing will expire and standard on-demand usage prices will apply to the database instance.
 
-**10.3. Using Oracle Software.**
+**10.1.2.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes.
+
+**10.1.3.** Engine End of Life.  You are responsible for upgrading your Amazon RDS engine to a supported version when it reaches end of life (EOL).  AWS is not responsible for Service failure caused by EOL software.  If you operate your database on EOL software, AWS may, after providing you with prior notice of engine EOL as detailed [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/aurorapostgresql-release-calendar.html) and [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraMySQLReleaseNotes/AuroraMySQL.release-calendars.html), take a snapshot of Your Content and delete the instance or cluster running the EOL software.  This Section 10.1.3 does not apply to Amazon Aurora DSQL.
+
+**10.2. Amazon RDS Custom**
+
+**10.2.1.** RDS Custom enables you to provision and manage the database engine and operating system running on an Amazon EC2 instance. In conjunction with RDS Custom, you may use certain binaries, software, or similar media (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. You agree that you have determined that your use of RDS Custom complies, and will continue to comply, with applicable licensing and support requirements. Usage of RDS Custom in violation of your agreement(s) with third parties is not authorized or permitted.
+
+Your failure to maintain your database instance within the support perimeter (as specified in the documentation) may result in Service failure for which AWS is not responsible. Your customization, copies, and use of any additional software with RDS Custom is your responsibility and may result in your RDS Custom instance falling outside the support perimeter and causing Service failure for which AWS is not responsible.
+
+**10.2.2.** Your use of certain database engines or operating systems (OS) software (including related documentation) made available to you for use with RDS Custom is subject to the applicable third party licensing requirements specified below:
+
+*   Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
+*   Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. above and 10.5. below.
+
+**10.3. Amazon RDS for Oracle**
 
 **10.3.1.** “License Included”. As part of the Services, you may be allowed to use certain software (including related documentation) described on the AWS Site developed and owned by Oracle America, Inc. or its affiliates (“Oracle”) and Oracle’s licensors (collectively, the “Oracle Software”). If you choose to use the Oracle Software and do not already have a license from Oracle for that Oracle Software, Oracle and its licensors require that you agree to these additional terms and conditions:
 
@@ -289,35 +304,34 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 *   You must have a valid license with “Software Update License & Support” for the Oracle Software you wish to run. The terms of your existing license and support agreement(s) with Oracle continue to apply to your use of the Oracle Software; and
 *   You must follow Oracle’s current policies for licensing Oracle Database software in the cloud computing environment. The database instances using the Oracle Software with Amazon RDS reside in the Amazon EC2 environment.
 
-**10.4.** Using Microsoft Software. “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
+**10.4.** **Oracle AI Database@AWS**
+
+**10.4.1.**  In connection with Oracle AI Database@AWS, AWS may share Account Information, logs or other usage information with Oracle to enable Oracle to provide technical and sales support.
+
+**10.5. Amazon RDS for SQL Server**
+
+**10.5.1.**  “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
 
 *   SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
-*   Microsoft is an intended third-party beneficiary of this Section 10.4, with the right to enforce its provisions.
+*   Microsoft is an intended third-party beneficiary of this Section 10.5, with the right to enforce its provisions.
 
-**10.5. Amazon RDS Custom.**
+**10.5.2.**  “Bring Your Own Media” (BYOM). You must provide the installation files for Amazon RDS to install on your behalf.  Amazon RDS will automatically download and install cumulative updates on your behalf.
 
-**10.5.1.** RDS Custom enables you to provision and manage the database engine and operating system running on an Amazon EC2 instance. In conjunction with RDS Custom, you may use certain binaries, software, or similar media (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. You agree that you have determined that your use of RDS Custom complies, and will continue to comply, with applicable licensing and support requirements. Usage of RDS Custom in violation of your agreement(s) with third parties is not authorized or permitted.
+*   To use BYOM for Microsoft Software, you must have a valid license for the Microsoft Software you wish to run, and Software Assurance and License Mobility rights that permit deployment on AWS.  Prior to using BYOM with Microsoft Software, you must submit a License Mobility Verification Form to Microsoft, available [here](https://www.microsoft.com/licensing/docs/view/Forms?lang=1&year=2016).
+*   The terms of your existing license and support agreement(s) with Microsoft apply to your use of the Microsoft Software. You must follow all applicable Microsoft policies for licensing Microsoft Software in a cloud computing environment.
+*   If you direct Amazon RDS to install SQL Server in more than one region, you consent to Amazon RDS moving your installation files between those regions for that purpose.
 
-Your failure to maintain your database instance within the support perimeter (as specified in the documentation) may result in Service failure for which AWS is not responsible. Your customization, copies, and use of any additional software with RDS Custom is your responsibility and may result in your RDS Custom instance falling outside the support perimeter and causing Service failure for which AWS is not responsible.
+**10.6.  Amazon RDS for Db2**
 
-**10.5.2.** Your use of certain database engines or operating systems (OS) software (including related documentation) made available to you for use with RDS Custom is subject to the applicable third party licensing requirements specified below:
-
-*   Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
-*   Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. and 10.4. above.
-
-**10.6.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes.
-
-**10.7. Using IBM Software**
-
-**10.7.1.** “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS enables you to provision IBM Db2 software on Amazon RDS instances using your existing IBM Db2 software license and support entitlements obtained from IBM or an authorized IBM reseller to IBM Db2 Standard Edition or IBM Db2 Advanced Edition (“IBM Db2 Software”). You can use your existing IBM Db2 Software license under the BYOL option with Amazon RDS if you meet and agree to the following terms and conditions:
+**10.6.1.** “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS enables you to provision IBM Db2 software on Amazon RDS instances using your existing IBM Db2 software license and support entitlements obtained from IBM or an authorized IBM reseller to IBM Db2 Standard Edition or IBM Db2 Advanced Edition (“IBM Db2 Software”). You can use your existing IBM Db2 Software license under the BYOL option with Amazon RDS if you meet and agree to the following terms and conditions:
 
 *   You must have a valid license with current and ongoing “Subscription & Support” authorization from IBM or its authorized reseller for the IBM Db2 Software you wish to run. The terms and conditions of your existing license and support agreement(s) with IBM, and your compliance therewith, continue to apply to your use of IBM Db2 Software with Amazon RDS;
-*   You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
+*   You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
 *   Your use of IBM Db2 Software with Amazon RDS is subject to suspension or termination if you do not comply with the terms and conditions above.
 
-**10.7.2.** Subject to the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), AWS may send information to IBM related to your IBM Db2 Software licenses such as identification numbers issued to you by IBM and the version of the IBM Db2 Software that you are using.
+**10.6.2.** Subject to the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), AWS may send information to IBM related to your IBM Db2 Software licenses such as identification numbers issued to you by IBM and the version of the IBM Db2 Software that you are using.
 
-**10.7.3.** When you purchase licenses for IBM Db2 Software through the AWS Marketplace integration in the RDS console, Section 20 (AWS Marketplace) of the Service Terms apply.
+**10.6.3.** When you purchase licenses for IBM Db2 Software through the AWS Marketplace integration in the RDS console, Section 20 (AWS Marketplace) of the Service Terms apply.
 
 11\. Amazon Simple Notification Service (Amazon SNS)
 ----------------------------------------------------
@@ -1821,6 +1835,14 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 **107.2.** You are responsible for your relationship with other cloud or last mile service providers, including your agreements with them, complying with their policies and procedures and paying them any applicable fees. AWS has no responsibility or liability for any services provided by other cloud or last mile service providers.
 
 **107.3.** You are responsible for monitoring the utilization of your AWS Interconnect connections and managing capacity changes in a timely manner. If your usage exceeds the capacity of your purchased AWS Interconnect connection, AWS may reduce your performance or automatically enroll you in a higher capacity tier for subsequent subscription periods.
+
+**107.4. Free Tier Interconnect**
+
+**107.4.1.** You may create one Free Tier Interconnect (500 Mbps) per cloud service provider, per AWS Region.
+
+**107.4.2.** We may delete any Free Tier Interconnect after 30 days' notice if you have not used it in the previous 90 days.
+
+**107.4.3.** We may temporarily reduce Free Tier Interconnect speed to manage capacity.
 
 108\. Amazon Connect Decisions
 ------------------------------
