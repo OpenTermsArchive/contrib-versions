@@ -154,6 +154,16 @@ Badoo Trading Limited and Bumble Trading LLC are joint controllers in relation t
 | ##### BFF<br><br>Offer the chance to join Hive groups, which are groups of people and chats based on specific location or topics, and automatically recommend Hive groups for you to join based on your location, activities, and “my life” and “my interests” information. | *   User IDs (including Hive group admins and members)<br>*   Profile information<br>*   Activity information (e.g. data, text, audio, image and video messages, poll responses)<br>*   Location | You provide us with your profile and activity information.<br><br>We get location information from the device you use to access the Bumble social networking service. | **Contractual necessity** to connect you. |
 | Badoo only  <br>Show ‘nearby’ locations to other members | *   Geocoordinates from the device of the member only shown as ‘nearby’ to other members | We get location information from the device you use to access Badoo | **Contractual necessity** to connect you  <br>The information is retained for 6 years after account deletion |
 
+BeePitched allows people to create, contribute to, receive and view personalised Pitches about others, including people who do not have a Bumble account.
+
+To provide BeePitched, Bumble processes information such as names, phone numbers, photos, Pitch content, reports and related technical information. This information is provided by Pitch creators and contributors, by Pitch Subjects, and by the devices used to access BeePitched.
+
+We use this information to operate BeePitched, restrict access to Pitches to the intended recipient, moderate content, investigate reports, prevent misuse, keep the feature secure and comply with legal obligations. Pitches may be accessible to the Pitch Subject, invited contributors, authorised Bumble personnel and service providers that help us operate BeePitched.
+
+We process information relating to Pitch creators and contributors in order to provide the BeePitched feature, and information relating to Pitch Subjects based on our legitimate interests in operating BeePitched safely and responding to reports and requests.
+
+Pitch content is generally retained for up to 30 days, unless we need to keep it longer for safety, reporting, legal or compliance purposes.
+
 Here at Bumble, we take all appropriate and reasonable security measures to:
 
 *   help protect your information against loss, misuse, and unauthorised access or sharing
