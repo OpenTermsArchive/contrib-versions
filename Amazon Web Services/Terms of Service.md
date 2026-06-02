@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: May 29, 2026
+Last Updated: June 1, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -88,7 +88,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon Bio Discovery, Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Customer, Amazon Connect Decisions, Amazon Connect Health, Amazon Connect Talent, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Security Agent, Amazon WorkSpaces, and AWS Deadline Cloud.
 
-**1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
+**1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such Services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) and applicable Service-specific documentation for more details.
 
 **1.24.2.** To improve performance, such services may use cross-region inference, using the optimal AWS Region to process your Content when running model inference. See the applicable service documentation for more details.
 
@@ -1013,7 +1013,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.12.1.** Third-party models are available to you on Amazon Bedrock as “Third-Party Content”. By using a third-party model, you agree to the applicable terms [here](http://aws.amazon.com/legal/bedrock/third-party-models). Notwithstanding anything to the contrary in the Agreement or Service Terms, Section 20 (AWS Marketplace) above applies to your use of models sold by third parties, and Amazon Web Services, Inc. is the invoicing party with respect to these models.  
 
-**50.12.2.** As part of providing the Service, Amazon Bedrock may use automated abuse detection mechanisms designed to detect harmful content, including related to potential violations of our or third-party model providers’ terms of service or acceptable use policies. If these mechanisms detect apparent child sexual abuse material, you agree and instruct that we may report the incident to the National Center for Missing and Exploited Children or other authority. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details about abuse detection on Bedrock and related information sharing with third parties. 
+**50.12.2.** As part of providing the Service, Amazon Bedrock may store Service inputs and outputs for up to 30 days (unless otherwise required by law) for the sole purpose of detecting activity that violates our, or third-party model providers’, terms of service or use policies. If we detect apparent child sexual abuse material (“CSAM”), you agree and instruct that we may: (a) review the flagged input or output to determine if it is CSAM, and (b) report the incident to the National Center for Missing and Exploited Children or other authority. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details about abuse detection on Bedrock.
 
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change provisioned throughput commitment pricing or stop offering commitments for provisioned throughput at any time. Any price changes will not apply to existing commitments. Provisioned throughput commitments are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement.
 
