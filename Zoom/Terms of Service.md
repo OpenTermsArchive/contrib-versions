@@ -14,7 +14,7 @@ Enterprise
 
 Build
 
-[Video SDK](https://zoom.us/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)[AI Services](https://zoom.us/en/products/ai-services/)
+[Video SDK](https://zoom.us/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)[API Services](https://zoom.us/en/products/ai-services/)
 
 Integrate
 
