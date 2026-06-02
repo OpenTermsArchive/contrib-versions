@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/news/utlaandska_pass_www.jpg)
+[![](/assets/stock/news/almedalen.jpg)
+
+#### Almedalen 2026
+
+2026-06-01
+
+Panels, debates and lectures we will participate in during Almedalsveckan.](https://www.bankid.com/en/about-us/news/almedalen-2026) [![](/assets/stock/news/utlaandska_pass_www.jpg)
 
 #### BankID renewal with EU passports
 
@@ -130,10 +136,4 @@ We're now making it easier for registered non-Swedish citizens with foreign ID d
 
 2026-04-22
 
-Payment services that use BankID for phone calls can use a new interface for payments made during phone calls.](https://www.bankid.com/en/about-us/news/new-function-for-bankid-in-phone-calls)[![](/assets/stock/news/news_payment_ENG.jpg)
-
-#### New payment flow launched
-
-2026-04-08
-
-For businesses who initiate payments, we are launching a new payment flow with the possibility to add a warning.](https://www.bankid.com/en/about-us/news/new-payment-flow-launched)
+Payment services that use BankID for phone calls can use a new interface for payments made during phone calls.](https://www.bankid.com/en/about-us/news/new-function-for-bankid-in-phone-calls)
