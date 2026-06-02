@@ -8,7 +8,7 @@ Energia Terms & Conditions
 
   
 
-General Terms and Conditions for the Supply of Energy.
+Our General Terms and Conditions are changing. For existing customers, this change will be effective as of 5th July 2026 . For new customers, this change is now effective. Please see updated General Terms and Conditions [here](https://www.energia.ie/getmedia/d19e514c-9e2b-4c4b-bfc4-2eb670d54231/Energia-Domestic-Terms-and-Conditions-2026.pdf).
 
   
 These terms and conditions, as amended from time to time (the “General Terms and Conditions”) together with the Customer Registration and Product Terms Sheet constitute the Energy Supply Contract between Energia Customer Solutions Limited and a person requesting a supply of Energy (the “Customer” or “you”).
@@ -575,7 +575,44 @@ VAT applied at current rates. The Public Service Obligation (PSO) Levy is set an
 
 ### 
 
-26\. CEG Tariff (Clean Export Guarantee)
+26\. "Get a Quote Calculator" Promotional Terms & Conditions
+
+Standard Dynamic Price Contract   
+   
+This tariff is available for Energia Domestic customers with a Smart interval MCC12 meter.   
+   
+Customers must agree to receive their bills online and pay their bills by direct debit to avail of this tariff.  If you do not provide a direct debit instruction; withdraw a direct debit instruction; or do not pay by one of the agreed payment methods, Energia may change the frequency of your bills and alter the Tariff accordingly, and/or may require you to pay a security deposit in line with our General Terms & Conditions of Supply. 
+
+Energia reserve the right to request a deposit of €500 for new customers signing up to this product. This deposit will be refunded to customers as per Energia’s Security Deposit Policy as outlined in our Code of Practice on Customer Billing and Disconnection.  
+
+Charges/Discounts  
+Any discounts apply for an agreed duration and are against the base unit rate of the Energia dynamic tariff, subject to the customer continuing to pay by direct debit and receiving their bills online. No discount applies on the dynamic element of the tariff.    
+   
+Once the discount period has ended, the customer will revert to the standard non-discounted Energia dynamic tariff.   
+   
+Contract length/Type   
+The base unit rates, time bands, contract duration and standing charges are subject to change in accordance with our General Terms and Conditions. 
+
+Energia reserve the right to adjust the base unit rates and/or standing charges on this product from time to time. Customers will be provided with 30 days’ notice in advance of any changes.  
+
+Terminating the contract 
+
+If the CTF level of your smart meter drops below the required score of 4 while you are on this product, you will be moved to one of our standard Time of Use Smart Meter tariffs with standard unit rates. The CTF (Comms Technically Feasible) score relates to the strength of connection between your smart meter and ESB Networks to enable the frequent flow of data needed for a dynamic tariff.  
+
+If you fall into arrears while on this product, Energia reserve the right to move you onto a more appropriate tariff.  
+
+Where a customer leaves a dynamic tariff contract, they will not be permitted to sign back up to the tariff for a period of 12 months.  
+
+Where a customer leaves a dynamic tariff and switches to another energy supplier, they will be liable to pay a termination fee as part of our General Terms & Conditions.  
+
+In the event that Energia retires this product, you will be migrated to an alternative tariff  which Energia considers most appropriate. You will be notified in line with clause 4.2 of the General Terms and Conditions .    
+   
+Taxes and Pass-through charges   
+VAT applied at current rates. The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier. 
+
+### 
+
+27\. CEG Tariff (Clean Export Guarantee)
 
 •    If you are a Microgeneration Customer who meets the CEG Eligibility Criteria, you will receive from us the CEG Tariff in accordance with this Clause.  
 •    The CEG Tariff will be calculated using a unit rate published from time to time by Energia and will be based on the amount of excess electricity exported to the grid from the Premises using: (a) actual export quantities where you satisfy the Metered Export Eligibility Criteria, or (b) deemed export quantities where you satisfy the Deemed Export Eligibility Criteria.  
@@ -587,7 +624,7 @@ VAT applied at current rates. The Public Service Obligation (PSO) Levy is set an
 
 ### 
 
-27\. Product Terms & Conditions
+28\. Product Terms & Conditions
 
 Total discount is based on your chosen price plan options and applies to new customers only.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  From time to time we may issue promotional codes.  Only one promotional code will be accepted per customer registration. Other promotional codes may be available at any given time.
 
@@ -610,7 +647,7 @@ If you do not pay by direct debit then we expect payment before the due date on 
 
 ### 
 
-28\. Cashback Terms & Conditions
+29\. Cashback Terms & Conditions
 
 **Cashback Offers:**  
   
@@ -622,13 +659,13 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 
 ### 
 
-29\. Boiler Services Terms & Conditions
+30\. Boiler Services Terms & Conditions
 
 Learn more about our [Boiler Services Terms and Conditions](https://www.energia.ie/getattachment/702455b3-c54b-4da9-9852-17502169c70b/Boiler-Services-Terms-and-Conditions.pdf?lang=en-GB)
 
 ### 
 
-30\. Contract Renewal Terms & Conditions
+31\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
@@ -640,25 +677,25 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 ### 
 
-31\. Free Gas Boiler Offer
+32\. Free Gas Boiler Offer
 
 Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
 
 ### 
 
-32\. Energia Solar & Battery Terms and Conditions
+33\. Energia Solar & Battery Terms and Conditions
 
 [Read the Energia Solar & Battery Terms and Conditions.](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-\(final\)-\(11-11-2020\)_2.pdf.aspx;)
 
 ### 
 
-33\. Energia EV Charger Customer Terms and Conditions
+34\. Energia EV Charger Customer Terms and Conditions
 
 View our [EV charger offer customer terms and condtions.](https://www.energia.ie/getmedia/5450275f-f2b5-4a34-954c-23d48bc1a739/Energia-Free-EV-Charger-Customer-Terms-and-Conditions-FINAL.pdf)
 
 ### 
 
-34\. Newsletter competition terms and conditions
+35\. Newsletter competition terms and conditions
 
 [View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024.pdf?lang=en-GB)  
   
@@ -676,7 +713,7 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
 
 ### 
 
-35\. Digital & Social Competition
+36\. Digital & Social Competition
 
 General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
 
@@ -696,12 +733,6 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
 ### 
 
-36\. Energia Rugby for All Survey Terms and Conditions
+37\. Energia Rugby for All Survey Terms and Conditions
 
 [View the Energia Rugby for All Survey Terms and Conditions](https://www.energia.ie/getmedia/9a109747-221c-4c73-adba-ccc6fb76212d/Energia-Rugby-for-All-Survey-T-C-s.pdf)
-
-### 
-
-37\. Ideal Home Hotel Giveaway Competition Terms and Conditions
-
-[View and download the Ideal Home Hotel Giveaway Competition Terms and Conditions.](https://www.energia.ie/getmedia/fca4ebc4-c666-43c1-bdcd-48db01dbf774/Ideal-Home-Hotel-Giveaway-Competition-Ts-and-Cs.pdf)
