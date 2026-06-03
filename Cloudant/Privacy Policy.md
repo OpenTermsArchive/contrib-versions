@@ -264,7 +264,7 @@ We have implemented various safeguards including:
 *   Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. 
 *   Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
 *   Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/us-en/privacy/bcr "IBM Controller Binding Corporate Rules").
-*   IBM’s privacy practices, described in this Privacy Statement, comply with the Global Cross-Border Privacy Rules (CBPR) Program Requirements. The [Global Cross-Border Privacy Rules (CBPR) System](https://www.globalcbpr.org/ "Global Cross-Border Privacy Rules (CBPR) System") provides protection of personal information and supports trusted and secure international data flows among participating jurisdictions as it pertains to online information collected through [ibm.com](https://ibm.com/ "IBM website").
+*   IBM’s privacy practices, described in this Privacy Statement, comply with the Global Cross-Border Privacy Rules (CBPR) Program Requirements. The [Global Cross-Border Privacy Rules (CBPR) System](https://www.globalcbpr.org/ "Global Cross-Border Privacy Rules (CBPR) System") provides protection of personal information and supports trusted and secure international data flows among participating jurisdictions as it pertains to online information collected through [ibm.com](https://www.ibm.com/ "IBM website").
 *   IBM’s privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](https://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](https://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
 
 Controller and Representative Information
@@ -339,12 +339,12 @@ You may have certain rights when it comes to the handling of your personal infor
 
 The [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") form can be used to:
 
-*   ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM's Data Privacy Team, including the responsible Data Protection Officers.
+*   ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM’s Data Privacy Team, including the responsible Data Protection Officers.
 *   submit a complaint to IBM if you are not satisfied with how IBM is processing your personal information.
 
 The [Submit a data rights request form](https://www.ibm.com/privacy/requests/ "Submit a data rights request form") can be used to:
 
-*   request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
+*   subject to applicable law, request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional or limited rights concerning your personal information.
 *   request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability);
 *   request to delete the personal information we hold about you;
 *   Opt-out of specific personal information processing types, such as targeted advertising
@@ -422,8 +422,6 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1.  Marketing
-2.  Cookies and Similar Technologies
-3.  Your Rights
+1.  Your Rights
 
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
