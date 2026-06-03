@@ -1,9 +1,9 @@
-Bandcamp's Acceptable Use and Moderation policy
+Bandcamp's Acceptable Use and Moderation Policy
 ===============================================
 
 What is an Acceptable Use and Moderation policy?This policy sets out the “Content Standards” that apply when you upload content to our sit...
 
-Updated this week
+Updated today
 
 Table of contents
 
@@ -191,13 +191,17 @@ The actions we may take are not limited to those described above, and we may tak
 Actions you can take:
 =====================
 
-*   **If you identify any Content that you think contravenes this Acceptable Use Policy,** you can submit a “Take Down Request” through our website by selecting “report” on the posters page or contacting [\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection). Any report must provide the URL of the offending materials and which policy you believe it violates. A team of humans will review your Take Down Request (no decisions like this are automated), and we will remove the Content if we agree that it is in breach of our Acceptable Use Policy or is in any way unlawful. We will then send to you and anyone else affected by the Take Down Request a Statement of Reasons which will explain why we have made the decision we have made.
+*   **If you identify any Content that you think contravenes this Acceptable Use Policy,** you can submit a “Take Down Request” through our website by selecting “report” on the posters page or contacting [\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection). Any report must provide the URL of the offending materials and which policy you believe it violates. A team of humans will review your Take Down Request (no decisions like this are automated), and we will remove the Content if we agree that it is in breach of our Acceptable Use Policy or is in any way unlawful. We will then send to you and anyone else affected by the Take Down Request a Statement of Reasons which will explain why we have made the decision we have made.  
+    ​
     
-*   **If we have removed or disabled your Content or we have suspended or prohibited your account and you do not think that was the right decision, or you submitted a Take Down Request, and we decided that the content is not in breach of our Acceptable Use Policy, and if you are an EU citizen,** within 6 months of our decision, you can email us at [\[email protected\]](https://terms-escalation@bandcamp.com/) and explain why you think that we are wrong. Your email will then be reviewed by a member of our legal team, and they will aim to reply to you as soon as possible, but in any event, within 8 weeks. They may agree with you and reinstate/remove the Content, or if they think that the Content is still in breach of our Acceptable Use Policy or is otherwise unlawful, they may explain that our decision remains in place.
+*   **If we have removed or disabled your Content or we have suspended or prohibited your account and you do not think that was the right decision, or you submitted a Take Down Request, and we decided that the content is not in breach of our Acceptable Use Policy, and if you are an EU citizen,** within 6 months of our decision, you can email us at [\[email protected\]](https://terms-escalation@bandcamp.com/) and explain why you think that we are wrong. Your email will then be reviewed by a member of our legal team, and they will aim to reply to you as soon as possible, but in any event, within 8 weeks. They may agree with you and reinstate/remove the Content, or if they think that the Content is still in breach of our Acceptable Use Policy or is otherwise unlawful, they may explain that our decision remains in place.  
+    ​
     
-*   **If you still do not agree with our decision, and if you are an EU citizen, you may email us at** [\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection)[**\-escalation**](https://terms-escalation@bandcamp.com/)[\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection) **for attention of senior management. A member of our senior management team will review the decision, and they will aim to reply to you as soon as possible, but in any event, within 8 weeks. They may agree with you and reinstate/remove the Content, or if they think that the Content is still in breach of our Acceptable Use Policy or is otherwise unlawful, they may explain that our decision remains in place.**
+*   **If you still do not agree with our decision, and if you are an EU citizen, you may email us at** **[\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection)****[\-escalation](https://terms-escalation@bandcamp.com/)****[\[email protected\]](https://get.bandcamp.help/cdn-cgi/l/email-protection)** **for attention of senior management. A member of our senior management team will review the decision, and they will aim to reply to you as soon as possible, but in any event, within 8 weeks. They may agree with you and reinstate/remove the Content, or if they think that the Content is still in breach of our Acceptable Use Policy or is otherwise unlawful, they may explain that our decision remains in place.**  
+    ​
     
-*   **If you do not agree with this further response, and if you are an EU citizen, you can choose to refer the matter to an out-of-court dispute settlement body. We are currently waiting for a list of out-of-court dispute settlement bodies in the European Union to be certified. We will update this website when more information becomes available.** Bandcamp will work with any appointed out-of-court body where required by law to do so. We are not bound by any decisions made by these out-of-court bodies.
+*   **If you do not agree with this further response, and if you are an EU citizen, you can choose to refer the matter to an out-of-court dispute settlement body. We are currently waiting for a list of out-of-court dispute settlement bodies in the European Union to be certified. We will update this website when more information becomes available.** Bandcamp will work with any appointed out-of-court body where required by law to do so. We are not bound by any decisions made by these out-of-court bodies.  
+    ​
     
 *   **If you do not wish to use the out-of-court dispute settlement body or you have tried that approach,** you also have the option to pursue any claim you may have in court. If you have legal questions or wish to examine legal options that may be available to you, you may want to consult with your own legal counsel.
     
