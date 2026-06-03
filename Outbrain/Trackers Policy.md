@@ -303,6 +303,10 @@ We will need to confirm your identity and state of residency to process your req
 
 This is a [summary of the requests](https://www.outbrain.com/privacy/wp-content/uploads/2025/07/2024-Summary-of-California-Consumer-Requests.pdf) that Outbrain received and honoured from California residents in the last calendar year.
 
+**e) Data Broker Requirements**
+
+The entity maintaining this website is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website
+
 11\. “Do Not Track” disclosure
 ------------------------------
 
