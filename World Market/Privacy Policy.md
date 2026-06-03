@@ -27,6 +27,7 @@
     *   [PayPal](https://www.worldmarket.com/paypal.html)
     *   [Affirm](https://www.worldmarket.com/affirm.html)
     *   [Secure Shopping Guarantee](https://www.worldmarket.com/secure-shopping-guarantee.html)
+    *   [Compliance Embedded Battery Notice](https://www.worldmarket.com/battery-compliance.html)
 *   [Gift Cards](https://www.worldmarket.com/gift-card-balance.html)
 *   [Safety & Security](https://www.worldmarket.com/customer-service/safety-and-security.html)
 *   [Privacy Policy](https://www.worldmarket.com/customer-service/privacy-policy.html)
