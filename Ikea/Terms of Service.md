@@ -340,7 +340,7 @@ It may help to know, initially your new mattress can seem a bit too firm. Allow 
 *   If you would like to exchange your mattress for one of a higher value, all we ask is that you pay the difference between the original purchase price and the price of the replacement chosen. If the replacement mattress is lower in price, we will credit the difference to an IKEA refund card for you to use towards a future purchase.
 *   If a suitable alternative mattress cannot be found, no cash refund or cash alternative will be offered.  
 *   All products are subject to availability and alternative mattresses will only be offered from those currently available to take away from the IKEA store or to order to your home.
-*   If you need us to collect the mattress, we will charge a collection fee of €25. Delivery fees for the new mattress may also be applicable. Delivery fees may vary depending on the size of the mattress and the delivery service chosen – please see delivery Terms and Conditions for more information.
+*   If you need us to collect the mattress, we will charge a collection fee of €40. Delivery fees for the new mattress may also be applicable. Delivery fees may vary depending on the size of the mattress and the delivery service chosen – please see delivery Terms and Conditions for more information.
 *   The Sleep On It policy is valid on all full-size new mattresses only, but does not apply to children’s or cot mattresses, bed frames/bases, bed slats, mattress toppers or any other bedroom products.
 *   The policy is valid for mattresses purchased through any IKEA store or online.
 *   Exchanges can be requested at any IKEA IE store and through our Customer Support Centre.
@@ -353,7 +353,7 @@ It may help to know, initially your new mattress can seem a bit too firm. Allow 
 
 **FAQs**
 
-*   **How do I exchange an IKEA mattress​?** Simply bring your mattress and receipt to any IKEA store, and one of our sleep experts can help you find a different one.​ A collection fee of €25 will be charged if you need IKEA to collect your mattress. A delivery fee may also be applicable if you require your new mattress to be delivered.  
+*   **How do I exchange an IKEA mattress​?** Simply bring your mattress and receipt to any IKEA store, and one of our sleep experts can help you find a different one.​ A collection fee of €40 will be charged if you need IKEA to collect your mattress. A delivery fee may also be applicable if you require your new mattress to be delivered.  
 *   **How long can you return an IKEA mattress for?** You may exchange your mattress once within 365 days if you don't love it, provided that it is not dirty, marked, or damaged, and care instructions have been strictly followed. Simply take your mattress back to the IKEA store with your receipt and one of our sleep experts can help you find one that suits you better. Please note that initially, your new mattress can seem a bit too firm. Allow one month for your body to get used to the mattress and for the mattress to get used to your body. 
 
 * * *
