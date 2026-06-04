@@ -82,8 +82,6 @@ We use your personal information to provide you with targeted advertisements or 
 
 * * *
 
-[REMOVE ADS](https://order.w3schools.com/plans)
-
 * * *
 
 How We Share Your Information
@@ -307,6 +305,6 @@ Appendix: Sub-Processors
 
 Last updated: 2025.05.19
 
-[★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fabout%2Fabout_privacy.asp "Your W3Schools Profile")
+[★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
-[Sign in to track progress](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2Fabout%2Fabout_privacy.asp "Sign in to track your progress")
+[Sign in to track progress](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Sign in to track your progress")
