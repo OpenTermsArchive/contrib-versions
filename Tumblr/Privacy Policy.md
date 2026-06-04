@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 2025-01-25
+Last Modified: 2026-06-03
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
@@ -151,7 +151,7 @@ How to Delete Your Account and What Happens When You Delete Your Account
 
 If you want to delete your Account, you can do so from your [Account Settings](https://www.tumblr.com/settings/account). Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. In addition, given the nature of sharing on the Services, some of the public activity on your Account prior to deletion (such as reblogs of your blog posts) may remain stored on our servers and accessible to the public.
 
-You’ll do great things on Tumblr, surely, but if it ever comes time to say goodbye, then you’re free to delete your account at any time and for any reason. The deletion will be effective immediately, for the most part, but it might take a little while to scrub everything from our archives and backups.
+You’ll do great things on Tumblr, surely, but if it ever comes time to say goodbye, then you’re free to delete your account at any time and for any reason. We’ll keep your data for 30 days in case you regret your decision. After 30 days, your account will be deleted and cannot be recovered.
 
 What won’t get scrubbed are Reblogs of your posts. Those will remain on whatever blog reblogged them. Like we said before, it can be really, really hard to delete something once it goes out onto the internet, so be sure you’re only publishing stuff that you’re certain you want to publish.
 
