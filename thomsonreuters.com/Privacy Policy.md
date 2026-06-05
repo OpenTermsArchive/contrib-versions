@@ -38,6 +38,7 @@ Our technology powers the professionals who are shaping the world. [Meet the cha
 *   [Civil litigation](https://legal.thomsonreuters.com/en/legal/civil-litigation-law)
 *   [Criminal defense](https://legal.thomsonreuters.com/en/legal/criminal-law)
 *   [Family law](https://legal.thomsonreuters.com/en/legal/family-law)
+*   [Labor & employment law](https://legal.thomsonreuters.com/en/legal/labor-and-employment)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
@@ -241,13 +242,17 @@ Surface critical connections faster with AI-driven research workflows integrated
 
 [Learn more](https://legal.thomsonreuters.com/en/products/clear-investigate)
 
-*   [Legal books by category](https://store.legal.thomsonreuters.com/en-us/products/categories)
-*   [Legal books by jurisdiction](https://store.legal.thomsonreuters.com/en-us/products/jurisdictions)
-*   [Shop all legal books](https://store.legal.thomsonreuters.com/en-us/home)
-*   [Tax books by brand](https://store.tax.thomsonreuters.com/accounting/Brand/c/3000)
-*   [Tax books by organization](https://store.tax.thomsonreuters.com/accounting/Organization-Type/c/1000)
-*   [Tax books by practice area](https://store.tax.thomsonreuters.com/accounting/Practice-Area/c/2000)
-*   [Shop all tax books](https://store.tax.thomsonreuters.com/accounting/)
+*   Legal books
+*   Tax books
+
+*   [Category](https://store.legal.thomsonreuters.com/en-us/products/categories)
+*   [Jurisdiction](https://store.legal.thomsonreuters.com/en-us/products/jurisdictions)
+*   [Shop all](https://store.legal.thomsonreuters.com/en-us/home)
+
+*   [Brand](https://store.tax.thomsonreuters.com/accounting/Brand/c/3000)
+*   [Organization](https://store.tax.thomsonreuters.com/accounting/Organization-Type/c/1000)
+*   [Practice area](https://store.tax.thomsonreuters.com/accounting/Practice-Area/c/2000)
+*   [Shop all](https://store.tax.thomsonreuters.com/accounting)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
@@ -346,13 +351,17 @@ Connect with our sales team to explore legal solutions tailored to your professi
 
 [Contact us](https://www.thomsonreuters.com/en/contact-us)
 
-*   [Shop all legal books](https://store.legal.thomsonreuters.com/en-us/home)
+*   Legal books
+*   Tax books
+
 *   [Black's Law Dictionary](https://store.legal.thomsonreuters.com/en-us/products?q=Blacks%20law)
 *   [ProView e-books](https://www.thomsonreuters.com/en/products/proview)
-*   [Shop all tax books](https://store.tax.thomsonreuters.com/accounting/search?q=%3Aname-asc&sort=relevance&pageSize=25&list=true#gsc.tab=0)
-*   [Tax best sellers](https://store.tax.thomsonreuters.com/accounting/search?q=#gsc.tab=0)
-*   [Tax Quickfinder](https://store.tax.thomsonreuters.com/accounting/quickfinder-byob)
+*   [Shop all](https://store.legal.thomsonreuters.com/en-us/home)
+
 *   [Audit & accounting titles](https://store.tax.thomsonreuters.com/accounting/Practice-Area/Audit-and-Accounting/c/2100)
+*   [Best sellers](https://store.tax.thomsonreuters.com/accounting/search?q=#gsc.tab=0)
+*   [Tax Quickfinder](https://store.tax.thomsonreuters.com/accounting/quickfinder-byob)
+*   [Shop all](https://store.tax.thomsonreuters.com/accounting/search?q=%3Aname-asc&sort=relevance&pageSize=25&list=true#gsc.tab=0)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_8.svg)
 
