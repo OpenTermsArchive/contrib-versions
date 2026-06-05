@@ -78,7 +78,7 @@ We automatically collect certain information when you use our platform, whether 
 
 Personal data and information about you we receive from other sources
 
-We may also receive information about you from other sources. This can include one or more of the following:
+We may also receive information about you from other sources. This may include one or more of the following:
 
 *   Other BHI companies
 *   Trip providers
