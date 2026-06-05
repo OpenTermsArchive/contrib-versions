@@ -434,9 +434,16 @@ We are IKEA Ireland Limited (“IKEA” or “we”, “us”), and our register
     
     We bring together different information you have given us or we have collected from your interactions with IKEA in store, through remote services, via the app or on the web and perform analytics to segment customers into groups to personalise and improve the shopping experience. We may use this information to determine which offers you may be interested in where you have opted into being contacted for marketing purposes or for automated decision making to improve your shopping experience like recommending products and services, or improving your experience with remote services.
     
+*   AI Assistant for voice
+    
+    11\. AI Assistant for voice
+    ---------------------------
+    
+    During your experience as an IKEA customer, you may encounter the use of AI, for example when you call our customer service. This includes the use of an AI assistant to answer common questions quickly. If the AI assistant cannot help, or if you ask to speak to a co-worker, your call will be transferred to the co-worker.The use of the AI assistant is intended to make it easier and faster for you to get the help you need. This is based on our legitimate interest in improving customer service and reducing waiting times. The personal data used may include contact details, order information and the questions you ask during the call.
+    
 *   Cookies
     
-    **11\. Cookies**
+    **12\. Cookies**
     ----------------
     
     Cookies are small encrypted text files that are stored on your device by a website. Our Websites use cookies to enable you to shop, enhance your shopping experience and to analyse our traffic.
@@ -449,14 +456,14 @@ We are IKEA Ireland Limited (“IKEA” or “we”, “us”), and our register
     
 *   Changes
     
-    **12\. Changes to this Privacy policy**
+    **13\. Changes to this Privacy policy**
     ---------------------------------------
     
     We may update this Privacy policy from time to time. If we make significant changes, we will let you know but please regularly check this policy to ensure you are aware of the most updated version.
     
 *   Contact
     
-    **13\. Contact**
+    **14\. Contact**
     ----------------
     
     If you have any questions about this Privacy Policy or your rights under it, please contact
