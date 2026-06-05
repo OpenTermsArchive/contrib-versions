@@ -1,6 +1,8 @@
 People Inc. - America's Largest Digital & Print Publisher
 =========================================================
 
+IAC is Now People Incorporated! [Read More Here](https://www.prnewswire.com/news-releases/iac-is-now-people-incorporated-with-new-ticker-symbol-302791180.html)
+
 Featured Video
 
 Watch this featured video content
