@@ -4,9 +4,9 @@ Privacy Policy | People Inc
 Brand Privacy Policy
 --------------------
 
-Effective Date: November 13, 2025
+Effective Date: June 4, 2026
 
-At People Inc., we take privacy seriously and we respect the privacy concerns of our community of users. This Privacy Policy (the “**Privacy Policy**”) describes how the publishing family operated by Dotdash Meredith Inc. a/k/a People Inc. (collectively People Inc., the “**Company**,” “**we**,” “**us**,” or “**our**”) collects, uses, discloses, and otherwise processes personal information in connection with our websites (the “**Sites**”), mobile applications (the “**Apps**”), and the related content, services, products, and other features and functionality offered on or through those Sites and Apps (collectively, the “**Services**”) or off our Services.
+At People Inc., we take privacy seriously and we respect the privacy concerns of our community of users. This Privacy Policy (the “**Privacy Policy**”) describes how the publishing family operated by Dotdash Meredith Inc. a/k/a People Inc. (collectively People Inc., the “**Company**,” “**we**,” “**us**,” or “**our**”) collects, uses, discloses, and otherwise processes personal information in connection with our websites such as people.com (the “**Sites**”), mobile applications such as the People App (the “**Apps**”), and the related content, services, products, and other features and functionality offered on or through those Sites and Apps that link to this Privacy Policy (collectively, the “**Services**”) or off our Services. For the avoidance of doubt, the Picksy service offered by People Inc. is a Service covered by this Privacy Policy.
 
 ### **Manage Your Information**
 
@@ -144,7 +144,7 @@ The personal information we collect from you is used by all the companies and br
 
 In connection with any of the above, we may share information with others in an aggregated or otherwise anonymized form that does not reasonably identify you.
 
-● **Notice Regarding Mobile Phone Number Collection and Sharing:** If you have shared your mobile phone number with us for purposes of receiving text messages, please note that we do not share mobile contact information with third parties or affiliates for marketing or promotional purposes. This information may be shared with subcontractors in support services, such as customer service. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+● **Notice Regarding Mobile Phone Number Collection and Sharing:** If you have shared your mobile phone number with us for purposes of receiving text messages, including for purposes of using our Picksy Service, please note that we do not share mobile contact information with third parties or affiliates for marketing or promotional purposes. This information may be shared with subcontractors in support services, such as customer service. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
 ### **What are Our Third-Party Data Collection and Online Advertising Practices?**
 
