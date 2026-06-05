@@ -353,15 +353,6 @@ These cookies collect information on how people use our website. The data stored
 
 |     |     |
 | --- | --- |
-| Name | AdQuick tracking pixel |
-| Type | Persistent |
-| Purpose | Third-party analytics tracking. (pixel based) |
-| Lifetime | N / A |
-| Domain | .substack.com |
-| Vendor Privacy Policy | [Link](https://www.adquick.com/privacy) |
-
-|     |     |
-| --- | --- |
 | Name | muxData |
 | Type | Persistent |
 | Purpose | Anonymous video metric collection and aggregation. |
