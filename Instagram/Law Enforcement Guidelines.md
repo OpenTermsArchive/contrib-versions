@@ -7,11 +7,9 @@ Copy link
 
 Request user information
 
-Submit emergency request
+Emergency data request
 
 Child safety request
-
-International legal request
 
 I have a different question
 
