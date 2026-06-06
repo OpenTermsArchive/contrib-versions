@@ -9,7 +9,7 @@ This Privacy Notice applies to all personal information processed by CoinDesk, i
 
 It covers the information CoinDesk collects through the websites, mobile applications, electronic devices, all other products and services we provide, any other services that display this Privacy Notice, all of the associated content, functionalities, and advertising, and when you communicate with us by phone, email, or otherwise (collectively, the “**Services**”).
 
-This Privacy Notice governs the Services regardless of how you access them. Services include, without limitation, the following websites: [coindesk.com](https://www.coindesk.com/); [data.coindesk.com](http://data.coindesk.com/); [cryptocompare.com](https://www.cryptocompare.com/); [consensus.coindesk.com](https://consensus.coindesk.com/); [consensus-hongkong.coindesk.com](http://consensus-hongkong.coindesk.com/).
+This Privacy Notice governs the Services regardless of how you access them. Services include, without limitation, the following websites: [coindesk.com](https://www.coindesk.com/); [data.coindesk.com](https://data.coindesk.com/); [cryptocompare.com](https://www.cryptocompare.com/); [consensus.coindesk.com](https://consensus.coindesk.com/); [consensus-hongkong.coindesk.com](https://consensus-hongkong.coindesk.com/).
 
 For CoinDesk Trading (powered by Bullish), please refer to the Privacy Notice available on the [Bullish website](https://www.bullish.com/).
 
@@ -217,9 +217,9 @@ If you have opted-in to one of our text messages programs, you can opt-out at an
 
 You also have choices related to interest-based advertising. Many browsers automatically accept cookies, but you can usually modify your browser’s settings to decline cookies if you prefer. Note that if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences.
 
-Many of the third-party advertisers that place tracking tools on our websites are members of programs that offer you additional choices regarding the use of information about you for advertising. You can learn more about the options available to limit these third parties’ use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+Many of the third-party advertisers that place tracking tools on our websites are members of programs that offer you additional choices regarding the use of information about you for advertising. You can learn more about the options available to limit these third parties’ use of your information by visiting the websites for the [Network Advertising Initiative](https://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](https://www.aboutads.info/choices/).
 
-Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings, see the support information for [Apple](https://support.apple.com/en-us/HT205223), [Android](https://policies.google.com/technologies/ads) or [Windows](http://choice.microsoft.com/en-US/opt-out) devices.
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings, see the support information for [Apple](https://support.apple.com/en-us/HT205223), [Android](https://policies.google.com/technologies/ads) or [Windows](https://choice.microsoft.com/en-US/opt-out) devices.
 
 Please note that opting-out of participating advertising networks services does not mean that you will not receive advertising while using our websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these industry programs.
 
@@ -483,7 +483,7 @@ You have certain rights under applicable law. These rights include:
 *   To object to our processing when we process your personal data based on legitimate interest.
 *   To lodge a complaint about our collection or processing of your personal data with your Data Protection Authority (DPA).
 
-If you would like to exercise rights, please use our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or send us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [www.edoeb.admin.ch](https://www.edoeb.admin.ch/en).
+If you would like to exercise rights, please use our [Request for Information](https://rfi.coindesk.com/) or [Request for Deletion](https://rfd.coindesk.com/) tool or send us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [www.edoeb.admin.ch](https://www.edoeb.admin.ch/en).
 
 **15.2. Your personal data**
 
