@@ -616,8 +616,8 @@ Open all
     **Credit Prescreening**  
     You have a choice about whether companies use information about you to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](https://www.optoutprescreen.com/) or by calling 1-888-567-8688.
     
-*   [How does Verizon protect my information, and how do I update my account details?
-    --------------------------------------------------------------------------------
+*   [How does Verizon protect my information, how long does Verizon retain my information and how do I update my account details?
+    ----------------------------------------------------------------------------------------------------------------------------
     
     Learn about our information security and retention practices and how to update your account information.](#acc-item-35)
     
