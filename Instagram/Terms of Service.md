@@ -11,6 +11,8 @@ How is Instagram funded?
 
 What is the Privacy Policy?
 
+My account was disabled
+
 I have a different question
 
 Welcome to Instagram!  
