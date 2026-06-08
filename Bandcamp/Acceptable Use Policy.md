@@ -3,7 +3,7 @@ Bandcamp's Acceptable Use and Moderation Policy
 
 What is an Acceptable Use and Moderation policy?This policy sets out the “Content Standards” that apply when you upload content to our sit...
 
-Updated yesterday
+Updated this week
 
 Table of contents
 
