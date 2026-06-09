@@ -1,7 +1,7 @@
 Privacy
 =======
 
-Last updated: January 6, 2026
+Last updated: June 8. 2026
 
 **1.Introduction**
 
@@ -122,6 +122,8 @@ We and our advertising partners use cookies to collect personal information and 
 *   **Business partners**
 
 We may share information that personally identifies you with business partners who provide products and services that we think you may be interested in.
+
+Partial advertising on our website is managed by Playwire LLC. If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please read [Playwire Privacy Policy](https://www.playwire.com/privacy-policy).
 
 *   **Social media providers**
 
