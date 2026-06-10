@@ -1,7 +1,7 @@
 Palantir's Privacy Statement
 ============================
 
-_Last updated February 2026_
+_Last updated June 2026_
 
 Who is Palantir?
 ----------------
@@ -176,6 +176,8 @@ Palantir may disclose or transfer personal information that we process as requir
 *   To provide payment processing services;
     
 *   Provide your employer, or the organization that provides you with your Palantir Learning or certification exam code, with details of your participation, progress, and results for any training courses, quizzes, or certifications you register for with us, when these are taken as part of your employment;
+    
+*   To enable Palantir partners who have provided you with a promotional code to contact you if you sign up for a Palantir service using that code;
     
 *   Enable business transfers to a buyer or other party to a transaction if there is a proposed or actual merger, purchase, sale acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal data processed by Palantir pursuant to this Statement, forms part of the assets transferred;
     
@@ -418,7 +420,7 @@ Open
 
 **US Consumer Privacy Act Notice**
 
-_Last updated February 2026_
+_Last updated June 2026_
 
 This section (the “US Notice”) provides additional information regarding the applicable US state comprehensive privacy laws that are in effect as of January 15, 2025 (individually known as a “US State Privacy Law” and collectively known as “US State Privacy Laws”) and supplements the disclosures and information throughout this Statement. The commitments in this US Notice apply only to individuals covered by the US State Privacy Laws and are subject to certain statutory exceptions laid out in the US State Privacy Laws. This US Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
