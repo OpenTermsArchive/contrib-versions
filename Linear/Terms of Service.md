@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Effective date: November 14, 2025
+Effective date: June 09, 2026
 
 THESE TERMS OF SERVICE (the “**Agreement**”) GOVERN CUSTOMER’S RECEIPT, ACCESS, TO AND USE OF THE SERVICE (AS DEFINED BELOW) PROVIDED BY LINEAR ORBIT, INC. (“**Linear**”). IN ACCEPTING THIS AGREEMENT BY (A) PURCHASING ACCESS TO THE SERVICE THROUGH AN ONLINE ORDERING PROCESS THAT REFERENCES THIS AGREEMENT, (B) SIGNING UP FOR A FREE ACCESS PLAN FOR THE SERVICE THROUGH A SCREEN THAT REFERENCES THIS AGREEMENT, OR (C) CLICKING A BOX INDICATING ACCEPTANCE, CUSTOMER AGREES TO BE BOUND BY ITS TERMS.
 
@@ -14,9 +14,10 @@ THE INDIVIDUAL ACCEPTING THIS AGREEMENT DOES SO ON BEHALF OF A COMPANY OR OTHER 
 5.  [Term and Termination](#5.-Term-and-Termination)
 6.  [Warranties and Disclaimers](#6.-Warranties-and-Disclaimers)
 7.  [Limitation of Liability](#7.-Limitation-of-Liability)
-8.  [Confidentiality](#8.-Confidentiality)
-9.  [Data](#9.-Data)
-10.  [General Terms](#10.-General-Terms)
+8.  [Indemnification](#8.-Indemnification)
+9.  [Confidentiality](#9.-Confidentiality)
+10.  [Data](#10.-Data)
+11.  [General Terms](#11.-General-Terms)
 
 The Service
 -----------
@@ -25,7 +26,7 @@ The Service
 
 ### Service Description
 
-Linear is the owner and provider of a cloud-based software for product teams (the “**Service**”). Anything Customer (including Users) posts, uploads, shares, stores, or otherwise provide through the Service is considered a “**User Submission**.” Customer is solely responsible for all User Submissions it contributes to the Service. Further terms regarding User Submissions, including ownership, are in Section 8.2 below. The Service may also include templates, help documents, and other documents or information that can assist Customer using the Service (“**Linear Content**”). Customer will not receive or have access to the code or software that underlies the Service (collectively the “**Software**”) or receive a copy of the Software itself.
+Linear is the owner and provider of a cloud-based software for product teams (the “**Service**”). Anything Customer (including Users) posts, uploads, shares, stores, or otherwise provide through the Service is considered a “**User Submission**.” Customer is solely responsible for all User Submissions it contributes to the Service. Further terms regarding User Submissions, including ownership, are in Section 9.2 below. The Service may also include templates, help documents, and other documents or information that can assist Customer using the Service (“**Linear Content**”). Customer will not receive or have access to the code or software that underlies the Service (collectively the “**Software**”) or receive a copy of the Software itself.
 
 1.2
 
@@ -104,6 +105,12 @@ Fees do not include any taxes, levies, duties or similar governmental assessment
 
 If Customer fails to pay any Fees when due, Linear may suspend Customer’s access to the Service pending payment of such overdue amounts. Customer also authorizes Linear to make multiple re-attempts at charging the Customer’s payment instrument if an initial charge attempt is unsuccessful, without any specific limit on the number of retries. If Customer believes that Linear has billed Customer incorrectly, Customer must contact Linear no later than sixty (60) days after the closing date on the first billing statement in which the error or problem appeared, to receive an adjustment or credit. Once Linear receives notice of a disputed invoice, Linear will review such notice and provide Customer with a written decision regarding the dispute, including documentary support for such decision. If Linear reasonably determines that the amounts billed are, in fact, due, Customer will pay such amounts (if it has not done so already) within ten (10) days of Linear notifying Customer in writing of such decision.
 
+4.5
+
+### AI Services Fees
+
+Notwithstanding Section 4.1, fees for AI Services shall be governed by the AI Addendum, which may include usage-based billing calculated on consumption metrics (e.g., tokens, API calls, or compute units) in addition to or in lieu of the subscription Fees set forth in an Order. Usage-based fees will be calculated payable by Customer in accordance with the measurement methodology described in the AI Addendum. In the event of any conflict between this Agreement and the AI Addendum with respect to AI Services fees, the AI Addendum will control.
+
 * * *
 
 Term and Termination
@@ -155,32 +162,67 @@ EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, THE SERVICES AND ALL RELATED COMPONENTS
 Limitation of Liability
 -----------------------
 
-NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, LINEAR WILL NOT BE LIABLE WITH RESPECT TO ANY CAUSE RELATED TO OR ARISING OUT OF THIS AGREEMENT, WHETHER IN AN ACTION BASED ON A CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY) OR ANY OTHER LEGAL THEORY, HOWEVER ARISING, FOR (A) INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, (B) ANY DAMAGES BASED ON USE OR ACCESS, INTERRUPTION, DELAY OR INABILITY TO USE THE SERVICE, LOST REVENUES OR PROFITS, DELAYS, INTERRUPTION OR LOSS OF SERVICES, BUSINESS OR GOODWILL, LOSS OR CORRUPTION OF DATA, LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE, MALFUNCTION OR SHUTDOWN, FAILURE TO ACCURATELY TRANSFER, READ OR TRANSMIT INFORMATION, FAILURE TO UPDATE OR PROVIDE CORRECT INFORMATION, SYSTEM INCOMPATIBILITY OR PROVISION OF INCORRECT COMPATIBILITY INFORMATION OR BREACHES IN SYSTEM SECURITY, OR (C) ANY DAMAGES THAT IN THE AGGREGATE EXCEED THE TOTAL FEES PAID OR PAYABLE BY CUSTOMER FOR THE SERVICE THAT IS OR THE PROFESSIONAL SERVICES THAT ARE THE SUBJECT OF THE CLAIM DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT WHICH GIVES RISE TO SUCH DAMAGES. THESE LIMITATIONS WILL APPLY WHETHER OR NOT A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, AND EXCEPT FOR (I) CLAIMS ARISING FROM CUSTOMER’S BREACH OF SECTION 2.2 (Use Restrictions), (II) A PARTY’S OBLIGATIONS UNDER SECTION 8 (Indemnification) or (III) A PARTY’S GROSS NEGLIGENCE, WILLFUL MISCONDUCT, OR FRAUD, NEITHER PARTY WILL BE LIABLE WITH RESPECT TO ANY CAUSE RELATED TO OR ARISING OUT OF THIS AGREEMENT, WHETHER IN AN ACTION BASED ON A CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY) OR ANY OTHER LEGAL THEORY, HOWEVER ARISING, FOR (A) INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, (B) ANY DAMAGES BASED ON USE OR ACCESS, INTERRUPTION, DELAY OR INABILITY TO USE THE SERVICE, LOST REVENUES OR PROFITS, DELAYS, INTERRUPTION OR LOSS OF SERVICES, BUSINESS OR GOODWILL, LOSS OR CORRUPTION OF DATA, LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE, MALFUNCTION OR SHUTDOWN, FAILURE TO ACCURATELY TRANSFER, READ OR TRANSMIT INFORMATION, FAILURE TO UPDATE OR PROVIDE CORRECT INFORMATION, SYSTEM INCOMPATIBILITY OR PROVISION OF INCORRECT COMPATIBILITY INFORMATION OR BREACHES IN SYSTEM SECURITY, OR (C) ANY DAMAGES THAT IN THE AGGREGATE EXCEED THE TOTAL FEES PAID OR PAYABLE BY CUSTOMER FOR THE SERVICE THAT IS OR THE PROFESSIONAL SERVICES THAT ARE THE SUBJECT OF THE CLAIM DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT WHICH GIVES RISE TO SUCH DAMAGES. THESE LIMITATIONS WILL APPLY WHETHER OR NOT A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+* * *
+
+Indemnification
+---------------
+
+8.1
+
+### Linear’s Indemnification
+
+Linear will defend Customer and its Users, officers, directors, and employees against any third-party claim or action brought against Customer to the extent based on the allegation that the Service infringes such third party’s intellectual property rights (patents, utility models, design rights, copyrights and trademarks or any other intellectual property right) and Linear agrees to pay any settlements with respect to the foregoing indemnification obligations that Linear agrees to in a writing signed by Linear’s authorized officer or final judgments awarded to the third-party claimant by a court of competent jurisdiction. The foregoing obligations do not apply with respect to the Service or portions or components of the Services that are (a) not provided by Linear, (b) combined with other products (including Customer’s services), processes or materials that are not reasonably contemplated by Linear or the Documentation, or (c) where Customer’s use of the Service is not in accordance with this Agreement or the Documentation.
+
+8.2
+
+### Customer’s Indemnification
+
+Customer will defend Linear and its officers, directors, and employees against any third-party claim or action brought against Linear to the extent arising from the processing of the User Submissions in accordance with this Agreement and Customer agrees to pay any settlements with respect to the foregoing indemnification obligations that Customer agrees to in a writing signed by Customer’s authorized officer or final judgments awarded to the third party claimant by a court of competent jurisdiction.
+
+8.3
+
+### Procedures
+
+The indemnifying party’s obligations under Section 8 are conditioned on the indemnified party (a) providing the indemnifying party with prompt written notice of any claim (provided that the indemnified party’s failure to provide reasonable written notice shall only relieve the indemnifying party of its indemnification obligations hereunder to the extent such failure materially limits or prejudices the indemnifying party’s ability to defend or settle such claim), (b) granting the indemnifying party the sole control of the defense and settlement of the claim, and (c) providing reasonable information and assistance to the indemnifying party in the defense or settlement of the claim at the indemnifying party’s expense. Notwithstanding anything else to the contrary in this Agreement, any obligation of the indemnifying party to defend, indemnify and hold the indemnified harmless hereunder is limited to the indemnifying party’s payment for the cost of defense of the third-party claim incurred by the indemnifying party and the payment of (i) any settlements agreed to by the indemnifying party in a writing signed by an officer of indemnifying party, or (ii) final judgments awarded to the third-party claimant by a court of competent jurisdiction.
+
+8.4
+
+### Options
+
+If Customer’s use of the Service has become, or in Linear’s opinion is likely to become, the subject of any claim of infringement, Linear may at its option and expense, (a) procure for Customer the right to continue using and receiving the Service as set forth hereunder, (b) modify the Service to make it non-infringing (but containing substantially equivalent functionality), (c) substitute an equivalent for the Service or (d) if Linear, in its sole discretion, determines that options (a)-(c) are not commercially practicable, terminate this Agreement and refund Customer any pre-paid, unused Fees for the remainder of the then-current Subscription Period.
+
+8.5
+
+### Sole Remedy
+
+NOTWITHSTANDING ANYTHING ELSE TO THE CONTRARY IN THIS AGREEMENT, THIS “Indemnification” SECTION STATES LINEAR’S ENTIRE RESPONSIBILITY AND CUSTOMER’S SOLE AND EXCLUSIVE REMEDY WITH RESPECT TO INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS UNDER THIS AGREEMENT.
 
 * * *
 
 Confidentiality
 ---------------
 
-8.1
+9.1
 
 ### Definition
 
 Each party (the “**Receiving Party**”) understands that the other party (the “**Disclosing Party**”) may disclose business, technical or financial information relating to the Disclosing Party’s business that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure (hereinafter referred to as the “**Confidential Information**” of the Disclosing Party). Linear’s Confidential Information includes non-public information regarding features, functionality, and performance of the Service. Customer’s Confidential Information includes the User Information and User Submissions. This Agreement and the information in all Orders will be deemed the Confidential Information of both parties. Notwithstanding the above, Confidential Information does not include information that (a) is or becomes generally available to the public without breach of any obligation owed to the Disclosing Party; (b) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party; (c) is received from a third party without breach of any obligation owed to the Disclosing Party; or (d) was independently developed by the Receiving Party without use or reference to the Disclosing Party’s Confidential Information.
 
-8.2
+9.2
 
 ### Protection and Use of Confidential Information
 
 The Receiving Party will (a) protect the Disclosing Party’s Confidential Information using the same degree of care used to protect its own confidential or proprietary information of like importance, but in any case using no less than a reasonable degree of care, (b) limit access to the Confidential Information to those employees, affiliates, subcontractors, agents, consultants, legal advisors, financial advisors, and contractors (“**Representatives**”) who need to know such information in connection with this Agreement and who are bound by confidentiality and non-use obligations just as protective of the Disclosing Party’s Confidential Information as the terms of this Agreement; (c) except as expressly set forth herein, make all commercially reasonable efforts not to disclose any of Disclosing Party’s Confidential Information to any third parties without the Disclosing Party’s prior written consent; and (d) will not use the Disclosing Party’s Confidential Information for any purpose other than to fulfill its obligations under this Agreement. Nothing above will prevent either party from sharing the terms of this Agreement or the name of the other party with prospective investors or acquirors; provided, however, that the foregoing persons or entities are bound to standard confidentiality obligations.
 
-8.3
+9.3
 
 ### Compelled Access or Disclosure
 
 The Receiving Party may access or disclose Confidential Information of the Disclosing Party if it is required by law; provided, however, that the Receiving Party gives the Disclosing Party prior notice of the compelled access or disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party’s cost, if the Disclosing Party wishes to contest the access or disclosure.
 
-8.4
+9.4
 
 ### Feedback
 
@@ -191,96 +233,102 @@ Customer may from time to time provide suggestions, comments, or other feedback 
 Data
 ----
 
-9.1
+10.1
 
 ### User Information
 
 Customer and its Users are required to provide information such as name, email address, username, IP address, browser, and operating system. (“**User Information**”) upon logging into the Service in order to access the Service. Customer grants Linear and its subcontractors the right to store, process and retrieve the User Information in connection with Customer’s use of the Service. Customer represents and warrants that it has obtained all necessary rights to transfer User Information to Linear and to process the User Information as contemplated by this Agreement. Customer is responsible for all User Information. Accordingly, Customer is responsible for all resulting liability if usernames, passwords, tokens, or keys in Customer’s possession are used by any party not authorized to do so. Customer (on behalf of its Users) grants Linear the right to access, use, process, copy, distribute (to Users), perform (for Users), export (to Users) and display (for Users) User Information, only as reasonably necessary (a) to provide the Service to Customer (including the transfer of User Information to Linear); (b) to prevent or address service, security, support, or technical issues; (c) as required by law; and (d) as expressly permitted in writing by Customer.
 
-9.2
+10.2
 
 ### User Submissions
 
 Customer grants Linear and its subcontractors a non-exclusive, worldwide, royalty-free, paid-up, transferable right and license to use, process, and display (to Users) User Submissions for the sole purpose of providing the Service to Customer. Except for the limited rights and licenses granted in this Agreement, Customer will own all right, title and interest in and to the User Submissions and there are no implied licenses under this Agreement.
 
-9.3
+10.3
 
 ### Service Data
 
 As Customer (including its Users) interacts with the Service the Service collects data pertaining to the performance of the Service and measures of the operation of the Service (“**Service Data**”). Notwithstanding anything else to the contrary herein, provided that the Service Data is aggregated and anonymized, and no User Information, User Submissions, or any other personal identifying information of Customer is revealed to any third party, the parties agree that Linear is free to use the Service Data in any manner. Linear owns all right, title, and interest in and to such Service Data. For clarity, this section does not give Linear the right to identify Customer (including its Users) as the source of any Service Data.
 
-9.4
+10.4
 
 ### Data Protection
 
 Linear has established and implemented reasonable information security practices regarding the protection of User Submissions and User Information (collectively “**Customer Data**”), including administrative, technical, and physical security processes. Notwithstanding the foregoing, Customer is responsible for maintaining appropriate security, protection and backup of its hardware, software, systems, information, and Customer Data. Linear will, during the Term, process all Customer Data in accordance with Linear’s data protection agreement, a copy of which can be found at [linear.app/dpa](https://linear.app/dpa).
+
+10.5
+
+### AI Services
+
+To the extent Customer accesses or uses any artificial intelligence or machine learning features or functionality made available through the Service (collectively, “AI Services”), such use shall be governed by Linear’s AI Services Addendum, available at [linear.app/legal/ai-addendum](https://linear.app/legal/ai-addendum) and incorporated herein by reference (the “AI Addendum”). In the event of any conflict between this Agreement and the AI Addendum with respect to AI Services, the AI Addendum will control. Customer Data processed in connection with AI Services shall remain subject to the data protection obligations in Section 9.4, except as expressly modified by the AI Addendum.
 
 * * *
 
 General Terms
 -------------
 
-10.1
+11.1
 
 ### Publicity
 
 Provided that Customer gives its prior written consent, Linear may identify Customer and use and display Customer’s name, logo, trademarks, or service marks on Linear’s website and in Linear’s marketing materials.
 
-10.2
+11.2
 
 ### Force Majeure
 
 Linear will not be liable by reason of any failure or delay in the performance of its obligations on account of events beyond the reasonable control of Linear that make it impossible or commercially impracticable for such party to perform its obligations hereunder, which may include failure by a third-party hosting provider or utility provider, strikes (provided that such strike does not involve the employees of the party failing to perform), shortages, riots, fires, acts of God, war, terrorism, and governmental action.
 
-10.3
+11.3
 
 ### Changes
 
 Customer acknowledges that the Service is an on-line, subscription-based product, and that to provide improved customer experience Linear may make changes to the Service provided, however Linear will not materially decrease the core functionality of the Service. Linear may also unilaterally modify the terms of this Agreement by notifying you at least thirty (30) days prior to such changes taking effect and posting such changes at https://linear.app/terms.
 
-10.4
+11.4
 
 ### Relationship of the Parties
 
 The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary, or employment relationship between the parties.
 
-10.5
+11.5
 
 ### No Third-Party Beneficiaries
 
 There are no third-party beneficiaries to this Agreement; a person who is not a party to this Agreement may not enforce any of its terms under any applicable law.
 
-10.6
+11.6
 
 ### Email Communications
 
 Notices under this Agreement will be provided as follows: (a) all notices regarding the Service will be sent by email, although Linear may instead choose to provide notice to Customer through the Service, (b) notices to Linear must be sent to hello@linear.app, and (c) all notices to Customer will be sent to the email(s) provided through the Service. Notices will be deemed to have been duly given (a) the business day after it is sent, in the case of notices through email; and (b) the same day, in the case of notices through the Service.
 
-10.7
+11.7
 
 ### Amendment and Waivers
 
 No modification or amendment to this Agreement will be effective unless made in writing and signed or accepted by an authorized representative of both parties. No failure or delay by either party in exercising any right under this Agreement will constitute a waiver of that right. No waiver under this Agreement will be effective unless made in writing and signed by an authorized representative of the party being deemed to have granted the waiver.
 
-10.8
+11.8
 
 ### Severability
 
 This Agreement will be enforced to the fullest extent permitted under applicable law. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision will be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions of this Agreement will remain in effect.
 
-10.9
+11.9
 
 ### Assignment
 
 Neither party will assign or delegate any of its rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of the other party (not to be unreasonably withheld). Notwithstanding the foregoing, Linear may assign this Agreement in its entirety (including all Orders), without the consent of Customer, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all Linear’s assets. Any purported assignment in violation of this section is void. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their respective successors and permitted assigns.
 
-10.10
+11.10
 
 ### Governing Law and Venue
 
 This Agreement, and any disputes arising out of or related hereto, will be governed exclusively by the internal laws of the State of Delaware, without regard to its conflicts of laws rules or the United Nations Convention on the International Sale of Goods. The parties acknowledge that this Agreement evidences a transaction involving interstate commerce. The state and federal courts located in New Castle County, Delaware will have exclusive jurisdiction to adjudicate any dispute arising out of or relating to this Agreement or its formation, interpretation or enforcement. Each party hereby consents and submits to the exclusive jurisdiction of such courts. Each party also hereby waives any right to jury trial in connection with any action or litigation in any way arising out of or related to this Agreement. In any action or proceeding to enforce rights under this Agreement, the prevailing party will be entitled to recover its reasonable costs and attorney’s fees.
 
-10.11
+11.11
 
 ### Entire Agreement
 
