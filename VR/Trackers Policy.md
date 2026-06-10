@@ -21,6 +21,8 @@ _Page updated 4 Sep 2024. Microsoft Ads added to Marketing cookies._
 
 _Page updated 26 Nov 2025. The entire cookie listing updated to a more detailed level._
 
+_10.6.2026 AWS added to functional cookies and & LinkedIn added to marketing cookies._
+
 What kind of cookies do we use?
 -------------------------------
 
@@ -33,6 +35,9 @@ Functional cookies
 
 | Name | Type | Provider | Purpose | Maximum Storage Duration |
 | --- | --- | --- | --- | --- |
+| Name<br><br>awswaf\_token\_refresh\_timestamp | Type<br><br>Local Storage | Provider<br><br>Amazon Web Services (AWS) | Purpose<br><br>Stores the timestamp of the most recent security token refresh. This information is used to automatically renew the token before it expires, preventing service interruptions. | Maximum Storage Duration<br><br>Session |
+| Name<br><br>awswaf\_session\_storage | Type<br><br>Local Storage | Provider<br><br>Amazon Web Services (AWS) | Purpose<br><br>Stores session-related state information and technical verification data to ensure a secure connection and to prevent repeated bot checks | Maximum Storage Duration<br><br>Session |
+| Name<br><br>aws-waf-token | Type<br><br>Cookie | Provider<br><br>Amazon Web Services (AWS) | Purpose<br><br>Used to protect the website from malicious traffic, such as bots and abuse. The cookie helps verify that requests originate from a genuine browser session rather than automated attacks. | Maximum Storage Duration<br><br>Session |
 | Name<br><br>cookieConsentLevels | Type<br><br>Cookie | Provider<br><br>vr.fi | Purpose<br><br>Stores user’s consent selection. | Maximum Storage Duration<br><br>13 months |
 | Name<br><br>rc::a | Type<br><br>Local Storage | Provider<br><br>Google | Purpose<br><br>Part of Google reCaptcha. Distinguish between human and bot traffic. | Maximum Storage Duration<br><br>Persistent |
 | Name<br><br>cookieConsent | Type<br><br>Local Storage | Provider<br><br>vr.fi | Purpose<br><br>Stores the cookie consent meta data | Maximum Storage Duration<br><br>Persistent |
@@ -105,6 +110,11 @@ With marketing cookies, we can enrich the data used in the targeting of marketin
 
 | Name | Type | Provider | Purpose | Maximum Storage Duration |
 | --- | --- | --- | --- | --- |
+| Name<br><br>bcookie | Type<br><br>Cookie | Provider<br><br>LinkedIn | Purpose<br><br>Browser Identifier cookie to uniquely identify devices accessing LinkedIn to detect abuse on the platform. | Maximum Storage Duration<br><br>1 year |
+| Name<br><br>li\_sugr | Type<br><br>Cookie | Provider<br><br>LinkedIn | Purpose<br><br>Used to make a probabilistic match of a user's identity outside the Designated Countries. | Maximum Storage Duration<br><br>3 months |
+| Name<br><br>lidc | Type<br><br>Cookie | Provider<br><br>LinkedIn | Purpose<br><br>Used for routing and to ensure consistent delivery of services. | Maximum Storage Duration<br><br>24 hours |
+| Name<br><br>li\_fat\_id | Type<br><br>Cookie | Provider<br><br>LinkedIn | Purpose<br><br>(First-party) Used for conversion tracking for LinkedIN Ads. | Maximum Storage Duration<br><br>1 month |
+| Name<br><br>UserMatchHistory | Type<br><br>Cookie | Provider<br><br>LinkedIn | Purpose<br><br>Used to track visitors across multiple websites to provide relevant ads. | Maximum Storage Duration<br><br>1 month |
 | Name<br><br>\_uetsid | Type<br><br>Cookie / Local Storage | Provider<br><br>Microsoft | Purpose<br><br>Used by Microsoft Ads to distinguish sessions. | Maximum Storage Duration<br><br>1 day |
 | Name<br><br>\_uetvid | Type<br><br>Cookie / Local Storage | Provider<br><br>Microsoft | Purpose<br><br>Used by Microsoft Ads to distinguish visitors. | Maximum Storage Duration<br><br>13 months |
 | Name<br><br>xnpe\_XXXXXX | Type<br><br>Cookie | Provider<br><br>Bloomreach | Purpose<br><br>Customer's Bloomreach Engagement generated server-side cookie. | Maximum Storage Duration<br><br>3 years |
