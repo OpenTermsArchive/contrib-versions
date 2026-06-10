@@ -38,7 +38,6 @@ Our technology powers the professionals who are shaping the world. [Meet the cha
 *   [Civil litigation](https://legal.thomsonreuters.com/en/legal/civil-litigation-law)
 *   [Criminal defense](https://legal.thomsonreuters.com/en/legal/criminal-law)
 *   [Family law](https://legal.thomsonreuters.com/en/legal/family-law)
-*   [Labor & employment law](https://legal.thomsonreuters.com/en/legal/labor-and-employment)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
