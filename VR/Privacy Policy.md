@@ -1,3 +1,17 @@
+Data protection
+===============
+
+![](https://images.ctfassets.net/gshi3wijcp49/2AWSmMO7xO7vYOEeArG1vq/5884ff9d54488a9544fdbcd79dece2ba/vr-fullwidth-header-tracks-desktop.svg?w=3840)
+
+VR’s data protection
+--------------------
+
+In the data protection notice, we explain how we process our customers’ personal data and protect their privacy.
+
+Read VR’s Conditions of Carriage and the car transport terms.
+
+[Read terms and conditions](https://www.vr.fi/en/terms-and-conditions)
+
 VR’s Data Protection Notice
 ---------------------------
 
