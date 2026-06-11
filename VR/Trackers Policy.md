@@ -1,3 +1,17 @@
+Information about cookies
+=========================
+
+![](https://images.ctfassets.net/gshi3wijcp49/2AWSmMO7xO7vYOEeArG1vq/5884ff9d54488a9544fdbcd79dece2ba/vr-fullwidth-header-tracks-desktop.svg?w=3840)
+
+Cookies used in vr.fi
+---------------------
+
+On this page, you will find information about the cookies used on the vr.fi website. Cookies are divided into essential, statistical, those handing content targeting and grouping as well as marketing cookies. You can change your cookie settings at any time at the bottom of the page.
+
+Learn about the privacy settings of the VR Matkalla app
+
+[Read more about the settings](https://www.vr.fi/en/app-privacy-settings)
+
 VR and cookie practices
 -----------------------
 
