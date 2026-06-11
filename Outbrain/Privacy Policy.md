@@ -15,8 +15,6 @@ You are a “business partner” if you are a media owner, advertiser or agency 
 
 You are a “site visitor” if you visit outbrain.com websites or digital properties or any other sites in Outbrain. You can access the Site Visitor Policy [here](https://www.outbrain.com/privacy/business-partner-policy/).
 
-ppp
-
 2\. Who we are, what we do, how you can contact Outbrain, our DPO or the relevant authorities
 ---------------------------------------------------------------------------------------------
 
