@@ -314,7 +314,7 @@ Open all
     
     *   Verizon Wireless and Home services customers can visit the Verizon [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) page to opt out.
     *   Verizon Value customers, can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Visible wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible Wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
@@ -481,7 +481,7 @@ Open all
     
     *   Verizon Wireless or Home services customers can opt out by visiting [Your Privacy Choices![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     *   Verizon Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
@@ -823,7 +823,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     opt out on these sites
     
@@ -890,7 +890,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     opt out on these sites
     
@@ -934,7 +934,7 @@ Open all
     
     Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights. 
     
-    **Your right to know what personal information we collect, how we use** **and disclose it, and how long we keep it.**This [privacy policy](https://www.verizon.com/about/privacy/full-privacy-policy) provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category](#). 
+    **Your right to know what personal information we collect, how we use** **and disclose it, and how long we keep it.** This [privacy policy](https://www.verizon.com/about/privacy/full-privacy-policy) provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category](#). 
     
     categories of personal information we collect and the purposes for which we collect each category
     
@@ -1029,7 +1029,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     opt out on these sites
     
@@ -1107,7 +1107,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     opt out on these sites
     
