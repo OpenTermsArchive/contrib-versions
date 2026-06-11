@@ -1,7 +1,7 @@
 Cookie Policy
 -------------
 
-Last Modified: 5 May 2026
+Last Modified: 11 June 2026
 
 This policy applies to the websites at [overleaf.com](https://www.overleaf.com/), [sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -23,10 +23,11 @@ We use cookies on Overleaf as follows:
 *   **Security:** these cookies enable and support our security features, and also to help us detect malicious activity.
 *   **Preferences:** these cookies remember choices that you have made to improve your user experience with Overleaf, including to provide you with features, insights and more relevant content.
 *   **Performance and analytics:** these cookies collect information on how you interact and use Overleaf, enabling us to improve your user experience and the overall quality of Overleaf, including through the use of in-service messages.
+*   **Targeting or Advertising:** these cookies are used to track visitor activities and support marketing efforts. They may be set by advertising providers, to build a profile of users’ interests and target them with ads on other sites.
 
 ### Which cookies does Overleaf use and how do you opt-out?
 
-The cookies we set and use (i.e. first party cookies) on Overleaf are described below. Some of these cookies are essential for Overleaf to work properly and so you can’t opt-out of them. You can opt out of non-essential cookies as described below, although this may affect your user experience. _**We only share information collected from these cookies with third parties to the extent required to provide Overleaf.**_
+The cookies we set and use (i.e. first party cookies) on Overleaf are described below. Some of these cookies are essential for Overleaf to work properly and so you can’t opt-out of them. You can opt out of non-essential cookies as described below, although this may affect your user experience.
 
 | Name | Type (if persistent cookie, retention period) | Purpose of cookie | Opt-out |
 | --- | --- | --- | --- |
@@ -50,6 +51,8 @@ We use various third party services in connection with Overleaf that also involv
 | `hj*` | 365 days | Analytics used to distinguish users - May include other cookies for Hotjar functioning as per [Hotjar documentation](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | choose 'essential cookies only' in our cookie banner |
 | `*.propensity.com` | 13 months | Marketing, advertising, sales, and analytics | choose 'essential cookies only' in our cookie banner |
 | `*.linkedin.com` | 12 months | Analytics used to distinguish users - May include other cookies for LinkedIn functioning as per [LinkedIn documentation](https://www.linkedin.com/legal/l/cookie-table#thirdparty) | choose 'essential cookies only' in our cookie banner |
+| `_rdt_*` | 3 months | Used by the Reddit Pixel to store event match information. It helps Reddit attribute website actions to advertising campaigns and optimize ad delivery. | choose 'essential cookies only' in our cookie banner |
+| `*.reddit.com` | 7 months | Used by the Reddit Pixel to store event match information. It helps Reddit attribute website actions to advertising campaigns and optimize ad delivery. | choose 'essential cookies only' in our cookie banner |
 
 ### Update on sharelatex
 
