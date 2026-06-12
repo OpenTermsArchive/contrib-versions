@@ -9,11 +9,13 @@ Terms and Conditions
 **1.2.** These Terms and Conditions apply whenever you:
 
 *   use FT.com, FT.com mobile and online digital apps and services (together “FT.com”) and access the content and services available on them including the Financial Times newspaper (the “Newspaper”) (together, the “FT Content”); and
+    
 *   purchase access to FT.com, the Newspaper and/or the FT Content (together, the "FT Services") on a subscription basis.
+    
 
 **1.3.** You should read these Terms and Conditions carefully before using FT.com and/or FT Content or subscribing to the FT Services. By accessing, using or subscribing to any of the above, you agree to be bound by these Terms and Conditions (as applicable) and the documents referred to in them.
 
-**1.4.** If you access FT.com under an organisation’s subscription agreement, then your access is primarily governed by the subscription agreement between us and that organisation. In the event of any conflict between these Terms and Conditions and the organisation's subscription agreement (as applicable), the terms of the organisation's subscription agreement shall prevail to the extent of the inconsistency only. If you have any questions about the FT Services or if you have any difficulties using FT.com, please [chat with us online, call us on your regional telephone number](https://help.ft.com/contact/), or email us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com).
+**1.4.** If you access FT.com under an organisation’s subscription agreement, then your access is primarily governed by the subscription agreement between us and that organisation. In the event of any conflict between these Terms and Conditions and the organisation's subscription agreement (as applicable), the terms of the organisation's subscription agreement shall prevail to the extent of the inconsistency only. If you have any questions about the FT Services or if you have any difficulties using FT.com, please [chat with us online, call us on your regional telephone number](https://help.ft.com/contact/), or email us at [help@ft.com](mailto:help@ft.com).
 
 [](#anchor-access-and-use)2\. Your Subscription to the FT Services
 ------------------------------------------------------------------
