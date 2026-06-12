@@ -75,7 +75,7 @@ If there are any significant changes to this Privacy Policy, we will update it h
 
 If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands** (**Attention: Data Protection Officer, Legal Department**).
 
-If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@wechat.com).
+If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@corp.wechat.com).
 
 Please note that if you are a resident in the EEA, the UK, Switzerland or Brazil you have the right to lodge a complaint with your country's data protection authority.
 
@@ -113,7 +113,7 @@ Any capitalized terms used in this Privacy Policy have the same meaning as the e
 
 If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands (Attention: Data Protection Officer, Legal Department)**. We have representatives for data protection purposes listed [here](https://www.wechat.com/en/privacy_policy.html#pp_representatives).
 
-If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@wechat.com).
+If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@corp.wechat.com).
 
 Please note that if you are a resident in the EEA, the UK, Switzerland or Brazil you have the right to lodge a complaint with your country's data protection authority.
 
@@ -388,7 +388,7 @@ We have provided translations of this Privacy Policy, but in the event of any co
 
 | **Jurisdiction** | **Representative** | **Address** | **Contact details** |
 | --- | --- | --- | --- |
-| Korea | Tencent Korea Yuhan Hoesa | 152, Taeheran-ro, Gangnam-gu (Gangnam Finance Center, Yeoksam-dong), Seoul, Korea | Please contact us [here](mailto:dataprotection@wechat.com) |
+| Korea | Tencent Korea Yuhan Hoesa | 152, Taeheran-ro, Gangnam-gu (Gangnam Finance Center, Yeoksam-dong), Seoul, Korea | Please contact us [here](mailto:dataprotection@corp.wechat.com) |
 | Serbia | Karanovic & Partners o.a.d. Beograd | Resavska 23, Belgrade, 11000, Serbia | [local.representative@karanovicpartners.com](mailto:local.representative@karanovicpartners.com) |
 | Thailand | Tencent (Thailand) Company Limited | 8 T-One Building, Floor 10th, 11th & 12th (Unit 3-5), Soi Sukhumvit 40, Sukhumvit Road, Khwaeng Phra Khanong, Khet Khlong Toei, Bangkok 10110, Thailand | [localrepresentative@tencent.co.th](mailto:localrepresentative@tencent.co.th) |
 | Türkiye | Özdağıstanli Ekici Avukatlık Ortaklığı. | Nidakule Ataşehir Kuzey, Begonya Sok. No:3 Kat. 17 D: 162 / 34746 Ataşehir / İstanbul, Türkiye  <br>  <br>Özdağıstanli Ekici Avukatlık Ortaklığı is our data controller representative and its authority is limited to the authorities stipulated under the Law on Protection of Personal Data w. no 6698. Özdağıstanli Ekici Avukatlık Ortaklığı is not authorized for any other matters such as conduct in WeChat, bans, investigations, civil or criminal complaints. | [tencent@iptech-legal.com](mailto:tencent@iptech-legal.com) |
