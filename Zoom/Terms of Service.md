@@ -1,6 +1,6 @@
 [By industry](https://zoom.us/en/industry/)
 
-[Education](https://zoom.us/en/industry/education/)[Financial Services](https://zoom.us/en/industry/finance/)[Government](https://zoom.us/en/industry/government/)[Healthcare](https://zoom.us/en/industry/healthcare/)[Manufacturing](https://zoom.us/en/industry/manufacturing/)[Retail](https://zoom.us/en/industry/retail/)[Frontline](https://zoom.us/en/products/collaboration-tools/solutions/frontline-workers/)[Broadcast](https://zoom.us/en/audiences/broadcast/)
+[Education](https://zoom.us/en/industry/education/)[Financial Services](https://zoom.us/en/industry/finance/)[Professionals](https://zoom.us/en/small-business/professional-services/)[Government](https://zoom.us/en/industry/government/)[Healthcare](https://zoom.us/en/industry/healthcare/)[Manufacturing](https://zoom.us/en/industry/manufacturing/)[Retail](https://zoom.us/en/industry/retail/)[Frontline](https://zoom.us/en/products/collaboration-tools/solutions/frontline-workers/)[Broadcast](https://zoom.us/en/audiences/broadcast/)
 
 By audience
 
