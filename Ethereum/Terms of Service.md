@@ -1,9 +1,4 @@
-Copy .mdCopy .md
-
 On this page
-
-Terms of Use
-============
 
 **PLEASE READ THESE TERMS OF USE BEFORE USING THE WEBSITES.**
 
