@@ -1,9 +1,4 @@
-Copy .mdCopy .md
-
 On this page
-
-Cookie Policy
-=============
 
 Our Websites may use cookies to distinguish you from other users of our Websites. This may help us to provide you with a good experience when you browse our Websites and may also allow us to improve our Websites. By continuing to browse the Websites, you are agreeing to our use of cookies as well as the terms of this policy (the “Cookie Policy”). A cookie is a small file of letters and numbers that we may store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. We may use the following cookies:
 
