@@ -17,8 +17,8 @@ Terms and Conditions
 
 **1.4.** If you access FT.com under an organisation’s subscription agreement, then your access is primarily governed by the subscription agreement between us and that organisation. In the event of any conflict between these Terms and Conditions and the organisation's subscription agreement (as applicable), the terms of the organisation's subscription agreement shall prevail to the extent of the inconsistency only. If you have any questions about the FT Services or if you have any difficulties using FT.com, please [chat with us online, call us on your regional telephone number](https://help.ft.com/contact/), or email us at [help@ft.com](mailto:help@ft.com).
 
-[](#anchor-access-and-use)2\. Your Subscription to the FT Services
-------------------------------------------------------------------
+2\. Your Subscription to the FT Services
+----------------------------------------
 
 **Subscribing to the FT**
 
