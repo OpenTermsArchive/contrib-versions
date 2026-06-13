@@ -1,9 +1,4 @@
-Copy .mdCopy .md
-
 On this page
-
-Privacy Policy
-==============
 
 **1\. General information**
 
