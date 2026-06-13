@@ -38,6 +38,9 @@ Our technology powers the professionals who are shaping the world. [Meet the cha
 *   [Civil litigation](https://legal.thomsonreuters.com/en/legal/civil-litigation-law)
 *   [Criminal defense](https://legal.thomsonreuters.com/en/legal/criminal-law)
 *   [Family law](https://legal.thomsonreuters.com/en/legal/family-law)
+*   [Labor & employment](https://legal.thomsonreuters.com/en/legal/labor-and-employment)
+*   [Mergers & acquisitions law](https://legal.thomsonreuters.com/en/legal/mergers-and-acquisitions)
+*   [Personal injury](https://legal.thomsonreuters.com/en/legal/personal-injury-law)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
@@ -419,7 +422,7 @@ Explore the latest CoCounsel Legal enhancements — smarter AI, deeper research,
 *   [All communities Join Thomson Reuters professionals across industries to share expertise, solve challenges, and grow together.](https://community.thomsonreuters.com/)
 
 *   [Developer portal Access comprehensive APIs and developer tools that enable seamless integration with Thomson Reuters platforms.](https://developers.thomsonreuters.com/pages/home)
-*   [API catalogue Explore a comprehensive API catalog with detailed documentation to integrate Thomson Reuters data and services.](https://developers.thomsonreuters.com/pages/api-catalog?tab=messages&numberOfResults=10)
+*   [API catalog Explore a comprehensive API catalog with detailed documentation to integrate Thomson Reuters data and services.](https://developers.thomsonreuters.com/pages/api-catalog?tab=messages&numberOfResults=10)
 *   [Use case library Explore a comprehensive API catalog with detailed documentation to integrate Thomson Reuters data and services.](https://developers.thomsonreuters.com/pages/use-case-library?tab=messages&numberOfResults=10)
 *   [Developer community Collaborate with developer peers to troubleshoot issues, share best practices, and accelerate project success.](https://community.thomsonreuters.com/developers/)
 
