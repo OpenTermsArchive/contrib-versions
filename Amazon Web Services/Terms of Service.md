@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 9, 2026
+Last Updated: June 15, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -266,7 +266,7 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 
 **10.1.2.** Trusted Language Extensions for PostgresSQL (Trusted Language Extensions) enables you to use, build, and run extensions developed, owned, or provided by you, third parties, or their licensors using PostgreSQL trusted languages in Amazon RDS. Extension code that you use with Trusted Language Extensions is Your Content under the Agreement. AWS is not responsible for Service failure caused by extensions. You consent to AWS scanning extension code for security and performance purposes.
 
-**10.1.3.** Engine End of Life.  You are responsible for upgrading your Amazon RDS engine to a supported version when it reaches end of life (EOL).  AWS is not responsible for Service failure caused by EOL software.  If you operate your database on EOL software, AWS may, after providing you with prior notice of engine EOL as detailed [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/aurorapostgresql-release-calendar.html) and [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraMySQLReleaseNotes/AuroraMySQL.release-calendars.html), take a snapshot of Your Content and delete the instance or cluster running the EOL software.  This Section 10.1.3 does not apply to Amazon Aurora DSQL.
+**10.1.3.** Engine End of Life. You are responsible for upgrading your Amazon RDS engine to a supported version when it reaches end of life (EOL). AWS is not responsible for Service failure caused by EOL software. If you operate your database on EOL software, AWS may, after providing you with prior notice of engine EOL as detailed [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/aurorapostgresql-release-calendar.html) and [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraMySQLReleaseNotes/AuroraMySQL.release-calendars.html), take a snapshot of Your Content and delete the instance or cluster running the EOL software. This Section 10.1.3 does not apply to Amazon Aurora DSQL.
 
 **10.2. Amazon RDS Custom**
 
@@ -306,16 +306,16 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **10.4.** **Oracle AI Database@AWS**
 
-**10.4.1.**  In connection with Oracle AI Database@AWS, AWS may share Account Information, logs or other usage information with Oracle to enable Oracle to provide technical and sales support.
+**10.4.1.** In connection with Oracle AI Database@AWS, AWS may share Account Information, logs or other usage information with Oracle to enable Oracle to provide technical and sales support.
 
 **10.5. Amazon RDS for SQL Server**
 
-**10.5.1.**  “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
+**10.5.1.** “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
 
 *   SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
 *   Microsoft is an intended third-party beneficiary of this Section 10.5, with the right to enforce its provisions.
 
-**10.5.2.**  “Bring Your Own Media” (BYOM). You must provide the installation files for Amazon RDS to install on your behalf.  Amazon RDS will automatically download and install cumulative updates on your behalf.
+**10.5.2.** “Bring Your Own Media” (BYOM). You must provide the installation files for Amazon RDS to install on your behalf.  Amazon RDS will automatically download and install cumulative updates on your behalf.
 
 *   To use BYOM for Microsoft Software, you must have a valid license for the Microsoft Software you wish to run, and Software Assurance and License Mobility rights that permit deployment on AWS.  Prior to using BYOM with Microsoft Software, you must submit a License Mobility Verification Form to Microsoft, available [here](https://www.microsoft.com/licensing/docs/view/Forms?lang=1&year=2016).
 *   The terms of your existing license and support agreement(s) with Microsoft apply to your use of the Microsoft Software. You must follow all applicable Microsoft policies for licensing Microsoft Software in a cloud computing environment.
@@ -577,7 +577,7 @@ For clarity, you must not deduct or withhold taxes on payments to AWS if (a) you
 
 **26.11.** **Amazon WorkSpaces AI Features.** “Amazon WorkSpaces AI Features” means any Amazon WorkSpaces features powered by artificial intelligence or machine learning. “Amazon WorkSpaces AI Content” means your content that is processed by an Amazon WorkSpaces AI Feature. The following terms apply to your use of Amazon WorkSpaces AI Features:  
 
-**(a)** You agree and instruct that: (i) we may use and store Amazon WorkSpaces AI Content to develop and improve Amazon WorkSpaces and its underlying technologies; (ii) we may use and store Amazon WorkSpaces AI Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon WorkSpaces AI Content in AWS regions outside the AWS regions where you are using Amazon WorkSpaces AI Features. You may instruct AWS not to use and store Amazon WorkSpaces AI Content processed by Amazon WorkSpaces AI Features to develop and improve the Service or technologies of AWS or its affiliates by configuring an AI services opt-out policy using AWS Organizations.
+You agree and instruct that: (i) we may use and store Amazon WorkSpaces AI Content to develop and improve Amazon WorkSpaces and its underlying technologies; (ii) we may use and store Amazon WorkSpaces AI Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon WorkSpaces AI Content in AWS regions outside the AWS regions where you are using Amazon WorkSpaces AI Features. You may instruct AWS not to use and store Amazon WorkSpaces AI Content processed by Amazon WorkSpaces AI Features to develop and improve the Service or technologies of AWS or its affiliates by configuring an AI services opt-out policy using AWS Organizations.
 
 27\. Amazon Cognito
 -------------------
@@ -1023,7 +1023,9 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.12.4.** Amazon Bedrock may allow you to customize models with data you provide (for example, by fine-tuning). You will have exclusive use of your customized model. Third-party model providers cannot access your customized model. We will not access or use your customized model except as necessary to maintain or provide the Amazon Bedrock Service, or as necessary to comply with the law or a binding order of a governmental body.
 
-**50.12.5.** We may share information, that does not include Your Content, about your use of a third-party model with the provider of that third-party model.  
+**50.12.5.** We may share information, that does not include Your Content, about your use of a third-party model with the provider of that third-party model.
+
+**50.12.5.1.** Certain Anthropic products and features (e.g., Claude Code, computer use) may embed metadata in requests sent to Anthropic models on Amazon Bedrock. AWS may notify Anthropic which of this metadata is present in your Service inputs for Anthropic's product-level usage attribution.  
 
 **50.12.6.** Output generated by models accessed through Amazon Bedrock may include information such as metadata, digital signatures, or watermarks to identify it is generated using a generative artificial intelligence model ("Provenance Data"), as indicated in applicable documentation (for example, see [here](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-image-models.html#titanimage-watermark) for Amazon Titan Image Generator). Neither you nor any End User may modify, tamper with, remove, obscure, or otherwise alter such Provenance Data. 
 
@@ -1862,5 +1864,18 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 **108.5.** Amazon Connect Decisions is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage.  
 
 **108.6**. Certain features of Amazon Connect Decisions use third-party service providers, as identified in the service documentation. You authorize AWS to transmit your Content to the providers for processing.
+
+109\. AWS Web Application Firewall (“WAF”)
+------------------------------------------
+
+**109.1. AWS WAF AI traffic monetization**
+
+**109.1.1.** AWS WAF AI traffic monetization helps you charge buyers (“Buyers”) for access to the Content you serve via AWS Services (such as Amazon CloudFront), by transmitting messages between you, Buyers, your respective wallet and payment providers (“Payment Providers”), and third-party facilitation services (“Facilitators”).  AWS does not provide regulated financial services as part of AWS WAF AI traffic monetization. AWS is not a party to, or in the flow of funds for any payment you receive.
+
+**109.1.2.** To use AWS WAF AI traffic monetization, you instruct us to share your pricing, payment and configuration information with the applicable Buyer, Payment Provider, or Facilitator. Your use of Payment Providers and Facilitators is governed by separate terms between you and those parties. AWS is not responsible for any services provided by Payment Providers and Facilitators.  AWS does not have custody or control over, and is not responsible for any wallets, funds, or digital assets used in connection with AWS WAF AI traffic monetization.
+
+**109.1.3.** You will test, monitor, and implement safeguards (such as human-in-the-loop) for your use of AWS WAF AI traffic monetization as may be appropriate for your use case, including by managing and securing your wallet, and ensuring your access, pricing, licensing and payment configurations are accurate and authorized. AWS is not responsible for any transactions, disputes, or payments liability with any Buyers, Payment Providers or Facilitators arising from or related to your use of AWS WAF AI traffic monetization. 
+
+**109.1.4.** AWS may change or discontinue support for any Payment Provider or Facilitator at any time. We will provide you with prior notice if we discontinue support of a Payment Provider or Facilitator where practicable under the circumstances. AWS may impose limits on the amount of traffic processed by AWS WAF AI traffic monetization at any time.
 
 [Previous Version(s)](https://aws.amazon.com/service-terms/previous/)
