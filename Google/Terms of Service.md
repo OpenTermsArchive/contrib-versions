@@ -3,6 +3,11 @@ Google Terms of Service
 
 Effective 22 May 2024 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en-GB_eu.pdf)
 
+We’re updating our Terms of Service on 30 July 2026 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
+
+*   See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB&gl=IE)
+*   Review a [summary of key changes](https://policies.google.com/terms/changes?hl=en-GB&gl=IE)
+
 What’s covered in these terms
 -----------------------------
 
@@ -480,7 +485,7 @@ An individual or entity who is not a consumer (see consumer).
 
 ### commercial guarantee
 
-A commercial guarantee is a voluntary commitment that is in addition to the [legal guarantee](https://policies.google.com/terms/definitions?hl=en-GB&gl=IE#toc-terms-legal-guarantee) of conformity. The company offering the commercial guarantee agrees to (a) provide certain services; or (b) repair, replace or refund the consumer for defective items.
+A commercial guarantee is a voluntary commitment that certain quality standards will be met and that if those standards aren’t met, the company offering the guarantee is responsible for repairing, replacing or refunding the consumer for defective items.
 
 ### consumer
 
