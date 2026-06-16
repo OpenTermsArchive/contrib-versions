@@ -3,6 +3,10 @@ Google Terms of Service
 
 Effective 22 May 2024 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en-GB.pdf)
 
+We’re updating our Terms of Service on 30 July 2026 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
+
+See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+
 What’s covered in these terms
 -----------------------------
 
