@@ -7,11 +7,9 @@ Copy link
 
 Request user information
 
-Submit emergency request
+Emergency data request
 
 Child safety request
-
-International legal request
 
 I have a different question
 
@@ -110,10 +108,3 @@ Menlo Park, CA 94025
 Mail:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
