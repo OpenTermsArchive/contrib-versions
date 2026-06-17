@@ -1,95 +1,203 @@
-Legal Information
-=================
+Terms of Service
+================
+
+Please read these Terms of Service carefully before using Gofile. By accessing or using our platform, you agree to be bound by these terms. If you do not agree, you may not use our services.
 
 Company Information
 -------------------
 
-Company: WOJTEK SAS with 1000€ in equity  
-Address: 78, Avenue des Champs-Élysées, 75008 Paris  
-Registration Number: 889 963 708 R.C.S. Paris  
-Contact Form: [Link](https://gofile.io/contact)  
-Contact Number: +33981193844
+Gofile is a cloud storage and file sharing platform operated by:
 
-Terms of Service
-----------------
+Company: WOJTEK SAS
 
-### 1\. Introduction
+Capital: €1,000
 
-The terms under which WOJTEK SAS / Gofile offers its services to users are described in this contract. By registering and using our services or accessing our websites, you accept these terms without reservation. We reserve the right to deny access to our services to anyone who could harm their integrity.
+Address: 78, Avenue des Champs-Élysées, 75008 Paris, France
 
-### 2\. Service Description
+Registration: 889 963 708 R.C.S. Paris
 
-The Gofile Service is intended for users who wish to store digital content of any kind on Gofile servers. It offers a storage service that allows the public communication of content and is considered a hosting service under applicable legislation. Users can also store content in a private space. Gofile is then a simple storage service provider. Any content communicated to the public in violation of third-party rights may be removed in accordance with Gofile's terms and the laws in force.
+Contact: [Contact Form](https://gofile.io/contact) — +33 9 81 19 38 44
 
-### 3\. Service Registration
+Definitions
+-----------
 
-In order to use the Service other than as a "guest," the user must provide an email address. They will receive a link to access the service. No other information is required.
+"Gofile" Refers to the cloud storage and file sharing platform operated by WOJTEK SAS, accessible at gofile.io and its associated domains.
 
-### 4\. Offer and Payment
+"Service" All features, functionalities, and infrastructure provided by Gofile, including but not limited to file upload, storage, sharing, API access, and content delivery.
 
-Gofile offers a free and paid mode.  
-The free offer is provided in the form of Freemium, which means that the user can use and test a deliberately degraded service for free, including displaying advertisements, and eventually decide to subscribe to a paid offer. Users can access the free offer as a guest or as a standard user, each with its own features. To access the services as a guest, the user does not need to identify themselves; a guest session is automatically created upon the first connection to the site. This session is ephemeral and mainly allows for quick sharing. To access the services as a standard user, the user must provide a valid email address on which they will receive a connection link. The user agrees that Gofile will keep their email (which serves as an identifier). The user agrees that the use of services as a guest and standard user involves displaying advertising offers.  
-The user can choose to subscribe to the paid offer to access additional features and services described in the "subscription" tab of the profile page. They can customize their offer according to their specific needs and proceed with payment among the proposed modes. Once payment is made, the order is final and the user will receive a confirmation email containing the information mentioned during the order validation process.
+"User" Any individual or entity accessing or using the Service, whether as a guest, a registered free user, or a Premium subscriber.
 
-### 5\. The User
+"Content" Any file, data, text, image, video, audio, or other material uploaded to, stored on, or shared through the Service by a User.
 
-Gofile's services are available to any adult individual with legal capacity. The user guarantees that the information they provide is true, accurate, current, and complete and undertakes to update it to maintain its accuracy. If any of the information provided is false, inaccurate, expired, or incomplete, we reserve the right to suspend or close the user's account and cancel this agreement without the potential prejudice being able to be repaired. The user is responsible for maintaining the confidentiality of their identifiers and is responsible for any activity on their account. If the user notices any activity indicating that their account is being used in an unauthorized manner or that their data is being used without their permission, they should immediately contact us. Gofile, as a data controller, implements automated data processing for managing its website and providing the service. The data collected is necessary for this processing and is intended for the services provided by Gofile and, if applicable, by its subcontractors and providers. Any person using Gofile's services can consult the page relating to the use of personal data.
+"Premium" Any paid tier of the Service, including both Subscription and Pay-as-You-Go plans, offering enhanced features and allowances.
 
-### 6\. Legal Provisions
+Account Types & Registration
+----------------------------
 
-The user is responsible for the data stored on Gofile servers. We provide the user with methods of restricting and controlling access for better control of their data. We recommend for maximum security to encrypt the data before storing it on our servers. The user recognizes Gofile's hosting status and cannot hold Gofile responsible for the content stored by the user.
+### Guest Access
 
-You agree not to use our services to:
+Users may access basic upload and sharing functionality without registration. A guest session is automatically created upon first connection. Guest sessions are ephemeral and intended for quick, temporary sharing. No personal data is required.
 
-*   Broadcast, send, or transmit any content that incites hatred or refers to torture or death.
-*   Cause harm to minors, especially by disseminating child pornography.
-*   Broadcast, display, or transmit any content that would violate patents, trademarks, trade secrets, copyrights, or any other property right belonging to a third party.
-*   Send unsolicited commercial emails (“spam”).
-*   Hide identity to perform illegal, fraudulent, or infringing activities on intellectual property rights of a third party; broadcasting harmful, illegal, or defamatory content.
-*   Allow others to use our services illegally, invasively, prejudicially, defamatory, or fraudulently; to alter, steal, corrupt, disable, destroy, illegally access or violate any computer file, database, or network security or encryption; to interfere with the use of our network by other authorized clients or users; violate the use conditions of Gofile's infrastructure providers, provided that you are aware of these policies and that they are publicly available on the websites of the infrastructure providers; or in a manner that is contrary to generally accepted internet etiquette.
-*   Try to gain access to an account or computer resource that does not belong to you, without the owner's permission.
-*   Interfere with the use or enjoyment of our network or any other service by other authorized clients or users. This includes excessive use that damages fair use by other users and clients of Gofile.
-*   Import any copy of copyrighted content for the purpose of sale, rental, distribution, or any other benefit or reward.
+### Free Account
 
-We reserve the right to terminate any account that violates these rules, without notice, in accordance with the laws and policies established by Gofile as a hosting service. Furthermore, if the user violates these rules, we will fully cooperate with authorities by providing information about the user and content.
+To create a free account, Users must provide a valid email address. A secure login link is sent to that address — no password is required. The email address serves as the account identifier. Free accounts provide access to the File Manager, basic API operations, and the ability to manage content across sessions. Free accounts are subject to ephemeral storage retention policies and display advertisements.
 
-### 7\. Refund Policy and Legal Withdrawal Period
+### Premium Account
 
-\- Refund: As the services offered by Gofile are digital in nature, most of the time they cannot be refunded. However, each case will be evaluated on an individual basis, and a refund may be granted if the reason for the request is deemed legitimate (such as an error from Gofile, a technical problem, or a payment made by mistake).  
-\- Legal Withdrawal Period: By accepting the terms and conditions as a consumer, the user acknowledges that the 14-day period for exercising the right of withdrawal does not apply when the services have already been provided.
+Users may upgrade to a Premium account via Subscription or Pay-as-You-Go plans. Premium unlocks permanent storage, increased traffic allowances, direct link generation, advanced file manager features, full API access, CDN capabilities, priority server access, and an ad-free experience. Premium features and allowances are detailed on the [Premium page](https://gofile.io/premium) and may evolve over time.
 
-### 8\. Delayed / Default Payment
+**Accuracy of Information:** The User guarantees that all information provided during registration and account usage is true, accurate, current, and complete. Gofile reserves the right to suspend or terminate any account found to be using false, inaccurate, or incomplete information.
 
-In case of non-payment, the user's account will be immediately downgraded to a "standard" account with associated features. In any case, Gofile will do its best to inform the customer by email of the status of their account.
+Service Description
+-------------------
 
-### 9\. Intellectual Property
+Gofile provides a cloud storage platform that allows Users to upload, store, organize, and share digital content. The Service operates across multiple geographic regions with storage datacenters in Paris (France) and Phoenix (United States), and a global network of upload and download proxy servers to optimize performance worldwide.
 
-All content available on the Gofile website, including texts, graphics, logos, buttons, images, music tracks, digital downloads, data compilations, and software, is owned by Gofile and is protected by French and international laws on intellectual property, copyright, and database protection.
+Users may share content publicly via download pages or keep content private within their account. Premium Users may additionally generate direct links for embedding, integration, and content delivery, with configurable access controls including password protection, IP restrictions, domain allow/block lists, and expiration dates.
 
-### 10\. Diversion
+Gofile also provides a REST API, documented at [/api](https://gofile.io/api), enabling programmatic access to upload, manage, and serve content. The API is currently in BETA and is subject to change. Most API endpoints require a Premium account.
 
-The user must not use the offers and resources provided fraudulently. We reserve the right to terminate any account that would put the service in danger.
+Gofile acts as a hosting provider within the meaning of applicable legislation. Content stored on Gofile is under the sole responsibility of the User who uploaded it. Gofile does not claim ownership over User Content and does not monitor, screen, or review Content unless required by law or in response to a valid abuse report.
 
-### 11\. Responsibility
+Free Services
+-------------
 
-The user acknowledges that the Gofile service is highly technical and that Gofile is only subject to a general obligation of means. Due to the nature of the Internet and its operation, Gofile cannot guarantee any quality of service. Gofile will not be held liable for damages related to the unavailability or degradation of its service.
+Gofile offers a free tier intended for quick, temporary file sharing. Free accounts are subject to the following conditions, which the User expressly acknowledges and accepts:
 
-### 12\. Modification of the Agreement or our Services
+*   **Ephemeral Storage:** Content on free accounts is retained for a limited period. While content that remains actively downloaded may be kept longer, Gofile does not guarantee any specific retention duration for free accounts and may delete inactive content at any time without notice.
+*   **Traffic Allowance:** Free accounts are subject to a monthly traffic cap. Traffic may be counted by IP address; Users on shared IPs (schools, offices, VPNs) may have their usage aggregated with other Users on the same IP.
+*   **Advertising:** Free accounts display advertisements. The User agrees that Gofile may serve ads through its platform as part of the free offering.
+*   **Feature Limitations:** Certain features — including direct links, cold storage import, advanced file manager operations, and most API endpoints — are reserved for Premium accounts.
 
-We reserve the right to modify the terms of use at any time and without notice. In addition, in case of force majeure, we reserve the right to modify or interrupt the service, temporarily or permanently, without notice. You acknowledge that we cannot be held responsible for any modification, suspension, or interruption of the service. In order to protect the integrity of the services, you acknowledge our right to establish conditions and limitations for the use of the service, including the maximum disk space allocated on our servers and the maximum number of times (and maximum duration) you can access the service within a given time period. The rates are freely fixed and can be modified without notice. These limitations may be reviewed in light of market changes imposed on Gofile.
+Premium Services & Payment
+--------------------------
 
-### 13\. Termination
+### Subscription Plans
 
-Subscriptions are subscribed for a specific duration. You have the option to extend or not your subscription period according to your preferences. You acknowledge that any termination of your access to the service for non-compliance with your obligations as defined in the T&C may occur without prior notice. You acknowledge and accept that Gofile is entitled, in accordance with T&C and applicable laws, to deactivate or delete your account or any content at any time and without notice. You acknowledge Gofile's right to block and delete any account without activity for more than one year for security and integrity reasons of its information systems. Furthermore, you acknowledge that Gofile cannot be held liable towards you or a third party for such termination.
+Subscription plans provide a fixed monthly allowance of storage and traffic for a recurring fee. Subscriptions renew automatically at the end of each billing period unless cancelled. Current pricing and allowances are published on the [Premium page](https://gofile.io/premium) and may be updated from time to time.
 
-### 14\. General Provisions
+**Important:** Recurring subscription payments are processed by a third-party merchant of record, not by Gofile. Please refer to the Merchant of Record subsection below for details.
 
-For any exchange of information by email, the date and time recorded on Gofile's server shall be binding between the parties. This information will be retained by Gofile in accordance with applicable laws. All notifications, communications, and demands provided for in the T&C shall be considered as validly delivered if addressed by registered mail with return receipt to: WOJTEK : 78 AV DES CHAMPS ELYSEES 75008 PARIS FRANCE
+### Pay-as-You-Go & One-Shot Payments
 
-### 15\. Evidence Convention
+Pay-as-You-Go is a credit-based model where Users are charged based on actual storage consumed and data transferred. A minimum monthly usage fee applies. Users may purchase credits in advance. Unused credits do not roll over indefinitely. Pay-as-You-Go credits and yearly Premium one-shot payments are processed directly by Gofile (WOJTEK SAS).
 
-The user agrees that files, data, messages, computerized records, and login data recorded in Gofile's computer systems may be used as evidence in the context of the contract.
+### Merchant of Record (Subscriptions)
 
-### 16\. Applicable Law
+All recurring subscription payments are processed by our designated merchant of record. The merchant of record is responsible for payment processing, billing, invoicing, and handling payment-related inquiries for subscription plans. By subscribing, you enter into a payment relationship with the merchant of record for the recurring billing component, while the Service itself continues to be provided by Gofile (WOJTEK SAS).
 
-This contract shall be governed by French law.
+Company: Number X Europe OÜ
+
+Registration: 16634149
+
+Address: Vesivärava tn 50-201, Kesklinna linnaosa, 10152 Tallinn, Harju maakond, Estonia
+
+Contact: support@thenumberx.com
+
+### Payment Terms
+
+All payments are processed at the time of order. Upon successful payment, the User receives a confirmation email. The order is final once payment is confirmed. Premium features are activated immediately upon successful payment processing.
+
+In the event of payment failure for a Subscription plan, the User's account is downgraded to a free account with the associated features and limitations. Gofile will make reasonable efforts to notify the User of any payment issues by email.
+
+### Refunds
+
+Due to the digital nature of the Service, payments are generally non-refundable once the Service has been provided. However, each case is evaluated individually. Refunds may be granted in cases of demonstrable error, unresolved technical issues attributable to Gofile, or payments made in error. The User acknowledges that the statutory 14-day withdrawal period applicable to consumer contracts does not apply once the Service has commenced.
+
+For subscription-related refund requests, please contact the merchant of record at **support@thenumberx.com**. For refunds related to Pay-as-You-Go credits or one-shot yearly payments, please contact Gofile through the [contact page](https://gofile.io/contact).
+
+User Obligations & Prohibited Use
+---------------------------------
+
+The User is solely responsible for all Content they upload to, store on, or share through Gofile. The User agrees not to use the Service — and not to permit or enable others to use the Service — for any of the following purposes:
+
+### Illegal Content
+
+Uploading, storing, sharing, or distributing any content that violates applicable local, national, or international laws. This includes — but is not limited to — child sexual abuse material (CSAM), terrorist propaganda, content promoting violent extremism, and any material deemed unlawful in jurisdictions where Gofile operates or where the User resides.
+
+### Intellectual Property Infringement
+
+Uploading, storing, sharing, or distributing any content that infringes upon the copyright, trademark, patent, trade secret, or other intellectual property rights of any third party. This includes pirated software, unlicensed media, counterfeit goods, and any content used without the express authorization of the rights holder.
+
+### Harmful & Malicious Content
+
+Distributing malware, viruses, ransomware, spyware, phishing kits, or any other malicious software or code. Also prohibited are materials designed to compromise the security, privacy, or integrity of any individual, organization, computer system, or network.
+
+### Hate Speech, Harassment & Abuse
+
+Content that incites hatred, violence, or discrimination against individuals or groups based on race, ethnicity, religion, gender, sexual orientation, disability, or any protected characteristic. Also prohibited: content used for harassment, stalking, doxing, blackmail, extortion, or targeted intimidation of any individual or group.
+
+### Platform Abuse
+
+Attempting to circumvent storage limits, traffic allowances, or rate limits through automated means, multiple accounts, or other deceptive practices. Using the Service to send spam or unsolicited commercial communications. Interfering with or disrupting the integrity, security, or performance of the Service, its infrastructure, or any other user's enjoyment of the platform. Attempting to gain unauthorized access to accounts, systems, or data belonging to Gofile or other Users. Excessively consuming resources in a manner that degrades the experience for other Users.
+
+**Enforcement:** Gofile reserves the right to remove any Content that violates these terms, suspend or terminate any account engaged in prohibited activity, and refer serious violations — particularly those involving CSAM, terrorism, or imminent threats — to the appropriate law enforcement authorities. For full details on our moderation practices, please see our [Abuse Policy](https://gofile.io/abusepolicy).
+
+Intellectual Property
+---------------------
+
+All elements of the Gofile platform itself — including but not limited to the website, user interface, logos, graphics, trademarks, software, API, documentation, and infrastructure — are the exclusive property of WOJTEK SAS and are protected by French and international intellectual property laws, including copyright and database protection legislation.
+
+The User retains full ownership of all Content they upload to the Service. By using the Service, the User grants Gofile a limited, non-exclusive, worldwide, royalty-free license to store, process, and serve the User's Content solely as necessary to provide the Service (including making public Content accessible through download pages and direct links as configured by the User). This license terminates when the User deletes the Content or when the Content is removed in accordance with these Terms.
+
+Gofile respects the intellectual property rights of others and expects its Users to do the same. Rights holders who believe their work has been infringed may submit a notice through our [contact page](https://gofile.io/contact). We respond promptly to properly submitted notices that comply with applicable laws, including the Digital Millennium Copyright Act (DMCA).
+
+Data & Privacy
+--------------
+
+Gofile is committed to minimizing data collection. In its most basic use (guest access), Gofile collects no personal data whatsoever. When a free account is created, only the User's email address is stored. When a Premium subscription is purchased, billing-related information is collected as necessary to generate invoices and process payments. Under no circumstances will Gofile sell or rent personal data to third parties.
+
+Content stored on Gofile is encrypted at rest on our servers. However, Gofile is not an end-to-end encrypted service — server-side encryption is used, which allows Gofile to provide features such as direct links, ZIP generation, and content scanning. Users requiring maximum confidentiality are encouraged to encrypt files locally before uploading.
+
+For complete details on how we collect, use, and protect personal data, please refer to our [Privacy Policy](https://gofile.io/privacy).
+
+Service Availability & Liability
+--------------------------------
+
+Gofile strives to maintain high availability and performance, but given the inherent complexities of internet infrastructure, the Service is provided on an "as is" and "as available" basis. Gofile is subject to a general obligation of means, not an obligation of result.
+
+Gofile shall not be held liable for damages arising from:
+
+*   Service interruptions, downtime, or degradation, whether planned or unplanned
+*   Data loss, corruption, or unauthorized access resulting from circumstances beyond Gofile's reasonable control
+*   Actions taken in compliance with legal obligations, including content removal in response to valid abuse reports or law enforcement requests
+*   Third-party services, websites, or content linked to or from the Gofile platform
+*   The conduct or Content of any User
+
+Gofile's total liability, whether in contract, tort, or otherwise, shall not exceed the amount paid by the User to Gofile in the twelve months preceding the event giving rise to the claim. For free accounts, Gofile's liability is limited to the fullest extent permitted by applicable law.
+
+Account Termination
+-------------------
+
+**By the User:** Users may stop using the Service at any time. Premium subscriptions may be cancelled through the profile page; cancellation takes effect at the end of the current billing period. Users may delete their Content and request account deletion at any time.
+
+**By Gofile:** Gofile reserves the right to suspend or terminate any account, with or without notice, in the following circumstances:
+
+*   Violation of these Terms of Service or the Abuse Policy
+*   Engagement in illegal activity through the platform
+*   Extended account inactivity exceeding one year, for security and data integrity purposes
+*   Non-payment of Premium fees
+*   Force majeure events or circumstances that make continued service provision impossible or impractical
+
+Upon termination, the User's right to access the Service ceases immediately. Gofile may delete all Content associated with the terminated account. Gofile shall not be liable to the User or any third party for termination of access to the Service.
+
+Modifications to These Terms
+----------------------------
+
+Gofile reserves the right to modify these Terms of Service at any time. Material changes will be communicated to registered Users by email or through a notice on the platform. For non-material changes, the updated Terms will be published on this page with a revised effective date.
+
+Continued use of the Service after modifications become effective constitutes acceptance of the revised Terms. If the User does not agree to the changes, they must discontinue use of the Service and may terminate their account. Gofile also reserves the right to modify, suspend, or discontinue any aspect of the Service, temporarily or permanently, with or without notice, including but not limited to feature sets, storage limits, traffic allowances, and pricing.
+
+Governing Law & Jurisdiction
+----------------------------
+
+These Terms of Service shall be governed by and construed in accordance with the laws of France, without regard to conflict of law principles. Any dispute arising from or relating to these Terms or the use of the Service shall be subject to the exclusive jurisdiction of the competent courts of Paris, France.
+
+For any exchange of information by email, the date and time recorded on Gofile's servers shall be authoritative between the parties. All formal notifications and communications provided for in these Terms shall be considered validly delivered if addressed by registered mail with return receipt to the company address stated in Section 1.
+
+The User acknowledges that digital records, logs, messages, and data stored in Gofile's computer systems may be used as evidence in the context of any dispute relating to these Terms.
+
+Questions & Contact
+-------------------
+
+If you have any questions about these Terms of Service, or if you need to contact Gofile for any legal or administrative matter, please reach out through our [contact page](https://gofile.io/contact) or by registered mail at the address listed in Section 1. We are committed to addressing all inquiries promptly and professionally.
