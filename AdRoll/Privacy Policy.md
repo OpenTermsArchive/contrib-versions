@@ -1,7 +1,7 @@
 Service Privacy Notice
 ======================
 
-Effective as of August 27, 2025  
+Effective as of June 10, 2026  
 View [archived Privacy Notice](https://www.nextroll.com/privacy/archived)
 
 NextRoll, Inc. and its subsidiaries and affiliates (“**we** ” “**our**” or “**us**”) a connected advertising platform built for fast-moving, resource-constrained marketers. We provide multi-channel audience activation, account-based marketing, AI-powered engines and agents, cross-channel attribution, and award-winning support to help businesses generate awareness, deepen engagement, and drive full-funnel growth.
@@ -40,18 +40,18 @@ Table of Contents
 
 [Back to top](#service-toc)
 
-AdRoll and AdRoll ABM are AI-powered NextRoll Services providing a connected advertising platform designed for mid-market businesses, with solutions for full-funnel multi-channel advertising, social advertising, ecommerce growth, cross-channel attribution and account-based marketing. By using NextRoll’s proprietary data and machine learning AI systems (“**NextRoll Technology**”), companies can better understand their current customers, find new loyal customers and build lasting customer relationships through intelligence-driven direct marketing activities.
+AdRoll and AdRoll ABM are AI-powered NextRoll Services providing a connected advertising platform designed for marketers, with solutions for full-funnel multi-channel advertising, social advertising, ecommerce growth, cross-channel attribution and account-based marketing. By using NextRoll’s proprietary data and machine learning AI systems (“**NextRoll Technology**”), companies can better understand their current customers, find new loyal customers and build lasting customer relationships through intelligence-driven direct marketing activities.
 
 NextRoll provides solutions for direct to consumer brands through its AdRoll services and account based marketing through its AdRoll ABM services:
 
-*   [AdRoll](https://www.adroll.com/) is an e-commerce marketing platform for companies that sell their products and services directly to consumers (called “**Direct to Consumer**” or “**D2C**” companies). The AdRoll platform makes it easy and affordable for D2C companies to deliver the cross-channel experiences consumers expect – enabling them to sell more to their existing consumers and identify new consumers to introduce to their products and services. AdRoll does this by creating connected, personalized customer journeys that enable brands to reach new and existing customers through digital advertising, email marketing and onsite experiences. AdRoll also helps companies understand the impact of their marketing efforts with advanced measurement and attribution;
+*   [AdRoll](https://www.adroll.com/) is an e-commerce marketing platform for companies that sell their products and services directly to consumers (called “**Direct to Consumer**” or “**D2C**” companies). The AdRoll platform makes it easy and affordable for D2C companies to deliver the cross-channel experiences consumers expect — enabling them to sell more to their existing consumers and identify new consumers to introduce to their products and services. AdRoll does this by creating connected, personalized customer journeys that enable brands to reach new and existing customers through digital advertising, email marketing and onsite experiences. AdRoll also helps companies understand the impact of their marketing efforts with advanced measurement and attribution;
 *   [AdRoll ABM](https://www.adroll.com/) offers an account-based platform for businesses who want to sell their products and services to other businesses (called “**Business to Business”** or “**B2B**” companies). Our AdRoll ABM Services help B2B companies identify their target accounts and key buyers, reach those accounts across multiple channels and measure program effectiveness in their system-of-record.
 
 #### Interest-Based Advertising
 
-NextRoll’s Technology helps our D2C and B2B Customers show ads and send emails to people that are most likely to find them interesting. By serving them ads that are relevant to an individual's specific interests, our Customers reach prospective and existing customers more effectively and learn more about what constitutes their “ideal customer” and which ads and website pages generate the most attention and result in a purchase of services or products. These activities are frequently referred to as “interest-based advertising”. We show many of these interest-based ads on websites and mobile apps which rely on advertising revenue to support the content they provide for free each day.
+NextRoll’s Technology helps our D2C and B2B Customers show ads and send emails to people that are most likely to find them interesting. By serving ads that are relevant to an individual's specific interests, our Customers reach prospective and existing customers more effectively. Our Services also allow Customers to learn more about which consumers or businesses constitutes their “ideal customer” and which ads and website pages generate the most attention and lead to a purchase of services or products. These activities are frequently referred to as “interest-based advertising”. We show many of these interest-based ads on websites, mobile apps, connected television (“CTV”) or “over the top” streaming services, as well as Digital Out-of-Home (“DOOH”) locations such as digital billboards and screens shown near public transportation spots or in residential and commercial elevators. Websites, apps and streaming services rely on advertising revenue to support the content they provide (often for free) every day.
 
-When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, open an email from a Customer, or get served an ad by us on behalf of our Customer on a third party site, we have likely collected certain data from your device. This Service Privacy Notice describes the data we collect and how we use it, including the reasons why it is collected and the items that are disclosed to other third parties in the adtech ecosystem for the purpose of serving the ad or providing analytics. . The majority of the ads served to our Customers’ site visitors are part of a “real-time bidding” system used throughout the internet and apps to deliver ads in the nanoseconds it takes to upload a webpage or swipe to a new section of an App.
+When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, or get served an ad by us on behalf of our Customer on a third party site, we have likely collected certain data from your device. This Service Privacy Notice describes the data we collect and how we use it, including the reasons why it is collected and the items that are disclosed to other third parties in the adtech ecosystem for the purpose of serving the ad or providing analytics. The majority of the ads served to our Customers’ site visitors or ideal audiences are part of a “real-time bidding” system used throughout the internet, apps, CTV and DOOH to deliver ads in the nanoseconds it takes to upload a webpage or swipe to a new section of an App, or switch streaming programs.
 
 Interest-based advertising enables publishers of Digital Properties to more accurately determine which ads to serve to specific users based on near real-time data. In turn, this allows our Customers to provide more effective advertising that reaches a more precise pool of prospective buyers.
 
@@ -119,9 +119,11 @@ All of this data is collected to help make sure you get the best and most releva
 
 *   **_Campaign Performance Data:_** This data includes information about how well our Customers’ ads and campaigns have performed, whether on our platform or on other advertising platforms.
     
-*   **_Data from Audience Partners:_** We may collect additional information about you from our audience partners who create and provide us with segments which we use for our Customers (“**Audience Partner**”). A segment is a grouping of users who share one or more attributes (e.g. demographic or firmographic attributes). We use this data to better understand the Customers’ target audience and to better market the Customers’ products and services to you. We may also work with our Customers and Audience Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognize a particular unique browser or device and the advertising interests associated with it (commonly known as “ID or User Syncing”). Our Audience Partners are [Bombora](https://bombora.com/digital-audiences/) and [Experian](https://www.experian.co.uk/business/find-retain-customers/targeting-profiling) and [Eyeota](https://www.eyeota.com/audience-marketplace) (please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) list (LiveRamp onboards the Bombora data).
+*   **_Data from Audience Partners:_** We may collect additional information about you (or your cookie or IP address or MAID or CTV identifier) from our audience partners who create and provide us with segments which we use for our Customers (“**Audience Partner**”). A segment is a grouping of users who share one or more attributes (e.g. demographic or firmographic attributes). We use this data to better understand the Customers’ target audience and to better market the Customers’ products and services to you. We may also work with our Customers and Audience Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognize a particular unique browser or device and the advertising interests associated with it (commonly known as “ID or User Syncing”). Our Audience Partners are [Bombora](https://bombora.com/digital-audiences/) and [Experian](https://www.experian.co.uk/business/find-retain-customers/targeting-profiling) and [Eyeota](https://www.eyeota.com/audience-marketplace) and Perion (please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) list (LiveRamp onboards the Bombora data).
     
-*   **_Data from Advertising Partners:_** This is data that allows us to match the NextRoll cookie identifier with identifiers that may already be used by other companies in the digital advertising ecosystem that we work with (“[**Advertising Partners**](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners)”). For example, we work with ad exchanges, publishers and supply side platforms (i.e. companies that sell advertising space on publishers’ websites) in order to serve our ads. Matching cookie identifiers helps us deliver ads to you and recognize you across browsers and devices and may include pseudonymous advertising identifiers (meaning identifiers that help identify your browser or device, but not you directly) which some Advertising Partners choose to share with us. Please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) listing the Advertising Partners we work with to deliver ads on publisher pages.
+*   **_Data from Advertising Partners:_** This is data that allows us to match the NextRoll cookie identifier with identifiers that may already be used by other companies in the digital advertising ecosystem that we work with (“[**Advertising Partners**](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners)”). For example, we work with ad exchanges, publishers and supply side platforms (i.e. companies that sell advertising space on publishers’ websites, streaming services or digital billboards) in order to serve our ads. Matching cookie identifiers helps us deliver ads to you and recognize you across browsers and devices and may include pseudonymous advertising identifiers (meaning identifiers that help identify your browser or device, but not you directly) which some Advertising Partners choose to share with us. Please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) listing the Advertising Partners we work with to deliver ads on publisher pages.
+    
+*   **_Contact data from third parties:_** We obtain and collect contact data from various third-party sources, including from public sources and through licenses with data providers. We may also infer contact data based on email addresses and email naming conventions. This contact data is B2B information—in other words, it is typically a business email address, business street address and a business telephone number. Please note that as part of our AdRoll ABM Services, we do not collect business email addresses from third parties for any individuals who are residing in any European Territories (as defined in [International Transfers](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners)).
     
 
 #### Third Party Data Collection Unique to CTV Ads:
@@ -135,10 +137,37 @@ All of this data is collected to help make sure you get the best and most releva
     *   where permitted under applicable law, a unique cookie ID is assigned and collected; and
     *   precise geolocation
 
-#### Data collected pursuant to AdRoll ABM Business only:
+#### Third Party Data Collection Unique to DOOH
 
-*   **_Contact data from third parties_:**  We obtain and collect contact data from various third-party sources, including from public sources and through licenses with data providers. We may also infer contact data based on email addresses and email naming conventions. This contact data is B2B information – in other words, it is typically a business email address, business street address and a business telephone number. Please note that as part of our AdRoll ABM Services, we do not collect business email addresses from third parties for any individuals who are residing in any European Territories (as defined in [International Transfers](#service-11)).
+To serve ads on digital billboards and similar out-of-home digital screens (e.g., elevators and bus or train shelters), we partner with third party SDK’s and geolocation partners and processors and third parties who own or contract with the physical billboards, bus shelters, elevator screens where DOOH ads are shown.
+
+Where third party SDK’s and geolocation partners and processors obtain proper consent granted via an iOS or Android device, the following additional information is captured for the purpose of allowing our Customers to serve DOOH ads and achieve probabilistic targeting:
+
+*   GPS location (where legal to obtain or obtain via consent)
+*   App usage context (e.g., an app is frequently in-use at a particular time of day)
+*   Advertising identifiers (MAIDs) (where legal to obtain or obtain via consent)
+*   Behavioral patterns (e.g., a MAID is part of a particular cohort of commuters typically in the vicinity of digital properties at specific times and/or days or during a particular event (weather, sports, etc.)).
+
+Where our third party partners and processors own or contract with the physical billboards, bus shelters, and elevator screens where DOOH ads are displayed, these third parties may use privacy safe hardware to gauge footfall traffic to ascertain the traffic density of individuals in the vicinity of a DOOH screen and the time spent in that vicinity.
+
+The privacy safe hardware and technology used by our partners:
+
+*   Does not capture biometric identification information
+*   Does not retain facial templates
+*   Does not store raw video
+*   Does not store raw GPS or individual location histories
+
+Instead, the privacy safe hardware can track footfall traffic, activity level (e.g., is the area crowded or nearly empty) as well as changes in temperature and weather. This data is aggregated and incorporated into the MAID data from devices that permit MAID data to be captured and then reported to AdRoll to provide probabilistic identity resolution based on aggregate data and AdRoll’s access to schedule of ads it arranges to be shown on a particular screen in a particular location within the viewable vicinity of the screen.
+
+#### Third Party Data Collection pursuant to AdRoll ABM Business only:
+
+*   **_Contact data from third parties_:**  We obtain and collect contact data from various third-party sources, including from public sources and through licenses with data providers. We may also infer contact data based on email addresses and email naming conventions. This contact data is B2B information — in other words, it is typically a business email address, business street address and a business telephone number. Please note that as part of our AdRoll ABM Services, we do not collect business email addresses from third parties for any individuals who are residing in any European Territories (as defined in [International Transfers](#service-11)).
     
+
+#### NextRoll Does Not Collect Data from Minors:
+
+*   NextRoll does not work with customers who operate sites aimed to attract minors (e.g., National Geographic Kids or Britannica kids)
+*   NextRoll does not have actual knowledge that it collects, processes, sells or shares the personal information of minors.
 
 ### 3\. How We Use the Data We Collect
 
@@ -185,11 +214,11 @@ We may disclose data about you with the following third parties:
 
 *   **_With a Customer:_**  We may share data about how you have interacted with a Customer’s Digital Properties, email campaigns or ads.  We may share [business contact data](#service-13) collected from third party sources or inferred (for example, based on email naming conventions) with a AdRoll ABM B2B Customer if we think that your business or employer would be interested in that Customer’s products. In regards to AdRoll ABM’s Services, we do not collect contact data about residents of European Territories from third parties.
     
-*   **_With Our Audience Partners:_**  We share hashed email addresses or other pseudonymous online identifiers with our Audience Partners in connection with audience creation and modeling and creating segments for the Customer based on the Customer’s CRM Data. 
+*   **_With Our Audience, CTV and DOOH Partners:_**  We share hashed email addresses or other pseudonymous online identifiers used in connection with audience creation and modeling and creating segments for the Customer based on the Customer’s CRM Data or demographic prospecting needs. 
     
-*   **_With Our Advertising Partners:_**  We disclose cookie ID data and the ad we propose to serve with our Advertising Partners, as necessary, to allow for the successful delivery of ads to your device.
+*   **_With Our Advertising InventoryPartners:_**  We disclose cookie ID data and the ad we propose to serve with our Advertising Partners, as necessary, to allow for the successful delivery of ads to your device.
     
-*   **_With Our Service Providers:_**  We contract with companies who provide services to us to support our business operations (e.g., for example, website and data hosting, fraud prevention, viewability reporting, data hygiene, marketing and email delivery), as well as billing, collections, tech, customer and operational support. 
+*   **_With Our Service Providers:_**  We contract with companies who provide services to us to support our business operations For example, website and data hosting, fraud prevention, viewability reporting, data hygiene, marketing and physical digital billboard owners that display digital-out-of-home (“DOOH”) services, audience partners that identify cookies, MAIDs or alternative identifiers as belonging to a particular audience (e.g., gender; age; interest (cookie; basketball; SUV-owner etc.)), except that audience partners do not ingest or use Customer CRM or browsing activity, only cookies, MAIDs, CTV ids and alternative identifiers matched to lawfully obtained audience-information. In addition, our billing, collections, tech, customer and operational support groups are also our Service Providers.  
     
 *   **_With Our Subsidiaries and Affiliates:_**  Our subsidiaries and corporate affiliates will only process your data for the purposes already explained in this Service Privacy Notice. Our subsidiaries are NextRoll Limited (Ireland), AdRoll Limited (UK) and NextRoll Pty Limited (Australia).
     
@@ -212,9 +241,11 @@ We may also share aggregated and de-identified data with our subsidiaries and af
 
 NextRoll offers a consent management platform that adheres to the latest Interactive Advertising Bureau (IAB) Transparency and Consent Framework (TCF). Our commitment to the principles outlined in the IAB TCF are provided in our [TCF Attestation](https://www.nextroll.com/privacy/tcf-attestation).
 
-NextRoll Technology uses cookies, tracking pixels and related technologies to provide our Services to our Customers. Cookies are small data files that are served by our platform and stored on your device. You can refuse consent to, or opt-out of, NextRoll cookies at any time, as explained in [Your Choices and Opting-out of Interest-Based Advertising and Analytics](#service-8) below. The NextRoll cookie we serve through our NextRoll Technology for this purpose is named “\_\_adroll”, “\_\_ar\_v4”, “\_adroll\_shared” and “\_\_adroll\_fpc.” 
+NextRoll Technology uses first and third party cookies, tracking pixels and related technologies (such as alternative identifiers and/or server-to-server data transmission), MAID data and Third Party Data Unique to our CTV and DOOH offering to provide our Services to our Customers. Cookies and tracking pixels are small data files that are served by our platform and stored on your device. Customers who use our Server-to-Server product use first party cookies and ad click identifiers for attribution and measurement. You can refuse consent to, or opt-out of, NextRoll third party cookies at any time, as explained in [Your Choices and Opting-out of Interest-Based Advertising and Analytics](#service-8) below.
 
-Our Advertising Partners may also drop cookies for the purposes described in [What Data We Collect](#service-2). Generally, the type of cookies dropped will vary depending on the Advertising Partner. We provide a list of our Advertising Pixel Partners [here](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners).
+The NextRoll cookie we serve through our NextRoll Technology for this purpose is named “\_\_adroll”, “\_\_ar\_v4”, “\_adroll\_shared” and “\_\_adroll\_fpc.” Another method to opt-out interest-based advertising is via a Global Privacy Control extension added to your browser.
+
+Our Advertising Partners may also use cookies, tracking pixels and related technologies for the purposes described in [What Data We Collect](#service-2). Generally, the type of tracking technology will vary depending on the Advertising Partner. We provide a list of our Advertising Pixel Partners [here](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners). If you opt-out of interest-based advertising from NextRoll or via a browser extension with Global Privacy Control, you should not receive ads served by NextRoll via any of our Advertising Partners.
 
 Additionally, we use **non-tracking cookies** to store user decisions in terms of your ad consent and opt-out choices:
 
@@ -263,18 +294,44 @@ Generally speaking, an opt-out allows you to direct NextRoll not to engage in a 
 
 *   **_Web browser:_** You can opt-out of receiving interest-based ads served by us or on our behalf by clicking on the blue icon ![](/assets/img/icon1.png) that typically appears in the corner of the ads we serve and following the instructions provided or by clicking on our [opt-out page](https://app.adroll.com/optout/safari). Please note that this opt-out function is browser-specific and relies on an opt-out cookie. This means if you delete your cookies or upgrade your browser after having opted out, you will need to opt-out again.
 *   **_Cross Device Opt-Out:_**  As described above in [How We Use the Data We Collect](#service-3), we may link multiple browsers or devices to the cookie ID, hashed email address or other unique identifiers associated with you. If you opt-out on a browser or device and we have additional devices or browsers linked to you, we will extend your opt-out decision to any other linked browsers and devices. Since we only link users across browsers and devices in certain conditions, there may be cases where you are still being tracked in a different browser or device we have not linked, and where we are treating you as a different user.
-*   **_Mobile Device Opt-Out:_** To opt-out of receiving interest-based ads that are based on your behavior across different mobile applications, see instructions for iOS and Android devices:
-    *   **_iOS 7 or Higher:_** Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting; and
-    *   **_For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher:_** Open your Google Settings app > Select Ads > Enable “Opt-out of interest-based advertising.”
+*   **_CTV Opt-Out:_** please see the [NAI CTV Opt-Out page](https://www.networkadvertising.org/choices/ctv/) with updated information on how to opt-out of CTV ads via your streaming services or devices.
+*   **_Mobile Device Opt-Out:_** To opt-out of receiving interest-based ads that are based on your behavior across different mobile applications and which may be used for in-app ads and/or Digital Out of Home (“DOOH”) ads, please, see instructions for iOS and Android devices:
+    *   **_iOS 16 or Higher._** To limit ad tracking and reduce personalized ads on iOS:
+        *   Go to Settings > Privacy & Security > Apple Advertising and toggle off Personalized Ads.
+        *   For third-party apps, go to Settings > Privacy & Security > Tracking and disable Allow Apps to Request to Track.
+        *   To prevent new apps from tracking your activity, or manage existing apps individually go to Settings > Privacy & Security > Tracking. Toggle off "Allow Apps to Request to Track".
+        *   In Settings > Privacy & Security > Apple Advertising, you can tap "Reset Advertising Identifier" to clear data associated with your device.
+        *   Go to Settings > Privacy & Security > Location Services to manage or disable location access for apps, which reduces targeted ads based on your location.
+    *   Note that these settings reduce the relevance of ads but do not completely eliminate the total number of advertisements you see.
+    *   **_For Android devices with OS 9.02.2 or higher and Google Play Services version 4.0 or higher your options include:_**
+        *   Open your Google Settings app > Select Ads > Enable “Opt-out of interest-based advertising.”
+        *   Tap “Reset advertising ID” or delete/reset the advertising ID
+        *   **To turn off Location tracking:** go to settings → Location and Toggle OFF
+        *   **Restrict App App-Level Location (if supported)**: Settings → Apps → \[App Name\] → Permissions → Location → Deny
+        *   **Disable Google Location History & Activity Tracking:** Settings → Google → Google Account → Data & Personalization
+            *   Turn off:
+                *   Location History
+                *   Web & App Activity
+                *   Device Information
+                *   Voice & Audio Activity
+                *   Or manage via browser:Visit myactivity.google.com
+        *   Visit activitycontrols.google.com
 *   **_Industry Opt-Out Tools and Self-Regulation:_**
     *   You can use the [email opt-out tool](https://optout.liveramp.com/opt_out) provided by our Advertising Partner, LiveRamp, to opt-out your email address from their database. Audience matching is a particular type of interest-based advertising where de-identified data (e.g. hashed emails) is tied to “offline” activity or information (this information generally is or can be associated with a consumer’s email address - whether that information is part of our Customer’s own customer lists or in lists we license to the Customer). To do “audience matching,” we or another platform then “match” that information (in de-identified form) to cookie IDs, mobile ad IDs, or other online identifiers. We describe this hashing activity in additional detail in [What Data We Collect](#service-2). Because this “audience matched” information is derived from an email address or information that can be tied to an email address, it is possible to opt-out with an email address. However, when you opt-out this way, you will need to submit all of the email addresses that you use for the opt-out to work.
         
     *   NextRoll is a member of the Network Advertising Initiative (NAI) and adheres to the framework principles. We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (**DAA**). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners, via the [DAA website](http://www.aboutads.info/choices/).
         
-    *   We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (**DAAC**). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners, via the [DAAC website](http://youradchoices.ca/choices/).
+    *   NextRoll is also a member of the European Digital Advertising Alliance (“EDAA”). The EDDA allows you to exercise your opt-out rights using the [EDAA website](https://www.youronlinechoices.com/). 
         
-    *   Finally, we also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising. You may opt-out via the [EDAA website](https://www.youronlinechoices.com/). 
-        
+*   Browser-Based Opt-Out Preference Signals (Global Privacy Control):
+    *   In addition to the manual opt-out tools above, NextRoll’s technology is designed to recognize and honor Opt-Out Preference Signals such as the Global Privacy Control (GPC).
+    *   When our system detects a GPC signal from your browser, we will automatically treat it as a valid request to opt-out of the "sale" or "sharing" of your personal information for that specific browser or device.
+    *   Once detected, we will suppress the collection of data used for cross-context behavioral advertising on that browser.
+    *   Because GPC is a browser-level signal, it only applies to the specific browser where it is enabled.
+    *   If you use multiple devices or browsers, you will need to enable GPC on each one.
+    *   Examples of available GPS-tools you can add to a Chrome browser include:
+        *   NAI tool: [https://chromewebstore.google.com/detail/nai-global-privacy-contro/ecmgoeapljejplncpocmgnpdemidoffo](https://chromewebstore.google.com/detail/nai-global-privacy-contro/ecmgoeapljejplncpocmgnpdemidoffo)
+        *   Privacy Badger tool: [https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US)
 
 ### 9\. Data Retention
 
@@ -300,6 +357,8 @@ Customers may request deletion of Customer CRM Data by visiting the privacy requ
 **Personal Data Associated with the Display of an Advertisement:**  Data logged for the display of an advertisement (including cookie identifiers, the advertisement won or displayed to you and data indicating whether you clicked on the particular advertisement displayed) are deleted after 12 months.
 
 **Hashed Email Addresses:**Hashed email addresses collected from Customer site visitors are deleted 12 months from the last date the hashed email was collected.
+
+**Personal Data Associated with CTV and Direct Out Of Home (“DOOH”) ads:** Thirteen-months.
 
 ### 10\. Security
 
@@ -679,14 +738,20 @@ For information on the sale of your personal information and how to opt out, see
 
 [![](/assets/img/legal/your-privacy-choices.png)](https://www.nextroll.com/your-privacy-choices)
 
-### 15\. Make a Privacy Request
+### 15\. Make a Privacy Request as an Individual or Authorized Agent
 
 [Back to top](#service-toc)
 
-To exercise the right to know (access), data portability and deletion rights (right to be forgotten), please submit the consumer request to us by either:
+**Individuals.** If you are an individual residing in a location that extends the data user right to exercise the right to know (access), data portability and deletion rights (right to be forgotten), please submit the consumer request to us by either:
 
-*   Calling us at 1-833-611-1920; or
-*   Visiting our [privacy requests webpage](https://nextroll-privacy.relyance.ai/).
+*   Visiting our [privacy requests webpage](https://nextroll-privacy.relyance.ai/); or
+*   Calling us at 1-844-740-7126.
+
+**Authorized agents.** Some U.S. state privacy laws permit consumers to designate an authorized agent to submit certain consumer privacy requests on their behalf. If a U.S. state so permits, an authorized agent may submit a consumer request by accessing our [privacy requests webpage](https://nextroll-privacy.relyance.ai/) and selecting the option to submit a request as an authorized agent.
+
+We may require the authorized agent to provide proof of authorization, such as a valid power of attorney or written permission signed by the consumer, and we may also require the consumer to verify their own identity directly with us before we process the request.
+
+Requests submitted by authorized agents will be processed in accordance with applicable law.
 
 ### 16\. Information for Individuals Located in Brazil
 
