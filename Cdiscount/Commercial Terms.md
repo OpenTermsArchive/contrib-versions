@@ -598,7 +598,7 @@ Produits vendus en "Pack" : l’exercice du droit de rétractation est uniquemen
 
   
   
-**Cas particuliers**     
+**Cas particuliers**
 
 Pour les produits ne pouvant être retournés par la Poste en raison de leur nature et/ou de leur taille, vous trouverez ci-dessous, conformément à la réglementation en vigueur, **une estimation** des frais de retour depuis la France, auprès d’un transporteur, dont vous devrez vous acquitter afin de nous retourner votre produit.
 
@@ -645,11 +645,11 @@ Pour exercer votre droit de rétraction, vous devez nous notifier votre décisio
 
 Cette notification doit être effectuée par écrit, par tout moyen et notamment :  
   
-a)      **Via votre Espace Client :** pour faciliter l’exercice de votre droit de rétractation, CDISCOUNT a mis en place une procédure simple : rendez-vous sur votre compte client et cliquez sur « Mes commandes » puis sur le bouton « Contacter le Service Client ».
+a)      **Via votre Espace Client :**vous pouvez exercer votre droit de rétractation via une fonctionnalité en ligne gratuite, directement et facilement accessible depuis votre Espace Client en cliquant sur « Mes commandes » puis sur le bouton « Retourner un article». En vous connectant sur votre Espace Client, vous confirmez votre identité (nom et prénom) et l'adresse mail à laquelle vous sera envoyé l'accusé réception de votre rétractation immédiatement après que vous aurez eu confirmé celle-ci.
 
 Sélectionnez votre commande et cliquez dans l’espace « je viens de recevoir mon/mes colis » sur « je souhaite me rétracter sur ce produit » puis laissez-vous guider.   
   
-Pour garantir un traitement optimal et plus rapide des demandes, l'exercice du droit de rétractation est dissocié et individualisé ; ainsi, chaque produit d'une même commande doit faire l'objet d'une demande de retour distincte et devra être entreposé dans un colis de retour distinct.  
+Pour garantir un traitement optimal et plus rapide des demandes, l'exercice du droit de rétractation est dissocié et individualisé ; ainsi, chaque produit d'une même commande doit faire l'objet d'une déclaration de rétractation distincte et devra être entreposé dans un colis de retour distinct.  
   
 b)      **ou en nous retournant, à l’adresse postale indiquée, le formulaire suivant complété et signé :  
   
@@ -672,58 +672,53 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 (\*) Rayez la mention inutile
 
- A réception de votre demande de rétractation et si celle-ci est conforme aux CGV, CDISCOUNT vous proposera :  
+ Comme indiqué à l'article 8.1 lors de votre déclaration de rétractation et si celle-ci est conforme aux CGV, CDISCOUNT vous proposera :  
   
-\-          un bon prépayé pour retourner le produit concerné. Le cas échéant, le montant de ce bon prépayé sera déduit du remboursement opéré par CDISCOUNT au titre de la rétractation.  
+\-          une étiquette prépayée par Cdiscount pour retourner le produit concerné auprès d'un transporteur spécifique. Le montant de cette étiquette prépayée sera déduit du remboursement opéré par CDISCOUNT au titre de la rétractation.  
   
-\-          soit de retourner le produit concerné par vos soins.
+\-          soit de retourner le produit concerné par vos soins, directement à vos frais et auprès du transporteur que vous souhaitez.
 
-En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre demande.
+En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre retour.
 
-Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
+Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants votre déclaration de rétractation
 
-votre décision de vous rétracter
-
-.  
   
-Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés par une demande de rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
-Pour un meilleur traitement des demandes de rétractation, chaque produit d'une même commande qui fait l'objet d'une demande de rétractation, doit faire l'objet d'un retour dans un colis distinct.  
+Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés de rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
+Pour un meilleur traitement des rétractations, chaque produit d'une même commande qui fait l'objet d'une rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
 
-En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.    
+En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous. 
 
 **  
 8.3 Exceptions**
 
 Conformément à l’article L221-28 du Code de la Consommation, le droit de rétractation ne peut être exercé pour :  
   
-\-          Les services pleinement exécutés avant la fin du délai de rétractation de quatorze jours avec votre accord préalable exprès, et renoncement exprès à votre droit de rétractation  
+\-          Les services pleinement exécutés avant la fin du délai de rétractation de quatorze jours avec votre accord préalable exprès, et renoncement exprès à votre droit de rétractation (ex : prestation de montage d’un produit)  
   
-\-          Les biens confectionnés selon vos spécifications ou nettement personnalisés ;
+\-          Les biens confectionnés selon vos spécifications ou nettement personnalisés (ex: meuble confectionné sur mesure, objet personnalisé avec une photo ou une gravure); ;
 
-\-          Les biens susceptibles de se détériorer ou de se périmer rapidement.  
+\-          Les biens susceptibles de se détériorer ou de se périmer rapidement (ex: produits alimentaires avec une date limite de consommation).  
   
-\-          Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé : c’est par exemple le cas des articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les produits du rayon Bijoux tels que les piercings et boucles d'oreilles, etc...  
+\-          Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé ( ex : articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les bijoux tels que les piercings et boucles d'oreilles, etc.)  
   
-\-          Les biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
+\-          Les biens qui indissociables avec d'autres articles (ex : télécommande pour un téléviseur)  
   
-\-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
+\-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur ( ex: les produits livrés avec un logiciel) lorsque vous avez descellé et/ou installé ce logiciel  
 \-          La fourniture de journaux, de périodiques ou de magazines ;
 
-\-          Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ;
+\-          Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation (ex : jeu vidéo dématérialisé)
 
 \-          La vente de voyages et d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée (ex. tickets de concert).  
   
-Conformément à l’article L221-25 du Code de la consommation : « Si vous avez demandé de commencer la prestation de services pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. » 
+Conformément à l’article L221-25 du Code de la consommation, si vous avez demandé à ce que la prestation de services commence pendant le délai de rétractation, vous devrez payer à CDISCOUNT un montant correspondant au service qui vous a été fourni jusqu'au moment où vous avez informé CDISCOUNT de votre rétractation, Ce montant sera proportionné au prix total de la prestation convenu dans le contrat.. » 
 
-          
-
-**8.4 Remboursement dans le cadre d’une rétractation**   
+**8.4 Remboursement dans le cadre d’une rétractation**
 
   
-A la suite de votre demande de rétractation, CDISCOUNT, conformément aux dispositions légales, procédera à votre remboursement dans un délai de 14 jours suivant la notification de votre demande de rétractation.
+A la suite de votre déclaration de rétractation, CDISCOUNT, conformément aux dispositions légales, procédera à votre remboursement dans un délai de 14 jours suivant la confirmation de votre déclaration rétractation.
 
-En l’absence de réception de votre produit ou d’une preuve d’expédition de votre produit dans ce délai, CDISCOUNT se réserve le droit de reporter votre remboursement jusqu’au jour de la réception de votre produit.
+En l’absence de réception de votre produit ou d’une preuve d’expédition de votre produit dans ce délai, CDISCOUNT se réserve le droit de reporter votre remboursement jusqu’au jour de la réception de votre produit ou de sa preuve d'expédition.
 
 CDISCOUNT procédera à votre remboursement via le même moyen de paiement que celui utilisé au jour de votre commande, sauf dans le cas où le moyen de paiement utilisé ne le permettrait pas.
 
@@ -985,8 +980,8 @@ Une notice explicative relative à la redevance copie privée établie par le Mi
 
    Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).                                               
 
-_Article 11 : CONTRÔLES A L'EXPORTATION_
-----------------------------------------
+_Article 8 : RETRACTATION_
+--------------------------
 
 Vous vous engagez à ne pas exporter, réexporter ou transférer des produits achetés sur le Site vers des pays, entités ou personnes sous sanctions. Ces restrictions incluent les interdictions imposées par l'UE, l'ONU et les autorités américaines. Vous reconnaissez également ne pas pouvoir acheter sur le Site si vous êtes soumis à de telles mesures.
 
