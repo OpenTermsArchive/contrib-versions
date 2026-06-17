@@ -602,7 +602,7 @@ Produits vendus en "Pack" : l’exercice du droit de rétractation est uniquemen
 
 Pour les produits ne pouvant être retournés par la Poste en raison de leur nature et/ou de leur taille, vous trouverez ci-dessous, conformément à la réglementation en vigueur, **une estimation** des frais de retour depuis la France, auprès d’un transporteur, dont vous devrez vous acquitter afin de nous retourner votre produit.
 
-Le montant des frais de retour est calculé en fonction de la typologie du produit et de la distance à parcourir par le transporteur pour récupérer le produit et le ramener en entrepôt.
+Le montant estimatif des frais de retour est calculé et varie en fonction de la typologie du produit et de la distance à parcourir par le transporteur pour récupérer le produit et le ramener en entrepôt.
 
 |     |     |
 | --- | --- |
