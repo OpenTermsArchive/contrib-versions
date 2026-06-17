@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 15, 2026
+Last Updated: June 16, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -886,7 +886,7 @@ AWS Professional Services may be provided remotely, on-site at the “Project Lo
 *   AWS Licensor licenses any Documents to you under the Creative Commons Attribution 4.0 International License (CC-BY 4.0); and
 *   AWS Licensor licenses any Software to you under the Apache License, Version 2.0.
 
-**45.7.** Developed Content may include AWS Content, or Third Party Content provided under a separate license. If there is a conflict between Section 45.6 above and any separate license, the separate license will control.
+**45.7.** In addition to Developed Content, deliverables may include AWS Content, or Third Party Content provided under a separate license. If there is a conflict between Section 45.6 above and any separate license, the separate license will control.
 
 **45.8.** Content that you provide or direct AWS to use for purposes of providing AWS Professional Services will be deemed Your Content.
 
