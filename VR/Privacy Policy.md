@@ -1,7 +1,7 @@
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg)
+
 Data protection
 ===============
-
-![](https://images.ctfassets.net/gshi3wijcp49/2AWSmMO7xO7vYOEeArG1vq/5884ff9d54488a9544fdbcd79dece2ba/vr-fullwidth-header-tracks-desktop.svg?w=3840)
 
 VR’s data protection
 --------------------
