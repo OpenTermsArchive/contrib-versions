@@ -597,7 +597,9 @@ Concernant la commande de Coupons, vous ne pourrez bénéficier du droit de rét
 Produits vendus en "Pack" : l’exercice du droit de rétractation est uniquement possible sur l’ensemble du pack, tel que décrit sur la fiche du produit, ce incluant tous les produits le composant.
 
   
-  
+
+En cas de rétractation, vous supportez les frais de renvoi du bien.
+
 **Cas particuliers**
 
 Pour les produits ne pouvant être retournés par la Poste en raison de leur nature et/ou de leur taille, vous trouverez ci-dessous, conformément à la réglementation en vigueur, **une estimation** des frais de retour depuis la France, auprès d’un transporteur, dont vous devrez vous acquitter afin de nous retourner votre produit.
@@ -702,7 +704,7 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 \-          Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé ( ex : articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les bijoux tels que les piercings et boucles d'oreilles, etc.)  
   
-\-          Les biens qui indissociables avec d'autres articles (ex : télécommande pour un téléviseur)  
+\-          Les biens indissociables avec d'autres articles (ex : télécommande pour un téléviseur)  
   
 \-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur ( ex: les produits livrés avec un logiciel) lorsque vous avez descellé et/ou installé ce logiciel  
 \-          La fourniture de journaux, de périodiques ou de magazines ;
@@ -980,8 +982,8 @@ Une notice explicative relative à la redevance copie privée établie par le Mi
 
    Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).                                               
 
-_Article 8 : RETRACTATION_
---------------------------
+_Article 11 : CONTROLES A L'EXPLORATION_
+----------------------------------------
 
 Vous vous engagez à ne pas exporter, réexporter ou transférer des produits achetés sur le Site vers des pays, entités ou personnes sous sanctions. Ces restrictions incluent les interdictions imposées par l'UE, l'ONU et les autorités américaines. Vous reconnaissez également ne pas pouvoir acheter sur le Site si vous êtes soumis à de telles mesures.
 
