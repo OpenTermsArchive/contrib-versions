@@ -11,7 +11,7 @@ How is Instagram funded?
 
 What is the Privacy Policy?
 
-My account was disabled
+What can't I do on Instagram?
 
 I have a different question
 
