@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 16, 2026
+Last Updated: June 17, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -86,7 +86,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon Bio Discovery, Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Customer, Amazon Connect Decisions, Amazon Connect Health, Amazon Connect Talent, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Security Agent, AWS FinOps Agent (Preview), Amazon WorkSpaces, and AWS Deadline Cloud.
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon Bio Discovery, Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Customer, Amazon Connect Decisions, Amazon Connect Health, Amazon Connect Talent, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Continuum (including features previously named AWS Security Agent), AWS FinOps Agent (Preview), Amazon WorkSpaces, and AWS Deadline Cloud.
 
 **1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such Services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) and applicable Service-specific documentation for more details.
 
@@ -967,7 +967,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 50\. AWS Machine Learning and Artificial Intelligence Services
 --------------------------------------------------------------
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Security Agent, and AWS FinOps Agent (Preview), and the model customization agent in SageMaker AI. “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including features previously named AWS Security Agent), and AWS FinOps Agent (Preview), and the model customization agent in SageMaker AI. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
