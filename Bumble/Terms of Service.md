@@ -310,16 +310,22 @@ The App may allow access to or make available opportunities for you to view cert
 9\. BeePitched
 --------------
 
-The BeePitched feature allows individuals who are over the age of 18 and have agreed to these terms (the “Pitcher”) to create a personalised pitch (a “Pitch) about someone they know who is over the age of 18 (the “Pitch Subject”), and to invite others to contribute (the “Co-Pitchers”). Bumble will provide a link to the Pitch, which the Pitcher may choose to share with the Pitch Subject using their own messaging channels. The Pitch is intended to be viewable only by the Pitch Subject, subject to reasonable access by Bumble required for security, moderation, and legal compliance. If Co-Pitchers contribute, the lead Pitcher will be able to view their contributions to the Pitch.
+BeePitched is a content creation tool that allows individuals who are over the age of 18 and have agreed to these Terms to create personalised content about another person, including text, images and other materials ("Pitch Content"), and generate a downloadable Pitch card, image or similar asset (a "Pitch").
 
-If you use the BeePitched feature to create or contribute to a Pitch, you agree:
+BeePitched is a user-controlled content creation tool. Bumble does not verify the accuracy of Pitch Content and is not responsible for content created, shared or distributed by users through the feature. Users are responsible for downloading, sharing and distributing completed Pitches, and Bumble does not host or distribute completed Pitches after they have been generated.
 
-*   that you will only do so where you have obtained all necessary permissions, including to contact the Pitch Subject and to share with Bumble any information, images, or other content about them (the “Pitch Content”);
-*   not to use the feature to create a Pitch about, or invite to Co-Pitch, a person who is a resident of Washington State;
-*   that you are solely responsible for the Pitch Content you create or share and for your interactions with others, and you agree that you will not use the feature to harass, target, or repeatedly contact individuals who do not wish to receive such communications; and
-*   that you acknowledge that Bumble provides this feature as a user-controlled tool and does not initiate or control your communications or your choice of messaging channels.
+If you use BeePitched, you agree that:
 
-Bumble will retain the Pitch and Pitch Content for a limited period (generally 30 days) to enable the feature to function, and may access or use such information as necessary to operate, secure, and enforce its services. The Pitch Subject is not required to view a Pitch, may request that further Pitches are not created about them, and may report any Pitch for review.
+*   you are responsible for all Pitch Content you create, upload, generate, share or distribute using the feature;
+*   you will only use information, photographs and other content where you have all necessary permissions and rights to do so;
+*   you will not create, upload or distribute content that is unlawful, misleading, defamatory, harassing, abusive, invasive of another person's privacy, or that contains sensitive personal information about another person;
+*   you will not use the feature to create a Pitch about, or invite to Co-Pitch, a person who is a resident of Washington State;
+*   you will comply with these Terms and the Community Guidelines when using the feature; and
+*   by uploading Pitch Content, you grant Bumble a limited licence to host, process, review, moderate, generate, store and delete that content as necessary to provide, secure and enforce the BeePitched feature and these Terms.
+
+Bumble may review and moderate Pitch Content before generation and may refuse to generate, remove, restrict access to, or investigate any Pitch Content that we reasonably believe violates these Terms, the Community Guidelines or applicable policies. Bumble may also suspend or restrict access to BeePitched where we identify misuse of the feature.
+
+Bumble retains Pitch Content only for the limited period necessary to generate, moderate and provide the Pitch. Where a Pitch is downloaded, Bumble will generally delete the associated Pitch Content within 24 hours of download. If a Pitch is not completed or downloaded, Bumble will generally delete the associated Pitch Content within 7 days. Bumble may retain information for longer where reasonably necessary for operational, safety, legal or compliance purposes.
 
 10\. DISCLAIMER
 ---------------
@@ -515,4 +521,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 18 May 2026
+The Terms were last updated on: 17 June 2026
