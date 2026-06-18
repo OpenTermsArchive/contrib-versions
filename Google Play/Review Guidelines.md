@@ -48,7 +48,7 @@ Choose a Google product
     ### Google Fi Wireless](https://support.google.com/fi?hl=en-GB)
 *   [![](//www.gstatic.com/images/branding/product/1x/google_home_64dp.png)
     
-    ### Google Home and Nest](https://support.google.com/googlenest?hl=en-GB)
+    ### Google Home and Nest](https://support.google.com/googlehome?hl=en-GB)
 *   [![](//www.gstatic.com/images/branding/productlogos/pay_ios/v10/web-64dp/logo_pay_ios_color_1x_web_64dp.png)
     
     ### Google Pay](https://support.google.com/googlepay?hl=en-GB)
@@ -83,7 +83,7 @@ Consumer
 *   [### Google Duo](https://support.google.com/duo?hl=en-GB)
 *   [### Android XR](https://support.google.com/android-xr?hl=en-GB)
 *   [### YouTube](https://support.google.com/youtube?hl=en-GB)
-*   [### Google Home and Nest](https://support.google.com/googlenest?hl=en-GB)
+*   [### Google Home and Nest](https://support.google.com/googlehome?hl=en-GB)
 *   [### Workspace Studio](https://support.google.com/workspace-studio?hl=en-GB)
 *   [### Trends](https://support.google.com/trends?hl=en-GB)
 *   [### Android](https://support.google.com/android?hl=en-GB)
@@ -212,7 +212,7 @@ Business
 *   [### Gemini Enterprise – Business Edition](https://support.google.com/g?hl=en-GB)
 *   [### Campaign Manager 360](https://support.google.com/campaignmanager?hl=en-GB)
 *   [### obf-errors-corrections](https://support.google.com/obf-errors-corrections?hl=en-GB)
-*   [### content-portal-experiment](https://support.google.com/content-portal-experiment?hl=en-GB)
+*   [### Content Portal Experiment](https://support.google.com/content-portal-experiment?hl=en-GB)
 *   [### Jamboard](https://support.google.com/jamboard?hl=en-GB)
 *   [### Comparison Shopping Services Center](https://support.google.com/css-center?hl=en-GB)
 *   [### Display & Video 360](https://support.google.com/displayvideo?hl=en-GB)
