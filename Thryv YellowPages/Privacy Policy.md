@@ -314,7 +314,7 @@ Please note that if we delete your Personal Information, some of our services wi
 
 To exercise your rights, submit a verifiable consumer request to us by either:
 
-*   Calling us toll-free at **1-877-380-1838**.
+*   Calling us toll-free at **1-844-998-4798**.
 *   Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
 
 Your verifiable consumer request must:
@@ -437,7 +437,7 @@ You may have certain rights under the European Union, United Kingdom or Swiss da
 
 If you wish to exercise any of your above rights, please reach out to us by:
 
-*   Calling us toll-free at **1-877-380-1838**; or
+*   Calling us toll-free at **1-844-998-4798**; or
 *   Visit [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) to fill out and submit our web form.
 
 You also have a right to make a complaint to a data protection supervisory authority, in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner's Office (ICO). You can visit their website at [www.ico.org.uk](https://www.ico.org.uk/). If you are in the EU, you can find your local data protection authority [here](https://ec.europa.eu/newsroom/article29/items/612080/en). If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
@@ -509,7 +509,7 @@ If you are a Brazilian resident, you may have certain privacy rights under Law N
 
 If you wish to exercise any of your above rights, please reach out to us by:
 
-*   Calling us toll-free at 1-877-380-1838; or
+*   Calling us toll-free at 1-844-998-4798; or
 *   Visit here to fill out and submit our web form.
 
 You also have a right to make a petition before the Brazilian data protection authority, or the consumer defense entities.
