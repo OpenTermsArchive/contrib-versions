@@ -258,8 +258,8 @@ These terms are governed by Irish law and you and we both agree to submit to the
 
 * * *
 
-**Returns and Cancellation**
-----------------------------
+**Returns, Claims, Cancellations, & Right of Withdrawal**
+---------------------------------------------------------
 
 Items can be returned within 365 days of making your purchase or receiving your delivery, subject to the limitations set out in these Terms and Conditions. IKEA will provide a refund for product(s) returned with the original proof of purchase, in new and unused condition and with the original packaging. IKEA will refund the price paid for the goods via the original payment method.
 
@@ -280,18 +280,18 @@ There are certain circumstances, where at our sole discretion we are not able to
 
 *   See more information about cancellation or return of orders online or via e-mail
     
-    **Cancellation or return of orders made online**
-    ------------------------------------------------
+    **Cancellation or return of orders made online and the right to withdraw**
+    --------------------------------------------------------------------------
     
-    You can cancel your whole order up until 14 days after the delivery date and we will provide you with a full refund (including the basic delivery charge).
+    For online and phone orders, you are entitled to change your mind and withdraw from (cancel) your contract with us up to 14 days after the last item in your order has been delivered.​ You can choose to cancel the whole order, or just select items. This right of withdrawal does not apply to custom-made products, food products, or appliances that have already been installed. Please also look after the items you want to return, as we can't accept products that are dirty, stained or damaged either. We will give you a refund, plus your basic delivery charge for the items cancelled. If you would like us to collect part of, or the whole order, you may be eligible for a collection charge. Where possible, this will be deducted from the refund due to you. The collection charge fee will depend on the location. 
     
-    If you decide to cancel an order that has been delivered and would like us to collect part of, or the whole order, you may be eligible for a collection charge. Where possible, this will be deducted from the refund due to you. The collection charge fee will depend on the location.
+    ### **How to cancel/withdraw**
     
-    ### **How to cancel**
+    How to cancel/withdrawTo return the cancelled items, you can select the option that suits you best during the withdrawal process.
     
-    You can let us know you want to cancel using our [Contact Us](https://www.ikea.com/ie/en/customer-service/contact-us/) page to call or write to us. Letting us know as soon as you can will help us process your request quickly and easily, but don’t worry, we can still cancel your order up to 14 days after it has been delivered.
+    To start a withdrawal from the contract, click the button below. Please have your order number ready (you can find this on your email confirmation and receipt).
     
-    When contacting us please have your order number ready so we can help you quickly and remember to clearly state which product(s) you would like to cancel or return if you choose to write or email. 
+    [Withdraw from contract](https://www.ikea.com/ie/en/returns/)
     
     ### **Returning your delivered items**
     
