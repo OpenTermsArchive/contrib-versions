@@ -92,8 +92,6 @@ Registration: 16634149
 
 Address: Vesivärava tn 50-201, Kesklinna linnaosa, 10152 Tallinn, Harju maakond, Estonia
 
-Contact: support@thenumberx.com
-
 ### Payment Terms
 
 All payments are processed at the time of order. Upon successful payment, the User receives a confirmation email. The order is final once payment is confirmed. Premium features are activated immediately upon successful payment processing.
@@ -104,7 +102,7 @@ In the event of payment failure for a Subscription plan, the User's account is d
 
 Due to the digital nature of the Service, payments are generally non-refundable once the Service has been provided. However, each case is evaluated individually. Refunds may be granted in cases of demonstrable error, unresolved technical issues attributable to Gofile, or payments made in error. The User acknowledges that the statutory 14-day withdrawal period applicable to consumer contracts does not apply once the Service has commenced.
 
-For subscription-related refund requests, please contact the merchant of record at **support@thenumberx.com**. For refunds related to Pay-as-You-Go credits or one-shot yearly payments, please contact Gofile through the [contact page](https://gofile.io/contact).
+For subscription-related refund requests, please contact the merchant of record. For refunds related to Pay-as-You-Go credits or one-shot yearly payments, please contact Gofile through the [contact page](https://gofile.io/contact).
 
 User Obligations & Prohibited Use
 ---------------------------------
