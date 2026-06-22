@@ -77,7 +77,7 @@ Article 7. Account Registration
     8.  In other cases where the Company determines that the application is inappropriate.
 7.  In cases where the Company does not approve an application for account registration, the Company shall not bear a duty to disclose the reason for not approving the application to the applicant and shall not bear any liability whatsoever with regard to damage incurred by the applicant as a result of the non-approval.
 8.  In cases falling under any of the following items in relation to a User who registered an account, the Company may cancel or temporarily suspend the User’s membership, cancel rights associated with the User’s membership, or refuse use of the Services in the future.
-    1.  In cases where the Company determines that the User fell under or falls under any of the grounds specified in each item of Paragraph 5;
+    1.  In cases where the Company determines that the User falls or fell under any of the grounds specified in each item of Paragraph 6;
     2.  In cases of violation of laws and regulations or these Terms of Use;
     3.  In cases where the User is determined to have engaged in prohibited conduct specified in Article 15 in the past or is likely to engage in such prohibited conduct in the future;
     4.  In cases of improper conduct;
@@ -146,41 +146,43 @@ Article 14. Prohibited Conduct
 
 When using the Services, User must not engage in the conduct set forth in the following items.
 
-1.  Conduct that infringes or is likely to infringe on the copyrights, design rights or other Intellectual Property Rights (defined in Article 22, Paragraph 1) of the Company or third parties;
+1.  Conduct that infringes or is likely to infringe on the Intellectual Property Rights (including copyrights, design rights, trademark rights, patent rights, and similar rights), rights of reputation, privacy rights, property rights, or any other rights of the Company or a third party;
 2.  Reproducing Posted Information Posted etc. to the Services or a related services without the consent of the copyright holder (author);
-3.  Engaging in activities that have a commercial or business objective, use that has a profit-making objective, or use in preparation for such profit-making objectives, regardless of the means, by using, diverting, reselling, reproducing, transmitting, translating, adapting, modifying, and so on the Services or a portion of the Services (the content, information, functions, system, programs, etc.) or other secondary use or reproduction of the Services;
+3.  Engaging in activities that have a commercial, business, or profit-making objective, or using the Service or any part of the Service (including content, information, functions, systems, and programs) outside the Service for such purposes or in preparation for such purposes;
 4.  Conduct that the Company determines to unreasonably prejudice the interests of the User who Posted etc. the Posted Information to the Services or a related services by using the results of data analysis (including the conduct of learning to develop artificial intelligence.The same shall apply hereafter) of Posted Information Posted etc. to the Services or related services. However, this does not apply if the User has obtained the permission of the User who Posted etc. the Posted Information for this data analysis;
 5.  Conduct that the Company determines to unreasonably prejudice the interests of a third party (Including, but not limited to, the conduct of repeatedly and continuously posting etc. Posted Information that resembles the work, portrait, or voice of a specific third party using the results of data analysis, and the conduct of distributing or selling models or tools that aid or abet such posting etc.);
 6.  Conduct that infringes or is likely to infringe on the property, privacy, or rights to likeness of the Company or third parties;
 7.  Engaging in inappropriate discrimination against or malicious slander of the Company or a third party, abetting inappropriate discrimination against a third party, or harming the honor or reputation of a third party;
-8.  Conduct in violation of the Act on Regulation of Stalking Conduct, making large numbers of telephone calls or telephone calls over an extended period of time or excessive and repeated inquiries of the same nature, transmitting large numbers of messages using a messaging function, or making demands regarding which there is no duty or which are baseless;
-9.  Impersonation of another person;
-10.  Conduct that is linked to or likely to be linked to fraud or other criminal behavior;
-11.  Engaging in any of the following conduct in relation to the Posted Information data that constitutes obscenity, child pornography, or child abuse in violation of laws, regulations, or other criteria established by the Company (referred to as “Improper Data”):
-     1.  Issuing, posting, editing, or displaying Improper Data;
-     2.  Selling media that contains Improper Data; and
-     3.  Posting or displaying advertisements that allude to the transmission, display, or sale of media that contains Improper Data;
-12.  Conduct that is likely to glamorize, provoke, or abet suicide, self-injurious behavior, substance abuse, and so on;
-13.  Posting etc. Posted Information data that contains any of the following:
-     1.  Information that maliciously slanders Posted Information that has been Posted etc.;
-     2.  Information that can be used to identify an individual (including cases where an individual can be identified by collating such information with other Posted Information that has been Posted etc.) such as the name, address, workplace, or telephone number of the contributor or third party (including employees of the Company)
-     3.  Information whose veracity is difficult to confirm and false information; and
-     4.  Other information that the Company determines to be inappropriate;
-14.  Impersonating an operator, another user, or any other third party, or any conduct that the Company determines is likely to be misinterpreted as such;
-15.  Exchanging one’s use rights to the Services for cash, goods, or other economic benefit by any method other than the method specified by the Company;
-16.  Acquiring multiple accounts of the same type (excluding cases specifically permitted under Article 11);
-17.  Posting Posted Information for the purpose of commercial advertising, publicity, or inducement (except in cases specifically permitted by the Company), Posted Information that contains affiliate links, Posted Information that contains inducements to other parties such as MLM or “pay to surf,” Posted Information that induces traffic to adult sites, one-click fraud sites, sites intended to distribute viruses or other malicious computer programs, or other sites determined by the Company to be inappropriate (including simply posting links to such sites), or other Posted Information that the Company determines to be inappropriate;
+8.  Conduct that the Company determines constitutes harassment toward the Company or a third party;
+9.  Conduct intended to facilitate dating, or romantic relationships, or conduct that induces, encourages, or assists such activities (including posting links, IDs, or other information for adult websites, dating services, or similar sites, or directing Users to such services);
+10.  For the purpose of exchanging content prohibited by the Service or individual services (including where the Company reasonably suspects such a purpose), posting links (including shortened URLs), IDs, or other information directing Users to external websites, applications, or similar services;
+11.  Conduct in violation of the Act on Regulation of Stalking Conduct, making large numbers of telephone calls or telephone calls over an extended period of time or excessive and repeated inquiries of the same nature, transmitting large numbers of messages using a messaging function, or making demands regarding which there is no duty or which are baseless;
+12.  Impersonation of another person;
+13.  Conduct that is linked to or likely to be linked to fraud or other criminal behavior;
+14.  Handling any of the following Posted Information on or through the Service. "Handling" includes posting such information, posting links to such information, and any conduct that recalls, induces, encourages, assists, or may assist such conduct:
+     1.  Posted Information containing excessively violent, obscene, child pornographic, or child abusive content, or content that may fall into such categories under applicable laws or standards established by the Company;
+     2.  Posted Information likely to glorify, encourage, or promote self-harm, suicide, substance abuse, or similar conduct;
+     3.  Posted Information that maliciously slanders or defames other Posted Information;
+     4.  Personal information of a contributor or third party (including Company employees), such as names, addresses, workplaces, telephone numbers, or other information capable of identifying an individual, including information that may identify an individual when combined with other Posted Information;
+     5.  Posted Information intended for commercial advertising, publicity, or solicitation (including affiliate links), except where expressly permitted by the Company;
+     6.  Posted Information containing solicitations for MLM (multi-level marketing), paid-to-read email programs, or similar schemes;
+     7.  Posted Information directing Users to adult websites, one-click fraud sites, sites intended to distribute viruses or other harmful computer programs, or other sites the Company deems inappropriate; and
+     8.  Other Posted Information the Company determines to be inappropriate;
+15.  Impersonating the Company, another User, or any other third party, or engaging in conduct that the Company determines is likely to be mistaken for such impersonation;
+16.  Exchanging one’s use rights to the Services for cash, goods, or other economic benefit by any method other than the method specified by the Company;
+17.  Acquiring multiple accounts of the same type (excluding cases specifically permitted under Article 11);
 18.  Inappropriately delaying responses to or ignoring communications from the Company or other Users who are conducting transactions between Users;
-19.  Despite receiving any reward from a company, etc., acts that fall under the guise of a third party, such as advertising (“stealth marketing”), or acts using the Service in stealth marketing, etc;
-20.  Using expression linked to discrimination on the basis of race, ethnicity, sex, age, belief, and so on;
-21.  Conduct that imposes excessive loads on the Service servers, hinders operation of the Services or network systems, or is likely to have such results;
-22.  Improperly rewriting or deleting data stored on the Company’s facilities;
-23.  Transmitting or posting viruses or other harmful computer programs;
-24.  Conduct that the Company determines violates laws and regulations, public order, these Terms of Use, or Individual Terms of Use etc. or infringes on the rights of another person;
-25.  Posting or editing expression that extols or incites extremist ideas or antisocial behavior;
-26.  Posting or editing expression that extols or incites discrimination on the basis of race, belief, occupation, sex, religion, and so on;
-27.  Posting or editing expression that extols or incites cult-like religious activity or extreme political activity;
-28.  Using the Services to display, sell, purchase, register, or engage in other transactions involving the products set forth below:
+19.  Engaging in displays or representations that constitute stealth marketing under the Act against Unjustifiable Premiums and Misleading Representations ("Stealth Marketing");
+20.  Engaging in discrimination based on race, ethnicity, sex, gender, occupation, age, beliefs, religion, or similar characteristics, or using expressions that promote, encourage, or lead to such discrimination;
+21.  Posting or editing expression that extols or incites extremist ideas or antisocial behavior;
+22.  Posting or editing expression that extols or incites cult-like religious activity or extreme political activity;
+23.  Conduct that imposes excessive loads on the Service servers beyond normal use, disrupts the operation of the Service or its networks and systems, or is likely to have such effects;
+24.  Mechanically or repeatedly performing large numbers of actions within a short period of time, including following, bookmarking, commenting, sending messages, or other operations on the Service;
+25.  Conduct that impairs the fairness of the Service's recommendation, ranking, search, or similar functions or algorithms—such as posting identical or substantially similar content through multiple accounts—or any other conduct that the Company determines interferes with the sound operation of the Service;
+26.  Improperly rewriting or deleting data stored on the Company’s facilities;
+27.  Transmitting or posting viruses or other harmful computer programs;
+28.  Conduct that violates the laws or regulations of Japan or other applicable jurisdictions, is contrary to public order and morals, infringes upon the rights of others, or is likely to do so;
+29.  Using the Services to display, sell, purchase, register, or engage in other transactions involving the products set forth below:
      1.  Stimulants, narcotics, psychotropic agents, marijuana, opium, poisons, toxic substances, and other prohibited goods;
      2.  Marijuana seeds and products related to legal drugs (unregulated drugs);
      3.  Firearms, swords, weapons, explosives, chemical weapons;
@@ -189,39 +191,39 @@ When using the Services, User must not engage in the conduct set forth in the fo
          2.  [pixivFANBOX](https://fanbox.pixiv.help/hc/en-us/articles/12962347034905)
          3.  [pixiv Requests Feature](https://www.pixiv.help/hc/en-us/articles/12962026901401)
      5.  Products that contain uncorrected representations of exposed sexual organs or explicit images of sexual intercourse;
-     6.  Used undergarments, uniforms, etc.;
-     7.  Prostitution and child prostitution;
-     8.  Products relating to gambling, lotteries, etc.;
-     9.  Products relating to unlimited chain investment schemes and multi-level marketing;
-     10.  Tobacco;
-     11.  Counterfeit currency, public documents (including driver’s licenses and passports), memberships, documents, electromagnetic recordings, and other such products;
-     12.  Bank accounts and the like;
-     13.  Gift cards, prepaid cards, revenue stamps, postage stamps, multiple use tickets, other securities, and coupons;
-     14.  Counterfeit brand products, imitation products, and pirated versions (illegal copies, etc.);
-     15.  Game copying devices, Pandora Batteries, and other devices that facilitate illegal copies and related products;
-     16.  Products obtained through theft, robbery, fraud, blackmail, embezzlement, misappropriation, or other crimes;
-     17.  Air guns, stun guns, pepper spray, swords whose possession is prohibited by laws and regulations; bugging devices, ultra-compact cameras, infrared cameras, and other products likely to be used for crimes;
-     18.  Products that infringe on patent rights, utility model rights, design rights, trademark rights, copyrights,
-     19.  Products regarding which the displaying party does not have sales rights and so on such as products for which the displaying party did not participate in the creation (not including cases where copyrights and other rights were assigned by the creator);
-     20.  Provision of services not involving a material creation and products likely to entail the provision of such services;
-     21.  Softwares that contain security threats such as computer viruses.
-     22.  Physical function examination kits, medical devices (medical supplies), pharmaceutical products, and pharmaceutical products the sale of which is prohibited in Japan;
-     23.  Human remains and parts of human remains;
-     24.  Animals, parts of animals, insects, and other organisms;
-     25.  Personal information, trade secrets, and other information not generally released to the public;
-     26.  Products for which a license or qualification required for sale is not held or satisfied;
-     27.  Other products whose trading violates laws and regulations (the Act on Specified Commercial Transactions, the Firearm and Sword Control Law, laws regulating narcotics, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, and other relevant laws and regulations);
-     28.  Products intended to convert credit card credit limits to cash;
-     29.  Products for which the service provision period is lengthy;
-     30.  Products whose sale requires permits and approvals, registration, notice, and so on; and
-     31.  Other products outside the scope of the Company’s prohibitions and terms of use that the Company determines to be inappropriate; and
-29.  In situations where a User uses the Service to provide Products, license or service to other Users, the act that brings disadvantages to other Users of the Service, such as demanding different charges depending on the payment method.
-30.  Other conduct that the Company determines to be inappropriate.
+     6.  Used undergarments, uniforms, or other items that have been worn on the body;
+     7.  Products sold on the basis of containing body parts, bodily fluids, or items bearing such materials, or products that the Company reasonably suspects are being sold on that basis;
+     8.  Prostitution and child prostitution;
+     9.  Products relating to gambling, lotteries, etc.;
+     10.  Products relating to unlimited chain investment schemes and multi-level marketing;
+     11.  Tobacco;
+     12.  Counterfeit currency, public documents (including driver’s licenses and passports), memberships, documents, electromagnetic recordings, and other such products;
+     13.  Bank accounts and the like;
+     14.  Gift cards, prepaid cards, revenue stamps, postage stamps, multiple use tickets, other securities, and coupons;
+     15.  Counterfeit brand products, imitation products, and pirated versions (illegal copies, etc.);
+     16.  Game copying devices, Pandora Batteries, and other devices that facilitate illegal copies and related products;
+     17.  Products obtained through theft, robbery, fraud, blackmail, embezzlement, misappropriation, or other crimes;
+     18.  Air guns, stun guns, pepper spray, swords whose possession is prohibited by laws and regulations; bugging devices, ultra-compact cameras, infrared cameras, and other products likely to be used for crimes;
+     19.  Products that infringe upon a third party's Intellectual Property Rights, including patent rights, utility model rights, design rights, trademark rights, copyrights, or another person's privacy rights;
+     20.  Products regarding which the displaying party does not have sales rights and so on such as products for which the displaying party did not participate in the creation (not including cases where copyrights and other rights were assigned by the creator);
+     21.  Provision of services not involving a material creation and products likely to entail the provision of such services;
+     22.  Softwares that contain security threats such as computer viruses.
+     23.  Physical function examination kits, medical devices (medical supplies), pharmaceutical products, and pharmaceutical products the sale of which is prohibited in Japan;
+     24.  Human remains and parts of human remains;
+     25.  Animals, parts of animals, insects, and other organisms;
+     26.  Personal information, trade secrets, and other information not generally released to the public;
+     27.  Products for which permits, approvals, registrations, notifications, or other legal authorizations are required for sale under applicable laws;
+     28.  Other products whose trading violates laws and regulations (the Act on Specified Commercial Transactions, the Firearm and Sword Control Law, laws regulating narcotics, the Convention on International Trade in Endangered Species of Wild Fauna and Flora, and other relevant laws and regulations);
+     29.  Products intended to convert credit card credit limits to cash;
+     30.  Products for which the service provision period is lengthy; and
+     31.  Any other products that the Company determines to be inappropriate;
+30.  In situations where a User uses the Service to provide Products, license or service to other Users, the act that brings disadvantages to other Users of the Service, such as demanding different charges depending on the payment method.
+31.  Other conduct that the Company determines to be inappropriate.
 
 Article 15. Responses to Violation etc. and Cancellation of Registration
 ------------------------------------------------------------------------
 
-1.  In cases where it is determined by the Company that User has violated these Terms of Use or the Company otherwise determines that it is necessary, the Company may, at its discretion and without prior notice, take the following measures against the relevant User; provided, however, that the Company shall not be obligated to take these measures or to disclose the reasons for taking these measures.
+1.  In cases where it is determined by the Company that User has violated these Terms of Use, any Individual Terms of Use, or other related rules, or the Company otherwise determines that it is necessary, the Company may, at its discretion and without prior notice, take the following measures against the relevant User; provided, however, that the Company shall not be obligated to take these measures or to disclose the reasons for taking these measures.
     1.  Demand that the User cease the conduct in violation of or suspected of being in violation of these Terms of Use and not repeat such conduct, as well as achieve these objectives by seeking a court injunction;
     2.  Conduct consultations to resolve claims, demands, and so on with another person (including out-of-court dispute resolution proceedings);
     3.  Demand deletion or revision of Posted Information;
@@ -254,13 +256,13 @@ Article 16. Cancellation of Registration
 Article 17. Authority to Delete Posted Information
 --------------------------------------------------
 
-In the following cases, regardless of whether Posted Information is unlawful or violates these Terms of Use, the Company may delete all or some related Posted Information or take measures such as modifying the scope of public access; provided, however, that the Company shall not bear a duty to take these measures or to disclose the reasons for taking such measures.
+In the following cases, regardless of whether Posted Information is unlawful or violates these Terms of Use, the Company may delete all or some related Posted Information or take measures such as modifying the scope of public access, suspending use of the Service, or other similar measures; provided, however, that the Company shall not be obligated to take these measures or to disclose the reasons for taking these measures.
 
-1.  In cases where a public agency or specialist (a national or regional public body, a reliability-confirmed body specified in the Act on the Limitation of Liability for Damages of Specified Telecommunications Service Providers and the Right to Demand Disclosure of Identification Information of the Senders, Internet hotline, attorney, etc.) indicates or expresses an opinion that Posted Information is unlawful, contrary to public morals, or infringes on the rights of another person;
+1.  In cases where a public agency or specialist (a national or regional public body, a reliability-confirmed body specified in the guidelines under the Act on Measures Against Rights Infringement, etc. Arising from Distribution of Information by Specified Telecommunications, an Internet hotline center, attorney, etc.) indicates or expresses an opinion that Posted Information is unlawful, contrary to public order and morals, infringes upon the rights of another person, or otherwise violates applicable standards;
 2.  In cases where a third party makes a claim of rights regarding Posted Information;
-3.  In cases where the Company determines that Posted Information that has been Posted, etc. infringes on the copyrights of a third party;
-4.  In cases where the Service experience problems due to the coding of letters in the Posted Information, or the Company determined the likeliness to be so.
-5.  In cases where the volume of information registered by User exceeds the volume designated by the Company; or
+3.  In cases where the Service experience problems due to the coding of letters in the Posted Information, or the Company determined the likeliness to be so.
+4.  In cases where the volume of information registered by User exceeds the volume designated by the Company
+5.  In cases where the Company determines that the relevant Posted Information interferes with, or may interfere with, the sound operation of the Service; or
 6.  In other cases where the Company determines that it is necessary to delete the relevant information in accordance with laws and regulations or social norms.
 
 Article 18. Procedures in Cases of Copyright Infringement
@@ -450,6 +452,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+*   June 22, 2026: Article 2. Individual Agreements etc., Article 7. Account Registration, Article 14. Prohibited Conduct, Article 15. Responses to Violation etc. and Cancellation of Registration, and Article 17. Authority to Delete Posted Information have been revised. In addition, references and related terms concerning pixiv Sketch LIVE and pixiv Points have been removed following the discontinuation of those services.
 *   July 31, 2025: "Collection Feature Individual Terms of Use" and "Collection Feature Guidelines" were added to "Article 2. Individual Agreements etc.", Table 1.
 *   December 9, 2024: pixiv Novel was removed from "Article 2. Individual Agreements etc.", Table 1. "Article 24. Disclaimers", Section 2 was revised.
 *   August 1, 2024: "Article 19: Use Fees" was updated, and "Article 19-2: Payment Procedures" was added.
@@ -462,181 +465,6 @@ Revisions
 *   October 27, 2016: The terms of use for pixiv, pixiv Comic, pixiv Novel, and pixiv Bungei integrated.
 *   April 12, 2018: “Translations” added to the scope of “information relating to posted works” specified in Article 2, Paragraph 8.
 *   March 30, 2020：These Terms of Use positioned as the terms of use for the Services overall, coordinated with individual terms of use, and revised throughout.
-
-pixiv Points Terms of Use
-=========================
-
-This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
-
-Article 1. Scope of Application of These Terms of Use
------------------------------------------------------
-
-The “pixiv Point Terms of Service” (hereinafter “pixiv Point Terms”) applies to the provision of point system services using pixiv points provided by the Company (hereinafter “pixiv Point Service”). , Pixiv Point Terms are individual terms of pixiv Master Terms of Use (hereinafter referred to as "Master Terms of Use") that apply to all services provided by the Company, and for matters not specified in the pixiv Point Terms, Except in cases where the pixiv Point Terms of Use stipulates exemption, in addition to the "Master Terms of Use", various regulations such as guidelines established by the Company on the pixiv Point Service (hereinafter referred to as the "Rules") is applied.
-
-pixiv points can only be used by users. In addition, the user of the account issued by us without registering the email address and password cannot acquire or use points.
-
-Article 2. Agreement
---------------------
-
-The pixiv Point Service is provided in cases where User agrees to the content of these pixiv Point Terms. If User does not agree to these pixiv Point Terms, User shall not be provided with the pixiv Point Service.
-
-Article 3. Details of the Service
----------------------------------
-
-The pixiv Point Service enables acquisition of pixiv points and provision of functions for managing User’s history of changes in pixiv point balances and does not include the provision of services on which pixiv points can be used. Users can use pixiv points only on some services provided by the Company (“pixiv Point Usable Services”), and the use of the pixiv Point Usable Services shall be governed by the respective individual terms of use.
-
-Article 4. Information Relating to pixiv Points
------------------------------------------------
-
-When User agrees to the content of the pixiv Point Terms and provision of pixiv Point Services starts, information relating to User’s pixiv points shall be created as information ancillary to information relating to the account on which User logged in. The created pixiv point information shall be handled as a part of the information constituting User’s account information.
-
-Article 5. Use of pixiv Points
-------------------------------
-
-In cases where User uses pixiv points, pixiv points shall be used in accordance with the instructions displayed on the pixiv Point Usable Services.
-
-Article 6. Acquisition of pixiv Points
---------------------------------------
-
-Users can acquire the number of pixiv points specified separately by purchasing pixiv points or other conduct specified by pixiv Inc. It is not possible to cancel the purchase or acquisition of pixiv points.
-
-Article 7. Expiration Date of pixiv Points
-------------------------------------------
-
-1.  The expiration date of pixiv points acquired for value shall be less than six months from the day of acquisition or the number of days specified separately by the Company prior to granting. The expiration date of pixiv points acquired for free shall be less than six months from the day of acquisition or the number of days specified separately by the Company prior to granting.
-2.  Notwithstanding the provisions of the preceding paragraph, we may, at our discretion, change the expiration date of pixiv points by setting a change application start date. In this case, pixiv points issued after the applicable change start date will be applied to the validity period after the change
-
-Article 8. Cancellation and Voiding of pixiv Points
----------------------------------------------------
-
-1.  In cases where the Company determines that a User who holds pixiv points falls under any of the following items, the Company may cancel the points that the User holds in part or in whole without the provision of prior notice.
-    1.  In cases where User qualifications are lost as a result of withdrawal or the like by User;
-    2.  n cases where User engaged in improper conduct when engaging in behavior subject to the grant of pixiv points or when exchanging pixiv points such as improperly acquiring pixiv points without engaging in the behavior subject to the grant of pixiv points constituting unlawful conduct (including conduct that appears to be unlawful conduct); or
-    3.  Other cases where the Company determines that cancellation of pixiv points is appropriate.
-2.  pixiv points whose expiration date specified in Article 7 has passed shall become void without warning.
-
-Article 9. pixiv Point Use Account
-----------------------------------
-
-Information relating to User’s pixiv points can be used only from the account used by User for logging in when agreeing to the pixiv Point Terms, and information relating to pixiv points cannot be transferred to or assumed by other accounts. In cases where account information is deleted for any reason, the pixiv points associated with the deleted account information shall become void and the information shall also be deleted.
-
-Article 10. Management of pixiv Points
---------------------------------------
-
-1.  Users shall manage pixiv points along with account management under User’s responsibility, and except when specified by law, for any reason, use of pixiv points on pixiv Point Usable Services cannot be canceled and no measures such as reissuance of pixiv points cannot be taken.
-2.  Refunds for purchased pixiv points cannot be made for any reason, and even in cases where User’s pixiv points are canceled because of improper use by a third party other than User, the pixiv points cannot be reissued.
-
-Article 11. Scope of Use of pixiv Points
-----------------------------------------
-
-Users cannot use pixiv points and account information including information relating to pixiv points for any purpose other than use on pixiv Point Usable Services. Users cannot convert pixiv points to cash or transfer them to a third party, whether directly or indirectly. Further, User may not use pixiv points and account information including information relating to pixiv points for User’s own benefit or the benefit of a third party for any purpose not approved by the Company.
-
-Article 12. Disclaimers
------------------------
-
-pixiv Point Service account information may in some instances be used as the account for multiple services including the pixiv Point Service. As a measure incidental to the relevant account information, information relating to pixiv points may be deleted or there may be cases where it is not possible to provide the pixiv Point Service. User acknowledges this, and even in cases where impacts relating to the pixiv Point Usable Services occur, User shall not make any claims, file litigation, demand compensatory damages, or take other legal action against the Company in relation to such impacts.
-
-Supplementary provision
------------------------
-
-*   These individual terms will come into effect on July 12, 2018.
-*   These individual terms also apply to any actions you have taken prior to the enforcement of these individual terms.
-
-Revision:
----------
-
-*   March 30, 2020 PIXIV Co., Ltd. The entire agreement has been revised as an individual agreement linked to Master Terms of Use.
-*   July 12, 2018
-
-Notation on fund settlement law
-===============================
-
-Published by
-------------
-
-pixiv Inc.
-
-Prepayment method
------------------
-
-pixiv Points
-
-Payment limit
--------------
-
-No upper limits on payment.
-
-Expiration date
----------------
-
-Points acquired on the iOS/Android app do not have an expiration date.
-
-\* However, points acquired on the web expire six months from the acquisition date, and the expiration dates for free pixiv Points acquired through campaigns, etc. differ depending on the campaign.
-
-Contact address and inquiry form
---------------------------------
-
-4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
-
-Please contact us via the [Inquiry form](https://www.pixiv.net/support?mode=faq&service=sketch&section=360001134914).
-
-Usage restrictions
-------------------
-
-Use is allowed on services provided by pixiv Inc.
-
-However, in some cases, use of pixiv Points may be restricted depending on how the points were acquired.
-
-(pixiv Points purchased on the iOS/Android app are only redeemable within the app where they were purchased.)
-
-Points of note and terms of use:
---------------------------------
-
-In principle, pixiv Points are non-refundable.
-
-For details, please check the [pixiv Services Master Terms of Use](#terms) and the [pixiv Points Terms of Use](#point).
-
-However, if pixiv discontinues pixiv Points, pixiv Points may be refunded through a payment service.
-
-In this case, points will only be refundable to accounts with Japanese domestic financial institutions.
-
-Check your balance
-------------------
-
-Please use the [pixiv Points](https://www.pixiv.net/point/) page.
-
-Measures to protect users of third-party payment services (\*1)
----------------------------------------------------------------
-
-**1\. Method for preserving User assets**
-
-1.  Regarding the rights stipulated in the Payment Services Act, Article 14, Item 1 and Article 31, Item 1
-    
-    The Company shall, as stipulated in the Payment Services Act, Article 14, Item 1, make security deposits for issuance to the official depository nearest to its principal business office. The amount of the deposits shall be, as required by the Payment Services Act, not less than half the amount of the unused balance on the base date (March 31st and September 30th of each year). (Therefore, the Company does not guarantee the full amount of prepaid payment instruments made by Users.) In the rare case that the Company should enter bankruptcy or similar, as stipulated in the Payment Services Act, Article 31, Item 1, the aforementioned security deposits shall be refunded to Users of the Company’s Services (hereafter referred to as “Users”) in preference over other creditors, as holders of prepaid payment instruments.
-    
-2.  The Company shall deposit security deposits to the official depository nearest to its principal business office according to the terms set forth separately in the contract of issuance of security deposits or the security deposit trust contract.
-
-**2\. Policy on compensation and countermeasures related to damages stemming from fraudulent transactions**
-
-1.  Compensation policy on prepaid payment instruments issued by the Company
-    
-    Regarding prepaid payment instruments held by Users, the Company shall not bear responsibility even if the prepaid payment instruments were used fraudulently by a third party against the User’s will, causing damage to the User (hereafter referred to as “Fraudulent Transactions”).
-    
-2.  Compensation policy and inquiries related to third-party payment services
-    
-    The Company shall not bear any responsibility regarding damages incurred from Fraudulent Transactions through third-party payment services (Google Play, App Store, etc.) linked to prepaid payment instruments issued by the Company. Users must contact each third-party payment service for inquiries regarding compensation. However, the Company does not guarantee that each third-party payment service will provide compensation.
-    
-3.  Policy on handling Fraudulent Transactions
-    
-    If a Fraudulent Transaction occurs, or is deemed to be in danger of occurring, the Company shall take into account the situation, the amount of the damages, and the possibility for multiple offenses, and if the Company deems it necessary to disclose the Fraudulent Transactions publicly, it will disclose such information as is necessary. When such a disclosure is made, Users shall be responsible for taking appropriate countermeasures.
-    
-
-(\*1) Under the Payment Services Act, only pixiv Points purchased through the iOS/Android app are applicable for “protection measures for Users under the Payment Services Act”.
-
-Revisions
----------
-
-*   March 19, 2025 The address has been revised due to a change in the name of the office building.
 
 Notation on specified commercial transaction
 ============================================
@@ -691,7 +519,6 @@ Payment methods
 *   Google Play Store
 *   iTunes Store
 *   PayPal
-*   pixiv Points
 
 How to unsubscribe
 ------------------
@@ -2740,304 +2567,6 @@ Revision
 *   July 16th, 2025: Revised to establish new provisions relating to the introduction of a new feature.
 *   August 17, 2023 Overall terms of Individual Terms of Use were updated following the release of the new function.
 *   March 30, 2020 As related as individual terms of Master Terms of Use, overall terms of Individual Terms of Use were modified.
-
-pixiv Live Feature Guidelines
-=============================
-
-This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
-
-The Company establishes the following guidelines regarding operation and use of the pixiv Live Feature (“Individual Service”).
-
-1\. Rules
----------
-
-These guidelines are guidelines established independently by the Company and are subject to change in conjunction with societal or environmental changes at the Company’s discretion In addition, these guidelines are the individual terms of pixiv service Master Terms of Use (hereinafter referred to as “Master Terms of Use”) that applies to all services provided by the Company, and are subject to these guidelines. For items not specified, in addition to the “Master Terms of Use”, if the guidelines stipulate that applications are excluded, such as guidelines established by the Company for individual services (hereinafter referred to as “rules”) Various regulations apply.
-
-2\. Addition of Age Restrictions and Suspension of Distribution
----------------------------------------------------------------
-
-The Individual Service management team shall make determinations regarding thumbnails, distributed content, titles, explanations and the like, and shall check for the addition of age restrictions, modification of the scope of disclosure, and distribution subject to suspension. In cases where subject distributions are found, age restrictions may be added, the scope of disclosure may be modified, or distribution may become the subject of compulsory suspension, and when bad-faith conduct including the prohibited conduct set forth below is found, the pixiv Sketch account and pixiv account may be deleted. Please note that the Company is unable to disclose the reasons for such action, even if an inquiry is made.
-
-3\. Prohibited Conduct and Content Prohibited from Distribution
----------------------------------------------------------------
-
-The conduct and distribution of the content set forth below are prohibited. In cases where the Company determines that conduct or content falls under the prohibited conduct or content, distribution of that content may be subject to compulsory suspension and the pixiv account may be suspended or deleted.
-
-1.  Conduct that infringes on the rights of other users, the Company, or third parties
-    1.  Posting member IDs, image IDs, and so on from the Individual Service or other sites and engaging in defamation;
-    2.  Engaging in defamation, threats, or conduct that causes economic or emotional harm or disadvantage;
-    3.  Posting the personal information of oneself or a third party;
-    4.  Distribution or posting of comments for the purpose of gathering or exchanging the personal information of third parties;
-    5.  Divulging or asking for the personal information of third parties;
-        
-        \* Personal information includes telephone number, address, email address, Mynumber, and so on.
-        
-    6.  Engaging in conduct that infringes on the rights to likeness or copyrights of other persons; and
-    7.  Posting text, images, voice recordings, and videos for which one does not hold the rights.
-2.  Conduct in violation of social ethics or laws
-    1.  Extremely provoking and repugnant violent scenes and excessively brutal and violent content;
-    2.  Content that excessively advocates extreme ideas;
-    3.  Content that glorifies anti-social conduct or excessively promotes such conduct;
-    4.  Content that inappropriately discriminates on the basis of race, creed, vocation, sex, religion, and so on;
-    5.  Content that expresses cult-like religious behavior or extreme political behavior; and
-    6.  Conduct that promotes homicide, abuse, self-injury, or suicide.
-3.  Commercial use
-    
-    1.  Soliciting pyramid schemes, network business, and the like; and
-    2.  Transmitting information for the purpose of commercial advertising or publicity.
-    
-    \*Not including publicity and the like for goods or books produced by the posting User.
-    
-4.  Sexualized depictions contrary to laws and regulations
-    
-    1.  Depicting or exposing sexual organs;
-    2.  Depicting or exposing conjoined parts and the like using other objects in a manner associated with sex;
-    3.  Making sexualized depictions in an unnecessarily distorted manner; and
-    4.  Sexualized depictions that clearly have children as the subject matter.
-    
-    \*This shall not apply in cases where concealment processing (such as pixelation) is applied to the extent permitted by social norms, but distribution of sexualized depictions prior to concealment is prohibited.
-    
-5.  Harassment
-    1.  Abusive or violent statements directed towards distributors or viewers;
-    2.  Conduct that impedes distribution or viewing; and
-    3.  Spam-like conduct that involves repeated posting of a number of comments.
-6.  Conduct for the purpose of meeting or dating others or ;
-    1.  Distribution or posting of comments for the purpose of prostitution or sexual services;
-    2.  Links to adult sites, dating sites, and the like; and
-    3.  Other actions for the purpose of obscene conduct.
-7.  Other prohibited acts
-    
-    1.  Collection of information using crawlers and other such programs;
-    2.  Conduct that imposes excessive burdens on servers;
-    3.  Impersonation of operators or other users;
-    4.  Distribution completely unrelated to works; and
-    5.  Other conduct that the operator determines to be inappropriate.
-    
-    \*The prohibited acts are subject to change without prior notice.
-    
-
-4\. Distribution to Specified Age Groups
-----------------------------------------
-
-It is required that age restrictions be checked in relation to distribution of which viewing by persons under the age of 15 years and persons under the age of 18 years on the Individual Service would be inappropriate. Please be sure to set the appropriate age restrictions when commencing distribution of the following content.
-
-1.  R-18: Distributions that contain depictions inappropriate for persons under the age of 18 years, including but not limited to the following items:
-    1.  Depictions of penetration of the sexual organs or intercourse and depictions that evoke sexual conduct, whether directly or indirectly;
-    2.  Portrayals of sex acts or masturbation;
-    3.  Images of nudity or exposed genitals;
-    4.  Depictions of persons who are clothed but that are highly salacious due to emphasis of the genitals and the like;
-    5.  In addition to the R-15 criteria, depictions that infer a sexually aroused state through facial expression, imitative sounds, perspiration, or other depictions; and
-    6.  Portrayals of excretory behavior and excreta.
-2.  Excessively violent depictions, conceptual and simulated depictions of highly risky or provocative conduct, including but not limited to the following items:
-    1.  Depictions of injured bodies or exposed brain or organs;
-    2.  Anti-social depictions including suicide, homicide, and sexual criminal conduct;
-3.  R-15: Distributions that contain depictions inappropriate for persons under the age of 15 years, including but not limited to the following items:
-    
-    Content relating to sex and obscene depictions
-    
-    1.  Exposure of undergarments (including see-through clothing and exposure through stockings, tights, and the like);
-    2.  Clothing that is excessively revealing;
-    3.  Depictions of persons who are clothed but that are highly salacious due to emphasis of the breasts or buttocks and the like;
-    4.  Items with sexual associations such as condoms, sex toys, and restraints.
-4.  Portrayals of violent scenes or scenes that evoke fear, including but not limited to the following items:
-    1.  Fighting that involves bloodshed; and
-    2.  Bodily restraint.
-
-5\. Concealment Processing (Pixelation)
----------------------------------------
-
-1.  In general, concealment processing shall not be based on the technical properties of the image, but is premised on obscuring details based on visual determination.
-2.  Concealment is to be performed on the same dimension level in such a manner that it is not technically possible to return the image to its original condition.
-3.  The scope is to be enclosed by an outline.
-4.  Even in cases where processing is performed, if the details are clearly visible due to transparency, this shall not constitute concealment.
-5.  In the case of pixelation, the relevant portions of the image shall be obscured, taking the following into consideration.
-    
-    In the case of a mosaic at least four-pixels square where the length of the entire image is at least 400 pixels, the mosaic shall cover, in the necessary areas, a surface area of approximately 1/100 of the lengthwise dimension of the entire image.
-    
-6.  In the case of overpainting, it is assumed that concealment processing will be performed on the entirety of the necessary area, but this shall not apply in cases where the necessary areas are obscured as a result of partial processing.
-7.  In cases of use of white concealer or other concealment using a design or pattern, it is assumed that concealment processing will be performed on the entirety of the necessary area, but this shall not apply in cases where the necessary areas are obscured as a result of partial processing.
-
-6\. Examples of Areas that Require Concealment Processing (Pixelation)
-----------------------------------------------------------------------
-
-1.  Sexual organs or areas related to sexual organs;
-2.  Areas of sexual intercourse or penetration;
-3.  Areas of anal intercourse or penetration;
-4.  Areas that depict cutting, laceration, and the like in unnecessary detail and excessively.
-
-\*Distribution of parts before concealment processing or with incomplete concealment processing is prohibited. Please commence distribution or switch images at the time that concealment processing is completed.
-
-7\. Supplementary Provisions
-----------------------------
-
-Revision
---------
-
-*   March 30, 2020
-*   July 12, 2018
-*   December 19, 2017
-
-Rules on the Receipt of Rewards
-===============================
-
-These rules on the receipt of rewards (these “Common Rules”) set forth the terms of use of the program relating to the receipt of rewards (“Program”) on the Individual Service provided by the Company and apply to all matters relating to use of the Program by Users.  
-Rewards are monetary incentive provided by the Company to creators according to evaluations of content posted on the services provided by the Company. Users can receive rewards by agreeing to these Common Rules and participating in the Program.
-
-Article 1. Common Rules
------------------------
-
-1.  These Common Rules are individual rules of pixiv service Master Terms of Use ("Master Terms of Use") that apply to all services by the Company, and in the case of any matters not specified in these Common Rules, except when these Common Rules exclude application, Master Terms of Use and other provisions including guidelines and the like (“Other Provisions”) established by the Company in relation to the Program shall apply.
-2.  Calculation, acquisition, and exchange of rewards shall be as set forth in Article 4.
-3.  Users must agree to these Common Rules before using the Program.
-
-Article 2. Purpose of the Program
----------------------------------
-
-The Program is intended to encourage communication between creators and their fans and to support creative activities.
-
-Article 3. Conditions for Use of the Program
---------------------------------------------
-
-Use of the Program requires satisfaction of the prescribed conditions. Details regarding those conditions shall be explained on the Individual Service page, and User shall confirm the particulars of such explanations prior to using the Program.
-
-Article 4. Rewards
-------------------
-
-1.  When the Program is used, rewards shall be accumulated at the Company’s discretion based on the popularity of and reactions to content. When a certain number of rewards are accumulated, they can be converted to pixiv Points or cash.
-    1.  Calculation of rewards.
-        
-        After joining the Program, calculation of rewards shall commence on the day that content is provided. Further, rewards shall be calculated on a monthly basis.
-        
-    2.  Acquisition of rewards.
-        
-        Users may acquire rewards by the method specified by the Company after joining the Program and lapse of a certain period. (In cases where the Live Feature is used and content is provided by multiple persons, only the owner can acquire rewards. In cases of distribution by multiple persons, the owner is the manager.)
-        
-    3.  Exchange of rewards.
-        1.  In cases where accumulated rewards are acquired by bank remittance, the amount calculated in accordance with Article 4, Paragraph 1 of the Program shall be obtained. In cases where cumulative rewards are acquired as pixiv points, points shall be acquired according to the specified conversion rates for each service.
-        2.  Only individual Users can acquire rewards in cash. Corporations and organizations can acquire rewards only as pixiv points. Remittance accounts are limited to bank accounts in Japan. In cases where rewards are acquired in cash, User shall bear the remittance fees, and the amount shall be remitted after deducting the remittance fees.
-    4.  Reward expiration dates.
-        
-        The reward expiration dates shall be 90 days from the day of acquisition. In cases where a period of 90 days lapses without converting acquired rewards to pixiv points or vouchers and the like, the relevant rewards shall become void.
-        
-2.  In addition to the above, details concerning rewards shall be explained on service pages and help pages, and the User shall confirm the particulars of such explanations prior to using the Program.
-
-Article 5. User Responsibilities
---------------------------------
-
-Users shall confirm the following matters prior to using the Program.
-
-1.  That content is provided in accordance with the pixiv Master Terms of Use and the Live Feature guidelines.
-2.  In cases where User is a minor, User must use the Program after a legal representative (person with parental rights or the like) confirms these Common Rules and consents to use of the Program. Minor Users who use the Program shall be deemed to be doing so after obtaining the above consent of a legal representative.
-
-Article 6. Prohibitions
------------------------
-
-1.  In cases where the Company determines that User conduct constitutes prohibited conduct specified in Article 14 of Master Terms of Use, the Company may suspend the grant of rewards, deprive User of acquired rewards, delete User’s account, or take other measures.
-2.  User agrees that in the case of violation of the preceding article, User shall lose eligibility to receive rewards (including pixiv points and cash). Further, User warrants that in cases where problems arise with third parties as a result of or in relation to User’s participation in the Program or use of the Program, User shall resolve the matter under User’s responsibility and shall hold the Company harmless.
-
-Article 7. Modification and Termination of the Program
-------------------------------------------------------
-
-1.  The Company may, at its discretion, modify the details of or terminate provision of the Program. In the case where the Company terminates the provision of the Individual Service, the Company shall in principle provide notice or make an announcement to the User on the Program website in advance.
-2.  The Company shall not bear any liability whatsoever in relation to damage incurred by User as a result of modification or termination pursuant to the preceding paragraph.
-
-Supplementary Provisions
-------------------------
-
-*   These Common Rules shall take effect on July 12, 2018.
-
-Revision
---------
-
-*   March 30, 2020
-*   July 19, 2018
-*   July 12, 2018
-
-Rules on the Shoutout Feature Associated with the Live Feature
-==============================================================
-
-Article 1. Introduction
------------------------
-
-1.  These Terms of Use (these “Shoutout Terms”) apply to all conduct in cases where User uses the Cheers Feature associated with the Live Feature operated by pixiv Inc. (“Company”) in the service operated by the Company and known as “pixiv” or the service operated by the Company and known as “pixiv Sketch”.
-2.  These Common Rules are individual rules of the pixiv Master Terms of Use applicable to all services provided by the Company. Except in cases where application of these Common Terms of Use is excluded, the pixiv Master Terms of Use and other provisions including guidelines and the like (“Other Provisions”) established by the Company for the Individual Service shall apply to use of the Cheers Feature.
-3.  Common Rules that forth the conditions for use of the Feature. Users must use the Feature in accordance with these Common Rules after agreeing to these Common Rules.
-4.  By using the Feature, User shall be deemed to have agreed to these Common Rules in their entirety.
-
-Article 2. Definitions
-----------------------
-
-The definitions of terms used in these Common Rules shall be as set forth in the following items.
-
-1.  “Individual Service” means “pixiv” and “pixiv Sketch.”
-2.  “Shoutout Feature” (“Feature”) means the fee-based feature that enables Users to send reactions to live streaming content on the Individual Service.
-3.  “Emoji” means a pictorial symbol purchased by a User using pixiv points as the means of advance payment provided by the Company in order to express a reaction using the Live Feature. By using the Feature, a User can express a reaction by “sending Emoji” or “transmitting Emoji.” In response to this, the User to which the reaction was expressed using the Feature can “accept Emoji” or “receive Emoji.”
-4.  “Live Feature” means a feature that enables Users to transmit video images in real time via the Individual Service. “Related Service” means a service provided on a related website other than the Individual Service using the pixiv member function operated by the Company.
-5.  “User” means, for the purpose of these Common Rules, a person who is registered to use the Individual Service and Related Services.
-6.  “Feature-Using User” means a User who uses the Feature.
-7.  “Stream” and “Streaming” means the act of a User distributing video images in real time on the Individual Service.
-
-Article 3. Scope of these Shoutout Terms
-----------------------------------------
-
-1.  These Shoutout Terms and other terms of use and the like set forth the terms of use of the Feature on the Individual Service. Such other terms of use constitute a part of these Shoutout Terms, regardless of designation.
-2.  In the case of a discrepancy between these Shoutout Terms and other terms of use and the like, such other terms of use shall apply preferentially.
-
-Article 4. Revision of these Common Rules
------------------------------------------
-
-1.  The Company may, at its discretion, revise these Shoutout Terms at any time as it deems appropriate.
-2.  Except when the Company provides otherwise, the revised Shoutout Terms shall take effect when displayed on the Individual Service.
-3.  In the case where User uses the Individual Service and the Feature after revisions to these Shoutout Terms have come into effect, User shall be deemed to have agreed to the revised Shoutout Terms in their entirety.
-
-Article 5. Handling of the Feature
-----------------------------------
-
-1.  The Live Feature on the Individual Service shall be shared with other Users during times of creative activity and can be used to Stream the creation process of illustrations, cartoons, and the like.
-2.  The Feature is one means for Users to express reactions to Streamed content provided by a User who is Streaming live. The Feature is fee-based and differs from other types of reactions. The Feature can be used by purchasing Emoji from the Company.
-3.  Users who use the Feature can send Emoji by paying the total necessary amount of pixiv points according to the number and type of Emoji.
-4.  Purchased Emoji cannot be returned or refunded. Further, Emoji that have been transmitted cannot be canceled.
-
-Article 6. Responsibility of Feature-Using User
------------------------------------------------
-
-1.  Feature-Using Users shall use the Feature under their own responsibility and bear all liability for all conduct performed when using the Feature and the results of that conduct.
-2.  Feature-Using Users shall bear all liability in relation to Emoji transmitted and received by Feature-Using Users through use of the Feature. The Company shall not bear any liability whatsoever in relation to Emoji transmitted and received by Feature-Using Users using the Feature.
-
-Article 7. Prohibited Conduct
------------------------------
-
-When using the Feature and Individual Service, Feature-Using Users may not engage in any of the conduct specified in Article 15 of the pixiv Master Terms of Use or in the following items. In the case where a User engages in prohibited conduct, the User may be subject to compulsory withdrawal, suspension of use, deletion of account, modification of the scope of disclosure, inability to use the Feature or other disadvantageous measures; provided, however, that the Company shall not bear a duty to take any of these measures and shall not bear a duty to disclose the reasons for measures it has taken.
-
-1.  Expression that is linked to discrimination on the basis of race, ethnicity, sex, age, belief, or the like including (but not limited to) by using combinations of multiple Emoji or consecutively using the same Emoji;
-2.  Conduct that imposes burdens beyond the normal scope on the Feature’s or Individual Service’s servers, conduct that impedes operation of the Feature or Individual Service or network systems, or other comparable conduct;
-3.  Conduct in violation of laws and regulations, public order, these Common Rules, or other terms of use and the like or that the Company determines infringes on the rights of others;
-4.  Using multiple accounts to purchase Emoji and transmit them to oneself; and
-5.  Other conduct that the Company determines to be inappropriate.
-
-Article 8. Modification of the Feature
---------------------------------------
-
-1.  The Company may supplement, modify, suspend, or terminate the Feature at its discretion and at any time without the provision of prior notice.
-2.  The Company shall not bear any liability whatsoever in relation to supplementation, modification, suspension, or termination of the Feature.
-
-Article 9. Emoji Fees
----------------------
-
-Fees for the Emoji are set on the screen that opens by clicking each Emoji on the "Shoutout " screen of the live function.
-
-Supplementary provision
------------------------
-
-*   These Shoutout Terms will come into effect on July 12, 2018.  
-    
-*   Any act performed by the user prior to the enforcement of these Shoutout Terms is also subject to these Shoutout Terms.
-
-Revision
---------
-
-*   March 30, 2020 pixiv Co., Ltd. The entire agreement has been revised as an individual agreement tied to the pixiv Master Terms of Use.
-*   July 12, 2018
 
 “VRoid Studio” Terms of Use
 ===========================
