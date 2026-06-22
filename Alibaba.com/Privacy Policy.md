@@ -3,7 +3,7 @@ Alibaba.com Privacy Policy
 
 2024-08-28 07:52
 
-(Last Updated: December 30, 2025)
+（Last Updated: June 18, 2026)
 
 ﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_11_33255.html)﻿
 
@@ -517,7 +517,13 @@ We may update this Privacy Policy from time to time including in response to cha
 14.HOW TO CONTACT US
 ====================
 
-You can click [here](https://myprivacy.alibaba.com/home#/)to exercise your rights after accessing your account. And if you have any requests, questions or concerns about our use of your personal information and this Privacy Policy, you can contact our Data Protection Officer at DataProtection@service.alibaba.com.
+You can click [here](https://myprivacy.alibaba.com/home#/)to exercise your rights after accessing your account. And if you have any requests, questions or concerns about our use of your personal information and this Privacy Policy, you can contact our Data Protection Officer at DataProtection@service.alibaba.com.Also, we have representatives for data protection purposes in the following jurisdictions:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Jurisdictions | Representative | Address | Contact Details |
+| Korea | Company Name: Alibaba.com Korea E-Commerce Private Limited<br><br>Rrepresentative：Marco Yang | 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631 | Telephone number: 02-2193-4206<br><br>E-mail:<br><br>﻿koreaprivacyagent@service.alibaba.com |
+| Türkiye | KST DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | REŞİTPAŞA MAHALLESİ ESKİ BÜYÜKDERE CADDE NO: 26/147, SARIYER, İSTANBUL | E-mail:<br><br>﻿info@ksthukuk.com |
 
 If you are a registered member of the Platform, and you are from Hong Kong Special Administrative Region (“Hong Kong”), Macao Special Administrative Region (“Macao”) or Taiwan Region of China (“Taiwan”), you are contracting with Alibaba.com Hong Kong Limited (incorporated in Hong Kong Special Administrative Region with Reg. No. 0689778).
 
