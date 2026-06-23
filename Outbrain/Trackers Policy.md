@@ -11,9 +11,9 @@ Outbrain is committed to protecting your Personal Data. For the purposes of this
 
 This Users Privacy Policy (“Users Privacy Policy”) governs Outbrain’s use of User Personal Data. You are a User when you visit a page of a website or application of one of Outbrain’s media partners (“Partners”) where the Outbrain technology is installed or our ads are being served (“Partner Sites”). For example, if you visit [https://news.sky.com/uk](https://news.sky.com/uk), or [www.cnn.com](http://www.cnn.com/), the Outbrain technology is implemented on those websites. The Outbrain technology will be labelled with an AdChoices logo which, when clicked on, will enable you to navigate to this Users Privacy Policy and [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/home?utm_source=www.outbrain.com%2Fprivacy%2F). In some instances, a Partner may have a white-labelled version of Outbrain’s service for their own offering. In such an event, such Partners must disclose their use of Outbrain in their privacy policies.
 
-You are a “business partner” if you are a media owner, advertiser or agency who contracts with Outbrain. You can access the Business Partner Policy [here](https://www.outbrain.com/privacy/business-partner-policy/).
+You are a “business partner” if you are a media owner, advertiser or agency who contracts with Outbrain. You can access the Business Partner Policy [here](https://www.outbrain.com/privacy-staging/business-partner-policy/).
 
-You are a “site visitor” if you visit outbrain.com websites or digital properties or any other sites in Outbrain. You can access the Site Visitor Policy [here](https://www.outbrain.com/privacy/business-partner-policy/).
+You are a “site visitor” if you visit outbrain.com websites or digital properties or any other sites in Outbrain. You can access the Site Visitor Policy [here](https://www.outbrain.com/privacy-staging/business-partner-policy/).
 
 ttt
 
@@ -48,7 +48,7 @@ If Outbrain does not satisfactorily answer your questions or concerns, you may a
 *   We are members in good standing of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI), an association dedicated to responsible data collection and its use for digital advertising. We also adhere to the NAI Code of Conduct. Outbrain also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe TCF vendor ID; and
 *   We are also TAG Brand Safety Certified [here](https://tag-members-prod.herokuapp.com/registry/lookup?q=outbrain).
 
-![](https://www.outbrain.com/privacy/wp-content/uploads/2021/11/rJwgwc0EP-e1639478091999-1.png)
+![](/privacy-staging/wp-content/uploads/2021/11/rJwgwc0EP-e1639478091999-1.png)
 
 4\. What information we collect, how and why
 --------------------------------------------
@@ -108,7 +108,7 @@ Our advertiser and publisher partners are joint controllers with Outbrain only f
 
 **a) Outbrain cookies**
 
-Please see the Users [Cookie Table](https://www.outbrain.com/privacy/cookies/) for a detailed list of the cookies which may be dropped by the Outbrain technology or by our partners or client’s partners when you interact on sites where the Outbrain technology is present.
+Please see the Users [Cookie Table](https://www.outbrain.com/privacy-staging/cookies/) for a detailed list of the cookies which may be dropped by the Outbrain technology or by our partners or client’s partners when you interact on sites where the Outbrain technology is present.
 
 **b) The Outbrain pixel**
 
@@ -118,7 +118,7 @@ In addition to Outbrain’s technology on Partner Sites, certain Outbrain advert
 
 If you click on a link of an ad served via the Outbrain technology, the advertiser sponsoring the ad may place its own cookies or cookies of third parties providing services to the advertiser on your device either through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page. Generally, such cookies are dropped for the purposes of providing analytics to the advertiser with regards to the advertiser’s campaign (for example, to see how many users viewed the advertiser’s campaign). We require our advertisers to disclose the use of third-party pixels and/or cookies to end users via their website. As these cookies and/or pixels are added at the sole discretion of our advertisers, you will be subject to that advertiser’s cookie and/or policy.
 
-Outbrain also allows certain trusted third-party partners to collect data via cookies and/or pixels delivered via our technology. In such cases, Outbrain does not share its user profiles with these third parties; however, we share certain data points (such as bid request data) or we enable such third parties to collect data directly via their own tracking technology. This may be, for example, fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions). You can find a list of Outbrain’s Trusted Partners [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/).
+Outbrain also allows certain trusted third-party partners to collect data via cookies and/or pixels delivered via our technology. In such cases, Outbrain does not share its user profiles with these third parties; however, we share certain data points (such as bid request data) or we enable such third parties to collect data directly via their own tracking technology. This may be, for example, fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions). You can find a list of Outbrain’s Trusted Partners [here](https://www.outbrain.com/privacy-staging/outbrain-trusted-partners/).
 
 **d) Mobile advertising identifiers**
 
@@ -142,11 +142,11 @@ In order to opt-out of Outbrain’s recommendations on your mobile applications 
 1.  iOS Devices: Settings > Privacy > Advertising > Limit Ad Tracking
 2.  Android Devices: Google Settings App > Ads > Opt Out of Interest-based Advertising
 
-Please note that an opt out via our [Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/en) and/or this [Privacy Policy](https://www.outbrain.com/privacy/user-policy/) will not opt you out of personalized tracking on your applications. This opt out must be done via your device settings.
+Please note that an opt out via our [Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/en) and/or this [Privacy Policy](https://www.outbrain.com/privacy-staging/user-policy/) will not opt you out of personalized tracking on your applications. This opt out must be done via your device settings.
 
 **c) Additional opt-out options**
 
-You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages ([DAA](http://www.aboutads.info/choices), [DAAC](http://www.youradchoices.ca/choices), and/or [EDAA](https://www.outbrain.com/privacy/user-policy/blank)). Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you. You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., [contextually based ads](https://www.outbrain.com/contextual-advertising/)). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.
+You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages ([DAA](http://www.aboutads.info/choices), [DAAC](http://www.youradchoices.ca/choices), and/or [EDAA](https://www.outbrain.com/privacy-staging/user-policy/blank)). Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you. You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., [contextually based ads](https://www.outbrain.com/contextual-advertising/)). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.
 
 If you are located in the European Territories/UK, please see Section 8 below which outlines other rights that you may exercise.  If you are a resident of California or certain other states within the United States, please see Section 9 below which outlines other rights that you may exercise, depending on your state of residency.
 
@@ -179,7 +179,7 @@ Outbrain may share certain elements of a user profile (for example, UUID) with t
 *   Fraud and Brand Safety Partners: We work with specialized vendors to detect bot traffic, prevent advertising fraud, and ensure ads appear in safe, high-quality environments.
 *   Legal and Regulatory Authorities: Personal data may be disclosed to government bodies or law enforcement when we are legally required to comply with a valid subpoena, court order, or regulatory audit.
 
-Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/) for a list of our Trusted Partners and/or the Users section of our [Cookie Policy](https://www.outbrain.com/privacy/cookies/) (which may be updated from time to time). Many of our partners are registered as IAB TCF Global Vendors and can be found [here](https://iabeurope.eu/vendor-list/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE).
+Please see [here](https://www.outbrain.com/privacy-staging/outbrain-trusted-partners/) for a list of our Trusted Partners and/or the Users section of our [Cookie Policy](https://www.outbrain.com/privacy-staging/cookies/) (which may be updated from time to time). Many of our partners are registered as IAB TCF Global Vendors and can be found [here](https://iabeurope.eu/vendor-list/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE).
 
 In addition, we may also disclose Personal Data as follows:
 
@@ -196,7 +196,7 @@ If you are a United States resident, please see Section 9 below for more informa
 
 **c) Data Retention**
 
-The retention period for each of the cookies Outbrain uses (whether our own or on our behalf by third parties) is stated in the [Cookie Table](https://www.outbrain.com/privacy/cookies/).
+The retention period for each of the cookies Outbrain uses (whether our own or on our behalf by third parties) is stated in the [Cookie Table](https://www.outbrain.com/privacy-staging/cookies/).
 
 More specifically, the Outbrain cookie (OBUID), which is used to track user interactions such as clicks, expires in our records 30 days after the user’s last interaction on any website within our network. The cookie will persist for as long as the user interacts with our technology.
 
@@ -303,7 +303,7 @@ We will need to confirm your identity and state of residency to process your req
 
 **d)  Summary of California Consumer Requests**
 
-This is a [summary of the requests](https://www.outbrain.com/privacy/wp-content/uploads/2025/07/2024-Summary-of-California-Consumer-Requests.pdf) that Outbrain received and honoured from California residents in the last calendar year.
+This is a [summary of the requests](https://www.outbrain.com/privacy-staging/wp-content/uploads/2025/07/2024-Summary-of-California-Consumer-Requests.pdf) that Outbrain received and honoured from California residents in the last calendar year.
 
 **e) Data Broker Requirements**
 
