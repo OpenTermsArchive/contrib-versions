@@ -13,6 +13,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Cloud 
 
 If you signed an offline variant of this Agreement for use of the Google Cloud Platform Services, Google Workspace Services, SecOps Services, Looker (original) Services, or Cloud Identity Services under the same Google Cloud Platform Services, Google Workspace, SecOps Services, Looker (original) Services, or Cloud Identity Services Account, the terms below do not apply to you, and your offline terms govern your use of the applicable Services.
 
+These terms do not apply to use of [Starter Tier](https://cloud.google.com/docs/starter-tier) resources. The [Starter Tier Additional Terms of Service](https://cloud.google.com/terms/starter-tier-additional-terms-of-service) govern use of all resources in your Starter Tier project.
+
 These Google Cloud Terms of Service (together, the "Agreement") are entered into by Google and the entity or person agreeing to these terms ("Customer") and govern Customer's access to and use of the Services. "Google" has the meaning given at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity).
 
 This Agreement is effective when Customer clicks to accept or otherwise agrees to it (the "Effective Date"). If you are accepting on behalf of Customer, you represent and warrant that (i) you have full legal authority to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree, on behalf of Customer, to this Agreement.
