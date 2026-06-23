@@ -124,7 +124,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > > Ads should respect user preferences and comply with legal regulations. Google Ads restricts certain kinds of sexual content in ads and destinations, which will only show in limited scenarios based on user search queries, user age and local laws where the ad is being served. Ads must not target minors.
 > > 
-> > **Examples of restricted sexual content (non-exhaustive)**: Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, models in sexualized poses
+> > **Examples of restricted sexual content (non-exhaustive)**: Visible genitalia and female breasts, sex toys, strip clubs, sexually suggestive live chat, models in sexualized poses
 > 
 > ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
 > 
@@ -183,6 +183,12 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > > **Examples of cryptocurrency businesses that require certification (non-exhaustive):** cryptocurrency exchanges, cryptocurrency wallets, cryptocurrency coin trusts
 > > 
 > > When promoting cryptocurrencies and related products, you must comply with state and local regulations for any region or country that your ads target. Refer to our [non-exhaustive list of location-specific requirements](https://support.google.com/adspolicy/answer/7645254) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
+> 
+> ### [Dating and Companionship](https://support.google.com/adspolicy/answer/15328393)
+> 
+> > Google values diversity, inclusivity, and respect for others, so we support the promotion of general dating services that aren’t discriminatory, exploitative, or deceptive. Dating and Companionship ads are allowed if they comply with our policies, don’t allow users under 18, and the advertiser has received the proper Google Ads certification. These ads may be restricted based on the ad category, user age, local laws, the user’s SafeSearch settings, and the user’s sexual content search queries.
+> > 
+> > **Examples of restricted dating and companionship content (non-exhaustive):** Aggregators that list or review other dating sites, dating ads or landing pages that feature racy content, and dating explicitly focused on sexual themes or encounters such as hook-up, swinger, or affair dating services
 > 
 > ### [Trademarks](https://support.google.com/adspolicy/answer/6118)
 > 
