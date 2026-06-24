@@ -775,3 +775,5 @@ This activity might come from your use of Google services, for example from sync
 [Find out more](https://policies.google.com/technologies/partner-sites?hl=en-GB&gl=IE) about how Google uses data when you use our partners' sites or apps.
 
 _close_
+
+_close_
