@@ -2576,40 +2576,61 @@ This document is an English translation of the original version for reference pu
 Article 1: Introduction
 -----------------------
 
-1.  These Individual Terms of Use apply to all acts involving use of “VRoid Studio” (“Software”) and related websites, software, applications, products, documents and all other merchandise and services (“Individual Services”) provided by the Company to Users in connection therewith.
+1.  These Individual Terms of Use apply to all acts involving use of "VRoid Studio" ("Software") and related websites, software, applications, products, documents and all other merchandise and services ("Individual Services") provided by the Company to Users in connection therewith.
 2.  These Individual Terms of Use set forth the conditions of use of the Individual Services. Users shall consent to these Individual Terms of Use and use the Individual Services in accordance herewith.
 3.  These Individual Terms of Use is the individual Terms of Use of pixiv services' Master Terms of Use ("Master Terms of Use") provided by the Company. In cases of unspecified matter in the Individual Terms of Use, unless specified to exclude application of the term in the Individual Terms of Use, the Master Terms of Use or other suggested guidelines or terms and conditions by individual services ("Terms and Conditions") shall be applied.
-4.  Users will be deemed to have consented to all of the particulars set forth in the pixiv Master Terms of Use, these Individual Terms of Use and related guidelines (Collectively “Terms etc.”) at the point in time that they click on the download button provided on this site.
+4.  Users will be deemed to have consented to all of the particulars set forth in the pixiv Master Terms of Use, these Individual Terms of Use and related guidelines (Collectively "Terms etc.") at the point in time that they click on the download button provided on this site.
 5.  Users cannot use the Individual Services unless they consent to these Terms etc.
 
 Article 2: Definitions
 ----------------------
 
-1.  “Software” means all computer programs and data included in the 3D model generation software “VRoid Studio”.
-2.  “Site” means the website entitled “VRoid (https://vroid.pixiv.net)” operated by the Company.
+1.  "Software" means all computer programs and data included in the 3D model generation software "VRoid Studio".
+2.  "Site" means the website entitled "VRoid (https://vroid.pixiv.net)" operated by the Company.
 3.  "Client PC" means the computer or tablet on which the software is installed.
-4.  “User” means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
-5.  “Output Item” means items outputted of data related to avatars, items, and other 3D models created using the Software with agreement to these Individual Terms of Use.
-6.  “Provided Content” means content provided by the Company on VRoid Studio, including provided meshes such as model bodies (shapes of 3D models), and provided textures (images used for outer appearance of 3D models).
-7.  “Associated Services” means associated websites other than the Site (VRoid Hub – https://vroidhub.com/; VRoid Market – https://vroidmarket.com/) which are operated by the Company and utilize the “pixiv” membership functions.
+4.  "User" means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
+5.  "Output Item" means items outputted of data related to avatars, items, and other 3D models created using the Software with agreement to these Individual Terms of Use.
+6.  "Provided Content" means content provided by the Company on VRoid Studio, including provided meshes such as model bodies (shapes of 3D models), and provided textures (images used for outer appearance of 3D models).
+7.  "Associated Services" means associated websites other than the Site (VRoid Hub – https://vroidhub.com/; VRoid Market – https://vroidmarket.com/) which are operated by the Company and utilize the "pixiv" membership functions.
 
-Article 3: Usage Rights and Fees
---------------------------------
+Article 3: Usage Rights
+-----------------------
 
-1.  Users are entitled to install and use Software on Client PCs that they personally own.
-2.  The Individual Services are free of charge.
+Users are entitled to install and use Software on Client PCs that they personally own.
 
-Article 4: Duplication
+Article 4: Use of Paid Services
+-------------------------------
+
+1.  This Individual Service is generally available free of charge. However, Users may subscribe to a Paid Service to access additional features and services.
+2.  To use a Paid Service, Users must subscribe through the Website or the Software. Details regarding subscription fees and service features are available on the Website or within the Software.
+3.  Unless canceled using one of the methods described below, subscriptions to Paid Services will automatically renew at the end of each subscription period.
+    *   Subscriptions purchased through the Website: Cancel using the method designated by the Company.
+    *   Subscriptions purchased through the Software (Apple App Store): Cancel through Apple's subscription management system.
+    *   Subscriptions purchased through the Software (Steam): Cancel through Steam's subscription management system.
+4.  Users may cancel a Paid Service as described above. If a subscription is canceled during an active subscription period, the Paid Service will remain available until the end of that period and will then terminate.
+5.  If a User deletes their account during an active subscription period, the Company will not refund any fees already paid for the Paid Service.
+6.  The Company has no obligation to store, retain, or back up data created using the Software. Users are solely responsible for managing and backing up their own data. Except in cases of willful misconduct or gross negligence of the Company, the Company shall not be liable for any loss, corruption, or other damage relating to User data.
+7.  If a user is unable to use a Paid Service due to the Company's willful misconduct or gross negligence, and such unavailability continues for more than 24 consecutive hours after the Company becomes aware of the issue, the Company may, at its discretion, either: compensate the User for actual damages incurred, up to an amount equal to the monthly subscription fee for the User's plan multiplied by the number of days of service unavailability (rounded down to the nearest whole day, with any fractional yen discarded), or extend the subscription period by a length corresponding to the period of service unavailability.
+
+Article 5: Cancellation of Paid Services
+----------------------------------------
+
+1.  Users who wish to cancel a Paid Service must complete the cancellation process by the following deadlines:
+    *   Subscriptions purchased through the Website or Steam: no later than one day before the next renewal date.
+    *   Subscriptions purchased through the Software (Apple App Store): no later than two days before the next renewal date.
+2.  If cancellation is not completed by the applicable deadline above, the subscription will automatically renew for a period equal to the current subscription term, and the corresponding subscription fee will be charged.
+
+Article 6: Duplication
 ----------------------
 
 1.  Users are entitled to produce duplicates of Software generally only for backup purposes for such User itself.
 2.  Notwithstanding the preceding paragraph, only with separate prior written consent of the Company, Users may duplicate the Software for the purpose of distribution the duplicates of the Software to unspecified others.
 3.  Unless otherwise specified, Users shall not produce duplicates of the Software for any purposes or in any manners other than specified in preceding two paragraphs.
 
-Article 5: Prohibited Acts
+Article 7: Prohibited Acts
 --------------------------
 
-Users may not engage in the acts indicated in any of the following items when using Software. In cases where a User has engaged in an act falling under any of the following or act that may cause such act (hereinafter collectively referred to as “Prohibited Act”), regardless of whether the act arose through willful misconduct or negligence, the Company shall be entitled to deem said act as a violation, and may rescind the usage rights of, or may delete, alter or adopt other disadvantageous measures or other measures deemed necessary by the Company in respect of all or some Software-related data against, the User who committed the Prohibited Act.
+Users may not engage in the acts indicated in any of the following items when using Software. In cases where a User has engaged in an act falling under any of the following or act that may cause such act (hereinafter collectively referred to as "Prohibited Act"), regardless of whether the act arose through willful misconduct or negligence, the Company shall be entitled to deem said act as a violation, and may rescind the usage rights of, or may delete, alter or adopt other disadvantageous measures or other measures deemed necessary by the Company in respect of all or some Software-related data against, the User who committed the Prohibited Act.
 
 1.  Acts that the Company judges to violate laws/regulations, public order and morality, or these Individual Terms of Use or other conditions of use etc., or to infringe the rights of others;
 2.  Duplicating Individual Services or Software for the purposes of selling the same to third parties;
@@ -2625,14 +2646,14 @@ Users may not engage in the acts indicated in any of the following items when us
 8.  Using Provided Content, or 3D models or Output Items containing Provided Content, to create applications that can generate or output avatars, items, or other 3D models consisting of deformed or combined meshes and textures.
 9.  Acts that are prohibited in Article 14 of pixiv Master Terms of Use or related guidelines.
 
-Article 6: Upgrades and Suspension of Provision etc.
+Article 8: Upgrades and Suspension of Provision etc.
 ----------------------------------------------------
 
 1.  The Company may modify or improve Individual Services without advance notification.
 2.  Unless notified or Individual Terms of Use being modified by the Company, the use of modified or improved Individual Services shall be free of charge.
 3.  The Company is entitled to alter the contents of or the method of provision of Individual Service; or, temporarily suspend or discontinue the provision of Individual Services Software at any time without notice to Users if the Company judges such action necessary.
 
-Article 7: No-Guarantees
+Article 9: No-Guarantees
 ------------------------
 
 1.  The Company makes no guarantees regarding the following items. The Company is not obligated to eliminate defects etc. relating such items in providing Individual Services to Users.
@@ -2645,8 +2666,8 @@ Article 7: No-Guarantees
 2.  The fact that an external site is linked from information provided in Individual Services shall not imply the existence of any commercial relationship whatsoever between the Company and such external site. Further, external sites linked from Individual Services are not managed or operated by the Company, and the Company shall bear no liability in regard to the lawfulness, morality, reliability or accuracy of the content of such sites or in regard to site changes, updates or the like.
 3.  Users, when using Individual Services or information that has come to their knowledge through Individual Services, must comply with the laws and regulations of the countries and/or regions in which they engage in such use, and the Company shall bear no liability in regard to such Users’ violations of laws or regulations.
 
-Article 8: Disclaimers
-----------------------
+Article 10: Disclaimers
+-----------------------
 
 1.  The Company will make utmost effort to ensure that Individual Services are beneficial to all Users, but the Company’s liability to Users shall be limited to managing Individual Services, through reasonable efforts, to ensure that Users can use Services without any trouble.
 2.  The Company shall be exempt from providing compensation or indemnification to Users for any damage, loss or other expenses suffered in conjunction with the following items and shall bear no liability to Users regardless of whether the relevant damage etc. was direct or indirect and regardless of whether the relevant damage etc. could have been foreseen:
@@ -2656,37 +2677,37 @@ Article 8: Disclaimers
     4.  mistakes occurring in the course of Users’ use of Individual Services;
     5.  any defect, temporary suspension, partial deletion, modification or termination in/of the content of Individual Services;
     6.  any disputes etc. between Users or between Users and other third parties that arise as a result of use of Individual Services; or
-    7.  the items prescribed in Article 7 regarding which the Company makes no guarantees.
+    7.  the items prescribed in Article 9 regarding which the Company makes no guarantees.
 3.  The Company will bear no liability for any disputes or other issues that arise in conjunction with communications, activities or transactions between Users and/or other third parties. In the event that a dispute has arisen between Users, said dispute shall be resolved between the relevant Users, and the Company will have no involvement whatsoever. When in cases that resulted in damage of the Company due to a dispute, all expense including legal expense etc. shall be paid by the person concerned by joint and several obligation.
 4.  The paragraph 11 of Article 24 of pixiv Master Terms of Use shall apply to Individual Services and these Individual Terms.
 
-Article 9: Ownership of Intellectual Property Rights
-----------------------------------------------------
+Article 11: Ownership of Intellectual Property Rights
+-----------------------------------------------------
 
 1.  All Intellectual Property Rights and other rights to Software, information associated therewith, websites, products, programs, applications, logos, documents and other merchandise etc. will belong to the Company.
 2.  All Intellectual Property Rights and other rights to avatars, items, and other 3D models created using Software will belong to the Users that created such models; provided, however, that when such a model includes copyrighted works or other intellectual property etc. of the Company or third parties, such copyrighted works or other intellectual property etc. will belong to the Company or such third parties.
 3.  When a model of the preceding paragraph contains copyrighted works or other intellectual property etc. for which rights are assigned to someone other than the User that created such model (including Provided Content, Software, and all other data provided by the Company), the User shall appropriately follow the licenses and other conditions of use imposed on use of such copyrighted works, and the Company will not be held liable for any adversity suffered as a result of any breach of such licenses etc.
 
-Article 10: Scope of Use of Output Items
+Article 12: Scope of Use of Output Items
 ----------------------------------------
 
 1.  Users will be licensed to use Output Items for any purpose, as long as they do not breach the license conditions specified for any Provided Content used in 3D models created using Software.
 2.  Users will be licensed to set licenses freely for VRM data constituting Output Items, as long as they do not breach the license conditions for Provided Content used in 3D models created using the Software.
 3.  Notwithstanding the provisions of the preceding two paragraphs, when an Output Item includes copyrighted works or other intellectual property etc. for which rights are assigned to someone other than the User that created the relevant 3D model, the User shall appropriately follow the licenses etc. of such copyrighted works etc., and the Company will not be held liable for any adversity suffered of Users as a result of any breach of such licenses etc.
 
-Article 11: License Conditions and Restrictions on Provided Content
+Article 13: License Conditions and Restrictions on Provided Content
 -------------------------------------------------------------------
 
 1.  The Company will grant Users a non-exclusive, perpetual, worldwide, non-transferable, non-sublicensable license to use, duplicate, archive, modify, and display Provided Content, subject to restrictions common to all licenses, for (1) any purpose and (2) any use, except where different license conditions are specified and displayed for individual items of Provided Content.
 2.  Where the Company has specified and displayed license conditions for individual items of Provided Content, Users will use such Provided Content in accordance therewith.
 3.  Notwithstanding the provisions of the preceding two paragraphs, Users are not licensed to use Provided Content, or 3D models or Output Items containing Provided Content, to create applications having functions that allow avatars, items, or other 3D models to be created by deforming meshes or combining meshes or textures. When a User wishes to create an application containing such a function, they must receive a separate license from the Company; provided, however, that this does not apply when the User is creating the application for personal use.
 
-Article 12: Open-Source Software
+Article 14: Open-Source Software
 --------------------------------
 
 Notwithstanding the provisions of these Terms, open-source software set forth separately will be licensed to Users in accordance with the respective licensing terms applicable to such software.
 
-Article 13: Revocation of Usage Rights
+Article 15: Revocation of Usage Rights
 --------------------------------------
 
 1.  If a User breaches these Individual Terms of Use, the Company is entitled to revoke such User’s right to use Software.
@@ -2698,9 +2719,13 @@ Supplementary Provisions
 *   These Individual Terms of Use will come into effect on July 31, 2018.
 *   Conducts done before enforcement of the Individual Terms of Use are also applied to this Individual Terms of Use.
 
-Revision
---------
+Revisions
+---------
 
+*   June 24th, 2026
+    
+    > In connection with the introduction of the paid service VRoid Plus, the fee provisions have been revised and new articles regarding paid services, cancellation, and data management have been added. As a result, the numbering of former Article 4 and subsequent articles has been shifted accordingly.
+    
 *   December 21st, 2023
     
     > Creation of applications with output features in violation of Article 5 is expressly prohibited.
