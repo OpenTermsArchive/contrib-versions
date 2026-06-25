@@ -9,9 +9,7 @@ Summary of these Terms
 Along with the Terms on this page, two other documents form part of our contract with you:
 
 *   Our [How we Work page](https://www.booking.com/content/how_we_work.en-gb.html?aid=304142) helps you use our Platform and understand our reviews, rankings, recommendations, how we make money, and more.
-    
 *   Our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142) help us keep everything on our Platform relevant to and appropriate for our global audience without limiting freedom of expression. They tell you how we manage content and online safety and take action against anything inappropriate.
-    
 
 By agreeing to our Terms, you agree to everything in all three documents. If you don’t accept any of these Terms, please do not use our Platform.
 
@@ -27,69 +25,39 @@ Table of contents
 -----------------
 
 *   [A. All Travel Experiences](#may_25_table_1)
-    
 *   [B. Accommodations](#may_25_table_2)
-    
 *   [C. Attractions](#may_25_table_3)
-    
 *   [D. Car rentals](#may_25_table_4)
-    
 *   [E. Flights](#may_25_table_5)
-    
 *   [F. Private and Public Transport](#may_25_table_6)
-    
 *   [Booking.com dictionary](#may_25_table_7)
-    
 *   [Previous terms of service](#may_25_header_2)
-    
 
 A. All Travel Experiences
 -------------------------
 
 *   [A1. Definitions](#may_25_a1_title)
-    
 *   [A2. About these terms](#may_25_a2_title)
-    
 *   [A3. About Booking.com](#may_25_a3_title)
-    
 *   [A4. Our Platform](#may_25_a4_title)
-    
 *   [A5. Our values](#may_25_a5_title)
-    
 *   [A6. Your experience with our Platform](#may_25_a6_title)
-    
 *   [A7. Prices](#may_25_a7_title)
-    
 *   [A8. Payment](#may_25_a8_title)
-    
 *   [A9. Policies](#may_25_a9_title)
-    
 *   [A10. Privacy and cookies](#may_25_a10_title)
-    
 *   [A11. Accessibility requests](#may_25_a11_title)
-    
 *   [A12. Insurance](#may_25_a12_title)
-    
 *   [A13. Genius](#may_25_a13_title)
-    
 *   [A14. Rewards, Credits & Wallet](#may_25_a14_title)
-    
 *   [A15. Intellectual property rights](#may_25_a15_title)
-    
 *   [A16. What if something goes wrong?](#may_25_a16_title)
-    
 *   [A17. Communication with the Service Provider](#may_25_a17_title)
-    
 *   [A18. Measures against unacceptable behaviour](#may_25_a18_title)
-    
 *   [A19. Limitation of liability](#may_25_a19_title)
-    
 *   [A20. Applicable law and forum](#may_25_a20_title)
-    
 *   [A21. Linked travel arrangements](#may_25_a21_title)
-    
 *   [A22. Modification clause](#may_25_a22_title)
-    
 
 ### A1. Definitions
 
@@ -104,22 +72,14 @@ A. All Travel Experiences
 3\. These Terms are laid out like this:
 
 *   Section A: General terms for all types of Travel Experiences.
-    
 *   Sections B to F: Specific terms for just one type of Travel Experience:
     
     *   Section B: Accommodations
-        
     *   Section C: Attractions
-        
     *   Section D: Car rentals
-        
     *   Section E: Flights
-        
     *   Section F: Private and Public Transport
-        
-    
 *   The specific terms will apply if there’s any mismatch between general and specific terms.
-    
 
 4\. The English version of these Terms is the original. If there’s any dispute about the Terms or any mismatch between the Terms in English and another language, the Terms as they appear in English will apply unless local law requires otherwise. (You can change the language at the top of this page.)
 
@@ -132,17 +92,11 @@ A. All Travel Experiences
 3\. We work with companies that provide local support services (e.g. Customer Support or account management). They don’t:
 
 *   control or manage our Platform
-    
 *   have their own Platform
-    
 *   have any legal or contractual relationship with you
-    
 *   provide Travel Experiences
-    
 *   represent us, or enter into contracts, or accept legal documents in our name
-    
 *   operate as our ‘process or service agents’.
-    
 
 ### A4. Our Platform
 
@@ -163,17 +117,11 @@ A. All Travel Experiences
 1\. You will:
 
 *   abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?aid=304142)
-    
 *   comply with all applicable laws
-    
 *   cooperate with any anti-fraud/anti-money laundering checks we need to carry out
-    
 *   not use the Platform to cause a nuisance or make fake bookings
-    
 *   use the Travel Experience and/or Platform for their intended purpose
-    
 *   not cause any nuisance or damage, and not behave inappropriately to the Service Provider’s personnel (or anyone else, for that matter).
-    
 
 ### A6. Your experience with our Platform
 
@@ -196,9 +144,7 @@ A. All Travel Experiences
 1\. For some products/services, the Service Provider will require an upfront payment and/or payment during your Travel Experience.
 
 *   If we organise your payment, we (or, in some cases, our affiliate) will be responsible for managing it and ensuring the completion of your transaction with our Service Provider. In this case, your payment constitutes the final settlement of the 'due and payable' price.
-    
 *   If the Service Provider charges you, this will usually be in person at the start of your Travel Experience, but it could also be, for example, that your credit card is charged when you book or you pay when you check out of your Accommodation. This depends on the Service Provider's upfront payment policy, as communicated to you in the booking process.
-    
 
 2\. If the Service Provider requires an upfront payment, it may be taken or pre-authorised when you make your booking, and it may be non-refundable. So, before you book, please check the Service Provider’s upfront payments policy (available during the booking process), which we don’t influence and aren’t responsible for. This does not affect your rights if you have any problems with your Travel Experience – please refer to ‘What if something goes wrong?’ (A16).
 
@@ -211,20 +157,14 @@ A. All Travel Experiences
 5\. If the currency selected on the Platform isn't the same as the Service Provider's currency, we may:
 
 *   show prices in your own currency
-    
 *   offer you the Pay In Your Own Currency option.
-    
 
 6\. Pay In Your Own Currency. We (and/or one of our affiliates) may provide you with the ability to pay for your booking in your own currency (your ‘home currency’), based on your location and/or account setting – and in respect of this service only; we do this as principal, rather than as agent for the Service Provider. Where you use this service, you agree to the following terms, which are separate to your contract with the Service Provider related to your Travel Experience. The Service Provider is not involved in the provision of the Pay In Your Own Currency service and is not party to the following terms, which do not give you any extra rights under your contract with the Service Provider. If you choose to pay in the Service Provider’s currency, the following terms don’t apply.
 
 *   For the avoidance of doubt, when you use Pay In Your Own Currency, we are simply enabling you to make payment in your own currency while we ensure that the Service Provider is paid in their local currency. As such, you are not making payment in one currency and receiving another currency.
-    
 *   If you choose to use Pay In Your Own Currency, all fees and charges from us for use of the Pay In Your Own Currency service either (a) are included in the exchange rate or (b) appear as a separate line item (included in the total price displayed where applicable) during the checkout process.
-    
 *   The exchange rate is determined when the total payment (or estimated total payment) is displayed during the checkout process. Where applicable, the total price displayed will be the amount charged by us to you. Certain fees and charges that are part of the total price displayed will, however, be collected directly by the Service Provider. We will tell you when this is the case during the checkout process.
-    
 *   If you cancel a reservation within any permitted cancellation period which may apply, we will refund you the exact same amount we initially charged you (inclusive of any applicable fees in relation to the Pay in Your Own Currency Service).
-    
 
 7\. After collecting your consent, We will store your payment method details for future transactions.
 
@@ -253,9 +193,7 @@ A. All Travel Experiences
 1\. If you have any accessibility requests:
 
 *   about our Platform and/or services, please contact our Customer Service team
-    
 *   about your Travel Experience (wheelchair access, walk-in baths, etc.), please contact your Service Provider or the airport, train station, etc.
-    
 
 ### A12. Insurance
 
@@ -300,28 +238,18 @@ We reserve the right to audit any and all accounts in the Rewards & Wallet progr
 8\. To be able to receive any type of Rewards from us, you must, at the time of qualification and spending:
 
 *   have a verified Account with us
-    
 *   be at least 18 years old
-    
 *   meet the Individual Reward Criteria
-    
 *   not violate the Rewards & Wallet Terms, and
-    
 *   have a valid credit card, if you need to qualify for Credit Card Cashback Rewards.
-    
 
 9\. When a Reward is available for earning, the Individual Reward Criteria will explain how (and if) you can qualify for it. These criteria may contain and not be limited to:
 
 *   time-sensitive restrictions (e.g. offers with expiration dates)
-    
 *   platform restrictions (e.g. promotional codes that can only be used in our app)
-    
 *   Accommodation service restrictions (e.g. offers that can only be used with specific Service Providers)
-    
 *   a minimum spend (e.g. a Reward that you’ll only earn when you spend at least a certain amount on a Booking), and
-    
 *   a maximum Reward value (for both monetary and non-monetary Rewards).
-    
 
 10\. Rewards cannot be sold, encumbered or transferred in any way to a third party. In the event of an Account holder’s death, their Account will be closed and any Rewards that are pending or available for spending in the Wallet will be cancelled.
 
@@ -358,11 +286,8 @@ For some products/services, the Service Provider will require an Upfront Payment
 23\. Your obligations:
 
 *   You’re responsible for making sure that all information is (and stays) correct, complete and up to date
-    
 *   If we ask you for proof of ID, please provide it within 30 days
-    
 *   You’re responsible for keeping your Account sign-in details safe and secure in order to safeguard your Wallet.
-    
 
 24\. If you don’t follow the rules in this section, we may automatically suspend or cancel your Wallet.
 
@@ -373,11 +298,8 @@ For some products/services, the Service Provider will require an Upfront Payment
 27\. We may change, suspend or end any aspect of the Wallet or Rewards programme. In particular, we might change:
 
 *   these Rewards & Wallet terms
-    
 *   eligibility criteria
-    
 *   which Rewards we provide
-    
 
 28\. We will make reasonable efforts to give you prior notice if we make any changes or we stop providing the Wallet service altogether.
 
@@ -392,30 +314,19 @@ For some products/services, the Service Provider will require an Upfront Payment
 3\. We keep a close eye on every visit to our Platform, and we’ll block anyone (and any automated system) we suspect of:
 
 *   conducting an unreasonable amount of searches
-    
 *   using any device or software to gather prices or other information
-    
 *   doing anything that places undue stress on our Platform
-    
 *   using automated assistants (including AI-powered assistants) to access the Platform without express permission
-    
 
 4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142) and that:
 
 *   it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
-    
 *   it doesn’t contain any viruses
-    
 *   you’re allowed to share it with us
-    
 *   you own (or are allowed to use) any intellectual property rights that it contains
-    
 *   we’re allowed to use it on our Platform and for any other commercial purposes (including marketing and advertising), on any media, worldwide – unless you ask us to stop using it
-    
 *   it doesn’t infringe the privacy rights of other people
-    
 *   you accept full responsibility for any legal claims against Booking.com related to it.
-    
 
 5\. Just to make it clear: we’re not responsible and liable for any picture uploaded to our Platform, we’re allowed to remove any picture upon our discretion (for instance, if we detect that a picture does not meet the criteria).
 
@@ -424,20 +335,15 @@ For some products/services, the Service Provider will require an Upfront Payment
 1\. If you have a query or complaint, please contact our Customer Service team. You can do so by sending mail to our postal address (Postbus 1639, 1000 BP, Netherlands), or through our [Help Centre](https://secure.booking.com/help.en-gb.html?aid=304142), where you’ll also find useful FAQs, by calling us on our phone numbers, or sending us a message. You can help us help you as quickly as possible by providing, if available:
 
 *   your booking confirmation number, your contact details, your reservation PIN code and the email address you used when you made your booking (if you have one)
-    
 *   a summary of the issue, including how you’d like us to help you
-    
 *   any supporting documents (bank statement, pictures, receipts, etc.)
-    
 
 2\. All queries and complaints are recorded in an identifiable way, allowing you to easily track their status.The most urgent ones are treated as highest priority.
 
 3\. If you're a resident of the European Economic Area and you’re not happy with the way we handle your complaint, you may be able to complain via the European Commission's ODR (Online Dispute Resolution) platform ([ec.europa.eu/odr](https://ec.europa.eu/odr)). It depends on what your complaint was about:
 
 *   if it was about an accommodation, flight or attraction, you can use that ODR platform
-    
 *   if it was about ground transport, you can’t (because ground transport is booked with Booking.com Transport Limited, and the UK has left the EU).
-    
 
 Please note that you will not be able to submit any new claims via the ODR from 20 March 2025, the day the ODR will be discontinued. For more information on the discontinuation of the ODR, please check out the [European Commission’s website](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32024R3228).
 
@@ -458,18 +364,12 @@ Please note that you will not be able to submit any new claims via the ODR from 
 1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?aid=304142) and our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142)) or fail to comply with applicable laws or regulations, we have the right to:
 
 *   stop you making any bookings,
-    
 *   cancel any bookings you’ve already made,
-    
 *   stop you using:
     
     *   our Platform,
-        
     *   our Customer Service,
-        
     *   your Account
-        
-    
 
 2\. If we cancel a booking as a result, you may not (depending on the circumstances) be entitled to a refund. We may tell you why we've cancelled your booking, unless telling you would (a) contravene applicable laws and/or (b) prevent or obstruct the detection or prevention of fraud or other illegal activities. If you believe we have incorrectly cancelled your booking, please contact our Customer Service team.
 
@@ -484,11 +384,8 @@ Please note that you will not be able to submit any new claims via the ODR from 
 3\. We are not liable for:
 
 *   any losses or damages which were not reasonably foreseeable when you made your booking or otherwise entered into these Terms; or
-    
 *   any event which was reasonably beyond our control,
-    
 *   mistake in an email address, phone number or credit card number (unless it’s our fault).
-    
 
 4\. We make no promises about the Service Provider’s products and services other than those expressly stated in these Terms, for example, in Section A4.
 
@@ -509,12 +406,8 @@ If you are a consumer living outside Europe, to the extent permitted by mandator
 *   You may bring a legal action against us:
     
     *   in the courts of the country where you live, or
-        
     *   in the courts in Amsterdam (for accommodations, flights or attractions) or England and Wales (for car rentals and private/public transport).
-        
-    
 *   We may bring legal action against you in the courts of the country where you live.
-    
 
 If you are a consumer living outside Europe, to the extent permitted by mandatory local (consumer) law, any dispute will exclusively be submitted to the court in Amsterdam (for accommodations, flights or attractions) or England and Wales (for car rentals and private/public transport).
 
@@ -523,9 +416,7 @@ If you are a consumer living outside Europe, to the extent permitted by mandator
 1\. If:
 
 *   after selecting and paying for one travel service, you book additional travel services for your trip or holiday during the same visit to the Platform; or
-    
 *   you book additional travel services for your trip or holiday via a link provided to you by us not later than 24 hours after receiving confirmation of your initial booking with us,
-    
 
 you will NOT benefit from rights applying to packages under the [EU’s Directive (EU) 2015/2302](https://ec.europa.eu/info/files/nl-transposition-law-package-travel-directive_nl) or the [UK's Package Travel and Linked Travel Arrangements Regulations 2018](https://www.legislation.gov.uk/uksi/2018/634/contents) (together, the ‘Package Travel Requirements’). Therefore, we will not be responsible for the proper performance of those travel services. In case of problems, please contact the relevant Service Provider.
 
@@ -589,19 +480,12 @@ B. Accommodations
 -----------------
 
 *   [B1. Scope of this section](#may_25_b1_title)
-    
 *   [B2. Contractual relationship](#may_25_b2_title)
-    
 *   [B3. What we will do](#may_25_b3_title)
-    
 *   [B4. What you need to do](#may_25_b4_title)
-    
 *   [B5. Price and payment](#may_25_b5_title)
-    
 *   [B6. Amendments, cancellations and refunds](#may_25_b6_title)
-    
 *   [B7. What else do you need to know?](#may_25_b7_title)
-    
 
 ### B1. Scope of this section
 
@@ -652,64 +536,40 @@ B. Accommodations
 We Price Match checklist
 
 *   The other offer must be for the same property and accommodation type.
-    
 *   The other offer must be for the same check in and check out dates.
-    
 *   The other offer must have the same cancellation policy and conditions.
-    
 *   The other offer must be for the same number of occupants
-    
 *   The other offer must have the same add-on / meal plan.
-    
 *   The better deal must be in the local currency of the property.
-    
 
 When can't you make a claim?
 
 *   If the other offer is on a website that doesn’t reveal the property or accommodation type you’ll be staying in until after booking.
-    
 *   If the other offer is available on an opaque, suspicious and/or likely to be fraudulent website.
-    
 *   If the other offer is part of a loyalty or rewards program, where the price is reduced by the property or website for actions like repeat business, logging in, using a coupon code, referring others, or any other action that reduces the original price.
-    
 *   If your current Booking.com reservation is a ‘Partner offer’ (these are labelled as such on our platform and are provided by partner companies) or if you're comparing the other offer to a ‘Partner Offer’ on our platform.
-    
 *   If you cancel your booking.
-    
 *   If you book a single-unit property, which by nature cannot be available elsewhere.
-    
 *   Booking.com reserves the right to make the sole determination regarding a customer's eligibility to receive the price match.
-    
 
 Found your booking cheaper elsewhere?
 
 1.  Look for ‘Found this room cheaper elsewhere?’ on your confirmation page.
-    
 2.  Validate that the cheaper offer meets all the requirements (review checklist).
-    
 3.  Save the link to the cheaper offer (Example: www.hotel.com/93203920).
-    
 4.  Take a screenshot (or multiple) making sure all the relevant data is captured (review checklist).
-    
 5.  Contact Customer Service.
-    
 6.  After claim validation, we will amend the reservation price (if possible) or provide further instruction for you to claim an after stay refund of the price difference.
-    
 7.  Booking.com reserves the right to make the sole determination regarding a customer's eligibility to receive the price match.
-    
 
 #### Partner offer
 
 2\. Some offers on our Platform are marked as 'Partner offers', which means they come to us through a Booking.com partner company rather than straight from a Service Provider. Unless otherwise indicated, any Partner offer that you reserve:
 
 *   Must be paid for at the time of booking
-    
 *   Can't be modified. However, if it offers free cancellation, you will be able to cancel it for free, as long as you do it in time.
-    
 *   Can't be combined with any other offers (promotions, incentives or rewards)
-    
 *   Can't be scored or reviewed on our Platform.
-    
 
 Please note that if you book a Partner Offer, the invoice will be issued by the partner company or the property, not by Booking.com directly.
 
@@ -726,16 +586,11 @@ Please note that if you book a Partner Offer, the invoice will be issued by the 
 5\. When you’re booking, you may find that some Service Providers refer to a ‘damage policy’. This means that if anyone in your group loses or damages anything:
 
 *   you should inform the Service Provider
-    
 *   instead of charging you for it directly, the Service Provider will have 14 days to submit a damage payment request through our Platform under your reservation number
-    
 *   if they do, we’ll tell you so you can tell us if you have any comments and whether or not you agree with the charge – and then:
     
     *   if you agree, we’ll charge you on their behalf
-        
     *   if you disagree, we’ll look into it, and if we consider that there is cause for further investigation, we will contact you to discuss the next steps.
-        
-    
 
 6\. Under the damage policy, there’s a limit to how much a Service Provider can charge you through our Platform (the limit is displayed while you’re booking). However, the Service Provider can start a legal claim against you outside of the damage policy, in which case the limit doesn’t apply.
 
@@ -753,19 +608,12 @@ C. Attractions
 --------------
 
 *   [C1. Scope of this section](#may_25_c1_title)
-    
 *   [C2. Contractual relationship](#may_25_c2_title)
-    
 *   [C3. What we will do](#may_25_c3_title)
-    
 *   [C4. What you need to do](#may_25_c4_title)
-    
 *   [C5. Price and payment](#may_25_c5_title)
-    
 *   [C6. Amendments, cancellations and refunds](#may_25_c6_title)
-    
 *   [C7. What else do you need to know?](#may_25_c7_title)
-    
 
 ### C1. Scope of this section
 
@@ -809,19 +657,12 @@ D. Car rentals
 --------------
 
 *   [D1. Scope of this section](#may_25_d1_title)
-    
 *   [D2. Contractual relationship](#may_25_d2_title)
-    
 *   [D3. What we will do](#may_25_d3_title)
-    
 *   [D4. What you need to do](#may_25_d4_title)
-    
 *   [D5. Price and payment](#may_25_d5_title)
-    
 *   [D6. Amendments, cancellations and refunds](#may_25_d6_title)
-    
 *   [D7. What else do you need to know?](#may_25_d7_title)
-    
 
 ### D1. Scope of this section
 
@@ -834,9 +675,7 @@ D. Car rentals
 2\. When you book a rental, your booking is either (a) with us or (b) directly with the Service Provider. Either way:
 
 *   our Terms govern the use of the Platform up until you pick up the rental;
-    
 *   the Rental Agreement governs the rental itself; when you sign this at the rental counter, you’ll enter a contract with the Service Provider (but you’ll review and accept its key terms while you’re booking your car).
-    
 
 Throughout Section D, ‘Service Provider’ means the rental company that provides the car.
 
@@ -855,9 +694,7 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 3\. Once you’ve booked your rental:
 
 *   we’ll give the Service Provider the booking details (e.g. the Main Driver's name and contact phone number)
-    
 *   we’ll confirm the pick-up information (e.g. the Service Provider's contact details and what you need to take with you).
-    
 
 ### D4. What you need to do
 
@@ -866,20 +703,14 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 2\. You must read and agree to comply with these Terms and the Rental Agreement – and acknowledge that if you breach them:
 
 *   you might have to pay additional charges
-    
 *   your booking might be cancelled
-    
 *   the counter staff might refuse to hand over the keys at the rental counter.
-    
 
 3\. You must check your rental's specific requirements, as many details (driving licence requirements, security deposit size, paperwork needed, payment cards accepted, etc.) vary per rental. So please make sure you carefully read:
 
 *   these Terms
-    
 *   the key terms of the Rental Agreement, which you'll review while you’re booking, and
-    
 *   the Rental Agreement itself, which you'll receive at pick-up.
-    
 
 4\. You must be at the rental counter by your pick-up Time (note that some Service Providers have a pick-up ‘grace period’ in case you are delayed). If you arrive after the pick-up Time (and after the pick-up grace period, if any), the car may no longer be available, and you may not be entitled to a refund from the Service Provider. Please check the Rental Agreement for further information (while you're booking your car, please check 'Important info', which informs you of any grace period and which you accept at checkout). If you think you might be late, it's vital that you contact the Service Provider or us, even if it's because of a flight delay and you’ve provided your flight number.
 
@@ -898,11 +729,8 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 11\. You must, if anything goes wrong during your rental(accident, breakdown, etc.):
 
 *   contact the Service Provider
-    
 *   not authorise any repairs without the Service Provider's consent (unless the Rental Agreement allows this)
-    
 *   Keep all documentation (repair bills, police reports, etc.) to share with us, the Service Provider, and/or the insurance company.
-    
 
 ### D5. Price and payment
 
@@ -927,9 +755,7 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 8\. In other cases, you'll merely request any extras when you book your car – in which case:
 
 *   you'll pay for them at pick-up, and
-    
 *   the Service Provider doesn't guarantee they'll be available for you.
-    
 
 ### D6. Amendments, cancellations and refunds
 
@@ -938,29 +764,21 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 2\. The following ‘Cancellation and Amendments’ terms apply to all bookings apart from where a credit card is required to reserve a pay-at-pick-up booking (the cancellation policy depends on the Service Provider, and details will be made available in the booking funnel); and
 
 *   bookings that are labelled ‘non-refundable’ (you cannot amend a non-refundable booking, and you won’t receive a refund if you cancel it).
-    
 
 #### Cancellations
 
 3\. If you cancel:
 
 *   MORE THAN 48 hours before your rental is due to start, you’ll receive a full refund.
-    
 *   LESS THAN 48 hours before, or while you’re at the rental counter, we’ll refund what you paid minus the cost of 3 days of your rental – so there won’t be any refund if your car was booked for 3 days or less.
-    
 *   AFTER your rental is due to start (or you just don’t turn up) you’ll receive no refund.
-    
 
 4\. The counter staff may refuse you the car if (for example):
 
 *   You don’t arrive on time
-    
 *   You are not eligible to rent the car
-    
 *   You don’t have the documentation you need
-    
 *   The main driver doesn’t have a credit card in their own name with enough funds available for the car’s security deposit.
-    
 
 For more on your Service Provider’s rules, please refer to the ‘Important Information’ that’s available while booking – or the Rental Agreement that you sign at the counter.
 
@@ -1002,19 +820,12 @@ E. Flights
 ----------
 
 *   [E1. Scope of this section](#may_25_e1_title)
-    
 *   [E2. Contractual relationship](#may_25_e2_title)
-    
 *   [E3. What we will do](#may_25_e3_title)
-    
 *   [E4. What you need to do](#may_25_e4_title)
-    
 *   [E5. Price and payment](#may_25_e5_title)
-    
 *   [E6. Amendments, cancellations and refunds](#may_25_e6_title)
-    
 *   [E7. What else do you need to know?](#may_25_e7_title)
-    
 
 ### E1. Scope of this section
 
@@ -1085,9 +896,7 @@ E. Flights
 7\. If you buy two one-way tickets rather than a single round-trip ticket:
 
 *   you’ll be making two separate bookings, each with its own rules and policies
-    
 *   any changes to one Flight will not affect the other (for example, if your initial Flight is cancelled, you won’t be guaranteed a refund for your second Flight).
-    
 
 8\. If you’re travelling abroad, you may need to prove to the Check-in and/or Immigration staff that you have a return Flight (check ‘International travel’ for more on passports, visas, etc).
 
@@ -1100,9 +909,7 @@ E. Flights
 10\. Depending on which Flight you choose, you may be charged a service fee by us and/or the Third-Party Aggregator.
 
 *   Our service fee (if any) is for using our Platform so you can buy a ticket from a Third-Party Aggregator. This fee includes any applicable VAT/GST/similar taxes.
-    
 *   The Third-Party Aggregator’s service fee (if any) is a fee for using them as intermediary to the airline(s). This fee may include any applicable VAT/GST/similar taxes.
-    
 
 11\. The price of your ticket will include any service fee(s).
 
@@ -1119,15 +926,10 @@ E. Flights
 15\. It’s your responsibility to:
 
 *   carry a valid passport and/or visa if required
-    
 *   comply with any entry requirements
-    
 *   find out if you need a visa to pass through a country that isn’t your final destination
-    
 *   check with the relevant embassy in advance to confirm if there’s been any change in passport, visa or entry requirements
-    
 *   review any warnings or advice from your country of residence/origin before you go to/through a country or region.
-    
 
 16\. By arranging travel to or from any location, we are not guaranteeing that it is without risk – and, to the fullest extent permitted by law, we will not be liable for any resulting damages or losses.
 
@@ -1156,11 +958,8 @@ E. Flights
 25\. If your flight is delayed or cancelled, or you’re denied boarding, you may be entitled to compensation/assistance under [EU Regulation 261/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1476179175834&uri=CELEX:32004R0261) if:
 
 *   You’re flying into the European Union (EU)
-    
 *   You’re flying out of the EU
-    
 *   Your Flight is provided by an EU airline
-    
 
 #### EU: Airline carrier liability under EU Regulation 889/2002
 
@@ -1178,19 +977,12 @@ F. Private and Public Transport
 -------------------------------
 
 *   [F1. Scope of this section](#may_25_f1_title)
-    
 *   [F2. Contractual relationship](#may_25_f2_title)
-    
 *   [F3. What we will do](#may_25_f3_title)
-    
 *   [F4. What you need to do](#may_25_f4_title)
-    
 *   [F5. Price and payment](#may_25_f5_title)
-    
 *   [F6. Amendments, cancellations and refunds](#may_25_f6_title)
-    
 *   [F7. What else do you need to know?](#may_25_f7_title)
-    
 
 ### F1. Scope of this section
 
@@ -1223,11 +1015,8 @@ F. Private and Public Transport
 2\. You must make sure everyone in your group complies with our Terms and (where applicable) the Service Provider’s terms, which you saw and accepted during the booking process. You acknowledge that if you breach them:
 
 *   you might have to pay additional charges
-    
 *   your booking might be cancelled
-    
 *   your driver may refuse to transport you.
-    
 
 3\. You must bear in mind that estimated journey times don’t take traffic conditions into account.
 
@@ -1262,18 +1051,14 @@ F. Private and Public Transport
 1\. In most cases:
 
 *   Pre-Booked Private Transport. You can cancel for free up to 24 hours before your pick-up time (2 hours in some cases – please review your confirmation). If you don't cancel on time, you won't be entitled to a refund.
-    
 *   Public Transport. You won’t be entitled to a refund once your booking is confirmed. If your plans change, please contact our Customer Service team to discuss any options that might be available.
-    
 
 2\. If your Service Provider or Third Party Aggregator has a different cancellation policy (which you’ll review while booking), their policy will apply instead.
 
 3\. We and/or the Service Provider may cancel the booking with little or no notice – but this would only happen in very specific situations. For example, if:
 
 *   the Service Provider becomes insolvent or is genuinely unable to honour your booking – in which case we'll do our best to arrange alternative transport (and we'll refund you in full if we can't)
-    
 *   you are in breach of these Terms and/or the Service Provider's terms – in which case you may not be entitled to a refund.
-    
 
 4\. Where multiple tickets have been purchased for Shared Pre-Booked Private Transport, if you cancel, all tickets will be cancelled.
 
@@ -1286,9 +1071,7 @@ F. Private and Public Transport
 7\. If we/the Service Provider need to change your booking (for example, if there’s a strike that interferes with your journey), we’ll tell you as soon as we can. If you then decide to cancel:
 
 *   Any Transport. Unless you cancel for one of the reasons in the next bullet, you’ll be entitled to a full refund (no matter how close your journey is).
-    
 *   Any Private Transport. If the change is simply a new driver, a new Service Provider, or a new (similar) vehicle, you won’t be entitled to a refund (unless you’re cancelling with enough notice).
-    
 
 Either way, neither we nor the Service Provider will be liable for any costs you may incur (e.g. alternative transport or hotel rooms).
 
@@ -1305,15 +1088,10 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 12\. All Private Transport. You won't be entitled to a refund if your Journey doesn't go ahead as planned because:
 
 *   the driver/Service Provider can't contact you
-    
 *   one or more passengers aren't at the pick-up location on time, and you haven't requested a new pick-up Time
-    
 *   you request unreasonable changes to the pick-up Time or Journey
-    
 *   you don’t tell us / the Service Provider / the driver about a change you want to make
-    
 *   you provided incorrect details when booking your Private Transport (pick-up location, contact details, number of people, amount of luggage, etc.).
-    
 
 ### F7. What else do you need to know?
 
@@ -1431,9 +1209,7 @@ Summary of these Terms
 Along with the Terms on this page, there are two other documents that form part of our contract with you:
 
 *   Our [How we Work page](https://www.booking.com/content/how_we_work.en-gb.html?aid=304142) helps you to use our Platform and understand our reviews, our rankings, our recommendations, how we make money, and more.
-    
 *   Our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142) help us to keep everything on our Platform relevant to and appropriate for our global audience, without limiting freedom of expression. They tell you how we manage content and take action against anything inappropriate.
-    
 
 By agreeing to our Terms, you’re agreeing to everything in all three documents. If you don’t accept any of these Terms, please do not use our Platform.
 
@@ -1449,65 +1225,37 @@ Table of contents
 -----------------
 
 *   [A. All Travel Experiences](#terms_all_heading)
-    
 *   [B. Accommodations](#terms_accommodations_heading)
-    
 *   [C. Attractions](#terms_attractions_heading)
-    
 *   [D. Car rentals](#terms_cars_heading)
-    
 *   [E. Flights](#terms_flights_heading)
-    
 *   [F. Private and Public Transport](#terms_rides_heading)
-    
 *   [Booking.com dictionary](#terms_dictionary_heading)
-    
 
 A. All Travel Experiences
 -------------------------
 
 *   [A1. Definitions](#terms_all_definitions_subheading)
-    
 *   [A2. About these terms](#terms_all_about_terms_subheading)
-    
 *   [A3. About Booking.com](#terms_all_about_booking_subheading)
-    
 *   [A4. Our Platform](#terms_all_platform_subheading)
-    
 *   [A5. Our values](#terms_all_values_subheading)
-    
 *   [A6. Prices](#terms_all_prices_subheading)
-    
 *   [A7. Payment](#terms_all_payment_subheading)
-    
 *   [A8. Policies](#terms_all_policies_subheading)
-    
 *   [A9. Privacy and cookies](#terms_all_privacy_subheading)
-    
 *   [A10. Accessibility requests](#terms_all_accessibility_subheading)
-    
 *   [A11. Insurance](#terms_all_insurance_subheading)
-    
 *   [A12. Genius](#terms_all_genius_subheading)
-    
 *   [A13. Rewards, Credits & Wallet](#terms_all_rewards_subheading)
-    
 *   [A14. Intellectual property rights](#terms_all_ipr_subheading)
-    
 *   [A15. What if something goes wrong?](#terms_all_wrong_subheading)
-    
 *   [A16. Communication with the Service Provider](#terms_all_communications_subheading)
-    
 *   [A17. Measures against unacceptable behaviour](#terms_all_behaviour_subheading)
-    
 *   [A18. Limitation of liability](#terms_all_liability_subheading)
-    
 *   [A19. Applicable law and forum](#terms_all_applicable_subheading)
-    
 *   [A20. Linked travel arrangements](#terms_all_linked_subheading)
-    
 *   [A21. Modification clause](#terms_all_modification_subheading)
-    
 
 ### A1. Definitions
 
@@ -1522,22 +1270,14 @@ A. All Travel Experiences
 3\. These Terms are laid out like this:
 
 *   Section A: general terms, for all types of Travel Experiences.
-    
 *   Sections B to F: specific terms, for just one type of Travel Experience:
     
     *   Section B: Accommodations
-        
     *   Section C: Attractions
-        
     *   Section D: Car rentals
-        
     *   Section E: Flights
-        
     *   Section F: Private and Public Transport
-        
-    
 *   If there’s any mismatch between general and specific terms, the specific terms will apply.
-    
 
 4\. The English version of these Terms is the original. If there’s any dispute about the Terms, or any mismatch between the Terms in English and in another language, the Terms as they appear in English will apply, unless local law requires otherwise. (You can change the language at the top of this page.)
 
@@ -1550,17 +1290,11 @@ A. All Travel Experiences
 3\. We work with companies that provide local support services (e.g. Customer Support or account management). They don’t:
 
 *   control or manage our Platform
-    
 *   have their own Platform
-    
 *   have any legal or contractual relationship with you
-    
 *   provide Travel Experiences
-    
 *   represent us, or enter into contracts or accept legal documents in our name
-    
 *   operate as our ‘process or service agents’.
-    
 
 ### A4. Our Platform
 
@@ -1583,17 +1317,11 @@ A. All Travel Experiences
 1\. You will:
 
 *   abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?aid=304142)
-    
 *   comply with all applicable laws
-    
 *   cooperate with any anti-fraud/anti-money laundering checks we need to carry out
-    
 *   not use the Platform to cause a nuisance or make fake Bookings
-    
 *   use the Travel Experience and/or Platform for their intended purpose
-    
 *   not cause any nuisance or damage, and not behave inappropriately to the Service Provider’s personnel (or anyone else, for that matter).
-    
 
 ### A6. Prices
 
@@ -1610,9 +1338,7 @@ A. All Travel Experiences
 1\. For some products/services, the Service Provider will require an Upfront Payment and/or a payment taken during your Travel Experience.
 
 *   **If we organise your payment,** we (or, in some cases, our affiliate) will be responsible for managing your payment and ensuring the completion of your transaction with our Service Provider. In this case, your payment constitutes final settlement of the 'due and payable' price.
-    
 *   **If the Service Provider charges you,** this will usually be in person at the start of your Travel Experience, but it could also be (for example) that your credit card is charged when you book, or you pay when you check out of your Accommodation. This depends on the Upfront Payment policy of the Service Provider as communicated to you in the booking process.
-    
 
 2\. If the Service Provider requires an Upfront Payment, it may be taken or pre-authorised when you make your Booking, and it may be non-refundable. So before you book, please check the Service Provider’s Upfront Payments policy (available during the booking process), which we don’t influence and aren’t responsible for. This does not affect your rights if you have any problems with your Travel Experience – please refer to ‘What if something goes wrong?’ (A15).
 
@@ -1625,20 +1351,14 @@ A. All Travel Experiences
 5\. If the currency selected on the Platform isn't the same as the Service Provider's currency, we may:
 
 *   show prices in your own currency
-    
 *   offer you the Pay In Your Own Currency option.
-    
 
 6\. **Pay In Your Own Currency.** We (and/or one of our affiliates) may provide you with the ability to pay for your Booking in your own currency (your **‘Home Currency’**), based on your location and/or account setting – and in respect of this service only, we do this as principal, rather than as agent for the Service Provider. Where you use this service, you agree to the following terms, which are separate to your contract with the Service Provider related to your Travel Experience. The Service Provider is not involved in the provision of the Pay In Your Own Currency service and is not party to the following terms, which do not give you any extra rights under your contract with the Service Provider. If you choose to pay in the Service Provider’s currency, the following terms don’t apply.
 
 *   For the avoidance of doubt, when you use Pay In Your Own Currency, we are simply enabling you to make payment in your own currency while we ensure that the Service Provider is paid in their local currency. As such, you are not making payment in one currency and receiving another currency.
-    
 *   If you choose to use Pay In Your Own Currency, all fees and charges from us for use of the Pay In Your Own Currency service either (a) are included in the exchange rate or (b) appear as a separate line item (included in the total price displayed where applicable) during the checkout process.
-    
 *   The exchange rate is determined at the time the total payment (or estimated total payment) is displayed during the checkout process – and where applicable, the total price displayed will be the amount charged by us to you. Just to be clear, certain fees and charges that are part of the total price displayed will, however, be collected directly by the Service Provider. We will tell you during the checkout process when this is the case.
-    
 *   If you cancel a reservation within any permitted cancellation period which may apply, we will refund you the exact same amount we initially charged you (inclusive of any applicable fees in relation to the Pay in Your Own Currency Service).
-    
 
 7\. We will store your Payment Method details for future transactions after collecting your consent.
 
@@ -1667,9 +1387,7 @@ A. All Travel Experiences
 1\. If you have any accessibility requests:
 
 *   about our Platform and/or services, please contact our Customer Service team
-    
 *   about your Travel Experience (wheelchair access, walk-in baths, etc.), please contact your Service Provider - or the airport, train station, etc.
-    
 
 ### A11. Insurance
 
@@ -1714,28 +1432,18 @@ We reserve the right to audit any and all accounts in the Rewards & Wallet progr
 8\. To be able to receive any type of Rewards from us, you must, at the time of qualification and spending:
 
 *   have a verified Account with us
-    
 *   be at least 18 years old
-    
 *   meet the Individual Reward Criteria
-    
 *   not violate the Rewards & Wallet Terms, and
-    
 *   have a valid credit card, if you need to qualify for Credit Card Cashback Rewards.
-    
 
 9\. When a Reward is available for earning, the Individual Reward Criteria will explain how (and if) you can qualify for it. These criteria may contain and not be limited to:
 
 *   time-sensitive restrictions (e.g. offers with expiration dates)
-    
 *   platform restrictions (e.g. promotional codes that can only be used in our app)
-    
 *   Accommodation service restrictions (e.g. offers that can only be used with specific Service Providers)
-    
 *   a minimum spend (e.g. a Reward that you’ll only earn when you spend at least a certain amount on a Booking), and
-    
 *   a maximum Reward value (for both monetary and non-monetary Rewards).
-    
 
 10\. Rewards cannot be sold, encumbered or transferred in any way to a third party. In the event of an Account holder’s death, their Account will be closed and any Rewards that are pending or available for spending in the Wallet will be cancelled.
 
@@ -1772,9 +1480,7 @@ For some products/services, the Service Provider will require an Upfront Payment
 23\. Your obligations:
 
 *   You’re responsible for making sure that all information is (and stays) correct, complete and up to date
-    
 *   You’re responsible for keeping your Account sign-in details safe and secure in order to safeguard your Wallet.
-    
 
 24\. If you don’t follow the rules in this section, we may automatically suspend or cancel your Wallet.
 
@@ -1785,11 +1491,8 @@ For some products/services, the Service Provider will require an Upfront Payment
 27\. We may change, suspend or end any aspect of the Wallet or Rewards programme. In particular, we might change:
 
 *   these Rewards & Wallet terms
-    
 *   eligibility criteria
-    
 *   which Rewards we provide
-    
 
 28\. We will make reasonable efforts to give you prior notice if we make any changes or we stop providing the Wallet service altogether.
 
@@ -1804,28 +1507,18 @@ For some products/services, the Service Provider will require an Upfront Payment
 3\. We keep a close eye on every visit to our Platform, and we’ll block anyone (and any automated system) we suspect of:
 
 *   conducting an unreasonable amount of searches
-    
 *   using any device or software to gather prices or other information
-    
 *   doing anything that places undue stress on our Platform.
-    
 
 4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://www.booking.com/reviews_guidelines.en-gb.html?aid=304142) and that:
 
 *   it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
-    
 *   it doesn’t contain any viruses
-    
 *   you’re allowed to share it with us
-    
 *   you own (or are allowed to use) any intellectual property rights that it contains
-    
 *   we’re allowed to use it on our Platform and for any other commercial purposes (including marketing and advertising), on any media, worldwide – unless you ask us to stop using it
-    
 *   it doesn’t infringe the privacy rights of other people
-    
 *   you accept full responsibility for any legal claims against Booking.com related to it.
-    
 
 5\. Just to make it clear: we’re not responsible and liable for any picture uploaded to our Platform, we’re allowed to remove any picture upon our discretion (for instance, if we detect that a picture does not meet the above criteria).
 
@@ -1834,20 +1527,15 @@ For some products/services, the Service Provider will require an Upfront Payment
 1\. If you have a query or complaint, please contact our Customer Service team. You can do this by accessing your Booking, or through our app, or through our Help Centre (where you’ll also find some useful FAQs). You can help us help you as quickly as possible - by providing:
 
 *   your Booking confirmation number, your contact details, your Booking.com PIN code (if you have one) and the email address you used when you made your Booking
-    
 *   a summary of the issue, including how you’d like us to help you
-    
 *   any supporting documents (bank statement, pictures, receipts, etc.)
-    
 
 2\. All queries and complaints are recorded, and the most urgent ones are treated as highest priority.
 
 3\. If you're a resident of the European Economic Area and you’re not happy with the way we handle your complaint, you may be able to complain via the European Commission's ODR (Online Dispute Resolution) platform ([ec.europa.eu/odr](https://ec.europa.eu/odr)). It depends on what your complaint was about:
 
 *   if it was about an accommodation, flight or attraction, you can use that ODR platform
-    
 *   if it was about ground transport, you can’t (because ground transport is booked with Booking.com Transport Limited, and the UK has left the EU).
-    
 
 4\. If you’re a resident of the Czech Republic and you’re not happy with the way we handle your complaint, you can complain to the Czech Trade Inspection Authority - Central Inspectorate, ADR Department, registered office Štěpánská 15, Prague 2, postal code: 120 00, email: adr@coi.cz, [https://www.coi.cz/informace-o-adr/](https://www.coi.cz/informace-o-adr).
 
@@ -1866,18 +1554,12 @@ For some products/services, the Service Provider will require an Upfront Payment
 1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?aid=304142) and our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142)) or fail to comply with applicable laws or regulations, we have the right to:
 
 *   stop you making any Bookings,
-    
 *   cancel any Bookings you’ve already made,
-    
 *   stop you using:
     
     *   our Platform,
-        
     *   our Customer Service,
-        
     *   your Account
-        
-    
 
 2\. If we cancel a Booking as a result, you may not (depending on the circumstances) be entitled to a refund. We may tell you why we've cancelled your Booking, unless telling you would (a) contravene applicable laws and/or (b) prevent or obstruct the detection or prevention of fraud or other illegal activities. If you believe we have incorrectly cancelled your Booking, please contact our Customer Service team.
 
@@ -1890,9 +1572,7 @@ For some products/services, the Service Provider will require an Upfront Payment
 3\. We are not liable for:
 
 *   any losses or damages which were not reasonably foreseeable when you made your Booking or otherwise entered into these Terms; or
-    
 *   any event which was reasonably beyond our control.
-    
 
 4\. We don’t make any promises about Service Providers’ products and services apart from what we expressly state in these Terms, for example in Section A4.
 
@@ -1913,12 +1593,8 @@ If you are a consumer living outside Europe, to the extent permitted by mandator
 *   You may bring a legal action against us:
     
     *   in the courts of the country where you live, or
-        
     *   in the courts in Amsterdam (for accommodations, flights or attractions) or England and Wales (for car rentals and private/public transport).
-        
-    
 *   We may bring a legal action against you in the courts of the country where you live.
-    
 
 If you are a consumer living outside Europe, to the extent permitted by mandatory local (consumer) law, any dispute will exclusively be submitted to the court in Amsterdam (for accommodations, flights or attractions) or England and Wales (for car rentals and private/public transport).
 
@@ -1927,9 +1603,7 @@ If you are a consumer living outside Europe, to the extent permitted by mandator
 1\. If:
 
 *   after selecting and paying for one travel service, you book additional travel services for your trip or holiday during the same visit to the Platform; or
-    
 *   you book additional travel services for your trip or holiday via a link provided to you by us not later than 24 hours after receiving confirmation of your initial Booking with us,
-    
 
 you will NOT benefit from rights applying to packages under the [EU’s Directive (EU) 2015/2302](https://ec.europa.eu/info/files/nl-transposition-law-package-travel-directive_nl) or the [UK's Package Travel and Linked Travel Arrangements Regulations 2018](https://www.legislation.gov.uk/uksi/2018/634/contents) (together, the ‘Package Travel Requirements’). Therefore, we will not be responsible for the proper performance of those travel services. In case of problems, please contact the relevant Service Provider.
 
@@ -1959,19 +1633,12 @@ B. Accommodations
 -----------------
 
 *   [B1. Scope of this section](#terms_accommodations_scope_subheading)
-    
 *   [B2. Contractual relationship](#terms_accommodations_contract_subheading)
-    
 *   [B3. What we will do](#terms_accommodations_we_subheading)
-    
 *   [B4. What you need to do](#terms_accommodations_you_subheading)
-    
 *   [B5. Price and payment](#terms_accommodations_price_subheading)
-    
 *   [B6. Amendments, cancellations and refunds](#terms_accommodations_amendments_subheading)
-    
 *   [B7. What else do you need to know?](#terms_accommodations_know_subheading)
-    
 
 ### B1. Scope of this section
 
@@ -2024,13 +1691,9 @@ B. Accommodations
 2\. Some offers on our Platform are marked as 'Partner offers', which means they come to us through a Booking.com partner company, rather than straight from a Service Provider. Unless otherwise indicated, any Partner offer that you reserve:
 
 *   Must be paid for at the time of booking
-    
 *   Can't be modified. However, if it offers free cancellation, you will be able to cancel it for free, as long as you do it in time.
-    
 *   Can't be combined with any other offers (promotions, incentives or rewards)
-    
 *   Can't be scored or reviewed on our Platform.
-    
 
 #### Price incentives by Booking.com
 
@@ -2045,16 +1708,11 @@ B. Accommodations
 5\. When you’re booking, you may see that some Service Providers refer to a ‘damage policy’. This means that if anyone in your group loses or damages anything:
 
 *   you should inform the Service Provider
-    
 *   instead of charging you for it directly, the Service Provider will have 14 days to submit a damage payment request through our Platform, under your reservation number
-    
 *   if they do, we’ll tell you, so you can tell us if you have any comments, and whether or not you agree with the charge - and then:
     
     *   if you agree, we’ll charge you on their behalf
-        
     *   if you disagree, we’ll look into it and decide whether or not to discuss it further.
-        
-    
 
 6\. Under the damage policy, there’s a limit to how much a Service Provider can charge you through our Platform (the limit is displayed while you’re booking). However, the Service Provider can start a legal claim against you outside of the damage policy, in which case the limit doesn’t apply.
 
@@ -2072,19 +1730,12 @@ C. Attractions
 --------------
 
 *   [C1. Scope of this section](#terms_attractions_scope_subheading)
-    
 *   [C2. Contractual relationship](#terms_attractions_contract_subheading)
-    
 *   [C3. What we will do](#terms_attractions_we_subheading)
-    
 *   [C4. What you need to do](#terms_attractions_you_subheading)
-    
 *   [C5. Price and payment](#terms_attractions_price_subheading)
-    
 *   [C6. Amendments, cancellations and refunds](#terms_attractions_amendments_subheading)
-    
 *   [C7. What else do you need to know?](#terms_attractions_know_subheading)
-    
 
 ### C1. Scope of this section
 
@@ -2128,19 +1779,12 @@ D. Car rentals
 --------------
 
 *   [D1. Scope of this section](#terms_cars_scope_subheading)
-    
 *   [D2. Contractual relationship](#terms_cars_contract_subheading)
-    
 *   [D3. What we will do](#terms_cars_we_subheading)
-    
 *   [D4. What you need to do](#terms_cars_you_subheading)
-    
 *   [D5. Price and payment](#terms_cars_price_subheading)
-    
 *   [D6. Amendments, cancellations and refunds](#terms_cars_amendments_subheading)
-    
 *   [D7. What else do you need to know?](#terms_cars_know_subheading)
-    
 
 ### D1. Scope of this section
 
@@ -2153,9 +1797,7 @@ D. Car rentals
 2\. When you book a Rental, your Booking is either (a) with us or (b) directly with the Service Provider. Either way:
 
 *   our Terms govern the booking process; when we send you your Booking Confirmation, you’ll enter a contract with us
-    
 *   the Rental Agreement governs the Rental itself; when you sign this at the rental counter, you’ll enter a contract with the Service Provider (but you’ll see and accept the key terms of it while you’re booking your car).
-    
 
 Throughout Section D, ‘Service Provider’ means the rental company that provides the car.
 
@@ -2174,9 +1816,7 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 3\. Once you’ve booked your Rental:
 
 *   we’ll give the Service Provider the Booking details (e.g. the Main Driver's name and contact phone number)
-    
 *   we’ll confirm the Pick-up information (e.g. the Service Provider's contact details, and what you need to take with you).
-    
 
 ### D4. What you need to do
 
@@ -2185,20 +1825,14 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 2\. You must read and agree to comply with these Terms and the Rental Agreement - and acknowledge that if you breach them:
 
 *   you might have to pay additional charges
-    
 *   your Booking might be cancelled
-    
 *   the counter staff might refuse to hand over the keys at the rental counter.
-    
 
 3\. You must check your Rental's specific requirements, as many details (driving licence requirements, security deposit size, paperwork needed, payment cards accepted, etc.) vary per Rental. So please make sure you carefully read:
 
 *   these Terms
-    
 *   the key terms of the Rental Agreement, which you'll see while you’re booking, and
-    
 *   the Rental Agreement itself, which you'll receive at Pick-up.
-    
 
 4\. You must be at the rental counter by your Pick-up Time (note that some Service Providers have a pick-up ‘grace period’ in case you are delayed). If you arrive after the Pick-up Time (and after the pick-up grace period, if any), the car may no longer be available, and you may not be entitled to a refund from the Service Provider. Please check the Rental Agreement for further information (while you're booking your car, please check 'Important info', which informs you of any grace period, and which you accept at checkout). If you think you might be late, it's vital that you contact the Service Provider or us, even if it's because of a flight delay and you’ve provided your flight number.
 
@@ -2217,11 +1851,8 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 11\. You must, if anything goes wrong during your Rental (accident, breakdown, etc.):
 
 *   contact the Service Provider
-    
 *   not authorise any repairs without the Service Provider's consent (unless the Rental Agreement allows this)
-    
 *   keep all documentation (repair bills, police reports, etc.) to share with us / the Service Provider / an insurance company.
-    
 
 ### D5. Price and payment
 
@@ -2246,9 +1877,7 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 8\. In other cases, you'll merely request any extras when you book your car – in which case:
 
 *   you'll pay for them at Pick-up, and
-    
 *   the Service Provider doesn't guarantee they'll be available for you.
-    
 
 ### D6. Amendments, cancellations and refunds
 
@@ -2257,31 +1886,22 @@ Throughout Section D, ‘Service Provider’ means the rental company that provi
 2\. The following ‘Cancellation and Amendments’ terms apply to all Bookings apart from:
 
 *   Bookings with Dollar or Thrifty that were booked before 26 January 2021 (please check your rental terms)
-    
 *   Bookings that are labelled ‘non-refundable’ (you cannot amend a non-refundable Booking, and you won’t receive a refund if you cancel it).
-    
 
 #### Cancellations
 
 3\. If you cancel:
 
 *   MORE THAN 48 hours before your rental is due to start, you’ll receive a full refund.
-    
 *   LESS THAN 48 hours before, or while you’re at the rental counter, we’ll refund what you paid minus the cost of 3 days of your rental - so there won’t be any refund if your car was booked for 3 days or less.
-    
 *   AFTER your rental is due to start (or you just don’t turn up) you’ll receive no refund.
-    
 
 4\. The counter staff may refuse you the car if (for example):
 
 *   You don’t arrive on time
-    
 *   You are not eligible to rent the car
-    
 *   You don’t have the documentation you need
-    
 *   The main driver doesn’t have a credit card in their own name, with enough available funds for the car’s security deposit.
-    
 
 For more on your Service Provider’s rules, please refer to the ‘Important Information’ that’s available while booking - or the Rental Agreement that you sign at the counter.
 
@@ -2323,19 +1943,12 @@ E. Flights
 ----------
 
 *   [E1. Scope of this section](#terms_flights_scope_subheading)
-    
 *   [E2. Contractual relationship](#terms_flights_contract_subheading)
-    
 *   [E3. What we will do](#terms_flights_we_subheading)
-    
 *   [E4. What you need to do](#terms_flights_you_subheading)
-    
 *   [E5. Price and payment](#terms_flights_price_subheading)
-    
 *   [E6. Amendments, cancellations and refunds](#terms_flights_amendments_subheading)
-    
 *   [E7. What else do you need to know?](#terms_flights_know_subheading)
-    
 
 ### E1. Scope of this section
 
@@ -2406,9 +2019,7 @@ E. Flights
 7\. If you buy two one-way tickets rather than a single round-trip ticket:
 
 *   you’ll be making two separate Bookings, each with its own rules and policies
-    
 *   any changes to one Flight will not affect the other (for example, if your initial Flight is cancelled, you won’t be guaranteed a refund for your second Flight).
-    
 
 8\. If you’re travelling abroad, you may need to prove to the Check-in and/or Immigration staff that you have a return Flight (see ‘International travel’ below for more on passports, visas, etc).
 
@@ -2421,9 +2032,7 @@ E. Flights
 10\. Depending on which Flight you choose, you may be charged a service fee by us and/or the Third-Party Aggregator.
 
 *   Our service fee (if any) is a fee for using our Platform so you can buy a ticket from a Third-Party Aggregator. This fee includes any applicable VAT/GST/similar taxes.
-    
 *   The Third-Party Aggregator’s service fee (if any) is a fee for using them as intermediary to the airline(s). This fee may include any applicable VAT/GST/similar taxes.
-    
 
 11\. The price of your ticket will include any service fee(s).
 
@@ -2438,15 +2047,10 @@ E. Flights
 14\. It’s your responsibility to:
 
 *   carry a valid passport and/or visa if required
-    
 *   comply with any entry requirements
-    
 *   find out if you need a visa to pass through a country that isn’t your final destination
-    
 *   check with the relevant embassy in advance to see if there’s been any change in passport, visa or entry requirements
-    
 *   review any warnings or advice from your country of residence/origin before you go to/through a country or region.
-    
 
 15\. By arranging travel to or from any location, we are not guaranteeing that it is without risk – and, to the fullest extent permitted by law, we will not be liable for any resulting damages or losses.
 
@@ -2475,11 +2079,8 @@ E. Flights
 24\. If your flight is delayed or cancelled, or you’re denied boarding, you may be entitled to compensation/assistance under [EU Regulation 261/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1476179175834&uri=CELEX:32004R0261) if:
 
 *   You’re flying into the European Union (EU)
-    
 *   You’re flying out of the EU
-    
 *   Your Flight is provided by an EU airline
-    
 
 #### EU: Airline carrier liability under EU Regulation 889/2002
 
@@ -2497,19 +2098,12 @@ F. Private and Public Transport
 -------------------------------
 
 *   [F1. Scope of this section](#terms_rides_scope_subheading)
-    
 *   [F2. Contractual relationship](#terms_rides_contract_subheading)
-    
 *   [F3. What we will do](#terms_rides_we_subheading)
-    
 *   [F4. What you need to do](#terms_rides_you_subheading)
-    
 *   [F5. Price and payment](#terms_rides_price_subheading)
-    
 *   [F6. Amendments, cancellations and refunds](#terms_rides_amendments_subheading)
-    
 *   [F7. What else do you need to know?](#terms_rides_know_subheading)
-    
 
 ### F1. Scope of this section
 
@@ -2526,13 +2120,9 @@ F. Private and Public Transport
 4\. **On-Demand Private Transport.** By making a Booking, you are confirming that you:
 
 *   have read and accept the Service Provider's terms (where applicable)
-    
 *   agree to contact the Service Provider directly about anything that goes wrong
-    
 *   understand that the Service Provider is responsible for arranging and providing your Private Transport, choosing routes, setting prices, and providing all relevant information
-    
 *   accept that we just provide a booking platform (known as an API service), and will not be liable for any loss you suffer because of anything the driver/Service Provider does or does not do, except as set out in ‘Limitation of liability’ (A18).
-    
 
 Not all Service Providers have their own terms, but you’re welcome to check out [all the terms that we’ve been provided with](https://taxi.booking.com/information/terms/trip-providers).
 
@@ -2555,11 +2145,8 @@ Not all Service Providers have their own terms, but you’re welcome to check ou
 2\. You must make sure everyone in your group complies with our Terms and (where applicable) the Service Provider’s terms, which you saw and accepted during the booking process. You acknowledge that if you breach them:
 
 *   you might have to pay additional charges
-    
 *   your Booking might be cancelled
-    
 *   your driver may refuse to transport you.
-    
 
 3\. You must bear in mind that estimated journey times don’t take traffic conditions into account.
 
@@ -2596,20 +2183,15 @@ Not all Service Providers have their own terms, but you’re welcome to check ou
 1\. In most cases...
 
 *   **Pre-Booked Private Transport.** You can cancel for free up to 24 hours before your Pick-Up Time (2 hours in some cases - please see your confirmation). If you don't cancel on time, you won't be entitled to a refund.
-    
 *   **On-Demand Private Transport.** You can cancel anytime before your Pick-Up Time, but the Service Provider may charge you a cancellation fee.
-    
 *   **Public Transport.** You probably won’t be entitled to a refund once your Booking is confirmed.
-    
 
 2\. If your Service Provider has a different cancellation policy (which you’ll see while booking), their policy will apply instead.
 
 3\. We and/or the Service Provider may cancel the Booking with little or no notice - but this would only happen in very specific situations. For example, if:
 
 *   the Service Provider becomes insolvent or is genuinely unable to honour your Booking – in which case we'll do our best to arrange alternative transport (and we'll refund you in full if we can't)
-    
 *   you are in breach of these Terms and/or the Service Provider's terms – in which case you may not be entitled to a refund.
-    
 
 #### Amendments (changes) before your Journey begins
 
@@ -2622,9 +2204,7 @@ Not all Service Providers have their own terms, but you’re welcome to check ou
 7\. If we/the Service Provider need to change your Booking (for example, if there’s a strike that interferes with your journey), we’ll tell you as soon as we can. If you then decide to cancel:
 
 *   **Any Transport.** Unless you cancel for one of the reasons in the next bullet, you’ll be entitled to a full refund (no matter how close your journey is).
-    
 *   **Any Private Transport.** If the change is simply a new driver, a new Service Provider, or a new (similar) vehicle, you won’t be entitled to a refund (unless you’re cancelling with enough notice).
-    
 
 Either way, neither we nor the Service Provider will be liable for any costs you may incur (e.g. alternative transport or hotel rooms).
 
@@ -2639,15 +2219,10 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 11\. **All Private Transport.** You won't be entitled to a refund if your Journey doesn't go ahead as planned because:
 
 *   the driver/Service Provider can't contact you
-    
 *   one or more passengers isn't at the pick-up location on time, and you haven't requested a new Pick-up Time
-    
 *   you request unreasonable changes to the Pick-up Time or Journey
-    
 *   you don’t tell us / the Service Provider / the driver about a change you want to make
-    
 *   you’d provided incorrect details when booking your Private Transport (pick-up location, contact details, number of people, amount of luggage, etc.).
-    
 
 ### F7. What else do you need to know?
 
