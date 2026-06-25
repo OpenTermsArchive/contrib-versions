@@ -296,7 +296,7 @@ No failure or delay by Hearst in exercising any right, power or privilege under 
 
 **26\. Notice to California Users**
 
-Under California Civil Code Section 1789.3, California users of the Hearst Services are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N-112, Sacramento, California 95834, or by telephone at [(800) 952-5210](tel:\(800\) 952-5210).
+Under California Civil Code Section 1789.3, California users of the Hearst Services are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N-112, Sacramento, California 95834, or by telephone at [(800) 952-5210](<tel:\(800\) 952-5210>).
 
 **27\. Copyright Infringement Claims Policy**
 
