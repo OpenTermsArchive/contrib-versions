@@ -1,7 +1,7 @@
 Cookie Policy
 =============
 
-Like many websites and applications, our site [www.adsupply.com](http://www.adsupply.com/) uses cookies and other technologies (such as web beacons, web storage, and unique advertising identifiers) for different purposes.
+Like many websites and applications, our site [www.adsupply.com](https://www.adsupply.com/) uses cookies and other technologies (such as web beacons, web storage, and unique advertising identifiers) for different purposes.
 
 Some of our cookies are also placed on the sites of our Publishers.
 
@@ -17,7 +17,7 @@ Some of our business partners may themselves use cookies. We have no access or c
 
 **HOW ARE COOKIES USED?**
 
-**You are a visitor of** [**www.adsupply.com**](http://www.adsupply.com/) **or an Advertiser / Publisher.**
+**You are a visitor of** [**www.adsupply.com**](https://www.adsupply.com/) **or an Advertiser / Publisher.**
 
 Cookies are used for the following purposes:
 
@@ -28,7 +28,7 @@ Cookies are used for the following purposes:
 *   Ad targeting: Cookies may be used to display relevant advertisements to visitors.
 *   Third parties cookies: We may also allow some third-party service providers to place cookies on our site for the above-mentioned purposes.
 
-In order to help us to understand how you interact with our site, what is interesting for you and how we can improve our services, we use analytics service providers, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](http://tools.google.com/dlpage/gaoptout).
+In order to help us to understand how you interact with our site, what is interesting for you and how we can improve our services, we use analytics service providers, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](https://tools.google.com/dlpage/gaoptout).
 
 We are also using WordPress.com, which offers the design, features, and support to our site. To learn more about the cookies, please check their cookies policy [here](https://automattic.com/cookies/).
 
