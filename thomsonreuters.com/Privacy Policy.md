@@ -325,7 +325,7 @@ Connect with our sales team to explore legal solutions tailored to your professi
 
 [Contact us](https://www.thomsonreuters.com/en/contact-us)
 
-*   [Contact us about plans for tax, audit & accounting firms Get expert guidance on tax, audit, and accounting solutions for your firm.](https://tax.thomsonreuters.com/en/contact-sales)
+*   [CoCounsel Tax Essentials Get started with AI for everyday tax work, designed for mid-market and small CPA tax and accounting firms.](https://tax.thomsonreuters.com/en-us/products/cocounsel-tax/plans-pricing)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150_2.svg)
 
