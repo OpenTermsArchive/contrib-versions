@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/news/almedalen.jpg)
+[![](/assets/stock/1400x930/hangmatta_1400x930.jpg)
+
+#### Secure summer
+
+2026-06-26
+
+Stay safe when you're using BankID during summer. Follow our tips.](https://www.bankid.com/en/about-us/news/secure-summer) [![](/assets/stock/news/almedalen.jpg)
 
 #### Almedalen 2026
 
@@ -130,10 +136,4 @@ Panels, debates and lectures we will participate in during Almedalsveckan.](http
 
 2026-05-05
 
-We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/renew-bankid-with-eu-passports)[![](/assets/stock/612x408/home_talking_phone.jpg)
-
-#### New function for BankID in phone calls
-
-2026-04-22
-
-Payment services that use BankID for phone calls can use a new interface for payments made during phone calls.](https://www.bankid.com/en/about-us/news/new-function-for-bankid-in-phone-calls)
+We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/renew-bankid-with-eu-passports)
