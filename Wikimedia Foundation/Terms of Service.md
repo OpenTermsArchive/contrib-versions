@@ -73,7 +73,7 @@ Other languages:
 *   [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
 *   [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 *   [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (6% translated)")
-*   [Madhurâ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mad "Policy:Terms of Use/mad (5% translated)")
+*   [Madhurâ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mad "Gher-ogher:Katantoan Paghunaan (9% translated)")
 *   [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (99% translated)")
 *   [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Gebruiksvoorwaarden (100% translated)")
 *   [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
