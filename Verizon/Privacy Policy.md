@@ -234,7 +234,7 @@ Open all
     
     We, and third-party companies acting on our behalf, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content or analytics.
     
-    We and these third-party companies may use [cookies, pixels, web beacons, tags, scripts, or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising or other identifiers from your mobile device operating systems. 
+    We and these third-party companies may use [cookies, pixels, web beacons, tags, scripts, or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising or other identifiers from your mobile device operating systems. 
     
     ### We also use de-identified and aggregated information.
     
@@ -265,7 +265,7 @@ Open all
     
     **Service Providers.** We use service providers to help us offer, provide, repair, restore and bill for services. We disclose information to them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
     
-    We may disclose to or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, identifier matching or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use or we may disclose information using application programming interfaces (APIs). These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, conduct advertising and marketing activity and other purposes as described in the “How does Verizon use information” section.
+    We may disclose to or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, identifier matching or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use or we may disclose information using application programming interfaces (APIs). These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, conduct advertising and marketing activity and other purposes as described in the “How does Verizon use information” section.
     
     **Partners.** When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you, or we may share information for business or operational purposes such as to enable and bill for service. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours.
     
@@ -298,7 +298,7 @@ Open all
     
     ### We disclose information to advertising companies.
     
-    We may disclose, or allow certain [third-party advertising and analytics companies](#) to collect personal information such as your email address, information about your purchase of products and services from us, and information about your activity on our sites and in our apps. These companies may use your email address, or other information they collect to create one or more identifiers associated with you, your household or your device(s) both on and off our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and on non-Verizon sites and apps. These companies may combine this information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use a variety of tracking, validation and other technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use, or we may disclose information using application programming interfaces (APIs).
+    We may disclose, or allow certain [third-party advertising and analytics companies](#) to collect personal information such as your email address, information about your purchase of products and services from us, and information about your activity on our sites and in our apps. These companies may use your email address, or other information they collect to create one or more identifiers associated with you, your household or your device(s) both on and off our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and on non-Verizon sites and apps. These companies may combine this information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use a variety of tracking, validation and other technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use, or we may disclose information using application programming interfaces (APIs).
     
     third-party advertising and analytics companies
     
@@ -532,7 +532,7 @@ Open all
     ### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
     **Credit information**   
-    Wireline customers can limit the disclosure of credit information within Verizon for the marketing of new products and services. Check the [instructions in the notice](http://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
+    Wireline customers can limit the disclosure of credit information within Verizon for the marketing of new products and services. Check the [instructions in the notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
     
     **Customer Proprietary Network Information (CPNI)**  
     You can limit the use and [sharing of CPNI](#) for marketing services to you that are different from the ones you have.
@@ -702,7 +702,7 @@ Open all
     
     The [California Consumer Privacy Act (CCPA)](#) provides California residents with specific rights. 
     
-    California Consumer Privacy Act (Ccpa)
+    California Consumer Privacy Act (CCPA)
     
     This law provides you with the right to know what information we collect about you and how we use it, access and delete that information within certain limits, request that we correct information that you believe is inaccurate, limit the use of certain sensitive personal information, tell us not to sell or share personal information about you and to not be discriminated against for invoking these rights.
     
@@ -729,7 +729,7 @@ Open all
     *   Professional or employment-related information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
     *   Education information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
     *   Inferences we create from the information we collect that create a profile reflecting your preferences, characteristics, predispositions, and behavior is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. 
-    *   Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; confirm eligibility for certain services such as the Lifeline Assistance Program;  security and fraud prevention and legal compliance purposes.
+    *   Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; confirm eligibility for certain services such as the Lifeline Assistance Program; security and fraud prevention and legal compliance purposes.
     *   Genetic, biometric and health information, for example, some Verizon apps allow you to disclose health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. You may also opt in to facial recognition identity verification when you request to purchase certain products and services.
     *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
     *   And other information that may identify, relate to, describe, or is capable of being associated with you, for example, information you provide to us, or grant us permission to collect such as through our mobile applications. This may include contacts, profile photos, motion activity, vehicle information or in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
@@ -848,7 +848,7 @@ Open all
     
     authorized agent
     
-    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. Visible customers may assign and manage their authorized agents by signing in to the  [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) by selecting “Assign and manage your authorized agent.”  Visible Merch customers can appoint an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, email address and mailing address, and the name, address and email of your authorized agent. Frontier customers may assign an authorized agent by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606.
+    You may designate a business or individual as your agent. Verizon Wireless or Home Services customers can appoint an authorized agent using our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” Verizon Value customers may appoint an authorized agent through an existing online account or by calling 1-877-799-1999. Visible customers may assign and manage their authorized agents by signing in to the [Visible Data and Privacy Portal](https://www.visible.com/privacyportal) by selecting “Assign and manage your authorized agent.” Visible Merch customers can appoint an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, email address and mailing address, and the name, address and email of your authorized agent. Frontier customers may assign an authorized agent by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606.
     
     Verizon Wireless and Home services customers: visit our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or call 1-800-333-3972.
     
@@ -905,7 +905,7 @@ Open all
     
     When you submit a request to know, access, delete or correct data, we require you to verify your identity using the processes we describe in the dashboard, portal, your online account, or the privacy choices page before we fulfill your request. Depending on the type of request you make, you may be required to log into an existing account and prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    **Reporting.** You can access our [2024 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the individual rights requests we received during that year.
+    **Reporting.** You can access our [2024 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the individual rights requests we received during that year.
     
     **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, you may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios.
     
@@ -1301,7 +1301,7 @@ Open all
     
     ### Changes to the privacy policy
     
-    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](http://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
+    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy). If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
     Updated May 2026
     
