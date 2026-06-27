@@ -43,7 +43,7 @@ We will provide you with information on our decision for any policy violation en
 Prohibited content
 ------------------
 
-![](//storage.googleapis.com/support-kms-prod/1i2ze01vJtcuC4qq7Nx9mJAEplbPqy6Y0Sh0)
+![](//storage.googleapis.com/support-kms-prod/AseE88sIojQQeecTJXkO6d42LwtSvEgKee2G)
 
 > ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
 > 
@@ -72,7 +72,7 @@ Prohibited content
 Prohibited practices
 --------------------
 
-![](//storage.googleapis.com/support-kms-prod/BQHWL6py5KRwsONTk6kAgLVqW4cC2Z6sxezz)
+![](//storage.googleapis.com/support-kms-prod/P0mBQZPEIOeseqBUwwyrTYO2LkK44NQtJiPr)
 
 > ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
 > 
@@ -105,7 +105,7 @@ Prohibited practices
 Restricted content and features
 -------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/ev5UVqU9uLfrFHyJzhhUyaGUqLMPryabI1zx)
+![](//storage.googleapis.com/support-kms-prod/rAPRJes0y63mBZy6V4D77hDdJzkSaArTKRlU)
 
 The policies below cover content that is sometimes legally or culturally sensitive. Online advertising can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
 
@@ -215,7 +215,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 Editorial and technical requirements
 ------------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/xm4pdchMEIu7OY1agVrmlN9J9XaNnx3jOFtu)
+![](//storage.googleapis.com/support-kms-prod/NacUE6w9HrIZjL8Jr52yZCs0pmRgKaOqwZXu)
 
 We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
 
