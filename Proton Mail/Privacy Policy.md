@@ -1,8 +1,3 @@
-Privacy Policy
-==============
-
-_Last modified: 12th May 2026_
-
 At Proton, we strongly believe in an internet where privacy is the default.
 
 Proton’s Privacy Policy describes how Proton collects, uses, and deletes your data. In addition to this Privacy Policy, we provide data and privacy information specific to our products that use your personal data. This product-specific information can be found in the following privacy policies :
