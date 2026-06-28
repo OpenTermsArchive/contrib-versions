@@ -1,7 +1,3 @@
-Please note
-
-We’re temporarily unable to process new sign-ups online due to scheduled maintenance from Friday 6pm to Saturday 6pm. [Please fill out this form](https://www.energia.ie/contact-us/switch-enquiry-form) and we will contact you to process your switch. Apologies for any inconvenience.
-
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Terms & Conditions
