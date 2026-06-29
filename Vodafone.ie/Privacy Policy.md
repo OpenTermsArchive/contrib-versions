@@ -348,11 +348,13 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-*   Log in to your Privacy Settings to manage your permissions; your [Privacy Settings](#privacysettings) will also provide you with the ability to opt out or into receiving personalised marketing.
+*   Log in to My Vodafone to manage your permissions; your [Privacy Settings](#privacysettings) will also provide you with the ability to opt out or into receiving personalised marketing.
     
 *   Contact our customer services team – see the [contact us page](https://n.vodafone.ie/support.html);
     
-*   Click the link at the end of a marketing email or text to unsubscribe;
+*   Click the link at the end of a marketing email to log into My Vodafone;
+    
+*   Call 1800 200 234 to manage your preferences using our interactive preference options;
     
 *   Tell the adviser if you receive a marketing call;
     
@@ -365,7 +367,7 @@ Opting out does not mean that you won’t any longer receive service-related mes
 
 To opt out of receiving marketing communications from other Vodafone Group companies, just contact them directly.
 
-In some cases, you may receive marketing from Vodafone, even if you’re not a customer or never had contact with Vodafone. This is a result of third-party marketing lists which Vodafone may acquire from time to time. If you’ve registered to opt out of such marketing, you shouldn’t receive such communications. If you do, we ask that you let us know immediately.  
+In some cases, you may receive marketing from Vodafone, even if you’re not a customer. This happens if you have consented to marketing when enquiring about our products and services. If you wish to opt out, please follow the instructions contained in the message you receive.  
 
 To manage Cookies and understand more about what they are
 
@@ -414,6 +416,10 @@ OneNumber
 tab NaN of 0
 
 V by Vodafone
+
+tab NaN of 0
+
+Enterprise Products
 
 Our cookie policy
 -----------------
