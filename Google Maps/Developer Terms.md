@@ -1353,6 +1353,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Stadt Kassel, Straßenverkehrs- und Tiefbauamt Datenlizenz Deutschland –Namensnennung- Version 2.0, [http://www.govdata.de/dl-de/by-2-0](http://www.govdata.de/dl-de/by-2-0) Mobilithek, [https://mobilithek.info/offers/609820812490186752](https://mobilithek.info/offers/609820812490186752)
              
+         *   Freie und Hansestadt Hamburg, Behörde für Verkehr und Mobilitätswende, Datenlizenz Deutschland Namensnennung 2.0, [https://mobilithek.info/offers/-964841756384727189](https://mobilithek.info/offers/-964841756384727189)
+             
+         *   Behörde für Verkehr und Mobilitätswende (BVM) - DE - Datenlizenz Deutschland - Namensnennung - 2.0 - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+             
     22.  **Great Britain**
          *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
              
@@ -2026,6 +2030,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Magistrát mesta Košice: [https://opendata.kosice.sk/datasets/kosice-mesto::adresné-body/about](https://opendata.kosice.sk/datasets/kosice-mesto::adresn%C3%A9-body/about)
              
          *   GeoPresovRegion Slovakia: [https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home](https://geopresovregion.sk/geonetwork/srv/eng/catalog.search#/home), [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+             
+         *   City of Košice - SK - [https://opendata.kosice.sk](https://opendata.kosice.sk/)
              
     60.  **Solomon Islands**
          *   Pacific Data Hub (SB): [https://pacificdata.org/](https://pacificdata.org/)
@@ -3008,6 +3014,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   OpenAddresses - UY - [https://openaddresses.io/#js-more](https://openaddresses.io/#js-more)
              
+         *   Portal de Datos Abiertos - UY - Licencia de Datos Abiertos de Uruguay. [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)
+             
     77.  **Worldwide**
          *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
              
@@ -3083,6 +3091,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   IDE Chile (CL): [https://www.ide.cl/](https://www.ide.cl/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
              
          *   National Institute of Statistics (INE) [https://www.ine.gob.cl/](https://www.ine.gob.cl/)
+             
+         *   OpenAddresses - CL - [https://openaddresses.io/#js-more](https://openaddresses.io/#js-more)
              
     79.  **Zambia**
          *   OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
