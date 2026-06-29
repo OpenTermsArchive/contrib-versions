@@ -120,7 +120,7 @@ Contact Us
 
 If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
 
-**MZLA Technologies Corporation** Attn: Mozilla - Privacy 149 New Montgomery St, 4th Floor, San Francisco, CA 94105 USA compliance@mozilla.com
+**MZLA Technologies Corporation** Attn: Mozilla - Privacy 1875 Mission Street, Suite 103, San Francisco, CA 94103 USA compliance@mozilla.com
 
 [See here for Data Subject Access Requests](https://privacyportal.onetrust.com/webform/1350748f-7139-405c-8188-22740b3b5587/4ba08202-2ede-4934-a89e-f0b0870f95f0). If you are under 13, we don’t want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please contact us to have your child’s information removed.
 
