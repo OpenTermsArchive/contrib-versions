@@ -1,7 +1,7 @@
 Privacy & Cookie Policy
 =======================
 
-Version: February 2026
+Version: June 2026
 
 [Download pdf](https://wetransfer.com/documents/WeTransfer_Privacy_Policy_20260212.pdf)
 
