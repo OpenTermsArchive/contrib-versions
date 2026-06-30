@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 22, 2026
+Last Updated: June 29, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1877,5 +1877,37 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 **109.1.3.** You will test, monitor, and implement safeguards (such as human-in-the-loop) for your use of AWS WAF AI traffic monetization as may be appropriate for your use case, including by managing and securing your wallet, and ensuring your access, pricing, licensing and payment configurations are accurate and authorized. AWS is not responsible for any transactions, disputes, or payments liability with any Buyers, Payment Providers or Facilitators arising from or related to your use of AWS WAF AI traffic monetization. 
 
 **109.1.4.** AWS may change or discontinue support for any Payment Provider or Facilitator at any time. We will provide you with prior notice if we discontinue support of a Payment Provider or Facilitator where practicable under the circumstances. AWS may impose limits on the amount of traffic processed by AWS WAF AI traffic monetization at any time.
+
+110\. Free Exploration Services
+-------------------------------
+
+**110.1.** AWS may provide free exploratory technical consulting and advisory services to help you use the Services. These exploratory services may include technical assistance, developing prototypes and proofs of concept, generative AI engagements, and related activities. AWS may stop providing free exploration services at any time without prior notice to you. 
+
+**110.2.** Free exploration services do not constitute financial, legal, or compliance advice. Content delivered during exploratory engagements is not intended for use in, or in association with, the operation of any hazardous environment or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for liability that may arise in connection with any such use.
+
+**110.3.** You will not require AWS personnel to sign, accept, or otherwise agree to any terms, conditions, obligations, or agreements as a condition of providing free exploration services, and you agree that the terms of any such documentation are void, even if signed by AWS personnel, except to the extent they impose reasonable building access or safety requirements.
+
+**110.4.** You are solely responsible for testing, deploying, maintaining, implementing, and supporting any Content or deliverables provided or recommended by AWS as part of free exploration services, including AI Solutions. You are responsible for determining whether your use of free exploration services, including artificial intelligence or machine learning Services, features, and functionality (including-third party models) that we may provide to you (each, an “AI Solution”), complies with applicable laws, rules, regulations and policies, and whether to deploy them in a Production Environment (defined in 110.7 below).
+
+**110.5.** AWS may develop Content for you consisting of either (a) documents and diagrams (“Documents”) or (b) software (in source or object code form), sample code, or scripts (“Software”) as part of free exploration services (such Documents and Software are “Developed Content”). AWS is not precluded from developing, using, or selling products or services that are similar to or related to the Developed Content; however, this sentence does not excuse AWS’s obligations under any non-disclosure agreement between you and AWS. Except for Third Party Content provided under a separate license, any Developed Content provided to you by AWS as part of these exploratory engagements is AWS Content, and such Developed Content is licensed under the following terms:
+
+*   AWS Licensor licenses any Documents to you under the Creative Commons Attribution 4.0 International License (CC-BY 4.0); and
+*   AWS Licensor licenses any Software to you under the Apache License, Version 2.0
+
+If there is a conflict between this Section 110.5 and any separate license, the separate license will control.
+
+**110.6.** Content that you provide or direct AWS to use for purposes of providing free exploration services is Your Content.
+
+**110.7.** You are solely responsible for all activities within your production environments where software, data, configuration, applications, code, or other products are placed into live operation for their intended use by End Users (“Production Environment”) including:
+
+**110.7.1.** Determining deployment-readiness of deliverables and managing their subsequent deployment, operation, and maintenance;
+
+**110.7.2.** Overall management of AWS accounts, pipelines, deployment gates, logs and records; and
+
+**110.7.3.** All access and permissions controls, including ensuring AWS personnel are precluded from accessing Production Environments.
+
+**110.8.** Unless expressly agreed to in a separate agreement for free exploration services, you will not disclose to AWS personnel any Content that includes or is defined under applicable law as “personal data”, “personal information”, “protected health information”, “controlled unclassified information”, or other sensitive or restricted data types which are defined or governed by applicable law (including data privacy law), regulation, regulatory framework, or industry standard (collectively, “Customer Regulated Data”).
+
+**110.9.** Incidental personal data related to your personnel that AWS obtains as part of free exploration services is not Customer Regulated Data. This type of data is treated as “Account Information” and AWS and its affiliates will handle it in accordance with the AWS Privacy Notice (available at [https://aws.amazon.com/privacy](https://aws.amazon.com/privacy)).
 
 [Previous Version(s)](https://aws.amazon.com/service-terms/previous/)
