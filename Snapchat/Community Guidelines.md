@@ -5,7 +5,7 @@ Community Guidelines
 
 ========================
 
-![Yes or No](https://images.ctfassets.net/kw9k15zxztrs/1UwZbQH2zgrFsy9A4ARSL5/c6d55934e03c0dbfee7a00ed5769dcef/1-community_guidelines-cover.png?q=40&h=650)
+![Yes or No](https://images.ctfassets.net/kw9k15zxztrs/1UwZbQH2zgrFsy9A4ARSL5/c6d55934e03c0dbfee7a00ed5769dcef/1-community_guidelines-cover.png?fm=webp&q=40&h=650)
 
 At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines, [in line with our commitment to respecting human rights](https://www.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB), to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines are part of a Snapchatter's contract with Snap. If you violate these guidelines, we may take action against your account. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
 
@@ -125,7 +125,7 @@ Information and Q&A
 
 -----------------------
 
-![Question mark](https://images.ctfassets.net/kw9k15zxztrs/3bizuPhtBZxLcjZjxMvReB/daf2f2d22416a102ab73c9a2ef416477/community-guidelines_InfoQA.png?q=40&h=600)
+![Question mark](https://images.ctfassets.net/kw9k15zxztrs/3bizuPhtBZxLcjZjxMvReB/daf2f2d22416a102ab73c9a2ef416477/community-guidelines_InfoQA.png?fm=webp&q=40&h=600)
 
 How can I report something?
 
