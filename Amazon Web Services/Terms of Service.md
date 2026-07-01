@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 29, 2026
+Last Updated: June 30, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1400,18 +1400,10 @@ If all payment methods we have on file for you are declined for payment of your 
 
 Migration Evaluator collects performance and usage metrics and data about your virtual machine image(s) and IT infrastructure; software packages and applications; system, equipment, and application configuration, processes and performance; network configurations, communications and dependencies; and the installation and operation of Migration Evaluator and its components. We may use these metrics and data to provide, maintain, and improve the quality and feature sets of the Services and AWS Content.
 
-70\. AWS IQ
------------
+70\. AWS Config
+---------------
 
-**70.1.** AWS IQ Experts (“Providers”) offer their services (“Provider Services”) as independent contractors, and are not employees of you or us. AWS is not a party to the agreement between you and any Providers for their Provider Services, is not responsible or liable for Provider Services, and does not guarantee the quality or accuracy of Provider Services. For avoidance of doubt, any certification that a Provider obtains from us only certifies that the Provider has passed a test intended to evaluate the Provider’s proficiency and understanding of a particular AWS Service or area of knowledge to which that certification relates, and is not a guarantee that the Provider Services will be performed at any particular level of quality, speed, or to your specific requirements.  
-
-**70.2.** AWS charges service fees for transactions between you and Providers on the AWS IQ marketplace. AWS only collects these service fees if you and a Provider pay and receive payment through the AWS IQ marketplace. Therefore, for 24 months from the time you identify a Provider through AWS IQ, you agree to use AWS IQ as your exclusive method to pay for Provider Services. For avoidance of doubt, if you did not identify a Provider through use of AWS IQ, such as if you worked with a Provider prior to connecting with that Provider on AWS IQ, then this section does not apply.  
-
-**70.3.** You acknowledge and agree that we may use information from AWS IQ listings, proposals, chat communications, and additional terms proposed or agreed to between you and Providers on AWS IQ to develop and improve the quality and feature set of AWS IQ.   
-
-**70.4.** If you choose to grant Providers access to your AWS account, you are solely responsible and liable for (a) any actions taken by the Provider in your account; (b) the Provider’s use of Your Content or use of the Services or AWS Content; (c) ensuring the Provider complies with your obligations under the Agreement, the Acceptable Use Policy, any other Policies, the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/) and applicable laws; (d) ensuring the Provider does not use the Services or AWS Content in any manner or for any purpose other than as expressly permitted by the Agreement and the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/); and (e) ensuring Provider does not attempt to (i) modify, distribute, alter, tamper with, repair, or otherwise create derivative works of any AWS Content or other Content included in the Services (except to the extent Content included in the Services is provided to you under a separate license that expressly permits the creation of derivative works), (ii) reverse engineer, disassemble, or decompile the Services or AWS Content or apply any other process or procedure to derive the source code of any software included in the Services or AWS Content (except to the extent applicable law doesn’t allow this restriction), (iii) access or use the Services in a way intended to avoid incurring fees or exceeding usage limits or quotas, or (iv) resell or sublicense the Services or AWS Content. You will immediately revoke Provider’s access to your AWS account if you become aware of any violation of your obligations under the Agreement or the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/) caused by a Provider with access to your AWS account. If you use AWS IQ’s feature that allows you to grant a Provider access to your account, AWS may, but is not obligated to, review activities in your account for security purposes, and may revoke the Provider’s access at any time.
-
-**70.5.** You release us (and our agents and employees) from claims, demands, and damages (actual or consequential) of any and every kind and nature, known or unknown, suspected or unsuspected, disclosed and undisclosed, arising out of or in any way connected with your use of the AWS IQ marketplace.  
+If you enable a third-party recorder in Config, you agree and instruct that: (a) we may use and store your Config Content to develop and improve AWS Config and its underlying technologies; (b) we may use and store Config Content that is not personal data to develop and improve related AWS security and observability services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Config Content in an AWS region outside the AWS region where you are using AWS Config. You may instruct AWS not to use and store Config Content to develop and improve AWS Config or other related AWS security and observability services by configuring an AI services opt-out policy using AWS Organizations. "Config Content" means resource configuration data processed by Config in connection with third-party recorders.
 
 71\. AWS Cloud WAN
 ------------------
