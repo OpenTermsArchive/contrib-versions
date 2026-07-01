@@ -26,6 +26,8 @@ WordPress.org discloses potentially personally-identifying and personally-identi
 
 WordPress.org will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to project administrators, employees, contractors, and affiliated organizations, as described above, WordPress.org discloses potentially personally-identifying and personally-identifying information only when required to do so by law, if you give permission to have your information shared, or when WordPress.org believes in good faith that disclosure is reasonably necessary to protect the property or rights of WordPress.org, third parties, or the public at large.
 
+Some WordPress.org services and workflows use AI tools to assist our team in reviewing submissions, moderating content, or supporting community programs or events. Where AI processing occurs, it is human-supervised and all final decisions are made by a human reviewer. This processing may involve sharing relevant data with third-party AI service providers. Some AI-assisted workflows also use web search tools, which may pass data to a third-party search provider as part of the review.
+
 If you are a registered user of a WordPress.org website and have supplied your email address, WordPress.org may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with WordPress.org and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum.
 
 If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WordPress.org takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
@@ -80,6 +82,8 @@ WordPress.org will not delete personal data from logs or records necessary to th
 
 WordPress.org shall maintain WordCamp attendee data for 3 years to better track and foster community growth, and then automatically delete non-essential data collected via registration. Attendee names and email addresses will be retained indefinitely, to preserve our ability to respond to code of conduct reports.
 
+Data submitted as part of community programs or applications or similar review workflows, including any data processed by AI tools, is retained for as long as necessary to administer the relevant program. Data shared with AI service providers during processing is subject to the retention limits in the applicable Data Processing Agreement.
+
 On WordCamp.org sites, banking/financial data collected as part of a reimbursement request is deleted from WordCamp.org 7 days after the request is marked paid. The reason for the 7-day retention period is to prevent organizers having to re-enter their banking details if a wire fails or if a payment was marked “Paid” in error. Invoices and receipts related to WordCamp expenses are retained for 7 years after the close of the calendar year’s audit, by instruction of our financial consultants (auditors & bookkeepers).
 
 When deletion is requested or otherwise required, we will anonymise the data of data subjects and/or remove their information from publicly accessible sites if the deletion of data would break essential systems or damage the logs or records necessary to the operation, development, or archival records of the WordPress open source project.
@@ -105,7 +109,7 @@ You may have certain rights under data protection law in relation to the persona
 
 If you would like to exercise these rights or understand if these rights apply to you, please follow the instructions at the end of this Privacy statement.
 
-Third party links
+Third-party links
 -----------------
 
 Our website may contain links to other websites provided by third parties not under our control. When following a link and providing information to a 3rd-party website, please be aware that we are not responsible for the data provided to that third party. This privacy policy only applies to the websites listed at the beginning of this document, so when you visit other websites, even when you click on a link posted on WordPress.org, you should read their own privacy policies.
