@@ -3,7 +3,7 @@ Bandcamp's Acceptable Use and Moderation Policy
 
 The article lists what content or behavior is acceptable on Bandcamp and what is prohibited. It explains how to report content you believe violates these policies, and how to appeal a decision if action has been taken against your account or content.
 
-Updated over 2 weeks ago
+Updated over 3 weeks ago
 
 Table of contents
 
