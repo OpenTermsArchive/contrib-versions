@@ -177,8 +177,9 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     *   Using the Services, directly or indirectly, for any unlawful purpose or in violation of any applicable policy that we make available to you;
     *   Using the Services to transmit, communicate, or store any information, data, or material in violation of any law, rule, or regulation;
     *   Tampering with, making any unauthorized connection to, or modifying any part of our cable network or the Services for any purpose;
-    *   Attaching any unauthorized device to our cable network or the Services; or
-    *   Attaching anything to the Inside Wiring, the Xfinity Equipment, or Customer Equipment that impairs the integrity of our cable network, that degrades our cable network’s signal quality or strength, or that creates signal leakage.
+    *   Attaching any unauthorized device to our cable network or the Services;
+    *   Attaching anything to the Inside Wiring, the Xfinity Equipment, or Customer Equipment that impairs the integrity of our cable network, that degrades our cable network’s signal quality or strength, or that creates signal leakage; or
+    *   Allowing, enabling, or causing the deployment of an AI Agent (unless we expressly grant you permission otherwise) to access, use, interact with, or take action on any of the Services. Examples include obtaining information from, making requests of, monitoring, copying, downloading, scraping, or data mining the Services; accepting or consenting to any terms or agreement with us on your behalf; or engaging in support or sales interactions with us regarding the Services, such as verbal interactions via telephone. “AI Agent” means any software or service that takes autonomous, semi-autonomous, or other programmatic action on behalf of, or at the instruction of, you or any other person or entity.
     
     You agree not to engage in these or other similar prohibited activities, or help anyone else do so. You acknowledge that you are accepting this Agreement on behalf of all persons who use the Services at your Premises (or any other locations authorized by us). You are solely responsible for ensuring that all other users of the Services understand and comply with this Agreement and any applicable policies. You are liable for all authorized and unauthorized use of the Services. If the Xfinity Equipment has been stolen or the Services have been used without your authorization or in violation of this Agreement, you agree to notify us immediately in writing, or by calling 1-800-XFINITY during normal business hours.
     
@@ -402,4 +403,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
      The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
      
 
-Stnd0426
+Stnd0726
