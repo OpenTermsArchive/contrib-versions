@@ -62,4 +62,4 @@ Phishing and attempted fraud on the Internet
 
 The increasing number of attempts at fraud on the Internet deliberately target any carelessness on the part of users in order to gain access to coveted data. Here you will find information on what you and Swiss Post can do about them, and where you can report suspicious cases.
 
-[Next](https://www.post.ch/en/about-us/responsibility/information-security-at-swiss-post/phishing-and-other-attempts-at-fraud)
+[Next](https://www.post.ch/sitecore_services/notfound.aspx?item=web%3a%7b1F77DBFD-DD33-4E0F-85EF-B354B44DC70E%7d%40en)
