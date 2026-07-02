@@ -1,9 +1,5 @@
 Effective July 1, 2026. Last Revised May 26, 2026
 
-**We’ve updated our User Agreement. Please take a look before the changes take effect on July 1, 2026.**   
-  
-**This page is the updated User Agreement; for the version effective until July 1, 2026, click [here](https://www.redditinc.com/policies/user-agreement-march-31-2026?hsLang=en).** 
-
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
 *   If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#outside_EEA).
