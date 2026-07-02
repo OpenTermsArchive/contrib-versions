@@ -25,9 +25,13 @@ Terms and Conditions
 **2.1.** We offer a range of subscriptions: 
 
 *   to FT.com (“Digital Subscriptions”);
+    
 *   the Newspaper (“Print Subscriptions”),
+    
 *   to both FT.com and the Newspaper (“Bundled Subscriptions”); and 
+    
 *   we also offer subscriptions on a trial basis ("Trial Subscriptions")
+    
 
 The above are referred together as "**the Subscriptions**" and individually as a "Subscription". Please note that separate and/or additional terms and conditions may apply to any Trial Subscriptions that we may offer. Any such additional terms shall be clearly indicated. 
 
@@ -54,7 +58,9 @@ The above are referred together as "**the Subscriptions**" and individually as a
 **2.11.** In addition to the Subscription fees you are responsible for paying for any:
 
 *   broadband, mobile, data, messaging or other internet connection and telecommunications charges that you may incur by accessing FT Content; 
+    
 *   charges that may be levied by your bank or credit card issuer (for example foreign transaction fees on transactions which take place abroad or in a foreign currency).
+    
 
 **2.12.** We will do all that we reasonably can to ensure that all of the information you give us when paying is secure by using an encrypted secure payment mechanism. However, in the absence of negligence on our part, any failure by us to comply with this contract or our Privacy Policy or breach by us of our duties under applicable laws, we will not be legally responsible to you for any loss that you may suffer if a third party gains unauthorised access to any information that you give us.
 
@@ -69,15 +75,24 @@ The above are referred together as "**the Subscriptions**" and individually as a
 **2.16.** If you wish to change your address for home delivery then please [contact us](https://help.ft.com/contact/) at least 4 working days before the date on which you wish your change of address to take effect. If we are not able to provide you with a home delivery service to your new address then:
 
 *   If you have a Print Subscription we will cancel your Subscription and issue a pro rata refund for the unexpired period of your Subscription; and 
+    
 *   If you have a Bundled Subscription we will cancel your Subscription, issue a pro rata refund for the unexpired period of your Subscription and, at your option, transfer you onto a new Digital Subscription. 
+    
 
-**Paper or Digital Vouchers**
+**Paper Vouchers**
 
-**2.17.** You may only redeem vouchers for Newspapers (subject to availability) at participating UK retailers on the date shown on the voucher, except FT Weekend which is also valid on the Sunday of the same weekend.  Vouchers cannot be exchanged for cash or any other products. You must not copy, resell or transfer vouchers to anyone else.  
+**2.17.** You may only redeem vouchers for Newspapers (subject to availability) at participating UK retailers as follows:
 
-**2.18.** Paper vouchers will be posted and digital vouchers will be emailed using the information you provided during the sign-up process. 
+*   day-dated vouchers may only be redeemed on the date shown on the voucher, except FT Weekend vouchers which are also valid on the Sunday of the same weekend; and
+    
+*   sampling vouchers may be redeemed at any time up to and including the expiry date shown on the voucher.  
+    
 
-**2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack.  We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. Paper and digital voucher subscriptions cannot be suspended by you at any time. 
+Vouchers cannot be exchanged for cash or any other products. You must not copy, resell or transfer vouchers to anyone else.
+
+**2.18.** Paper vouchers will be posted using the information you provided during the sign-up process.
+
+**2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack. We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. Paper voucher subscriptions cannot be suspended by you at any time. 
 
 **Suspension of deliveries** 
 
@@ -86,29 +101,42 @@ The above are referred together as "**the Subscriptions**" and individually as a
 **2.21.** A monetary credit will be applied against your next payment (or refunded if your Subscription is not renewed). However:
 
 *   You will only be credited up to a maximum of 48 editions for 5 or 6 day Subscriptions, or 8 editions for a Weekend-only Subscriptions, in each full subscription year.
+    
 *   You cannot carry over any allowance not taken in one subscription year into the next year.
+    
 *   You will not be entitled to suspend your Subscription if you use vouchers, or if you have subscribed through an intermediary rather than directly from the FT.
+    
 
 **Your Cancellation Rights**
 
 **2.22.** Digital Subscriptions:
 
 *   By placing your order for a Digital Subscription subject to these Terms and Conditions, you agree that we may start your Subscription immediately upon our acceptance of your order and that you waive your statutory right to cancel our contract within 14 days of our confirmation email. 
+    
 *   This means that you lose your right to cancel this contract once we have provided confirmation via email of your Digital Subscription (see section 2.3 above) and that any notice of cancellation that you provide (whether before or after the 14-day period) will only take effect at the end of your current subscription period. You will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services. 
+    
 
 **2.23.** Print Subscription or Bundled Subscription:
 
 *   You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
+    
 *   If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a pro rated amount for each Newspaper you received before cancelling.
+    
 *   After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
+    
 *   You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) any 72 hour period during your Subscription; or (b) more than five 24-hour periods over a 30 day period; in either case as a direct result of a fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription.
+    
 
 **2.24.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
 
 *   the subscriber's full name (person on the billing information if different from the user);
+    
 *   the Account email address or Account Number (Customer Reference Number);
+    
 *   the billing address and delivery address (Including zip code/postcode); and
+    
 *   your contact telephone number.
+    
 
 **Our Cancellation Rights**
 
@@ -258,7 +286,7 @@ in each case even if we have been advised that such damages may arise.
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 13 June 2024 and replace with immediate effect the Terms and Conditions previously published on 14 March 2024.
+**7.1.** These Terms and Conditions were published on 01 July 2026 and replace with immediate effect the Terms and Conditions previously published on 15 October 2025.
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
