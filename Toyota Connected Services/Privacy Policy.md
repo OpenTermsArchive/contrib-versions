@@ -4,7 +4,7 @@ Toyota Privacy Notice
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: April 7, 2026  
+UPDATED AS OF: July 1, 2026  
 
 Toyota Motor Sales, U.S.A., Inc. and its parent Toyota Motor North America, Inc. (collectively, “Toyota,” “us,” or “our”) are committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. “Personal Information” is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you. **For purposes of this Privacy Notice,** **Personal Information does not include the following:**
 
@@ -35,7 +35,7 @@ This Privacy Notice also does not apply to the data practices of any Toyota, Le
 2.  **[HOW WE COLLECT INFORMATION.](#_2)**
 3.  **[HOW WE USE THE INFORMATION WE COLLECT.](#_3)**
 4.  **[HOW WE DISCLOSE INFORMATION.](#_4)**
-5.  **[CHOICE](#_5)[, ACCESS AND](#_6) [RETENTION OF PERSONAL INFORMATION.](#_6)**
+5.  **[CHOICE, ACCESS, AND RETENTION OF PERSONAL INFORMATION.](#_5)**
 6.  **[ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.](#_7)**
 7.  **[CHILDREN.](#_8)**
 8.  **[SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.](#_9)**
@@ -121,7 +121,7 @@ We may disclose non-Personal Information, such as aggregate data, anonymized or
 
 **With Your Consent**. In addition to the instances listed above, we may also disclose your Personal Information with your consent or at your direction.
 
-**5\. CHOICE, ACCESS, AND RETENTION OF PERSONAL INFORMATION.**
+**5\. CHOICES FOR COMMERCIAL COMMUNICATIONS FROM TOYOTA.**
 
 We provide you with choices with respect to your Personal Information. This section addresses your choices with respect to the e-mail communications you may receive from Toyota, and if you have a user profile with Toyota, how you may update that profile. These rights are in addition to those you may have under U.S. privacy laws. You can learn more about the rights available to consumers under U.S. privacy laws in the [**Your Privacy Rights**](#_prvri) section below.
 
@@ -156,6 +156,8 @@ The Platforms may make available chat rooms, forums, message boards, and news gr
 **11\. CONSENT TO PROCESSING AND TRANSFER OF PERSONAL INFORMATION.**
 
 The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Toyota makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
+
+Toyota is a participating organization under the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce (collectively, “DPF”). Please visit [TMNA DPF Notice](https://dataprivacyframework.toyota.com/) to learn about how we process Personal Information we receive from the European Union, the United Kingdom, and Switzerland in reliance on the DPF (“DPF Personal Information”) and your rights. If there is any conflict between the terms of this Privacy Notice and the applicable DPF principles, the applicable DPF principles shall govern for any DPF Personal Information. To learn more about the DPF program and to view our certification, please visit the DPF website at [https://www.dataprivacyframework.gov/list](https://www.dataprivacyframework.gov/list).
 
 **12\. CHANGES.**
 
@@ -304,22 +306,25 @@ You can opt-in to, or opt-out of, our sweepstakes and other similar Programs at 
 To contact us with a question, call us at 800-331-4331, submit an inquiry at [Toyota Support: Contact Toyota,](https://support.toyota.com/s/questions-comments?language=en_US) or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
-P.O. Box 259001  
-Plano, TX 75025-9001
+P.O. Box 259003  
+Plano, TX 75025-9003  
+United States
 
 You may also obtain an update on our information practices by sending a request to:
 
 Toyota Motor Sales, U.S.A., Inc.  
-P.O. Box 259001  
-Plano, TX 75025-9001
+P.O. Box 259003  
+Plano, TX 75025-9003  
+United States
 
 **SHINE THE LIGHT DISCLOSURE FOR CALIFORNIA RESIDENTS**
 
 California law permits residents of California to request certain details about how their Personal Information is shared with third parties for the recipients’ direct marketing purposes. If you are a California resident and would like to make such a request, please submit an inquiry at [Toyota Support: Contact Toyota](https://support.toyota.com/s/questions-comments?language=en_US) or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
-P.O. Box 259001  
-Plano, TX 75025-9001
+P.O. Box 259003  
+Plano, TX 75025-9003  
+United States
 
 PERSONAL INFORMATION SHARING PRACTICES FOR 2025
 
