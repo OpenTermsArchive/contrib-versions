@@ -86,6 +86,7 @@ Our Privacy Policy explains what information we process when you use our product
 | 简体字 (Simplified Chinese) | [消费者隐私政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hans) | [广告选择](https://www.wbdprivacy.com/policycenter/b2c/zh-hans#adchoices) | [法律依据表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hans) |
 | 繁體字 (Traditional Chinese - Hong Kong) | [私隱政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hk) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-hk#adchoices) | [法律基礎圖表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hk) |
 | 繁體字 (Traditional Chinese - Taiwan) | [隱私權政策](https://www.wbdprivacy.com/policycenter/b2c/zh-tw) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-tw#adchoices) | [法律依據表](https://www.wbdprivacy.com/policycenter/legalbases/zh-tw) |
+| Tiếng Việt \| Vietnamese | [Chính sách quyền riêng tư của người tiêu dùng](https://www.wbdprivacy.com/policycenter/b2c/vi/) | [Lựa chọn quảng cáo](https://www.wbdprivacy.com/policycenter/b2c/vi/#adchoices) | [Bảng cơ sở pháp lý](https://www.wbdprivacy.com/policycenter/legalbases/vi/) |
 
   
 
