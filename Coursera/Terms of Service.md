@@ -324,7 +324,7 @@ All subscriptions will continue for the duration selected at the time of your pu
 
 Refunds for subscription plans are not provided, except (i) where required by law, (ii) where you have upgraded to another subscription plan and wish to cancel the upgrade, or (iii) in limited cases as explicitly stated by Coursera or in specific promotional terms.
 
-Coursera reserves the right to deny refund requests, even in cases that might otherwise appear eligible. Such denials may include, but are not limited to, situations involving violations of our [Terms of Use](https://www.coursera.org/about/terms), [Code of Conduct](https://www.coursera.support/s/article/learner-000001270?language=en_US), or [Honor Code](https://www.coursera.org/about/terms#honor-code), repeated refund requests, prior refunds processed through a third-party marketplace, chargeback activity, or where you have completed graded content and are dissatisfied with your performance.
+Coursera reserves the right to deny refund requests, even in cases that might otherwise appear eligible. Such denials may include, but are not limited to, situations involving violations of our [Terms of Use](https://www.coursera.org/about/terms), [Code of Conduct](https://www.coursera.support/s/article/learner-000001270?language=en_US), or [Honor Code](https://www.coursera.org/about/terms#honor-code), where a significant portion of the content has been accessed before the refund request has been submitted, repeated refund requests, prior refunds processed through a third-party marketplace, chargeback activity, or where you have completed graded content and are dissatisfied with your performance.
 
 #### Subscription Cancellation
 
