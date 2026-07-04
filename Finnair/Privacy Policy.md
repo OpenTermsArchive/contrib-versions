@@ -377,4 +377,4 @@ If you feel we have not handled your personal data correctly, you can contact th
 
 In Finland, the supervisory authority is Office of the Data Protection Ombudsman (Tietosuojavaltuutetun toimisto) Lintulahdenkuja 4, 00530 Helsinki, Finland. Email: [tietosuoja@om.fi](mailto:tietosuoja@om.fi). Website: [https://tietosuoja.fi/en/home](https://tietosuoja.fi/en/home).  
 
-Published on 19 November 2024
+Published on 19 June 2026
