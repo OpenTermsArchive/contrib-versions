@@ -1071,11 +1071,15 @@ Article 9. Support by Supporters
 Article 10. Payment of Support Money and Payment Method
 -------------------------------------------------------
 
-1.  At the time of the application for Support pursuant to Article 9, Supporters shall pay Support Money by the method prescribed by the Company.
-2.  If consumption taxes arise pursuant to a Support Agreement, the amount of the Support Money shall include consumption taxes.
-3.  In the case where a Support Agreement is cancelled pursuant to Article 14, Paragraph 1 or Article 15, Paragraph 1, even if the Support Agreement is cancelled in the middle of month, regardless of the reason, Support Money shall not be prorated.
-4.  Please see the Help section ([https://fanbox.pixiv.help/hc/articles/360003698754](https://fanbox.pixiv.help/hc/articles/360003698754)) regarding payment methods and fees for Support Money.
-5.  When paying Support Money, a Supporter shall comply with the agreement terms and conditions, terms of use, and the like set forth by the payment processing service provider (“Payment Processing Service Provider”) for the Support Money, and must use a payment method that is in the name of the Supporter.
+1.  At the time of the application for Support pursuant to the preceding Article, Supporters shall pay Support Money by the method prescribed by the Company.
+2.  If consumption taxes arise pursuant to a Support Agreement, the amount of the Support Money shall include be indicated as a price including the consumption taxes.
+3.  When a Supporter pays Support Money pursuant to a Support Agreement, if the Company is required to collect value-added tax (“VAT”) from the Supporter in the countries or regions specified in the Help section ([https://fanbox.pixiv.help/hc/articles/54418933054361](https://fanbox.pixiv.help/hc/articles/54418933054361)) , the Company shall collect such VAT from the Supporter together with the Support Money. In such case, the Company shall request payment of an amount equivalent to such VAT from the Supporter, and the Supporter shall make such payment without delay in accordance with the details of the request from the Company.
+4.  The tax rate of VAT shall be determined based on the laws and regulations applicable at the time when a Supporter enters into a Support Agreement. Provided, however, that Supporters agree in advance that, in accordance with any change in such VAT rate, the amount equivalent to such VAT that the Company requests payment of pursuant to the preceding paragraph will also change.
+5.  Except for VAT that the Company files and pays pursuant to Paragraph 3 of this Article, Supporters shall, in accordance with laws and regulations, file and pay any other taxes and public dues on their own.
+6.  Creators shall, in accordance with laws and regulations, file and pay income tax, consumption tax, and any other taxes and public dues in relation to the Amount Receivable on their own.
+7.  In the case where a Support Agreement is cancelled pursuant to Article 14, Paragraph 1 or Article 15, Paragraph 1, even if the Support Agreement is cancelled in the middle of the month, regardless of the reason, Support Money shall not be prorated.
+8.  Please see the Help section ([https://fanbox.pixiv.help/hc/articles/360003698754](https://fanbox.pixiv.help/hc/articles/360003698754)) regarding payment methods and fees for Support Money.
+9.  When paying Support Money, a Supporter shall comply with the agreement terms and conditions, terms of use, and the like set forth by the payment processing service provider (“Payment Processing Service Provider”) for the Support Money, and must use a payment method that is in the name of the Supporter.
 
 Article 11. Performance of Duties under Support Agreements, Availability of a Cooling-Off Period, etc.
 ------------------------------------------------------------------------------------------------------
@@ -1213,6 +1217,7 @@ Supplemental Provisions
 Revision
 --------
 
+*   July 6th, 2026 “Article 10. Payment of Support Money and Payment Method” has been revised.
 *   June 30th, 2025 “Article 7. Posting”, “Article 21. Prohibitions” and “Article 25. Special Provisions regarding the Discord Integration Function” have been revised.
 *   April 21st, 2025　The entire Individual Terms of Use were updated.
 *   August 31st, 2023　“Article 15. Direct Deposit Request” was updated.
