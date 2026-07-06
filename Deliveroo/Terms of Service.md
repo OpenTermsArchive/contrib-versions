@@ -408,7 +408,7 @@ Referral Program Terms
 Deliveroo Plus Terms and Conditions
 -----------------------------------
 
-Last updated 28 January 2026
+Last updated 6 July 2026
 
 These T&Cs apply to you if you subscribe to a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account or the Deliveroo Terms of Use for Website and Applications, which will continue to apply except to the extent these T&C vary them.
 
@@ -570,23 +570,23 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 
 ###  **12. Deliveroo Plus Offer with Amazon Prime**
 
-*   Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes free delivery fees from a huge range of restaurants on orders over €18 and free delivery fees from grocery and retail stores on orders over €30. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during the ‘free period’. 
-*   If you end your Amazon Prime membership at any time during your ‘free period’, you will lose access to Deliveroo Plus and your 1-year free Deliveroo Plus with your Amazon Prime membership will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the 1-year free Deliveroo Plus membership with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
+*   Amazon Prime members can enjoy 1-year of a Deliveroo Plus Silver subscription with their Amazon Prime membership at no cost (the 'Plus Silver subscription period'). This includes free delivery fees from a huge range of restaurants on orders over €18 and free delivery fees from grocery and retail stores on orders over €30. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during the Plus Silver subscription period. 
+*   If you end your Amazon Prime membership at any time during your Plus Silver subscription period, then your Plus Silver subscription will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the Plus Silver subscription period with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
 *   To redeem the offer, you should: 
 
 1.  Go to deliveroo.ie/amazon-prime
 2.  Sign up or login to Deliveroo
 3.  Link your Amazon account
 
-*   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. If you end your Amazon Prime membership, your access to Plus will end, and you will need to sign up to a new Plus plan should you wish to continue using the service.
+*   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime Plus Silver subscription for 12 months after the offer redemption date. If you end your Amazon Prime membership, your access to Plus will end, and you will need to sign up to a new Plus plan should you wish to continue using the service. Deliveroo Plus Silver is only available in Ireland via our Amazon Prime partnership.
 
 ### **13\. Terms Applicable to Deliveroo Plus Gold Only**
 
 Plus Gold benefits may differ for different users. A Plus Credit-Back offer on restaurant orders may be available to You, subject to your specific plan. The benefits available to you will be made clear during the sign up process and any subsequent notifications issued by Deliveroo to You.
 
-*   The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. The Credit-Back benefit may vary by customer, and you will be clearly notified of any Credit-Back offer available to you as part of your sign-up journey or subsequent communications varying your subscription.
+*   The Deliveroo Plus Credit-Back benefit applies only to selected Eligible Users who are subscribed to Deliveroo Plus Gold. The Credit-Back benefit may vary by customer, and you will be clearly notified of any Credit-Back offer available to you as part of your sign-up journey or subsequent communications varying your subscription.
 *   Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders, Group orders or, if you are a Deliveroo for Work customer, when using your company allowance. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
-*   The Deliveroo Plus On-Time Promise benefit only to Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
+*   The Deliveroo Plus On-Time Promise benefit only to selected Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
 
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
 ------------------------------------------------------------------
