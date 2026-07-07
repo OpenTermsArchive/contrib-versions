@@ -114,8 +114,12 @@ When using our apps, we additionally collect the data necessary for functionalit
 *   Technical log data to ensure operational security
 
   
+  
+  
 
-##### 6\. Contact by Email, Contact Form, or Zendesk
+##### 6\. Contact, Support, and AI-Assisted Business Processes
+
+**6.1 Contact by Email, Contact Form, and Zendesk**
 
 If you contact us by email or via a contact form, we process the personal data you provide (in particular your email address and, if applicable, your name and telephone number) to handle your request.
 
@@ -132,6 +136,45 @@ Support requests are generally stored for a period of 24 months and then deleted
 
 Further information can be found in [Zendesk’s privacy policy.](https://www.zendesk.com/company/privacy-and-data-protection/)
 
+  
+
+**6.2 AI-Assisted Business Processes**
+
+We use AI language models as internal tools to make various business processes more efficient and to improve their quality. These include, among others:
+
+*   Processing and preparing responses to customer, partner, and investor inquiries as well as general business correspondence
+*   Product development, UI/UX optimization, and preparation of presentations and documents; where user scenarios or customer cases are discussed, these are anonymized to the extent possible
+*   Analysis of aggregated, non-personal key performance indicators for product optimisation
+
+All AI outputs are reviewed by our staff before they are used or sent.
+
+No automated decision-making within the meaning of Art. 22 GDPR takes place.
+
+**Personal Data**
+
+To the extent that enquiries or correspondence contain personal data (in particular, name, e-mail address, message content and technical account data such as role, community membership and subscription status), these may be entered into the AI systems listed below during processing. In the context of product development, usage scenarios are generally discussed in anonymized form; complete anonymization cannot be guaranteed in every individual case. For KPI analysis, only aggregated, non-personal data is processed.
+
+**AI Providers Used**
+
+*   Claude (Anthropic PBC), 548 Market St., PMB 90375, San Francisco, CA 94104, USA
+*   ChatGPT (OpenAI Ireland Ltd.), 1 Shelbourne Road, Ballsbridge, Dublin 4, Ireland
+
+Your data is not used to train AI models. For both ChatGPT (OpenAI) and Claude (Anthropic), we have disabled model training in the respective account settings.
+
+**Legal Basis:** Art. 6(1)(f) GDPR (legitimate interest in efficient business processes, high-quality communication, and the continuous improvement of our product).
+
+**International Data Transfers:** Anthropic and OpenAI may process data on servers located in the United States. The transfer is carried out on the basis of EU Standard Contractual Clauses pursuant to Art. 46 GDPR
+
+and – where applicable – the certification of the providers under the EU-U.S. Data Privacy Framework. It cannot be fully excluded that US authorities may access personal data in individual cases.
+
+We continuously assess whether an upgrade to business-tier plans with a formal Data Processing Agreement (DPA) pursuant to Art. 28 GDPR is required.
+
+Further information:
+
+*   [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)
+*   [OpenAI Privacy Policy](https://openai.com/de-DE/policies/privacy-policy/)
+
+  
   
 
 ##### 7\. Registration and Use of the Service
@@ -151,7 +194,7 @@ The provision of the mandatory information is required for the conclusion and pe
 
 **7.2 Use of the Services & Optimization**
 
-We log in pseudonymized form which planning functions and how many events are used in our app. This data is collected only during active use and serves performance optimization and the recommendation of suitable functions. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in improving our offering). You can object to this type of recommendation at any time (please contact us using the contact details provided in section 1).
+We log in pseudonymized form, which planning functions and how many events are used in our app. This data is collected only during active use and serves performance optimization and the recommendation of suitable functions. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in improving our offering). You can object to this type of recommendation at any time (please contact us using the contact details provided in section 1).
 
   
 
@@ -230,9 +273,9 @@ We distinguish the following categories:
 
 **10.3 Consent Management with CookieScript**
 
-To manage and document your consent preferences, we use CookieScript (a service provided by Objectis, UAB, Laisvės str. 60, LT-05120 Vilnius, Lithuania). CookieScript stores your consent preferences in a cookie on your device and allows us to keep track of your choices. The legal basis is Art. 6(1)(f) GDPR in conjunction with the applicable ePrivacy regulations.
+To manage and document your consent preferences, we use CookieScript (a service provided by Objectis, UAB, Laisvės Str. 60, LT-05120 Vilnius, Lithuania). CookieScript stores your consent preferences in a cookie on your device and allows us to keep track of your choices. The legal basis is Art. 6(1)(f) GDPR in conjunction with the applicable ePrivacy regulations.
 
-You may adjust or withdraw your consent settings (e.g. for cookies, analytics or marketing tools) at any time via the cookie banner on our website or in the app settings. Withdrawal is free of charge, straightforward, and takes effect for the future, without affecting the lawfulness of any processing carried out prior to the withdrawal. Alternatively, you may direct your withdrawal to the contact details provided in Section 1.
+You may adjust or withdraw your consent settings (e.g., for cookies, analytics, or marketing tools) at any time via the cookie banner on our website or in the app settings. Withdrawal is free of charge, straightforward, and takes effect for the future, without affecting the lawfulness of any processing carried out prior to the withdrawal. Alternatively, you may direct your withdrawal to the contact details provided in Section 1.
 
   
 
@@ -302,7 +345,7 @@ Further information: [Sentry privacy policy](https://sentry.io/privacy/)
 
 **11.5 Prismic**
 
-For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
+For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. of GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
 
 Further information: [Prismic privacy policy](https://prismic.io/legal/privacy)
 
@@ -453,4 +496,4 @@ Email: [privacy@gumb.app](mailto:privacy@gumb.app)
 
 Date of Entry into Force: September 20, 2020
 
-_Last Updated: March 01, 2026_
+_Last Updated: July 7, 2026_
