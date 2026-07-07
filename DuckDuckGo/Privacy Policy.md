@@ -1,5 +1,3 @@
-**Update June 2026:** We've updated our policy to cover Duck.ai chats and other optional features.
-
 Privacy Policy
 
 We don’t track you.
