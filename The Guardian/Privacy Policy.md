@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Mon 2 Feb 2026 14.45 CET
+Wed 8 Jul 2026 11.40 CEST
 
 [Prefer the Guardian on Google](https://www.google.com/preferences/source?q=theguardian.com)
 
@@ -9,8 +9,6 @@ Mon 2 Feb 2026 14.45 CET
 -----------------------------
 
 This is the privacy policy for Guardian News & Media Limited (collectively referred to as “Guardian”, “we”, “us” or “our” in this policy), our sites such as theguardian.com and our associated apps (“our sites”). Sometimes our sites may contain links to sites and services that are not part of the Guardian family of offerings. These sites and services have their own privacy policies. If you follow a link to these non-Guardian sites and apps, you should read the privacy policy shown on their site.
-
-This policy also incorporates specific data privacy rights granted to individuals under Californian and Australian privacy law. This reflects our relationship with our readers in these locations where we provide localised editions of our editorial content.
 
 Some of our other sites provide additional data privacy information. You can read that information using these links:
 
@@ -25,14 +23,16 @@ Some of our other sites provide additional data privacy information. You can rea
 
 If you are a provider of content in a freelance or other commercial capacity and/or a third party licensee customer of our content products and services, please refer to our Contributor & Licensing Customers privacy policy [here](https://www.theguardian.com/info/2024/nov/29/contributor-licensing-customers-privacy-policy).
 
-You will find below information on how we collect, use, share, transfer and, for California residents only, sell your personal data when you use the services provided on our sites or interact with us. This privacy policy also explains your data privacy rights.
+This policy incorporates specific data privacy rights granted to individuals under Australian privacy law. This reflects our relationship with our readers in locations where we provide localised editions of our editorial content.
+
+For additional information for **US residents**, please refer to our **US Privacy Policy addendum** [here](https://www.theguardian.com/info/2026/jul/08/privacy-policy-us-addendum).
 
 **1\. Who we are**
 ------------------
 
 Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of personal data that we collect from you. This means that we are responsible for our use of your personal data. If you want to contact us directly, you can find our contact details in the “Contact us” section below.
 
-Our [values](https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian) guide everything that we do – including our editorial approach and how we use personal data. We are strongly committed to keeping your personal data safe. This commitment exists throughout the lifecycle of your personal data, from the design of any Guardian service which uses personal data to the deletion of that data.
+Our [values](https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian) guide everything that we do, including our editorial approach and how we use personal data. We are strongly committed to keeping your personal data safe. This commitment exists throughout the lifecycle of your personal data, from the design of any Guardian service which uses personal data to the deletion of that data.
 
 The Guardian is a media organisation and publisher. Data privacy law includes certain exemptions when personal data is processed for the purposes of journalism. Those exemptions apply to some of the ways the Guardian uses personal data.
 
@@ -43,23 +43,21 @@ We collect your personal data when you visit our sites, subscribe for products o
 
 Personal data is any information which can identify you directly, or indirectly, for example when combined. Personal data can include your name, email address or phone number. It can also be information such as your IP address, or how you interact with our sites and services.
 
-When we refer to “personal data” in this policy, we are also referencing “personal information,” as it is defined under California law, and as it is defined under Australian law.
+When we refer to “personal data” in this policy, we are also referencing “personal information,” as it is defined under US State Privacy Laws, and as it is defined under Australian law. Data that has been deidentified or that otherwise cannot reasonably be related back to a specific person is not considered personal data.
 
 _**Personal data we collect when you register for a Guardian account on theguardian.com**_
 
 When you register for a Guardian account, we collect:
 
-*   Your name.
+*   Contact information and identifiers, such as your name, email address, and username
     
-*   Your email address.
+*   Your contact number and residential or billing address when you sign up to support us or purchase a subscription.
     
-*   Other details such as your contact number and residential or billing address when you sign up to support us or purchase a subscription.
-    
-*   Your username, if you comment on our sites.
-    
-*   Your photograph, if you add one to your profile page.
+*   Your image, such as your photograph, if you add one to your profile page, or captured in a video recording.
     
 *   Some limited data from your social media profile (further information on this is below), if you have signed in to theguardian.com using your social media details.
+    
+*   Where you invite others to share your Guardian account, the email address of the person you are inviting, solely for the purpose of sending the invitation.
     
 
 You can change or remove these details using the profile and settings area of your Guardian account.
@@ -74,11 +72,9 @@ We will match your unique ID number to your browsing behaviour to recognise you 
 
 When you use our sites we may also use cookies or similar technologies to collect or generate extra data, including:
 
-*   Your IP address, which is a numerical code to identify your device, together with the country, region or city where you are based.
-    
-*   Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment.
-    
 *   Information on how you interact with our services.
+    
+*   Geolocation data based on your IP address, from which we will infer the country, region or city where you are based.
     
 *   Your browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites.
     
@@ -89,7 +85,7 @@ When you use our sites we may also use cookies or similar technologies to collec
 
 _**Personal data we collect when you use our apps**_
 
-The Guardian apps use personal data based on the content you have viewed. Information on bugs and crashes is also sent to us when you use our apps, including your device’s information if you report an issue. A list of the articles that you have recently viewed is also cached in the local storage on your device. You can delete this reading history in the settings of the app. You can choose to receive notifications on your device via the app, and manage these notifications in the settings of the app.
+The Guardian apps use personal data based on the content you have viewed and your interactions with app features and settings. Information on bugs and crashes is also sent to us when you use our apps, including your device’s information if you report an issue. A list of the articles that you have recently viewed is also cached in the local storage on your device. You can delete this reading history in the settings of the app. You can choose to receive notifications on your device via the app, and manage these notifications in the settings of the app.
 
 _**Using your social media details to sign in to your Guardian account**_
 
@@ -117,14 +113,12 @@ When you register for a Guardian account, you have access to a profile page. Und
 
 _**Children’s personal data**_
 
-We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13 in providing our services. Some of our services may have a higher age restriction and this will be shown at the point of registration.
-
-We also note and comply with the California law which prohibits sale of personal data of consumers between 13-16 years of age unless their guardian has authorised the sale.
+We do not aim any of our products or services directly at children under the age of 18 and we do not knowingly collect personal data about children under 13 in providing our services. Some of our services may have a higher age restriction and this will be shown at the point of registration.
 
 **3\. How we collect personal data about you**
 ----------------------------------------------
 
-We collect personal data about you in line with applicable laws, in the following ways:
+We collect personal data in the following ways:
 
 *   Directly from you, e.g. when you sign up for our services, purchase products or services, including by signing up for newsletters or selecting specific topics you are interested in, including through My Guardian, and when you browse or use our sites.
     
@@ -192,7 +186,7 @@ The legal ground may be one of the following:
     
     *   Place non-essential cookies and similar technologies including for personalised advertising as set out in the “Privacy settings” link on our sites in the footer of every page, which you may withdraw at any time depending on whether you are able to read the Guardian ad free or have a Guardian Ad-Lite subscription.
         
-    *   Send your hashed email to advertising partners when you have agreed to personalised advertising inside our privacy banner or by clicking the “Privacy settings” link in the footer of every page..
+    *   Send your hashed email to advertising partners when you have agreed to personalised advertising inside our privacy banner or by clicking the “Privacy settings” link in the footer of every page.
         
 *   _Performance of a contract with you_ (or in order to take steps prior to entering into a contract with you): We will use your personal data if we need to in order to perform a contract with you. For example, where you have purchased a subscription from us, we will need to use your contact details and payment data in order to process your order and deliver your subscription. We will use your information as necessary in order to conduct competitions or prize draws. We may contact you directly via social media or email if you enter competitions, prize draws, bids or respond to call-outs.
     
@@ -201,7 +195,7 @@ The legal ground may be one of the following:
 *   _Our legitimate interest_: We may process your personal data where it is necessary for our legitimate interests in a way that might be expected as part of running the Guardian and in a way which does not materially impact your rights and freedoms. For example, it is in our legitimate interest for us to understand our readers, promote our services and ways to support us, and operate our sites efficiently for the creation, publication and distribution of news, media and related journalistic content both online and in print form, globally.
     
 
-Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.
+Please refer to the table below for examples of the lawful basis we rely on when using your personal data.
 
 In addition to the above, we also rely on the legitimate interests below to use your personal data:
 
@@ -252,14 +246,9 @@ If we have your permission, we may contact you for research purposes, for exampl
 
 If you have raised a query or a complaint with us, we may contact you to answer your query or to resolve your complaint.
 
-*   Special Note to California Users
-    
-
-If you elect to use the “California resident - Do not sell” button, we will not recontact you about that choice for at least 12 months.
-
 _**AI functionalities**_
 
-The Guardian may use generative AI functionalities in our software and systems, including in our use of personal data. The Guardian has set out our generative AI principles on how we will use generative AI.
+The Guardian may use generative AI functionalities in our software and systems, including in our use of personal data. The Guardian has set out our generative [AI principles](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai) on how we will use generative AI.
 
 _**Access permissions when you are using the Guardian app**_
 
@@ -380,9 +369,9 @@ We may share your personal data to any other organisation that buys, or to which
 
 When we share your personal data, as specified above, with any organisation which accesses your personal data in the course of providing services on our behalf, they will be governed by strict contractual restrictions to make sure that they protect your personal data and comply with applicable law. We may also independently audit these service providers to make sure that they meet our standards.
 
-_California resident - Do not sell_
+_US residents_
 
-These transfers to third parties may constitute “sale” of your personal information under California law. A California resident can halt these sales at any time by pressing the “California resident - Do not sell” link that is located in the footer of every page on our site. Third-parties do not sell personal information that has been sold to them by the Guardian unless you have first received explicit notice and are provided an opportunity to exercise the right to opt out.
+Certain transfers of personal data to third parties may constitute a “sale” of your personal information under US State Privacy Laws. For more information about how to exercise your right to opt-out of the sale of your personal information or the sharing of your personal information for personalised advertising, please see our [Privacy Policy US addendum](https://www.theguardian.com/info/2026/jul/08/privacy-policy-us-addendum).
 
 **6\. International data transfers**
 ------------------------------------
@@ -423,9 +412,9 @@ You have a number of rights with regard to the personal data that we hold about 
     
 *   You have the right to correct the personal data we hold about you.
     
-*   Where applicable, you may also have a right to receive a machine-readable copy of your personal data.
+*   Where applicable, you may have a right to receive a machine-readable copy of your personal data.
     
-*   You also have the right to ask us to delete your personal data or restrict how it is used. There may be exceptions to the right to erasure for specific legal reasons which, if applicable, we will set out for you in response to your request.
+*   You have the right to ask us to delete your personal data or restrict how it is used. There may be exceptions to the right to erasure for specific legal reasons which, if applicable, we will set out for you in response to your request.
     
 *   Where applicable, you have the right to object to processing of your personal data for certain purposes.
     
@@ -438,50 +427,10 @@ We may need verification of your identity to proceed with a request. If you prov
 
 You will not have to pay a fee to obtain a copy of your personal data (or to exercise any of the other rights). However, for any further copies requested by you, we may charge a reasonable fee based on administrative costs.
 
-**10\. Your California privacy rights**
+**10\. Your Australian privacy rights**
 ---------------------------------------
 
-The California Consumer Privacy Act 2018 (“CCPA”) and California Privacy Rights Act 2020 (“CPRA”) provide certain rights to residents of California. The CCPA and CPRA are collectively referred to as “CCPA” below.
-
-If you are a resident of California you may contact us with regard to the following rights in relation to your personal data:
-
-*   Right to Know: At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal data and sensitive personal data to be collected, the purposes for which it is collected and used, whether such personal data is “sold or shared” and for how long personal data is retained. These details are set out in this Privacy Policy.
-    
-*   Right to Access: You have the right to request access to the personal data we may hold on you for the past twelve (12) months. You may submit up to two (2) requests per year of access to your personal data.
-    
-*   Right to Correct: You have the right to correct inaccurate personal data we hold about you.
-    
-*   Right to Opt-Out of Sale of Personal Data: For individuals sixteen (16) years or older, you have the right to opt-out of sale of personal data we may hold on you. You can exercise this right at any time by pressing the “California resident - Do not sell” link in the footer of every page on our site. For individuals between thirteen (13) to sixteen (16) years old, you have the right to opt-in to the sale of personal data we may hold on you.
-    
-*   Right to Deletion: You also have the right to ask us to delete personal data we may hold on you or restrict how it is used. There may be exceptions to the right to deletion which, if applicable, we will set out for you in response to your request.
-    
-*   Right to Limit Use and Disclosure of Sensitive Personal Data: Where applicable, you have the right to limit our use of sensitive personal data for any purposes other than to provide the services you request or as otherwise permitted by law.
-    
-*   Right to Non-Discrimination: We will not discriminate against you for exercising any of your California Consumer Privacy Act rights.
-    
-
-If you want to make any of these requests, please contact dataprotection@theguardian.com. We will deal with requests for access to your personal data within forty-five (45) days for California-specific requests.
-
-To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity. For example, we will verify your identity before complying. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.
-
-You can designate an “authorized agent” to make requests to exercise your rights on your behalf under the CCPA. We will clarify that any “authorized agent” has your written permission in making that request. We may also contact you directly to verify your identity.
-
-We recognize and honor GPC signals. Please find more information on the [Global Privacy Control](https://globalprivacycontrol.org/) website.
-
-**Record of requests**
-
-We keep a record of requests that we received from users exercising their CCPA rights. We have set out this record of requests for the last calendar year from 1 July 2024 below:
-
-**California “Shine the Light” privacy rights**
-
-Residents of California can ask us to provide a list of the types of personal data we have disclosed to third parties for direct marketing purposes and the identity of those third parties. We do not generally disclose personal data as defined under the California “Shine the Light” law. To the extent that we share email addresses with third parties in connection with online marketing that could be covered, you may opt-out through your “Manage My Account” choices.
-
-To make a “Shine the Light” request, please email dataprotection@theguardian.com with “Shine the Light” in the subject line.
-
-**11\. Your Australian privacy rights**
----------------------------------------
-
-The Australian privacy Act has rules around how we handle your personal information that may be different to rules in other regions. These rules are set out in the Australian Privacy Principles in force under the Privacy Act 1988 (Cth) (the Australian Privacy Act). We are required to treat your personal information in line with those principles, including to disclose to you what personal information we collect and how we use it, to store your information securely and to support you in exercising your rights.
+The Australian Privacy Act has rules around how we handle your personal information that may be different to rules in other regions. These rules are set out in the Australian Privacy Principles in force under the Privacy Act 1988 (Cth) (the Australian Privacy Act). We are required to treat your personal information in line with those principles, including to disclose to you what personal information we collect and how we use it, to store your information securely and to support you in exercising your rights.
 
 _**Personal information we collect and use**_
 
@@ -516,12 +465,18 @@ GPO BOX 5218, Sydney NSW 2001
 
 [https://www.oaic.gov.au/](https://www.oaic.gov.au/)
 
-**12\. Contact us**
+**11\. Contact us**
 -------------------
 
-If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU or, email [dataprotection@theguardian.com](mailto:dataprotection@theguardian.com).
+If you have any questions or concerns about how we use your personal data, please contact the Data Protection Team, by email at [dataprotection@theguardian.com](mailto:dataprotection@theguardian.com); or by post at:
 
-Complaints will be dealt with by the Data Protection Team, and will be responded to within 30 days.
+Guardian News & Media Limited
+
+Kings Place, 90 York Way
+
+London N1 9GU
+
+Data protection complaints will be acknowledged within 30 days, investigated without undue delay and a response provided by the Data Protection Team.
 
 If you are not satisfied with the way your concern has been handled, you can refer your complaint to the [Information Commissioner’s Office](https://ico.org.uk/).
 
@@ -529,28 +484,20 @@ If you have a question about anything else, please see our Contact us page [here
 
 For individuals based in the European Union:
 
-Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at theguardian@mcf.ie or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
+We do not have an establishment in the European Union. We have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at theguardian@mcf.ie or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
 
-**Changes to this privacy policy**
-----------------------------------
+**Changes to this privacy policy and the US addendum**
+------------------------------------------------------
 
 If we decide to change our privacy policy, the updated privacy policy will be posted on this page. If the changes are significant, we may also choose to email all our registered users with the new details. If required by law, we will get your permission or give you the opportunity to opt out of any new uses of your data.
 
 The most recent changes to this privacy policy were made on:
 
+*   8 July 2026
+    
 *   2 February 2026
     
 *   1 July 2025
-    
-*   5 March 2025
-    
-*   1 July 2024
-    
-*   9 February 2024
-    
-*   8 December 2023
-    
-*   13 July 2023
     
 
 A list of all previous changes are available upon request.
