@@ -3,7 +3,7 @@ Bandcamp's Acceptable Use and Moderation Policy
 
 The article lists what content or behavior is acceptable on Bandcamp and what is prohibited. It explains how to report content you believe violates these policies, and how to appeal a decision if action has been taken against your account or content.
 
-Updated over 3 weeks ago
+Updated over a month ago
 
 Table of contents
 
@@ -208,4 +208,4 @@ Actions you can take:
 
 Related Articles
 
-[Bandcamp Listening Clubs](https://get.bandcamp.help/en/articles/15263044-bandcamp-listening-clubs)[Notice about employment scams](https://get.bandcamp.help/en/articles/15263046-notice-about-employment-scams)[What you need to know about evolving global tariff policies](https://get.bandcamp.help/en/articles/15263049-what-you-need-to-know-about-evolving-global-tariff-policies)[Publishing royalty collection on Bandcamp](https://get.bandcamp.help/en/articles/15263125-publishing-royalty-collection-on-bandcamp)[How do I sell merch on Bandcamp?](https://get.bandcamp.help/en/articles/15263170-how-do-i-sell-merch-on-bandcamp)
+[Bandcamp Listening Clubs](https://get.bandcamp.help/en/articles/15263044-bandcamp-listening-clubs)[What you need to know about evolving global tariff policies](https://get.bandcamp.help/en/articles/15263049-what-you-need-to-know-about-evolving-global-tariff-policies)[Publishing royalty collection on Bandcamp](https://get.bandcamp.help/en/articles/15263125-publishing-royalty-collection-on-bandcamp)[How do I sell merch on Bandcamp?](https://get.bandcamp.help/en/articles/15263170-how-do-i-sell-merch-on-bandcamp)
