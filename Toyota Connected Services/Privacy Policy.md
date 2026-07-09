@@ -325,39 +325,3 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259003  
 Plano, TX 75025-9003  
 United States
-
-PERSONAL INFORMATION SHARING PRACTICES FOR 2025
-
-(Effective as of January 1, 2026)  
-During 2025, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
-
-**Name  
-Address  
-Email address  
-Telephone number  
-Model vehicle purchased or leased**
-
-SiriusXM Satellite Radio is located at:  
-SiriusXM Radio  
-1221 Avenue of the Americas  
-36th Floor  
-New York, NY 10020
-
-Toyota Financial Services is located at:  
-Toyota Financial Services - Mailstop EF10  
-P.O. Box 259001  
-Plano, TX 75025-9001
-
-Toyota Insurance Management Services is located at:  
-Toyota Insurance Management Services  
-7600 Windrose Avenue, Suite G-240  
-Plano, TX 75024
-
-Please click on the link below to view a list of authorized Toyota dealers.  
-[Toyota dealers](https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2023_Dealer_List.pdf)
-
-You may also obtain this information by sending a request to:
-
-Toyota Motor Sales, U.S.A., Inc.  
-P.O. Box 259001  
-Plano, TX 75025-9001
