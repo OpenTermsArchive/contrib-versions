@@ -1021,220 +1021,195 @@ Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraien
 _CONDITIONS GENERALES D ABONNEMENT "Cdiscount à volonté"_  
 -----------------------------------------------------------
 
-**  
-  
-CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE »**
+CONDITIONS GENERALES D'ABONNEMENT « CDISCOUNT A VOLONTE »
+=========================================================
 
-  
-  
- 
+ARTICLE 1 - CHAMP D'APPLICATION
+-------------------------------
 
-**ARTICLE 1 - CHAMP D'APPLICATION** 
+Les présentes conditions générales d'abonnement (ci-après, les "**CGA**") à « Cdiscount à volonté » (ci-après, le "**Service**") s'appliquent à tout abonnement (ci-après, l'« **Abonnement** ») au Service par un particulier, et agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l'« **Abonné** »), soit :
 
-Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") à « Cdiscount à volonté » (ci-après , le "**Service**") s’appliquent à tout abonnement (ci-après, l’ « **Abonnement** ») au Service par un particulier, et agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
+*   directement sur son site internet accessible à l'adresse suivante : [www.cdiscount.com](https://www.cdiscount.com/) et par l'intermédiaire des applications Android ou IOS CDISCOUNT pour smartphones ou tablettes,
 
-*   directement sur son site internet accessible à l'adresse suivante : [www.cdiscount.com](https://www.cdiscount.com/) et par l'intermédiaire des applications Android ou IOS CDISCOUNT pour smartphones ou tablettes,
-
-(ci-après, ensemble le "**Site** "), ou,
+(ci-après, ensemble le "**Site** "), ou,
 
 *   par téléphone :
 
-        \- depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;  
-        - depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
-          - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
-        - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
-        - depuis l’Espagne au 0800 00 01 17 (numéro gratuit);  
-        -  depuis le Luxembourg au 0800 40 234 (numéro gratuit);
+*   depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;
+*   depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+*   depuis l'Italie au 800 694 130 (numéro gratuit) ;
+*   depuis l'Allemagne au 0800 627 9980 (numéro gratuit) ;
+*   depuis l'Espagne au 0800 00 01 17 (numéro gratuit) ;
+*   depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;
 
-Cdiscount se réserve le droit de modifier les présentes CGA, à tout moment et sans préavis, y compris les conditions de l'Offre d'essai gratuit telle que définie ci-après. Les CGA applicables à l’Abonnement sont celles en vigueur au jour où l'Abonné passe commande de l'Abonnement au Service (ci-après la "**Date de souscription**"). Elles complètent les CGV de Cdiscount.
+Cdiscount se réserve le droit de modifier les présentes CGA, à tout moment et sans préavis, y compris les conditions de l'Offre d'essai gratuit telle que définie ci-après. Les CGA applicables à l'Abonnement sont celles en vigueur au jour où l'Abonné passe commande de l'Abonnement au Service (ci-après la "**Date de souscription**"). Elles complètent les CGV de Cdiscount.
 
-L’Abonnement au Service est strictement personnel, il est interdit de le transférer à un tiers.
+L'Abonnement au Service est strictement personnel, il est interdit de le transférer à un tiers.
 
-   
-  
+ARTICLE 2 - DESCRIPTION DU SERVICE
+----------------------------------
 
-  
-**ARTICLE 2 - DESCRIPTION DU SERVICE**  
-  
-
-L’Abonnement au Service permet à l’Abonné :
+L'Abonnement au Service permet à l'Abonné :
 
 De bénéficier :
 
-*   de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles  »), dans les conditions définies à l'article 2.1 ;
-
+*   de la livraison offerte sur les produits éligibles commandés sur le Site (ci-après, les « Produits Eligibles »), dans les conditions définies à l'article 2.1 ;
 *   de prix réduits sur une sélection de produits ;
-
 *   du programme Cdiscount Famille ;
+*   du privilège « Ma cagnotte à volonté », dans les conditions définies à l'article 9 ;
+*   Et d'autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l'Abonné, et dont la disponibilité peut varier en cours d'Abonnement.
 
-*   du privilège  « Ma cagnotte à volonté » , dans les conditions définies à l’article 9 ;
+De faire bénéficier : des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d'abonnement dans les conditions définies à l'article 8.1.
 
-*   Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné, et dont la disponibilité peut varier en cours d’Abonnement.
+La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d'Abonnement, sans préavis ni indemnité au profit de l'Abonné. L'Abonné sera informé de l'évolution desdits avantages par tout moyen.
 
-De faire bénéficier : des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
+### 2.1 Livraison offerte des Produits Eligibles (France métropolitaine, Belgique, Luxembourg)
 
- La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
+Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention "**Produit Cdiscount à volonté**" sur la fiche produit du Produit Eligible.
 
-**2.1 Livraison offerte des Produits Eligibles (France métropolitaine, Belgique, Luxembourg)**
+Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.
 
-  
-Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention " Produit **C****discount** **à v****o**l**o**nté****" sur la fiche produit du Produit Eligible.  
-Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.  
-Cdiscount propose la livraison gratuite en express (jusqu'à 72heures ouvrées maximum).  
-En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) et sur notre page dédiée à notre abonnement Cdiscount à Volonté en [cliquant ici](https://www.cdiscount.com/cdav/livraison-a-volonte?cm_sp=Site:PrivilegeLivP:CDAV).  
+La livraison offerte s'applique sur les modes de livraison listés ci-dessous et pour un minimum d'achat qui varie en fonction du mode de livraison choisi et du montant du colis. Ces informations sont disponibles sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) et notre page dédiée à notre abonnement Cdiscount à Volonté en [cliquant ici](https://www.cdiscount.com/cdav/livraison-a-volonte?cm_sp=Site:PrivilegeLivP:CDAV).
 
-La livraison offerte s’applique sur les modes de livraison listés ci-dessous et pour un minimum d'achat qui varie en fonction du mode de livraison choisi et du montant du colis.
+**Pour une livraison en France métropolitaine** :
 
-**Pour une livraison en France métropolitaine** :
+Modes de livraison express (entre 24heures et 72heures ouvrées) :
 
-Modes de livraison express (entre 24heures et 72heures ouvrées):
-
-   *   Chronopost à domicile
-*   Chronopost en soirée
 *   Chronopost en points retraits
-*   DPD à domicile
 *   Relais Colis Express
-     Modes de livraison standard **:**
-
 *   DPD à domicile
+*   Chronopost à domicile
+
+Modes de livraison standard :
+
 *   Chronopost en Point retrait
-*   Colissimo
 *   Mondial Relay
 *   Relais Colis
+*   Colissimo
+*   DPD à domicile
 
-**Pour une livraison en Belgique et au Luxembourg** :
+**Pour une livraison en Belgique et au Luxembourg** :
 
-   
 Mode de livraison express (entre 24heures et 72heures ouvrées) :
 
 *   Chronopost à domicile sans rendez-vous
 
 Modes de livraison standard :
 
-*   Mondial Relay 
+*   Mondial Relay
 
- Pour une livraison en Italie, Allemagne et Espagne :  
-  
-La livraison offerte n'est pas applicable. En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft)  
-  
+**Pour une livraison en Italie, Allemagne et Espagne** :
 
-**2.2 Prix réduits**
+La livraison offerte n'est pas applicable. En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
 
-L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonnés CDAV »).
+### 2.2 Prix réduits
 
-**2.3 Programme CDISCOUNT Famille**
+L'Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonnés CDAV »).
+
+### 2.3 Programme CDISCOUNT Famille
 
 Pendant toute la durée de son Abonnement, l'Abonné bénéficie du programme Cdiscount Famille, incluant les avantages suivants :
 
-\-          remises ponctuelles sur les produits de l' "univers enfant" du Site (exemples : jeux, jouets, mode enfant, puériculture) ;
-
-\-          offres spéciales "anniversaire" dédiées aux enfants (personnes physiques mineures) renseignés par l'Abonné.
+*   remises ponctuelles sur les produits de l'"univers enfant" du Site (exemples : jeux, jouets, mode enfant, puériculture) ;
+*   offres spéciales "anniversaire" dédiées aux enfants (personnes physiques mineures) renseignés par l'Abonné.
 
 Il est précisé que pour bénéficier des offres spéciales "anniversaire", l'Abonné doit :
 
-\-          avoir préalablement renseigné au moins un (1) enfant ;
+*   avoir préalablement renseigné au moins un (1) enfant ;
+*   avoir accepté de recevoir des emails de la part de Cdiscount. A défaut, Cdiscount sera dans l'incapacité d'adresser à l'Abonné les offres spéciales "anniversaire" telles que décrites ci-avant.
 
-\-          avoir accepté de recevoir des emails de la part de Cdiscount. A défaut, Cdiscount sera dans l'incapacité d'adresser à l'Abonné les offres spéciales "anniversaire" telles que décrites ci-avant.
+### 2.4 Privilège « Ma Cagnotte à Volonté »
 
-**2.4 Privilège « Ma Cagnotte à Volonté »**
+Le Service offre la possibilité pour l'Abonné de cumuler du crédit sur une cagnotte dématérialisée consultable dans son Espace Client (ci-après la « **Cagnotte** ») pour l'achat de produits éligibles sur le Site, qui n'auront pas fait l'objet d'une rétractation ou d'une annulation, dans les conditions précisées à l'article 9 ci-après.
 
-Le Service offre la possibilité pour l’Abonné de cumuler du crédit sur une cagnotte dématérialisée consultable dans son Espace Client (ci-après la « **Cagnotte** ») pour l’achat de produits éligibles sur le Site, qui n'auront pas fait l'objet d'une rétractation ou d'une annulation, dans les conditions précisées à l’article 9 ci-après.
+### 2.5 Autres avantages
 
-**2.5 Autres avantages**
+L'Abonné pourra également bénéficier d'avantages ponctuels, offerts par les partenaires de Cdiscount. Ces avantages peuvent être différents en fonction du pays de résidence de l'Abonné.
 
-L’Abonné pourra également bénéficier d’avantages ponctuels, offerts par les partenaires de Cdiscount. Ces avantages peuvent être différents en fonction du pays de résidence de l’Abonné.
+Leur disponibilité et leur contenu peuvent varier en cours d'Abonnement, sans préavis ni indemnité au profit des Abonnés. L'Abonné sera informé de l'évolution desdits avantages par tout moyen.
 
-Leur disponibilité et leur contenu peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit des Abonnés. L’Abonné sera informé de l’évolution desdits avantages par tout moyen.
+ARTICLE 3 - PRIX DU SERVICE
+---------------------------
 
-**ARTICLE  3 - PRIX DU SERVICE**
+**3.1.** Le prix de l'Abonnement au Service est celui qui est indiqué sur le Site le jour où l'Abonné passe commande de l'Abonnement au Service.
 
-**3.1.** Le prix de l’Abonnement au Service est celui qui est indiqué sur le Site le jour où l’Abonné passe commande de l'Abonnement au Service.  
+Cdiscount se réserve le droit de modifier le prix de l'Abonnement du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de l'Abonnement au Service, Cdiscount en informera personnellement l'Abonné, par email, préalablement à l'application de ce prix, lequel ne sera en tout état de cause applicable, qu'au jour du renouvellement de l'Abonnement au Service dans les conditions précisées ci-après.
 
-Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de l’Abonnement au Service, Cdiscount en informera personnellement l’Abonné, par email, préalablement à l'application de ce prix, lequel ne sera en tout état de cause applicable, qu'au jour du renouvellement de l’Abonnement au Service dans les conditions précisées ci-après.  
-  
 **3.2.** Dans le cas où :
 
-*   l’Abonné ne bénéficie pas de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera réalisé au jour de la Date de souscription au Service.
-
-*   l’Abonné bénéficie de l’Offre d’essai gratuit, telle que définie ci-après, le paiement du prix de l’Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service.
+*   l'Abonné ne bénéficie pas de l'Offre d'essai gratuit, telle que définie ci-après, le paiement du prix de l'Abonnement au Service sera réalisé au jour de la Date de souscription au Service.
+*   l'Abonné bénéficie de l'Offre d'essai gratuit, telle que définie ci-après, le paiement du prix de l'Abonnement au Service sera différé au sixième (6ème) jour suivant la Date de souscription au Service.
 *   Afin de garantir le paiement du Service à l'issue de la Période d'essai telle que définie à l'article 4.1 ci-après, Cdiscount procédera à une empreinte bancaire du prix de l'Abonnement sur la carte bancaire que l'Abonné aura utilisée lors de la souscription au Service. En cas d'échec de l'empreinte bancaire, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné et la souscription au Service ne sera pas effective. En cas d'interruption de la Période d'essai par l'Abonné ou par Cdiscount, aucune somme ne sera débitée de la carte bancaire utilisée par l'Abonné.
 
 En cas de reconduction de l'Abonnement conformément aux stipulations de l'article 5 ci-après, le paiement du prix de l'Abonnement sera exigible au jour du renouvellement de l'Abonnement.
 
-3.3 En cas d’offre promotionnelle portant sur le prix de l’Abonnement au Service lors de la souscription, l’Abonné reconnait que le prix promotionnel n’est applicable que pour la première année de souscription à l’Abonnement et ne saurait s’appliquer en cas de tacite reconduction pour les années suivantes.
+**3.3** En cas d'offre promotionnelle portant sur le prix de l'Abonnement au Service lors de la souscription, l'Abonné reconnait que le prix promotionnel n'est applicable que pour la première année de souscription à l'Abonnement et ne saurait s'appliquer en cas de tacite reconduction pour les années suivantes.
 
-   
- 
+ARTICLE 4 - OFFRE D'ESSAI GRATUIT
+---------------------------------
 
-**ARTICLE 4 - OFFRE D'ESSAI GRATUIT**
+Cdiscount est susceptible de proposer une offre d'essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d'arrêter l'offre d'essai gratuit à tout moment ; le cas échéant, l'offre d'essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.
 
-Cdiscount est susceptible de proposer une offre d’essai gratuit dans les conditions décrites ci-après. Cdiscount se réserve le droit d’arrêter l’offre d’essai gratuit à tout moment ; le cas échéant, l’offre d’essai gratuit ne sera pas visible sur le Site au moment de la souscription au service.  
-  
+En cas d'offre d'essai gratuit, la durée de l'essai gratuit sera susceptible d'être modifiée par Cdiscount. La durée de l'essai gratuit sera alors celle indiquée par Cdiscount au jour de la souscription à l'Abonnement.
 
-En cas d‘offre d’essai gratuit, la durée de l’essai gratuit sera susceptible d’être modifiée par Cdiscount. La durée de l’essai gratuit sera alors celle indiquée par Cdiscount au jour de la souscription à l’Abonnement. 
+### 4.1 Conditions d'éligibilité à l'Offre d'essai gratuit
 
-**4.1** **Conditions d'éligibilité à l'Offre d'essai gratuit**
+Tout nouvel Abonné Cdiscount à volonté qui passe simultanément commande sur le Site d'un Abonnement à Cdiscount à volonté et d'un ou plusieurs produit(s), profitera, en sus du délai légal de rétractation, de six (6) jours d'essai gratuits (ci-après, la "Période d'essai") sur son Abonnement Cdiscount à volonté (ci-après, l'"Offre d'essai gratuit").
 
-Tout nouvel Abonné Cdiscount à volonté qui passe simultanément commande sur le Site d'un Abonnement à Cdiscount à volonté et d'un ou plusieurs produit(s), profitera, en sus du délai légal de rétractation, de six (6) jours d'essai gratuits (ci-après, la "Période d'essai") sur son Abonnement Cdiscount à volonté (ci-après, l'"Offre d'essai gratuit").  
-  
-Seuls les nouveaux Abonnés sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés n'ayant pas bénéficié de la Période d'essai gratuit au cours des douze (12) derniers mois précédant leur commande.
+Seuls les nouveaux Abonnés sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés n'ayant pas bénéficié de la Période d'essai gratuit au cours des douze (12) derniers mois précédant leur commande.
 
-Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.  
+Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.
 
-**4.2 Interruption de la Période d'essai**
+### 4.2 Interruption de la Période d'essai
 
-   
 Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il peut :
 
-\-          se rendre dans la rubrique "Cdiscount à volonté" de son Espace Client, accessible via l'URL [www.cdiscount.com](https://www.cdiscount.com/) sur PC et tablette, à l'exception du site mobile, ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;
+*   se rendre dans la rubrique "Cdiscount à volonté" de son Espace Client, accessible via l'URL [www.cdiscount.com](https://www.cdiscount.com/), ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;
+*   ou contacter notre Service Client, disponible par téléphone, aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :
+    *   depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;
+    *   depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+    *   depuis l'Italie au 800 694 130 (numéro gratuit) ;
+    *   depuis l'Allemagne au 0800 627 9980 (numéro gratuit) ;
+    *   depuis l'Espagne au 0800 00 01 17 (numéro gratuit) ;
+    *   depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;
 
-\-     ou contacter notre Service Client, disponible par téléphone, aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :  
-            - depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
-            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
-            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
-            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
-            - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
+ARTICLE 5 - DUREE
+-----------------
 
-**ARTICLE 5 - DUREE**
+### 5.1 Dans le cas où l'Abonné bénéficie de l'Offre d'essai gratuit
 
-**5.1 Dans le cas où l'Abonné bénéficie de l'Offre d'essai gratuit**
+L'Abonnement au Service est valable douze (12) mois et six (6) jours (ou toute autre durée de l'essai gratuit mentionnée par Cdiscount) à compter de la Date de souscription au Service.
 
-L'Abonnement au Service est valable douze (12) mois et six (6) jours (ou toute autre durée de l'essai gratuit mentionnée par Cdiscount) à compter de la Date de souscription au Service.  
-  
 Il sera ensuite renouvelé pour des périodes successives de douze (12) mois, par tacite reconduction chaque année, dans les conditions prévues aux articles L.215-1 et L.241-3 du Code de la consommation reproduits ci-après.
 
-**5.2 Dans le cas où l'Abonné n'a pas bénéficié de l'Offre d'essai gratuit**
+### 5.2 Dans le cas où l'Abonné n'a pas bénéficié de l'Offre d'essai gratuit
 
-L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
-  
-L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement, dans les conditions prévues aux articles L215-1 et L241-3 du code de la consommation reproduits ci-après.
+L'Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.
 
-La date anniversaire de l’Abonnement au Service correspond à la date de souscription au Service.
+L'Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d'anniversaire de l'Abonnement, dans les conditions prévues aux articles L215-1 et L241-3 du code de la consommation reproduits ci-après.
 
-**5.3. Dispositions communes relatives à la durée**
+La date anniversaire de l'Abonnement au Service correspond à la date de souscription au Service.
 
-L’Abonné sera informé par email de la date de reconduction de son Abonnement au Service. Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.
+### 5.3. Dispositions communes relatives à la durée
 
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
-            - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
-            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
-            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
-            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
-            - depuis le Luxembourg au 0800 40 234 (numéro gratuit); 
+L'Abonné sera informé par email de la date de reconduction de son Abonnement au Service. Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.
 
-Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé le jour de la date d’anniversaire de l’Abonnement :
+Si l'Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :
 
-*   sur la dernière carte bancaire enregistrée dans l’Espace Client de l’Abonné ;
-*   ou, dans l'hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné ou serait arrivée à expiration, sur toute autre carte bancaire enregistrée dans l’Espace Client de l’Abonné ;
+*   depuis la France au 09 70 80 90 50 (numéro non surtaxé)
+*   depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+*   depuis l'Italie au 800 694 130 (numéro gratuit) ;
+*   depuis l'Allemagne au 0800 627 9980 (numéro gratuit) ;
+*   depuis l'Espagne au 0800 00 01 17 (numéro gratuit) ;
+*   depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;
 
-*   ou, dans l'hypothèse où ces cartes auraient été supprimées de l'Espace Client de l'Abonné ou seraient arrivées à expiration, sur le moyen de paiement utilisé pour le paiement de l’Abonnement initial.
+Dans le cadre d'une tacite reconduction de son Abonnement, le montant de l'Abonnement au Service sera prélevé le jour de la date d'anniversaire de l'Abonnement sur l'une des cartes bancaires enregistrées par l'Abonné dans son Espace Client pour ladite reconduction. Il peut s'agir de la carte bancaire ayant été utilisée pour la souscription de l'Abonnement ou d'une autre carte bancaire pour laquelle l'Abonné a autorisé l'enregistrement pour des paiements ultérieurs, dont la reconduction de l'Abonnement.
 
-Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l’Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
+Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l'Abonné mais de celle d'un tiers, l'Abonné garantit à CDISCOUNT qu'il dispose des droits nécessaires pour utiliser la carte de paiement dont il n'est pas le titulaire.
 
-**Reproduction des dispositions légales :  
-**_L215-1 du Code de la consommation_
+**Reproduction des dispositions légales :**
+
+_L215-1 du Code de la consommation_
 
 _Pour les contrats de prestations de services conclus pour une durée déterminée avec une clause de reconduction tacite, le professionnel prestataire de services informe le consommateur par écrit, par lettre nominative ou courrier électronique dédiés, au plus tôt trois mois et au plus tard un mois avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il a conclu avec une clause de reconduction tacite. Cette information, délivrée dans des termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date limite de non reconduction._
 
@@ -1242,252 +1217,203 @@ _Lorsque cette information ne lui a pas été adressée conformément aux dispos
 
 _Les avances effectuées après la dernière date de reconduction ou, s'agissant des contrats à durée indéterminée, après la date de transformation du contrat initial à durée déterminée, sont dans ce cas remboursées dans un délai de trente jours à compter de la date de résiliation, déduction faite des sommes correspondant, jusqu'à celle-ci, à l'exécution du contrat. Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des règles particulières en ce qui concerne l'information du consommateur._
 
-_  
-L241-3 du Code de la consommation_
+_L241-3 du Code de la consommation_
 
 _Lorsque le professionnel n'a pas procédé au remboursement dans les conditions prévues à l'article L215-1, les sommes dues sont productives d'intérêts au taux légal._
 
-  
-**ARTICLE 6 - RETRACTATION**
+ARTICLE 6 - RETRACTATION
+------------------------
 
-Conformément aux dispositions de l’article L221-18 du code de la consommation, l’Abonné dispose d’un délai de quatorze (14) jours suivants la Date de souscription au Service pour se rétracter.
+Conformément aux dispositions de l'article L221-18 du code de la consommation, l'Abonné dispose d'un délai de quatorze (14) jours suivants la Date de souscription au Service pour se rétracter.
 
 L'Abonné peut faire usage de son droit de rétractation :
 
-\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
-
-\-          et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
+*   sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
+*   et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
 
 Ce droit de rétractation est exercé par écrit, par tout moyen, et notamment :
 
-\-          via l'Espace client, en complétant un formulaire en ligne. Ce formulaire est accessible en cliquant sur la rubrique "Cdiscount à volonté" puis sur le bouton "Se désabonner" ;
+*   via l'Espace client, par une fonctionnalité en ligne gratuite, directement et facilement accessible depuis la rubrique « Cdiscount à volonté » sur votre Espace client puis sur le bouton "Se désabonner" ; En vous connectant sur votre Espace Client, vous confirmez votre identité (nom et prénom) et l'adresse mail à laquelle vous sera envoyé l'accusé réception de votre rétractation immédiatement après que vous aurez eu confirmé celle-ci.
+*   ou en nous adressant le formulaire présenté à l'article 8 des CGV complété.
 
-\-          en nous adressant le formulaire présenté à l'article 8 des CGV complété.
+Cdiscount procédera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
 
- Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
+ARTICLE 7 – RESILIATION
+-----------------------
 
-  
- 
+### 7.1 Résiliation par Cdiscount
 
-**ARTICLE 7 – RESILIATION**
+Cdiscount se réserve le droit de résilier l'Abonnement au Service pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l'hypothèse où l'Abonné :
 
-**7.1**  **Résiliation par Cdiscount**
-
-Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où l’Abonné :
-
-*   ne respecterait pas les stipulations des présentes CGA ;
-
-*   ne s’acquitterait pas du montant de son Abonnement, au moment de la souscription ou lors de son renouvellement ;
-
+*   ne respecterait pas les stipulations des présentes CGA ;
+*   ne s'acquitterait pas du montant de son Abonnement, au moment de la souscription ou lors de son renouvellement ;
 *   utiliserait le Service dans un but professionnel ;
+*   ferait bénéficier un tiers de l'Abonnement au Service.
 
-*   ferait bénéficier un tiers de l’Abonnement au Service.
+La résiliation de l'Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l'Abonné qui n'aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
-La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
+Le solde de la Cagnotte de l'Abonné éventuellement disponible à la date de résiliation effective de l'Abonnement au Service sera définitivement perdu.
 
-Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
+### 7.2 Résiliation par l'Abonné
 
-  
-**7.2 Résiliation par l’Abonné**
+Au plus tard 31 jours avant la date d'anniversaire de l'Abonnement au Service, Cdiscount rappellera à l'Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.
 
-Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.  
-  
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
-            - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
-            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
-            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
-            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
-            - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
+Si l'Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone ou se rendre sur son Espace Client, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :
+
+*   depuis la France au 09 70 80 90 50 (numéro non surtaxé)
+*   depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+*   depuis l'Italie au 800 694 130 (numéro gratuit) ;
+*   depuis l'Allemagne au 0800 627 9980 (numéro gratuit) ;
+*   depuis l'Espagne au 0800 00 01 17 (numéro gratuit) ;
+*   depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;
 
 La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service, sauf exercice de votre droit de rétractation.
 
-Dans l’hypothèse où, à la date de résiliation effective de l’Abonnement au Service par l’Abonné, le solde de la Cagnotte de l’Abonné n’est pas nul, ce solde sera perdu et rendu inutilisable pour l'Abonné.  
-Toutefois, le solde sera informatiquement enregistré par Cdiscount et le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible en cas de réactivation de l’Abonnement au Service par l’Abonné. Passée la date d’expiration de l’ensemble du crédit cumulé dans la Cagnotte, le solde de la Cagnotte sera définitivement perdu.
+Dans l'hypothèse où, à la date de résiliation effective de l'Abonnement au Service par l'Abonné, le solde de la Cagnotte de l'Abonné n'est pas nul, ce solde sera perdu et rendu inutilisable pour l'Abonné. Toutefois, si l'Abonné réactive son Abonnement au Service dans les trois (3) mois suivants la date de résiliation effective, alors le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible. Passée la date d'expiration de l'ensemble du crédit cumulé dans la Cagnotte, le solde de la Cagnotte sera définitivement perdu.
 
-  
-  
- 
+ARTICLE 8 - PARTAGE D'ABONNEMENT
+--------------------------------
 
-**ARTICLE 8 - PARTAGE** **D'ABONNEMENT**
+Le partage d'abonnement (ci-après le « Partage ») consiste en la possibilité pour l'Abonné de partager les avantages de son Abonnement au Service avec un ou plusieurs membres de sa famille (ci-après le « Bénéficiaire »), sous certaines conditions et pour une durée limitée.
 
-Le partage d’abonnement (ci-après le « Partage ») consiste en la possibilité pour l’Abonné de partager les avantages de son Abonnement au Service avec un ou plusieurs membres de sa famille (ci-après le « Bénéficiaire »), sous certaines conditions et pour une durée limitée.
+### 8.1 Conditions relatives à l'Abonné
 
-**8.1 Conditions relatives à l’Abonné** 
+Pour que le Partage soit valable, l'Abonné doit :
 
-Pour que le Partage soit valable, l‘Abonné doit :
+*   accepter de partager son Abonnement avec un Bénéficiaire répondant aux critères énoncés ci-dessous ;
+*   avoir informé le Bénéficiaire de son inscription au Partage ;
+*   être un membre de la « famille » du Bénéficiaire.
 
-\- accepter de partager son Abonnement avec un Bénéficiaire répondant aux critères énoncés ci-dessous ;
+Sont considérés comme faisant partie de la même « famille », deux personnes physiques majeures ayant l'un des liens de parenté suivants :
 
-\- avoir informé le Bénéficiaire de son inscription au Partage ;
+*   Conjoint(e)
+*   Concubin(e)
+*   Enfant
+*   Nièce / Neveu
+*   Cousin / Cousine
+*   Frère / Sœur
+*   Petit-enfant
+*   Parent
+*   Grand-parent
+*   Oncle / Tante
 
-\- être un membre de la « famille » du Bénéficiaire.
+### 8.2. Conditions relatives au Bénéficiaire
 
-Sont considérés comme faisant partie de la même « famille », deux personnes physiques majeures ayant l’un des liens de parenté suivants :
+Pour que le Partage soit valable, le Bénéficiaire doit :
 
-  
-\-           Conjoint(e)
+*   disposer d'un compte client sur le Site au moment où l'Abonné lui propose de partager son Abonnement ;
+*   avoir été informé par l'Abonné de son inscription au Partage ;
+*   être un membre de la « famille » de l'Abonné ;
+*   ne pas avoir manifesté son souhait de ne pas bénéficier du Partage.
 
-\-           Concubin(e)
+L'Abonné ne peut renseigner les coordonnées que **de deux (2) Bénéficiaires**, le Partage étant ainsi strictement limité, par Abonné, à deux (2) Bénéficiaires.
 
-\-           Enfant
+### 8.3. Conditions communes
 
-\-           Nièce / Neveu
+L'Abonné et le Bénéficiaire doivent impérativement être des personnes physiques majeures agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT.
 
-\-           Cousin / Cousine
+CDISCOUNT se réserve le droit de demander à tout Abonné et/ou Bénéficiaire de justifier des conditions d'éligibilité précisées ci-dessus. Toute personne ne remplissant pas ces conditions ou refusant de les justifier sera exclue du Partage.
 
-\-           Frère / Sœur
+### 8.4. Activation du Service au profit du Bénéficiaire
 
-\-           Petit-enfant
+Une fois le formulaire d'inscription renseigné par l'Abonné un « email de bienvenue » est adressé par CDISCOUNT au Bénéficiaire pour l'informer du Partage.
 
-\-           Parent
+Cet email permet au Bénéficiaire de prendre connaissance des conditions applicables au Partage ainsi que des CGA.
 
-\-           Grand-parent
+Un (1) jour suivant la réception de l'« email de bienvenue », le Bénéficiaire pourra profiter de l'ensemble des avantages inclus dans l'Abonnement au Service et ce, pour la durée de l'Abonnement de l'Abonné restant à courir (incluant son éventuel renouvellement).
 
-\-           Oncle / Tante
+En conséquence :
 
-**8.2. Conditions relatives au Bénéficiaire** 
+*   le Bénéficiaire bénéficie des avantages de l'Abonnement au Service, étant rappelé que le Bénéficiaire pourra profiter de l'ensemble des avantages inclus dans l'Abonnement au Service (à l'exception du partage d'Abonnement) pendant toute la durée de l'Abonnement au Service de l'Abonné restant à courir (incluant son éventuel renouvellement).
+*   à l'expiration de l'Abonnement au Service de l'Abonné, le Bénéficiaire ne pourra plus bénéficier des avantages liés à l'Abonnement au Service.
 
- 
+Le Bénéficiaire pourra toutefois s'abonner directement au Service s'il le souhaite.
 
-Pour que le Partage soit valable, le Bénéficiaire doit :
+_Exemple : pour un Abonné dont l'Abonnement au Service est valable jusqu'au 31.12.26, le Bénéficiaire bénéficiera du Service à compter de J+1 suivant son inscription au Partage par l'Abonné et jusqu'au 31.12.26 (ou une date ultérieure en cas de renouvellement)._
 
-\- disposer d’un compte client sur le Site au moment où l’Abonné lui propose de partager son Abonnement ;
+Outre les informations contenues dans l'« email de bienvenue », le Bénéficiaire dispose, au même titre que l'Abonné, de toutes les informations relatives au Service en se connectant à son Espace client sur le Site.
 
-\- avoir été informé par l’Abonné de son inscription au Partage ;
+L'utilisation du Service par le Bénéficiaire est conditionnée au respect des CGA.
 
-\- être un membre de la « famille » de l’Abonné ;
+Tout manquement de l'Abonné et/ou du Bénéficiaire aux CGA entraînera la résiliation de l'Abonnement au Service dans les conditions de l'article 7.1 des CGA et l'annulation consécutive du Partage.
 
-\- ne pas avoir manifesté son souhait de ne pas bénéficier du Partage.
+### 8.5. Refus par le Bénéficiaire de bénéficier du Partage
 
-L’Abonné ne peut renseigner les coordonnées que **de deux (2) Bénéficiaires**, le Partage étant ainsi strictement limité, par Abonné, à deux (2) Bénéficiaires.
+Le Bénéficiaire verra qu'il bénéficie du Partage dans son Espace client accessible sur le Site, sous un (1) jour ouvré suivant l'envoi de l'« email de bienvenue » par CDISCOUNT.
 
-**8.3. Conditions communes**   
-
-L’Abonné et le Bénéficiaire doivent impérativement être des personnes physiques majeures agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT.
-
-CDISCOUNT se réserve le droit de demander à tout Abonné et/ou Bénéficiaire de justifier des conditions d’éligibilité précisées ci-dessus. Toute personne ne remplissant pas ces conditions ou refusant de les justifier sera exclue du Partage.  
-  
-
-**8.4. Activation du Service au profit du Bénéficiaire**
-
-Une fois le formulaire d’inscription renseigné par l’Abonné un « email de bienvenue » est adressé par CDISCOUNT au Bénéficiaire pour l’informer du Partage.
-
-Cet email permet au Bénéficiaire de prendre connaissance des conditions applicables au Partage ainsi que des CGA.  
-  
-Un (1) jour suivant la réception de l’« email de bienvenue », le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l’Abonnement au Service et ce, pour la durée de l’Abonnement de l’Abonné restant à courir (hors renouvellement).
-
-En conséquence : 
-
-\-          le Bénéficiaire bénéficie des avantages de l’Abonnement au Service,  étant rappelé que le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l’Abonnement au Service (à l'exception du partage d'Abonnement) pendant toute la durée de l’Abonnement au Service de l’Abonné restant à courir (hors renouvellement).
-
-\-          à l’expiration de l’Abonnement au Service de l’Abonné, le Bénéficiaire ne pourra plus bénéficier des avantages liés à l’Abonnement au Service et ce, même dans le cas où l’Abonné renouvellerait son Abonnement au Service.
-
-Le Bénéficiaire pourra toutefois s’abonner directement au Service s’il le souhaite.
-
-_Exemple : pour un Abonné dont l’Abonnement au Service est valable jusqu’au 31.12.18, le Bénéficiaire bénéficiera du Service à compter de J+1 suivant son inscription au Partage par l’Abonné et jusqu’au 31.12.18, excluant tout renouvellement._  
-  
-
-Outre les informations contenues dans l’ « email de bienvenue », le Bénéficiaire dispose, au même titre que l’Abonné , de toutes les informations relatives au Service en se connectant à son Espace client sur le Site.
-
-L’utilisation du Service par le Bénéficiaire est conditionnée au respect des CGA.
-
-Tout manquement de l’Abonné et/ou du Bénéficiaire aux CGA entraînera la résiliation de l’Abonnement au Service dans les conditions de l’article 7.1 des CGA et l’annulation consécutive du Partage.
-
-**8.5. Refus par le Bénéficiaire de bénéficier du Partage** 
-
-Le Bénéficiaire verra qu’il bénéficie du Partage dans son Espace client accessible sur le Site, sous un (1) jour ouvré suivant l’envoi de l’ « email de bienvenue » par CDISCOUNT.
-
-Le Bénéficiaire peut décider de ne pas bénéficier des avantages du Service en refusant le Partage de l’Abonnement au Service par l’Abonné ; pour cela, il est invité à contacter le Service Client de CDISCOUNT par téléphone depuis la France au 09 70 80 90 50 (numéro non surtaxé) ou depuis la Belgique au 0800 58 211 (numéro gratuit), afin de demander à ne plus bénéficier du Service.
+Le Bénéficiaire peut décider de ne pas bénéficier des avantages du Service en refusant le Partage de l'Abonnement au Service par l'Abonné ; pour cela, il est invité à contacter le Service Client de CDISCOUNT par téléphone depuis la France au 09 70 80 90 50 (numéro non surtaxé) ou depuis la Belgique au 0800 58 211 (numéro gratuit), afin de demander à ne plus bénéficier du Service.
 
 Dans un tel cas, le Bénéficiaire ne pourra prétendre à un quelconque dédommagement de quelque sorte ou nature que ce soit.
 
-En aucun cas le Bénéficiaire ne peut demander à ce qu’une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
+En aucun cas le Bénéficiaire ne peut demander à ce qu'une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
 
-Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier du Partage par suite d'une erreur ou d'une omission dans les coordonnées du Bénéficiaire lors de leur saisie par l’Abonné ou d’une modification des coordonnées du Bénéficiaire.
+Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier du Partage par suite d'une erreur ou d'une omission dans les coordonnées du Bénéficiaire lors de leur saisie par l'Abonné ou d'une modification des coordonnées du Bénéficiaire.
 
-**ARTICLE 9 – PRIVILEGE « MA CAGNOTTE A VOLONTE »  
-  
-  
-**
+ARTICLE 9 – PRIVILEGE « MA CAGNOTTE A VOLONTE »
+-----------------------------------------------
 
-Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site, qui n'auraient pas fait l'objet d'une rétractation ou d'une annulation (ci-après les « Offres Site »).   
-  
- 
+Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l'Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l'achat de produits éligibles sur le Site, qui n'auraient pas fait l'objet d'une rétractation ou d'une annulation (ci-après les « Offres Site »).
 
-La Cagnotte est personnelle : en cas de Partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, le Bénéficiaire ne bénéficierait pas du crédit cumulé par l’Abonné dans le cadre du Privilège.
+La Cagnotte est personnelle : en cas de Partage d'Abonnement dans les conditions précisées à l'article 8 ci-avant, le Bénéficiaire ne bénéficierait pas du crédit cumulé par l'Abonné dans le cadre du Privilège.
 
-**9.1 Création de la Cagnotte**
+### 9.1 Création de la Cagnotte
 
-La Cagnotte sera automatiquement créée et consultable dans la rubrique « Ma cagnotte à volonté » de l’Espace Client de l’Abonné dès la Souscription au Service ou à la date de lancement du Privilège si cette date est postérieure.
+La Cagnotte sera automatiquement créée et consultable dans la rubrique « Ma cagnotte à volonté » de l'Espace Client de l'Abonné dès la Souscription au Service ou à la date de lancement du Privilège si cette date est postérieure.
 
-En cas de partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, la Cagnotte du Bénéficiaire sera créée et consultable dans son Espace Client à compter de l’Activation du Service à son profit ou à la date de lancement du Privilège si cette date est postérieure. 
+En cas de partage d'Abonnement dans les conditions précisées à l'article 8 ci-avant, la Cagnotte du Bénéficiaire sera créée et consultable dans son Espace Client à compter de l'Activation du Service à son profit ou à la date de lancement du Privilège si cette date est postérieure.
 
-**9.2 Cumul du crédit sur la Cagnotte**
+### 9.2 Cumul du crédit sur la Cagnotte
 
-**9.2.1 L’Abonné cumulera du crédit sur sa Cagnotte :**
+**9.2.1 L'Abonné cumulera du crédit sur sa Cagnotte :**
 
-Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
+Pour les Offres Site, par l'achat de produits éligibles au Privilège sur le Site, c'est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme « © » (ci-après les « **Produits éligibles au Privilège** »).
 
-Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
+Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme :
 
-\- d’un montant en euros ; ou
+*   d'un montant en euros ; ou
+*   d'un pourcentage de son prix de vente effectif (c'est-à-dire hors bons de réduction éventuels) ;
 
-\- d’un pourcentage de son prix de vente effectif (c’est-à-dire hors bons de réduction éventuels) ;
+**9.2.2 Le crédit sera cumulé sur la Cagnotte :**
 
- 
+A l'issue d'un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
-**9.2.2 Le crédit sera cumulé sur la Cagnotte :**
+Avant l'écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l'Espace Client de l'Abonné, rubrique « Ma cagnotte à volonté ».
 
- A l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
+Il est également précisé, concernant les Offre Site, qu'en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l'issue d'un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
 
-Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+A l'issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l'Espace Client de l'Abonné, rubrique « Ma cagnotte à volonté » (ci-après le « **Solde de la Cagnotte** »).
 
-Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
-
-A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
-
-Le Solde de la Cagnotte est consultable à tout moment dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+Le Solde de la Cagnotte est consultable à tout moment dans l'Espace Client de l'Abonné, rubrique « Ma cagnotte à volonté ».
 
 Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
 
-   
- **9.3 Utilisation de la Cagnotte**
+### 9.3 Utilisation de la Cagnotte
 
-**9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze (14) jours suivant la Date de souscription au Service est écoulé et que la commande éligible n'a pas fait l'objet d'une annulation. 
+**9.3.1** Le Solde de la Cagnotte est utilisable par l'Abonné pendant toute la durée de l'Abonnement, dès lors que le délai légal de rétractation de quatorze (14) jours suivant la Date de souscription au Service est écoulé et que la commande éligible n'a pas fait l'objet d'une annulation.
 
-**9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d’une commande éligible au Privilège sera précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+**9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d'une commande éligible au Privilège sera précisée dans l'Espace Client de l'Abonné, rubrique « Ma cagnotte à volonté ».
 
-Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
+Tout montant crédité et non utilisé par l'Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
 
-**9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Billetterie), sans minimum d’achat.
+**9.3.3** L'Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d'une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Billetterie), sans minimum d'achat.
 
-Pour cela, l’Abonné devra choisir « Payer avec Ma cagnotte à volonté » sur la page de choix du mode de paiement.
+Pour cela, l'Abonné devra choisir « Payer avec Ma cagnotte à volonté » sur la page de choix du mode de paiement.
 
-Si le montant de la commande est supérieur au Solde de la Cagnotte, l’Abonné devra choisir un mode de paiement complémentaire pour régler le montant de la commande restant dû après déduction du Solde de la Cagnotte.
+Si le montant de la commande est supérieur au Solde de la Cagnotte, l'Abonné devra choisir un mode de paiement complémentaire pour régler le montant de la commande restant dû après déduction du Solde de la Cagnotte.
 
-Si le montant de la commande est inférieur au Solde de la Cagnotte, la totalité du montant de la commande sera débité de la Cagnotte. Le Solde de la Cagnotte restant après déduction du montant de la commande restera utilisable lors d’une prochaine commande dans la limite de sa durée de validité.
+Si le montant de la commande est inférieur au Solde de la Cagnotte, la totalité du montant de la commande sera débité de la Cagnotte. Le Solde de la Cagnotte restant après déduction du montant de la commande restera utilisable lors d'une prochaine commande dans la limite de sa durée de validité.
 
-**9.3.4** Cdiscount pourra utiliser le Solde de la Cagnotte de l’Abonné afin de financer le montant de l’Abonnement au Service dans le cadre d’une tacite reconduction, dans l’hypothèse où le montant de l’Abonnement au Service ne pourra pas être prélevé dans les conditions précisées à l’article 7 ci-dessus.
+**9.3.4** Cdiscount pourra utiliser le Solde de la Cagnotte de l'Abonné afin de financer le montant de l'Abonnement au Service dans le cadre d'une tacite reconduction, dans l'hypothèse où le montant de l'Abonnement au Service ne pourra pas être prélevé dans les conditions précisées à l'article 7 ci-dessus.
 
- 
+### 9.4 Durée de validité de la Cagnotte
 
-**9.4 Durée de validité de la Cagnotte  
-**
+La Cagnotte est active tant que l'Abonnement au Service n'a pas été résilié dans les conditions précisées à l'article 7 ci-dessus.
 
-La Cagnotte est active tant que l’Abonnement au Service n’a pas été résilié dans les conditions précisées à l’article 7 ci-dessus.
+En cas de renouvellement de l'Abonnement au Service, le Solde de la Cagnotte est conservé, sous réserve de la durée de validité de chaque montant crédité, précisée dans l'Espace Client de l'Abonné, rubrique « Ma cagnotte à volonté ».
 
-En cas de renouvellement de l’Abonnement au Service, le Solde de la Cagnotte est conservé, sous réserve de la durée de validité de chaque montant crédité, précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+En cas de résiliation de l'Abonnement au Service par l'Abonné, le Solde de la Cagnotte sera perdu sans que l'Abonné ne puisse prétendre à aucune indemnité à ce titre. Toutefois, en cas de réactivation de l'Abonnement au Service par l'Abonné, dans un délai de trois (3) mois à compter de la date de résiliation de l'Abonnement, le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible et utilisable par l'Abonné dans les conditions qui précèdent.
 
-En cas de résiliation de l’Abonnement au Service par l’Abonné, le Solde de la Cagnotte sera perd sans que l'Abonné ne puisse prétendre à aucune indemnité à ce titre.  
-Toutefois, en cas de réactivation de l'Abonnement au Service par l'Abonné, dans un délai de trois (3) mois à compter de la date de résiliation de l'Abonnement, le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible et utilisable par l'Abonné dans les conditions qui précèdent.
-
-La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée où il bénéficie de l’Abonnement au Service conformément à l’article 8 ci-dessus.
-
-   
-  
-
-    
+La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée où il bénéficie de l'Abonnement au Service conformément à l'article 8 ci-dessus.
 
 _CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
 ---------------------------------------------------------------------------------------------------------------------------
