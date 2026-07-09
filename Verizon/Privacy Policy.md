@@ -947,7 +947,7 @@ Open all
     
     sensitive personal information under the state laws
     
-    The laws describe sensitive data to include some or all of the following types of information:  personal data revealing racial or ethnic origin, national origin, religious beliefs, mental or physical health condition or diagnosis (including pregnancy), sex life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, processing biometric data for the purpose of uniquely identifying you, personal data collected from a known child, precise geolocation information, certain financial information, and status as a crime victim. Depending on the products and services you use and the information you choose to share, we may have this information about you.
+    The laws describe sensitive data to include some or all of the following types of information: personal data revealing racial or ethnic origin, national origin, religious beliefs, mental or physical health condition or diagnosis (including pregnancy), sex life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, processing biometric data for the purpose of uniquely identifying you, personal data collected from a known child, precise geolocation information, certain financial information, and status as a crime victim. Depending on the products and services you use and the information you choose to share, we may have this information about you.
     
     when you interact with us
     
@@ -1132,7 +1132,7 @@ Open all
     
     If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use, or the Do Not Sell or Share My Personal Information link in the footer of the Frontier website, in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
-    For requests to  access, delete or correct information we require you to [verify your identity](#) using the processes we describe in the dashboard before we fulfill your request. 
+    For requests to access, delete or correct information we require you to [verify your identity](#) using the processes we describe in the dashboard before we fulfill your request. 
     
     verify your identity
     
