@@ -1690,9 +1690,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和8年 4 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和 8 年 5 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和8年 4 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和 8 年 5 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -1885,6 +1885,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
     50.  **Nigeria**
          *   GRID3. NGA - Settlement Names 2025 ([https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-names/about](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-names/about)). License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
+         *   GRID3 NGA - Operational State Boundaries ([https://data.grid3.org/datasets/c41532b720504f4799fe20438b7e3b7f\_0/explore?location=9.0779592C8.6852902C6](https://data.grid3.org/datasets/c41532b720504f4799fe20438b7e3b7f_0/explore?location=9.0779592C8.6852902C6) ) - NG - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
     51.  **Northern Ireland**
          *   © Ordnance Survey of Northern Ireland
