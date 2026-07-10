@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: June 30, 2026
+Last Updated: July 9, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -321,7 +321,7 @@ Your failure to maintain your database instance within the support perimeter (as
 *   The terms of your existing license and support agreement(s) with Microsoft apply to your use of the Microsoft Software. You must follow all applicable Microsoft policies for licensing Microsoft Software in a cloud computing environment.
 *   If you direct Amazon RDS to install SQL Server in more than one region, you consent to Amazon RDS moving your installation files between those regions for that purpose.
 
-**10.6.  Amazon RDS for Db2**
+**10.6. Amazon RDS for Db2**
 
 **10.6.1.** “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS enables you to provision IBM Db2 software on Amazon RDS instances using your existing IBM Db2 software license and support entitlements obtained from IBM or an authorized IBM reseller to IBM Db2 Standard Edition or IBM Db2 Advanced Edition (“IBM Db2 Software”). You can use your existing IBM Db2 Software license under the BYOL option with Amazon RDS if you meet and agree to the following terms and conditions:
 
@@ -1031,7 +1031,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.13. Amazon Q.** To help Amazon Q provide the most relevant information, we may use AI Content processed by Amazon Q, such as prompts and responses (“Amazon Q Content”), for service improvement as described below. Currently, this Section 50.13 applies only to Amazon Q Developer Free Tier, and we may add Amazon Q features or services from time to time as they launch. This Section 50.13 does not apply to any Amazon Q feature or service that is not listed in the prior sentence.
 
-**50.13.1.Service Improvement.** You agree and instruct that we may use Amazon Q Content to develop and improve Amazon Q and its underlying technologies, and for that purpose we may store Amazon Q Content in an AWS region outside of the AWS region where you are using Amazon Q.
+**50.13.1. Service Improvement.** You agree and instruct that we may use Amazon Q Content to develop and improve Amazon Q and its underlying technologies, and for that purpose we may store Amazon Q Content in an AWS region outside of the AWS region where you are using Amazon Q.
 
 **50.13.2. Other Service Improvement.** You agree and instruct that we may also use Amazon Q Content that does not contain personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies including to train machine-learning models.
 
@@ -1657,11 +1657,11 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 92\. AWS Clean Rooms
 --------------------
 
-**92.1.**[](#_msocom_1) You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third-party contributor of the data.
+**92.1.**[](#_msocom_1) You may not use AWS Clean Rooms or any information obtained from your use of AWS Clean Rooms to identify a person or associate such information with an identifiable person, unless otherwise permitted by the applicable third-party contributor of the data.
 
-**92.2.** AWS Clean Rooms may provide you with the ability to collaborate (an “AWS Clean Rooms Collaboration”) with other AWS customers (an “Other AWS Customer”). You may make available Your Content, including a dataset and/or a custom model, as part of an AWS Clean Rooms Collaboration. You may also disclose Your Content to, or receive Third-Party Content from an Other AWS Customer.
+**92.2.** AWS Clean Rooms may provide you with the ability to collaborate (an “AWS Clean Rooms Collaboration”) with other AWS customers (an “Other AWS Customer”). You may configure resources to make Your Content, including a dataset and/or a custom model, available as part of an AWS Clean Rooms Collaboration. You may also disclose Your Content to, or receive Third-Party Content from an Other AWS Customer.
 
-**92.3.** If you request deletion of Your Content from the AWS Clean Rooms Collaboration dataset, or if an Other AWS Customer that is a participant to the AWS Clean Rooms Collaboration requests deletion of its Third-Party Content from the AWS Clean Rooms Collaboration dataset, we will delete all Your Content and all Third-Party Content from the AWS Clean Rooms Collaboration dataset.
+**92.3.** Your deletion of an AWS Clean Rooms Collaboration, deletion or removal of resources configured to make Your Content available in a Collaboration, or disallowing Your Content from being used in an intermediate table, will result in termination of access to Your Content or deletion of Your Content from intermediate tables, as described in the applicable service documentation.
 
 **92.4.** Any interaction as part of an AWS Clean Rooms Collaboration will be governed by separate terms and conditions between you and such Other AWS Customer (if any).
 
