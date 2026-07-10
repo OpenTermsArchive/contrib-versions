@@ -1,11 +1,11 @@
-[](#terms-of-service "#terms-of-service")
+[](#terms-of-service "#terms-of-service")
 
 Terms of Service
 ----------------
 
 Thank you for using the Bitwarden Password Manager! We‘re happy you‘re here. Please read this Terms of Service agreement carefully before accessing or using Bitwarden. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
-[](#summary "#summary")
+[](#summary "#summary")
 
 Summary
 -------
@@ -25,14 +25,14 @@ Summary
 | [K. Changes to these Terms of Service](#changes-to-these-terms-of-service) | We may modify this agreement. |
 | [L. Miscellaneous](#miscellaneous) | Please see this section for legal details including our choice of law. |
 
-[](#the-bitwarden-terms-of-service "#the-bitwarden-terms-of-service")
+[](#the-bitwarden-terms-of-service "#the-bitwarden-terms-of-service")
 
 The Bitwarden Terms of Service
 ------------------------------
 
 Effective date: June 1, 2017
 
-[](#definitions "#definitions")
+[](#definitions "#definitions")
 
 ### A. Definitions
 
@@ -51,7 +51,7 @@ Effective date: June 1, 2017
 6.  "Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Paid Content" is Content only available to Users who are participating in a payment plan, including premium memberships.
     
 
-[](#account-terms "#account-terms")
+[](#account-terms "#account-terms")
 
 ### B. Account Terms
 
@@ -91,7 +91,7 @@ You are responsible for keeping your account secure while you use our Service. W
 
 In some situations, third parties' terms may apply to your use of Bitwarden. For example, you may be a member of an organization on Bitwarden with its own terms or license agreements; or you may download an application that integrates with Bitwarden. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-[](#acceptable-use "#acceptable-use")
+[](#acceptable-use "#acceptable-use")
 
 ### C. Acceptable Use
 
@@ -128,7 +128,7 @@ If we determine your bandwidth usage to be significantly excessive in relation t
 
 You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.
 
-[](#intellectual-property-notice "#intellectual-property-notice")
+[](#intellectual-property-notice "#intellectual-property-notice")
 
 ### D. Intellectual Property Notice
 
@@ -138,7 +138,7 @@ You agree not to engage in activity that significantly harms our Users. We will 
 
 Bitwarden and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright ©; 8bit Solutions LLC. All rights reserved.
 
-[](#payment "#payment")
+[](#payment "#payment")
 
 ### E. Payment
 
@@ -174,7 +174,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay Bitwarden any charge incurred in connection with your use of the Service. If you dispute the matter, contact [Bitwarden Support](https://bitwarden.com/contact/). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
-[](#cancellation-and-termination "#cancellation-and-termination")
+[](#cancellation-and-termination "#cancellation-and-termination")
 
 ### F. Cancellation and Termination
 
@@ -196,7 +196,7 @@ Bitwarden has the right to suspend or terminate your access to all or any part o
 
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-[](#communications-with-bitwarden "#communications-with-bitwarden")
+[](#communications-with-bitwarden "#communications-with-bitwarden")
 
 ### G. Communications with Bitwarden
 
@@ -214,7 +214,7 @@ Communications made through email or Bitwarden Support's messaging system will n
 
 Bitwarden only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
-[](#disclaimer-of-warranties "#disclaimer-of-warranties")
+[](#disclaimer-of-warranties "#disclaimer-of-warranties")
 
 ### H. Disclaimer of Warranties
 
@@ -224,7 +224,7 @@ Bitwarden provides the Website and the Service "as is" and "as available," witho
 
 Bitwarden does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-[](#limitation-of-liability "#limitation-of-liability")
+[](#limitation-of-liability "#limitation-of-liability")
 
 ### I. Limitation of Liability
 
@@ -249,7 +249,7 @@ You understand and agree that we will not be liable to you or any third party fo
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-[](#release-and-indemnification "#release-and-indemnification")
+[](#release-and-indemnification "#release-and-indemnification")
 
 ### J. Release and Indemnification
 
@@ -257,7 +257,7 @@ Our liability is limited whether or not we have been informed of the possibility
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Bitwarden (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bitwarden of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-[](#changes-to-these-terms-of-service "#changes-to-these-terms-of-service")
+[](#changes-to-these-terms-of-service "#changes-to-these-terms-of-service")
 
 ### K. Changes to these Terms of Service
 
@@ -267,7 +267,7 @@ We reserve the right, at our sole discretion, to amend these Terms of Service at
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-[](#miscellaneous "#miscellaneous")
+[](#miscellaneous "#miscellaneous")
 
 ### L. Miscellaneous
 
