@@ -184,7 +184,7 @@ Complete legal work faster with AI that unites research, analysis, and drafting 
 
 [View all](https://tax.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Tax%20%26%20accounting)
 
-*   [CoCounsel Tax Complete tax research and client deliverables faster using AI that centralizes trusted sources and firm data.](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
+*   [CoCounsel Tax Complete tax research and client deliverables faster using AI that centralizes trusted sources and firm data.](https://tax.thomsonreuters.com/en/products/cocounsel-tax/corp)
 *   [ONESOURCE Determination Ensure accurate tax calculations across all systems with a certified, automated software for global indirect taxes.](https://tax.thomsonreuters.com/en/products/onesource-determination)
 *   [ONESOURCE Income Tax File accurate corporate tax returns faster with trusted software for federal, state, and international compliance.](https://tax.thomsonreuters.com/en/products/onesource-income-tax)
 *   [ONESOURCE Indirect Compliance Centralize indirect tax compliance with automated software for VAT, GST, and sales tax across all jurisdictions.](https://tax.thomsonreuters.com/en/onesource/indirect-tax/compliance)
