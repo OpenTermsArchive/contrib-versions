@@ -83,7 +83,7 @@ Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
 
 [www.edoeb.admin.ch](https://www.edoeb.admin.ch/)
 
-Je nach Ihrem Aufenthaltsort können Sie sich auch bei der zuständigen Aufsichtsbehörde in Ihrem Land beschweren (z. B. in den USA bei der jeweiligen State Authority oder in einem EU-Mitgliedstaat bei der lokalen Datenschutzbehörde).
+Depending on your place of residence, you can also lodge a complaint with the competent supervisory authority in your country (e.g., in the USA with the respective state authority or in an EU member state with the local data protection authority).
 
   
 
@@ -114,8 +114,6 @@ When using our apps, we additionally collect the data necessary for functionalit
 *   Technical log data to ensure operational security
 
   
-  
-  
 
 ##### 6\. Contact, Support, and AI-Assisted Business Processes
 
@@ -144,15 +142,13 @@ We use AI language models as internal tools to make various business processes m
 
 *   Processing and preparing responses to customer, partner, and investor inquiries as well as general business correspondence
 *   Product development, UI/UX optimization, and preparation of presentations and documents; where user scenarios or customer cases are discussed, these are anonymized to the extent possible
-*   Analysis of aggregated, non-personal key performance indicators for product optimisation
+*   Analysis of aggregated, non-personal key performance indicators for product optimization
 
-All AI outputs are reviewed by our staff before they are used or sent.
-
-No automated decision-making within the meaning of Art. 22 GDPR takes place.
+All AI outputs are reviewed by our staff before they are used or sent. No automated decision-making within the meaning of Art. 22 GDPR takes place.
 
 **Personal Data**
 
-To the extent that enquiries or correspondence contain personal data (in particular, name, e-mail address, message content and technical account data such as role, community membership and subscription status), these may be entered into the AI systems listed below during processing. In the context of product development, usage scenarios are generally discussed in anonymized form; complete anonymization cannot be guaranteed in every individual case. For KPI analysis, only aggregated, non-personal data is processed.
+To the extent that inquiries or correspondence contain personal data (in particular, name, email address, message content and technical account data such as role, community membership and subscription status), these may be entered into the AI systems listed below during processing. In the context of product development, usage scenarios are generally discussed in anonymized form; complete anonymization cannot be guaranteed in every individual case. For KPI analysis, only aggregated, non-personal data is processed.
 
 **AI Providers Used**
 
@@ -161,11 +157,13 @@ To the extent that enquiries or correspondence contain personal data (in particu
 
 Your data is not used to train AI models. For both ChatGPT (OpenAI) and Claude (Anthropic), we have disabled model training in the respective account settings.
 
-**Legal Basis:** Art. 6(1)(f) GDPR (legitimate interest in efficient business processes, high-quality communication, and the continuous improvement of our product).
+**Legal Basis:**
 
-**International Data Transfers:** Anthropic and OpenAI may process data on servers located in the United States. The transfer is carried out on the basis of EU Standard Contractual Clauses pursuant to Art. 46 GDPR
+Art. 6 para. 1 lit. f GDPR (legitimate interest in efficient business processes, high-quality communication, and the continuous improvement of our product).
 
-and – where applicable – the certification of the providers under the EU-U.S. Data Privacy Framework. It cannot be fully excluded that US authorities may access personal data in individual cases.
+**International Data Transfers:**
+
+Anthropic and OpenAI may process data on servers located in the United States. The transfer is carried out on the basis of EU Standard Contractual Clauses pursuant to Art. 46 GDPR and - where applicable - the certification of the providers under the EU-U.S. Data Privacy Framework. It cannot be fully excluded that U.S. authorities may access personal data in individual cases.
 
 We continuously assess whether an upgrade to business-tier plans with a formal Data Processing Agreement (DPA) pursuant to Art. 28 GDPR is required.
 
@@ -174,7 +172,6 @@ Further information:
 *   [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)
 *   [OpenAI Privacy Policy](https://openai.com/de-DE/policies/privacy-policy/)
 
-  
   
 
 ##### 7\. Registration and Use of the Service
@@ -345,7 +342,7 @@ Further information: [Sentry privacy policy](https://sentry.io/privacy/)
 
 **11.5 Prismic**
 
-For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. of GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
+For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
 
 Further information: [Prismic privacy policy](https://prismic.io/legal/privacy)
 
