@@ -3,7 +3,7 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated today
+Updated yesterday
 
 **Updated** July 10, 2026
 
