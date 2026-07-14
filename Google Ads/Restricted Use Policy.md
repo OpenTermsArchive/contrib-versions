@@ -166,7 +166,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > > 
 > > Under this policy, financial products and services are defined as products and services related to the management or investment of money and [cryptocurrencies](https://support.google.com/adspolicy/answer/14009787), including personalized advice.
 > > 
-> > When promoting financial products and services, you must comply with state and local regulations for any location that your ads target — for example, include specific disclosures required by local law. Advertisers are expected to do their own research on the local regulations for any location their ads target.
+> > When promoting financial products and services, you must comply with state and local regulations for any location that your ads target. For example, include specific disclosures required by local law. Advertisers are expected to do their own research on the local regulations for any location their ads target.
 > > 
 > > This policy is updated with additional product-specific guidelines on an ongoing basis. Learn more about [What happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > > 
