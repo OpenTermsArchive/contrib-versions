@@ -384,8 +384,11 @@ Access your entire professional library anywhere, anytime with the only e-reader
 
 *   [Thomson Reuters Institute Access expert research and trends that empower professionals to navigate industry transformation with confidence.](https://www.thomsonreuters.com/en/institute)
 *   [Innovation @ Thomson Reuters Learn how innovation powers the future of professional work through technology and strategic transformation.](https://www.thomsonreuters.com/en-us/posts/innovation/)
-*   [Legal insights Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending&numberOfResults=12&t=insights&sort=%252540tr_wpublishedtime%252520descending)
-*   [Tax insights Navigate tax complexities with expert commentary, news, and analysis for accounting professionals nationwide.](https://tax.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending&numberOfResults=12&t=insights&sort=%252540tr_wpublishedtime%252520descending)
+*   Thought leadership Dive into white papers, case studies, and analysis focused on the critical issues facing professionals.
+
+*   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending)
+*   [Legal insights hub Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights#t=insights&sort=%2540tr_wpublishedtime%2520descending)
+*   [Tax insights hub Navigate tax complexities with expert commentary, news, and analysis for accounting professionals nationwide.](https://tax.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending&numberOfResults=12&t=insights&sort=%252540tr_wpublishedtime%252520descending)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
