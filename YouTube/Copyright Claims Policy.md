@@ -96,7 +96,11 @@ Rightsholders can pre-determine rules for when content matches are found, choosi
  ![Previous](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg)![Next](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg)
 
 How YouTube Addresses Copyright Claims Appeals
-----------------------------------------------
+
+
+
+
+----------------------------------------------------
 
 The majority of copyright claims and removal requests on YouTube come from our automatic detection technology.
 
