@@ -17,7 +17,7 @@ When you use the Service, you consent to our collection, use, and disclosure of 
 5.  [Data Retention and Account Termination](#Data-Retention-and-Account-Termination)
 6.  [Children](#Children)
 7.  [Security](#Security)
-8.  [Contact Information](#CONTACT INFORMATION)
+8.  [Contact Information](<#CONTACT INFORMATION>)
 9.  [Modifications to This Privacy Policy](#MODIFICATIONS-TO-THIS-PRIVACY-POLICY)
 10.  [California Residents: Your California Privacy Rights](#CALIFORNIA-RESIDENTS:-YOUR-CALIFORNIA-PRIVACY-RIGHTS)
 11.  [Nevada Residents: Your Nevada Privacy Rights](#Nevada-Residents:-Your-Nevada-Privacy-Rights)
