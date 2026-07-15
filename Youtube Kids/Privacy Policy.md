@@ -3,8 +3,6 @@ YouTube Kids Privacy Notice
 
 [Community Guidelines](https://www.youtube.com/t/community_guidelines)
 
-#### View the Privacy Notice in other languages: [English](https://kids.youtube.com/t/privacynotice?hl=en) or [Gaeilge](https://kids.youtube.com/t/privacynotice?hl=ga)  
-
 This YouTube Kids Privacy Notice is intended to help parents understand what data is collected by the app, why we collect it, what we do with it, and our privacy controls. This Notice provides information about our privacy practices that are specific to YouTube Kids and summarizes the most relevant portions of the [Google Privacy Policy](https://www.google.com/policies/privacy/), which generally describes how we treat user information in Google's products and services.
 
 Information we collect
