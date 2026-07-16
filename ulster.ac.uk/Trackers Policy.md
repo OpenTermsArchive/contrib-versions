@@ -4,7 +4,9 @@ Page content
 More Information
 ----------------
 
-[Ulster.ac.uk](#w-tabs-0-data-w-pane-0)[Alumni](#w-tabs-0-data-w-pane-1)
+Ulster.ac.uk
+
+Alumni
 
 Ulster.ac.uk (www.ulster.ac.uk) is provided by Ulster University.
 
