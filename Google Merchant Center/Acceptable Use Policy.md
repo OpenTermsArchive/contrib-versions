@@ -16,13 +16,13 @@ These policies are designed to ensure a safe and positive experience for our cus
 
 Our Shopping ads policies cover four broad areas:
 
-![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) **[Prohibited content](#con):** Content that you're not allowed to list on the Google Network
+![Google Ads policies | prohibited content](//lh3.googleusercontent.com/2YWGoV_TrFfafdLbF0mZz-rPmRtf2ShAzrhpFuakMVWf22q5TwqPLaKuqfDk-QBcj5U) **[Prohibited content](#con):** Content that you're not allowed to list on the Google Network
 
-![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) **[Prohibited practices](#pra):** Things that you can't do if you want to list products with us
+![Google Ads policies | prohibited practice](//lh3.googleusercontent.com/moqrQMwKJqIqjWnrrHNaQeLHTaFSK4vSF1GUPeeIjIMCoz4c7YFFkkglHzYYXFayrC4) **[Prohibited practices](#pra):** Things that you can't do if you want to list products with us
 
-![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) **[Restricted content](#res):** Content that you can list, but with limitations
+![Google Ads policies | restricted content](//lh3.googleusercontent.com/sMJKa2qo7WfmbmRLFOiLC2QGq5HD8HHcMwTVHFpRPIwHwyAlrNSfQCjsucy-wgw8aZc) **[Restricted content](#res):** Content that you can list, but with limitations
 
-![](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Site requirements](#site):** Standards for your ads and website
+![](//lh3.googleusercontent.com/r2cyYoGtDzkrMHvQs4pdzlvsvOZSK1FYoeSW_go0O7I3oJ-6tr88to7i5Hj5x8ooeA) **[Site requirements](#site):** Standards for your ads and website
 
 Click through the policies below for policy definitions, examples and troubleshooting steps.
 
