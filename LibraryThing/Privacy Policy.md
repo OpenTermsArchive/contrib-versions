@@ -19,13 +19,13 @@ See Sharing and Transfer of Information, below, for more on this topic.
 
 ### Emails from LibraryThing
 
-LibraryThing membership does not require an email address.
+LibraryThing membership requires an email address.
 
 LibraryThing respects your inbox. We do not sell your email address to authors, publishers, marketing companies, or anyone else.
 
 By default, most new members who provide their email address are subscribed to our "State of the Thing" newsletter. Members who join from the EEA after May 25, 2018 are not subscribed automatically, and will have to consent explicitly to receive the State of the Thing.
 
-By default, members who provide their email address receive profile comments by email. This can be disabled in the [Privacy Center](https://www.librarything.com/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
+By default, members who provide their email address receive private messages by email. This can be disabled in the [Privacy Center](https://www.librarything.com/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
 
 See LibraryThing Early Reviewers, below, for terms surrounding this optional program.
 
@@ -58,7 +58,7 @@ LibraryThing members have full control over deleting their accounts and personal
 *   Your books, reviews, ratings, and library data will be removed.
 *   Contributions to shared community resources, such as book covers or Common Knowledge entries, are retained.
 *   If you use TinyCat, your catalog will be disabled.
-*   You can choose whether to keep, anonymize, or delete your Talk posts and profile comments.
+*   You can choose whether to keep, anonymize, or delete your Talk posts and private messages.
 
 Before deleting your account, you have the option to [export your books](https://www.librarything.com/export) and [download your personal data](https://www.librarything.com/settings/export).
 
