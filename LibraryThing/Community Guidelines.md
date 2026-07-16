@@ -66,6 +66,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 *   Do not repost flagged content in Talk. If you believed you were flagged unfairly, go ahead and discuss the issue (without getting personal). You can discuss it, with short selections. But you may NOT repost it. If people want to read it, they can; Talk allows you to click something to see the flagged content.
 *   Do not disclose sensitive private information about another member.
 *   Do not create "pointless," "meaningless" or "random" groups or topics. We give all groups the benefit of the doubt, but the creation of multiple, duplicative and contentless groups is against these terms.
+*   As a library- and literary resource, browsing LibraryThing is generally allowed within school networks that disable other social sites. We are not, however, a place for students to share "unblocked" or "proxy sites" for getting around their institutional internet restrictions. Posting links to such sites is prohibited.
 *   No purely "personal" groups (groups with fewer than two members).
 *   Do not upload X-rated or otherwise highly objectionable pictures.
 *   Do not upload suggestive images of minors or seeming minors.
