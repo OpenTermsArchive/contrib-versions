@@ -29,7 +29,7 @@
 
 * * *
 
-THE FOLLOWING TERMS AND CONDITIONS GOVERN YOUR USE OF FEDEX.COM, INCLUDING FEDEX SHIP MANAGER® AT FEDEX.COM AND FEDEX SHIP MANAGERTM LITE (COLLECTIVELY REFERRED TO AS "SHIP MANAGER"), FEDEX® GLOBAL TRADE MANAGER ("GTM"), FEDEX® MOBILE AND FEDEX® BILLING ONLINE. YOUR VIEWING OR USE OF THIS SITE WILL CONSTITUTE YOUR AGREEMENT, ON BEHALF OF YOURSELF AND THE ENTITY YOU REPRESENT (HEREINAFTER COLLECTIVELY "YOU" OR "YOUR"), TO ALL OF THE TERMS AND CONDITIONS PROVIDED BELOW.
+THE FOLLOWING TERMS AND CONDITIONS GOVERN YOUR USE OF FEDEX.COM, INCLUDING FEDEX SHIP MANAGER® AT FEDEX.COM (COLLECTIVELY REFERRED TO AS "SHIP MANAGER"), FEDEX® GLOBAL TRADE MANAGER ("GTM"), FEDEX® MOBILE AND FEDEX® BILLING ONLINE. YOUR VIEWING OR USE OF THIS SITE WILL CONSTITUTE YOUR AGREEMENT, ON BEHALF OF YOURSELF AND THE ENTITY YOU REPRESENT (HEREINAFTER COLLECTIVELY "YOU" OR "YOUR"), TO ALL OF THE TERMS AND CONDITIONS PROVIDED BELOW.
 
 FEDEX MAY MAKE FUTURE CHANGES OR MODIFICATIONS TO SUCH TERMS AND CONDITIONS AT ANY TIME WITHOUT NOTICE, AND YOUR SUBSEQUENT VIEWING OR USE OF FEDEX.COM WILL CONSTITUTE YOUR AGREEMENT TO THE CHANGES AND MODIFICATIONS. THERE MAY BE ADDITIONAL TERMS AND CONDITIONS PROVIDED THROUGHOUT FEDEX.COM GOVERNING YOUR USE OF PARTICULAR FUNCTIONS, FEATURES, INFORMATION AND APPLICATIONS AVAILABLE THROUGH FEDEX.COM.
 
@@ -38,7 +38,7 @@ FEDEX MAY MAKE FUTURE CHANGES OR MODIFICATIONS TO SUCH TERMS AND CONDITIONS AT A
 ### Section 1. Definitions  
  
 
-Content: information, graphics, products, features, functionality, services, and links on fedex.com, including FedEx Ship Manager at fedex.com, FedEx Ship Manager Lite, Global Trade Manager, and FedEx Billing Online.  
+Content: information, graphics, products, features, functionality, services, and links on fedex.com, including FedEx Ship Manager at fedex.com, Global Trade Manager, and FedEx Billing Online.  
   
 FedEx: FedEx Corporate Services, Incorporated, its parent and its parent's subsidiary companies.  
   
@@ -56,7 +56,7 @@ FedEx does not accept ideas, concepts, or techniques for new services or product
 
 ### Section 3. fedex.com Login Registration
 
-You may choose to register on fedex.com to access interactive features on fedex.com. fedex.com Login provides you with access to FedEx Ship Manager at fedex.com, FedEx Ship Manager Lite, My FedEx, FedEx Global Trade Manager, FedEx Billing Online,FedEx Mobile and other online services. The availability of these services varies by country/territory. In the future, FedEx may add other features that may be accessed through fedex.com Login. In such event, previously registered users will not be required to re-register.  
+You may choose to register on fedex.com to access interactive features on fedex.com. fedex.com Login provides you with access to FedEx Ship Manager at fedex.com, My FedEx, FedEx Global Trade Manager, FedEx Billing Online,FedEx Mobile and other online services. The availability of these services varies by country/territory. In the future, FedEx may add other features that may be accessed through fedex.com Login. In such event, previously registered users will not be required to re-register.  
 
 By registering on fedex.com, You agree to provide accurate and current information about Yourself as prompted by the fedex.com Login Registration pages and maintain and promptly update Your online profile information to keep it accurate and current.  
 
