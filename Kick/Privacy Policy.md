@@ -213,13 +213,13 @@ These Privacy Disclosures set out information about how we use your personal inf
 
 When we use the term "personal information" in these Privacy Disclosures, we mean information relating to an identified or identifiable natural person.
 
-### Personal information we collect and how we use it
+**Personal information we collect and how we use it**
 
 We collect specific categories of personal information from you when you use our Services or from third parties. For a list of the categories of personal information and how we use it, please visit the "Our collection and use of personal information" section of our Privacy Policy.
 
 We will indicate to you, at the point that we collect personal information from you, if the provision of certain personal information is mandatory or optional. Some information, such as your name, address, payment transaction information, and information on your requested services, may be necessary for your use of certain features and functionalities of the Services. If you choose not to provide personal information marked as mandatory, we may not be able to provide those aspects of the Services to you, or to respond to your queries and other requests.
 
-### How long will we store your personal information?
+**How long will we store your personal information?**
 
 We will usually store the personal information we collect about you for no longer than necessary for the purposes set out in this Privacy Policy, and in accordance with our legitimate business interests and applicable law. For example, if your personal information is subject to the EU GDPR or UK GDPR, the criteria used to determine the period for which personal information about you will be retained varies depending on the legal basis under which we process the personal information:
 
@@ -231,11 +231,11 @@ We will usually store the personal information we collect about you for no longe
 
 In all cases, in addition to the purposes and legal bases, we consider the amount, nature and sensitivity of the personal information, as well as the potential risk of harm from unauthorized use or disclosure of your personal information.
 
-### Recipients of personal information
+**Recipients of personal information**
 
 We may share your personal information with third parties. For a detailed list of the categories of third parties, please visit the "Our disclosure of personal information" section of our Privacy Policy.
 
-### Legal bases for processing
+**Legal bases for processing**
 
 We only process and retain your personal information as permitted under applicable law. For example, we will only process your information where we have established a lawful basis to do, as follows:
 
