@@ -1,4 +1,4 @@
-Effective November 17, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_11172025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_11172025.pdf)
+Effective April 23, 2026 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_04232026.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_04232026.pdf)
 
   
 
