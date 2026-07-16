@@ -18,19 +18,10 @@ move to sidebar hide
 Actions
 
 *   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
-*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
-*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
 
 General
 
 *   [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-
-Print/export
-
-*   [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
-*   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
-
-In other projects
 
 Appearance
 
