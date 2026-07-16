@@ -1,9 +1,9 @@
 Terms of Service
 ================
 
-Last modified October 2, 2025.
+Last modified July 15, 2026.
 
-These Terms of Service ("**TOS**" or "**Terms**") apply to you if: you are an institution, university, college, school, or organization (each, an "**Institution**"); you are an authorized Institution administrator, professor, test sponsor, employee, agent or contractor of an Institution (each, an "**Institution User**"); or you are an authorized individual, customer, or test taker end user (each, an "**End User**"). For purposes of these Terms, "You" refers to an Institution, Institution User, or End User, in whatever manner applicable to you. These Terms govern Your access to and use of the services, including our (referred to as "**Proctorio**" or "**We**") various websites, SMS, APIs, email notifications, documentation, software, licenses or applications, including the SaaS Agreement technology/application software (the "_Application Service_\*") (collectively, the "**Services**"), and any information, content, text, graphics, photos, audio, video, or other materials, uploaded, downloaded, or appearing on the Services, (with the exclusion of "**Feedback**," as defined in Section 7) (collectively, the "**Content**"). Your access to and use of the Services is conditioned on Your acceptance of and compliance with these Terms, as revised by Proctorio from time to time in its sole and exclusive discretion. The most current version of the Terms will always be at proctorio.com/policies. By continuing to access or use the Services after any revisions to the Terms become effective, You agree to be bound by the revised Terms as published. If You have entered into a SaaS Agreement, in the event of a conflict between these Terms and those contained in the SaaS Agreement, the terms of the SaaS Agreement shall prevail.
+These Terms of Service ("**TOS**" or "**Terms**") apply to you if: you are an institution, university, college, school, or organization (each, an "**Institution**"); you are an authorized Institution administrator, professor, test sponsor, employee, agent or contractor of an Institution (each, an "**Institution User**"); or you are an authorized individual, customer, or test taker end user (each, an "**End User**"). For purposes of these Terms, "You" refers to an Institution, Institution User, or End User, in whatever manner applicable to you. These Terms govern Your access to and use of the services, including our (referred to as "**Proctorio**" or "**We**") various websites, SMS, APIs, email notifications, documentation, software, licenses or applications, including the SaaS Agreement technology/application software (the "**Application Service**") (collectively, the "**Services**"), and any information, content, text, graphics, photos, audio, video, or other materials, uploaded, downloaded, or appearing on the Services, (with the exclusion of "**Feedback**," as defined in Section 7) (collectively, the "**Content**"). Your access to and use of the Services is conditioned on Your acceptance of and compliance with these Terms, as revised by Proctorio from time to time in its sole and exclusive discretion. The most current version of the Terms will always be at proctorio.com/policies. By continuing to access or use the Services after any revisions to the Terms become effective, You agree to be bound by the revised Terms as published. If You have entered into a SaaS Agreement, in the event of a conflict between these Terms and those contained in the SaaS Agreement, the terms of the SaaS Agreement shall prevail.
 
 1.  Basic Terms.
 
@@ -85,10 +85,17 @@ Proctorio offers a flexible service, which may include recording of video, audio
 
 More information can be found at [proctorio.com/support/requirements](https://proctorio.com/support/requirements).
 
-9.  Restrictions on Use of Services.
+9.  Identity Verification Disclosures.
 
 
-----------------------------------------
+------------------------------------------
+
+Proctorio uses a third-party sub-processor to conduct identity verification of test takers. When conducting identity verification, and with test takers’ explicit consent, Proctorio provides the sub-processor with test takers’ credit cards, identity documents, and/or biometric data (“Underlying Data”) solely to verify identity of test takers. As soon as the sub-processor verifies identity, Proctorio initiates a redaction sequence from the sub-processor who then immediately redacts all Underlying Data. At no time does Proctorio retain or store any Underlying Data.
+
+10.  Restrictions on Use of Services.
+
+
+-----------------------------------------
 
 Proctorio has the right, but not the obligation, at all times to remove or refuse to distribute any Content on the Services, to suspend or terminate users without liability to You if we reasonably determine that the Content or users materially violated these Terms. Subject to applicable laws and the terms of Proctorio's [Privacy Policy](https://proctorio.com/privacy), we also reserve the right to access, read, preserve, and disclose any information as we reasonably believe necessary to: (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce the Terms, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to user support requests; or (v) protect the rights, property, or safety of Proctorio, its users, its clients, and the public.
 
@@ -96,7 +103,7 @@ While accessing or using the Services You shall not: (i) access, tamper with, or
 
 Proctorio’s Services are not considered an Automated Decision Tool ("ADT"). An ADT is an artificial intelligence system or service that makes a consequential decision, or is a substantial factor in making consequential decisions. The Services do not autonomously make or recommend critical decisions based on algorithmic processes. Instead, the Services serve as an analytical or support tool, requiring human input and oversight for any significant actions. You agree that you will not use the Services to automate any decisions.
 
-10.  Copyright Policy.
+11.  Copyright Policy.
 
 
 --------------------------
@@ -107,7 +114,7 @@ We reserve the right to remove Content alleged to be infringing without prior no
 
 **If you suspect Content to infringe upon the proprietary rights of others, please contact Proctorio's designated copyright agent found on dmca.copyright.gov/osp.**
 
-11.  Ending these Terms.
+12.  Ending these Terms.
 
 
 ----------------------------
@@ -122,7 +129,7 @@ In all such cases, the Terms shall terminate, including, without limitation, Aut
 
 Nothing in this section shall affect Proctorio's rights to change, limit or stop the provision of the Services without prior notice, as provided above in Section 1.
 
-12.  Indemnification.
+13.  Indemnification.
 
 
 -------------------------
@@ -131,7 +138,7 @@ If You entered into a SaaS Agreement with Proctorio, Proctorio agrees to indemni
 
 To the extent allowable by law You agree to hold harmless, indemnify, and, at Proctorio's option, defend Proctorio from and against any losses, liabilities, costs (including reasonable attorneys' fees) or damages resulting from: (i) Your or any Authorized User's negligence or willful misconduct; (ii) Your or any Authorized User's unauthorized use of the Application IP; (iii) third-party claims arising from Your alleged violations of law; or (iv) a an Indemnity Exclusion, provided Proctorio promptly notifies You in writing of the claim, cooperates with You, and allows You sole authority to control the defense and settlement of such claim; provided however You will not settle any third-party claim against Proctorio without Proctorio's consent.
 
-13.  K-12 Institutions.
+14.  K-12 Institutions.
 
 
 ---------------------------
@@ -144,7 +151,7 @@ B. **Parents and Guardians.** As a parent or guardian, you represent and warrant
 
 C. **Collection of Student Information.** Proctorio's Services only collect the personal information from K-12 students that is needed for the operation and management of the Services, and only where the educational institution has contracted with Proctorio to do so. We first require that the educational institution (i) obtain the consent of parents/legal guardians prior to collecting such information or (ii) consent on their behalf. Further information concerning how K-12 student information is handled can be found in Proctorio's [Privacy Policy](https://proctorio.com/privacy).
 
-14.  Disclaimers and Limitations of Liability.
+15.  Disclaimers and Limitations of Liability.
 
 
 --------------------------------------------------
@@ -169,7 +176,7 @@ EXCEPT FOR INDEMNIFICATION OBLIGATIONS AS STATED IN THESE TERMS, IN NO EVENT SHA
 
 THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE PROCTORIO ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-15.  General Terms.
+16.  General Terms.
 
 
 -----------------------
@@ -243,11 +250,13 @@ You and Proctorio will, at all times, act as independent contractors, and nothin
 
 The failure of Proctorio or You to enforce any right or provision of these Terms, or any other applicable agreement, will not be deemed a waiver of such right or provision. If any provision of these Terms, or any other applicable agreement, is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.
 
-### I. Governing Law and Venue. - Other
+### I. Governing Law and Venue. - U.S.
 
 These Terms, any action related thereto, and all other agreements between You and Proctorio, unless otherwise stated, will be governed by Delaware State Law without regard to or application of its conflict of law provisions or Your state or country of residence. All claims for injunctive relief and the administration of any arbitration proceedings shall be brought and/or conducted solely in Maricopa County, Arizona. You consent to the jurisdiction and venue of any such proceedings and waive any objection as to an inconvenient forum.
 
-### I. Governing Law and Venue.
+If You are a federal, state, or local government entity in the United States using the Services in your official capacity and legally unable to accept the controlling law, jurisdiction or venue clauses, then those clauses do not apply to You. For such U.S. federal government entities, these Terms and any action related thereto will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of Delaware (excluding choice of law).
+
+### I. Governing Law and Venue. - Other
 
 These Terms, any action related thereto, and all other agreements between You and Proctorio, unless otherwise stated, will be governed exclusively by German law to the exclusion of the UN Sales Convention. All claims for injunctive relief and the administration of any arbitration proceedings shall be brought and/or conducted solely in the place of business of the Company. You consent to the jurisdiction and venue of any such proceedings and waive any objection as to an inconvenient forum.
 
