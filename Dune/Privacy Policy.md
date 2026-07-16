@@ -1,7 +1,7 @@
 Privacy and Cookie Policy
 =========================
 
-Valid from 7th of May 2020, updated 8th of May 2026.
+Valid from 7th of May 2020, updated July 13th, 2026.
 
 **1\. Introduction**
 --------------------
@@ -103,11 +103,21 @@ The Personal Data will be used to consider whether you are a potential candidate
 
 ### **2.6. AI-Powered Features**
 
-Dune offers AI-powered features, including LLM-based chatbot services ("Dune AI"), that process your inputs to generate responses. When you use these features, your inputs may be shared with third-party artificial intelligence service providers for the purpose of generating outputs. Dune may change such service providers from time to time.
+Dune offers AI-powered features, including Dune Agent, natural-language-to-SQL, query assistance, query explanation, and query/chart description or visualization assistance ("Dune AI"). These features process your inputs and relevant product context to generate responses or suggestions.
 
-Inputs submitted to Dune AI are processed for the purpose of providing the service. You should not include sensitive personal data in your inputs. For more information on Dune AI, see the Terms of Service.
+Dune currently uses Anthropic, PBC, located in the United States, as its large language model provider for Dune AI. Dune sends Anthropic the inputs and context needed to provide the relevant Dune AI feature.
 
-**Legal basis:** To fulfill an agreement with you, see article 6(1)(b) of the General Data Protection Regulation.
+Dune does not retain user prompts submitted to Dune AI, except as required for transient processing, legal compliance, security, or abuse prevention. Dune does not use Dune AI inputs or outputs to train models.
+
+Anthropic states that API inputs and outputs are deleted from its backend systems within 30 days by default, subject to exceptions for legal requirements, usage policy enforcement, or separately agreed retention settings. Anthropic also states that it does not use commercial/API inputs or outputs to train its models by default.
+
+You should not include sensitive personal data, confidential information, or information you are not authorized to submit in Dune AI inputs. Enterprise customers may request that Dune AI features are disabled for their organization where supported by their plan or separate agreement with Dune.
+
+See our [Trust Center](https://trust.dune.com/) for the full list of sub-processors.
+
+### **2.7. Use of AI tools**
+
+We process limited Personal Data (such as your name, username, and account/usage metadata), using approved third-party AI tools to operate, debug, troubleshoot, and analyse usage of the Dune Product. We only use AI providers operating under no-training and zero-retention terms (inputs are not used to train their models and are not retained). We do not process your private query content, uploaded data, or payment data in these tools. The AI providers we use are listed as sub-processors on our Trust Center. _Legal basis: legitimate interest, art. 6(1)(f)._
 
 **3\. Retention period**
 ------------------------
@@ -119,13 +129,7 @@ We retain Personal Data only for as long as necessary for the purposes described
 
 Dune Analytics will not share the Personal Data of its users with any third parties, except when we have legal grounds for sharing the data or it is required under any statutory obligations of which Dune Analytics AS is subject to.
 
-We share your data with our processors (sub-processors), with the sole purpose of providing and operating the service. Key sub-processors include:
-
-*   **Stripe** — payment processing. Located in the US.
-*   **Zendesk** — customer support. Located in the US.
-*   **Amazon Web Services** — cloud infrastructure hosting. Located in the EU and US.
-*   **Amplitude** — product analytics. Located in the US.
-*   **Third-party AI service providers** — powering Dune AI features, as described in section 2.6.
+We share your data with our processors (sub-processors), with the sole purpose of providing and operating the service. We share Personal Data with sub-processors solely to provide and operate the service. Our current list of sub-processors, with purpose and location, is maintained on our Trust Center at [trust.dune.com](http://trust.dune.com/).
 
 For all sub-processors located outside the EEA, we rely on appropriate transfer mechanisms, including EU Standard Contractual Clauses, to ensure that transfers are made in accordance with applicable data protection legislation.
 
@@ -156,7 +160,7 @@ Dune is situated in Norway within the European Economic Area (EEA). Some of our 
 **9\. Changes to this Privacy policy**
 --------------------------------------
 
-Dune Analytics reserves the right to adjust or change this Privacy Policy. We will notify you of such changes before they are implemented. You agree to such modifications or changes by continuing to use the Dune Product after such information has been made available to you.
+Dune may update this Privacy Policy from time to time. When we do this, we will post the updated Privacy Policy on this page, add the date of the last update at the top of this page, and record the change in our Trust Center at [https://trust.dune.com](https://trust.dune.com/). You understand and agree that your continued use of any Dune Product after we have made any such changes constitutes your acceptance of the updated Privacy Policy.
 
 **10\. Cookie Policy**
 ----------------------
