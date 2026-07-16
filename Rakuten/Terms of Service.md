@@ -1,17 +1,19 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 25 septembre 2025**_
+_**Version mise à jour le 25 juin 2026**_
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)._ 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)_._ 
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 20.10.2023 au 14.01.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/6.0_CGU_en_vigueur_%C3%A0_compter_du_20_octobre_2023.pdf?vh=3d53de&func=proxy)._ 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 20.10.2023 au 14.01.2024, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/6.0_CGU_en_vigueur_%C3%A0_compter_du_20_octobre_2023.pdf?vh=3d53de&func=proxy)_._ 
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.01.2024 au 14.02.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/7.0_CGU_en_vigueur_%C3%A0_compter_du_15janvier_2024.pdf?vh=072bb6&func=proxy)._ 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.01.2024 au 14.02.2024, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/7.0_CGU_en_vigueur_%C3%A0_compter_du_15janvier_2024.pdf?vh=072bb6&func=proxy)_._ 
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/8.0_CGU_en_vigueur_du_15_f%C3%A9vrier_2024_au_09_juillet_2024.pdf?vh=2afa74&func=proxy)._ 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/8.0_CGU_en_vigueur_du_15_f%C3%A9vrier_2024_au_09_juillet_2024.pdf?vh=2afa74&func=proxy)_._ 
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 10.07.2024 au 24.09.2025, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/9.0_CGU_en_vigueur_entre_le_10_juillet_2024_et_le_24_septembre_2025.pdf?vh=adfcf6&func=proxy)._ 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 10.07.2024 au 24.09.2025, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/9.0_CGU_en_vigueur_entre_le_10_juillet_2024_et_le_24_septembre_2025.pdf?vh=adfcf6&func=proxy)_._
+
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 25.09.2025 au 24.06.2026, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/10.0_CGU_en_vigueur_entre_le_25_septembre_2025_et_le_24_juin_2026.pdf?vh=2ce111&func=proxy)_._  
 
 ### Sommaire
 
@@ -43,7 +45,7 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 #### **PRÉAMBULE**
 
-Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - [courrier électronique](https://help.fr.shopping.rakuten.net/hc/fr), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Mangopay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, L.1125 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
+Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - [courrier électronique](https://help.fr.shopping.rakuten.net/hc/fr), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Mangopay, société anonyme de droit luxembourgeois dont le siège social est situé 4 rue Fort Wallis, L-2714 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
 
 Le directeur de la publication est Monsieur Cédric DUFOUR.
 
@@ -71,7 +73,7 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Plateforme Rakuten :** désigne la structure fonctionnelle et organisationnelle mise en place par Rakuten permettant la Mise en Relation de Vendeurs et d'Acheteurs de Produits. Les offres s'opèrent selon les moyens informatiques de télécommunications décrits dans l'Aide en ligne.
 
-**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions Générales d’Utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://help.fr.shopping.rakuten.net/hc/fr/articles/5180048609938-Conditions-d-utilisation-du-Porte-Monnaie-Rakuten), ainsi qu’aux [Conditions générales d’utilisation des services de paiement Mangopay](https://mangopay.com/terms-and-conditions/payment-services)[.](https://mangopay.com/terms-and-conditions/payment-services)
+**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions Générales d’Utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://help.fr.shopping.rakuten.net/hc/fr/articles/5180048609938-Conditions-d-utilisation-du-Porte-Monnaie-Rakuten), ainsi qu’aux [Conditions générales d’utilisation des services de paiement Mangopay.](https://mangopay.com/terms-and-conditions/payment-services)
 
 **Prix du Produit :** désigne le prix proposé par le Vendeur pour son offre de vente d'un Produit, qui constitue l'assiette de la Commission et des Frais de service. En ce qui concerne les livres, le prix neuf s'entend au sens et dans les limites de la loi du 10 août 1981 relative au prix du livre (dite « loi Lang »).
 
@@ -129,7 +131,7 @@ Rakuten donnera ordre au compte séquestre de procéder au paiement du Prix de l
 
 **4.6** Le Vendeur accepte par avance que le paiement par Rakuten du Prix de la Transaction, une fois libéré, puisse être retardé, d’une part pour des raisons tenant aux contraintes bancaires et ce pendant un délai de trois jours ouvrés, et d’autre part dans l'hypothèse d'une Réclamation de l'Acheteur pendant le délai d'examen de celle-ci par Rakuten.
 
-**4.7** Dès lors que l'Acheteur a accepté l'offre du Vendeur, que celui-ci a confirmé la disponibilité du Produit objet de l'offre et que Rakuten a encaissé le règlement intégral du Prix de la Transaction de l'Acheteur, Rakuten communiquera au Vendeur les coordonnées de l'Acheteur. Sur simple demande, Rakuten communiquera à l'Acheteur les coordonnées du Vendeur Professionnel.
+**4.7** Dès lors que l'Acheteur a accepté l'offre du Vendeur, que celui-ci a confirmé la disponibilité du Produit objet de l'offre et que Rakuten a encaissé le règlement intégral du Prix de la Transaction de l'Acheteur, Rakuten communiquera au Vendeur les coordonnées de l'Acheteur. Sur simple demande, Rakuten communiquera à l'Acheteur les coordonnées du Vendeur Professionnel.
 
 #### **5\. OBLIGATIONS DES MEMBRES**
 
@@ -225,7 +227,7 @@ Les modalités de détermination desdits frais sont décrites dans l’Aide en l
 **7.1** Rakuten pourra être amené, à titre exceptionnel et dans le but de lutter contre les éventuelles fraudes, à procéder à une validation de l'identité de l'Acheteur. En cas de communication tardive ou de défaut de communication conforme des informations requises par Rakuten dans le cadre de la validation de l'identité, Rakuten pourra retarder ou annuler l'exécution de la transaction opérée par l'Acheteur.  
 Ces données seront uniquement destinées à Rakuten.
 
-**7.2** L'Acheteur s'engage à respecter l'ensemble des lois et règlements relatifs à l'acquisition de biens de toute nature. En particulier, l'Acheteur est averti qu'il est susceptible d'être qualifié d'acquéreur intracommunautaire au sens de l'article 256 bis du Code général des impôts, le rendant redevable de la rémunération pour copie privée due pour tout achat, auprès d'un vendeur étranger, de supports amovibles soumis à ladite redevance (CD-R, DVD-R...). Pour de plus amples informations, les Acheteurs peuvent prendre contact avec la SORECOP/COPIE FRANCE à l'adresse copieprivee@sacem.fr.  
+**7.2** L'Acheteur s'engage à respecter l'ensemble des lois et règlements relatifs à l'acquisition de biens de toute nature. En particulier, l'Acheteur est averti qu'il est susceptible d'être qualifié d'acquéreur intracommunautaire au sens de l'article 256 bis du Code général des impôts, le rendant redevable de la rémunération pour copie privée due pour tout achat, auprès d'un vendeur étranger, de supports amovibles soumis à ladite redevance (CD-R, DVD-R...). Pour de plus amples informations, les Acheteurs peuvent prendre contact avec la SORECOP/COPIE FRANCE à l'adresse contact@copiefrance.fr.  
 De même, l’Acheteur est averti qu’il est susceptible de se voir réclamer par la douane le paiement de droits et taxes lors de l’acquisition de Produits auprès de Vendeurs situés en dehors de l’Union européenne.  
 Rakuten n’a aucun contrôle sur les frais de dédouanement et ceux-ci seront à la charge de l’Acheteur.
 
@@ -256,8 +258,11 @@ L’Acheteur est donc averti qu’un Vendeur agissant à titre professionnel ser
 **7.9.2** L'Acheteur peut obtenir, selon les cas, un remboursement ou un crédit de Rakuten Points correspondant au Prix du Produit, toutes remises déduites, qui ne lui conviendrait pas, à condition que :
 
 *   le Produit fasse partie des catégories couvertes, indiquées par un badge « Satisfait ou Remboursé » ;
+    
 *   le Produit présente le même état d’usure et de fonctionnement que celui décrit au sein de l’annonce d'origine du Vendeur ;
+    
 *   l’Acheteur procède à son renvoi dans les délais impartis. 
+    
 
 Les stipulations du présent article 7.9.2 s’appliquent sans préjudice des dispositions relatives aux garanties légales. 
 
@@ -318,13 +323,21 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 **8.6.3** La rétractation ne peut s'appliquer :
 
 *   aux enregistrements audio ou vidéo ou de logiciels informatiques qui ont été descellés par l’Acheteur après la livraison ;
+    
 *   aux Produits confectionnés selon les spécifications de l’Acheteur ou nettement personnalisés ;
+    
 *   aux Produits susceptibles de se détériorer ou de se périmer rapidement ;
+    
 *   aux Produits qui ont été descellés par l’Acheteur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé ;
+    
 *   aux Produits qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres Produits ;
+    
 *   à un journal, un périodique ou un magazine, sauf pour les contrats d’abonnement à ces publications ;
+    
 *   aux boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du Vendeur ;
+    
 *   à la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès de l'Acheteur et renoncement exprès à son droit de rétractation.
+    
 
 **8.6.4** L’Acheteur sera remboursé du Prix Total, y compris des frais de livraison (à l’exception des frais supplémentaires découlant du fait que l’Acheteur a éventuellement choisi un mode de livraison autre que le mode le moins coûteux de livraison standard proposé par le Vendeur). Ce remboursement interviendra au plus tard sous quatorze (14) jours à compter de la date à laquelle la demande de rétractation aura été portée à la connaissance de Rakuten. Cependant, à moins que le Vendeur ne propose de récupérer lui-même le Produit, le remboursement de l’Acheteur pourra être différé jusqu'à récupération du Produit retourné ou jusqu'à ce que l’Acheteur ait fourni une preuve de réexpédition du Produit, la survenance du premier de ces faits étant prise en considération pour le remboursement.
 
@@ -357,13 +370,21 @@ Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire e
 Il est strictement interdit d’utiliser les Espaces d’échange pour diffuser un message :
 
 *   à caractère publicitaire,
+    
 *   mentionnant un autre site Internet ou renvoyant vers celui-ci,
+    
 *   automatique et/ou répété,
+    
 *   contenant des virus ou des vers informatiques,
+    
 *   contenant des données à caractère personnel, notamment pour établir un contact direct avec un Membre afin de réaliser une transaction en dehors de la Plateforme,
+    
 *   se référant, dans le cadre d'une Réclamation à la suite d'une transaction, à toute autre transaction clôturée, en cours, ou future,
+    
 *   violant, détournant ou enfreignant les droits de Rakuten, des Membres ou de tiers, y compris les droits à la vie privée, à l’image, de propriété intellectuelle ou autres droits exclusifs,
+    
 *   contraire aux bonnes moeurs et à l’ordre public, menaçant, haineux, insultant, dénigrant, diffamatoire, fallacieux, assimilable à du harcèlement ou considéré comme étant incompatible avec la finalité de l'Espace d'échange en question ou avec les présentes Conditions Générales d’Utilisation.
+    
 
 Rakuten utilise un algorithme destiné à bloquer les messages échangés directement entre les Membres qui pourraient être inappropriés ou insultants.
 
@@ -384,23 +405,35 @@ Rakuten se réserve la faculté de sanctionner tout Membre utilisant les Espaces
 Dans le cas où Rakuten constaterait, sur la base de faits ou d’un faisceau d’indices, que le Membre violerait ou serait susceptible de violer l’une ou plusieurs des stipulations des Conditions Générales d’Utilisation de la Plateforme Rakuten, de tout document de nature contractuelle auquel l’adhésion est nécessaire pour bénéficier de tout ou partie des services de la Plateforme Rakuten et/ou toutes dispositions législatives ou réglementaires en vigueur et, notamment, mais sans s’y limiter, commettrait l'une ou plusieurs des violations contractuelles ou infractions suivantes :
 
 *   mise en vente de Produits Interdits,
+    
 *   activité commerciale dissimulée,
+    
 *   taux d’infirmation anormal de la disponibilité des Produits,
+    
 *   taux de Réclamations anormalement élevé,
+    
 *   ouverture de plusieurs comptes,
+    
 *   transactions entre différents comptes appartenant à des personnes ou entités identiques ou liées par des liens affectifs, juridiques, économiques et/ou familiaux (notamment transactions entre parrain et filleul, etc.) qui, au moyen d’une entente préalable, ont notamment pour objectif de de transférer de l’argent d’un compte à un autre, de manipuler les évaluations ou commentaires, de bénéficier frauduleusement de Rakuten Points, etc.
+    
 *   impayés (notamment en cas d’opposition bancaire infondée, de réclamations abusives via des services tiers, de remboursement à tort du Membre),
+    
 *   fraudes aux moyens de paiement,
+    
 *   détournement du fonctionnement des coupons de réduction,
+    
 *   manquement aux obligations sociales, fiscales et douanières,
+    
 *   absence du certificat d’engagement  ou mention inexacte, incomplète ou obsolète au regard de l’activité du Vendeur Professionnel ;
+    
 *   ou tout autre manquement, contractuel ou légal, fraude ou infraction pénale (y compris toute tentative),
+    
 
 Rakuten se réserve la faculté de suspendre au Membre l'accès à la Plateforme Rakuten et/ou de prendre toute mesure (incluant, sans s’y limiter : restriction de tout ou partie de l’accès aux services de la Plateforme Rakuten, clôture du compte du Membre, suspension temporaire de l’utilisation du Porte-Monnaie, retrait ou suspension d'une annonce, etc.) rendue nécessaire par les violations ou tentatives de violations précitées du Membre et proportionnelle à ces violations et aux circonstances entourant leur commission (notamment en considération de leur caractère grave et/ou répété), sans préjudice de l'indemnisation intégrale du dommage éventuellement subi par Rakuten; le Vendeur ne pouvant invoquer dans cette hypothèse les frais éventuellement exposés par lui à l'occasion de la mise en ligne de ses Produits.
 
 Ces stipulations sont sans préjudice de mesures et sanctions spécifiquement définies dans les présentes Conditions Générales d’Utilisation, dans les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/) ou dans toute autre composante des conditions auxquelles l’adhésion est nécessaire pour bénéficier des services de la Plateforme (incluant, sans s’y limiter, le [Règlement du Club Rakuten](https://fr.shopping.rakuten.com/newhelp/reglement-club/), les règles relatives au [Programme de Parrainage](https://fr.shopping.rakuten.com/offre-parrainage-rakuten), les [Conditions d’Utilisation du Porte-Monnaie Rakuten](https://help.fr.shopping.rakuten.net/hc/fr/articles/5180048609938-Conditions-d-utilisation-du-Porte-Monnaie-Rakuten), les [Conditions d’Utilisation de la Monnaie électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/), etc.).
 
-La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une suspension pour quelque motif que ce soit, le Membre reste tenu au versement des Commissions ou Frais de service exigibles pour une Mise en Relation effectuée avant la date effective de suspension.
+La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une suspension pour quelque motif que ce soit, le Membre reste tenu au versement des Commissions ou Frais de service exigibles pour une Mise en Relation effectuée avant la date effective de suspension.
 
 #### **11.3 Règlement sur les Services Numériques** 
 
@@ -439,38 +472,41 @@ TOUT LITIGE AVEC UN MEMBRE ET NÉ A L’OCCASION DE SON INTERPRETATION ET/OU DE 
 
 **12.8.2** Les Membres agissant en qualité de consommateurs peuvent également recourir au service de règlements des différends en ligne proposé par la Commission européenne accessible [ici](http://ec.europa.eu/consumers/odr).
 
-#### **  
-ANNEXES**
+####   
+**ANNEXES**
 
 #### **Annexe I**
 
-**_Article L. 217-3 du Code de la consommation_**
+_**Article L. 217-3 du Code de la consommation**_
 
-_Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article_ [_L. 217-5_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221275&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-5 (V)")_.__Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article_ [_L. 216-1_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221249&dateTexte=&categorieLien=cid "Code de la consommation - art. L216-1 (V)")_, qui apparaissent dans un délai de deux ans à compter de celle-ci._
+_Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article_ [_L. 217-5_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221275&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-5 (V)")_._  
+_Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article_ [_L. 216-1_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221249&dateTexte=&categorieLien=cid "Code de la consommation - art. L216-1 (V)")_, qui apparaissent dans un délai de deux ans à compter de celle-ci._
 
-_Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :__1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;  
-2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat.  
-Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article_ [_L. 217-19_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221307&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-19 (V)")_.__Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur.  
-Ce délai de garantie s'applique sans préjudice des_ [_articles 2224 et suivants du code civil_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006447327&dateTexte=&categorieLien=cid "Code civil - art. 2224 (V)")_. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité._
+_Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :_  
+_1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;_  
+_2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat._  
+_Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article_ [_L. 217-19_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221307&dateTexte=&categorieLien=cid "Code de la consommation - art. L217-19 (V)")_._  
+_Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur._  
+_Ce délai de garantie s'applique sans préjudice des_ [_articles 2224 et suivants du code civil_](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006447327&dateTexte=&categorieLien=cid "Code civil - art. 2224 (V)")_. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité._
 
-**_Article L. 217-4 du Code de la consommation_**
+_**Article L. 217-4 du Code de la consommation**_
 
-_Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants :__  
-1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ;  
-2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;  
-3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;_
+_Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants :_  
+_1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ;_  
+_2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;_  
+_3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;_
 
 _4° Il est mis à jour conformément au contrat_
 
-**_Article L. 217-5 du Code de la consommation_**
+_**Article L. 217-5 du Code de la consommation**_
 
-_I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :__  
-1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;_
+_I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :_  
+_1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;_
 
 _2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;_
 
-_3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement;__  
-4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;_
+_3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement;_  
+_4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;_
 
 _5° Le cas échéant, il est fourni avec les mises à jour que le consommateur peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;_
 
@@ -482,11 +518,11 @@ _1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les
 
 _2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou_
 
-_3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.__  
+_3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat._  
   
-III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat._
+_III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat._
 
-**_Article L. 271-7 du Code de la consommation_**
+_**Article L. 271-7 du Code de la consommation**_
 
 _Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à partir de la délivrance du bien sont présumés exister au moment de la délivrance, sauf preuve contraire._
 
@@ -494,19 +530,19 @@ _Pour les biens vendus d’occasion, ce délai est fixé à six mois._
 
 _Le vendeur peut combattre cette présomption si celle-ci n'est pas compatible avec la nature du bien ou le défaut de conformité invoqué._
 
-**_Article L. 217-8 du Code de la consommation_**
+_**Article L. 217-8 du Code de la consommation**_
 
 _En cas de défaut de conformité, le consommateur a droit à la mise en conformité du bien par réparation ou remplacement ou, à défaut, à la réduction du prix ou à la résolution du contrat, dans les conditions énoncées à la présente sous-section._
 
-_Le consommateur a, par ailleurs, le droit de suspendre le paiement de tout ou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ce que le vendeur ait satisfait aux obligations qui lui incombent au titre du présent chapitre, dans les conditions des articles 1219 et 1220 du code civil.__  
-Les dispositions du présent chapitre sont sans préjudice de l'allocation de dommages et intérêts._
+_Le consommateur a, par ailleurs, le droit de suspendre le paiement de tout ou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ce que le vendeur ait satisfait aux obligations qui lui incombent au titre du présent chapitre, dans les conditions des articles 1219 et 1220 du code civil._  
+_Les dispositions du présent chapitre sont sans préjudice de l'allocation de dommages et intérêts._
 
-**_Article L. 217-9_** **_du Code de la consommation_**
+_**Article L. 217-9 du Code de la consommation**_
 
 _En cas de défaut de conformité, l'acheteur choisit entre la réparation et le remplacement du bien._  
 _Toutefois, le vendeur peut ne pas procéder selon le choix de l'acheteur si ce choix entraîne un coût manifestement disproportionné au regard de l'autre modalité, compte tenu de la valeur du bien ou de l'importance du défaut. Il est alors tenu de procéder, sauf impossibilité, selon la modalité non choisie par l'acheteur._
 
-**_Article L. 217-10 du Code de la consommation_**
+_**Article L. 217-10 du Code de la consommation**_
 
 _Si la réparation et le remplacement du bien sont impossibles, l'acheteur peut rendre le bien et se faire restituer le prix ou garder le bien et se faire rendre une partie du prix._
 
@@ -517,7 +553,7 @@ _1° Si la solution demandée, proposée ou convenue en application de l'article
 _2° Ou si cette solution ne peut l'être sans inconvénient majeur pour celui-ci compte tenu de la nature du bien et de l'usage qu'il recherche._  
 _La résolution de la vente ne peut toutefois être prononcée si le défaut de conformité est mineur._
 
-**_Article L. 217-12 du Code de la consommation_**
+_**Article L. 217-12 du Code de la consommation**_
 
 _Le vendeur peut ne pas procéder selon le choix opéré par le consommateur si la mise en conformité sollicitée est impossible ou entraîne des coûts disproportionnés au regard notamment :_
 
@@ -525,38 +561,38 @@ _1° De la valeur qu'aurait le bien en l'absence de défaut de conformité ;_
 
 _2° De l'importance du défaut de conformité ; et_
 
-_3° De la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le consommateur.__  
-Le vendeur peut refuser la mise en conformité du bien si celle-ci est impossible ou entraîne des coûts disproportionnés notamment au regard des 1° et 2°._
+_3° De la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le consommateur._  
+_Le vendeur peut refuser la mise en conformité du bien si celle-ci est impossible ou entraîne des coûts disproportionnés notamment au regard des 1° et 2°._
 
 _Lorsque ces conditions ne sont pas respectées, le consommateur peut, après mise en demeure, poursuivre l'exécution forcée en nature de la solution initialement sollicitée, conformément aux articles 1221 et suivants du code civil._
 
 _Tout refus par le vendeur de procéder selon le choix du consommateur ou de mettre le bien en conformité, est motivé par écrit ou sur support durable._
 
-**_Article L. 217-13 du Code de la consommation_**
+_**Article L. 217-13 du Code de la consommation**_
 
 _Tout bien réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de cette garantie de six mois._
 
 _Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur._
 
-**_Article L. 217-16 du Code de la consommation_**
+_**Article L. 217-16 du Code de la consommation**_
 
-_Dans les cas prévus à l'article L. 217-14, le consommateur informe le vendeur de sa décision de résoudre le contrat. Il restitue les biens au vendeur aux frais de ce dernier. Le vendeur rembourse au consommateur le prix payé et restitue tout autre avantage reçu au titre du contrat.__  
+_Dans les cas prévus à l'article L. 217-14, le consommateur informe le vendeur de sa décision de résoudre le contrat. Il restitue les biens au vendeur aux frais de ce dernier. Le vendeur rembourse au consommateur le prix payé et restitue tout autre avantage reçu au titre du contrat._  
   
-Si le défaut de conformité ne porte que sur certains biens délivrés en vertu du contrat de vente, le consommateur a le droit à la résolution du contrat pour l'ensemble des biens, même ceux non couverts par le présent chapitre, si l'on ne peut raisonnablement attendre de lui qu'il accepte de garder les seuls biens conformes.  
+_Si le défaut de conformité ne porte que sur certains biens délivrés en vertu du contrat de vente, le consommateur a le droit à la résolution du contrat pour l'ensemble des biens, même ceux non couverts par le présent chapitre, si l'on ne peut raisonnablement attendre de lui qu'il accepte de garder les seuls biens conformes._  
   
-Pour les contrats mentionnés au II de l'article L. 217-1, prévoyant la vente de biens et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, le consommateur a droit à la résolution de l'ensemble du contrat. En outre, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, le consommateur a le droit à la résolution de l'ensemble des contrats y afférents.  
+_Pour les contrats mentionnés au II de l'article L. 217-1, prévoyant la vente de biens et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, le consommateur a droit à la résolution de l'ensemble du contrat. En outre, dans le cas d'une offre groupée au sens de l'article L. 224-42-2, le consommateur a le droit à la résolution de l'ensemble des contrats y afférents._  
   
-Les obligations respectives des parties au contrat, mentionnées à l'article L. 224-25-22 et relatives aux conséquences de la résolution pour les contenus numériques et les services numériques, sont applicables à la résolution du contrat de vente d'un bien comportant des éléments numériques._
+_Les obligations respectives des parties au contrat, mentionnées à l'article L. 224-25-22 et relatives aux conséquences de la résolution pour les contenus numériques et les services numériques, sont applicables à la résolution du contrat de vente d'un bien comportant des éléments numériques._
 
-**_Article 1641 du Code civil_**
+_**Article 1641 du Code civil**_
 
 _Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._
 
-**_Article 1644 du Code civil_**
+_**Article 1644 du Code civil**_
 
 _\[...\] l'acheteur a le choix de rendre la chose et de se faire restituer le prix, ou de garder la chose et de se faire rendre une partie du prix, telle qu'elle sera arbitrée par experts._
 
-**_Article 1648 alinéa 1er_****_Code civil_**
+_**Article 1648 alinéa 1erCode civil**_
 
 _L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._
 
