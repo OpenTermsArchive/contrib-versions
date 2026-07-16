@@ -213,15 +213,17 @@ HAPPN is very concerned with the protection of your personal data and the respec
 **7.1 Technical Resources and Security**
 ----------------------------------------
 
-HAPPN agrees to provide the infrastructure and technical resources to provide a high-quality service to Members with an iPhone device running operating system version iOS 10 or higher, an Android Smartphone running version 5 or higher.
+HAPPN agrees to provide the infrastructure and technical resources to provide a high-quality service to Members with an iPhone device running operating system version iOS 17.5 or higher, an Android Smartphone running version 8 or higher.
 
 HAPPN cannot be held liable for any operating fault on the Member’s device or for any compatibility issue between the Application and the device.
 
-In addition, every effort is made to ensure that the risks of fraudulent access to HAPPN’s system are minimized.  In this respect, HAPPN uses a firewall or equipment located between the Internet and the company’s private network, in order to make its security more robust by filtering traffic to and from the internet. It is, however, impossible to fully guarantee the security of a network.
+In addition, every effort is made to ensure that the risks of fraudulent access to HAPPN’s system are minimized. In this respect, HAPPN uses a firewall or equipment located between the Internet and the company’s private network, in order to make its security more robust by filtering traffic to and from the internet. It is, however, impossible to fully guarantee the security of a network.
 
-HAPPN is not responsible for any failures, interruptions or poor performance of the Member’s internet provider Services, or for any cause beyond HAPPN’s control which might interrupt or have an adverse effect on access to HAPPN Services.
+HAPPN is not responsible for any failures, interruptions or poor performance of the Member’s internet provider Services, or for any cause beyond HAPPN’s control which might interrupt or have an adverse effect on access to HAPPN Services..
 
-The Member must have access to a secure email account. If such a precaution is not taken, or even if it is, while this probability remains low, the Member’s Account may be vulnerable to fraud.
+The Member must have access to a secure email account. The Member must take all reasonable measures to ensure the security of the devices and third-party services, including their email accounts and phone number, with which they access HAPPN Services.
+
+Despite these precautions, or in the event of failure to comply with them, the Member's Account remains susceptible to fraud, particularly in the event of a compromise of their device or third-party services. If suspicious activity is detected on the Member's Account, suggesting a compromise of their device or third-party services, HAPPN reserves the right to suspend the Account as a precautionary measure, in order to protect the integrity of HAPPN and to protect the Member concerned as well as other Members against any risk of fraud or manipulation of the Services, in accordance with Article 14.4, and given the need to prevent unauthorized use of the Account without delay, this suspension takes place without prior notice to the Member.
 
 HAPPN shall also endeavor to avert Members of any exceptional risk of receiving spam Messages or Messages claiming to have been sent by HAPPN. The Member must be attentive and vigilant in order to avoid being the victim of scams and report any of the above circumstances to HAPPN by sending a letter or email to the address provided in Article 15 hereof.
 
@@ -242,7 +244,7 @@ HAPPN and its partners cannot be held liable for actions by its Members which ar
 
 • An infringement of personal rights, such as image rights and the respect of the right to privacy.
 
-• Any such behaviour may result in the suspension or termination of these terms and conditions of use in accordance with Article 15.4 herein.
+• Any such behaviour may result in the suspension or termination of these terms and conditions of use in accordance with Article 14.4 herein.
 
 **7.3 Reporting and Community Moderation System**
 -------------------------------------------------
@@ -375,7 +377,7 @@ In order to remain a Member, all of the following conditions must be met:
 
 The Member shall not copy and/or disseminate, and/or transfer technical data that it might intercept on the network connected to the HAPPN application.
 
-Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 15.4 of these terms and conditions of use.
+Furthermore, in the event of obviously abusive or excessive behaviour by the Member, especially if it is repeated and/or unfounded, with the intention of using  the paid Services offered on the Application for free, HAPPN reserves the right to suspend the Member's Account under the terms of Article 14.4 of these terms and conditions of use.
 
 Members also commit to abide by the following terms of use:
 
@@ -582,9 +584,9 @@ These original works are protected by Articles L335-3 et seq. of the French Inte
 
 The usage rights granted by HAPPN to the Member are restricted to private and personal use. Any other use by the Member is prohibited without HAPPN’s prior, express and written authorization.
 
-The Member grants HAPPN and its partners a free-of-charge, non-exclusive, international and permanent license for the use, reproduction, representation, modification and translation of any basic intellectual property-related component and personality rights (including rights of image, name, and voice) (text, photos, videos, etc.) that it may provide through the Application for the non-exclusive purpose of communicating with other Members.
+The Member grants HAPPN and its partners a free-of-charge, non-exclusive license for the use, reproduction, representation, modification and translation of any basic intellectual property-related component and personality rights (including rights of image, name, and voice) (text, photos, videos, etc.) that it may provide through the Application for the non-exclusive purpose of communicating with other Members.
 
-HAPPN shall use this license in a manner which complies with image rights, respect of personality attributes, and respect of the right to privacy which protects the user’s personal data, without misrepresenting the true nature of the Member’s profile and therefore in keeping with this profile. This license permits HAPPN to ensure that these components are compatible with its technical performance or the required media formats. These rights are granted on an international basis and throughout the performance of these TOS between the Member and HAPPN.
+HAPPN shall use this license in a manner which complies with image rights, respect of personality attributes, and respect of the right to privacy which protects the user’s personal data, without misrepresenting the true nature of the Member’s profile and therefore in keeping with this profile. This license permits HAPPN to ensure that these components are compatible with its technical performance or the required media formats. These rights are granted on an international basis and throughout the performance of these TOS between the Member and HAPPN, plus the retention period as defined in the Privacy Policy.
 
 The Member shall retain ownership of any content and personal data that he or she provides.
 
@@ -658,7 +660,7 @@ In case of breach of TOS by the Member, his or her account can at any time and a
 
 HAPPN will be entitled to suspend a Member’s account as long as necessary to allow HAPPN’s customer service team to make all investigations necessary following the report as required by Article 7.3 hereof or in case of presumed breach of TOS which may be remediated.
 
-In its decision to suspend the Account, HAPPN will consider the seriousness of the violation and whether it is repeated or isolated. For example, in the event of suspension following misuse of the service, i.e. frequent supply of obviously illicit content and frequent and manifestly unfounded notifications and complaints, HAPPN will consider :
+In its decision to suspend the Account, HAPPN will consider the seriousness of the violation and whether it is repeated or isolated. For example, in the event of suspension following misuse of the service, i.e. frequent supply of obviously illicit content and frequent and manifestly unfounded notifications and complaints, HAPPN will consider:
 
 • the volume of obviously illicit content/notifications or obviously unfounded complaints;
 
@@ -668,17 +670,15 @@ In its decision to suspend the Account, HAPPN will consider the seriousness of t
 
 • the Member's intention (where this can be determined).
 
-The Member is invited to contact HAPPN customer service by email in order to obtain more information on the reasons for the suspension and in order to provide explanations and/or bring the proof that the breach has been remediated. Members may also turn to the internal complaints handling system set up by HAPPN.
+The Member is invited to contact HAPPN customer service by email in order to obtain more information on the reasons for the suspension and in order to provide explanations and/or bring the proof that the breach has been remediated. Members may also turn to the internal complaints handling system set up by HAPPN..
 
-If within 30 days following the notification of the account suspension, the Member has not contacted HAPPN customer service, or if the elements given by the Members did not help to remedy the breach, HAPPN will be entitled to notify the Member of termination of his or Account via the Application and/or by email and inform the Member of the period in which he or she cannot re-register for the Application.  Unless stated otherwise, the duration of such removal is set at 2 years from the notification of termination of the Account.
+If within 30 days following the notification of the account suspension, the Member has not contacted HAPPN customer service, if the elements given by the Member to the customer service did not help to remedy the breach, or if the breach is of sufficient gravity, notably attempts at fraud, manipulation of the Services, or acts likely to constitute criminal offenses, HAPPN will be entitled to notify the Member of the termination of his or her Account via the Application and/or by email and inform the Member of the period during which he or she cannot re-register for the Application. Unless stated otherwise, this period is set at 2 years from the notification of the termination of the Account.
 
 Upon Termination of the Account:
 
 • The Member’s profile will be made invisible to other Members;
 
 • The remaining SuperCrushs or Boosts, in the Member’s Account on the day the Account is terminated shall be definitively deleted without the possibility to claim any reimbursement.
-
-The Member will not be able to create another account for a maximum 2-years period from the notification of the Account termination.
 
 **14.5 Termination of Inactive Accounts by HAPPN**
 --------------------------------------------------
