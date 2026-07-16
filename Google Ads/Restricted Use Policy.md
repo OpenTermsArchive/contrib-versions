@@ -10,7 +10,7 @@ Welcome to the Google Advertising Policies Center
 
 |     |     |     |
 | --- | --- | --- |
-| [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE)](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to appeal a suspended account.](//storage.googleapis.com/support-kms-prod/K2X2pe8IVRbfC2d6COKed6eeMpwfRPecCnJ0)](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk)](https://support.google.com/ads/troubleshooter/4578507) |
+| [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//lh3.googleusercontent.com/-72rjBssmibT0pv0WbEgHu84NiknfdOP7oUOFN8p89bSGBakyLfAxBjQhOcrU5SRnmk)](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to appeal a suspended account.](//lh3.googleusercontent.com/VD5tLcFOo62sg31c_Dsxl9BbFN_okMZcyPhzPdBA01Yk1fiL-l9nhczMVLDKDOy6ioE)](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//lh3.googleusercontent.com/jPOJX7Zl9YcZCoiltLIyFynK1xrrcer_u-Yjj2yGZ-a5CVOKQ5Mwtob69FUAvkZsAQ)](https://support.google.com/ads/troubleshooter/4578507) |
 
 Overview of our policies and how we enforce them
 ------------------------------------------------
@@ -23,10 +23,10 @@ Our advertising policies cover 4 broad areas:
 
 > |     |     |
 > | --- | --- |
-> | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
-> | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
-> | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
-> | ![](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
+> | ![Google Ads policies \| prohibited content](//lh3.googleusercontent.com/2YWGoV_TrFfafdLbF0mZz-rPmRtf2ShAzrhpFuakMVWf22q5TwqPLaKuqfDk-QBcj5U) | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
+> | ![Google Ads policies \| prohibited practice](//lh3.googleusercontent.com/moqrQMwKJqIqjWnrrHNaQeLHTaFSK4vSF1GUPeeIjIMCoz4c7YFFkkglHzYYXFayrC4) | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
+> | ![Google Ads policies \| restricted content](//lh3.googleusercontent.com/sMJKa2qo7WfmbmRLFOiLC2QGq5HD8HHcMwTVHFpRPIwHwyAlrNSfQCjsucy-wgw8aZc) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
+> | ![](//lh3.googleusercontent.com/H-Nt8BboLw8NzZ-41xWm7WecAmuh3pftWFhFOwoHU24Vrer3V9aAaNQAV2gPFTm3S5s) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 > 
 > To learn more about which policies are included in these broad categories, click the links for the category names to review the content below. For additional details about each policy, click the header of the section to learn more.
 
@@ -43,7 +43,7 @@ We will provide you with information on our decision for any policy violation en
 Prohibited content
 ------------------
 
-![](//storage.googleapis.com/support-kms-prod/AseE88sIojQQeecTJXkO6d42LwtSvEgKee2G)
+![](//lh3.googleusercontent.com/AJhCzHnGqpdI-MiiZbtKsc4_rQSPQFlH6xl_6mguaStCIyOXjY-btDZXdTP2kDcApHY)
 
 > ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
 > 
@@ -72,7 +72,7 @@ Prohibited content
 Prohibited practices
 --------------------
 
-![](//storage.googleapis.com/support-kms-prod/P0mBQZPEIOeseqBUwwyrTYO2LkK44NQtJiPr)
+![](//lh3.googleusercontent.com/8YTvGzyo7OiLnDUtwbT7Gl904O7f5mLzG1zG-tRrF033USltN8m-xUXXbOICXlZVvyqS)
 
 > ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
 > 
@@ -105,7 +105,7 @@ Prohibited practices
 Restricted content and features
 -------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/rAPRJes0y63mBZy6V4D77hDdJzkSaArTKRlU)
+![](//lh3.googleusercontent.com/gZGUxb4VcSaoS2xfhbEzNOkQORJteS_chwrkCC1MstAkaNbt478yX7RMwu_CT4xu8TU9)
 
 The policies below cover content that is sometimes legally or culturally sensitive. Online advertising can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
 
@@ -215,7 +215,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 Editorial and technical requirements
 ------------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/NacUE6w9HrIZjL8Jr52yZCs0pmRgKaOqwZXu)
+![](//lh3.googleusercontent.com/H27PwJiRvnz5ShfZrSil0kwPenjgbxQJH1Db2mSbTJGXFUMvpy2Ge3P6ZYiWxBdKk6yX)
 
 We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
 
@@ -241,7 +241,7 @@ We want to deliver ads that are engaging for users without being annoying or dif
 
 ### [Ad format requirements](https://support.google.com/adspolicy/topic/6021648)
 
-> ![](//storage.googleapis.com/support-kms-prod/pIDPlQarmWsAFo8mDlv9KU9PVQ2HwHhnLEKi)
+> ![](//lh3.googleusercontent.com/PIwvm0nNkF5_PBPGltgUBK7203R0xhpVjvAKrP4CXFeqdzF-q0KLvP-qY9bmnRuhpAk)
 > 
 > In order to help you provide a quality user experience and deliver attractive, professional-looking ads, we only allow ads that comply with specific requirements for each ad format. Review the requirements for all ad formats that you're using.
 > 
