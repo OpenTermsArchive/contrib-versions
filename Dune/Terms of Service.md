@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last updated on: May 11th, 2026
+Last updated on: June 3rd, 2026
 
 In these terms of service (“**Terms of Service**”), the words "you," "your," and "User" mean each and every person who accesses or uses any Service (as defined below), including any business or other entity on behalf of which any Service is accessed. The words "we," "us," "our", refer to Dune (as defined below).
 
@@ -49,9 +49,7 @@ Terms provided in the Addenda shall supersede these General Terms and Conditions
 **Changes to the Terms of Service**
 -----------------------------------
 
-We may make changes to these Terms of Service from time to time. If we do this, we will post the changed Terms of Service on this page and will indicate at the top of this page the date the Terms of Service were last revised. You understand and agree that your continued use of any Service after we have made any such changes constitutes your acceptance of the new Terms of Service.
-
-If we change these Terms of Service to your disadvantage, we will notify you before such changes are taking place. Notices may be given in our release notes.
+We may update these Terms of Service from time to time. When we do this, we will post the updated Terms of Service on this page, add the date of the last update on the top of this page, and record the change in our Trust Center at [https://trust.dune.com](https://trust.dune.com/). You understand and agree that your continued use of any Service after we have made any such changes constitutes your acceptance of the new Terms of Service.
 
 **License to use Dune and the Services**
 ----------------------------------------
@@ -102,6 +100,24 @@ You are responsible for ensuring that the data you upload, the information you p
 
 You may only register a username or Team handle deemed appropriate by Dune. Usernames may not, e.g., be offensive, profane, threatening, sexually explicit, misleading or deceitful. A username may also not be associated with a name or trademark actively used by someone else. You may not sell or in any other way transfer your username, Team handle, Team or User account without our prior written consent. Dune may replace, modify, or delete usernames, Team handles and respective accounts not in accordance with these Terms of Service.
 
+**No Circumvention and Abuse**
+------------------------------
+
+Users and Teams must not abuse or circumvent the Services, Subscription Plans, or any applicable features, resources, performance levels, restrictions, or limitations.  
+  
+Without limitation, Users and Teams must not, through abuse or circumvention, attempt to obtain additional Credits, access additional free or paid usage, avoid overage charges or a required Subscription Plan upgrade, or circumvent any Credit allocation, Subscription Plan limit, Execution limit, rate limit, pricing term, or other usage restriction applicable to the Services.  
+  
+Examples of abuse or circumvention include credit farming, account farming, and creating, maintaining, accessing, or using multiple User accounts, Teams, identities, or other means to circumvent or bypass applicable limits or restrictions.  
+  
+If Dune determines, in its sole discretion, that a User, Team, or group of related Users or Teams has engaged in abuse or circumvention, Dune may take appropriate measures to protect the Services and enforce these Terms of Service. Such measures may include:
+
+*   suspending, limiting, throttling, or terminating access;
+*   revoking, deducting, withholding, or refusing to honor Credits or other usage entitlements;
+*   requiring account or Team consolidation or verification;
+*   requiring upgrade to an appropriate Subscription Plan;
+*   charging applicable overages; or
+*   taking other remedial measures.
+
 **User Content**
 ----------------
 
@@ -128,17 +144,15 @@ If you think any User Content infringes your rights, or if you want to challenge
 **Dune AI**
 -----------
 
-Dune also provides LLM Chatbot services related to the information, answers and other texts ("Outputs") to the User's requests ("Inputs") by leveraging third party's artificial intelligence services based on large language models. Inputs are also User Content.
+Dune provides AI-powered features that generate information, answers, code, query suggestions, chart suggestions, descriptions, and other outputs ("Outputs") in response to the User's requests and related context ("Inputs"). Inputs are User Content.
 
-The LLM Chatbot Services share the User's Inputs to third party artificial intelligence service providers to receive Outputs.
+Dune may share Inputs and related context with third-party artificial intelligence service providers to provide Outputs. Dune currently uses Anthropic, PBC as its large language model provider for Dune AI. More information about Dune AI processing, retention, model-training, and sub-processors is available in Dune's Privacy Policy, including sections 2.6 and 4.
 
-Outputs may not be unique across users and the Services may generate the same or similar output for different users. Given the probabilistic nature of machine learning, the Outputs may in some situations result in incorrect information that does not accurately reflect facts or data. The User should evaluate and confirm with other sources the accuracy of any Output.
+Outputs may be inaccurate, incomplete, or similar across users. The User is responsible for evaluating Outputs before relying on them, and for the information shared through Inputs.
 
-The LLM Chatbot Services are offered through different modules and integrations with specific applications or websites, as may be made available by Dune from time to time. The User hereby acknowledges and agrees that Dune will share Inputs with third party service providers that provide large language models artificial intelligence services. Dune may change such service providers from time to time.
+Users should not submit customer data, personally identifiable information, confidential information, or other sensitive data through Dune AI features.
 
-Inputs submitted to Dune AI are not treated as Confidential Data under Dune's internal data classification policies. Users should not submit customer data, personally identifiable information, or other sensitive data through Dune AI features.
-
-The User is responsible and liable for the information it shares through an Input, including, but not limited to, potential confidential or private information and personal data.
+Enterprise customers may request that Dune AI features are disabled for their organization where supported by their plan or separate agreement with Dune.
 
 **User Representations**
 ------------------------
@@ -247,8 +261,6 @@ Admins shall have the following powers:
 Dune may offer free access to the Services for community Users and Teams (hereinafter "Community Users"). Community Users are Users or Teams that are not subscribed to a paid Subscription Plan.
 
 The Service is hosted on an infrastructure delivered by a third-party cloud service provider. As a Community User you recognize that you may only use the Service in a way that does not substantially affect the capacity of the infrastructure and/or the performance of the Service. Dune sets the limit for when use of the Service is deemed to substantially affect the capacity of the infrastructure, at its sole discretion.
-
-Community Users may not create multiple Teams in order to circumvent the need to upgrade to a paid Subscription Plan or enter Credit overage. Dune determines, at its sole discretion, if a User abuses the Service by creating multiple Teams.
 
 **Suspension and Termination of Services**
 ------------------------------------------
