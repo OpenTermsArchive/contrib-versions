@@ -611,7 +611,7 @@ Image of your ID, selfie, which includes face biometric data, and data from you
 Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by X for as long as you participate in the programs to help protect users from fraud and payment manipulation. 
 
 **Who stores the data & who we share with:  
-**X does not directly store this data in connection with the optional X Premium and Safety and Security purposes, including impersonation. X directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, X shares the data with Au10tix, who acts as our data processor. Au10tix processes and stores the data as detailed above.
+**X does not directly store this data in connection with the optional X Premium and Safety and Security purposes, including impersonation. X directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, X shares the data with Persona, who acts as our data processor. Persona processes and stores the data as detailed above.
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
