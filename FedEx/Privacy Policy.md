@@ -13,7 +13,7 @@ When you are using our services in Europe, your Personal Data is controlled by F
 
 **FedEx Express International B.V.**  
 Attn: Legal Department  
-Taurusavenue 111  
+Taurusavenue 125  
 2132 LS Hoofddorp  
 The Netherlands  
 [Inquiry form](https://privacyportal.onetrust.com/webform/8a471a7b-6a52-49d0-bcb0-fa8bdb61598f/bd6bab31-0f0a-4d71-900a-0c954f32116b)
