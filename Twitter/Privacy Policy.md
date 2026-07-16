@@ -297,7 +297,7 @@ Postfach 783
 3018 Bern, SWITZERLAND**
 
   
-If you wish to raise a concern about our [data processing practices](https://help.x.com/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority or X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
+If you wish to raise a concern about our [data processing practices](https://help.x.com/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority. If you live in the European Union, you may contact X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
 
 **Effective:** January 15, 2026
 
