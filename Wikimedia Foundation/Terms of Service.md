@@ -26,8 +26,9 @@ move to sidebar hide
 Actions
 
 *   [Read](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use)
-*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit)
-*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=edit "This page is protected.
+    You can view its source [e]")
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=history "Past revisions of this page [h]")
 
 General
 
@@ -36,14 +37,6 @@ General
 *   [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=554823 "Permanent link to this revision of this page")
 *   [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 *   [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-
-Print/export
-
-*   [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Policy%3ATerms+of+Use)
-*   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
-*   [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
-
-In other projects
 
 Appearance
 
@@ -60,7 +53,6 @@ Other languages:
 *   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruikstermrces (6% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
 *   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (2% translated)")
-*   [British English](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/en-gb "Policy:Terms of Use/en-gb (0% translated)")
 *   [Bân-lâm-gí (Tâi-lô)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan-latn-tailo "Tsìng-tshik:Sú-iōng tiâu-khuán (1% translated)")
 *   [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
 *   [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
