@@ -92,7 +92,7 @@ Personalize ads and measure performance, like showing you ads and evaluating the
 **Personalization across devices  
 **Understand which devices you used so that we can personalize your experience on all of your devices.
 
-Keep in mind, if you ever log in to X with your device, we associate and will continue to associate that device with your account. This means whether or not you're logged in, we'll receive information about your device(s) when information is shared by a partner, you visit twitter.com or third-party websites that integrate X services, or you visit a X advertiser's website or mobile application. Most commonly, IP addresses and the time we receive the data, are used to link that specific device with you. 
+Keep in mind, if you ever log in to X with your device, we associate and will continue to associate that device with your account. This means whether or not you're logged in, we'll receive information about your device(s) when information is shared by a partner, you visit x.com or third-party websites that integrate X services, or you visit a X advertiser's website or mobile application. Most commonly, IP addresses and the time we receive the data, are used to link that specific device with you. 
 
 To see more about the devices and web browsers associated with your X account, take a look at [Your X Data](https://twitter.com/your_twitter_data) when you're logged in **and** when you're logged out of your account. 
 
@@ -123,7 +123,7 @@ You will always see ads on X based on your X activity. There are a variety of wa
 *   **Personalize based on your inferred identity setting in X**  
     Adjust the setting by going to _Settings and privacy > Privacy and safety > Off-X activity > Personalize based on your inferred identity_. This controls whether we link your account to browsers or devices other than the ones you use to log into X (or if you're logged out, whether we link the browser or device you're currently using to any other browsers or devices).
 *   **Cookie settings through web browsers**   
-    Most browsers will request your permission to use cookies. Note that if you turn off cookies entirely, X services may not work correctly or you might have trouble logging into twitter.com.
+    Most browsers will request your permission to use cookies. Note that if you turn off cookies entirely, X services may not work correctly or you might have trouble logging into x.com.
 
 ### More privacy options 
 
@@ -4136,3 +4136,93 @@ https://policies.google.com/privacy
 Web Domain
 
 x.com
+
+Name
+
+x\_studio\_context
+
+Description
+
+Cookie is used to store context and state for users using X Studio, such that server side rendering can provide the correct data to render
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/privacy
+
+Web Domain
+
+studio.x.com
+
+Name
+
+lsid
+
+Description
+
+Signed (HMAC) session identifier set after Google OAuth sign-in; identifies the authenticated user to the app. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_state
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_verifier
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
+
+Name
+
+loauth\_return
+
+Description
+
+Single-use CSRF state, PKCE verifier, and return-path for the Google OAuth roundtrip. HttpOnly, Secure.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+localizer.x.com
