@@ -35,7 +35,7 @@ You can control whether your reviews will ever be made available to libraries or
 
 ### Get off my lawn, you kids!
 
-The Children's Online Privacy Protection Act (COPPA) severely restricts what information can be collected from children under 13. The EU's General Data Protection Regulation (GDPR) also severely restricts what information can be collected from children under 16. For these reasons, all children under 13 are prohibited from using LibraryThing, and, unfortunately, all European Union children under 16 are prohibited from using LibraryThing. _Au revoir mes petits choux!_
+The Children's Online Privacy Protection Act (COPPA) severely restricts what information can be collected from children under 13. The EU's General Data Protection Regulation (GDPR) also severely restricts what information can be collected from children under 16. For these reasons, all children under 13 are prohibited from using LibraryThing, and, unfortunately, all European Union children under 16 are prohibited from using LibraryThing. In light of Australia's new Online Safety Amendment, we are also prohibiting Australian children under 16 from using LibraryThing. _Au revoir mes petits choux!_
 
 LibraryThing's age minimum does NOT apply to TinyCat customers providing TinyCat to others. TinyCat libraries are, in this case, the data controller/s and are responsible for ensuring GDPR compliance for their patrons. TinyCat does not provide messaging or social networking features to patrons.
 
@@ -138,7 +138,7 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 *   To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](https://www.librarything.com/settings/privacy) preferences.
 *   To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers and SantaThing.
 *   To receive payments for LibraryThing services, including membership upgrades, subscriptions to TinyCat, orders from the LibraryThing Store, etc. We use PayPal for secure credit card transaction processing, and we send billing information to PayPal in order to process orders and credit card payments.
-*   To monitor and enforce compliance with our Terms of Service and applicable law.
+*   To monitor and enforce compliance with our Terms of Service and applicable law, including automated spam and abuse detection.
 *   To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 *   To provide, support, and improve the services TinyCat offers. This includes sending systematic messages or updates to your patrons, either automatically or on your behalf (such as lending transaction confirmations, setting up checkout or overdue reminders, etc.), allowing you to communicate with your patrons about their account/s, and allowing you to provide patron support.
 
@@ -163,6 +163,15 @@ The EU General Data Protection Regulation (GDPR) includes certain rights for cer
 LibraryThing has created a Member [Privacy Center](https://www.librarything.com/settings/privacy) (see above) which allows you to set preferences and exercise these rights. See Member [Privacy Center](https://www.librarything.com/settings/privacy) section above for a full listing of what options are available.
 
 If you have any questions about your rights under the GDPR, and how they relate to your LibraryThing data, please contact info@librarything.com, making clear your question and your status under the GDPR.
+
+#### Automated spam and abuse detection
+
+Spam and abusive sign-ups are a rising tide: many new-account registrations are not real readers but spam or abuse. To manage this, LibraryThing uses automated tools to assess whether a new account appears to be spam or abusive. As part of this, the text of a member's public profile may be sent to an outside service provider that performs the assessment on our behalf. This processing:
+
+*   rests on our legitimate interest (GDPR Article 6(1)(f)) in keeping LibraryThing free of spam and abuse;
+*   is a disclosure to a service provider that processes the data on our behalf, for that sole purpose. It is not a sale, and the provider may not use the data for any other purpose;
+*   where the provider is located outside the EEA, is covered by a data-processing agreement with appropriate safeguards, such as standard contractual clauses; and
+*   does not remove your rights. If your account is restricted or removed by automated spam and abuse detection and you believe that was a mistake, contact info@librarything.com and a person will review it (see "Right not to be subject to automated decision-making").
 
 ### Cookies
 
