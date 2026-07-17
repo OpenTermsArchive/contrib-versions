@@ -7,7 +7,7 @@ Table of Contents
 *   [Disable Criteo services on Internet browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/)
 *   [Disable Criteo services on mobile applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/)
 
-**Effective Date XXXX XX, 2026**
+**Effective Date July 17, 2026**
 
 Table of Contents
 -----------------
