@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective: 1 August, 2024_
+_Effective: 13 July 2026_
 
 This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IPinfo. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
@@ -15,6 +15,8 @@ The Types of Information That IPinfo Collects About You and How IPinfo Collects 
 ------------------------------------------------------------------------------------------------
 
 IPinfo may collect Information from you directly, from the devices you use to interact with us, and from third parties "Information" is data related to your use of the Services and may include data by which you may be personally identified, such as name, postal address, e-mail address and telephone number. In some cases, you provide this Information to us directly, and at other times the Information is collected automatically. Below are specific types of Information we may collect through various means and in typical situations.
+
+We automatically collect technical and location data from end-user devices via our IPinfo SDK when it is integrated into third-party mobile applications by our distribution partners and app publishers. This information is transmitted directly from your device to our systems. The specific categories of data we collect through this method include precise GPS-derived geolocation coordinates (where you have provided consent to the hosting application), IP addresses, network connectivity type (e.g., 4G, 5G, Wi-Fi), network signal strength and quality metrics, mobile network operator/carrier identity, device model type, and the exact timestamp of the measurement event.
 
 ### Personal Contact Information
 
@@ -45,7 +47,7 @@ Specific information about how we use such technologies and how you can refuse c
 *   _Device information_, including IP address, device identifiers, and details about your web browser.
 *   _Analytical information_, including details about your interaction with our website and electronic newsletters.
 *   _Advertising information_, including special advertising and other unique identifiers that enable us or third parties working on our behalf to target advertisements to you. Please be aware that our advertising Data Processors may collect data about you when you visit third-party website or use third-party apps. They may use that data to better target advertisements to you on our behalf.
-*   _Business record information,_ including records of your purchases of products and services.
+*   _Business record information_, including records of your purchases of products and services.
 
 The following is a list of our Data Processors who collect the Information described above. Please follow the links to find out more details about the Data Processors' privacy practices.
 
@@ -60,7 +62,7 @@ The following is a list of our Data Processors who collect the Information descr
 | [Quora](https://www.quora.com/about/privacy) | Advertising Information |
 | [Twitter](https://twitter.com/en/privacy) | Advertising Information |
 
-_Location Information -_ We do not use GPS technology to collect any Information regarding your precise real-time geo-location while using the Services. However, we may use elements of your Usage and Analytics Information (such as your IP address) to determine your generalized location. This Information is referred to as "Generalized Location Information."
+_Location Information_ - We collect both Generalized Location Information and Precise Geolocation Information. We use elements of your regular usage data, such as your IP address, to determine a generalized location. Additionally, through the deployment of our IPinfo SDK in partner mobile applications, we collect precise, real-time GPS-derived geolocation data from your device. We only collect this precise tracking data if you have explicitly granted location permissions to the third-party application hosting our SDK.
 
 How IPinfo Uses Information It Collects About You and the Purpose for the Collection and Use
 --------------------------------------------------------------------------------------------
@@ -81,6 +83,10 @@ We use Information that we collect about you or that you provide to us for the f
 *   To improve our Services and develop new Services.
 
 Here are additional details on how we use certain specific Information about you.
+
+### Precise Geolocation and SDK Data
+
+We use the precise geolocation coordinates and network quality metrics collected via our SDK to analyze network performance, map IP connectivity parameters, and improve our regional data licensing services. This data is processed to deliver accurate routing, connectivity, and geolocation intelligence to our business enterprise clients.
 
 ### Personal Contact Information
 
@@ -146,7 +152,7 @@ IPinfo may process your Personal Information on one or more of the following leg
 *   as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide services, to respond to requests from you, or to provide support;
 *   where we have a legitimate interest, as described in this Privacy Policy (see "How IPinfo Uses Information It Collects About You and the Purposes for Collection and Use");
 *   as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or
-*   with your consent.
+*   with your consent, which serves as our explicit legal basis under the GDPR for processing any precise GPS-derived geolocation data collected via our mobile SDK integration partners. You may withdraw this consent at any time by adjusting the location privacy permissions in your mobile device's settings.
 
 ### Your Rights
 
