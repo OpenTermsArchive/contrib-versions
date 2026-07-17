@@ -384,6 +384,7 @@ Access your entire professional library anywhere, anytime with the only e-reader
 
 *   [Thomson Reuters Institute Access expert research and trends that empower professionals to navigate industry transformation with confidence.](https://www.thomsonreuters.com/en/institute)
 *   [Innovation @ Thomson Reuters Learn how innovation powers the future of professional work through technology and strategic transformation.](https://www.thomsonreuters.com/en-us/posts/innovation/)
+*   [Customer stories Legal, tax, and risk professionals are transforming their work and getting real results with Thomson Reuters.](https://www.thomsonreuters.com/en/customer-stories)
 *   Thought leadership Dive into white papers, case studies, and analysis focused on the critical issues facing professionals.
 
 *   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending)
@@ -392,14 +393,12 @@ Access your entire professional library anywhere, anytime with the only e-reader
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
-Insights
+Chosen by changemakers
+----------------------
 
-Human intelligence
-------------------
+The best don't simply do their work; they change what's possible. Our technology empowers changemakers around the world.
 
-See how expert human intelligence shapes the AI that’s redefining legal work — and what that means for your practice.
-
-[Read blog](https://legal.thomsonreuters.com/blog/inside-cocounsel-legal-the-human-intelligence-behind-ai-innovation/)
+[See how](https://www.thomsonreuters.com/changemakers/)
 
 *   [Upcoming events Connect with industry experts at events that provide actionable insights for legal and tax professionals.](https://www.thomsonreuters.com/en-us/posts/events/)
 *   [On-demand webinars Access expert-led webinars on demand to learn practical strategies and insights at your convenience.](https://www.thomsonreuters.com/en-us/posts/on-demand-webinars/)
