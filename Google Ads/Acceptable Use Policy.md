@@ -34,7 +34,7 @@ We do not allow content that:
 
 *   is illegal, promotes illegal activity, or infringes on the legal rights of others.
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about illegal content_](https://support.google.com/publisherpolicies/answer/10437537)
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about illegal content_](https://support.google.com/publisherpolicies/answer/10437537)
 
 ### Intellectual property abuse
 
@@ -43,7 +43,7 @@ We do not allow content that:
 *   infringes copyright. It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). You can file a counter-notification via [this form](https://support.google.com/legal/contact/lr_counternotice?product=websearch).
 *   sells or promotes the sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about intellectual property abuse](https://support.google.com/publisherpolicies/answer/10402772)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about intellectual property abuse](https://support.google.com/publisherpolicies/answer/10402772)_
 
 ### Dangerous or derogatory content
 
@@ -66,7 +66,7 @@ We do not allow content that:
     **Examples**: Exploitative removals, revenge porn, blackmail
     
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about dangerous and derogatory content](https://support.google.com/publisherpolicies/answer/10522641)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dangerous and derogatory content](https://support.google.com/publisherpolicies/answer/10522641)_
 
 ### Animal cruelty
 
@@ -81,7 +81,7 @@ We do not allow content that:
     **Examples**: Sale of tigers, shark fins, elephant ivory, tiger skins, rhino horn, dolphin oil
     
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about animal cruelty](https://support.google.com/publisherpolicies/answer/10400059)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about animal cruelty](https://support.google.com/publisherpolicies/answer/10400059)_
 
 ### Misrepresentative content
 
@@ -95,7 +95,7 @@ We do not allow content that:
     **Examples**: Impersonating Google products, misusing company logos
     
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about misleading representation](https://support.google.com/publisherpolicies/answer/11185754)_
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about misleading representation](https://support.google.com/publisherpolicies/answer/11185754)_
 
 #### Unreliable and harmful claims
 
@@ -112,7 +112,7 @@ We do not allow content that:
 *   contradicts authoritative scientific consensus on climate change.
     
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about unreliable and harmful claims](https://support.google.com/publisherpolicies/answer/11188580)_
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unreliable and harmful claims](https://support.google.com/publisherpolicies/answer/11188580)_
 
 #### Deceptive practices
 
@@ -132,7 +132,7 @@ We do not allow:
 *   directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
     
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about deceptive practices](https://support.google.com/publisherpolicies/answer/11185755)_
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about deceptive practices](https://support.google.com/publisherpolicies/answer/11185755)_
 
 #### Manipulated media
 
@@ -140,7 +140,7 @@ We do not allow content that:
 
 *   deceives users through manipulated media related to politics, social issues, or matters of public concern.
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about manipulated media](https://support.google.com/publisherpolicies/answer/11185657)_ 
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about manipulated media](https://support.google.com/publisherpolicies/answer/11185657)_ 
 
 ### Enabling dishonest behavior
 
@@ -162,7 +162,7 @@ We do not allow content that:
     This does not include (a) private investigation services or (b) products or services designed for parents to track or monitor their underage children.
     
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about enabling dishonest behavior_](https://support.google.com/publisherpolicies/answer/10436828)
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about enabling dishonest behavior_](https://support.google.com/publisherpolicies/answer/10436828)
 
 ### Sexually explicit content
 
@@ -181,7 +181,7 @@ We do not allow content that:
     **Examples**: site or app that claims to generate deepfake pornography, instructions on how to create deepfake pornography, endorsing or comparing deepfake pornography services
     
 
-    ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about sexually explicit content_](https://support.google.com/publisherpolicies/answer/10438119)
+    ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about sexually explicit content_](https://support.google.com/publisherpolicies/answer/10438119)
 
 ### Compensated sexual acts
 
@@ -192,7 +192,7 @@ We do not allow content that:
     **Examples**: Prostitution; companionship and escort services; intimate massage; cuddling sites; compensated dating or sexual arrangements where one participant is expected to provide money, gifts, financial support, mentorship, or other valuable benefits to another participant such as "Sugar" dating
     
 
-     ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about compensated sexual acts_](https://support.google.com/publisherpolicies/answer/10438120)
+     ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about compensated sexual acts_](https://support.google.com/publisherpolicies/answer/10438120)
 
 ### Mail order brides
 
@@ -203,7 +203,7 @@ We do not allow content that:
     **Examples**: Mail order brides, international marriage brokers, romance tours
     
 
-      ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about mail order brides](https://support.google.com/publisherpolicies/answer/10437885)_
+      ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about mail order brides](https://support.google.com/publisherpolicies/answer/10437885)_
 
 ### Adult themes in family content
 
@@ -211,7 +211,7 @@ We do not allow content that:
 
 *   is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular children’s characters that are unsuitable for a general audience.
 
-       ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about adult themes in family content](https://support.google.com/publisherpolicies/answer/10437484)_
+       ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about adult themes in family content](https://support.google.com/publisherpolicies/answer/10437484)_
 
 ### Child sexual abuse and exploitation
 
@@ -226,7 +226,7 @@ We do not allow content that:
 
 We will take appropriate action, which may include reporting to the National Center for Missing & Exploited Children and disabling accounts. If you believe a child is in danger of or has been subject to abuse, exploitation, or trafficking, contact the police immediately. If you have concerns a child is being or was being endangered in connection with our products, you can [report the behavior to Google](https://support.google.com/families/contact/report_child_grooming).
 
-        ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about child sexual abuse and exploitation](https://support.google.com/publisherpolicies/answer/10436971)_
+        ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about child sexual abuse and exploitation](https://support.google.com/publisherpolicies/answer/10436971)_
 
 * * *
 
@@ -243,7 +243,7 @@ Information provided by publishers to enable their use of or interaction with Go
     **Examples:** The personal information or payment details provided by a publisher are materially incomplete, obscured or inaccurate. Information provided about a publisher’s website (e.g., in the ads.txt file) or app (e.g., in the app-ads.txt file) is inaccurate. Deceptively incomplete or inaccurate data in the ad requests such as partial or inaccurate URLs or AppIDs, incorrect geolocation, etc.
     
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about dishonest declarations](https://support.google.com/publisherpolicies/answer/11037245)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dishonest declarations](https://support.google.com/publisherpolicies/answer/11037245)_
 
 ### Ads interfering 
 
@@ -255,7 +255,7 @@ We do not allow Google-served ads that:
 *   severely interfere with consumption of content including overlaying the content or pushing the content off the display,
 *   are placed on a "dead end" screen where the user is not able to exit the screen without clicking the ad. 
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about ads interfering](https://support.google.com/publisherpolicies/answer/11035030)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about ads interfering](https://support.google.com/publisherpolicies/answer/11035030)_
 
 ### Inventory value
 
@@ -267,7 +267,7 @@ We do not allow Google-served ads on screens:
 *   that are under construction,
 *   that are used for alerts, navigation or other behavioral purposes
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about Google-served ads on screens without publisher-content](https://support.google.com/publisherpolicies/answer/11112688)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens without publisher-content](https://support.google.com/publisherpolicies/answer/11112688)_
 
 #### Out of context ads
 
@@ -279,7 +279,7 @@ We do not allow Google-served ads:
 
 It must be clear to the user with which publisher-content the ad is associated.
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about out of context ads](https://support.google.com/publisherpolicies/answer/11190357)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about out of context ads](https://support.google.com/publisherpolicies/answer/11190357)_
 
 #### Google-served ads on screens with replicated content
 
@@ -289,7 +289,7 @@ We do not allow Google-served ads on screens:
 
 You are also required to comply with our [Intellectual property abuse policy](https://support.google.com/publisherpolicies/answer/10402772).
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about Google-served ads on screens with replicated content](https://support.google.com/publisherpolicies/answer/11190248)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens with replicated content](https://support.google.com/publisherpolicies/answer/11190248)_
 
 #### More ads or paid promotional material than publisher-content
 
@@ -297,7 +297,7 @@ We do not allow Google-served ads on screens:
 
 *   with more ads or other paid promotional material than publisher-content.
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about More ads or paid promotional material than publisher-content](https://support.google.com/publisherpolicies/answer/11169917)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about More ads or paid promotional material than publisher-content](https://support.google.com/publisherpolicies/answer/11169917)_
 
 ####  Unsupported languages
 
@@ -305,7 +305,7 @@ We do not allow content that:
 
 *   is not primarily in one of the supported languages.
 
-![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)_
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)_
 
  
 
@@ -343,7 +343,7 @@ If you use Google's platform products or Google ad code for personalized adverti
 *   advertisers must attach notices to advertisements to make clear that they are interest-based (e.g., by using an "AdChoices" icon); and
 *   all parties must comply with applicable Internet advertising industry guidelines (e.g., the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance, or IAB Europe's EU Framework for Online Behavioral Advertising).
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about personalized advertising_](https://support.google.com/publisherpolicies/answer/15101728)
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about personalized advertising_](https://support.google.com/publisherpolicies/answer/15101728)
 
 ### Privacy disclosures
 
@@ -353,7 +353,7 @@ Publishers must:
       
     To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](https://www.google.com/policies/privacy/partners/).
 
-           ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about privacy disclosures](https://support.google.com/publisherpolicies/answer/10437794)_
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about privacy disclosures](https://support.google.com/publisherpolicies/answer/10437794)_
 
 ### Cookies on Google domains
 
@@ -361,7 +361,7 @@ Publishers must:
 
 *   not set a cookie on Google's domains or modify, intercept or delete cookies set on Google's domains.
 
-           ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about cookies on Google domains](https://support.google.com/publisherpolicies/answer/10437485)_
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about cookies on Google domains](https://support.google.com/publisherpolicies/answer/10437485)_
 
 ### Identifying users
 
@@ -374,7 +374,7 @@ Publishers must:
     
 *   comply with the [EU user consent policy](http://www.google.com/about/company/user-consent-policy.html).
 
-           ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about identifying users](https://support.google.com/publisherpolicies/answer/10436913)_
+           ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about identifying users](https://support.google.com/publisherpolicies/answer/10436913)_
 
 ### Use of device and location data
 
@@ -387,7 +387,7 @@ Publishers must:
 *   send such information to Google in an encrypted state or via an encrypted channel; and
 *   disclose such information collection, processing, or disclosure in all applicable privacy policies.
 
-            ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about use of device and location data](https://support.google.com/publisherpolicies/answer/10437073)_
+            ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about use of device and location data](https://support.google.com/publisherpolicies/answer/10437073)_
 
 ### Children’s Online Privacy Protection Act (COPPA)
 
@@ -398,7 +398,7 @@ If you implement any Google advertising service on an app, a site or section of 
     *   past or current activity by users known by you to be under the age of 13 years or
     *   past or current activity on sites directed at users under the age of 13 years.
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about Children's Online Privacy Protection Act (COPPA)_](https://support.google.com/publisherpolicies/answer/10436800)
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about Children's Online Privacy Protection Act (COPPA)_](https://support.google.com/publisherpolicies/answer/10436800)
 
 * * *
 
@@ -411,7 +411,7 @@ You must not:
 
 *   place Google-served ads on screens that violate the [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies).
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about the Spam policies for Google web search](https://support.google.com/publisherpolicies/answer/11035931)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about the Spam policies for Google web search](https://support.google.com/publisherpolicies/answer/11035931)_
 
 ### Abusive experiences 
 
@@ -419,7 +419,7 @@ You must not:
 
 *   place Google-served ads on screens that contain [abusive experiences](https://support.google.com/webtools/answer/7347327).
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about abusive experiences](https://support.google.com/publisherpolicies/answer/11128079)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about abusive experiences](https://support.google.com/publisherpolicies/answer/11128079)_
 
 ### Malware or unwanted software
 
@@ -434,7 +434,7 @@ You must not:
     **Examples**: Failure to be transparent about the functionality that the software provides or the full implications of installing the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user's knowledge; making system changes without the user's consent; making it difficult for users to disable or uninstall the software; failing to properly use publicly available Google APIs when interacting with Google services or products
     
 
-   ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)[_Learn more about malware or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about malware or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
 
 ### Better Ads Standards 
 
@@ -442,7 +442,7 @@ You must not:
 
 *   place Google-served ads on screens that do not conform to the [Better Ads Standards](https://www.betterads.org/standards/). For more information about the types of disallowed ad experiences, please visit the [Coalition for Better Ads](https://www.betterads.org/) website.
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about Better Ads Standards](https://support.google.com/publisherpolicies/answer/11127848)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Better Ads Standards](https://support.google.com/publisherpolicies/answer/11127848)_
 
 ### Authorized inventory
 
@@ -452,7 +452,7 @@ You must not:
 
 For syndication partners, Parents must ensure Children promptly add an `ads.txt` file to Child domains with Parents as authorized sellers of Child Inventory.
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about authorized inventory](https://support.google.com/publisherpolicies/answer/11128498)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about authorized inventory](https://support.google.com/publisherpolicies/answer/11128498)_
 
 ### Sanctions compliance
 
@@ -470,7 +470,7 @@ In addition, Google publisher products are not eligible for any entities or indi
 
 Publishers must also comply with applicable sanctions and export regulations, which includes OFAC sanctions, and agree to not cause Google to violate these regulations. You cannot use Google publisher products for or on behalf of restricted entities or individuals. You cannot use Google publisher products for or on behalf of entities or individuals located in sanctioned countries or regions.
 
-               ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about sanctions compliance](https://support.google.com/publisherpolicies/answer/11128499)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sanctions compliance](https://support.google.com/publisherpolicies/answer/11128499)_
 
 [](https://support.google.com/adsense/answer/3394713?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
