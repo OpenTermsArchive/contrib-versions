@@ -61,7 +61,7 @@ Is content that:
     **Examples**: Erectile dysfunction pills, libido boosting supplements
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about sexual content](https://support.google.com/publisherpolicies/answer/10400657)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sexual content](https://support.google.com/publisherpolicies/answer/10400657)_
 
 ### Shocking content
 
@@ -96,7 +96,7 @@ Is content that:
 *   **Examples**: Violence against an individual on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about shocking content](https://support.google.com/publisherpolicies/answer/10437538)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about shocking content](https://support.google.com/publisherpolicies/answer/10437538)_
 
 ### Explosives
 
@@ -111,7 +111,7 @@ Is content that:
     **Examples**: Bomb-making guides; software or equipment intended for the 3D printing of parts of grenades, bombs, or other explosive devices
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about explosives](https://support.google.com/publisherpolicies/answer/10438542)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about explosives](https://support.google.com/publisherpolicies/answer/10438542)_
 
 ### Guns, gun parts, and related products
 
@@ -127,7 +127,7 @@ Is content that:
     
 *   contains instructions on the assembly or enhancement of the functionality of firearms.
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about guns, gun parts and related products](https://support.google.com/publisherpolicies/answer/10436972)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about guns, gun parts and related products](https://support.google.com/publisherpolicies/answer/10436972)_
 
 ### Other weapons
 
@@ -143,7 +143,7 @@ Is content that:
     
 *   contains instructions about the assembly, enhancement, or acquisition of any product covered under this "Other Weapons" section.
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about other weapons](https://support.google.com/publisherpolicies/answer/10437797)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about other weapons](https://support.google.com/publisherpolicies/answer/10437797)_
 
 ### Tobacco
 
@@ -154,7 +154,7 @@ Is content that:
     **Examples**: Cigarettes, cigars, tobacco pipes, rolling papers, chewing tobacco, e-cigarettes
     
 
-   ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about tobacco](https://support.google.com/publisherpolicies/answer/10437539)_
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about tobacco](https://support.google.com/publisherpolicies/answer/10437539)_
 
 ### Recreational drugs
 
@@ -173,7 +173,7 @@ Is content that:
     **Examples**: Forums to exchange tips or recommendations on drug use
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about recreational drugs](https://support.google.com/publisherpolicies/answer/10436831)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about recreational drugs](https://support.google.com/publisherpolicies/answer/10436831)_
 
 ### Alcohol sale or misuse
 
@@ -185,7 +185,7 @@ Is content that:
     **Examples**: Favorable portrayal of excessive, binge, or competition drinking
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about alcohol sale or misuse](https://support.google.com/publisherpolicies/answer/10438039)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about alcohol sale or misuse](https://support.google.com/publisherpolicies/answer/10438039)_
 
 ### Online gambling
 
@@ -198,7 +198,7 @@ Is content that:
     **Examples**: Online casinos or bookmakers, online lottery ticket or scratch card purchase, online sports betting, aggregator or affiliate sites that promote online gambling pages
     
 
-   ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about online gambling](https://support.google.com/publisherpolicies/answer/10437963)_
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about online gambling](https://support.google.com/publisherpolicies/answer/10437963)_
 
 ### Prescription drugs
 
@@ -209,7 +209,7 @@ Is content that:
     **Examples**: Sale of prescription drugs, online pharmacies
     
 
-   ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about prescription drugs](https://support.google.com/publisherpolicies/answer/10437489)_
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about prescription drugs](https://support.google.com/publisherpolicies/answer/10437489)_
 
 ### Unapproved pharmaceuticals and supplements
 
@@ -220,7 +220,7 @@ Is content that:
     **Examples**: All items on this non-exhaustive list of [unapproved pharmaceuticals and supplements](https://support.google.com/adspolicy/answer/2423645); products that contain Ephedra; herbal and dietary supplements with active pharmaceutical or dangerous ingredients; products with names that are confusingly similar to an unapproved pharmaceutical, supplement, or controlled substance
     
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about unapproved pharmaceuticals and supplements](https://support.google.com/publisherpolicies/answer/10437888)_
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unapproved pharmaceuticals and supplements](https://support.google.com/publisherpolicies/answer/10437888)_
 
 ### App removed from Google Play Store
 
@@ -228,7 +228,7 @@ Is an app that: 
 
 *   is removed from the Google Play Store for a violation of [Google Play policies](https://play.google.com/about/developer-content-policy/).
 
- ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about app removed from Google Play Store](https://support.google.com/publisherpolicies/answer/10437964)_
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about app removed from Google Play Store](https://support.google.com/publisherpolicies/answer/10437964)_
 
 * * *
 
@@ -243,7 +243,7 @@ We do not allow Google-served ads that:
 
 *   fully or partially obscure content for any period of time
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about Google-served ads obscuring content](https://support.google.com/publisherpolicies/answer/11127388)_ 
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads obscuring content](https://support.google.com/publisherpolicies/answer/11127388)_ 
 
 #### Content obscuring Google-served ads 
 
@@ -251,7 +251,7 @@ We do not allow content that:
 
 *   fully or partially obscures Google-served ads.
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about content obscuring Google-served ads](https://support.google.com/publisherpolicies/answer/11191353)_  
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about content obscuring Google-served ads](https://support.google.com/publisherpolicies/answer/11191353)_  
 
 Video inventory restrictions
 ----------------------------
@@ -314,6 +314,6 @@ Video inventory restrictions
 
 8.  In addition to the above, Connected TV and Digital out-of-home inventory must comply with the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/admanager/answer/16127271#definitions).
 
-  ![](//lh3.googleusercontent.com/l7J9XKoY3DGgv36H4OvIstKNK_JSHOTv0PMuPeJMlvyxtrRaekw_FLFzYySiIrualA=h40)_[Learn more about video inventory restrictions](https://support.google.com/publisherpolicies/answer/15208072)_ 
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about video inventory restrictions](https://support.google.com/publisherpolicies/answer/15208072)_ 
 
 [](https://support.google.com/adsense/answer/10502938?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
