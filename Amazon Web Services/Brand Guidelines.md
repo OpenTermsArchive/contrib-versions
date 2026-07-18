@@ -1,11 +1,11 @@
 AWS Trademark Guidelines & License Terms
 ========================================
 
-Last Updated: January 15, 2026
+Last Updated: July 17, 2026
 
 **1\. Introduction.** These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.
 
-**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 17).
+**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Badges referenced in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 17).
 
 “Licensor” means Amazon Web Services EMEA SARL (if the geographic location associated with your AWS or program account or your Written Agreement is any country within Europe, the Middle East, or Africa (“EMEA”)) or Amazon Web Services, Inc. (if the geographic location associated with your AWS or program account or your Written Agreement is any country outside of EMEA).
 
@@ -13,7 +13,7 @@ Last Updated: January 15, 2026
 
 **(a) AWS Customers.** Provided that you are an AWS customer in good standing with a current and valid account for use of the Services (as defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement governing your use of the Services (the “Agreement”)) and subject to your compliance at all times with the Agreement, Licensor grants you a non-exclusive, royalty-free, and revocable license to use the [Powered by AWS Logo](https://aws.amazon.com/co-marketing/) solely to (i) identify Your Content (as defined in the Agreement) as using the Services; or (ii) identify software tools or applications that you create and distribute that are intended for use in connection with the Services. Your license to use the Powered by AWS Logo will automatically terminate and you must immediately stop using the logo if at any time (i) the Agreement is terminated or you otherwise cease to be an AWS customer in good standing; or (ii) Your Content no longer uses any of the Services, or your software cannot be used with any of the Services, as applicable. Your use of the Powered by AWS Logo must comply at all times with the Guidelines below. You must never combine the Powered by AWS Logo with your own marks or use it to indicate an affiliation with AWS. The Powered by AWS Logo is not available for use in China.
 
-**(b) AWS Partners.** Provided that you are a participant (“AWS Partner”) in the [AWS Partner Network Program](https://aws.amazon.com/partners/terms-and-conditions/) (“APN Program”) and subject to your compliance at all times with the AWS Partner Network Terms and Conditions (“APN Terms”), Licensor grants you a non-exclusive, royalty-free, and revocable license to (i) reproduce, display, and distribute the Program Content (as defined in the APN Terms) (other than the Partner Logo (as defined in the APN Terms)) solely for the purpose of marketing AWS Services to your customers, and (ii) if you are eligible as described on the APN Site (as defined in the APN Terms), display the current version of the Partner Logo on your website and in your own offline materials in accordance with the [AWS Marks for APN](https://aws.amazon.com/partners/logo-guidelines/) Guidelines and the APN Program marketing tools available under the APN Program, solely to identify your participation in the APN Program. You will not modify, alter, or otherwise create derivative works of any Program Content unless expressly permitted by AWS in writing. Your license to use the Program Content will automatically terminate and you must immediately stop using the Program Content if at any time you cease to be an AWS Partner.
+**(b) AWS Partners.** Provided that you are a participant (“AWS Partner”) in the [AWS Partner Network Program](https://aws.amazon.com/partners/terms-and-conditions/) (“APN Program”) and subject to your compliance at all times with the AWS Partner Network Terms and Conditions (“APN Terms”), Licensor grants you a non-exclusive, royalty-free, and revocable license to (i) reproduce, display, and distribute the Program Content (as defined in the APN Terms) solely for the purpose of marketing AWS Services to your customers, and (ii) if you are eligible as described on the APN Site (as defined in the APN Terms), display current versions of the applicable Partner Badges on your website and in your own offline materials in accordance with the [AWS Partner Creative and Messaging Guide](https://aws.amazon.com/partners/logo-guidelines/) and the APN Program marketing tools available under the APN Program. You will not modify, alter, or otherwise create derivative works of any Program Content or the Partner Badges unless expressly permitted by AWS in writing. Your license to use the Program Content and Partner Badges will automatically terminate and you must immediately stop all use if at any time you cease to be an AWS Partner.
 
 Provided that you have entered into an AWS Solution Provider Addendum, AWS Distributor Addendum, or AWS Distribution Seller Addendum (each, an “Addendum”) with AWS and subject to your compliance at all times with such Addendum, Licensor also grants you a non-exclusive, royalty-free, and revocable license during the term of the Addendum to use the AWS Marks identified for your use in and on the Advertising Materials (as defined in the Addendum), and subject to the terms of the Addendum, including applicable Solution Provider Program Terms, Distributor Program Terms, or Distribution Seller Program Terms. AWS may, by giving you notice, revoke (in whole or in part) the foregoing license immediately upon any non-compliance with the Addendum. You may transfer the Advertising Materials to any agent selling Authorized Services (as defined in the Addendum) on your behalf for such agent’s use in the resale of Authorized Services. You will ensure the first or most prominent reference to or placement of the AWS Marks is accompanied by the notice below (on the same page and in legible font). You will use the following notice anywhere you are advertising your company or describing your services and are specifically featuring us:
 
@@ -150,6 +150,7 @@ AWS Amplify
 AWS App Studio  
 AWS AppSync  
 AWS Artifact  
+AWS Blocks  
 AWS Builder Center  
 AWS BugBust  
 AWS Chalice  
@@ -162,6 +163,7 @@ AWS CodeBuild
 AWS CodeCommit  
 AWS CodeDeploy  
 AWS CodePipeline  
+AWS Continuum  
 AWS Control Tower  
 AWS Copilot  
 AWS Countdown  
@@ -228,6 +230,7 @@ Just Walk Out
 Karpenter  
 Kiro  
 NICE  
+NLX  
 NWCD  
 Open Distro  
 PartyRock, an Amazon Bedrock playground  
