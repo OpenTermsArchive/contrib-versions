@@ -1351,7 +1351,7 @@ Article 8. Royalties and Payments
 
 1.  The Company shall transfer the amount (hereafter referred to as "Payment Amount") after deducting withholding tax (applicable to all individual recipients, whether within or outside Japan, or when the recipient is a corporate entity outside Japan) and a transfer fee determined by the Company from the current month's Royalties to the account specified in advance by the Content Provider within 5 business days from the 20th of the second following month. For more information on transfer fees and tax deductions, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35215404431513). If the payment date falls on a holiday for the Company or the financial institution, payment will be made within 5 business days from the next business day.
 2.  If the Payment Amount is very large, the Company may transfer all or part of the Payment Amount in the following month.
-3.  If the Royalties are less than 5000 JPY (hereafter referred to as the "Minimum Royalties"), the transfer will be carried over to the next month or later, and the same shall apply thereafter. Regardless of the Royalties, the Company shall settle the payment for the current fiscal year by transferring the Payment Amount held on the last day of June of each year within 5 business days from the said date. Click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35214613493913) for more details.
+3.  If the Royalties are less than 3000 JPY (hereafter referred to as the "Minimum Royalties"), the transfer will be carried over to the next month or later, and the same shall apply thereafter. Regardless of the Royalties, the Company shall settle the payment for the current fiscal year by transferring the Payment Amount held on the last day of June of each year within 5 business days from the said date. Click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35214613493913) for more details.
 4.  If the transfer account information is incorrect, any service fees charged as a result of additional transfer attempts will be the responsibility of the Content Provider.
 5.  If an extra amount is paid to the Content Provider due to a malfunction in the Company system or for any other reason, the Content Provider is obligated to immediately return the extra amount to the Company regardless of the reason.
 6.  If the Content Provider is an individual in Japan and receives a total Payment Amount of 50,000 JPY or more from the Company in 1 year, the Content Provider shall provide the Company with their My Number information using the Company's designated method by the end of December of each year. However, this does not apply in the case the Company already has the Content Provider's My Number information or if the Content Provider refuses to share their My Number with the Company.
@@ -1457,6 +1457,8 @@ These Individual Terms of Use shall take effect on September 4th, 2024.
 
 Revision
 --------
+
+July 21, 2026: Revised Article 8 (Royalties and Payments).
 
 May 28, 2026: Revised Article 1 (Introduction), Article 2 (Definitions), Article 7 (Sale of Print Products), and Article 8 (Royalties and Payments).
 
