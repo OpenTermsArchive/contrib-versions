@@ -1,14 +1,14 @@
 Privacy Policy for App
 ======================
 
-**Date:** May 19, 2026
+**Date:** July 20, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
 At Spark, we greatly care about our users. As Spark evolves, we update our [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure it remains clear and aligned with how the product works. 
 
-In a nutshell, we added details on the new AI features.
+In a nutshell, we detailed the processing of our AI features.
 
 We encourage you to carefully review the [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
 
@@ -209,7 +209,9 @@ You may provide the personalization context manually by sharing any information 
 
 Spark does not use personalization context for marketing or AI training purposes.
 
-When enabled, +AI features use personalization context and may generate more relevant outputs. For example, AI-generated drafts will sound more like you, requiring less rewriting and editing.
+When enabled, +AI features use personalization context and may generate more relevant outputs. For example, AI-generated drafts will sound more like you, requiring less rewriting and editing.  
+  
+With your explicit consent, Spark may also use your personalization context to improve its features. This occurs only if you actively choose to allow this while providing feedback on a relevant feature.
 
 You may review, edit, or permanently delete your personalization context at any time. 
 
@@ -252,9 +254,18 @@ When you submit your feedback about the App to us directly or via third-party pl
 | *   Email<br>*   Name or username<br>*   Attachments and/or photos<br>*   Other information about you, such as social handles, occupation etc. | Communication regarding your feedback and consent | Legitimate interest |
 | Improvement of the App |
 | Use in marketing activities | Consent |
+| *   Email and email drafts content, including attachments where applicable<br>*   Personalization context | For the improvement of AI features | Consent |
 | *   Feedback, including text feedback, answers to the review forms, or feedback provided orally in the meeting<br>*   Other information related to your feedback such as rating, the date of the feedback, etc. | Improvement of the App | Legitimate interest |
 | Use in marketing activities |
 | Meeting records | Improvement of the App and/or use in marketing activities | Consent |
+
+tt
+
+| Feedback Provided via a Third-party Platform |     |     |
+| --- | --- | --- |
+| Data | Reasons for Processing | Lawful Basis |
+| --- | --- | --- |
+| *   Name or username<br>*   Text of the feeedback<br>*   Attachments and/or photos<br>*   Other information related to your feedback, such as rating, the date of the feedback, etc. | To use your feedback in our product development and/or marketing activities | Legitimate interest |
 
 We may collect analytics on the categories of issues mentioned in the feedback to improve our services. We may retain AI providers to define the category of your feedback more efficiently. The feedback is pseudonymised before such processing. No data will be used for training.
 
@@ -291,6 +302,7 @@ If the data category is not listed herein, it is stored locally on your device. 
 | Read Statuses | Until deletion of the Spark account |
 | +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI workflows (commands, rules) | Until deletion of Spark account or until you delete the data manually via settings |
 | Personalization context | Until disabling 'Personalization' feature |
+| Personalization context for the improvement of AI features | 2 months since sharing the feedback |
 | Customer Support Requests | For six (6) years after the communication on the ticket is closed |
 | Feedback Provided to Us Directly | For six (6) years from the feedback or last communication on feedback |
 | Feedback Provided via a Third-Party Platform | For two (2) years from the feedback or last communication on feedback |
