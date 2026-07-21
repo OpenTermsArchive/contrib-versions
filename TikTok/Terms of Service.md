@@ -2,6 +2,8 @@ EEA/UK/CH
 
 Terms of Service
 
+p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9} span.s6 {color: #000000; -webkit-text-stroke: 0px #000000} span.s7 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
+
 **(These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)**
 
 _Last updated: July 2026_
@@ -47,7 +49,7 @@ The additional terms and policies below apply to certain products or features of
 *   [Music Terms](https://www.tiktok.com/legal/music-terms-eea?lang=en): These apply when you post content on the Platform that includes music from the TikTok music library or your personal device.
 *   [Commercial Music Library Terms](https://www.tiktok.com/legal/commercial-music-library-user-terms?lang=en): These apply if you are a commercial entity or you post content on the Platform that includes music from the Commercial Music Library.
 *   [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en): This applies to all content on the Platform protected by intellectual property rights.
-*   [TikTok Shop Terms of Use](https://seller-ie.tiktok.com/university/essay?role=1&knowledge_id=2839101184673538&from=other&article_type=agreement&identity=1): These apply when you use TikTok Shop (where available). These terms differ based on where you live
+*   [TikTok Shop Terms of Use](https://seller-ie.tiktok.com/university/essay?role=1&knowledge_id=2839101184673538&from=other&article_type=agreement&identity=1): These apply when you use TikTok Shop (where available). These terms differ based on where you live.
 *   [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en): This applies when you post content on the Platform promoting a third party brand or its products or services in exchange for payment or any other incentive.
 *   [Business Terms](https://www.tiktok.com/legal/business-terms-eea?lang=en): These apply if you use the Platform for the purposes of a trade, business, craft or profession. This includes administering an account on behalf of a business.
 
