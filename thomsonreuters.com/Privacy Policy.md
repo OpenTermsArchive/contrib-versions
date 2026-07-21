@@ -1,4 +1,4 @@
-Our technology powers the professionals who are shaping the world. [Meet the changemakers](https://www.thomsonreuters.com/changemakers/)
+Trusted AI built on 175 years of Thomson Reuters knowledge. [Meet The CoCo](https://www.thomsonreuters.com/coco)
 
  [Skip to main content](#mainContent)
 
