@@ -607,6 +607,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
         142.  Government of Saskatchewan - Contains information licensed under the Government of Saskatchewan Standard Unrestricted Use Data Licence (Version 2.0).- [https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS\_Standard\_Unrestricted\_Use\_Data\_Licence\_v2.0.pdf](https://gisappl.saskatchewan.ca/Html5Ext/Resources/GOS_Standard_Unrestricted_Use_Data_Licence_v2.0.pdf)
               
+        143.  CITY OF QUEBEC. Public roads, \[Dataset\], in Quebec Data, 2012, updated on July 3, 2026.- [https://www.donneesquebec.ca/recherche/dataset/vque\_18](https://www.donneesquebec.ca/recherche/dataset/vque_18), (Accessed on July 3, 2026). Content licensed under CC-BY 4.0.
+              
     10.  **Cambodia**
          *   The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
              
@@ -2395,6 +2397,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Data GOV TW - Civil Affairs Department - Numerical data on the location of addresses in Kinmen County, 2024 ( 金門縣門牌位置數值資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
              
+         *   Data Gov TW - Taichung City Government Digital Development Bureau (臺中市政府數位發展局) - The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
     68.  **Timor-Leste**
          
          OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
@@ -3129,9 +3133,13 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          
          OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
          
+         Humanitarian Data Exchange ( HDX) - Senegal (Admin Areas) - [https://data.humdata.org/faqs/terms](https://data.humdata.org/faqs/terms)
+         
     86.  **Uganda**
          
          OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+         
+         Humanitarian Data Exchange ( HDX) - HDX Uganda Political (Admin Areas) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
          
     87.  **Ghana**
          *   OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
