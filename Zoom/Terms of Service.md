@@ -24,6 +24,10 @@ Integrate
 
 [Partner Solutions](https://partner.zoom.com/solutions/)[Find a Partner](https://partner.zoom.com/partner-locator)[Become a Partner](https://partner.zoom.com/)[Partner Portal](https://mypartnerportal.zoom.us/)[Partner Learning Center](https://mypartnerportal.zoom.us/s/)
 
+Select a language
+
+[English](https://zoom.us/en/trust/terms/)[Deutsch](https://zoom.us/de/trust/terms/)[Français](https://zoom.us/fr/trust/terms/)[Español](https://zoom.us/es/trust/terms/)[Svenska](https://zoom.us/sv/trust/terms/)[Nederlands](https://zoom.us/nl/trust/terms/)[Tiếng Việt](https://zoom.us/vi/trust/terms/)[Türkçe](https://zoom.us/tr/trust/terms/)[Русский](https://zoom.us/ru/trust/terms/)[Português](https://zoom.us/pt/trust/terms/)[Polski](https://zoom.us/pl/trust/terms/)[한국어](https://zoom.us/ko/trust/terms/)[日本語](https://zoom.us/ja/trust/terms/)[Italiano](https://zoom.us/it/trust/terms/)[Indonesia](https://zoom.us/id/trust/terms/)[中文（繁體，台灣）](https://zoom.us/zh-tw/trust/terms/)[中文（简体，中国）](https://zoom.us/zh-cn/trust/terms/)
+
 ZOOM TERMS OF SERVICE
 =====================
 
