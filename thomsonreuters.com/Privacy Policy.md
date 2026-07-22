@@ -247,9 +247,9 @@ Surface critical connections faster with AI-driven research workflows integrated
 *   Legal books
 *   Tax books
 
-*   [Category](https://store.legal.thomsonreuters.com/en-us/products/categories)
-*   [Jurisdiction](https://store.legal.thomsonreuters.com/en-us/products/jurisdictions)
-*   [Shop all](https://store.legal.thomsonreuters.com/en-us/home)
+*   [Category](https://www.thomsonreuters.com/content/unified-experience/us/en/legal/products/categories.html)
+*   [Jurisdiction](https://www.thomsonreuters.com/content/unified-experience/us/en/legal/products/jurisdictions.html)
+*   [Shop all](https://www.thomsonreuters.com/content/unified-experience/us/en/legal/home.html)
 
 *   [Brand](https://store.tax.thomsonreuters.com/accounting/Brand/c/3000)
 *   [Organization](https://store.tax.thomsonreuters.com/accounting/Organization-Type/c/1000)
@@ -358,7 +358,7 @@ Connect with our sales team to explore legal solutions tailored to your professi
 
 *   [Black's Law Dictionary](https://store.legal.thomsonreuters.com/en-us/products?q=Blacks%20law)
 *   [ProView e-books](https://www.thomsonreuters.com/en/products/proview)
-*   [Shop all](https://store.legal.thomsonreuters.com/en-us/home)
+*   [Shop all](https://www.thomsonreuters.com/content/unified-experience/us/en/legal/home.html)
 
 *   [Audit & accounting titles](https://store.tax.thomsonreuters.com/accounting/Practice-Area/Audit-and-Accounting/c/2100)
 *   [Best sellers](https://store.tax.thomsonreuters.com/accounting/search?q=#gsc.tab=0)
