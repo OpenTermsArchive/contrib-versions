@@ -119,11 +119,9 @@ Sketchfab is a company with operations around the world. To help provide you wit
 
 Sketchfab respects the intellectual property rights of others, and complies with the provisions of the Digital Millennium Copyright Act (DMCA) applicable to Internet service providers (17 U.S.C. § 512, as amended). We respond to clear notices of alleged copyright infringement, and infringing materials posted by Users can be identified and removed pursuant to this complaint procedure.
 
-In the event you believe that any User Content on the Services infringes your copyright, please file a notice of infringement using this form:
+In the event you believe that any User Content on the Services infringes your copyright, please file a notice of infringement by emailing [dmca@sketchfab.com](mailto:dmca@sketchfab.com).
 
-[FILE A DMCA TAKEDOWN NOTICE](https://docs.google.com/forms/d/e/1FAIpQLSflk6tc6yuUMsnqap2hRmCHGGIptTQrJ85IcNYIGBccqxcpCQ/viewform "File a DMCA takedown notice")
-
-Electronic notification is preferred. You can also file a notice with our designated agent, but processing may be slower than using the link above.
+Electronic notification is preferred. You can also file a notice with our designated agent, but processing may be slower than using the email above.
 
 Sketchfab, Inc.  
 ATTN: DMCA AGENT  
