@@ -387,9 +387,9 @@ Access your entire professional library anywhere, anytime with the only e-reader
 *   [Customer stories Legal, tax, and risk professionals are transforming their work and getting real results with Thomson Reuters.](https://www.thomsonreuters.com/en/customer-stories)
 *   Thought leadership Dive into white papers, case studies, and analysis focused on the critical issues facing professionals.
 
-*   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending)
-*   [Legal insights hub Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights#t=insights&sort=%2540tr_wpublishedtime%2520descending)
-*   [Tax insights hub Navigate tax complexities with expert commentary, news, and analysis for accounting professionals nationwide.](https://tax.thomsonreuters.com/en/insights#tab=insights&sortCriteria=%40tr_wpublishedtime%20descending&numberOfResults=12&t=insights&sort=%252540tr_wpublishedtime%252520descending)
+*   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights)
+*   [Legal insights hub Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights)
+*   [Tax insights hub Navigate tax complexities with expert commentary, news, and analysis for accounting professionals nationwide.](https://tax.thomsonreuters.com/en/insights)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
