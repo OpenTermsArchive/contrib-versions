@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Updated: 11/05/2026
+Updated: 22/07/2026
 
 1\. Definitions
 ===============
@@ -307,6 +307,8 @@ This processing is based on the legitimate interest of HAPPN to offer Members re
 
 • To offer Members personalised or non-personalised offers and/or promotions on HAPPN services.
 
+• Individual measurement of the open rate of emails sent by HAPPN for deliverability purposes using tracking pixels.
+
 **Legal basis: Legitimate interest**
 
 This processing is based on the legitimate interest of HAPPN to share its offers. As relates to the newsletter, you can object to receiving emails from HAPPN at any time by clicking on the “Click here to unsubscribe” link provided for this purpose in the emails you receive.
@@ -322,6 +324,12 @@ If you have given your consent, your data will be shared with these social netwo
 **Legal basis: Consent**
 
 The advertisements displayed on the HAPPN Application are personalized if you have given your consent. At any time, you may withdraw your consent to personalized advertising based on your age group and your gender by clicking “My Data” then “Manage my Choices.” Premium Members do not have advertisements on the HAPPN Application.
+
+• Analysis of email open rates to measure and optimize campaign performance by personalizing message content or adapting sending frequency or communication channels (email, SMS, push notification, etc.). This purpose includes processes to ensure the reliability of this measurement (for example, fighting ad fraud).
+
+**Legal basis: Consent**
+
+Open rate analysis is carried out using tracking pixels inserted into emails sent to you by HAPPN, with your prior consent. With a better understanding of your preferences, our communications are improved to provide you with the most relevant content at a frequency that suits you best. You can withdraw your consent at any time.
 
 • Disseminating on the HAPPN application non-personalized advertisements (based solely on your country), on the products and services of partners and advertisements relating to the products and services of HAPPN.
 
