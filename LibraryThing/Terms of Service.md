@@ -33,6 +33,53 @@ As stated above, LibraryThing will not sell any personally-identifiable informat
 
 You can control whether your reviews will ever be made available to libraries or others. Click [here](https://www.librarything.com/editprofile.php) to edit your profile and change your preference.
 
+### Automated Access, Scraping, and Data Use
+
+This section governs how LibraryThing, its content, and its data may be accessed and used. **It applies to everyone who accesses LibraryThing.com or its associated domains (including LibraryThing.nl, LibraryThing.es, and LibraryCat.org/TinyCat), by any means, whether or not you have an account and whether or not you are logged in.** By accessing the site or its content in any way—including by automated means—you agree to these terms. If you do not agree, you are not authorized to access the site or its content.
+
+#### The LibraryThing Database
+
+This section is about the LibraryThing Database **as a whole**—the way millions of records are selected, coordinated, and arranged—and not about any single fact or contribution. It does not change the rest of these Terms. Individual members continue to own the content they post; LibraryThing claims only the non-exclusive license described under "Copyright," above; and we still do not claim any copyright in non-copyrightable facts such as book titles, author names, ISBNs, or publication dates. Those belong to everyone. What LibraryThing _does_ assert is its right in the database **as a compilation**—the selection, coordination, and arrangement that LibraryThing and its members have built together—and only where the law grants such a right.
+
+In other words: LibraryThing.com and its content are made available for personal, non-commercial browsing and for the member features described elsewhere in these Terms. The site as a whole—including the selection, coordination, arrangement, organization, and compilation of book records, work and author pages, series and tag data, Common Knowledge, recommendations, ratings, reviews, cover images, and other materials (together, the "LibraryThing Database")—is a protected compilation. LibraryThing, Inc. claims the rights it holds in the LibraryThing Database as a compilation, including compilation copyright under United States law and, where applicable, sui generis database rights under the laws of the European Union, the United Kingdom, and other jurisdictions.
+
+#### No Scraping or Automated Access
+
+Except through an interface we expressly authorize (such as a published API used in accordance with its terms—see "Authorized Access," below) or with our prior written permission, you may not, and may not permit, enable, or assist any person, tool, agent, or service to:
+
+*   access, crawl, spider, scrape, harvest, extract, index, cache, copy, or download any part of the site, the LibraryThing Database, or any content on it by automated or systematic means;
+*   collect or compile any content from the site into a database, dataset, index, or other work, whether for your own use or for distribution, resale, or any other purpose;
+*   access the site using any automated system, bot, headless browser, scraping tool, AI agent, or similar means, other than (a) a conventional web browser operated by a human, or (b) a search-engine crawler that obeys our robots.txt and that we have not blocked; or
+*   use the site, the LibraryThing Database, or any content on it for any commercial purpose, or to build, train, populate, benchmark, or improve any product, service, dataset, or model that competes with, substitutes for, or reproduces LibraryThing or its data services (including our Enrichment Services).
+
+**General-purpose search engines are welcome.** Nothing in this section is meant to discourage ordinary search engines from indexing LibraryThing so that people can find us. Operating a search-engine crawler—such as Googlebot or Bingbot—to index the public site for inclusion in general search results is permitted, so long as the crawler identifies itself honestly, obeys our [robots.txt](https://www.librarything.com/robots.txt), respects our rate limits, and has not been blocked. This permission is limited to indexing for search results; it does not extend to text and data mining, AI training, or building a competing product or dataset, even by an operator that also runs a search engine.
+
+These restrictions apply regardless of whether the content is behind a login, and regardless of whether you obtain it directly or through a third party (including a third-party scraping or "web agent" service acting on your behalf—you are responsible for what such services do for you).
+
+#### No Text and Data Mining or AI Training
+
+You may not use the site, the LibraryThing Database, or any content on it for text or data mining, or to develop, train, fine-tune, evaluate, or ground any machine-learning or artificial-intelligence model or system, except with our prior written permission. **LibraryThing expressly reserves all rights in its content against text and data mining, including the reservation permitted under Article 4 of the EU Digital Single Market Directive (Directive (EU) 2019/790) and any equivalent right in other jurisdictions.** This reservation is made in machine-readable form, including through our robots.txt and any other technical signals we publish, and accessing the content does not grant any text-and-data-mining or AI-training right.
+
+#### No Circumvention
+
+You may not bypass, circumvent, disable, or interfere with any technical or security measure we use to control, limit, or monitor access to the site or its content—including rate limits, access throttling, IP or account blocks, CAPTCHAs, robots.txt directives, bot-detection or anti-automation measures, or authentication controls. Using rotating IP addresses or proxies, falsifying or omitting a user agent, using credentials or accounts to evade a block, or otherwise disguising automated access in order to defeat these measures is a violation of these Terms and may also violate applicable computer-fraud, anti-circumvention, and trespass laws.
+
+#### Authorized Access
+
+The only permitted means of programmatic or bulk access to LibraryThing data are (a) an API or data feed we expressly provide, used strictly in accordance with its published terms and any applicable license or agreement, and (b) any other access we grant in writing. Information about authorized interfaces is available at our [APIs page](https://www.librarything.com/services/). Authorized access remains subject to these Terms, and we may impose usage limits, require attribution, charge fees, or revoke authorization at any time. Any use outside the scope of an authorization we have granted is unauthorized.
+
+#### Suspension and Revocation of Access
+
+Your permission to access LibraryThing and its content is revocable. We may, at any time and for any reason, in whole or in part and with or without notice, limit, suspend, block, or terminate your access—including by blocking IP addresses, ranges, networks, accounts, or tools, and including access that would otherwise be permitted. **Any continued access to the site or its content after we have blocked it or notified you (by any reasonable means, including a notice to the operator of the relevant IP addresses or service) that your access is withdrawn is unauthorized and is access without authorization for purposes of applicable law.**
+
+#### Remedies
+
+You acknowledge that a violation of this section may cause LibraryThing and its members immediate and irreparable harm for which monetary damages would be an inadequate remedy, and that LibraryThing is therefore entitled to seek injunctive or other equitable relief, in addition to any other remedies available at law or in equity, without the need to post a bond. These remedies are cumulative. Our failure to enforce any provision of this section in any instance is not a waiver of our right to enforce it later.
+
+#### Governing Law for This Section
+
+This section, and any dispute arising out of or relating to access to or use of the site or its content, is governed by the laws of the State of Maine and applicable United States federal law, without regard to conflict-of-laws principles. You consent to the exclusive jurisdiction of the state and federal courts located in Portland, Maine for any action seeking to enforce this section or to obtain injunctive or other equitable relief, and you waive any objection to venue in those courts. Nothing in this section limits any right or remedy available to LibraryThing under applicable law.
+
 ### Get off my lawn, you kids!
 
 The Children's Online Privacy Protection Act (COPPA) severely restricts what information can be collected from children under 13. The EU's General Data Protection Regulation (GDPR) also severely restricts what information can be collected from children under 16. For these reasons, all children under 13 are prohibited from using LibraryThing, and, unfortunately, all European Union children under 16 are prohibited from using LibraryThing. In light of Australia's new Online Safety Amendment, we are also prohibiting Australian children under 16 from using LibraryThing. _Au revoir mes petits choux!_
@@ -78,7 +125,7 @@ Consider these tips to maintain patron privacy within TinyCat and LibraryThing:
 *   If you have Simple Circulation enabled, go to your [Patron Accounts Settings](https://www.librarycat.org/admin/settings/patronaccounts), and select _Barcode/ID_ under the "Patron list" setting. This will protect the privacy of your patrons' names.
 *   If you have Full Circulation enabled, go to your [Patrons Settings](https://www.librarycat.org/admin/settings/patronsettings) and make sure that all patron fields except "Barcode/Patron ID" are set to _Admin only_. Set the "Barcode/Patron ID" field to _Patron can see_, if you prefer.
 
-### What information do we collect?
+### What Information Do We Collect?
 
 This section covers the Personally Identifiable Information (PII) LibraryThing collects, as defined by the General Data Protection Regulation (GDPR).
 
@@ -128,7 +175,7 @@ Personally Identifiable Information (PII) TinyCat customers and other data-contr
     *   Any custom patron data field you add and provide to us
     *   Patron lending history (checkouts, holds, etc.)
 
-### What do we use this information for?
+### What Do We Use This Information For?
 
 LibraryThing collects Personally Identifiable Information (PII) for these purposes:
 
@@ -148,7 +195,7 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 *   Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to info@librarything.com and tim@librarything.com. Please put EMERGENCY in the subject line.
 *   LibraryThing cannot guarantee member privacy in emergencies.
 
-### Member rights
+### Member Rights
 
 The EU General Data Protection Regulation (GDPR) includes certain rights for certain covered individuals, concerning their personally identifiable information. We intend to voluntarily comply with these provisions, except as limited under applicable law. These rights include:
 
@@ -164,7 +211,7 @@ LibraryThing has created a Member [Privacy Center](https://www.librarything.com/
 
 If you have any questions about your rights under the GDPR, and how they relate to your LibraryThing data, please contact info@librarything.com, making clear your question and your status under the GDPR.
 
-#### Automated spam and abuse detection
+#### Automated Spam and Abuse Detection
 
 Spam and abusive sign-ups are a rising tide: many new-account registrations are not real readers but spam or abuse. To manage this, LibraryThing uses automated tools to assess whether a new account appears to be spam or abusive. As part of this, the text of a member's public profile may be sent to an outside service provider that performs the assessment on our behalf. This processing:
 
