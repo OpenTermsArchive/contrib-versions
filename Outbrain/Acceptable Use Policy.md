@@ -423,6 +423,15 @@ Additional Guidelines for Publishers
 *   News stories in slideshow format should not use headlines to insinuate recent or breaking news if it's not current
 *   If the title mentions a specific celebrity, that celebrity must match the celebrity in the ad image.
 
+AI Generated or Modified Content Guidelines
+-------------------------------------------
+
+All advertising content generated or materially modified using artificial intelligence — including text, images, audio, and video — must be clearly labelled as AI-generated at the point of first exposure. Advertisements featuring synthetic likenesses, voice clones, or AI-manipulated representations of real persons shall be prohibited unless the advertiser holds explicit consent from the individual depicted and includes a disclosure making clear that the person shown or heard is not genuine. Machine-readable provenance markers embedded in AI-generated content by the originating system must not be removed or suppressed.
+
+AI shall not be used to fabricate testimonials, simulate user reviews, generate unsubstantiated product claims, or produce synthetic "before and after" imagery. Advertisements must not use AI-generated content to impersonate another brand or business, falsely imply endorsement or affiliation, or design ad formats intended to resemble editorial content, system notifications, or user-interface elements. Advertisers remain solely responsible for all variations of personalised or dynamically generated creative served on the Teads platform.
+
+Advertisers are solely responsible for ensuring that AI-generated content does not infringe the intellectual property rights of any third party, including copyright, trademarks, and personality rights. AI-generated assets must not reproduce or closely imitate copyrighted works or the visual identity of another brand. All AI-generated advertising content must comply with applicable law, including Regulation (EU) 2024/1689 on Artificial Intelligence (the EU AI Act) and any guidance issued by the European AI Office.
+
 Our Strike Policy
 -----------------
 
