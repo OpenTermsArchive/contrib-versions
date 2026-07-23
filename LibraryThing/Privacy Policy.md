@@ -5,9 +5,9 @@ Privacy Policy
 
 We take reader privacy very seriously. Reader privacy enjoys special Constitutional protections under US law, and LibraryThing will not cooperate with US law enforcement unless compelled to do so. LibraryThing will not cooperate with non-US law enforcement unless compelled, or if we are convinced the law is at least as just, and applied as justly, as US standards. If you are using LibraryThing from a foreign country with an oppressive government, LibraryThing urges you not to put yourself at risk.
 
-As of October 23, 2025, we have never received a National Security Letter, FISA order, or any other classified request for user information.
+As of June 18, 2026, we have never received a National Security Letter, FISA order, or any other classified request for user information.
 
-### No sale of personal information
+### No Sale of Personal Information
 
 LibraryThing will not sell or give personally-identifiable information to any third party. This would be evil, and we are not evil. Yes, [still](https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html).
 
@@ -64,7 +64,7 @@ Before deleting your account, you have the option to [export your books](https:/
 
 If you need assistance or prefer to request deletion manually, you can contact us at [info@librarything.com](mailto:info@librarything.com).
 
-### Private libraries
+### Private Libraries
 
 LibraryThing allows "private" libraries—libraries that others can't see. We cannot give an absolute 100% guarantee of privacy. After all, even Amazon had a day when all their "anonymous" reviewers were exposed by mistake. If the public disclosure of your library would really damage you, by all means don't post it online.
 
@@ -120,7 +120,36 @@ LibraryThing allows members to connect to various apps, like Facebook and Twitte
 
 LibraryThing does not store any information for Facebook and Twitter except the keys necessary to perform API requests. In other words, all that stuff that Facebook gave companies like Cambridge Analytics, and which they misused, we have never stored and don't store now. We reserve the right to store your Facebook "name."
 
-### We take it all back
+### As Is
+
+We work hard to keep LibraryThing useful, accurate, and online, but we offer it "as is" and "as available." We don't make formal warranties: we can't guarantee the site will always be up, error-free, or exactly what you need, and we don't warrant that book data, recommendations, covers, or other content are perfectly accurate. We do try, though—and we love it when you help us fix things.
+
+### The Limits of Our Liability
+
+LibraryThing is made by a small company, offered to you in good faith. We can't promise perfection. To the fullest extent the law allows, LibraryThing and its staff won't be liable for indirect, incidental, or consequential damages arising from your use of—or inability to use—the site, such as lost data, lost profits, or a catalog gone sideways.
+
+If, despite all this, we are ever found liable for something, our total liability to you is limited to the amount you paid us in the previous twelve months, or $100 if you haven't paid us anything. Some places don't allow these limits, in which case they apply to you only as far as the law there permits.
+
+### Covering Our Backs
+
+If something you post or do on LibraryThing lands us in a dispute with someone else—say, you post something that wasn't yours to post, or you break these terms or the law—you agree to cover the reasonable costs we run into as a result, including reasonable legal fees. We'll let you know promptly if this ever comes up, and honestly we'd much rather sort it out together than ever need this paragraph.
+
+### Governing Law and Disputes
+
+LibraryThing is a Maine company. These terms, and any dispute about them or about your use of LibraryThing, are governed by the laws of the State of Maine and applicable U.S. federal law, without regard to conflict-of-laws rules. If a dispute can't be worked out in a friendly way—and we really will try first—it belongs in the state or federal courts located in Portland, Maine, and you agree to that.
+
+This general rule sits alongside the more specific terms in [Automated Access, Scraping, and Data Use](#automated-access), above, which continue to govern that section. And while we're here: we're not fans of forcing anyone into mandatory arbitration or stripping away the right to a day in court, so we don't.
+
+### Odds and Ends
+
+A few standard housekeeping points, kept short:
+
+*   **Severability.** If a court decides any part of these terms doesn't hold up, the rest stays in force.
+*   **The whole deal.** These terms—together with the policies they link to, like the [Community Rules](#community-rules) and [Privacy Policy](#privacy-policy)—are the complete agreement between you and LibraryThing about using the site.
+*   **Waiver.** If we don't enforce a rule right away, that doesn't mean we've given it up.
+*   **Assignment.** You can't hand your rights under these terms to someone else, but we may transfer ours—for instance, if the company is ever sold—as long as the new owner honors them.
+
+### We Take It All Back
 
 These terms and conditions are subject to the usual change-at-any-time rule that websites put on their terms and conditions and which seem so unfair. ("What, I have to submit a DNA sample?") We have edited them as new situations have come up, but we promise not to change any of the core principles, particularly with regard to sale of information, copyright and death rays. We promise to make all changes openly, with tracking and with the opportunity for users to withdraw their accounts.
 
