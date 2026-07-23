@@ -1,7 +1,7 @@
 Viber Privacy Policy
 ====================
 
-_Last Updated: March 23, 2026_
+_Last Updated: _July 22, 2026__
 
 _We’ve recently updated our terms and policies. View the summary of changes_ [**_here_**](https://vb.me/policy-updates-2026)_._
 
@@ -85,7 +85,7 @@ Data we collect automatically from your device, e.g., data collected using cooki
 *   **Device identifiers**, meaning identifiers of the devices you have used to access our websites and application, including IP address, unique device identifiers (including hashed phone numbers/emails), advertising related identifiers, MAC identifiers. Unique identifiers tell your device apart from other users and may be assigned to your device by Viber or our advertising service providers/partners.
 *   **Electronic network activity data**, such as information stored on log files, when you access our Service and website for example, including access time and date stamp, pages viewed, IP address, the pages that directed you to our website, information related to errors and crash reports.
 *   **Activity data**, relating to your usage of Services, such as connection status, whether you have received and seen messages sent to you, if you are currently on another call and data related to the calls and messages that you send and receive, such as length of the call, who called who, who messaged who, and at what time, your personal preferences related to such usage (for example how often, for how long, what options are selected). Such activity data may also include:
-    *   We may collect activity data about groups, communities, channels, bots (including AI assistants), businesses, dating services, and links you interact with inside Viber – e.g. data about the groups, communities, business accounts, dating profiles and channels you visit, follow or manage, messages you like, messages you send, the content you post or view, links you click on;
+    *   We may collect activity data about groups, communities, channels, bots, businesses, dating services, and links you interact with inside Viber – e.g. data about the groups, communities, business accounts, dating profiles and channels you visit, follow or manage, messages you like, messages you send, the content you post or view, links you click on;
     *   Items you searched on and shared via Viber features;
     *   Offers and rewards selected or redeemed;
     *   Viber Premium Services, payment services or business accounts activity;
@@ -109,7 +109,7 @@ User Submitted Content:
 
 If you choose to participate in Viber’s activities (e.g., contests), or as part of your participation in communities/channels/bots’ activities available on Viber, you may voluntarily publish, submit or post content such as videos, images, graphics, text, videos, etc. which may include personal data (e.g., an image of a person).
 
-When you use features like summaries, polish messages, instant answers, or other AI in-chat or chatbot features, we process your text messages to provide you with the translated or summarized message or to provide relevant responses or suggestions. This may include information that could be considered sensitive and personal in nature, if you choose to provide it.
+When you use AI features like summaries, polish messages, instant answers, or other AI in-chat or chatbot features, we process your text messages or content you choose to use with the feature to provide you with the translated or summarized message or to provide relevant responses or suggestions. This may include information that could be considered sensitive and personal in nature, if you choose to provide it.
 
 Data we collect from your communications with us, including support, customer services and other inquiries:
 
@@ -312,7 +312,6 @@ Viber uses different types of personal data for security purposes such as fraud 
 *   We may use data from trusted third parties related to your IP addresses to enhance the precision in detecting fraudulent activity;
 *   Monitoring of your conduct and use of the dating services to prevent fraud, misuse, harassment and other unlawful conduct;
 *   We may use automated decisions to close or restrict an account based on such data and other logic we have created for this, in order to protect other users and prevent recurring breaches. If your account has been blocked, you can contact our support.
-*   When you use our AI features such as AI chatbot assistants, we keep your chatbot communications to ensure your interactions are safe and prevent harm to you or others.
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
@@ -320,7 +319,6 @@ The types of data we will use for such purpose will mainly include (as detailed 
 *   Geolocation data;
 *   Financial information provided or collected through your use of our limited financial services (e.g., payment solutions), or purchased subscription and offers;
 *   Data we collect automatically from your device, such as device identifiers, electronic network activity data, activity data and other device data.
-*   Your AI assistant chatbot communications when you use AI features, which may include information that could be considered sensitive and personal in nature, if you choose to provide it.
 
 **B2B Communications and Services:**
 
@@ -400,7 +398,7 @@ We share your personal data with our trusted service providers and business part
 *   **Measurement partners**, who help us with measurements, tracking and targeting;
 *   **Payment and fintech services providers**, who enable processing payments and fintech actions on our app;
 *   **Network and** **telecommunication partners**, who help us support communications and other services to users;
-*   **AI service providers**, which enable AI features on our app, including summary, in-chat assistance and chatbot features;
+*   **AI service providers and partners**, which enable AI features on our app, including summary, in-chat assistance, chatbot features, etc.;
 *   **Data security partners**, who help us detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches and ensure compliance with legal obligations.
 
 Where we share information with services providers and partners, we ensure they only have access to such information that is strictly necessary in order for us to provide the Services. These parties are required to secure the data they receive and to use the data for pre-agreed purposes only, while ensuring compliance with all applicable data protection regulations (such service providers may use other non-personal data for their own benefit).
@@ -579,6 +577,6 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version [Viber Privacy Policy March 2026](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2026.pdf)
+Current Privacy Policy PDF Version [Viber Privacy Policy July 2026](https://www.viber.com/app/uploads/Privacy-Policy-Eng-July-2026.docx.pdf)
 
-Previous Privacy Policy PDF Version [Viber Privacy Policy August 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2025.pdf)
+Previous Privacy Policy PDF Version [Viber Privacy Policy March 2026](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2026.pdf)
