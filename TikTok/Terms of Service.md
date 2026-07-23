@@ -2,8 +2,6 @@ EEA/UK/CH
 
 Terms of Service
 
-p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9} span.s6 {color: #000000; -webkit-text-stroke: 0px #000000} span.s7 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
-
 **(These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)**
 
 _Last updated: July 2026_
