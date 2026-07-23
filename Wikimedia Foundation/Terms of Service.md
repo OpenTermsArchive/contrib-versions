@@ -60,7 +60,7 @@ Other languages:
 
 *   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruikstermrces (6% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
-*   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (2% translated)")
+*   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Melayu Kedah (3% translated)")
 *   [Bân-lâm-gí (Tâi-lô)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan-latn-tailo "Tsìng-tshik:Sú-iōng tiâu-khuán (1% translated)")
 *   [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
 *   [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
