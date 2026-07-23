@@ -181,9 +181,9 @@ Copyright Agent
 
 Toyota Motor Sales, U.S.A., Inc.
 
-P.O. Box 259001
+P.O. Box 259003
 
-Plano, TX 75025-9001
+Plano, TX 75025-9003
 
 By phone: 1-800-331-4331
 
@@ -232,9 +232,9 @@ All of the information contained in the Sites is for informational purposes only
 
 Toyota Motor Sales, U.S.A., Inc.
 
-P.O. Box 259001
+P.O. Box 259003
 
-Plano, TX 75025-9001
+Plano, TX 75025-9003
 
 (b) Severability: If any provision of these Terms are unlawful, void or unenforceable, that provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
 
@@ -248,7 +248,7 @@ Plano, TX 75025-9001
 
 PLEASE READ THIS PROVISION CAREFULLY. IT INCLUDES AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO YOUR USE OF ANY OF THE SITES TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEED IN COURT. THIS PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION. THIS AGREEMENT ALSO INCLUDES A JURY WAIVER.
 
-It is Toyota's goal that the Sites meet your expectations and that you are satisfied. However, there may be instances when you have a problem or dispute that needs special attention. In those instances, Toyota is committed to working with you to reach a reasonable resolution that satisfies you; however, we can only do this if we know about and understand your issue. Therefore, for any problem or dispute that you may have with Toyota, you acknowledge and agree that you will first give Toyota an opportunity to resolve your problem or dispute. This includes you first sending a written description of your problem or dispute to Toyota Motor North America, c/o Toyota Motor Sales, U.S.A., Inc., Toyota Customer Experience Center, P.O. Box 259001 – Web Services, Plano, TX 75025-9001. You then agree to negotiate with Toyota in good faith about your problem or dispute. This should lead to resolution, but if for some reason your problem or dispute is not resolved satisfactorily within sixty (60) days after Toyota's receipt of your written description of it, you agree to the further dispute resolution provisions below.
+It is Toyota's goal that the Sites meet your expectations and that you are satisfied. However, there may be instances when you have a problem or dispute that needs special attention. In those instances, Toyota is committed to working with you to reach a reasonable resolution that satisfies you; however, we can only do this if we know about and understand your issue. Therefore, for any problem or dispute that you may have with Toyota, you acknowledge and agree that you will first give Toyota an opportunity to resolve your problem or dispute. This includes you first sending a written description of your problem or dispute to Toyota Motor North America, c/o Toyota Motor Sales, U.S.A., Inc., Toyota Customer Experience Center, P.O. Box 259003 – Web Services, Plano, TX 75025-9003. You then agree to negotiate with Toyota in good faith about your problem or dispute. This should lead to resolution, but if for some reason your problem or dispute is not resolved satisfactorily within sixty (60) days after Toyota's receipt of your written description of it, you agree to the further dispute resolution provisions below.
 
 You agree that the sole and exclusive forum and remedy for any and all disputes and claims that cannot be resolved informally and that relate in any way to or arise out of your use of any of the Sites and these Terms shall be final and binding arbitration, except to the extent that you have in any manner infringed upon or violated or threatened to infringe upon or violate any of the Toyota Entities' or any third party patent, copyright, trademark, trade secret, privacy or publicity rights, in which case you acknowledge that there is no adequate remedy at law and that injunctive or other appropriate relief may be sought by the Toyota Entities and/or the applicable third party(ies) either in court or from an arbitrator. You and we acknowledge that the Agreement affects interstate commerce and that the Federal Arbitration Act and federal arbitration law apply to arbitrations under the Agreement (despite any other choice of law provision). To the extent that the Federal Arbitration Act and federal arbitration law do not supply substantive law necessary for the resolution of any disputes or claims, the laws of the State of Texas shall apply, except that Texas laws concerning choice of law or conflict of laws shall not apply if they would cause the substantive law of another jurisdiction to apply. To the extent that the parties litigate any part of any dispute or claim in court, including, without limitation, obtaining provisional remedies in aid of arbitration, confirmation of the award, and judgment enforcement, the laws of the State of Texas shall apply, except that Texas laws concerning choice of law or conflict of laws shall not apply if they would cause the substantive law of another jurisdiction to apply.
 
