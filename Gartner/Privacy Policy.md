@@ -272,6 +272,8 @@ California law requires us to provide California residents with additional infor
 
 **Sharing of Personal Information**. We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy). You can opt out of sharing your personal information for cross-context behavioral advertising by clicking the link below. Please note that if you opt out of this sharing, you may still continue to see advertising on other companies’ websites from Gartner, but those ads may not be as relevant to you. Sharing for cross-context behavioral advertising is limited to data collected from our public websites and does not occur when individuals are logged in to their Gartner.com account.
 
+Do Not Share My Personal Information
+
 **Individual Rights**. California law may provide you with certain rights and permit you to request the following:  
 
 *   Provide you the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we shared personal information.
