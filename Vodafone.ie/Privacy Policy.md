@@ -389,35 +389,35 @@ Privacy and products
 
 Get the details of how we utilize your data carefully to deliver personalized products and services like apps, TV and broadband.
 
-tab NaN of 0
+tab 1 of 0
 
 Apps
 
-tab NaN of 0
+tab 1 of 0
 
 Mobile
 
-tab NaN of 0
+tab 1 of 0
 
 Home broadband and phone
 
-tab NaN of 0
+tab 1 of 0
 
 TV
 
-tab NaN of 0
+tab 1 of 0
 
 Analytics and Marketing
 
-tab NaN of 0
+tab 1 of 0
 
 OneNumber
 
-tab NaN of 0
+tab 1 of 0
 
 V by Vodafone
 
-tab NaN of 0
+tab 1 of 0
 
 Enterprise Products
 
