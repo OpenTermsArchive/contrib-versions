@@ -969,7 +969,7 @@ We last updated this China Statement on September 27, 2024.
     *   [Investor relations](https://ir.thomsonreuters.com/)
     *   [Our purpose](https://www.thomsonreuters.com/en/about-us/our-purpose)
     *   [Press releases](https://www.thomsonreuters.com/en/press-releases#t=pressreleases&sort=%40tr_wpublishedtime%20descending)
-    *   [Social impact](https://www.thomsonreuters.com/en/about-us/social-impact)
+    *   [Social impact](https://www.thomsonreuters.com/en/about-us/social-impact-old)
     *   [The Trust Principles](https://www.thomsonreuters.com/en/about-us/trust-principles)
 
 *   Learn more
