@@ -1,7 +1,7 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 25 juin 2026**_
+_**Version mise à jour le 28 juillet 2026**_
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)_._ 
 
@@ -13,7 +13,9 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 10.07.2024 au 24.09.2025, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/9.0_CGU_en_vigueur_entre_le_10_juillet_2024_et_le_24_septembre_2025.pdf?vh=adfcf6&func=proxy)_._
 
-_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 25.09.2025 au 24.06.2026, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/10.0_CGU_en_vigueur_entre_le_25_septembre_2025_et_le_24_juin_2026.pdf?vh=2ce111&func=proxy)_._  
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 25.09.2025 au 24.06.2026, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/10.0_CGU_en_vigueur_entre_le_25_septembre_2025_et_le_24_juin_2026.pdf?vh=2ce111&func=proxy)_._ 
+
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 25.06.2026 au 27.07.2026, cliquez_ [_ici_](https://fr.shopping.rakuten.com/cdn/legal/CGU/11.0_CGU_en_vigueur_du_25_juin_2026_au_27_juillet_2026.pdf?vh=234f57&func=proxy)_._ 
 
 ### Sommaire
 
@@ -42,6 +44,10 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 *   [ANNEXES](#h_01JQ44BB6N52T5MCPR1ZPJRHAE)
     *   [Annexe I](#h_01JQ44B60VR62S4R2V8K27X8R7)
     *   [Annexe II](#h_01JQ44BGKCVX1D8A1J8VBJ9PG1)
+
+**À compter du 28 juillet 2026 à 10h30 GMT+2, il n’est plus possible de s’inscrire sur la Plateforme en tant que nouveau Vendeur Non-Professionnel.** Cette mesure est sans préjudice des droits des Vendeurs Non-Professionnels déjà inscrits sous ce statut avant la date précitée.
+
+**À compter du 24 juillet 2026 à** **11h00** **GMT+2, il n’est plus possible de s’inscrire sur la Plateforme en tant que nouveau Vendeur Professionnel.** Cette mesure est sans préjudice des droits des Vendeurs Professionnels déjà inscrits sous ce statut avant la date précitée.
 
 #### **PRÉAMBULE**
 
@@ -93,9 +99,9 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Vendeur :** désigne un Membre effectuant une offre de vente d'un Produit sur la Plateforme Rakuten, à titre professionnel ou non-professionnel.
 
-**Vendeur Non-Professionnel** : désigne un Vendeur agissant à des fins qui n'entrent pas dans le cadre de son activité professionnelle.
+**Vendeur Non-Professionnel** : désigne un Vendeur agissant à des fins qui n'entrent pas dans le cadre de son activité professionnelle. **À compter du 28 juillet 2026 à 10h30 GMT+2, il n’est plus possible de s’inscrire sur la Plateforme en tant que nouveau Vendeur Non-Professionnel.** Cette mesure est sans préjudice des droits des Vendeurs Non-Professionnels déjà inscrits sous ce statut avant la date précitée.
 
-**Vendeur Professionnel** : désigne un Vendeur agissant dans le cadre de son activité professionnelle. Le Membre inscrit en tant que Vendeur Professionnel sur la Plateforme Rakuten est réputé agir pour ses besoins professionnels. 
+**Vendeur Professionnel** : désigne un Vendeur agissant dans le cadre de son activité professionnelle. Le Membre inscrit en tant que Vendeur Professionnel sur la Plateforme Rakuten est réputé agir pour ses besoins professionnels. **À compter du 24 juillet 2026 à 11h00 GMT+2, il n’est plus possible de s’inscrire sur la Plateforme en tant que nouveau Vendeur Professionnel.** Cette mesure est sans préjudice des droits des Vendeurs Professionnels déjà inscrits sous ce statut avant la date précitée.
 
 #### **2\. OBJET**
 
@@ -253,7 +259,9 @@ L’Acheteur est donc averti qu’un Vendeur agissant à titre professionnel ser
 *   l'utilisation de la Plateforme Rakuten et l'accès à son service de Mise en relation ;
 *   l’accès au service client de Rakuten, afin de permettre aux Acheteurs de traiter toute difficulté éventuelle rencontrée ou Réclamation née à l’occasion des transactions opérées sur la Plateforme Rakuten ;
 *   la sécurisation, en qualité d’intermédiaire et tiers de confiance, des transactions opérées sur la Plateforme, conformément aux articles 4.5, 7.5, 8.1.2 et 8.1.3 des Conditions Générales d’Utilisation ; et,
-*   l’avantage "Satisfait ou Remboursé", dont les modalités sont détaillées à l’article 7.9.2 des Conditions Générales d’Utilisation.  
+*   l’avantage « Satisfait ou Remboursé », dont les modalités sont détaillées à l’article 7.9.2 des Conditions Générales d’Utilisation.  À compter du 1er juillet 2026 à 15h00 GMT+2 l’avantage « Satisfait ou Remboursé » n’est plus proposé sur la Plateforme Rakuten. Cette mesure est sans préjudice des droits des Acheteurs acquis sur des Produits achetés avant la date précitée et bénéficiant l’avantage « Satisfait ou Remboursé ».
+
+À compter du 1er juillet 2026 à 15h00 GMT+2, les Frais de service ne sont plus appliqués sur la Plateforme Rakuten.
 
 **7.9.2** L'Acheteur peut obtenir, selon les cas, un remboursement ou un crédit de Rakuten Points correspondant au Prix du Produit, toutes remises déduites, qui ne lui conviendrait pas, à condition que :
 
