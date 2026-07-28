@@ -73,7 +73,7 @@ If there are any significant changes to this Privacy Policy, we will update it h
 
 **CONTACT US**
 
-If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands** (**Attention: Data Protection Officer, Legal Department**).
+If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands** (**Attention: Data Protection Officer, Legal Department**).
 
 If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@corp.wechat.com).
 
@@ -111,7 +111,7 @@ Any capitalized terms used in this Privacy Policy have the same meaning as the e
 
 **CONTACT US**
 
-If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands (Attention: Data Protection Officer, Legal Department)**. We have representatives for data protection purposes listed [here](https://www.wechat.com/en/privacy_policy.html#pp_representatives).
+If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands (Attention: Data Protection Officer, Legal Department)**. We have representatives for data protection purposes listed [here](https://www.wechat.com/en/privacy_policy.html#pp_representatives).
 
 If you are an agent or official of a regulatory authority and have a specific data and privacy regulatory inquiry, please contact us [here](mailto:dataprotection@corp.wechat.com).
 
@@ -137,7 +137,7 @@ You can check whether you are a WeChat or Weixin user by clicking "Me" > "Settin
 
 This Privacy Policy does not apply to Personal Information collected by third party services that you may access through the WeChat platform (e.g., features operated by Weixin such as Advanced Search, Channels, Top Stories, and WeBeans; Weixin Open Platform services including Official Accounts, Mini Programs, and Weixin Login; Weixin Pay or WeChat Pay; or a third-party web site viewed via the internal browser), and Personal Information that you choose to share with a Weixin user. Please refer to the privacy policy of the relevant third party service. For more information, please see the section entitled [**"Who do we share your data with?"**](#pp_sharing) below.
 
-If you are using WeChat on behalf of a company, partnership, association, government or other organization (your "**Organization**"), you agree to notify such persons in your Organization whose Personal Information (defined below) we collect or you provide to us ("**Connected Persons**"), and you agree to obtain such Connected Persons' consent to the processing of their Personal Information in accordance with this Privacy Policy as required by applicable laws and regulations. When this Privacy Policy refers to "you"or "your", this includes you and any Connected Persons. If you or any Connected Persons would like to request for your Personal Information to be removed from our database, please contact us via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en).
+If you are using WeChat on behalf of a company, partnership, association, government or other organization (your "**Organization**"), you agree to notify such persons in your Organization whose Personal Information (defined below) we collect or you provide to us ("**Connected Persons**"), and you agree to obtain such Connected Persons' consent to the processing of their Personal Information in accordance with this Privacy Policy as required by applicable laws and regulations. When this Privacy Policy refers to "you"or "your", this includes you and any Connected Persons. If you or any Connected Persons would like to request for your Personal Information to be removed from our database, please contact us via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en).
 
 3\. DEFINITIONS
 ---------------
@@ -266,7 +266,7 @@ We rely on the European Commission’s model contracts for the transfer of Perso
 
 For transfers of Personal Information of UK users, we rely on the UK International Data Transfer Addendum at this site: [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/).
 
-You may also contact us via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en) to request copies of the applicable transfer clauses and addendum.  
+You may also contact us via our form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en) to request copies of the applicable transfer clauses and addendum.  
 
 7\. SECURITY OF YOUR PERSONAL INFORMATION
 -----------------------------------------
@@ -304,7 +304,7 @@ After providing such consent and acknowledgment, the parent/guardian can request
 
 **If you are a user located in Australia, Brazil, Canada, Hong Kong SAR, Indonesia, Japan, Macao SAR, Malaysia, Mexico, Philippines, Russia, Saudi Arabia, Serbia, Singapore, South Korea, Sri Lanka, Taiwan, Thailand, Türkiye, United Arab Emirates, United Kingdom, United States and Vietnam, the terms set out under the name of your jurisdiction in this [page](https://www.wechat.com/en/jurisdictions.html) may apply to you in addition to the terms set out in our Privacy Policy.**
 
-You may have certain rights in relation to the Personal Information we hold about you. Some of these only apply in certain circumstances (as set out in more detail below). Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your rights ("**DSR Request**"). To exercise any of your rights, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en).  
+You may have certain rights in relation to the Personal Information we hold about you. Some of these only apply in certain circumstances (as set out in more detail below). Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your rights ("**DSR Request**"). To exercise any of your rights, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en).  
 
 **Access & Correction**
 
@@ -316,7 +316,7 @@ You also have the right to correct that information if it is inaccurate or incom
 
 You can access and correct your Personal Information by logging into your WeChat account at any time. For example, you can delete certain Location Data via your device settings or the "Clear Location" option within WeChat.
 
-If you want us to correct your Personal Information that you are unable to correct using your account, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en).
+If you want us to correct your Personal Information that you are unable to correct using your account, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en).
 
 Where we agree to correct your Personal Information, we will use reasonable steps to inform any third party to whom we have disclosed the relevant Personal Information so that they can rectify the Personal Information too.  
 
@@ -326,7 +326,7 @@ You can delete your account, or remove certain Personal Information, by logging 
 
 Note that we will not be able to delete your account if you have a positive balance in your Weixin Pay or WeChat Pay account or are the administrator of an Official Account or Mini Program.
 
-If there is any other Personal Information you believe we process that you would like us to erase, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en).
+If there is any other Personal Information you believe we process that you would like us to erase, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en).
 
 You may request that we erase the Personal Information we hold about you where:
 
@@ -366,7 +366,7 @@ You also have the right to request that we transfer that Personal Information to
 
 **Objection**
 
-You may object to our use of your Personal Information that we use on the basis of our legitimate interests (e.g., when we use your Personal Information to ensure account security). If you object to such processing, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/desktop?lang=en).
+You may object to our use of your Personal Information that we use on the basis of our legitimate interests (e.g., when we use your Personal Information to ensure account security). If you object to such processing, please complete the request form [here](https://support.wechat.com/cgi-bin/mmsupportacctnodeweb-bin/t/dsr/index?lang=en).
 
 To the extent provided by applicable laws and regulations, you may withdraw any consent you previously provided to us by following the instructions set out [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
 
