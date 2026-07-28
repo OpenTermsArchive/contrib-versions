@@ -5,13 +5,11 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
+What is Instagram Service?
 
 How is Instagram funded?
 
-What is the Privacy Policy?
-
-What are my commitments?
+What is Instagram's Privacy Policy?
 
 I have a different question
 
@@ -85,7 +83,7 @@ In return for our commitment to provide the Service, we require you to make the 
 *   **You can't do anything to interfere with or impair the intended operation of the Service.**  
     This includes misusing any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
 *   **You can't attempt to create accounts or access or collect information in unauthorized ways.**  
-    This includes creating accounts or accessing or collecting information in an automated way without our express permission, regardless of whether such automated access or collection is undertaken while logged-in to an Instagram account.
+    This includes creating accounts or accessing or collecting information in an automated way (including by engaging in Automated Data Collection as defined in the [Automated Data Collection Terms](https://www.facebook.com/legal/automated_data_collection_terms)) without our express permission, regardless of whether such automated access or collection is undertaken while logged-in to an Instagram account. If you engage in Automated Data Collection, you must also comply with the [Automated Data Collection Terms](https://www.facebook.com/legal/automated_data_collection_terms). We may restrict or revoke our permission at any time.
 *   **You can’t sell, license, or purchase any account or data obtained from us or our Service, regardless of whether such data was obtained while logged-in to an Instagram account.**  
     This includes attempts to buy, sell, or transfer any aspect of your account (including your username); solicit, collect, or use login credentials or badges of other users; or request or collect Instagram usernames, passwords, or misappropriate access tokens.
 *   **You can't post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).**  
