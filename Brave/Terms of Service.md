@@ -82,9 +82,7 @@ If a counter-notice is received by the Designated Agent, Brave’s may send a co
 **Notices and counter notices with respect to the Service should be sent to Brave at:**  
 Copyright Designated Agent  
 Brave, Inc.  
-580 Howard St. Unit 402,  
-San Francisco, CA 94105  
-Support: [community.brave.app](https://community.brave.app/)
+48 2nd St, Floor 3 San Francisco, CA 94105 Support: [community.brave.app](https://community.brave.app/)
 
 Brave Premium Products[](#brave-premium-products "Permalink to this headline")
 ------------------------------------------------------------------------------
