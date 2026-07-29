@@ -14,7 +14,7 @@ Trusted AI built on 175 years of Thomson Reuters knowledge. [Meet The CoCo](http
 *   [Sign in to manage account](https://www.thomsonreuters.com/en/account-management)
 
 *   Law firms
-*   Corporations
+*   Businesses
 *   Tax, audit & accounting firms
 *   Government
 *   Partnerships & alliances
@@ -269,7 +269,7 @@ Simplify tax research with quick-reference handbooks that deliver accurate answe
 
 *   Law firms under 10 attorneys
 *   Law firms over 10 attorneys
-*   Corporations
+*   Businesses
 *   Tax, audit & accounting firms
 *   Government
 *   Books
