@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: July 17, 2026
+Last Updated: July 29, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -36,7 +36,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.13.** If you are a customer that is subject to the French Politique générale de sécurité des systems d’information de santé (PGSSI-S), you agree that your use of the Services complies with the PGSSI-S.
 
-**1.14. Data Protection.**
+**1.14. Data Protection**
 
 **1.14.1** These Service Terms incorporate the [AWS Data Processing Addendum](https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf) (“DPA”), when you use AWS Services to process Customer Data (as defined in the DPA). 
 
@@ -741,11 +741,11 @@ You must have all necessary rights to use any domain name that you use in conjun
 39\. AWS IoT Services
 ---------------------
 
-**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, Amazon Kinesis Video Streams, and AWS IoT Greengrass.
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT SiteWise, AWS IoT SiteWise Scenario Discovery, AWS IoT FleetWise, AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, Amazon Kinesis Video Streams, and AWS IoT Greengrass.
 
 **39.2**. AWS IoT Services are not designed or intended for, and may not be used for, any use case where any error, defect, unavailability, or other deficiency or failure of any AWS IoT Service could lead to bodily injury or death or cause environmental or property damage. You are solely responsible for: (a) using AWS IoT Services in a manner that is safe and compliant with applicable laws and industry-specific requirements and standards; (b) testing your use of AWS IoT Services (such as any delivery of remote commands) prior to deployment in your products and services, and ongoing monitoring of your use of AWS IoT Services thereafter; (c) any recalls and corrective action for your or your End Users’ products and services that use AWS IoT Services; and (d) any other liability arising from your use of AWS IoT Services in violation of this paragraph.
 
-**39.3.** You may not rely on data collected through your use of AWS IoT Services as a substitute for any human monitoring of physical systems necessary to assess whether such systems are operating properly or safely.
+**39.3.** You may not rely on data collected through or curated through your use of AWS IoT Services as a substitute for any human monitoring of physical systems necessary to assess whether such systems are operating properly or safely.
 
 **39.4.** AWS IoT Core Device Shadow data for an individual device may be deleted if you do not update the Device Shadow data for an individual device within any given 12-month period. AWS IoT Core Device Registry data for an individual device may be deleted if you do not update the Registry data for an individual device within any given 7-year period. Once Device Shadow or Registry data has been updated for an individual device the data restriction time frame for that individual device resets, and the Device Shadow and Registry data storage time frame for an individual device starts over.
 
@@ -782,6 +782,8 @@ If you use this feature, you authorize AWS to transmit to the LoRaWAN Network Pr
 You may share your C2C Connectors with other AWS customers. If you do, you authorize AWS as your service provider to list those C2C Connectors and related contact information on the AWS Console and on the AWS Site and you understand that other AWS customers may contact you. You are solely responsible for granting customers access to your C2C Connectors and for any terms governing another AWS customer’s access to your C2C Connectors. All such terms are solely between you and such other AWS customer. If you do not specify any such terms before granting access, you thereby grant such customer a non-exclusive license to access, use, copy, distribute or otherwise exploit such C2C Connector for any personal or business purposes.
 
 If AWS makes available to you any contact information of any provider of a C2C Connector, you may only use this contact information to submit an inquiry about the applicable third party C2C Connector. You may not process, share, sell or license this contact information for marketing or any other purpose. Any terms, including any applicable privacy notices, governing your use of any third-party C2C Connector are solely between you and the third-party offering the C2C Connector.
+
+**39.14.** AWS IoT SiteWise Scenario Discovery is not designed to enable real-time vehicle control or transmission of operational commands to vehicles, and is not intended to be used by itself for any direct integration into any vehicle or vehicle system or for any regulatory submission. AWS is not responsible for any such uses. You may not rely on data collected through or curated through your use of AWS IoT SiteWise Scenario Discovery as the basis for determining that any vehicle or vehicle system is safe, compliant, or fit for deployment.
 
 40\. Amazon Connect Talent (Preview)
 ------------------------------------
@@ -971,7 +973,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 50\. AWS Machine Learning and Artificial Intelligence Services
 --------------------------------------------------------------
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including features previously named AWS Security Agent), and AWS FinOps Agent (Preview), and the model customization agent in SageMaker AI. “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and Titan models), Amazon Nova Act, Amazon Nova Forge, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including features previously named AWS Security Agent), AWS FinOps Agent (Preview), the model customization agent in SageMaker AI, and AWS IoT SiteWise Scenario Discovery. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -1106,7 +1108,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **53.3.1.** The term “Chime PSTN Service” as used in these Terms means the ability for you to integrate Public Switched Telephone Network (PSTN) calling and text messaging features into your Amazon Chime experience. The Chime PSTN Service includes (a) dial in access to meetings from the PSTN via standard toll numbers and toll-free numbers; (b) dial out access from meetings to PSTN numbers via standard toll or toll-free numbers; (c) dial in access to Amazon Chime softphones from the PSTN via standard toll or toll-free numbers; (d) dial out access from the Amazon Chime softphone to the PSTN via standard toll or toll-free numbers; (e) receiving text and multi-media messages in Amazon Chime messaging or to APIs via standard toll or toll-free numbers; (f) sending text and multi-media messages from Amazon Chime messaging or from APIs via standard toll or toll-free numbers; (g) dial in access to Amazon Chime Voice Connector from the PSTN via standard toll or toll-free numbers; (h) dial out access from the Amazon Chime Voice Connector to the PSTN via standard toll or toll-free numbers; (i) dial in access to APIs from PSTN via toll or toll-free phone numbers; and (j) dial out access from APIs to the PSTN via standard toll or toll-free numbers.
 
-**53.3.2.** Portions of the Chime PSTN Service, specifically Business Calling, Voice Connector, and SMS Text, are sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement. Your invoice will state which Services that you have used are sold to you by AMCS and which are sold by AWS. Invoicing for the Chime PSTN Service is performed by AWS on behalf of AMCS for administrative convenience. You do not have to purchase any services sold by AMCS or the Chime PSTN Service to use Amazon Chime, and you may purchase the Chime PSTN Service calling features (such as inbound or outbound calling) separately, together, or not at all from AMCS. AWS is not a telecommunications provider and does not provide any telecommunications-related services.
+**53.3.2.** Portions of the Chime PSTN Service, specifically Business Calling, Voice Connector, and SMS Text, are sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement. Your invoice will state which Services that you have used are sold to you by AMCS and which are sold by AWS. All Invoicing for the Chime PSTN Service is performed by AWS on behalf of AMCS for administrative convenience. You do not have to purchase any services sold by AMCS or the Chime PSTN Service to use Amazon Chime, and you may purchase the Chime PSTN Service calling features (such as inbound or outbound calling) separately, together, or not at all from AMCS. AWS is not a telecommunications provider and does not provide any telecommunications-related services.
 
 **53.3.3.** In using the Chime PSTN Service, you will not: (a) call or text PSTN telephone numbers (whether singly, sequentially, or automatically) to generate income from access or termination charges for you or others as a result of placing the call or texting, (b) engage in unusual calling patterns inconsistent with normal, individual use, (c) resell the Chime PSTN Service to any third party without our prior written consent, or (d) attempt to use a number that is invalid, unallocated or included on a do not originate list of a regulator or industry-recognized equivalent. 
 
