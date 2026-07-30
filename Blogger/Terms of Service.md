@@ -1,11 +1,7 @@
 Google Terms of Service
 =======================
 
-Effective 22 May 2024 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en-GB.pdf)
-
-We’re updating our Terms of Service on 30 July 2026 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
-
-See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+Effective 30 July 2026 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en-GB.pdf)
 
 What’s covered in these terms
 -----------------------------
@@ -225,13 +221,18 @@ To provide you with our services, we sometimes send you service announcements an
 
 If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
 
+Mobile, Wi-Fi and other network connection costs
+------------------------------------------------
+
+Google services may frequently use the Internet when you're not actively engaged with the services or your device. Google uses the Internet in this way for a wide variety of purposes – for example, to provide software updates and to improve Google's services, security, user experience and/or Google's operations, including advertising. These uses rely on your mobile, Wi-Fi and/or other network connections and may count against your data allowance with your mobile or Internet service providers. You're responsible for all of these network usages and associated costs. You may wish to check your mobile or Internet service plan, and your device and network settings.
+
 Content in Google services
 ==========================
 
 Your content
 ------------
 
-Some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) allow you to generate original content. Google won't claim ownership over that content.
+Some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) allow you to generate original content. Google won't claim ownership over that content. Some content may not be suitable for everyone.
 
 Some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) give you the opportunity to make your content publicly available – for example, you might post a product or restaurant review that you wrote, or you might upload a blog post that you created.
 
@@ -282,7 +283,7 @@ Disclaimers
 
 The only commitments that we make about our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) (including the content in the services, the specific functions of our services or their reliability, availability or ability to meet your needs) are provided in (1) the _[Warranty](https://policies.google.com/terms?hl=en-GB#toc-warranty)_ section; (2) the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) and (3) laws that can’t be limited by these terms.
 
-**Don't rely on the services for medical, legal, financial or other professional advice. Any content regarding those topics is provided for informational purposes only and is not a substitute for advice from a qualified professional.**
+**Unless explicitly permitted by [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), don't rely on the services for medical, legal, financial or other professional advice. Any content regarding those topics is provided for informational purposes only, does not constitute medical diagnosis or treatment and is not a substitute for advice from a qualified professional.**
 
 Liabilities
 -----------
@@ -306,7 +307,7 @@ If you’re a [business user](https://policies.google.com/terms?hl=en-GB#footnot
 
 *   To the extent allowed by applicable law, you'll [indemnify](https://policies.google.com/terms?hl=en-GB#footnote-indemnify) Google and its directors, officers, employees and contractors for any third-party legal proceedings (including actions by government authorities) arising out of, or relating to, your unlawful use of the [services](https://policies.google.com/terms?hl=en-GB#footnote-services) or violation of these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB). This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs and legal fees, except to the extent a liability or expense is caused by Google's breach, negligence or willful misconduct.
 *   If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-GB#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
-*   Google won’t be responsible for the following [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability):
+*   Except as stated in the _[For all users](https://policies.google.com/terms?hl=en-GB#for-all)_ section above, Google won't be responsible for the following [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability):
     *   loss of profits, revenues, business opportunities, goodwill or anticipated savings
     *   indirect or consequential loss
     *   punitive damages
@@ -324,13 +325,13 @@ Before taking action as described below, we'll provide you with advance notice w
 
 ### Removing your content
 
-If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law, or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
+If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
 
 ### Suspending or terminating your access to Google services
 
 Without limiting any of our other rights, Google may suspend or terminate your access to the services or delete your Google Account if any of these things happen:
 
-*   you materially or repeatedly breach these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB)
+*   You materially or repeatedly breach these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB)
 *   we’re required to do so to comply with a legal requirement or a court order
 *   we reasonably believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) to a user, third party or Google – for example, by hacking, phishing, harassing, spamming, misleading others or scraping content that doesn’t belong to you
 
@@ -343,7 +344,7 @@ Settling disputes, governing law and courts
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact?hl=en_GB).
 
-Californian law will govern all disputes arising out of or relating to these terms, [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) or any related [services](https://policies.google.com/terms?hl=en-GB#footnote-services), regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
+Californian law will govern these terms and all disputes arising out of or relating to these terms, [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) or any related [services](https://policies.google.com/terms?hl=en-GB#footnote-services), regardless of any conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
 
 To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, region or other place of residence.
 
@@ -364,7 +365,7 @@ If you don’t follow these terms or the [service-specific additional terms](htt
 
 We may update these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) (1) to reflect changes in our services or how we do business – for example, when we add new services, features, technologies, pricing or benefits (or remove old ones), (2) for legal, regulatory or security reasons or (3) to prevent abuse or harm.
 
-If we materially change these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), we'll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don't agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) and stop using the services. You can also end your relationship with us at any time by closing your Google Account.
+If we materially change these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), we'll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don't agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) and stop using the services. You can also end your relationship with us at any time by [closing your Google Account](https://support.google.com/accounts/answer/32046?hl=en_GB).
 
 Definitions
 ===========
