@@ -103,7 +103,7 @@ Other languages:
 *   [संस्कृतम्](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sa "गोपनीयतानीतिः (10% translated)")
 *   [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hi "गोपनीयता नीति (34% translated)")
 *   [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/as "গোপনীয়তা নীতি (52% translated)")
-*   [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (88% translated)")
+*   [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (90% translated)")
 *   [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pa "ਪੜਦਾ ਨੀਤੀ (37% translated)")
 *   [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gu "ગોપનીયતા નીતિ (3% translated)")
 *   [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ta "தகவல் பாதுகாப்பு கொள்கை (24% translated)")
