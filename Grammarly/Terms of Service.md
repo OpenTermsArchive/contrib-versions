@@ -95,7 +95,9 @@ We may occasionally provide you with access to new service offerings that are st
 -----------------------------------------
 
 **7.1. Ownership of User Content.**  
-In connection with your use of our Services, you and your end users (if applicable) may upload and/or create certain content, text, output, and documents to and through the Services, including text and images displayed within an application window (“**User Content**”). You own all right, title, and interest in and to User Content. **7.2. License to User Content.**  
+In connection with your use of our Services, you and your end users (if applicable) may upload and/or create certain content, text, output, and documents to and through the Services, including text and images displayed within an application window (“**User Content**”). You own all right, title, and interest in and to User Content.  
+  
+**7.2. License to User Content.**  
 To provide our Services to you, we need your permission (i.e., a license) to use your User Content. You grant us a worldwide, non-exclusive, royalty-free license to your User Content that allows us to use, store, reproduce, publish, and publicly display (to show your User Content to you or other users as you may specify), modify, and create derivative works from it (such as writing suggestions and autocorrecting words) for the limited purposes of:  
   
 (i). Operating, providing, improving, troubleshooting, and debugging our Services (for example, your acceptance or rejection of our grammatical suggestions may help train our suggestion engine);  
