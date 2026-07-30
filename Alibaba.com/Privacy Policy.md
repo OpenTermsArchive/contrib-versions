@@ -3,7 +3,7 @@ Alibaba.com Privacy Policy
 
 2024-08-28 07:52
 
-（Last Updated: June 18, 2026)
+（Last Updated: July 30, 2026)
 
 ﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_11_33255.html)﻿
 
@@ -422,7 +422,7 @@ If we collect and use your personal information in reliance on our legitimate in
 
 If we ask you to provide personal information to comply with a legal requirement or to enter into a contract with you, we will make this clear at the relevant time. We will advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). In some instances, you may be required to provide us with personal information for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Platform.
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under section 14\. “HOW TO CONTACT US” below.
+Our Data Protection Officer in Brazil is Manfred Tee. If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under section 14\. “HOW TO CONTACT US” below.
 
 Your Rights
 
@@ -525,9 +525,7 @@ You can click [here](https://myprivacy.alibaba.com/home#/)to exercise your right
 | Korea | Company Name: Alibaba.com Korea E-Commerce Private Limited<br><br>Rrepresentative：Marco Yang | 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631 | Telephone number: 02-2193-4206<br><br>E-mail:<br><br>﻿koreaprivacyagent@service.alibaba.com |
 | Türkiye | KST DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | REŞİTPAŞA MAHALLESİ ESKİ BÜYÜKDERE CADDE NO: 26/147, SARIYER, İSTANBUL | E-mail:<br><br>﻿info@ksthukuk.com |
 
-If you are a registered member of the Platform, and you are from Hong Kong Special Administrative Region (“Hong Kong”), Macao Special Administrative Region (“Macao”) or Taiwan Region of China (“Taiwan”), you are contracting with Alibaba.com Hong Kong Limited (incorporated in Hong Kong Special Administrative Region with Reg. No. 0689778).
-
-If you are a registered member of the Platform, and you are from other locations outside of mainland China, Hong Kong, Macao or Taiwan, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
+If you are a registered member of the Platform, and you are from other locations outside of Mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
 
 15.LANGUAGE 
 ============
