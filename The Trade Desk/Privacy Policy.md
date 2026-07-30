@@ -84,7 +84,7 @@ You can read more about how EUID works, how to opt-out and your rights on the [E
 
 **COOKIES ON OUR WEBSITES**
 
-“Cookies” are data files that are stored on your browser or device and are used to remember user preferences and behaviors over time. Cookies allow us to recognize your device and remember information, such as your preferred language and other general settings. For more information about specific cookies on this site, please see our [Cookie Notice](https://www.thetradedesk.com/cookie-notice).  
+“Cookies” are data files that are stored on your browser or device and are used to remember user preferences and behaviors over time. Cookies allow us to recognize your device and remember information, such as your preferred language and other general settings. For more information about specific cookies on this site, please see our [Cookie Notice](#ot-sdk-show-settings).  
  
 
 **CANDIDATE INFORMATION**
