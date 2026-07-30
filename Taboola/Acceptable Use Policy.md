@@ -579,4 +579,4 @@ Related Articles
 *   [Restricted Content, Products, and Services](http://realize.com/help/en/articles/3878199-restricted-content-products-and-services)
 *   [Prohibited Product or Service](http://realize.com/help/en/articles/4176647-prohibited-product-or-service)
 *   [Video Creative is not related to / does not match the content on the landing page](http://realize.com/help/en/articles/4176675-video-creative-is-not-related-to-does-not-match-the-content-on-the-landing-page)
-*   [Policy FAQ - Video Gaming](http://realize.com/help/en/articles/7199951-policy-faq-video-gaming)
+*   [Policy FAQ - Shopping & E-commerce](http://realize.com/help/en/articles/7200022-policy-faq-shopping-e-commerce)
