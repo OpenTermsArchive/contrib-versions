@@ -1,7 +1,7 @@
 **Content Guidelines**
 ======================
 
-Last Updated: March 19, 2026
+Last Updated: July 20, 2026
 
 Substack is a place for independent writers, podcasters, and creators. We host and celebrate a diverse range of thought and discussion. The following guidelines outline what is and is not acceptable on Substack. We have the exclusive right to interpret and enforce these guidelines, although we may consult outside experts, research, and industry best practices in doing so. If you encounter content that may be in breach of these guidelines or have any questions about them, you can email us at [tos@substackinc.com](mailto:tos@substackinc.com).
 
@@ -77,3 +77,11 @@ We don’t allow porn or sexually exploitative content on Substack, including an
 **Comments, Notes & Community Surfaces**
 
 These guidelines also apply to Substack comments, notes, and other community surfaces. We believe that writers are responsible for moderating their own communities as they see fit and readers for curating their own experiences on the platform. Don’t create accounts for the sole purpose of circumventing boundaries like blocks and bans imposed by other users. We may intervene to remove accounts engaged in artificial or inauthentic activity on community surfaces.
+
+**Digital Services Act (DSA) – Single point of contact (Arts 11 & 12):** Coimisiún na Meán, an EU Member State authority, the European Commission or the European Board for Digital Services can contact us regarding matters pertaining to the DSA (such as our content moderation practices): by email at [dsa@substackinc.com](http://dsa@substackinc.com/). Please ensure that any communications sent to us are submitted in English or accompanied by an English translation.
+
+**Digital Services Act (DSA) – Legal Representative (Art 13):** Substack has appointed Lionheart Squared (Europe) Limited (”Lionheart”) as its legal representative. You can contact Lionheart, regarding matters pertaining to the DSA: by email at [Substack-DSA@LionheartSquared.eu](http://Substack-DSA@lionheartsquared.eu/); by writing to Lionheart Squared (Europe) Ltd, FAO Substack, 2 Pembroke House, Upper Pembroke St. 28-32, Dublin, D02 EK84, Republic of Ireland; or by phone at +353 (0) 1234 2458. Please ensure that any communications sent to Lionheart are submitted in English or accompanied by an English translation. You may also contact us directly at [dsa@substackinc.com](http://dsa@substackinc.com/).
+
+**\*\*Reports and Complaints\*\***
+
+Reports submitted through our reporting tools must be made in good faith and relate to content or conduct that you genuinely believe violates these Guidelines. We reserve the right to close reports that are frivolous, vexatious, or manifestly unfounded without taking action. Repeated misuse of our reporting system, including submitting reports intended to harass, suppress, or disadvantage other users, may result in restrictions on your ability to submit further reports or on your account more broadly.
