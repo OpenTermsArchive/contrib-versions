@@ -175,7 +175,7 @@ Complete legal work faster with AI that unites research, analysis, and drafting 
 *   Tax, audit & accounting Increase efficiency, mitigate risk, and provide premium client services with enhanced AI capabilities and expert insights.
 *   Corporate tax Process high-volume transactions accurately with scalable tax software built for multi-entity corporate environments.
 
-*   [CoCounsel Audit Standardize audit workflows with AI-powered automation that delivers verifiable, citation-backed insights.](https://tax.thomsonreuters.com/en/products/cocounsel-audit)
+*   [CoCounsel Audit & Accounting Standardize audit workflows with AI-powered automation that delivers verifiable, citation-backed insights.](https://tax.thomsonreuters.com/en/products/cocounsel-audit-accounting)
 *   [CoCounsel Tax Complete tax research and client deliverables faster using AI that centralizes trusted sources and firm data.](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
 *   [Guided Assurance Complete audit engagements efficiently and ensure compliance with automated software that identifies risks using AI.](https://tax.thomsonreuters.com/en/products/guided-assurance)
 *   [Ready to Advise Turn client data into actionable tax strategies with AI that identifies opportunities and guides implementation.](https://tax.thomsonreuters.com/en/products/ready-to-advise)
