@@ -71,6 +71,7 @@ Other languages:
 *   [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Polasaí: Téarmaí Úsáide (100% translated)")
 *   [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Dokoki: Ka'idojin anfani (1% translated)")
 *   [Igbo](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ig "Policy:Terms of Use/ig (1% translated)")
+*   [Jawa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/jv "Policy:Terms of Use/jv (1% translated)")
 *   [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
 *   [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "conditionem úimo (1% translated)")
 *   [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Konditioune fir d'Benotzenfr (6% translated)")
