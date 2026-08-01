@@ -5,11 +5,13 @@ Information for law enforcement
 
 Copy link
 
-Request user information
+Requests for user information
 
-Emergency data request
+Emergency requests
 
-Child safety request
+Child safety requests
+
+International legal requests
 
 I have a different question
 
