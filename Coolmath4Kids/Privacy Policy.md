@@ -1,6 +1,12 @@
-**Effective Date: May 29, 2026**
+**Effective Date: July 31, 2026**
 
-Coolmath4Kids.com is a learning and entertainment website produced by Coolmath.com LLC. It provides educational games and wholesome activities appropriate for children of all ages. This Privacy Policy ("Policy") describes how we treat personal information on the websites where it is located. This Policy applies only to Coolmath4Kids.com and does not apply to other Coolmath.com, LLC websites or apps, such as Coolmath.com or CoolmathGames.com.
+Coolmath4Kids.com is a learning and entertainment website produced by Coolmath.com LLC ("Coolmath.com"). It provides educational games and wholesome activities appropriate for children of all ages. This Privacy Policy ("Policy") describes how we treat personal information on the websites where it is located. This Policy applies only to Coolmath4Kids.com and does not apply to other Coolmath.com, LLC websites or apps, such as Coolmath.com or CoolmathGames.com.
+
+Please review our Privacy Policy fully - but here are a few key points to make it easier to understand:
+
+*   Coolmath4Kids does not ask any visitors to provide their name, address or other contact information in any way.
+*   Coolmath4Kids and our third-party service providers may automatically collect an IP address and some basic information about your device (such as browser, operating system, and type of device), but only for the purposes of analytics and supporting internal operations.
+*   Coolmath4Kids does have advertisements served by other companies. However, they are not targeted to individual visitors using data collected about them. (We use only contextual advertising and not targeted, behavioral, or interest-based advertising methods).
 
 **Collection or Use of Personal Information**
 
@@ -8,11 +14,14 @@ Coolmath4Kids takes the protection of users' personal information very seriously
 
 **What is Personal Information?**
 
-Personal information is considered any information that can identify or make a person identifiable, such as their name, IP address, and residential address.
+Personal information is considered any information that can identify or make a person identifiable, such as their name, IP address, and residential address, as well as broader information about a person, even if it doesn’t identify them on its own, such as web browsing activity or information about their device.
+
+**Information We Collect**
+
+At Coolmath.com, we are committed to minimizing the amount of personal information, especially sensitive information, we collect to the bare minimum required to serve the site and understand how our site is used so that we can improve it and ensure its smooth operation. We DO NOT ask for or collect information such as your name, address, phone number, age, gender, racial or ethnic origin, religious/political affiliation, health information, Social Security Number or other identifying information (e.g., driver's license number, passport number, or state ID), payment information or biometric information or precise geolocation data.  
+Coolmath4Kids.com may automatically collect IP addresses and basic information about your device (such as browser, operating system, and type of device) solely for analytics and internal operations support. We accomplish this through the collection and use of persistent identifiers or tracking technologies, such as browser cookies, web beacons, browser local storage, and pixel tags.
 
 **What does Coolmath4Kids do with your Personal Information?**
-
-Coolmath4Kids and its service providers do not collect or use personal information, except for the purpose of providing support for the internal operations of the website. This includes collection or use of persistent identifiers or tracking technologies, such as browser cookies, web beacons, browser local storage, and pixel tags.
 
 To the extent that any persistent identifiers are used in connection with the Coolmath4Kids website, these technologies are used to support the internal operations of the website. These uses may include:
 
@@ -23,15 +32,27 @@ To the extent that any persistent identifiers are used in connection with the Co
 *   Protecting security of this website, company, and website visitors
 *   Complying with laws or regulations, such as responding to a court order or subpoena
 
-Coolmath4Kids, and the service providers that it works with, do not use persistent identifiers to serve targeted advertising to the users of this website.
+Coolmath4Kids, and the service providers that it works with, do not use persistent identifiers to serve targeted advertising to the users of this website or enable a child to make personal information publicly available.
 
 **Sharing of Personal Information**
 
-We may share information from persistent identifiers described above with service providers (companies who perform services on our behalf), but only for the purpose of supporting the internal operations of the website or serving contextual advertising, as described above.
+We may share information from persistent identifiers described above with service providers listed below who perform services on our behalf, but only for the purpose of supporting the internal operations of the website or serving contextual advertising, as described above.
 
-**Children's Personal Information**
+*   Cloudflare: Serves the website and provides security, including protection against malicious activity.
+*   Playwire Kids Club: Serves contextual advertising. Playwire Kids Club is COPPA-certified by KidSafe.
+*   Google Analytics: Collects limited information to recognize users and track usage of Coolmath4Kids.com in an aggregated, anonymized way.
+*   Arcademics: Provides some of the math games. Does not collect or store personal information, including persistent identifiers.
 
-As described above, we do not knowingly collect personal information from anyone, including children under 13, except to support the operations of the website. Regardless, parents have the right to review, stop collection and request that Coolmath4Kids delete any personal information that it might collect and retain about their child.
+We enter into contractual arrangements with our service providers requiring them to process your data lawfully and solely for the purposes described above. 
+
+**Children's Personal Information & Parental Rights**
+
+As described above, we do not knowingly collect personal information from anyone, including children under 13, except to support the operations of the website. Regardless, in accordance with COPPA, parents have the right to:
+
+*   Review the persistent identifier information we collect about you or your child (if any).
+*   Request that we stop collecting or using your child's persistent identifier information in the future.
+*   Request that we delete the persistent identifier information we collect about your child.
+*   Request that we restrict the sharing of data with third parties.
 
 If you are a parent or legal guardian and you would like to exercise your rights or ask questions about this privacy policy, or think your child under 13 has given us information, you can email us at [\[email protected\]](https://www.coolmath4kids.com/cdn-cgi/l/email-protection). Please mark your inquiries "COPPA Information Request for Coolmath4Kids".
 
@@ -45,7 +66,7 @@ Unfortunately, the Internet is not 100% secure. We cannot promise that your use 
 
 **Data Retention**
 
-We will retain users' personal information only for as long as necessary to fulfill the purposes for which it is collected, including for the purpose of complying with any legal obligations, contractual obligations, accountability, or requests from competent authorities.
+We retain users' personal information only for as long as necessary to fulfill the purposes for which it is collected, including for the purpose of complying with any legal obligations, contractual obligations, accountability, or requests from competent authorities.
 
 **Links to Other Sites**
 
@@ -60,6 +81,8 @@ You can also write to us at:
 Coolmath4Kids Legal Department  
 122 East 42nd Street, Suite 1611  
 New York, NY 10168
+
+You may also call us at (646) 762-5606. We are available Monday through Wednesday, from 8:30 AM to 4:00 PM Eastern Time. Outside of these hours, please leave a voicemail and we will get back to you.
 
 **Policy Changes**
 
