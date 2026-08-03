@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/hangmatta_1400x930.jpg)
+[![](/assets/stock/1400x930/val._2026.jpg)
+
+#### Digital ID card at the voting location
+
+2026-08-03
+
+Use your digital ID card to identify yourself when you vote in the general election this autumn.](https://www.bankid.com/en/about-us/news/digital-id-card-at-the-voting-location) [![](/assets/stock/1400x930/hangmatta_1400x930.jpg)
 
 #### Secure summer
 
@@ -130,10 +136,4 @@ Stay safe when you're using BankID during summer. Follow our tips.](https://www.
 
 2026-06-01
 
-Panels, debates and lectures we will participate in during Almedalsveckan.](https://www.bankid.com/en/about-us/news/almedalen-2026) [![](/assets/stock/news/utlaandska_pass_www.jpg)
-
-#### BankID renewal with EU passports
-
-2026-05-05
-
-We're now making it easier for registered non-Swedish citizens with foreign ID documents to renew their BankID.](https://www.bankid.com/en/about-us/news/renew-bankid-with-eu-passports)
+Panels, debates and lectures we will participate in during Almedalsveckan.](https://www.bankid.com/en/about-us/news/almedalen-2026)
