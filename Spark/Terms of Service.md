@@ -58,7 +58,7 @@ Table of contents
 About Us
 --------
 
-| **Service Provider** | **Spark Limited** |
+| **Service Provider** | **Spark Mail Limited** |
 | --- | --- |
 | **Registration number** | 630281 |
 | **VAT** | IE 3560869EH |
