@@ -1,7 +1,7 @@
 Branding Guidelines: WebSearch and AdSense for Search
 =====================================================
 
-**Revised:** March 25, 2024
+**Revised:** August 3, 2026
 
 Introduction
 ------------
@@ -51,9 +51,9 @@ Even if there is no other content or sponsored listings on the page, the header 
 
 ### Distinguish from other content
 
-If a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non-Google provided content.
+If you are permitted to use Google branding with search results and a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non-Google provided content.
 
-This policy applies regardless of whether the other content is comprised of ads (delivered via AdSense for Search or AdSense for Shopping), or non-Google provided sponsored listings or non-Google provided search results.
+This policy applies regardless of whether the other content is comprised of ads delivered via AdSense for Search, or non-Google provided sponsored listings or non-Google provided search results.
 
 Display of sponsored listings
 -----------------------------
