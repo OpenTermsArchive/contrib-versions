@@ -1,7 +1,7 @@
 Palantir's Privacy Statement
 ============================
 
-_Last updated June 2026_
+_Last updated July 2026_
 
 Who is Palantir?
 ----------------
@@ -251,7 +251,7 @@ In some countries and territories, data protection and consumer privacy laws pro
 
 **_Right to lodge a complaint with the data protection or consumer privacy regulatory or authority:_** If you believe that the processing of your personal data violates legal requirements, and if the right exists in your country, state or territory, you have the right to lodge a complaint with the competent data protection authority or consumer privacy supervisory authority
 
-If you live or work in the United Kingdom, you may complain to the Information Commissioner’s Office using this [link](https://ico.org.uk/global/contact-us/contact-us-public/).
+If you live or work in the United Kingdom, you may make a data protection complaint directly to Palantir by contacting us as [privacy@palantir.com](mailto:privacy@palantir.com), or you may complain to the Information Commissioner’s Office using this [link](https://ico.org.uk/global/contact-us/contact-us-public/).
 
 If you live or work in the European Economic Area, you can find details of the data protection authority in your country [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
 
@@ -420,7 +420,7 @@ Open
 
 **US Consumer Privacy Act Notice**
 
-_Last updated June 2026_
+_Last updated July 2026_
 
 This section (the “US Notice”) provides additional information regarding the applicable US state comprehensive privacy laws that are in effect as of January 15, 2025 (individually known as a “US State Privacy Law” and collectively known as “US State Privacy Laws”) and supplements the disclosures and information throughout this Statement. The commitments in this US Notice apply only to individuals covered by the US State Privacy Laws and are subject to certain statutory exceptions laid out in the US State Privacy Laws. This US Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
