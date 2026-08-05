@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in Bastrop, Texas. For people who live in the European Union or the European Economic Area, the data controller is X Internet Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in Austin, Texas. For people who live in the European Union or the European Economic Area, the data controller is X Internet Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -76,7 +76,7 @@ Law enforcement and government preservation requests for user information may be
 ### Requests for X account information  
 
   
-Requests for user account information from law enforcement should be directed to X Corp. in Bastrop, Texas or X Internet Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to X Corp. in Austin, Texas or X Internet Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
@@ -205,8 +205,8 @@ Our address details are:
 
 **X Corp.  
 **Attn: Safety - Legal Policy  
-865 FM 1209 Bldg. 2  
-Bastrop, TX 78602
+800 W Cesar Chavez St  
+Austin, TX 78701
 
 **X Internet Unlimited Company**  
 One Cumberland Place,  
