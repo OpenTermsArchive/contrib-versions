@@ -383,13 +383,18 @@ Access your entire professional library anywhere, anytime with the only e-reader
 *   Developers
 
 *   [Thomson Reuters Institute Access expert research and trends that empower professionals to navigate industry transformation with confidence.](https://www.thomsonreuters.com/en/institute)
-*   [Innovation @ Thomson Reuters Learn how innovation powers the future of professional work through technology and strategic transformation.](https://www.thomsonreuters.com/en-us/posts/innovation/)
 *   [Customer stories Legal, tax, and risk professionals are transforming their work and getting real results with Thomson Reuters.](https://www.thomsonreuters.com/en/customer-stories)
 *   Thought leadership Dive into white papers, case studies, and analysis focused on the critical issues facing professionals.
+*   Blog Explore expert perspectives, practical guidance, and timely updates across Thomson Reuters blogs.
 
 *   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights)
 *   [Legal insights hub Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights)
 *   [Tax insights hub Navigate tax complexities with expert commentary, news, and analysis for accounting professionals nationwide.](https://tax.thomsonreuters.com/en/insights)
+
+*   [Thomson Reuters blog Explore trends and expert thinking shaping the future of professional work.](https://www.thomsonreuters.com/en-us/blog)
+*   [News & innovation blog The latest announcements, product news, and technology developments.](https://www.thomsonreuters.com/en-us/posts/innovation/)
+*   [Legal blog Actionable insights for attorneys, law firms, and legal departments.](https://legal.thomsonreuters.com/blog/)
+*   [Tax, accounting, & audit blog Expert analysis and commentary for tax, accounting, and audit professionals.](https://tax.thomsonreuters.com/blog/)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
