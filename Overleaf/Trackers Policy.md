@@ -1,7 +1,7 @@
 Cookie Policy
 -------------
 
-Last Modified: 11 June 2026
+Last Modified: 5 August 2026
 
 This policy applies to the websites at [overleaf.com](https://www.overleaf.com/), [sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -22,7 +22,8 @@ We use cookies on Overleaf as follows:
 *   **Authentication:** these cookies help us show you the right information, for example by automatically identifying your browser or device and remembering you’ve logged in.
 *   **Security:** these cookies enable and support our security features, and also to help us detect malicious activity.
 *   **Preferences:** these cookies remember choices that you have made to improve your user experience with Overleaf, including to provide you with features, insights and more relevant content.
-*   **Performance and analytics:** these cookies collect information on how you interact and use Overleaf, enabling us to improve your user experience and the overall quality of Overleaf, including through the use of in-service messages.
+*   **Operations:** these cookies enable certain functionality.
+*   **Analytics:** these cookies collect information on how you interact and use Overleaf, enabling us to improve your user experience and the overall quality of Overleaf, including through the use of in-service messages.
 *   **Targeting or Advertising:** these cookies are used to track visitor activities and support marketing efforts. They may be set by advertising providers, to build a profile of users’ interests and target them with ads on other sites.
 
 ### Which cookies does Overleaf use and how do you opt-out?
@@ -35,24 +36,26 @@ The cookies we set and use (i.e. first party cookies) on Overleaf are described 
 | `deviceHistory` | 90 days | Security | necessary |
 | `doc.*`, `editor.*`, `layout.*`, `pdf.*` | local storage | Preferences (remember editor settings) | necessary |
 | `oa` | 1 year | Preferences (remember cookie banner choice) | do not close cookie banner |
+| `doc.offline-backup.*` | session | Operations (recover lost edits) | necessary |
 
 We use various third party services in connection with Overleaf that also involve the use of cookies. You can opt-out of these cookies as described below, although this may affect your user experience.
 
 | Name | Category (if persistent cookie, retention period) | Purpose of cookie, relevant third-party and additional information | Opt-out |
 | --- | --- | --- | --- |
 | `_grecaptcha` | local storage | Security (Google reCAPTCHA) | necessary |
-| `GCLB` | session | Performance (Google Cloud Load Balancer for websocket fallback) | necessary |
+| `GCLB` | session | Operations (Google Cloud Load Balancer for websocket fallback) | necessary |
 | `__recurly__.deviceId` | local storage | Security (Recurly payment processing) | necessary |
-| `algoliasearch-client-js` | local storage | Preferences (Algolia documentation search) | do not use documentation search |
-| `_ga*` | 13 months | Analytics used to distinguish users (Google Analytics) | choose 'essential cookies only' in our cookie banner |
-| `_gid` | 24 hours | Analytics used to distinguish users (Google Analytics) | choose 'essential cookies only' in our cookie banner |
-| `_gat` | 1 minute | Analytics used to throttle request rate (Google Analytics) | choose 'essential cookies only' in our cookie banner |
-| `_gcl*` | 90 days | Analytics used to distinguish users - May include other cookies for Google Ads functioning as per [Google documentation](https://business.safety.google/adscookies/) | choose 'essential cookies only' in our cookie banner |
-| `hj*` | 365 days | Analytics used to distinguish users - May include other cookies for Hotjar functioning as per [Hotjar documentation](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | choose 'essential cookies only' in our cookie banner |
-| `*.propensity.com` | 13 months | Marketing, advertising, sales, and analytics | choose 'essential cookies only' in our cookie banner |
-| `*.linkedin.com` | 12 months | Analytics used to distinguish users - May include other cookies for LinkedIn functioning as per [LinkedIn documentation](https://www.linkedin.com/legal/l/cookie-table#thirdparty) | choose 'essential cookies only' in our cookie banner |
-| `_rdt_*` | 3 months | Used by the Reddit Pixel to store event match information. It helps Reddit attribute website actions to advertising campaigns and optimize ad delivery. | choose 'essential cookies only' in our cookie banner |
-| `*.reddit.com` | 7 months | Used by the Reddit Pixel to store event match information. It helps Reddit attribute website actions to advertising campaigns and optimize ad delivery. | choose 'essential cookies only' in our cookie banner |
+| `algoliasearch-client-js` | local storage | Operations (Algolia documentation search) | do not use documentation search |
+| `_ga*` | 13 months | Analytics used to distinguish users (Google Analytics) | choose 'essential cookies only' in cookie banner |
+| `_gid` | 24 hours | Analytics used to distinguish users (Google Analytics) | choose 'essential cookies only' in cookie banner |
+| `_gat` | 1 minute | Analytics used to throttle request rate (Google Analytics) | choose 'essential cookies only' in cookie banner |
+| `_gcl*` | 90 days | Advertising (Google Ads) - May include other cookies for Google Ads functioning as per Google documentation. See Google's [Privacy Policy](https://policies.google.com/privacy). | choose 'essential cookies only' in cookie banner |
+| `hj*` | 365 days | Analytics used to distinguish users - May include other cookies for Hotjar functioning as per [Hotjar documentation](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | choose 'essential cookies only' in cookie banner |
+| `*.propensity.com` | 13 months | Advertising (Propensity). [See Propensity's Privacy Policy](https://www.propensity.com/propensity-privacy-policy). | choose 'essential cookies only' in cookie banner |
+| `*.linkedin.com` | 12 months | Advertising (LinkedIn Insight Tag) - May include other cookies for LinkedIn functioning as per [LinkedIn documentation](https://www.linkedin.com/legal/l/cookie-table#thirdparty). [See LinkedIn's Privacy Policy](https://www.linkedin.com/legal/privacy-policy). | choose 'essential cookies only' in cookie banner |
+| `_rdt_*` | 3 months | Advertising (Reddit Pixel). [See Reddit's Privacy Policy](https://www.reddit.com/policies/privacy-policy). | choose 'essential cookies only' in cookie banner |
+| `*.reddit.com` | 7 months | Advertising (Reddit Pixel). [See Reddit's Privacy Policy](https://www.reddit.com/policies/privacy-policy). | choose 'essential cookies only' in cookie banner |
+| `_fbp`, `_fbc` | 90 days | Advertising (Meta/Facebook Pixel). [See Meta's Privacy Policy](https://www.facebook.com/privacy/policy/). | choose 'essential cookies only' in cookie banner |
 
 ### Update on sharelatex
 
