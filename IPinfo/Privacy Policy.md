@@ -82,11 +82,11 @@ We use Information that we collect about you or that you provide to us for the f
 *   For any other purpose with your consent.
 *   To improve our Services and develop new Services.
 
-Here are additional details on how we use certain specific Information about you.
-
 ### Precise Geolocation and SDK Data
 
 We use the precise geolocation coordinates and network quality metrics collected via our SDK to analyze network performance, map IP connectivity parameters, and improve our regional data licensing services. This data is processed to deliver accurate routing, connectivity, and geolocation intelligence to our business enterprise clients.
+
+Here are additional details on how we use certain specific Information about you.
 
 ### Personal Contact Information
 
@@ -206,4 +206,4 @@ How You Can Contact Us
 
 You can help by keeping us informed of any changes in your Information, such as a change of email address or telephone number. If you have any questions, comments or suggestions, please contact us at [support@ipinfo.io](mailto:support@ipinfo.io) or by mail at:
 
-IPinfo Inc. 300 Lenora Street #516, Seattle, WA 98136, USA
+IPinfo Inc. 300 Lenora Street #516, Seattle, WA 98121, USA
