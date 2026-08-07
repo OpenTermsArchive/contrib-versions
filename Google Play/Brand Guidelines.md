@@ -30,7 +30,7 @@ Google play badges
 
 Badges can be used in marketing campaigns to promote content on Google Play.
 
-arrow\_forward](https://play.google.com/intl/en_us/badges/)
+arrow\_forward](https://partnermarketinghub.withgoogle.com/brands/google-play/downloads/)
 
 ### Other
 
