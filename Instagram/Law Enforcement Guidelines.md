@@ -7,9 +7,9 @@ Copy link
 
 Request user information
 
-Emergency data request
+Submit an emergency request
 
-Child safety request
+Preserve account records
 
 I have a different question
 
