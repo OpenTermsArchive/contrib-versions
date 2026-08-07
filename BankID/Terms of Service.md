@@ -118,7 +118,7 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/val._2026.jpg)
+[![](/assets/stock/1400x930/Elections_2026.jpg)
 
 #### Digital ID card at the voting location
 
