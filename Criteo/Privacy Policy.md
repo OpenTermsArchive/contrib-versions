@@ -172,7 +172,7 @@ These rights can be summarized as follows:
 | Right to give directives for the storage and communication of your personal data after your death | You have a right to give directives for the storage and communication of your personal data after your death, and we will act accordingly. |
 | Right to lodge a complaint | You also have the right to lodge a complaint with the competent data protection supervisory authority. |
 
-Click [here](#) to exercise your rights
+Click [here](https://www.criteo.com/privacy/your-rights/) to exercise your rights
 
 Information for U.S. residents
 ------------------------------
@@ -214,7 +214,7 @@ Under U.S. state privacy laws, you may have the following rights regarding your 
 
 You may exercise your rights directly or through an authorized agent. We may need to verify your identity before processing your request. We respond to all valid requests within the time limits set by law.
 
-Click [here](#) to exercise your rights
+Click [here](https://www.criteo.com/privacy/your-rights/) to exercise your rights
 
 ### Data broker information
 
