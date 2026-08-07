@@ -172,7 +172,7 @@ We will give you notice of any suspension or restriction and the reasons for suc
     *   iii. fees, fines, penalties or other liability or losses to Wise, other Wise customers, third parties or you;
 *   k) Using our Services in a manner that Wise, a card network or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules;
 *   l) Allowing your Wise Account to have a negative balance;
-*   m) Accessing the Wise Services from a country that where Wise is not permitted to operate;
+*   m) Accessing the Wise Services from a country where Wise is not permitted to operate;
 *   n) Taking any action that may cause us to lose any of the services from our internet service providers, payment processors, or other suppliers or service providers;
 *   o) Circumventing this Agreement or any Additional Document or Wise policy or determinations about your Wise Account such as temporary or indefinite suspensions or other account holds, limitations or restrictions, including, but not limited to, engaging in the following actions: attempting to open new or additional Wise account(s) or profile(s) when an account has a negative balance or has been restricted, suspended or otherwise limited;
 *   p) Opening new or additional Wise Accounts or profiles using information that is not your own (e.g., name, address, email address, etc.), or using someone else’s Wise Account;
