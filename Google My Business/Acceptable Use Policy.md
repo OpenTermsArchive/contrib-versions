@@ -61,7 +61,7 @@ Including unnecessary information in your business name isn't permitted, and cou
 
 Throughout the examples below, names or parts of names in italics wouldn't be permitted.
 
-| Your name must not include: | Not acceptable: | Acceptable |
+| Your name must not include: | Not acceptable: | Acceptable: |
 | --- | --- | --- |
 | Marketing taglines | *   TD Bank, _America’s Most Convenient Bank_<br>*   GNC _Live Well_ | *   TD Bank<br>*   GNC |
 | Shop codes | *   The UPS Store _\- 2872_ | *   The UPS Store |
@@ -71,8 +71,9 @@ Throughout the examples below, names or parts of names in italics wouldn't be pe
 | Phone numbers or website URLs | *   Airport Direct _1-888-557-8953_<br>*   Google.com | *   Airport Direct<br>*   1-800-Got-Junk<br>*   Google |
 | Special characters (e.g. %$@/") or irrelevant legal terms (e.g. LLC, LTD, INC)<br><br>**Important:** To include special characters or legal terms in your Business Profile name, you must provide real-world proof (e.g. signage, business cards, invoices) that consistently displays those elements as part of your business name. | *   Shell Pay_@Pump_<br>*   Re/Max_, LLC_<br>*   LAZ Parking _Ltd_ | *   Shell<br>*   Re/Max<br>*   LAZ Parking<br>*   Toys R Us<br>*   H&M<br>*   T.J.Maxx |
 | Service or product information | *   Verizon Wireless _4G LTE_<br>*   Midas _Auto Service Experts_ | *   Verizon Wireless<br>*   Midas<br>*   Best Buy Mobile<br>*   Advance Auto Parts<br>*   JCPenney Portrait Studios |
-| Location information | *   Holiday Inn _(I-93 at Exit 2)_<br>*   U.S. Bank ATM _– 7th & Pike – Car Park Lobby near Life_<br>*   Equinox _near SOHO_ | *   Holiday Inn Salem<br>*   U.S. Bank ATM<br>*   Equinox SOHO<br>*   University of California, Berkeley |
+| Location information | *   Holiday Inn _(I-93 at Exit 2)_<br>*   U.S. Bank ATM _– 7th & Pike – Car park lobby near lift_<br>*   Equinox _near SOHO_ | *   Holiday Inn Salem<br>*   U.S. Bank ATM<br>*   Equinox SOHO<br>*   University of California, Berkeley |
 | Containment information | *   Chase ATM _(in Duane Reade)_<br>*   Apple Store _at Stanford Shopping Center_<br>*   Benefit Brow Bar _– Bloomingdales_<br>*   Sam’s Club Tire & Battery _(part of Sam’s Club)_<br>*   Geek Squad _(inside Best Buy)_ | *   Chase ATM<br>*   Apple Store<br>*   Benefit Brow Bar<br>*   Sam’s Club Tire & Battery<br>*   Geek Squad |
+| Repeated bilingual names/script transliterations (repeating the same business name in multiple scripts or languages, even if it appears this way on physical shop front signage) | *   Kafiex/カフィエクス<br>*   Burger King バーガーキング | *   Kafiex<br>*   Burger King |
 
 There are additional guidelines for multi-location shops ([chains and brands](https://support.google.com/business/answer/3038177#chains)), [departments](https://support.google.com/business/answer/3038177#departments) and [individual practitioners](https://support.google.com/business/answer/3038177#pract) (such as doctors, lawyers and property agents) below.
 
@@ -233,7 +234,7 @@ To add your in-store products:
 
 Both methods must adhere to the following guidelines:
 
-*   Products submitted via Product Editor added automatically must adhere to the Shopping ads policy. [Learn more about the Shopping ads policy](https://support.google.com/business/answer/10786874).
+*   Products submitted via Product Editor or added automatically must adhere to the Shopping ads policy. [Learn more about the Shopping ads policy](https://support.google.com/business/answer/10786874).
 *   We do not allow content related to regulated products and services, including alcohol, tobacco products, gambling, financial services, pharmaceuticals and unapproved supplements, or health or medical devices.
 *   Submitting products that violate Google's policy may result in removal of the entire product catalogue, including products that aren't in violation.
 
