@@ -156,10 +156,9 @@ Bellevue, WA 98009
   
 EU representative for data protection questions:  
   
-Valve GmbH i.L.  
-Att. Legal  
-Alstertwiete 3  
-D-20099 Hamburg  
+RIVACY GmbH  
+Mexikoring 33  
+22297 Hamburg  
 Germany  
   
 UK representative for data protection questions:  
