@@ -164,6 +164,21 @@ We process this information because it is necessary to provide the BeePitched fe
 
 BeePitched is designed as a downloadable content creation tool. Completed Pitches are generally deleted within 24 hours after download, and incomplete or undownloaded Pitches are generally deleted within 7 days, unless we need to retain information for safety, legal or compliance purposes.
 
+If you choose to participate in Bumble's Connection Quizzes, we collect the information you provide as part of the quiz, including your quiz responses and, if you choose to provide it, your email address.
+
+We use this information to:
+
+*   generate and display your quiz results;
+*   operate and maintain the Connection Quizzes experience;
+*   enable you to share your quiz results if you choose to do so;
+*   communicate with you about your quiz experience;
+*   where permitted by applicable law, send you information about Connection Quizzes and other promotional communications; and
+*   protect the security and integrity of our services.
+
+We retain your quiz responses, quiz results and associated information for up to 90 days, after which they are deleted unless a longer retention period is required for safety, legal or compliance purposes.
+
+We also collect technical and usage information about how you interact with Connection Quizzes, including through cookies and similar technologies. For more information please see the Cookies and Similar Technology Information section.
+
 Here at Bumble, we take all appropriate and reasonable security measures to:
 
 *   help protect your information against loss, misuse, and unauthorised access or sharing
