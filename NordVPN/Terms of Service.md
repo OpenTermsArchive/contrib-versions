@@ -1,7 +1,7 @@
 GENERAL TERMS OF SERVICE
 ========================
 
-Last Updated: February 16, 2026
+Last Updated: August 10, 2026
 
 1.  Introduction
     
@@ -25,7 +25,7 @@ Last Updated: February 16, 2026
         
         By using the Services, you also agree to the Service-Specific Terms applicable to their respective Service(s). If there is any conflict or inconsistency between clauses in the Terms and Service-Specific Terms, the Service-Specific Terms prevail in relation to that specific Service(s).
     3.  **Services.** Our Services are usually provided for payment. We may also offer versions of certain Services free of charge. The Terms apply to both types of Services.
-    4.  **Eligibility.** By accessing or using the Services/Websites (including by registering an Account), you represent and warrant that (i) you are eighteen (18) or more years of age; (ii) you will use the Services/Websites in accordance with the Terms and all applicable local, state, national, and internal laws, rules, and regulations; and (iii) you are fully able (with all the required rights and powers) to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with them.
+    4.  **Eligibility.** The Services are intended for personal, non-commercial use by individual consumers. By accessing or using the Services/Websites (including by registering an Account), you represent and warrant that (i) you are eighteen (18) or more years of age; (ii) you are acting as a consumer and not on behalf of, or for the purposes of, any business, trade, profession, or other commercial activity; (iii) you will use the Services/Websites in accordance with the Terms and all applicable local, state, national, and internal laws, rules, and regulations; and (iv) you are fully able (with all the required rights and powers) to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with them.
     5.  **Updates to the Terms.** We continue to develop our Services and Websites, introducing new features or modifying current ones. As a result, we may need to update the Terms by amending them from time to time (i) to comply with the law; (ii) to comply with orders/recommendations of competent authorities; (iii) to add additional functionality, services, features, technologies, and/or benefits, or to remove old ones; (iv) to correct errors and bugs; (v) to clarify the Terms; (vi) to prevent abuse or harm; (vii) for any other valid reason (e.g., for security reasons). You acknowledge and agree that it is your obligation to review the Terms from time to time in order to stay informed of the current rules and obligations. We will notify you of any material changes to the Terms that affect your rights or obligations in advance by reasonable means (such as in-app notifications, messages on our Websites, or by email). Unless stated otherwise, each update to the Terms comes into force on the date listed above, when the amended Terms are published. Your continued use of the Services/Websites will be treated as acceptance of the amended Terms. You can end your relationship with us at any time after the effective date of the updated Terms by deleting your Account and/or not accessing our Websites.THE TERMS MAY CHANGE, SO IT IS IMPORTANT TO REVIEW THE TERMS PERIODICALLY.
 3.  Subscription and auto-renewals
     
