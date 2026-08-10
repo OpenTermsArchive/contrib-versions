@@ -1,7 +1,7 @@
 General Privacy Policy
 ======================
 
-Last Updated: February 16, 2026
+Last Updated: August 10, 2026
 
 This document (“**Privacy Policy**”) explains how nordvpn S.A. (“**Nord**”, “**we**”, “**us**”, or “**our**”) collects, uses, protects, discloses, and deletes your personal data when you access or use our Services and Websites where this Privacy Policy is posted, regardless of the device you're using (such as a computer, mobile phone, tablet, or TV).
 
@@ -194,7 +194,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     We may need to retain certain information for a set amount of time (which may extend beyond the deletion of your Account) to meet business or legal requirements:
     
     *   **Legal compliance.** We retain billing and payment information for ten (10) years after your last transaction to comply with accounting, tax, and financial regulations.
-    *   **Marketing communications.** We may continue sending you marketing emails, push notifications, and/or in-app messages for up to one (1) year after your Subscription ends, unless you opt out earlier.
+    *   **Marketing communications.** We may continue sending you marketing emails, push notifications, and/or in-app messages for up to two (2) years after your Subscription ends, unless you opt out earlier.
     *   **Legal requests, claims, and disputes.** If you contact us (e.g., for support or data access requests), we may retain related communications for as long as necessary to resolve the matter and/or protect our legal rights.
     
     Please note that some of our Services may be subject to their own privacy notices or policies (as listed in the "Service-specific privacy notices" section), which may specify different lengths of time for data retention depending on the nature of the Service or applicable legal requirements.
