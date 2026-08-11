@@ -1,6 +1,9 @@
 Terms of Use for the BBC's digital services
 ===========================================
 
+Terms of Use for the BBC's digital services
+===========================================
+
 _Page updated: 19 September 2022_
 
 _Version 1.8_
