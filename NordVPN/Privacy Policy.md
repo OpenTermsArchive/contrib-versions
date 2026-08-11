@@ -50,21 +50,39 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     *   Automatically while you use our Services and/or Websites (e.g., through cookies).
     *   From third-party sources (e.g., when you subscribe to our Services through external platforms), as detailed below.
     
+    ### 
+    
     3.1. When you create your Account
+    
+    ### 
     
     3.2. When we provide our Services and communicate with you
     
+    ### 
+    
     3.3. When we handle your payments
+    
+    ### 
     
     3.4. When you interact with our Services
     
+    ### 
+    
     3.5. When we provide you customer support
+    
+    ### 
     
     3.6. When we improve our Services
     
+    ### 
+    
     3.7. When we carry out our marketing and advertising activities
     
+    ### 
+    
     3.8. When we administer our social media accounts
+    
+    ### 
     
     3.9. When we maintain security of your Account and our Services
     
