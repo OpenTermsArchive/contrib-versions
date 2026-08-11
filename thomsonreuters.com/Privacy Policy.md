@@ -338,9 +338,9 @@ Manage export compliance, screening, clearance, and documents in one workflow.
 
 [Learn more](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
 
-*   [Westlaw Edge](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge/plans-pricing?segment=government)
+*   [Westlaw Advantage](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-advantage/plans-pricing?segment=government)
 *   [CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-essentials/plans-pricing?segment=government)
-*   [Practical Law](https://sales.legalsolutions.thomsonreuters.com/en-us/products/practical-law/plans-pricing?segment=government)
+*   [Westlaw Advantage with CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/300/plans-pricing?segment=government)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_1.svg)
 
