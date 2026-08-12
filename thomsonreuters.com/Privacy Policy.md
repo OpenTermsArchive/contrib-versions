@@ -53,9 +53,9 @@ Learn how Justly Prudent used CoCounsel and Westlaw AI to achieve exceptional re
 
 [Read case study](https://legal.thomsonreuters.com/en/insights/case-studies/transforming-a-civil-rights-litigation-law-firm-with-cocounsel)
 
-*   Corporate legal professionals
-*   Corporate tax & trade professionals
-*   Corporate risk & fraud professionals
+*   Legal professionals
+*   Tax & trade professionals
+*   Risk & fraud professionals
 *   C-suite
 
 *   [Draft, review & legal analysis](https://legal.thomsonreuters.com/en/legal/draft-review-analysis-corp)
@@ -385,7 +385,7 @@ Access your entire professional library anywhere, anytime with the only e-reader
 *   [Thomson Reuters Institute Access expert research and trends that empower professionals to navigate industry transformation with confidence.](https://www.thomsonreuters.com/en/institute)
 *   [Customer stories Legal, tax, and risk professionals are transforming their work and getting real results with Thomson Reuters.](https://www.thomsonreuters.com/en/customer-stories)
 *   Thought leadership Dive into white papers, case studies, and analysis focused on the critical issues facing professionals.
-*   Blog Explore expert perspectives, practical guidance, and timely updates across Thomson Reuters blogs.
+*   Blogs Explore expert perspectives, practical guidance, and timely updates across Thomson Reuters blogs.
 
 *   [Thomson Reuters insights hub Explore thought leadership, how-to guidance, and bold ideas that help professionals navigate change and lead with confidence.](https://www.thomsonreuters.com/en/insights)
 *   [Legal insights hub Explore thought leadership and practical insights that help legal professionals navigate industry changes.](https://legal.thomsonreuters.com/en/insights)
