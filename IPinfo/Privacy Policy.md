@@ -53,13 +53,21 @@ The following is a list of our Data Processors who collect the Information descr
 
 | Data Processor | Information Type Collected |
 | --- | --- |
-| [Dreamdata](https://dreamdata.io/privacy-policy) | Account Information, Purchase Information |
+| [Amplitude](https://amplitude.com/privacy) | Analytical Information |
 | [Facebook](https://www.facebook.com/policy.php) | Advertising Information |
+| [G2](https://legal.g2.com/privacy-policy) | Advertising Information |
+| [Google Ads](https://policies.google.com/technologies/ads) | Advertising Information |
 | [Google Analytics](https://policies.google.com/technologies/partner-sites?hl=en-US) | Device information, Analytical Information |
+| [Google reCAPTCHA](https://policies.google.com/privacy) | Device information |
+| [Google Tag Manager](https://policies.google.com/privacy) | Device information, Analytical Information |
 | [Hubspot](https://legal.hubspot.com/privacy-policy) | Analytical Information, Form Submissions |
 | [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | Advertising Information |
+| [Microsoft Advertising](https://privacy.microsoft.com/en-us/privacystatement) | Advertising Information |
+| [Microsoft Clarity](https://privacy.microsoft.com/en-us/privacystatement) | Device information, Analytical Information (session replays) |
 | [Posthog](https://posthog.com/privacy) | Analytical Information |
 | [Quora](https://www.quora.com/about/privacy) | Advertising Information |
+| [Reddit](https://www.reddit.com/policies/privacy-policy) | Advertising Information |
+| [Stripe](https://stripe.com/privacy) | Billing Information |
 | [Twitter](https://twitter.com/en/privacy) | Advertising Information |
 
 _Location Information_ - We collect both Generalized Location Information and Precise Geolocation Information. We use elements of your regular usage data, such as your IP address, to determine a generalized location. Additionally, through the deployment of our IPinfo SDK in partner mobile applications, we collect precise, real-time GPS-derived geolocation data from your device. We only collect this precise tracking data if you have explicitly granted location permissions to the third-party application hosting our SDK.
