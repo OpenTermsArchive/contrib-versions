@@ -270,7 +270,7 @@ _Woo services includes WooCommerce, WooPayments, WooCommerce Shipping, WooCommer
 |     |     |
 | --- | --- |
 | If you reside outside of the Designated Countries: | **WooCommerce, Inc.**  <br>60 29th Street #343  <br>San Francisco, CA 94110  <br>Automattic Inc. is also the controller for some of the processing activities related to Services provided by WooCommerce, Inc. |
-| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland  <br>Automattic Inc and WooCommerce, Inc are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
+| If you reside in the Designated Countries: | **WooCommerce Ireland Ltd.**  <br>Grand Canal Dock, 25 Herbert Pl  <br>Dublin, D02 AY86  <br>Ireland  <br>Automattic Inc. and WooCommerce, Inc. are also the joint controllers for some of the processing activities related to Services provided by WooCommerce Ireland Ltd. |
 
 ### How to Reach Us
 
@@ -349,7 +349,7 @@ That’s it! Thanks for reading.
 *   _February 1, 2019:_ Included information for Longreads and additional information regarding Longreads accounts.
 *   _November 6, 2018:_ Removed references to Polldaddy, which has been rebranded as Crowdsignal.
 *   _September 24, 2018:_ Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.
-*   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Crowdsignal and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation.
+*   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Crowdsignal and WooCommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation.
 *   _January 3, 2018:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
 *   _August 22, 2017:_ Added “Information We Collect from Other Sources” section.
 *   _November 2, 2016_: Added that comments submitted as missed spam are retained by Akismet to improve future performance.
