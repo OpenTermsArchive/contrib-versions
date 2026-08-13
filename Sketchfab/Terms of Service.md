@@ -1,4 +1,4 @@
-**Effective December 11, 2025**
+**Effective August 12, 2026**
 
 Sketchfab, Inc. (“Sketchfab,” “we” or “us”) is pleased to provide you with access to the Sketchfab platform, which allows a user (“User” or “you”) to upload, download, and/or publish 3D files on the Sketchfab website, or embed on third-party websites by means of our proprietary viewer. All elements of the Sketchfab platform, along with our proprietary 3D viewing technology and software, are referred to herein as the “Services,” and may be modified from time to time at our sole discretion.
 
@@ -12,7 +12,7 @@ For information regarding how we use and protect your personal information, plea
 
 **1.1 Description of Services.** Sketchfab is pleased to offer free services (“Free Services”) with limited functionality, as well as various tiers of paid services (“Paid Services”) plans with enhanced functionality. Detailed descriptions of the Free Services and Paid Services plans, including pricing, duration, and features, are available at [https://sketchfab.com/plans](https://sketchfab.com/plans).
 
-**1.2 Account.** A Sketchfab account is required in order to take full advantage of the Services. New users who sign up to Sketchfab will use Epic Games accounts effective December 11, 2025. You agree to provide only accurate and true information in connection with the creation of your account, and to update your information as necessary so it remains accurate and current. You may not transfer your account to any third party. You are responsible for keeping your account login information confidential and for any and all activities that occur under your account. You agree to notify us immediately if you suspect or become aware of any unauthorized use of your account or other breach of security on the Services. You will have the ability to pick any available usernames to link to your account. Please note that Sketchfab retains the right at any time to deactivate, reallocate or rename your username at its sole discretion. In the event of the deactivation, reallocation or renaming of your username all your User Content and Services shall continue to remain associated with your account, subject to the terms of this Agreement.
+**1.2 Account.** A Sketchfab account is required in order to take full advantage of the Services. You agree to provide only accurate and true information in connection with the creation of your account, and to update your information as necessary so it remains accurate and current. You may not transfer your account to any third party. You are responsible for keeping your account login information confidential and for any and all activities that occur under your account. You agree to notify us immediately if you suspect or become aware of any unauthorized use of your account or other breach of security on the Services. You will have the ability to pick any available usernames to link to your account. Please note that Sketchfab retains the right at any time to deactivate, reallocate or rename your username at its sole discretion. In the event of the deactivation, reallocation or renaming of your username all your User Content and Services shall continue to remain associated with your account, subject to the terms of this Agreement.
 
 **1.3 Access.** We may, in our sole discretion, refuse to offer the Services to any person or entity. We may, in accordance with this Agreement and Section 9 hereof, terminate your right to use the Services, or any portion of thereof, and block or prevent your future access to and use of the Services or any portion thereof.
 
@@ -46,11 +46,11 @@ During the operation of the Services, Users may upload certain User Content incl
 
 **(a) License to Provide and Improve the Services.** By using the Services, you grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Sketchfab to use, reproduce, publicly display, adapt, modify, reformat, and distribute User Content as necessary to provide, improve and promote the Services; provided that to the extent User Content includes personal data, we shall not use such personal data for any purpose other than providing the Services and as further set forth in our Privacy Policy at [https://sketchfab.com/privacy](https://sketchfab.com/privacy). You further grant Sketchfab the right to use your name and trademarks, if any, in connection with our use of your publicly shared User Content for the purposes set forth in this Section 4.2.1.
 
-**(b) License for Safety and Discovery Tools.** We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Sketchfab and our affiliate, Epic Games, Inc. (“Epic”), use User Content to improve (1) our internal safety tools (“Safety Tools”) to ensure all of our products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
+**(b) License for Safety and Discovery Tools.** We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Sketchfab and our affiliate, KitBash SF Operations LLC (“KitBash”), use User Content to improve (1) our internal safety tools (“Safety Tools”) to ensure all of our products and services comply with the [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
 
-You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to Epic limited to using, copying, editing, modifying, inputting, and integrating User Content into and in connection with the development and testing of Epic’s Safety and Discovery Tools.
+You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to KitBash limited to using, copying, editing, modifying, inputting, and integrating User Content into and in connection with the development and testing of KitBash’s Safety and Discovery Tools.
 
-For more information about the technologies used in Epic’s Safety and Discovery Tools, please see Section 15(c) below.
+For more information about the technologies used in KitBash’s Safety and Discovery Tools, please see Section 15(c) below.
 
 **4.2.2 Use by others for free.** Users may make User Content available to other users for download for free via either the [License Agreement](https://sketchfab.com/licenses) or one of several Creative Commons licenses. For more information on Creative Commons, see [https://creativecommons.org/licenses](https://creativecommons.org/licenses). The User is solely responsible for choosing the appropriate license, if any, under which the Content is available for download. By downloading User Content made available by other Users, you agree to adhere to the terms of the license that applies at the time of download.
 
@@ -123,11 +123,12 @@ In the event you believe that any User Content on the Services infringes your co
 
 Electronic notification is preferred. You can also file a notice with our designated agent, but processing may be slower than using the email above.
 
-Sketchfab, Inc.  
+KitBash SF Operations LLC  
 ATTN: DMCA AGENT  
-440 9th Ave, Suite 1700  
-New York, NY 10001  
-DMCA@sketchfab.com
+8605 Santa Monica Blvd PMB 90726  
+West Hollywood, California 90069-4109  
+United States  
+dmca@sketchfab.com
 
 To be effective, any notice submitted to our Copyright Agent must comply with the requirements set forth at 17 U.S.C. § 512(c)(3), and must include substantially the following:
 
@@ -217,6 +218,6 @@ Under this Agreement, User Content is considered to be created using Generative 
 
 **(c) How We use AI in our Safety and Discovery Tools**
 
-Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic’s other products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations. We use User Content to improve how the Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
+KitBash uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and KitBash’s other products and services comply with the [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations. We use User Content to improve how the Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
 
-As noted above in Section 15(a), Epic does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
+As noted above in Section 15(a), KitBash does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
