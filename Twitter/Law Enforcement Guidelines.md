@@ -215,4 +215,9 @@ Dublin 2,
 D02 AX07,  
 Ireland
 
+**Colorado SB 26-011 Law Enforcement Hotline:**  
+938-300-4347
+
+This hotline is exclusively for Colorado law enforcement personnel. Call the number to submit an inquiry. For security reasons, X will respond only by email to an authenticated law enforcement email address.
+
 Receipt of correspondence by any of these means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service. Governmental entities who do not submit legal requests through the Legal Request Submissions site should expect longer response times.
