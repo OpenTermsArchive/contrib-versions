@@ -24,7 +24,7 @@ In the data protection notice, we explain how we process our customers’ person
 Travel terms and conditions
 ---------------------------
 
-25 July 2024
+10 August 2026
 
 These Travel Terms and Conditions of VR-Group Plc’s (hereinafter “VR”) Passenger Services apply to all train journeys and services organised by the Passenger Services in Finland.
 
