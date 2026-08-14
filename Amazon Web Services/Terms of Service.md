@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: July 29, 2026
+Last Updated: August 13, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -794,7 +794,7 @@ If AWS makes available to you any contact information of any provider of a C2C C
 
 **40.3.** You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon Connect Talent and obtaining any necessary consent from such End Users for the processing of Amazon Connect Talent Content and the storage, use, and transfer of Amazon Connect Talent Content as described under this Section. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for notifying us in the event that any Amazon Connect Talent Content stored by Amazon Connect Talent must be deleted under applicable law.
 
-**40.4.** Your use of Amazon Connect Talent is subject to additional [Electronic Communication Notice and Consent Service Terms](http://aws.amazon.com/legal/electronic-communication-notice-and-consent-terms/).
+**40.4.** Your use of Amazon Connect Talent is subject to additional [Electronic Communication Notice and Consent Service Terms](https://aws.amazon.com/legal/electronic-communication-notice-and-consent-terms/).
 
 **40.5.** Except where permitted by Amazon Connect Talent, you may not use Amazon Connect Talent to generate Content for the express purpose of training an AI model or service or developing a substantially similar AI model or service. 
 
@@ -924,7 +924,7 @@ AWS Professional Services may be provided remotely, on-site at the “Project Lo
 
 **Customer Regulated Data**
 
-**45.16.** Except as directed by you and expressly stated in a Professional Services Order, you will not disclose to AWS personnel any Content that includes or is defined under applicable law as “personal data,” “personal information,” “protected health information,” “controlled unclassified information,” or other sensitive or restricted data types which are defined or governed by applicable law (including data privacy law), regulation, regulatory framework, or industry standard (collectively, “Customer Regulated Data”)
+**45.16.** Except as directed by you and expressly stated in a Professional Services Order, you will not disclose to AWS personnel any Content that includes or is defined under applicable law as “personal data,” “personal information,” “protected health information,” “controlled unclassified information,” or other sensitive or restricted data types which are defined or governed by applicable law (including data privacy law), regulation, regulatory framework, or industry standard (collectively, “Customer Regulated Data”). These Service Terms incorporate the [AWS Professional Services Supplementary Data Processing Addendum](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/legal/approved/aws-professional-services-supplementary-dpa.pdf) (“AWS Professional Services DPA”) if: (a) you expressly direct AWS to access Customer Regulated Data in a Professional Services Order; and (b) Applicable Data Protection Laws (as defined in the AWS Professional Services DPA) apply to AWS’s processing of such Customer Regulated Data.
 
 **45.17.** Incidental personal data related to your personnel that AWS obtains as part of AWS Professional Services is not Customer Regulated Data. This type of data is treated as “Account Information,” and AWS and its affiliates will handle it in accordance with the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), which you will make available to your personnel.
 
@@ -1017,7 +1017,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.12. Amazon Bedrock.** The following terms apply to Amazon Bedrock:
 
-**50.12.1.** Third-party models are available to you on Amazon Bedrock as “Third-Party Content”. By using a third-party model, you agree to the applicable terms [here](http://aws.amazon.com/legal/bedrock/third-party-models). Notwithstanding anything to the contrary in the Agreement or Service Terms, Section 20 (AWS Marketplace) above applies to your use of models sold by third parties, and Amazon Web Services, Inc. is the invoicing party with respect to these models.  
+**50.12.1.** Third-party models are available to you on Amazon Bedrock as “Third-Party Content”. By using a third-party model, you agree to the applicable terms [here](https://aws.amazon.com/legal/bedrock/third-party-models). Notwithstanding anything to the contrary in the Agreement or Service Terms, Section 20 (AWS Marketplace) above applies to your use of models sold by third parties, and Amazon Web Services, Inc. is the invoicing party with respect to these models.  
 
 **50.12.2.** **Abuse Detection.** For certain models identified on the [Bedrock abuse detection page](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html), as part of providing the Service, Amazon Bedrock stores Service inputs and outputs for up to 30 days (unless otherwise required by law) solely to detect activity that violates our, or third-party model providers’, terms of service or use policies. If we detect a potential violation, you agree and instruct that we may review the Service inputs and outputs to determine if a violation has occurred. 
 
@@ -1821,7 +1821,7 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 
 **106.4.** By using Amazon Connect Health, you represent to us that you or any applicable third party has provided all necessary notices to and obtained all necessary consents from your End Users whose information will be processed. You are responsible for notifying us in the event that any Amazon Connect Health Content stored by Amazon Connect Health must be deleted under applicable law.
 
-**106.5**. Your use of Amazon Connect Health is subject to additional [Electronic Communication Notice and Consent Service Terms](http://aws.amazon.com/legal/electronic-communication-notice-and-consent-terms/).
+**106.5**. Your use of Amazon Connect Health is subject to additional [Electronic Communication Notice and Consent Service Terms](https://aws.amazon.com/legal/electronic-communication-notice-and-consent-terms/).
 
 **106.6.** The output that you generate using Amazon Connect Health is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -1857,7 +1857,7 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 
 **108.3.** You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon Connect Decisions and obtaining any necessary consent from such End Users for the processing of Amazon Connect Decisions Content and the storage, use, and transfer of Amazon Connect Decisions Content as described under this Section. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for notifying us in the event that any Amazon Connect Decisions Content stored by Amazon Connect Decisions must be deleted under applicable law.
 
-**108.4.** Neither you nor your End Users will, or will attempt to, extract or derive underlying components, including any model, model parameters, or model weights or reproduce the training data of Amazon Connect Decisions.  Except where permitted by Amazon Connect Decisions, you may not use the service to generate Content for the express purpose of training an AI model or service or developing a substantially similar AI model or service.
+**108.4.** Neither you nor your End Users will, or will attempt to, extract or derive underlying components, including any model, model parameters, or model weights or reproduce the training data of Amazon Connect Decisions. Except where permitted by Amazon Connect Decisions, you may not use the service to generate Content for the express purpose of training an AI model or service or developing a substantially similar AI model or service.
 
 **108.5.** Amazon Connect Decisions is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage.  
 
