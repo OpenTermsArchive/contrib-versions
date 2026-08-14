@@ -1,7 +1,5 @@
 Virtual Items Policy
 
-Our new policy will take effect on February 16, 2026. \[[View current policy](https://www.tiktok.com/legal/virtual-items-eea-archive)\]
-
 **_Last updated: 16 February, 2026_**
 
 (This Virtual Items Policy applies to users living in the European Economic Area (EEA), Switzerland and the UK)
