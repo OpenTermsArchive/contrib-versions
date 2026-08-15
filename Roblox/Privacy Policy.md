@@ -55,7 +55,7 @@ Here’s a high-level summary of the changes we are making:
 *   We added language clarifying who can see personalized ads and non-personalized ads on Roblox.
 *   We added language describing our practices for sharing information with authorities.
 
-You can also find the full Privacy Policy [here](https://roblox.zendesk.com/hc/article_attachments/38873040764180).
+You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
 1.  Welcome to the Roblox Privacy Policy
     
@@ -66,7 +66,7 @@ You can also find the full Privacy Policy [here](https://roblox.zendesk.com/hc/
     What is in this Privacy Policy?
     
     This policy describes the rights you have regarding your Personal Information. It explains that you can control what happens to the information that can identify you - like your name, where you live and your email address. In this Privacy Policy, we’ll also tell you when and how we use your information about you – including how we collect, record, organize, store and share it.  
-    Depending on where you live, you may have different rights or choices for managing your Personal Information, which this Policy will describe later on. In the event of a conflict between the information in Sections 1-5 of this Policy and the location-specific information in Section 8, the information in Section 8 shall prevail.
+    Depending on where you live, you may have different rights or choices for managing your Personal Information, which this Policy will describe later on. In the event of a conflict between the information in Sections 1-5 of this Policy and the location-specific information in Section 7, the information in Section 7 shall prevail.
     
     Where does this Privacy Policy apply?
     
