@@ -254,6 +254,7 @@ The table below outlines the legal basis and, where applicable, the legitimate i
 | Handle compliance issues and protect against harm | All categories of data | Where we have a legal obligation under EEA/UK laws (for EEA/ UK users respectively): We have a legal obligation to comply with applicable laws and regulations (Art. 6 (1)(c) GDPR/ UK GDPR)<br><br>Where we have a legal obligation under other laws: We have a legitimate interest in protecting our business interests and legal rights, and the interests and legal rights of our users (Art. 6 (1)(f) GDPR. UK GDPR) |
 
 Your European Privacy Rights
+----------------------------
 
 If you live in a country in the European Union or the European Economic Area or live in the UK or Switzerland, you have the following rights:
 
@@ -302,6 +303,7 @@ _Transfers to other third countries_ For transfers from the EEA/UK to other cou
 You can ask us for a copy of the relevant contracts or other measures we rely upon to transfer personal data by using the contact details below.
 
 Contact Information
+-------------------
 
 You can contact us with questions relating to this Privacy Policy by emailing us at [privacy@superhuman.com](mailto:privacy@superhuman.com).
 
