@@ -67,7 +67,7 @@ These cookies are necessary for the website to function and cannot be switched o
 | --- | --- | --- |Strictly Necessary Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
-| [.AspNetCore.Antiforgery](https://cookiepedia.co.uk/cookies/.AspNetCore.Antiforgery) | apspreprod.energia.ie | First Party |
+| [.AspNetCore.Antiforgery](https://cookiepedia.co.uk/cookies/.AspNetCore.Antiforgery) | switchto.energia.ie | First Party |
 | [.AspNetCore.Antiforgery](https://cookiepedia.co.uk/cookies/.AspNetCore.Antiforgery) | www.energia.ie | First Party |
 | [OptanonConsent](https://cookiepedia.co.uk/cookies/OptanonConsent) | www.energia.ie | First Party |
 | [refreshToken](https://cookiepedia.co.uk/cookies/refreshToken) | prodinsightseliq.energia.ie | First Party |
@@ -100,9 +100,9 @@ These cookies allow us to count visits and traffic sources so we can measure and
 | --- | --- | --- |
 | [CurrentContact](https://cookiepedia.co.uk/cookies/CurrentContact) | www.energia.ie | First Party |
 | [.Nop.TempData](https://cookiepedia.co.uk/cookies/.Nop.TempData) | smarthomestore.energia.ie | First Party |
-| [NPS\_EU-a13a46b0\_last\_seen](https://cookiepedia.co.uk/cookies/NPS_EU-a13a46b0_last_seen) | apspreprod.energia.ie | First Party |
-| [ai\_user](https://cookiepedia.co.uk/cookies/ai_user) | apspreprod.energia.ie | First Party |
-| [ai\_session](https://cookiepedia.co.uk/cookies/ai_session) | apspreprod.energia.ie | First Party |
+| [NPS\_EU-a13a46b0\_last\_seen](https://cookiepedia.co.uk/cookies/NPS_EU-a13a46b0_last_seen) | switchto.energia.ie | First Party |
+| [ai\_user](https://cookiepedia.co.uk/cookies/ai_user) | switchto.energia.ie | First Party |
+| [ai\_session](https://cookiepedia.co.uk/cookies/ai_session) | switchto.energia.ie | First Party |
 | [s\_cc](https://cookiepedia.co.uk/cookies/s_cc) | energia.ie | First Party |
 | [\_clck](https://cookiepedia.co.uk/cookies/_clck) | energia.ie | First Party |
 | [s\_ac](https://cookiepedia.co.uk/cookies/s_ac) | energia.ie | First Party |
