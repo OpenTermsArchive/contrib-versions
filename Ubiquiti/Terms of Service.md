@@ -256,4 +256,6 @@ THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE
 
 [Schedule 5: 5G redcap data plans](https://www.ui.com/legal/5g/)
 
+[Schedule 6: UniFi Cloud Storage](https://www.ui.com/legal/uniFi-cloud-storage/)
+
 Copyright © 2026 Ubiquiti Inc. All rights reserved.
