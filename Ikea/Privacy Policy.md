@@ -477,6 +477,582 @@ We are IKEA Ireland Limited (“IKEA” or “we”, “us”), and our register
     You have the right to make a complaint at any time to the DPC, the Ireland regulator for data protection issues (https://www.dataprotection.ie/en). We would, however, appreciateInternalthe chance to deal with your concerns before you approach the DPC, so please contact us in the first instance.
     
 
+* * *
+
+Privacy policy for IKEA Family account
+--------------------------------------
+
+**Effective from 16/09/2026**
+
+### 1\. About this Privacy Notice
+
+We know how important it is for you to understand how we use your data, and we will always do our best to be transparent with you.
+
+This Privacy Notice covers private customers who have an IKEA Family account (the “**Account**”). It explains how and why we collect, store, process and share any of the personal data you provide us when you use your IKEA Family membership in-store, online via our website and the IKEA App, on the second-hand marketplace and when you have contact with our customer support centres. All information that we have about you as a member is assigned to your IKEA Family profile.  
+
+This Privacy Notice also tells you what your rights are in relation to the personal data that we process about you. We respect your right to privacy and are committed to maintaining it. 
+
+*   2\. Who are we and how can you contact us?
+    
+    We are Ingka Group, a franchisee of Inter IKEA Systems B.V., operating digital and physical IKEA sales channels across the world. You can read more about us at www.ingka.com.
+    
+    The Ingka Group companies that are data controllers under this Privacy Notice are IKEA Ireland Limited (“**Local Data Controller**”) and Ingka NB AB (“**Group Data Controller**”) hereinafter referred to together as “Data Controllers” or “we”.
+    
+    Local Data Controller:
+    
+    IKEA Ireland Limited (400143)(IRE)
+    
+    A company registered in Ireland with its registered office at 6th Floor, 2 Grand Canal Square, Dublin 2 and company number 400143.
+    
+    VAT number is 6420 143R.
+    
+    Global Data Controller:
+    
+    Ingka NB AB
+    
+    A Swedish limited liability company, registered in Sweden under number 559487-7051Registered address: Älmhultsgatan 2, 215 86 Malmö, Sweden.
+    
+    For the processing activities described in this Privacy Notice, we act as joint controllers as defined by Article 26 of the General Data Protection Regulation (GDPR). This means that we jointly determine the purposes and means of processing your personal data for providing the Account and its related services across Europe. Your personal data will be processed by the joint controllers for the purpose of providing you with the Account.
+    
+    If you have any questions about this Privacy Notice or your rights under it, please contact our local data protection officer:
+    
+    Email: Philip Cooke – IKEA UK&IE Data Protection Officer,
+    
+    [dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com)
+    
+    Or contact us at: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom
+    
+    01 696 6246
+    
+    If you would like to contact the Data Protection Officer of the Global Data Controller, please make the request to the local DPO using the contact details above.
+    
+    This Privacy Notice is only applicable to the Account and your membership in IKEA Family.
+    
+*   3\. Roles of the Data Controllers
+    
+    As joint data controllers, we will work together to offer IKEA Family and to manage your Account information. This means we both have responsibilities for looking after your data.
+    
+    To make it easier for you, your **Local Data Controller** is your main point of contact for any questions about your data and is responsible for handling day-to-day aspects of your Account, including most communications, the rewards and benefits associated with your Account activity and responding to your requests regarding your data.
+    
+    This arrangement does not affect your rights under data protection law, and you may exercise your rights in relation to your personal data against either data controller.
+    
+    Please note that we also act as independent data controllers for the processing of your personal data when you interact with each of us, either by – for example – making a purchase from the Local Data Controller or using the second-hand marketplace, which is operated by the Global Data Controller.
+    
+    *   If you are looking for the Local Data Controller’s local Privacy Notice, you can find it here [Privacy policy - IKEA Ireland](https://www.ikea.com/ie/en/customer-service/privacy-policy/). In this Privacy Notice, you will find information about the processing of your personal data for the purpose of things like payments, refunds, returns, delivery of IKEA products and other processing related to your purchase from IKEA Retail.
+    *   If you are looking for the Global Data Controller’s Privacy Notice for IKEA Second Hand, you can find it [here](https://www.ikea.com/ie/en/customer-service/privacy-policy/#f43d5ad0-2837-11f1-8214-438331e3f7eb). In this Privacy Notice, you will find information about the processing of your personal data to enable your listings, interactions with other users on the second-hand marketplace and your sales or purchases on the second-hand marketplace. 
+    
+*   4\. Why do we collect and process your data?
+    
+    We offer a great variety of services, benefits and rewards to our IKEA Family members including member discounts, reward points, purchase history and access to IKEA Second Hand, which is a second-hand marketplace where you can sell and buy IKEA products to and from other IKEA Family members (the “**Marketplace**”). To be able to offer the best experience possible, we use your personal data to tailor our content, offer services, improve your personalised experience and deliver marketing messages (including advertisements and offers) to the expectations and needs of our Family Members.
+    
+    You will find more information about IKEA Family services, benefits and rewards in the [IKEA Family Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-terms-and-conditions-pub6cce14b1/) (“IKEA Family T&C’s”).
+    
+    Additionally, collecting and processing your data allows us to provide you support where you need it, manage your requests for information and services and, where necessary, manage any complaints you may have related to your Account or IKEA Family.We will also analyse your personal data for information security and statistical purposes and share your personal data with other companies within Ingka Group where those other companies share various operations and business processes with us. We will do this in order to fulfil our contractual obligations to you, or because it is in our legitimate interests to do so. 
+    
+*   5\. What personal data do we process and for what purpose?
+    
+    When you create and use your Account we will collect and process your personal data. We may collect the following types of personal data:
+    
+    *   Information you provide directly to us: This may include your IKEA Family card – digital or physical – your name, home address, email address, phone number, and any other information you choose to provide when you create or use your IKEA Family Account, use your rewards, book a service, subscribe to our communications, use our Marketplace or sign up to an IKEA Family event or promotion.
+    *   Information we collect automatically: When you interact with us through your Account, we will automatically collect certain information, such as your IP address, browser software, operating system, and the IKEA store from which you have accessed the Account.  
+    
+    Your personal data is processed for the following purposes:
+    
+    ### To create and manage your IKEA Family Account
+    
+    We process your personal data to set up and manage access to your Account. This includes confirming you meet the age requirements set out in the IKEA Family T&C’s, identifying you during purchases and interactions online, in-store and on the Marketplace and providing Account management support. Where required, we may use your social security number or other national identification details to identify you as an IKEA Family member when you don't have your digital or physical IKEA Family card in-store.
+    
+    **Personal Data processed**
+    
+    *   First name
+    *   Last name
+    *   Title
+    *   Address
+    *   Email address
+    *   Month and year of birth
+    *   mobile telephone number
+    *   IKEA Family card number
+    *   Account password and login details
+    
+    **Legal basis**
+    
+    We do this to perform our contract (the IKEA Family T&C’s) with you and to enable us to set up your Account and support you throughout your membership with us. Optional personal data is processed with your consent, and you can choose to not provide this information if you do not wish to. 
+    
+    ### To provide you with services based on your location
+    
+    We use information you share with us about your location to determine your nearest IKEA store to identify your preferred retail market. This serves as your primary location for using IKEA Family services.
+    
+    **Personal Data processed**
+    
+    *   Preferred store
+    *   Location data (country and zip code)
+    
+    **Legal basis**
+    
+    We have a legitimate interest in providing our websites to you in the correct language and up to date store information.
+    
+    ### To deliver our customer support services to you
+    
+    We process the data from chat interactions you have on the IKEA website and the Marketplace to provide customer support services for requests and Account management. We also use this data to follow up on complaints and improve systems and services offered through understanding system performance and activity.
+    
+    **Personal Data processed**
+    
+    *   Customer ID, name and contact information
+    *   Chat data and chat history
+    *   The type of service request
+    
+    **Legal basis**
+    
+    We process this personal data in order to fulfil our contract (the IKEA Family T&C’s) with you, and to ensure that you have a smooth experience and to resolve issues you encounter when using your Account. 
+    
+    ### To personalise your experience as an IKEA Family member on our website, app and Marketplace
+    
+    We personalise your shopping experience by performing analysis on user activity data to generate customer insight. If you give us your consent to do this, we will provide you with tailored content, product recommendations, targeted offers, and personalised marketing messages.
+    
+    If you choose to share your data about your home and interests with us, we will use this to provide you with better product recommendations.
+    
+    **Personal Data processed**
+    
+    *   Browsing history
+    *   Shopping preferences
+    *   Wish lists
+    *   Homeowner status (optional)
+    *   Number of children (optional)
+    *   Categories of interest (optional)
+    *   Hashed email address
+    
+    **Legal basis**
+    
+    We will personalise your online experience where you have consented to the use of cookies on our website or Marketplace or where you have provided consent in your Account to use your wish lists, categories of interest and home information. You can manage your cookies and update your preferences at any time.
+    
+    ### To provide IKEA Family members with home planning and consultation services
+    
+    When you book a planning or consultation service using your Account, we use your personal data to:
+    
+    *   Identify you as an IKEA Family Member.
+    *   Save outcomes to your Account.
+    
+    **Personal Data processed**
+    
+    *   Account data
+    *   Home details
+    
+    **Legal basis**
+    
+    We need to process your personal data in order to fulfil our contract (the IKEA Family T&C’s) with you. 
+    
+    ### To send you direct marketing messages as an IKEA Family member
+    
+    You will receive direct marketing messages including offers, promotions and events when you have actively given your consent to receiving such targeted communication. This may include analysis of your transaction data and purchasing information to deliver personalised direct marketing. The Local Data Controller and the Global Data Controller have jointly decided that all such direct marketing messages will be sent by the Local Data Controller.
+    
+    **Personal Data processed**
+    
+    *   Email address
+    *   Order history and purchasing/selling activity (on the website, in the app or on the Marketplace)
+    *   Phone number (optional)
+    
+    **Legal basis**
+    
+    We will do this where you have provided your consent to the Local Data Controller. This consent is collected at the time of Account creation and can be updated at any time.
+    
+    ### To publish your ratings and reviews
+    
+    If you choose to share a rating or make a review, we will use this to improve our products and/or services and share it with other IKEA customers through our websites and app. Since IKEA is a global brand, your rating and review may be shared with customers in other countries we other IKEA retailers operate. Your ratings and reviews will be published with an abbreviation of your name or a nickname, such as only the first name or initials. We will however have access to your full post for moderation purposes.
+    
+    **Personal Data processed**
+    
+    *   Account data
+    *   Your rating and review
+    *   Photos that you share as part of the review
+    
+    **Legal basis**
+    
+    We have legitimate interest to use your rating and review to improve our products and services. We also rely on legitimate interest as the legal basis for publishing your rating and review on our web and app.
+    
+    ### To help us track performance and improve our services
+    
+    We use your interaction data to analyse trends and identify internal improvements to the performance and usage of IKEA Family. We conduct data analytics on IKEA Family account activity at an aggregated level or use pseudonymised data to allow us to monitor performance and continually improve.
+    
+    **Personal Data processed**
+    
+    *   Account dataonline interactions
+    *   Browsing history
+    *   Shopping preferences
+    *   Wish lists
+    
+    **Legal basis**
+    
+    We have legitimate interest in analysing this information to improve customer experience. Your cookie consent is used for browsing history to support this analysis. We use your Account to understand your preferences and wish lists where these have been provided within your Account profile. You can manage your cookies and update your preferences at any time.
+    
+    ### To meet our legal obligations
+    
+    We process data to detect and prevent fraud as well as for auditing and security purposes.
+    
+    **Data processed**
+    
+    *   National Identification details (incl Personal Public Service (PPS) number) 
+    *   Full IP Address (Metadata)
+    
+    **Legal basis**
+    
+    We need to do this to comply with our legal obligations.
+    
+    ### Cookies and tracking technologies
+    
+    We use technologies, such as cookies, to enable the core functionality of our website and apps. This can include cookies that allow you to log-in to your Account and cookies that remember items you have placed in your cart.
+    
+    We also use technologies similar to cookies, such as pixels, for analytical and performance purposes. If you have given consent, we may use the information collected to optimise your browsing experience or obtain aggregate data about traffic and interaction on the Marketplace.
+    
+    Please see our [cookie policy](https://www.ikea.com/ie/en/customer-service/cookie-policy/) for more information.
+    
+    **Data processed**
+    
+    *   Browsing activity
+    *   Full IP Address (Metadata) 
+    *   Device information (device type, operating system, browser type and version) 
+    *   Interactions with our online tools and services (e.g. shopping card, order placement stage, design tools)
+    *   Interactions with our marketing communications 
+    *   Similar information from third-party websites and apps  
+    
+    **Legal basis**
+    
+    We have a legitimate interest in ensuring the functionality of the website and the Marketplace and these functional cookies will always be kept on. Use of additional cookies for analytical and personalisation purposes is based on the consent your provide to us in the cookie banner on our websites. You can update your cookie consent at any time.
+    
+*   7\. How long do we keep your data?
+    
+    We keep your personal data as long you are an IKEA Family member. Sometimes, we may keep certain data for a shorter or longer period of time, for business and operational reasons, or based on legal obligations. The time we keep your personal data depends on the purpose it was collected for, so this can differ case by case. When we no longer need your personal data for the intended purpose(s), the data will be deleted or anonymised so you can no longer be identified. An exception applies when we are required to store personal data for a longer period of time based on applicable laws and legislations.
+    
+*   8\. Who has access to your personal data?
+    
+    ### Companies that provide services to us
+    
+    We use third-party service providers (“**service providers**”) to process your personal data, on our behalf, and in accordance with the instructions provided by us, in strict compliance with applicable legislation, as well as this Privacy Notice.
+    
+    Service providers include, but are not limited to:
+    
+    *   Third parties who provide digital services to us so that we can operate IKEA Family.
+    *   Third parties who help us segment and understand our customers.
+    *   Companies that provide advertising and marketing services to us.
+    *   Companies that aggregate and/or anonymise clickstream of behaviour on our website, app and Marketplace.
+    
+    Our Service providers will not transmit your data to other entities without our approval and without an applicable legal basis for such transmission. We undertake to only contract with entities that offer adequate guarantees of the implementation of technical and organisational measures to ensure the protection of your rights. All service providers will be bound by a written contract that regulates, among other things, the subject matter and duration of the processing, the nature and purpose thereof, the categories of data subjects, and the rights and obligations of the parties.
+    
+    ### Other recipients
+    
+    We may share your personal data with third parties (including public authorities and governmental bodies) when necessary for the purposes of (i) fulfilling our obligations under the IKEA Family T&C’s or (ii) complying with legal obligations.
+    
+    We may also share the personal data we collect with other companies in Ingka Group where those other companies share various operations and business processes with us. We will do this to fulfil our contractual obligations to you, or because we have a legitimate interest to do so.
+    
+    We share data with Inter IKEA Group Companies (such as the IKEA franchisor Inter IKEA Systems B.V). Most of the data that we share is not personal data. If we do share personal data, this is only done in a pseudonymised form. This means that the data has been edited and/or encrypted so that Inter IKEA Group Companies cannot trace the data back to you. Inter IKEA Group Companies use the pseudonymised data that we share with them to maintain and develop the IKEA concept, IKEA products and IKEA services. You find more information and contact details of Inter IKEA Systems B.V. on [This is Inter IKEA Group - Inter IKEA Group](https://www.inter.ikea.com/en/this-is-inter-ikea-group). The processing of these data is based on the legal ground of legitimate interest.
+    
+*   9\. International Data Transfers
+    
+    We may transfer personal data overseas to companies within Ingka Group (where those companies share various operations and business processes with us) or to our service providers. This may require processing of personal data in a country outside of the EEA. In those cases, the transfer of your personal data has been made lawful through an adequacy decision by the European Commission or because we have secured the transfer by entering into the standard contractual clauses (as approved by the European Commission) with the recipient. We will take steps to ensure that the transfer of your personal data outside of the European Union receives an adequate level of protection as it does in the European Union and if necessary, use other valid transfer tools or derogation in line with applicable data protection laws in order to protect and secure your personal data.
+    
+    If you would like further information about international data transfers and the safeguards that we have implemented to ensure the protection of your personal data, please contact us as set out in section 10 below. 
+    
+*   10\. Your rights
+    
+    Under privacy laws, including the General Data Protection Regulation (“**GDPR**”), you have a number of rights in relation the personal data that we hold about you. You may exercise these rights at any time by contacting us using the details set out below:
+    
+    Email: Philip Cooke – IKEA UK&IE Data Protection Officer,
+    
+    [dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com)
+    
+    Or contact us at: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom
+    
+    01 696 6246
+    
+    The access, rights and controls might vary depending on your request, however, in general the following rights are available to you, unless we communicate or justify otherwise.
+    
+    **Access:** You are entitled to gain confirmation from us about the personal data that we process about you, and, where that is the case, access to the personal data.
+    
+    **Rectification:** You are entitled to ask us to update and amend your personal data that might be inaccurate, incomplete or outdated.
+    
+    **Erasure (“right to be forgotten”)**: You are entitled to request us to delete personal data which is no longer necessary for its purpose.
+    
+    **Restriction:** You are entitled to ask us to temporarily or permanently restrict/stop some of the processing of your personal data.
+    
+    **Objection:** You are entitled to at any time, object to the processing of your personal data when the legal ground for processing this personal data is our legitimate interest. In certain cases, accommodating to your request could make it impossible for us to provide you with access to the Account and the IKEA Family benefits and services.
+    
+    **Right to withdraw your consent:** Where we base our processing of your personal data on your consent, you have the right to withdraw your consent at any time. You can exercise this right by changing the settings in your Account or by contacting us as set out in section 2 above. Please note that withdrawing your consent does not affect the lawfulness of the processing carried out before the withdrawal.
+    
+    **Data portability**: You are entitled to receive a readable copy of your personal data and, if requested, have the personal data to be transferred to another service provider.
+    
+    **Not be subject to automated decision-making:** You are entitled to not be subject to a decision based solely on automated processing, including profiling, which creates legal effects concerning you, or similarly significantly affects you.
+    
+    **Right to complain:** You have the right to complain to us if you believe we have not complied with data protection law when using your personal data. We will acknowledge your complaint within 30 days and respond without undue delay.
+    
+    You also have the right to complain to the Irish Data Protection Commission (“**DPC**”). Making a complaint will not affect any other legal rights or remedies available to you.
+    
+    We may need to request specific information from you to confirm your identity (or to confirm that someone is authorised to act on your behalf). This is to ensure that personal data is not disclosed to anyone who has no right to receive it. Where we request information to confirm identity or to clarify your request, the time limit for responding runs from when we receive that information.
+    
+    We respond to rights requests without undue delay and usually within one calendar month. If your request is complex or you have made a number of requests, we may extend the time to respond by up to a further two months. If we extend the deadline, we will tell you within one month and explain why.
+    
+*   11\. How will I know if this Privacy Notice has changed?
+    
+    As privacy regulations change and we develop our processes and services, we may make changes to this Privacy Notice. All future changes to our Privacy Notice will be updated online and accessed online with the last date of update displayed as below. If we make material changes to the Privacy Notice we will also inform you by email.
+    
+    We encourage you to review this Privacy Notice regularly for any changes. Your continued use of your Account and our services after any implemented changes or revision to this Privacy Notice shall indicate that you have been duly informed of the revised terms for processing your personal data.
+    
+
+This Privacy Notice was last updated on **September 2026**.
+
+Marketplace Privacy policy for IKEA second-hand
+-----------------------------------------------
+
+**Effective from 16/09/2026**
+
+### 1\. About this Privacy Notice 
+
+We know how important it is for you to understand how we use your data, and we will always do our best to be transparent with you. This Privacy Notice covers how and why we collect, store, process and share any of the personal data you provide us when you use the second-hand marketplace made available to you at [https://secondhand.ikea.com](https://secondhand.ikea.com/) (the “**Marketplace**”) for the sale and purchase of second-hand IKEA furniture and home furnishing accessories.  
+
+This Privacy Notice also tells you what your rights are in relation to the personal data that we process about you. We respect your right to privacy and are committed to maintaining it.
+
+The second-hand marketplace is only available to IKEA Family members. You can read about the processing of personal data for the purposes of offering you IKEA Family and the connected IKEA Family account [here](https://www.ikea.com/ie/en/customer-service/privacy-policy/#25424b50-2837-11f1-8214-438331e3f7eb). The terms and conditions applicable to your IKEA Family membership (including your access to the Marketplace) can be found [here](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-terms-and-conditions-pub6cce14b1/) (“**IKEA Family T&C’s**”). This Privacy Notice is only about the processing of your personal data when you use the Marketplace and interact with other users of the Marketplace. 
+
+*   2\. Who are we and how can you contact us?
+    
+    We are Ingka Group, a franchisee of Inter IKEA Systems B.V., operating digital and physical IKEA sales channels across the world. You can read more about us at www.ingka.com.
+    
+    The Ingka Group company that is data controller under this Privacy Notice is Ingka NB AB hereinafter referred to as “**Data Controller**” or “**we**”. Ingka NB AB is a Swedish limited liability company, registered with the Swedish Companies house under registration number 559487-7051, having its registered address at Älmhultsgatan 2, 215 86 Malmö, Sweden. Ingka NB AB is the operator of the Marketplace.
+    
+    If you have any questions about this Privacy Notice or your rights set out in section 8 above, please contact our Data Protection Officer [here](mailto:groupdpo.dataprotectionoficer.se@ingka.ikea.com) or send a letter to our registered address set out above, with attention “Data Protection Officer”. 
+    
+*   3\. What personal data do we process and for what purpose?
+    
+    When you use the Marketplace, we will collect and process your personal data. We may collect the following types of personal data:
+    
+    *   **Information you provide directly to us:** This includes your IKEA Family profile (for log-in purposes), your published listings including photos, chat messages that you type and reviews that you make, and any other information you choose to provide when you use the Marketplace.
+    *   **Information we collect automatically:** When you interact with us on the Marketplace, we will automatically collect certain information, such as your IP address, browser software and operating system.
+    *   **Information we receive from others:** We receive personal data about you from our payment service provider and we may also receive personal data from other Marketplace users if they rate and review you.
+    
+    Your personal data is processed for the following purposes:
+    
+    ### To identify you as an IKEA Family member and make the Marketplace work for you
+    
+    In order to access the Marketplace, you will need to log in with your IKEA Family account. We need to know where you are located to present the right country and language version of the Marketplace to you. We will also process your personal data to enable you to list second-hand IKEA products that you want to sell, and to browse and purchase second-hand IKEA products from others.
+    
+    **Personal Data processed**
+    
+    *   Email address and password
+    *   Your IKEA Family ID number
+    *   Country of residence/zip code
+    *   Listings (including photos and descriptions)
+    *   Purchase and sale history and transaction ID
+    
+    **Legal basis**
+    
+    We do this to perform our contract (the IKEA Family T&C’s) with you to enable us to grant you access to the Marketplace.
+    
+    ### To facilitate the communication between buyers and sellers
+    
+    We will process your personal data to make available the chat functionality to help the interaction between buyers and sellers. We apply automatic content moderation of the chat messages to ensure they comply with the IKEA Family T&C’s. For the same reason, we will review your message if another user has flagged it as inappropriate. We may also process the chat messages if needed to manage an issue raised under the Buyer Protection.
+    
+    **Personal Data processed**
+    
+    *   User name
+    *   Chat messages
+    *   Product questions
+    
+    **Legal basis**
+    
+    We process this personal data to perform our contract (the IKEA Family T&C’s) and because we have a legal obligation to take action if content is flagged as illegal or inappropriate.
+    
+    ### To enable ratings and reviews
+    
+    The Marketplace allows for users to rate and review other users. All ratings and reviews are subject to moderation. When published, they will indicate the username of both the one publishing the review, and the one subject to the review.
+    
+    **Personal Data processed**
+    
+    *   Username of the one making a review
+    *   Username of the one subject to a review
+    *   Product(s) sold
+    *   Rating and review data
+    
+    **Legal basis**
+    
+    We process this personal data to perform our contract (the IKEA Family T&C’s).
+    
+    ### To facilitate payment
+    
+    We will process your personal data to facilitate the payment process, whether you make a payment or receive payment through a bank transfer or an IKEA digital refund card. The payment is handled by an external payment service provider. We will share your bank account details, billing/shipping address, name and last name, date, time and amount of purchase, device ID, order ID, payment card details and customer identifiers to the transaction, with the payment service provider. If requested by the payment service provider for the purpose of e.g. KYC controls (know-your-customer) or fraud prevention, we may also ask you to share your tax ID and official/national identification number.
+    
+    **Personal Data processed**
+    
+    *   First name and last name
+    *   Date, time and amount of purchase
+    *   Bank account details
+    *   Billing/shipping address
+    *   Device ID
+    *   Order ID
+    *   Payment card details
+    *   Customer identifiers
+    *   Tax ID or official/national identification number
+    
+    **Legal basis**
+    
+    We process this personal data to perform our contract (the IKEA Family T&C’s). For the purpose of KYC and fraud prevention we process the personal data based on our legal obligation to do so.
+    
+    ### To deliver our customer support services to you
+    
+    We process the data from support chat interactions you have with us on the Marketplace to provide customer support services. We also use this data to follow up on complaints and improve systems and services offered through understanding system performance and activity.
+    
+    **Personal Data processed**
+    
+    *   Customer ID, name and contact information
+    *   The type of service request
+    *   Attachments (if any) of information supporting the request
+    
+    **Legal basis**
+    
+    We process this personal data in order to fulfil our contract (the IKEA Family T&C’s) with you, and to ensure that you have a smooth experience and to resolve issues you encounter when using the Marketplace.
+    
+    ### To personalise your experience on the Marketplace
+    
+    We personalise your experience on the Marketplace by performing analysis on user activity data to generate customer insight. These customer insights help us tailor your feed, recommend listings that are relevant for you and present relevant search results.
+    
+    **Personal Data processed**
+    
+    *   Browsing history
+    *   Activity data (e.g. purchases, published listings, sold item and searches)
+    *   Alerts
+    *   Location data (to show listings near you)
+    *   Hashed email address
+    
+    **Legal basis**
+    
+    We will personalise your online experience based on your cookie consent and where applicable our legitimate interest to create an inspiring Marketplace that is relevant to you.
+    
+    ### To report transactions to the tax authorities
+    
+    We will process your personal data to report your identity to the Swedish tax authorities (and your local tax authority) if your total sales and/or number of transactions reach the threshold set out in applicable tax legislation (implementing the DAC7 directive).
+    
+    **Personal Data processed**
+    
+    *   First name and last name
+    *   Address
+    *   Tax ID or official/national identification number
+    *   Date of birth
+    *   Total value of sales on the Marketplace during the current year
+    *   Number of transactions
+    
+    **Legal basis**
+    
+    We process this personal data to perform our legal obligation under applicable tax legislation (DAC7).
+    
+    ### To help us track performance and improve our services
+    
+    We use your interaction data to analyse trends and identify internal improvements to the performance and usage of the Marketplace. We conduct data analytics on Marketplace activity at an aggregated level or use pseudonymised data to allow us to monitor performance and continually improve.
+    
+    **Personal Data processed**
+    
+    *   Account data
+    *   Online interactions
+    *   Browsing history
+    *   Shopping preferences
+    *   Alerts
+    *   Navigation and connectivity information
+    
+    **Legal basis**
+    
+    We have legitimate interest in analysing this information to improve customer experience. Your cookie consent is used for browsing history to support this analysis. We use your user profile to understand your preferences and alerts where these have been provided within your user profile. You can manage your cookies and update your preferences at any time. This data will be linked to a pseudonymized identifier as a measure to protect your identity.
+    
+    ### To help us secure that the Marketplace is safe to use
+    
+    We use your personal data to make sure that our Marketplace is a safe space for everyone. This means that we process personal data to prevent and protect us and you from fraud and scams, to make your payments secure and to make sure that all users comply with the IKEA Family T&C’s that apply to the Marketplace. This also means that we moderate the Marketplace for suspicious activity and take action when users flag illegal content.
+    
+    **Personal Data processed**
+    
+    *   User ID
+    *   Account data
+    *   Activity data
+    *   Device and technical data, IP address
+    *   Location data
+    *   Chat messages
+    
+    **Legal basis**
+    
+    We have legitimate interest to prevent and protect you and us from misuse and abuse of the Marketplace, fraud and security threats. In addition to this, we have a legal obligation as a platform operator to take action when we become aware of illegal activities on our Marketplace and to save such information for the period set out in the European Digital Services Act. 
+    
+*   4\. How long do we keep your data?
+    
+    We keep your personal data as long as needed for the purposes set out above. When we no longer need your personal data for the intended purpose(s), the data will be deleted or anonymised so you can no longer be identified. Sometimes, we may keep certain data for a shorter or longer period of time, for business and operational reasons, or based on legal obligations.
+    
+*   5\. Who has access to your personal data?
+    
+    We use third-party service providers (“**service providers**”) to process your personal data, on our behalf, and in accordance with the instructions provided by us, in strict compliance with applicable legislation, as well as this Privacy Notice.
+    
+    Service providers include, but are not limited to:
+    
+    *   Third parties who provide digital services to us so that we can operate the Marketplace.
+    *   Third parties who help us segment and understand our customers.
+    *   Companies that provide advertising and marketing services to us.
+    *   Companies that aggregate and/or anonymise clickstream of behaviour on our website, app and Marketplace.
+    
+    Our service providers will not transmit your data to other entities without our approval and without an applicable legal basis for such transmission. We undertake to only contract with entities that offer adequate guarantees of the implementation of technical and organisational measures to ensure the protection of your rights. All service providers will be bound by a written contract that regulates, among other things, the subject matter and duration of the processing, the nature and purpose thereof, the categories of data subjects, and the rights and obligations of the parties.
+    
+    Furthermore, we may transmit or communicate your personal data to third parties (including public authorities and governmental bodies) when necessary for the purposes of (i) fulfilling our obligations under the IKEA Family T&C’s, and (ii) complying with legal obligations.
+    
+    Lastly, other Marketplace users will have access to some of your personal data (username, listings, location, ratings and reviews) which is needed for them to interact with you on the Marketplace. When you have sold a product, the buyer will also have access to the pick-up address you have specified in your profile.
+    
+*   6\. Automated Decision Making
+    
+    We leverage artificial intelligence (AI) tools to proactively identify and flag content, listings, or user behaviour on the Marketplace that potentially violates applicable law and/or our moderation policies. However, to ensure fairness and accuracy, all content flagged by AI will undergo a mandatory review by a human moderator. This process guarantees that no decisions regarding content removal, user warnings, or account actions are made solely by automated means, thereby upholding our commitment to human oversight and compliance with regulations on automated decision-making.
+    
+*   7\. International Data Transfers
+    
+    We may transfer personal data overseas to companies within Ingka Group (where those companies share various operations and business processes with us) or to our service providers. This may require processing of personal data in a country outside of the EEA. In those cases, the transfer of your personal data has been made lawful through an adequacy decision by the European Commission or because we have secured the transfer by entering into the standard contractual clauses (as approved by the European Commission) with the recipient. We will take steps to ensure that the transfer of your personal data outside of the EEA receives an adequate level of protection as it does in the EEA and if necessary, use other valid transfer tools or derogation in line with applicable data protection laws in order to protect and secure your personal data.
+    
+    If you would like further information about international data transfers and the safeguards that we have implemented to ensure the protection of your personal data, please contact us as set out in section 2 above. 
+    
+*   8\. Your rights
+    
+    Under privacy laws, including the General Data Protection Regulation (“**GDPR**”), the UK General Data Protection Regulation and the Swiss Data Protection Act in force since 1 September 2023, you have a number of rights in relation the personal data that we hold about you. You may exercise these rights at any time by sending a request through:
+    
+    Email: Philip Cooke – IKEA UK&IE Data Protection Officer, dataprotection.officer.ie@ingka.ikea.com
+    
+    Or contact us at: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom
+    
+    01 696 6246
+    
+    The access, rights and controls might vary depending on your request, however, in general the following rights are available to you, unless we communicate or justify otherwise.
+    
+    **Access:** You are entitled to gain confirmation from us about the personal data that we process about you, and, where that is the case, access to the personal data.
+    
+    **Rectification:** You are entitled to ask us to update and amend your personal data that might be inaccurate, incomplete or outdated.
+    
+    **Erasure (“right to be forgotten”)**: You are entitled to request us to delete personal data which is no longer necessary for its purpose.
+    
+    **Restriction:** You are entitled to ask us to temporarily or permanently restrict/stop some of the processing of your personal data.
+    
+    **Objection:** You are entitled to at any time, object to the processing of your personal data when the legal ground for processing this personal data is our legitimate interest. In certain cases, accommodating to your request could make it impossible for us to provide you with access to the Marketplace.
+    
+    **Right to withdraw your consent:** If we base our processing of your personal data on your consent, you have the right to withdraw your consent at any time. You can exercise this right by contacting us as set out in section 2 above. Please note that withdrawing your consent does not affect the lawfulness of the processing carried out before the withdrawal.
+    
+    **Data portability:** You are entitled to receive a readable copy of your personal data and, if requested, have the personal data to be transferred to another service provider.
+    
+    Not be subject to automated decision-making: You are entitled to not be subject to a decision based solely on automated processing, including profiling, which creates legal effects concerning you, or similarly significantly affects you.
+    
+    Right to complain: You have the right to send a complaint about our use of your personal data to your local data protection authority. However, before doing so, we would of course love to hear from you and get the chance to address your concern.
+    
+    Making a complaint to your local data protection authority will not affect any other legal rights or remedies that might be available to you under law.
+    
+    We may need to request specific information from you to help us confirm your identity and ensure your right to access your data (or to exercise any of your other rights). This is to ensure your personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+    
+    We try to respond to all legitimate requests within one calendar month. Occasionally it could take us longer than this if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+    
+*   9\. How will I know if this Privacy Notice has changed?
+    
+    As privacy regulations change and we develop our processes and services, we may make changes to this Privacy Notice. All future changes to our Privacy Notice will be updated online and accessed online with the last date of update displayed as below. If we make material changes to the Privacy Notice we will also inform you by email.
+    
+    We encourage you to review this Privacy Notice regularly for any changes. Your continued use of the Marketplace after any implemented changes or revision to this Privacy Notice shall indicate that you have been duly informed of the revised terms for processing your personal data.
+    
+
+This Privacy Notice was last updated on **September 2026**.
+
+* * *
+
 Privacy policy for IKEA for Business account and IKEA Business Network
 ----------------------------------------------------------------------
 
