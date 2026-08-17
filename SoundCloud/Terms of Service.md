@@ -15,6 +15,7 @@ These Terms of Use consist of the following sections:
 *   [Changes to Terms of Use](#changes-to-terms-of-use) This section explains that our Terms of Use may change from time to time.
 *   [Description of the Platform](#description-of-the-platform) This provides a general description of the Platform, its features and functionality.
 *   [Your SoundCloud account](#your-soundcloud-account) This section explains your responsibilities should you choose to register for a SoundCloud account.
+*   [SMS Terms](#sms-terms) This section explains the terms that apply when SoundCloud sends authentication codes by SMS.
 *   [Your Use of the Platform](#your-use-of-the-platform) This section sets out your right to use the Platform, and the conditions that apply to your use of the Platform.
 *   [Your Content](#your-content) This section deals with ownership of your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights.
 *   [Grant of license](#grant-of-license) This section explains how your Content will be used on SoundCloud and the permissions that you grant by uploading your Content - for example, the right for other users to listen to your sounds.
@@ -86,6 +87,11 @@ If your authentication credentials are lost or stolen, or if you believe that yo
 We reserve the right to disallow, cancel, remove or reassign certain usernames and permalinks in appropriate circumstances, as determined by us in our sole discretion, and may, with or without prior notice, suspend or terminate your account if activities occur on that account which, in our sole discretion, would or might constitute a violation of these Terms of Use or our [Community Guidelines](https://soundcloud.com/community-guidelines), or an infringement or violation of the rights of any third party, or of any applicable laws or regulations.
 
 You may terminate your account at any time as described in the [Termination](#termination) section below.
+
+**SMS Terms**
+-------------
+
+SoundCloud may send one-time passwords by SMS to users in some territories for authentication and to secure critical account actions (such as two-factor authentication, logins, account recovery or password resets). For US users: Message frequency varies; Message and data rates may apply; Text HELP to +19175469191 for help; Reply STOP to cancel; Carriers are not liable for any delays or undelivered messages.
 
 **Your use of the Platform**
 ----------------------------
@@ -448,13 +454,14 @@ We are required to have a single point of contact for authorities and our users.
 *   The European Commission, EU Member States’ authorities, and the European Board for Digital Services may contact us at legal@soundcloud.com. Communications with us and requests can be in the German or English language.
 *   Users may contact us at legal@soundcloud.com or visit our Help Center.
 
-**Last Amended:** January 19, 2026
+**Last Amended:** August 17, 2026
 
 **Link to prior versions**
 --------------------------
 
 You will find a link to prior versions of our Terms of Use below.
 
+*   [January 2026](https://soundcloud.com/terms-of-use/01-2026)
 *   [September 2025](https://soundcloud.com/terms-of-use/09-2025)
 *   [May 2025](https://soundcloud.com/terms-of-use/05-2025)
 *   [February 2024](https://soundcloud.com/terms-of-use/02-2024)
