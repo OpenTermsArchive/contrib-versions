@@ -173,6 +173,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Geoscience Australia. National Roads 2026 ([https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147684](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147684)). License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        *   Data Gov Au - AU - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        *   AustriaTech, Mobilitydata Austria - Mobilitaetsdaten Österreich. - [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
+            
     4.  **Austria**
         *   You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -265,6 +269,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Transport Data Belgium: [https://data.vlaanderen.be/doc/licentie/modellicentie-gratis-hergebruik/v1.0](https://data.vlaanderen.be/doc/licentie/modellicentie-gratis-hergebruik/v1.0)
             
+        *   Opendata portaal Antwerpen - BE - License: Copyright: Stad Antwerpen © , zie: [http://stad.antwerpen.be/Docushare/dscgi/ds.py/Get/File-24757/Gebruiksvoorwaarden.doc](http://stad.antwerpen.be/Docushare/dscgi/ds.py/Get/File-24757/Gebruiksvoorwaarden.doc)
+            
     8.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
             
@@ -313,6 +319,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Open Data Distrito Federal - DER-DF (Departamento de Estradas de Rodagem do Distrito Federal) - [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
         *   IPEA Institute for Applied Economic Research - BR - (Instituto de Pesquisa Econômica Aplicada) [https://www.ipea.gov.br/portal/categorias/146-declaracao-de-privacidade-de-dados-pessoais/10307-declaracao-de-privacidade-de-dados-pessoais](https://www.ipea.gov.br/portal/categorias/146-declaracao-de-privacidade-de-dados-pessoais/10307-declaracao-de-privacidade-de-dados-pessoais)
+            
+        *   IBGE - Instituto Brasileiro de Geografia e Estatística - [https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2102268](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2102268)
             
     9.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
@@ -1688,13 +1696,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   日本の地図画像、または地図を元にしたコンテンツの作成に使用されている KANJIDIC 辞書ファイルは、Electronic Dictionary Research and Development Group が著作権を有しており（© by the Electronic Dictionary Research and Development Group）、Electronic Dictionary Research and Development Group のライセンスに準拠して使用されています。
              
-         *   (株）トヨタマップマスター: 本品に使用している交通規制データは、道路交通法および警察庁の指導に基づき全国交通安全活動推進センターが公開している交通規制情報を使用して、（株）トヨタマップマスターが作成したものを使用しています。当該交規制データが現場の交通規制と異なるときは、実際の交通規制標識/標示などを優先して運転してください。当該交通規制データは無断で複写・複製・加工・改変することはできません。当該交通規制データが現場の交通規制と異なるときは、実際の交通規制標識/標示などを優先して運転してください。当該交通規制データは無断で複写・複製・加工・改変することはできません。
-             
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和 8 年 5 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和 8 年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和 8 年 5 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和 8 年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -2398,6 +2404,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Data GOV TW - Civil Affairs Department - Numerical data on the location of addresses in Kinmen County, 2024 ( 金門縣門牌位置數值資料). This open data is released to the public under the Open Government Data License, and users may use it provided they comply with all the provisions of this license. [https://data.gov.tw/license](https://data.gov.tw/license)
              
          *   Data Gov TW - Taichung City Government Digital Development Bureau (臺中市政府數位發展局) - The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms. [https://data.gov.tw/license](https://data.gov.tw/license)
+             
+         *   Data Gov TW - Chunghwa Post Co., Ltd. ( 中華郵政股份有限公司 ) - License: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
              
     68.  **Timor-Leste**
          
@@ -3248,6 +3256,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     106.  **Cameroon**
           *   The Humanitarian Data Exchange (CM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
+          *   Humanitarian Data Exchange - HDX Cameroon Political (Admin Areas) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+              
     107.  **Micronesia**
           *   The Humanitarian Data Exchange (FM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
               
@@ -3259,6 +3269,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
     110.  **Nicaragua**
           *   The Humanitarian Data Exchange (NI): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+              
+          *   GRID3 NGA - Operational LGA Boundaries ([https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113\_0/explore?location=9.0779592C8.6852902C6](https://data.grid3.org/datasets/2bb616a49ee84f409427cc2143787113_0/explore?location=9.0779592C8.6852902C6)) License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
               
     111.  **Laos**
           *   The Humanitarian Data Exchange (LA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -3302,6 +3314,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
     121.  **Benin**
           *   The Humanitarian Data Exchange (BJ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+              
+          *   The Humanitarian Data Exchange (BJ): [https://data.humdata.org/](https://data.humdata.org/) ;Subnational Administrative Boundaries - License provided at: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
               
     122.  **Peru**
           *   Platforma Nacional de Datos Abiertos (PE): [https://www.datosabiertos.gob.pe/](https://www.datosabiertos.gob.pe/) Licensed under the ODC Attribution License
