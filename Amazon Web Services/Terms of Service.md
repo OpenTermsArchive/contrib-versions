@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-Last Updated: August 13, 2026
+Last Updated: August 17, 2026
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -103,6 +103,18 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 **1.29.** Use of the AWS European Sovereign Cloud is subject to the [AWS European Sovereign Cloud Addendum](https://aws.eu/esca).
 
 **1.30.** These Service Terms incorporate the [AWS UK Switching Addendum](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/legal/approved/aws-uk-customer-switching-addendum.pdf) for customers with an Eligible Account, as defined in the AWS UK Switching Addendum.
+
+**1.31.** You may access certain Services without providing a payment method. Once AWS prompts you for a payment method, continued access to AWS may require you to provide and maintain a valid form of payment.
+
+**1.32. Sign up for AWS (new).** If you sign up for AWS (new), available beginning August 17, 2026, and access the Services through AWS projects, the following Service Terms apply:
+
+**1.32.1.** AWS will create an AWS organization with a management account and member account (your project) on your behalf. You may create additional projects, each of which is a separate member account in your AWS organization. References to an “account” in the Agreement and the Policies include a project.
+
+**1.32.2.** If you are a project owner and invite team members to your project, you agree to disclose billing, project activity, and Builder ID profile information to these team members, and they will be End Users of your project. You are responsible for the conduct of End Users that you invite to your project, including Content they contribute to your project (“Contributed Content”), and for maintaining End User permissions for purposes of data security and access.
+
+**1.32.3.** If you join a project as a team member, you agree to disclose Builder ID profile information and project activity to the project owner, and you will be an End User into that project. Contributed Content you contribute as an End User is the Content of the project owner, and is not considered Your Content for the purposes of rights and obligations under the terms of this Agreement. Contributed Content may be viewed by others who have access to that project. Unless you enter into a license with other parties who have access to the project specifying different terms, you grant each party who has access to the project a nonexclusive, worldwide, irrevocable license to use, reproduce, prepare derivatives, distribute, perform, and display Contributed Content you contribute as an End User. You represent and warrant that you have all rights necessary to grant this license.
+
+**1.32.4.** To configure an AI services opt-out policy for your projects using AWS Organizations, select the opt-out mechanism in AWS Settings.
 
 2\. Betas and Previews
 ----------------------
@@ -216,10 +228,14 @@ You agree that you have determined that your use of the BYOL Program will comply
 
 **5.8.** As part of using Amazon EC2, you agree that your Amazon EC2 resources may be terminated or replaced due to failure, retirement or other AWS requirements. THE USE OF AMAZON EC2 DOES NOT GRANT YOU, AND YOU HEREBY WAIVE, ANY RIGHT OF PHYSICAL ACCESS TO, OR PHYSICAL POSSESSION OF, ANY AWS SERVERS, EQUIPMENT, REAL OR PERSONAL PROPERTY, OR OTHER ASSETS.
 
-6\. Alexa Web Services
-----------------------
+6\. Spend Limits
+----------------
 
-You may use data you receive from the Alexa Services Web Information Service and Alexa Top Sites (collectively “Alexa Web Services”), such as web site traffic data, to enhance your application or website, but may not use it in any application whose primary purpose is to display the same or related data or to compete with www.alexa.com. You may not display data you receive via the Alexa Web Services that has been cached for more than 24 hours. You may not resell or redistribute the Alexa Web Services or data you access via the Alexa Web Services.
+**6.1.** By enabling spend limits you agree that if you reach your spend limit on your project or account, AWS may suspend your, or any End User’s, right to access or use any portion of the Services, including by pausing your project or closing your account. You further agree that if you do not reactivate your account or project after your spend limit is reached, we may permanently close your account or project, and we will delete Your Content in accordance with the technical documentation applicable to the Services.
+
+**6.2.** AWS may limit or prevent your use of spend limits immediately upon notice to you, if you repeatedly exceed your spend limits, or if we reasonably determine that your use of spend limits is fraudulent or constitutes abuse.
+
+**6.3.** Spend limits are not intended for accounts or projects used in, or in association with, the operation of any hazardous environments or critical systems, any regulated content (such as protected health information), government data, or any content of government entities. You are solely responsible for any liability that may arise in connection with such use.  
 
 7\. Amazon SimpleDB Service (Amazon SimpleDB)
 ---------------------------------------------
@@ -520,8 +536,6 @@ For clarity, you must not deduct or withhold taxes on payments to AWS if (a) you
 **22.9.** By using the Amazon Bio Discovery wet lab feature, you agree and instruct us to send Your Content to the selected wet lab vendor and their subcontractors. The wet lab feature is provided subject to the wet lab vendor’s capacity, availability, and acceptance of an order.
 
 **22.10.** Amazon Bio Discovery is not intended for use by itself in regulatory submissions. You are responsible for making your own assessment of whether your use of Amazon Bio Discovery meets applicable legal and regulatory requirements.
-
-**22.11.** You may access some parts of Amazon Bio Discovery without providing a payment method. Until you provide a payment method, your AWS Contracting Party is Amazon Web Services, Inc. Once AWS prompts you for a payment method, continued access to Amazon Bio Discovery may require you to provide and maintain a valid form of payment. 
 
 23\. AWS OpsWorks
 -----------------
@@ -1178,7 +1192,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.2.2.** Within the United States, the Connect Customer PSTN Service supports 911 calls to Emergency Services differently than through traditional telephone services. Amazon Connect Customer may not know the physical location of End Users and depends on End Users having access to power and the internet. You and your End Users are responsible for ensuring that current location information and a valid callback number for the End User is available to Amazon Connect Customer for any 911 call placed using the Connect Customer PSTN Service. You agree to inform all call agents and other End Users that may use Amazon Connect Customer that: a) the Connect Customer PSTN Service cannot be used to make calls if the call agent or other End User experiences a power outage, cannot access the Internet, or their device has no power, (b) Emergency Services calls in the United States using the Connect Customer PSTN Service may not be routed appropriately because Amazon Connect Customer may not know the call agent’s or other End User’s location, and (c)  they may access Emergency Services via other means that may be available to them, including any alternative arrangements that you have made available. 
 
-**54.2.3.** Neither AWS nor its affiliates will be liable for any damages resulting from any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect Customer.  AWS disclaims all responsibility for the conduct of local emergency response centers, third parties engaged by you to facilitate emergency response location or other address updates, and all other third parties involved in the provision of Emergency Services. As permitted by applicable law, you agree to release, indemnify, and hold harmless AWS and its affiliates from and against any liability relating to: (a) any acts or omissions of such third parties or other third parties involved in the handling of or response to any emergency call, (b) your inability to use the Connect Customer PSTN Service to contact Emergency Services due to lack of power or internet access; (c) any failure by you, your call agents or your other End Users that may use Amazon Connect Customer to provide accurate caller location information or call back information; or (d) your failure to make additional arrangements to access Emergency Services.
+**54.2.3.** Neither AWS nor its affiliates will be liable for any damages resulting from any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect Customer. AWS disclaims all responsibility for the conduct of local emergency response centers, third parties engaged by you to facilitate emergency response location or other address updates, and all other third parties involved in the provision of Emergency Services. As permitted by applicable law, you agree to release, indemnify, and hold harmless AWS and its affiliates from and against any liability relating to: (a) any acts or omissions of such third parties or other third parties involved in the handling of or response to any emergency call, (b) your inability to use the Connect Customer PSTN Service to contact Emergency Services due to lack of power or internet access; (c) any failure by you, your call agents or your other End Users that may use Amazon Connect Customer to provide accurate caller location information or call back information; or (d) your failure to make additional arrangements to access Emergency Services.
 
 **54.3.** There are important service limitations with Amazon Connect Customer. You must carefully review and comply with the applicable technical documentation at all times, including limitations related to call rates and frequency, automated calling, calls to certain regions, use of caller identification data, and others. If you believe you will exceed any limitations for legitimate reasons, you must contact customer service ahead of time to request applicable exceptions, which we may or may not make in our reasonable discretion. Amazon Connect Customer does not support calls to or from facsimile machines or modems. Any caller identification service provided as a part of Amazon Connect Customer is not guaranteed to function at all times.
 
@@ -1656,9 +1670,7 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **91.1.** If during the previous 12 months you have registered no usage of your AWS Builder ID, we may delete your AWS Builder ID upon 30 days’ prior notice.
 
-**91.2.** Upon deletion of your AWS Builder ID, you will no longer have access to Your Content through your AWS Builder ID, and such content will be deleted.  
-
-**91.3.** For purposes of your use of AWS Builder ID, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+**91.2.** Upon deletion of your AWS Builder ID, you will no longer have access to Your Content through your AWS Builder ID, and such content will be deleted.
 
 92\. AWS Clean Rooms
 --------------------
