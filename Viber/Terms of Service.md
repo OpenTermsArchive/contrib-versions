@@ -1,7 +1,7 @@
 Viber Terms of Service
 ======================
 
-_Last updated: March 23, 2026_
+_Last updated: August 18, 2026_
 
 _We’ve recently updated our terms and policies. View the summary of changes_ [**_here_**](https://vb.me/policy-updates-2026)_._
 
@@ -149,8 +149,6 @@ You grant Viber, our affiliates, other users of the Services, and our business p
 
 The Content is the sole responsibility of the user that submitted it, Viber reserves the right to review or remove all content that appears on the Services; however, it is not obligated to do so. Viber does not and cannot guarantee that other users or the content they provide through the Services will comply with our Terms or the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/). If you believe that any materials or content (including other user Content) that are accessible on or from the Services infringe on your copyrights, or offend you or are illegal, please contact us through the reporting system as detailed in the [**Acceptable Use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/).
 
-Communities and channels that are not active for 12 months will be automatically deleted.  
-
 ###### **7\. Restrictions of Use**
 
 _You may only use our Services for lawful purposes and in accordance with applicable law and you are prohibited from storing, distributing, or transmitting any unlawful material through our Services. Any transmission, distribution, or storing of unlawful material or using our Services and its contents for unlawful purposes may expose you to criminal or civil liability, termination or suspension of these Terms, your Account and use of the Services and removal of your Content._
@@ -268,13 +266,11 @@ If Dispute against Viber involves a paid Viber Service and we are unable to reso
 *   **How to Submit an Opt-Out Notice:**To opt out, you must send a written notice stating that you opt out of this arbitration provision.
 *   **Deadline for Opting Out:**Your opt-out notice must be submitted within 30 calendar days of your acceptance of these Terms or, if you are an existing user, within 30 calendar days of when this arbitration provision was added or substantively modified. If you do not opt out within this timeframe, you will be bound by this arbitration provision.
 *   **Where to Send the Opt-Out Notice:** Your opt-out notice must be submitted through one of the means as mentioned in Section 21 (Contact Us) below, and include the subject line “Arbitration Opt-Out”,
-*   **Information to Include:** Your opt-out notice must include:
-
-1.  Your full name
-2.  Your phone number associated with your Viber account
-3.  Your email address associated with your Viber account
-4.  A clear statement that you are opting out of the arbitration provision in the Viber Terms of Service.
-
+*   **Information to Include:** Your opt-out notice must include:  
+    1\. Your full name  
+    2\. Your phone number associated with your Viber account  
+    3\. Your email address associated with your Viber account  
+    4\. A clear statement that you are opting out of the arbitration provision in the Viber Terms of Service.
 *   **Effect of Opting Out:** If you opt out of this arbitration provision, you will not be required to arbitrate disputes with Viber as set forth above. Opting out of this arbitration provision will not affect any other part of these Terms or your relationship with Viber.
 
 ######   
@@ -294,12 +290,12 @@ Viber is dedicated to facilitating the use of the Services by disabled end-users
 
 You may contact us, as follows:
 
-*   **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs).
-*   **Using the “contact us” form on the App**.
-*   **By mail:  
-    **Viber Media S.à r.l.,  
-    2, rue du Fossé, L-1536  
-    Luxembourg, Grand Duchy of Luxembourg
+*   *   *   **Our online form available at:** [**https://vb.me/ContactUs**](https://vb.me/ContactUs).
+        *   **Using the “contact us” form on the App**.
+        *   **By mail:  
+            **Viber Media S.à r.l.,  
+            2, rue du Fossé, L-1536  
+            Luxembourg, Grand Duchy of Luxembourg
 
 #### **Call Services – Viber Out Service Specific Terms**
 
@@ -379,6 +375,6 @@ The eSIM Services are provided through our third-party telecommunications partne
 
 When purchasing or using the eSIM Services, you are responsible for: (i) using the Service in compliance with these Terms, any other applicable Viber terms or policies, and all relevant network operator or partner policies; (ii) complying with all applicable laws and regulations, including  in any jurisdiction in which you are a citizen, resident, or present while using the Service; (iii) all use of the Service, including any content, information and communications, associated with your account, device, or eSIM, whether by you or a third party; (iv) ensuring your device is compatible with the Service and properly configured; (v) submit true, accurate or complete documents or information as may be requested by Viber, such as but not limited to, proof of identity or for regulatory compliance; (vi) monitoring your data consumption in accordance with your purchased or allocated package; (vii) complying with all reasonable security procedures and standards with respect to the eSIM Services, which Viber may communicate to you from time to time; and (viii) maintaining the security of your device and eSIM, including protection against loss, theft, or unauthorized use. Failure to meet these responsibilities may result in suspension or termination of the eSIM Services without notice.
 
-Current Terms of Service PDF [**Viber Terms of Service March 2026**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2026.pdf)
+Current Terms of Service PDF [**Viber Terms of Service August 2026**](https://www.viber.com/app/uploads/English-Viber-Terms-of-Service-August-2026.docx.pdf)
 
-Previous Terms of Service PDF [**Viber Terms of Service October 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-October-2025.pdf)
+Previous Terms of Service PDF [**Viber Terms of Service March 2026**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2026.pdf)
