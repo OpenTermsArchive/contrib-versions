@@ -35,6 +35,7 @@ Other languages:
 *   [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tl "Mga patakaran:Polisya sa privacy (4% translated)")
 *   [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/vi "Quy định về quyền riêng tư (87% translated)")
 *   [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tr "Gizlilik Politikası (89% translated)")
+*   [Uyghurche](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ug-latn "Policy:Privacy policy/ug-latn (1% translated)")
 *   [Yorùbá](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yo "Privacy policy/yo (1% translated)")
 *   [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/diq "Siyaseto nımıte (17% translated)")
 *   [asturianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ast "Política d'intimidá (5% translated)")
