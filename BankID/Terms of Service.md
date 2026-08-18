@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/Elections_2026.jpg)
+[![](/assets/stock/1400x930/facial-recognition.jpg)
+
+#### Facial recognition as an extra control
+
+2026-08-18
+
+We now launch facial recognition as an option for extra control for banks, government and other organizations.](https://www.bankid.com/en/about-us/news/facial-recognition-as-an-extra-control)[![](/assets/stock/1400x930/Elections_2026.jpg)
 
 #### Digital ID card at the voting location
 
@@ -130,10 +136,4 @@ Use your digital ID card to identify yourself when you vote in the general elect
 
 2026-06-26
 
-Stay safe when you're using BankID during summer. Follow our tips.](https://www.bankid.com/en/about-us/news/secure-summer) [![](/assets/stock/news/almedalen.jpg)
-
-#### Almedalen 2026
-
-2026-06-01
-
-Panels, debates and lectures we will participate in during Almedalsveckan.](https://www.bankid.com/en/about-us/news/almedalen-2026)
+Stay safe when you're using BankID during summer. Follow our tips.](https://www.bankid.com/en/about-us/news/secure-summer)
