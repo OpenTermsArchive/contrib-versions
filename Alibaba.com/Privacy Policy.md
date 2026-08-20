@@ -3,7 +3,7 @@ Alibaba.com Privacy Policy
 
 2024-08-28 07:52
 
-（Last Updated: July 30, 2026)
+（Last Updated: Aug 12, 2026)
 
 ﻿[Please click here to see previous version.](https://terms.alicdn.com/legal-agreement/terms/privacy/20221021115240862/20221021115240862_4_11_33255.html)﻿
 
@@ -522,8 +522,11 @@ You can click [here](https://myprivacy.alibaba.com/home#/)to exercise your right
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Jurisdictions | Representative | Address | Contact Details |
-| Korea | Company Name: Alibaba.com Korea E-Commerce Private Limited<br><br>Rrepresentative：Marco Yang | 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631 | Telephone number: 02-2193-4206<br><br>E-mail:<br><br>﻿koreaprivacyagent@service.alibaba.com |
-| Türkiye | KST DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | REŞİTPAŞA MAHALLESİ ESKİ BÜYÜKDERE CADDE NO: 26/147, SARIYER, İSTANBUL | E-mail:<br><br>﻿info@ksthukuk.com |
+| Korea | Company Name: Alibaba.com Korea E-Commerce Private Limited<br><br>Rrepresentative：Marco Yang | 8th Floor, State Tower Namsan, 100 Toegye-ro (Hoehyeon-dong 2-ga), Jung-gu, Seoul, Republic of Korea, 04631 | Telephone number: 02-2193-4206<br><br>E-mail: koreaprivacyagent@service.alibaba.com |
+| Türkiye | KST DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | REŞİTPAŞA MAHALLESİ ESKİ BÜYÜKDERE CADDE NO: 26/147, SARIYER, İSTANBUL | E-mail: info@ksthukuk.com |
+| UK  | Alibaba E-Commerce (UK) Limited | 8th Floor, Millbank Tower, 21-24 Millbank, London, SW1P 4QP, United Kingdom | E-mail: DataProtection@service.alibaba.com |
+| Thailand | All in One Supply (Thailand) Limited | 18th Floor, Unit 57, Park Ventures Ecoplex, 57 Wireless Road, Lumpini, Pathumwan, Bangkok, Thailand |     |
+| Serbia | Karanović & Partners o.a.d. Beograd | Resavska 23, 11000 Belgrade, Republic of Serbia | E-mail: local.representative@karanovicpartners.com |
 
 If you are a registered member of the Platform, and you are from other locations outside of Mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
 
