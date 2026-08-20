@@ -165,6 +165,19 @@ The Website and the Services may contain links to or integrations with other web
 
 * * *
 
+Mobile Apps
+-----------
+
+This Privacy Policy also applies when you use our mobile apps, such as the W3Schools Adventure app.
+
+When you use our apps, we collect the same types of information as described in this policy. This includes account information, usage information, and device information.
+
+In-app purchases and subscriptions are handled by the Apple App Store or Google Play. We never see or store your full payment card details.
+
+We use RevenueCat, a sub-processor, to manage in-app subscriptions. RevenueCat receives limited information, such as your user ID, device information, transaction ID, and subscription status. You can read the [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy) for more information.
+
+* * *
+
 How We Transfer Information
 ---------------------------
 
@@ -297,13 +310,14 @@ Appendix: Sub-Processors
 | Google, Inc | USA | Site analytics (web) and customer interactions (email) |
 | Paypal | USA | Payment processing |
 | Pipedrive | EU  | CRM System |
+| RevenueCat | USA | In-app subscription management (mobile apps) |
 | Revinova | USA | LMS platform - (Specific for AWS courses) |
 | Shopify | USA | E-commerce store |
 | Stripe | USA | Payment processing |
 | Viously | EU  | Ad-Service |
 | Zendesk | EU  | Customer support |
 
-Last updated: 2025.05.19
+Last updated: 2026.08.07
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
