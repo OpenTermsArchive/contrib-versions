@@ -132,6 +132,23 @@ We do not provide refunds for plans or subscriptions. You may cancel your subscr
 
 * * *
 
+Mobile Apps
+-----------
+
+These Terms also apply when you use our mobile apps, such as the W3Schools Adventure app.
+
+### In-App Purchases and Subscriptions:
+
+*   All payments in our apps are handled by the Apple App Store or Google Play, not by W3Schools
+*   Subscriptions renew automatically unless you cancel at least 24 hours before the current period ends
+*   You can manage or cancel your subscription in your App Store or Google Play account settings
+*   Deleting an app does not cancel your subscription
+*   Refunds for in-app purchases are handled by Apple or Google, following their own refund policies
+
+We use RevenueCat to manage in-app subscriptions. See our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp) for more information about how your data is handled.
+
+* * *
+
 Domains
 -------
 
@@ -263,7 +280,7 @@ Contact Information
 
 If you have any questions or concerns about these Terms, please contact us at [help@w3schools.com](mailto:help@w3schools.com)
 
-Last updated: 2025.05.19
+Last updated: 2026.08.07
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
