@@ -1,8 +1,8 @@
 Privacy Notice for Travellers
 
-Updated May 2026
+Updated August 2026
 
-[About this privacy notice](#about-this-policy-notice)[Terms we may use in our privacy notices](#terms-we-use)[Personal data we collect and process](#personal-data-we-collect-and-process)[Personal data you give to us](#personal-data-you-give-yourself)[Personal data you give us about others](#personal-data-you-give-others)[Personal data we collect automatically](#personal-data-we-collect-automatically)[Personal data and information about you we receive from other sources](#personal-data-we-receive-from-others)[Purposes of collecting and processing your personal data](#collect-personal-data-purposes)[Legal bases for personal data processing](#personal-data-process-legal-bases)[How we share personal data within Booking.com](#share-personal-data-within-booking-how)[Why we share personal data within the Booking Holdings Inc. group (BHI)](#share-personal-data-within-booking-holdings-how)[How we share personal data with third parties](#share-personal-data-with-third-parties-how)[Information regarding specific markets and products & services](#specific-markets-and-products)[Ground transportation](#ground-transportation)[Insurance](#insurance)[How we protect personal data](#protect-personal-data-how)[How we use cookies & other tracking technologies](#use-cookies-how)[How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how)[How we treat personal data belonging to minors](#treat-minors-data-how)[Your rights](#your-rights)[Our company and how we further comply with privacy laws](#our-company-and-comply-with-privacy-laws-how)
+[About this privacy notice](#about-this-policy-notice)[Terms we may use in our privacy notices](#terms-we-use)[Personal data we collect and process](#personal-data-we-collect-and-process)[Personal data you give to us](#personal-data-you-give-yourself)[Personal data you give us about others](#personal-data-you-give-others)[Personal data we collect automatically](#personal-data-we-collect-automatically)[Personal data and information about you we receive from other sources](#personal-data-we-receive-from-others)[Purposes of collecting and processing your personal data](#collect-personal-data-purposes)[Legal bases for personal data processing](#personal-data-process-legal-bases)[Why we share personal data within Booking.com](#share-personal-data-within-booking-how)[Why we share personal data within the Booking Holdings Inc. group (BHI)](#share-personal-data-within-booking-holdings-how)[Why we share personal data with third parties](#share-personal-data-with-third-parties-how)[Information regarding specific markets and products & services](#specific-markets-and-products)[Ground transportation](#ground-transportation)[Insurance](#insurance)[How we protect personal data](#protect-personal-data-how)[How we use cookies & other tracking technologies](#use-cookies-how)[How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how)[How we treat personal data belonging to minors](#treat-minors-data-how)[Your rights](#your-rights)[Our company and how we further comply with privacy laws](#our-company-and-comply-with-privacy-laws-how)
 
 * * *
 
@@ -52,11 +52,11 @@ When you contact us, we collect information from those interactions. This includ
 
 Trip items you select to save and reviews. When you search our platform for possible trip reservations, you can select to save specific trip items in a list which we store for you. During or after your trip, we may also invite you to submit reviews that can inform others about your experiences on the trip. When you submit reviews on our platform, we collect the information you’ve included along with your first name or display name and avatar (if you choose one).
 
-Account Information. If you create an account on our platform, we also store information you include and manage in your account. This can include personal settings, travel preferences, credit card information, uploaded photos and your reviews. You can also choose to add details from one or more of your identification documents to your account so that you don't have to re-enter this information for future trip reservations.
+Account information. If you create an account on our platform, we also store information you include and manage in your account. This can include personal settings, travel preferences, credit card information, uploaded photos and your reviews. You can also choose to add details from one or more of your identification documents to your account so that you don't have to re-enter this information for future trip reservations.
 
-Identification Information. If you want a verified account badge in those jurisdictions where it is available, we may ask for a copy of your identification (a passport or ID card) and a “selfie” to help us confirm it is you.
+Identification information. If you want a verified account badge in those jurisdictions where it is available, we may ask for a copy of your identification (a passport or ID card) and a “selfie” to help us confirm it is you.
 
-Current Location and mobile device details. There are other circumstances where you may provide us with personal data. For example, when you use our platform from your mobile device, you can decide to allow Booking.com to use your current location or grant us access to other details. This helps us to give you relevant suggestions for example, the nearest restaurants or attractions to your location or making other recommendations.
+Current location and mobile device details. There are other circumstances where you may provide us with personal data. For example, when you use our platform from your mobile device, you can decide to allow Booking.com to use your current location or grant us access to other details. This helps us to give you relevant suggestions for example, the nearest restaurants or attractions to your location or making other recommendations.
 
 Personal data you give us about others
 
@@ -68,13 +68,13 @@ Personal data we collect automatically
 
 We automatically collect certain information when you use our platform, whether or not you make a reservation. This includes:
 
-*   IP address
+*   IP address (from which we derive your country or region)
 *   Usage dates and times
 *   Clicks and page views on our platform
 *   Referral information when you are redirected to our platform by a third party
-*   Device details (OS, browser/app version, language settings)
+*   Device details (operating system, browser/mobile app version, language settings)
 *   Mobile device identifier (when using our mobile apps)
-*   Mobile app operation \[and performance\], including crashes
+*   Mobile app operation (and performance), including crashes
 
 Personal data and information about you we receive from other sources
 
@@ -89,7 +89,7 @@ Information we receive from these parties may be used together with information 
 
 We receive personal data about you from these parties in situations such as these:
 
-*   Our Strategic Partners. We offer our trip reservation services not only on our platform but also through strategic partners. If you make a reservation using a partner's service that relies on Booking.com, the partner sends us your reservation details so that we can process and support your booking.
+*   We offer our trip reservation services not only on our platform but also through strategic partners. If you make a reservation using a partner's service that relies on Booking.com, the partner sends us your reservation details so that we can process and support your booking.
 *   Trip providers may share additional information with Booking.com. This includes details relating to support inquiries for pending reservations, disputes, significant complaints (including those concerning you), or other issues related to a trip reservation. In addition, we may gather information about you from public sources (such as media or social media). We may combine this with the information we already have if we deem it necessary to verify a complaint or investigate suspected misconduct involving you.
 *   We integrate with third-party payment service providers such as Adyen and Stripe, to facilitate electronic payments between you, Booking.com and trip providers. These service providers share payment information so we can administer and handle your trip reservation.
 *   In some cases, we link to other business partners who provide trip reservations that may not be available on our platform. If you select these, you are redirected to other business partners’ websites where you can make a reservation. These partners may share certain personal data related to your specific reservation and your interactions on their websites or mobile apps with us in accordance with their privacy policies.
@@ -104,33 +104,23 @@ Purposes of collecting and processing your personal data
 
 We use your personal data for a number of purposes as outlined here:
 
-1.  Trip reservations
+1.  Trip & payments management
     
       
     
-    First and foremost, we process your personal data to complete and administer your trip reservation – which is essential to provide this service. This includes sending you communications that relate to your trip reservation, such as confirmations (including, where applicable, providing you with a proof of purchase and/or payment), modifications and reminders. In some cases, this may also include processing your personal data to enable online check-in with the trip provider or processing personal data in relation to possible damage deposits.
+    First and foremost, we process your personal data to complete and administer your trip reservation, purchase of insurance products and process associated payments – this is essential to provide our service. This includes sending you communications that relate to your trip reservation, such as confirmations (including, where applicable, providing you with a proof of purchase and/or payment), modifications and reminders. In some cases, this may also include processing your personal data to enable online check-in with the trip provider or processing personal data in relation to possible damage deposits.
     
     * * *
     
-    In addition to your contact details (your email address and telephone number, for example), in order to provide you services, we may also need reservation identifiers and dates to determine the duration of the reservation.
+    In addition to your name, home address, contact details (your email address and telephone number, for example) and payment information (your credit card information, for example), in order to provide you services, we may also need date of birth, current location, whether you’re travelling for work purposes, the names and dates of birth of the people travelling and any preferences you may indicate (such as dietary or accessibility requirements). Some trips, such as flights, may require us to collect additional information such as passport or ID information, where such collection is required by trip providers to comply with relevant obligations.
     
-2.  Customer service
-    
-      
-    
-    We provide our travellers with customer service in more than 40 languages, and we’re here to help 24 hours a day, 7 days a week. Sharing reservation information with our global customer service staff is essential to help you when you need us. This includes for example helping you to contact the right trip provider and responding to any questions you might have about your trip reservation.
-    
-    * * *
-    
-    To do this, we use personal data such as your reservation details including, for example, the price of your reservation as well as how and when you made the reservation.
-    
-3.  User accounts
+2.  Platform services & operations
     
       
     
-    As a user of our services, you can create an account for your use across our platform. With an account, you can manage your trip reservations, take advantage of special offers, make future trip reservations more easily and manage your personal settings.
+    We process your data to provide and maintain the infrastructure that enables you to interact with our platform. This acts as the backbone of our services, allowing you to create and manage your account, browse and search for offerings, communicate, and manage your travel plans seamlessly on our platform.
     
-    If you have an account, you may also qualify for certain Genius benefits, which will be calculated using personal data such as your account information, your country and your past bookings.
+    As a user of our services, you can create an account for your use across our platform. With an account, you can manage your trip reservations, take advantage of special offers and manage your personal settings. We offer helpful tools to organise your future travels. For example, we let you save properties to your wishlists, keep track of saved searches, and use our itinerary planning features.
     
     Managing personal settings gives you the ability to keep and share lists, share photos, easily see trip services you’ve searched for and check travel-related information you’ve provided. You can also see any reviews you’ve written in connection with your trips.
     
@@ -138,160 +128,180 @@ We use your personal data for a number of purposes as outlined here:
     
     If you’re a Booking.com for Business account holder, you can also save contact details in that account, manage business reservations and link other account holders to the same Booking.com for Business account.
     
-    * * *
-    
     To provide accounts, we use personal data such as login credentials for accessing your account and information about when the account is used; for example in connection with reservations and payments.
     
-4.  Marketing activities
+    * * *
     
-      
-    
-    We use your information for marketing activities, including:
+    We process your personal data to provide and maintain the infrastructure that enables you to browse and search for offerings on our platform. This includes, for example, processing your search queries to deliver basic search results to you. We also use certain preferences and information, such as your preferred language settings and your search history, to provide you with a more seamless experience and to allow you to easily resume your travel planning.
     
     * * *
     
-    *   To send you personalised marketing messages including promotions, Genius related benefits and other rewards, travel experiences, surveys and other updates about Booking.com related products and services. These can be via push notifications, SMS and other messaging applications, notifications in our app or emails. You always have the option to unsubscribe from marketing messages. For example, you can unsubscribe from receiving email marketing communications at any time by selecting the “Unsubscribe” link included in each communication, or manage your preferences via your account settings.  
-          
-        
-        For personalised marketing messages, we may also use your interaction with our platform such as previous reservations and behavioural data, including data collected via cookies and similar tracking technologies.
-        
-    *   To show you personalised marketing including promotions, Genius related benefits and other rewards, travel experiences, surveys and other updates about Booking.com products and services on the Booking.com website, mobile apps, or on third-party websites and apps. For more information on personalised marketing please see the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how). These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated with a strategic partner, or on other third-party sites.  
-          
-        
-        For personalised marketing displays, we may also use your interaction with our platform such as previous reservations and behavioural data, including data collected via cookies and similar tracking technologies.
-        
-    *   To contact you with information about insurance products that you didn’t include in your reservation.
-    *   To organise other promotional activities and, based on information already collected, we may invite you and other travellers to participate in such activities.
+    Our platform includes communication services such as email and chat, allowing you to easily contact the trip provider. You may use these services to discuss specifics of your reservation such as available parking or check-in arrangements.
+    
+    To facilitate the communication services, we use personal data such as your name and metadata, including what you share in your interactions.
     
     * * *
     
-    To do this, we use personal data such as your contact and account information, browsing data, location data and preferences, searches and reservations you make from different devices.
+    During and after your trip, we might invite you or your travelling companion to submit a review. This invitation asks for information about the trip provider or the destination.
     
-5.  Communicating with you
+    The reviews help to inform other travellers about the quality of the trip service you used, the destination you chose, the ground transportation, or any other experiences you choose to share without disclosing your identity. Reviews submitted by travellers are subject to our [Terms of Service](https://www.booking.com/content/terms.en-gb.html?aid=304142) and to automated and other content moderation to verify that reviews conform with our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142). If a review you submit is not accepted in line with our content moderation standards, we may still process the rejected review, for example, for improving our services.
     
-      
+    To do this, we use personal data such as your first name or display name, review score and any specific content or images you have included in your review. If you have a Booking.com account, you can choose to display a screen name next to your review, instead of your first name.
+    
+    * * *
     
     There may be times when we get in touch with you including via email, chatbot, post, phone call, push notification, platform notification or text message. Which method we choose depends on the contact information you’ve previously shared.
     
     We process personal data in communications you and other parties send to us. There may be a number of reasons for this, including:
     
-    * * *
-    
     *   Responding to and handling any support requests made by you or the trip provider you booked with. We offer travellers and trip providers various ways to exchange information via our platform, such as requests and comments about trip reservations made via Booking.com.
-    *   If you have started but not finished a trip reservation, we might contact you to invite you to continue with your reservation. This convenience allows you to pick up the process where you left off without having to search for a trip provider or fill in your reservation details again.
-    *   When you use our trip services, we might send you a questionnaire or otherwise invite you to provide a review about your experience with us or the trip provider.
     *   We send you other material related to your trip reservations, such as how to contact us if you need assistance while you’re away and information that we feel might be useful to you to prepare for your trip and get the best experience.
     *   Even if you don’t have an upcoming trip, we may still need to send you other administrative messages, which could include security alerts.
     *   We may send you a warning or other notice if a trip provider reports misconduct by you.
     
-    * * *
-    
     To do this, we use personal data such as your first and last name, email address and reservation details including reservation IDs and chosen locations.
     
-6.  Market research
+3.  Customer support & dispute resolution
     
       
     
-    We sometimes invite our customers to participate in market research. Please see the information that accompanies this kind of invitation to understand what personal data will be collected and how that data is used.
+    We provide our travellers with customer service in more than 40 languages, and we’re here to help 24 hours a day, 7 days a week. Sharing reservation information with our global customer service staff is essential to help you when you need us. This includes for example handling inquiries and complaints, mediating between you and your trip providers, providing post-booking support, and resolving any claims or disputes.
     
-7.  Improving our services
-    
-      
-    
-    We use personal data about travellers using our platform for analytical purposes, including for analysing how you or travellers like you with similar interests use our platform, understanding customer sentiment and satisfaction, measuring our operating performance and improving trip services. We may process your user ID for the purpose of measuring the audience visiting our websites. We may use your personal data to develop and enhance our machine learning models and artificial intelligence systems. This is a necessary part of our ongoing commitment to make our services better and enhance our travellers’ experience. For further details, please see the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
-    
-    In addition to the statistics we generate regularly about our business, we use data to perform experiments (such as A/B tests) to try out and troubleshoot platform features. The main goal here is to get insights into how our services perform, how they are used, and ultimately how to optimise and customise our website and mobile apps, in an effort to make them easier and more meaningful to use. In order to achieve this purpose, we may combine personal data we collect from you during different visits to our platform or visits on different devices or different websites of ours, even when you are not logged in.
+    To do this, we use personal data such as your name, home address, contact details (your email address and telephone number, for example), verification details (such as PIN) and reservation details including, for example, reservation ID, the price of your reservation as well as how and when you made the reservation. To provide you with help, we may also process personal data you share with us during your interactions with customer service.
     
     * * *
+    
+    When you make calls to our customer service team, we use an automated telephone number detection system to match the number you call from to the reservation you made. This saves time for you and our customer service staff. However, our customer service staff may still ask for additional identification to ensure it is you calling about the reservation.
+    
+    Depending on your location, when you call our customer service team, we may use a digital assistant to understand the intent of your call and create a summary before routing you to a customer service agent. We may generate a call transcript of your interaction with the digital assistant, in which case it will be kept for a limited amount of time (30 days by default). Where possible, the digital assistant may also be able to provide you with a resolution directly.
+    
+    When you call our customer service team, we may have one or more authorised persons listen to the call or record the call for training and quality control purposes. This quality control includes the usage of the recordings to handle possible complaints, legal claims and indications of possible fraud attempts.
+    
+    We do not record every call made to our customer service team. If a call is recorded, it is kept for a limited amount of time (30 days by default ) in order to fulfil the objectives mentioned earlier. We then automatically delete the call recording unless we determine before then that it will be necessary to retain it for fraud investigation or legal purposes.
+    
+4.  Safety, security & fraud prevention
+    
+      
+    
+    We continuously analyse and use certain personal data to prevent and detect online fraud attempts and other illegal or unwanted activities. This is necessary to maintain the integrity of our platform as a trustworthy environment as well as for the safety of all travellers.
+    
+    We use personal data for safety and security purposes, including when you report a safety concern, when others do so about you or when we need to identify persons in connection with a user account or reservation. When we do this, we may have to stop or put certain reservations on hold until we finish our assessment. If we have concerns about serious misconduct, we may cancel your upcoming reservations or decline your future reservations via our platform.
+    
+    In case of safety or security concerns, we may collect, analyse and combine with other information we hold, and/or information from publicly available sources (such as media reports or social media platforms) to prevent or detect harm (including towards our staff or premises). We cannot prevent that some of that information may contain special categories of personal data.
+    
+    In order to detect and prevent fraud and limit other abuse of our platform, we may use your personal data and analyse your behaviour on our platform to assess the risk of a certain action or transaction you are attempting to make. For example, this may help us determine whether a bot is using our platform, rather than a legitimate user or to determine whether a user is making a fraudulent payment using a stolen credit card.
+    
+    For these purposes, we use your contact information, other identifiers (such as IP addresses), reservation details including cancelled reservations, reviews, account information, browsing data, location data, communications data, or other information that you or another person has provided us, including images, video or other media submitted on our platform.
+    
+    We use artificial intelligence to review activity on our platform for fraud and to detect any other forms of misconduct as described in the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
+    
+5.  Personalisation, ranking & platform optimisation
+    
+      
+    
+    We process your data to personalise your experience and make our platform easier to use. This helps us bring the most relevant options to your attention by adjusting what you see based on your interactions with us, including:
+    
+    *   We sort and display search results so that the choices that best fit your travel style based on your browsing habits or past purchases.
+    *   When you return to our platform, we make it simple to resume your travel planning. If you have an account on our platform, we link your browsing activity across different sessions and devices to give you a continuous experience.
+    *   We adjust the layout and look of our platform to guarantee a smooth browsing experience. For example, we adjust the displayed content, layout, and language based on your preferred language and the specific type of device you are using.
+    *   We make available website functionalities (some powered by Generative AI) such as AI Chat, AI memories, or smart filters that allow you to have a more controlled and personalised experience on our website. These features translate into tailored searches or personalised content display across our platform. For more information on how we use AI to personalise your experience, please see the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
+    *   We highlight additional options that can enhance your journey. This includes showcasing relevant travel-related products or services, such as insurance, ground transportation, or attractions, that complement your existing trip and travel preferences.
+    
+    To do this, we use personal data such as search history, previous reservations, browsing data, behavioural data (data collected via cookies and similar tracking technologies, for example) and device details.
+    
+6.  Advertising, marketing & promotions
+    
+      
+    
+    We use your personal data for marketing and promotional activities, including:
+    
+    *   To send you personalised marketing messages including promotions, Genius related benefits and other rewards, travel experiences, surveys and other updates about Booking.com related products and services. These can be via push notifications, SMS and other messaging applications such as WhatsApp, notifications in our app or emails. If you have started but not finished a trip reservation, we might contact you to invite you to continue with your reservation. You always have the option to unsubscribe from marketing messages. For example, you can unsubscribe from receiving email marketing communications at any time by selecting the “Unsubscribe” link included in each communication, or manage your preferences via your account settings.
+        
+        For personalised marketing messages, we may also use your interaction with our platform such as previous reservations and behavioural data, including data collected via cookies and similar tracking technologies.
+        
+    *   To show you personalised marketing including promotions, Genius related benefits and other rewards, travel experiences, surveys and other updates about Booking.com products and services on the Booking.com website, mobile apps, or on third-party websites and apps. These may be offers and recommendations we think you may find interesting that you can book directly on our platform, on sites operated with a strategic partner, or on other third-party sites.
+        
+        For personalised marketing displays, we may also use your interaction with our platform such as previous reservations and behavioural data, including data collected via cookies and similar tracking technologies.
+        
+    *   To highlight relevant protection products you might need for your journey.We may contact you with information about different available products that you didn’t include when you initially made your reservation.
+    *   To invite you to engage with us through campaigns, events and other promotional activities. Based on information already collected, we may invite you and other travellers to participate in such activities.
+    *   To manage customer reward initiatives, such as the Genius loyalty programme and other reward benefits. For example, we use your past travel activity to automatically calculate your loyalty tier level, enroll you in rewards, and send you updates about your benefits.
+    
+    To do this, we use personal data such as your contact and account information, browsing data, location data and preferences, searches and reservations you make from different devices and sessions.
+    
+    For more information on personalised marketing please see the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
+    
+7.  Analytics, insights & market research
+    
+      
+    
+    We use personal data about travellers using our platform for analytical purposes, including to understand how groups of travellers with similar interests interact with our services. This includes measuring customer sentiment and satisfaction, evaluating our operating performance and generating reports, metrics, and aggregate insights. We measure the volume and audience patterns of travelers visiting our platform.
+    
+    In addition to the statistics we generate regularly about our business, we use data to perform experiments (such as A/B tests) to try out and troubleshoot platform features. The main goal here is to get insights into how our services perform, how they are used, and ultimately how to optimise and customise our websites and mobile apps, in an effort to make them easier and more meaningful to use. In order to achieve this purpose, we may combine personal data we collect from you during different visits to our platform or visits on different devices or different websites of ours, even when you are not logged in.
     
     To do this, we use personal data such as:
     
     *   Reservations made by travellers over specific periods of time or for specific products
     *   Communications between you and our trip providers, or between you and us (for example, for customer service purposes)
-    *   The searches travellers made on our websites and apps
+    *   The searches travellers made on our websites and mobile apps
     *   The reviews travellers shared via us about their trip experience
+    *   Device details and behavioural data gathered through cookies and other tracking technologies when travellers engage with our platform
     
     Our recurring work for analytical purposes includes the use of solutions that pseudonymise personal data or process personal data in encrypted formats. As much as possible, we strive to use anonymised and de-identified personal data for this analytical work.
     
-8.  Showing the pricing applicable to you
+    * * *
+    
+    We sometimes invite our customers to participate in market research and surveys. Please see the information that accompanies this kind of invitation to understand what personal data will be collected and how that data is used.
+    
+8.  Training & optimising AI Models
     
       
     
-    When you search our websites or mobile apps, for example to find an accommodation, a rental car or a flight, the pricing you see may depend on a number of factors, such as whether you are in the European Economic Area (EEA) or in another region or country outside of the EEA.
+    We may use your personal data to develop and enhance our machine learning models and artificial intelligence systems. For further details, please see the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
     
-    In order to display the pricing applicable to you, we use personal data such as your IP address, the type of device you are using and which site you came from.
-    
-9.  Customer reviews and other destination-related information
+9.  Finance, tax & reporting
     
       
     
-    During and after your trip, we might invite you or your travelling companion to submit a review. This invitation asks for information about the trip provider or the destination.
+    We process your personal data to allow us to manage our financial operations, including maintaining our general accounting, settling payments with trip providers and meeting our legal financial reporting, tax obligations and mandatory disclosures to regulatory bodies. For example, we use transaction details from completed trips to prepare our annual financial statements.
     
-    The reviews help to inform other travellers about the quality of the trip service you used, the destination you chose, the ground transportation, or any other experiences you choose to share without disclosing your identity. Reviews submitted by travellers are subject to our Terms of Service and to automated and other content moderation to verify that reviews conform with our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?aid=304142). If a review you submit is not accepted in line with our content moderation standards, we may still process the rejected review, for example, for improving our services.
-    
-    If you have a Booking.com account, you can choose to display a screen name next to your review, instead of your first name.
-    
-10.  Call monitoring
+10.  Legal, regulatory & corporate compliance
      
        
      
-     When you make calls to our customer service team, we use an automated telephone number detection system to match the number you call from to the reservation you made. This saves time for you and our customer service staff. However, our customer service staff may still ask for additional identification to ensure it is you calling about the reservation.
-     
-     When you call our customer service team, we may have one or more authorised persons listen to the call or record the call for training and quality control purposes. This quality control includes the usage of the recordings to handle possible complaints, legal claims and indications of possible fraud attempts.
-     
-     We do not record every call made to our customer service team. If a call is recorded, it is kept for a limited amount of time (30 days by default). We then automatically delete the call recording unless we determine before then that it will be necessary to retain it for fraud investigation or legal purposes.
-     
-11.  Promotion of a safe and trustworthy service and prevention of fraud
-     
-       
-     
-     We continuously analyse and use certain personal data to prevent and detect online fraud attempts and other illegal or unwanted activities. This is necessary to maintain our platform as a trustworthy environment as well as for the safety of all travellers.
-     
-     We use personal data for safety and security purposes, including when you report a safety concern, when others do so about you or when we need to identify persons in connection with a user account or reservation. When we do this, we may have to stop or put certain reservations on hold until we finish our assessment. If we have concerns about serious misconduct, we may cancel your upcoming reservations or decline your future reservations via our platform.
-     
-     In case of safety or security concerns, we may collect, analyse and combine with other information we hold, and/or information from publicly available sources (such as media reports or social media platforms) to prevent or detect harm (including towards our staff or premises). We cannot prevent that some of that information may contain special categories of personal data.
-     
-     In order to detect and prevent fraud and limit other abuse of our platform, we may use your personal data and analyse your behaviour on our platform to assess the risk of a certain action or transaction you are attempting to make. For example, this may help us determine whether a bot is using our platform, rather than a legitimate user or to determine whether a user is making a fraudulent payment using a stolen credit card.
-     
-     * * *
-     
-     For these purposes, we use your contact information, other identifiers (such as IP addresses), reservation details including cancelled reservations, reviews, account information, browsing data, location data, communications data, or other information that you or another person has provided us, including images, video or other media submitted on our platform.
-     
-     We use artificial intelligence to review activity on our platform for fraud and to detect any other forms of misconduct as described in the section [How we use artificial intelligence and make automated decisions](#use-ai-and-make-decisions-how).
-     
-12.  Legal purposes
-     
-       
+     We use your personal data to run our business responsibly, defend our legal position, and fulfil our duties under global laws. This includes handling corporate governance, managing formal disputes, and complying with binding regulatory requirements.
      
      In certain cases, we may need to reuse your information to:
      
      *   Handle and resolve legal claims and disputes
      *   Address possible regulatory investigations
-     *   Enforce our reservation Terms of Service
+     *   Defend our legal rights and interests as established in the [Terms of Service](https://www.booking.com/content/terms.en-gb.html?aid=304142) in formal legal proceedings
+     *   Manage individual requests, including data subject requests
      *   Comply with lawful requests from law enforcement
-     *   Comply with laws and regulations that apply to Booking.com
+     *   Comply with laws and regulations that apply to our platform
+     *   Conduct corporate governance and business audits
      
-     For example, we may be required to process your reservation history, the details of one or more of these reservations and associated payment information.
+     For example, we may be required to process your identity and verification information, reservation history, the details of one or more of these reservations and associated payment information.
      
 
 Legal bases for personal data processing
 
-To process your personal data as previously described, Booking.com relies on several legal bases in applicable privacy regulations. This is summarised as follows:
+To process your personal data as previously described, Booking.com relies on several legal bases in applicable privacy regulations. The legal bases we rely and the purposes to which they predominantly apply are summarised as follows:
 
 | Purpose of personal data processing | Legal basis and comments |
 | --- | --- |
-| A. Trip reservations  <br>  <br>B. Customer service | Here, Booking.com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalise and administer your trip reservation.  <br>  <br>If the required personal data is not provided, Booking.com cannot finalise the trip reservation with the trip provider, nor can we provide customer service to you about it. |
-| C. User accounts<br><br>  <br>D. Marketing activities  <br>  <br>E. Communicating with you  <br>  <br>F. Market research  <br>  <br>G. Improving our services  <br>  <br>H. Showing the pricing applicable to you  <br>  <br>I. Customer reviews and other destination-related information  <br>  <br>J. Call monitoring  <br>  <br>K. Promotion of safe and trustworthy service and prevention of fraud | Unless provided otherwise in this overview, collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking.com or a third party. Before we process personal data to serve the legitimate interests of Booking.com or a third party, Booking.com balances your rights and interests in the protection of personal data with the rights and interests of Booking.com or those of the third party.  <br>  <br>The legitimate interests include, for example, under certain circumstances using AI systems to avoid financial harm from online fraud, maintain the safety of our platform, customers and trip providers and staff, share people’s experiences with prospective travellers and keep people informed about offers we think might be of interest, reduce our operating costs, improve the efficiency and quality of our data processing models and privacy-enhancing technologies, and provide better products to our customers.  <br>  <br>In the unlikely event Booking.com would process special categories of personal data in the context of purpose K, we rely, where applicable, on the fact that processing relates to personal data which are manifestly made public by the individual or other legal bases as may be assessed at the time. |
-| L. Legal purposes | Booking.com also relies, where applicable, on compliance with legal obligations (such as lawful law enforcement requests). |
-| All purpose categories | Finally, where needed under applicable law, Booking.com will obtain your consent prior to processing your personal data, including for direct marketing purposes, for use of AI Systems or technology or where otherwise required by law. |
+| A. Trip & payments management  <br>  <br>B. Platform services & operations  <br>  <br>C. Customer support & dispute resolution | Here, Booking.com relies on the legal basis that the processing of personal data is necessary for the performance of a contract involving you, specifically to finalise and administer your trip reservation.  <br>  <br>If the required personal data is not provided, Booking.com cannot finalise the trip reservation with the trip provider, nor can we provide customer service to you about it. |
+| B. Platform services & operations (where not required for the performance of a contract with you)  <br>  <br>C. Customer support & dispute resolution (where not related to active reservations)  <br>  <br>D. Safety, security & fraud prevention  <br>  <br>E. Personalisation, ranking & platform optimisation  <br>  <br>F. Advertising, marketing & promotions  <br>  <br>G. Analytics, insights & research  <br>  <br>H. Training & optimising AI models  <br>  <br>I. Finance, tax & reporting  <br>  <br>J. Legal regulatory & corporate compliance | Unless provided otherwise in this overview, collecting and processing of your personal data for these purposes is based on the legitimate interests of Booking.com or a third party.  <br>  <br>Before we process personal data to serve the legitimate interests of Booking.com or a third party, Booking.com balances your rights and interests in the protection of personal data with the rights and interests of Booking.com or those of the third party.  <br>  <br>The legitimate interests include, for example, under certain circumstances using AI systems to avoid financial harm from online fraud, maintain the safety of our platform, customers and trip providers and staff, share people’s experiences with prospective travellers and keep people informed about offers we think might be of interest, reduce our operating costs, improve the efficiency and quality of our data processing models and privacy-enhancing technologies, and provide better products to our customers.  <br>  <br>In the unlikely event Booking.com would process special categories of personal data in the context of purpose D, we rely, where applicable, on the fact that processing relates to personal data which are manifestly made public by the individual or other legal bases as may be assessed at the time. |
+| D. Safety, security & fraud prevention (where we have a legal obligation to do so)  <br>  <br>I. Finance, tax & reporting (where we have a legal obligation to do so)  <br>  <br>J. Legal regulatory & corporate compliance (where we have a legal obligation to do so) | Booking.com also relies, where applicable, on compliance with legal obligations (such as lawful law enforcement requests). |
+| All purpose categories | Finally, where needed under applicable law, Booking.com will obtain your consent prior to processing your personal data, including for direct marketing purposes, for use of AI systems or technology or where otherwise required by law. |
 
 Our use of AI systems is aligned with data protection laws. The specific legal basis for using AI generally aligns with the overall purpose of data processing outlined in this section.
 
-If you wish to object to the processing set out under C to K and the use of AI systems and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us as described in the section [Your rights](#your-rights).
+If you wish to object to the processing where we rely on legitimate interest and the use of AI systems and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us as described in the section [Your rights](#your-rights).
 
 [Back to top](#privacy-statement)
 
-How we share personal data within Booking.com
+Why we share personal data within Booking.com
 
 To support the use of Booking.com services, your details may be shared within Booking.com group entities and the other Booking Holdings Inc. companies described in the section on [Our company](#our-company-and-comply-with-privacy-laws-how).
 
@@ -309,7 +319,7 @@ We may receive personal data about you from other companies in the BHI group (su
 
 As applicable and unless indicated otherwise, for purposes A to F, we rely on our legitimate interests to share and receive personal data. For purpose G, we rely, where applicable, on compliance with legal obligations (such as lawful law enforcement requests). We also ensure that data flows between companies in the BHI group comply with applicable law, including obtaining your consent where needed prior to sharing your personal data with other BHI companies.
 
-How we share personal data with third parties
+Why we share personal data with third parties
 
 In certain circumstances, we’ll share your personal data with third parties. These third parties include:
 
@@ -342,7 +352,7 @@ Strategic partners
 
 We work with many strategic partners around the world. These strategic partners distribute and advertise Booking.com services, including the services and products of our trip providers. Depending on the strategic partner, you may make your trip reservation through:
 
-*   Our website that is operated in partnership with a strategic partner; or
+*   One of our websites that is operated in partnership with a strategic partner; or
 *   Strategic partners’ websites or mobile apps.
 
 For the former, the strategic partners will receive certain personal data related to your specific reservation and your interactions on these websites. This is for the legitimate interest of Booking.com or our strategic partners.
@@ -515,7 +525,7 @@ Cookies we use can be divided into three purpose categories: functional cookies,
 
 |     |     |
 | --- | --- |
-| Functional cookies | We use functional cookies to enable our websites and mobile apps to work properly, so you can create an account, sign in, and manage bookings. They also remember your selected currency, language and past searches. These technical cookies must be enabled to use our website and services. |
+| Functional cookies | We use functional cookies to enable our websites and mobile apps to work properly, so you can create an account, sign in, and manage bookings. They also remember your selected currency, language and past searches. These technical cookies must be enabled to use our websites and services. |
 | Analytical cookies | We and our partners use analytical cookies to gain information on your website and mobile app usage which is then used to understand how visitors like you use our platform and to improve the performance of our website and services. |
 | Marketing cookies | We and our partners use marketing cookies, including social media cookies, to collect information about your browsing behaviour that helps us and our partners decide which products to show you on and off our websites and mobile apps, to display and send personalised content and advertisements on our platform, other websites and via push messages and email. The personalised content is based on your browsing activities and the services you have booked. These cookies also allow you to share or like pages on social media. |
 
@@ -535,7 +545,7 @@ We are always looking for opportunities to innovate and improve the customer exp
 | --- | --- |
 | Promotion of a safe and trustworthy service and prevention of fraud | Our AI systems use machine learning to quickly and accurately monitor our platform for fraud, complaints, and misconduct by travellers or trip providers, surpassing manual review for speed and accuracy. The AI scans transactions and user-submitted content (e.g. images) for risk. High-risk items are flagged for human review and may be hidden or removed. |
 | Showing you the most relevant content | We use AI systems to improve and personalise your experience on our platform. We use AI to predict the optimal/most relevant category of products or services for you and to bring the best options to your attention. This may include showing you details of a trip we think would interest you, displaying tailored complementary trips offerings on our platform and ranking search results to put the best matches to the top of your feed.  <br>  <br>Our [How we work](https://www.booking.com/content/how_we_work.en-gb.html) pages contain more information on our recommendation systems and personalisation. |
-| AI Memory: Remembering your key details to personalise your experience | We offer personalisation by remembering key details of your interactions with our platform and preferences using generative AI in AI Memories. This enables us to tailor your user experience across our platform, making it more personalised and relevant to you. We store the AI Memories which are generated by a third-party AI model. AI Memories can include preferences like your travel style, budget, or specific needs. For instance, if you mention, "Remember that I always need a hotel with a gym", AI Memories can remember this preference for future searches and recommendations, so you don't have to repeat yourself.  <br>  <br>You remain in full control. Through your privacy settings, you can view, manage, and delete your AI Memories, and you can also withdraw your consent for this feature at any time. |
+| AI memory: Remembering your key details to personalise your experience | We offer personalisation by remembering key details of your interactions with our platform and preferences using generative AI in AI memories. This enables us to tailor your user experience across our platform, making it more personalised and relevant to you. We store the AI memories which are generated by a third-party AI model. AI memories can include preferences like your travel style, budget, or specific needs. For instance, if you mention, "Remember that I always need a hotel with a gym", AI memories can remember this preference for future searches and recommendations, so you don't have to repeat yourself.  <br>  <br>You remain in full control. Through your privacy settings, you can view, manage, and delete your AI memories, and you can also withdraw your consent for this feature at any time. |
 | AI interactive chats | We use AI to develop and offer interactive chats which allow you to ask questions about a trip or service and receive AI-generated responses or suggestions. The interactive chats may use any data you share with it, including personal data, as well as your search and booking history on our platform to make recommendations to you. |
 | Summarising customer service interactions | We may use AI to transcribe and summarise your interactions with our customer service agents. This helps us improve the efficiency and speed of our customer services to help you with queries about your booking and our services. Any personal data you share with us when interacting with our customer service agents, including your booking details, may be included in the AI summary. |
 | Intelligent Voice Assistance | Depending on your location, when you call us, we may use AI to offer you an option called Intelligent Voice Assistance to help with your query. This service allows you to ask questions about your booking to an AI-powered agent. The Intelligent Voice Assistance can provide relevant responses and help you with certain actions relating to your booking. The Intelligent Voice Assistance will use any data you share with it, including personal data, and your booking details. |
