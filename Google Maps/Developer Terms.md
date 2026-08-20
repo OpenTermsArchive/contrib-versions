@@ -223,6 +223,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   The World Bank Group [https://datacatalog.worldbank.org/public-licenses#cc-by](https://datacatalog.worldbank.org/public-licenses#cc-by)
             
+        *   Datos Abiertos Argentina - AR - [https://www.argentina.gob.ar/georef/condiciones-de-uso-y-licencia](https://www.argentina.gob.ar/georef/condiciones-de-uso-y-licencia) - License: [https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es)
+            
+        *   Datos Abiertos Provincia de Buenos Aires - AR - [https://catalogo.datos.gba.gob.ar/dataset/partidos](https://catalogo.datos.gba.gob.ar/dataset/partidos)
+            
     6.  **Belgium**
         *   Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
@@ -1751,7 +1755,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   The Lithuanian Spatial Information Portal - [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
          *   National Access Point (LT): [https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network](https://maps.eismoinfo.lt/portal/apps/sites/#/npp/pages/network)
          *   State Enterprise Centre of Registers: [https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data](https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data)
-         *   Vilnius Open Data: [https://opendata.vilnius.lt/dataset/vilnius-addresses](https://opendata.vilnius.lt/dataset/vilnius-addresses)
+         *   Vilnius Open Data - LT - License: [https://creativecommons.org/licenses/by/4.0/deed.lt](https://creativecommons.org/licenses/by/4.0/deed.lt)
          *   Lithuanian Road Administration: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
          *   Registru Centras: [https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data](https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data)
          *   Via Lietuva. OCPI 2.3.0 feed. [https://ev.vialietuva.lt/atviri-duomenys-1](https://ev.vialietuva.lt/atviri-duomenys-1), [https://creativecommons.org/licenses/by/4.0/deed.lt](https://creativecommons.org/licenses/by/4.0/deed.lt)
