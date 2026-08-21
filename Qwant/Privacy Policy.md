@@ -1,144 +1,154 @@
 Privacy policy
 ==============
 
-At Qwant, transparency, security, and the protection of your personal data have always been a top priority. This document aims to inform you about the types of data we collect, why we collect it, how we manage it, as well as your privacy rights and how you can exercise these rights.
+At Qwant, transparency, security, and the protection of your personal data have always been an absolute priority. Accordingly, the purpose of this document is to inform you about the type of data we collect, why we collect it, and how we manage it, as well as about your privacy rights and the way in which you can exercise these rights.
 
-This Privacy Policy applies to the website [www.qwant.com](http://www.qwant.com/) (the “Site”), accessible from your computer, tablet, and smartphone (“Device”) . This policy governs the processing of personal data of all “Users” accessing the Site. It also governs the processing related to the use of the search engine and its new features (the “Services”).
+This Privacy Policy applies to the website [www.qwant.com](http://www.qwant.com/) and to the [Qwant Junior service](https://www.qwantjunior.com/) (www.qwantjunior.com) (the “Site”) accessible from your computer, your tablet and your smartphone (the “Device”). This policy is intended to govern the processing of personal data of all “Users” accessing the Site. It also governs the processing related to the use of the search engine and its new features (the “Services”).
 
-You may not be subject to all the processing mentioned below. Indeed, since the new features are not accessible to all Users, some processing is only carried out with your consent and/or upon the creation of your user account (See « [_Why Qwant processes your data and uses cookies_](#cookies) »)
+You may not be subject to all the processing operations mentioned below. Indeed, as the new features are not accessible to all Users, certain processing operations are carried out only with your consent and/or upon the creation of your user account. (See “[Why does Qwant process your data and use cookies](#cookies)”)
 
-Qwant, located at 42 Avenue de la Porte de Clichy, 75017 Paris, acts as the data controller within the meaning of Article 4.7 of the GDPR. You can contact the Data Protection Officer (“DPO”) via the following address: [legal@qwant.com](mailto:legal@qwant.com)
+Qwant, located at 42 avenue de la Porte de Clichy 75017, Paris, acts as data controller within the meaning of Article 4.7 of the GDPR. You may contact the Data Protection Officer (the “DPO”) at the following address: dpo@qwant.com
 
 #### Table of contents
 
 Why Qwant processes your data and uses cookies?
 -----------------------------------------------
 
-Qwant remains your search engine, preserving your privacy without targeted advertising or storing your search history, thus guaranteeing neutral and unfiltered results without using advertising cookies on your Device. Your data remains confidential, and the processing of your data remains the same.
+Qwant remains at all times your search engine that preserves your privacy, without targeted advertising or retention of your search history, thereby guaranteeing neutral and unfiltered results, without using advertising cookies on your Device. Details on the processing of your data are available in the “Without consent” processing table. Qwant offers its users several new ways of using its Services.
 
-Qwant also gives you the opportunity to test our new features integrating artificial intelligence once a month. Details on the processing of your data are available in the “[Non-Consent](#non-consent)” processing table.
+If you wish to receive personalised advertising based on your interests or your searches, you may consent to the use of advertising, analytics or personalisation cookies when creating your account. Details on these processing operations and their purposes are available in the “With consent” processing table. If you do not wish to, you simply need to refuse them when consent is collected and through our cookie manager.
 
-Qwant offers its users several new ways to use its Services. You can create a user account to gain unlimited access to new features. In this case, certain data processing is necessary to ensure the proper functioning of these Services (including the transmission of the IP address). Information about this processing is provided in the “[Non-Consent](#non-consent)” processing table.
-
-If you wish to receive personalized ads based on your interests or searches, you can consent to the use of analytical or personalization advertising cookies. Details on this processing and its purposes are available in the “[Consent](#consent)” processing table. If you do not wish to, simply refuse them during the consent collection and through our cookie manager.
-
-What Data is processed on our Site?
------------------------------------
+What Data is concerned by processing on our Site?
+-------------------------------------------------
 
 |     |     |     |
 | --- | --- | --- |
-| **CATEGORY** | **DATA CONCERNED** | **RETENTION** **PERIOD** |
-| User<br><br>account data | When you register on our site, you provide us with data such as your email address, marketing email preferences, and profile language.<br><br>We will also have access to the date of your last login.<br><br>When you use Google and Apple authentication, you automatically authorize us to access your email address from these partners to simplify the creation of your user account. | 13 months from your last activity on your user account.<br><br>If you request the deletion of your user account, it will be deleted as soon as possible. |
-| Service data | You provide us with information when you respond to surveys. | 13 months from your last activity on your user account. |
-| Browsing data | When you use our Site, we automatically and anonymously collect information about how you use our Services, including your clicks or interactions with ads.<br><br>This includes, for example, search keywords and search fields used to trigger a query. | 13 months maximum |
-| Device data | If you consent during your use of our Services, we automatically collect technical data:<br><br>– Technical identifiers (cookie identifier)<br><br>– Technical characteristics of the device you use to access our Services, such as the type of device (smartphone, computer, etc.) and the operating system (version, language, system date and time, etc.)<br><br>We also collect your IP address for the proper functioning of our Services (see « _Providing the necessary functionalities for our Services to work_ ») | Deletion of the entire IP address after 6 months and cookie identifiers and other intersession identifiers used to identify a specific account or device after 18 months by Microsoft.<br><br>These data are aggregated and retained by Qwant for 25 months.  <br>These data are obfuscated and retained for 25 months by Piwik Pro. |
-|     | If you have not consented or are not subject to the Services offered, we automatically collect technical data:<br><br>– Technical characteristics of the device you use to access our Services, such as the type of device (smartphone, computer, etc.) and the operating system (version, language, system date and time, etc.)<br><br>– Salted hash of the IP address (with a salt changing at least every three months), market segment of a query, date and time of the visit, information about the country and chosen language. | Anonymized by Microsoft after 6 months.<br><br>These data are aggregated and retained by Qwant for 25 months.  <br>These data are obfuscated and retained for 25 months by Piwik Pro. |
+| CATEGORY OF DATA | DATA CONCERNED | RETENTION PERIODS |
+| User<br><br>account data | In the relevant territories only, when you register on our site, you provide us with data concerning you such as your e-mail address, your marketing e-mail preference, and the language of your profile.<br><br>We will also have access to the date of your last login, the date of acceptance of the Terms, the date of creation of your account, the update of your username, and the sending of transactional e-mails (the “Events”).<br><br>When you use authentication via Google and Apple, you automatically authorise us to access, from these partners, your e-mail address in order to simplify the creation of your User Account. | 13 months from your last activity recorded on your User Account.<br><br>If you request the deletion of your user account yourself, it will be deleted as soon as possible.<br><br>The Events are deleted after 3 months. |
+| Services Data | You provide us with the information when you respond to surveys/questionnaires. This data is used in order to improve Qwant’s services. No personal data is requested. | 13 months from your last activity recorded on your User Account. |
+| Device data | If you consent to it, during your use of our Services, we automatically collect technical data:  <br>– Technical identifiers (cookie identifier), IP address.<br><br>– Technical characteristics relating to the device you use to access our Services, such as the type of device (smartphone, computer, etc.) and the operating system (version, language, system date and time, etc.)<br><br>– During your use of our Site, we automatically collect your search fields, as well as information relating to the way you use our Services, including your clicks or interactions with advertisements.  <br>This data is collected for statistical purposes and is associated with pseudonymous identifiers, wich cannot be cross-referenced with one another. | By Microsoft: The IP address is retained in its entirety for 6 months. Cookie identifiers and other cross-session identifiers that are used to identify a particular account or device are retained for 18 months.<br><br>By Qwant: The data is aggregated and retained by Qwant for 25 months.<br><br>By Piwik Pro: This data is obfuscated and retained for 25 months by Piwik Pro.<br><br>At the end of the retention periods mentioned, the data concerned is deleted in its entirety. |
+|     | If you have not consented to it or if you are not subject to it given the Services offered, we automatically collect technical data:<br><br>– Technical characteristics relating to the device you use to access our services, such as the type of device (smartphone, computer, etc.) and the operating system (version, language, system date and time, etc.)<br><br>– salted hash of the IP address (with a salt changing at the latest every three months), market segment of a query, the date and time of the visit, information on the country and the chosen language.<br><br>During your use of our Site, we automatically collect your search fields, as well as information relating to the way you use our Services, including your clicks or interactions with advertisements. The search fields are processed only for statistical purposes, in pseudonymous form, without being linked to your identity. This data is collected for statistical purposes and is associated with a pseudonymous identifier, which cannot be cross-referenced with one another. | By Microsoft: This data is de-identified after 6 months.<br><br>By Qwant: This data is aggregated and retained by Qwant for 25 months.<br><br>By Piwik Pro: This data is obfuscated and retained for 25 months.<br><br>At the end of the retention periods mentioned, the data concerned is deleted in its entirety. |
 
-How are your data used by us and our partners?
-----------------------------------------------
+How is your data used by us and our Partners?
+---------------------------------------------
 
-Only in the case of creating a User Account and accessing new features (such as unlimited access to artificial intelligence):
+Only in the case of creating a User Account :
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **PURPOSE** | **DESCRIPTION** | **LEGAL BASIS** | **PARTNERS** |
+| **PURPOSES** | **DESCRIPTION** | **LEGAL BASIS** | **PARTNERS** |
 | **WITH YOUR CONSENT** |     |     |     |
-| Sending commercial communications from Qwant | If you have agreed to receive commercial communications from us<br><br>(newsletters), we will use your account data to communicate with you. Only Qwant can be the sender of these communications and will not commercialize them. | Consent | Batch & Qwant |
-| Conducting audience measurements  <br>_  <br>Cookies_ | We may use your browsing data to better understand how our Services are used, for example, by identifying the content of our Services. This helps us in our continuous improvement efforts of our Services. | Your consent expressed through our cookie manager.<br><br>Purpose: “Audience Measurement”. | Microsoft Advertising & Microsoft Clarity |
-| Allowing advertising partners to display personalized ads<br><br>_Cookies_ | Through our advertising platform, we allow our advertising partners to use your Device and browsing data, subject to your consent, to personalize the ads displayed on our Services and assess their effectiveness.<br><br>Generally, these partners act as data controllers, meaning they define the purposes and methods of using your data, ensure its confidentiality, and guarantee compliance with laws and regulations. | Your consent expressed through our cookie manager.<br><br>Purpose<br><br>« Personalization of ads and performance measurement ». | Microsoft Advertising |
-| Use of limited data to select ads<br><br>_Cookies_ | The ads presented to you may be based on limited data, such as your Device and/or browsing data (_e.g., to limit the number of times a particular ad is shown to you_). | Your consent expressed through our cookie manager.<br><br>Purpose: “Use limited data to select ads” | Microsoft Advertising |
-| Measuring ad performances<br><br>_Cookie_ | We use your browsing and Device data to measure how you interact with ads.<br><br>This data can be used to determine how effective an ad has been for you or other users and whether the advertising objectives have been met. This allows us to understand the relevance of advertising campaigns. | Your consent expressed through our cookie manager.<br><br>Purpose: “Measure content performance”. | Microsoft Advertising |
-| Understanding advertising through data combination<br><br>_Cookie_ | Reports may be generated based on the combination of data sets (browsing data, aggregated data, statistical data) regarding your and other users’ interactions with advertising or non-advertising content to identify common characteristics. | Your consent expressed through our cookie manager.<br><br>Purpose: “Understand advertising through data combination”. | Microsoft Advertising |
-| Using profiles to select personalized ads<br><br>_Cookies_ | We use your Device and browsing data to present you with ads based on your advertising profiles. These profiles are created based on your activity on our Service or other websites or applications (_the content you view_). | Your consent expressed through our cookie manager.<br><br>Purpose: “Use profiles to select personalized ads”. | Microsoft Advertising |
-| Creating profiles for personalized advertising<br><br>_Cookies_ | Information about your activity on these Services may be retained and combined with other information about you (browsing data and Device data). This information is then used to create or improve a profile about you (which may include possible interests and personal information).<br><br>Your profile can be used (also later) to present you with advertisements that seem more relevant based on your potential interests by this entity and other entities. | Your consent expressed through our cookie manager.<br><br>Purpose: “Create profiles for personalized advertising”. | Microsoft Advertising |
-| Measuring content performance<br><br>_Cookies_ | Your browsing data may be used to determine whether the content presented to you and how you interact with it can be used to determine whether content (non-advertising, for example) has reached its target audience and matches your interests. | Your consent expressed through our cookie manager.<br><br>Purpose: “Measure content performance”. | Microsoft Clarity |
-| Developing and improving services<br><br>_Cookies_ | Your browsing data is used to improve products and services and to create new products and services based on user interactions and audience type.<br><br>This specific purpose does not include developing or improving user profiles and identifiers. | Your consent expressed through our cookie manager.<br><br>Purpose: “Developing and improving services”. | Microsoft Advertising |
+| Sending you commercial communications from Qwant | In the relevant territories, if you have agreed to receive commercial communications from us (newsletters), we may use your Account Data in order to send them to you. Only Qwant may be the sender of these communications and will not commercialise them in any way. | Consent | Batch & Qwant |
+| Carrying out audience measurement  <br>_  <br>Cookies_ | The use of Device Data makes it possible to better understand the way our Services are used, for example by identifying the content of our Services. In particular as part of a process of continuous improvement of the Services. | Your consent expressed through our cookie manager.<br><br>“Audience measurement” purpose. | Microsoft Advertising & Microsoft Clarity |
+| Allowing advertising partners to display personalised advertisements to you<br><br>_Cookies_ | Through our advertising platform, we authorise our advertising partners to use your Device Data, subject to your consent, in order to personalise the advertisements displayed on our Services and to assess their effectiveness.<br><br>As a general rule, these partners act as data controllers, which means that they define the purposes and the methods of use of your data, ensure its confidentiality and guarantee its compliance with the laws and regulations in force. | Your consent expressed through our cookie manager.<br><br>Purpose<br><br>“Personalisation of advertising and performance measurement”. | Microsoft Advertising |
+| Use of limited data to select advertising<br><br>_Cookies_ | The advertising presented to you may be based on limited data, such as your Device Data (for example, to limit the number of times a given advertisement is displayed to you). | Your consent expressed through our cookie manager.<br><br>“Use limited data to select advertising” purpose | Microsoft Advertising |
+| Measuring the performance of advertising<br><br>_Cookie_ | We use your Device Data in order to measure the way you interact with advertisements.<br><br>This Data may be used to determine to what extent an advertisement has been effective for you or other users and whether the objectives of the advertisement have been achieved. This allows us to appreciate the relevance of advertising campaigns. | Your consent expressed through our cookie manager.<br><br>“Measure the performance of content.” purpose | Microsoft Advertising |
+| Understanding advertising through the combination of data from different sources.<br><br>_Cookie_ | Reports may be generated based on the combination of data sets (Device Data, aggregated data, statistical data) concerning your interactions and those of other users with advertising or non-advertising content, in order to identify common characteristics. | Your consent expressed through our cookie manager.<br><br>“Understand advertising through the combination of data from different sources.” purpose | Microsoft Advertising |
+| Using profiles to select personalised advertisements<br><br>_Cookies_ | We use your Device Data to present you with advertising based on your advertising profiles. They are created based on your activity on our Service or on other websites or applications (the content viewed). | Your consent expressed through our cookie manager.<br><br>“Use profiles to select personalised advertisements” purpose | Microsoft Advertising |
+| Creating profiles for personalised advertising<br><br>_Cookies_ | Information about your activity on these Services may be retained and combined with other information concerning you (Device Data). This information is then used to create or improve a profile concerning you (which may include possible interests and personal information).<br><br>Your profile may be used (including at a later stage) to present advertisements that appear more relevant based on your possible interests, by this entity and other entities. | Your consent expressed through our cookie manager.<br><br>“Create profiles for personalised advertising” purpose. | Microsoft Advertising |
+| Measuring the performance of content.<br><br>_Cookies_ | Your Device Data may be used in order to determine whether the content presented to you and the way you interact with it can be used to determine whether content (non-advertising), for example, has reached its target audience and matches your interests. | Your consent expressed through our cookie manager.<br><br>“Measure the performance of content” purpose. | Microsoft Clarity |
+| Developing and improving services<br><br>_Cookies_ | Your Device Data is used in order to improve products and services and to create new products and services based on user interactions, the type of audience, etc.<br><br>This specific purpose does not include the development or improvement of user profiles and identifiers. | Your consent expressed through our cookie manager.<br><br>“Develop and improve services” purpose. | Microsoft Advertising |
 
-You can refuse all these cookies and:
-
-*   Use our services without creating a User Account,
-*   Refuse all these processes.
+  
+  
+  
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **NON CONSENT** |     |     |     |
-| Managing your user account | If you have created an account, we use your account data to manage your User Account, allow you to log in, and send you communications necessary for its proper functioning. | Contract execution | Batch, Qwant & Shadow. |
-| Displaying standard (non-personalized) ads.<br><br>_Without a User Account_ | We use your browsing data to offer you contextual advertising that exclusively depends on the keywords entered when the ad is displayed. In this case, we do not display targeted ads and do not integrate any cookies. | Legitimate interest | Our advertising partners |
-| Statistics and audience measurements | We may use your account data (excluding email address), Device data, and browsing data to manage the Site in an aggregated way.<br><br>This management requires the use of traffic and/or performance statistics without your identity being known to Qwant.<br><br>These measures are essential to analyze the Site’s operation and to provide our Services:<br><br>*   Performance measurement<br>*   Navigation issue detection<br>*   Technical performance optimization or ergonomics<br>*   Content estimation, etc. | Legitimate interest<br><br>Purpose:<br><br>“Statistics and audience measurements” | Piwik & Qwant |
-| A/B Testing | Occasionally, we may conduct A/B tests. These tests allow us to compare different versions of our engine or features to see which works best.<br><br>The objective is to understand user preferences and improve the usability and effectiveness of our search engine.<br><br>In this context, we only use aggregated and anonymised data, such as the number of clicks on a feature or the time spent on a page, to assess the performance of the different versions tested.<br><br>For these tests, Qwant’s provider retains an anonymous identifier generated randomly and kept for 6 months from the first visit. | Purpose : A/B Testing | Qwant & Piwik. |
-| Measuring the effectiveness of certain contextual advertising results | To establish an aggregated measure of the effectiveness of ads provided by our partner Microsoft and to strengthen its means of detecting fraudulent clicks, Qwant can also transfer the following data for certain categories of ads: if you click on a Microsoft network ad and return to the same Qwant results page:<br><br>– The measurement of the time elapsed between your click on the ad and your possible return to the results page. This data shared with Microsoft is used exclusively for the purposes mentioned above and cannot be used for other purposes. In particular, it cannot be used for user profile-based advertising on Qwant or third-party services.<br><br>This data is transmitted to this partner within the European Union and may be retained in accordance with [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) for a maximum period of 18 months. | Necessary for contract<br><br>execution | Microsoft &<br><br>Qwant |
-| Providing the necessary functionalities for our Services to work (_processing user requests__,__displaying ads, functioning of new features)_ | Qwant retains the keywords entered associated with a pseudonymous identifier calculated from the User Account data and the salted hash of your IP address for 1 month.<br><br>After this period, the keywords are no longer associated with an identifier and retained for 12 months for aggregated statistical analysis purposes.<br><br>To provide relevant results when we do not have the answers to your queries ourselves, we have a partnership with Microsoft to provide our search results and contextual ads based on the entered keywords and your geographic region.<br><br>For this purpose, Qwant can transfer the following pseudonymized data to this partner related to your query:<br><br>*   Search keywords,<br>*   Information about the browser you are using,<br>*   The first three bytes of your IP address or, in the case of a User Account, the IP address,<br>*   The approximate geographic area originating the search on a regional or city level,<br>*   The salted hash generated from your IP address, User Agent, and a salt changing at least every 3 months,<br>*   A random token generated by Qwant (aiming to limit data cross-referencing).<br><br>Additionally, for the security and reliability of our partner’s services (spam detection, automated activity, fraudulent ad clicks), Qwant may also collect and transfer your full IP address to this partner.<br><br>Finally, as part of providing new features, Qwant shares your IP address with Microsoft to provide you with contextual ads and better search results. | Contract execution<br><br>and legitimate interest. | Qwant & Microsoft Advertising. |
-| Managing dereferencing requests | When you wish to exercise your right to dereferencing, we use your account data and/or the data you provide within the form to respond to your dereferencing request. | Legitimate interest | Qwant |
-| Managing information requests | When you request information, we use your account data and/or the data you provide within the contact form to respond to your request. | Legitimate interest | Qwant |
+| NON CONSENT |     |     |     |
+| Management of your user account | In the relevant territories, if you have created an account, we use your User Account Data in order to manage your User Account, to allow you to log in to it and to send you the communications necessary for their proper functioning. | Performance of the contract | Batch, Qwant & Shadow. |
+| Provision of a Summary following a User’s query. | When you use the artificial intelligence module during a query, we transmit to our partner the search keywords so that we can provide you with the Summary. | Performance of the contract | Mistral AI & European Perspective |
+| Display of standard (non-personalised) advertising.<br><br>Outside the User Account | We use your Device Data in order to be able to offer you contextual advertising that depends exclusively on the keywords that are entered at the moment the advertisement is displayed. In this case, we do not display targeted advertising and do not integrate any cookie. | Legitimate interest | Our advertising Partner: Affilizz, AdMarketPlace and Microsoft |
+| Statistics and audience measurements | We may use your Device Data when managing the Site, in an aggregated manner.<br><br>This management requires the use of traffic and/or performance statistics without your identity being known to Qwant.<br><br>These measurements are essential in order to analyse the operation of the Site and for the provision of our Services:<br><br>*   Performance measurement,<br>*   Detection of navigation problems,<br>*   Optimisation of technical performance or ergonomics,<br>*   estimation of the content viewed, etc. | Legitimate interest | Piwik & Qwant |
+| So-called A/B Testing | Occasionally we may conduct so-called “A/B” tests. These tests allow us to compare different versions of our engine or of our features to see which one works best.<br><br>The objective is to understand user preferences and to improve the usability and effectiveness of our search engine.<br><br>In this context, we use only aggregated and anonymised data, such as the number of clicks on a feature or the time spent on a page, to assess the performance of the different versions tested.<br><br>For these tests, Qwant’s provider retains a randomly generated anonymous identifier, retained for 6 months from the first visit. | “So-called A/B testing” purpose | Qwant & Piwik. |
+| Measuring the effectiveness of certain contextual advertising results | In order to establish an aggregated measurement of the effectiveness of the advertisements provided by our partner Microsoft and to strengthen its means of detecting fraudulent clicks, Qwant may also transfer to it, for certain categories of advertisements, the following data if you click on an advertisement of the Microsoft network and return to the same Qwant results page:<br><br>– The measurement of the time elapsed between your click on the advertisement and your possible return to the results page. This data shared with Microsoft is used exclusively for the purposes indicated above and cannot be used for other purposes. In particular, it cannot be used for advertising based on a user profile on Qwant or on third-party services.<br><br>This data is transmitted to this partner within the European Union, and may be retained in accordance with the [Microsoft Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) for a maximum period of 18 months. | Necessary for contract<br><br>execution | Microsoft &<br><br>Qwant |
+| Provide the features necessary for the operation of our Services (processing of the user’s queries, display of advertisements, operation of the new features) | In order to provide you with relevant results when we do not ourselves have the answers to your queries, we have a partnership with Microsoft for the provision of our search results and the provision of contextual advertisements based on the keywords entered and your geographic region.<br><br>For this purpose, Qwant may transfer to this partner the following pseudonymised data related to your query:<br><br>*   The search keywords,<br>*   Information relating to the browser you use,<br>*   The first three bytes of your IP address or, in the context of the User Account, the IP address,<br>*   The approximate geographic area from which the search originates, at the scale of a region or a city,<br>*   The salted hash generated from your IP address, your User Agent and a salt changing at the latest every 3 months,<br>*   A random token generated by Qwant (aimed at limiting the cross-referencing of data),<br><br>In addition, for the purposes of security and reliability of our partner’s services (detection of spam, automated activity, fraudulent clicks on advertisements, etc.), Qwant may also collect and transfer to this partner your full IP address. | Contract execution<br><br>and legitimate interest. | Qwant & Microsoft &  <br>European Perspective (Staan) |
+| Detection of resource abuse<br><br>_Cookies_ | In order to detect bot traffic or any other traffic that may be considered as fraud or resource abuse, we communicate your Device Data, as well as your encrypted search fields, and signals such as “mouse movements”, “page scrolling” or even “clicks” to our partner Datadome. | Legitimate interest | Datadome |
+| Technical supervision (APM) | For the purposes of supervising and ensuring the proper functioning of our Services, we retain for three days the called URL and the request. This data is used exclusively for the detection and diagnosis of technical incidents; it is neither cross-referenced with other processing operations nor used to identify you or to build a profile. | Legitimate interest | APM / Qwant |
+| Management of dereferencing requests | When you wish to exercise your right to dereferencing, we use your Account data and/or the data you transmit to us within the form in order to respond to your dereferencing request. | Legitimate interest | Qwant |
+| Management of information requests | When you wish to obtain information, we use your Account data and/or the data you transmit to us within the contact form in order to respond to your request. | Legitimate interest | Qwant |
 
 Who are Qwant's Partners?
 -------------------------
 
 **PiwikPro**
 
-We use Piwik Pro Analytics Suite to collect statistical data on Site users based on online identifiers. We create user profiles based on browsing history and usage metrics such as bounce rate and pages viewed. PiwikPro Analytics Suite also creates aggregated data sets related to site usage as part of the necessary processing for the site’s proper functioning.
+We use Piwik Pro Analytics Suite to collect statistical data on the users of the Site on the basis of online identifiers. These statistics are produced in aggregate form, based on metrics such as the bounce rate and page views, without creating any individual profile or tracking browsing from one site to another. PiwikPro Analytics Suite is also used to create aggregated data sets relating to the use of our site, as part of the processing necessary for the proper functioning of the site.  
 
 **Microsoft**
 
-Qwant recently launched a new search experience and partners with Microsoft to explore how you use and interact with our Services. Qwant is committed to collecting only the necessary information to improve your search experience and offer targeted ads based on your preferences, allowing you to consent or not to this collection and data sharing, with the possibility of revoking this consent at any time.
+Qwant has recently launched a new search experience and works in partnership with Microsoft in order to explore the way you use and interact with our Services. Thus, with this in mind, Qwant undertakes to collect only the information necessary to improve your search experience and to offer you targeted advertisements, based on your preferences, while leaving you the choice of whether or not to consent to this collection and sharing of data, with the possibility of revoking this consent at any time.
 
-For more information on how Microsoft collects and uses your data, see [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) and [Microsoft Clarity.](https://learn.microsoft.com/en-us/clarity/setup-and-installation/privacy-disclosure)
+For more information on the way Microsoft collects and uses your data, consult the [Microsoft Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement) and [Microsoft Clarity](https://learn.microsoft.com/en-us/clarity/setup-and-installation/privacy-disclosure)  
+  
 
 **Batch**
 
-We collaborate with Batch to ensure the efficient management of your account, ensuring its proper functioning for transactional emails and, with your consent, in managing our email marketing campaigns.
+We work in collaboration with Batch in order to ensure the efficient management of your account and to guarantee its proper functioning, for transactional e-mails and, when you consent to it, in the management of our marketing e-mail campaigns.
 
-We do not transmit any other data to Batch than those indicated in “User Account Data”.
+We do not transmit to Batch any data other than that indicated within “User Account Data”.
 
 **Shadow SAS**
 
-Shadow acts as a subcontractor for maintaining our identity and access management solution. There is no data transfer between SHADOW and QWANT. SHADOW does not have access to your personal data in any way.
+Shadow acts as a processor for the purposes of maintaining our identity and access management solution. Shadow acts on our instructions and solely on our behalf; accordingly, it accesses your data only to carry out this task and makes nos use of it for its own purposes.
 
 How are your data used for advertising purposes?
 ------------------------------------------------
 
 **Collection via Microsoft Advertising and Microsoft Clarity**
 
-Only if you decide to create a User Account and consent through our cookie manager to Microsoft using cookies for advertising purposes, Microsoft will be able to exploit the advertising spaces on our Services. Microsoft will then auction these advertising spaces in real-time, allowing the highest bidders to access them.
+Only in the case where you decide to create a User account and have consented, through our cookie manager, to Microsoft using cookies for advertising purposes, in that case Microsoft may exploit the advertising spaces on our Services. Microsoft will then put these advertising spaces up for sale via a real-time bidding process, allowing the highest bidding buyers to access them.
 
-By accepting this use, Microsoft can collect information from our Services about the advertising spaces sold through their intermediary as well as your Device and browsing data. This data could be combined with other information about you they possess to present you with personalized ads during your navigation on our services and on third-party services.
+By accepting this use, Microsoft may collect from our Services information concerning the advertising spaces sold through them, as well as your Device Data. This data could be combined with other information from your browsing in order to present you with personalised advertisements while you browse our services and third-party services.
 
-If you want to know more about how Microsoft Advertising uses your data, you can visit their privacy policy [here.](https://privacy.microsoft.com/en-us/privacystatement)
+If you wish to learn more about the use of your data by Microsoft Advertising, you can go to their privacy policy [here](https://privacy.microsoft.com/en-us/privacystatement).
 
-Furthermore, regarding Bing search queries, Microsoft anonymizes stored queries by deleting the entire IP address after 6 months and cookie identifiers and other intersession identifiers used to identify a specific account or device after 18 months.
+Furthermore, regarding Bing search queries, Microsoft de-identifies the stored queries by deleting the entire IP address after 6 months, as well as the cookie identifiers and other cross-session identifiers that are used to identify a particular account or device after 18 months.
 
-Finally, if you refuse cookies from our cookie manager, Microsoft will only collect Device Data as indicated above. If you initially consented to the use of cookies for advertising purposes by Microsoft but later change your choice, any information collection about you by Microsoft will immediately cease.
+Finally, if you refuse the cookies in our cookie manager, Microsoft will collect only the Device Data as indicated above. If you initially consented to the use of cookies for advertising purposes by Microsoft but subsequently change your choice, any collection of information concerning you by Microsoft will be immediately stopped.
 
 **Our Advertising Partners**
 
-We work with several advertising partners to offer our ads. Generally, these partners act as data controllers, meaning they define the purposes and methods of using your data, ensure its confidentiality, and guarantee compliance with laws and regulations.
+We work with several advertising partners in order to offer you our advertisements. As a general rule, these partners act as data controllers, which means that they themselves define the purposes and the methods of use of your data, ensure its confidentiality and guarantee its compliance with the laws and regulations in force.
 
-When you visit one of our advertisers’ ads, you can oppose their data processing by visiting their privacy policies.
+When you visit one of our advertisers’ advertisements, you may yourself object to the processing of your data by these partners by going to their privacy policies.
+
+**Qwant Junior**
+
+Qwant Junior is a version of our search engine designed for younger users. This policy also applies to Qwant Junior. This section aims to explain to younger users what we do, and what we do not do, when it is used
+
+On Qwant Junior, we do not show any advertising and we do not create any profile. We do not track users’ browsing from one site to another.
+
+To understand how the search engine is used and to improve it, we count general information anonymously, such as the number of page views. These measurements do not make it possible to know who the user is.
+
+It is not necessary to create an account to use Qwant Junior; we do not ask for any personal information to use it.
+
+If you do not want this information to be counted, you can refuse it at any time using the button provided for that purpose. For any questions, you can write to us at dpo@qwant.com.
 
 What are your rights and how to exercise them?
 ----------------------------------------------
 
-In accordance with the law related to data processing, files, and liberties as well as the GDPR, you have the following rights regarding your personal data:
+In accordance with the French Data Protection Act (loi Informatique et Libertés), as well as the GDPR, you have the following rights over your personal data:
 
-*   Right to access your processed data in an understandable format,
-*   Right to rectify and update incorrect or incomplete data,
-*   Right to erasure if the data is no longer necessary for the initial purpose, if you have withdrawn your consent on which the data processing is based, if the data is subject to unlawful processing, or if the data must be erased to comply with a legal obligation,
-*   Right to object to your data being used for commercial prospecting or other purposes based on our respective interests,
-*   Right to data portability, i.e., to request Qwant to communicate the data in a structured, commonly used, and machine-readable format
+*   The right to access your processed data in an understandable format,
+*   The right to rectify and update erroneous or incomplete data,
+*   The right to erasure if the data is no longer necessary for the initial purpose, when you have withdrawn your consent on which the processing of the data is based, when the data is subject to unlawful processing, or when the data must be erased to comply with a legal obligation,
+*   The right to object to your data being used for the purposes of commercial prospecting or for other purposes based on our respective interests,
+*   The right to the portability of your data, that is, to ask Qwant to communicate the data in a structured, commonly used and interoperable machine-readable format.
 
-These rights are exercised by sending a request to the following email address: legal@qwant.com
+These rights are exercised by a request to the following e-mail address: dpo@qwant.com
 
-You can also exercise your rights by postal mail to the DPO at the following address:
+You may also exercise your rights by post to the DPO at the following address:
 
 Data Protection Officer  
 42 avenue de la Porte de Clichy  
 75017, Paris
 
-Furthermore, you can file a complaint with the data protection authority of your country (for France, it is the CNIL – [www.cnil.fr](https://www.cnil.fr/)).
+Furthermore, you may submit a complaint to the data protection authority of your country (for France, this is the CNIL – [www.cnil.fr](https://www.cnil.fr/)).
 
-We may also need to modify or update this policy. Any changes will be displayed on this page and/or other relevant locations to keep you informed.
+We may also be led to modify or update this policy. Any modification will be posted on this page and/or in the other places deemed relevant, so as to keep you informed.
 
-*   Mise à jour : 20/05/2024
+*   Mise à jour : 20/08/2026
 
 *   [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
 *   [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
