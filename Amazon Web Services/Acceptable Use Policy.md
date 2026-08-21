@@ -3,7 +3,7 @@ AWS Acceptable Use Policy
 
 Last Updated: July 1, 2021
 
-This Acceptable Use Policy (“**Policy**”) governs your use of the services offered by Amazon Web Services, Inc. and its affiliates (“**Services**”) and our website(s) including [http://aws.amazon.com](http://aws.amazon.com/) (“**AWS Site**”). We may modify this Policy by posting a revised version on the AWS Site. By using the Services or accessing the AWS Site, you agree to the latest version of this Policy.  
+This Acceptable Use Policy (“**Policy**”) governs your use of the services offered by Amazon Web Services, Inc. and its affiliates (“**Services**”) and our website(s) including [http://aws.amazon.com](https://aws.amazon.com/) (“**AWS Site**”). We may modify this Policy by posting a revised version on the AWS Site. By using the Services or accessing the AWS Site, you agree to the latest version of this Policy.  
 
 You may not use, or facilitate or allow others to use, the Services or the AWS Site:
 
