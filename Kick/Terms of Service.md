@@ -206,7 +206,7 @@ SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENT
 
 ### 11.2 Informal Dispute Resolution.
 
-Company wants to address your concerns without the need for a formal legal dispute. Before filing a claim against Company, you agree to try to resolve the Dispute informally by contacting [support@kick.com](mailto:support@kick.com). Similarly, if you have provided an email address to us as part of your User Account registration, Company agrees to do the same. If a dispute is not resolved within thirty (30) days after the email noting the Dispute is sent, you or Company may initiate an arbitration proceeding as described below.
+Company wants to address your concerns without the need for a formal legal dispute. Before filing a claim against Company, you agree to try to resolve the Dispute informally by contacting [\[email protected\]](https://kick.com/cdn-cgi/l/email-protection). Similarly, if you have provided an email address to us as part of your User Account registration, Company agrees to do the same. If a dispute is not resolved within thirty (30) days after the email noting the Dispute is sent, you or Company may initiate an arbitration proceeding as described below.
 
 ### 11.3 We Both Agree to Arbitrate
 
@@ -214,7 +214,7 @@ By agreeing to these Terms, and to the extent permitted by applicable law, you a
 
 ### 11.4 Opt-out of Agreement to Arbitrate.
 
-You may decline this agreement to arbitrate by contacting [support@kick.com](mailto:support@kick.com) within thirty (30) days of first accepting these Terms and stating that you (include your first and last name, and username) decline this arbitration agreement. By opting out of the agreement to arbitrate, you will not be precluded from using the Service, but you and Company will not be permitted to invoke the mutual agreement to arbitrate to resolve Disputes under the terms otherwise provided herein.
+You may decline this agreement to arbitrate by contacting [\[email protected\]](https://kick.com/cdn-cgi/l/email-protection) within thirty (30) days of first accepting these Terms and stating that you (include your first and last name, and username) decline this arbitration agreement. By opting out of the agreement to arbitrate, you will not be precluded from using the Service, but you and Company will not be permitted to invoke the mutual agreement to arbitrate to resolve Disputes under the terms otherwise provided herein.
 
 ### 11.5 Arbitration Procedures and Fees.
 
@@ -265,7 +265,7 @@ No waiver of any term of these Terms shall be deemed a further or continuing wai
 
 ### 12.7 Contact
 
-Please contact us at [support@kick.com](mailto:support@kick.com) with any questions regarding these Terms.
+Please contact us at [\[email protected\]](https://kick.com/cdn-cgi/l/email-protection) with any questions regarding these Terms.
 
 13\. SMS
 --------
@@ -299,7 +299,7 @@ As always, message and data rates may apply for any messages sent to you from us
 14\. Support
 ------------
 
-For support, please email us at [support@kick.com](mailto:support@kick.com).
+For support, please email us at [\[email protected\]](https://kick.com/cdn-cgi/l/email-protection).
 
 15\. Privacy Policy
 -------------------
