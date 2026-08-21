@@ -2,7 +2,7 @@ Google Antigravity Additional
 Terms of Service
 ================================================
 
-If you are accessing the Service through [Gemini Enterprise (Google Cloud)](https://cloud.google.com/terms), [Gemini Enterprise for Business](https://cloud.google.com/terms/gemini-enterprise/business) or a Google Workspace subscription on the Google Cloud Pre-GA Offering Terms, then you are subject to the terms of use accepted or signed by your administrator applicable to the Service and the terms below do not apply to you.
+If you are accessing the Service through [Gemini Enterprise (Google Cloud)](https://cloud.google.com/terms), [Gemini Enterprise for Business](https://cloud.google.com/terms/gemini-enterprise/business) or a Google Workspace subscription on the Google Cloud Pre-GA Offering Terms, or with a Gemini Enterprise Agent Platform API Key, then you are subject to the terms of use accepted or signed by your administrator applicable to such service (including its applicable terms for downloadable software) and the terms below do not apply to you.
 
 BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE GOOGLE ANTIGRAVITY SERVICES (HEREIN REFERRED TO AS THE “SERVICE”), YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS:
 
