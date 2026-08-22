@@ -11,7 +11,7 @@ This Privacy Policy sets out how we, Telegram Messenger Inc. **(“Telegram”)*
 
 Telegram has two fundamental principles when it comes to collecting and processing private data:
 
-*   We don't use your data to show you ads.
+*   We don't use the contents of any of your chats or contact lists to show you ads.
 *   We only store the data that Telegram needs to function as a secure and feature-rich messaging service.
 
 #### [](#1-2-terms-of-service)1.2. Terms of Service
@@ -142,11 +142,25 @@ We may also store some aggregated metadata to create Telegram features (see [sec
 
 We may use some aggregated data about how you use Telegram to build useful features. For example, when you open the Search menu, Telegram displays the people you are more likely to message in a box at the top of the screen. To do this, we calculate a rating that shows which people you message frequently. A similar rating is calculated for inline bots so that the app can suggest the bots you are most likely to use in the attachment menu (or when you start a new message with “@”). To turn this feature off and delete the relevant data, go to Settings > Privacy & Security > Data Settings and disable “Suggest Frequent Contacts”.
 
-#### [](#5-6-no-ads-based-on-user-data)5.6. No Ads Based on User Data
+#### [](#5-6-no-ads-based-on-contents-of-chats-or-contact-lists)5.6. No Ads Based on Contents of Chats or Contact Lists
 
-Unlike other services, we don't use your data for ad targeting or other commercial purposes. Telegram only stores the information it needs to function as a secure and feature-rich cloud service.
+Unlike other services, we don't use the contents of your private chats or contacts lists for ad targeting or other commercial purposes. Telegram only stores the information it needs to function as a secure and feature-rich cloud service.
 
-Telegram offers a [tool](https://promote.telegram.org/) for advertisers to promote their messages in [public one-to-many channels](https://telegram.org/tour/channels), but these sponsored messages are based solely on the topic of the public channels in which they are shown. No user data is mined or analyzed to display ads or sponsored messages.
+Telegram offers a [tool](https://promote.telegram.org/) for advertisers to promote their messages in [public one-to-many channels](https://telegram.org/tour/channels) (with 1,000 subscribers or more), as well as in bots, stories, and Telegram’s public search. By default, these sponsored messages are based solely on the topic of the public channels or search terms in which they are shown. No contents of private chats or contacts lists are mined or analyzed to display ads or sponsored messages.
+
+> Telegram Premium users don’t see ads and are not affected by the [Telegram Ad Platform](https://ads.telegram.org/).
+
+##### [](#5-6-1-additional-advertising-tools)5.6.1. Additional advertising tools
+
+> Non-intrusive advertising models help us sustain our Services. The data relied upon to serve ads is processed on the basis of Telegram’s legitimate interest of delivering effective and innovative Services to you. This data cannot be disclosed to any third parties – advertisers included.
+> 
+> Telegram Premium users don’t see ads and are not affected by the Ad Platform. Targeting-related data referenced in this section is not processed for such users.
+
+In large public one-to-many channels (with **1,000 subscribers or more**), and public search results, ads may be shown based on the language of the content – however, that language may be common to several different countries. To keep ads relevant, ads can be shown in a **particular country and city**, approximated based on the country and area code of a user's phone number or their IP address. This data is never passed to advertisers, no other geolocation data is used, and no precise location-tracking is involved for these purposes. This makes it possible for advertisers to restrict ad visibility to certain countries or regions – for instance, creating an ad for Spanish-speaking audiences but opting not to display it within Spain.
+
+Users following a sufficient number of large public one-to-many channels (e.g., _Finance, Business & Entrepreneurship, or Humor & Memes_), may see ads from that category in other large public channels or in other bots as well. Users may also see ads selected on the basis of the channels they follow. This data is never passed to advertisers.
+
+> Your rights described in section 9 below remain unaffected.
 
 ### [](#6-bot-messages)6\. Bot Messages
 
@@ -312,7 +326,7 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 *   Expanded [3.2. Your Email Address](https://telegram.org/privacy#3-2-your-email-address) with information on login emails, available as of Telegram 9.0
 
-**February 3, 2022**
+**February 3, 2023**
 
 *   Updated 8.4 and 8.5 to reflect the new premium feature that allows translating entire chats.
 
@@ -328,6 +342,10 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **September 29, 2024**
 
 *   Updated [10.4](#10-4-account-self-destruction) to reflect the new default time period for Account Self-Destruction.
+
+**August 21, 2026**
+
+*   The Privacy Policy was updated to describe geographic limitations and other advertising tools that may affect the ways how ads are displayed.
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
