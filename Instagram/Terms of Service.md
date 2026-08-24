@@ -9,9 +9,9 @@ What is the Instagram Service?
 
 How is Instagram funded?
 
-What is the Privacy Policy?
+What is the Instagram Privacy Policy?
 
-What are my commitments?
+What are Instagram's terms?
 
 I have a different question
 
