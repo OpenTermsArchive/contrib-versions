@@ -595,7 +595,7 @@ Miscellaneous
 
 Download all the General Terms and Conditions for the Supply of Energy
 
-[View and download all](https://www.energia.ie/getattachment/18afa0af-34ef-4fe7-9580-1a5d90771ad9/Energia-Domestic-Terms-and-Conditions_Mark-Up-May-2026.pdf?lang=en-GB) [the General Terms and Conditions for the Supply of Energy](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)[.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+[View and download all](https://www.energia.ie/getattachment/18afa0af-34ef-4fe7-9580-1a5d90771ad9/Energia-Domestic-Terms-and-Conditions_Mark-Up-May-2026.pdf?lang=en-GB) [the General Terms and Conditions for the Supply of Energy](https://www.energia.ie/getmedia/d19e514c-9e2b-4c4b-bfc4-2eb670d54231/Energia-Domestic-Terms-and-Conditions-2026.pdf)[.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
 
 ### 
 
