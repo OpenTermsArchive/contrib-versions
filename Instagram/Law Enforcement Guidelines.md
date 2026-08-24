@@ -9,7 +9,7 @@ Requests for user information
 
 Emergency requests
 
-Data retention and availability
+Child safety requests
 
 International legal requests
 
