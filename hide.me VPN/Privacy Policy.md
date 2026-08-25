@@ -152,7 +152,15 @@ The payment processors we work with are:
 
 ##### Emails
 
-Hide.me uses Mailgun Technologies, Inc. to send your transactional and promotional emails. Mailgun participates and has certified its compliance with the EU-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/Individuals-in-Europe.  
+hide.me uses the following third-party providers to send transactional and promotional emails:  
+  
+
+*   **Mailgun**, operated by Sinch (Mailgun Technologies, Inc.). Mailgun Technologies, Inc. is certified under the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. Data Privacy Framework. Their privacy policy can be viewed at [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/)
+*   **Postmark**, operated by AC PM LLC, an ActiveCampaign company. AC PM LLC is certified under the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework. Their privacy policy can be viewed at [https://www.activecampaign.com/legal/privacy-policy](https://www.activecampaign.com/legal/privacy-policy)
+
+  
+  
+Certifications under the Data Privacy Framework can be verified at [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/). Where applicable, transfers are additionally safeguarded by standard contractual clauses in our agreements with these providers.  
   
 Customers with a paid plan are able to remove their email from our system and continue to use our service.
 
