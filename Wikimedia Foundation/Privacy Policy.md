@@ -16,6 +16,7 @@ Other languages:
 *   [Frysk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fy "Policy:Privacy policy/fy (1% translated)")
 *   [Hausa](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ha "Tsarin Sirrin Tawa (19% translated)")
 *   [Ido](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/io "Policy:Privacy policy/io (6% translated)")
+*   [Jawa](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/jv "Kebijakan Privasi (1% translated)")
 *   [Kiswahili](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sw "Sera ya Faragha (86% translated)")
 *   [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ht "Politik sou lavi prive (12% translated)")
 *   [Ligure](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lij "Polittica in scî dæti privæ (9% translated)")
