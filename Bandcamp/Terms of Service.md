@@ -1,64 +1,75 @@
 Bandcamp Terms of Use
 =====================
 
-Effective Date: November 11, 2024
+Effective Date: May 07, 2026
 
 Welcome to the non-legally-binding introductory paragraph to our Terms of Use! We recognize that the following document is the literary equivalent of 20 milligrams of Ambien, but it really and truly is required that you read and agree to it before using Bandcamp. We’ve done our best to make it all go down smooth – you won’t find any 8-point type, or long sections of TOTALLY UNREADABLE ALL-CAPS intended to fulfill the legal definition of “conspicuous” (we’re pretty sure Your Honor will accept yellow, bold text instead). Still, what follows is plenty involved, so we thought we’d kick things off by answering the top three things a visitor to this page might be wondering:
 
-### For artists:
+For artists:
+------------
 
 1.  **Am I signing over the rights to my music, home and firstborn?** No. The only rights we take are the obvious ones we need to run the service. For example, the right to host the music you upload, stream and sell it on your behalf, display whatever lyrics and artwork you put on the site, and so on. The full details are [here](#rights).
 2.  **What can I upload? Are covers OK?** You must own or control all rights to everything you upload. That means covers are out, unless you have a written license or authorization from the owner of the composition to upload the cover to Bandcamp and grant us the rights in the terms below. Do not upload cover songs unless you have obtained all permissions and authorizations in writing! These requirements apply regardless of whether you’re selling the music or giving it away. The full details are [here](#upload).
-3.  **How much does Bandcamp cost?** Please see our [pricing page](https://bandcamp.com/pricing), and the [fees section](#fees) below.
+3.  **How much does Bandcamp cost?** Please see our [pricing page](https://bandcamp.com/pricing?from=terms_of_use), and the [fees section](#fees) below.
 
-### For fans:
+For fans:
+---------
 
 1.  **What should I know about Bandcamp's use of my personal information?** We only use personal information as outlined in our privacy policy. Artists you support or follow may access your information in specific cases. See our Privacy Policy for more information.
-2.  **When I buy something on Bandcamp, is the artist I’m trying to support receiving just a fraction of a fraction of what I pay?** No, Bandcamp only makes money when artists make a lot more money, and we like to keep our interests aligned with the artists we serve. In general, artists receive 80-85% of every dollar a fan spends. You can find out more by reading our [Fair Trade Music Policy here](https://bandcamp.com/fair_trade_music_policy) and the [fees section](#fees) below.
+2.  **When I buy something on Bandcamp, is the artist I’m trying to support receiving just a fraction of a fraction of what I pay?** No, Bandcamp only makes money when artists make a lot more money, and we like to keep our interests aligned with the artists we serve. In general, artists receive 80-85% of every dollar a fan spends. You can find out more by reading our [Fair Trade Music Policy here](https://bandcamp.com/fair_trade_music_policy?from=terms_of_use) and the [fees section](#fees) below.
 
 OK, on to the legally binding portion!
 
-Please read these Terms of Use (“Agreement” or “Terms of Use”) carefully before using the services offered by Bandcamp Ventures LLC (“Bandcamp,” “Company,” “we,” “us,” or “our”). This agreement sets forth the legally binding terms and conditions for your use of the Website at [bandcamp.com](https://bandcamp.com/) (the “Site”) and the service owned and operated by company, including any mobile software applications offered or published by Company (collectively with the Site, the “Service”). By using the Site or Service in any manner, including but not limited to visiting or browsing the Site or uploading content onto the Site, you agree to be bound by these Terms of Use. These Terms of Use apply to all users of the Site or Service, including users who are also contributors of content, information, and other materials or services on the Site.
+Please read these Terms of Use (“Agreement” or “Terms of Use”) carefully before using the services offered by Bandcamp Ventures LLC (“Bandcamp,” “Company,” “we,” “us,” or “our”). This agreement sets forth the legally binding terms and conditions for your use of the Website at [bandcamp.com](https://bandcamp.com/?from=terms_of_use) (the “Site”) and the service owned and operated by company, including any mobile software applications offered or published by Company (collectively with the Site, the “Service”). By using the Site or Service in any manner, including but not limited to visiting or browsing the Site or uploading content onto the Site, you agree to be bound by these Terms of Use. These Terms of Use apply to all users of the Site or Service, including users who are also contributors of content, information, and other materials or services on the Site.
 
-### Acceptance of Terms.
+Acceptance of Terms.
+--------------------
 
-The Service is offered subject to acceptance without modification of all of the terms and conditions contained herein (the “Terms of Use”), which Terms of Use also incorporate the Intellectual Property Policy available at [bandcamp.com/copyright](https://bandcamp.com/copyright), the Acceptable Use and Content Moderation Policy, and all other operating rules, policies and procedures that may be published from time to time on the Site by Company, each of which is incorporated by reference into these Terms of Use and each of which may be updated by Company from time to time without prior notice to you. In addition, some services offered through the Service may be subject to additional terms and conditions promulgated by Company from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference.
+The Service is offered subject to acceptance without modification of all of the terms and conditions contained herein (the “Terms of Use”), which Terms of Use also incorporate the Intellectual Property Policy available at [bandcamp.com/copyright](https://bandcamp.com/copyright?from=terms_of_use), the [Acceptable Use and Content Moderation Policy](https://get.bandcamp.help/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy?from=terms_of_use), and all other operating rules, policies and procedures that may be published from time to time on the Site by Company, each of which is incorporated by reference into these Terms of Use and each of which may be updated by Company from time to time without prior notice to you. In addition, some services offered through the Service may be subject to additional terms and conditions promulgated by Company from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference.
 
 If you are using or opening an account on behalf of a company, entity or organization, band or other musical group (including, but not limited to, a recording label) (each an “Artist Entity”), then you represent and warrant that you: (i) are an authorized representative of that Artist Entity and any recording artists represented by such Artist Entity (a “Represented Artist”) with the authority to bind such Artist Entity or Represented Artist to these Terms of Use and (ii) agree to be bound by these Terms of Use on behalf of such Artist Entity and/or Represented Artist.
 
 The Service is intended for use only by individuals who are at least 18 years old. You represent and warrant that if you are an individual, then you are of legal age to form a binding contract, and that all registration information you submit is accurate and truthful. Company may, in its sole discretion, refuse to offer the Service to any person or entity and change its eligibility criteria at any time. This provision is void where prohibited by law and the right to access the Service is revoked in such jurisdictions.
 
-### Modification of Terms of Use.
+Modification of Terms of Use.
+-----------------------------
 
 Company reserves the right, at its sole discretion, to modify or replace any of the terms in these Terms of Use, or change, suspend, or discontinue the Service (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Site or by sending you an e-mail. Company may also impose limits on certain features and services or restrict your access to parts or all of the Service without notice or liability. It is your responsibility to check these Terms of Use periodically for changes. Your continued use of the Service following the posting of any changes to these Terms of Use constitutes acceptance of those changes. Notwithstanding the preceding sentences of this section, no modifications to these Terms of Use will apply to any dispute between you and Company that arose prior to the date of such modification.
 
-### Privacy.
+Privacy.
+--------
 
-Your privacy is important to us. Please review our Privacy Policy ([https://bandcamp.com/privacy](https://bandcamp.com/privacy)). It describes how we collect, use, and share information when you use the Site and Services that link to this Privacy Policy.
+Your privacy is important to us. Please review our Privacy Policy ([https://bandcamp.com/privacy](https://bandcamp.com/privacy?from=terms_of_use)). It describes how we collect, use, and share information when you use the Site and Services that link to this Privacy Policy.
 
-### Rules and Conduct.
+Rules and Conduct.
+------------------
 
-As a condition of use, you promise not to use the Service for any purpose that is prohibited by these Terms of Use and as is set out in our Acceptable Use and Content Moderation Policy. The Service (including, without limitation, any Content) is provided only for your own personal, non-commercial use (except with respect to individual recording artists, collections of recording artists, Artist Entities or Represented Artists (each, an “Artist”) selling Music, Merchandise or other Content (each as defined below) as authorized through the Service). You are responsible for all of your activity in connection with the Service. When you interact with our Site or the Service in any way, we require that you comply with our [Acceptable Use and Content Moderation Policy](https://get.bandcamp.help/hc/articles/23005947027991). This covers all interactions any User may have on our Site and all Content submitted. The term “Content” includes, without limitation, any User Submissions, videos, audio clips, written forum comments, information, data, text, photographs, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible by Company or its partners on or through the Service.
+As a condition of use, you promise not to use the Service for any purpose that is prohibited by these Terms of Use and as is set out in our Acceptable Use and Content Moderation Policy. The Service (including, without limitation, any Content) is provided only for your own personal, non-commercial use (except with respect to individual recording artists, collections of recording artists, Artist Entities or Represented Artists (each, an “Artist”) selling Music, Merchandise or other Content (each as defined below) as authorized through the Service). You are responsible for all of your activity in connection with the Service. When you interact with our Site or the Service in any way, we require that you comply with our [Acceptable Use and Content Moderation Policy](https://get.bandcamp.help/articles/15263124-bandcamp-s-acceptable-use-and-moderation-policy?from=terms_of_use). This covers all interactions any User may have on our Site and all Content submitted. The term “Content” includes, without limitation, any User Submissions, videos, audio clips, written forum comments, information, data, text, photographs, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible by Company or its partners on or through the Service.
 
-### Fan Personal Information – Fans.
+Fan Personal Information – Fans.
+--------------------------------
 
 Please see our Privacy Policy for information on how we collect, use, share and safeguard personal information. Company requires each Artist to agree to the terms set forth in the next section of this Agreement. However, you acknowledge that Company has no control over Artists’ use of personal information about fans, such as your email address, country of residence and zip/postal code (“Fan Information”), and you further acknowledge and agree that Bandcamp shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the Artists’ use of such Fan Information.
 
 Please note that Bandcamp operates a basic “recommender system” on the Site. This means that Bandcamp generates an automatic “Discover” feed of content for Fan accounts only. This feed shows tracks, artist, and album on which Fans, genres or Artists that Fan chooses to follow. This automatic feed does not involve any machine learning and it does not derive any recommendations from a Fan’s general browsing activity on the Site.
 
-### Fan Personal Information - Artists.
+Fan Personal Information - Artists.
+-----------------------------------
 
 In connection with certain features of the Service, including by requiring that fans provide you with their e-mail addresses and other personal information in order to access the free download option, you may collect certain types of Fan Information. You acknowledge and agree that you will not disclose, rent, or sell any Fan Information to any third party, and you will use the Fan Information only in connection with the Artist’s mailing list or a subscription to the Artist (“Artist Subscription”), in order to provide fans with general information and news about the Artist, such as upcoming shows, new Music or other Content delivered in connection with your Artist Subscription. For clarity, Artist Subscriptions shall be download subscriptions with associated streaming functionality. You further agree that any e-mail or other communication sent to the Artist’s mailing list or sent in connection with the Artist Subscription will comply with e-mail marketing laws and include a mechanism by which the recipient can unsubscribe from the mailing list, along with clear instructions on how to do so (i.e. a functioning “opt-out” mechanism). You will promptly implement a recipient’s request to opt-out of receiving e-mails from you and will not send any further e-mails to such opting-out recipient.
 
-### Registration.
+Registration.
+-------------
 
 You may browse the Site and view Content without registering, but as a condition to using certain aspects of the Service, you may be required to register with Company and select a password and screen name (“User ID”). You shall provide Company with accurate, complete, and updated registration information. Failure to do so shall constitute a breach of these Terms of Use, which may result in immediate termination of your Company account. You shall not (i) select or use as a User ID or domain a name of another person with the intent to impersonate that person; (ii) use as a User ID or domain a name subject to any rights of a person other than you without appropriate authorization; or (iii) use as a User ID or domain a name that is otherwise offensive, vulgar or obscene. Company reserves the right to refuse registration of, or cancel a User ID and domain in its sole discretion. You are solely responsible for activity that occurs on your account and shall be responsible for maintaining the confidentiality of your Company password. You shall never use another user’s account without such other user’s express permission. You will immediately notify Company in writing of any unauthorized use of your account, or other account related security breach of which you are aware.
 
-### Fees and Payments – General
+Fees and Payments – General
+---------------------------
 
-Bandcamp enables fans to purchase Content from Artists, including digital Content made available via download (and, subject to the purchase of a download, streaming) through the Service and to preview such Content by way of streaming (“Digital Content”), physical merchandise (“Merchandise”) and Artist Subscriptions. Each such purchase is a “Transaction,” each Transaction involving Digital Content is a “Digital Transaction,” and each Transaction involving Merchandise is a “Merchandise Transaction.” Transactions may be made using Standard Payments or Enhanced Payments, which are detailed [here](https://bandcamp.com/help/getting_paid). Transactions under this Agreement are facilitated by Bandcamp and our third-party payment processors.
+Bandcamp enables fans to purchase Content from Artists, including digital Content made available via download (and, subject to the purchase of a download, streaming) through the Service and to preview such Content by way of streaming (“Digital Content”), physical merchandise (“Merchandise”) and Artist Subscriptions. Each such purchase is a “Transaction,” each Transaction involving Digital Content is a “Digital Transaction,” and each Transaction involving Merchandise is a “Merchandise Transaction.” Transactions may be made using Standard Payments or Enhanced Payments, which are detailed [here](https://bandcamp.com/help/getting_paid?from=terms_of_use). Transactions under this Agreement are facilitated by Bandcamp and our third-party payment processors.
 
-### Fees and Payments – Terms for Fans.
+Fees and Payments – Terms for Fans.
+-----------------------------------
 
 Fans may purchase products and/or services from an Artist through the Site, including, without limitation, purchases of Content including Digital Content, Merchandise, and Artist Subscriptions.
 
@@ -78,25 +89,66 @@ Because there is a possibility that we may be required to deny you access to pre
 
 You warrant that if you enter into a Transaction, then you shall be able to make full and immediate payment for the requested products or services.
 
-### Fees and Payments – Terms for Artists.
+Fees and Payments – Terms for Artists.
+--------------------------------------
 
 Artists may sell products and/or services to fans through the Site, including, without limitation, the sale of Content including Digital Content, Merchandise, and Artist Subscriptions. You will set the prices for your products and services that are charged through Transactions (the “Prices”) through the Site, and you may change the Prices at your sole discretion. Notwithstanding the preceding sentence, Bandcamp may redistribute previously purchased copies of your products to users who have, in Bandcamp’s sole determination, received a corrupted copy of your product, an incorrect file format version of your product, an incomplete copy of your product, or suffered a loss of your product through hard drive failure, damage, theft or destruction, on a no-fee basis to the user (i.e., the user is not charged a new fee for the redistribution). Such redistribution may be effectuated by allowing a user to redownload a replacement copy themselves. A user that has a user account (“Fan Account”) will also be permitted to redownload any previously purchased Content from an Artist. In the event of any of the foregoing redistributions, no additional payments shall be made to you for such redistributions.
 
 In order to participate in certain types of Transactions, you may be required to open an account with a designated third-party payment processor, such as PayPal or Stripe, and you agree to be bound by the terms and conditions of such third-party payment processor for purposes of participating in the specified types of Transactions. In order to monetize your products and services you, as applicable (i) designate us as your agent for the sole and exclusive purpose of processing Transactions on your behalf; and (ii) authorize us and/or our designated third-party payment processor to collect payments for Transactions on your behalf.
 
-If you upload music written by a songwriter that is (a) affiliated with a performing rights organization (“PRO”); and / or (b) affiliated with a mechanical rights organization (“MRO”) or other collective management organization (“CMO”), Bandcamp shall be permitted to deduct and accrue a share of the revenue from Digital Transactions (the “Publishing Share”) which shall be calculated on your gross revenue from Digital Transactions in accordance with the rate set forth at [bandcamp.com/pricing](https://bandcamp.com/pricing). For the avoidance of doubt, Digital Transactions include Transactions where Digital Content is included with non-music Merchandise. Bandcamp shall seek to remit such Publishing Share to the appropriate collecting society or entity authorized to collect for the territory in which the applicable Digital Transaction(s) took place, subject to the terms of any agreement Bandcamp may have with such collecting society or other authorized entity.
+If you upload music written by a songwriter that is (a) affiliated with a performing rights organization (“PRO”); and / or (b) affiliated with a mechanical rights organization (“MRO”) or other collective management organization (“CMO”), Bandcamp shall be permitted to deduct and accrue a share of the revenue from Digital Transactions (the “Publishing Share”) which shall be calculated on your gross revenue from Digital Transactions in accordance with the rate set forth at [bandcamp.com/pricing](https://bandcamp.com/pricing?from=terms_of_use). For the avoidance of doubt, Digital Transactions include Transactions where Digital Content is included with non-music Merchandise. Bandcamp shall seek to remit such Publishing Share to the appropriate collecting society or entity authorized to collect for the territory in which the applicable Digital Transaction(s) took place, subject to the terms of any agreement Bandcamp may have with such collecting society or other authorized entity.
 
-Company shall be entitled to a share of the revenue received from Transactions (the “Revenue Share”), which shall be calculated on your gross revenue from Transactions, not including any Transactions for which you or we provide a refund, in accordance with the rate schedule set forth at [bandcamp.com/pricing](https://bandcamp.com/pricing). You shall be solely responsible and liable for, and Company shall have no responsibility or liability for, any Stripe fees (except for fees charged on Company’s Stripe account), PayPal fees (except for fees charged on Company’s PayPal account), credit card transaction fees (together, “Fees”), bad debts (such as credit card returns or fraud), disputed payments, and refunds, except as provided in this Agreement. Except as otherwise expressly set forth in these Terms of Use, you shall be solely responsible and liable for, and Company shall have no responsibility or liability for all royalties, fees, amounts due under collective bargaining agreements, and other monies that are or may become payable to the authors, composers, artists, producers, publishers, administrators and other holders of rights related to Transactions or the use of any Content hereunder.
+Company shall be entitled to a share of the revenue received from Transactions (the “Revenue Share”), which shall be calculated on your gross revenue from Transactions, not including any Transactions for which you or we provide a refund, in accordance with the rate schedule set forth at [bandcamp.com/pricing](https://bandcamp.com/pricing?from=terms_of_use). You shall be solely responsible and liable for, and Company shall have no responsibility or liability for, any Stripe fees (except for fees charged on Company’s Stripe account), PayPal fees (except for fees charged on Company’s PayPal account), credit card transaction fees (together, “Fees”), bad debts (such as credit card returns or fraud), disputed payments, and refunds, except as provided in this Agreement. Except as otherwise expressly set forth in these Terms of Use, you shall be solely responsible and liable for, and Company shall have no responsibility or liability for all royalties, fees, amounts due under collective bargaining agreements, and other monies that are or may become payable to the authors, composers, artists, producers, publishers, administrators and other holders of rights related to Transactions or the use of any Content hereunder.
 
 Certain countries’ artist collecting societies, including but not limited to the Portuguese artist collecting society and the Spanish artist collecting society, may seek to require the payment as a result of the exploitation of Content which embodies the performance of one or more Artists that are from the relevant country where that local content is exploited. Bandcamp shall be permitted to deduct, accrue, and pay through a share of the revenue from any applicable Transactions in connection with the exploitation of local content in such country if required to do so by local legislation. For the avoidance of doubt, the foregoing shall not constitute an acknowledgement by either Bandcamp or you that any amounts are or shall be due to the artist collecting societies pursuant to any local legislation.
 
 In certain jurisdictions, tax regulations may require that we collect and/or report information about you, your payments and/or withhold taxes from payouts to you. Bandcamp will report any information to the relevant tax authority and you as required by law. Bandcamp may withhold any taxes, duties, charges or levies on payments to you as required by law. Bandcamp shall remit any such withheld taxes, duties, charges or levies to the appropriate tax authority. Under this agreement you are required to provide Bandcamp with any information necessary for Bandcamp to fulfill its tax information reporting and tax withholding obligations as required.
 
-For Merchandise Transactions using Standard Payments, payments received from users for Merchandise shall be directed to you, unless there is an outstanding Revenue Share owed to Company in which case such payments may be directed to Company in accordance with Company’s standard policies. Bandcamp may retain funds (including any applicable fees and taxes) otherwise payable to you if Bandcamp is required or chooses to provide a refund on your behalf.
+You agree to fulfill all your own tax obligations that may arise as a result of your sale of products and/or services to fans through the Site.
 
-For Digital Content and Merchandise Transactions using Enhanced Payments, users will pay the purchase price and any applicable fees and taxes. You will receive the gross proceeds from these sales, minus the applicable Revenue Share, Publishing Share and any applicable Fees (the “Artist Payout”).
+Bandcamp may retain funds (including any applicable fees and taxes) otherwise payable to you if Bandcamp is required or chooses to provide a refund on your behalf. If there is an outstanding Revenue Share owed to Company, payments may be directed to Company in accordance with Company’s standard policies.
 
-For Artist Subscriptions, payments received from users shall be directed to you (the “Subscription Fee”), minus the applicable Revenue Share, Publishing Share, taxes (if we are liable for paying the relevant tax on sales to fans), and any applicable fees which shall be directed to Bandcamp at the time of each payment.
+For Merchandise Transactions, users will pay the purchase price and any applicable fees and taxes. You will receive the proceeds from these sales:
+
+*   including Value Added Tax (VAT) (if you have asked for VAT to be collected on your behalf, see this [FAQ](https://bandcamp.com/%E2%80%99https://get.bandcamp.help/hc/articles/23020652517271%E2%80%99)), but not including VAT if Bandcamp will be paying VAT through to the applicable authorities,
+*   minus
+    *   the applicable Revenue Share,
+    *   the applicable Publishing Share,
+    *   any sales tax remitted directly to tax authorities by Bandcamp
+    *   and any applicable Fees
+
+For Digital Content, users will pay the purchase price and any applicable fees and taxes. You will receive the proceeds from these sales:
+
+*   minus
+    *   the applicable Revenue Share,
+    *   the applicable Publishing Share,
+    *   VAT and Sales tax (which Bandcamp will be paying directly to the applicable authorities)
+    *   and any applicable Fees
+
+What you will receive after any of the deductions listed above is called the “Artist Payout.”
+
+For Artist Subscriptions, payments received from users shall be directed to you (the “Subscription Fee”), minus any applicable Revenue Share, Publishing Share, taxes (if we are liable for paying the relevant tax on sales to fans), and any applicable fees which shall be directed to Bandcamp at the time of each payment.
+
+You shall be solely responsible for the payment of any VAT, sales tax, or similar indirect taxes due in any jurisdiction where such taxes are imposed. In some jurisdictions based on local legislation Bandcamp will be considered liable for the payment of VAT, sales tax or similar indirect taxes. In these jurisdictions Bandcamp will be making the payment on behalf of the artist.
+
+### EU Value Added Tax (VAT)
+
+We want to make sure you understand how taxes work when you sell through our platform. While **you are generally responsible** for any VAT or sales tax owed on your sales, there are specific situations where we are legally required to step in and handle it.
+
+### When We Collect and Remit VAT
+
+Under EU “marketplace” or “platform fiction” rules (specifically Council Directive (EU) 2017/2455), we are required to collect and remit VAT to EU tax authorities if:
+
+*   **Low-Value Imports:** You ship goods from outside the EU to a customer inside the EU, and the total value of the package is €150 or less.
+*   **Non-EU Sellers:** You are based outside the EU, but your goods are shipped from a location inside the EU.
+
+### Import One-Stop Shop (IOSS)
+
+If your sale falls under the “Low-Value Import” rule mentioned above, we will provide you with a unique IOSS number. It is your responsibility to give this number to your shipping carrier. This ensures the package is processed correctly at customs so your fan isn’t double-charged for VAT upon delivery.
+
+### Your Responsibility
+
+In any situation where these specific platform rules do not apply, you remain solely responsible for calculating, reporting, and paying all applicable VAT, sales tax, or other duties. We are not liable for any unpaid taxes resulting from your sales.
 
 When you receive a payment for a Transaction, you may be liable to Bandcamp or the applicable third-party payment processor for the full Transaction amount, plus any Fees if the payment is later invalidated for any reason. This means that, in addition to any other liability, you will be responsible for the amount of the payment sent by the sender, plus the applicable Fees if there is a chargeback, a dispute, or if there is a reversal of the payment. You agree to allow Bandcamp to recover any amounts due to Bandcamp by debiting your account or by instructing our third-party payment processors to direct such amounts to us. If there are insufficient funds to cover your liability, you agree to reimburse Bandcamp through other means.
 
@@ -104,25 +156,30 @@ Company retains the right, but does not have the obligation, to immediately halt
 
 We require that any Artist who is defined as a “trader” under UK or EU laws, identifies as such. If you fail to identify as a trader when you should do, you may be subject to penalties under the local laws of the country of the consumer you are selling to. Identifying as a trader will require you to provide us with certain information in order to verify your identity and will also require us to publish certain information about you to all consumers: including your name, address, email address and phone number. In addition, all traders are required to comply with UK and EU consumer laws including but not limited to operating a 14 day return policy for all physical products you sell to UK and EU consumers. If we refuse or suspend you from operating on our website (e.g. because we do not think you have provided us with all the information we need to set you up as a trader), you have a right to complain to us by submitting an email to terms@bandcamp.com. Your email will then be reviewed by our in-house counsel and we will aim to reply to you within 8 weeks.
 
-### Additional Fees.
+Additional Fees.
+----------------
 
 In addition to the fees set forth above, Company reserves the right to require payment of fees for certain additional features of the Service, including but not limited to Bandcamp Pro or Label accounts. Should you elect to subscribe to such features, you shall pay all applicable fees, as described on the Site in connection with such features. Company reserves the right to change its price list and to institute new charges at any time, upon ten (10) days prior notice to you, which may be sent by e-mail or posted on the Site. Use of the Service by you following such notification constitutes your acceptance of any new or increased charges.
 
-### Bandcamp Pro and Label Account Cancellation and Termination of Payments.
+Bandcamp Pro and Label Account Cancellation and Termination of Payments.
+------------------------------------------------------------------------
 
-If you sign up for Bandcamp Pro or a Label account, you can cancel your subscription at any time by going to the relevant section of your profile page and clicking “cancel Pro subscription” or “cancel Label subscription”, as applicable. Once you cancel, your Bandcamp Pro or Label account services will continue for the duration of the monthly billing cycle for which you have already paid. We do not issue partial refunds for unused time in a monthly billing cycle for which you have already paid, but you will not be charged for any following monthly billing cycles. For more information, see [https://bandcamp.com/help/pro](https://bandcamp.com/help/pro) and [https://bandcamp.com/help/labels](https://bandcamp.com/help/labels).
+If you sign up for Bandcamp Pro or a Label account, you can cancel your subscription at any time by going to the relevant section of your profile page and clicking “cancel Pro subscription” or “cancel Label subscription”, as applicable. Once you cancel, your Bandcamp Pro or Label account services will continue for the duration of the monthly billing cycle for which you have already paid. We do not issue partial refunds for unused time in a monthly billing cycle for which you have already paid, but you will not be charged for any following monthly billing cycles. For more information, see [https://bandcamp.com/help/pro](https://bandcamp.com/help/pro?from=terms_of_use) and [https://bandcamp.com/help/labels](https://bandcamp.com/help/labels?from=terms_of_use).
 
-### Third Party Site.
+Third Party Site.
+-----------------
 
 The Service may permit you to link to other websites or resources on the Internet, and other websites or resources may contain links to the Site. When you access third party websites, you do so at your own risk. These other websites are not under Company’s control, and you acknowledge that Company is not responsible or liable for the content, functions, accuracy, legality, appropriateness or any other aspect of such websites or resources. The inclusion of any such link does not imply endorsement by Company or any association with its operators. You further acknowledge and agree that Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such website or resource.
 
-### Content and License.
+Content and License.
+--------------------
 
 You agree that the Service contains Content specifically provided by Company or its partners and that such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws. You shall abide by and maintain all copyright notices, information, and restrictions contained in any Content accessed through the Service.
 
 Company grants each user of the Site and/or Service a worldwide, non-exclusive, non-sublicensable and non-transferable license to use, modify and reproduce the Content, solely for personal, non-commercial use. Use, reproduction, modification, distribution or storage of any Content for other than personal, non-commercial use is expressly prohibited without prior written permission from Company, or from the copyright holder identified in such Content’s copyright notice. You shall not sell, license, rent, or otherwise use or exploit any Content for commercial use or in any way that violates any third party right.
 
-### Intellectual Property Rights – Artists.
+Intellectual Property Rights – Artists.
+---------------------------------------
 
 The Service provides Artists with the ability to upload Digital Content owned or controlled by such Artists to the Site, including but not limited to sound recordings (“Sound Recordings”), videos synchronized with Sound Recordings and other audiovisual works (collectively, “Music Videos”), and the musical works embodied within Sound Recordings and Music Videos (“Musical Works” and, collectively with Sound Recordings and Music Videos, the Artist’s “Music”). Company will not have any ownership rights in any elements of an Artist’s Music, however, Company needs the following license to perform the Service. Each Artist uploading Music to the Service grants Company and its authorized sublicensees and distributors, if any, the worldwide, non-exclusive, royalty-free, right and license to: (i) reproduce, distribute, publicly perform (including on a through-to-the-audience basis and by means of a digital audio transmission), publicly display, create derivate works of, communicate to the public, synchronize and otherwise exploit (collectively, “Exploit”) (1) the Artist’s Music and perform the Service on the Artist’s behalf (e.g., reproduce, transcode, copy and store the Artist’s Music on computer servers owned and/or operated by or on behalf of Company or its authorized sublicensees and distributors, and publicly perform, transmit, synchronize, stream, distribute, and playback the Artist’s Music) using any technologies or methodologies now known or hereafter developed, and (2) Exploit all associated copyrightable works or metadata, including, without limitation, song lyrics and musical notations, album cover artwork, photographs, graphics, and descriptive text (“Artworks”) in connection with the Service); (ii) allow users of the Service to receive public performances and public displays of the Artist’s Music and Artworks and to reproduce the Artist’s Music and Artworks on any and all devices owned or controlled by the user for non-commercial purposes and receive performances and displays of same; and (iii) reproduce, use, and publish, and to permit others to reproduce, use and publish, the name(s), trademarks, likenesses, and personal and biographical materials of the Artist, in connection with the provision of the Service.
 
@@ -144,7 +201,8 @@ If you identify a songwriter of Music that you upload to the Site as NOT being a
 
 You agree to allow Bandcamp to recover any amounts representing the Publishing Share not retained by Bandcamp at the time of sale as a result of you supplying incorrect writer or publisher information or otherwise not updating such information. In such circumstances, Bandcamp may debit your account. If there are insufficient funds to cover your liability, you agree to reimburse Bandcamp through other means.
 
-### Intellectual Property Rights - Fans.
+Intellectual Property Rights - Fans.
+------------------------------------
 
 The Service provides users with the ability to add, create, upload, submit, distribute or post (“Submitting” or “Submission”) content, videos (including Music Videos), audio clips (including Music), written forum comments, data, text, photographs, software, scripts, graphics, or other information to the Site (collectively, the “User Submissions”). By Submitting User Submissions on the Site or otherwise through the Service, you:
 
@@ -157,11 +215,23 @@ The Service provides users with the ability to add, create, upload, submit, dist
 
 Company does not endorse and has no control over any User Submission. Company cannot guarantee the authenticity of any data which users may provide about themselves. You acknowledge that all Content accessed by you using the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom.
 
-### Termination.
+Shipment
+--------
+
+Shipments are the sole responsibility of the artist and Bandcamp is not involved in the logistics process as the transaction is directly between the artist and the customer.
+
+Transfer of Title
+-----------------
+
+Bandcamp never becomes the owner of the Merchandise or Digital Content, nor is there any transfer of title to Bandcamp. Bandcamp merely facilitates the transaction between the artist and the customer. Bandcamp provides a facilitation service for artists to make their products available to customers. Bandcamp does not become the owner of the products at any stage.
+
+Termination.
+------------
 
 Company may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with your membership, including, without limitation, any access to any Music you may have purchased through the Service. If you wish to terminate your account, then you may do so by following the instructions on the Site. Any fees paid hereunder are non-refundable, except as provided in this Agreement. All provisions of these Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-### Warranty Disclaimer.
+Warranty Disclaimer.
+--------------------
 
 Company has no special relationship with or fiduciary duty to you. You acknowledge that Company has no control over, and no duty to take any action regarding: which users gain access to the Site; what Content you access via the Site; what effects the Content may have on you; how you may interpret or use the Content; or what actions you may take as a result of having been exposed to the Content. You release Company from all liability for you having acquired or not acquired Content through the Site. The Site may contain, or direct you to websites containing, information that some people may find offensive or inappropriate. Company makes no representations concerning any Content contained in or accessed through the Site, and Company will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Site or the Service.
 
@@ -171,11 +241,13 @@ Some states do not allow limitations on how long an implied warranty lasts, so t
 
 Electronic Communications Privacy Act Notice (18 U.S.C. §§ 2701-2711): Company makes no guaranty of confidentiality or privacy of any communication or information transmitted on the Site or any website linked to the Site. Company will not be liable for the privacy of e-mail addresses, registration and identification information, disk space, communications, confidential or trade-secret information, or any other Content stored on Company’s equipment, transmitted over networks accessed by the Site, or otherwise connected with your use of the Service.
 
-### Indemnification.
+Indemnification.
+----------------
 
 You shall defend, indemnify, and hold harmless Company and its affiliates, authorized sublicensees and distributors, and each of their employees, contractors, directors, suppliers and representatives, from any and all liabilities, claims, and expenses, including reasonable attorneys’ fees and court costs, that arise from or relate to your use or misuse of, or access to, the Site, Service, Content or otherwise from your User Submissions, violation of these Terms of Use, or infringement by you, or any third party using the your account, of any intellectual property or other right of any person or entity, and for breach of any of your representations and warranties in these Terms of Use. For the avoidance of doubt, you hereby agree to defend, indemnify, and hold harmless Company from any and all claims by a third party owning, controlling or claiming any right in or to your Music, including claims for performance royalties, synchronization royalties, mechanical royalties, and use or re-use fees (save for claims by collecting societies or authorized publishing entities in circumstances where you have accurately provided songwriter affiliation information to Company in advance of sale). Company reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will assist and cooperate with Company in asserting any available defenses at your sole expense.
 
-### Limitation of Liability.
+Limitation of Liability.
+------------------------
 
 In no event shall Company, nor its directors, employees, agents, partners, suppliers or content providers, be liable under contract, tort, strict liability, negligence or any other legal or equitable theory with respect to the Service (i) for any lost profits, data loss, cost of procurement of substitute goods or services, or special, indirect, incidental, punitive, or consequential damages of any kind whatsoever, substitute goods or services (however arising), (ii) for any bugs, viruses, trojan horses, or the like (regardless of the source of origination), or (iii) for any direct damages in excess of (in the aggregate) one-hundred U.S. dollars ($100.00). Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations and exclusions may not apply to you.
 
@@ -183,29 +255,37 @@ Because Company is not the buyer or seller in any Merchandise Transaction, if a 
 
 Because Company is not the buyer or seller in any actual Merchandise Transaction between Artists and fans and is not the agent of either for any purpose, Company does not have the duty to resolve and will not be involved in resolving any disputes between participants related to or arising out of any such Merchandise Transaction. Artists are individually responsible for compliance with all consumer rights laws applicable to their Merchandise Transactions, including EU and UK Consumer Rights Laws.
 
-### International/Non-California Use.
+International/Non-California Use.
+---------------------------------
 
 Other than its requirements to comply with the EU’s Digital Services Act, Company makes no representation that the Content is appropriate or available for use in locations outside of California, and accessing the Service is prohibited from territories where such Content is illegal. Save in respect of users based in the EU, if you access the Service from other locations, you do so at your own initiative and are responsible for compliance with local laws.
 
-### Dispute Resolution.
+Dispute Resolution.
+-------------------
 
 A printed version of these Terms of Use and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms of Use to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. You and Company agree that any cause of action arising out of or related to the Service must commence within one (1) year after the cause of action arose; otherwise, such cause of action is permanently barred.
 
 These Terms of Use shall be governed by and construed in accordance with the laws of the State of California, excluding its conflicts of law rules, and the United States of America. Any dispute arising from or relating to the subject matter of this Agreement shall be finally settled by arbitration in Los Angeles County, California, using the English language in accordance with the Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Arbitration Rules and Procedures of JAMS. The prevailing party in the arbitration shall be entitled to receive reimbursement of its reasonable expenses (including reasonable attorneys’ fees, expert witness fees and all other expenses) incurred in connection therewith. Judgment upon the award so rendered may be entered in a court having jurisdiction or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, each party shall have the right to institute an action in a court of proper jurisdiction for injunctive or other equitable relief pending a final decision by the arbitrator. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the United States Federal Courts or state courts located in Los Angeles, California. Use of the Service is not authorized in any jurisdiction that does not give effect to all provisions of these Terms of Use, including without limitation, this section.
 
-### Integration and Severability.
+Integration and Severability.
+-----------------------------
 
 These Terms of Use are the entire agreement between you and Company with respect to the Service and use of the Site, and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and Company with respect to the Site. If any provision of these Terms of Use is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms of Use will otherwise remain in full force and effect and enforceable. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.
 
-### Miscellaneous.
+Miscellaneous.
+--------------
 
 Company shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Company’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation (including “line-noise” interference). These Terms of Use are personal to you, and are not assignable, transferable or sublicensable by you except with Company’s prior written consent. Company may assign, transfer or delegate any of its rights and obligations hereunder without consent. No agency, partnership, joint venture, or employment relationship is created as a result of these Terms of Use and neither party has any authority of any kind to bind the other in any respect. In any action or proceeding to enforce rights under these Terms of Use, the prevailing party will be entitled to recover costs and attorneys’ fees. All notices under these Terms of Use will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service. The captions and headings in this Agreement are intended only for convenience, and will in no event be construed to define, limit or describe the scope or intent of this Agreement, or of any provision of this Agreement, nor in any way affect the interpretation of this Agreement.
 
-### Contact.
+Contact.
+--------
 
 You may contact Company by directing inquiries to our support team.
 
-### Change log.
+Change log.
+-----------
+
+May 7, 2026: Clarified artist tax obligations; updated fees and payments structure for Merchandise and Digital Content transactions to detail VAT handling, EU marketplace rules (Council Directive (EU) 2017/2455), and IOSS obligations; added Shipment and Transfer of Title sections.
 
 November 15, 2024: Updated average monthly active users in the EU
 
@@ -219,7 +299,7 @@ October 18, 2023: Updated Bandcamp’s contact information, modified governing l
 
 March 17, 2022: Simplified the terms to remove redundant language already addressed in our [privacy](#privacy) policy, so that our privacy practices are described in a single location where our users typically expect to find them. Also, clarified how [taxes](#feesfans) are [handled](#feesartists) for certain transactions, provided additional information related to how [payments are processed](#feesartists), updated Bandcamp’s contact information, modified governing law and venue for [dispute resolution](#disputes) from California to North Carolina, and changed the Company entity to Bandcamp LLC.
 
-November 17, 2017: Added [Fees and Payments – General](#fees) and modified [Fees and Payments – Fans](#feesfans) and [Fees and Payments – Artists](#feesartists) sections in connection with updated payment system.
+November 17, 2017: Added [Fees and Payments – General](#fees) and modified [Fees and Payments – Fans](#feesfans) and [Fees and Payments – Artists](#feesartists) sections in connection with updated payment system.
 
 July 20, 2015: Modified [Acceptance of Terms](#acceptance) section and changed defined term “Band” to “Artist” in connection with introduction of Label accounts. Modified [Fees and Payments - Fans](#feesfans), [Fees and Payments - Artists](#feesartists), and [Limitation of Liability](#limitation) sections in connection with updated payment process for Digital Content. Modified [Fan Personal Information - Fans](#faninfo) and [Fan Personal Information - Artists](#artistfaninfo) sections in connection with new Artist Subscription service.
 
@@ -228,9 +308,9 @@ August 8, 2014: Modified [Fan Personal Information - Fans](#faninfo) section to 
 June 10, 2014: Added three new paragraphs to [Fees and Payments- Fans](#feesfans) to clarify that in the event of an infringement claim, we may be required to revoke streaming access to prior purchases.
 
   
-  
 
-### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated November 15, 2024).
+Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated November 15, 2024).
+-----------------------------------------------------------------------------------------------
 
 The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 4 million.
 
