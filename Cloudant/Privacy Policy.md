@@ -95,8 +95,6 @@ The information that we collect on our cloud and online services may include:
 
 This information is collected to provide you with access, to operate the service, for support, to personalize and improve your experience of the service, to develop other services and technologies, and generate technical and market insights. For more information on the technologies that we use to collect this information, and setting your preferences, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies).
 
-As a public cloud provider, IBM does not use personal information processed under a contract for the purposes of marketing and advertising without express consent.
-
 Mobile application privacy notices may provide details about the information that is collected by the app, such as geo-location information or the unique User-ID of a device. Unique User-IDs are used to connect to servers and to connect the use of the device across apps. Depending on the functions of the app, you can tailor your privacy settings by using the settings menu or in your user profile.
 
 IBM Learning offers education services and collects information on course completions to be able to provide you with credentials, certificates, or further information when needed.
@@ -142,8 +140,6 @@ Learn more
 The information collected in a contractual relationship may include the business contact information of the requester, an IBMid, and the order details. Information that is required for shipment and payment, for the implementation of services, or to grant access to the product or service may also be collected.
 
 This information may be collected for various purposes, depending on the nature of the products or services, for example, for contractual management and compliance, to provide support, for the improvement or development of our products and services, to contact you for customer satisfaction surveys, and to generate technical and market insights. For more information, see [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
-
-The information collected in a contractual relationship is not used for the purposes of marketing and advertising without obtaining consent before processing.
 
 #### Support Services
 
@@ -416,12 +412,12 @@ Where we need to process certain personal information based on our legal obligat
 Privacy Statement Updates
 -------------------------
 
-If a material change is made to this Privacy Statement, the effective date is revised, and a notice is posted on the updated Privacy Statement for 30 days. By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes.
+If a material change is made to this Privacy Statement, the effective date is revised, and a notice is posted on the updated Privacy Statement. By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes. 
 
 Previous versions of the Privacy Statement are available [here](https://www.ibm.com/us-en/privacy/previous-versions "https://www.ibm.com/us-en/privacy/previous-versions").
 
 **Sections updated in this release:**
 
-1.  Your Rights
+1.  Personal Information We Collect and Use 
 
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
