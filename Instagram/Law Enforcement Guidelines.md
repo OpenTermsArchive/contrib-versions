@@ -5,13 +5,13 @@ Information for law enforcement
 
 Copy link
 
-Requests for user information
+What information does Instagram disclose?
 
-Emergency requests
+What is required for user data?
 
-Child safety requests
+How do I make an emergency request?
 
-International legal requests
+How do I preserve Instagram records?
 
 I have a different question
 
