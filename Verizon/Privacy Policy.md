@@ -35,9 +35,9 @@ Open all
     
     Contact, billing and other information you provide
     
-    This includes your name, address, email, phone numbers where you can be reached, images, voice recordings or voiceprints, other biometric identifiers, date of birth, driver's license number, Social Security Number or Tax Identifier, username and password and payment information.
+    This includes your name, address, email, phone numbers where you can be reached, images, voice recordings, biometric identifiers, date of birth, driver's license number, Social Security Number or Tax Identifier, username and password and payment information.
     
-    It can also include information you provide, including in polls or surveys; Verizon-sponsored promotions; device setup; Lifeline Assistance Program applications; Community profiles such as your profile signature, avatar, biography and your time zone; and grant or job applications.  
+    It can also include information you provide, including in polls or surveys; Verizon-sponsored promotions; device setup; Lifeline Assistance Program applications; and grant or job applications.  
     
     How you use our services and your devices
     
@@ -70,7 +70,7 @@ Open all
     
     *   [Credit information from outside agencies](#)
     *   [Demographic and interest data](#) as well as device type, carrier, city and state information from third-party data providers
-    *   [Information from social media platforms and partners](#) such as when you interact with us via social media or use your social media login to interact with Verizon sites or offers. We may also receive information from partners when you purchase their services from us.
+    *   [Information from social media platforms and partners](#) such as when you interact with us via social media or use your social media login to interact with Verizon sites or offers. We may also receive information from partners when you purchase their service from us or use our services to engage with them, such as service entitlements when you buy a perk or information needed to provide a Verizon Dollars reward.
     *   [Contact, marketing lead and other information we purchase or receive](#)
     *   [Fraud information](#)
     
@@ -113,16 +113,16 @@ Open all
     *   Help us improve and [personalize your services and our marketing](#)
     *   Research, develop and market new products and services
     *   Authenticate you
-    *   [Determine your eligibility for new products and services](#)
+    *   [Determine your eligibility for products, services and discounts](#)
     *   [Better predict and deliver personalized content and offers](#) that may interest you
     
     Personalize your services and our marketing
     
     For example, we may use information we collect to tailor content and personalize our communications and your experiences with us, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, provide service-related notices and understand the effectiveness of our advertising.
     
-    Determine your eligibility for new products and services
+    Determine your eligibility for products, services and discounts
     
-    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using the [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
+    For example, we may use information to determine whether you are eligible for service upgrades, employment-related discount, Verizon Dollars, or to prescreen you for credit (unless you have opted out using the [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
     
     Better predict and deliver personalized content and offers
     
@@ -155,7 +155,7 @@ Open all
     | Clicks, opens and other interactions with our advertisements, emails, sites and apps | *   To personalize your experiences and make our marketing more relevant to you<br>*   To help you when you request assistance with website or app navigation<br>*   To protect you and us against fraud |
     | Location obtained from system applications on your mobile devices | *   To assist with locating you in an emergency <br>*   To help improve location accuracy in our services and apps<br>*   To provide you with mobile application updates |
     | Information, including recordings, from your calls and chats with our service and support representatives | *   To help train and allow employees, service providers, and systems to better serve you<br>*   To secure your account<br>*   To provide customized technical support<br>*   To assist you with device settings<br>*   To personalize your experience and make our marketing more relevant to you |
-    | Employment and grant applications and surveys | *   For the purpose for which you provide it, or as described at the time when you submitted the information. |
+    | Employment and grant applications and surveys | *   For the purpose for which you provide it, or as described at the time when you submitted the information |
     | Information obtained from others | *   To determine creditworthiness and perform business risk analysis<br>*   To verify your identity<br>*   To contact you with marketing offers<br>*   To improve business modeling |
     | Network usage information | *   To measure service quality on your current plan and other plans we offer |
     | Domain name server information | *   To deliver content efficiently and help you find the website you are looking for<br>*   To block harmful content<br>*   For network security<br>*   To provide technical support |
@@ -198,7 +198,7 @@ Open all
     
     Additional uses:
     
-    *   For the purpose for which you provide it, or as described at the time when you submitted the information.
+    *   For the purpose for which you provide it, or as described at the time when you submitted the information
     
     Information:
     
@@ -267,7 +267,7 @@ Open all
     
     We may disclose to or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, identifier matching or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use or we may disclose information using application programming interfaces (APIs). These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, conduct advertising and marketing activity and other purposes as described in the “How does Verizon use information” section.
     
-    **Partners.** When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you, or we may share information for business or operational purposes such as to enable and bill for service. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours.
+    **Partners.** When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you, or we may share information for business or operational purposes such as to enable and bill for service or apply discounts. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours.
     
     Certain [Verizon Value brands](#) share information that identifies you with our partner, Prove, who verifies your identity to facilitate your interactions with third parties, such as banks. Our partner also uses the information we share to assist third parties with decisions about credit applications that you submitted to a bank or other third party. You can opt out using the “[Your Privacy Choices](#)” link at the bottom of the website of the Verizon Value brand that you use.
     
@@ -277,14 +277,14 @@ Open all
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     
     If you are a Walmart Family Mobile customer, we work with Walmart Stores, Inc. (“Walmart”) to offer the Walmart Family Mobile service. Any information you provide directly to Walmart is subject to Walmart's Privacy Policy, including information you provide to Walmart in connection with your device purchase, upgrade, return, replacement, or technical support whether in its stores, by phone or online. In addition, if you activate Walmart Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is disclosed to Verizon Value as a necessary part of the activation process, and which may also be retained by Walmart. You can learn more by [visiting Walmart's Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy).
     
@@ -316,19 +316,19 @@ Open all
     *   Verizon Value customers, can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     *   Visible Wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
-    *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
+    *   Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     The [Choices section](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34) of this policy describes additional choices you have about our use and sharing of personal information.
@@ -383,9 +383,9 @@ Open all
     | --- | --- | --- |Types of advertising programs
     |     | Relevant Online Advertising | Relevant TV Advertising |
     | --- | --- | --- |
-    | Who can participate? | Verizon Wireline and Frontier Internet customers | Fios TV customers |
+    | Who can participate? | Verizon Fios and Frontier Internet customers | Verizon Fios TV customers |
     | Where will I see ads? | On websites you visit | [When you view Fios TV](#)<br><br>When you view Fios TV<br><br>This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps. |
-    | What information is used? | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser Information<br><br>This includes information we have about your postal address and use of Verizon or Frontier products and services (such as service packages, Fios or Frontier TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. |
+    | What information is used? | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser Information<br><br>This includes information we have about your postal address and use of Verizon or Frontier products and services (such as service packages, Fios or Frontier TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (e.g. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (e.g. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. |
     | Information that identifies me will not be disclosed outside of Verizon, its service providers and advertising partners | Yes | Yes |
     | I have a choice about participating | Yes | Yes |
     | More Information | [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) | [Relevant TV Advertising FAQs](https://www.verizon.com/support/residential/announcements/relevant-tv-advertising?CMP=BMO_CON_OTH_99999_NA_20210720_NA_M20210098_00001) |
@@ -394,7 +394,7 @@ Open all
     
     Who can participate?
     
-    Verizon Wireline and Frontier Internet customers
+    Verizon Fios and Frontier Internet customers
     
     Where will I see ads?
     
@@ -406,7 +406,7 @@ Open all
     
     Verizon, third party and advertiser Information
     
-    This includes information we have about your postal address and use of Verizon or Frontier products and services (such as service packages, Fios or Frontier TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers.
+    This includes information we have about your postal address and use of Verizon or Frontier products and services (such as service packages, Fios or Frontier TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (e.g. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers.
     
     Information that identifies me will not be disclosed outside of Verizon, its service providers and advertising partners
     
@@ -424,7 +424,7 @@ Open all
     
     Who can participate?
     
-    Fios TV customers
+    Verizon Fios TV customers
     
     Where will I see ads?
     
@@ -440,7 +440,7 @@ Open all
     
     Verizon, third party and advertiser information
     
-    This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers.
+    This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (e.g. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers.
     
     Information that identifies me will not be disclosed outside of Verizon, its service providers and advertising partners
     
@@ -483,19 +483,19 @@ Open all
     *   Verizon Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     *   Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
-    *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
-    *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
+    *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page to opt out](https://www.verizon.com/learning/your-privacy-choices).
+    *   Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     These pages also describe how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
@@ -546,7 +546,7 @@ Open all
     *   Verizon Wireless and certain business customers:  
         call 1-800-333-9956 to update your preferences or visit the [privacy preferences page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app (Edit profile & settings -> Privacy preferences).
     *   Frontier customers:  
-        call 1-855-484-2894 to update your account preferences or visit [frontier.com/cpni](https://frontier.com/pages/resources/cpni)
+        call 1-855-484-2894 to update your account preferences.
     
     ### You have choices about participating in Verizon programs that use web browsing and other information to personalize your experiences with us.
     
@@ -559,7 +559,7 @@ Open all
     ### You have choices about advertising, insights, verification and audience measurement services.
     
     **Relevant Online Advertising**  
-    Fios and Frontier internet customers are included in the Relevant Online Advertising program unless you opt out. For more information about this program, visit our [Frequently Asked Questions](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) page.
+    Verizon Fios and Frontier internet customers are included in the Relevant Online Advertising program unless you opt out. For more information about this program, visit our [Frequently Asked Questions](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) page.
     
     Fios internet customers may opt out as follows:
     
@@ -568,10 +568,10 @@ Open all
     *   Scroll down and click Manage online advertising preferences
     *   Click “Do Not Participate” and then Save your selection
     
-    Frontier internet customers may opt out by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
+    Frontier internet customers may opt out by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law) or by emailing [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com).
     
     **Relevant TV Advertising**  
-    Fios TV customers are included in the Relevant TV Advertising program unless you opt out. For more information about this program, visit our [Frequently Asked Questions](https://www.verizon.com/support/residential/announcements/relevant-tv-advertising) page. To opt out:
+    Verizon Fios TV customers are included in the Relevant TV Advertising program unless you opt out. Frontier customers using the Fios TV apps are not included in this program. For more information about this program, visit our [Frequently Asked Questions](https://www.verizon.com/support/residential/announcements/relevant-tv-advertising) page. To opt out:
     
     *   Log in to your My Verizon account online
     *   In the menu bar click Account > Home > Services > TV
@@ -589,14 +589,14 @@ Open all
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     
     **Fios TV Market Research and Audience Measurement**  
     If you do not want personal information disclosed for audience measurement and market research purposes, you can opt out for all devices you use for Fios TV using your [Fios TV Account Settings on the Fios TV Website](https://tv.verizon.com/watch/settings/nielsen/) or in the Fios TV apps (in settings under “Audience Measurement”).
@@ -648,7 +648,7 @@ Open all
     
     Customers can review and update account information in the following ways:
     
-    **Verizon Wireline**  
+    **Verizon Wireline and Visible Fiber**  
     call 1-800-VERIZON  
     or [access your Verizon home account online](https://www.verizon.com/home/myverizon/)
     
@@ -686,7 +686,7 @@ Open all
     
     We may use our cable system to collect personally identifiable information necessary to render cable service or other services provided to you over the cable system and to detect and prevent unauthorized access to services. We may collect additional personally identifiable information with your prior consent. We may use or disclose personally identifiable information without consent where necessary to render services and to conduct legitimate business activities related to the services we provide.
     
-    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide. We disclose name and address information to service providers as part of our Relevant TV Advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. You can opt out of participating in the [Relevant TV Advertising program](http://verizon.com/relevanttvfaqs). 
+    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide. For participating Verizon Fios TV customers, we disclose name and address information to service providers as part of our Relevant TV Advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. Verizon Fios TV customers can opt out of participating in the [Relevant TV Advertising program](http://verizon.com/relevanttvfaqs). 
     
     We may also disclose personally identifiable information if it is required by law to comply with [valid legal process](#).
     
@@ -730,13 +730,13 @@ Open all
     *   Commercial information, including products and services you purchase and consider, how you use them, and reward program activity. We use this information to provide you with products and services, operate our business, communicate with you and provide customer service, personalize your experience, improve our services, provide marketing and advertising, create business insights, debug and audit our processes and services, short term transient uses, research, security, fraud and legal reasons.
     *   Internet information, including browsing history, search and other activity on our sites, and information about your interaction with our sites, apps, advertisements and social media; and device information, usage and activity. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
     *   Geolocation data from our network and, when you permit it, our apps. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in.
-    *   Audio, electronic, visual, or similar information, including voice recordings of customer service calls and photographs of customer equipment or that you use within our apps. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
+    *   Audio, electronic, visual, or similar information, including voice recordings of customer service calls, images and message content that you provide for scam detection, and photographs of customer equipment or that you use within our apps. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
     *   Professional or employment-related information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
     *   Education information. We use this information for business operations; security and fraud prevention; and for the purposes described to you when you provided it.
     *   Inferences we create from the information we collect that create a profile reflecting your preferences, characteristics, predispositions, and behavior is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. 
     *   Secure account information including your account log-in credentials, financial account, debit or credit card number with any required security or access code, password, or credentials that allow access to an account. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; confirm eligibility for certain services such as the Lifeline Assistance Program; security and fraud prevention and legal compliance purposes.
     *   Genetic, biometric and health information, for example, some Verizon apps allow you to disclose health information with your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. You may also opt in to facial recognition identity verification when you request to purchase certain products and services.
-    *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies is used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
+    *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies are used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
     *   And other information that may identify, relate to, describe, or is capable of being associated with you, for example, information you provide to us, or grant us permission to collect such as through our mobile applications. This may include contacts, profile photos, motion activity, vehicle information or in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
     We use the information we collect for [business and commercial purposes](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf](#); and others for credit and collections, directory assistance and caller ID purposes;, with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party. We may also disclose information with your consent and as further described in other sections of this policy.
@@ -755,7 +755,7 @@ Open all
     
     These reasons include: detecting security incidents; resisting malicious, deceptive, fraudulent or illegal actions; ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying information; and verifying, maintaining or enhancing a service on a device that is owned, manufactured or controlled by us or on your device. We may also disclose information to service providers providing storage or similar services on our behalf.
     
-    Certain Verizon Value brands may offer financial incentives for information that you provide through discounts and coupons for service. To the extent we can determine the value of the information you provide, we consider the value reasonably related to the cost of the incentive that we offer.
+    Certain Verizon Value brands offer financial incentives (“Incentives”) through discounts or coupons. When you participate in an Incentive, you agree to the Incentive terms and may stop participating at any time. If you request the deletion of personal information, and if we require certain personal information to provide you the Incentive, then you may not be able to participate in the incentive. To the extent we can determine the value of the information you provide, we consider the value reasonably related to the costs associated with offering the Incentives.
     
     Our policies require that we retain records containing personal information for as long as they are needed for legal, tax, audit, investigative, and security purposes and then securely delete or destroy them. We incorporate personal information into different types of records; it is not always retained by distinct data elements. For example, your name is part of your account, billing, technical support and call detail records. Each type of record may be retained for a different time period depending on its purpose.
     
@@ -774,7 +774,7 @@ Open all
     
     Frontier customers can submit a request by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606. You can submit our [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) if you need assistance with your request.
     
-    instructions for submitting requests
+    instructions to submit requests
     
     If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
     
@@ -784,6 +784,8 @@ Open all
     (855) 425-6266  
     [VisibleMerch@halo.com  
     Send a message](mailto:VisibleMerch@halo.com)
+    
+    Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](https://www.verizon.com/privacy/your-data/guest-landing).
     
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you [unless we need it for specific reasons](#), and to correct inaccurate personal information we have about you.
     
@@ -817,14 +819,14 @@ Open all
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
     Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
@@ -839,6 +841,8 @@ Open all
     Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     
     Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
+    
+    Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
     
     We also honor [Global Privacy Control](https://globalprivacycontrol.org/) opt out preference signals you may set on your browser. If you are not logged in or don’t have an account and use a GPC on your visit to one of our websites, we will stop third-party cookies, pixels, and similar technology on that site from collecting, using, and sharing information from your site visit for purposes of targeting ads to you based on your online behavior and activity. This opt out will apply to your activity on our website for the browser and on the device you are using when the GPC signal is on. We will need more information to identify you and apply your opt out to your account, phone number and email information. If you are a customer and you’re logged in to your account from a browser with the GPC signal on, we will block third-party cookies, pixels, and similar technology on our site and we will opt you out of selling and sharing of personal information associated with your line. We do not respond to Do Not Track signals.
     
@@ -871,20 +875,22 @@ Open all
     
     Frontier customers can submit a request by completing the [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606.
     
-    Clearway Wireless for Business customers: call 1-844-638-1028
+    Clearway Wireless for Business customers can call 1-844-638-1028.
+    
+    Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](https://www.verizon.com/privacy/your-data/guest-landing).
     
     Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
     Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
@@ -897,6 +903,8 @@ Open all
     Verizon Community website users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) to opt out.
     
     Teachers who access Verizon Innovative Learning HQ can visit the Verizon Innovative Learning Your Privacy Choices page to opt out.
+    
+    Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
     
     If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out of selling and sharing by following the instructions at [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer your authorized agent can exercise your right to opt out of selling and sharing by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries). Authorized agents of Visible customers can exercise your right to opt out of selling and sharing by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Merch customers can exercise your right to opt out of selling and sharing by emailing us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com). If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use, or the “Do Not Sell or Share My Personal Information” link in the footer of Frontier’s website, in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
@@ -940,7 +948,7 @@ Open all
     *   Geolocation information from our network and, when you permit it, in our apps; information about how you use our products and services; web browsing across unaffiliated sites and apps; voice recordings of customer service calls; and photographs of customer equipment. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in. 
     *   Secure account information including your account log-in credentials; financial account information; Social Security Number or tax identifier; identification and identification numbers including driver’s license, state identification card, or passport; debit or credit card number with any required security or access code, password, or credentials that allow access to an account; and professional or employment related information. We use this information to provide you with access to your accounts, measure credit and payment risk, accept payment for products and services you purchase; confirm eligibility for certain services such as the Lifeline Assistance Program; security and fraud prevention and legal compliance purposes.
     *   Genetic, biometric and health information for limited purposes such as some Verizon apps allow you to provide health information to your trusted or emergency contacts. Another Verizon service uses voice recognition technology to allow you to secure your Verizon accounts. You may also opt in to facial recognition identity verification when you request to purchase certain products and services.
-    *   Audio, electronic, visual or similar information, such as voice recordings of customer service calls and photographs of customer equipment. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
+    *   Audio, electronic, visual or similar information, such as voice recordings of customer service calls, images and message content you provide for scam detection, and photographs of customer equipment. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
     *   Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims, or information that you provide when you interact with us in stores or online chats.
     
     We collect personal information [when you interact with us](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under the state laws](#). We retain information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it.
@@ -981,6 +989,8 @@ Open all
     
     Frontier customers can submit a request by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by emailing [FTR-privacy@verizon.com](mailto:%20FTR-privacy@verizon.com). You can submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) if you need assistance with your request.
     
+    Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](https://www.verizon.com/privacy/your-data/guest-landing).
+    
     We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws](#), and to correct inaccurate personal information we have about you. 
     
     Delaware residents may request a list of the [categories of third parties](#) with whom we disclose information.
@@ -999,7 +1009,7 @@ Open all
     
     The reasons vary slightly within these different state privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    Some of our services may offer certain loyalty programs (“Loyalty Programs”) that may qualify as a “bona fide loyalty program” under Colorado law. We will provide you information about any additional information processing practices when you sign up for a Loyalty Program, if applicable. When you participate in a Loyalty Program, you agree to the terms of that Loyalty Program and may revoke your participation depending on the Loyalty Program by contacting us as described in the Loyalty Program terms.
+    Some of our services may offer certain loyalty programs (“Loyalty Programs”) that may require the provision of personal information and may qualify as a “bona fide loyalty program” under Colorado law. We will provide you information about any additional information processing practices when you sign up for a Loyalty Program, if applicable. When you participate in a Loyalty Program, you agree to the terms of that Loyalty Program.
     
     **Residents of Colorado, Connecticut, Delaware, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, and Virginia have the right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similarly significant effects.  
     
@@ -1021,14 +1031,14 @@ Open all
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
     Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
@@ -1043,6 +1053,8 @@ Open all
     Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     
     Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
+    
+    Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
     
     These pages also describe how we honor [Global Privacy Control](https://globalprivacycontrol.org/) (GPC) opt out preference signals you may set on your browser. If you are not logged in or don’t have an account and use a GPC on your visit to one of our websites, we will stop third-party cookies, pixels, and other similar technology on that site from collecting, using, and sharing information about you from your visit for purposes of targeting ads to you based on your online behavior and activity. This opt out signal will apply to your activity on our website for the browser and on the device you are using when the GPC signal is on. We will need more information to identify you and apply your opt out of selling and targeted advertising to your account, phone number and email information. If you are a customer and you’re logged in to your account from a browser with the GPC signal on, we will block third-party cookies, pixels, and similar technology on our site and we will opt you out of selling and sharing of personal information associated with your line. We do not honor Do Not Track signals.
     
@@ -1085,18 +1097,20 @@ Open all
     
     Clearway Wireless for Business customers may submit a request by calling 1-844-638-1028.
     
+    Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](https://www.verizon.com/privacy/your-data/guest-landing).
+    
     Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Your Privacy Choices
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
     Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
@@ -1112,20 +1126,22 @@ Open all
     
     Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](https://www.verizon.com/learning/your-privacy-choices) to opt out.
     
+    Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](https://www.verizon.com/ai-skills/your-privacy-choices) to opt out.
+    
     If you are an Android user you can use the “Your Privacy Choices” link at the bottom of notifications pushed to your device to opt out of personalized app recommendations.
     
     If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer, your authorized agent can exercise this opt out right by visiting the [Your Privacy Choices](#) page available from the “Privacy Choices for Authorized Agents” link on the website of the Verizon Value brand that you use.
     
     opt out on these sites
     
-    *   Tracfone:  [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk:  [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
-    *   Simple Mobile:  [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
-    *   Net10 Wireless:  [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
-    *   Walmart Family Mobile:  [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-    *   Total Wireless:  [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink:  [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
-    *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
+    *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+    *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+    *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+    *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
     Authorized agents of Visible customers can exercise your right to opt-out by clicking on the link on the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Merch customers can email us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com) with your name, address, and email address. Authorized agents of Frontier customers can email us at [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com).
@@ -1163,12 +1179,7 @@ Open all
     *   We may also retain biometric data as otherwise required to comply with applicable law or valid legal/judicial process.
     *   We use technical, administrative and physical safeguards as set forth in this Privacy Policy to help protect against unauthorized access to, use or disclosure of information we collect or store. We use our security and incident response plans to handle incidents involving data we process.
     
-    **Where to exercise your rights.** Colorado residents who are Verizon Wireless or Home services customers may submit a request to know or access biometric data by:
-    
-    *   visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
-    *   calling 1-800-333-3972.
-    
-    Colorado residents who are Total Wireless customers who completed ID verification when purchasing a device may submit a request for additional information by contacting our identity verification partner, Veriff, at privacy@veriff.com.
+    **Where to exercise your rights.** Colorado residents may submit a request to know or access biometric data by visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data). Verizon Wireless or Home services customers may also call 1-800-333-3972. Total Wireless customers may submit a  [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     ### Maine Broadband Customer Privacy Rights
     
@@ -1296,7 +1307,7 @@ Open all
     
     Rhode Island defines "sale" as the exchange of personal data for monetary or other valuable consideration.
     
-    *   [Verizon & Verizon Community](https://www.verizon.com/about/privacy/third-party-privacy-disclosure)
+      
     *   [Verizon Value brands](https://www.privacy.tracfone.com/privacy-list), including GoSmart Mobile, Net10 Wireless, Page Plus, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone, Walmart Family Mobile.
     *   [SafeLink Wireless](https://www.privacy.tracfone.com/privacy-list-safelink)
     *   [Visible](https://www.visible.com/legal/third-party-privacy-disclosure)
@@ -1310,7 +1321,7 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy). If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated June 2026
+    Updated August 2026
     
     © 2025 Verizon. All rights reserved.
     
