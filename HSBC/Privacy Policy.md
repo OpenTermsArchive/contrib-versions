@@ -210,11 +210,11 @@ BX8 1HB
 
 This privacy notice may be updated from time to time, and you’ll always be able to find the most recent version on this site.
 
-Last updated: 9 February 2024
-
 Thank you for reading this privacy notice.
 
 Website accessibility
 ---------------------
 
 HSBC is committed to ensuring that the information on this website, including this privacy notice, is accessible to the widest possible audience and by those using assistive technologies. For more information, please visit our [Website accessibility page](https://www.hsbc.com/website-accessibility).
+
+Content last updated: 24 August 2026
