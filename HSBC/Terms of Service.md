@@ -176,3 +176,5 @@ Data Treasury Corporation (DTC) Licence
 HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988; 6,032,137; 6,594,647; 6,341,272; 5,974,146.
 
 HSBC Holdings plc is a company incorporated under the laws of England and Wales with company registration number 617987 and its registered office at 8 Canada Square, London E14 5HQ. HSBC Bank plc´s registered VAT Number is GB 365684514.
+
+Content last updated: 20 May 2025
