@@ -1,7 +1,7 @@
 [![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)  
 WebProNews](https://www.webpronews.com/)
 
-[![](https://img.nui.media/banners/media/20/200823/75/755953/1787750795657_082626-aleph-728.png)](https://ientry.nui.media/pipeline/605888/0/cj?ajkey=V12113EB3EAJ-573J8100L200823156365307L755956L755954L200854L200896QQP0G00G0Q2309AADB000001010000G0PG30H36W8ee8af3c12DW4bbff2DW44a582DW49fe22DX12498ebd199ea0G0G03F)
+[![](https://img.nui.media/banners/media/20/200823/75/750461/1784117082250_071626-oligo-728.png)](https://ientry.nui.media/pipeline/605888/0/cj?ajkey=V12FBB7481EJ-573J8100L200823156365307L754332L756090L200854L200896QQP0G00G0Q230A52E5000001010000G0PG30H36W8a85b92842DW4fc1b2DW449492DW4aff42DX12bf1b44421e84G0G064)
 
 [Advertise with Us](https://www.webpronews.com/advertise)
 
@@ -285,10 +285,4 @@ Deliver your marketing message **directly to decision makers.**
 
 ©2026 iEntry, Inc. All rights reserved. [Privacy Policy](https://www.webpronews.com/privacy-policy) | [Legal](https://www.ientry.com/legal/) | [Contact Us](https://www.webpronews.com/contact) |
 
-![](https://pixel.wp.com/g.gif?v=ext&blog=138578674&post=480559&tz=-4&srv=www.webpronews.com&j=1%3A16.0.1&host=www.webpronews.com&ref=&fcp=580&rand=0.07358043744883491)
-
-![notification icon](https://img.os-content.com/permanent/997bb468-692c-4b5f-93d8-f8893ddbe5bc/nXLNYRmOQ4COS6pAz1JH_onesignal-logo.png)
-
-Receive the latest news, updates and offers as they happen.
-
-AllowNo Thanks
+![](https://pixel.wp.com/g.gif?v=ext&blog=138578674&post=480559&tz=-4&srv=www.webpronews.com&j=1%3A16.0.1&host=www.webpronews.com&ref=&fcp=452&rand=0.1868005326356813)
