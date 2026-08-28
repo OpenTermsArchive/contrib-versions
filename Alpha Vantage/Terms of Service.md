@@ -42,27 +42,13 @@ a. Alpha Vantage grants the right to install, use, access, display and run the
 
 software on any computer or mobile device, where applicable, that you own
 
-or control, for personal, non-commercial use, unless you and Alpha Vantage
-
-have agreed otherwise in writing, and provided that you comply with all
-
-terms and conditions of the End User License Agreement (see below).
-
-
-
-Usage falls under “commercial use” if any of the following criteria
-
-apply to you:
+or control, for personal, non-commercial use, unless you and AlphaVantage have agreed otherwise in writing, and provided that you complywith all terms and conditions of the End User License Agreement (seebelow). Usage falls under “commercial use” if any of the followingcriteria apply to you:
 
 
 
 i. You intend to use the Alpha Vantage Platform for any purpose that
 
-goes beyond personal usage including investment analysis, research,
-
-testing, monitoring, and any other activities that are individual in
-
-nature
+goes beyond investment analysis, research, testing, monitoring, and anyother activities that are private and individual in nature
 
 ii. You are using the Alpha Vantage Platform as or on behalf of a
 
