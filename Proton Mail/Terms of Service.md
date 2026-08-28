@@ -1,4 +1,4 @@
-Last modified: 23rd June 2026
+Last modified: June 23, 2026
 
 Terms of Service
 ================
