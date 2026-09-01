@@ -26,13 +26,14 @@ You can contact us if you have any question about our privacy practices or about
 
 The following company decides how and why your personal data is processed, and for GDPR purposes is the “Data Controller”:
 
-AdSupply Inc. (“**AdSupply**”) is a California corporation having its registered address at 9024 W. Olympic Blvd., Beverly Hills, California 90211, United States of America, and registered with the California Secretary of State under number C3416158.
+AdSupply Inc. (“**AdSupply**”) is a California corporation having its registered address at 8840 W Olympic Blvd, Beverly Hills, California 90211, United States of America, and registered with the California Secretary of State under number C3416158.
 
 If you have any comments or questions about this Privacy Policy or generally about our privacy practices, please send an email to [support@adsupply.com](mailto:support@adsupply.com), or to our Data Protection Officer at [dpo@adsupply.com](mailto:dpo@adsupply.com), or via mail to the address indicated below, and we will quickly get back to you. We are always glad to talk about our privacy practices.
 
 AdSupply Inc.  
-9024 W. Olympic Blvd.  
-Beverly Hills, CA 90232, United States
+8840 West Olympic Boulevard  
+Beverly Hills, California 90232  
+United States of America
 
 **2\. YOUR ARE AN END-USER OF A PUBLISHER’S SITE**
 
