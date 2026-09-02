@@ -265,7 +265,7 @@ _**Automattic Services (except Woo)**_
 _**Woo Services  
 **_
 
-_Woo services includes WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products and services available at woocommerce.com._
+_Woo services include WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products and services available at woocommerce.com._
 
 |     |     |
 | --- | --- |
