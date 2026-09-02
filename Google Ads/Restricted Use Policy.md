@@ -78,7 +78,7 @@ Prohibited practices
 > 
 > > Ads across the Google Network should be useful, varied, relevant, and safe for users. Google Ads doesn't allow advertisers to attempt to trick or circumvent our ad review processes with their ads, content, or destinations.
 > > 
-> > Learn more about the [Abusing the ad network policy](https://support.google.com/adspolicy/answer/6020954).
+> > Learn more about [the Abusing the ad network policy](https://support.google.com/adspolicy/answer/6020954).
 > > 
 > > **Examples of abusing of the ad network (non-exhaustive)**: promoting content that contains malware; "cloaking" or using other techniques to hide the true destination that users are directed to; "arbitrage" or promoting destinations for the sole or primary purpose of showing ads; promoting "bridge" or "gateway" destinations that are solely designed to send users elsewhere; advertising with the sole or primary intent of gaining public social network endorsements from the user; "gaming" or manipulating settings in an attempt to circumvent our policy review systems
 > 
