@@ -33,6 +33,8 @@ Table of Contents
 
 [13\. General terms](https://policy.pinterest.com/en/terms-of-service#section-13-general-terms)
 
+_We're updating our Terms of Service, effective November 12, 2026. You can preview the updated Terms of Service [here](https://policy.pinterest.com/terms-of-service-preview)._
+
 Thank you for using Pinterest!
 ==============================
 
