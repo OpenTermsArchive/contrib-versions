@@ -227,7 +227,7 @@ You can opt-out of having made your activity on the Service available to Google 
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page:
 
-[http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/)
+[http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
   
 
