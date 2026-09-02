@@ -37,7 +37,7 @@ Quelles informations recueillons-nous ?
 
 En bref
 
-Les informations vous concernant que nous recueillons et traitons dépendent de la manière dont vous utilisez nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Nous recueillons par exemple des informations différentes selon que vous vendez des meubles sur Marketplace ou que vous demandez à l’[IA par Meta](https://www.facebook.com/privacy/genai) de vous inventer une blague. Lorsque vous utilisez nos Produits, nous recueillons certaines informations à votre sujet [même si vous ne possédez pas de compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
+Les informations vous concernant que nous recueillons et traitons dépendent de la manière dont vous utilisez nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Par exemple, nous recueillons des informations différentes selon que vous vendez des meubles sur Marketplace ou que vous demandez à Meta AI de vous inventer une blague. Lorsque vous utilisez nos Produits, nous recueillons certaines informations à votre sujet [même si vous ne possédez pas de compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
 
 Voici les informations que nous recueillons :
 
