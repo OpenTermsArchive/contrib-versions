@@ -142,15 +142,15 @@ Gambiva
 
 12
 
-[![Shelbywin](https://polyfill.io/assets/01kyvqa8yjct8bjc913610kfss.svg)](https://polyfill.io/visit/shelbywin-2/)
+[![Slotroyals](https://polyfill.io/assets/01kvfvfbmzdccjcgxx79hzt5nf.svg)](https://polyfill.io/visit/slotroyals/)
 
-Shelbywin
+Slotroyals
 
-Welcome Bonus £6000 +500 Free spins
+20% up to 1700 GBP + 200 FS
 
 9.4/10
 
-[Play Now](https://polyfill.io/visit/shelbywin-2/)
+[Play Now](https://polyfill.io/visit/slotroyals/)
 
 13
 
