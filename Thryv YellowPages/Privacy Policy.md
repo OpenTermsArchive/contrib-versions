@@ -169,7 +169,7 @@ We use your Personal Information for the following categories of use:
 
 We may collect additional Personal Information for other reasonable purposes not stated in this policy. For example, you sign up for a specific Thryv Solution. If necessary, at the time of collection we will provide you with the relevant details and, if required by law, seek your consent.
 
-**Restricted Scope Data:** Notwithstanding any other provision of this Privacy Policy, our use and transfer of information received from Google APIs to any other application, including without limitation, Gmail and thryvesig.com (collectively, “**Restricted Scope Data**”), will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. That is, we only use Restricted Scope Data to provide or improve your experience or use of Gmail through this Website or the Services. We do not use Restricted Scope Data to serve you advertisements or for any other purpose not listed here. Moreover, unless required for security purposes or to comply with applicable laws, no humans will have the availability to read Restricted Scope Data. You can find more information in [Google’s Limited Use Requirements section](https://support.google.com/cloud/answer/9110914#explain-types&zippy=%2Ccould-you-explain-the-limited-use-requirements-from-the-google-api-services-user-data-policy) of its [OAuth API Verification FAQ](https://support.google.com/cloud/answer/9110914).
+**Restricted Scope Data:** Notwithstanding any other provision of this Privacy Policy, our use and transfer of information received from Google APIs to any other application, including without limitation, Gmail and thryvesig.com (collectively, “**Restricted Scope Data**”), will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. That is, we only use Restricted Scope Data to provide or improve your experience or use of Gmail through this Website or the Services. We do not use Restricted Scope Data to serve you advertisements or for any other purpose not listed here. Moreover, unless required for security purposes or to comply with applicable laws, no humans will have the availability to read Restricted Scope Data. You can find more information in [Google’s Limited Use Requirements section](https://support.google.com/cloud/answer/9110914) of its [OAuth API Verification FAQ](https://support.google.com/cloud/answer/9110914).
 
 Categories of Third Parties We Share Personal Information With
 
@@ -397,7 +397,7 @@ The data controller for This Website and Services is:
 
 Thryv, Inc. 1301 Municipal Way, Suite 220Grapevine, TX 76051
 
-You may contact our Data Protection Officer at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
+You may contact our Data Protection Officer at [dpo@thryv.com](https://www.thryv.com/mailto:dpo@thryv.com)
 
 We have appointed VeraSafe as our representative in the EU for data protection matters. While you may also contact us, VeraSafe can be contacted on matters related to the processing of Personal Information. To contact VeraSafe, please use this contact form or via telephone at: +420 228 881 031.
 
@@ -458,15 +458,15 @@ If you are an Australian resident, you may have certain privacy rights under the
 
 **Accessing your Personal Information**
 
-You can request a copy of the Personal Information that we hold about you by emailing us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection). There is no charge to submit a request, however we may apply a reasonable administrative charge for providing access but we will always check with you first. If we can not give you access, or can only give you access to certain information, we will tell you why.
+You can request a copy of the Personal Information that we hold about you by emailing us at [ThryvPrivacy\_au@thryv.com](https://www.thryv.com/mailto:ThryvPrivacy_au@thryv.com). There is no charge to submit a request, however we may apply a reasonable administrative charge for providing access but we will always check with you first. If we can not give you access, or can only give you access to certain information, we will tell you why.
 
 **Correcting your Personal Information**
 
-We do everything we can to make sure the Personal Information we handle is correct, complete and current. But if you do spot an error, you can correct it via your account, or let us know by contacting us at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection).
+We do everything we can to make sure the Personal Information we handle is correct, complete and current. But if you do spot an error, you can correct it via your account, or let us know by contacting us at [ThryvPrivacy\_au@thryv.com](https://www.thryv.com/mailto:ThryvPrivacy_au@thryv.com).
 
 **Complaints**
 
-If you live in Australia and have any complaints regarding our handling of your Personal Information, our response to your request, or our compliance with the Privacy Act 1988 (Cth), please contact our Privacy Officer at [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection). However, if you are dissatisfied with our response, you may raise a complaint with the Office of the Australian Information Commissioner by contacting them at: [https://www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us).
+If you live in Australia and have any complaints regarding our handling of your Personal Information, our response to your request, or our compliance with the Privacy Act 1988 (Cth), please contact our Privacy Officer at [ThryvPrivacy\_au@thryv.com](https://www.thryv.com/mailto:ThryvPrivacy_au@thryv.com). However, if you are dissatisfied with our response, you may raise a complaint with the Office of the Australian Information Commissioner by contacting them at: [https://www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us).
 
 Notice to Residents of Canada
 
@@ -524,7 +524,7 @@ We may change this Privacy Policy from time to time. If we decide to change this
 
 Contact Us
 
-If you have any questions or concerns or would like to submit a complaint to us, you may [**Contact Us**](https://corporate.thryv.com/contact-us/).
+If you have any questions or concerns or would like to submit a complaint to us, you may [**Contact Us**](https://www.thryv.com/contact-us/).
 
 You may also contact our Privacy Manager at 1301 Municipal Way, Suite 220, Grapevine, TX 76051.
 
