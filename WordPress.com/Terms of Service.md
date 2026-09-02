@@ -63,7 +63,7 @@ Please see below to determine which entity your Agreement is with, which depends
 
 **Woo Services**
 
-_Woo services includes WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products or services available at WooCommerce.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern)._
+_Woo services include WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products or services available at WooCommerce.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern)._
 
 *   If you reside outside of the Designated Countries: WooCommerce, Inc.
 *   If you reside in the Designated Countries: WooCommerce Ireland Ltd.
