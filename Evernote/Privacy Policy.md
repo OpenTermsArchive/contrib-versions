@@ -199,10 +199,10 @@ The Evernote Service is designed for adults; we do not intend to collect persona
 
 Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not currently respond to or otherwise take action in response to web browser "do not track" signals. For information about Do Not Track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-*   [Privacy Center](https://evernote.com/privacy)
-*   [Privacy Policy](https://evernote.com/privacy/policy)
-*   [Region-Specific Information](https://evernote.com/privacy/regional)
-*   [3 Laws of Data Protection](https://evernote.com/privacy/3-laws-of-data-protection)
-*   [Cookie Notice](https://evernote.com/privacy/cookies)
-*   [Transparency Report](https://evernote.com/privacy/transparency-report)
-*   [Vendors](https://evernote.com/privacy/vendors)
+*   [Privacy Center](https://evernote.com/en-us/privacy)
+*   [Privacy Policy](https://evernote.com/en-us/privacy/policy)
+*   [Region-Specific Information](https://evernote.com/en-us/privacy/regional)
+*   [3 Laws of Data Protection](https://evernote.com/en-us/privacy/3-laws-of-data-protection)
+*   [Cookie Notice](https://evernote.com/en-us/privacy/cookies)
+*   [Transparency Report](https://evernote.com/en-us/privacy/transparency-report)
+*   [Vendors](https://evernote.com/en-us/privacy/vendors)
