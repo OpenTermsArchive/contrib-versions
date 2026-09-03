@@ -10,7 +10,7 @@ Before using any ArtStation services, you must read, understand and agree to the
 
 The web pages available at artstation.com and linked pages (“Artstation” or the “Site”) is accessed by you (“you” or the “Member”) under the Terms of Use described below (this “Agreement”).
 
-If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc.  If it is not in the United States of America, your agreement is with Epic Games Commerce GmbH. In this Agreement, the terms “we” or “us” or “Epic” refer to either Epic Games, Inc. or Epic Games Commerce GmbH, depending on the location of your primary residence or primary place of business.
+Your agreement is with KitBash AS Operations LLC. In this Agreement, the terms “we” or “us” or “ArtStation” refer to KitBash AS Operations LLC.
 
 Please read these terms carefully before using the services. By accessing the site, viewing any content or using any services available on the site (as each is defined below) you are agreeing to be bound by these terms, governs our relationship with you in relation to the site. If you disagree with any part of the terms, please do not access the site.
 
@@ -27,7 +27,7 @@ For good and valuable consideration, the receipt and sufficiency of which each p
 
 ### 1\. Membership
 
-You do not have to be a member of the Site to enjoy some of the features of the Site. In particular, the Site users who are not members may view some of the content on the Site as long as they comply with our standards of conduct. However, members receive additional benefits (and different levels of members may receive different benefits), subject to our standards of conduct from time-to-time. We may change the benefits, features and levels of membership from time-to-time by sending you an email or by posting the changes on the Site. Our provision of the above benefits to you, including ArtStation Learning (defined in section 9), the Marketplace (defined in section 10(a)), and all other services we provide on the Site, are collectively the “Services”. Epic may use third parties to provide some or all of the Services. The Services may be provided using servers and other equipment located in any country including Canada, the United States and elsewhere.
+You do not have to be a member of the Site to enjoy some of the features of the Site. In particular, the Site users who are not members may view some of the content on the Site as long as they comply with our standards of conduct. However, members receive additional benefits (and different levels of members may receive different benefits), subject to our standards of conduct from time-to-time. We may change the benefits, features and levels of membership from time-to-time by sending you an email or by posting the changes on the Site. Our provision of the above benefits to you, including ArtStation Learning (defined in section 9), the Marketplace (defined in section 10(a)), and all other services we provide on the Site, are collectively the “Services”. ArtStation may use third parties to provide some or all of the Services. The Services may be provided using servers and other equipment located in any country including Canada, the United States and elsewhere.
 
 ### 2\. Eligibility
 
@@ -73,15 +73,15 @@ You may only access the Services through the interface provided on the Site. Als
 
 ### 6\. Payment
 
-Many portions of the Site are free to use. However, if you wish to use any of the premium services or wish to purchase any products available on the Site, you agree to pay Epic the prices posted on the Site for those products and services, plus all applicable taxes, and you will make those payments on the dates set out on the Site. Payments must be made in advance. Epic may change the fees from time-to-time.
+Many portions of the Site are free to use. However, if you wish to use any of the premium services or wish to purchase any products available on the Site, you agree to pay ArtStation the prices posted on the Site for those products and services, plus all applicable taxes, and you will make those payments on the dates set out on the Site. Payments must be made in advance. ArtStation may change the fees from time-to-time.
 
 ### 7\. Payment Options
 
-You may pay Epic through the payment options made available on the Site. You must comply with the terms of all agreements between you and any third-party payment processors, and if you have any disputes regarding the processing of your payment you must deal directly with those third parties to resolve the disputes. If Epic allows you to pay Epic directly via credit card, then you authorize Epic to charge all amounts to the credit card number you provide to Epic. If your credit card payment is rejected or refused you will immediately pay Epic the amount due and provide Epic with an alternative credit card number for future payments. You represent and warrant to Epic that each credit card you use for payment to Epic either belongs to you, and you have the right to charge all such payments on the credit card(s).
+You may pay ArtStation through the payment options made available on the Site. You must comply with the terms of all agreements between you and any third-party payment processors, and if you have any disputes regarding the processing of your payment you must deal directly with those third parties to resolve the disputes. If ArtStation allows you to pay ArtStation directly via credit card, then you authorize ArtStation to charge all amounts to the credit card number you provide to ArtStation. If your credit card payment is rejected or refused you will immediately pay ArtStation the amount due and provide ArtStation with an alternative credit card number for future payments. You represent and warrant to ArtStation that each credit card you use for payment to ArtStation either belongs to you, and you have the right to charge all such payments on the credit card(s).
 
 ### 8\. Interest
 
-You will pay Epic simple interest on all overdue amounts at a rate of 18% per year, calculated from the date payment was due until the date payment (including accrued interest thereon) is made in full.
+You will pay ArtStation simple interest on all overdue amounts at a rate of 18% per year, calculated from the date payment was due until the date payment (including accrued interest thereon) is made in full.
 
 > Basically...
 > 
@@ -101,25 +101,25 @@ From time to time, and subject to any terms and restrictions we may impose, we m
 
 #### c. Learning Resources
 
-All Learning Resources are Epic Property subject to section 16 (Ownership), section 24 (Use of the Services) and the remainder of these Terms. If you are an eligible member, Epic hereby grants you a limited, personal, non-exclusive, non-transferable and royalty-free license to download, install, copy and use Learning Resources for your personal use only, subject to the following restrictions. You may not:
+All Learning Resources are ArtStation Property subject to section 16 (Ownership), section 24 (Use of the Services) and the remainder of these Terms. If you are an eligible member, ArtStation hereby grants you a limited, personal, non-exclusive, non-transferable and royalty-free license to download, install, copy and use Learning Resources for your personal use only, subject to the following restrictions. You may not:
 
-(i) make any copy of the Learning Resources except for archival or backup purposes;‎
+(i) make any copy of the Learning Resources except for archival or backup purposes;
 
-(ii) circumvent or disable any access control technology, security device, procedure, protocol, or ‎technological protection mechanism that may be included or established in or as part of ‎any Learning Resource;‎
+(ii) circumvent or disable any access control technology, security device, procedure, protocol, or technological protection mechanism that may be included or established in or as part of any Learning Resource;
 
-(iii) hack, reverse engineer, decompile, disassemble, modify or create derivative works of any (or any party of any) ‎Learning Resource;‎
+(iii) hack, reverse engineer, decompile, disassemble, modify or create derivative works of any (or any party of any) Learning Resource;
 
-(iv) publish, sell distribute or otherwise make any Learning Resources available to others to use, download or ‎copy;‎
+(iv) publish, sell distribute or otherwise make any Learning Resources available to others to use, download or copy;
 
-(v) transfer or sub-license the Learning Resources or any rights in the Learning Resources to any third party, whether ‎voluntarily or by operation of law;‎
+(v) transfer or sub-license the Learning Resources or any rights in the Learning Resources to any third party, whether voluntarily or by operation of law;
 
-(vi) use the Learning Resources for any purpose that may be defamatory, threatening, abusive, harmful or ‎invasive of anyone’s privacy, or that may otherwise violate any law or give rise to civil ‎or other liability;‎
+(vi) use the Learning Resources for any purpose that may be defamatory, threatening, abusive, harmful or invasive of anyone’s privacy, or that may otherwise violate any law or give rise to civil or other liability;
 
-(vii) misrepresent yourself as the creator or owner of the Learning Resources;‎
+(vii) misrepresent yourself as the creator or owner of the Learning Resources;
 
-(viii) remove or modify any proprietary notice, symbol or label in or on the Learning Resources;‎
+(viii) remove or modify any proprietary notice, symbol or label in or on the Learning Resources;
 
-(ix) directly or indirectly assist, facilitate or encourage any third party to carry on any activity prohibited by ‎this section 9(c).‎
+(ix) directly or indirectly assist, facilitate or encourage any third party to carry on any activity prohibited by this section 9(c).
 
 For clarity, even if your employer pays for your subscription you may not make Learning Resources available on a shared server or hard drive for access and use by other of your employer’s personnel.
 
@@ -133,7 +133,7 @@ For clarity, even if your employer pays for your subscription you may not make L
 
 #### a. Overview
 
-ArtStation Marketplace (the “Marketplace”) is a Service that allows you to commercialize some of Your Content (defined in section 15) through the Site. There are two types of products that are now, or may in the future be, available for sale through the Marketplace, i.e.: Digital Products and Hard Products. All of Your Content, whether it is a Digital Product, Hard Product, a description of a Digital Product or Hard Product, or otherwise, must comply with these Terms, Epic reserves the right to remove any of Your Content that Epic determines in its sole discretion does not comply with these Terms. You grant Epic rights in Your Content as set out in section 16 below.
+ArtStation Marketplace (the “Marketplace”) is a Service that allows you to commercialize some of Your Content (defined in section 15) through the Site. There are two types of products that are now, or may in the future be, available for sale through the Marketplace, i.e.: Digital Products and Hard Products. All of Your Content, whether it is a Digital Product, Hard Product, a description of a Digital Product or Hard Product, or otherwise, must comply with these Terms, ArtStation reserves the right to remove any of Your Content that ArtStation determines in its sole discretion does not comply with these Terms. You grant ArtStation rights in Your Content as set out in section 16 below.
 
 #### b. Digital Products
 
@@ -165,7 +165,7 @@ Hard Products are print-on-demand products that we may offer from time to time, 
 
 (i) You must provide a description for each item of Your Content that you upload to the Site and make available for purchase through the Marketplace. That description must comply with these Terms. You hereby represent and warrant that all such descriptions are and will be accurate, complete, and not misleading, and do not and will not infringe or misappropriate any third-party rights.
 
-(ii) All of your representations, warranties and indemnities relating to Your Content generally, also apply specifically to Your Content in the Marketplace. In addition, you represent and warrant that you have all necessary rights to allow Your Content to be displayed, commercialized and used as described above. You are solely responsible and liable for Your Content, and you indemnify Epic regarding Your Content as set out in section 40.
+(ii) All of your representations, warranties and indemnities relating to Your Content generally, also apply specifically to Your Content in the Marketplace. In addition, you represent and warrant that you have all necessary rights to allow Your Content to be displayed, commercialized and used as described above. You are solely responsible and liable for Your Content, and you indemnify ArtStation regarding Your Content as set out in section 40.
 
 (iii) We will not be responsible for anything a customer or a third party does with Your Content, including in connection with a Digital Product or a Hard Product. We have no obligation to enforce the license terms that apply to any content you sell through the Marketplace, or enforcing your rights in or to Your Content. If you believe a customer or third party has violated any of your rights with respect to any product, it will be your sole responsibility to address that violation on your own, at your sole expense. Please refer to section 23 below if you believe that another user has posted content that infringes your rights.
 
@@ -183,17 +183,17 @@ Hard Products are print-on-demand products that we may offer from time to time, 
 
 (iv) If we have provided a refund to a purchaser of your Digital Product or Hard Product we will deduct the refunded amount from your Marketplace account balance.
 
-(v) You acknowledge and agree that additional third-party fees may apply to and be deducted from the amounts you redeem from your Marketplace account balance, and that Epic is not responsible for and has no control over such fees. For example, your bank may impose wire transfer or similar fees or currency conversion fees.
+(v) You acknowledge and agree that additional third-party fees may apply to and be deducted from the amounts you redeem from your Marketplace account balance, and that ArtStation is not responsible for and has no control over such fees. For example, your bank may impose wire transfer or similar fees or currency conversion fees.
 
-(vi) Epic is not responsible for lost payments. You are solely responsible for ensuring we have all required account numbers and information to make those payments.
+(vi) ArtStation is not responsible for lost payments. You are solely responsible for ensuring we have all required account numbers and information to make those payments.
 
 #### f. Currency Conversion
 
-Epic will calculate and render a converted exchange rate in United States dollars, regardless of the currency in which you listed the price of your Digital Product or Hard Product. All transactions through the Marketplace, regardless of type of content or listed currency, will settle in United States dollars. Your Marketplace account balance will be denominated and redeemable only in United States dollars. Epic cannot guarantee the accuracy of displayed exchange rates because market rates can fluctuate. We recommend that you confirm current exchange rates before engaging in Marketplace transactions.
+ArtStation will calculate and render a converted exchange rate in United States dollars, regardless of the currency in which you listed the price of your Digital Product or Hard Product. All transactions through the Marketplace, regardless of type of content or listed currency, will settle in United States dollars. Your Marketplace account balance will be denominated and redeemable only in United States dollars. ArtStation cannot guarantee the accuracy of displayed exchange rates because market rates can fluctuate. We recommend that you confirm current exchange rates before engaging in Marketplace transactions.
 
 #### g. Taxes
 
-You are solely responsible and liable for imposing, collecting, reporting and remitting to the relevant authorities, in a timely and proper manner, all applicable sales, use, value-added, property, excise, import, foreign, withhold and other taxes, duties, charges, levies, fees, excises, tariffs, and assessments of any nature whatsoever imposed, arising from, connect with and relating to your sales through the Marketplace and the payments you receive for those sales. Epic does not and will not provide any advice regarding your tax obligations. If you are uncertain about your tax obligations you should obtain advice from a professional tax advisor or your local tax office.
+You are solely responsible and liable for imposing, collecting, reporting and remitting to the relevant authorities, in a timely and proper manner, all applicable sales, use, value-added, property, excise, import, foreign, withhold and other taxes, duties, charges, levies, fees, excises, tariffs, and assessments of any nature whatsoever imposed, arising from, connect with and relating to your sales through the Marketplace and the payments you receive for those sales. ArtStation does not and will not provide any advice regarding your tax obligations. If you are uncertain about your tax obligations you should obtain advice from a professional tax advisor or your local tax office.
 
 > Basically...
 > 
@@ -247,9 +247,9 @@ Whenever you access, use or otherwise deal with the Services, you must comply wi
 
 (a) applicable laws;
 
-(b) acceptable-use policies and other policies implemented by Epic with respect to the Site or the Services from time-to-time, as posted on ArtStation’s website; and
+(b) acceptable-use policies and other policies implemented by ArtStation with respect to the Site or the Services from time-to-time, as posted on ArtStation’s website; and
 
-(c) other rules and policies or procedures that Epic communicates to you from time-to-time.
+(c) other rules and policies or procedures that ArtStation communicates to you from time-to-time.
 
 > Basically...
 > 
@@ -269,19 +269,19 @@ For information about how we collect, use, share and otherwise process informati
 
 ### 16\. Ownership
 
-As between you and Epic, you will retain ownership of all original text, images, videos, messages, comments, ratings, reviews and other original content you provide on or through the Site, including Digital Products and descriptions of your Digital Products and Hard Products (collectively, “Your Content”), and all intellectual property rights in Your Content.
+As between you and ArtStation, you will retain ownership of all original text, images, videos, messages, comments, ratings, reviews and other original content you provide on or through the Site, including Digital Products and descriptions of your Digital Products and Hard Products (collectively, “Your Content”), and all intellectual property rights in Your Content.
 
-As between you and Epic, Epic or third parties solely own the following (the “ArtStation Property”):
+As between you and ArtStation, ArtStation or third parties solely own the following (the “ArtStation Property”):
 
-(a) all other content on the Site or provided through the Services, including all Learning Content, all Learning Resources, and all text, photos, videos, templates, and other content provided by Epic (collectively, the “ArtStation Content”) and all intellectual property rights in the ArtStation Content; and
+(a) all other content on the Site or provided through the Services, including all Learning Content, all Learning Resources, and all text, photos, videos, templates, and other content provided by ArtStation (collectively, the “ArtStation Content”) and all intellectual property rights in the ArtStation Content; and
 
 (b) all tools, hardware and software used to provide the Services (collectively, the “ArtStation Tools”);
 
 (c) the graphical design of the Site, the Site user interface and the look and feel of the Site and the Site user interface; and
 
-(d) the names, logos and trade-marks of Epic and on the Site (including third parties’ marks) and ArtStation.
+(d) the names, logos and trade-marks of ArtStation and on the Site (including third parties’ marks) and ArtStation.
 
-You must not copy, modify, distribute, use, exploit or make derivative works from any of the ArtStation Property except as explicitly permitted by Epic.
+You must not copy, modify, distribute, use, exploit or make derivative works from any of the ArtStation Property except as explicitly permitted by ArtStation.
 
 > Basically...
 > 
@@ -293,29 +293,29 @@ You must not copy, modify, distribute, use, exploit or make derivative works fro
 
 #### a. License to Provide and Improve the Services
 
-Your Content may be shared with third parties, for example, on social media sites to promote Your Content on the Site, and may be available for purchase through the Marketplace. You hereby grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Epic to use, reproduce, publicly display, adapt, modify, reformat, and distribute Your Content, and to use the name that you provide in association with Your Content, as necessary to provide, improve and promote the Services.
+Your Content may be shared with third parties, for example, on social media sites to promote Your Content on the Site, and may be available for purchase through the Marketplace. You hereby grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to ArtStation to use, reproduce, publicly display, adapt, modify, reformat, and distribute Your Content, and to use the name that you provide in association with Your Content, as necessary to provide, improve and promote the Services.
 
 #### b. License for Safety and Discovery Tools
 
-We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Epic uses Your Content to improve (1) our internal safety tools to ensure all of our products and services comply with our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
+We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. ArtStation uses Your Content to improve (1) our internal safety tools to ensure all of our products and services comply with our [Content Guidelines](https://help.artstation.com/en/articles/16155163-community-content-guidelines) and [ArtStation Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
 
-You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to Epic limited to using, copying, editing, modifying, inputting, and integrating Your Content into and in connection with the development and testing of Epic’s Safety and Discovery Tools (together with the above license, the “Licenses”).
+You additionally grant a royalty-free, perpetual, world-wide, fully sub-licensable (through multiple tiers) license to ArtStation limited to using, copying, editing, modifying, inputting, and integrating Your Content into and in connection with the development and testing of ArtStation’s Safety and Discovery Tools (together with the above license, the “Licenses”).
 
 For more information about the technologies we use in our Safety and Discovery Tools, please see Section 46(c) below.
 
 ### 18\. Moral Rights
 
-Epic and our service providers, members, users and licensees may use, copy, display and transmit your user name in connection with any or all of Your Content if Epic or the service providers, members, users or licensees wish to do so.
+ArtStation and our service providers, members, users and licensees may use, copy, display and transmit your user name in connection with any or all of Your Content if ArtStation or the service providers, members, users or licensees wish to do so.
 
 > Basically...
 > 
-> You’re allowing us to use your artwork and name for things connected with ArtStation, like helping us improve our systems to moderate certain content. We use Safety and Discovery Tools on ArtStation and Epic’s other products and services to make sure the content we host and users interactions follow our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules). In addition, we analyze your content to improve search and recommendations. Also, if we want to post your artwork on social media to promote you, we’re allowed to do that, but we won’t sell your artwork.
+> You’re allowing us to use your artwork and name for things connected with ArtStation, like helping us improve our systems to moderate certain content. We use Safety and Discovery Tools on ArtStation to make sure the content we host and users interactions follow our [Content Guidelines](https://help.artstation.com/en/articles/16155163-community-content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules). In addition, we analyze your content to improve search and recommendations. Also, if we want to post your artwork on social media to promote you, we’re allowed to do that, but we won’t sell your artwork.
 
 * * *
 
 ### 19\. Representations regarding Your Content.
 
-You represent and warrant to Epic that:
+You represent and warrant to ArtStation that:
 
 (a) you have sufficient rights to grant the Licenses to Your Content;
 
@@ -325,17 +325,17 @@ You represent and warrant to Epic that:
 
 > Basically...
 > 
-> When you post stuff to ArtStation, make sure that you own it or that you have permission to post it.
+> When you post stuff to ArtStation, make sure that you own it or that you have permission to post it, and if you used Generative AI to create it, you need to disclose it.
 
 * * *
 
 ### 20\. Content Disclaimer.
 
-Epic does not endorse any of the content on the Site. Epic will not be responsible or liable for content that is generated by the Site users.
+ArtStation does not endorse any of the content on the Site. ArtStation will not be responsible or liable for content that is generated by the Site users.
 
 ### 21\. Monitoring and Disclosure.
 
-Epic cannot monitor everything on the Site and does not normally monitor your use of the Services; however, Epic and our representatives may do so. We reserve the right (but have no obligation, unless required by applicable law) to remove, delete, edit or reclassify content that we determine, in our sole discretion, is objectionable for any reason. We will not have any liability for any failure to remove, or delay in removing, any content, unless required by applicable law. We may disclose any information that is necessary to satisfy any law, regulation or lawful request or as necessary to operate the Services or to protect the rights or property of itself or others that are directly related to providing the Services. If you notice any inappropriate content on the Site, please contact us.
+ArtStation cannot monitor everything on the Site and does not normally monitor your use of the Services; however, ArtStation and our representatives may do so. We reserve the right (but have no obligation, unless required by applicable law) to remove, delete, edit or reclassify content that we determine, in our sole discretion, is objectionable for any reason. We will not have any liability for any failure to remove, or delay in removing, any content, unless required by applicable law. We may disclose any information that is necessary to satisfy any law, regulation or lawful request or as necessary to operate the Services or to protect the rights or property of itself or others that are directly related to providing the Services. If you notice any inappropriate content on the Site, please contact us.
 
 > Basically...
 > 
@@ -345,7 +345,7 @@ Epic cannot monitor everything on the Site and does not normally monitor your us
 
 ### 22\. Other rules regarding Your Content.
 
-You are responsible for keeping back-up copies of all of Your Content; Epic will not be liable for any loss or damage to any of Your Content. Epic may impose limits on the quantity and size of Your Content stored on our servers, and the duration Your Content is stored on our servers, and may charge you fees for exceeding those limits.
+You are responsible for keeping back-up copies of all of Your Content; ArtStation will not be liable for any loss or damage to any of Your Content. ArtStation may impose limits on the quantity and size of Your Content stored on our servers, and the duration Your Content is stored on our servers, and may charge you fees for exceeding those limits.
 
 > Basically...
 > 
@@ -375,7 +375,7 @@ You must not:
 
 (c) upload to or transmit from the Site or the Services any data, file, software or link that contains or redirects to a virus, Trojan horse, worm or other harmful component;
 
-(d) use the Site or the Services to do or attempt to do any of the following without Epic’s prior written permission:
+(d) use the Site or the Services to do or attempt to do any of the following without ArtStation’s prior written permission:
 
 1.  send spam or other bulk messages;
 2.  gain unauthorized access to any data, network or system;
@@ -384,10 +384,9 @@ You must not:
 5.  monitor data or traffic on any network or system;
 6.  obtain an email address, user name or other information about a third party without their consent;
 7.  use any misleading, false or deceptive TCP/IP header information in any email or posting;
-8.  conduct or instigate any denial of service attack against the ArtStation website or network, any other Epic website or network, or any third party’s website or network; or
+8.  conduct or instigate any denial of service attack against the ArtStation website or network, any other ArtStation website or network, or any third party’s website or network; or
 9.  except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
 10.  collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
-     
 
 (e) improperly make complaints or false reports on the Site;
 
@@ -403,7 +402,7 @@ You must not:
 
 (k) interfere with the Services or any third party’s use of the Site or the Services;
 
-(l) resell any of Epic’s services or allow any third party to use or access the Site or the Services without Epic’s prior written consent
+(l) resell any of ArtStation’s services or allow any third party to use or access the Site or the Services without ArtStation’s prior written consent
 
 (m) authorize or encourage any third party to do any of the above; or
 
@@ -411,13 +410,13 @@ You must not:
 
 > Basically...
 > 
-> Behave in a responsible way. Don't try to hack us or spam users.
+> Behave in a responsible way. Don't try to hack us or spam users. Don’t scrape content from the site.
 
 * * *
 
 ### 25\. Remedies
 
-In addition to any other available remedies, upon breach of any of your obligations under this Agreement Epic may suspend or terminate the Services and your the Site account.
+In addition to any other available remedies, upon breach of any of your obligations under this Agreement ArtStation may suspend or terminate the Services and your the Site account.
 
 > Basically...
 > 
@@ -439,7 +438,7 @@ Some of the Services may contain advertisements and promotions which may be targ
 
 ### 28\. Member Responsibilities
 
-You are solely responsible for obtaining all computer equipment and connections required to access and use the Services. Epic will not be responsible for the workings or failures of your computer equipment, network, software or Internet access.
+You are solely responsible for obtaining all computer equipment and connections required to access and use the Services. ArtStation will not be responsible for the workings or failures of your computer equipment, network, software or Internet access.
 
 > Basically...
 > 
@@ -459,7 +458,7 @@ Your use of the Site and the Services might be interrupted and will not be free 
 
 ### 30\. Modifications
 
-From time to time, Epic may add new features to the Site and the Services, remove existing features from the Site and the Services, or otherwise modify the Site and the Services (including their functionality, “look-and-feel”, universal resource locators and software components).
+From time to time, ArtStation may add new features to the Site and the Services, remove existing features from the Site and the Services, or otherwise modify the Site and the Services (including their functionality, “look-and-feel”, universal resource locators and software components).
 
 > Basically...
 > 
@@ -473,7 +472,7 @@ If you do not log into your account for any period of at least 365 consecutive c
 
 ### 32\. Termination
 
-Without prejudice to any of our rights at law or equity, Epic may terminate your access to the Site and the Services with no prior notice if you fail to make a payment to Epic as and when required, or if you fail to comply with any obligation in this Agreement, or if any of your representations or warranties is or becomes untrue. If you are a user residing outside the EU, Epic may also terminate or suspend any or all of the Services at any time without prior notice.
+Without prejudice to any of our rights at law or equity, ArtStation may terminate your access to the Site and the Services with no prior notice if you fail to make a payment to ArtStation as and when required, or if you fail to comply with any obligation in this Agreement, or if any of your representations or warranties is or becomes untrue. If you are a user residing outside the EU, ArtStation may also terminate or suspend any or all of the Services at any time without prior notice.
 
 ### 33\. Termination by you
 
@@ -497,9 +496,9 @@ Upon termination of your account or this agreement:
 
 (d) any unused or remaining time, credits, points or in your account at the date of termination will be permanently forfeited and revoked from you, and you will not receive any refund or credit for any of them;
 
-(e) you will immediately pay Epic all amounts owing under this Agreement;
+(e) you will immediately pay ArtStation all amounts owing under this Agreement;
 
-(f) Epic may (but is not required to) delete some or all of Your Content from the Site and from your account within 60 days after termination;
+(f) ArtStation may (but is not required to) delete some or all of Your Content from the Site and from your account within 60 days after termination;
 
 (g) the License will continue in full force and effect for all of Your Content, including content the Site deletes; and
 
@@ -523,7 +522,7 @@ We may provide contests on the Site. If we do, they will be governed by rules we
 
 ### 36\. Links from the Site
 
-The sites that are linked from the Site are not under our control, and we do not assume any responsibility or liability for any communications or materials available at those linked sites, or personal information collected about you from those sites. You may be charged fees to access or use the linked sites; these fees are not covered by any fees you pay to Epic. All links are provided for your convenience only; they are not an endorsement or referral by us.
+The sites that are linked from the Site are not under our control, and we do not assume any responsibility or liability for any communications or materials available at those linked sites, or personal information collected about you from those sites. You may be charged fees to access or use the linked sites; these fees are not covered by any fees you pay to ArtStation. All links are provided for your convenience only; they are not an endorsement or referral by us.
 
 > Basically...
 > 
@@ -553,7 +552,7 @@ You must not link to the Site or any content on the Site except as explicitly pe
 
 If you are a user residing outside the EU, the following applies:
 
-THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE”. EPIC DISCLAIMS ALL TERMS, CONDITIONS, GUARANTEES, REPRESENTATIONS AND WARRANTIES (EXPRESS, IMPLIED, STATUTORY AND OTHERWISE), IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING THOSE OF MERCHANTABILITY, NON-INFRINGEMENT, TITLE, QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE”. ARTSTATION DISCLAIMS ALL TERMS, CONDITIONS, GUARANTEES, REPRESENTATIONS AND WARRANTIES (EXPRESS, IMPLIED, STATUTORY AND OTHERWISE), IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING THOSE OF MERCHANTABILITY, NON-INFRINGEMENT, TITLE, QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 If you are a user residing in the EU, the following applies:
 
@@ -563,17 +562,17 @@ Your statutory warrant rights apply.
 
 If you are a user residing outside the EU, the following applies:
 
-YOU USE THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES AT YOUR OWN RISK. EPIC WILL NOT BE LIABLE FOR ANY LOSS IN CONNECTION TO THE USE OF, OR INABILITY TO USE, THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING ANY LOSS TO YOUR CONTENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND WITHOUT LIMITING THE PREVIOUS SENTENCE, EPIC WILL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES OR LOST PROFITS WHATSOEVER IN CONNECTION WITH THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES.
+YOU USE THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES AT YOUR OWN RISK. ARTSTATION WILL NOT BE LIABLE FOR ANY LOSS IN CONNECTION TO THE USE OF, OR INABILITY TO USE, THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING ANY LOSS TO YOUR CONTENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND WITHOUT LIMITING THE PREVIOUS SENTENCE, ARTSTATION WILL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES OR LOST PROFITS WHATSOEVER IN CONNECTION WITH THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES.
 
 If you are a user residing in the EU, the following applies:
 
-Epic, its affiliates, and its and their licensors and service providers (collectively, the “Epic Parties”) shall be liable without limitation for intent and gross negligence as well as for damages resulting from injury to life, body or health. In cases of slight negligence, the Epic Parties shall only be liable in the event of a breach of a material contractual obligation. A material contractual obligation within the meaning of this clause is an obligation the fulfilment of which the contractual partner may therefore regularly rely. The limitations of liability apply accordingly in favor of the Epic Parties’s employees, agents and vicarious agents. Any liability on the Epic Parties’s part for any commercial guarantees the Epic Parties may have provided and for claims based on obligatory product liability law or in the event of data protection violations shall remain unaffected.
+ArtStation, its affiliates, and its and their licensors and service providers (collectively, the “ArtStation Parties”) shall be liable without limitation for intent and gross negligence as well as for damages resulting from injury to life, body or health. In cases of slight negligence, the ArtStation Parties shall only be liable in the event of a breach of a material contractual obligation. A material contractual obligation within the meaning of this clause is an obligation the fulfilment of which the contractual partner may therefore regularly rely. The limitations of liability apply accordingly in favor of the ArtStation Parties’s employees, agents and vicarious agents. Any liability on the ArtStation Parties’s part for any commercial guarantees the ArtStation Parties may have provided and for claims based on obligatory product liability law or in the event of data protection violations shall remain unaffected.
 
 ### 40\. Maximum Liability
 
 If you are a user residing outside the EU, the following applies:
 
-IF, DESPITE THE ABOVE LIMITATIONS, EPIC BECOMES LIABLE TO YOU IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES, OR A COMBINATION OF THE FOREGOING, THAT LIABILITY WILL BE LIMITED TO USD $500.
+IF, DESPITE THE ABOVE LIMITATIONS, ARTSTATION BECOMES LIABLE TO YOU IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES, OR A COMBINATION OF THE FOREGOING, THAT LIABILITY WILL BE LIMITED TO USD $500.
 
 If you are a user residing in the EU, the following applies:
 
@@ -581,7 +580,7 @@ This liability for breach of a slight negligent breach of a material contractual
 
 ### 41\. Indemnity
 
-YOU WILL INDEMNIFY EPIC AND ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, REPRESENTATIVES, LICENSORS AND LICENSEES (COLLECTIVELY, THE “INDEMNITEES”) AND HOLD THE INDEMNITIES HARMLESS FROM AND AGAINST ALL DAMAGES, INJURIES, LIABILITIES, COSTS, EXPENSES AND LEGAL FEES THAT ANY OF THEM MAY INCUR IN CONNECTION WITH:
+YOU WILL INDEMNIFY ARTSTATION AND ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, REPRESENTATIVES, LICENSORS AND LICENSEES (COLLECTIVELY, THE “INDEMNITEES”) AND HOLD THE INDEMNITIES HARMLESS FROM AND AGAINST ALL DAMAGES, INJURIES, LIABILITIES, COSTS, EXPENSES AND LEGAL FEES THAT ANY OF THEM MAY INCUR IN CONNECTION WITH:
 
 (A) YOUR CONTENT, INCLUDING CLAIMS THAT YOUR CONTENT OR THE EXPLOITATION OF IT AS PERMITTED BY THIS AGREEMENT INFRINGES OR VIOLATES THE RIGHTS OF ANY THIRD PARTY;
 
@@ -601,11 +600,11 @@ YOU WILL INDEMNIFY EPIC AND ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, E
 
 If you are a user residing outside the EU, the following applies:
 
-From time to time in our sole discretion Epic may modify the terms of this Agreement by posting the modifications on the Site. You will be bound by the modified terms after the modified terms have been emailed to you or have been posted on the Site for 30 days.
+From time to time in our sole discretion ArtStation may modify the terms of this Agreement by posting the modifications on the Site. You will be bound by the modified terms after the modified terms have been emailed to you or have been posted on the Site for 30 days.
 
 If you are a user residing in the EU, the following applies:
 
-Epic may amend this Agreement at any time for the future, with the exception of the provisions determining your and Epic’s primary contractual obligations hereunder, if and to the extent such changes are necessary due to the implementation of statutory requirements, changes in supreme court rulings, and the elimination of interpretation doubts due to regulatory loophole or ambiguities. If the contractual balance between you and Epic is significantly disturbed by the amendment and if the amendment becomes unreasonable to you, as a result, the amendment shall not be made. Epic will inform you of any proposed amendments of this Agreement with at least 30 days notice before such amendments are in effect. If you do not expressly refuse the respective amendment within 30 days from the date on which the new Agreement is implemented, you are deemed to have approved the amendment of this Agreement.
+ArtStation may amend this Agreement at any time for the future, with the exception of the provisions determining your and ArtStation’s primary contractual obligations hereunder, if and to the extent such changes are necessary due to the implementation of statutory requirements, changes in supreme court rulings, and the elimination of interpretation doubts due to regulatory loophole or ambiguities. If the contractual balance between you and ArtStation is significantly disturbed by the amendment and if the amendment becomes unreasonable to you, as a result, the amendment shall not be made. ArtStation will inform you of any proposed amendments of this Agreement with at least 30 days notice before such amendments are in effect. If you do not expressly refuse the respective amendment within 30 days from the date on which the new Agreement is implemented, you are deemed to have approved the amendment of this Agreement.
 
 > Basically...
 > 
@@ -617,7 +616,7 @@ Epic may amend this Agreement at any time for the future, with the exception of 
 
 If you are a Content Provider, or you are a Content Acquirer residing outside the EU, the following applies:
 
-Any dispute or claim by you arising out of or related to this Agreement will be governed by North Carolina law, exclusive of its choice of law rules. For any disputes deemed not subject to binding individual arbitration, as provided in the section immediately below, you and Epic agree to submit to the exclusive jurisdiction of the Superior Court of Wake County, North Carolina, or, if federal court jurisdiction exists, the United States District Court for the Eastern District of North Carolina. You and Epic agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits.
+Any dispute or claim by you arising out of or related to this Agreement will be governed by Delaware law, exclusive of its choice of law rules. For any disputes deemed not subject to binding individual arbitration, as provided in the section immediately below, you and ArtStation agree to submit to the exclusive jurisdiction of the Superior Court of the State of Delaware in and for New Castle County, or, if federal court jurisdiction exists, the United States District Court for the District of Delaware. You and ArtStation agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits.
 
 If you are a Content Acquirer residing in the EU, the following applies:
 
@@ -627,7 +626,7 @@ Any claim or dispute arising out of or related to this Agreement shall be govern
 
 ### 44\. Disputes with other users
 
-You are solely responsible for resolving any disputes you may have with other Site users. Epic may, but is not obligated to, assist you with this. Epic will have no liability whatsoever to you in connection with any such dispute, regardless of whether or not Epic assists you with that dispute.
+You are solely responsible for resolving any disputes you may have with other Site users. ArtStation may, but is not obligated to, assist you with this. ArtStation will have no liability whatsoever to you in connection with any such dispute, regardless of whether or not ArtStation assists you with that dispute.
 
 > Basically...
 > 
@@ -637,7 +636,7 @@ You are solely responsible for resolving any disputes you may have with other Si
 
 ### 45\. General
 
-No delay or failure to act by Epic regarding any default will impair any of our rights or remedies that are not expressly waived in writing. This Agreement supersedes all prior agreements of the parties regarding the Site and the Services, and constitutes the whole agreement with respect to the Site and the Services. You must not assign or sublicense this Agreement or any of your rights under this Agreement without our prior written consent, which may be withheld without cause. Epic may assign or sublicense this Agreement and any or all of our rights and obligations under it in our sole discretion. This Agreement will enure to the benefit of and be binding upon the parties and their lawful successors and permitted assigns. Epic will not be liable for any delay or damage caused as a result of any event beyond its reasonable control; any delay caused by any such event will not be deemed to be a breach of or failure to perform this Agreement.
+No delay or failure to act by ArtStation regarding any default will impair any of our rights or remedies that are not expressly waived in writing. This Agreement supersedes all prior agreements of the parties regarding the Site and the Services, and constitutes the whole agreement with respect to the Site and the Services. You must not assign or sublicense this Agreement or any of your rights under this Agreement without our prior written consent, which may be withheld without cause. ArtStation may assign or sublicense this Agreement and any or all of our rights and obligations under it in our sole discretion. This Agreement will enure to the benefit of and be binding upon the parties and their lawful successors and permitted assigns. ArtStation will not be liable for any delay or damage caused as a result of any event beyond its reasonable control; any delay caused by any such event will not be deemed to be a breach of or failure to perform this Agreement.
 
 * * *
 
@@ -645,27 +644,31 @@ No delay or failure to act by Epic regarding any default will impair any of our 
 
 (a) Identifying where Your Content should not be used with Generative AI Programs
 
-We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform will be known as “NoAI Content.”
+You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs. This tag will be applied to your projects or Your Content by default; you must actively remove this designation from your projects containing Your Content to disable the “NoAI” tag. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the functionality provided by the platform will be known as “NoAI Content.”
 
 For purposes of this Agreement, “Generative AI Programs” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content (a) in datasets utilized by Generative AI Programs; (b) in the development of Generative AI Programs; or (c) as inputs to Generative AI Programs.
 
-Epic agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
+ArtStation agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use (a) in datasets utilized by Generative AI Programs, (b) in the development of Generative AI Programs, or (c) as inputs to Generative AI Programs.
 
 (b) Identifying where Your Content is created with Generative AI Programs.
 
-Where Your Content is sold as a Digital Product in the Marketplace and is created using Generative AI Programs, you must tag Your Content using the “CreatedWithAI” tag. Where Your Content is not being sold as a Digital Product in the Marketplace and is created using Generative AI Programs, we recommend using the “CreatedWithAI” tag. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “CreatedWithAI” via the functionality provided by the platform will be known as “CreatedWithAI Content.” Epic will not apply the “CreatedWithAI” tag to Your Content; you are solely responsible for complying with the requirement to tag your Digital Products in the Marketplace.
+Where Your Content is created using Generative AI Programs, you must tag Your Content using the “CreatedWithAI” tag. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “CreatedWithAI” via the functionality provided by the platform will be known as “CreatedWithAI Content.” ArtStation may apply the “CreatedWithAI” tag to Your Content if deemed appropriate; you are solely responsible for complying with the requirement to tag your Digital Products in the Marketplace.
 
-Under this Agreement, Your Content is considered to be created using Generative AI Programs where a material portion of Your Content is generated with Generative AI Programs, whether characters, backgrounds, or other material elements. Your Content is not considered to be created using Generative AI Programs merely for use of features that solely operate on Your Content (e.g., content-aware fill) or that don't introduce material Generative AI elements into your work (e.g. AI based image upscaling).
+Under this Agreement, Your Content is considered to have been created using Generative AI Programs where Generative AI Programs were used to generate all or a material portion of the final Content, including characters, environments, backgrounds, objects, textures, or other material visual or creative elements. Your Content is not considered to have been created using Generative AI Programs merely because you used automated or AI-enabled tools that operate on existing Content without introducing material generative elements into the final work, such as content-aware fill, noise reduction, image upscaling, color correction, sharpening, or similar editing and enhancement tools.
 
 (c) How We use AI in our Safety and Discovery Tools
 
-Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic’s other products and services comply with our [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations We use Your Content to improve how our Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
+ArtStation uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and ArtStation’s other products and services comply with our [Content Guidelines](https://help.artstation.com/en/articles/16155163-community-content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations We use Your Content to improve how our Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
 
-As noted above in Section 46(a), Epic does not use Your Content and does not license Your Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
+As noted above in Section 46(a), ArtStation does not use Your Content and does not license Your Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
 
 > Basically...
 > 
-> Epic may use your art to improve our Safety and Discovery Tools, but we won't use or license your content for use in, or to train, Generative AI.
+> We care about protecting artists and providing the tools to protect their art.
+> 
+> By default, all projects are assigned the “No AI” meta tags at the profile level. If you want to allow your content to be scraped, then you can change this in your profile settings.
+> 
+> ArtStation may use your art to improve our Safety and Discovery Tools, but we won't use or license your content for use in, or to train, Generative AI.
 
 * * *
 
@@ -673,7 +676,7 @@ As noted above in Section 46(a), Epic does not use Your Content and does not lic
 
 **Ranking**. To help our users more easily navigate the Marketplace to find Content that is interesting and relevant, we sometimes organize Content for display to users. We weigh a variety of parameters that inform display order of Content to users in the following contexts
 
-**Algorithmic Featuring**. When Epic features Content algorithmically, the main parameters that factor into its featuring include:
+**Algorithmic Featuring**. When ArtStation features Content algorithmically, the main parameters that factor into its featuring include:
 
 *   User-applied filters (like price, publication date, relevant promotions, Content software, Content license, Content authorship, alphabetical order, and Content category)
 *   User text search terms
