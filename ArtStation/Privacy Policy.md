@@ -1,11 +1,11 @@
 Privacy Policy
 ==============
 
-September 11, 2025
+September 2, 2026
 
 We are committed to maintaining the security, confidentiality and privacy of your personal information. This document describes our general privacy policies.
 
-For the purposes of applicable data protection legislation the relevant Epic entity identified for your region in the “Contact” section of the Privacy Policy below is the controller of personal data provided by you and determines how and why your personal data will be processed.
+For the purposes of applicable data protection legislation the relevant ArtStation entity identified for your region in the “Contact” section of the Privacy Policy below is the controller of personal data provided by you and determines how and why your personal data will be processed.
 
 Please note that this Privacy Policy applies to the following internet sites and related links: www.artstation.com
 
@@ -55,21 +55,21 @@ We may work with other companies to provide services on our behalf, such as webs
 The legal bases we rely on to process your personal information depends on the services you use and how you interact with them. They primarily include:
 
 *   Contractual Necessity: we process personal information to perform the services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal information to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the services; detect and prevent fraud, or other similar misuse; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.
-*   Legitimate Interests: we process personal information as needed for Epic’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.
+*   Legitimate Interests: we process personal information as needed for ArtStation’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.
 *   Legal Obligations: we process personal information when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes.
 *   Consent: we process personal information when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal information to be processed for the requested purposes, and you may withdraw your consent at any time.
 
 ### Transfers of Information
 
-Epic Games is a company with operations around the world. By using the Epic services, you acknowledge and agree that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region. To learn more about the Epic entity responsible for operating the Epic services in your region, see “How to Contact Us” below.
+By using the ArtStation services, you acknowledge and agree that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region. To learn more about the ArtStation entity responsible for operating the ArtStation services in your region, see “Contact” below.
 
 We’ve implemented and maintain a framework consistent with applicable law and this Privacy Policy for transfers of information outside the country of collection. For example, when we transfer personal data collected in the European Union to locations outside the European Economic Area, we rely on transfer mechanisms adopted by the European Commission to help establish adequate safeguards, like Standard Contractual Clauses. We may also need to transfer your information to provide the ArtStation services to you in accordance with our existing agreements with you, such as the Terms of Service.
 
 We may share your personal information with:
 
 *   Business partners;
-*   Other Epic entities (like other members of the Epic group of companies that may help support certain Epic Services);
-*   Other users (for example, if you use chat or social features on the Epic services);
+*   Other KitBash LLC entities;
+*   Other users (for example, if you use chat or social features on the ArtStation services);
 *   Service providers;
 *   Operating systems and platforms; and
 *   Government entities or other third parties in response to a legal request.
@@ -160,26 +160,8 @@ Any dispute, controversy or claim arising out of or in connection with this Priv
 
 If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may contact your local Data Protection Authority (if one exists in your country). We would, however, appreciate the chance to address your concerns before you contact your local Data Protection Authority, and ask that you direct your complaint to us first.
 
-Please see the “Contact” section below to learn more about reaching out to ArtStation with any relevant concerns you may have. You can find more details about your local Data Protection Authority as follows:
-
-*   EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
-*   UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
-*   Switzerland: [https://www.edoeb.admin.ch/de/kontakt](https://www.edoeb.admin.ch/de/kontakt)
+Please see the “Contact” section below to learn more about reaching out to ArtStation with any relevant concerns you may have.
 
 ### Contact
 
 Any inquiries, complaints or questions regarding this Privacy Policy or our compliance with applicable privacy laws should be directed in writing to us at **privacy@artstation.com**.
-
-_If you reside in the United States of America:_
-
-*   Data Controller: Epic Games, Inc.
-*   Address: 620 Crossroads Blvd., Cary, NC 27518, USA
-*   Data Protection Officer: dpo@support.epicgames.com
-*   EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
-
-_If you reside outside of the United States of America:_
-
-*   Data Controller: Epic Games Commerce GmbH
-*   Address: Platz 10, 6039 Root D4, Switzerland
-*   Data Protection Officer: dpo@support.epicgames.com
-*   EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
