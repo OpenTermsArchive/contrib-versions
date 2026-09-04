@@ -299,3 +299,21 @@ More simply put
 Who you deal with depends on where you live.
 
 Effective date: April 30, 2025
+
+Table of Contents
+-----------------
+
+*   [Thank you for using Pinterest!](https://policy.pinterest.com/en/terms-of-service#section-thank-you-for-using-pinterest)
+*   [1\. The Service](https://policy.pinterest.com/en/terms-of-service#section-1-the-service)
+*   [2\. Using Pinterest](https://policy.pinterest.com/en/terms-of-service#section-2-using-pinterest)
+*   [3\. Your User Content](https://policy.pinterest.com/en/terms-of-service#section-3-your-user-content)
+*   [4\. Intellectual Property](https://policy.pinterest.com/en/terms-of-service#section-4-intellectual-property)
+*   [5\. Security](https://policy.pinterest.com/en/terms-of-service#section-5-security)
+*   [6\. Third party links, sites, and services](https://policy.pinterest.com/en/terms-of-service#section-6-third-party-links-sites-and-services)
+*   [7\. Termination](https://policy.pinterest.com/en/terms-of-service#section-7-termination)
+*   [8\. Indemnity](https://policy.pinterest.com/en/terms-of-service#section-8-indemnity)
+*   [9\. Disclaimers](https://policy.pinterest.com/en/terms-of-service#section-9-disclaimers)
+*   [10\. Limitation of Liability](https://policy.pinterest.com/en/terms-of-service#section-10-limitation-of-liability)
+*   [11\. Arbitration](https://policy.pinterest.com/en/terms-of-service#section-11-arbitration)
+*   [12\. Governing law and jurisdiction](https://policy.pinterest.com/en/terms-of-service#section-12-governing-law-and-jurisdiction)
+*   [13\. General terms](https://policy.pinterest.com/en/terms-of-service#section-13-general-terms)
