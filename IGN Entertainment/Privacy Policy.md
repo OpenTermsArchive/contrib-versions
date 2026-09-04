@@ -42,6 +42,8 @@ Ziff Davis, LLC, with its affiliates and its subsidiaries (collectively, “**Z
 
 Except as otherwise noted in this Privacy Policy, Ziff Davis is a data controller (as that term is used under the [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (“**GDPR**”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [DSAR Portal](https://dsar.ziffdavis.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
+Ziff Davis, LLC is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
+
 This Privacy Policy covers information collected through the following websites and mobile applications
 
 *   [Ziff Davis](http://www.ziffdavis.com/)
