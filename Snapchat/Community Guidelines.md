@@ -15,9 +15,7 @@ At Snap, we empower people to express themselves, live in the moment, learn abou
 
 Note About Severe Harm
 
-While we prohibit all content or behaviour that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. Severe harms include child sexual exploitation, terrorism, and violent extremism, as well as other illegal content and conduct. When we identify accounts engaging in severe harm on Snapchat, we disable those accounts. Guidance about how we reduce the time that this content is visible on Snapchat and how we take action against it can be found in the [Severe Harm explainer](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB) and relevant explainers linked throughout these guidelines.  
-  
-
+While we prohibit all content or behaviour that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. Severe harms include child sexual exploitation, terrorism, and violent extremism, as well as other illegal content and conduct. When we identify accounts engaging in severe harm on Snapchat, we disable those accounts. Guidance about how we reduce the time that this content is visible on Snapchat and how we take action against it can be found in the [Severe Harm explainer](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB) and relevant explainers linked throughout these guidelines.  **Please do not joke about engaging in severe harm. Such statements may result in your account being actioned or disabled, regardless of intent.**  
   
 
 [Learn More](https://www.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB)
@@ -55,7 +53,7 @@ Sexual Content
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB)
 
-Threats, Violence & Harm
+Threats, Violence, and Harm
 
 *   Encouraging or engaging in violent or dangerous behaviour is prohibited. Never intimidate or threaten to harm a person, a group of people or someone’s property.
     
