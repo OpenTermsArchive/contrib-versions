@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-LAST UPDATED: May 18, 2026
+LAST UPDATED: September 3, 2026
 
 Cookies Settings
 
@@ -115,7 +115,7 @@ Mix will collect only that Personal Information which is relevant for the purpos
 
 **Information You Provide.** When you enter any other information into any postings or comments, we may collect this information.
 
-**Image and Video content.** When you view an image or a video plays on the Services, we may receive information about the content you interact with and the third party which hosts the image or video and makes it available, may collect information related to you viewing the video. This data will be processed in accordance with their privacy policy. Please see the relevant third party's privacy policy for more information such as:
+**Image and Video Content.** We collect text, images, photos, links and other media you upload, drag, drop or submit to the Services. When you use visual search, we analyze and process these images to extract visual characteristics to generate similarity embeddings and deliver relevant results. When you view an image or a video plays on the Services, we may receive information about the content you interact with and the third party which hosts the image or video and makes it available, may collect information related to you viewing the video. This data will be processed in accordance with their privacy policy. Please see the relevant third party's privacy policy for more information such as:
 
 *   [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy).
 *   [https://www.youtube.com/howyoutubeworks/privacy/](https://www.youtube.com/howyoutubeworks/privacy/)
@@ -123,6 +123,10 @@ Mix will collect only that Personal Information which is relevant for the purpos
 *   [https://vimeo.com/legal/privacy/policy](https://vimeo.com/legal/privacy/policy)
 *   [https://www.tumblr.com/privacy/en](https://www.tumblr.com/privacy/en)
 *   [https://privacy.x.com/en](https://privacy.x.com/en)
+
+**Search Fields.** When you type into our search fields or drag images onto our dropzones, we may automatically process keystrokes, queries and visual inputs in real time prior to an explicit click of a 'Search' or 'Submit' button to generate instant suggestions and live previews.
+
+**Browser Extension Activity:** If you install and use our browser extensions or bookmarklets, we collect information regarding the web pages and specific content you affirmatively choose to clip, save or bookmark, including target URLs, page titles, captured images and timestamps. Our extensions do not collect your overall browsing history across unrelated websites.
 
 **Contacting us.** When you leave us feedback or write to us directly, we will collect any information that is contained in your feedback or comment form, which will include your e-mail address and other information that you may submit to us for reference or reply.
 
