@@ -511,7 +511,7 @@ Open all
     ### You can limit the ways we may send marketing offers to you.
     
     **Telemarketing**   
-    Opt out of [marketing-related calls](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 10 days to remove you from existing marketing campaigns. Frontier customers may opt out of marketing-related calls by calling 1-800-921-2101. For additional information, please review the [Frontier Do Not Call Policy](https://content.frontier.com/-/media/documents/corporate/policies/do-not-call.pdf).
+    Opt out of [marketing-related calls](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 10 days to remove you from existing marketing campaigns. Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101. For additional information, please review the [Frontier Do Not Call Policy](https://content.frontier.com/-/media/documents/corporate/policies/do-not-call.pdf).
     
     marketing-related calls
     
@@ -524,10 +524,10 @@ Open all
     Opt out of receiving marketing-related texts by following the unsubscribe instructions included in texts you receive.
     
     **Postal mail**  
-    Opt out of receiving marketing-related mail by calling 1-800-922-0204 (or for Fios customers, by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-2101. Note that even if you unsubscribe, you could still receive mail when we use a bulk mailing service that delivers to all homes within a ZIP code.
+    Opt out of receiving marketing-related mail by calling 1-800-922-0204 (or for Fios customers, by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101. Note that even if you unsubscribe, you could still receive mail when we use a bulk mailing service that delivers to all homes within a ZIP code.
     
     **Door-to-door marketing**  
-    Opt out of door-to-door marketing by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-2101.
+    Opt out of door-to-door marketing by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101.
     
     ### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
