@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=ec26009)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=3121791)
 
 Data protection
 ===============
