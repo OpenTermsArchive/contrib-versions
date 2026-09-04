@@ -1,7 +1,7 @@
 Ziff Davis, LLC Terms of Use
 ============================
 
-**Effective March 2026**
+**Effective September 2026**
 
 #### **Note: The Ziff Davis Terms of Use have been updated. Please review the updated Terms of Use carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Terms of Use.**
 
@@ -50,6 +50,7 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [**Ziff Davis Performance Marketing**](https://zdperformancemarketing.com/)
 *   [**CNET**](https://www.cnet.com/)
 *   [**ZDNET**](https://www.zdnet.com/)
+*   [MapGenie](https://mapgenie.io/)
 
 Applications:
 
