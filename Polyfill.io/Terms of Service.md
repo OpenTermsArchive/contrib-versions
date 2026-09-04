@@ -1,7 +1,7 @@
 Non GamStop Casinos for UK Players - New Casino Options
 =======================================================
 
-Updated: 2nd of September 2026
+Updated: 3rd of September 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
@@ -206,7 +206,7 @@ Rolletto
 
 Cleanwins
 
-200% up to 2000 Pounds + 200 FS
+900% up to £6,000 + 500 FS
 
 9.1/10
 
