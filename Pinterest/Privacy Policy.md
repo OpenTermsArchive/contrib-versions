@@ -512,3 +512,21 @@ The best way to get in touch with us or to exercise your options described above
 You can also contact our [Data Protection Officer](https://help.pinterest.com/data-protection-officer-contact-form).
 
 Effective date: April 30, 2025
+
+Table of Contents
+-----------------
+
+*   [State Privacy Law Disclosure & Notice at Collection](https://policy.pinterest.com/en/privacy-policy#section-state-privacy-law-disclosure-notice-at-collection)
+*   [Summary of changes](https://policy.pinterest.com/en/privacy-policy#section-summary-of-changes)
+*   [Thank you for using Pinterest!](https://policy.pinterest.com/en/privacy-policy#section-thank-you-for-using-pinterest)
+*   [Scope of the Privacy Policy](https://policy.pinterest.com/en/privacy-policy#section-scope-of-the-privacy-policy)
+*   [We collect information in a few different ways](https://policy.pinterest.com/en/privacy-policy#section-we-collect-information-in-a-few-different-ways)
+*   [How we use the info we collect](https://policy.pinterest.com/en/privacy-policy#section-how-we-use-the-info-we-collect)
+*   [Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information](https://policy.pinterest.com/en/privacy-policy#section-additional-info-for-eea-swiss-and-uk-data-subjects-legal-bases-we-rely-on-where-we-use-your-information)
+*   [Your Rights and Choices](https://policy.pinterest.com/en/privacy-policy#section-your-rights-and-choices)
+*   [How and when we share information](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information)
+*   [Transferring your information](https://policy.pinterest.com/en/privacy-policy#section-transferring-your-information)
+*   [How long we keep your information](https://policy.pinterest.com/en/privacy-policy#section-how-long-we-keep-your-information)
+*   [Our policy on children's information](https://policy.pinterest.com/en/privacy-policy#section-our-policy-on-childrens-information)
+*   [How we make changes to this policy](https://policy.pinterest.com/en/privacy-policy#section-how-we-make-changes-to-this-policy)
+*   [Contact us](https://policy.pinterest.com/en/privacy-policy#section-contact-us)
