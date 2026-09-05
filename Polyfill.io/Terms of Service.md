@@ -1,7 +1,7 @@
 Non GamStop Casinos for UK Players - New Casino Options
 =======================================================
 
-Updated: 3rd of September 2026
+Updated: 4th of September 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
@@ -94,7 +94,7 @@ Nightluck
 
 8
 
-[![CoinPoker](https://polyfill.io/assets/01m1hckg2z74v7mfefxnqse3vs.svg)](https://polyfill.io/visit/coinpoker-10/)
+[![CoinPoker](https://polyfill.io/assets/01m1q9swgtd6kxq1a3gnyems1a.svg)](https://polyfill.io/visit/coinpoker-10/)
 
 CoinPoker
 
