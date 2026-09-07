@@ -5,16 +5,6 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
-
-How is Instagram funded?
-
-What is the Instagram Privacy Policy?
-
-What are Instagram's Terms of Use?
-
-I have a different question
-
 Welcome to Instagram!  
   
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
@@ -173,9 +163,4 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+Effective Date: 1 January 2025
