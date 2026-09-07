@@ -1,6 +1,6 @@
 PAYPAL USER AGREEMENT
 
-Last updated on 22 January 2026
+Last updated on 7 September 2026
 
 About Your Account
 ------------------
