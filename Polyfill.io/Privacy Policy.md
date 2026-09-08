@@ -5,8 +5,8 @@ Updated: 7th of September 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
-Best Non GamStop Casinos &ndash; Ranked
----------------------------------------
+Best Non GamStop Casinos – Ranked
+---------------------------------
 
 1
 
