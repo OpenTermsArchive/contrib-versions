@@ -161,6 +161,4 @@ We always appreciate feedback or other suggestions, but may use them without any
 **8\. Updating These Terms**
 ----------------------------
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
-
-Effective Date: 1 January 2025
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.
