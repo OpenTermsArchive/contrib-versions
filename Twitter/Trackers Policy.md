@@ -4226,3 +4226,21 @@ https://x.com/en/privacy
 Web Domain
 
 localizer.x.com
+
+Name
+
+x-workload-version
+
+Description
+
+Used for skew protection when multiple versions of the same backend service (e.g. the web app) run concurrently behind TFE during a deploy.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/en/privacy
+
+Web Domain
+
+.x.com
