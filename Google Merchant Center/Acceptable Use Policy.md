@@ -24,13 +24,13 @@ Our Shopping ads policies cover four broad areas:
 
 ![](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Site requirements](#site):** Standards for your ads and website
 
-Click through the policies below for policy definitions, examples and troubleshooting steps.
+Review the policies below for policy definitions, examples and troubleshooting steps.
 
 We use a combination of Google AI and human evaluation to ensure that Shopping ads comply with these policies. Our enforcement technologies use Google AI, modelled on human reviewers' decisions, to help protect our customers and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially trained experts.
 
 We take action on content that violates our policies. This may include disapproving violative Shopping ads so that they aren't served, temporarily capping ad impressions for some accounts flagged by Google AI and suspending accounts for repeat or egregious violations.
 
-We will provide you with information on our decision for any policy violation enforcement actions that we take. If one of your Shopping ads is disapproved, [you can fix that Shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (for this link to work, you'll need to be signed in to your Google Ads account).
+We will provide you with information on our decision for any policy violation enforcement actions that we take. If one of your Shopping ads is disapproved, [you can fix that Shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (you must be signed in to your Google Ads account to access the appeal form).
 
 ### Prohibited content
 
@@ -64,7 +64,7 @@ We will provide you with information on our decision for any policy violation en
 > 
 > For this reason, Shopping ads and free product listings don't allow the promotion of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads and free listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and free listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
 ### Prohibited practices
 
@@ -79,9 +79,9 @@ We will provide you with information on our decision for any policy violation en
 
 #### [Irresponsible data collection and use](https://support.google.com/merchants/merchants/answer/6150122)
 
-> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
-> _Examples of user information that must be handled with care:_ Full name; email address; postal address; phone number; national identity, pension, national insurance, tax ID, healthcare or driving licence number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> _Examples of user information that must be handled with care:_ full name; email address; postal address; phone number; national identity, pension, national insurance, tax ID, healthcare or driving licence number; birthdate or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
 > _Examples of irresponsible data collection and use_: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
@@ -96,8 +96,8 @@ We will provide you with information on our decision for any policy violation en
 
 > Google doesn't want users to feel misled by the content promoted in Shopping ads. That means being upfront and honest while providing them with the information that they need to make informed decisions. For this reason, we don't allow the following:
 > 
-> *   Promotions that prompt users to initiate a purchase, download or other commitment without first providing all of the relevant information and obtaining the user's explicit consent
-> *   Promotions that represent you or your products in a way that is not accurate, realistic and truthful
+> *   Promotions that prompt users to initiate a purchase, download or other commitment without first providing all relevant information and obtaining the user’s explicit consent
+> *   Promotions that represent you or your products in a way that isn't accurate, realistic and truthful
 
 ### Restricted content
 
@@ -190,11 +190,11 @@ We want to deliver ads that are engaging for users without being annoying or dif
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
-> *   A Display URL that does not accurately reflect the URL of the landing page, such as 'google.com' taking users to 'gmail.com'
+> *   A display URL that doesn't accurately reflect the URL of the landing page, such as 'google.com' taking users to 'gmail.com'
 > *   Gimmicky use of words, numbers, letters, punctuation or symbols such as FREE, f-r-e-e and F₹€€!!
 > *   Sites that are under construction, parked domains or are just not working
 > *   Sites that have disabled the browser's back button
-> *   Sites that are not viewable in commonly used browsers
+> *   Sites that aren't viewable in commonly used browsers
 
 About our policies
 ------------------
