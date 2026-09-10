@@ -313,3 +313,5 @@ For reference, information on the company responsible for applying this Use of C
 HAPPN, a company registered under the number 535 217 723 in the Paris Trade and Companies Register. The company’s headquarters are located at 5 rue Feydeau 75002 Paris, France, and it is represented by its CEO, Mrs. Karima Ben Abdelmalek.
 
 Finally, do not forget to consult our [Privacy Policy](https://web.archive.org/web/20220628035235mp_/http://www.happn.com/privacy/).
+
+[Return to top](#main-content)
