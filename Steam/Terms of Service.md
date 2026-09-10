@@ -52,10 +52,6 @@ In the case of Hardware, we only accept your offer, and conclude the transaction
 
 You consent to receiving sales invoices electronically.
 
-E. Payment Processing
-
-Payment processing related to Content and Services and/or Hardware purchased on Steam is performed by either Valve Corporation directly or by Valve’s fully owned subsidiary Valve GmbH i.L. on behalf of Valve Corporation depending on the type of payment method used. If your card was issued outside the United States, your payment may be processed via a European acquirer by Valve GmbH i.L. on behalf of Valve Corporation. For any other type of purchases, payment will be collected by Valve Corporation directly. In any case, delivery of Content and Services as well as Hardware is performed by Valve Corporation.
-
 2\. LICENSES
 
 A. General Content and Services License
@@ -327,4 +323,4 @@ Valve’s obligations are subject to existing laws and legal process and Valve m
 
 You agree to comply with all applicable import/export laws and regulations. You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S. Bureau of Export Administration. You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.
 
-This Agreement was last updated on April 20, 2026 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces and supersedes your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
+This Agreement was last updated on September 10, 2026 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces and supersedes your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
