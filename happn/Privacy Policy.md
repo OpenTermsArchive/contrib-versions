@@ -533,3 +533,5 @@ If you have any questions regarding this privacy policy, or any other request co
 • By sending an email to the Data Protection Officer dpo@happn.fr.
 
 • **By sending a letter to the following address:** for the attention of the Data Protection Officer, HAPPN - 5 rue du Feydeau 75002 Paris – France.
+
+[Return to top](#main-content)
