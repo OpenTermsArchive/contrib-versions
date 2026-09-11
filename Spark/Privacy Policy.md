@@ -45,7 +45,7 @@ Table of Contents
         *   [My Writing Style](#sparkai-style)
         *   [Meeting Notes](#meetingnotes)
         *   [Personalization](#personalization)
-    *   [Inbox Automation](#teamdata)
+        *   [Inbox Automation](#teamdata)
     *   [Team Data](#teamdata)
     *   [Customer Support Requests](#support)
     *   [Feedback Data](#feedback)
@@ -216,7 +216,7 @@ With your explicit consent, Spark may also use your personalization context to i
 
 You may permanently delete your personalization context or custom instructions at any time. 
 
-### Inbox Automation
+**Inbox Automation**
 
 Inbox Automation toolset lets you configure and manage emails on your behalf, reducing manual effort and keeping your inbox organized with AI. 
 
