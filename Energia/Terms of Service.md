@@ -1,3 +1,7 @@
+Customer notice
+
+We are increasing our residential Electricity and Gas prices from 12th October 2026.  [Please see here for more information.](https://www.energia.ie/about-energia/price)
+
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Terms & Conditions
