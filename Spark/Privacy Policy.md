@@ -1,7 +1,7 @@
 Privacy Policy for App
 ======================
 
-**Date:** July 20, 2026
+**Date:** September 10, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
@@ -45,6 +45,7 @@ Table of Contents
         *   [My Writing Style](#sparkai-style)
         *   [Meeting Notes](#meetingnotes)
         *   [Personalization](#personalization)
+    *   [Inbox Automation](#teamdata)
     *   [Team Data](#teamdata)
     *   [Customer Support Requests](#support)
     *   [Feedback Data](#feedback)
@@ -205,7 +206,7 @@ This feature lets you customize your experience with Spark+AI by using personali
 *   Schedule: How you usually schedule meetings, preferred meeting lengths, typical availability;
 *   Background: Your industry, current projects, interests, and other context.
 
-You may provide the personalization context manually by sharing any information and instructions you wish. Alternatively, you may choose to let Spark analyze your email data to generate this context automatically.  
+You may let Spark analyze your email data to generate this context automatically. Also, you can tailor this context by providing custom instructions, editing, or regenerating it. 
 
 Spark does not use personalization context for marketing or AI training purposes.
 
@@ -213,7 +214,17 @@ When enabled, +AI features use personalization context and may generate more rel
   
 With your explicit consent, Spark may also use your personalization context to improve its features. This occurs only if you actively choose to allow this while providing feedback on a relevant feature.
 
-You may review, edit, or permanently delete your personalization context at any time. 
+You may permanently delete your personalization context or custom instructions at any time. 
+
+### Inbox Automation
+
+Inbox Automation toolset lets you configure and manage emails on your behalf, reducing manual effort and keeping your inbox organized with AI. 
+
+For instance, when the ‘Auto-Drafts’ tool is activated, Spark may pre-write draft responses for incoming emails, ready for your review before sending. You may also add your custom auto-draft instructions — brief guidance beyond what is already set up in the Inbox Automation section. 
+
+You may use Inbox Automation as a standalone feature. However, using it in combination with Personalization may allow Spark to deliver more tailored and relevant outputs.
+
+You can manage your preferences and adjust the automation settings at any time. 
 
 ### Team Data
 
@@ -301,8 +312,11 @@ If the data category is not listed herein, it is stored locally on your device. 
 | Large attachments | For thirty (30) days, if autocleaning is enabled, or until you delete the data manually via settings, or until deletion of Spark account |
 | Read Statuses | Until deletion of the Spark account |
 | +AI Meeting Notes and Summaries; sample emails for My Writing Style; writing style description; AI Assistant history, AI workflows (commands, rules) | Until deletion of Spark account or until you delete the data manually via settings |
-| Personalization context | Until disabling 'Personalization' feature |
+| Personalization context | Until disabling the ‘Personalization’ feature or regenerating the new version of the Personalization context |
 | Personalization context for the improvement of AI features | 2 months since sharing the feedback |
+| Auto-Drafts | After 7 days of being unused, or by manually defining another term via settings |
+| Custom Auto-Draft Instructions within the Inbox Automation section | Until manual deletion or deletion of the Spark account |
+| Custom Instructions within the Personalization section | Until manual deletion or account deletion of the Spark account |
 | Customer Support Requests | For six (6) years after the communication on the ticket is closed |
 | Feedback Provided to Us Directly | For six (6) years from the feedback or last communication on feedback |
 | Feedback Provided via a Third-Party Platform | For two (2) years from the feedback or last communication on feedback |
