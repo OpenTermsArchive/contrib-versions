@@ -731,3 +731,5 @@ This complaints handling system may benefit any person who has been the subject 
 You also have the possibility to refer the matter to [a certified out-of-court dispute resolution body](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement) or to appeal to the competent court.
 
 Any abuse in the use of the Internal Complaints Handling System (complaints that are manifestly unfounded and made in bad faith) will also be considered a breach of these T&Cs and may result in the suspension/termination of the Account of the Member who committed such abuse, in accordance with Article 14.4 “Suspension/Termination of the Account by HAPPN in the event of a Member’s breach of the T&Cs” of the T&Cs.
+
+[Return to top](#main-content)
