@@ -1,3 +1,7 @@
+Customer notice
+
+We are increasing our residential Electricity and Gas prices from 12th October 2026.  [Please see here for more information.](https://www.energia.ie/about-energia/price)
+
    
 
 Energia Cookie Policy
