@@ -47,6 +47,7 @@ The following types of content are explicitly prohibited:
 *   any content which utilizes our platform for malware delivery or activation
 *   content which infringes on any copyright, patent, or trademark you do not own
 *   content related to cryptocurrency or blockchain technologies
+*   original content written with or which facilitates the use of LLMs (large language models) or other generative AI technologies
 
 You must not deliberately use the services for the purpose of:
 
