@@ -1,7 +1,7 @@
 AWS Service Terms
 -----------------
 
-Last Updated: September 1, 2026
+Last Updated: September 11, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1011,7 +1011,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.14.2.** Per Section 1.24 of the Service Terms, Amazon Bedrock abuse detection mechanisms apply to your use of Kiro, including our retention and potential human review of inputs and outputs when you select certain models. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details. Additionally, only for Kiro Free Tier users, we may store your inputs for up to 60 days (unless otherwise required by law) for the purposes of detecting activity that violates the Agreement and improving our ability to detect such activity.
 
-**50.15. Amazon Bedrock AgentCore Payments (Preview)**
+**50.15. Amazon Bedrock AgentCore Payments**
 
 **50.15.1.** Amazon Bedrock AgentCore Payments helps you develop agentic payment solutions by transmitting your API calls and other messages between your AI agents, your selected third-party wallet providers, and third-party sellers. AWS does not provide regulated financial services as part of AgentCore Payments. AWS is not a party to or in the flow of funds for any payment facilitated by your use of AgentCore Payments.
 
