@@ -5,6 +5,16 @@ Information for law enforcement
 
 Copy link
 
+What are Instagram account records?
+
+How do I request Instagram user data?
+
+What is an Instagram emergency request?
+
+How do I preserve Instagram account records?
+
+I have a different question
+
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
@@ -86,13 +96,6 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
-For U.S. Law Enforcement:
-
-Law enforcement officials seeking Instagram account records must address their request to:  
-Meta Platforms, Inc.,  
-1 Meta Way  
-Menlo Park, CA 94025
-
 For Law Enforcement outside of the U.S.:
 
 Please note that for users of the Instagram services in the European region (excluding the United Kingdom), the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
@@ -107,3 +110,10 @@ Menlo Park, CA 94025
 Mail:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
