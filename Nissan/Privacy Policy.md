@@ -1,169 +1,196 @@
 Website Privacy Notice
-----------------------
+======================
 
-Last updated in February 2021
+Last updated: February 15, 2024
 
-### 1\. Who are we?
+The Nissan Group is strongly committed to protecting your privacy and personal data and ensuring transparency in doing so.  
+This Privacy Notice is directed at:
 
-Nissan ("**we**", "**our**", or "**us**") is strongly committed to protecting your privacy and personal information, and ensuring transparency in doing so. This Privacy Notice explains the Personal Data that we collect in connection to your use of [www.nissan-global.com](https://www.nissan-global.com/EN/index.html) and [www.nissanmotor.jobs](https://www.nissanmotor.jobs/) (�**Site**�), the purposes for which we collect and use them, how they are processed, when and with whom we share them, and for how long we store them. Finally, this Privacy Notice also outlines your rights related to your Personal Data and how you can exercise them.  
-  
-Please read this Privacy Notice carefully. We may update this Privacy Notice from time to time, and we recommend regularly visiting this page when you use our Site.  
-  
-As part of our commitment to protecting your privacy, Nissan has also adopted a set of privacy principles that applies to our activities related to the processing of your Personal Data as a customer. You can find more information on our Customer Privacy Policy here:[https://www.nissan-global.com/EN/DOCUMENT/PDF/COMPANY/LIBRARY/Customer\_Privacy\_Policy\_e.pdf](https://www.nissan-global.com/EN/DOCUMENT/PDF/COMPANY/LIBRARY/Customer_Privacy_Policy_e.pdf).
+*   visitors and users of the websites " [https://www.nissan-global.com](https://www.nissan-global.com/EN/)" , " [https://global.nissannews.com](https://global.nissannews.com/en)" and " [https://www.nissanmotor.jobs](https://www.nissanmotor.jobs/)" (together “Site”);
+*   customers and prospects receiving or viewing our newsletters, emails and other communications and materials that the Nissan Group may publish or send; and
+*   job applicants to Nissan Group work opportunities.
 
-### 2\. Who is the Data Controller and Your Data Protection Contact Point?
+Please read this Privacy Notice carefully. This Privacy Notice describes how your personal data is used and how to exercise your rights about it. We may update this Privacy Notice from time to time, and we recommend regularly visiting this page when you use our Site.
 
-For any Personal Data processing activities related to your use of this Site, Nissan Motor Co., LTD (�**Nissan**�), incorporated at 2, Takara-cho, Kanagawa-ku, Yokohama-shi, Kanagawa 220-8623, Japan, acts as Data Controller of your Personal Data.  
-  
-For any questions, requests or complaints concerning this Privacy Notice, your Personal Data, and the exercise of your rights, you can contact us at our Data Protection Contact Point:
+As part of our commitment to protecting your privacy and personal data, the Nissan Group has also adopted a set of privacy principles that applies to its business activities. As customer, you can find more information on our Customer  
+[Privacy Policy here:](https://www.nissan-global.com/EN/DOCUMENT/PDF/COMPANY/LIBRARY/Customer_Privacy_Policy_e.pdf)
 
-Nissan Data Protection Contact Point  
-Email:   [global.compliance.office@mail.nissan.co.jp](mailto:global.compliance.office@mail.nissan.co.jp)  
-Tel:        050-3804-6194
+As you read this Privacy Notice, please keep in mind the following important notes about how this Privacy Notice applies:
 
-This Privacy Notice applies to your Personal Data whenever you:
+*   this Privacy Notice contains specific sections that may not be applicable to you because of where you are located or the nature of our relationship and/or interactions;
+*   this Privacy Notice may be supplemented by other privacy policies and/or notices that explain how your personal data is used and disclosed under other circumstances. To the extent such policies and/or notices are provided, posted and/or referenced, that different notice and/or policy will apply to the processing of your personal data;
+*   our Site may contain links to third-party websites that we do not operate, control or endorse. Once you leave our Site, we are not responsible for the protection and privacy of any information you provide. We suggest reading the privacy notices of these third-party websites and if needed, contacting those websites directly for information about their privacy practices.
 
-*   visit and use the services provided by our Site or any other version optimized for navigation on a tablet or a mobile device; and
-*   receive or view any newsletters, emails and other communications and material that we publish or send.
+For any questions, requests or complaints concerning this Privacy Notice and the exercise of your rights, you can directly contact our Data Protection Contact Point:
 
-This Privacy Notice does not apply to Personal Data you provide to any third parties, such as Facebook or Twitter. If you decide to access or use services or products offered by or accessible through third parties, please note that this Privacy Notice will not apply to such Personal Data and any processing activities related to them.  
-  
-Please also note that some of our services accessible through this Site, especially that related to searching and applying for an employment position with Nissan, involve the use of third party services. Nissan takes appropriate measures in relation to the processing of Personal Data for the purpose of your job application, including the collection and transmission of your Personal Data to the third party. Beyond our data processing for the purpose of your job application with Nissan, we have no control over third party processing activities. We recommend that you carefully read the privacy policies of any third party services before using or signing up for them.
+Nissan Data Protection Contact Point
 
-### 3\. What Personal Data Do We Collect?
+*   Email : [NML\_Globaldataprivacyoffice@mail.nissan.co.jp](mailto:NML_Globaldataprivacyoffice@mail.nissan.co.jp)
+*   Tel : [+81(0)50-3804-6194](tel:+81-50-3804-6194)
 
-For the purpose of this Privacy Notice, �**Personal Data**� means all information relating to an identified or identifiable natural person as defined under local privacy and data protection laws, such as the Act on the Protection of Personal Information (�**APPI**�) in Japan and the General Data Protection Regulations (�**GDPR**�) in Europe (�**Privacy and Data Protection Laws**�).  
-  
-We collect your Personal Data when you visit our Site. Your Personal Data can be (1) provided directly by you, (2) collected automatically, or (3) provided by third parties.
+1\. Who is the Data Controller of Your Personal Data?
+-----------------------------------------------------
 
-**(1) Personal Data You Provide To Us Directly**
+Unless expressly specified otherwise:
 
-When visiting our Site or using our Services, you will sometimes provide your Personal Data to us. Below are a few examples of situations where you provide your Personal Data to us directly, and the types of Personal Data involved:
+*   Nissan Motor Co., LTD (“Nissan”, “us”, “we”), incorporated at 2, Takara-cho, Kanagawa-ku, Yokohama-shi, Kanagawa 220-8623, Japan, is the data controller of personal data collected and processed for the administrative, operational and commercial management of the Site as publisher;
+*   the recruiting Nissan entity is the data controller of personal data collected and processed for the process of your job application.
 
+2\. What Personal Data Do We Collect?
+-------------------------------------
+
+For the purpose of this Privacy Notice, “personal data” means all information relating to an identified or identifiable natural person as defined under applicable privacy and data protection laws, including, but not limited to, the Act on the Protection of Personal Information of Japan (“APPI”) and the European General Data Protection Regulation (“GDPR”) (together “Privacy and Data Protection Laws”).  
+Your personal data can be (1) provided directly by you, (2) collected automatically, or (3) provided by third parties.  
+The provision of certain types of personal data may be necessary or optional. Mandatory data will be marked as such at the moment of collection of your personal data. If you refuse to provide the mandatory data, Nissan may not be able to process your request.
+
+### (1) Personal Data You Provide To Us Directly
+
+Depending on your relationship and/or interactions with us, you will provide the following personal data to us:
+
+|     |     |
+| --- | --- | 
 | Scenarios | Types of Personal Data You Provide |
-| --- | --- |
-| When you request information from us | �Contact information such as name, address, email and phone number �Content and type of your request or query |
-| When you indicate to us what kind of offers, services and/or vehicles may interest you | �Contact information such as your name and e-mail address  <br>�Your preference regarding vehicle types  <br>�Your current subscriptions to our services or past transactions |
-| When we evaluate the quality of our services | �Detailed information on your transaction such as vehicle model and  dealership, products and services you requested  <br>�Your comments and feedback on your experience or satisfaction level  in how we dealt with you |
-| When we conduct client surveys | �Contact information such as name, email, address, phone number  <br>�Your comments and any information you provide in the survey(s) |
-| When you search or apply for a job through our Site | �The content of your search  <br>�Contact information such as name, email, address, phone number  <br>�Any information you enter into the form we provide  <br>�Your CV and any other document you provide us as part of your job  application |
+| When you request information from us | *   Identification data (first name, last name)<br>*   Contact details (address, email and phone number)<br>*   Data related to your request (date, hour, type and content of your request) |
+| When we send you information that might interest you | *   Identification data (first name, last name)<br>*   Contact details (address, email and phone number)<br>*   Data related to our communications (date, hour, type and content of the communications, your subscription status) |
+| When we manage our relationship with you | *   Identification data (first name, last name)<br>*   Contact details (address, email and phone number)<br>*   Data related to our relationship (nature of our relationship, transaction history, your interests) |
+| When we conduct customer surveys | *   Identification data (first name, last name)<br>*   Contact details (email, address, phone number)<br>*   Data related to the customer surveys (your comments and any information you provide in the surveys) |
+| When you search or apply for a job through our Site | *   Identification data (first name, last name, age)<br>*   Contact details (address, email and phone number)<br>*   Professional data (job title, employment status, educational information, professional qualifications, work experience and professional networks, references, any other information you include in your resume and cover letter)<br>*   Data related to your job application (subject and content of your search, location related to the job offer, hour and date of your job application) |
 
-**(2) Personal Data We Automatically Collect From You**
+### (2) Personal Data We Automatically Collect From You
 
-As you navigate through our Site or use our services, we automatically collect certain Personal Data about your device and browsing activities. Below are some examples of the Personal Data we automatically collect from you.
+As you navigate through our Site, we automatically collect the following personal data about your device and browsing activities through cookies and other trackers:
 
-| Categories of Personal Data | Types of Personal Data |
-| --- | --- |
-| Technical data about your web browser and your terminal (such as your computer or your mobile phone) or any other interface you may use to visit our Site | �Your IP address  <br>�Location data  <br>�Operating system  <br>�Browser type  <br>�Browser language  <br>�Unique device identifiers |
-| Connection data and log files | �Date and time you visited our Site  <br>�Bug or any other error reports  <br>�Session data such as session ID and length of access |
-| Information regarding your navigation on our Site | �Referring websites (URL)  <br>�Entry and exit pages  <br>�Pages you viewed on our Site  <br>�Search terms |
+|     |     |
+| --- | --- | 
+| Scenarios | Types of Personal Data We Automatically Collect |
+| This information is necessary for the proper functioning of our Site and its services, as well as internal business analytics purposes such as audience measurement.  <br>For more information on the cookies and other trackers, please read the [Cookies Policy.](https://www.nissan-global.com/EN/COOKIES/) | *   Technical data about your web browser and your device or any other interface you may use to visit our Site (IP address, location data, device type, operating system, browser type, browser language, unique device identifiers)<br>*   Connection data and log files (date and time you visited our Site, bug or any other error reports, session data such as session ID and length of access)<br>*   Information regarding your navigation on our Site (referring websites (URL), entry and exit pages, pages you viewed on our Site, search terms) |
 
-**(3) Personal Data Provided by Third Parties**
+### (3) Personal Data Provided by Third Parties
 
-Depending on your use of our Site and services, we sometimes receive your Personal Data through third parties and third party websites (such as Facebook or Twitter), in accordance with their privacy policies and terms and conditions of use. For example, when you visit our Site directly through a social media website such as Facebook, it provides us with information regarding your account that you have made public.
+Depending on your use of our Site and its services, we sometimes receive your personal data through third-parties and third-party websites (such as Facebook or X), in accordance with their privacy policies and terms and conditions of use. For example, when you visit our Site directly through a social media website, it provides us with information regarding your account that you have made public.  
+However, Nissan does not provide any personal data to third-party companies without your express consent, unless we are allowed to do so under the applicable Privacy and Data Protection Laws. Please see the section 4 of this Privacy Notice for more information about the recipients of your personal data.
 
-However, Nissan does not provide any Personal Data to third parties without your express consent unless we are allowed to do so under applicable law. Please see the section �Who Do We Share Your Personal Data With?� for more information.
+3\. For Which Purposes and How Do We Process Your Personal Data?
+----------------------------------------------------------------
 
-### 4\. For Which Purposes and How Do We Process Your Personal Data?
+We do not process your personal data, unless we have a specific and legitimate purpose as well as a legal basis to do so. The purposes and legal bases for the processing of your personal data as described in this Privacy Notice are set out in the table below:
 
-We do not process your Personal Data unless we have a specific and legitimate purpose as well as a legal basis to do so. The purposes and legal bases for the processing of your Personal Data as described in this Privacy Notice are set out in the table below:
-
-| Purposes of Processing | Types of Processing Activities | Legal Bases |
+| MANAGING OUR SITE |     |     |
 | --- | --- | --- |
-| To process your request or transaction | �<br><br>Displaying a search result<br><br>�<br><br>Providing you with information or services you have requested<br><br>�<br><br>Sending you a welcome email or any other information when you register | �<br><br>Performance of a contract<br><br>�<br><br>Legitimate interest |
-| To manage and improve our Site, services and products | �<br><br>Automatic updating of our Site or services<br><br>�<br><br>Preventing, detecting, and investigating any activity that may be illegal or contrary to our policies including network and information security | �<br><br>Performance of a contract<br><br>�<br><br>Legitimate interest |
-| To evaluate the effectiveness and quality of our Site, services, vehicle sales and advertisements | �<br><br>Conducting client surveys regarding your customer experience<br><br>�<br><br>Conducting statistical, demographic or marketing analysis of our Site and services | �<br><br>Performance of a contract<br><br>�<br><br>Legitimate interest<br><br>�<br><br>Express consent |
-| To provide you with information, promotions, events, products and services that may interest you | �<br><br>Sending you relevant information about vehicles and services<br><br>�<br><br>Providing you with customized offers, services or advertisements<br><br>�<br><br>Proposing a personalized customer experience to you | �Express consent  <br>�Legitimate interest |
-| To fulfill our legal obligations | �<br><br>Keeping records of your transactions<br><br>�<br><br>Informing you of any changes in our processing activities if they require additional consent<br><br>�<br><br>Prevention and detection of fraud or other crimes | �<br><br>Compliance with a legal obligation |
-| To process your job application | �<br><br>Managing your job application and streamlining our recruitment process<br><br>�<br><br>Sending you information regarding your current application and any other position that may interest you | �<br><br>Performance of a contract<br><br>�<br><br>Express consent, but only if there are transfers outside of the EU<br><br>�<br><br>Legitimate interest |
+| Purposes of Processing | Types of Processing Activities | Legal Bases |
+| To process your contact request and any other inquiries | *   Displaying a search result<br>*   Providing you with information you have requested<br>*   Contacting you if needed | Legitimate interest (Translator’s comment: legitimate right?) of Nissan to manage its contact requests and any other inquiries |
+| To manage and improve our Site and its services | *   Automatic updating of our Site or its services<br>*   Evaluating and improving our Site and its services<br>*   Taking steps designed to protect and enhance the security of our Site and its services | Legitimate interest of Nissan to improve the Site and its services, as well as your user experience on the Site |
+| To evaluate the effectiveness and quality of our Site and its services | *   Conducting statistical or marketing analysis of our Site and its services | Legitimate interest of Nissan to develop its business activities (with your consent, if required by applicable law) |
+| To personalize your user experience on the Site | *   Personalizing your content and your navigation on the Site | Your consent |
+| MANAGING OUR RELATIONSHIP WITH YOU |     |     |
+| Purposes of Processing | Types of Processing Activities | Legal Bases |
+| To manage our relationship with you | *   Developing or managing our relationship or interactions with you<br>*   Complying with our contractual and payment obligations<br>*   Processing your queries or complaints as customer | Depending on your relationship with Nissan:<br><br>*   to take steps prior to entering into an agreement<br><br>or<br><br>*   performance of the relevant agreement |
+| To improve our products, services and your customer experience | *   Conducting customer surveys regarding your customer experience<br>*   Publishing your feedback related to your customer experience on our Site or any other relevant material (with your consent if applicable)<br>*   Identifying and assessing what is being said about Nissan Group on social media | Legitimate interest of Nissan to improve its products and services, as well as your customer experience and develop its business activities accordingly |
+| To send communications that might interest you | *   Sending you marketing communications related to the business activities of the Nissan Group (including newsletters, emails or any other communications related to the products, services and events of the Nissan Group)<br>*   You can opt-out of these communications, at any time, by the methods described in Section 8 of this Privacy Notice. | Your consent (unless legitimate interest of Nissan to develop its business activities is admissible by applicable law) |
+| MANAGING THE RECRUITMENT PROCESS |     |     |
+| Purposes of Processing | Types of Processing Activities | Legal Bases |
+| To manage your job application | *   Examining your job application<br>*   Contacting you<br>*   Organizing an interview<br>*   In the event of an employment offer accepted by you, managing the new-hire process and creating the employee file in our human resources system | To take steps prior to entering into an agreement |
+| To process background checks about you | *   Checking your background, references and other information you gave during the recruitment process, which may include access to additional employment and educational background information, as well as criminal record information (to the extent allowed by law)<br>*   Preparing an offer of employment and other documents we use at this pre-contract stage of our recruitment process | To take steps prior to entering into a contract |
+| To manage candidates’ data | *   Identifying candidates, including by working with external recruiters<br>*   Considering you for opportunities within Nissan Group we have now, or future ones<br>*   Letting you know about opportunities or asking you to update your profile | Legitimate interest of the Nissan in feeding its talent pool |
+| OTHER PERSONAL DATA PROCESSING |     |     |
+| Purposes of Processing | Types of Processing Activities | Legal Bases |
+| To manage pre-litigation or litigation | *   Taking action against any identified breach<br>*   Managing any dispute or litigation | Legitimate interest of Nissan in defending its rights and interests |
+| To fulfill our legal obligations | *   Complying with our legal obligations<br>*   Processing your requests to exercise your rights | Compliance with legal obligations applicable to Nissan |
+| To manage corporate operations | *   For other everyday business purposes such as payment processing and accounting, product development, safeguarding Nissan property, contract management, corporate governance, the potential sale or merger of the companies within the Nissan Group | Depending on the corporate operation:<br><br>*   legitimate interest of Nissan in carrying out corporate operations<br><br>or<br><br>*   compliance with legal obligations applicable to Nissan |
 
-### 5\. Who Do We Share Your Personal Data With?
+4\. Who Do We Share Your Personal Data With?
+--------------------------------------------
 
-In accordance with this Privacy Notice and the purposes listed above, we may disclose your Personal Data to the following recipients, who may or may not be affiliated with Nissan:
+In accordance with this Privacy Notice and the purposes listed above, we may disclose your personal data to the following recipients, who may or may not be affiliated with Nissan:
 
+|     |     |
+| --- | --- | 
 | Recipients | Purposes |
-| --- | --- |
-| IT service providers | Maintenance and provision of our IT service and systems |
-| Service providers | Provision of services such as website hosting, email services, marketing, sweepstakes sponsors, contests & promotion, insurers, auditing, customer orders, data analytics, customer services, customer research & satisfaction surveys |
-| Employment and career management service providers | To manage Nissan career opportunities and process your job applications depending on the country or region of the position |
-| Public and government authorities | To fulfill our legal obligations such as in relation to law enforcement or accounting regulations |
-| Corporate affiliates | For job application purposes only the relevant Nissan entitie(s) will receive your Personal Data related to your job application  <br>For centralization of management activities or in the context of reorganization  <br>For responding to your requests and/or queries |
+| Companies of the Nissan Group (Nissan Motor Co., LTD and/or its subsidiaries) and their duly authorized employees | For the purposes set forth in this Privacy Notice, including:<br><br>*   the global administrative, operational, technical and/or marketing purposes in the context of the Nissan Group worldwide activities;<br>*   the global recruiting process, depending on the identity and location of the evaluators and of the recruiting entity.<br><br>You can find more information about our subsidiaries here:  <br>[https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/](https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/) |
+| IT service providers  <br>(e.g. hosting provider, IT service provider, software publisher, etc.) | To assist Nissan in administrative, operational, technical and/or marketing purposes related to the purposes set forth in this Privacy Notice |
+| Service providers  <br>(e.g. marketing service provider, analytics service provider, insurers, etc.) | To assist Nissan in administrative, operational, technical and/or marketing purposes set forth in this Privacy Notice |
+| Employment and career management service providers | To manage the Nissan Group career opportunities and process your job applications depending on the country or region of the position |
+| Administrative, regulatory or judiciary authorities or agencies and other third parties | Exclusively to comply with any legal or regulatory obligation and/or in the cases of an express and justified request or in case of an alleged violation of legal or regulatory provisions |
+| Advisors  <br>(e.g. outside auditors, attorneys and all interested parties) | Exclusively in the case of the management of possible disputes and other legal matters where appropriate |
+| Other third parties | Following or during a restructuring, reconstitution, acquisition, debt financing, merger, transfer, sale of assets of Nissan or a similar transaction, as well as in case of insolvency, bankruptcy or receivership where personal data are transferred to one or more third parties as assets of Nissan, subject to your information and/or consent, if applicable. |
 
-You can find more information about our subsidiaries here:  
-A list of Nissan subsidiaries and affiliates:[https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/](https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/)[](https://www.nissan-global.com/JP/COMPANY/PROFILE/SUBSIDIARY/)
+5\. How Does Nissan Protect Your Personal Data?
+-----------------------------------------------
 
-We may also disclose your Personal Data to a third party following, or in the course of, a restructuring, merger or acquisition, debt financing, sale of assets of Nissan or any other similar transaction or operation, as well as in case of insolvency, bankruptcy, or sequestration of assets during which Personal Data are transferred to third parties as Nissan�s assets.  
-  
-In the event of legal proceedings, we may share information related to you that could be of assistance to us to defend our rights or resolve legal conflicts.  
-  
-Finally, we share generalized statistics or Personal Data in an aggregated form for certain purposes, such as analyzing your use of our Site or services, your areas of interest and behavior.
+Nissan has implemented appropriate technical and organizational measures in order to maintain a level of security well adapted to the level of risk related to the processing of your personal data. These measures aim, in particular, to protect your personal data against destruction, loss, alteration, unauthorized disclosure or access, both accidental and intentional.  
+However, no method of transmission of data on the internet and no method of storage (in either an electronic or a physical environment) can be entirely secure. We endeavor to protect your personal data to the best of our abilities, but we cannot guarantee an absolute security or integrity during the transmission of your data from your system to ours. Any transmission is at your own risk.
 
-### 6\. How Does Nissan Protect Your Personal Data?
+6\. Are There Any International Transfers of Your Personal Data?
+----------------------------------------------------------------
 
-Nissan has implemented reasonable and appropriate technical and organizational measures in order to maintain a level of information security well adapted to the level of risk related to the processing of your Personal Data. These measures aim, in particular, to protect your Personal Data against destruction, loss, alteration, unauthorized disclosure or access, both accidental and intentional.  
-  
-However, no method of transmission of data on the internet and no method of storage (in either an electronic or a physical environment) can be entirely secure. We endeavor to protect your Personal Data to the best of our abilities, but we cannot guarantee an absolute security or integrity during the transmission of your data from your system to ours. Any transmission is at your own risk.
+Where the personal data is originated within a country requiring an adequate level of protection for personal data when disclosing or transferring personal data outside the originating country, Nissan ensures that appropriate legal or contractual safeguards are in place for such disclosures or transfers as required by the applicable law.
 
-### 7\. Are There Any International Transfers of Your Personal Data?
+In particular:
 
-The storing and processing of your Personal Data as outlined above will sometimes require that we transfer and/or store your Personal Data outside of your country or region of residence. Legislation regarding the protection of personal data of such third countries may differ from those of your country or region of residence, in particular regarding the internal management of services and commercial or marketing communications.  
-  
-Where the Act on the Protection of Personal Information of Japan (the �**Act**�) applies and we transfer your Personal Data outside of Japan, we will take all necessary measures through contracts based on the Act and any applicable guidelines. Where GDPR applies and the country of destination is outside of the EU and does not provide a level of protection of personal data equivalent to that of the EU, we will take all necessary measures, either through an Adequacy Decision by the European Commission or, in the absence of such a decision, through appropriate safeguards such as the European Commission Standard Contractual Clauses.
+*   where the APPI of Japan applies and we transfer your personal data outside of Japan, we will take all necessary measures through contracts based on the APPI and any applicable guidelines;
+*   where the GDPR applies and we transfer your personal data outside the European Union/European Economic Area/United Kingdom, we will, in the absence of an adequacy decision and after having carried out an assessment of the level of protection of your rights on the territory of the concerned third country where we deem this necessary, implement adequate measures through the adoption of appropriate safeguards (such as standard contractual clauses).
 
-### 8\. How Long Do We Store Your Personal Data?
+7\. How Long Do We Store Your Personal Data?
+--------------------------------------------
 
-Nissan stores your Personal Data for a period that is reasonable and/or as required by law. The storage period will depend on the purposes for which we have collected and used your Personal Data, and as required by any relevant legislations.  
-  
-In order to determine the retention period, we consider factors such as:
+We retain your personal data for as long as it is necessary for the purposes set out in this Privacy Notice, unless required by our legal obligations to retain it for longer.  
+In order to determine the appropriate retention period, we consider factors such as:
 
-*   Your use of our Site and services;
-*   The existence of contractual or legal obligations requiring us to retain your Personal Data for a fixed period;
-*   The existence of any legal proceedings related to your use of our Site or services.
+*   your use of our Site and its services;
+*   the existence of contractual or legal obligations requiring us to retain your personal data for a fixed period;
+*   the existence of any ongoing legal proceedings.
 
-As a rule of thumb, we only store your Personal Data in active files or systems for the duration necessary for the fulfillment of the purpose for which we collected them, in compliance with applicable legislation. For example:
+Below is a table indicating how long we keep your personal data according to specific purposes:
 
-*   In general, we will retain all your Personal Data until the deletion of your user account, if applicable;
-*   Exceptionally, and unless provided otherwise by local Privacy and Data Protection Laws, we may store your email address and your name and last name for the purpose of electronic marketing activities for no longer than 3 years starting from our last communication with you. You may at any moment exercise your right to object to the processing of your Personal Data for this purpose.
-
-If you object to the processing of your Personal Data for electronic marketing purposes, we will retain your Personal Data for the duration necessary to comply with, and prove our compliance with, your request, and will delete your Personal Data unless they are necessary for the accomplishment of another purpose, such as the use of our Site or services.  
-  
-For any other type of processing aside from electronic marketing, we retain your Personal Data for the entire duration of our commercial relationship and, at its termination, we keep your Personal Data for the maximum duration authorized by law for tax and accounting purposes. We may also archive your Personal Data for the duration of any legal obligations, after which we will periodically delete them unless further processing is necessary for other purposes mentioned above.  
-  
-Below is a table indicating how long we keep your data according to specific purposes:
-
+|     |     |
+| --- | --- | 
 | Purposes | Retention Period |
-| --- | --- |
-| Pre-contractual customer relationship management | 5 years |
-| Sending relevant information about vehicles and services, measuring performance of our advertising, sales and after sales services | 5 years for customers,  <br>3 years otherwise |
-| Sending personalized advertising about vehicles, products and services and providing personalized customer experiences | 5 years for customers,  <br>3 years otherwise |
-| Carrying out customer satisfaction surveys | The duration of the study |
-| Processing your job application | For the duration of the application process, unless the application results in an employment relationship with Nissan |
+| Processing your contact requests and any other inquiries | Until the complete processing of contact your request or inquiry |
+| Pre-contractual/contractual customer relationship management | 5 years from the end of the pre-contractual/contractual customer relationship |
+| Sending information that might interest you | Until your subscription period ends as detailed in Section 8 of this Privacy Notice |
+| Carrying out customer satisfaction surveys | The duration of the study and beyond but under aggregated format |
+| Processing your job application | For the duration of the application process, and beyond if you are recruited or if you integrate Nissan’s pool talent. |
 
-### 9\. What Are Your Rights Regarding Your Personal Data?
+In addition to this, Nissan will keep your personal data during:
 
-In accordance with the applicable Privacy and Data Protection Laws, you may be able to exercise the following rights regarding your Personal Data processing by Nissan:
+*   the statute of limitation, if needed for evidence purposes;
+*   the applicable legal retention periods, in particular regarding commercial, compliance and regulatory matters, or any other mandatory retention period (such as legal hold or investigation).
 
+8\. What Are Your Rights Regarding Your Personal Data?
+------------------------------------------------------
+
+Depending on the applicable Privacy and Data Protection Laws, that apply to your situation you may be able to exercise the following rights regarding your personal data processing by Nissan:
+
+|     |     |
+| --- | --- | 
 | Your Rights | Scope of the Rights |
-| --- | --- |
-| Right to access | You have the right to obtain from the Data Controller (us) confirmation on whether we process your Personal Data or not, and if we do, access to such Personal Data as well as information on their use. |
-| Right to rectification | You have the right to require the Data Controller (us) to rectify Personal Data related to you that may be inaccurate, without undue delay. |
-| Right to erasure | You have the right to require the Data Controller (us) to erase your Personal Data and we are obliged to erase them as requested without undue delay, when one of the following conditions applies:<br><br>�<br><br>the Personal Data are no longer necessary for the purposes for which we collected them or otherwise processed;<br><br>�<br><br>you retract your consent on which the processing of your Personal Data is based, and we have no other legal bases for the processing;<br><br>�<br><br>you object to the data processing and we have no compelling legitimate grounds for processing your Personal Data. |
-| Right to restriction of processing | You have the right to require the Data Controller (us) to restrict the processing of your Personal Data if one of the following conditions applies:<br><br>�<br><br>you contest the accuracy of your Personal Data, and wish to restrict the processing of your data during the period required of us to verify the accuracy of your Personal Data;<br><br>�<br><br>the data processing is unlawful and you oppose the erasure of your Personal Data and request the restriction of their use instead;<br><br>�<br><br>we no longer need your Personal Data for the purposes of the processing, but you require them for the establishment, exercise, or defense of legal claims;<br><br>�<br><br>you have objected to the processing of your Personal Data, and wish to restrict their processing pending the verification of whether our compelling legitimate grounds for processing override your grounds for objecting to it. |
-| Right to data portability | You have the right to require us to provide to you the Personal Data that concerns you and that you have provided to us, in a structured, commonly used and machine-readable format. You also have the right to require us to transmit those data to another controller. |
-| Right to object | You have the right to object to our processing of your Personal Data at any time if:<br><br>�<br><br>the processing is based on our legitimate interest, or<br><br>�<br><br>your Personal Data are processed for direct marketing purposes. |
+| Right to access | You have the right to require:<br><br>*   the confirmation on whether we process your personal data or not;<br>*   a copy of such personal data; and<br>*   information on the use of your personal data in a clear, transparent and understandable way (as provided in this Privacy Notice). |
+| Right to rectification | You have the right to require the rectification of your personal data that may be obsolete, inaccurate or incomplete. |
+| Right to erasure | You have the right to require the erasure of your personal data, when one of the following conditions applies:<br><br>*   Your personal data is no longer necessary for the purposes for which we collected it or otherwise processed;<br>*   you retract your consent on which the processing of your personal data is based, and we have no other legal basis for the processing;<br>*   you object to the personal data processing and we have no compelling legitimate grounds for processing your personal data;<br>*   the use that is made of your personal data does not comply with the applicable legal or regulatory provisions. |
+| Right to restriction of processing | You have the right to require the restriction of the personal data processing during a limited period of time, in particular in order to carry out some verifications, if one of the following conditions applies:<br><br>*   you contest the accuracy of your personal data, and wish to restrict the processing of your personal data during the period required of us to verify the accuracy of your personal data;<br>*   the personal data processing is unlawful and you oppose the erasure of your personal data and request the restriction of their use instead;<br>*   we no longer need your personal data for the purposes of the processing, but you require them for the establishment, exercise, or defense of legal claims;<br>*   you have objected to the processing of your personal data, and wish to restrict their processing pending the verification of whether our compelling legitimate grounds for processing override your grounds for objecting to it. |
+| Right to data portability | You have the right to require us to provide you with your personal data that you have provided to us, in a structured, commonly used and machine-readable format. You also have the right to require us to transmit this data to another data controller. This right is not exercised in all circumstances, it applies only if it fulfils all the following conditions:<br><br>*   your request is only related to your personal data (excluding anonymous or third-party data);<br>*   your request does not adversely affect the rights or freedoms of others, in particular those of Nissan (including trade secrets);<br>*   the processing is carried out by automated means (paper files are therefore not included);<br>*   the processing is based on consent or the performance of a contract (to check if it is the case, you can see the section 3 of this Privacy Notice). |
+| Right to object | You have the right to object to our processing of your personal data at any time if:<br><br>*   the processing is based on our legitimate interest; or<br>*   your personal data are processed for direct marketing purposes.<br><br>Nissan will no longer process your personal data unless Nissan demonstrates compelling legitimate grounds for the processing which override your interests, rights and freedoms, such as the respect of a legal obligation (e.g. legal obligation involving the retention of personal data), or for the establishment, exercise or defense of legal claims. |
+| Right to withdraw your consent | You have the right to withdraw your consent when it has been obtained, without this withdrawal affecting the lawfulness of the personal data processing operations previously carried out. |
 
-For the processing activities regarding your Personal Data for which consent is legally required, you may withdraw your consent at any moment should you wish to do so. However, this withdrawal will in no way affect the lawfulness of the processing that was based on consent before the withdrawal, or subsequent processing of the same Personal Data based on other legal bases such as the performance of a contract or a legal obligation to which we are subject.  
-  
-We will treat your requests with particular care in order to assure the effectiveness of your rights. If necessary, we may also ask that you provide us with additional information in order to confirm you identity before responding to your request.  
-  
+You have control regarding our use of personal data for directing marketing. If you no longer wish to receive any marketing communications, remain on a mailing list to which you previously subscribed, or receive any other marketing communication, you can choose to not receive such communications at any time. Please follow the unsubscribe link in the relevant communication or contact us.
+
+Depending on your country of residence, you may have additional local rights with respect to our processing of personal data. Please note that some of the personal data that we collect, use and share may be exempt from the rights outlined above.
+
+We will treat your requests with particular care in order to assure the effectiveness of your rights. If necessary, we may also ask that you provide us with additional information in order to confirm your identity before responding to your request. This is another appropriate security measure to ensure that personal data is not disclosed to an individual who does not have the right to receive it.  
 Please note that under certain circumstances, such as the existence of legal obligations, we may not be able to respond to your request immediately. We will notify you of the measures taken in relation to your request within a month, unless there are exceptional circumstances justifying an extension that shall not exceed two additional months. In such a case, we will inform you of the extension and the justifications for the extension within a month from the receipt of your request.  
-  
-You also have the right to lodge a complaint with the relevant authority. If you are a resident of the European Union, the full list of Data Protection Authorities of member states of the European Union can be found at the following link: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+You also have the right to lodge a complaint with the relevant authority. If you are a resident of the European Union/European Economic Aera, the full list of Data Protection Authorities of Member States can be found at the following link:  
+[https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)  
+This right may be exercised at any time and free of charge, at the exclusion of potential postal fees or expenses related to legal representation or assistance should you choose to engage third-party assistance for the procedure.
 
-Please do not hesitate to contact us at our Data Protection Contact Point should you wish to make any requests in relation to your rights, or obtain more information on how we process your Personal Data.
+If you have any questions or wish to exercise your rights, you can directly contact our Data Protection Contact Point:
 
-### 10\. Changes to This Privacy Notice
+Nissan Data Protection Contact Point
 
-We may amend this Privacy Notice from time to time in order to reflect any changes in law or our data processing activities, publication of new guidelines by the relevant authorities or technological developments.  
-  
-We recommend that you review this Privacy Notice each time you visit our Site so that you can stay informed on our collection, use and sharing of your Personal Data.
+*   Email : [NML\_Globaldataprivacyoffice@mail.nissan.co.jp](mailto:NML_Globaldataprivacyoffice@mail.nissan.co.jp)
+*   Tel : [+81(0)50-3804-6194](tel:+81-50-3804-6194)
+
+9\. Changes to This Privacy Notice
+----------------------------------
+
+We may amend this Privacy Notice from time to time in order to reflect any changes in law or our personal data processing activities, publication of new guidelines by the relevant authorities or technological developments.  
+We recommend that you review this Privacy Notice each time you visit our Site so that you can stay informed on our collection, use and sharing of your personal data. We will post the updated version of this Privacy Notice on our Site and ask for your consent to the changes if legally required.
