@@ -11,7 +11,7 @@ How is Instagram funded?
 
 What is the Instagram Privacy Policy?
 
-What are Instagram's terms of use?
+What are Instagram's Terms of Use?
 
 I have a different question
 
