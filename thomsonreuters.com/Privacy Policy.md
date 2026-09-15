@@ -155,6 +155,7 @@ Learn how Oracle users consolidate compliance into one platform that reduces com
 *   [Practical Law Deliver confident legal work with AI powered by more than 650 attorney-editors’ guides, templates, and checklists.](https://legal.thomsonreuters.com/en/products/practical-law)
 *   [HighQ Accelerate legal delivery through secure collaboration, automated workflows, and AI-powered client engagement.](https://legal.thomsonreuters.com/en/products/highq)
 *   [Legal Tracker Maximize legal efficiency while reducing annual spend through AI-powered matter management.](https://legal.thomsonreuters.com/en/products/legal-tracker)
+*   [Noetica This AI-powered market intelligence tool helps transactional attorneys instantly answer "what's market?" with verifiable deal-term data.](https://legal.thomsonreuters.com/en/products/noetica)
 
 [View all](https://legal.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=Legal)
 
