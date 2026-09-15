@@ -1,86 +1,82 @@
-This website is designed for visitor's use in a convenient and comfortable manner. We suggest visitors to read the following information in browsing/using this website. Please note we may change the contents of our homepage without notice.
+Terms of use
+============
 
-### Regarding web standard activities
+This website has been designed to provide a pleasant user experience. In order to ensure a pleasant experience, please read the following terms and conditions carefully before using this website. Please note the contents are subject to change without prior notice.
 
-Our website is developed under the web standard rules stated by international organizations, such as The World Wide Web Consortium (W3C). The content structures and layout design is developed alongside following web standards.
+Use of images
+-------------
 
-*   XHTML 1.0 (Second Edition)
-*   CSS Level 2 Revision 1
+Copyrights and portrait rights for the content on our website and in our catalogs exclusively belong to Nissan Motor Co., Ltd. Nissan uses the images of celebrities, models, and backgrounds only for the limited purpose and scope of use as agreed in the respective contracts. Therefore, in accordance with relevant laws and regulations, we do not permit other parties to use these images.​
 
-Our website is designed and programmed with these technologies, so as all visitors can view our information and functions on the website.
+Links to Nissan Motor Corporation Global Website
+------------------------------------------------
 
-### Regarding web browsers
+Our webpage URLs are subject to change or deletion without notice. Therefore, links should direct visitors to the landing page of our website. Please note that Nissan does not wish URLs from its site to be used on commercial websites or websites that are offensive.​
 
-In order to browse/use this website properly, we recommend using Microsoft Internet Explorer 6 or higher with Windows XP, or Safari 2.0.4 or higher with Mac OS X. Using any browsers prior to those stated above may cause CSS malfunction resulting design/layout disorder. However all contents are accessible.
+Links from Nissan Motor Corporation Global Website
+--------------------------------------------------
 
-### Regarding font size
+We do not accept the embedding of links that redirect visitors to other websites, apart from our affiliate companies and organizations. We appreciate your understanding.
 
-This website features function that allows visitors to change font size.  
-JavaScript must be enabled to use this function.
+Web standards compliance
+------------------------
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_font-change.gif)  
-Screenshot of the button that allows changing the size
+This website has been built in compliance with web standards. Web standards are a set of technologies used as standards for websites, set forth by the W3C (World Wide Web Consortium) and other international organizations. In particular, the following web standards have been applied for the document structure of each web page and its visual representation.
 
-You can change the font size by clicking the button.
+*   HTML5
+*   CSS 3
 
-Font size can be changed otherwise through any of the major browsers that have the same function, such as Internet Explorer or Safari. For more information, please look at the "help" on each browser.
+By designing and implementing our website in accordance with these technologies, the information and functionality published on our website is made available for a wider audience.
 
-### Regarding Cascading Style Sheets
+Recommended browser environment
+-------------------------------
 
-We use Cascading Style Sheets (CSS) for the visual design. If visitors turn off CSS or if the browser won't accept CSS, this website will not be shown properly.
+*   Users using Windows OS Windows 10 or higher\*
+    *   Internet Explorer 11
+    *   Latest version of Microsoft Edge
+    *   Latest version of Mozilla Firefox
+    *   Latest version of Google Chrome
+*   Users using Mac OS
+    *   Latest version of Safari
+*   Users using iOS 15 or higher\*
+    *   Latest version of Safari
+*   Users using Android OS Android 11 or higher\*
+    *   Latest version of Google Chrome
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_screen_01.gif)  
-Example: Screen with enabled CSS
+*   \*Browsing speed when viewing content may depend on the specifications of your computer. Please note that you may not be able to view content smoothly if your computer does not meet predefined CPU or memory requirements. If you use a browser other than those listed above, you may not be able to view the web pages with the intended design.
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_screen_02.gif)  
-Example: Screen without enabled CSS
+JavaScript
+----------
 
-Even if your browser won't accept CSS, you still can get all information. And also you can use text-only browsers and voice-reading-out browsers.
+This website has been built using JavaScript. If JavaScript is disabled in your browser, the website may not function or display properly, so make sure to enable JavaScript. The security level for the Internet Explorer should be set to "Medium.” Please refer to the "Help" section of each browser for details on how to set the security level.
 
-### Regarding printing contents on this website
+Use of cookies
+--------------
 
-This website provides printing program with CSS.  
-The printing program allows users to print only contents and excludes navigation and etc to be printed.  
-Therefore the layout of printed paper may differ from the page that appears on screen.
+Some pages on this website use a technology called "cookies" to improve the user experience. Please note that some functionality cannot be used if cookies are disabled in your browser settings
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_print_01.gif)  
-Example: Printed result on the paper with enabled CSS
+[Cookie policy](https://www.nissan-global.com/EN/COOKIES/)
 
-Printing result can be confirmed through "print preview" on each page.
+Font size
+---------
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_print_02.gif)  
-Screenshot of the button that shows you printed result
+We recommend using the standard font size of your browser.
 
-By clicking the button, the printed result will show up on screen.
+About trademarks
+----------------
 
-![](/EN/SITE_INFO/ABOUT/IMAGES/idx_fig_print_03.gif)  
-Example: Printed result on the screen with enabled CSS
+*   Internet Explorer is a registered trademark of Microsoft Corporation in the United States and other countries.
+*   Firefox is a trademark or registered trademark of Mozilla Foundation in the United States and other countries.
+*   Safari is a trademark of Apple Computer, Inc.
+*   iPhone and iPod touch are registered trademarks of Apple Inc. in the United States and other countries.
+*   iPhone trademark is used under license from Aiphone Co., Ltd.
+*   IOS trademark is used based on the license of Cisco in the United States.
+*   Android is a registered trademark of Google Inc. in the United States and other countries.
+*   JavaScript is a trademark or registered trademark of Oracle Corporation and its subsidiaries and affiliates in the United States and other countries.
 
-By clicking "print", print dialog will show and proceed to printing.  
-By clicking "cancel", the previous page prior to "print preview" will show up.
+Plug-ins
+--------
 
-### Regarding JavaScript
+This website contains contents using PDF files. Use of plug-in software is recommended for viewing the contents.
 
-Our website uses JavaScript.  
-In case you have disabled the browser functions, the functions and displays may not operate properly.  
-Please enable JavaScript to view our website.  
-Please set the security level of Internet Explore at "Medium."  
-Please check the "Help" menu of your browser to learn how to set security levels.
-
-### Regarding usage of images
-
-All copyrights and rights of portraits shown on this websites and catalogues belong to Nissan Motor Company, production companies and advertising agencies. Also, regarding images of talent/celebrities, models and backgrounds, Nissan Motor Company is using them within their limited usage and scope based on our contracts.  
-Therefore, this website principally decline use of these contents for private matters by visitors. The same will apply to any contents posted on the catalogues.
-
-### Regarding links to Nissan Motor Company's GLOBAL Website
-
-When providing links to this website, please paste link to top page because URL on other pages is subject to change or deletion without notice.  
-Nissan Motor Company decline any links from websites that are for the purpose of profit-making business or are offensive to public order and morals.
-
-### On links from Nissan Motor Company's GLOBAL Website
-
-Nissan Motor Company principally declines links other than links to Nissan's affiliated companies and organizations.
-
-*   \* Internet Explorer is a registered trademark of Microsoft Corporation of the U.S., in the U.S. and other countries.
-*   \* Netscape NavigatorTM is a trademark of Netscape Communications Corporation of the U.S., in the U.S. and other countries.
-*   \* JavaScriptTM is a trademark of Sun Microsystems, Inc. of the U.S., in the U.S. and other countries.
+[Adobe® Reader™](https://get.adobe.com/reader/)
