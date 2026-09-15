@@ -113,10 +113,10 @@ We may use the information we collect about you for various business purposes, i
 
 **(f) With Your Consent –** We may process certain information in order to fulfill any other business or commercial purposes at your direction or with your consent.
 
-5\. Communication de vos renseignements à des tiers
----------------------------------------------------
+5\. How We Disclose Your Information
+------------------------------------
 
-Nous pourrions communiquer aux tiers décrits ci-dessous des renseignements à votre sujet aux fins précisées dans le présent Avis et conformément aux lois applicables.
+We may disclose your information to the categories of third parties below as needed to fulfill the purposes described in this Notice and as permitted by applicable law.
 
 **(a) To Starbucks Affiliates and Subsidiaries –** We may share information between and among Starbucks Corporation, its subsidiaries, and affiliates for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliates to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
 
