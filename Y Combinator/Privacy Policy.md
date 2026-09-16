@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-Last Updated February 2024
+Last Updated September 2026
 
 Welcome to the website (including all websites to which this Privacy Policy is posted, the “**Site**”) operated by Y Combinator Management, LLC and its Affiliates (collectively “**Y Combinator**,” “**we**,” “**us**,” or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, a platform for applying to work at Y Combinator startups, a free online course on how to start a company, our blog, and profiles of founders and companies that have participated in the Y Combinator program (collectively, the “**Services**”).
 
@@ -43,7 +43,7 @@ _Cookies_: We use cookies to operate and administer our Site, gather usage data 
 
 _Session Replay:_ We use PostHog for session replay on SUS to help us analyze how users use the Site and to improve user experience.
 
-_Analytics:_ Among other service providers, we use Google Analytics, a web analytics service provided by Google, Inc. (“**Google**”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Site. For more information on how Google uses this data, go to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We also use New Relic, Amplitude, and PostHog.
+_Analytics:_ Among other service providers, we use Google Analytics, a web analytics service provided by Google, Inc. (“**Google**”). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Site. For more information on how Google uses this data, go to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We also use New Relic, Amplitude, and PostHog. Google Workspace APIs are not used to develop, improve, or train non-personalized AI and/or ML models.
 
 _Online Tracking and Do Not Track Signals:_ We and our third party service providers may use cookies or other tracking technologies to collect information about your browsing activities over time and across different websites following your use of the Site. Our Site currently does not respond to “Do Not Track” (“**DNT**”) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so.
 
