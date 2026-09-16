@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=e85abcb)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=e30ca95)
 
 Terms and conditions
 ====================
@@ -52,6 +52,8 @@ A ticket is not valid if the journey for the multi-ticket has not been reserved 
 In VR’s long-distance traffic, the ticket shall be purchased from onboard personnel on the train at the latest. In VR’s commuter traffic, the ticket shall be purchased before boarding the train. 
 
 Even if the passenger has a ticket, he or she may be removed from the train if he or she endangers the safety of the service or other passengers or disturbs other passengers.
+
+VR has the right to refuse an intoxicated person as a passenger who, based on their violent, threatening or noisy behaviour, is likely to disturb other passengers.
 
 ### 1.1 Ticket in VR’s long-distance traffic
 
