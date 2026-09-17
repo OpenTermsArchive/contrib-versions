@@ -80,7 +80,7 @@ Fair use allows the use of copyrighted material in teaching, provided it meets t
 Privacy and Cookies
 -------------------
 
-By using the Website and the Services, any users thereby consent to W3Schools collecting, using, and processing the user's personal data as outlined in the [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
+W3Schools collects, uses, and processes personal data as described in the [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp), which explains the legal basis we rely on for each purpose. Where we rely on your consent, such as for analytics and personalized advertising, we ask for it separately through our consent tool rather than treating your use of the Website as agreement. You can change or withdraw that consent at any time, and using the Website does not oblige you to give it.
 
 Users have certain rights regarding their data. For more information on these rights and how to exercise them, please see our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
 
@@ -280,7 +280,7 @@ Contact Information
 
 If you have any questions or concerns about these Terms, please contact us at [help@w3schools.com](mailto:help@w3schools.com)
 
-Last updated: 2026.08.07
+Last updated: 2026.09.16
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
