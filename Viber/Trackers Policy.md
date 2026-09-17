@@ -1,7 +1,7 @@
 Viber Ads, Cookies & Tracking Technologies Policy
 =================================================
 
-_Last Updated: March 23, 2026_
+_Last Updated: September 16, 2026_
 
 Viber Media S.à r.l., its subsidiaries and affiliated companies (collectively, “**Viber**”, “**we**”, “**our**”, or “**us**”) maintain our websites available at: [**www.viber.com**](http://www.viber.com/) and [**www.forbusiness.viber.com**](http://www.forbusiness.viber.com/), and our mobile applications, services and tools (collectively, the “**Services**”, and as further detailed under **[Viber’s Terms of Service](https://www.viber.com/en/terms/viber-terms-use/)**).
 
@@ -74,6 +74,7 @@ The following tables set out details of the third-party Cookies we use as part o
 | Amazon Publisher Services (Amazon Apstag – desktop) | Advertising | For Privacy Information, go to:<br><br>[https://aps.amazon.com/aps/privacy-policy/](https://aps.amazon.com/aps/privacy-policy/)<br><br>For additional information, go to:<br><br>[https://www.amazon.com/adprefs](https://www.amazon.com/adprefs) |
 | Snap Inc. | Viber Lenses feature | Viber Lenses are an augmented reality tool powered by Snap technology.<br><br>For Privacy Information, go to:<br><br>[https://values.snap.com/privacy/privacy-policy?lang=en-US](https://values.snap.com/privacy/privacy-policy?lang=en-US) |
 | The Trade Desk | Advertising | For privacy information, go to: [https://www.thetradedesk.com/us/privacy](https://www.thetradedesk.com/us/privacy)<br><br>To opt-out of UID2, visit: [https://www.transparentadvertising.com/](https://www.transparentadvertising.com/) |
+| Liftoff (Monetize/ Vungle) | Advertising delivery, targeting, measurement, attribution, optimization, and fraud prevention | For privacy information, go to:  <br>[https://liftoff.ai/privacy-policy/](https://liftoff.ai/privacy-policy/)   <br>To opt out, visit:  <br>[https://liftoff.ai/opt-out/](https://liftoff.ai/opt-out/) |
 
 **Cookies we use on our main website (**[**www.viber.com**](http://www.viber.com/)**):**  
 
@@ -238,6 +239,6 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy March 2026 [**Viber Cookies Policy March 2026**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2026.pdf)
+Current **[Viber Cookies Policy September 2026](https://www.viber.com/app/uploads/Eng-Ads-Cookies-Policy-September-2026.docx.pdf)**
 
-Previous Cookies policy February 2026 [**Viber Cookies Policy February 2026**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-February-2026.pdf)
+Previous **[Viber Cookies Policy March 2026](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2026.pdf)**
