@@ -78,7 +78,11 @@ We use your information to operate, improve, and maintain the Website and or the
 
 ### For Free Users Only:
 
-We use your personal information to provide you with targeted advertisements or marketing communications that we believe may interest you. These ads are managed by partners who specialize in advertising across multiple websites. They collect anonymous data about the websites you visit to personalize ads for you, ensure you don't see the same ads too frequently, and report to advertisers on which ads are effective. For more information about targeted advertising, visit the Network Advertising Initiative's ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work)
+We use your personal information to provide you with targeted advertisements or marketing communications that we believe may interest you. These ads are managed by partners who specialize in advertising across multiple websites. If you consent to personalized advertising, these partners create and read persistent identifiers stored on your device. Most of these identifiers are not built from anything you told us: they identify your browser rather than you by name. They are not anonymous, though, because they are designed to recognize the same device over time and across other websites, so that ads can be personalized for you, so that you do not see the same ads too often, and so that advertisers can be told which ads were effective.
+
+If you are signed in to a W3Schools account and have consented to personalized advertising, one of our partners also uses an identifier derived from your email address. Your email address is converted into a coded value inside your browser before anything is shared, so the partner does not receive the address itself. That coded value is still personal data: it is stable, and it can be used to recognize the same person across different websites and devices, rather than only within one browser. We do not do this for accounts that do not receive advertising, including paid plans and classroom accounts created through W3Schools Academy.
+
+You can withdraw your consent at any time using the Manage Consent control below, and doing so stops these identifiers from being created or read. For more information about targeted advertising, visit the Network Advertising Initiative's ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work)
 
 * * *
 
@@ -109,11 +113,19 @@ We share your information to provide the Website and or the Services, comply wit
 
 ### For Free Users Only:
 
-We share your information with partners who specialize in advertising across multiple websites. This sharing allows us to personalize your experience and provide you with targeted advertisements. We use sub-processors for this purpose; you can review their Privacy Policy here:
+We share your information with partners who specialize in advertising across multiple websites. This sharing allows us to personalize your experience and provide you with targeted advertisements. These partners do not all have the same role, and the difference affects how you exercise your rights.
+
+**Companies that act on our instructions.** Some partners handle data only as we direct them to, under contracts that limit them to that purpose. They are sub-processors, in the same sense as the companies listed in the appendix to this policy:
+
+*   Actirise: [Privacy Policy](https://corporate.sparteo.com/privacy-policy) – sells and serves advertising space on our behalf
+*   Viously: [Privacy Policy](https://corporate.sparteo.com/privacy-policy) – delivers video advertising on our behalf
+*   LiveRamp: [Privacy Policy](https://liveramp.com/privacy) – creates the identifier derived from your email address described above. For users in Norway, the rest of the EEA, the United Kingdom and Switzerland, LiveRamp acts as our data processor. Your email address is deleted as soon as the identifier has been created, the identifier itself expires after 30 days, and this processing takes place within the EU and the UK. It applies only if you are signed in, have consented to personalized advertising, and are on an account that receives advertising.
+
+**Companies that decide for themselves.** The identifier and the advertising request are then passed on to a wider advertising market, including supply-side and demand-side platforms and identity providers such as ID5 and Criteo. These companies are not acting on our instructions. They decide independently how the data they receive is used, which makes them separate controllers of it. You have rights in relation to that data against them directly, as well as against us, and each of them publishes its own privacy policy. Google takes part in more than one role depending on the service involved, and describes its practices in its own policy:
 
 *   Google: [Privacy Policy](https://policies.google.com/privacy?hl=en-US)
-*   Actirise: [Privacy Policy](https://corporate.sparteo.com/privacy-policy)
-*   Viously: [Privacy Policy](https://corporate.sparteo.com/privacy-policy)
+
+The complete and current list of advertising companies, together with controls to allow or refuse each of them individually, is available in our consent tool below.
 
 Opting Out of Targeted Advertising:
 
@@ -191,6 +203,8 @@ Minimum Age For Use Of Our Site
 -------------------------------
 
 Our Service is generally not intended for users under the age of 16. We do not knowingly collect personal information from anyone under the age of 13 in ways not allowed by the Children's Online Privacy Protection Act (COPPA). If you are a parent or legal guardian and believe that your child has shared personal information in a way that is not allowed by law, please contact us at help@w3schools.com. We will look into it and delete the information as required by law.
+
+Accounts that do not receive advertising, including paid plans and classroom accounts created through W3Schools Academy, are excluded from advertising entirely. For these accounts we do not load our advertising partners, no advertising identifiers are created, and their activity is not used for ad personalization. We still collect basic analytics for these accounts, as described under How We Use Information.
 
 * * *
 
@@ -308,6 +322,7 @@ Appendix: Sub-Processors
 | Amazon | USA | Cloud Infrastructure for the Website and the Services |
 | Brevo | EU  | Market activities |
 | Google, Inc | USA | Site analytics (web) and customer interactions (email) |
+| LiveRamp | EU / UK | Advertising identifier derived from the email address of signed-in users who have consented to personalized advertising |
 | Paypal | USA | Payment processing |
 | Pipedrive | EU  | CRM System |
 | RevenueCat | USA | In-app subscription management (mobile apps) |
@@ -317,7 +332,7 @@ Appendix: Sub-Processors
 | Viously | EU  | Ad-Service |
 | Zendesk | EU  | Customer support |
 
-Last updated: 2026.08.07
+Last updated: 2026.09.16
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
