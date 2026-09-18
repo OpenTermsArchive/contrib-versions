@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=9c2b4a3)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=5c83f66)
 
 Terms and conditions
 ====================
@@ -6,7 +6,9 @@ Terms and conditions
 VR’s terms and conditions
 -------------------------
 
-On this page, you can find VR’s Conditions of Carriage and the car transport terms. Changes to your plans? Read more about making changes and cancelling your ticket on the Customer Service page.
+On this page, you can find VR’s Conditions of Carriage and the car transport terms.
+
+Changes to your plans? Read more about making changes and cancelling your ticket on the Customer Service page.
 
 [Customer service](https://www.vr.fi/en/customer-service)
 
