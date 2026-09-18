@@ -5,13 +5,13 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram user information requests?
+What are Instagram account records?
 
-How do I submit an Instagram request?
+How do I request Instagram user data?
 
 What is an Instagram emergency request?
 
-What is Instagram data retention?
+How do I preserve Instagram account records?
 
 I have a different question
 
