@@ -33,7 +33,7 @@ If you have any questions about these terms and conditions or the policies pleas
 *   [IKEA Family Offers Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-family-offers-terms-and-conditions-pub1a27c040/)
 *   [Offers and Events Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/offers-and-events-terms-and-conditions-pub5f9bf021/)
 *   [IKEA Live Lagom Community Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-live-lagom-community-terms-and-conditions-pub2f92d371/)
-*   [IKEA Business Network Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-for-business-terms-and-conditions-pub2e8f2360/)
+*   [IKEA for Business Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-for-business-terms-and-conditions-pub2e8f2360/)
 *   [IKEA Gift Card Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-gift-card-terms-and-conditions-pub01a1bbc0/)
 *   [Re-shop and Re-use Online Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/circular-hub-online-terms-and-conditions-pubc376f160/)
 *   [IKEA interior design service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-interior-design-service-terms-and-conditions-pub9832e411/)
