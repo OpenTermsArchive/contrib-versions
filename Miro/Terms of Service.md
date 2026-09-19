@@ -249,7 +249,7 @@ The prevailing party in any action to enforce this Agreement will be entitled to
 
 #### **20.4 Notices**
 
-Except as set out in this Agreement, any notice or consent under this Agreement must be in writing and will be deemed given: (a) upon receipt if by personal delivery, (b) upon receipt if by certified or registered U.S. mail (return receipt requested) or (c) one day after dispatch if by a commercial overnight delivery service. If to Miro, notice must be provided to RealtimeBoard Inc. dba Miro, 201 Spear Street, Suite 1100, San Francisco, CA 94105, Attention: Legal Department. All notices to Miro must include a copy emailed to legal@miro.com. If to Customer, Miro may provide notice to the address Customer provided at registration. Either party may update its address with notice to the other party. Miro may also send operational notices to Customer by email or through the Service.
+Except as set out in this Agreement, any notice or consent under this Agreement must be in writing and will be deemed given: (a) upon receipt if by personal delivery, (b) upon receipt if by certified or registered U.S. mail (return receipt requested) or (c) one day after dispatch if by a commercial overnight delivery service. As of September 17th 2026, if to Miro, notice must be provided to RealtimeBoard Inc. dba Miro, 315 Montgomery Street, Suite 900, San Francisco, CA 94104, Attention: Legal Department. All notices to Miro must include a copy emailed to legal@miro.com. If to Customer, Miro may provide notice to the address Customer provided at registration. Either party may update its address with notice to the other party. Miro may also send operational notices to Customer by email or through the Service.
 
 #### **20.5 Entire Agreement**
 
