@@ -69,7 +69,7 @@ Other languages:
 *   [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Niaj uzkondiĉoj (16% translated)")
 *   [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
 *   [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Polasaí: Téarmaí Úsáide (100% translated)")
-*   [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Dokoki: Ka'idojin anfani (3% translated)")
+*   [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Dokoki: Ka'idojin anfani (1% translated)")
 *   [Igbo](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ig "Policy:Terms of Use/ig (1% translated)")
 *   [Jawa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/jv "Policy:Terms of Use/jv (1% translated)")
 *   [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Kondisyon itilizasyon (3% translated)")
