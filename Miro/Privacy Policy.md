@@ -171,7 +171,7 @@ Miro may change this Privacy Policy from time to time. Laws, regulations, and in
 
 If you have questions about this Privacy Policy, or regarding your Personal Data, you can contact us [online](https://help.miro.com/hc/en-us/requests/new), or by mail at:
 
-RealtimeBoard, Inc. dba Miro ATTN: Privacy Team 201 Spear St Suite 1100 94105 San Francisco, USA
+RealtimeBoard, Inc. dba Miro ATTN: Privacy Team 315 Montgomery St Suite 900 94104 San Francisco, USA
 
 Our representative in the European Union:
 
