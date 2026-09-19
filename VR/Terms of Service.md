@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=5c83f66)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=5b9b104)
 
 Terms and conditions
 ====================
