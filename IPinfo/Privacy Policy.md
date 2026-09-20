@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective: 13 July 2026_
+_Effective: 17 September 2026_
 
 This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IPinfo. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
@@ -96,6 +96,17 @@ We use the precise geolocation coordinates and network quality metrics collected
 
 Here are additional details on how we use certain specific Information about you.
 
+### SMS and Mobile Communications
+
+If you opt-in to receive SMS or text message communications from IPinfo Inc., we will use your mobile phone number to send you updates, account notifications, and marketing or promotional messages (depending on your subscription preferences).
+
+*   _Consent & Program Overview_: By providing your mobile phone number and opting in, you consent to receive recurring automated marketing and informational text messages from IPinfo. Consenting to receive text messages is not a condition of purchase.
+*   _Data Sharing Exclusions_: No mobile information or opt-in consent data will be shared with or sold to third parties, affiliates, or external partners for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties except for technical service providers that directly facilitate our messaging program.
+*   _Message Frequency_: Message frequency varies depending on your interaction with our Services, up to 4 messages per month.
+*   _Opt-Out Instructions_: You may opt-out of text messaging at any time by replying STOP to any text message you receive from us. After replying STOP, you will receive one final message confirming your opt-out.
+*   _Support / Assistance_: For assistance or more information, reply HELP to any text message or contact us at [support@ipinfo.io](mailto:support@ipinfo.io).
+*   _Costs_: Message and data rates may apply depending on your mobile carrier plan.
+
 ### Personal Contact Information
 
 We use this Information to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or request feedback, for identification and authentication purposes, for service improvement, and to address issues like malicious use of the Services. We may also use Personal Contact Information for limited marketing purposes, namely, to contact you to further discuss your interest in the Services, and to send you information about us or our partners.
@@ -138,6 +149,8 @@ We may disclose Information that we collect or you provide as described in this 
 From time to time we may employ third parties to help us provide and/or improve the Services. These third parties may have limited access to databases of user Information or registered member Information for the purpose of helping us to provide and/or improve the Services, and they will be subject to contractual restrictions and organizational safeguards intended to protect your Information.
 
 Please note that if you are using the Services at the request or as part of an organization, your organization's account administrator may be able to view certain activity and content associated with use of the Services, including, but not limited to, elements of your Information.
+
+Notwithstanding anything else in this Privacy Policy, text messaging originator opt-in data, mobile consent, and personal information collected for mobile communications will not be shared with, sold to, or rented to any third parties or affiliates for marketing or promotional purposes.
 
 Non-US Users
 ------------
