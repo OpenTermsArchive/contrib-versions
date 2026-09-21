@@ -5,13 +5,13 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram account records?
+What are Instagram user information requests?
 
-How do I request Instagram user data?
+How do I submit an Instagram request?
 
 What is an Instagram emergency request?
 
-How do I preserve Instagram account records?
+What is Instagram data retention?
 
 I have a different question
 
@@ -117,3 +117,7 @@ Other ways to get help
 Chat with Meta AI support assistant
 
 Resolve issues, make changes and get support in real time
+
+Get a call from Meta AI assistant
+
+Get help from Meta AI assistant by phone
