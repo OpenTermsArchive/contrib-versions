@@ -277,8 +277,9 @@ If you live in the United States or any other country outside of the European Un
 
 **X Corp.  
 Attn: Privacy Policy Inquiry  
-865 FM 1209, Building 2   
-Bastrop, TX 78602**
+800 W Cesar Chavez St.  
+Austin, TX 78701  
+**
 
 If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Internet Unlimited Company, with an address of:
 
