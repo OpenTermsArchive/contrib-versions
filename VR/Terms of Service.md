@@ -426,7 +426,7 @@ Liabilities of the railway undertaking (VR)
 
 Responsibilities of the driver of the vehicle
 
-*   The driver of the vehicle is responsible for providing the correct weight and dimension information when placing the order. If the weight and dimension details provided by the driver differ from the actual weight and dimensions of the vehicle, VR is not obligated to carry the vehicle.  
+*   The driver of the vehicle is responsible for providing the correct weight and dimension information when placing the order. If necessary, VR can also check the official weight and dimension details of the vehicle from Traficom’s register.If the weight and dimension details provided by the driver differ from the actual weight and dimensions of the vehicle, VR is not obligated to carry the vehicle.  
     
 *   When making the reservation, the customer must report, in addition to the weight and dimensions of the car, any roof box or roof load as well as other baggage, trailer and technical accessories transported outside the car  
     
