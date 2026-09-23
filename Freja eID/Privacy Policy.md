@@ -1,4 +1,4 @@
-Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2026-03-20T14:18:35+01:00
+Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-03-20T14:18:35+01:00
 
 Privacy Policy
 ==============
