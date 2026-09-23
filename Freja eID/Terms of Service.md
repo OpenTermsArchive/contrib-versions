@@ -1,4 +1,4 @@
-Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/ "Posts by Kristofer Beetzen")2025-10-30T15:19:00+01:00
+Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2025-10-30T15:19:00+01:00
 
 Terms and Conditions
 ====================
