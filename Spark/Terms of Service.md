@@ -1,16 +1,19 @@
 Terms of Service - Spark
 ========================
 
-**Date:** April 28, 2026
+**Date:** September 22, 2026
 
 Key Changes to the Terms of Service and Privacy Policy for Spark
 ----------------------------------------------------------------
 
-At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) to ensure they remain clear and aligned with how the product works. 
+At Spark, we greatly care about our users. As Spark evolves, we update our [Terms of Service](https://sparkmailapp.com/legal/terms) to ensure they remain clear and aligned with how the product works. 
 
-In a nutshell, we detailed provisions related to the use of third-party services and clarified data sharing practices for integrations.
+In a nutshell, we:
 
-We encourage you to carefully review the [Terms of Service](https://sparkmailapp.com/legal/terms) and [Privacy Policy](https://sparkmailapp.com/legal/privacy-app) in full. The changes take effect as of the date above.
+*   Clarified that the Spark Account is automatically created upon Stripe-facilitated purchase, and
+*   Added provisions on how to manage a subscription purchased through Stripe.
+
+We encourage you to carefully review the [Terms of Service](https://sparkmailapp.com/legal/terms) in full. The changes take effect as of the date above.
 
 These Terms of Service (“**Terms**”) govern your access to and use of the “Spark” mobile and desktop application (the “**App**”),  including its underlying technologies, and related [website](https://sparkmailapp.com/) services (collectively, the “**Service**”) provided by Spark Mail Limited (“**Spark**,” “**we**,” “**our**,” or “**us**”).  
   
@@ -129,7 +132,7 @@ We may implement usage limits if we detect usage patterns that significantly exc
 
 ### Modification or Discontinuation of the Service
 
-We reserve the right to modify, suspend or discontinue all or any part of the Service at any time and without notice or liability, at our sole discretion. We will, however, provide prior notice if such changes are expected to materially diminish your use of the Service under a paid subscription plan. You agree that we shall not be liable to you or any third party should any of the preceding occur concerning the Service.
+We reserve the right to modify, suspend or discontinue all or any part of the Service at any time, without notice or liability, at our sole discretion. We will, however, provide prior notice if such changes are expected to materially diminish your use of the Service under a paid subscription plan. You agree that we shall not be liable to you or any third party should any of the preceding occur concerning the Service.
 
 ### Specific Access Restrictions
 
@@ -148,7 +151,7 @@ Account and Subscriptions
 
 The App is available for free download in desktop and mobile versions through our website and the third-party app stores, namely: [Mac App Store](https://apps.apple.com/app/apple-store/id1176895641), [App Store](https://apps.apple.com/us/app/spark-mail-email-by-readdle/id997102246), [Google Play](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=uk&gl=US), [Microsoft Store](https://apps.microsoft.com/detail/xpfcs9qjbkthvz?hl=en-US&gl=UA), [Huawei AppGallery](https://appgallery.huawei.com/#/app/C103789413) and [Setapp](https://setapp.com/).
 
-Spark basic email functionality is free to use. To fully utilise more powerful functionalities of the App, you may need to subscribe to any of the available paid plans. Please note that the scope of functionality and available subscription options may vary across different platforms and device types. 
+Spark's basic email functionality is free to use. To fully utilise more powerful functionalities of the App, you may need to subscribe to any of the available paid plans. Please note that the scope of functionality and available subscription options may vary across different platforms and device types. 
 
 ### Spark for Individuals and Teams
 
@@ -161,7 +164,7 @@ Spark is designed for two primary uses:
 
 ### Account
 
-To use the App, you must have a personal account (“**Account**”), which you can use across your different devices. You can provide your email address or sign in with your Google account, after which your Spark Account will be associated with the first email account you connect to Spark. 
+To use the App, you must have a personal account (“**Account**”), which you can use across your different devices. You can provide your email address or sign in with your Google account, after which your Spark Account will be associated with the first email account you connect to Spark. If you make a Stripe-facilitated purchase on our website, your Spark Account will be created automatically, using the email address provided at checkout. 
 
 If you sign in via your email or your Team’s invitation, please click the button in our email to the indicated email address to confirm it and instantly sign in.
 
@@ -171,7 +174,7 @@ To terminate your Account, you may use the relevant functionality in the App or 
 
 ### Free Use
 
-Once you connect your email account to Spark, you acquire a free-of-charge license to use the App, subject to certain limitations shown in the App. These may include, for example, restrictions on usage volume and the availability of specific features. Please note that these limitations and features available for free use may be modified by Spark at any time without prior notice. 
+Once you connect your email account to Spark, you acquire a free-of-charge license to use the App, subject to the limitations shown in the App. These may include, for example, restrictions on usage volume and the availability of specific features. Please note that these limitations and features available for free use may be modified by Spark at any time without prior notice. 
 
 ### Free Trial and Special Offers
 
@@ -179,11 +182,11 @@ You can explore additional features available under the subscription during a fr
 
 Please note that if you start your free trial via an in-app Apple App Store or Google Play mechanism, or provide your credit card details at checkout, your subscription fee will be automatically charged after the free trial expires. To avoid charges, you must manually cancel the subscription at least 24 hours before the billing date. Please refer to the [Help Center](https://sparkmailapp.com/help/billing-subscription/how-to-cancel-free-trial-in-spark) to learn more about free trial cancellation on different platforms.
 
-Within special promotional campaigns, Spark reserves the right to offer special terms to select users. The terms and conditions and duration of such offerings shall be defined in a separate promotion description and/or in the App.
+Within special promotional campaigns, Spark reserves the right to offer special terms to select users. The terms and conditions, and the duration of such offerings shall be defined in a separate promotion description and/or in the App.
 
 ### Paid Subscriptions and Add-Ons
 
-You may purchase one of the paid subscriptions to access the extended functionality of the App, subject to the then-current terms. Please refer to the [Pricing page](https://sparkmailapp.com/plans-comparison) for more details on the subscription plans currently available for new users. Users on legacy subscription plans not specified on the [Pricing Page](https://sparkmailapp.com/plans-comparison) may continue to use them as long as they are supported. 
+You may purchase a paid subscription to access the App's extended functionality, subject to the then-current terms. Please refer to the [Pricing page](https://sparkmailapp.com/plans-comparison) for more details on the subscription plans currently available for new users. Users on legacy subscription plans not specified on the [Pricing Page](https://sparkmailapp.com/plans-comparison) may continue to use them as long as they are supported. 
 
 Your subscription may include a standard monthly usage allowance for AI Features (as defined below) that resets at the beginning of each billing cycle. For extra usage, add-ons are available as one-time, non-renewable, and non-refundable purchases. Unlike your standard monthly allowance that resets, any unused portion of a purchased add-on automatically rolls over to the next month.
 
@@ -191,17 +194,17 @@ The purchase of a subscription or add-on is subject to the then-current fee (inc
 
 We reserve the right to change the subscription plans, including the scope of functionality available. We will provide you with adequate notice if the changes significantly diminish your use of the App under a paid subscription plan. Your continued use of the App after the effective date of such change will constitute your agreement to the changes.
 
-Spark reserves the right to revise the fees at any time, giving users adequate notice of changes before they become effective. Please note that if your subscription is billed through the Apple App Store or Google Play, the respective platform will notify you of any price adjustments in accordance with their own policies. Your continued use of the App after the effective date of such change will constitute your agreement to pay the updated fees. If you do not agree to pay the updated subscription fees, you can cancel your subscription, and after that, you can continue using the App’s free-of-charge functionality only.
+Spark reserves the right to revise the fees at any time, providing users with adequate notice of changes before they take effect. Please note that if your subscription is billed through the Apple App Store or Google Play, the respective platform will notify you of any price adjustments in accordance with their own policies. Your continued use of the App after the effective date of such change will constitute your agreement to pay the updated fees. If you do not agree to pay the updated subscription fees, you can cancel your subscription, and after that, you can continue using the App’s free-of-charge functionality only.
 
 ### Payment Terms
 
 |     |     |
 | --- | --- |
 | **Spark Individual** | **Billing Frequency**<br><br>Subscription fees are billed in advance on a recurring schedule, with billing periods typically established as monthly or annual. |
-| **Stripe Purchases**<br><br>We use Stripe as a third-party payment processor for certain transactions ("Stripe Purchases"). If you purchase a subscription through our website, or via checkout integrated in the desktop App version, as well as those distributed through the Microsoft Store, Huawei App Gallery, your transaction is facilitated by Stripe under the latest [Terms of Service](https://stripe.com/legal/consumer) (or equivalent) and [Privacy Policy](https://stripe.com/privacy). In no case shall Spark be responsible for any personal data processed by Stripe.<br><br>The subscription fee includes applicable VAT and/or other taxes imposed under the relevant tax laws based on your location. |
-| **Apple App Store and Google Play Purchases**<br><br>If you purchase a subscription via the Apple App Store or Google Play, your payment details are processed, and you are charged through the respective platform. <br><br>Please note that your subscription fee will be automatically charged after the end of your then-current subscription period, unless you cancel it in your device settings at least 24 hours before the billing date. |
-| **Setapp Store Subscription**<br><br>Certain Spark subscription plans may be available through your [Setapp](https://setapp.com/) subscription. If you access Spark through Setapp, please note that your payments, renewals and cancellations are processed by and subject to Setapp's own terms and policies. Your license to use Spark is valid only as long as you maintain an active subscription with Setapp. |
-| **Spark Teams** | **Billing Frequency and Prorations**<br><br>Subscription fees are billed in advance on a recurring schedule, with billing periods typically established as monthly or annual.<br><br>The subscription fee is calculated on a monthly basis per the number of active Team Members in accordance with the rates specified on the checkout screen. An active Team Member is a person who has joined your Team via invitation or automatically (based on email domain name). If the number of active Team Members changes during a month, billing adjustments will be made in accordance with [Stripe’s prorations rules](https://docs.stripe.com/billing/subscriptions/prorations). Adding a Team Member will incur a prorated charge for the remainder of the subscription term, while removing a Team Member will result in a prorated credit to your Account balance that automatically offsets future subscription fees and/ or prorations. Please note that upon the deletion of your Team, termination or cancellation of your subscription, any outstanding credits on your Account will be forfeited. The payment for the number of active Team Members that has exceeded the original number as of the initial subscription start date will be charged once per month. If you have any questions regarding prorations, please contact our support at: [support@sparkmailapp.com](mailto:support@sparkmailapp.com). <br><br>Please note that each Team Member has the capacity to invite new Team Members. This action does not require approval from the Team Owner or other Team Member with administrative rights. <br><br>The Team Owner will be notified immediately via email when a new Team Member joins. It is the Team Owner’s responsibility to remove any unapproved Team Members to prevent future charges for that seat. |
+| **Stripe Purchases**<br><br>We use Stripe as a third-party payment processor for certain transactions ("Stripe Purchases"). If you purchase a subscription through our website, or via checkout integrated in the desktop App version, or versions distributed through the Microsoft Store and Huawei App Gallery, your transaction is facilitated by Stripe under the latest [Terms of Service](https://stripe.com/legal/consumer) (or equivalent) and [Privacy Policy](https://stripe.com/privacy). In no case shall Spark be responsible for any personal data processed by Stripe.<br><br>The subscription fee includes applicable VAT and/or other taxes imposed under the relevant tax laws based on your location. |
+| **Apple App Store and Google Play Purchases**<br><br>If you purchase a subscription via the Apple App Store or Google Play, your payment details are processed, and you are charged through the respective platform. <br><br>Please note that your subscription fee will be automatically charged after your current subscription period ends, unless you cancel it in your device settings at least 24 hours before the billing date. |
+| **Setapp Store Subscription**<br><br>Certain Spark subscription plans may be available through your [Setapp](https://setapp.com/) subscription. If you access Spark through Setapp, please note that your payments, renewals and cancellations are processed by Setapp and are subject to its own terms and policies. Your license to use Spark is valid only as long as you maintain an active subscription with Setapp. |
+| **Spark Teams** | **Billing Frequency and Prorations**<br><br>Subscription fees are billed in advance on a recurring schedule, with billing periods typically established as monthly or annual.<br><br>The subscription fee is calculated monthly based on the number of active Team Members in accordance with the rates specified on the checkout screen. An active Team Member is a person who has joined your Team via invitation or automatically (based on email domain name). If the number of active Team Members changes during a month, billing adjustments will be made in accordance with [Stripe’s prorations rules](https://docs.stripe.com/billing/subscriptions/prorations). Adding a Team Member will incur a prorated charge for the remainder of the subscription term, while removing a Team Member will result in a prorated credit to your Account balance that automatically offsets future subscription fees and/ or prorations. Please note that upon deletion of your Team, termination or cancellation of your subscription, any outstanding credits on your Account will be forfeited. The payment for the number of active Team Members that has exceeded the original number as of the initial subscription start date will be charged once per month. If you have any questions regarding prorations, please contact our support at: [support@sparkmailapp.com](mailto:support@sparkmailapp.com). <br><br>Please note that each Team Member can invite new Team Members. This action does not require approval from the Team Owner or other Team Member with administrative rights. <br><br>The Team Owner will be notified immediately via email when a new Team Member joins. It is the Team Owner’s responsibility to remove any unapproved Team Members to prevent future charges for that seat. |
 | **Stripe Purchases**<br><br>All payments for Teams subscriptions are facilitated by our third-party payment provider, Stripe. Please note that Teams subscriptions can only be purchased and managed through our Website interface. This is the exclusive method for handling a Teams subscription, even if you have downloaded the App from the Apple App Store or Google Play. Please refer to our [Help Center](https://sparkmailapp.com/help/spark-for-teams/how-to-upgrade-spark-to-premium) for more details.<br><br>For Teams subscriptions, prices are listed exclusive of VAT or any other taxes. Any applicable taxes will be displayed at checkout depending on your location, and you will be responsible for paying all applicable indirect taxes as required by law. |
 
 By purchasing a subscription via any of the abovementioned means, you agree to be charged for this purchase,  future renewals of your subscription, and, as applicable, Teams subscription prorations. Your payment card will be automatically charged at the applicable renewal rate unless you cancel your subscription before the end of the then-current subscription period.
@@ -210,13 +213,13 @@ Please note that if we record a chargeback or other rejection of payment of any 
 
 ### Subscription Renewal and Cancellation
 
-Your subscription will automatically renew, and you will be charged a subscription fee for the subsequent subscription period at the then-current rates unless you cancel it at least 24 hours before the billing date.
+Your subscription will automatically renew, and you will be charged the subscription fee for the subsequent subscription period at the then-current rate unless you cancel it at least 24 hours before the billing date.
 
-You may cancel your subscription at any time; however, cancellation will take effect at the end of the then-current subscription period. This will not terminate your Account, and you will retain access to the App's free-of-charge functionalities after the end of your subscription period.
+You may cancel your subscription at any time; however, cancellation will take effect at the end of the then-current subscription period. This will not terminate your Account, and you will retain access to the App's ree functionalities after your subscription period ends.
 
 |     |     |
 | --- | --- |
-| **Spark Individual** | The individual subscription purchased through Stripe may be cancelled in your Account settings within the App. <br><br>If you purchased your subscription through the in-app purchase mechanism of the Apple App Store or Google Play, you may cancel it following the instructions of the respective platform. <br><br>Please note that deleting your Account will automatically cancel any individual subscription purchased through Stripe. However, if you subscribed through the Apple App Store or Google Play, you must cancel it manually to avoid future charges. <br><br>Please refer to the Refunds section below to understand the eligibility requirements for a refund. |
+| **Spark Individual** | The individual subscription purchased through Stripe may be cancelled in your Account settings within the App. Certain subscriptions may be canceled through the Stripe Customer Portal only. You may access it by following a link in the purchase confirmation email or via the App settings.<br><br>If you purchased your subscription through the in-app purchase mechanism of the Apple App Store or Google Play, you may cancel it following the instructions of the respective platform. <br><br>Please note that deleting your Account will automatically cancel any individual subscription purchased through Stripe. However, if you subscribed through the Apple App Store or Google Play, you must cancel it manually to avoid future charges. <br><br>Please refer to the Refunds section below for eligibility requirements. |
 | **Spark Teams** | The Team Owner can cancel the Team subscription manually through the Team settings, or by notifying us at [billing@sparkmailapp.com](mailto:billing@sparkmailapp.com) at least 5 business days prior to the end of the then-current subscription period. |
 
 ### Refunds
@@ -237,7 +240,7 @@ We will initiate a full refund of the subscription fee paid by you to Spark with
 
 Please note, however, that if you cancel your subscription after the 30-day period, you will not receive a refund of any portion of the subscription fee paid for the then-current subscription period at the time of cancellation, unless required by law.
 
-You acknowledge and agree that any commissions, fees, or charges imposed by your bank or payment system in connection with a refund, including but not limited to transfer or withdrawal fees, are outside of our control and responsibility. We will refund the agreed-upon amount, and we shall not be liable for any reduction in that amount due to such third-party charges.
+You acknowledge and agree that any commissions, fees, or charges imposed by your bank or payment system in connection with a refund, including but not limited to transfer or withdrawal fees, are outside of our control and responsibility. We will refund the agreed-upon amount and shall not be liable for any reduction in that amount due to any such third-party charges.
 
 This refund policy does not apply to Business Customers. All fees associated with business subscriptions are non-refundable.
 
@@ -258,7 +261,7 @@ Subject to your compliance with these Terms and having regard to the terms of th
 
 You are not allowed to use the Service, the Spark Content or any of its elements in any way not expressly provided for in these Terms without our prior written permission.
 
-In case you download or copy the Spark Content, no right, title, or interest in any downloaded or copied Spark Content is transferred to you as a result of any such downloading or copying. You are also advised that we are determined to enforce our intellectual property rights to the fullest extent available under the applicable laws, including through civil remedies and criminal prosecution.
+In case you download or copy the Spark Content, no right, title, or interest in any downloaded or copied Spark Content is transferred to you as a result of any such downloading or copying. You are also advised that we are determined to enforce our intellectual property rights to the fullest extent permitted by applicable law, including through civil remedies and criminal prosecution.
 
 ### User Content 
 
@@ -320,7 +323,7 @@ Third-Party Websites and Services
 
 **_In brief_**
 
-*   Some functions of the Service rely on third-party services, which we do not control; for this reason, we cannot guarantee the uninterrupted operation of all Service functionality.
+*   Some functions of the Service rely on third-party services that we do not control; therefore, we cannot guarantee uninterrupted operation of all Service functionality.
 
 Some functionality and features of the Service rely on or may be compatible with third-party websites and services, including, without limitation, email providers, artificial intelligence services, etc.
 
@@ -345,7 +348,7 @@ Spark disclaims any warranties regarding the Service, its features, and content 
 
 Please note that maintaining access to and optimal use of the Services or a particular feature may require the use of supported operating systems and devices. We do not guarantee the availability and correct operation of the Service or particular features on operating systems or hardware that are no longer officially supported by their respective manufacturers, or are otherwise deemed deprecated, legacy, or obsolete. 
 
-We are not making any promises, including about the Service’s accuracy, usefulness, reliability, data integrity and correct operation. Spark does not guarantee that the Service will be uninterrupted or secure, that any defects will be corrected, or that the Service is free of viruses or anything else harmful.
+We are not making any promises, including regarding the Service’s accuracy, usefulness, reliability, data integrity or correct operation. Spark does not guarantee that the Service will be uninterrupted or secure, that any defects will be corrected, or that the Service will be free of viruses or other harmful content.
 
 Limitation of Liability
 -----------------------
@@ -372,7 +375,7 @@ Indemnification
 
 *   If you violate these Terms, misuse the Service, or violate any law or third party’s rights, you agree to indemnify and defend Spark.
 
-You agree to defend, indemnify, and hold harmless Spark, our subsidiaries, directors, partners, employees, contractors, and agents from and against any claims, responsibility, damages, losses, and expenses, including reasonable legal and accounting expenses arising from:
+You agree to defend, indemnify, and hold harmless Spark, our subsidiaries, directors, partners, employees, contractors, and agents from and against any claims, responsibility, damages, losses, and expenses, including reasonable legal and accounting expenses, arising from:
 
 *   any breach by you of any of these Terms;
 *   your use/misuse of the Service; or
@@ -388,9 +391,9 @@ Applicable Law and Jurisdiction
 *   These Terms are governed by the laws of the Republic of Ireland. 
 *   We hope to resolve all the issues by amicable means, but if a serious dispute arises between us, it must be resolved in the national courts of the Republic of Ireland.
 
-These Terms are exclusively governed by and construed under the laws of the Republic of Ireland, without regard to any conflict of laws provisions.
+These Terms are exclusively governed by and construed in accordance with the laws of the Republic of Ireland, without regard to any conflict of laws provisions.
 
-If the user is a U.S. city, town, county, district, or state governmental entity, then the Terms will be silent regarding governing law and venue.
+If the user is a U.S. city, town, county, district, or state governmental entity, the Terms will be silent as to governing law and venue.
 
 If any material in the Service, or your use of it, is contrary to the laws of the place where you are when you access it, the Service is not intended for you, and we ask you not to use it. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.
 
@@ -420,7 +423,9 @@ Termination
 
 ### Termination by You
 
-You may cease using the App at any time. Please note that when you delete the App on your device with an active recurring subscription, it does not automatically cancel the subscription. To avoid future charges, you must manually cancel it as outlined in the [Subscription Renewal and Cancellation](#subscriptionrenewal) section above.
+You may cease using the App at any time.  
+  
+Please note that deleting the App on your device with an active recurring subscription does not automatically cancel the subscription. To avoid future charges, you must manually cancel it as outlined in the [Subscription Renewal and Cancellation](#subscriptionrenewal) section above.
 
 For information on whether you are eligible for a refund, please refer to the [Refunds](#refunds) section of these Terms.
 
@@ -432,16 +437,16 @@ If we reasonably believe that you are in a material breach of these Terms, inclu
 
 In the event of any suspension or termination due to your breach, you agree that you will not be entitled to a refund for any fees paid for any unused portion of your subscription, and we will have no further liability or obligation to you.
 
-To maintain service performance and ensure an efficient experience for our active users, we may terminate Accounts without an active paid subscription that have experienced a period of inactivity of more than 36 months and/ or remove the associated User Content. We will make reasonable efforts to notify you before any removal.
+To maintain service performance and ensure an efficient experience for our active users, we may terminate Accounts without an active paid subscription that have experienced more than 36 months of inactivity and/or remove the associated User Content. We will make reasonable efforts to notify you before any removal.
 
-Spark reserves the right to take whatever legal actions we may deem appropriate in response to actual or suspected violations of these Terms. We will cooperate with legal authorities and/or third parties to investigate any suspected or alleged crime or civil wrong.
+Spark reserves the right to take any legal action we may deem appropriate in response to actual or suspected violations of these Terms. We will cooperate with legal authorities and/or third parties to investigate any suspected or alleged crime or civil wrong.
 
 Miscellaneous
 -------------
 
 We reserve the right to transfer our rights and obligations under these Terms to a third party, but this will not affect your rights or our obligations under these Terms.
 
-We reserve the right to modify these Terms at any time at our sole discretion. If material changes affect your use of the Service, we’ll notify you before the changes’ effective date by means described in [Electronic Communications and Notices](#electroniccommunications) section above. If you continue to use the Service, you agree to the updated version of these Terms.
+We reserve the right to modify these Terms at any time at our sole discretion. If material changes affect your use of the Service, we’ll notify you before the changes’ effective date by means described in the [Electronic Communications and Notices](#electroniccommunications) section above. If you continue to use the Service, you agree to the updated version of these Terms.
 
 If any provision of these Terms is recognized unlawful, void, or unenforceable by a relevant authority, the remaining provisions will remain valid and enforceable.
 
