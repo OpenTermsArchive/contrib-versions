@@ -84,7 +84,7 @@ Other languages:
 *   [удмурт](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/udm "Конфиденциальностья политика (1% translated)")
 *   [українська](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uk "Політика:Політика конфіденційності (90% translated)")
 *   [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hy "Գաղտնիության քաղաքականություն (58% translated)")
-*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yi "פריוואטקייט פאליסי (7% translated)")
+*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yi "פּריוואַטקייט־פּאָליטיק פֿון דער וויקימעדיע־פֿונדאַציע (100% translated)")
 *   [עברית](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/he "מדיניות הפרטיות של קרן ויקימדיה (100% translated)")
 *   [اردو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ur "سرگرمی کی تدبیر (15% translated)")
 *   [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ary "سياسة ديال لخصوصية (5% translated)")
