@@ -1,5 +1,5 @@
 Privacy Notice
-==============
+--------------
 
 Last Updated: May 18, 2026
 
@@ -54,7 +54,7 @@ We use your personal information to operate, provide, and improve AWS Offerings.
 
 ### Cookies
 
-To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our  [Cookie Notice](https://aws.amazon.com/legal/cookies/).
+To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).
 
 ### How We Share Personal Information
 
@@ -111,7 +111,7 @@ We keep your personal information to enable your continued use of AWS Offerings,
 
 ### Contacts, Notices, and Revisions
 
-If you have any concerns about privacy at AWS, please  [contact us](https://console.aws.amazon.com/support/home) with a thorough description, and we will try to resolve the issue for you. 
+If you have any concerns about privacy at AWS, please [contact us](https://console.aws.amazon.com/support/home) with a thorough description, and we will try to resolve the issue for you. 
 
 For any prospective or current customers of Amazon Web Services, Inc., our mailing address is: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal  
 
