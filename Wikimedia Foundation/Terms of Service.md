@@ -138,7 +138,7 @@ Other languages:
 *   [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (92% translated)")
 *   [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (53% translated)")
 *   [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (14% translated)")
-*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
+*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "באַניץ־תּנאָים (100% translated)")
 *   [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:תנאי שימוש (100% translated)")
 *   [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
 *   [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "I Want hacker counts (3% translated)")
