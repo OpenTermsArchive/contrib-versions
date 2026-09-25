@@ -320,5 +320,5 @@ This Statement will be regularly reviewed to ensure we continue to meet our obli
 
 ### **Download Privacy Statement:**
 
-**[**You can download the full Privacy Statement here**](https://www.energia.ie/getmedia/6c6ed90c-ef87-4e8c-b84f-b3786917dccf/Energia-Privacy-Policy.pdf)**.
+**[**You can download the full Privacy Statement here**](https://www.energia.ie/getmedia/65b4c88b-b2fd-47bb-94dc-16050829eb52/Energia-Privacy-Policy.pdf)**.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
