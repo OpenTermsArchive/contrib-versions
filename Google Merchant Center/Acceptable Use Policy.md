@@ -1,10 +1,10 @@
 Google's Shopping ads and listings policies
 ===========================================
 
-Welcome to Google's Shopping ads and policy center
---------------------------------------------------
+Welcome to the Shopping ads and listings policy center
+------------------------------------------------------
 
-### Overview Shopping ads and listings policies and how we enforce them
+### Overview of Shopping ads and listings policies and how we enforce them
 
 We strive to support a healthy digital shopping ecosystem – one that’s trustworthy and transparent, and works for customers, merchants, advertisers, and publishers. The purpose of this policy center is to help you build Shopping ads and listings and local inventory ad campaigns.
 
