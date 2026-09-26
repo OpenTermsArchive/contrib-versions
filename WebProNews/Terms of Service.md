@@ -308,7 +308,7 @@ About Us
 
 WebProNews is a leading publisher of business and technology email newsletters and websites.
 
-[Contact Us](https://www.webpronews.com/contact-us/)
+[Contact Us](https://www.webpronews.com/contact/)
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)[](https://www.webpronews.com/rss)
 
