@@ -3590,7 +3590,7 @@ Supplementary Provisions
 Article 1: Introduction
 -----------------------
 
-1.  These Individual Terms of Use apply to any and all of Users’ acts when they use an “illustration creation application” (the “App”) and “Pastela” which provides storage and linkage services for illustrations, etc., created and used on the App, both of which are provided by the Company (collectively, “Pastela”).
+1.  These Individual Terms of Use apply to any and all of Users’ acts when they use an “illustration creation application” (the “App”) and “Pastela” which provides storage and linkage services for Canvas Data, Etc., created and used on the App, both of which are provided by the Company (collectively, “Pastela”).
 2.  These Individual Terms of Use prescribe the terms of use of Pastela. Users shall agree to these Individual Terms of Use and use Pastela in accordance with these Individual Terms of Use.
 3.  When a User starts to use the App, the Company deems that the User has agreed to all the terms of these Individual Terms of Use.
 4.  These Individual Terms of Use are established as individual terms of use under the pixiv service Master Terms of Use (the “Master Terms of Use”) that apply to all services provided by the Company. Any matters not prescribed herein, unless otherwise specified by these Individual Terms of Use to be excluded, shall be subject to various terms, including individual guidelines for smooth operation of Pastela and the terms of use and guidelines, etc. for services related to Pastela (collectively, “Various Terms”) as an integral part of these Individual Terms of Use, in addition to the Master Terms of Use.
@@ -3600,17 +3600,18 @@ Article 2: Definitions
 
 The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Unless otherwise provided, terms used in these Individual Terms of Use other than those defined below shall have the meanings specified in the Master Terms of Use.
 
-1.  “Pastela” collectively means an illustration creation application and storage service and Linkage Services for illustrations, etc., both of which are provided by the Company.
+1.  “Pastela” collectively means an illustration creation application and storage service and Linkage Services for Canvas Data, Etc., both of which are provided by the Company.
 2.  “App” means an application downloaded by a User to his or her terminal to use Pastela.
 3.  “Picture Drawing Function” means a function provided by Pastela to create texts, images, etc.
-4.  “Illustrations, Etc.” means images, texts and other works created by a User on the App, as well as works used by the User on the App as materials for creating such works.
-5.  “Cloud Storage” means a cloud storage managed by the Company with free storage capacity and paid storage capacity.
-6.  “Cloud Service” means a function and service to store Illustrations, Etc. created and used by a User in the Cloud Storage managed by the Company.
-7.  “Service Site” means a service site (https://pastela.app/) that is linked to the App and can be used by a User by logging in his or her Account set forth in the following article. On the service site, the User can view the guide for use of Pastela, use Linkage Services, subscribe to paid services, etc.
-8.  “Linkage Services” means various services or websites provided by the Company or entities other than the Company whereby Users can post their illustrations directly from the App.
-9.  “Pastela Account” means an account issued to identify the use of Pastela.
-10.  “pixiv Account” means an account issued by the Company that is required to use services provided by the Company.
-11.  “Account” individually or collectively means “pixiv Account” and “Pastela Account” that are required for a User to be authorized to use Pastela.
+4.  “Canvas Data, Etc.” means data in a Pastela-specific format created by a User on the App (including recorded data for outputting images, texts, time-lapse videos and other works), as well as works output from such data.
+5.  “Material File” means a brush setting file or any other file that affects the settings or drawing content of the App.
+6.  “Cloud Storage” means a cloud storage managed by the Company with free storage capacity and paid storage capacity.
+7.  “Cloud Service” means a function and service to store Canvas Data, Etc. created and used by a User in the Cloud Storage managed by the Company.
+8.  “Service Site” means a service site (https://pastela.app/) that is linked to the App and can be used by a User by logging in his or her Account set forth in the following article. On the service site, the User can view the guide for use of Pastela, use Linkage Services, subscribe to paid services, etc.
+9.  “Linkage Services” means various services or websites provided by the Company or entities other than the Company whereby Users can post works such as illustrations directly from the App.
+10.  “Pastela Account” means an account issued to identify the use of Pastela.
+11.  “pixiv Account” means an account issued by the Company that is required to use services provided by the Company.
+12.  “Account” individually or collectively means “pixiv Account” and “Pastela Account” that are required for a User to be authorized to use Pastela.
 
 Article 3: Creation of Account and Login
 ----------------------------------------
@@ -3623,26 +3624,26 @@ Article 4: Use of Pastela
 -------------------------
 
 1.  By downloading the App, a User can use the Picture Drawing Function. To use other services, a User needs to carry out Account Linkage as set forth in the preceding article.
-2.  Illustrations, Etc. created and used by using the Picture Drawing Function will be automatically stored in the User’s terminal.
-3.  The User can do the following by carrying out Account Linkage:
-    *   Store Illustrations, Etc. created and used on the App in the Cloud Storage using the Cloud Service
-    *   View or delete Illustrations, Etc. posted on the Service Site and link with Linkage Services
-4.  The User can post on a Linkage Service Illustrations, Etc. stored in the App or the Cloud Storage.
+2.  Canvas Data, Etc. created and used by using the Picture Drawing Function will be automatically stored in the User’s terminal.
+3.  The User can, within the scope permitted by the Company, do the following by carrying out Account Linkage:
+    *   Store Canvas Data, Etc. created and used on the App in the Cloud Storage using the Cloud Service
+    *   View or delete Canvas Data, Etc. posted on the Service Site and link with Linkage Services
+4.  The User can, within the scope permitted by the Company, post on a Linkage Service Canvas Data, Etc. stored in the App or the Cloud Storage.
 
 Article 5: Cloud Service
 ------------------------
 
-1.  If a User carries out Account Linkage on the App, Illustrations, Etc. created and used by the User on the App will be automatically synchronized to the Cloud Storage (“Cloud Synchronization”) and thereby the User can view such Illustrations, Etc. on the Service Site.
-2.  The Cloud Synchronization set forth in the preceding paragraph will be stopped when a User uses up the storage capacity that is available to him or her. Illustrations, Etc. are also stored in the User’s terminal even if the Illustrations, Etc. are not subject to the Cloud Synchronization. If the User creates space in the capacity of the Cloud Storage by organizing data such as Illustrations, Etc., Illustrations, Etc. created and used thereafter will begin to be automatically synchronized.
-3.  Notwithstanding the preceding two paragraphs, the Company shall have no obligation to store Illustrations, Etc. that are subject to the Cloud Synchronization provided by the Company, but the User shall be solely responsible for the storage of such Illustrations, Etc.
-4.  The Company will store Illustrations, Etc. up to the capacity available to the User based on the plan to which the User has subscribed. If Illustrations, Etc. are stored in the Cloud Storage over the capacity that the User is allowed to use due to a change in the plan, the Company may delete the Illustrations, Etc. until the storage capacity reaches within the prescribed capacity in chronological order of final access.
-5.  In deleting Illustrations, Etc. pursuant to the preceding paragraph, the Company shall have no liability to the User unless the Company has committed willful misconduct or gross negligence.
-6.  The Company reserves the right to judge the appropriateness and compliance with laws and regulations or these terms, of the Illustrations, Etc. synchronized by the User to the Cloud Storage and may transfer, refuse, modify and/or delete such Illustrations, Etc. at its own discretion at any time without notice if the Company recognizes that such Illustrations, Etc. breach laws and regulations or these terms and that they are inappropriate. This does not, however, necessarily mean that the Company monitors the User’s Illustrations, Etc.
+1.  If a User carries out Account Linkage on the App, Canvas Data, Etc. created and used by the User on the App will be automatically synchronized to the Cloud Storage (“Cloud Synchronization”) and thereby the User can view such Canvas Data, Etc. on the Service Site.
+2.  The Cloud Synchronization set forth in the preceding paragraph will be stopped when a User uses up the storage capacity that is available to him or her. Canvas Data, Etc. are also stored in the User’s terminal even if the Canvas Data, Etc. are not subject to the Cloud Synchronization. If the User creates space in the capacity of the Cloud Storage by organizing Canvas Data, Etc., Canvas Data, Etc. created and used thereafter will begin to be automatically synchronized.
+3.  Notwithstanding the preceding two paragraphs, the Company shall have no obligation to store Canvas Data, Etc. that are subject to the Cloud Synchronization provided by the Company, but the User shall be solely responsible for the storage of such Canvas Data, Etc.
+4.  The Company will store Canvas Data, Etc. up to the capacity available to the User based on the plan to which the User has subscribed. If Canvas Data, Etc. are stored in the Cloud Storage over the capacity that the User is allowed to use due to a change in the plan, the Company may delete the Canvas Data, Etc. until the storage capacity reaches within the prescribed capacity in chronological order of final access.
+5.  In deleting Canvas Data, Etc. pursuant to the preceding paragraph, the Company shall have no liability to the User unless the Company has committed willful misconduct or gross negligence.
+6.  The Company reserves the right to judge the appropriateness and compliance with laws and regulations or these terms, of the Canvas Data, Etc. synchronized by the User to the Cloud Storage and may transfer, refuse, modify and/or delete such Canvas Data, Etc. at its own discretion at any time without notice if the Company recognizes that such Canvas Data, Etc. breach laws and regulations or these terms and that they are inappropriate. This does not, however, necessarily mean that the Company monitors the User’s Canvas Data, Etc.
 
 Article 6: Linkage Services
 ---------------------------
 
-1.  Users may post Illustrations, Etc. created and used using the App on Linkage Services.
+1.  Users may, within the scope permitted by the Company, post Canvas Data, Etc. created and used using the App on Linkage Services.
 2.  Users shall use Linkage Services in compliance with the terms of such Linkage Services. The Company shall have no liability for any trouble arising in the Linkage Services.
 3.  Link with the Linkage Services may be temporarily suspended or interrupted due to reasons such as trouble in the Company’s system or a Linkage Service or a failure of a User’s terminal. The Company shall have no liability for such suspension or interruption unless it is caused by the Company’s willful misconduct or gross negligence.
 
@@ -3675,19 +3676,24 @@ Article 8: Termination of Paid Service
 Article 9: Termination of Use of Pastela
 ----------------------------------------
 
-1.  If a User deletes his or her Pastela Account or the Company deactivates a User’s account, or a User does not access the Cloud Storage for one year or more continuously, the Company may deem that the User has terminated the use of Pastela and delete Illustrations, Etc. stored in the Cloud Storage.
+1.  If a User deletes his or her Pastela Account or the Company deactivates a User’s account, or a User does not access the Cloud Storage for one year or more continuously, the Company may deem that the User has terminated the use of Pastela and delete Canvas Data, Etc. stored in the Cloud Storage.
 2.  The Company shall have no liability for deletion set forth in the preceding paragraph unless the Company has committed willful misconduct or gross negligence.
 
 Article 10: User’s Responsibility
 ---------------------------------
 
-1.  Users have responsibility for backup of Illustrations, Etc. created and used using the App and image materials stored in the Cloud Storage. The Company will exert the best efforts to store each User’s Illustrations, Etc. and image materials on the Cloud Service, but has no responsibility to store backups of such Illustrations, Etc.
+1.  Users have responsibility for backup of Canvas Data, Etc. created and used using the App. The Company will exert the best efforts to store each User’s Canvas Data, Etc. on the Cloud Service, but has no responsibility to store backups of such Canvas Data, Etc.
 2.  Users shall always use the latest version of the App. The Company shall have no liability for any damage incurred by a User due to his or her failure to use the latest version of the App.
+3.  The Company does not guarantee that Material Files will permanently function on the App. Users shall create Material Files with the understanding that Material Files may cease to function.
+4.  The Company does not guarantee that Material Files obtained by a User from a third party will function on the App. The User shall use such Material Files in accordance with the instructions of such third party and at his or her own responsibility.
+5.  Users may sell or otherwise transfer Material Files they have created to a third party unless doing so violates the Master Terms of Use or these Individual Terms of Use. However, in such transfer, Users may not restrict how the Material Files are used by the transferee, such as by prohibiting their use for commercial purposes.
+6.  The Company shall not be involved in any dispute between a User and a third party, and the User shall resolve such dispute at his or her own responsibility.
+7.  If a Material File is unlawfully used by a third party, works contained in the Material File may be reproduced, etc. Users shall carefully manage, sell or otherwise transfer Material Files they have created at their own responsibility.
 
 Article 11: Ownership of Intellectual Property Rights and License
 -----------------------------------------------------------------
 
-1.  Use of Pastela does not mean that the Intellectual property rights, including copyrights, and any other rights in or to Illustrations, Etc. created and used using Pastela are transferred. Such rights are reserved by the creator of the Illustrations, Etc.
+1.  Use of Pastela does not mean that the Intellectual property rights, including copyrights, and any other rights in or to Canvas Data, Etc. and Material Files created and used using Pastela are transferred. Such rights are reserved by the creator of the Canvas Data, Etc. and Material Files.
 2.  Intellectual property rights, including know-how and copyrights, and any other rights included in Pastela shall belong to the Company or the owners thereof. Users shall not take any act that violates the Company’s intellectual property rights unless they have obtained the prior written approval of the Company.
 
 Article 12: Change of Service
@@ -3708,16 +3714,17 @@ Article 13: Prohibitions
     5.  Fraudulently analyzing the App, the Cloud Service or communication information,
     6.  Unlawfully accessing the Cloud Storage,
     7.  Executing unauthorized code on the App or Cloud Service, or engaging in acts intended for such purposes,
-    8.  Storing Illustrations, Etc. that are excessively brutal or obscene or constitute child pornography or child abuse in violation of laws and regulations or other standards established by the Company,
-    9.  Using the Illustrations, Etc. that fall under the preceding item on any Linkage Service,
-    10.  Uploading or transmitting Illustrations, Etc. that fall under item (8) to Cloud Storage or Linkage Services, and
-    11.  Taking a prohibited act under Article 14 of the Master Terms of Use or storing Illustrations, Etc. that fall under the same article of the Master Terms of Use.
+    8.  Storing Canvas Data, Etc. that are excessively brutal or obscene or constitute child pornography or child abuse in violation of laws and regulations or other standards established by the Company,
+    9.  Using the Canvas Data, Etc. that fall under the preceding item on any Linkage Service,
+    10.  Uploading or transmitting Canvas Data, Etc. that fall under item (8) to Cloud Storage or Linkage Services,
+    11.  Taking a prohibited act under Article 14 of the Master Terms of Use or storing Canvas Data, Etc. that fall under the same article of the Master Terms of Use, and
+    12.  Using a third party’s Material File to output a similar Material File and selling or otherwise transferring such Material File.
 
 Article 14: Actions against Offender
 ------------------------------------
 
 1.  If a User is deemed to have breached these Individual Terms of Use or other terms of use, etc., or otherwise the Company deems necessary, the Company may take the following actions without prior notice to the User; provided, however, that the Company has no obligation to prevent or correct acts of violation of terms and conditions, to take the following actions, or disclose the reasons for taking such actions:
-    1.  Deleting the breaching User’s Illustrations, Etc. from the Cloud Storage
+    1.  Deleting the breaching User’s Canvas Data, Etc. from the Cloud Storage
     2.  Suspending the breaching User’s use of the Cloud Service
     3.  Suspending the breaching User’s pixiv Account
 2.  Users shall not object to the Company’s actions set forth in the preceding paragraph.
@@ -3748,6 +3755,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+*   September 28, 2026: These Individual Terms of Use have been revised throughout upon the start of provision of new function.
 *   December 16, 2024: These Individual Terms of Use have been revised throughout upon the start of provision of new function and in-app purchases.
 
 VEAT
