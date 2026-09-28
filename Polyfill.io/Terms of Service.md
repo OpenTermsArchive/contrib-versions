@@ -1,7 +1,7 @@
 Non GamStop Casinos for UK Players - New Casino Options
 =======================================================
 
-Updated: 12th of September 2026
+Updated: 27th of September 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
@@ -182,7 +182,7 @@ Get up to €1000 + 10% Weekly Cashback
 
 Rolletto
 
-150% Bonus up to 500£ + 200 Freespins
+50% Bonus + 200 Free Spins
 
 9.2/10
 
@@ -206,7 +206,7 @@ Rolletto
 
 Cleanwins
 
-900% up to £6,000 + 500 FS
+Casino Bonus 200% up to £2,000 + 200 FS
 
 9.1/10
 
