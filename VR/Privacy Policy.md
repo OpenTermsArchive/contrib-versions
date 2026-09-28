@@ -569,6 +569,8 @@ A camera surveillance system that consists of recording surveillance cameras in 
 
 Body-worn cameras are used in VR's commuter traffic on lines D, H, M, R, T, G and Z. The body-worn cameras do not continuously record images and sound. The conductor will activate the recording function when they encounter a situation that threatens occupational or passenger safety. The uniform of the conductor using a body-worn camera includes a notice about the possibility of images and sound being recorded, and, if possible, the conductor will also state that they have activated the recording function. The body-worn camera will show that it is recording with an indicator light and sound.
 
+VR uses non-recording camera surveillance (so-called shunting cameras) in locations where VR Logistics operates to ensure unobstructed movement on the tracks.
+
 5 Data subjects
 ---------------
 
