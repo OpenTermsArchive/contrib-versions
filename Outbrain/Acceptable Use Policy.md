@@ -49,7 +49,7 @@ Prohibited Categories
 
 #### Children
 
-*   No content targeted to children under the age of 16
+*   No content targeted to children under the age of 18
 
 #### Controlled or Illegal Substances
 
