@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Version date: 2 Apr 2026**
+**Version date: 24 August 2026**
 
 _NOTE: We may translate this Privacy Policy into other languages. If there is any difference between the English version and other language versions, then the English version, subject to applicable laws and regulations, shall prevail._
 
@@ -10,7 +10,7 @@ HoYoverse is headquartered in Singapore as Cognosphere Pte. Ltd. ("we", "our", o
 
 **What are our services?**
 
-We use the term “our services” to collectively describe any of the products or services that directly link to this privacy policy. These include, for example:
+We use the term "our services" to collectively describe any of the products or services that directly link to this privacy policy. These include, for example:
 
 · Gaming products like Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Honkai Impact 3rd and Tears of Themis;
 
@@ -60,7 +60,7 @@ i. **Contact Information and Identifiers / Account Registration Information.** W
 
 ii. **Service Account Information.** We may also collect account information related to our services, such as your nickname, avatar, gender, username, account ID and account level.
 
-iii. **Date of birth.** Where applicable, you may need to provide us your date of birth for age verification or screening purposes and / or your birthday when you apply for birthday gifts or other benefits available on our services. You may choose to provide us your birthday in your user profile.
+iii. **Date of Birth.** Where applicable, you may need to provide us your date of birth for age verification or screening purposes and / or your birthday when you apply for birthday gifts or other benefits available on our services. You may choose to provide us your birthday in your user profile.
 
 iv. **Connected Social Media Account Information (Third Party).** If you choose to log in to our services via your social media account(s), we may receive your social media account information (including your username or nickname) from third party social media providers (such as Facebook, X, Google Play, Game Center). Such information obtained from third party social media providers will be added to your account information.
 
@@ -78,37 +78,39 @@ x. **User Service Information.** When you seek our technical and/or customer ser
 
 xi. **Survey Information.** We will collect your survey responses, if you participate in our surveys.
 
-xii. **Activity Participation Information.** If you agree to participate in any activities organized by us (such as contests or sweepstakes), we may collect your participation information including your name, UID, email address, mobile phone number, nickname, country/region. Where you win any prizes, you may also need to provide us your mailing address or certain tax information (e.g. social security numbers, etc) for us to send you the prize. Your activity participation information may be added to your account.
+xii. **Activity Participation Information.** If you agree to participate in any activities organized by us (such as contests or sweepstakes), we may collect your participation information including your name, UID, email address, mobile phone number, nickname, country/region. Where you win any prizes, you may also need to provide us your mailing address or certain tax information (e.g. social security numbers, etc.) for us to send you the prize. Your activity participation information may be added to your account.
 
 xiii. **Internet Protocol (IP) Address and Device Data**. We may collect data about the platform and device on which your account is used, such as platform type (iOS/Android), device name/model and your IP address.
 
 xiv. **Advertising Information.** We may collect advertising ID (including Google Advertising ID, IDFA), Device ID (including IDFV, OAID, Android ID) and other select device information, and store this information with your profile to deliver advertising that may be relevant to your interests and track the success of our advertising and marketing programs. Additionally, after taking appropriate technical security measures (such as encryption and hashing) to de-identify or pseudonymise your email address (including email address collected from third party social media providers when you log in via your social media account(s)), we may use your de-identified or pseudonymized email address to track the success of our advertising and marketing programs.
 
-xv. **Payment data.** If you choose to make purchase(s) with your account, we may need to collect your payment data and purchase history in order to maintain your transaction history record and process your purchase(s) and related activity, which may include your name, bank/debit/credit card number, card expiration date, billing address (country, city, postal code, address), CVV, the data concerning transaction date, transaction order number, currency, cost, payment channel, and product(s) purchased.
+xv. **Payment Data.** If you choose to make purchase(s) with your account, we may need to collect your payment data and purchase history in order to maintain your transaction history record and process your purchase(s) and related activity, which may include your name, bank/debit/credit card number, card expiration date, billing address (country, city, postal code, address), CVV, the data concerning transaction date, transaction order number, currency, cost, payment channel, and product(s) purchased.
 
-xvi. **PayPal account.** Where available in our services, we will store your PayPal account information and display it as a selectable payment option so that you can use it for subsequent payments.
+xvi. **PayPal Account.** Where available in our services, we will store your PayPal account information and display it as a selectable payment option so that you can use it for subsequent payments.
 
 xvii. **Inferences.** We may make certain inferences, such as your preferences and interests, drawn from any of the information we collect.
 
-xviii. **Voice Chat Data.** Where applicable, our services may offer voice-based chat functions that allow users to communicate with others in real time using voice. If you choose to use such features, we may process voice communication data for the purposes described in Section 2 and Section 13 of this Privacy Policy, including providing communication services, maintaining service security and stability, content moderation, and complying with applicable laws and regulations. In certain jurisdictions, this voice chat feature is not available to users under the age of 13. Where applicable, voice chat will be disabled by default for child users and/or restricted through age-gate and parental control mechanisms.
+xviii. **Voice Chat Data.** Where applicable, our services may offer voice-based chat functions that allow users to communicate with others in real time using voice. If you choose to use such features, we may process voice communication data for the purposes described in Section 2 and Section 13 of this Privacy Policy, including providing communication services, maintaining service security and stability, content moderation, and complying with applicable laws and regulations. In certain jurisdictions, this voice chat feature is not available to users who do not meet the applicable age requirements. Where applicable, voice chat will be disabled by default for child users and/or restricted through age-gate and parental control mechanisms.
 
-xix. **Other Information Subject to Specific Notice.** For some websites, apps, or services provided by us, we may collect additional information beyond the above listed information. We will develop individual privacy notices to inform you how we process your personal data when you use that specific service. Such individual privacy notices will prevail in terms of the personal data processed for those individual services.
+xix. **Location Information**. With your permission, we may collect your approximate or precise location information from your device solely to verify your participation in certain offline events and determine your eligibility to receive the corresponding event rewards. We will collect and process such location information only to the extent necessary for the relevant verification and will not use it for other unrelated purposes. You may disable location services at any time through your device settings. However, if location verification is required for a particular event, we may be unable to verify your participation or provide the corresponding event rewards. Please note that this feature is not available to users who do not meet the applicable age requirements or to users located in the United Kingdom, the European Union, or the United States.
+
+xx. **Other Information Subject to Specific Notice.** For some websites, apps, or services provided by us, we may collect additional information beyond the above listed information. We will develop individual privacy notices to inform you how we process your personal data when you use that specific service. Such individual privacy notices will prevail in terms of the personal data processed for those individual services.
 
 **B. Data We Automatically Collect**
 
-i. **Device-related data**. This includes data such as online ID, Advertising ID and/or device ID, device name, device type/model, MAC address, browser type, IP address, IMEI data, CPU data, OS version and language, time zone, screen DPI, device resolution, device mode/status, device and browser settings and configurations, memory data, and graphics card model.
+i. **Device-Related Data**. This includes data such as online ID, advertising ID and/or device ID, device name, device type/model, MAC address, browser type, IP address, IMEI data, CPU data, OS version and language, time zone, screen DPI, device resolution, device mode/status, device and browser settings and configurations, memory data, and graphics card model.
 
-ii. **Cookies data.** Information collected through cookies and similar technologies.
+ii. **Cookies Data.** Information collected through cookies and similar technologies.
 
-iii. **Data related to bugs, errors, crashes and diagnosis.** This includes registration/login time, game version, UID, stack trace, crash reports, and abnormal process data.
+iii. **Data Related to Bugs, Errors, Crashes and Diagnosis.** This includes registration/login time, game version, UID, stack trace, crash reports, and abnormal process data.
 
-iv. **Security related data.** This includes installed app names, system startup time, app install and update time, request and referral URLs, and system activity details, game-related plug-in and runtime data, network status and information, and data related to external plugin programs.
+iv. **Security Related Data.** This includes installed app names, system startup time, app install and update time, request and referral URLs, and system activity details, game-related plug-in and runtime data, network status and information, and data related to external plugin programs.
 
-v. **Services interaction and/or usage data.** This includes the pages and other content you view, the URL of the website from which you came to our sites, any content you post, the dates and times of your visits, the types of content you search for, view, or interact with, the features you use, the actions you take, the people or accounts you interact with, and when, how often, and for how long.
+v. **Services Interaction and/or Usage Data.** This includes the pages and other content you view, the URL of the website from which you came to our sites, any content you post, the dates and times of your visits, the types of content you search for, view, or interact with, the features you use, the actions you take, the people or accounts you interact with, and when, how often, and for how long.
 
-vi. **Information about your interactions with others.** We also capture and use the content, communications, and information you provide when you interact with others as a fan or contact.
+vi. **Information About Your Interactions with Others.** We also capture and use the content, communications, and information you provide when you interact with others as a fan or contact.
 
-vii. **Data shared with us by third parties.** This includes (i) data we receive from third-party applications when you link them to our services, such as when you make a third-party login via Facebook, X, Google, or Apple, and (ii) third-party data for message push, security assurance, and statistical analysis purposes.
+vii. **Data Shared with Us by Third Parties.** This includes (i) data we receive from third-party applications when you link them to our services, such as when you make a third-party login via Facebook, X, Google, or Apple, and (ii) third-party data for message push, security assurance, and statistical analysis purposes.
 
 **Note:** In specific cases, we may collect other personal data apart from the categories stated herein based on your consent or other legal bases. When this occurs, we will, where required under applicable laws, provide more information about any change to the way or purpose of our collection or processing which are different from or not clarified in the details in this Privacy Policy.
 
@@ -204,9 +206,11 @@ xxvii. protect the integrity, information safety, and financial security of our 
 
 xxviii. to conduct user research;
 
-xxix. track your process across our websites and applications to verify that you are not a bot and to optimize our services; and/or
+xxix. track your process across our websites and applications to verify that you are not a bot and to optimize our services;
 
-xxx. for any other purposes for which we provide specific notice at the time the information is collected.
+xxx. if you choose to participate in certain offline events, we may process your location information, with your permission, solely to verify your participation and determine your eligibility for event-related rewards. We process such information only as necessary to complete the verification for relevant events; and/or
+
+xxxi. for any other purposes for which we provide specific notice at the time the information is collected.
 
 **Like many AI-powered experiences, we may use your user-generated input such as chat data to train and improve the model that we use to provide our Services. We do not use personal information of users in the US who are identified as children (as defined in COPPA) for model training. You can opt-out of model training anytime in the settings or, if unavailable, by contacting us at** [**privacy@hoyoverse.com**](http://mailto:privacy@hoyoverse.com/)**. Opting out will not affect your existing gameplay.**
 
@@ -218,7 +222,7 @@ We are required to disclose the legal basis for processing your data under certa
 
 i. Necessary for us to comply with our service agreement.
 
-ii. Conducted with your consent, especially when legally required (you may email us at privacy@hoyoverse.com at any time to withdraw your consent).
+ii. Conducted with your consent, especially when legally required (you may email us at [privacy@hoyoverse.com](http://mailto:privacy@hoyoverse.com/) at any time to withdraw your consent).
 
 iii. Necessary for us to carry out our legally stipulated obligations.
 
@@ -252,7 +256,7 @@ iii. deliver advertising: to help us provide you with advertising that we believ
 
 iv. other related functions or purposes mentioned in Section 2 and Section 13.
 
-We or our authorized contractors may also use cookies and similar technologies to provide and personalize services, prevent fraud and fulfil other purposes mentioned above. Our cookie policy can be found on [https://www.hoyoverse.com/en-us/legal/cookies.](https://www.hoyoverse.com/en-us/legal/cookies.) Please note you may be able to disable cookies in your browser settings, or, depending on your jurisdiction, through our cookie settings but if you do so some parts of our services may then not function properly.
+We or our authorized contractors may also use cookies and similar technologies to provide and personalize services, prevent fraud and fulfil other purposes mentioned above. Our cookie policy can be found on [https://www.hoyoverse.com/en-us/legal/cookies](https://www.hoyoverse.com/en-us/legal/cookies). Please note you may be able to disable cookies in your browser settings, or, depending on your jurisdiction, through our cookie settings but if you do so some parts of our services may then not function properly.
 
 **6\. INFORMATION SHARING**
 
@@ -278,7 +282,7 @@ People who can see your activity on our community forum service(s) have the opti
 
 We may provide a certain portion of your personal data to governmental authorities as so requested according to applicable laws and regulations, or where it is in the public interest to do so.
 
-Other than where we are required by applicable laws and regulations, we reserve the right to disclose your personal data in the cases if we, in our good faith, believe that disclosing such data is necessary to identify, contact, or bring legal action against you, if we reasonably believe that (a) you are violating any other agreement(s) between you and us, such as the Terms of Service, this Privacy Policy, or otherwise damage us; (b) you are infringing third-parties’ rights and interests (including but not limited to intellectual property rights); and/or (c) it is necessary to prevent fraud or other illegal activities.
+Other than where we are required by applicable laws and regulations, we reserve the right to disclose your personal data in the cases if we, in our good faith, believe that disclosing such data is necessary to identify, contact, or bring legal action against you, if we reasonably believe that (a) you are violating any other agreement(s) between you and us, such as the Terms of Service, this Privacy Policy, or otherwise damage us; (b) you are infringing third-parties' rights and interests (including but not limited to intellectual property rights); and/or (c) it is necessary to prevent fraud or other illegal activities.
 
 **D. Merger, Acquisition, Reorganization, Bankruptcy, New Owner**
 
@@ -300,7 +304,7 @@ ii. Logistics service providers who provide shipping services such as delivering
 
 iii. Information communication service providers who provide SMS-messaging services;
 
-iv. Payment service providers who provide payment services, such as assisting us in operating services, facilitating users’ payment, and maintaining a record of the users’ transaction history;
+iv. Payment service providers who provide payment services, such as assisting us in operating services, facilitating users’ payment, and maintaining a record of the users' transaction history;
 
 v. Advertising service contractors who provide marketing and advertising activities, including showing you ads that we think may interest you, conducting the programs, tracking the success, and analyzing the effect thereof; and
 
@@ -322,15 +326,7 @@ We may also disclose your information to other third parties with your permissio
 
 **7\. DATA RETENTION**
 
-We will keep your data only for as long as your account is active or only for as needed to provide you the game services unless deleted in accordance with your request or where we are required to do so under applicable law. The locations of servers for our services include one or a combination of the following locations:
-
-· United States
-
-· European Union
-
-· Singapore
-
-· Japan
+We will keep your data only for as long as your account is active or only for as needed to provide you the game services unless deleted in accordance with your request or where we are required to do so under applicable law. Your personal data may be stored and processed on servers located in one or more jurisdictions where we, our affiliates, or our service providers operate.
 
 You acknowledge and agree that your data will be collected and processed on our servers which may not be located in your country/region of residence and can be accessed by our support, engineering and/or our affiliates around the world. No matter where our servers are located, we will make great efforts to take the appropriate safeguards to guarantee your rights in conformity with this Privacy Policy and any applicable laws and regulations.
 
@@ -350,7 +346,7 @@ To protect the security of your account and your personal data, we may ask you t
 
 **(1) Right to Know about Personal Data Collected or Disclosed**
 
-You may have the right to access your personal data that we hold about you, such as (i) information whether your personal data is collected or disclosed, (ii) categories of your personal data which has been collected or disclosed, (iii) categories of sources from which your personal data is collected, and (iv) business or commercial purpose for collecting or disclosing your personal data (if any). You may have the right to require us to provide a duplicate of your processed personal data, subject to submitting a verifiable request to us using the contact information in section “Contact Us” below. You may also be able to exercise the right to access some of your personal data through the privacy setting available in the services (e.g. profile/personal page or privacy dashboard), where applicable.
+You may have the right to access your personal data that we hold about you, such as (i) information whether your personal data is collected or disclosed, (ii) categories of your personal data which has been collected or disclosed, (iii) categories of sources from which your personal data is collected, and (iv) business or commercial purpose for collecting or disclosing your personal data (if any). You may have the right to require us to provide a duplicate of your processed personal data, subject to submitting a verifiable request to us using the contact information in section "Contact Us" below. You may also be able to exercise the right to access some of your personal data through the privacy setting available in the services (e.g. profile/personal page or privacy dashboard), where applicable.
 
 **(2) Right to Rectify / Right to Correct**
 
@@ -392,11 +388,11 @@ We are designing our services to be welcoming to users of all ages around the wo
 
 **(1) Countries where we operate an Age-Gate**
 
-In certain countries, such as the United States, we may be required by law to operate an age-gate, where, when a user indicates that they are a child, we do not collect or process their personal data until they are no longer a child as defined above or until their parent or guardian provides consent and/or enables access to particular features. In these circumstances, the personal data we collect may include:
+In certain countries, we may be required by law to operate an age-gate, where, when a user indicates that they are a child, we do not collect or process their personal data until they are no longer a child as defined above or until their parent or guardian provides consent and/or enables access to particular features. In these circumstances, the personal data we collect may include:
 
 · Date of birth and country to determine age and apply appropriate settings
 
-· Parent or guardian email address to provide notice and seek consent (which is deleted if the parent does not respond within 14 days)
+· Parent or guardian email address to provide notice and seek consent (for users in the United States, this email address is deleted if the parent does not respond within 14 days)
 
 · Persistent identifiers like IP address, UIDs, necessary website tracking technologies, and device identifiers in order to provide and maintain our services (including analytics to improve them), protect the security and integrity of users and ensure legal and regulatory compliance.
 
@@ -408,15 +404,15 @@ We collect a parent or guardian email address from a child player to send the pa
 
 We use Kids Web Services (KWS), for parent/guardian verification and user age verification purposes. KWS will remember that you have verified your age the next time you use your email address to access other games/services powered by KWS technology, so you won't need to verify again. We and KWS are separate independent controllers for personal information sent to us. For example, we collect a parent or guardian's email address and transfer it to KWS as an independent controller. However, once the parent or guardian is re-directed to the KWS environment, KWS is an independent controller for the processing activities that follows. Such processing activities include checking the email against the KWS AgeGraph, collecting verification information from the parents or guardians, hashing the email and adding it into the AgeGraph, sending the user the verification confirmation, and notifying the parent or guardian of successful verification. With regard to the data shared by KWS with us following a successful verification, such as the parent's email and their verified status, we are the independent controller. For more information, you can learn more about KWS in the KWS Privacy Policy [https://www.kidswebservices.com/en-US/privacy-policy](https://www.kidswebservices.com/en-US/privacy-policy). When a parent or guardian gives permission for a child to set up an account, parental controls are enabled automatically. Parental controls can then be accessed using a PIN code, let you change choices about particular features made during the permission flow, and further customize your child's experience. You can learn more about our parental controls here [https://account.hoyoverse.com/passport/index.html#/parental-control/verify](https://account.hoyoverse.com/passport/index.html#/parental-control/verify).
 
-Once a parent has authorized an account for their child, the privacy practices described elsewhere in this Privacy Policy generally apply; however, child users may not have access to all content or features due to parental controls. Depending on the parental control settings, the child player may be restricted in terms of payment access and community access, such as social features and content sharing, **and certain real-time communication features, including voice-based chat, may be unavailable to users in certain jurisdictions under the age of 13**, among other features.
+Once a parent has authorized an account for their child, the privacy practices described elsewhere in this Privacy Policy generally apply; however, child users may not have access to all content or features due to parental controls. Depending on the parental control settings, the child player may be restricted from accessing community features, such as social features and content sharing, and, in some jurisdictions, payment features. **Certain real-time communication features, including voice-based chat, may be unavailable to users in certain jurisdictions who do not meet the applicable age requirements**, among other features.
 
-A parent may revoke consent to the collection of their child's data at any time by contacting us using the contact details under “Contact Us” below. If a parent does not consent or later revokes consent, we will delete the child's account and its associated information within 14 days of the response or revocation of consent. If a parent does not respond to this request for consent within the prescribed period, we will delete the parent and the child's data (including their HoYoverse account), if they already have one, within 14 days of the initial request.
+A parent may revoke consent to the collection of their child's data at any time by contacting us using the contact details under "Contact Us" below. For users in the United States, if a parent does not consent or later revokes consent, we will delete the child's account and its associated information within 14 days of the response or revocation of consent. If a parent does not respond to this request for consent within the prescribed period, we will delete the parent and the child's data (including their HoYoverse account), if they already have one, within 14 days of the initial request.
 
 For the avoidance of doubt, in certain countries such as the United States, we are required to delete accounts of children under the age of 13 unless a parent or guardian provides verifiable consent, and any child's data or account that is deleted as a result of the foregoing is permanent, irrecoverable, and cannot be restored notwithstanding that the child subsequently reaches the age of 13. For other countries where the legally applicable age is higher, the higher age will apply.
 
 **Child and Parent Privacy Rights**
 
-Child users and their parents/guardians can exercise their individual privacy rights as described in Section 8 above and Section 13 below. Parental controls enable parents and guardians to change the choices made about their child's use of particular features like community access. Parents/Guardians can also review the child's personal information held by us and delete their child's account (which deletes the personal information and stops further collection). To exercise these rights, please see the “Contact Us” section below
+Child users and their parents/guardians can exercise their individual privacy rights as described in Section 8 above and Section 13 below. Parental controls enable parents and guardians to change the choices made about their child's use of particular features like community access. Parents/Guardians can also review the child's personal information held by us and delete their child's account (which deletes the personal information and stops further collection). To exercise these rights, please see the "Contact Us" section below
 
 **(2) Countries where we do not operate an Age-Gate**
 
@@ -426,7 +422,7 @@ In countries where we do not operate an age-gate, under certain laws, users unde
 
 If you are a parent or legal guardian of a minor in a country where we do not operate an age-gate, please make sure that you have read this Privacy Policy before allowing your children to create their own accounts or to use our services. You agree that you will be subject to this Privacy Policy and be responsible for your children’s activities while using our services. You agree to supervise your children’s use of our services and make sure that your children only view the contents that are age appropriate to your children.
 
-Notwithstanding the foregoing, we recognize that we have a special obligation to protect children in regard to the collection and processing of personal data. We strongly urge parents and guardians to instruct their children never to disclose or give out their personal data when using our services without the prior permission of their parent or guardian. If you are a parent or guardian and have any concern regarding your child’s use of our services, please contact us using the contact details under “Contact Us” below.
+Notwithstanding the foregoing, we recognize that we have a special obligation to protect children in regard to the collection and processing of personal data. We strongly urge parents and guardians to instruct their children never to disclose or give out their personal data when using our services without the prior permission of their parent or guardian. If you are a parent or guardian and have any concern regarding your child’s use of our services, please contact us using the contact details under "Contact Us" below.
 
 **(3) Disclosures in the Refund process**
 
@@ -440,7 +436,7 @@ Your continued use of our services shows that you acknowledge how we will collec
 
 **12\. CONTACT US**
 
-**If you have any requests, concerns, questions about us, this Privacy Policy or how we process your personal data, or you want to make any complaints or want to exercise your data subject rights, please contact us as soon as possible by emailing our Data Protection Office at privacy@hoyoverse.com,** **or via the address below:**
+**If you have any requests, concerns, questions about us, this Privacy Policy or how we process your personal data, or you want to make any complaints or want to exercise your data subject rights, please contact us as soon as possible by emailing our Data Protection Office at** [**privacy@hoyoverse.com**](http://mailto:privacy@hoyoverse.com/)**,** **or via the address below:**
 
 **Company name: COGNOSPHERE PTE. LTD.**
 
@@ -475,7 +471,7 @@ In order to provide our services to you, we collect and process the following ca
 | Create contact with other users of our services | Service Account Information, Personal Profile Information, Connected Social Media Account Information (Third Party), Game Data, Chat Data, Community Forum Information, User Generated Content IP address & Device Data |
 | Facilitate your participation in our creator events | Contact Information and Identifiers/Account Registration Information, Connected Social Media Account Information (Third Party), Community Forum Information, User Generated Content, Activity Participation Information |
 | Keep you up to date with the latest product announcements, and provide other information pertaining to our services | Contact Information and Identifiers/Account Registration Information, Service Account Information, Date of Birth, Game Data, Community Forum Information, Activity Participation Information, IP address & Device Data, Advertising Information, Payment Data, Inferences |
-| Provide software verification, upgrades and administration, notify of special events | Contact Information and Identifiers/Account Registration Information, Service Account Information, Game Data, IP address & Device Data, Inferences, Device Related Data, Cookies Data, Data Related to Bugs, Errors, Crashes and Diagnosis, Security Related Data, Services Interaction and/or Usage Data, Information About Your Interaction With Others, Data Shared With Us By Third Parties |
+| Provide software verification, upgrades and administration, notify of special events | Contact Information and Identifiers/Account Registration Information, Service Account Information, Game Data, IP address & Device Data, Inferences, Device Related Data, Cookies Data, Data Related to Bugs, Errors, Crashes and Diagnosis, Security Related Data, Services Interaction and/or Usage Data, Information About Your Interaction With Others, Data Shared With Us by Third Parties |
 | Offer to participate in our surveys, contests, events or activities | Service Account Information, Survey Information, Activity Participation Information, Inferences |
 | Fulfil our obligations under applicable laws and regulations, respond to requests of government authorities | Contact Information and Identifiers/Account Registration Information, Service Account Information, Date of Birth, Connected Social Media Account Information (Third Party), Personal Profile Information, Game Data, Chat Data, Community Forum Information, User Generated Content, Malicious Content Information, User Service Information, Survey Information, Activity Participation Information, IP address & Device Data, Advertising Information, Payment Data, Pay Pal Account, Inferences |
 | Establish, exercise, or defend legal claims | Contact Information and Identifiers/Account Registration Information, Service Account Information, Date of Birth, Connected Social Media Account Information (Third Party), Personal Profile Information, Game Data, Chat Data, Community Forum Information, User Generated Content, Malicious Content Information, User Service Information, Survey Information, Activity Participation Information, IP address & Device Data, Advertising Information, Payment Data, Pay Pal Account, Inferences |
@@ -500,11 +496,11 @@ You can use browser or device-level controls as follows:
 
 · **Cookie controls**. Please see our [Cookie Policy](https://www.hoyoverse.com/en-us/legal/cookies) ([https://www.hoyoverse.com/en-us/legal/cookies](https://www.hoyoverse.com/en-us/legal/cookies)) for details on how you can control cookies. Note that if you choose to refuse or delete cookies, this could affect certain features, settings and preferences controlled by those cookies including advertising preferences which may be deleted and may need to be recreated.
 
-· **Do Not Track**. Some browsers include a "Do Not Track" (DNT) setting that can send a signal to the websites you visit indicating you do not wish to be tracked. O_ur websites do not respond to browser DNT signals_. Instead, you can use the range of other tools to control data collection and use, including the advertising controls described above.
+· **Do Not Track**. Some browsers include a "Do Not Track" (DNT) setting that can send a signal to the websites you visit indicating you do not wish to be tracked. _Our websites do not respond to browser DNT signals_. Instead, you can use the range of other tools to control data collection and use, including the advertising controls described above.
 
 · **Mobile advertising ID controls**. iOS and Android operating systems provide options to limit tracking and/or reset the advertising IDs.
 
-· **Email web beacon controls**. Most email clients have settings that allow you to prevent the automatic downloading of images, including web beacons, and the automatic connection to the web servers that host those images
+· **Email web beacon controls**. Most email clients have settings that allow you to prevent the automatic downloading of images, including web beacons, and the automatic connection to the web servers that host those images.
 
 These choices are specific to the device or browser you are using. If you access our services from other devices or browsers, take these actions from those devices or browsers to ensure your choices apply to the data collected when you use them.
 
@@ -520,11 +516,11 @@ The personal information that a child may make publicly available is limited to 
 
 **(iii) Data Retention for Children**
 
-In compliance with the Children's Online Privacy Protection Act (COPPA), our data retention policy regarding personal information of children in the US is set out below.
+In compliance with the _Children's Online Privacy Protection Act_ (COPPA), our data retention policy regarding personal information of children in the US is set out below.
 
 _Where verifiable parental consent is obtained_
 
-For users in the US who are identified as under the age of 13, and for whom we have obtained verifiable parental consent, we will retain the child's personal information for the duration of the child's use of our services. In the event that the child (or parent) requests for the deletion of the child’s account or personal information, the account and all related personal information will be deleted after 30 days.
+For users in the US who are identified as under the age of 13, and for whom we have obtained verifiable parental consent, we will retain the child's personal information for the duration of the child's use of our services. In the event that the child (or parent) requests for the deletion of the child's account or personal information, the account and all related personal information will be deleted after 30 days.
 
 Notwithstanding, certain categories of personal information are automatically deleted after a fixed period:
 
@@ -572,15 +568,15 @@ The table below describes the categories of persistent identifiers collected, th
 | Facebook Third Party Login SDK | GAID, IP Address | Support for Log-in Authentication and Account Security | Used only to enable login and protect user accounts. They are not used for advertising, marketing, profiling, or cross-service tracking purposes. |
 | Google Third Party Login SDK | GAID | Support for Log-in Authentication and Security Verification | Used only to enable login and protect user accounts. They are not used for advertising, marketing, profiling, or cross-service tracking purposes. |
 | FB SDK (iOS) – Third-Party Login | IDFA | Support for Internal Operations (Fraud Prevention and Security Verification) | Used solely for fraud prevention and service security purposes. These identifiers are subject to strict access controls and are not used for advertising, attribution, profiling, or cross-service tracking, nor disclosed to third parties for independent use. |
-| Application Self-Collection (Andriod） | GAID, Android ID, Device Fingerprint | Support for Internal Operations (Security, Anti-Abuse, and Fraud Prevention) | Used solely for account security, fraud prevention, anti-cheat, and service integrity protection. These identifiers are subject to strict technical and access controls and are not used for advertising, profiling, cross-service tracking, or independent third-party use. |
-| Self-Collection of IOS SDK | IDFV | Support for Internal Operations (Performance Diagnostics, Debugging, and Stability Analytics) | Used solely for crash diagnostics, device-level error aggregation, and service reliability monitoring. These identifiers are subject to strict technical controls and are not used for advertising, profiling, re-engagement, or cross-service tracking. |
+| Application Self-Collection (Andriod) | GAID, Android ID, Device Fingerprint | Support for Internal Operations (Security, Anti-Abuse, and Fraud Prevention) | Used solely for account security, fraud prevention, anti-cheat, and service integrity protection. These identifiers are subject to strict technical and access controls and are not used for advertising, profiling, cross-service tracking, or independent third-party use. |
+| Self-Collection of iOS SDK | IDFV | Support for Internal Operations (Performance Diagnostics, Debugging, and Stability Analytics) | Used solely for crash diagnostics, device-level error aggregation, and service reliability monitoring. These identifiers are subject to strict technical controls and are not used for advertising, profiling, re-engagement, or cross-service tracking. |
 | Business Event Tracking (Internal Analytics) | Session ID, Device Fingerprints, Device Name | Support for Internal Operations (Service Analytics, Quality Monitoring) | Used solely for internal performance evaluation, stability monitoring, and operational analytics. These identifiers are subject to strict safeguards and are not used for advertising, profiling, re-engagement, or cross-service tracking. |
 
 **(v) Data Sharing**
 
 We may disclose or share personal information with service providers, partners, or other parties where necessary to operate our services, support functionality, maintain security, and comply with applicable legal obligations. Where personal information relates to users in the US who are identified as children, we share such information only as permitted under applicable laws. In particular, we may share children’s personal information solely for internal operational purposes as permitted under COPPA, or where we have obtained separate verifiable parental consent for the specific sharing.
 
-We require service providers and partners to process personal information only on our behalf and in accordance with our instructions. Such parties are contractually restricted from using children’s personal information for their own purposes, including for behavioral advertising, profiling, or any independent commercial use. We do not sell children’s personal information.
+We require service providers and partners to process personal information only on our behalf and in accordance with our instructions. Such parties are contractually restricted from using children’s personal information for their own purposes, including for behavioral advertising, profiling, or any independent commercial use. We do not sell children's personal information.
 
 Where applicable, we limit the information shared to the minimum necessary to provide the requested services or perform the relevant internal operations. The categories of third parties, the types of personal information shared, and the purposes of disclosure are described in the table below. We may update this table from time to time to reflect our current practices.
 
@@ -595,7 +591,7 @@ Where applicable, we limit the information shared to the minimum necessary to pr
 
 **_(c) Additional terms for California Residents_**
 
-**California Consumer Privacy Act.** The CCPA requires us to provide our users who reside in California with the additional notice below. For the purposes of this notice, Personal Information means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household, or as otherwise defined by the California Consumer Privacy Act of 2018 (California Civil Code §§ 1798.100 to 1798.199) and its implementing regulations, as amended or superseded from time to time (“CCPA”).
+**_California Consumer Privacy Act_.** The CCPA requires us to provide our users who reside in California with the additional notice below. For the purposes of this notice, Personal Information means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household, or as otherwise defined by the California Consumer Privacy Act of 2018 (California Civil Code §§ 1798.100 to 1798.199) and its implementing regulations, as amended or superseded from time to time ("CCPA").
 
 Personal Information does not include information that is:
 
@@ -611,7 +607,7 @@ If you are a California resident, and the processing of personal information abo
 
 · Notice at Collection. At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal information and sensitive personal information to be collected \[Section 1\], the purposes for which such information is collected or used \[Section 2\], whether such information is sold or shared, and how long such information is retained \[Section 7\]. You can find those details in this Privacy Policy by referring to this and the above-referenced sections.
 
-· Right to Know. The right to request a copy of the personal information that we have collected about you in the prior 12 months. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this Privacy Policy. You may make such a “request to know” as described in Section 8(1) of this Privacy Policy.
+· Right to Know. The right to request a copy of the personal information that we have collected about you in the prior 12 months. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this Privacy Policy. You may make such a "request to know" as described in Section 8(1) of this Privacy Policy.
 
 · Rights to Request Correction or Deletion. You also have rights to request that we correct inaccurate personal information and that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to correct or delete, please do so using our game/non-game account information functionality or email us using the contact information in Section 12 of this Privacy Policy.
 
@@ -629,13 +625,13 @@ Further, to provide, correct, or delete specific pieces of personal information 
 
 You have the right not to receive discriminatory treatment for the exercise of your CCPA privacy rights, subject to certain limitations.
 
-Additionally, under California Civil Code section 1798.83, also known as the "Shine the Light" law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes ("California Customers") may request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes.
+Additionally, under _California Civil Code_ section 1798.83, also known as the "Shine the Light" law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes ("California Customers") may request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes.
 
 Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law.
 
 California Customers may request further information about our compliance with this law by emailing the address provided in the "Contact Us" section above. Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
 
-California residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remove content or information you have publicly posted, or to request that we remove such content or information, please send us a detailed description of the specific content or information you wish to have removed using the details provided in the "Contact Us" section above. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+California residents under the age of 18 who are registered users of online sites, services, or applications have a right under _California Business and Professions Code_ section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remove content or information you have publicly posted, or to request that we remove such content or information, please send us a detailed description of the specific content or information you wish to have removed using the details provided in the "Contact Us" section above. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
 
 An authorized agent may submit an access or deletion request on your behalf by sending a written authorization signed by you using the contact information in the "Contact Us" section. We may still require you to directly verify your identity and confirm that you provided the authorized agent permission to submit the request
 
@@ -685,7 +681,7 @@ Where the transfer is not subject to an adequacy decision, we have taken appropr
 
 Our services are not marketed to, or intended for, children. Children for the purposes of our services are (a) under the age of 13 years old or, if older (b) between 13 and 18 years old but under the age at which they can give valid digital consent to processing of their personal information under applicable data privacy laws. We strive to follow the different minimum age guidelines set by the laws of individual regions when determining the age that children can access certain features of our services.
 
-Children are not permitted to use our services, and we do not knowingly collect any personal information from children. Though our services are not intended for children as the primary audience, we may collect age information before allowing a user to proceed for certain services. If we learn that we have inadvertently gathered personal information about a child that is not subject to an exemption under applicable privacy law, we will take measures to promptly remove that information from our records.
+Children are not permitted to use our services, and we do not knowingly collect any personal information from children. Though our services are not intended for children as the primary audience, we may collect age information before allowing a user to proceed for certain services.
 
 **Data Protection Supervisory Authority**
 
@@ -724,16 +720,5 @@ In addition to the information set out in the "Your rights and choices" section 
 You may have the right to request the suspension of processing of your personal data that we have collected and processed. However, such a request may be denied under applicable laws or regulations.
 
 In many circumstances, we need to process your personal data in order to provide you with the services you require. If you do not provide the necessary personal data, or if you request the suspension of its processing for these purposes, we may be unable to continue providing you with the services you require.
-
-**Location of Servers**
-
-The servers for the services we provide are located as follows:
-
-|     |     |
-| --- | --- |
-| **Our services** | **Location(s) of servers** |
-| Genshin Impact  <br>Honkai: Star Rail<br><br>Zenless Zone Zero<br><br>Honkai Impact 3rd | United States<br><br>European Union<br><br>Japan<br><br>Singapore |
-| Tears of Themis | Japan |
-| HoYoverse Account<br><br>HoYoPlay<br><br>HoYoLab<br><br>HoYoCreator | Singapore |
 
 COGNOSPHERE PTE. LTD.
