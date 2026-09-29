@@ -1172,7 +1172,10 @@ Article 23. Copyrights and Usage
 --------------------------------
 
 1.  When updating an Individual Service or the like, the Company may at its own discretion modify the Posted Content created using the Individual Service with the intent of optimizing how the Posted Content looks and works on the Individual Service.
-2.  Copyrights and all other rights related to Posted Content belong to the User who creates and registers the Posted Content.
+2.  Copyrights (including the rights outlined in Articles 27 and 28 of the Japanese Copyright Act; the same applies hereinafter) and all other rights related to Posted Content belong to the User who creates and registers the Posted Content.
+3.  If a Creator chooses to share the copyright in their Posted Content with the Company, notwithstanding the preceding paragraph, the copyright shall be jointly owned by the Creator who created and registered the Posted Content and the Company, while all other rights shall belong to the Creator. In such case, the Creator and the Company may use the Posted Content created and registered by the Creator and exercise the copyright therein in accordance with the following provisions:
+    1.  The Company may, at its sole discretion, exercise any rights based on the copyright in the Posted Content (including the right to seek an injunction under each paragraph of Article 112 of the Japanese Copyright Act) against any agent who infringes or is likely to infringe such copyright. The Company shall not exercise the copyright in the Posted Content for any other purpose without the Creator's prior consent.
+    2.  The Creator may, without obtaining the Company's consent, reproduce, publicly transmit, adapt, modify, or otherwise use the Posted Content in any manner, grant licenses to third parties, and otherwise exercise all rights based on the copyright in the Posted Content.
 
 Article 24. Disclaimers
 -----------------------
@@ -1217,6 +1220,7 @@ Supplemental Provisions
 Revision
 --------
 
+*   September 29th, 2026: Revised “Article 23. Copyrights and Usage”.
 *   July 6th, 2026 “Article 10. Payment of Support Money and Payment Method” has been revised.
 *   June 30th, 2025 “Article 7. Posting”, “Article 21. Prohibitions” and “Article 25. Special Provisions regarding the Discord Integration Function” have been revised.
 *   April 21st, 2025　The entire Individual Terms of Use were updated.
