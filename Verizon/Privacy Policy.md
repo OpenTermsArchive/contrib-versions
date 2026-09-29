@@ -546,7 +546,7 @@ Open all
     *   Verizon Wireless and certain business customers:  
         call 1-800-333-9956 to update your preferences or visit the [privacy preferences page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app (Edit profile & settings -> Privacy preferences).
     *   Frontier customers:  
-        call 1-855-484-2894 to update your account preferences.
+        call 1-877-213-1556 to update your account preferences.
     
     ### You have choices about participating in Verizon programs that use web browsing and other information to personalize your experiences with us.
     
