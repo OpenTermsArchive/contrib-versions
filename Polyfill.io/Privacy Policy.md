@@ -382,7 +382,7 @@ Welcome Bonus Pack 430% up to £11,500 + 200 free spins
 
 32
 
-[![Spin Chester](https://polyfill.io/assets/01kvfhkphmswhj3pzaqy6hvjdv.svg)](https://polyfill.io/visit/spin-chester/)
+[![Spin Chester](https://polyfill.io/assets/01m3marhq0fh7haqd3k6zs38nn.svg)](https://polyfill.io/visit/spin-chester/)
 
 Spin Chester
 
