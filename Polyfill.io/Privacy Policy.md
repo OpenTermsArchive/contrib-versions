@@ -1,7 +1,7 @@
 Non GamStop Casinos for UK Players - New Casino Options
 =======================================================
 
-Updated: 28th of September 2026
+Updated: 29th of September 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
@@ -418,27 +418,27 @@ Welcome Bonus 500% up to £10.200 + 777 FS
 
 35
 
-[![Kazeeno](https://polyfill.io/assets/01kyh60cme25f83s17v0t0stze.svg)](https://polyfill.io/visit/kazeeno/)
-
-Kazeeno
-
-€3,000 + 350 Free Spins
-
-8.4/10
-
-[Play Now](https://polyfill.io/visit/kazeeno/)
-
-36
-
 [![VillaSpin](https://polyfill.io/assets/01kyvvjh9e7d9b1p0fbzj7jxq7.svg)](https://polyfill.io/visit/villaspin/)
 
 VillaSpin
 
 Welcome Pack 475% Yp To £4,750 + 275 FS
 
-8.2/10
+8.4/10
 
 [Play Now](https://polyfill.io/visit/villaspin/)
+
+36
+
+[![Kazeeno](https://polyfill.io/assets/01kyh60cme25f83s17v0t0stze.svg)](https://polyfill.io/visit/kazeeno/)
+
+Kazeeno
+
+€3,000 + 350 Free Spins
+
+8.2/10
+
+[Play Now](https://polyfill.io/visit/kazeeno/)
 
 How we researched and ranked these sites
 ----------------------------------------
