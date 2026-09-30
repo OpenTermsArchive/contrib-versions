@@ -25,7 +25,7 @@ We may share your personal information with affiliate companies of Samsung Elect
 
 *   ### [SAMSUNG PRIVACY POLICY](javascript:void\(0\))
     
-    _Effective Date: 28th December 2022._
+    _Effective Date: 30th September 2026_
     
       
     
@@ -299,7 +299,7 @@ We may share your personal information with affiliate companies of Samsung Elect
     
       
     
-    You can lodge a complaint with the relevant supervisory authority if you believe that our processing of your personal information infringes applicable law. Contact details for all EU and EEA supervisory authorities can be found at [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+    You can lodge a complaint with the relevant supervisory authority if you believe that our processing of your personal information infringes applicable law. Contact details for all EU and EEA supervisory authorities can be found at [https://www.edpb.europa.eu/about-edpb/our-members\_en](https://www.edpb.europa.eu/about-edpb/our-members_en).
     
 *   ### [PRIVACY POLICY FOR SAMSUNG ONLINE SHOP](javascript:void\(0\))
     
@@ -477,3 +477,7 @@ We may share your personal information with affiliate companies of Samsung Elect
     You can also contact us by visiting our [Privacy Support Page](https://www.samsung.com/request-desk/). We are a global company with offices across Europe. This means that we will ensure your request or query is dealt with by the data protection team based in your region.
     
     You may lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU Supervisory Authorities can be found [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+    
+
+*   [Home Home](https://www.samsung.com/ie/)
+*   **Privacy** **Privacy**
