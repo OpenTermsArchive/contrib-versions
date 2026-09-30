@@ -1,7 +1,7 @@
 **Content Guidelines**
 ======================
 
-Last Updated: July 20, 2026
+Last Updated: September 29, 2026
 
 Substack is a place for independent writers, podcasters, and creators. We host and celebrate a diverse range of thought and discussion. The following guidelines outline what is and is not acceptable on Substack. We have the exclusive right to interpret and enforce these guidelines, although we may consult outside experts, research, and industry best practices in doing so. If you encounter content that may be in breach of these guidelines or have any questions about them, you can email us at [tos@substackinc.com](mailto:tos@substackinc.com).
 
@@ -37,7 +37,7 @@ Substack’s payments are processed through Stripe, which excludes certain types
 
 **Harmful and illegal activities**
 
-We don’t allow content that promotes harmful or illegal activities, including material that advocates, threatens, or shows you causing harm to yourself, other people, or animals. We don’t allow child sexual abuse material or the use of Substack for child sexual exploitation or abuse. We also do not allow non-consensual intimate images — sharing, or threatening to share, sexual images of a person without their consent.
+We don’t allow content that promotes harmful or illegal activities, including material that advocates, threatens, or shows you causing harm to yourself, other people, or animals. We don’t allow child sexual abuse material, including AI-generated or otherwise synthetic depictions of a minor in a sexual manner, or the use of Substack for child sexual exploitation or abuse. We also do not allow non-consensual intimate images, including synthetic or AI-generated ones — sharing, or threatening to share, sexual images of a person without their consent.
 
 **Additional restrictions for users in Australia**
 
@@ -72,7 +72,7 @@ Substack is intended for high quality editorial content, not conventional email 
 
 **Nudity, porn, erotica**
 
-We don’t allow porn or sexually exploitative content on Substack, including any visual depictions of sexual acts for the sole purpose of sexual gratification. We do allow depictions of nudity for artistic, journalistic, or related purposes, as well as erotic literature, however, we have a strict no nudity policy for profile images. We may hide or remove explicit content from Substack’s discovery features, including search and on [Substack.com](http://substack.com/).
+We don’t allow porn or sexually exploitative content on Substack, including any visual depictions of sexual acts for the sole purpose of sexual gratification. We strictly prohibit sexualized portrayals of minors, or of any subject that appears to us to be a minor, regardless of whether the content is synthetic or includes age disclaimers, where the apparent purpose of the content is sexual arousal or gratification. We do allow depictions of nudity for artistic, journalistic, or related purposes, as well as erotic literature, however, we have a strict no nudity policy for profile images. We may hide or remove explicit content from Substack’s discovery features, including search and on [Substack.com](http://substack.com/).
 
 **Comments, Notes & Community Surfaces**
 
