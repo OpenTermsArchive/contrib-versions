@@ -278,7 +278,6 @@ Simplify tax research with quick-reference handbooks that deliver accurate answe
 *   [Westlaw Edge](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge/plans-pricing?segment=lawfirm)
 *   [Westlaw Edge with AI-Assisted Research](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-edge-aar/plans-pricing?segment=lawfirm)
 *   [Westlaw Advantage](https://sales.legalsolutions.thomsonreuters.com/en-us/products/westlaw-advantage/plans-pricing?segment=lawfirm)
-*   [Westlaw Advantage with CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/300/plans-pricing?segment=lawfirm)
 *   [CoCounsel Essentials](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-essentials/plans-pricing?segment=lawfirm)
 *   [CoCounsel Legal](https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/700/plans-pricing?segment=lawfirm)
 *   [Practical Law](https://sales.legalsolutions.thomsonreuters.com/en-us/products/practical-law/plans-pricing?segment=lawfirm)
@@ -317,14 +316,14 @@ Complete legal work faster with AI that unites research, analysis, and drafting 
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_4.svg)
 
-Get started
+Tailored solutions
 
-Contact sales
--------------
+Corporate counsel
+-----------------
 
-Connect with our sales team to explore legal solutions tailored to your professional needs and business goals.
+Explore legal research, practical guidance, and AI-powered tools that help you support the business with confidence.
 
-[Contact us](https://www.thomsonreuters.com/en/contact-us)
+[Learn more](https://sales.legalsolutions.thomsonreuters.com/en-us/corporates)
 
 *   [CoCounsel Tax Essentials Get started with AI for everyday tax work, designed for mid-market and small CPA tax and accounting firms.](https://tax.thomsonreuters.com/en-us/products/cocounsel-tax/plans-pricing)
 
