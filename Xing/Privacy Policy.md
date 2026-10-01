@@ -4,18 +4,18 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 01 December 2025
+*   Last updated: 01 October 2026
 *   Here we inform you about data processing in connection with the entire service XING and its applications (XING, onlyfy, etc.).
-*   New Work SE is the body responsible for the processing of personal data.
+*   XING SE & Co. KG is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Christian Schmidt.
 
 #### XING is a comprehensive service with various applications
 
-[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) include, in particular, the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, and a talent acquisition platform. Some of the [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. onlyfy).  
+[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) include, in particular, the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, and a talent acquisition platform. Some of the [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. onlyfy).  
   
 Essentially, [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) is a jobs network where professionals from all industries and career levels can find jobs and get found by employers and recruiters. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) helps its users navigate the many opportunities to find the job that truly suits them and their individual needs. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) is about more than just CVs, it’s about finding the perfect match between talent and the right employer. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) shows users the career opportunities available to them and empowers them to make informed decisions about their professional job journey.  
   
-XING’s applications also include recruiting solutions that employers and recruiters can use to identify and attract suitable talent for their organisations. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) offers a wide range of solutions, ranging from job postings to active sourcing tools and candidate management systems. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) users, also in the context of this Privacy Policy, are both private individuals (talent) and business users (employers, recruiters). XING’s recruiting solutions are an extension of the [social network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk) (making business users members of the [social network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk)) or are directly linked to it.  
+XING’s applications also include recruiting solutions that employers and recruiters can use to identify and attract suitable talent for their organisations. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) offers a wide range of solutions, ranging from job postings to active sourcing tools and candidate management systems. [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) users, also in the context of this Privacy Policy, are both private individuals (talent) and business users (employers, recruiters). XING’s recruiting solutions are an extension of the [jobs network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk) (making business users members of the [jobs network](https://privacy.xing.com/de/datenschutzerklaerung/glossar/soziales-netzwerk)) or are directly linked to it.  
   
 We provide this Privacy Policy to inform you about data processing in connection with the entire service [XING](https://privacy.xing.com/de/datenschutzerklaerung/glossar/xing) (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
@@ -24,7 +24,7 @@ We provide this Privacy Policy to inform you about data processing in connection
 
 #### Responsible body
 
-We, New Work SE, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Baumwall 7, 20459 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
+We, XING SE & Co. KG, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Baumwall 7, 20459 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
 
 #### Data Protection Officer
 
@@ -87,9 +87,9 @@ We delete this data when you delete your user account.
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
-#### Mandatory information in the social network
+#### Mandatory information in the jobs network
 
-You are required to complete certain mandatory fields. The social network offers you a number of different ways for your to present yourself with your own user profile on XING websites and beyond, and to interact with other users and third parties in real time. This mandatory information is essential to serve the overarching purpose of XING.
+You are required to complete certain mandatory fields. The jobs network offers you a number of different ways for your to present yourself with your own user profile on XING websites and beyond, and to interact with other users and third parties in real time. This mandatory information is essential to serve the overarching purpose of XING.
 
 #### Category
 
@@ -102,7 +102,7 @@ e.g.
 
 #### Visibility
 
-The following mandatory information is always visible without limitation to other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), and to users of certain other XING websites on which your user profile is displayed in full or in part:
+The following mandatory information is always visible without limitation to other users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), and to users of certain other XING websites on which your user profile is displayed in full or in part:
 
 *   First name, last name
 *   Job title and company name
@@ -117,7 +117,7 @@ We delete this data when you delete your user account.
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
-#### Optional information in the social network
+#### Optional information in the jobs network
 
 As well as the mandatory information we require, you can also enter additional information to make it easier for users to get to know you better and, for example, identify and select you as a suitable employee or business contact.
 
@@ -134,7 +134,7 @@ e.g.
 
 #### Visibility
 
-After entry, your optional information is visible to all users in the social network, and to users of certain other XING websites where your user profile is displayed in full or in part. In some cases, you can choose whether optional information should only be visible to certain users.
+After entry, your optional information is visible to all users in the jobs network, and to users of certain other XING websites where your user profile is displayed in full or in part. In some cases, you can choose whether optional information should only be visible to certain users.
 
 #### Privacy
 
@@ -202,11 +202,11 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### E-mail address(es)
 
-We use the electronic mail address(es) that you have provided to us to send you regular [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and/or status e-mails electronically, in addition to advertising for our own related products and services, or surveys for the purpose of our own market research, unless you have objected to this form of usage. The [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) are a simple and effective way of finding out about new features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), for example, having interesting contacts suggested to you, or receiving certain personal statistics. We use the e-mail addresses you provided us with (with the exception of the login e-mail address) to ensure that your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) can be found by other users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) and to be able to display your profile to these users. If you give us your consent, we will use your data for targeting on third-party platforms (see [measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising)).
+We use the electronic mail address(es) that you have provided to us to send you regular [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and/or status e-mails electronically, in addition to advertising for our own related products and services, or surveys for the purpose of our own market research, unless you have objected to this form of usage. The [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) are a simple and effective way of finding out about new features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), for example, having interesting contacts suggested to you, or receiving certain personal statistics. We use the e-mail addresses you provided us with (with the exception of the login e-mail address) to ensure that your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) can be found by other users of the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) and to be able to display your profile to these users. If you give us your consent, we will use your data for targeting on third-party platforms (see [measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising)).
 
 #### Privacy
 
-You can unsubscribe to [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) at any time, either in your notification settings in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) or by clicking on the link provided at the end of e-mail [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter). It’s possible to unsubscribe to [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and notifications in individual applications too, although there are different ways of going about this.
+You can unsubscribe to [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) at any time, either in your notification settings in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) or by clicking on the link provided at the end of e-mail [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter). It’s possible to unsubscribe to [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and notifications in individual applications too, although there are different ways of going about this.
 
 #### Period saved for
 
@@ -216,17 +216,17 @@ If you delete the e-mail address(es), it/they will be removed from the respectiv
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) are Article 6 (1) f) and Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) as well as Article 6 (1) a) of the EU General Data Protection Regulation (GDPR) with regard to use for third-party platform targeting.
 
-#### Your contacts in the social network
+#### Your contacts in the jobs network
 
-Those users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) who you ask to join your personal network will be saved on your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) in a list of contacts. If a user in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) confirms your contact request, they become a so-called "confirmed contact" for you. Another way of connecting with users is the more non-committal "Follow" option. The user in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) who you want to follow does not have to confirm your request.
+Those users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) who you ask to join your personal network will be saved on your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) in a list of contacts. If a user in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) confirms your contact request, they become a so-called "confirmed contact" for you. Another way of connecting with users is the more non-committal "Follow" option. The user in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) who you want to follow does not have to confirm your request.
 
 #### Visibility
 
-Other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) can only ever see your confirmed contacts and people you're following.
+Other users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) can only ever see your confirmed contacts and people you're following.
 
 #### Privacy
 
-Your default privacy settings mean that the list of your confirmed contacts is visible to all users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). You can alter this setting at any time so that your list of confirmed contacts is hidden from everyone or is only visible to certain groups of users, e.g. only to contacts of your confirmed contacts (second degree contacts).
+Your default privacy settings mean that the list of your confirmed contacts is visible to all users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). You can alter this setting at any time so that your list of confirmed contacts is hidden from everyone or is only visible to certain groups of users, e.g. only to contacts of your confirmed contacts (second degree contacts).
 
 #### Period saved for
 
@@ -236,9 +236,9 @@ We delete this data when you delete your user account.
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
-#### Private messages on the social network
+#### Private messages on the jobs network
 
-You can exchange private messages with other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). As well as text, content you can send to other users includes images and your exact location. You will also receive e-mail notifications about new messages via the e-mail address your provided.
+You can exchange private messages with other users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). As well as text, content you can send to other users includes images and your exact location. You will also receive e-mail notifications about new messages via the e-mail address your provided.
 
 #### Visibility
 
@@ -246,7 +246,7 @@ Private messages can never be accessed by anyone other than those individuals wh
 
 #### Privacy
 
-The default settings for messages is that all other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) may send you messages. You can adjust these settings at any time so that either nobody can send you private messages or only users up to a certain degree of separation to you, e.g. only contacts of your confirmed contacts (second degree contacts).
+The default settings for messages is that all other users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) may send you messages. You can adjust these settings at any time so that either nobody can send you private messages or only users up to a certain degree of separation to you, e.g. only contacts of your confirmed contacts (second degree contacts).
 
 #### Period saved for
 
@@ -256,9 +256,9 @@ We save this data until your user account is deleted. The recipients of your mes
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
-#### Your shared content and reactions on the social network
+#### Your shared content and reactions on the jobs network
 
-In the social network there are various ways of sharing content with others and reacting to content.
+In the jobs network there are various ways of sharing content with others and reacting to content.
 
 #### Category
 
@@ -272,13 +272,13 @@ e.g.
 
 #### Visibility
 
-Generally speaking, the content and reactions you share in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) are visible to all users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).  
-Any comments you make in XING News and Insider articles are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
+Generally speaking, the content and reactions you share in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) are visible to all users in the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).  
+Any comments you make in XING News and Insider articles are subject to a greater degree of visibility. This information can also be accessed outside of the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
 For individual features the level of visibility may be more restricted (e.g. only visible to contacts). In such cases you will be informed about visibility when using the respective feature. Please be aware that even if you restrict visibility, the content and reactions that you share may become visible beyond your own network if your contacts choose to share this information with other users.
 
 #### Period saved for
 
-If you delete the content you shared and the reactions, they will be removed from the social network. We will erase them in full or make them anonymous when you delete your user account.
+If you delete the content you shared and the reactions, they will be removed from the jobs network. We will erase them in full or make them anonymous when you delete your user account.
 
 #### Legal basis
 
@@ -353,13 +353,13 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 You can often apply for jobs directly via XING and onlyfy by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad.  
   
-The "Leverage your application" feature also lets you use the data from your application, irrespective of whether or not you are a member of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). If you grant the necessary permission by opting to use this feature, we will save your data from your application and use it to offer you a wide range of professional opportunities and share your data with recruiters. The "Leverage your application" feature also allows us to send you regular job suggestions, while other recruiters/companies can view your CV and contact you about matching vacancies. You also have the option to use your job application data to apply for other jobs. We aim to provide you with the best-possible support for your professional life, which is why we also use the e-mail address you provide to send you information about our other products and services. The "Leverage your application" does not automatically create a visible profile for you on the social network.
+The "Leverage your application" feature also lets you use the data from your application, irrespective of whether or not you are a member of the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). If you grant the necessary permission by opting to use this feature, we will save your data from your application and use it to offer you a wide range of professional opportunities and share your data with recruiters. The "Leverage your application" feature also allows us to send you regular job suggestions, while other recruiters/companies can view your CV and contact you about matching vacancies. You also have the option to use your job application data to apply for other jobs. We aim to provide you with the best-possible support for your professional life, which is why we also use the e-mail address you provide to send you information about our other products and services. The "Leverage your application" does not automatically create a visible profile for you on the jobs network.
 
 #### Visibility
 
 Other than the companies you applied to, only you can see which vacancies you applied for. Other people are unable to see this information on XING. Only the company you apply to via XING can access the data and documents you provide in your application.  
   
-If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you. The "Leverage your application" does not automatically create a visible profile for you on the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).
+If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you. The "Leverage your application" does not automatically create a visible profile for you on the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).
 
 #### Retention period
 
@@ -702,7 +702,7 @@ XING and onlyfy offer multiple ways for you to apply for jobs directly by enteri
 Certain XING features use partner technologies from Google, e.g. to generate previews when users post YouTube videos on the platform.  
 Information about this is available on [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) and in Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-#### New Work SE subsidiaries
+#### XING SE & Co. KG subsidiaries
 
 Acting as a service provider for commissioned data processing
 
@@ -732,7 +732,7 @@ If we process your [personal data](https://privacy.xing.com/en/privacy-policy/gl
 
 You have the right to demand confirmation as to whether we process your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data). If this is the case you are entitled to receive information about this [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data).  
   
-As a user of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
+As a user of the [jobs network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
   
 As a XING TalentService, XING Exchange, or applications via [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) user you can also easily access the data we have saved about you there. Simply send an e-mail request:
 
@@ -793,9 +793,9 @@ Terms used in our Privacy Policy
   
 **Personal data:** Pursuant to Article 4 (1) of the EU General Data Protection Regulation (GDPR), any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
   
-**Social network:** The professional social network and jobs network belonging to the applications of the service XING.  
+**Jobs Network:** The Jobs Network belonging to the applications of the XING service.  
   
-**Profile:** The page on the XING websites where the personal data made available by the user is displayed in the social network.  
+**Profile:** The page on the XING websites where the personal data made available by the user is displayed in the jobs network.  
   
 **Cookies:** Small files that enable us to store specific information related to you, the user, on your end device. You can edit the settings of your browser to prevent cookies from being saved.  
   
