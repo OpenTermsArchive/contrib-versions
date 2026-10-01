@@ -619,7 +619,7 @@ Examples of how we use your information to deliver our services include:
 
 *   We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video
 *   We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
-*   Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share. [Learn more](https://support.google.com/photos?p=privpol_manage)
+*   Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.
 *   A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
 *   When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 
@@ -735,7 +735,7 @@ Examples of these services include:
 
 ### show trends
 
-When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. [Learn more](https://support.google.com/trends?p=privpol_about)
+When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.
 
 ### similar information related to your physical or mental health
 
