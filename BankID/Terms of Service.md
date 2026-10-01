@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/facial-recognition.jpg)
+[![](/assets/stock/1400x930/office-noteboard.jpg)
+
+#### Get started with your security work
+
+2026-10-01
+
+Does your company need to get to grips with its security work? Here are some useful tips to help you get started.](https://www.bankid.com/en/about-us/news/get-started-with-your-security-work) [![](/assets/stock/1400x930/facial-recognition.jpg)
 
 #### Facial recognition as an extra control
 
@@ -130,10 +136,4 @@ We now launch facial recognition as an option for extra control for banks, gover
 
 2026-08-03
 
-Use your digital ID card to identify yourself when you vote in the general election this autumn.](https://www.bankid.com/en/about-us/news/digital-id-card-at-the-voting-location) [![](/assets/stock/1400x930/hangmatta_1400x930.jpg)
-
-#### Secure summer
-
-2026-06-26
-
-Stay safe when you're using BankID during summer. Follow our tips.](https://www.bankid.com/en/about-us/news/secure-summer)
+Use your digital ID card to identify yourself when you vote in the general election this autumn.](https://www.bankid.com/en/about-us/news/digital-id-card-at-the-voting-location)
