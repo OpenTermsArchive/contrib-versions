@@ -52,7 +52,7 @@ X Terms of Service
 
 These Terms of Service (“Terms”) govern your relationship with us and your and other users’ access to and use of, and anything otherwise relating to, our or our corporate affiliates’ services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other services (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.
 
-These Terms are an agreement between you and X Corp., which provides X and the Services, with its registered office at 800 W Cesar Chavez St., Austin, TX 78701, USA. The words “we,” “us,” and “our” mean X Corp.
+These Terms are an agreement between you and X Corp., which provides X and the Services, with its principal place of business at 800 W Cesar Chavez St., Austin, TX 78701, USA. The words “we,” “us,” and “our” mean X Corp.
 
 1\. Who May Use the Services
 ----------------------------
