@@ -38,8 +38,7 @@ When you purchase a Google One subscription or AI credits, your purchase will be
 The seller for your purchase of a Google One subscription or AI Credits through the Google Play Store is:
 
 *   For consumers in Europe, the Middle East, and Africa: Google Commerce Limited
-*   For consumers in India: Google Ireland Limited
-*   For consumers in the rest of Asia, Pacific: Google Digital Inc.
+*   For consumers in Asia, Pacific: Google Digital Inc.
 *   For consumers in the United States and the rest of the world: Google LLC.
 
 When you purchase a Google One subscription or AI credits through a third party or affiliate, that third party or affiliate will charge your payment method and be responsible for managing any issues with your payment, including cancellations and refunds.
