@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective April 2, 2026 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20260402/p5bwm5x1/google_privacy_policy_en_eu.pdf)
+Effective October 1, 2026 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20261001/f86f5p0s/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
