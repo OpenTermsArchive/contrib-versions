@@ -3,7 +3,7 @@ Compare Non GamStop Casinos UK - New Casino No Deposit Bonuses
 
 ![Lewis Knight](https://jmrc.co.uk/assets/01m3ve33asbpk1grmmrdqa5yc6.webp) Lewis Knight
 
-UPDATED: 1ST OF OCTOBER 2026
+UPDATED: 2ND OF OCTOBER 2026
 
 Non GamStop casinos are online gambling sites that do not take part in GAMSTOP, Great Britain’s self-exclusion scheme, and usually hold an overseas licence instead of a UK Gambling Commission one. This guide reviews ten of them in ranked order and explains the bonus terms, payments, licences and protections behind each.
 
