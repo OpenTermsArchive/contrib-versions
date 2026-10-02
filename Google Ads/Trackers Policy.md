@@ -20,13 +20,11 @@ These may be set from a few different domains, including google.com, doubleclick
 
 See more detail about the [types of cookies used by Google](https://policies.google.com/technologies/cookies#types-of-cookies) and our partners and [how we use them](https://policies.google.com/technologies/cookies).
 
-### How you can control advertising cookies
+### How you can control advertising cookies and cookie-based information
 
-You can use [ad settings](https://myadcenter.google.com/?ref=privacy-policy) to manage the Google ads you see and turn off personalized ads. Even if you turn off personalized ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type, and your search terms.
+You can [manage cookies in your web browser](https://policies.google.com/technologies/cookies#types-of-cookies) as well as through various online advertising consumer choice tools created under self-regulation programs including the US-based [aboutads.info choices](https://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
 
-You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
-
-Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/cookies#types-of-cookies).
+Note that even if cookies are removed or disabled in your browser, Google may use cookie-based information or other advertising technologies to personalize ads unless you [change your ads settings](https://myadcenter.google.com/?ref=privacy-policy) to turn off personalized ads. And when personalized ads are turned off, you may still see ads based on factors such as your general location derived from your IP address, your browser type, and your search terms.
 
 Other technologies used in advertising
 --------------------------------------
@@ -147,9 +145,9 @@ You may also see ads on Google products and services, including Search, Gmail, a
 
 You may see ads for products you previously viewed. Let’s suppose you visit a website that sells golf clubs, but you don’t buy those clubs on your first visit. The website owner might want to encourage you to return and complete your purchase. Google offers services that let website operators target their ads to people who visited their pages.
 
-For this to work, Google either reads a cookie that’s already in your browser or places a cookie in your browser when you visit the golfing site (assuming your browser lets this happen).
+For this to work, Google uses cookies or other identifiers (like your IP address or information you previously shared with the website) that are already in your browser or places a cookie in your browser when you visit the golfing site (assuming your browser lets this happen).
 
-When you visit another site that works with Google, which may have nothing to do with golfing, you might see an ad for those golf clubs. That’s because your browser sends Google the same cookie. In turn, we may use that cookie to serve you an ad that could encourage you to buy those golf clubs.
+When you visit another site that works with Google, which may have nothing to do with golfing, you might see an ad for those golf clubs. That’s because your browser sends Google the same cookie or other identifiers. In turn, we may use that cookie or other identifiers to serve you an ad that could encourage you to buy those golf clubs.
 
 Your visit to the golfing site may also be used by Google to show you personalized ads when you later search for golf clubs on Google.
 
