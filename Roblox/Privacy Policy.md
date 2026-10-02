@@ -185,8 +185,6 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/
     
     You can also learn more about COPPA by looking at this simple guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html)
     
-    [](https://kidsafe.com/member/roblox)
-    
 3.  When we collect your information
     
     Setting up a Roblox account
