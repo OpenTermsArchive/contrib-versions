@@ -1062,6 +1062,6 @@ Was this article helpful?
 
 Yes No
 
-16 out of 26 found this helpful
+24 out of 36 found this helpful
 
 [Return to top](#article-container)
