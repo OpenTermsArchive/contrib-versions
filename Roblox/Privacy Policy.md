@@ -185,6 +185,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/
     
     You can also learn more about COPPA by looking at this simple guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html)
     
+    [](https://kidsafe.com/member/roblox)
+    
 3.  When we collect your information
     
     Setting up a Roblox account
@@ -599,7 +601,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/
     
     *   Username and password to create your account. The basis for processing this Personal Information is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
     *   Email addresses and other information you provided us with for added verification and/or to enable certain features. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
-    *   If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for  friend recommendations and discoverability based on your phone number is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    *   If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for friend recommendations and discoverability based on your phone number is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
     
     Purchases on Roblox
     
