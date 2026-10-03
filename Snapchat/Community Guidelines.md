@@ -7,7 +7,13 @@ Community Guidelines
 
 ![Yes or No](https://images.ctfassets.net/kw9k15zxztrs/1UwZbQH2zgrFsy9A4ARSL5/c6d55934e03c0dbfee7a00ed5769dcef/1-community_guidelines-cover.png?fm=webp&q=40&h=650)
 
-At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines, [in line with our commitment to respecting human rights](https://www.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB), to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines are part of a Snapchatter's contract with Snap. If you violate these guidelines, we may take action against your account. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
+At Snap, we empower people to express themselves, live in the moment, learn about the world and have fun together. We created these Community Guidelines, [in line with our commitment to respecting human rights](https://www.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB), to encourage self-expression while helping Snapchatters stay safe.
+
+Community Guidelines are the rules that govern what is and is not allowed on Snapchat. These guidelines apply to all content and all who use or interact with Snapchat. This includes [usernames and display names](https://www.snap.com/privacy/transparency/community-guidelines/usernames-and-displaynames?lang=en-US), Bitmojis, text, images, videos, generative AI, links or attachments, emojis, stickers, Lenses and other creative tools. It also applies to all behaviour on Snapchat, including user-to-user interaction, as well as behaviour that affects the integrity of our ecosystem, such as inauthentic activity or deceptive practices designed to manipulate Snap’s platform or products.
+
+If these policies are violated, we may take action on the offending account, including by removing violating content, issuing warnings, limiting visibility of the account or content, or terminating the account. If your account is disabled for violating these guidelines, you are not allowed to use Snapchat again without our permission.
+
+We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-GB), these guidelines, including the linked Explainers, are part of your agreement with Snap. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-GB) and check your local laws to make sure you are old enough to join our community. 
 
   
 
