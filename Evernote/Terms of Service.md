@@ -1,6 +1,15 @@
 Terms of Service
 ================
 
+Legal terms can be long, so we've explained what matters most in our [3 Laws of Data Protection](https://evernote.com/privacy/3-laws-of-data-protection).
+
+With Evernote…
+
+*   **Your notes are yours.**
+*   **Your notes are private by default.**
+*   **We don't train AI on your content.**
+*   **Your notes are protected, and you can export them anytime.**
+
 **If your usual residence is in the European Economic Area, the United Kingdom, or Switzerland, and you do not use the Evernote Service as part of a Multi-Seat Account (Evernote Enterprise), scroll down to find the terms that apply to you.**
 
 Evernote Terms of Service - United States and Rest of The World
