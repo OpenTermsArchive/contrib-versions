@@ -3,9 +3,9 @@ PARAMOUNT SKYDANCE PRIVACY POLICY
 
 **Last Modified:** May 12, 2026
 
-Paramount Skydance Corporation is a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise, and more.
+Paramount Skydance is a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise, and more.
 
-You may interact with Paramount Skydance Corporation and its affiliates (“Paramount” or the “Paramount Skydance Family of Companies”) (collectively “we” or “us”) through our global portfolio of networks, platforms, streaming services and websites, and through our advertisements and customer service tools, all which you may access online, via mobile and connected devices, applications, streaming platforms, or in-person at live events. You can find out more about our businesses and brands and the services we provide [here](https://www.paramount.com/about#businesses) (together, the “Paramount Services”).
+You may interact with Paramount Skydance (“Paramount” or the “Paramount Skydance Family of Companies”) (collectively “we” or “us”) through our global portfolio of networks, platforms, streaming services and websites, and through our advertisements and customer service tools, all which you may access online, via mobile and connected devices, applications, streaming platforms, or in-person at live events. You can find out more about our businesses and brands and the services we provide [here](https://www.paramount.com/about#businesses) (together, the “Paramount Services”).
 
 The controller of your personal information will be the company that provides the Paramount Services to you. You can view a [list of the Paramount Skydance controllers](https://privacy.paramount.com/en/controllers-list) here. We know how important it is to protect your personal information. This privacy policy explains our practices — and your choices — on how we collect, use, and share your information when you interact with any of the Paramount Services. This privacy policy applies to the Paramount Services that we make available throughout the world. Depending on the Paramount Service(s) you interact with, our practices with respect to personal information may vary and there may be additional notices about our practices and your choices that should be read in addition to this privacy policy.
 
@@ -432,11 +432,11 @@ If you have any questions or concerns regarding this privacy policy or would lik
 
 If you prefer to send your questions or comments by postal mail, please send a letter to the following address:
 
-Paramount Skydance Corporation  
+Paramount Skydance  
 Attention of Paramount Skydance Privacy Team  
 1515 Broadway  
-NY 10036  
-United States
+New York NY 10036  
+UNITED STATES OF AMERICA
 
 ADDITIONAL INFORMATION US STATES
 --------------------------------
