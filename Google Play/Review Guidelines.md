@@ -162,6 +162,7 @@ Business
 *   [### Google Arts & Culture Platform](https://support.google.com/culturalinstitute/partners?hl=en-GB)
 *   [### Ad Grants](https://support.google.com/grants?hl=en-GB)
 *   [### Google Workspace](https://support.google.com/a/users?hl=en-GB)
+*   [### Google Beam](https://support.google.com/beam?hl=en-GB)
 *   [### Google Ads](https://support.google.com/google-ads?hl=en-GB)
 *   [### Google Cloud](https://support.google.com/googlecloud?hl=en-GB)
 *   [### Hotel Center](https://support.google.com/hotelprices?hl=en-GB)
