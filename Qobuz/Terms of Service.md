@@ -313,16 +313,18 @@ For further information on the conditions of use of downloads or the QOBUZ strea
 
 **5\. Prices** 
 
+The prices of music downloads and QOBUZ subscription packages are shown on the Website in the currency of the Customer’s country. For all download sales totalling less than 10 euros, Xandrie reserves the right to charge customers a fee to cover the costs of operating the service.
+
 The price of downloading musical recordings and QOBUZ subscription offers are indicated on the Site in the currency of the Customer’s country. 
 
   
 The price of downloading musical recordings and QOBUZ subscription offers will include the price of the product plus any applicable VAT (in force at the date of download or of the payment). 
 
-Our prices do not include connection and communication charges relating to the use of an online sales service, which are the exclusive responsibility of the Internet user. 
-
 XANDRIE reserves the right to modify the prices or the present GCUS at any time. The modifications will come into effect from the moment the conditions are published on the Site; the products and services will be invoiced according to the rates in force at the time of the Client's invoice.
 
-XANDRIE SA reserves the right to automatically adjust the prices of musical recordings downloads and QOBUZ subscription offers, in the event of inflation or additional costs imposed on XANDRIE SA (fees or management costs depending on the payment methods used by the Customer...). 
+XANDRIE SA reserves the right to automatically adjust the prices of musical recordings downloads and QOBUZ subscription offers, in the event of inflation or additional costs imposed on XANDRIE SA. 
+
+Our prices do not include connection and communication charges relating to the use of an online sales service, which are the exclusive responsibility of the Internet user. 
 
 XANDRIE reserves the right to offer, trial offers and time-limited offers of its music streaming service, free of charge to all users and subscribers of the Service, with the exception of its subscribers who have subscribed for a period of one year to one of the QOBUZ subscription offers offered on the Site, with the exception of the SUBLIME+ offer, for variable durations. They can be modified by contract and apply as soon as they are signed. 
 
