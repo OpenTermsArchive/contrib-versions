@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/office-noteboard.jpg)
+[![](/assets/stock/1400x930/work_computer_typing.jpg)
+
+#### Be prepared for a cyberattack
+
+2026-10-07
+
+Being prepared for a cyberattack is about building capabilities, structures and response plans in advance.](https://www.bankid.com/en/about-us/news/be-prepared-for-a-cyberattack)[![](/assets/stock/1400x930/office-noteboard.jpg)
 
 #### Get started with your security work
 
@@ -130,10 +136,4 @@ Does your company need to get to grips with its security work? Here are some use
 
 2026-08-18
 
-We now launch facial recognition as an option for extra control for banks, government and other organizations.](https://www.bankid.com/en/about-us/news/facial-recognition-as-an-extra-control)[![](/assets/stock/1400x930/Elections_2026.jpg)
-
-#### Digital ID card at the voting location
-
-2026-08-03
-
-Use your digital ID card to identify yourself when you vote in the general election this autumn.](https://www.bankid.com/en/about-us/news/digital-id-card-at-the-voting-location)
+We now launch facial recognition as an option for extra control for banks, government and other organizations.](https://www.bankid.com/en/about-us/news/facial-recognition-as-an-extra-control)
