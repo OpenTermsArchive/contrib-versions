@@ -1,12 +1,6 @@
 Privacy Policy
 --------------
 
-Updated on Jul 23, 2026
-
-We've updated our Privacy Policy with details about agentic AI capabilities and how we personalise your AI experiences.
-
-[View details](https://privacycenter.instagram.com/policy/version/26776488768644674/?subpage=banner.subpage.agentic-ai-2026-h1-row)
-
 What is the Privacy Policy and what does it cover?
 
 Effective July 23, 2026 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/version/26776488768644674/) | [See previous versions](https://privacycenter.instagram.com/policy/version/26776488768644674/?show_versions=1)
