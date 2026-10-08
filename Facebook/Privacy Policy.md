@@ -3,12 +3,6 @@
 Politique de confidentialité
 ----------------------------
 
-Mise à jour : 23 juillet 2026
-
-Nous avons mis à jour notre Politique de confidentialité afin d’y inclure des informations sur les fonctionnalités d’IA agentique et sur la façon dont nous personnalisons vos expériences avec l’IA.
-
-[Consulter les informations](https://fr-fr.facebook.com/privacy/policy/version/26776488768644674/?subpage=banner.subpage.agentic-ai-2026-h1-row)
-
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 23 juillet 2026 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/version/26776488768644674/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/version/26776488768644674/?show_versions=1)
