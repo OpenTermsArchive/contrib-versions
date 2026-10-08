@@ -184,6 +184,15 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > > 
 > > When promoting cryptocurrencies and related products, you must comply with state and local regulations for any region or country that your ads target. Refer to our [non-exhaustive list of location-specific requirements](https://support.google.com/adspolicy/answer/7645254) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
 > 
+> ### [Prediction Markets](https://support.google.com/adspolicy/answer/16757872)
+> 
+> > Due to the inherent complexities, speculative nature, and unique regulatory classification involved in trading Prediction Market contracts and related products (defined as platforms that facilitate the listing of or provide customer access to Exchange-Listed Event Contracts related to economics, sports, or current events), Google Ads only allows advertisements for these products in the locations listed in the location specifics section below and only if they meet all of the following criteria:
+> > 
+> > *   The advertiser is a licensed Prediction Market provider that holds all applicable local financial, commodity, and/or gaming licenses, including those required as part of Google’s certification process.
+> > *   The products and ads comply with all local laws, financial regulations, industry standards and all other Google Ads Policies. Advertisers are expected to do their own research on the local regulations for any location their ads target and comply with these.
+> > *   The targeted location is eligible for certification for advertising under this policy.
+> > *   The account has received certification and approval from Google to run ads about these products.
+> 
 > ### [Dating and Companionship](https://support.google.com/adspolicy/answer/15328393)
 > 
 > > Google values diversity, inclusivity, and respect for others, so we support the promotion of general dating services that aren’t discriminatory, exploitative, or deceptive. Dating and Companionship ads are allowed if they comply with our policies, don’t allow users under 18, and the advertiser has received the proper Google Ads certification. These ads may be restricted based on the ad category, user age, local laws, the user’s SafeSearch settings, and the user’s sexual content search queries.
