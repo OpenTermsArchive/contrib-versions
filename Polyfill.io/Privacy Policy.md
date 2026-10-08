@@ -1,7 +1,7 @@
 Non GamStop Casinos for UK Players - New Casino Options
 =======================================================
 
-Updated: 5th of October 2026
+Updated: 7th of October 2026
 
 This page ranks casinos not on GamStop by licence, bonus value once terms are applied, game range and payment options. It covers what the GAMSTOP difference actually means, how the money works, and who these sites suit.
 
@@ -70,7 +70,7 @@ Welcome Offer 570% up to £5,700 + 270 Free Spins
 
 6
 
-[![Daytonaspin](https://polyfill.io/assets/01kve1ywz7xcxaaa4yfr018dq1.svg)](https://polyfill.io/visit/daytonaspin/)
+[![Daytonaspin](https://polyfill.io/assets/01m48akncb5sp3rvrb9tzq9tdz.svg)](https://polyfill.io/visit/daytonaspin/)
 
 Daytonaspin
 
