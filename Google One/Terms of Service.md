@@ -1,7 +1,7 @@
 Google One Additional Terms of Service
 ======================================
 
-Last Modified: November 11, 2025 |
+Last Modified: October 1, 2026 |
 
 Archived versions[](https://one.google.com/terms-of-service/archive)
 
