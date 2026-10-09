@@ -163,9 +163,8 @@ We use cookies and similar tracking technologies, including pixel tags or web be
 
 We differentiate between cookies that are essential for the technical features of our services and optional analytics and advertising cookies:
 
-|     |     |
-| --- | --- |
 | **Cookie Type** | **Description** |
+| --- | --- |
 | Essential Cookies | These are cookies that our Site needs in order to function, and that enable you to move around and use the Site and features. Without these essential cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features you request. Examples of where these cookies are used include: to determine when you are signed in, to determine when your account has been inactive, and for other troubleshooting and security purposes. |
 | Analytics Cookies | Analytics cookies allow us to understand more about how many visitors we have to our Site, how many times they visit us and how many times a user viewed specific pages within our Site. Although analytics cookies allow us to gather specific information about the Site that you visit and whether you have visited our Site multiple times, we cannot use them to find out details such as your name or address. |
 | Targeted Advertising Cookies | Advertising cookies may be placed by us or third parties to enable third party ad networks to recognize a unique cookie on your computer or mobile device. The information that is collected and shared by these types of cookies may also be linked to the device identifier of the device you are using to allow us to keep track of all the websites you have visited that are associated with the ad network. This information may be used for the purpose of targeting advertisements on our Site and third-party sites based on those interests. |
@@ -394,9 +393,8 @@ We use cookies and similar tracking technologies, including pixel tags or web be
 
 We differentiate between cookies that are essential for the technical features of our services and optional analytics and advertising cookies:
 
-|     |     |
-| --- | --- |
 | **Cookie Type** | **Description** |
+| --- | --- |
 | Essential Cookies | These are cookies that our Site needs in order to function, and that enable you to move around and use the Site and features. Without these essential cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features you request. Examples of where these cookies are used include: to determine when you are signed in, to determine when your account has been inactive, and for other troubleshooting and security purposes. |
 | Analytics Cookies | Analytics cookies allow us to understand more about how many visitors we have to our Site, how many times they visit us and how many times a user viewed specific pages within our Site. Although analytics cookies allow us to gather specific information about the Site that you visit and whether you have visited our Site multiple times, we cannot use them to find out details such as your name or address. |
 | Targeted Advertising Cookies | Advertising cookies may be placed by us or third parties to enable third party ad networks to recognize a unique cookie on your computer or mobile device. The information that is collected and shared by these types of cookies may also be linked to the device identifier of the device you are using to allow us to keep track of all the websites you have visited that are associated with the ad network. This information may be used for the purpose of targeting advertisements on our Site and third-party sites based on those interests. |
