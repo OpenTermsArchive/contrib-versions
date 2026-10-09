@@ -1,4 +1,4 @@
-Last modified: June 23, 2026
+Last modified: October 09, 2026
 
 Terms of Service
 ================
@@ -77,7 +77,7 @@ If you are subject to insurmountable circumstances that won't allow you to stay 
 4\. Limited warranties and liability
 ------------------------------------
 
-The Company does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and “as available,” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, accuracy, non-infringement, or warranties that may arise from course of dealing or course of performance or usage of trade.
+The Company reserves the right, at its sole discretion, to modify, suspend, or discontinue any of our Services, or any feature or component thereof, with or without notice to you. Where practicable, the Company will endeavor to provide reasonable advance notice of a material discontinuation of any of its Services of which you are a user, through the relevant Service's interface, email, or a posting on our website. However, the Company has no obligation to provide such notice, and is not liable to you or any third party for any modification, suspension, or discontinuation of a Service or feature to the extent permissible by applicable law.
 
 The Company offers the Proton Scribe feature as part of the Services. Proton Scribe is a writing assistant which provides you with some suggestions for email or document drafting. Proton Scribe is not designed to provide answers and may not always provide factually correct information. The content provided by Proton Scribe should not be relied upon for any specific purpose without verification of its accuracy or completeness. Proton does not offer any warranty about the accuracy or completeness of the content suggested by Proton Scribe.
 
