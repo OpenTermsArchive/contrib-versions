@@ -580,32 +580,40 @@ Prohibited Content shall also include any other content in violation of applicab
 
 ### II) DETECTION AND REPORT OF PROHIBITED CONTENT
 
-As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must immediately remove or disable access to any illicit Content after being informed of its existence.
+As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must promptly remove or disable access to any illicit Content after being informed of its existence.
 
-Dailymotion has therefore put in place detection and reporting tools allowing Dailymotion to be aware of the presence of Prohibited Content on the Dailymotion Service.  
-The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion attention by two means:
+To help identify Prohibited Content, Dailymotion uses a combination of automated detection tools and user reporting mechanisms**.** The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion’s attention **through the following channels**:
 
-1.  via the **automatic detection devices** set up on the Dailymotion Service (A) or;
-2.  via **Users’ reporting** through the **reporting tool** present near each video; (B) or through contacting Dailymotion **by e-mail or by letter** (C).
+1.  via the **automated detection** **tools** set up and **deployed on** the Dailymotion Service (A); or
+2.  via **Users’ reporting** through the **reporting tool** available near each video (B)**, or by** **contacting** Dailymotion **by e-mail or letter** (C).
 
-#### A. Automatic detection devices
+#### **A. Automated detection tools**
 
-The automatic detection device implemented by Dailymotion includes:
+The automated detection tools deployed by Dailymotion include:
 
-1.  **List of keywords and short phrases**
+##### **1\. Keyword detection**
 
-Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “**Moderation Decisions**” made during the previous 6 months.
+Dailymotion maintains a list of keywords and short phrases to help detect Content that may violate our Prohibited Content Policy. When uploading Content to the Service, if a word or short phrase in the comment, title**,** description, **or** other metadata of the Cont**ent is presen**t in the above-mentioned list**,** the Content will be flagged and sent to our moderation team for review**.** The Restricted Mode may also apply to Video Content (as described in Section IV)**.**
 
-Dailymotion uses AI-based tools (Artificial Intelligence) as part of the automated detection devices. These tools help to improve the efficiency of the detection process (ex. by detecting Dailymotion-defined keywords and short phrases despite spelling mistakes, abbreviations or multitude of languages). They do not determine whether the examined Content infringes or not the Dailymotion Prohibited Content Policy. They only help to detect Content that might be infringing. 
+##### **2\. Technologies for the protection of copyrighted content**
 
-Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video or in another category of Content being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our human moderation team who will analyze it and issue a moderation decision.    
-The Restricted Mode may be applied to Video Content (as described in Section IV). 
+Dailymotion works with two providers of digital fingerprint recognition solutions, **including** Audible Magic (AM) for audio detection and Institut National de l’Audiovisuel (INA) for video detection. When Content uploaded to the Dailymotion Service matches a digital fingerprint in these providers’ databases, it will be automatically removed.
 
-2.  **Technologies for the protection of copyrighted content**
+These technologies require the collaboration of the rights holders, who must provide their content to one or both of these providers in order to create the associated digital fingerprints. Dailymotion remains available to assist rights holders **in** this process and to help prevent the re-upload of protected content.
 
-Dailymotion works with two providers of digital fingerprint recognition solutions: Audible Magic for audio detection and INA (Institut National de l’Audiovisuel) for video detection. Whenever a piece of video Content uploaded on the Dailymotion Service matches the digital fingerprint databases of our two providers, the video Content will be automatically removed.
+##### **3\. AI-based detection and risk assessment**
 
-Despite their high efficiency and their innovative character, these technologies require the collaboration of the concerned rightsholders, who must communicate their content to one and/or the other of these companies in order to create the associated digital fingerprints. Dailymotion is at the disposal of rightsholders to help them contact these societies, in order to prevent the future upload of content that the rightsholders have protected in this way.
+Dailymotion also uses AI-based tools to analyse signals associated with Content, including metadata, images, audio and transcripts. 
+
+These tools assign a risk level to each piece of Content to prioritise their review and determine the appropriate course of action.
+
+A fully automated decision to restrict or remove Content will only be taken where the tool’s level of confidence that the Content violates our Prohibited Content Policy is very high. When the confidence’s level is not very high, Content is referred to Dailymotion’s moderation team for human review.
+
+Regardless of whether a decision is made through automated means or by a human moderator, Users retain the right to appeal any moderation decision in accordance with Section \[X\] of these Terms.
+
+##### **4\. Hash technology**
+
+Dailymotion uses in-house hashing technology to prevent the re-upload of Content that has previously been identified as infringing our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content). When such Content is removed, a unique digital fingerprint of the file is created, ensuring the exact same Content cannot be uploaded again.
 
 #### B. The reporting tool for Prohibited Content
 
