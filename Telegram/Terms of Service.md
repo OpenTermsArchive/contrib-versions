@@ -1046,7 +1046,7 @@ One is our [app for macOS](https://macos.telegram.org/), the other is Telegram L
 
 [Telegram for macOS](https://macos.telegram.org/) supports many platform-specific features, such as the MacBook Pro Touch Bar, gesture navigation, integration with the Mac's Share menu and more. It has every feature from the iOS version of the app including Secret Chats.
 
-[Telegram Lite](https://desktop.telegram.org/) is a lightning-fast app, optimized for work-related tasks and handling large communities. It offers a three-column interface, perfect for multitasking and quick access to media, files and links shared in your chats. This app can also be used to [export your Telegram data and chats](https://telegram.org/blog/export-and-more).
+[Telegram Lite](https://desktop.telegram.org/) is a lightning-fast app, optimized for work-related tasks and handling large communities. It offers a three-column interface, perfect for multitasking and quick access to media, files and links shared in your chats.
 
 #### [](#q-can-i-translate-telegram)Q: Can I translate Telegram?
 
@@ -1085,7 +1085,7 @@ If you are having registration or login problems, please contact us using [this 
 
 #### [](#getting-a-code-via-a-phone-call)Getting a code via a phone call
 
-For security reasons, login codes dictated via a phone call are only available for accounts that have **two-step verification** enabled (Settings > Privacy & Security > Two-Step Verification).
+For security reasons, login codes dictated via a phone call may be unavailable for particular carriers or require **two-step verification** enabled (Settings > Privacy & Security > Two-Step Verification).
 
 Please also note that Telegram accounts can only be connected to a mobile number. We currently don't support landline numbers.
 
