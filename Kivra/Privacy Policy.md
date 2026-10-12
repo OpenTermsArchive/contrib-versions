@@ -3,7 +3,7 @@ Privacy notice
 
 ==================
 
-Here we have gathered information about how we process your personal data. This data protection information is effective from 2026-09-23.
+Here we have gathered information about how we process your personal data. This data protection information is effective from 2026-10-08.
 
 **We protect your privacy**
 ---------------------------
