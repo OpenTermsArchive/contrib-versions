@@ -957,8 +957,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                  
              *   Réseau urbain Tempo Bus. ([https://transport.data.gouv.fr/datasets/agen-gtfs-urbain](https://transport.data.gouv.fr/datasets/agen-gtfs-urbain))
                  
-             *   Réseau urbain SNgo!. ([https://transport.data.gouv.fr/datasets/sngo-vernon-les-andelys-seine-normandie-agglo](https://transport.data.gouv.fr/datasets/sngo-vernon-les-andelys-seine-normandie-agglo))
-                 
              *   Réseau urbain DeepMob. ([https://transport.data.gouv.fr/datasets/deepmob-dieppe-maritime](https://transport.data.gouv.fr/datasets/deepmob-dieppe-maritime))
                  
              *   Réseau urbain TUS. ([https://transport.data.gouv.fr/datasets/transports-urbains-tus-ville-de-soissons](https://transport.data.gouv.fr/datasets/transports-urbains-tus-ville-de-soissons))
@@ -1082,6 +1080,38 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              *   Navettes hivernales Skibus Courchevel ([https://transport.data.gouv.fr/datasets/skibus-courchevel-hiver](https://transport.data.gouv.fr/datasets/skibus-courchevel-hiver))
                  
              *   Navettes Bourg-Saint-Maurice ([https://transport.data.gouv.fr/datasets/navettes-bourg-saint-maurice](https://transport.data.gouv.fr/datasets/navettes-bourg-saint-maurice))
+                 
+             *   Réseau urbain RTCA. ([https://transport.data.gouv.fr/datasets/offre-de-transports-rtca-gtfs/](https://transport.data.gouv.fr/datasets/offre-de-transports-rtca-gtfs/))
+                 
+             *   Réseau urbain Côte&Bus. ([https://transport.data.gouv.fr/datasets/offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs](https://transport.data.gouv.fr/datasets/offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs))
+                 
+             *   Réseau urbain L'Agglo en Bus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-lagglo-en-bus-ca-gap-tallard-durance-gtfs](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-lagglo-en-bus-ca-gap-tallard-durance-gtfs))
+                 
+             *   Réseau urbain 3CMA. ([https://transport.data.gouv.fr/datasets/transport-urbain-3cma-bus](https://transport.data.gouv.fr/datasets/transport-urbain-3cma-bus))
+                 
+             *   Réseau urbain RLV Mobilités. ([https://transport.data.gouv.fr/datasets/donnees-gtfs-1](https://transport.data.gouv.fr/datasets/donnees-gtfs-1))
+                 
+             *   Navette estivale Corté. ([https://transport.data.gouv.fr/datasets/gtfs-transport-via-corsica-corte-a-la-vallee-de-la-restonica-ligne-c13](https://transport.data.gouv.fr/datasets/gtfs-transport-via-corsica-corte-a-la-vallee-de-la-restonica-ligne-c13))
+                 
+             *   Téléphérique Papang. ([https://transport.data.gouv.fr/datasets/citalis-telepherique-papang](https://transport.data.gouv.fr/datasets/citalis-telepherique-papang))
+                 
+             *   Réseau urbain CITALIS. ([https://transport.data.gouv.fr/datasets/horaire-du-reseau-citalis](https://transport.data.gouv.fr/datasets/horaire-du-reseau-citalis))
+                 
+             *   Réseau urbain Le TACO. ([https://transport.data.gouv.fr/datasets/le-taco-1](https://transport.data.gouv.fr/datasets/le-taco-1))
+                 
+             *   Réseau estival Biscabus. ([https://transport.data.gouv.fr/datasets/biscabus](https://transport.data.gouv.fr/datasets/biscabus))
+                 
+             *   Réseau CVL Mobilité. ([https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-ligne-a-format-gtfs](https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-ligne-a-format-gtfs))
+                 
+             *   Navette estivale CVL Mobilité. ([https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-la-navette-lete-a-chinon-format-gtfs](https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-la-navette-lete-a-chinon-format-gtfs))
+                 
+             *   Réseau urbain Rubis. ([https://transport.data.gouv.fr/datasets/rubis-grand-bourg-mobilites-offre-de-transport-theorique-et-temps-reel](https://transport.data.gouv.fr/datasets/rubis-grand-bourg-mobilites-offre-de-transport-theorique-et-temps-reel))
+                 
+             *   Réseau urbain Aléo. ([https://transport.data.gouv.fr/datasets/donnees-du-reseau-de-transport-aleo](https://transport.data.gouv.fr/datasets/donnees-du-reseau-de-transport-aleo))
+                 
+             *   Réseau urbain Olé. ([https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-ole-lunel-agglo-gtfs-et-gtfs-rt](https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-ole-lunel-agglo-gtfs-et-gtfs-rt))
+                 
+             *   Réseau urbain Mobilité en Velay. ([https://transport.data.gouv.fr/datasets/fichier-gtfs-des-transports-urbains-de-la-communaute-dagglomeration-du-puy-en-velay](https://transport.data.gouv.fr/datasets/fichier-gtfs-des-transports-urbains-de-la-communaute-dagglomeration-du-puy-en-velay))
                  
          *   Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
              
@@ -1459,6 +1489,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   EU - Eurostat. Road freight transport by load capacity, 2026. [https://ec.europa.eu/eurostat/help/copyright-notice](https://ec.europa.eu/eurostat/help/copyright-notice), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Data.govgr - Municipality of Patras - License: [https://data.gov.gr/dataset/podilatodromoi-patra/resource/3ce26660-9ff7-4631-bdfa-2d6b7f74e179](https://data.gov.gr/dataset/podilatodromoi-patra/resource/3ce26660-9ff7-4631-bdfa-2d6b7f74e179)
+             
     24.  **Greenland**
          *   © Asiaq
              
@@ -1702,9 +1734,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
              
-         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和 8 年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+         *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和 8 年 7 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
              
-         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和 8 年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和 8 年 7 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
              
          *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
              
@@ -3120,9 +3152,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   HDX, Humanitarian Data Exchange. Zambia - Subnational Administrative Boundaries. [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses), [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
              
     80.  **Mali**
-         
-         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
-         
+         *   OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+             
+         *   Humanitarian Data Exchange ( HDX) - Mali (Admin Areas) - [https://docs.humdata.org/about/data-licenses](https://docs.humdata.org/about/data-licenses)
+             
     81.  **Madagascar**
          
          OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
