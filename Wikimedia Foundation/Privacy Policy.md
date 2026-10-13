@@ -5,7 +5,7 @@ Other languages:
 
 *   [asturianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ast "Política d'intimidá (5% translated)")
 *   [Avañe'ẽ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gn "Tekojepe'a hekorã (6% translated)")
-*   [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/az "Məxfilik siyasəti (18% translated)")
+*   [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/az "Məxfilik siyasəti (16% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Kebijakan Privasi (100% translated)")
 *   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Dasar privasi (43% translated)")
 *   [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
