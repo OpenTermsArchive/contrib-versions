@@ -510,7 +510,7 @@ HAPPN will store the Member’s data for as long as required in order for the Me
 
 With regard to your Geographical Positions and Crossing Points, shorter storage times apply:
 
-• Your last Geographical Position is stored for one month from their collection in order to determine your Crossing Points with other Members;
+• Your last Geographical Position is stored for two months from their collection in order to determine your Crossing Points with other Members;
 
 • Your Crossing Points are stored for six months from the time they are collected in order to display the Profiles of Members you have crossed on the Application;
 
