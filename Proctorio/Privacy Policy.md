@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-Last modified October 1, 2026
+Last modified October 12, 2026
 
 Download TXT
 
@@ -106,7 +106,7 @@ If the exam administrator enables the use of video recording, Proctorio can use 
 
 #### [](#continuity-check)3.2.3 Continuity Check
 
-If your institution enables it, Proctorio checks periodically throughout your exam that the person on camera is the same person who started the exam. During your pre-exam camera checks, and only after you consent on Proctorio's pre-exam screen, Proctorio's software measures the positions of your eyes and mouth to create a geometric reference on your device. Throughout the exam, the software periodically compares the face on camera against that reference. If the face in view does not appear to match, the software logs a mismatch event with a confidence value for your institution's approved representatives to review alongside the exam recording.
+If your institution enables it, Proctorio checks periodically throughout your exam that the person on camera is the same person who started the exam. During your pre-exam camera checks, and only after you consent on Proctorio's pre-exam screen, Proctorio's software measures the positions of your eyes and mouth to create a geometric reference on your device. Throughout the exam, the software periodically compares the face on camera against that reference. If the face in view does not appear to match, the software logs a mismatch event with a confidence value for your institution's approved representatives to review alongside the exam recording. Each time you consent on Proctorio's pre-exam screen, Proctorio keeps a record of that consent (your user ID, IP address, browser user agent, the date and time, and the version of the text you agreed to) for five years from the date of that consent, solely as evidence of your consent, and then deletes it.
 
 The geometric reference exists only in your device's memory while your exam session is running. It is never written to disk, stored, or transmitted anywhere, and it is destroyed automatically when your exam session ends. Proctorio cannot see, retrieve, or reconstruct it. The reference cannot be used to determine who you are. This feature uses no database of faces, and its comparison is made only against the person who started your exam, never against anyone else.
 
@@ -130,7 +130,7 @@ Proctorio does not make any decisions related to the Test Taker from flagged act
 
 ### [](#identity-verification-before-your-exam)3.4 Identity verification (before your exam)
 
-If your institution requires it, your identity will be verified before your exam begins. Your institution decides whether identity verification is required, which of the options described below are available to you, and how strict they are. Depending on your institution's settings, you may not be able to opt out of presenting a government-issued ID. Depending on the option used, the Personal Information involved may include your name, government ID number, date of birth, your photo, and an image of your government-issued ID.
+If your institution requires it, your identity will be verified before your exam begins. Your institution decides whether identity verification is required, which of the options described below are available to you, and how strict they are. Depending on your institution's settings, you may not be able to opt out of presenting a government-issued ID. Depending on the option used, the Personal Information involved may include your name, government ID number, date of birth, your photo, and an image of your government-issued ID. Each time you consent on Proctorio's pre-exam screen to an identity verification option, Proctorio keeps a record of that consent (your user ID, IP address, browser user agent, the date and time, and the version of the text you agreed to) for five years from the date of that consent, solely as evidence of your consent, and then deletes it.
 
 Proctorio offers the following options:
 
@@ -148,7 +148,7 @@ With Validate ID, your identity is verified rather than just captured. Your inst
 
 ##### [](#instant-id)3.4.3.A Instant ID
 
-Proctorio uses a specialized third-party identity verification provider, listed in our sub-processor list below. In this method, you submit an image of your ID and, if your institution requires it, a live selfie directly to the provider through the provider's own secure capture flow. This happens only after you consent on Proctorio's pre-exam screen and in the provider's own consent and disclosure flow. The provider checks that the document is genuine and, where a selfie is required, creates a biometric template to confirm that the selfie matches the photo on the ID. That biometric template is created and held by the provider and is never shared with Proctorio. For certain processing described in its own privacy policy, including retention of biometric data for its own fraud prevention, the provider acts as an independent controller. Proctorio receives and stores a verification reference and the verification result (for example, verified or not verified). The provider also returns details it reads from your ID, such as your name and date of birth. Proctorio uses only the document type and number from these, to create the fraud detection record described below, and does not store the other details or the number itself.
+Proctorio uses a specialized third-party identity verification provider, listed in our sub-processor list below. In this method, you submit an image of your ID and, if your institution requires it, a live selfie directly to the provider through the provider's own secure capture flow. This happens only after you consent on Proctorio's pre-exam screen and in the provider's own consent and disclosure flow. The provider checks that the document is genuine and, where a selfie is required, creates a biometric template to confirm that the selfie matches the photo on the ID. That biometric template is created and held by the provider and is never shared with Proctorio. For certain processing described in its own privacy policy, including retention of biometric data for its own fraud prevention, the provider acts as an independent controller. Proctorio receives and stores a verification reference and the verification result (for example, verified or not verified). The provider also returns details it reads from your ID, such as your name and date of birth. Proctorio uses only the document type and number from these, to create the fraud detection record described below, and does not store the other details or the number itself. Proctorio does not store the images you submit to the provider. When your institution's approved representatives review your exam, Proctorio retrieves your ID image and selfie from the provider to display them to those representatives, without saving a copy, and only while the provider still holds them under the retention schedule described below.
 
 If Instant ID cannot verify you, the software does not prevent you from taking an exam. Your verification moves to a trained agent, who reviews the images you already submitted to the provider, rather than asking you to capture them again, and a human makes a final identity verification determination. The agent's decision is recorded and visible to your institution like any other verification result, and the fraud detection record described below is created as with any Validate ID verification.
 
@@ -170,9 +170,9 @@ Where your institution has an active verification license, your ID verification 
 
 #### [](#automated-re-verification)3.4.7 Automated Re-verification
 
-If your institution's verification setup includes it, you will not repeat a full ID verification check every time. When you re-enter the same exam, or start another exam while your institution's verification license for you is active, your device downloads the webcam or selfie image that was approved when your identity was last verified (from the verification provider for Instant ID, from the extension's encrypted copy on your device for Standard ID, or from your institution for the Institution-Provided ID Check) and compares it, on your device and in memory, with your live camera image, the same way Continuity Check works. If the comparison confirms you, you are verified automatically, and your institution's reviewers can see that your entry was verified automatically rather than by a fresh check. If it cannot confirm you, you are never locked out automatically: you are directed to a live agent or, where your institution permits, a new verification through the provider. The downloaded image and all comparison data are removed from memory when the check completes; the check itself stores nothing.
+If your institution's verification setup includes it, you will not repeat a full ID verification check every time. When you re-enter the same exam, or start another exam while your institution's verification license for you is active, your device downloads the webcam or selfie image that was approved when your identity was last verified (from the verification provider for Instant ID, from the extension's encrypted copy on your device for Standard ID, or from your institution for the Institution-Provided ID Check) and compares it, on your device and in memory, with your live camera image, the same way Continuity Check works. If the comparison confirms you, you are verified automatically, and your institution's reviewers can see that your entry was verified automatically rather than by a fresh check. If it cannot confirm you, you are never locked out automatically: you are directed to a live agent. If the provider could not verify you, Proctorio does not send you to the provider again during that license year; a live agent verifies you instead. With Instant ID, a similar check also runs once on your first entry: right after the provider verifies you, your device downloads the selfie you just submitted and compares it, the same way, with your live camera image, to confirm that the person at the camera is the person the provider verified (you may have completed the provider's steps on another device, such as your phone). If it cannot confirm you, you are directed to a live agent; you are never locked out automatically. In both cases, the downloaded image and all comparison data are removed from memory when the check completes. Proctorio keeps the result of the check and its match score for your institution's reviewers, and the webcam image used for the check is stored with Zero-Knowledge Encryption alongside your exam recording.
 
-To make this work for Standard ID, the Proctorio extension keeps a copy of your verified ID image and your approved webcam image, encrypted, in its isolated browser storage on your device. At no time do Proctorio's servers store these images, and Proctorio cannot access them. If the copy is lost, for example because you reinstalled the extension or changed devices, a live agent will simply verify you again at no cost to you. The copy follows the same retention schedule as provider-held verification data described above. When that period ends, or when your institution approves your deletion request, the extension deletes its copy and its encryption keys from its isolated browser storage on your device; after that, the copy cannot be read or recovered by anyone. If your institution uses the Institution-Provided ID Check, Proctorio keeps no copy at all: your institution supplies its reference images each time your exam launches.
+To make this work for Standard ID, the Proctorio extension keeps a copy of your verified ID image and your approved webcam image, encrypted, in its isolated browser storage on your device. Proctorio's servers never store this copy, and Proctorio cannot access it. When a re-entry check confirms you, the extension reuses the ID image from the copy and stores it with Zero-Knowledge Encryption alongside that exam recording, the same way a captured ID image is stored, so your institution's approved representatives can review it. If the copy is lost, for example because you reinstalled the extension or changed devices, a live agent will simply verify you again at no cost to you. The copy follows the same retention schedule as provider-held verification data described above. When that period ends, or when your institution approves your deletion request, the extension deletes its copy and its encryption keys from its isolated browser storage on your device; after that, the copy cannot be read or recovered by anyone. If your institution uses the Institution-Provided ID Check, Proctorio keeps no copy at all: your institution supplies its reference images each time your exam launches.
 
 #### [](#requesting-deletion)3.4.8 Requesting deletion
 
@@ -956,45 +956,39 @@ If you are a Proctorio user or are visiting Proctorio's Site(s) and are located 
 
 The processing of your Personal Information is strictly necessary in the context in which it was provided, e.g. to provide the Site or perform an agreement you have with us, to provide our products or services to you, or to process your requests.
 
-*   Cookies (strictly necessary)
-*   Site Operations
-*   Sharing
-*   Payment processing
-*   Third Party Service Providers
+**Purposes:** Cookies (strictly necessary); Site Operations
+
+**Sharing:** Payment processing; Third Party Service Providers
 
 ##### [](#legitimate-interests)Legitimate interests
 
 This processing is based on our legitimate interests. For example, we rely on our legitimate interest to administer, analyze, and improve our Services, to operate our business, including through the use of service providers and subcontractors, to send you notifications about our Services or your subscriptions, for archiving, recordkeeping, statistical and analytical purposes, and to use your Personal Information for administrative, fraud detection, audit, training, security, or legal purposes. See the Business Purposes of Processing section above for more information regarding the nature of processing performed on the basis of our legitimate interests.
 
-*   Site operations and security
-*   De-identified/Aggregated Data
-*   Bot Detection
-*   Sharing
-*   Third Party Service Providers
-*   Business Transfers
-*   Law and harm
+**Purposes:** Site operations and security; De-identified/Aggregated Data; Bot Detection
+
+**Sharing:** Third Party Service Providers; Business Transfers; Law and harm
 
 ##### [](#consent-1)Consent
 
 This processing is based on your consent. You are free to withdraw any consent you may have provided, at any time, subject to your rights/choices, and any right to continue processing on alternative or additional legal bases. Withdrawal of consent does not affect the lawfulness of processing undertaken prior to withdrawal.
 
-*   Cookies (except strictly necessary)
-*   Marketing
-*   Sharing: Marketing
+**Purposes:** Cookies (except strictly necessary); Marketing
+
+**Sharing:** Marketing
 
 ##### [](#compliance-with-legal-obligations)Compliance with legal obligations
 
 This processing is based on our need to comply with legal obligations. We may use your Personal Information to comply with legal obligations to which we are subject, including to comply with legal process. See the Business Purposes of Processing section above for more information regarding the nature of processing performed for compliance purposes.
 
-*   Security
-*   Sharing: Law and Harm
+**Purposes:** Security
+
+**Sharing:** Law and harm
 
 ##### [](#performance-of-a-task-carried-out-in-the-public-interest)Performance of a task carried out in the public interest
 
 This processing is based on our need to protect recognized public interests. We may use your Personal Information to perform a task in the public interest or that is in the vital interests of an individual. See the Business Purposes of Processing section above for more information regarding the nature of processing performed for such purposes.
 
-*   Sharing
-*   Law and Harm
+**Sharing:** Law and harm
 
 #### [](#submitting-requests)10.5.4 Submitting Requests
 
