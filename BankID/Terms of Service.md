@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/work_computer_typing.jpg)
+[![](/assets/stock/1400x930/office-rooms.jpg)
+
+#### Choose the right authentication method
+
+2026-10-13
+
+Is the authentication method your business use secure enough? Different systems and types of information require different levels of protection.](https://www.bankid.com/en/about-us/news/choose-the-right-authentication-method) [![](/assets/stock/1400x930/work_computer_typing.jpg)
 
 #### Be prepared for a cyberattack
 
@@ -130,10 +136,4 @@ Being prepared for a cyberattack is about building capabilities, structures and 
 
 2026-10-01
 
-Does your company need to get to grips with its security work? Here are some useful tips to help you get started.](https://www.bankid.com/en/about-us/news/get-started-with-your-security-work) [![](/assets/stock/1400x930/facial-recognition.jpg)
-
-#### Facial recognition as an extra control
-
-2026-08-18
-
-We now launch facial recognition as an option for extra control for banks, government and other organizations.](https://www.bankid.com/en/about-us/news/facial-recognition-as-an-extra-control)
+Does your company need to get to grips with its security work? Here are some useful tips to help you get started.](https://www.bankid.com/en/about-us/news/get-started-with-your-security-work)
