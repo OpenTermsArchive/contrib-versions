@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Last updated: September 3, 2026._
+_Last updated: October 12, 2026._
 
 Key Information
 ---------------
@@ -15,7 +15,7 @@ You can find information about us and how we collect, use, store, disclose, or o
 Purpose and who we are
 ----------------------
 
-The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, affiliates, and our international branches, ("**Coursera**," "**us**," "**we**," or "**our**") collects, uses, stores, discloses, and otherwise processes your Personal Data (as defined below), including through our websites, mobile applications (collectively, the "**Site**"), products, and Services.
+The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, affiliates, and our international branches, ("**Coursera**," "**us**," "**we**," or "**our**") collects, uses, stores, discloses, and otherwise processes your Personal Data (as defined below), including through our websites, mobile applications (collectively, the "**Site**"), products, and Services. It also applies to business contacts of Coursera, such as existing and prospective Customers, Content Providers, Partners, and Instructors.
 
 Please read this Privacy Notice carefully to understand what we do. If you do not understand any aspects of our Privacy Notice, please feel free to contact us at [privacy@coursera.org](mailto:privacy@coursera.org). If you need to access this Privacy Notice in an alternative format due to a disability, please contact us at [privacy@coursera.org](mailto:privacy@coursera.org). Your use of our Site is also governed by our [Terms of Use](https://www.coursera.org/about/terms). Terms used but not defined in this Privacy Notice can be found in our Terms of Use. This Privacy Notice does not apply to the Ollie mobile application or any related or supporting products, features, and services (collectively, the "**Ollie App**"). If you use the Ollie App, please refer to the [Ollie Privacy Notice](https://learnwithollie.com/privacy-notice) for details on how Coursera collects, uses, stores, discloses, and otherwise processes your Personal Data.
 
@@ -41,26 +41,28 @@ We may collect your Personal Data directly from you, including the following:
     
 *   **Account Registration Data**: if you register for an account on the Site, you may be required to provide us with certain Personal Data including name, email address, username and password. You may also voluntarily provide us with additional Personal Data including when you update or change information for your account.
     
-*   **Communications with Coursera**. We may receive and record Personal Data when you send us an email message or otherwise contact us, including through the use of an in-platform messaging/chat feature.
+*   **Communications with Coursera**. we may receive and record Personal Data when you send us an email message or otherwise contact us, including through the use of an in-platform messaging/chat feature.
     
-*   **Product or Service Purchase Information**: Information about what Products or Services you have purchased. For more information on payment processing, please see the section on “Personal Data third parties collect from you directly”.
+*   **Product or Service Purchase Information**: information about what Products or Services you have purchased. For more information on payment processing, please see the section on “Personal Data third parties collect from you directly”.
     
-*   **Information about your interests, preferences and affiliations** insofar as they relate to the Product and/or Services that we provide (e.g., when you sign-up for email or account updates).
+*   **Information about your interests, preferences and affiliations**: insofar as they relate to the Product and/or Services that we provide (e.g., when you sign-up for email or account updates).
     
-*   The **Content of your Communications** such as information provided voluntarily in surveys you complete, or in other exchanges with us, including via email or through the use of an in-platform messaging/chat feature with free-text functionality and voice-enabled features (including audio inputs that are transcribed into text). You should not include any unnecessary Personal Data or information of a sensitive nature, whether relating to you or another person, in the Platform’s free-text functionality.
+*   **Content of your Communications**: such as information provided voluntarily in surveys you complete, or in other exchanges with us, including via email or through the use of an in-platform messaging/chat feature with free-text functionality and voice-enabled features (including audio inputs that are transcribed into text). You should not include any unnecessary Personal Data or information of a sensitive nature, whether relating to you or another person, in the Platform’s free-text functionality.
     
-*   **Education, Career and Skills Information** including information about your education, career, skills, interests, goals, and plans, as well as your professional and educational experience and qualifications.
+*   **Education, Career and Skills Information**: including information about your education, career, skills, interests, goals, and plans, as well as your professional and educational experience and qualifications.
     
-*   **Demographic Information** such as country of residence, gender, and age.
+*   **Demographic Information**: such as country of residence, gender, and age.
     
 *   **Other Personal Data you provide**: e.g., information you voluntarily provide to us when you participate in our public forums (“**Forums**”), and/or participate in Content Offerings or other Services on the Site.
+    
+*   **Business Contact Data**: such as your name, job title, company name, business email address, business phone number, and other professional contact information, for example, when you request a demo, complete a contact form, attend an event, or communicate with our sales team in connection with our business and enterprise products.
     
     _In relation to the Forums, please note that you should not include any information of a personal or sensitive nature, whether relating to you or another person, in a Forum post. We may publish any information you post including via extensions of our platform that use third-party services, like mobile applications. Please also reference our Terms of Use and our Code of Conduct for additional information about proper use of our Forums._
     
     _If you participate in a Content Offering, we may collect certain user-generated content, such as assignments you submit, peer-graded assignments, and peer grading feedback. We also collect course data, such as responses to in-video quizzes, standalone quizzes, exams, and surveys. You should not include any information of a personal or sensitive nature, whether relating to you or another person, on assignments, exams, or surveys, except for information required to participate in or submit such assignments, exams, or surveys._
     
 
-**Personal Data we collect from your device(s) as your use the Site**
+**Personal Data we collect from your device(s) as you use the Site**
 
 When you visit the Site, we may track, collect, and aggregate information from your device(s) indicating, among other things, which pages of the Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked on. We also collect information from the URLs from which you linked to the Site.
 
@@ -81,6 +83,8 @@ We may obtain your Personal Data from third parties, including the following:
 *   **Data relating to your use of partner sites**: This may include information such as the **amount of time spent on the partner site and pages viewed**. Partner sites providing Content Offering-related tools and services to Coursera users may collect non-financial individual-level user data regarding the individual’s use of that partner site while the partner sites provide those services to Coursera. The partner sites may share that data with Coursera for the purpose of improving our Services, the partner site’s services, and the individual’s education experience.
     
 *   **Account registration / invitation data**: When an organization invites you to join the Coursera platform through its Enterprise program, Coursera may receive Personal Data about you that the organization provides as part of the invitation / sign-up process.
+    
+*   **Business contact data**: We may also collect Business Contact Data about you from third-party commercial sources, your employer or organization, or from publicly available sources.
 
 **Personal Data third parties collect directly from you**
 
@@ -100,7 +104,7 @@ We set out in this section each of the legal bases under applicable law (includi
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Content of your Communications ; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data; Third Party Payment Processing Data | To allow you to access and use the Site and in order to provide any information, products, or Services that you request from us, including processing your communications via text and voice. | To comply with our contract to provide Services to you, your academic institution, your employer, or other organization that may be providing you with access to our Services |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Personal Data we collect from your device(s) | To provide technical support to you, where required, and to ensure the security of our Services and the Site. | For our legitimate interests to operate our Site and provide our Services as securely as possible |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information | When you sign-up for updates, to send you messages in connection with the Site or Content Offerings. | With your consent |
-| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To record and analyze how learners interact with the Site, its features and content, and our Services to build higher quality, more useful Products and/or Services. | For our legitimate interests to run, grow and develop our business |
+| Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To record and analyze how learners interact with the Site, its features and content, and our Services to build higher quality, more useful Products and/or Services. | For our legitimate interests to run, grow and develop our business; or with your consent, where required by applicable law |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information; Text and/or Images on third party sites; Data relating to your use of partner sites | To allow you to access and use the Forums. | To comply with our contract to provide the Forum Services to you, your academic institution, your employer, or other organization that may be providing you with access to Forum Services |
 | Identity and Contact Data; Account Registration Data; Content of your Communications; Education, Career and Skills Information; Demographic Information | When you participate in a Content Offering through the Site including for tracking attendance, progress, and completion of the Content Offerings. | For our legitimate interests to provide an effective means to track participation in Content Offerings |
 | Identity and Contact Data; Account Registration Data; Demographic Information; Personal Data we collect from your device(s); Education, Career and Skills Information | To facilitate and personalize your interaction with Site features, including tailoring content, recommendations, learning support and engagement tools, and remembering preferences or prior interactions to improve your experience. | For our legitimate interests to run, grow and develop our business including by providing you with a personalized Service |
@@ -109,10 +113,11 @@ We set out in this section each of the legal bases under applicable law (includi
 | Identity and Contact Data; Account Registration Data; Information about your interests, preferences and affiliations; Content of your Communications; Demographic Information; Personal Data we collect from your device(s) | Where we send you emails, to track the way that you interact with these emails, to optimize and tailor our communications to you. | With your consent |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Content of your Communications; Education, Career and Skills Information; Demographic Information | To share information with our Content Providers and other business partners so they can inform you about their products and services that may be of interest to you where they are legally entitled to do so. | With your consent |
 | Identity and Contact Data; Content of your Communications; Education, Career and Skills Information; Demographic Information; Survey data | For research related to online education. | For our legitimate interests to run, grow and develop our business including by supporting our Partners carrying out research related to online education |
-| Identity and Contact Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Data relating to your use of partner sites | To send marketing and serve advertising, to inform our marketing and advertising strategies and content, to understand more about our audiences and to personalize our marketing and advertising. | With your consent |
+| Identity and Contact Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Data relating to your use of partner sites | To send marketing and serve advertising, to inform our marketing and advertising strategies and content, to understand more about our audiences and to personalize our marketing and advertising, and to market the products and services of Coursera’s affiliates (including Udemy, Inc.) to you. | With your consent |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To share your Personal Data with government authorities in response to lawful subpoenas, court orders, or other legal processes. | To comply with our legal obligations |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Text and/or Images on third party sites; Survey data; Data relating to your use of partner sites | To share your Personal Data with government authorities, external advisors and other relevant or affected third parties when we believe it is appropriate; to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Coursera, the Site, our users, customers, or others; and in connection with our Terms of Use and other agreements. | To comply with our legal obligations |
 | Identity and Contact Data; Account Registration Data; Product or Service Purchase Information; Information about your interests, preferences and affiliations; Content of your Communications; Education, Career and Skills Information; Demographic Information; Personal Data we collect from your device(s); Survey data | To disclose and/or transfer your Personal Data to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business, or assets of Coursera, or becomes an affiliate or subsidiary of Coursera. | For our legitimate interests to engage in a sale, merger, or reorganization process |
+| Business Contact Data; Identity and Contact Data | To market our business and enterprise products and services, and those of Coursera's affiliates (including Udemy, Inc.), to existing and prospective Customers, Content Providers, Partners, and Instructors. | For our legitimate interests to run, grow and develop our business; or with your consent, where required by applicable law |
 
 How we use AI
 -------------
@@ -143,7 +148,7 @@ For your convenience we may provide links to sites operated by organizations oth
 How we share Personal Data
 --------------------------
 
-The different Coursera entities share common goals and certain resources. As such, your Personal Data may be shared amongst these entities and our affiliates and subsidiaries, and other affiliated organisations.
+The different Coursera entities share common goals and certain resources. As such, your Personal Data may be shared amongst these entities and our affiliates and subsidiaries, and other affiliated organizations.
 
 We may share your Personal Data with third parties as follows:
 
@@ -163,6 +168,8 @@ Your Rights
 -----------
 
 Depending on where you are located, you have certain rights in relation to your Personal Data. You can access your Personal Data and confirm that it remains correct and up-to-date, choose whether or not you wish to receive material from us or some of our partners, and request that we delete or provide you with a copy of your Personal Data by logging into the Site, selecting ‘Settings’ from the dropdown in the top right, and scrolling down to find the appropriate option. The ability to delete an account may be disabled for some users, particularly those who are enrolled in for-credit offerings such as degrees, certificate programs, and other similar offerings.
+
+If you wish to opt-out of marketing communications, you may do so by using the unsubscribe mechanism in any marketing communication you receive, or by contacting us at privacy@coursera.org. If you register for an account on the Site, you can also change your email preferences in your account.
 
 If you would like further information in relation to your rights or would like to exercise any of them, you may also contact us via [privacy@coursera.org](mailto:privacy@coursera.org). If you reside or are located in the EEA, UK, Switzerland, or other region that offers similar protections, you have the right to request that we:
 
