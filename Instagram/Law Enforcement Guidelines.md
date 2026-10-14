@@ -11,7 +11,7 @@ How do I submit an Instagram request?
 
 What is an Instagram emergency request?
 
-What is Instagram data retention?
+How does Instagram data retention work?
 
 I have a different question
 
