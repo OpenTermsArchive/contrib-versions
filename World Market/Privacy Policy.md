@@ -5,6 +5,13 @@
 3.  [Privacy Policy](https://www.worldmarket.com/customer-service/privacy-policy.html)
     
 
+1.  [](https://www.worldmarket.com/)
+    
+2.  [Customer Service](https://www.worldmarket.com/customer-service/customer-service.html)
+    
+3.  [Privacy Policy](https://www.worldmarket.com/customer-service/privacy-policy.html)
+    
+
 ###### How can we help you?
 
 *   [Contact Us](https://www.worldmarket.com/customer-service/contact-us.html)
