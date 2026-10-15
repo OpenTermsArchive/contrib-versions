@@ -9,33 +9,29 @@ Table of contents
 
 [When the Privacy Policy applies](#privacy-when)
 
-[](#privacy-when)[The personal information we collect and how we collect it](#info-collection)
+[The personal information we collect and how we collect it](#info-collection)
 
-[](#info-collection)[How and when we use information, including for marketing and advertising](#privacy-how)
+[How and when we use information, including for marketing and advertising](#privacy-how)
 
-[](#privacy-how)
+[When and to whom we disclose information](#privacy-who)
 
-[](#privacy-how)
+[How we protect your information](#protect-how)
 
-[](#privacy-how)[When and to whom we disclose information](#privacy-who)
+[How long we keep your information](#info-duration)
 
-[](#privacy-who)[How we protect your information](#protect-how)
+[Children's data](#childrens-data)
 
-[](#protect-how)[How long we keep your information](#info-duration)
+[The choices you have to control our use of personal information](#info-control)
 
-[](#protect-how)[Children's data](#childrens-data)
+[How to access and correct the information in our records](#info-correction)
 
-[](#info-duration)[The choices you have to control our use of personal information](#info-control)
+[Your rights and our limitations under federal laws](#your-rights)
 
-[](#info-control)[How to access and correct the information in our records](#info-correction)
+[Additional information regarding individual state laws and individual rights](#state-laws)
 
-[](#info-correction)[Your rights and our limitations under federal laws](#your-rights)
+[Changes to this Privacy Policy](#changes)
 
-[](#your-rights)[Additional information regarding individual state laws and individual rights](#state-laws)
-
-[](#state-laws)[Changes to this Privacy Policy](#changes)
-
-[](#changes)[How to contact us with questions about this Privacy Policy](#contact)
+[How to contact us with questions about this Privacy Policy](#contact)
 
 Introduction
 ------------
@@ -355,7 +351,9 @@ We keep your personal information for different lengths of time depending on the
 Children's Data
 ---------------
 
-Most of our online services are intended for general audiences and are not directed to children. In areas of our Services that may be directed to children, we may collect personal information as described in this Privacy Policy, to the extent and as permitted by applicable law. We limit our processing of such information to providing the Services; communicating with you; understanding your use of and improving the Services; providing recommendations and personalizing the experience; providing contextual advertising and capping and measuring ads; and complying with law, preventing and investigating fraud and other illegal activities, and for other safety and security purposes. We share information with the categories of parties described in “When and To Whom We Disclose Information” above. To request more information about our processing of personal information collected in areas directed to children, or to request to access, delete, or correct personal information related to a child, please contact us at [comcast\_privacy@comcast.com](mailto:comcast_privacy@comcast.com).
+Most of our online services are intended for general audiences and are not directed to children. In areas of our Services that may be directed to children, we may collect personal information as permitted by applicable law, and as described in this Privacy Policy and the Kids and Teens Privacy Notice linked below. We limit our processing of such information to providing the Services; communicating with you; understanding your use of and improving the Services; providing recommendations and personalizing the experience; providing contextual advertising and capping and measuring ads; and complying with law, preventing and investigating fraud and other illegal activities, and for other safety and security purposes. We share information with the categories of parties described in “When and To Whom We Disclose Information” above. To submit a request, access, delete, or correct personal information related to a child, please contact us at [comcast\_privacy@comcast.com](mailto:comcast_privacy@comcast.com).
+
+For more information about how we process Kids and Teens personal information and the protections we provide in our Services, [click here](https://www.xfinity.com/privacy/policy/childrens-notice)
 
 The choices you have to control our use of personal information
 ---------------------------------------------------------------
