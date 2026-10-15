@@ -738,19 +738,11 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 Newsletter competition terms and conditions
 
-[View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024.pdf?lang=en-GB)  
-  
-[View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)  
-  
 [View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)  
   
-[View the January Mascot Six Nations Compitition 2025 terms and conditions](https://www.energia.ie/getmedia/030c576e-6cf3-4237-be4d-224c372ea1e5/T-C-2025-Rugby-mascot-for-Ireland-vs-France-Jan-NL-Comp.pdf)  
+[View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/41dbba6d-33ed-44ae-a97a-88a0ee13e666/Future-Homes-Competition-Terms-and-Conditions-final.pdf)  
   
-[View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf)   
-  
-[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-\(1\).pdf)  
-  
-[View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/41dbba6d-33ed-44ae-a97a-88a0ee13e666/Future-Homes-Competition-Terms-and-Conditions-final.pdf)
+[View the Energia Ireland v Fiji Mascot Competition Terms and Conditions](https://www.energia.ie/getmedia/e8d99767-baa0-40f7-9766-beadedb046ec/Ireland-vs-Fiji-Mascot-Comp-Terms-and-Conditions-2026.pdf)
 
 ### 
 
