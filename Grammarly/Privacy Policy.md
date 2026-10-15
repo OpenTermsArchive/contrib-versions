@@ -1,7 +1,7 @@
 Effective as of July 6, 2026
 
 Privacy Policy
---------------
+==============
 
 ([View previous version](https://www.grammarly.com/privacy-policy-march-2025))
 
