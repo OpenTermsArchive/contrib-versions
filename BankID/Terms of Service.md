@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/office-rooms.jpg)
+[![](/assets/stock/news/roccs-2026.jpg)
+
+#### First place in the Riksbank’s Cybersecurity Competition
+
+2026-10-16
+
+For the third consecutive year, BankID has won the Riksbank’s cybersecurity competition, ROCCS.](https://www.bankid.com/en/about-us/news/vinst-i-riksbankens-cybersakerhetstavling) [![](/assets/stock/1400x930/office-rooms.jpg)
 
 #### Choose the right authentication method
 
@@ -130,10 +136,4 @@ Is the authentication method your business use secure enough? Different systems 
 
 2026-10-07
 
-Being prepared for a cyberattack is about building capabilities, structures and response plans in advance.](https://www.bankid.com/en/about-us/news/be-prepared-for-a-cyberattack)[![](/assets/stock/1400x930/office-noteboard.jpg)
-
-#### Get started with your security work
-
-2026-10-01
-
-Does your company need to get to grips with its security work? Here are some useful tips to help you get started.](https://www.bankid.com/en/about-us/news/get-started-with-your-security-work)
+Being prepared for a cyberattack is about building capabilities, structures and response plans in advance.](https://www.bankid.com/en/about-us/news/be-prepared-for-a-cyberattack)
