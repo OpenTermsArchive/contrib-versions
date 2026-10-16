@@ -1,5 +1,5 @@
-Google Chrome and ChromeOS Additional Terms of Service
-======================================================
+Chrome/ChromeOS/GooglebookOS Additional Terms of Service
+========================================================
 
 Last modified: 30 September, 2025
 
