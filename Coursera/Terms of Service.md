@@ -203,7 +203,7 @@ Under California Civil Code Section 1789.3, California website users are entitle
 
 *   [Acceptable Use Policy](#acceptable-use-policy)
 *   [Copyright and Trademark Infringement Policy](#copyright-and-trademark-policy)
-*   [Refund Policy](#coursera-refund-policy)
+*   [Refund Policy](#refund-and-cancellation-policy)
 *   [Honor Code](#honor-code)
 
 * * *
