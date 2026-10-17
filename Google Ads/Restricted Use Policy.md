@@ -1,7 +1,7 @@
 Google Ads policies
 ===================
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
 Display & Video 360 users must comply with this Google Ads policy. Visit the [Display & Video 360 help center](https://support.google.com/displayvideo/answer/6027406) for additional restrictions.
 
@@ -274,6 +274,6 @@ Advertisers have a responsibility not to promote content or engage in behavior t
 Need help?
 ----------
 
-If you have questions about the policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about these policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 Rate how helpful this page is and share your feedback with us below:
