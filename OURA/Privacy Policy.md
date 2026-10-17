@@ -112,7 +112,7 @@ Usage-related and technical data:
 
 If you have questions or requests concerning your personal data after it has been transferred to Oura Enterprise Platform, such as how the Data Recipient uses your data, where it is transferred to, who can access it, retention policies, or your rights in relation to that data, please contact the Data Recipient that invited you to participate in Oura Enterprise Platform. Please see the privacy policy of the Data Recipient for contact details.
 
-Your personal data is disclosed to the Data Recipient only if you give consent. You can withdraw your data sharing consent at any time via Membership Hub ([https://cloud.ouraring.com/profile](https://cloud.ouraring.com/profile)) or from the settings menu on the Services. You can stop the flow of data to the Data Recipient so that the Data Recipient cannot receive new data from you or through Oura Enterprise Platform. You can also choose to delete your data on Oura Enterprise Platform that was already shared with the Data Recipient. However, please note that withdrawing your consent from the service or changing any other consent settings do not affect the processing of data that the Data Recipient already extracted from Oura Enterprise Platform.
+Your personal data is disclosed to the Data Recipient only if you give consent. You can withdraw your data sharing consent at any time via Membership Hub ([https://cloud.ouraring.com/profile opens in new tab](https://cloud.ouraring.com/profile)) or from the settings menu on the Services. You can stop the flow of data to the Data Recipient so that the Data Recipient cannot receive new data from you or through Oura Enterprise Platform. You can also choose to delete your data on Oura Enterprise Platform that was already shared with the Data Recipient. However, please note that withdrawing your consent from the service or changing any other consent settings do not affect the processing of data that the Data Recipient already extracted from Oura Enterprise Platform.
 
 Oura uses aggregated Oura Enterprise Platform data for analytics, statistics, research and development purposes. Oura is the controller of such aggregated data, which may no longer qualify as personal data due to aggregation. For other data that Oura processes which are not at the direction of the Data Recipient, the rest of the terms in this Policy apply.
 
@@ -370,7 +370,7 @@ Whenever Oura processes your personal data, you have certain rights that enable 
     
     You have the right to know what personal data is processed about you. You may contact us to request access to the personal data we have collected about you, and we will confirm whether we are processing your data, and provide you with information about the personal data we have collected and processed.
     
-    Please note that by using the Oura App, you can easily access the sleep, readiness, and activity data that we process about you. You can also access your data via Membership Hub at [https://cloud.ouraring.com](https://cloud.ouraring.com/).
+    Please note that by using the Oura App, you can easily access the sleep, readiness, and activity data that we process about you. You can also access your data via Membership Hub at [https://cloud.ouraring.com opens in new tab](https://cloud.ouraring.com/).
     
 2.  **Right to erasure**
     
