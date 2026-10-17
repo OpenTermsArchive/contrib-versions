@@ -390,10 +390,13 @@ You might also be interested in:
 
 *   [User Privacy Notice
     
-    In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.  
-     
+    At eBay, we take protecting your personal data seriously, and we believe you should know what data we collect and how we use it.
     
-    This User Privacy Notice is effective from **April 21, 2025**. View the previous User Privacy Notice.
+    This User Privacy Notice brings together all the essential details about how we handle your personal data and your rights in connection with it. We want you to feel confident using eBay—knowing that your information is handled responsibly, securely, and in line with applicable privacy laws.
+    
+    We're committed to being open about our practices and giving you meaningful control over your personal data. Understanding how we use your information helps you make informed choices about your relationship with eBay and the Services you use.
+    
+    This User Privacy Notice is effective from **November 26, 2026**. View the previous User Privacy Notice
     
     15 min article](https://www.ebay.com/help/policies/member-behavior-policies/user-privacy-notice?id=4260&ra=true)
 *   [Cookies, web beacons, and similar technology ("Cookie Notice")
