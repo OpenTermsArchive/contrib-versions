@@ -168,7 +168,6 @@ Other languages:
 *   [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "ꠘꠤꠔꠤ ꠪ ꠛꠦꠛꠀꠞ ꠇꠞꠣꠞ ꠡꠞ꠆ꠔꠣꠁꠘ (17% translated)")
 *   [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "ข้อกำหนดการใช้งาน (68% translated)")
 *   [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "ນະໂຍບາຍ: ຂໍ້ກຳນົດການໃຊ້ງານ (9% translated)")
-*   [တႆး](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/shn "https://w.wiki/chSM (1% translated)")
 *   [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
 *   [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မူဝါဒ:အသုံးပြုမှု စည်းမျဉ်းများ (62% translated)")
 *   [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
