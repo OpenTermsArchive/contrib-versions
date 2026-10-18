@@ -12,11 +12,11 @@ NataliaKudryavtseva
 
 9 mars 2023 13:46
 
-Partager Partager
+Share Share
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
-*   Copier
+*   Copy
 
 All Rights Reserved - 2018 © CCM BENCHMARK GROUP
 
@@ -142,29 +142,29 @@ Legal Jurisdiction
 
 French law applies to the content and data transmission on and related to this website. The French language version of this Contract shall govern over any translation. Any legal matter that may arise, and which cannot be resolved through mutual agreement, will be governed by the jurisdiction of French courts.
 
-Partager Partager
+Share Share
 
 *   [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 *   [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
-*   Copier
+*   Copy
 
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
 
-*   [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 *   [CCM: Terms of Use and Legal Matters](https://ccm.net/apps-sites/internet-archeology/ccm/10123-terms-of-use-for-ccm/)
+*   [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 *   [CCM: Who we are](https://ccm.net/apps-sites/internet-archeology/ccm/9987-ccm-who-we-are/)
 *   [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
 *   [Why CCM cannot recover your personal passwords](https://ccm.net/apps-sites/internet-archeology/ccm/3373-why-ccm-doesn-t-recover-lost-passwords/)
 *   [How to register for CCM Membership?](https://ccm.net/apps-sites/internet-archeology/ccm/10029-ccm-membership-registration/)
 *   [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
-*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 *   [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
+*   [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 *   [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
-*   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
+*   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 *   [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
+*   [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
+*   [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 *   [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
 *   [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
-*   [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
-*   [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 *   [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
