@@ -4,7 +4,7 @@
 
 UID-Number
 
-CHE-107.427.363 MWST
+CHE-107.427.363
 
 Commercial register number
 
