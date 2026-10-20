@@ -3,7 +3,7 @@ Google Play Terms of Service
 
 July 29, 2026 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/americas/archive/))
 
-We’re updating our Play Terms of Service on November 5, 2026. Until then, the Terms below continue to apply. [See a preview of the upcoming Terms](https://play.google.com/intl/ALL_us/about/play-terms/index-update.html).
+We’re updating our Play Terms of Service on November 17, 2026. Until then, the Terms below continue to apply. [See a preview of the upcoming Terms](https://play.google.com/intl/ALL_us/about/play-terms/index-update.html).
 
 **1\. Introduction**
 --------------------
