@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 2026-06-03
+Last Modified: 2026-10-20
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
@@ -139,7 +139,7 @@ We seek to protect your information (including your Account Information) to ensu
 
 It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like [1Password](https://agilebits.com/onepassword) or [LastPass](https://lastpass.com/).
 
-Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to enforce our agreements or as otherwise permitted by law.
+Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to prevent the use of our services for activities that violate our Terms of Service, to enforce our agreements, or as otherwise permitted by law.
 
 What Information You Can Access
 -------------------------------
@@ -215,7 +215,7 @@ Certain information may be exempt from these rights under applicable law. For ex
 
 Before we can satisfy your request, you’ll need to give us enough information so that we can be certain of your identity. To do that, you’ll need to log in to your account or give us certain information about you and/or your use of the Services. You can also designate an authorized agent to make a request on your behalf. To do so, you have to give us written authorization for the agent to act on your behalf. You’ll still need to verify your identity directly with us.
 
-**Right to Opt-Out:** Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). In some US states, this data sharing may be considered a “sale.” To learn more about how we select the ads you see, check out [Tumblr’s Ads & You](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program. Also, we do not knowingly "sell" your personal information if you are under 16.
+**Right to Opt-Out:** Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data. In some US states, this data sharing may be considered a “sale.” To learn more about how we select the ads you see, check out [Tumblr’s Ads & You](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program. Also, we do not knowingly "sell" your personal information if you are under 16.
 
 Learn how you can opt out by going to [Your Advertising Choices](https://tumblr.zendesk.com/hc/articles/360041012973). If you are a user who has told us you are under 16, you’ll see in [your settings](https://www.tumblr.com/settings/privacy) that we’ve already opted you out.
 
@@ -256,7 +256,7 @@ To exercise any of the above rights, submit a support ticket [here](https://tumb
 
 ### Advertising on Tumblr
 
-Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). To learn more about how we select the ads you see, check out [Tumblr’s Ads & You.](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you)
+Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data. To learn more about how we select the ads you see, check out [Tumblr’s Ads & You.](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you)
 
 If you are viewing Tumblr from within Canada, you will be shown our cookie banner when you first access our site or service, and periodically it will resurface in the future. From this banner you have a variety of controls that allow you to customize the way Tumblr uses your data for our advertising program, as well as for some other non-advertising uses like measuring how you use Tumblr so we can make it better.
 
