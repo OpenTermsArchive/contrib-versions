@@ -23,7 +23,7 @@ If you use any of the Services, you are agreeing to the terms and conditions of 
 
 **1.5 Digital Music Store**. The Store allows you to purchase Content ("Purchased Music"). Unless otherwise specified, all sales are final and the risk of loss transfers to you upon sale. We do not accept returns of Purchased Music. When you purchase Content from the Store, you are directing us to store that Purchased Music for you. When you place an order to purchase Content on the Store, you acknowledge and agree that you cannot cancel your purchase of Content once delivery has started, including by our making it available to you in the cloud for streaming or downloading. Your statutory rights are not affected.
 
-**1.6 Music Merchandise**. We may make physical merchandise available for you to purchase via the Services. Your purchase of physical merchandise is governed by the [Amazon Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only)Amazon Conditions of Use applicable to you and any other terms presented to you at the time of purchase.
+**1.6 Music Merchandise**. We may make physical merchandise available for you to purchase via the Services. Your purchase of physical merchandise is governed by the [Amazon Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only) applicable to you and any other terms presented to you at the time of purchase.
 
 **1.7 AutoRip-Eligible Orders**. Under the AutoRip program, when you purchase a qualifying CD or vinyl album from Amazon, we provide you a digital version of that album. For more information on the AutoRip program, please see the [AutoRip Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only) applicable to you.
 
@@ -107,6 +107,6 @@ If you signed up through a third party and are not billed directly by us, then t
 
 **7\. DISPUTES**.
 
-**7.1 Disputes/ Conditions of Use**. Any dispute or claim arising from or relating to the Agreement or the Services is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the [Amazon Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only) applicable to you.You agree to those terms by entering into the Agreement or using the Services. YOU MAY ALSO BE ENTITLED TO CERTAIN CONSUMER PROTECTION RIGHTS UNDER THE LAWS OF YOUR LOCAL JURISDICTION.
+**7.1 Disputes/Conditions of Use**. Any dispute or claim arising from or relating to the Agreement or the Services is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the [Amazon Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only) applicable to you. You agree to those terms by entering into the Agreement or using the Services. YOU MAY ALSO BE ENTITLED TO CERTAIN CONSUMER PROTECTION RIGHTS UNDER THE LAWS OF YOUR LOCAL JURISDICTION.
 
 **7.2 Limitation of Liability**. The disclaimer of warranties and limitation of liability in the [Amazon Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=200738950&view-type=content-only) applicable to you applies.
