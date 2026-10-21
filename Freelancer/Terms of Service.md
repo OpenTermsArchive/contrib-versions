@@ -147,13 +147,13 @@ We charge fees for certain services, such as introduction fees for Projects, lis
 
 Unless otherwise stated, all fees are quoted in United States Dollars.
 
-### Platform fees and discounts (Australian Transactions only)
+### Account admin fees and discounts (Australian Transactions only)
 
-A Platform Fee of **$0.75 AUD (or foreign currency equivalent) plus 0.99%** applies to Australian Transactions.
+An Account Admin Fee of **$0.75 AUD (or foreign currency equivalent) plus 0.99%** applies to Australian Transactions.
 
 An **Australian Transaction** means a transaction associated with Australia based on objective jurisdictional criteria determined by Freelancer, such as the user's registered country, billing country, or account jurisdiction.
 
-Freelancer may, at its discretion, apply a discount of up to **100% of the Platform Fee**, subject to applicable eligibility criteria.
+Freelancer may, at its discretion, apply a discount of up to **100% of the Account Admin Fee**, subject to applicable eligibility criteria.
 
 ### Minimum Account Balance Requirement
 
