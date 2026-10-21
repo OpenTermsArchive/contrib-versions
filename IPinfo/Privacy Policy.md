@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective: 17 September 2026_
+_Effective: 19 October 2026_
 
 This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IPinfo. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
@@ -64,6 +64,7 @@ The following is a list of our Data Processors who collect the Information descr
 | [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | Advertising Information |
 | [Microsoft Advertising](https://privacy.microsoft.com/en-us/privacystatement) | Advertising Information |
 | [Microsoft Clarity](https://privacy.microsoft.com/en-us/privacystatement) | Device information, Analytical Information (session replays) |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | Advertising Information |
 | [Posthog](https://posthog.com/privacy) | Analytical Information |
 | [Quora](https://www.quora.com/about/privacy) | Advertising Information |
 | [Reddit](https://www.reddit.com/policies/privacy-policy) | Advertising Information |
