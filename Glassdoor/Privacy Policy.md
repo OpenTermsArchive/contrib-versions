@@ -1,4 +1,4 @@
-![](https://d341ezm4iqaae0.cloudfront.net/hrtechprivacy/2022/11/01162701/image-1024x98.png)
+![Glassdoor & Fishbowl Logo](https://hrtechprivacy.com/wp-content/uploads/2022/11/Glassdoor-Fishbowl-Lockup-scaled.png)
 
 **Glassdoor Privacy Policy**
 ============================
