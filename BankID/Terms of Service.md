@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/news/roccs-2026.jpg)
+[![](/assets/stock/1400x930/Man_kaffe_1400x930.jpg)
+
+#### How we prevent fraud
+
+2026-10-21
+
+Preventing fraud is not about a single control or feature. It requires a coordinated security approach across multiple layers.](https://www.bankid.com/en/about-us/news/how-we-prevent-fraud)[![](/assets/stock/news/roccs-2026.jpg)
 
 #### First place in the Riksbank’s Cybersecurity Competition
 
@@ -130,10 +136,4 @@ For the third consecutive year, BankID has won the Riksbank’s cybersecurity co
 
 2026-10-13
 
-Is the authentication method your business use secure enough? Different systems and types of information require different levels of protection.](https://www.bankid.com/en/about-us/news/choose-the-right-authentication-method) [![](/assets/stock/1400x930/work_computer_typing.jpg)
-
-#### Be prepared for a cyberattack
-
-2026-10-07
-
-Being prepared for a cyberattack is about building capabilities, structures and response plans in advance.](https://www.bankid.com/en/about-us/news/be-prepared-for-a-cyberattack)
+Is the authentication method your business use secure enough? Different systems and types of information require different levels of protection.](https://www.bankid.com/en/about-us/news/choose-the-right-authentication-method)
