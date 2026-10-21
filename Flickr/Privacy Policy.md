@@ -3,7 +3,7 @@ Flickr Privacy Policy
 
 For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
-Date of Last Revision: August 26, 2025
+Date of Last Revision: October 20, 2026
 
 Awes.me, Inc. d/b/a Awesome & Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers.
 
@@ -61,7 +61,7 @@ We use image recognition algorithms to find visually similar images as well as t
 
 Information Collected by Cookies and Other Tracking Technologies
 
-We use various technologies to collect information, including cookies, web beacons and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to provide and improve our Services and your experience, see which areas and features of our Services are popular and count visits, and for our advertising and analytics purposes. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. You may be able to set your web browser to refuse certain types of cookies, or to alert you when certain types of cookies are being sent. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). For more information and more detailed options, please see the “Advertising and Analytics Services Provided by Others” section below.
+We and our partners use cookies, pixels, local storage, software development kits (SDKs), and similar technologies to operate the Services, remember your preferences, understand how the Services are used, and deliver and measure advertising. These technologies may collect information such as your IP address, device identifiers, browser type, pages viewed, and links clicked. We also use a consent management provider to record your cookie choices, including a hashed IP address, a device identifier, the categories you allowed or declined, and the date, language, and region of your choice. If you are signed in, we store your choices with a pseudonymized identifier so we can apply them on your other browsers and devices. For details and to manage your choices, see our [Cookie Policy](https://www.flickr.com/help/cookies) or click "Cookie Settings" at the bottom of any page.
 
 Information We Collect From Other Sources
 
@@ -117,7 +117,11 @@ Additionally, you may give certain third-party apps different levels of permissi
 
 Advertising and Analytics Services Provided by Others
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) from each browser that you use to access our websites. You can opt out of Google’s collection or use of your data for ad personalization purposes in any particular browser there or at [https://www.google.com/ads/preferences](https://www.google.com/ads/preferences). You also can opt out of Google Analytics by installing Google Analytics’ [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout) in each browser. Your device should also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for interest-based advertising purposes.
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity.
+
+Where required by law, we use advertising and analytics cookies only with your consent. You can manage these cookies at any time by clicking "Cookie Settings" at the bottom of any Flickr page. US residents can also use the "[Do Not Sell or Share My Personal Information](https://www.flickr.com/help/cookies)" link or a Global Privacy Control signal, as described in the US privacy sections below. You can also use the industry tools below.
+
+For more information about interest-based-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) from each browser that you use to access our websites. You can opt out of Google’s collection or use of your data for ad personalization purposes in any particular browser there or at [https://www.google.com/ads/preferences](https://www.google.com/ads/preferences). You also can opt out of Google Analytics by installing Google Analytics’ [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout) in each browser. Your device should also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for interest-based advertising purposes.
 
 Legal Basis for Processing
 
@@ -129,7 +133,7 @@ The laws in some jurisdictions require companies to tell you about the legal gro
         
     *   Providing customer service;
         
-    *   Some of our marketing and advertising activities;
+    *   Some of our marketing and advertising activities (other than activities that rely on non-essential cookies or similar technologies where the law requires consent);
         
     *   Analyzing and improving business activities;
         
@@ -142,6 +146,8 @@ The laws in some jurisdictions require companies to tell you about the legal gro
 *   Consent:
     
     *   If the law requires consent, and in some other cases, we handle personal data on the basis of consent. For example, we conduct some of our marketing-related activities on the basis of consent.
+        
+    *   We use non-essential cookies and similar technologies, and the advertising and analytics processing that relies on them, on the basis of your consent where the law requires it. You can withdraw consent at any time by clicking "Cookie Settings" at the bottom of any Flickr page.
         
     *   If the law allows, we may be able to infer consent from the circumstances.
         
@@ -158,7 +164,7 @@ Flickr takes physical, technical and administrative measures to help protect inf
 
 Data Retention
 
-We store the information we collect about you for as long as is necessary for the purpose(s) outlined in this Privacy Policy, unless the law requires us to keep it for a longer period of time. Information in copies made for backup and business continuity may remain for longer than the original data. For example, photos and videos that are marked for deletion, or that are in an account that gets closed, are de-published almost immediately and are permanently removed from backup copies 30 days later.
+We store the information we collect about you for as long as is necessary for the purpose(s) outlined in this Privacy Policy, unless the law requires us to keep it for a longer period of time. Information in copies made for backup and business continuity may remain for longer than the original data. For example, photos and videos that are marked for deletion, or that are in an account that gets closed, are de-published almost immediately and are permanently removed from backup copies 30 days later. We keep records of your cookie choices for as long as necessary to demonstrate the choices you made and to meet our legal obligations.
 
 Data Transfers
 
@@ -224,7 +230,7 @@ If you turn on the auto-upload feature on mobile, photos and videos from your mo
 
 Cookies
 
-Please see the “Advertising and Analytics Services Provided by Others” section above for options for controlling cookies and similar technology.
+You can accept, reject, or change your choices for optional cookies at any time by clicking "Cookie Settings" at the bottom of any Flickr page. For more information, see our [Cookie Policy](https://www.flickr.com/help/cookies) and the "Advertising and Analytics Services Provided by Others" section above.
 
 Promotional Communications
 
@@ -266,13 +272,11 @@ CCPA description of uses of California personal information:
 
 In CCPA terms, we have used and disclosed (and in the past 12 months have used and disclosed) all of the categories of California personal information that we collect for the purposes described in the Use of Information section of our Privacy Policy, though some uses and disclosures were more indirect than others. The extent to which our service providers engage in the uses and disclosures described above varies from provider to provider.
 
-CCPA “sale” of California personal information
+CCPA “sale” and “sharing” of California personal information
 
-Flickr does not “sell” and has not “sold” its personal information in the way most people understood those words before the CCPA was passed. We don’t sell copies of our user lists like a data broker would, for example.
+Flickr does not sell copies of its user lists like a data broker would. However, we allow third-party advertising and analytics partners to collect information through cookies and similar technologies on our website. Under California law, this may be considered “selling” or “sharing” personal information for cross-context behavioral advertising. In the past 12 months, we may have sold or shared the following categories of personal information with advertising and analytics partners: identifiers (such as IP address and device identifiers), internet or other electronic network activity information (such as pages viewed and interactions with ads), and commercial information (such as pages and products viewed). We do not knowingly sell or share the personal information of consumers under 18 years of age.
 
-However, the CCPA defines “sell” and “sold” in an unconventional, vague and controversial way that has sparked extensive debate and disagreement within the legal and business communities. The CCPA requires businesses that “sell” personal information, as the term “sell” is defined under the CCPA, to provide an opt-out from such “sales.” Some people have taken the position that when a website or app uses third-party cookies and similar technology for its own analytics or advertising purposes, the website/app is engaged in a “sale” under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website/app. Some take this position even when the website/app pays the third party (not vice versa), and in most cases merely provides the third party with an opportunity to collect data directly, instead of sending a copy of personal information to the third party. If you take the position that any of those relationships involve a “sale” within the meaning of the CCPA, then you may consider Flickr to have “sold” what the CCPA calls “identifiers” (like IP addresses), “internet or other electronic network activity information” (like information regarding an individual’s browsing interactions on Flickr.com), and “commercial information” (like the fact that a browser visited a particular page on our website) to those sorts of companies. As we await clarity on this point and, if applicable, the arrival of a reasonable method for handling CCPA-like choice options for it, we continue to offer individuals the opportunity to opt out of the use of certain third- party cookies and similar technology for analytics and advertising purposes, as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
-
-In addition, Flickr generates part of its revenue by allowing personalized third-party advertisements on our service. In the past, this was done in a manner that is more likely to constitute the same sort of CCPA “sale” described above, involving the same categories of data. However, to prepare for CCPA taking effect on January 1, 2020, we focused those activities on services administered by Google, and we activated the “restricted data processing” settings designed to make this less likely to be a “sale” under the CCPA. Regardless, you can limit this activity as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
+Your right to opt out. You can opt out of the sale or sharing of your personal information by clicking “[Do Not Sell or Share My Personal Information](https://www.flickr.com/help/cookies)” at the bottom of any Flickr page. You do not need an account to opt out. We also treat a Global Privacy Control (GPC) signal from your browser as a valid opt-out request, and we will show that the signal was honored. If you are signed in when you opt out, including through a GPC signal, we apply your opt-out to your account and to the other browsers and devices where you are signed in.
 
 California Privacy Rights
 
@@ -284,12 +288,20 @@ This section describes rights under California law, but we plan to accept reques
     
 *   Delete certain information we have about you.
     
+*   Correct inaccurate personal information we hold about you.
+    
+*   Opt out of the sale or sharing of your personal information, as described above.
+    
 
 Certain information is exempt from such requests under applicable law. You also may have the right to receive information about the financial incentives that we offer to you (if any). You also have certain rights under the CCPA not to be subject to certain negative consequences for exercising CCPA rights.
 
 To exercise any rights relating to “Photographer Personal Data”, including (i) the images and videos that a user uploads to or creates in the Services or Products, or (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services or Products, users should contact the relevant user, and not Flickr. You can find contact information for many users by going to their Flickr page and clicking on “About” section. (Even if this were not the case under the CCPA, Flickr would normally have multiple legal grounds for denying CCPA-based takedown requests for Photographer Personal Data due to multiple exceptions under that law, including those applicable to the exercise of First Amendment rights. Similar exceptions are common in other laws.)
 
 To contact Flickr to exercise CCPA rights with respect to other data, please visit [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new) for the fastest response. Alternatively, you can make your CCPA request via voicemail at (833) 522-8820. No other requests are accepted at that number.
+
+Additional Privacy Details for Residents of Other US States
+
+Residents of certain other states may have rights to access, correct, delete, or obtain a copy of their personal data, and to opt out of targeted advertising, the sale of personal data, and certain profiling. You can opt out of targeted advertising and sales by using the "[Do Not Sell or Share My Personal Information](https://www.flickr.com/help/cookies)" link at the bottom of any Flickr page or a Global Privacy Control signal. To make other requests, visit [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new). If we deny your request, you may appeal by replying to our decision. If you disagree with the outcome of your appeal, you may contact your state attorney general.
 
 Contact Us
 
