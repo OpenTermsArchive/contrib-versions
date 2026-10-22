@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=4f51eae)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=70313e0)
 
 Terms and conditions
 ====================
@@ -109,6 +109,8 @@ Lutakonaukio 7
 
 [www.paytrail.com﻿, Opens in a new tab](https://www.paytrail.com/en/)
 
+![](https://images.ctfassets.net/gshi3wijcp49/584RhxeVsyViLuIL4UilnK/9b2d3e0450c7383cf4e927b1107a513e/icon-ticket-single-mobile.png?fm=webp&w=1920&q=75)
+
 2 Luggage, pets and children travelling alone
 ---------------------------------------------
 
@@ -144,6 +146,8 @@ Passenger shall take care of his or her pet during the entire journey. Pets cann
 
 Children travelling alone by train are under the responsibility of their parents. The conductor does not have an obligation to look after children during the journey.
 
+![](https://images.ctfassets.net/gshi3wijcp49/q4ATeTIW3PuzkjJmM6Kuf/d0bf783c45f677fb394086c48b2a8851/icon-luggage-mobile.png?fm=webp&w=1920&q=75)
+
 3 Disabled passengers
 ---------------------
 
@@ -152,6 +156,8 @@ Before the journey, customers shall ensure the availability of the services for 
 An assistant of a disabled passenger may travel free of charge with the disabled person. The assistant shall be capable of assisting the disabled passenger throughout the journey. The assistant shall be over 18 years old. Passenger in a wheelchair does not need any separate certificate for assistants. In other cases, the passenger shall be able to prove the right to an assistant travelling free of charge. In VR’s long-distance traffic, the tickets for the disabled passenger and the assistant shall be purchased at the same time. In VR’s commuter traffic, the person being assisted shall have a valid ticket for the journey. 
 
 For passengers travelling with a guide, assistant or hearing dog, VR recommends service carriages for travelling in long-distance trains. In VR’s commuter traffic, guide, assistant or hearing dogs can be taken in any passenger cabin. On night trains, this is possible only in pet cabins booked entirely for the passenger’s use and accessible sleeping cabins. A separate charge is not collected for guide, assistance or hearing dogs. 
+
+![](https://images.ctfassets.net/gshi3wijcp49/5d5yVPjGCwgFx3z1JetcMm/3c2c8dd4cdf53e57e4e23c3210647e70/icon-disabled-services-mobile.png?fm=webp&w=1920&q=75)
 
 4 Delays
 --------
@@ -210,6 +216,8 @@ VR is liable to compensate passenger for damage caused by a train’s delay, can
 
 To be relieved from liability to compensate, VR is required to prove that it has taken all reasonable measures to prevent the damage.
 
+![](https://images.ctfassets.net/gshi3wijcp49/5JiPaLjCiVwZXksbGxcgNP/46611984ce55b0e6c750fff5fbbd86a1/icon-alert-lines-mobile.png?fm=webp&w=1920&q=75)
+
 5 General rules related to compen­sation, injuries and damage
 -------------------------------------------------------------
 
@@ -243,6 +251,8 @@ Applications are processed as quickly as possible, as a rule at the latest withi
 
 VR pays compensation to a bank account or as vouchers. Vouchers may be used to purchase services sold by VR.
 
+![](https://images.ctfassets.net/gshi3wijcp49/5okBG7CBaAl3kOnQO9ewDn/038cf6f19549ef07b20cd33cd9e3424a/icon-info-lines-mobile.png?fm=webp&w=1920&q=75)
+
 6 Applicable legislation
 ------------------------
 
@@ -270,6 +280,8 @@ c. national legislation, when it can be applied or its application has been agre
     
 
 A consumer has the right to have a dispute concerning rail travel resolved by the Consumer Disputes Board. For further information, see [kuluttajariita.fi﻿, Opens in a new tab](https://www.kuluttajariita.fi/en/).
+
+![](https://images.ctfassets.net/gshi3wijcp49/5Iro66YINAIOxkVAtUqorK/415b260054a01c41fc1b07db17bd58d9/icon-scales-mobile.png?fm=webp&w=1920&q=75)
 
 VR Car transport terms and conditions
 -------------------------------------
@@ -466,6 +478,8 @@ Responsibilities of the driver of the vehicle
     
 *   If the car is loaded in the outdoor area of the car-carrier wagon during the winter, the customer must check that there is no snow or ice in the engine compartment before starting the engine. If the customer fails to act in accordance with the above, VR will not cover any damage caused by snow or ice to the vehicle's engine at start-up.  
     
+
+![](https://images.ctfassets.net/gshi3wijcp49/3rgWnYB7XYfxqPgCVnUncE/77e507d27dac538a3cdb5df878450250/icon-car-mobile.png?fm=webp&w=1920&q=75)
 
 Terms and Conditions of Corporate Contracts
 -------------------------------------------
