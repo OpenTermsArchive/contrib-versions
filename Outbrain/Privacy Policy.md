@@ -129,9 +129,22 @@ We may use web analytics from time to time, for example, our DSP service integra
 6\. Your rights
 ---------------
 
-**a) Outbrain opt out on desktop and mobile web**
+**a) **Outbrain on Internet browsers****
 
-You may opt out of Outbrain’s personalized ads (or, if you have opted out and would like to opt back in) at any time by moving the toggle below. You can also opt out of personalised recommendations via [Outbrain’s Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/) which is a website that allows you to exercise your data subject rights, including opting out of behavioral advertising, deleting your user profile or accessing the data Outbrain may hold on you.
+You may opt out of Outbrain’s personalized ads (or, if you have opted out and would like to opt back in) at any time by moving the toggle available on our [Outbrain Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/en).
+
+You can also manage your preferences via [Outbrain’s Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/). This is a dedicated portal that allows you to exercise your data subject rights, including:
+
+*   Opting out of behavioral advertising.
+*   Deleting your user profile.
+*   Accessing the data Outbrain may hold on you.
+
+Alternatively, please use the [Outbrain User Rights Form](https://www.outbrain.com/privacy/user-privacy-form/). This form will provide you with direct links to exercise the rights mentioned above and allow you to submit formal requests for other matters, such as: 
+
+*   Request for further information: Inquiries regarding our data processing practices.
+*   Unsubscribe from Marketing: Removal from our B2B marketing lists and addition to our suppression list.
+*   Content Complaints: Reporting specific advertisements or content.
+*   Authorised Third Party Requests: For agents submitting requests on behalf of multiple users. 
 
 **b) Outbrain opt out on apps**
 
