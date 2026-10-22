@@ -4,7 +4,7 @@ If you created your account prior to \[date of publication\], the changes will b
 Wix.com Terms of Use
 ====================
 
-Last Revised: July 9, 2026
+Last Revised: October 22, 2026
 
 [(Previous versio](https://www.wix.com/about/terms-of-use-dyn/prev-version)n)
 
