@@ -3,7 +3,7 @@ Terms of Service
 
 Flippa has recently updated its Terms of Service **(General Terms​)**
 
-LAST UPDATED: 6 November 2025
+LAST UPDATED: 22 October 2026
 
 Welcome to Flippa.com, an online marketplace that allows third-party sellers to list an asset for sale; and to connect, communicate, and transact with buyers.
 
@@ -125,6 +125,14 @@ You must not create a listing for an asset which is:
 (c) is engaged in activities which contravenes law of any territory; or  
 (d) Flippa deems inappropriate or in breach of these Terms.
 
+While your listing is live, you must keep it current and actively manage it. In particular, you must:
+
+(a) ensure that the financial information in your listing and in the deal room is no older than 30 days, and update it promptly where it is older;  
+(b) respond to all reasonable enquiries and messages from prospective buyers and Flippa’s brokers (including broker partners) in the deal room within 48 hours of receiving them; and  
+(c) if your listed asset has not sold within 30 days of your listing going live, review your asking price and, where Flippa considers that it is not aligned with current market demand, re-price your asset.  
+
+If Flippa considers, in its sole and absolute discretion, that you have failed to comply with the above, Flippa may, in its sole and absolute discretion and without notice, hide your listing from the marketplace until you have addressed the non-compliance to Flippa’s reasonable satisfaction. Flippa’s decision to hide a listing under this clause does not entitle you to a refund of any fees paid in connection with that listing.  
+
 **9\. Listing Types** 
 
 Flippa enables two kinds of listings — auction-format listings and fixed-price listings.
@@ -141,9 +149,9 @@ A listing may also show a ‘buy it now’ button with a price listed next to it
 
 If a listed asset has a set asking price, in the case of a fixed-priced listed, or a reserve price, in the case of an auction-format listing, equal to or above USD$25,000, you agree that you will promote and/or sell that asset exclusively using the Flippa Services.
 
-For assets and online businesses valued up to $100,000 and for the period in which your asset(s) is for sale with Flippa and for 30 days from the date you remove your listing, you warrant that you will not use any other platform, marketplace or service, including a broker service, to promote or sell your asset, without the express written permission of Flippa.
+For assets and online businesses valued up to $100,000 and for the period in which your asset(s) is for sale with Flippa and for 90 days from the date you remove your listing, you warrant that you will not use any other platform, marketplace or service, including a broker service, to promote or sell your asset, without the express written permission of Flippa.
 
-For assets and online businesses valued up to $15MM and for the period in which your asset(s) is for sale with Flippa and for 45 days from the date you remove your listing, you warrant that you will not use any other platform, marketplace or service, including a broker service, to promote or sell your asset, without the express written permission of Flippa.
+For assets and online businesses valued above $100,000 and for the period in which your asset(s) is for sale with Flippa and for 180 days from the date you remove your listing, you warrant that you will not use any other platform, marketplace or service, including a broker service, to promote or sell your asset, without the express written permission of Flippa.
 
 If Flippa discovers that you have been in violation of this clause 10, you acknowledge and agree that Flippa has the right to immediately suspend your listing and terminate your account and may, at its discretion, take action against you to recover a success fee.
 
