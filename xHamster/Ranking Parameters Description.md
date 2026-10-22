@@ -50,6 +50,10 @@ This serves as a notification under the Terms. Please read and review the update
 
 This serves as a notification under the Terms. Please read and review the updated version of the Terms as your continued use of the Website and/or our Platform following the update to these Terms constitutes acceptance of such changes.
 
+3.5. October 09, 2026
+
+This serves as a notification under the Terms. Please read and review the updated version of the Terms as your continued use of the Website and/or our Platform following the update to these Terms constitutes acceptance of such changes.
+
 4\. Transparency reporting obligations
 
 Transparency reports for the xHamster platform, prepared in accordance with the requirements of the DSA, are located:
