@@ -5,6 +5,12 @@ Last modified October 13, 2026
 
 Download TXT
 
+Machine-translated
+
+This page was translated by machine and is provided for information purposes only. It may not accurately reflect the meaning of the original English text. Only the English version is legally binding, and it prevails in the event of any discrepancy.
+
+[Read the English version →](https://proctorio.com/privacy)
+
 You're viewing a filtered version of this notice. [View full notice](https://proctorio.com/privacy)
 
 [](#general)1\. General
