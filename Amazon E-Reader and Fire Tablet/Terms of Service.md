@@ -13,11 +13,11 @@ If you place an order for, register, or use any Kindle e-reader, or any Amazon A
 *   [Audible Conditions of Use](https://www.audible.com/conditions-of-use)
 *   [Alexa Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740)
 
-If you purchase or use Amazon Prime, Amazon Kids or Amazon Kids+, Kindle Unlimited or comiXology Unlimited with your compatible Kindle e-reader, Amazon Alexa or Fire tablet, or any other Kindle software or reading application, then you agree to the following terms:
+If you purchase or use Amazon Prime, Amazon Kids or Amazon Kids+, Kindle+ or comiXology Unlimited with your compatible Kindle e-reader, Amazon Alexa or Fire tablet, or any other Kindle software or reading application, then you agree to the following terms:
 
 *   [Amazon Prime Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=13819201)
 *   [Amazon Kids+ Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201222340)
-*   [Kindle Unlimited Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201556940)
+*   [Kindle+ Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201556940)
 *   [comiXology Unlimited Terms of Use](https://www.comixology.com/legal/apps/comics/web/default/comixologyunlimitedterms.html)
 
 If you purchase a Kindle e-reader or Amazon Alexa or Fire tablet using monthly payments, then you agree to the following terms:
