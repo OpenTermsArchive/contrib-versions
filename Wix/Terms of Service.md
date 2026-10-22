@@ -4,7 +4,7 @@ If you created your account prior to \[date of publication\], the changes will b
 Wix.com Terms of Use
 ====================
 
-Last Revised: October 21, 2026
+Last Revised: July 9, 2026
 
 [(Previous versio](https://www.wix.com/about/terms-of-use-dyn/prev-version)n)
 
@@ -29,6 +29,37 @@ We understand that legal terms can be exhausting to read, and we’ve tried to m
   
 
 **SECTION 19 CONTAINS AN ARBITRATION CLAUSE AND CLASS ACTION WAIVER. UNLESS OTHERWISE PROHIBITED BY APPLICABLE LAW IN THE JURISDICTION WHERE YOU RESIDE, BY AGREEING TO THESE WIX TERMS, YOU AGREE (A) TO RESOLVE ALL DISPUTES (WITH LIMITED EXCEPTION) RELATED TO WIX’S SERVICES AND/OR PRODUCTS THROUGH BINDING INDIVIDUAL ARBITRATION, WHICH MEANS THAT YOU WAIVE ANY RIGHT TO HAVE THOSE DISPUTES DECIDED BY A JUDGE OR JURY, AND (B) TO WAIVE YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS, CLASS ARBITRATIONS, OR REPRESENTATIVE ACTIONS, AS SET FORTH BELOW. YOU HAVE THE RIGHT TO OPT-OUT OF THE ARBITRATION CLAUSE AS EXPLAINED IN SECTION 19.**
+
+1\. Introduction
+----------------
+
+### 1.1. Our Purpose
+
+Our services offer our Users (as defined below) the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, designs and platforms created by Users are collectively referred to herein as **“User Platform(s)”**.
+
+#### #ItsThatEasy
+
+Wix.com offers online and mobile services and tools, that let create, manage and or/use your own online and mobile presence.
+
+### 1.2. Legal Agreement
+
+These Wix.com Terms of Use (**“Terms of Use”**), together with such additional terms which specifically apply to some of our services and features as presented on the Wix.com website(s) (**“Wix Website”**, and collectively – the **“Wix Terms”**), set forth the entire terms and conditions applicable to each visitor or user (**“User”** or **“you”**) of the Wix Website, the Wix mobile application (the “Wix App”) and/or any other services, applications and features offered by us with respect thereto, except where we explicitly state otherwise (all services offered through the Wix Website or the Wix App, collectively – the **“Wix Services”** or **“Services”**). For the avoidance of doubt, Wix Services (as defined in these Terms of Use) do not include services, applications, features, or components that were built, developed, connected or offered by a Wix User, even if presented on the Wix Website or the Wix App.
+
+  
+
+The Wix Terms constitute a binding and enforceable legal contract between Wix.com Ltd. and its affiliated companies and subsidiaries worldwide (**“Wix”**, **“us”** or **“we”**) and you in relation to the use of any Wix Services - so please read them carefully.
+
+  
+
+You may visit and/or use the Wix Services and/or the Wix App only if you fully agree to the Wix Terms - and by using and/or registering to any of the Wix Services, you signify and affirm your informed consent to these Terms of Use and any other Wix Terms applicable to your use of any Wix Services. If you do not read, or fully understand or if you do not agree to the Wix Terms, you must immediately leave the Wix Website and avoid or discontinue all use of the Wix Services or Wix App.
+
+  
+
+By using our Services, you also acknowledge that you have read our Privacy Policy available at our [Privacy Policy](http://www.wix.com/about/privacy).
+
+#### #ItsThatEasy
+
+By visiting our website or using our application and/or services, you are entering into a legal agreement with us, consisting of these Terms of Use, and our additional services’ legal terms. By using our services, you signify your consent to these terms and you acknowledge that you have read our Privacy Policy. You may not use our services if you do not consent to all our terms.
 
 Addendum - Subscription and Payment Terms for Residents of the State of Israel
 ------------------------------------------------------------------------------
