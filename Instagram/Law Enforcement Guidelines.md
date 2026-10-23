@@ -107,10 +107,3 @@ Menlo Park, CA 94025
 Mail:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
-
-Other ways to get help
-----------------------
-
-Get a call from Meta AI assistant
-
-Get help from Meta AI assistant by phone
