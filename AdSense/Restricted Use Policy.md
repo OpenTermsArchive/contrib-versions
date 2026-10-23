@@ -260,11 +260,11 @@ Video inventory restrictions
 
 *   "**In-stream**" means a video or audio ad played within the stream of video or audio content, where the video or audio content is the focus of the user's visit or explicitly requested by the user.
     
-    Example: A video ad that is played before, in the middle of, or after the stream of a user-requested video content.
+    Example: A video ad that is played before, in the middle of, or after the stream of a user-requested video content (i.e., user clicks to play the video).
     
-*   "**Accompanying Content**" means a video ad played within the stream of video content accompanying the main content of the user’s visit, where the video content is neither the focus of the user’s visit nor explicitly requested by the user. Accompanying Content placements must load within the body of the page, and muted by default.
+*   "**Accompanying Content**" means a video ad played within the stream of video content accompanying the main content of the user’s visit, where the video content is neither the focus of the user’s visit nor explicitly requested by the user. Accompanying Content placements must be muted by default.
     
-    Example: A video ad that is played before, in the middle of, or after the stream of muted video content that takes up a small portion of a primarily editorial page.
+    Example: A video ad that is played before, in the middle of, or after the stream of auto-played muted video content that takes up a small portion of a primarily editorial page, sometimes on the side of the page or as a floating sticky player.
     
 *   "**Interstitial**" means a video ad played without the presence of any other streaming video content in a transition between content, where the video ad is the primary focus of the page and takes up the majority of the viewport.
     
@@ -283,7 +283,7 @@ Video inventory restrictions
     *   Audibility of ad placement: Audible (volume > 0 at the time of the ad request) by default or muted (for Ad Manager, see [`vpmute` parameter](https://support.google.com/admanager/answer/10678356#vpmute)).
     *   Type of ad placement:
         *   For Connected TV or Digital out-of-home inventory: Placements must be accurately declared per the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/admanager/answer/16127271#definitions).
-        *   For inventory other than Connected TV and Digital out-of-home: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
+        *   For inventory other than Connected TV and Digital out-of-home: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
 
 **Note**: For Ad Manager, the terms "instream" or "in-stream" in Help Center pages and in-product controls refer to both "In-stream" and "Accompanying Content" as defined in these policies. Ad Manager Video Inventory that is "In-stream" or "Accompanying Content" per these policies must adhere to the respective requirements in these policies.
 
@@ -306,9 +306,8 @@ Video inventory restrictions
     *   Only one video inventory across all placement types may autoplay with sound at any time.
         *   Additionally for In-stream or Accompanying Content placements, only one video player may autoplay in view at any time.
     *   The ad must not autoplay until at least 50% of the ad unit is visible.
-7.  Except Connected TV and Digital out-of-home inventory where sticky placements are not supported, other types of video inventory may be sticky, provided that:
+7.  Except Connected TV and Digital out-of-home inventory where sticky placements are not supported, other types of video inventory may be sticky, provided that:
     *   A dismiss option is presented for the entire duration of the video or ad content. This option must not be hidden, obstructed, or non-functional.
-    *   For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.
 
 #### Additional requirements for Connected TV and Digital out-of-home
 
