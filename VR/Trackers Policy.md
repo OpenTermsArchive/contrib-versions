@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=4f51eae)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=70313e0)
 
 Information about cookies
 =========================
@@ -36,6 +36,8 @@ _Page updated 4 Sep 2024. Microsoft Ads added to Marketing cookies._
 _Page updated 26 Nov 2025. The entire cookie listing updated to a more detailed level._
 
 _10.6.2026 AWS added to functional cookies and & LinkedIn added to marketing cookies._
+
+![](https://images.ctfassets.net/gshi3wijcp49/1pR2RMZFUGpZ8llTIMpqNH/0a5ba8b4440984f7e112c93ff45c7d8f/icon-emotion-happy-mobile.png?fm=webp&w=1920&q=75)
 
 What kind of cookies do we use?
 -------------------------------
