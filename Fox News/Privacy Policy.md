@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last Updated/Effective Date: July 1, 2026_
+_Last Updated/Effective Date: October 22, 2026_
 
 Table of Contents:
 ------------------
@@ -26,30 +26,32 @@ Table of Contents:
     
     How you can access and control the information we maintain about you
     
-6.  [**OTHER IMPORTANT INFORMATION**](#other)
+6.  [**CHILDREN'S PRIVACY**](#children)
+    
+    How we handle personal information of children
+    
+7.  [**OTHER IMPORTANT INFORMATION**](#other)
     
     Other things you should know about this Privacy Policy and how we handle your information
     
-7.  [**CONTACT US**](#contact)
+8.  [**CONTACT US**](#contact)
     
     How to contact Company about this Privacy Policy
     
-8.  [**CALIFORNIA CONSUMER PRIVACY ACT NOTICE**](#ccpa)
+9.  [**CALIFORNIA CONSUMER PRIVACY ACT NOTICE**](#ccpa)
     
-    Other things you should know if you reside in California. You can click on the section heading to jump to this information or you can scroll to Section 8
+    Other things you should know if you reside in California. You can click on the section heading to jump to this information or you can scroll to Section 9
     
-9.  [**FOR CONSUMERS IN OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS**](#other-states)
-    
-    Other things you should know if you are a consumer residing in Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia or other states with similar privacy laws
-    
+10.  [**FOR CONSUMERS IN OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS**](#other-states)
+     
+     Other things you should know if you are a consumer residing in Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia or other states with similar privacy laws
+     
 
 ### 1) SCOPE AND APPLICATION
 
-Fox Digital Services, LLC, along with Fox News, Fox Sports, Fox Broadcasting Company, and Fox Television Stations (collectively "Company" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets that link to or are otherwise subject to this Privacy Policy (collectively, the "Company Services"). Information about our affiliated companies ("Company Affiliates") is available at [https://www.foxcorporation.com](https://www.foxcorporation.com/).
+Fox Digital Services, LLC, along with Fox News, Fox Sports, Fox Broadcasting Company, Tubi, Inc., and Fox Television Stations (collectively "Company" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets that link to or are otherwise subject to this Privacy Policy (collectively, the "Company Services"). Information about our affiliated companies ("Company Affiliates") is available at [https://www.foxcorporation.com](https://www.foxcorporation.com/).
 
-Certain state privacy laws require particular disclosures in privacy policies. California residents, please see the California Consumer Privacy Act Notice in Section 8 below. Consumers in Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia and other states with similar privacy laws, please see Section 9 below. By using the Company Services, you agree to the terms and conditions of this Privacy Policy.
-
-The Company Services are for a general audience and are not targeted to children.
+Certain state privacy laws require particular disclosures in privacy policies. California residents, please see the California Consumer Privacy Act Notice in Section 9 below. Consumers in Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia and other states with similar privacy laws, please see Section 10 below. By using the Company Services, you agree to the terms and conditions of this Privacy Policy.
 
 This Privacy Policy applies to all users, including both those who use the Company Services without being registered with or subscribing to a Company Service and those who have registered with or subscribed to a Company Service.
 
@@ -59,7 +61,7 @@ This Privacy Policy applies to Company's collection, use, and disclosure of your
 
 Depending on your interactions with us, Company and our service providers may collect the following information from and about you:
 
-**Registration Information** is information you submit to register for a Company Service, for example, to create an account, post comments or reactions, receive a newsletter, or enter a contest, sweepstakes, or other promotion. Registration Information may also include, for example, name, email address, phone number, gender, zip code, user/display name, favorites, entry name, and birthday. Depending on when and how you register, we may collect email address, but not a password.
+**Registration Information** is information you submit to register for a Company Service, for example, to create an account or subaccount, post comments or reactions, receive a newsletter, or enter a contest, sweepstakes, or other promotion. Registration Information may also include, for example, name, email address, phone number, gender, zip code, user/display name, favorites, entry name, and birthday. Depending on when and how you register, we may collect email address, but not a password.
 
 **Subscription Information** is information we receive from business partners in the event that you choose to purchase, request, or redeem a subscription to our services from or through the business partner. This may include, for example, your email address.
 
@@ -129,12 +131,13 @@ We may use artificial intelligence (AI) tools in connection with some of the Com
 
 **To deliver relevant advertisements.** Company and our service providers may use information we collect from and about you as described in this Privacy Policy to deliver and measure relevant, more personalized ads to you when you use the Company Services or another service (on any of your devices). This may include, for example, sharing certain information with advertising technology and related companies (e.g., identity partners), such as an advertising identifier for your device, IP address, or a "hash" of an identifier (i.e., a value generated using a cryptographic hash algorithm.) In some instances, these entities may return an online identification code that we may store in a first party cookie, or other similar technology, for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. You can opt out on the web by visiting the "Your Privacy Choices" webpages below:
 
-*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   FOX One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
 *   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
 *   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
 *   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main) 
 *   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
 *   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Tubi: [https://www.tubitv.com/privacy/opt-out](https://www.tubitv.com/privacy/opt-out)
 
 To opt out in mobile or connected TV apps, visit the "Your Privacy Choices" section in account/settings.
 
@@ -160,13 +163,17 @@ Company uses commercially reasonable administrative, technical, personnel, and p
 
 ### 5) USER ACCESS AND CONTROL
 
-If you would like to access personal information we hold about you, delete, or correct personal information that you have previously provided directly to us, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) and submit a request. Please note that, for security reasons, we will ask you to verify your identity in order to proceed with your request. If you would like to suppress or otherwise limit our use of your personal information, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to suppress or limit. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law. Please note that, subject to applicable law, in some cases we may not comply with your request where we may require your information in order to comply with applicable law, or to protect, enforce or defend our rights or employee rights, or those of a Company Affiliate.
+If you would like to access personal information we hold about you, delete, or correct personal information that you have previously provided directly to us, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) and submit a request. Or you also can submit a request by visiting [https://www.tubitv.com/privacy/mydata](https://www.tubitv.com/privacy/mydata) (to access personal information we hold about you), [https://www.tubitv.com/privacy/delete](https://www.tubitv.com/privacy/delete) (to request deletion of your personal information) or [https://tubitv.com/privacy/correction](https://tubitv.com/privacy/correction) (to request correction of your personal information). Please note that, for security reasons, we will ask you to verify your identity in order to proceed with your request. If you would like to suppress or otherwise limit our use of your personal information, you may contact us as outlined in Section 8. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to suppress or limit. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law. Please note that, subject to applicable law, in some cases we may not comply with your request where we may require your information in order to comply with applicable law, or to protect, enforce or defend our rights or employee rights, or those of a Company Affiliate.
 
-If you are a resident of California, please see the section entitled "California Consumer Privacy Act Notice" below for more information about the rights you have under California law. If you are a consumer in another U.S. state with a similar privacy law, please see the section entitled "For Consumers in Other U.S. States with Similar Privacy Laws" below for more information about your rights under other state privacy laws.
+If you are a resident of California, please see the section entitled "California Consumer Privacy Act Notice" below for more information about the rights you have under California law. If you are a consumer in another US state with a similar privacy law, please see the section entitled "For Consumers in Other U.S. States with Similar Privacy Laws" below for more information about your rights under other state privacy laws.
 
 You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes, such as under the California Shine the Light law, by emailing us at [ShineTheLight@fox.com](mailto:ShineTheLight@fox.com). We will try to comply with your request(s) as soon as reasonably practicable and consistent with applicable law.
 
-### 6) OTHER IMPORTANT INFORMATION
+### 6) CHILDREN'S PRIVACY
+
+The Company Services, including Tubi, are intended for a general audience and are not directed to children. Tubi, however, offers limited content, features, and experiences (like Tubi Kids Accounts and Tubi Kids Mode) to children under the age of 13. This Privacy Policy does not apply to those experiences. Information about the handling of children's personal information in connection with those child-directed features and experiences is provided in our Children's Privacy Policy at [https://www.tubi.tv/privacy/children](https://www.tubi.tv/privacy/children).
+
+### 7) OTHER IMPORTANT INFORMATION
 
 **Updates to Privacy Policy.** Company may modify this Privacy Policy at any time by posting an updated policy on the Company Services. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Company Services.
 
@@ -182,15 +189,17 @@ Remember that even after you cancel your account, or if you ask us to delete you
 
 **Deidentified Information**. To the extent we process "deidentified" personal information, as defined under applicable law, we will maintain and use that information in deidentified form and will not attempt to reidentify the information except as permitted by applicable law.
 
-### 7) CONTACT US
+### 8) CONTACT US
 
 If you have questions about this Privacy Policy, please contact us at:
 
 Email: [privacy@fox.com](mailto:privacy@fox.com)
 
-### 8) CALIFORNIA CONSUMER PRIVACY ACT NOTICE
+Web: [https://www.tubitv.com/static/support](https://www.tubitv.com/static/support) and select "Terms of Use & Privacy Policy" from the list of available topics
 
-This California Consumer Privacy Act Notice Section provides information for California residents in connection with the California Consumer Privacy Act ("CCPA"). California residents who are prospective, current, or former Company employees; or contractors, emergency contacts, or beneficiaries may view our workforce-related California privacy notice by visiting [https://www.fox.com/workforce-privacy-notice/](https://www.fox.com/workforce-privacy-notice/). California residents who are business consumers acting as employees, owners, directors, officers or independent contractors of an entity conducting due diligence or providing or receiving a product or service from Company ("Business-to-Business Contacts") may view our B2B privacy notice by visiting [https://www.fox.com/privacy-policy/b2b](https://www.fox.com/privacy-policy/b2b). Under the CCPA, and for purposes of this Section, "Personal Information" generally means information that identifies, relates to, or describes a particular California resident and includes the categories listed below. This Section 8 provides details about the categories of Personal Information of California residents that we have collected, disclosed, or "sold" or "shared" during the last 12 months, as well as rights California residents have under California law. Please note that, depending on the California resident's interactions with us, Company may not have collected, disclosed, or "sold" or "shared" each (or any) of these categories of Personal Information about each individual.
+### 9) CALIFORNIA CONSUMER PRIVACY ACT NOTICE
+
+This California Consumer Privacy Act Notice Section provides information for California residents in connection with the California Consumer Privacy Act ("CCPA"). California residents who are prospective, current, or former Company employees; or contractors, emergency contacts, or beneficiaries may view our workforce-related California privacy notice by visiting [https://www.fox.com/workforce-privacy-notice/](https://www.fox.com/workforce-privacy-notice/). California residents who are business consumers acting as employees, owners, directors, officers or independent contractors of an entity conducting due diligence or providing or receiving a product or service from Company ("Business-to-Business Contacts") may view our B2B privacy notice for Fox Digital Services, Fox News, Fox Sports, Fox Broadcasting Company, and Fox Television Stations by visiting [https://www.fox.com/privacy-policy/b2b](https://www.fox.com/privacy-policy/b2b) and for Tubi by visiting [https://tubitv.com/static/b2bprivacy](https://tubitv.com/static/b2bprivacy). Under the CCPA, and for purposes of this Section, "Personal Information" generally means information that identifies, relates to, or describes a particular California resident and includes the categories listed below. This Section 9 provides details about the categories of Personal Information of California residents that we have collected, disclosed, or "sold" or "shared" during the last 12 months, as well as rights California residents have under California law. Please note that, depending on the California resident's interactions with us, Company may not have collected, disclosed, or "sold" or "shared" each (or any) of these categories of Personal Information about each individual.
 
 **Categories of Personal Information Collected, Disclosed, and/or Sold or Shared:**
 
@@ -199,16 +208,16 @@ The categories of Personal Information that we have collected, disclosed, and/or
 |     |     |     |
 | --- | --- | --- |
 | **Category of Personal Information Collected** | **Categories of External Parties to Whom Personal Information Is Disclosed** | **Categories of Third Parties to Whom Personal Information is "Sold" or "Shared"** |
-| **Identifiers**, such as name, IP address, email address, user/display name, and online and device identifiers | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>Providers of streaming subscriptions,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
-| **Personal information**, as defined in the California Customer Records law, such as contact and financial information | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
-| **Characteristics of protected classifications under California law**, such as age or gender | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
-| **Commercial information**, such as transaction information and purchase history | Service providers,  <br>  <br>Providers of streaming subscriptions,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
-| **Internet or network activity information**, such as browsing history and interactions with our websites, mobile, or connected TV applications (collectively, "Company Digital Properties") | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
+| **Identifiers**, such as name, IP address, email address, user/display name, and online and device identifiers | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>Providers of streaming subscriptions,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
+| **Personal information**, as defined in the California Customer Records law, such as contact and financial information | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
+| **Characteristics of protected classifications under California law**, such as age or gender | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
+| **Commercial information**, such as transaction information and purchase history | Service providers,  <br>  <br>Providers of streaming subscriptions,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
+| **Internet or network activity information**, such as browsing history and interactions with our websites, mobile, or connected TV applications (collectively, "Company Digital Properties") | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
 | **Geolocation data**, such as device location | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | N/A |
 | **Audio, electronic, visual and other similar information**, such as call recordings | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | N/A |
 | **Professional or employment-related information**, such as work history and prior employer (e.g., in connection with entertainment or sports programs) | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | N/A |
 | **Non-public education information** (e.g., in connection with news or entertainment productions or sports programs) | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | N/A |
-| **Inferences drawn from any of the Personal Information listed above** to create a profile or summary about, for example, an individual's preferences and characteristics | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing and targeted advertising |
+| **Inferences drawn from any of the Personal Information listed above** to create a profile or summary about, for example, an individual's preferences and characteristics | Service providers,  <br>  <br>Company Affiliates,  <br>  <br>and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers  <br>  <br>For the purpose of targeted advertising  <br>  <br>Company Affiliates  <br>  <br>For the purpose of marketing, personalization, and targeted advertising |
 
 Please note that the CCPA definitions of "sale" and "share" do not include, for example, the transfer of Personal Information as an asset that is part of a merger, bankruptcy, or other similar transaction involving all or any portion of our business.
 
@@ -236,13 +245,15 @@ Depending on the California resident's interactions with us, Company may not hav
 
 **Sensitive Personal Information.** We do not process "sensitive" Personal Information for purposes other than those specified in the CCPA Regulations section 7027(m) (such as to provide the services and for security purposes).
 
-**Data Retention**. We will retain Personal Information from or about you as reasonably necessary and proportionate to achieve the purpose(s) for which the Personal Information was collected or processed as outlined in this Section 8 unless a longer retention period is required or allowed by law.
+**Data Retention**. We will retain Personal Information from or about you as reasonably necessary and proportionate to achieve the purpose(s) for which the Personal Information was collected or processed as outlined in this Section 9 unless a longer retention period is required or allowed by law.
 
 **Notice of Financial Incentive**. From time to time, we may offer various offers or programs, which California may consider to be a financial incentive (each an "Incentive Program"). To learn more about our Incentive Programs, including how to opt in and how to withdraw, please visit:
 
 Fox News: [https://foxnews.com/fi-notice](https://foxnews.com/fi-notice)
 
 Fox Television Stations: [https://foxlocal.com/fi-notice](https://foxlocal.com/fi-notice)
+
+Tubi: [https://tubi.tv/fi-notice](https://tubi.tv/fi-notice)
 
 _**California Rights.**_ If you are a California consumer, you have the following rights:
 
@@ -258,7 +269,7 @@ _**California Rights.**_ If you are a California consumer, you have the followi
 
 **(3) Right to Request Correction.** You have the right to request that we correct inaccurate Personal Information we collected about you.
 
-To exercise any of the rights above, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) or call us at 888-596-3929. You will need to provide your name and email address, along with other details about your request. For example, if you submit a request for correction, you will need to identify the Personal Information you would like us to correct. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. If you have an account/profile, please use the email address associated with your account/profile when submitting a request. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
+To exercise any of the rights above, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) or you can submit a request by visiting [https://www.tubitv.com/privacy/mydata](https://www.tubitv.com/privacy/mydata) (to access personal information we hold about you), [https://www.tubitv.com/privacy/delete](https://www.tubitv.com/privacy/delete) (to request deletion of your personal information) or [https://tubitv.com/privacy/correction](https://tubitv.com/privacy/correction) (to request correction of your personal information). You can also call us at 888-596-3929. You will need to provide your name and email address, along with other details about your request. For example, if you submit a request for correction, you will need to identify the Personal Information you would like us to correct. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. If you have an account/profile, please use the email address associated with your account/profile when submitting a request. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
 
 You can use an authorized agent to submit a request to access, delete, or correct your Personal Information. When submitting a request online, your authorized agent should select the "Other" option on the form and, in the field provided, include your name, your email address, and whether or not you have an account/profile with us. In addition to verifying your identity, as described above, we also will need to verify your authorized agent's ability to act on your behalf (e.g., by receiving a copy of your signed permission). Once verification is complete, we may communicate directly with you for privacy and security reasons.
 
@@ -266,16 +277,21 @@ Please note that, in some instances, we may decline to honor your request where,
 
 **(4) Right to Opt-Out of Sale or Sharing.** As noted above in this section, and depending on your interactions with us, we may share some categories of Personal Information in connection with certain types of advertisements. This may be considered "selling" or "sharing" under the CCPA.
 
-You can opt out on the web by visiting the "Your Privacy Choices" webpages below:
+You can opt out on the web by visiting any of the "Your Privacy Choices" webpages below:
 
-*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   FOX One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
 *   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
 *   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
 *   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main)
 *   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
 *   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Tubi: [https://www.tubitv.com/privacy/opt-out](https://www.tubitv.com/privacy/opt-out)
 
+**For FOX One, Fox News, Fox Nation, Fox Business, Fox Television Stations and Fox Sports:**  
 You or your authorized agent may opt out of the "sale" and "sharing" of your Personal Information by clicking on the toggle and hitting the "submit" button at the bottom of the screen.
+
+**For Tubi:**  
+You or your authorized agent may opt out of the sale and sharing of your Personal Information by visiting [https://www.tubitv.com/privacy/opt-out](https://privacyportal.onetrust.com/webform/8d9cb670-94ff-4659-969d-6b15fd288fcc/7b746a06-433a-4877-8bf8-8146f855a3ec), completing the form, and hitting the "Submit" button at the bottom of the page.
 
 If you have an account/profile with us, your preference will apply to the device(s) connected to your logged-in account or profile for the Company Services. If you do not have an account, or choose not to log-in to your account on a device, you will need to select your preference on each device.
 
@@ -285,12 +301,13 @@ For mobile and connected TV apps, you may visit "Your Privacy Choices" in Accoun
 
 **(5) Right to be Free from Discrimination.** You have the right to be free from unlawful discrimination for exercising your rights under the CCPA.
 
-**(6) Record Keeping.** For metrics regarding requests received during the previous calendar year for: Requests to Know, Requests to Delete, Requests for Correction, and Requests to Opt Out of "Sales" and "Sharing" please visit:
+**(6) Record Keeping.** During the 2025 reporting period, Fox News, Fox Television Stations, Fox Sports, FOX One, and Tubi separately reported their metrics regarding the requests each of those companies received during the previous calendar year for: Requests to Know, Requests to Delete, Requests for Correction, and Requests to Opt Out of "Sales" and "Sharing." To view those metrics, please visit:
 
 *   Fox News: [https://www.foxnews.com/recordkeeping/](https://www.foxnews.com/recordkeeping/)
 *   Fox Television Stations: [https://www.foxlocal.com/recordkeeping/index.html](https://www.foxlocal.com/recordkeeping/index.html)
 *   Fox Sports: [https://www.foxsports.com/recordkeeping](https://www.foxsports.com/recordkeeping)
-*   Fox One: [https://www.fox.com/recordkeeping](https://www.fox.com/recordkeeping)
+*   FOX One: [https://www.fox.com/recordkeeping](https://www.fox.com/recordkeeping)
+*   Tubi: [https://www.tubi.tv/privacy/recordkeeping](https://www.tubi.tv/privacy/recordkeeping)
 
 **Other California Privacy Laws**.
 
@@ -298,13 +315,13 @@ For mobile and connected TV apps, you may visit "Your Privacy Choices" in Accoun
 
 If you are under 18 and an eligible registered user of the Company Services, you may ask us to remove content or information that you have posted to the Company Services by writing to [PrivacyCMDW@fox.com](mailto:PrivacyCMDW@fox.com). Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
 
-### 9) FOR CONSUMERS IN OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS
+### 10) FOR CONSUMERS IN OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS
 
-Depending on where you live, you may have certain additional rights regarding your personal information. This section provides information for consumers residing in Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia and other states with similar privacy laws. For purposes of this Section, "Personal Data" generally means information that identifies, relates to, or describes a particular consumer residing in the states listed above in this Section 9 or another state with a similar privacy law and includes the categories listed below. Depending on your interactions with us, we and our advertising partners may use certain Personal Data to deliver online advertisements to you on your devices tailored to your interests. Depending on where you live, this may be considered "selling" under some state privacy laws (for example, Colorado and Connecticut law) and "targeted advertising" under other states' privacy laws (for example, under Virginia, Colorado, and Connecticut law). This Section 9 provides details about the categories of Personal Data of consumers in the states listed in this Section 9 and other states with similar privacy laws that we have collected and/or disclosed, or "sold" or processed for purposes of targeted advertising, as well as rights consumers in these states and other states with similar privacy laws have under their states' laws. Please note that, depending on the consumer's interactions with us, Company may not have collected, disclosed, processed for purposes of targeted advertising, or "sold," each (or any) of these categories, of Personal Data for each listed purpose.
+Depending on where you live, you may have certain additional rights regarding your personal information. This section provides information for consumers residing in Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia and other states with similar privacy laws. For purposes of this Section, "Personal Data" generally means information that identifies, relates to, or describes a particular consumer residing in the states listed above in this Section 10 or another state with a similar privacy law and includes the categories listed below. Depending on your interactions with us, we and our advertising partners may use certain Personal Data to deliver online advertisements to you on your devices tailored to your interests. Depending on where you live, this may be considered "selling" under some state privacy laws (for example, Colorado and Connecticut law) and "targeted advertising" under other states' privacy laws (for example, under Virginia, Colorado, and Connecticut law). This Section 10 provides details about the categories of Personal Data of consumers in the states listed in this Section 10 and other states with similar privacy laws that we have collected and/or disclosed, or "sold" or processed for purposes of targeted advertising, as well as rights consumers in these states and other states with similar privacy laws have under their states' laws. Please note that, depending on the consumer's interactions with us, Company may not have collected, disclosed, processed for purposes of targeted advertising, or "sold," each (or any) of these categories, of Personal Data for each listed purpose.
 
 **Categories of Personal Data Collected, Disclosed, or "Sold" or Processed for Targeted Advertising:**
 
-The categories of Personal Data that we collected, disclosed, processed for purposes of targeted advertising (e.g., under the Virginia law), or "sold" (e.g., under Colorado and Connecticut laws) are below, along with the purposes for processing, and categories of external parties to whom each category of Personal Data was disclosed or "sold" or processed for the purpose of targeted advertising. As noted above, we process some categories of Personal Data in connection with targeted advertising, which could be considered "selling" under some state privacy laws (e.g., Colorado and Connecticut). Additionally, as also explained, depending on the consumer's interactions with us, Company may not have collected, disclosed, processed for purposes of targeted advertising, or "sold" each (or any) of these categories, of Personal Data for each listed purpose. Further, we do not knowingly "sell" or process Personal Data of children under 13 years of age.
+The categories of Personal Data that we collected, disclosed, processed for purposes of targeted advertising (e.g., under the Virginia law), or "sold" (e.g., under Colorado and Connecticut laws) are below, along with the purposes for processing, and categories of external parties to whom each category of Personal Data was disclosed or "sold" or processed for the purpose of targeted advertising. As noted above, we process some categories of Personal Data in connection with targeted advertising, which could be considered "selling" under some state privacy laws (e.g., Colorado and Connecticut). Additionally, as also explained, depending on the consumer's interactions with us, Company may not have collected, disclosed, processed for purposes of targeted advertising, or "sold" each (or any) of these categories, of Personal Data for each listed purpose. Further, we do not knowingly "sell" or process for the purposes of targeted advertising, the Personal Data of minors known to be under 16 years of age (or any comparable category of underage users defined under state privacy laws) in those states where state privacy laws prohibit such a "sale" or processing.
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -335,7 +352,7 @@ In addition, we do not engage in "profiling" in furtherance of decisions that pr
 
 **Sensitive Personal Information.** Under limited circumstances, we may process "sensitive" Personal Data (e.g., in connection with location-restricted sports content or unscripted programming). In those situations, you will be asked for consent. Subject to applicable law, that consent may be revoked at any time (e.g., through the location services settings on your device or by following instructions provided).
 
-_**Consumer Privacy Rights.**_ If you are a consumer in a state listed in this Section 9 or other state with a similar privacy law, you have the following rights:
+_**Consumer Privacy Rights.**_ If you are a consumer in a state listed in this Section 10 or other state with a similar privacy law, you have the following rights:
 
 **(1) Right to Access and Portability.** You have the right to confirm whether we are processing Personal Data concerning you, and to request that we disclose to you the Personal Data we collected from or about you, including in a portable form.
 
@@ -345,24 +362,29 @@ _**Consumer Privacy Rights.**_ If you are a consumer in a state listed in this 
 
 **(4) Right to be Informed about Disclosures to Third Parties.** Consumers in Delaware, Maryland, Minnesota, Oregon, and other states with similar privacy laws, have the right to know about the third parties that have received Personal Data from us. Similarly, Rhode Island and Connecticut customers have a right to receive a list of the third parties to whom we may have sold Personal Data.
 
-To exercise any of the rights above, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) or call us at 888-596-3929. You will need to provide your name and email address, along with other details about your request. For example, if you submit a request for correction, you will need to identify the Personal Data you would like us to correct. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. If you have an account/profile, please use the email address associated with your account/profile when submitting a request. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
+To exercise any of the rights above, please visit [https://privacy.fox.com/main/web/consumer](https://privacy.fox.com/main/web/consumer) or you can submit a request by visiting [https://www.tubitv.com/privacy/mydata](https://www.tubitv.com/privacy/mydata) (to access personal information we hold about you), [https://www.tubitv.com/privacy/delete](https://www.tubitv.com/privacy/delete) (to request deletion of your personal information) or [https://tubitv.com/privacy/correction](https://tubitv.com/privacy/correction) (to request correction of your personal information). You can also call us at 888-596-3929. You will need to provide your name and email address, along with other details about your request. For example, if you submit a request for correction, you will need to identify the Personal Data you would like us to correct. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. If you have an account/profile, please use the email address associated with your account/profile when submitting a request. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
 
-You can use an authorized agent to submit a request to access, delete, or correct your Personal Data and, if you live in Delaware, Maryland, Minnesota, or Oregon, a request to know about the third parties that have received Personal Data from us. Similarly, if you live in Rhode Island or Connecticut, your authorized agent can submit a request to receive a list of the third parties to whom we may have sold Personal Data. When submitting a request online, your authorized agent should select the "Other" option on the form and, in the field provided, include your name and email address, and whether or not you have an account/profile with us. In addition to verifying your identity, as described above, we also will need to verify your authorized agent's ability to act on your behalf (e.g., by receiving a copy of your signed permission). Once verification is complete, we may communicate directly with you for privacy and security reasons.
+You can use an authorized agent to submit a request to access, delete, or correct your Personal Data and, if you live in Delaware, Maryland, Minnesota, or Oregon, a request to know about the third parties that have received Personal Data from us. Similarly, if you live in Rhode Island or Connecticut, your authorized agent can submit a request to receive a list of the third parties to whom we may have sold Personal Data. When submitting a request online through FOX One, Fox News, Fox Nation, Fox Business, Fox Television Stations, or Fox Sports, your authorized agent should select the "Other" option on the form and, in the field provided, include your name and email address, and whether or not you have an account/profile with us. When submitting a request online through Tubi, your authorized agent should choose the agent option through the drop down menu. In addition to verifying your identity, as described above, we also will need to verify your authorized agent's ability to act on your behalf (e.g., by receiving a copy of your signed permission). Once verification is complete, we may communicate directly with you for privacy and security reasons.
 
 Please note that, in some instances, Company may decline to honor your request where, for example, we are unable to verify your identity or an exception to this right applies.
 
 **(5) Right to Opt-Out of Targeted Advertising and/or "Sale".** As noted above in this section, and depending on your interactions with us, we may process and share some categories of Personal Data in connection with targeted advertising. Under some states' privacy laws, this processing may be considered a "sale."
 
-You or your authorized agent may opt out of targeted advertising and/or "sales" on the web by visiting the "Your Privacy Choices" webpages below:
+You or your authorized agent may opt out of targeted advertising and/or "sales" on the web by visiting any of the "Your Privacy Choices" webpages below:
 
-*   Fox One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
+*   FOX One: [https://privacy.fox.com/main/web/main](https://privacy.fox.com/main/web/main)
 *   Fox News: [https://privacy.foxnews.com/main/web/main](https://privacy.foxnews.com/main/web/main)
 *   Fox Nation: [https://privacy.foxnews.com/nation/web/main](https://privacy.foxnews.com/nation/web/main)
 *   Fox Business: [https://privacy.foxbusiness.com/main/web/main](https://privacy.foxbusiness.com/main/web/main) 
 *   Fox Television Stations: [https://www.foxlocal.com/donotsell/index.html](https://www.foxlocal.com/donotsell/index.html)
 *   Fox Sports: [https://privacy.foxsports.com/main/web/main](https://privacy.foxsports.com/main/web/main)
+*   Tubi: [https://www.tubitv.com/privacy/opt-out](https://privacyportal.onetrust.com/webform/8d9cb670-94ff-4659-969d-6b15fd288fcc/7b746a06-433a-4877-8bf8-8146f855a3ec)
 
-Consumers residing in states listed in this Section 9, and other states with similar privacy laws, can opt out of targeted advertising and/or "sale" by clicking on the toggle and hitting the "submit" button at the bottom of the screen.
+**For FOX One, Fox News, Fox Nation, Fox Business, Fox Television Stations and Fox Sports:**  
+Click on the toggle and hit the "submit" button at the bottom of the screen.
+
+**For Tubi:**  
+Complete the form and hit the "submit" button at the bottom of the page.
 
 If you have an account/profile with us, your preference will apply to the device(s) connected to your logged-in account or profile for the Company Services. If you do not have an account, or choose not to log-in to your account on a device, you will need to select your preference on each device.
 
@@ -372,4 +394,4 @@ For mobile and connected TV apps, you may visit "Your Privacy Choices" in Accoun
 
 **(6) Right to Appeal**. If we decline to take action in response to your personal data rights request, consumers in Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Virginia, and states with similar privacy laws may request an appeal by notifying us through our privacy rights portal by following the instructions provided with the response to your request.
 
-**(7) Right to be Free from Discrimination.** You have the right to be free from unlawful discrimination for exercising your rights under the laws of a state listed in this Section 9 and other states with similar privacy laws.
+**(7) Right to be Free from Discrimination.** You have the right to be free from unlawful discrimination for exercising your rights under the laws of a state listed in this Section 10 and other states with similar privacy laws.
