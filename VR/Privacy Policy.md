@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=4f51eae)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=70313e0)
 
 Data protection
 ===============
@@ -33,6 +33,8 @@ In this data protection notice, we explain, among other things:
     
 *   what rights you have in relation to your personal data and how you can exercise these rights.  
     
+
+![](https://images.ctfassets.net/gshi3wijcp49/1pR2RMZFUGpZ8llTIMpqNH/0a5ba8b4440984f7e112c93ff45c7d8f/icon-emotion-happy-mobile.png?fm=webp&w=1920&q=75)
 
 1 Data controller
 -----------------
