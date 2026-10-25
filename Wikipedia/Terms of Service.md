@@ -370,6 +370,6 @@ Please note that in the event of any differences in meaning or interpretation be
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=554823](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=554823)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=598588](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=598588)"
 
 :
