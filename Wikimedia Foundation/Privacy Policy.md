@@ -42,6 +42,7 @@ Other languages:
 *   [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (86% translated)")
 *   [Malagasy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mg "Policy:Privacy policy/mg (1% translated)")
 *   [Mara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mrh "Thlahlôhna pawlisi (8% translated)")
+*   [Naijá](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pcm "http/headers/Accept.json (1% translated)")
 *   [Napulitano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nap "Privacy policy (9% translated)")
 *   [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl "Policy:Privacy policy/nl (100% translated)")
 *   [Nederlands (informeel)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nl-informal "Privacybeleid (1% translated)")
