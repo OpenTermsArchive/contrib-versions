@@ -482,7 +482,7 @@ Yasuhiro Niwa
 Address
 -------
 
-4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
+3-28-13 Nishi-Ikebukuro, Toshima-ku, Tokyo, JAPAN 171-0021
 
 Inquiries
 ---------
@@ -493,7 +493,7 @@ Inquiry form
 E-mail address:  
 support@pixiv.net
 
-Telephone: 03-6804-3458
+Telephone: 03-6770-0779
 
 Price
 -----
@@ -538,6 +538,7 @@ No refunds will be provided if you unsubscribe within the period of your subscri
 Revisions
 ---------
 
+*   October 26, 2026 Address updated due to office relocation.
 *   March 19, 2025 The address has been revised due to a change in the name of the office building.
 
 Restrictions for Healthy Expression in Specific Countries and Regions
