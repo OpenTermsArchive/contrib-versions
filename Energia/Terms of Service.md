@@ -1,3 +1,7 @@
+Notice
+
+Our phone lines are closed today due to the Bank Holiday. If you need any help, [please visit our Help and Support section](https://www.energia.ie/help-and-support). 
+
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Terms & Conditions
