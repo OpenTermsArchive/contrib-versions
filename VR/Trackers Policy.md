@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=6b1b1bf)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=70313e0)
 
 Information about cookies
 =========================
