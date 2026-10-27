@@ -250,7 +250,7 @@ To delete your information, you can:
 
 [Inactive Account Manager](https://myaccount.google.com/inactive?hl=en_GB) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
 
-And finally, you can also [request to remove content](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=en_GB) from specific Google services based on applicable law and our policies.
+And finally, you can also [request to remove content](https://support.google.com/legal/answer/3110420?hl=en_GB) from specific Google services based on applicable law and our policies.
 
 * * *
 
@@ -412,7 +412,7 @@ The following links highlight useful resources for you to learn more about our p
 *   [Your Google Account](https://myaccount.google.com/?hl=en_GB) is home to many of the settings you can use to manage your account
 *   [Privacy Check-Up](https://myaccount.google.com/privacycheckup?hl=en_GB) guides you through key privacy settings for your Google Account
 *   [Google’s safety centre](https://www.google.com/intl/en-GB/safetycenter/) helps you learn more about our built-in security, privacy controls and tools to help set digital ground rules for your family online
-*   [Google’s teen privacy guide](https://www.google.com/policies/privacy/teens/?hl=en_GB) provides answers to some of the top questions that we get asked about privacy
+*   [Google’s teen privacy guide](https://policies.google.com/privacy/teens?hl=en-GB) provides answers to some of the top questions that we get asked about privacy
 *   [Privacy & Terms](https://policies.google.com/?hl=en-GB) provides more context regarding this Privacy Policy and our Terms of Service
 *   [Technologies](https://policies.google.com/technologies?hl=en-GB) includes more information about:
     *   [How Google uses cookies](https://policies.google.com/technologies/cookies?hl=en-GB)
@@ -596,7 +596,7 @@ We may also use payment information to verify that you meet age requirements, if
 
 ### personalise content
 
-If you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalise your experience. For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel. [Learn more about Personal Intelligence](https://support.google.com/websearch/answer/16859283?p=lm-pi-faq&rd=1&hl=en_GB#lm-pi-faq).
+If you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalise your experience. For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel. [Learn more about Personal Intelligence](https://support.google.com/websearch/answer/16859283?p=lm-pi-faq&hl=en_GB#lm-pi-faq).
 
 ### personalised ads
 
@@ -684,7 +684,7 @@ For example, when you type an address in the To, Cc or Bcc field of an email you
 
 ### the public
 
-For example, we process information about [requests to remove content](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=en_GB) from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability, and prevent abuse and fraud in these practices.
+For example, we process information about [requests to remove content](https://support.google.com/legal/answer/3110420?hl=en_GB) from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability, and prevent abuse and fraud in these practices.
 
 ### third parties
 
