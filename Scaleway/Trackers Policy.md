@@ -59,13 +59,13 @@ Analytics
 
 These cookies are used to monitor the performance of our site and to enhance your browsing experience.
 
-Applicable cookies: **Amplitude, Algolia**
+Applicable cookies: **Hotjar, Amplitude, Algolia**
 
 Marketing
 
 These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
 
-Applicable cookies: **LinkedIn, Google AdWord**
+Applicable cookies: **Linkedin Insight Tag, Google Ads, HubSpot, Bing Ads, LinkedIn, Google AdWord**
 
 Reject allAccept allValidate my choice
 
