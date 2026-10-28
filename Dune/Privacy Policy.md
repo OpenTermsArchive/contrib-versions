@@ -184,5 +184,4 @@ You can decide whether to accept Non-necessary Cookies through our cookie banner
 *   **Google Analytics** — Used to measure and evaluate how users interact with website content across browsing sessions.
 *   **HubSpot Tracker** — Helps us track visitors to Dune's website. Every time a visitor lands on our website, HubSpot will check for an existing tracking cookie. If one does not exist, a cookie will be associated with that visitor and will log every page that person visits moving forward.
 *   **Google Search Console** — Helps us monitor, maintain, and troubleshoot our website's presence in Google Search results.
-*   **PostHog** — Provides product analytics to understand how users interact with website features. Note: this may be injected by a third-party integration rather than set directly by Dune.
 *   **Google Ads (Conversion Linker)** — Used to measure the effectiveness of advertising campaigns by tracking conversions from Google Ads. The \_gcl\_au cookie links ad clicks to on-site actions.
