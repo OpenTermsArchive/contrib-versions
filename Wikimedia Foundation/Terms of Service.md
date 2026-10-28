@@ -58,7 +58,7 @@ From Wikimedia Foundation Governance Wiki
 
 Other languages:
 
-*   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Ons Gebruiksvoorwaardes (6% translated)")
+*   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "BRN+ (6% translated)")
 *   [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (39% translated)")
 *   [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (11% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
@@ -174,6 +174,7 @@ Other languages:
 *   [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "ᱩᱠᱩᱣᱟᱜ : ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱟᱹᱱ ᱟᱹᱨᱤ (5% translated)")
 *   [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "정책:이용 약관 (96% translated)")
 *   [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (100% translated)")
+*   [文言](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lzh "政策：使用條款 (1% translated)")
 *   [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (100% translated)")
 *   [閩南語 / Bân-lâm-gí](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Sú-iōng tiâu-khuán (18% translated)")
 
