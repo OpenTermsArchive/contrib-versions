@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/Man_kaffe_1400x930.jpg)
+[![](/assets/stock/1400x930/kontor_1400x930.jpg)
+
+#### Fraud: A growing business risk
+
+2026-10-28
+
+Fraud targeting businesses no longer rely solely on technical breaches. Instead, they often exploit something much simpler: pretending to be someone else.](https://www.bankid.com/en/about-us/news/fraud-a-growing-business-risk) [![](/assets/stock/1400x930/Man_kaffe_1400x930.jpg)
 
 #### How we prevent fraud
 
@@ -130,10 +136,4 @@ Preventing fraud is not about a single control or feature. It requires a coordin
 
 2026-10-16
 
-For the third consecutive year, BankID has won the Riksbank’s cybersecurity competition, ROCCS.](https://www.bankid.com/en/about-us/news/vinst-i-riksbankens-cybersakerhetstavling) [![](/assets/stock/1400x930/office-rooms.jpg)
-
-#### Choose the right authentication method
-
-2026-10-13
-
-Is the authentication method your business use secure enough? Different systems and types of information require different levels of protection.](https://www.bankid.com/en/about-us/news/choose-the-right-authentication-method)
+For the third consecutive year, BankID has won the Riksbank’s cybersecurity competition, ROCCS.](https://www.bankid.com/en/about-us/news/vinst-i-riksbankens-cybersakerhetstavling)
