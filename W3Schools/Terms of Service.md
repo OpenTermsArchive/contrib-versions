@@ -15,7 +15,7 @@ Please read the Terms carefully before using the Website or the Services. By acc
 Overview
 --------
 
-The Website is operated and managed by Refsnes Data AS ("Refsnes") and W3Schools Network AS ("Network"), collectively referred to as "W3Schools". Refsnes provides the Website including all content, information, and related tools. Network operates certain solutions (such as Spaces, Academy, Courses, Challenges, and My Learning) and a billing system. The two entities Refsnes and Network are separately responsible for the Services they provide, manage and operate.
+The Website is operated and managed by Refsnes Data AS ("Refsnes") and W3Schools Network AS ("Network"), collectively referred to as "W3Schools". Refsnes provides the Website including all content, information, and related tools. Network operates certain solutions (such as Spaces, Campus (previously Academy), Courses, Challenges, and My Learning) and a billing system. The two entities Refsnes and Network are separately responsible for the Services they provide, manage and operate.
 
 Any new features or tools added to the Website shall be subject to the Terms. You can review the most current version of the Terms at any time on this page. We reserve the right to update, change, or replace parts of the Terms by posting updates or changes at the Website. Please check this page periodically for changes. Your continued use of or access to the Website after posting any changes constitutes acceptance of such changes.
 
