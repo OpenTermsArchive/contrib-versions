@@ -766,12 +766,6 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
 ### 
 
-Energia Rugby for All Survey Terms and Conditions
-
-[View the Energia Rugby for All Survey Terms and Conditions](https://www.energia.ie/getmedia/9a109747-221c-4c73-adba-ccc6fb76212d/Energia-Rugby-for-All-Survey-T-C-s.pdf)
-
-### 
-
 Ideal Home Hotel Giveaway Competition Terms and Conditions
 
 [View and download the Ideal Home Hotel Giveaway Competition Terms and Conditions.](https://www.energia.ie/getmedia/fca4ebc4-c666-43c1-bdcd-48db01dbf774/Ideal-Home-Hotel-Giveaway-Competition-Ts-and-Cs.pdf)
