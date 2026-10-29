@@ -1,6 +1,6 @@
-**Effective August 12, 2026**
+**Effective October 27, 2026**
 
-Sketchfab, Inc. (“Sketchfab,” “we” or “us”) is pleased to provide you with access to the Sketchfab platform, which allows a user (“User” or “you”) to upload, download, and/or publish 3D files on the Sketchfab website, or embed on third-party websites by means of our proprietary viewer. All elements of the Sketchfab platform, along with our proprietary 3D viewing technology and software, are referred to herein as the “Services,” and may be modified from time to time at our sole discretion.
+KitBash SF Operations LLC. (“Sketchfab,” “we” or “us”) is pleased to provide you with access to the Sketchfab platform, which allows a user (“User” or “you”) to upload, download, and/or publish 3D files on the Sketchfab website, or embed on third-party websites by means of our proprietary viewer. All elements of the Sketchfab platform, along with our proprietary 3D viewing technology and software, are referred to herein as the “Services,” and may be modified from time to time at our sole discretion.
 
 By registering with us, or by using the Services, you agree to be bound by these Terms of Use (the “Agreement,”) which we may update from time to time. Your continued use of the Services (or any User Content downloaded from the Services) constitutes your consent to such changes. PLEASE READ THIS AGREEMENT CAREFULLY AND CHECK THESE TERMS OF USE PERIODICALLY FOR CHANGES. IF YOU DO NOT AGREE TO THESE TERMS OF USE, YOU MAY NOT USE THE SERVICES.
 
