@@ -34,7 +34,7 @@ Germany
 
 **Note:** Unless otherwise specified, your data will remain within the EU and will not be passed on to third parties.
 
-#### [4.1 Applications](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-1)
+#### [4.1 Applications](https://www.hetzner.com/legal/privacy-policy/#collapse_4-1)
 
 ###### What data will be processed and how does it reach Hetzner?
 
@@ -70,7 +70,7 @@ The length of time your data will be stored can vary depending on the results of
 
 Once the deadlines are reached, we will **delete** your data.
 
-#### [4.2 Feedback](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-2)
+#### [4.2 Feedback](https://www.hetzner.com/legal/privacy-policy/#collapse_4-2)
 
 ##### 4.2.1 General feedback
 
@@ -153,7 +153,7 @@ Only **authorized Hetzner employees** have access to the feedback.
 
 We store the contact details connected with the feedback for 2 years. We then anonymize the data.
 
-#### [4.3 Forum](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-3)
+#### [4.3 Forum](https://www.hetzner.com/legal/privacy-policy/#collapse_4-3)
 
 In our [Forum](https://forum.hetzner.com/) users can discuss about technical topics and our services.
 
@@ -169,7 +169,7 @@ The forum serves as a communication platform for our community members. (Art. 6 
 
 After you **delete your forum account,** your data will also be **deleted immediately.**
 
-#### [4.4 Prize Draws / Contests](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-4)
+#### [4.4 Prize Draws / Contests](https://www.hetzner.com/legal/privacy-policy/#collapse_4-4)
 
 ###### What data will be processed and how does it reach Hetzner?
 
@@ -183,7 +183,7 @@ We need this data to **carry out the prize draw,** and to **notify the winners.*
 
 **After the prize draw has ended and the prizes have been sent,** we **delete** the related personal data.
 
-#### [4.5 AI](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-5)
+#### [4.5 AI](https://www.hetzner.com/legal/privacy-policy/#collapse_4-5)
 
 ##### 4.5.1 Ask AI chatbot
 
@@ -283,7 +283,7 @@ We process the logfiles to ensure the **secure and reliable operation of the ser
 *   **Logfiles**: 6 months
 *   **Billing data**: **8 years** (in accordance with statutory tax and commercial law retention requirements)
 
-#### [4.6 Customer Account](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-6)
+#### [4.6 Customer Account](https://www.hetzner.com/legal/privacy-policy/#collapse_4-6)
 
 ###### What data is processed and how does it reach Hetzner?
 
@@ -553,7 +553,7 @@ We store the abuse report for a **maximum of ten years**.
 
 If the data is required to establish, exercise or defend legal claims, we will only delete it after the relevant proceedings have been completed.
 
-#### [4.7 Newsletter](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-7)
+#### [4.7 Newsletter](https://www.hetzner.com/legal/privacy-policy/#collapse_4-7)
 
 In our newsletter, we inform you about new products and current topics.
 
@@ -648,7 +648,7 @@ Our **employees responsible for marketing** may access your data.
 
 For the registration, management and sending of our newsletter, as well as the related processing activities described above, we use an **external digital marketing service provider**. We have concluded a data processing agreement with this provider in accordance with Art. 28 GDPR. This agreement ensures that the data is only processed according to our instructions and in compliance with the applicable data protection laws.
 
-#### [4.8 Hetzner Status](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-8)
+#### [4.8 Hetzner Status](https://www.hetzner.com/legal/privacy-policy/#collapse_4-8)
 
 You can find general status reports on our products and services via our [status page](https://status.hetzner.com/).
 
@@ -664,7 +664,7 @@ We process your data in order to **notify you about service disruptions and main
 
 The data is **deleted as soon as you unsubscribe** from the notification service.
 
-#### [4.9 Social Media](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-9)
+#### [4.9 Social Media](https://www.hetzner.com/legal/privacy-policy/#collapse_4-9)
 
 ##### Facebook
 
@@ -770,7 +770,7 @@ The data is processed by us and by Google. Personal data may be transferred to t
 
 We do not store access data ourselves. Content and interactions remain stored on YouTube until they are deleted. The retention periods are based on Google's requirements.
 
-#### [4.10 Events](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-10)
+#### [4.10 Events](https://www.hetzner.com/legal/privacy-policy/#collapse_4-10)
 
 ##### Registration and participation in events
 
@@ -794,7 +794,7 @@ As many people may attend our events and we mainly take overview and group photo
 
 Please note that when **photos and videos are published on the internet, they can be stored and accessed worldwide**. We therefore cannot completely rule out that third parties may continue to use them or that they may still be found through search engines, even after we have removed them from our social media channels.
 
-#### [4.11 Video surveillance](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-11)
+#### [4.11 Video surveillance](https://www.hetzner.com/legal/privacy-policy/#collapse_4-11)
 
 ###### What data do we process and how does it reach Hetzner?
 
@@ -812,7 +812,7 @@ The recordings are only accessible to **employees who need access to perform the
 
 The recordings are **deleted immediately as soon as they are no longer required for the purposes stated above**.
 
-#### [4.12 Website](https://www.hetzner.com/dev/tasks/DevTasks-Static-GenerateStaticPageTask#collapse_4-12)
+#### [4.12 Website](https://www.hetzner.com/legal/privacy-policy/#collapse_4-12)
 
 ##### Logfiles
 
