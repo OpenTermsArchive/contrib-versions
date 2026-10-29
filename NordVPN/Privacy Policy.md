@@ -126,7 +126,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     As a global company, we may process your personal data outside of your country of residence to deliver our Services and operate our Websites effectively. For example, your personal data may be transferred internationally, including to countries where Nord operates or where our trusted third-party service providers are located (such as the United States). Some of these countries may not offer the same level of data protection as your home country, but in all cases, we have implemented appropriate safeguards to ensure that your personal data remains protected in accordance with this Privacy Policy and all applicable data protection laws. These safeguards may include:
     
     *   Relying on adequacy decisions issued by the European Commission or other relevant authorities.
-    *   Using [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) ("**SCCs**") approved by the European Commission (or other relevant authorities) together with any additional legal, technical, and organizational measures required.
+    *   Using [Standard Contractual Clauses(opens in a new tab)](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) ("**SCCs**") approved by the European Commission (or other relevant authorities) together with any additional legal, technical, and organizational measures required.
     
     These measures help ensure that your personal data receives an adequate level of protection regardless of where it is processed.
     
@@ -156,7 +156,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     Account deletion
     
-    You can delete your Account at any time. Log in to your [Nord Account](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96), navigate to "Account settings," go to the "Account deletion" section, and click the "Delete account" button. You will have to verify this request via email. Alternatively, you can delete your Account using our applications by following the instructions provided in corresponding [support guides](https://support.nordvpn.com/hc/en-us/articles/19477434542865-How-to-delete-my-NordVPN-account).
+    You can delete your Account at any time. Log in to your [Nord Account(opens in a new tab)](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96), navigate to "Account settings," go to the "Account deletion" section, and click the "Delete account" button. You will have to verify this request via email. Alternatively, you can delete your Account using our applications by following the instructions provided in corresponding [support guides(opens in a new tab)](https://support.nordvpn.com/hc/en-us/articles/19477434542865-How-to-delete-my-NordVPN-account).
     
     Deleting your Account permanently removes your access to all Nord products and Services linked to that Account, including NordVPN, NordPass, and NordLocker. If you wish to delete your personal data associated only with a specific Nord product (such as NordVPN, NordPass or NordLocker), you will have to initiate the deletion separately. If you are unable to delete your Account using the means outlined above, please contact us using the details provided in the "Contact us" section.
     
@@ -170,7 +170,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     *   **Opt out of marketing communications.** Steps you need to take opting out of our marketing communications depend on the means of marketing communications:
         
-        *   **Marketing emails:** You can opt out of our marketing emails at any time by updating the notification preferences in your [Nord Account](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96) settings or by clicking the "unsubscribe" link included in such email.
+        *   **Marketing emails:** You can opt out of our marketing emails at any time by updating the notification preferences in your [Nord Account(opens in a new tab)](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96) settings or by clicking the "unsubscribe" link included in such email.
         *   **Marketing in-app messages and push notifications:** You can turn off marketing in-app messages and push notifications by adjusting the notification preferences in your Nord Account settings, if this option is available for a specific Nord product. In addition, you can always disable all push notifications in your device simply by adjusting your device settings or our applications settings (if available) – this will turn off all push notifications (including marketing push notifications).
         
         Please note that opting out of marketing communications will not affect service-related or transactional notifications because they are necessary for provision of the Services in accordance with our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
@@ -301,10 +301,3 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
      For the purposes of the GDPR, Nord's representative in the European Economic Area (**EEA**) is NordSec B.V. (email: [representative@nordsec.com](mailto:representative@nordsec.com); postal address: Fred. Roeskestraat 115, 1076 EE Amsterdam, the Netherlands).
      
      To oversee matters related to data privacy, Nord has also appointed a Data Protection Officer (email: [dpo@nordsec.com](mailto:dpo@nordsec.com)).
-     
-
-Table of contents
-
-* * *
-
-[*   Introduction](#Introduction)[*   Service-specific privacy notices](<#Service-specific privacy notices>)[*   Personal data we process](<#Personal data we process>)[*   Sharing your personal data](<#Sharing your personal data>)[*   Your privacy rights](<#Your privacy rights>)[*   Your marketing choices](<#Your marketing choices>)[*   Data security](<#Data security>)[*   Data retention and deletion](<#Data retention and deletion>)[*   Country-specific provisions](<#Country-specific provisions>)[*   Children's data](<#Children's data>)[*   Other terms](<#Other terms>)[*   Contact us](<#Contact us>)
