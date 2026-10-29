@@ -6,7 +6,7 @@ Introduction
 
 Welcome to **Persumi** operated by **Wuit Pty Ltd**.
 
-**Wuit Pty Ltd** (“**Company**“, “**we**“, “**our**“, “**us**“) operates [https://persumi.com](https://persumi.com/) (hereinafter referred to as “**Service**”).
+**Wuit Pty Ltd** ("**Company**", "**we**", "**our**", "**us**") operates [https://persumi.com](https://persumi.com/) (hereinafter referred to as “**Service**”).
 
 Our Privacy Policy governs your visit to [https://persumi.com](https://persumi.com/), and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
@@ -58,7 +58,7 @@ We may use your Personal Data to contact you with newsletters, marketing or prom
 
 We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through a mobile device (“**Usage Data**”).
 
-This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 When you access Service with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
@@ -260,7 +260,7 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-We also encourage you to review the Google’s policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
+We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
 
 CI/CD tools
 -----------
@@ -282,7 +282,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 **Google AdSense DoubleClick Cookie**
 
-Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
@@ -317,11 +317,11 @@ Their Privacy Policy can be viewed at: [https://stripe.com/privacy](https://stri
 Links to Other Sites
 --------------------
 
-Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Children’s Privacy
+Children's Privacy
 ------------------
 
 Our Services are not intended for use by children under the age of 13 (“**Children**”).
