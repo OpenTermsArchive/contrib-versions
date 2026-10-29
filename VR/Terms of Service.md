@@ -3,8 +3,7 @@
 Terms and conditions
 ====================
 
-VR’s terms and conditions
--------------------------
+### VR’s terms and conditions
 
 On this page, you can find VR’s Conditions of Carriage and the car transport terms.
 
@@ -12,7 +11,7 @@ Changes to your plans? Read more about making changes and cancelling your ticket
 
 [Customer service](https://www.vr.fi/en/customer-service)
 
-In the data protection notice, we explain how we process our customers’ personal data and protect their privacy.
+### In the data protection notice, we explain how we process our customers’ personal data and protect their privacy.
 
 [Read our privacy policy](https://www.vr.fi/en/privacy)
 
