@@ -4,13 +4,13 @@ Terms of Service
 Introduction
 ------------
 
-Welcome to **Persumi** operated by **Wuit Pty Ltd** (“**Company**“, “**we**“, “**our**“, “**us**“)!
+Welcome to **Persumi** operated by **Wuit Pty Ltd** ("**Company**", "**we**", "**our**", "**us**")!
 
-These Terms of Service (“**Terms**“, “**Terms of Service**“) govern your use of our web pages located at [https://persumi.com](https://persumi.com/) operated by Wuit Pty Ltd.
+These Terms of Service ("**Terms**", "**Terms of Service**") govern your use of our web pages located at [https://persumi.com](https://persumi.com/) operated by Wuit Pty Ltd.
 
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here [https://persumi.com/privacy](https://persumi.com/privacy).
 
-Your agreement with us includes these Terms and our Privacy Policy (“**Agreements**“). You acknowledge that you have read and understood Agreements, and agree to be bound of them.
+Your agreement with us includes these Terms and our Privacy Policy ("**Agreements**"). You acknowledge that you have read and understood Agreements, and agree to be bound of them.
 
 If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection) so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
 
@@ -24,7 +24,7 @@ By creating an Account on our Service, you agree to subscribe to newsletters, ma
 Purchases
 ---------
 
-If you wish to purchase any product or service made available through Service (“**Purchase**“), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
+If you wish to purchase any product or service made available through Service ("**Purchase**"), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
 You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
 
@@ -37,12 +37,12 @@ We reserve the right to refuse or cancel your order if fraud or an unauthorized 
 Contests, Sweepstakes and Promotions
 ------------------------------------
 
-Any contests, sweepstakes or other promotions (collectively, “**Promotions**“) made available through Service may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively, "**Promotions**") made available through Service may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
 
 Subscriptions
 -------------
 
-Some parts of Service are billed on a subscription basis (“**Subscription(s)**“). You will be billed in advance on a recurring and periodic basis (“**Billing Cycle**“). Billing cycles are set on a monthly basis.
+Some parts of Service are billed on a subscription basis ("**Subscription(s)**"). You will be billed in advance on a recurring and periodic basis ("**Billing Cycle**"). Billing cycles are set on a monthly basis.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Wuit Pty Ltd cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting Wuit Pty Ltd customer support team.
 
@@ -53,7 +53,7 @@ Should automatic billing fail to occur for any reason, Wuit Pty Ltd will issue a
 Free Trial
 ----------
 
-Wuit Pty Ltd may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“**Free Trial**“).
+Wuit Pty Ltd may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("**Free Trial**").
 
 You may be required to enter your billing information in order to sign up for Free Trial.
 
@@ -78,7 +78,7 @@ We issue refunds for Contracts within thirty (30) days of the original purchase 
 Content
 -------
 
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (“**Content**“). You are responsible for Content that you post on or through Service, including its legality, reliability, and appropriateness.
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("**Content**"). You are responsible for Content that you post on or through Service, including its legality, reliability, and appropriateness.
 
 By posting Content on or through Service, You represent and warrant that: (i) Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright.
 
@@ -97,7 +97,7 @@ You may use Service only for lawful purposes and in accordance with Terms. You a
     
 2.  For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
     
-3.  To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation.
+3.  To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail", "chain letter," "spam," or any other similar solicitation.
     
 4.  To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.
     
@@ -138,7 +138,7 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-We also encourage you to review the Google’s policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
+We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
 
 No Use By Minors
 ----------------
@@ -164,7 +164,7 @@ Service and its original content (excluding Content provided by users), features
 Error Reporting and Feedback
 ----------------------------
 
-You may provide us directly at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection) with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“**Feedback**“). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us directly at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection) with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service ("**Feedback**"). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 Links To Other Web Sites
 ------------------------
@@ -180,7 +180,7 @@ WE STRONGLY ADVISE YOU TO READ THE TERMS OF SERVICE AND PRIVACY POLICIES OF ANY 
 Disclaimer Of Warranty
 ----------------------
 
-THESE SERVICES ARE PROVIDED BY COMPANY ON AN “AS IS” AND “AS AVAILABLE” BASIS. COMPANY MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
+THESE SERVICES ARE PROVIDED BY COMPANY ON AN "AS IS" AND "AS AVAILABLE" BASIS. COMPANY MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
 
 NEITHER COMPANY NOR ANY PERSON ASSOCIATED WITH COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER COMPANY NOR ANYONE ASSOCIATED WITH COMPANY REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SERVICES OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
 
@@ -191,7 +191,7 @@ THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED
 Limitation Of Liability
 -----------------------
 
-EXCEPT AS PROHIBITED BY LAW, YOU WILL HOLD US AND OUR OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS HARMLESS FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE, HOWEVER IT ARISES (INCLUDING ATTORNEYS’ FEES AND ALL RELATED COSTS AND EXPENSES OF LITIGATION AND ARBITRATION, OR AT TRIAL OR ON APPEAL, IF ANY, WHETHER OR NOT LITIGATION OR ARBITRATION IS INSTITUTED), WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, OR ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING WITHOUT LIMITATION ANY CLAIM FOR PERSONAL INJURY OR PROPERTY DAMAGE, ARISING FROM THIS AGREEMENT AND ANY VIOLATION BY YOU OF ANY FEDERAL, STATE, OR LOCAL LAWS, STATUTES, RULES, OR REGULATIONS, EVEN IF COMPANY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EXCEPT AS PROHIBITED BY LAW, IF THERE IS LIABILITY FOUND ON THE PART OF COMPANY, IT WILL BE LIMITED TO THE AMOUNT PAID FOR THE PRODUCTS AND/OR SERVICES, AND UNDER NO CIRCUMSTANCES WILL THERE BE CONSEQUENTIAL OR PUNITIVE DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE PRIOR LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+EXCEPT AS PROHIBITED BY LAW, YOU WILL HOLD US AND OUR OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS HARMLESS FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE, HOWEVER IT ARISES (INCLUDING ATTORNEYS' FEES AND ALL RELATED COSTS AND EXPENSES OF LITIGATION AND ARBITRATION, OR AT TRIAL OR ON APPEAL, IF ANY, WHETHER OR NOT LITIGATION OR ARBITRATION IS INSTITUTED), WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, OR ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING WITHOUT LIMITATION ANY CLAIM FOR PERSONAL INJURY OR PROPERTY DAMAGE, ARISING FROM THIS AGREEMENT AND ANY VIOLATION BY YOU OF ANY FEDERAL, STATE, OR LOCAL LAWS, STATUTES, RULES, OR REGULATIONS, EVEN IF COMPANY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EXCEPT AS PROHIBITED BY LAW, IF THERE IS LIABILITY FOUND ON THE PART OF COMPANY, IT WILL BE LIMITED TO THE AMOUNT PAID FOR THE PRODUCTS AND/OR SERVICES, AND UNDER NO CIRCUMSTANCES WILL THERE BE CONSEQUENTIAL OR PUNITIVE DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE PRIOR LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
 
 Termination
 -----------
