@@ -1,4 +1,4 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=6b1b1bf)
+![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=8d49022)
 
 Data protection
 ===============
@@ -73,7 +73,7 @@ Individuals who have registered for VR’s services and created a personal VR ac
 
 Other customers include people who interact with VR without a VR account, for example:
 
-*   when buying a ticket from a ticket office, ticket machine or retailer  
+*   when buying a ticket from a ticket office or retailer  
     
 *   when travelling on a train  
     
