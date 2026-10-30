@@ -945,7 +945,11 @@ Dailymotion shall process the Third-Party Personal Data in compliance with the A
 
 #### **3.2. Duration of the Processing**
 
-The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms). Note that despite the removal (i.e. unavailability of Your Content) for technical reasons related to the Dailymotion Service the video files and/or metadata associated with Your Content may remain in our systems for up to 1 month. Longer retention periods of Your Content or of its specific elements (ex. metadata) may be applied if required or authorized under applicable laws and, in particular, if necessary to establish, exercise or defend legal claims.
+The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms).
+
+Following such removal, the video files and/or metadata associated with Your Content may be retained in our systems for a limited period that varies depending on the reason for the removal and the applicable jurisdiction, as further described in our Privacy Policy.
+
+Where Your Content is proactively deleted by You, this retention period will generally not exceed 7 days. Longer retention periods may apply where required or authorized under applicable laws, including in response to a request or order from a competent authority or where necessary to establish, exercise or defend legal claims.
 
 ####   
 **3.3. Categories of Data Subjects**
