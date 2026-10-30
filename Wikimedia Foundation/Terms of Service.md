@@ -59,6 +59,7 @@ From Wikimedia Foundation Governance Wiki
 Other languages:
 
 *   [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "BRN+ (6% translated)")
+*   [Alemannisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gsw "Policy:Terms of Use/gsw (2% translated)")
 *   [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (39% translated)")
 *   [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (11% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
