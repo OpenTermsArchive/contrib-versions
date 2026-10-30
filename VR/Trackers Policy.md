@@ -3,12 +3,11 @@
 Information about cookies
 =========================
 
-Cookies used in vr.fi
----------------------
+### Cookies used in vr.fi
 
 On this page, you will find information about the cookies used on the vr.fi website. Cookies are divided into essential, statistical, those handing content targeting and grouping as well as marketing cookies. You can change your cookie settings at any time at the bottom of the page.
 
-Learn about the privacy settings of the VR Matkalla app
+### Learn about the privacy settings of the VR Matkalla app
 
 [Read more about the settings](https://www.vr.fi/en/app-privacy-settings)
 
