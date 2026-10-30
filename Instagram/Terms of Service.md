@@ -5,6 +5,16 @@ Terms of Use
 
 Copy link
 
+What is the Instagram Service?
+
+How is Instagram funded?
+
+What is the Instagram Privacy Policy?
+
+What are Instagram Terms of Use?
+
+I have a different question
+
 We’re updating our Terms of Use. These updates go into effect on January 20, 2027. By using our products or services after January 20, 2027, you agree to the updated Terms of Use.  
   
 [Read New Terms](https://help.instagram.com/2159268501666222?helpref=faq_content)
@@ -165,4 +175,11 @@ We always appreciate feedback or other suggestions, but may use them without any
 **8\. Updating These Terms**
 ----------------------------
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
