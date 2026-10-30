@@ -3,12 +3,11 @@
 Data protection
 ===============
 
-VR’s data protection
---------------------
+### VR’s data protection
 
 In the data protection notice, we explain how we process our customers’ personal data and protect their privacy.
 
-Read VR’s Conditions of Carriage and the car transport terms.
+### Read VR’s Conditions of Carriage and the car transport terms.
 
 [Read terms and conditions](https://www.vr.fi/en/terms-and-conditions)
 
@@ -73,7 +72,7 @@ Individuals who have registered for VR’s services and created a personal VR ac
 
 Other customers include people who interact with VR without a VR account, for example:
 
-*   when buying a ticket from a ticket office or retailer  
+*   when buying a ticket from a ticket office, ticket machine or retailer  
     
 *   when travelling on a train  
     
