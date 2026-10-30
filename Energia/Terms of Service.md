@@ -708,7 +708,7 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 Free Gas Boiler Offer
 
-Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
+Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions.](https://www.energia.ie/getmedia/2fbbf86f-ec85-41f2-aa61-0ced4704c30c/Free-Gas-Boiler-Service-terms-and-conditions_1.pdf)
 
 ### 
 
