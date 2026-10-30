@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective: 19 October, 2026_
+_Effective: 29 October 2026_
 
 This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IPinfo. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
@@ -16,7 +16,7 @@ The Types of Information That IPinfo Collects About You and How IPinfo Collects 
 
 IPinfo may collect Information from you directly, from the devices you use to interact with us, and from third parties "Information" is data related to your use of the Services and may include data by which you may be personally identified, such as name, postal address, e-mail address and telephone number. In some cases, you provide this Information to us directly, and at other times the Information is collected automatically. Below are specific types of Information we may collect through various means and in typical situations.
 
-We automatically collect technical and location data from end-user devices via our IPinfo SDK when it is integrated into third-party mobile applications by our distribution partners and app publishers. This information is transmitted directly from your device to our systems. The specific categories of data we collect through this method include precise GPS-derived geolocation coordinates (where you have provided consent to the hosting application), IP addresses, network connectivity type (e.g., 4G, 5G, Wi-Fi), network signal strength and quality metrics, mobile network operator/carrier identity, device model type, and the exact timestamp of the measurement event.
+We automatically collect technical and location data from end-user devices via our IPinfo SDK when it is integrated into third-party mobile applications by our distribution partners and app publishers. This information is transmitted directly from your device to our systems. The specific categories of data we collect through this method include precise GPS-derived geolocation coordinates (where you have provided consent to the hosting application), IP addresses, a pseudonymous device identifier, Wi-Fi network information (such as Wi-Fi network names (SSIDs) and router identifiers (BSSIDs) observed by your device), network connectivity type (e.g., 4G, 5G, Wi-Fi), network signal strength and quality metrics, mobile network operator/carrier identity, device model type, and the exact timestamp of the measurement event.
 
 ### Personal Contact Information[](#personal-contact-information "Link to this section")
 
@@ -71,7 +71,7 @@ The following is a list of our Data Processors who collect the Information descr
 | [Stripe](https://stripe.com/privacy) | Billing Information |
 | [Twitter](https://twitter.com/en/privacy) | Advertising Information |
 
-_Location Information_ - We collect both Generalized Location Information and Precise Geolocation Information. We use elements of your regular usage data, such as your IP address, to determine a generalized location. Additionally, through the deployment of our IPinfo SDK in partner mobile applications, we collect precise, real-time GPS-derived geolocation data from your device. We only collect this precise tracking data if you have explicitly granted location permissions to the third-party application hosting our SDK.
+_Location Information_ - We collect both Generalized Location Information and Precise Geolocation Information. We use elements of your regular usage data, such as your IP address, to determine a generalized location. Additionally, through the deployment of our IPinfo SDK in partner mobile applications, we collect precise, real-time GPS-derived geolocation data and Wi-Fi network information from your device. We collect this data through our SDK in partner mobile applications and in IPinfo’s own apps, and only where you have granted location permission to the app. Partner applications are responsible for obtaining any consent needed to collect this data on your device.
 
 How IPinfo Uses Information It Collects About You and the Purpose for the Collection and Use[](#how-ipinfo-uses-information-it-collects-about-you-and-the-purpose-for-the-collection-and-use "Link to this section")
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -93,7 +93,17 @@ We use Information that we collect about you or that you provide to us for the f
 
 ### Precise Geolocation and SDK Data[](#precise-geolocation-and-sdk-data "Link to this section")
 
-We use the precise geolocation coordinates and network quality metrics collected via our SDK to analyze network performance, map IP connectivity parameters, and improve our regional data licensing services. This data is processed to deliver accurate routing, connectivity, and geolocation intelligence to our business enterprise clients.
+We use the precise geolocation coordinates, Wi-Fi network information and network quality metrics collected via our SDK to analyze network performance, map IP connectivity parameters, identify the networks used at public venues, and improve our regional data licensing services. This data is processed to deliver accurate routing, connectivity, venue and geolocation intelligence to our business enterprise clients. The data products we provide to our clients do not include device identifiers or individual location records. We hold this data in pseudonymised form and process it on the basis of our legitimate interest in providing accurate IP address, network and venue data. We keep raw device observations only for as long as needed to build and maintain our data products, after which they are aggregated or deleted. You may object to this processing at any time by contacting [support@ipinfo.io](mailto:support@ipinfo.io).
+
+### IPinfo Apps[](#ipinfo-apps "Link to this section")
+
+When you use an app published by IPinfo, such as the IPinfo app, Spotter or SpeedSmart, we collect your IP address, a device identifier, network details (such as Wi-Fi network names (SSIDs), router identifiers (BSSIDs) and connection type) and, if you allow it, your device’s location. We use this data to provide the app’s features.
+
+We also use this data to build and improve IPinfo’s IP address data products: for example, mapping IP addresses and Wi-Fi networks to locations and venues, and detecting VPNs and proxies. We hold this data in pseudonymised form: it is linked to a device identifier, not to your name or contact details. Our data products describe IP addresses, networks and venues, not individuals, and we license them to businesses. Our legal basis for this use is our legitimate interest in providing accurate IP address data.
+
+We do not use this data to identify you, we do not combine it with your name or contact details, we do not sell your individual records, and we do not use it to target advertising at you.
+
+You can stop location and Wi-Fi data being collected at any time by turning off location access for the app in your device settings. You can object to our use of this data for our data products by emailing [support@ipinfo.io](mailto:support@ipinfo.io). Because we do not hold your name or contact details, we will ask for your device identifier so that we can act on your request.
 
 Here are additional details on how we use certain specific Information about you.
 
@@ -174,7 +184,7 @@ IPinfo may process your Personal Information on one or more of the following leg
 *   as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide services, to respond to requests from you, or to provide support;
 *   where we have a legitimate interest, as described in this Privacy Policy (see "How IPinfo Uses Information It Collects About You and the Purposes for Collection and Use");
 *   as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or
-*   with your consent, which serves as our explicit legal basis under the GDPR for processing any precise GPS-derived geolocation data collected via our mobile SDK integration partners. You may withdraw this consent at any time by adjusting the location privacy permissions in your mobile device's settings.
+*   where we have a legitimate interest in providing accurate IP address, network and venue data, including for fraud prevention and network security, for location and network data collected through our SDK in partner applications and IPinfo apps. Partner applications obtain any consent required to collect this data on your device. You may object to this processing at any time by contacting [support@ipinfo.io](mailto:support@ipinfo.io).
 
 ### Your Rights[](#your-rights "Link to this section")
 
