@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.15) is effective as of July 8, 2025.
+This version (Version 4.16) is effective as of October 28, 2026.
 
 *   [Overview](#overview)
 *   [About Us](#about)
@@ -62,7 +62,7 @@ The contact information above should also be used for communications relating to
 Our EU representative: as we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, pursuant to Article 27 of the General Data Protection Regulation (GDPR), we have appointed European Data Protection Office (EDPO) as our GDPR representative in the EU, whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact EDPO:
 
 *   By using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-*   By writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland
+*   By writing to EDPO at 60 Merrion Square South Dublin 2, D02 HE24, Ireland
 
 Our UK representative: we have appointed O'Reilly UK Limited as our representative in the UK, whom you may contact if you are located in the UK to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact O'Reilly UK Limited via email at the following address:
 
@@ -280,7 +280,7 @@ With respect to DPF Covered Data received or transferred pursuant to the Data Pr
 
 If you are an EU or Swiss citizen and feel that we are not abiding by the terms of this Privacy Policy or that we are not in compliance with the DPF Principles, please contact us by using the [contact information](#questions) provided at the top of this Privacy Policy.
 
-Under certain conditions, more fully described on the Data Privacy Framework website [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. For additional information, see [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf).
+Under certain conditions, more fully described on the Data Privacy Framework website [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. For additional information, see [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
 
 If you are not satisfied with our response, O'Reilly and Safari further commit to cooperate with the EU data protection authorities (DPAs), the UK Information Commissioner's Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to the investigation and resolution of unresolved Data Privacy Framework complaints concerning data transferred from the EU and Switzerland to the United States.
 
@@ -416,6 +416,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 12.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.15](https://www.oreilly.com/privacy-070825.html)
 
 [Click here for version 4.14](https://www.oreilly.com/privacy-092623.html)
 
