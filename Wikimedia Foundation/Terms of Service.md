@@ -141,7 +141,7 @@ Other languages:
 *   [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "გჷმორინაფაშ წესეფი (24% translated)")
 *   [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (44% translated)")
 *   [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (14% translated)")
-*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "באַניץ־תּנאָים (100% translated)")
+*   [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "Policy:באַניץ־תּנאָים (100% translated)")
 *   [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:תנאי שימוש (100% translated)")
 *   [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "شرائط استعمال (3% translated)")
 *   [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "I Want hacker counts (3% translated)")
