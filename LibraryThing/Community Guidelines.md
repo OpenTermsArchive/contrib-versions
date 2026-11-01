@@ -1,6 +1,12 @@
 Community Rules
 ---------------
 
+### AI Policy
+
+AI agents are prohibited from creating member accounts on LibraryThing.
+
+The use of AI agents by members to post in Groups and Talk, to send private messages, or to engage socially with other members, is prohibited.
+
 ### Member Accounts
 
 Individual accounts are designed for personal collections. Couples and families are fine too. Organizations, like churches, companies, schools, and museums, can also join, with some restrictions. (See [organizational accounts](https://www.librarything.com/organizations).)
