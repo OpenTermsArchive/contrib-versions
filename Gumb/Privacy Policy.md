@@ -1,5 +1,5 @@
-*   Last Updated: July 7, 2026
-*   23 min read
+*   Last Updated: November 2, 2026
+*   25 min read
 
 Contents
 
@@ -319,11 +319,21 @@ Our apps use Firebase, a platform of Google, for the following purposes:
 
 The data processing takes place on Google servers, which may also be located in the USA. The same security measures apply as for Google Analytics (EU Standard Contractual Clauses, Data Privacy Framework). Google Ireland Limited generally acts as a processor for Firebase services.
 
-### 11.3 Hotjar
+### 11.3 Contentsquare
 
-We use Hotjar (Hotjar Ltd., Malta) to analyze the user experience. Hotjar records, e.g., clicks, mouse movements, scroll behavior, and screen resolution. The data is collected in anonymized form; no personal data is stored. The legal basis is your consent (Art. 6 para. 1 lit. a GDPR).
+We use Contentsquare, a service of Content Square SAS (7 rue de Madrid, 75008 Paris, France), on our website and in our web app (web.gumb.app). It shows us where people get stuck and helps us resolve support requests faster. Contentsquare is loaded via Google Tag Manager and only starts once you have given your consent in the cookie banner.
 
-Further information: [Hotjar privacy policy](https://www.hotjar.com/legal/policies/privacy/)
+Contentsquare records how you use our pages, e.g., clicks, scrolling, and pages visited, as well as device and browser information. On our website, text and images are visible in the recordings. In the web app, all content is masked.
+
+After you log in, your Gumb user ID and details about your subscription (e.g., plan and billing interval) may be linked to the recording. This lets our support team match a recording to the right account.
+
+Contentsquare stores the data for one month and then deletes it automatically. Until November 1, 2026, we used Hotjar for this purpose. Existing Hotjar recordings will be deleted after 365 days at the latest.
+
+Where data is transferred to the USA, Content Square, Inc. is certified under the EU-U.S. Data Privacy Framework. Transfers are additionally based on the EU Standard Contractual Clauses.
+
+The legal basis is your consent (Art. 6 para. 1 lit. a GDPR), which you can withdraw at any time via the cookie banner.
+
+Further information: [Contentsquare privacy policy](https://contentsquare.com/privacy-center/services-privacy-policy/)
 
 ### 11.4 Sentry.io
 
@@ -336,6 +346,16 @@ Further information: [Sentry privacy policy](https://sentry.io/privacy/)
 For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
 
 Further information: [Prismic privacy policy](https://prismic.io/legal/privacy)
+
+### 11.6 Google Tag Manager and Server-Side Tagging (stape.io)
+
+We use Google Tag Manager, provided by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland). It lets us manage and load the analytics and marketing services on our website, e.g., Google Analytics, Google Ads, Meta Pixel, and Contentsquare. Tag Manager itself does not set cookies or analyze data. The services it loads only start once you have given your consent in the cookie banner (see Section 10.3). The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in managing these services efficiently).
+
+For part of our measurement, we also use server-side tagging via stape.io (Stape, Inc., 901 N Market St., Suite 100, Wilmington, DE 19801, USA). Certain events (e.g., sign-up, start of the trial period, purchase, viewing the pricing page) are first sent to a server on our subdomain dessit.gumb.app, which forwards only the necessary data to Google Analytics and Meta (see Sections 11.1 and 12.2). This involves event data, device and browser information, and the IP address. Stape acts as our processor. The legal basis is your consent (Art. 6 para. 1 lit. a GDPR), which you can withdraw at any time via the cookie banner.
+
+Stape is certified under the EU-U.S. Data Privacy Framework. Transfers to the USA are additionally based on the EU Standard Contractual Clauses.
+
+Further information: [Google privacy policy](https://policies.google.com/privacy), [Stape privacy notice](https://stape.io/privacy-notice)
 
 12 Advertising and Marketing
 ----------------------------
@@ -446,6 +466,7 @@ We store personal data only for as long as is necessary for the respective purpo
 *   Log data: Maximum 90 days, then anonymization or deletion.
 *   Support data (e.g., Zendesk tickets including applications via [careers@gumb.app](mailto:careers@gumb.app)): Until deletion is requested or statutory retention obligations apply, usually up to 24 months.
 *   Analytics data (e.g., GA4): 14 months.
+*   Contentsquare recordings: 1 month.
 *   Error data (Sentry): 90 days. After expiry, data is deleted or anonymized, unless longer storage is necessary for legal defense.
 
 18 Update of the Privacy Policy
@@ -463,7 +484,7 @@ Email: [privacy@gumb.app](mailto:privacy@gumb.app)
 
 Date of Entry into Force: September 20, 2020
 
-_Last Updated: July 7, 2026_
+_Last Updated: November 2, 2026_
 
 Questions about data protection?
 --------------------------------
