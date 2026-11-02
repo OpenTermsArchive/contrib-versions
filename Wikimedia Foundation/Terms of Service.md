@@ -103,7 +103,7 @@ Other languages:
 *   [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Bruksvilkår (32% translated)")
 *   [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Condicions d’utilizacion (9% translated)")
 *   [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Warunki korzystania (100% translated)")
-*   [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Termos de utilização (100% translated)")
+*   [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Policy:Terms of Use/pt (100% translated)")
 *   [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Política:Termos de Uso (100% translated)")
 *   [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Paydalanıw shártleri (1% translated)")
 *   [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Bedengonge för der Jebruch (18% translated)")
