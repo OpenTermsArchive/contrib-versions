@@ -23,31 +23,43 @@ The definitions of capitalised terms are below in the Glossary (section 2) or de
 
 **1.8 Where to get a copy of this Agreement.** You can always see the most current version of this Agreement on our [Website](https://wise.com/terms-and-conditions). If you would like a physical copy of this Agreement, you can download it or please contact [Customer Support](https://wise.com/contact).
 
-* * *
-
 2\. Glossary – Defined words in this Agreement
 ----------------------------------------------
 
 In this Agreement:
 
 *   **Account Details** means a set of details made available to you for the purpose of receiving funds in your Wise Account as further detailed in Section 12.12 and which may be: (i) issued by Wise Europe SA, are linked to a Wise Europe SA BIC and are identifying your Wise Account as payment account; or (ii) or issued by another financial institution (Wise affiliate or third party) made available to you by Wise, and are an identifier causing payments to be redirected to your account held by Wise (virtual IBAN), so that Wise can credit your account. You can read more about Account Details at this [FAQ page](https://wise.com/help/articles/1SWRjhlFm80nuZirWQ5ha6/how-is-eur-in-my-main-account-managed-by-wise).
+    
 *   **API** means the application programming interface provided by Wise, for example, through an API Partner.
+    
 *   **API Partner** means a business we have partnered with for Wise to offer our Services through their website, mobile application or similar.
+    
 *   **App** means the mobile application software where we offer our Services, the data supplied with the software and the associated media.
+    
 *   **Business Day** means a day other than a Saturday, Sunday or a public holiday in Belgium.
+    
 *   **Card** means a card issued on a Wise Account by Wise, either for your Main Account or a Group.
+    
 *   **Chargeback** means the person sending you the money has made a claim to their bank or payment provider that money was sent to you illegitimately, or the payment to Wise fails due to insufficient funds, account closed or any other reason.
+    
 *   **Intellectual Property** means (i) rights in, and in relation to, any trademarks, logos, patents, registered designs, design rights, copyright and related rights, moral rights, databases, domain names, utility models, and including registrations and applications for, and renewals or extensions of, such rights, and similar or equivalent rights or forms of protection in any part of the world; (ii) rights in the nature of unfair competition rights and to sue for passing off and for past infringement; and (iii) trade secrets, confidentiality and other proprietary rights, including rights to know how and other technical information.
+    
 *   **Money Transfer** means a direct transfer of funds paid by you, without using funds in your Wise Account, to a designated recipient that is sent using Wise. In some currencies, you may only be able to convert and send funds using your Wise Account and cannot make a direct Money Transfer.
+    
 *   **Payment Services Law** means the Belgian law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions.
+    
 *   **Negative Currency Accounts** has the meaning given in section 15.7.
+    
 *   **Reversal** or **Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
+    
 *   **Services** means all products, services, content, features, technologies, or functions offered by us and all related websites, applications (including the App), and service models (including the Website and via an API Partner), and including the Wise Account, the currency conversion and Money Transfer offerings.
+    
 *   **Third Party Materials** has the meaning given in section 28.
+    
 *   **Website** means any Wise webpage, including but not limited to www.wise.com, where we provide the Services to you.
+    
 *   **Wise Account** is a multi-currency account that allows you to hold, spend, send, and receive money as well as convert currency. Where possible you may also have a Card. Within your Wise Account you will have a main account, where you can add currencies for holding, spending, sending and receiving (“**Main Account**”). You can also have Jars and Groups outside the Main Account (but still part of the same Wise Account), where you can separate money away from your Main Account.
-
-* * *
+    
 
 3\. Who we are and how to contact us?
 -------------------------------------
@@ -67,6 +79,8 @@ In this Agreement:
 **USING OUR SERVICES**
 ----------------------
 
+  
+
 4\. Who can use our Services?
 -----------------------------
 
@@ -84,8 +98,6 @@ Customers empower Wise Europe SA to verify the authenticity of their documents a
 
 Customers must immediately notify us in writing or through the permitted digital channels of any changes to the information submitted and/or enter these changes themselves via the appropriate digital channels. They furthermore undertake that, at the request of Wise Europe SA, they will sign a special document in which we record essential changes or to produce evidence that the change referred to has been carried out.
 
-* * *
-
 5\. Getting Started
 -------------------
 
@@ -98,8 +110,6 @@ Customers must immediately notify us in writing or through the permitted digital
 **5.4 Information requests.** You agree to comply with any request from us for further information and provide such information in a format acceptable to us. In addition, you agree that we may make, directly or through any third party, any inquiries we consider necessary to validate the information you provided to us, including checking commercial databases or credit reports. You authorise us to obtain one or more of your credit reports, from time to time, to establish, update, or renew your Wise Account with us or in the event of a dispute relating to this Agreement or our Services. You agree we may disclose certain information about you, including your name, residential address and date of birth to a credit reporting agency in order to obtain a credit report for these purposes.
 
 **5.5** Wise reserves the right to close, suspend, or limit access to your Wise Account or the Services with immediate effect in the event we are unable to obtain or verify such information.
-
-* * *
 
 6\. Staying Safe While Using Our Services
 -----------------------------------------
@@ -134,8 +144,6 @@ Customers must immediately notify us in writing or through the permitted digital
 **6.6** Additional Services you use may have additional security requirements and you must familiarise yourself with those.
 
 **6.7** You are responsible for configuring your information technology, computer programmes and platform in order to access our Services. We cannot guarantee that our Services will be free from bugs or viruses.
-
-* * *
 
 7\. Limits on How You can Use our Service
 -----------------------------------------
@@ -192,14 +200,10 @@ We will give you notice of any suspension or restriction and the reasons for suc
 *   i) Updating inaccurate information you provided us; and
 *   j) Taking legal action against you, including seeking damages and reimbursement for losses and fees.
 
-* * *
-
 8\. Court Orders.
 -----------------
 
 If we are notified of a court order or other legal process (including garnishment or any equivalent process) affecting you, or if we otherwise believe we are required to do so in order to comply with court order, applicable law or regulatory requirements, we may be required to take certain actions, including holding payments to/from your Wise Account, placing a reserve or limitation on your Wise Account, or releasing your funds. We will decide, in our sole discretion, which action is required of us. Unless the court order, applicable law, regulatory requirement or other legal process requires otherwise, we will attempt to notify you of these actions using the contact information that you have provided to us. We do not have an obligation to contest or appeal any court order or legal process involving you, your Wise Account or your use of our Services. When we implement a hold, reserve or limitation as a result of a court order, applicable law, regulatory requirement or other legal process, the hold, reserve or limitation may remain in place as long as reasonably necessary.
-
-* * *
 
 9\. Closing your Wise Account or stopping your use of Wise
 ----------------------------------------------------------
@@ -225,8 +229,6 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **9.7 You cannot use the App if this Agreement ends.** On termination for any reason all rights granted to you in connection with the App shall cease, you must immediately delete or remove the App from your devices.
 
-* * *
-
 10\. How much will you pay
 --------------------------
 
@@ -244,6 +246,8 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **CONVERTING CURRENCY**
 -----------------------
+
+  
 
 11\. Currency Conversion
 ------------------------
@@ -268,6 +272,8 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **YOUR WISE ACCOUNT**
 ---------------------
+
+  
 
 12\. Information about your Wise Account
 ----------------------------------------
@@ -321,11 +327,23 @@ You agree that you will not exercise your chargeback right for any other reason.
 
 **12.14** If you provide your Account Details to a third party, you agree that you will not impose a surcharge or any other fee solely for accepting the receipt of funds in that way.
 
-**12.15 When money received is shown in your Wise Account.** Any money you receive into your Wise Account will be recorded in your transaction history. You should check and confirm the receipt of incoming funds in your Wise Account regularly and let us know if there are any irregularities or discrepancies.
+**12.15 Auto Top-Up.** For certain currencies, you may be able to set up your Wise Account to add money automatically from a Pay-In Method when the balance in your Wise Account falls below an amount you select (an "**Auto Top-Up**"). You can fund an Auto Top-Up from an eligible bank account, credit card or debit card, where we make that Pay-in Method available to you.
 
-**12.16 Receiving Money from USD Account Details.** You may receive funds into your Wise Account using the US Automated Clearing House system or domestic wire transfer method. If you choose to receive money using these methods, for example by sharing your USD Account Details with a payee, you will not have access to such funds until we receive the cleared funds, which could take several days or longer.
+When you set up an Auto Top-Up, you authorise us to collect recurring payments from the Pay-In Method you select, for the amount and in the currency shown to you during setup, each time the conditions you have chosen are met, without us asking you to approve each payment separately. This authorisation remains in effect until you change or cancel the Auto Top-Up.
 
-* * *
+Where you fund an Auto Top-Up from a credit card or debit card, you will be asked to confirm and authenticate your instruction when you set it up. That initial authentication authorises the Auto Top-Up arrangement, and we will not ask you to separately authenticate each later top-up made under it, although your card issuer or bank may ask you to.
+
+You may change or cancel an Auto Top-Up at any time through your Wise Account. Cancelling will stop new Auto Top-Up payments from being started, but a payment already in progress may still be completed. There may be limits on the number, frequency or value of Auto Top-Up payments you can set up or make.
+
+We do not guarantee that an Auto Top-Up will be completed in all circumstances. For example, we may be unable to complete it where your selected Pay-in Method is unavailable, there are insufficient funds, a limit applies, or the payment is declined or restricted for security, regulatory or other reasons. Subject to Section 29, we will not be responsible for any resulting consequences where an Auto Top-Up is not completed, but we will try to let you know so that you can add money another way.
+
+Each Auto Top-Up is subject to the same fees that would apply if you added money using the same Pay-In Method. The applicable fee will be charged each time an Auto Top-Up occurs and any fees that apply to an Auto Top-Up will be shown to you when you set it up and are set out on our Pricing Page. If these fees change, we will notify you in accordance with this Agreement, and the updated fee will apply to Auto Top-Ups made after the change takes effect.
+
+Money added to your Wise Account by Auto Top-Up may be subject to Reversal or chargeback in the same way as any other funds you add, as set out in this Agreement.
+
+**12.16 When money received is shown in your Wise Account.** Any money you receive into your Wise Account will be recorded in your transaction history. You should check and confirm the receipt of incoming funds in your Wise Account regularly and let us know if there are any irregularities or discrepancies.
+
+**12.17 Receiving Money from USD Account Details.** You may receive funds into your Wise Account using the US Automated Clearing House system or domestic wire transfer method. If you choose to receive money using these methods, for example by sharing your USD Account Details with a payee, you will not have access to such funds until we receive the cleared funds, which could take several days or longer.
 
 13\. Reversals and Chargebacks
 ------------------------------
@@ -341,8 +359,6 @@ You agree that you will not exercise your chargeback right for any other reason.
 **13.2** If any funds are Reversed by the sender or any payment provider, you agree that Wise may refund, deduct or Reverse the Received Amount plus any applicable fees from your Wise Account (if applicable) in the same currency as the original transaction. If your Wise Account balance for the relevant currency is insufficient to cover the amount of a refund, deduction or Reversal, Wise may at its discretion perform a currency conversion to refund or Reverse the transaction, subject to the exchange rate being offered by Wise in the applicable currencies at that time. If a Reversal or chargeback causes you to have a negative balance, you will be immediately liable to Wise for the negative balance plus any losses to Wise, if any.
 
 **13.3 Chargeback Fees.** If you receive a debit or credit card-funded payment into your Wise Account and you (or a third party) pursue a chargeback for the transaction with the card issuer, then Wise may apply a fee for facilitating the chargeback process and will remove the chargeback funds from your Wise Account, including funds held in the Main Account, Jars or Groups.
-
-* * *
 
 14\. Maintaining your Wise Account
 ----------------------------------
@@ -363,8 +379,6 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 
 **14.7 Negative Balances.** You promise to always have a zero or positive balance in your Wise Account and to repay Wise if your Wise Account balance is negative (each a “**Negative Currency Account**”), including as a result of a Chargeback, Reversal, deduction of fees, any other error, or any other action. That negative amount represents an amount you owe to Wise and you must repay the negative amount immediately without any notice from us. We may send you reminders or take such other actions to recover the negative amount from you, for example, we may use a debt collection service or take further legal actions. We may charge you for any costs we may incur as a result of these collection efforts. For more information, see “**What Happens if you owe us money**”.
 
-* * *
-
 15\. Main Account, Jars, Groups
 -------------------------------
 
@@ -380,8 +394,6 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 
 **15.6 Group Spending is not a joint account.** For further information on Group Spending, you can refer to [Group Spending Terms and Conditions](https://wise.com/eu/legal/group-spending).
 
-* * *
-
 16\. Using or spending funds in your Wise Account: Direct debits
 ----------------------------------------------------------------
 
@@ -392,8 +404,6 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 **16.3** If you have given advance authorisation, either to a third party or to Wise, that permits the third party to take or receive payments from your Wise account on a regularly recurring basis (for example, every month or otherwise on a routine cycle), and if such payments will vary in amount, you have the right to advance notice of the amount and date of the transfer from the seller, typically 3 days before the transfer is made. If the seller provides the option, you may choose to receive this advance notice only when the amount of your automatic payment will fall outside a range established between you and the seller.
 
 **16.4** If you have authorised a direct debit and Wise performs a currency conversion for an automatic direct debit transaction, Wise will use the exchange rate offered at the time the transaction is processed.
-
-* * *
 
 17\. Using or spending funds in your Wise Account: Cards
 --------------------------------------------------------
@@ -456,8 +466,6 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 *   c) Disputes being caused by the risky nature of transactions undertaken with the Card;
 *   d) We have evidence that you or someone you gave your Card to authorised the transactions in dispute.
 
-* * *
-
 18\. Card transactions
 ----------------------
 
@@ -477,8 +485,6 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 
 **18.8** Please note that if you are offered the option at a point of sale (“**POS**”) terminal to pay in local currency or to pay in your home or another currency, ​you must pick the local currency if you want the Wise rate to apply to your transaction.
 
-* * *
-
 19\. When your Card expires
 ---------------------------
 
@@ -487,8 +493,6 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 **19.2 We’ll aim to notify you 2 months before your current Card will expire.** You then may order a new Card by following the instructions on our Website or App. A replacement Card fee may apply (see [here](https://wise.com/multi-currency-account/pricing)).
 
 **19.3** If you do not want your Card to be renewed, you can simply let it expire without ordering a replacement. Your Card will be deactivated and you will not be able to use it after its expiry. You should destroy your expired Card.
-
-* * *
 
 20\. Keep your Card safe
 ------------------------
@@ -503,16 +507,12 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 
 **20.5 Disclosure of information to law enforcement authorities.** If your Card is used without your permission, or is lost, stolen or if you suspect the Card may be misused, we may disclose to law enforcement agencies any information which we reasonably believe may be relevant.
 
-* * *
-
 21\. Card cancellation rights
 -----------------------------
 
 **21.1 Cancelling your Card.** You may cancel your Card at any time with no charge by logging into your Wise Account or through the App. Your card fee and any delivery fee, where applied, is non-refundable.
 
 **21.2 We have the right to cancel your Card.** Note that subject to any restrictions under applicable law, we reserve the right to cancel or suspend your Card at any time for any reason. Use of your Card is subject to all applicable rules and customs of any clearinghouse or other association involved in transactions.
-
-* * *
 
 22\. Withdrawing funds from your Wise Account
 ---------------------------------------------
@@ -536,14 +536,14 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 **MONEY TRANSFERS**
 -------------------
 
+  
+
 23\. Sending money
 ------------------
 
 **23.1 Information you need to provide to set up a Money Transfer.** To set up a Money Transfer, you will need to provide certain information to us, including, but not limited to, the full name of your recipient, your recipient’s bank account details or their Wise Account information and the amount and currency to be transferred.
 
 **23.2 Payment order limits.** We may, at our sole discretion and without prior notice, place limits on the amount you may send per Money Transfer.
-
-* * *
 
 24\. Paying for Your Money Transfer
 -----------------------------------
@@ -630,6 +630,8 @@ After the expiry of the aforementioned time limits, the payment order may only b
 **INTELLECTUAL PROPERTY RIGHTS**
 --------------------------------
 
+  
+
 25\. Intellectual Property Rights
 ---------------------------------
 
@@ -649,8 +651,6 @@ After the expiry of the aforementioned time limits, the payment order may only b
 
 **25.5** All other trademarks, registered trademarks, product names and company names or logos not owned by Wise that appear in Wise Materials or in the Services are or may be the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Wise, and may not be used without permission of the applicable rights holder.
 
-* * *
-
 26\. Wise App
 -------------
 
@@ -669,8 +669,6 @@ After the expiry of the aforementioned time limits, the payment order may only b
 *   e) The licence you have been granted herein is limited to a non-transferable licence to use the App on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by you, or as otherwise permitted by the Usage Rules set forth in Apple’s App Store Terms of Service. In addition, you must comply with the terms of any third-party agreement applicable to you when using the App, such as your wireless data service agreement.
 *   f) Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement and, upon your acceptance of the terms and conditions of this Agreement, will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary. Notwithstanding this, our right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party, including Apple.
 
-* * *
-
 27\. Third Party Materials
 --------------------------
 
@@ -685,6 +683,8 @@ After the expiry of the aforementioned time limits, the payment order may only b
 **OTHER LEGAL TERMS**
 ---------------------
 
+  
+
 28\. Unauthorised Transactions.
 -------------------------------
 
@@ -693,8 +693,6 @@ After the expiry of the aforementioned time limits, the payment order may only b
 **28.2** Card holders and/or account holders and Wise Europe SA each accept, insofar as each of them is concerned, that the journal tape or similar data carrier on which all the details regarding each transaction carried out at any ATM or POS terminal, together with the information registered on the microcircuit on the chip, constitutes satisfactory, binding documentary evidence that the transaction was correctly registered and booked and not affected by a technical failure or other defect. Customers may prove the contrary by any means of evidence.
 
 **28.3** You acknowledge that entries recording the use of the card together with the correct PIN will constitute satisfactory proof that relevant transactions were initiated by card holders themselves, using their means of access.
-
-* * *
 
 29\. Our responsibility for loss or damage
 ------------------------------------------
@@ -744,16 +742,12 @@ The User will not be liable for any loss attributable to transactions carried ou
 
 **29.12** You are responsible for making all arrangements necessary for you to have access to our Services.
 
-* * *
-
 30\. Our right to make changes
 ------------------------------
 
 **30.1** We may change this Agreement by giving you at least two (2) months’ prior written notice. This notice will be provided by email and eventually also by displaying a notice in the App or in our Webpage. If we do this, you can terminate this Agreement immediately and without cost by closing your Wise Account or profile and ceasing use of our Services during the notice period (see section 7). If we do not hear from you during the notice period, you will be considered as having accepted the proposed changes and they will apply to you from the effective date specified on the notice.
 
 Changes to this Agreement which are (1) more favourable to you; (2) required by law; or (3) relating to the addition of a new service or extra functionality to the existing Service; or (4) any other change which neither reduces your rights nor increase your responsibilities, will come into effect immediately. We may notify you of these changes but the changes will take effect at the time they are made. Changes to exchange rates shall come into effect immediately without notice and you shall not have the right to object to such a change.
-
-* * *
 
 31\. Moving outside the EEA and branches
 ----------------------------------------
@@ -762,14 +756,10 @@ Changes to this Agreement which are (1) more favourable to you; (2) required by 
 
 **31.2** If Wise Europe SA opens a branch in a country where you reside, your Wise Account will be serviced by that branch once it becomes operational and continuing to use your Wise Account means that you agree to enter a customer agreement with your local branch. The applicable customer agreement and the date on which your local branch becomes operational can be found [here](https://wise.com/en/legal/terms-and-conditions).
 
-* * *
-
 32\. Complaints
 ---------------
 
 **32.1** If you have any complaints about us or our Services, you may contact us following our [customer complaint procedure](https://wise.com/help/articles/2235393/how-do-i-make-a-complaint). Make sure to reach out to us first. If you’re not satisfied with our final response, you can escalate your complaint to the Ombudsfin, North Gate II, Boulevard du Roi Albert II, n°8, bte. 2, 1000 Brussels, Belgium, or at ombudsman@ombudsfin.be. You may also contact the Economic Inspectorate of the Federal Public Service Economy, by phone at +32 800 120 33 or e-mail: info.eco@economie.fgov.be.
-
-* * *
 
 33\. Other important terms
 --------------------------
