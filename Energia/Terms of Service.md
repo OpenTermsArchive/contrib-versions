@@ -736,6 +736,15 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 ### 
 
+INM Subscription Terms and Conditions
+
+Free 12 month subscription to INM 
+
+*   This is for a 12-month e-paper digital subscription.
+*   The code to redeem the subscription will be sent after the cool off period has ended.
+
+### 
+
 Newsletter competition terms and conditions
 
 [View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)  
