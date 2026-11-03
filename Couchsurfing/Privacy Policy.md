@@ -1,6 +1,6 @@
 Effective Date: November **1, 2021**
 
-Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](https://about.couchsurfing.com/about/privacy-policy/#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](https://about.couchsurfing.com/about/privacy-policy/#NoticeToEuropeanDataSubjects).
+Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#NoticeToEuropeanDataSubjects).
 
 ### About Couchsurfing
 
@@ -27,9 +27,9 @@ The types of information we may collect include:
 *   **Account information**, such as your name, username, gender, birth date, email address, mailing address, city, country, postal code, billing address, phone number and profile picture;
 *   **Communications** that we exchange with users when they contact us with questions or feedback, including feedback about interacting with other users, and messages and interactive forum information, such as discussion group posts, messages to other Couchsurfing users and information you provide in connection with activities and events;
 *   **Other background, contact and demographic information**, such as your occupation, personal URL, IM username, emergency contact, home descriptions, travel history and plans and other interests and self-descriptions you choose to provide;
-*   **Payment and transactional data** when you pay for our Services, including name, payment card information, bank account number, billing information, and your transaction history. This information is collected and processed by our payment providers, Stripe, PayPal  , Google and Apple, and we do not have access to payment card numbers. In addition to this Privacy Policy and our [Terms of Use](https://about.couchsurfing.com/about/terms-of-use), information related to your payments or purchases is also processed according to Stripe’s, PayPal’s, Google’s, and Apple’s service agreements and privacy policies.
+*   **Payment and transactional data** when you pay for our Services, including name, payment card information, bank account number, billing information, and your transaction history. This information is collected and processed by our payment providers, Stripe, PayPal  , Google and Apple, and we do not have access to payment card numbers. In addition to this Privacy Policy and our [Terms of Use](https://support.couchsurfing.org/hc/en-us/articles/360003344313-Terms-of-Use), information related to your payments or purchases is also processed according to Stripe’s, PayPal’s, Google’s, and Apple’s service agreements and privacy policies.
 *   **Information stored on your mobile device (if you have given us permission to access this information)**, such as your photos, calendar information and your contacts’ name, phone numbers and image thumbnail (if available). In particular, to help users connect with people they know, we offer them the option to invite friends to join them on Couchsurfing. To take advantage of this feature, users can opt in to share phone numbers from their address book or add phone numbers manually.
-*   **Identity verification data that you may provide if you elect to use the identity verification service**. This includes the identity document and images used in the process, as well as the information included on the identity document provided, as permitted by the applicable law. This information is collected and processed by a third party identity verification service provided by Onfido. For more information on how Onfido may handle your data please review [Onfido’s privacy policy](https://www.onfido.com/privacy/).
+*   **Identity verification data that you may provide if you elect to use the identity verification service**. This includes the identity document and images used in the process, as well as the information included on the identity document provided, as permitted by the applicable law. This information is collected and processed by a third party identity verification service provided by Entrust. For more information on how Entrust may handle your data please review [Entrust’s privacy policy](https://www.entrust.com/sites/default/files/documentation/licensingandagreements/product-privacy-notice-identity-verification-services.pdf).
 
 #### Information We Collect Automatically
 
@@ -71,7 +71,7 @@ We use information about you to:
 **Compliance with Laws, and Creating and Maintaining a Trusted and Safer Environment**. We may use personal information to:
 
 *   Protect the safety of Couchsurfing users and provide our verification service;
-*   Enforce our Terms of Use;
+*   Enforce our [Terms of Use](https://support.couchsurfing.org/hc/en-us/articles/360003344313-Terms-of-Use);
 *   Investigate potential Trust and Safety violations;
 *   Audit our internal processes for compliance with legal and contractual requirements and internal policies;
 *   Prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft; and
@@ -83,7 +83,7 @@ Couchsurfing has users located across the globe. We may store and process person
 
 Couchsurfing International Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom and Switzerland to the United States, respectively. Couchsurfing International Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-To the extent required by the Privacy Shield principles or applicable law, you have the opportunity to choose (opt out) whether your personal information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. For more information about the choices you have in relation to your personal information, visit the [“Your Information Choices”](https://about.couchsurfing.com/about/privacy-policy/#YourInformationChoices), and to exercise your rights please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
+To the extent required by the Privacy Shield principles or applicable law, you have the opportunity to choose (opt out) whether your personal information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. For more information about the choices you have in relation to your personal information, visit the [“Your Information Choices”](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#YourInformationChoices), and to exercise your rights please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
 
 In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request). Note, you may have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information about invoking binding arbitration, please review additional information [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
 
@@ -94,12 +94,12 @@ We are subject to investigatory and enforcement powers of the U.S. Federal Trade
 We share personal information as follows:
 
 *   With your consent;
-*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us (such as hosting, analytics, customer support, email and SMS delivery, identity verification (Onfido), and fraud prevention and detection);.
+*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us (such as hosting, analytics, customer support, email and SMS delivery, identity verification (Entrust), and fraud prevention and detection);.
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
 *   If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, including to meet national security or law enforcement requirements; and
-*   To enforce our agreements, policies, and [Terms of Use](https://about.couchsurfing.com/about/terms-of-use) to protect the security or integrity of our Services; or to protect Couchsurfing, our users or the public from harm or illegal activities.
+*   To enforce our agreements, policies, and [Terms of Use](https://support.couchsurfing.org/hc/en-us/articles/360003344313-Terms-of-Use) to protect the security or integrity of our Services; or to protect Couchsurfing, our users or the public from harm or illegal activities.
 
 #### How You Share Personal Information:
 
@@ -135,13 +135,13 @@ The Services are not intended for use by children under 18 years of age. If we l
 **Privacy Settings** You have many choices about your data.
 
 *   You can update and correct most of your personal data through your account. If this is not possible, you can ask us to update your data, particularly in cases of inaccuracy, by contacting Customer Support (https://support.couchsurfing.org/hc/en-us).
-*   You can request a portable copy of your data under the [Privacy](https://www.couchsurfing.com/preferences/privacy) section of your Account and Settings (Desktop only).
+*   You can request a portable copy of your data under the [Security](https://www.couchsurfing.com/c/users/settings/export-data) section of your Settings (Desktop & Mobile).
 *   You can opt-out of email marketing and push notifications using the Email and Push Notification options in your Account and Settings Page. You may also opt out of marketing-related emails by following the opt out or unsubscribe instructions contained in the communications we send you. If you opt out, we may still send you transactional or relationship messages, such as emails about your account.
 *   You may determine whether certain information about you will be visible to others by navigating to "Account & Settings" on our website and editing your options under "Privacy."
 
 **Account Information**
 
-You may deactivate your account at any time by contacting support@couchsurfing.com. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
+You may deactivate your account at any time by contacting [support@couchsurfing.com](mailto:support@couchsurfing.com). Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
 
 **Location Information via Mobile Device**
 
@@ -163,13 +163,13 @@ The CCPA grants California residents the following rights:
 
 *   **Information**.Our Privacy Policy describes how we use and share your personal information through the Services, including during the past 12 months. The Policy describes:
 
-a)    The sources through which we collect California residents’ personal information and the types of personal information collected in the [What Information Do We Collect When You Use Our Services?](https://about.couchsurfing.com/about/privacy-policy/#WhatInformationDoWeCollect) section above.
+a)    The sources through which we collect California residents’ personal information and the types of personal information collected in the [What Information Do We Collect When You Use Our Services?](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#WhatInformationDoWeCollect) section above.
 
-b)    The purposes for which we use and share this information in the [How Do We Use this Information?](https://about.couchsurfing.com/about/privacy-policy/#HowDoWeUseInformation) section above and the [Sharing of Information](https://about.couchsurfing.com/about/privacy-policy/#SharingOfInformation) section above.
+b)    The purposes for which we use and share this information in the [How Do We Use this Information?](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#HowDoWeUseInformation) section above and the [Sharing of Information](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#SharingOfInformation) section above.
 
 *   **Access**. You can request a copy of the personal information that we maintain about you.
 *   **Deletion**. You can ask to delete the personal information that we maintain about you.
-*   **Opt-out of sale of your personal information**. We do not sell personal information. We offer instructions on how to limit online tracking in the [Online Tracking Opt-Out](https://about.couchsurfing.com/about/privacy-policy/#OnlineTrackingOptOut) section above.
+*   **Opt-out of sale of your personal information**. We do not sell personal information. We offer instructions on how to limit online tracking in the [Online Tracking Opt-Out](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#OnlineTrackingOptOut) section above.
 
 The CCPA limits these rights. For example, companies may not provide users in response to access requests certain sensitive information and other consumers’ personal information, and may exclude information that would compromise the confidentiality of trade secrets. The CCPA also places limits on when companies must comply with a deletion request.
 
@@ -200,11 +200,11 @@ If you want to raise a question to Couchsurfing, or otherwise exercise your righ
 
 Please note: When mailing your data protection inquiries, it is essential that you mark your letters for "DataRep" and not "Couchsurfing", or your inquiry may not reach DataRep. Please refer clearly to Couchsurfing in your correspondence. On receiving your correspondence, Couchsurfing is likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
 
-**Personal Data We Collect From You and How We Use It**. You can read about the personal data we collect from you in the [What Information Do We Collect When You Use Our Services?](https://about.couchsurfing.com/about/privacy-policy/#WhatInformationDoWeCollect) section above, and how we use it in the [How Do We Use this Information?](https://about.couchsurfing.com/about/privacy-policy/#HowDoWeUseInformation) section above.
+**Personal Data We Collect From You and How We Use It**. You can read about the personal data we collect from you in the [What Information Do We Collect When You Use Our Services?](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#WhatInformationDoWeCollect) section above, and how we use it in the [How Do We Use this Information?](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#HowDoWeUseInformation) section above.
 
 **Justification for Data Processing**. European data protection law sets out a list of justifications on which companies may rely to process personal data, and requires companies to explain to consumers the specific justifications for the company’s data processing activities.  We generally rely on one of the following justifications to process personal data:
 
-*   **Contractual Necessity**, to provide you with the Services in accordance with our [Terms of Use](https://about.couchsurfing.com/about/terms-of-use).
+*   **Contractual Necessity**, to provide you with the Services in accordance with our [Terms of Use](https://support.couchsurfing.org/hc/en-us/articles/360003344313-Terms-of-Use).
 *   **Legitimate Interests,** where it is necessary for our legitimate business purposes, your interest or the interests of a third party.
 *   **Consent,** where required by law. Where we rely on your consent to process personal data about you, you have the right to later withdraw your consent in the manner indicated when you consent or by contacting us as described in this Privacy Policy.
 
@@ -224,7 +224,7 @@ Provision of some of this data is necessary to establish an account on Couchsurf
 | Verification Data | To verify your identity | **Legitimate Interests:**<br><br>To help confirm your identity and enhance the chances of finding an host |
 | Information Collected Automatically | To provide functionality, security, and for analytics and marketing purposes | **Legitimate Interests:**<br><br>Developing and improving the Services |
 
-**Recipients of Data**. We may disclose your personal data to the recipients described in the [Sharing of Information](https://about.couchsurfing.com/about/privacy-policy/#SharingOfInformation) section above.
+**Recipients of Data**. We may disclose your personal data to the recipients described in the [Sharing of Information](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#SharingOfInformation) section above.
 
 **Retention of Data**. We keep your personal data for as long as you have a Couchsurfing account. To protect the safety and security of our users, your personal data will be retained for a reasonable period of time following account deletion or deactivation. To determine the appropriate retention period for your personal data, we consider the amount, nature, and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. We may delete the data by anonymizing it so it can no longer be associated with a user.
 
@@ -238,4 +238,4 @@ Provision of some of this data is necessary to establish an account on Couchsurf
 *   **Restrict Processing.** You may ask us to suspend our processing of your personal data, for example, if you want us to establish its accuracy or the reason for processing it.
 *   **Data Portability.** If required to do so, we will give you your personal data in a structured, commonly used, and machine-readable format.
 
-To exercise these rights, please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). You may also contact our representative using the contact information referenced in the [Controller and Representative](https://about.couchsurfing.com/about/privacy-policy/#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
+To exercise these rights, please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). You may also contact our representative using the contact information referenced in the [Controller and Representative](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy/#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
