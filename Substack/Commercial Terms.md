@@ -1,11 +1,13 @@
 **Publisher Agreement**
 =======================
 
-Last Updated: July 20, 2026
+Last Updated: November 2, 2026
 
-*   Added clarifications to the refund policy.
+*   Additional terms for political contributions.
     
-*   Added clarification regarding automated content analysis.
+*   Additional terms for sponsored content.
+    
+*   Update to indirect tax remittance services
     
 
 **Welcome Creators!**
@@ -52,7 +54,7 @@ If you choose to charge a subscription fee for your publication, you agree to th
     
 *   **Taxes**
     
-    You agree that you shall bear and be responsible for any and all applicable federal, state, local, and foreign taxes, duties, tariffs, levies, withholdings, and similar assessments (including without limitation, sales, use, and value added taxes) related to your publication.
+    You agree that you shall bear and be responsible for any and all applicable federal, state, local, and foreign taxes, duties, tariffs, levies, withholdings, and similar assessments related to your publication, including without limitation income, franchise, and similar taxes based on your net or gross revenue. Notwithstanding the foregoing, effective as of December 1, 2026, as between you and Substack, Substack shall be responsible for collecting and remitting applicable sales, use, value added, goods and services, and other similar indirect transaction taxes (“Indirect Taxes”) on subscription or other sales of your publication occurring on or after such date, in any market where such collection and remittance is supported by Substack’s tax collection processor. In any market where Substack’s tax collection processor does not support the collection and remittance of Indirect Taxes, you shall remain solely responsible for determining, collecting, and remitting any such Indirect Taxes. For any sales occurring prior to December 1, 2026, the allocation of responsibility for Indirect Taxes in effect prior to this amendment shall continue to apply. You are solely responsible for correctly characterizing the nature of your publication within your account settings, and Substack’s determination and collection of Indirect Taxes under this paragraph shall be based on such characterization. You shall bear responsibility for any underpayment, overpayment, penalty, interest, or other liability arising from an inaccurate characterization.
     
 *   **Revenue Share**
     
@@ -66,10 +68,28 @@ If you choose to charge a subscription fee for your publication, you agree to th
     
     You will provide us with all requested data or information about you and your publications. This includes all payment and tax identification information, and you will ensure this information is accurate and up-to-date.
     
-*   **Refunds**
+*   **Sponsored Content**
     
-    In most cases, it’s your decision as to whether and when to issue refunds to Readers, however, you agree to Substack automatically processing Reader refunds in select circumstances in accordance with our [Refund Policy](https://support.substack.com/hc/en-us/articles/8915992656660-What-is-Substack-s-refund-policy). We may update our Refund Policy from time to time and will provide written notice of any material changes.
+    Publishers who receive payment or other consideration from a sponsor in connection with their Content must comply with all applicable laws, rules, and regulations governing the disclosure, labeling, and presentation of sponsored, paid, or endorsed content, including without limitation applicable advertising disclosure and endorsement laws in each jurisdiction where such Content is made available. Substack may also require that such disclosures follow a specific format, placement, or language, as set forth in Substack’s Sponsored Content Guidelines or as otherwise communicated by Substack from time to time, and Publishers agree to comply with any such requirements.
     
+*   **Political Creators**
+    
+    Substack allows Creators that are candidates or political committees (“Political Creators”) to raise money for their campaigns and political committees through paid subscriptions on Substack. When a Reader subscribes to a Political Creator’s publication for a subscription fee, the subscription fee is a political contribution under applicable campaign finance law. Currently, only U.S. federal candidates, federal campaign committees, and other federal political committees registered with the Federal Election Commission are eligible to be Political Creators.
+    
+    If you are a Political Creator and choose to raise political contributions through paid subscriptions to your publication, without limiting the other provisions of this Publisher Agreement, you acknowledge and agree to the following:
+    
+    *   You are a federal candidate’s authorized campaign committee or other type of political committee registered with the Federal Election Commission.
+        
+    *   You are solely responsible for your own compliance with applicable campaign finance law. For example:
+        
+        *   You are responsible for ensuring that your Substack subscription form includes legally required disclaimers.
+            
+        *   You are responsible for ensuring that your Readers’ political contributions to you comply with applicable source prohibitions and contribution limits.
+            
+        *   You are responsible for ensuring that you properly report your Readers’ political contributions and your Revenue Share payments. In general, you should report the total amount of a Reader’s subscription fee payment as a political contribution you received. You should generally report the amounts withheld for Substack’s Revenue Share and the Payment Processor’s processing fee as operating expense disbursements to Substack and the Payment Processor, respectively.
+            
+    *   If you choose to collect a Reader’s phone number, your collection and use of the phone number will comply with the Telephone Consumer Protection Act of 1991, as amended, and any equivalent state laws regulating the collection and use of phone numbers. In addition to your indemnification obligations below, you agree to indemnify and hold Substack, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims relating to your alleged violation of the Telephone Consumer Protection Act of 1991, as amended, and any equivalent state laws regulating the collection and use of phone numbers.
+        
 
 **Relationships with Readers**
 
@@ -188,8 +208,6 @@ We are constantly trying to improve our products and services, so this Agreement
 If you don’t agree with the new Agreement, you are free to reject them; unfortunately, that means you will no longer be able to use Substack. If you use Substack in any way after a change to the Agreement is effective and notice has been provided, that means you agree to all of the changes. Except for changes by us as described here, no other amendment or modification of this Agreement will be effective unless in writing and signed by both you and us. 
 
 **Miscellaneous Terms**
-
-The above covers most of the questions that we typically receive about Substack. We have grouped provisions that come up less frequently below.
 
 *   **Indemnification**
     
