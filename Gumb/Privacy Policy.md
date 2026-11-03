@@ -489,6 +489,6 @@ _Last Updated: November 2, 2026_
 Questions about data protection?
 --------------------------------
 
-Write to us – we're happy to help.
+Write to us. We're happy to help.
 
 [privacy@gumb.app](mailto:privacy@gumb.app)[Go to the contact form](https://gumb.app/en/contact-us)
