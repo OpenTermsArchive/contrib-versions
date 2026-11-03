@@ -25,7 +25,8 @@ Contents17
 16.  [15 Final Provisions](#section-15)
 17.  [16 Additional Terms for Users in the United States](#section-16)
 
-### Summary
+Summary
+-------
 
 This summary is not binding. The full text controls.
 
@@ -564,6 +565,6 @@ Part D - Additional Terms for Users in the United States
 Questions about our terms?
 --------------------------
 
-Write to us – we're happy to help.
+Write to us. We're happy to help.
 
 [support@gumb.app](mailto:support@gumb.app)[Go to the contact form](https://gumb.app/en/contact-us)
