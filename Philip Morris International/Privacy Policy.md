@@ -366,6 +366,10 @@ _**If you are in the United Kingdom, find out more…**_
 
 If you are in the United Kingdom, you may have rights in addition to those set out in this notice under UK data protection law. These include the right to obtain further information about how your personal data is used, accessed, or shared, and the safeguards that apply. You also have the right to raise concerns or make a complaint about how we handle your personal data using the contact details set out in our [privacy notices](https://pmiprivacy.com/global/en/). If you are not satisfied with our response, you have the right to complain to the Information Commissioner’s Office (ICO).
 
+_**If you are in United Arab Emirates, find out more…**_
+
+PMI has established a company-wide AI policy framework codifying PMI’s AI Guiding Principles, which form the foundation for the responsible use of AI in PMI. Learn more about the Responsible use of artificial intelligence at PMI [here](https://www.pmi.com/sustainability/responsible-ai).
+
 Who should you contact with questions?
 --------------------------------------
 
