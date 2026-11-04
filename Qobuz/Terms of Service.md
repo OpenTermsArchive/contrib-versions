@@ -1,5 +1,9 @@
 General conditions of use and sale 
 
+[Download the PDF version](https://static.qobuz.com/uploads/cms/files/cguv/CGV_Qobuz_PL.pdf)
+
+  
+
 Preamble 
 
 Definitions
@@ -24,135 +28,137 @@ Definitions
 
 10\. Qobuz gift cards 
 
-11\. Absence of right of withdrawal 
+11. Programme de récompense Qobuz
 
-12\. Account deactivation and deletion 
+12\. Absence of right of withdrawal 
 
-13\. Territory  
+13\. Account deactivation and deletion 
 
-14\. Election of domicile 
+14\. Territory  
 
-15\. Personal data 
+15\. Election of domicile 
 
-16\. Cookies 
+16\. Personal data 
 
-17\. Intellectual Property 
+17\. Cookies 
 
-18\. Customer Service  
+18\. Intellectual Property 
 
-19\. Applicable law, litigation and mediation 
+19\. Customer Service  
 
-20\. Nullity of an article 
+20\. Applicable law, litigation and mediation 
 
-21.  Our offers    
+21\. Nullity of an article 
 
-21.1 QOBUZ PREMIUM 
+22.  Our offers    
 
-Introduction 
-
-        21.1.1     Duration   
-
-        21.1.2     Renewal 
-
-        21.1.3     Termination 
-
-21.2 QOBUZ STUDIO SOLO 
+22.1 QOBUZ PREMIUM 
 
 Introduction 
 
-        21.2.1     Duration 
+        22.1.1     Duration   
 
-        21.2.2     Renewal 
+        22.1.2     Renewal 
 
-        21.2.3     Termination 
+        22.1.3     Termination 
 
-21.3 QOBUZ STUDIO DUO
+22.2 QOBUZ STUDIO SOLO 
+
+Introduction 
+
+        22.2.1     Duration 
+
+        22.2.2     Renewal 
+
+        22.2.3     Termination 
+
+22.3 QOBUZ STUDIO DUO
 
   
 Introduction
 
-        21.3.1     Description and availability of STUDIO DUO offer
+        22.3.1     Description and availability of STUDIO DUO offer
 
-        21.3.2     Conditions of access to STUDIO DUO offer
+        22.3.2     Conditions of access to STUDIO DUO offer
 
-        21.3.3     Conditions of use of STUDIO DUO offer
+        22.3.3     Conditions of use of STUDIO DUO offer
 
-        21.3.4     Duration
+        22.3.4     Duration
 
-        21.3.5     Renewal
+        22.3.5     Renewal
 
-        21.3.6     Termination
+        22.3.6     Termination
 
-21.4 QOBUZ STUDIO FAMILY 
+22.4 QOBUZ STUDIO FAMILY 
 
   
 Introduction 
 
-        21.4.1     Description and availability of STUDIO FAMILY offer          
+        22.4.1     Description and availability of STUDIO FAMILY offer          
 
-        21.4.2     Conditions of access to STUDIO FAMILY offer 
+        22.4.2     Conditions of access to STUDIO FAMILY offer 
 
-        21.4.3     Conditions of use of STUDIO FAMILY offer 
+        22.4.3     Conditions of use of STUDIO FAMILY offer 
 
-        21.4.4     Duration 
+        22.4.4     Duration 
 
-        21.4.5     Renewal 
+        22.4.5     Renewal 
 
-        21.4.6     Termination   
+        22.4.6     Termination   
 
-21.5 QOBUZ SUBLIME SOLO
+22.5 QOBUZ SUBLIME SOLO
 
 Introduction 
 
-        21.5.1     Duration 
+        22.5.1     Duration 
 
-        21.5.2     Renewal  
+        22.5.2     Renewal  
 
-        21.5.3     Termination
+        22.5.3     Termination
 
-21.6 QOBUZ SUBLIME DUO
-
-  
-Introduction
-
-        21.6.1     Description and availability of SUBLIME DUO offer
-
-        21.6.2     Conditions of access to SUBLIME DUO offer 
-
-        21.6.3     Conditions of use of SUBLIME DUO offer 
-
-        21.6.4     Duration
-
-        21.2.5     Renewal
-
-        21.2.6     Termination
-
-21.7 QOBUZ SUBLIME FAMILLE
+22.6 QOBUZ SUBLIME DUO
 
   
 Introduction
 
-        21.7.1     Description and availability of SUBLIME FAMILY offer
+        22.6.1     Description and availability of SUBLIME DUO offer
 
-        21.7.2     Conditions of access to SUBLIME FAMILY offer 
+        22.6.2     Conditions of access to SUBLIME DUO offer 
 
-        21.7.3     Conditions of use of SUBLIME FAMILY offer 
+        22.6.3     Conditions of use of SUBLIME DUO offer 
 
-        21.7.4     Duration
+        22.6.4     Duration
 
-        21.7.5     Renewal
+        22.2.5     Renewal
 
-        21.7.6     Termination
+        22.2.6     Termination
 
-21.8 QOBUZ DOWNLOAD  
+22.7 QOBUZ SUBLIME FAMILLE
 
-        21.8.1     Description of the download offer 
+  
+Introduction
 
-        21.8.2     Conditions of access to the download offer       
+        22.7.1     Description and availability of SUBLIME FAMILY offer
 
-        21.8.3     Conditions of use of the download offer 
+        22.7.2     Conditions of access to SUBLIME FAMILY offer 
 
-        21.8.4     Orders and payment methods 
+        22.7.3     Conditions of use of SUBLIME FAMILY offer 
+
+        22.7.4     Duration
+
+        22.7.5     Renewal
+
+        22.7.6     Termination
+
+22.8 QOBUZ DOWNLOAD  
+
+        22.8.1     Description of the download offer 
+
+        22.8.2     Conditions of access to the download offer       
+
+        22.8.3     Conditions of use of the download offer 
+
+        22.8.4     Orders and payment methods 
 
 **  
 Preamble**  
@@ -257,6 +263,7 @@ The Customer must meet the age requirements in the table below and have the capa
 | Norway | From 16 years old | From 18 years old |
 | New-Zealand | From 16 years old | From 18 years old |
 | Netherlands | From 16 years old | From 18 years old |
+| Poland | From 16 years old | From 18 years old |
 | United Kingdom | From 16 years old | From 18 years old |
 | Sweden | From 16 years old | From 18 years old |
 | Switzerland | From 16 years old | From 18 years old |
