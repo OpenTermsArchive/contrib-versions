@@ -327,4 +327,4 @@ For all routine inquiries please use the contact details provided below.
 *   For service-related inquiries and to rectify/update, ask a question about, or withdraw consent regarding your data: contact us [here](https://help.glassdoor.com/s/ContactUs?language=en_US).
 *   For information about our bug bounty program, see [here](https://help.glassdoor.com/s/article/Bug-Bounty-Program?language=en_US).
 
-If none of the above apply to you, you may reach our Data Protection Officer at dpo @ glassdoor.com. This email is intended only for inquiries related to this Policy and our data processing activities.
+If none of the above apply to you, you may reach our Data Protection Officer at privacy-dept-gd @ indeed.com. This email is intended only for inquiries related to this Policy and our data processing activities.
