@@ -22,7 +22,6 @@ The following content and functions do not yet meet the requirements of WCAG lev
 
 ### Header
 
-*   There are issues in the implementation of the mobile menu. The menu elements are not described correctly on all technologies. Focus can leave the menu when it is open. (4.1.2), (2.4.3)
 *   There are minor issues in the implementation of the shopping cart element. The visible label and accessible name do not match. The element's role is not descriptive. (2.5.3), (4.1.2)
 
 ### Footer
@@ -47,7 +46,6 @@ The following content and functions do not yet meet the requirements of WCAG lev
 *   The contrast of the keyboard focus is sometimes too weak (1.4.11)
 *   There are links in the service that may be unclear to users who use assistive technologies. (2.4.4)
 *   The language is not always programmatically specified correctly. (3.1.2)
-*   Some text alternatives are in English. (3.1.2)
 *   There are occasionally some issues with the focus order on mobile screens. (2.4.3)
 
 ### Other known issues in the service
@@ -55,7 +53,6 @@ The following content and functions do not yet meet the requirements of WCAG lev
 *   The skip link on the Oura Ring 4 page does not move the focus to a correct location. (2.4.3)
 *   There are issues in the implementation of the additional information links on the Oura Ring 4 page. (2.4.3), (2.4.4)
 *   The current ring selection is not conveyed on the Oura Ring 4 page. (4.1.2)
-*   Categories cannot be browsed with a single pointer in the mobile view on the Oura Ring 4 page. (2.5.1)
 *   The fact that the link is not usable is not conveyed programmatically in the ring selection. (4.1.2)
 *   Ring size selection is indicated using color alone. (1.4.1)
 *   Changes in the cart are not conveyed programmatically. (1.3.1)
