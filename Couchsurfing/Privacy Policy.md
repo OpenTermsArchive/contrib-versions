@@ -196,7 +196,7 @@ If you want to raise a question to Couchsurfing, or otherwise exercise your righ
 
 *   sending an email to DataRep at [couchsurfing@datarep.com](mailto:couchsurfing@datarep.com)
 *   contacting us on our online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request), or
-*   mailing your inquiry to DataRep at the most convenient of the addresses found in [here](https://about.couchsurfing.com/files/DataRep_ContactLocations.docx).
+*   mailing your inquiry to DataRep at the most convenient of the addresses found in [here](https://www.datarep.com/contact/).
 
 Please note: When mailing your data protection inquiries, it is essential that you mark your letters for "DataRep" and not "Couchsurfing", or your inquiry may not reach DataRep. Please refer clearly to Couchsurfing in your correspondence. On receiving your correspondence, Couchsurfing is likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
 
