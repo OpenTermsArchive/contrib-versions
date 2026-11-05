@@ -208,8 +208,8 @@ Manage export compliance, screening, clearance, and documents in one workflow.
 *   [ONESOURCE Foreign Trade Zone Management Maximize duty savings and improve cash flow with software that centralizes supply-chain data and automates compliance.](https://tax.thomsonreuters.com/en/products/onesource-foreign-trade-zone-management)
 *   [ONESOURCE Global Classification Automate trade compliance with an AI software that delivers fast, accurate product classifications for import and export.](https://tax.thomsonreuters.com/en/products/onesource-global-classification-ai)
 *   [ONESOURCE Global Trade Content Power global trade compliance with trusted content, rapid updates, and broad coverage.](https://tax.thomsonreuters.com/en/onesource/global-trade-management/content)
-*   [ONESOURCE Denied Party Screening Minimize sanctions risk with automated denied-party screening across more than 750 global lists.](https://tax.thomsonreuters.com/en/products/onesource-denied-party-screening)
-*   [ONESOURCE Free Trade Agreement Management Reduce duties and simplify free-trade-agreement qualifications with less manual effort.](https://tax.thomsonreuters.com/en/onesource/global-trade-management/free-trade-agreement)
+*   [ONESOURCE Denied Party Screening Minimize sanctions risk with automated denied-party screening across more than 825+ global lists.](https://tax.thomsonreuters.com/en/products/onesource-denied-party-screening)
+*   [ONESOURCE Free Trade Agreement Management Reduce duties and simplify free-trade-agreement qualifications with less manual effort.](https://tax.thomsonreuters.com/en/products/onesource-free-trade-agreement-management)
 *   [ONESOURCE Export Management Manage export compliance, screening, clearance, and documents in one workflow.](https://tax.thomsonreuters.com/en/onesource/global-trade-management/export-compliance)
 
 [View all](https://tax.thomsonreuters.com/en/products#tab=plp-products&cf-tr_plp_disciplinecategorysubcategory=International%20trade%20%26%20supply%20chain&sortCriteria=relevancy)
