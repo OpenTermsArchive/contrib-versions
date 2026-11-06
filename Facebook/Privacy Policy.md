@@ -378,13 +378,7 @@ Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https:
 
 Vous pouvez nous contacter [en ligne](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy) ou par courrier à l’adresse suivante :
 
-Meta Platforms, Inc.
-
-ATTN : Privacy Operations
-
-1 Meta Way
-
-Menlo Park, CA 94025, États-Unis
+Meta Platforms, Inc. ATTN : Privacy Operations 1 Meta Way Menlo Park, CA 94025, États-Unis
 
 Finalités et moyens de traitement de vos informations
 
