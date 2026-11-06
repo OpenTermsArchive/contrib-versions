@@ -139,6 +139,7 @@ o Instacollect Inc. (Shopify functionality tool)
 *   RevQore (Hubspot consulting)
 *   Kaks.io (Hubspot consulting)
 *   Vainu.io (Business information service)
+*   Zelara GmbH
 
 ### 6\. Transfers Outside the EU/EEA
 
@@ -242,3 +243,4 @@ Version history
 | 3.2. | Document updated | 25.3.2026 |
 | 3.3. | Document updated | 20.4.2026 |
 | 3.4. | Document updated | 16.7.2026 |
+| 3.5 | Document updated | 5.11.2026 |
