@@ -1,7 +1,7 @@
 AWS Trademark Guidelines & License Terms
-========================================
+----------------------------------------
 
-Last Updated: July 17, 2026
+Last Updated: November 5, 2026
 
 **1\. Introduction.** These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.
 
@@ -115,8 +115,6 @@ Amazon One
 Amazon Pinpoint  
 Amazon Polly  
 Amazon Q  
-Amazon Quick  
-Amazon Quick Sight  
 Amazon Redshift  
 Amazon Rekognition  
 Amazon Relational Database Service  
@@ -203,6 +201,8 @@ AWS Panorama
 AWS Partner Network (and program logos)  
 AWS PartnerEquip  
 AWS Proton  
+AWS Quick  
+AWS Quick Sight  
 AWS Ratio  
 AWS re:Inforce  
 AWS re:Invent  
