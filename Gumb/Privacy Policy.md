@@ -1,4 +1,4 @@
-*   Last Updated: November 2, 2026
+*   Last Updated: November 5, 2026
 *   25 min read
 
 Contents
@@ -197,6 +197,8 @@ To create a customer account, we collect the following mandatory information:
 Registration is required for the use of our services. The legal basis is Art. 6 para. 1 lit. b GDPR (initiation and performance of the contract) as well as our legitimate interest in providing a secure user account (Art. 6 para. 1 lit. f GDPR).
 
 The provision of the mandatory information is required for the conclusion and performance of the user agreement. Without this information, no user account can be created.
+
+We recommend using a private email address. With an address from an employer or another organization, that organization may technically have access to the mailbox and so to emails from Gumb, such as appointment notices with the names of other members. You and the organization are responsible for that.
 
 ### 7.2 Use of the Services & Optimization
 
@@ -484,7 +486,7 @@ Email: [privacy@gumb.app](mailto:privacy@gumb.app)
 
 Date of Entry into Force: September 20, 2020
 
-_Last Updated: November 2, 2026_
+_Last Updated: November 5, 2026_
 
 Questions about data protection?
 --------------------------------
