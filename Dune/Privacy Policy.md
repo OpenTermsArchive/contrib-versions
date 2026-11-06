@@ -32,7 +32,7 @@ We will collect and process the following Personal Data when you use the Dune Pr
 *   E-mail address
 *   IP-address
 *   Web browser
-*   Navigation information on [dune.com](http://dune.com/) or other domains where the Dune Product is accessible
+*   Navigation information on [dune.com](https://dune.com/) or other domains where the Dune Product is accessible
 
 Personal Data collected for offering the Dune Product are used in the following ways:
 
@@ -51,7 +51,7 @@ We will collect and process the following Personal Data for website and product 
 *   E-mail address
 *   IP-address
 *   Web browser
-*   Navigation information on [dune.com](http://dune.com/) or other domains where the Dune Product is accessible
+*   Navigation information on [dune.com](https://dune.com/) or other domains where the Dune Product is accessible
 
 Personal Data collected for website analysis and improvement are used in the following ways:
 
@@ -72,7 +72,7 @@ We will collect and process the following Personal Data for troubleshooting and 
 *   E-mail address
 *   IP-address
 *   Web browser
-*   Navigation information on [dune.com](http://dune.com/) or other domains where the Dune Product is accessible
+*   Navigation information on [dune.com](https://dune.com/) or other domains where the Dune Product is accessible
 
 **Legal basis:** To fulfill an agreement with you, see article 6(1)(b) of the General Data Protection Regulation.
 
@@ -82,7 +82,7 @@ Dune Analytics AS will use your name and contact information in order to keep yo
 
 *   Name
 *   E-mail address
-*   Navigation information on [dune.com](http://dune.com/) or other domains where the Dune Product is accessible
+*   Navigation information on [dune.com](https://dune.com/) or other domains where the Dune Product is accessible
 
 **Legal basis:** We consider that we have a legitimate interest under article 6(1)(f) of the General Data Protection Regulation. Our legitimate interest consists of our business interest in reaching out to users and send relevant information.
 
@@ -129,7 +129,7 @@ We retain Personal Data only for as long as necessary for the purposes described
 
 Dune Analytics will not share the Personal Data of its users with any third parties, except when we have legal grounds for sharing the data or it is required under any statutory obligations of which Dune Analytics AS is subject to.
 
-We share your data with our processors (sub-processors), with the sole purpose of providing and operating the service. We share Personal Data with sub-processors solely to provide and operate the service. Our current list of sub-processors, with purpose and location, is maintained on our Trust Center at [trust.dune.com](http://trust.dune.com/).
+We share your data with our processors (sub-processors), with the sole purpose of providing and operating the service. We share Personal Data with sub-processors solely to provide and operate the service. Our current list of sub-processors, with purpose and location, is maintained on our Trust Center at [trust.dune.com](https://trust.dune.com/).
 
 For all sub-processors located outside the EEA, we rely on appropriate transfer mechanisms, including EU Standard Contractual Clauses, to ensure that transfers are made in accordance with applicable data protection legislation.
 
