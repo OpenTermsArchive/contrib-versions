@@ -80,47 +80,6 @@ Another example: with your consent, we allow community developers to use the gam
 
 To protect your privacy, we make sure that the Partners always keep your information safe.
 
-The Players
------------
-
-You—the players of our games.
-
-If you are under the age in your territory, you may need your parent’s help in creating an account and play our games.
-
-The Makers
-----------
-
-We—the game makers. We are an organization called Blizzard Entertainment.
-
-We create the games you play. As you play our games, you give us access to some of your personal information. We use this information to give you access to the game and improve your gaming experience. We also use this information to prevent cheating and fraud and make sure our games and services are safe and secure.
-
-The Guardians
--------------
-
-The Data Protection Officer (DPO) and their team. The Guardians protect your personal information. They make sure you can exercise your privacy rights. The Guardians work for the Makers. They are the humans you can contact if you have any problems or questions with the Blizzard Privacy World.
-
-Tip: The Guardians can help only with problems about your data privacy.
-
-For help on other problems or questions about our games, contact Support.
-
-The Network
------------
-
-This includes companies related to us that may be involved in processing or storing your personal information in the Activision Blizzard group. We use a variety of mechanisms to protect your data, including when transferring your data to our affiliates.
-
-For more details, see our [Privacy Policy](https://blizzard.com/privacy-policy).
-
-The Partners
-------------
-
-Partner organizations—companies that we work with. They help us provide you with our games and services. They also give us tools to improve and promote our games.
-
-We share your personal information with the Partners if they need it to provide the service you ask for. For example, some partners will need your billing information to process a payment when you buy our games or games from another company on our platform.
-
-Another example: with your consent, we allow community developers to use the game stats to give you a greater information and gaming experience.
-
-To protect your privacy, we make sure that the Partners always keep your information safe.
-
 Guard Your Data Privacy
 -----------------------
 
