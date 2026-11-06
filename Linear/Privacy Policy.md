@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective date: March 17, 2025
+Effective date: November 05, 2026
 
 At Linear Orbit (**“Linear”**), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal data. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy.**
 
@@ -167,6 +167,8 @@ We disclose your Personal Data to the categories of service providers and other 
     *   Social media services.
     *   Other users.  
         
+
+If you connect a Google account to Linear, our handling of information received from Google APIs is further described in our [Google Data Usage Policy](https://linear.app/legal/google-data-usage), which adheres to the Google API Services User Data Policy, including its Limited Use requirements.
 
 #### _Legal Obligations_[⁠](#legal-obligations)
 
