@@ -376,13 +376,7 @@ You can learn more about how privacy works on [Facebook](https://www.facebook.co
 
 You can contact us [online](https://help.meta.com/support/privacy) or by mail at:
 
-Meta Platforms, Inc.
-
-ATTN: Privacy Operations
-
-1 Meta Way
-
-Menlo Park, CA 94025
+Meta Platforms, Inc. ATTN: Privacy Operations 1 Meta Way Menlo Park, CA 94025
 
 Why and how we process your information
 
