@@ -1,6 +1,6 @@
 Terms and Conditions of Gumb AG
 
-*   Last updated: October 21, 2026
+*   Last updated: November 5, 2026
 *   23 min read
 
 Contents
@@ -114,7 +114,7 @@ Part A - Terms of Use (All Users)
     
 2.  3.2
     
-    **Information.** Users provide truthful and complete information and keep it current. They keep their email address reachable. Notices from Gumb (confirmations, invoices, changes to these Terms) are deemed delivered when sent to the email address on file or displayed in the app.
+    **Information.** Users provide truthful and complete information and keep it current. They keep their email address reachable. Notices from Gumb (confirmations, invoices, changes to these Terms) are deemed delivered when sent to the email address on file or displayed in the app. If the user uses an address from an employer, school or other organization, the user confirms being authorized to do so and following that organization's rules. Gumb does not check this and is not liable for the consequences of a violation. If the address stops working, for example after leaving the organization, the user changes it in the profile in time. Otherwise access to the account may be lost.
     
 3.  3.3
     
