@@ -1,4 +1,4 @@
-Last modified: October 09, 2026
+Last modified: November 05, 2026
 
 Terms of Service
 ================
@@ -51,20 +51,20 @@ The Company may also terminate Accounts which are being used for illegal activit
 
 We reserve the right to limit service capacity for Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
 
-The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
+The Company reserves the right to suspend or delete Accounts that have been inactive for a consecutive period of twenty-four months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
 
 If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://proton.me/support/appeal-abuse).
 
 3\. Inactive Accounts
 ---------------------
 
-The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of 12 months and/or part or all of their associated data and content according to this section.
+The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of 24 months and/or part or all of their associated data and content according to this section.
 
-If you have been inactive on your free Account for a consecutive period of **12 months or more**, access to your Account and all or part of the data associated with your Account (including but not limited to emails stored in Proton Mail, files stored on Proton Drive, calendar entries in Proton Calendar and passwords in Proton Pass) may be deleted. As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance before such action is taken.
+If you have been inactive on your free Account for a consecutive period of **24 months or more**, access to your Account and all or part of the data associated with your Account (including but not limited to emails stored in Proton Mail, files stored on Proton Drive, calendar entries in Proton Calendar and passwords in Proton Pass) may be deleted. As a mere courtesy, the Company will aim to send notice to the recovery email associated with your Account 30, 15 and 7 days in advance before such action is taken.
 
 Accounts under an active paid subscription are always considered active and no action will be taken against your paid Account under this section. Terminating your active paid subscription (or being downgraded to free due to a failure to pay for the subscription) will make your Account subject to this section again.
 
-If your account is free, you are considered active by performing one of the following actions at least once in a period of 12 months:
+If your account is free, you are considered active by performing one of the following actions at least once in a period of 24 months:
 
 *   logging in to your Account on our web, desktop or mobile apps; or
 
