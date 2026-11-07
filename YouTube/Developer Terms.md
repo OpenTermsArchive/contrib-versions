@@ -7,7 +7,7 @@ This document (the "**YouTube API Services Policies**" or "**Policies**") sets o
 
 In addition to defining policies, this document explains some of the underlying principles that YouTube followed in creating these Policies. It also offers examples that demonstrate how these Policies would apply in practice.
 
-Please note that this is a legal document and that these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
+This is a legal document, and these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
 
 I. Terminology and style
 ------------------------
@@ -19,7 +19,7 @@ This is a legal document that specifies policies about allowed or prohibited act
 3.  The terms **should**, **should not**, **recommend**, and **recommended** indicate that the statement describes a general best practice. While these terms suggest certain actions or behaviors, they acknowledge that you might decide to follow a different course based on specific aspects of your use case.
 4.  The term **may** indicates that an action is optional and left entirely to your discretion or, depending on the context in which it is used, to YouTube's discretion.
 
-In addition, the [Definitions](#iv.-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms to so that you can easily identify them in context and link to their definitions.
+In addition, the [Definitions](#iv.-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms so that you can identify them in context and link to their definitions.
 
 II. Software Development Principles
 -----------------------------------
@@ -78,13 +78,9 @@ III. General Developer Policies
 ### B. Maintainability and Deprecation
 
 1.  [API Clients](#definition-api-client) must use the most recent versions of [YouTube API Services](#definition-youtube-api-services). This means that you must be able to update [API Clients](#definition-api-client) when newer versions of [YouTube API Services](#definition-youtube-api-services) are released. Non-website [API Clients](#definition-api-client), like mobile apps or installed applications, must be capable of being remotely updated to use the most recent versions of [YouTube API Services](#definition-youtube-api-services). You must update your [API Clients](#definition-api-client) to the most recent versions of the [YouTube API Services](#definition-youtube-api-services) within a specified time period if required by YouTube from time to time (e.g. for critical updates).
-    
 2.  When YouTube intends to make backward incompatible changes to the [YouTube API Services](#definition-youtube-api-services), such changes will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
-    
 3.  You must promptly update non-deprecated [API Clients](#definition-api-client) to use newer versions of [YouTube API Services](#definition-youtube-api-services) as those versions are released.
-    
 4.  You must update deprecated versions of your [API Clients](#definition-api-client) to clearly indicate to users that some functions or features of [YouTube API Services](#definition-youtube-api-services) might stop working due to the [API Clients'](#definition-api-client) deprecated status.
-    
 
 ### C. Implementing YouTube Features
 
@@ -363,9 +359,9 @@ Aside from the permissions and rights granted in this section, you and your [API
 
 ### G. Distribution and Commercial Use
 
-You may distribute or sell [API Clients](#definition-api-client) subject to the restrictions defined in the "Prohibited Actions" subsection below and, of course, to the other terms of the [Agreement](#definition-agreement).
+You may distribute or sell [API Clients](#definition-api-client) subject to the restrictions defined in the following "Prohibited Actions" subsection and, of course, to the other terms of the [Agreement](#definition-agreement).
 
-In addition, you may distribute and display YouTube audiovisual content and accompanying metadata to users through your [API Clients](#definition-api-client) as long as those Clients comply with the [Agreement](#definition-agreement) and, specifically, do not engage in any of the prohibited actions listed immediately below.
+In addition, you may distribute and display YouTube audiovisual content and accompanying metadata to users through your [API Clients](#definition-api-client) as long as those Clients comply with the [Agreement](#definition-agreement) and, specifically, do not engage in any of the prohibited actions in the following list.
 
 1.  Prohibited Actions
     
@@ -398,7 +394,7 @@ In addition, you may distribute and display YouTube audiovisual content and acco
 
 ### H. Monitoring and Audits
 
-YouTube reserves the right to survey, monitor, and/or audit your access to or use of [YouTube API Services](#definition-youtube-api-services) to ensure quality, to improve YouTube products and services, and to verify your compliance with the [Agreement](#definition-agreement). To that end, YouTube may survey users of your [API Clients](#definition-api-client).
+YouTube reserves the right to survey, monitor, or audit your access to or use of [YouTube API Services](#definition-youtube-api-services) to ensure quality, to improve YouTube products and services, and to verify your compliance with the [Agreement](#definition-agreement). To that end, YouTube may survey users of your [API Clients](#definition-api-client).
 
 You and those acting on your behalf must:
 
@@ -415,47 +411,26 @@ The policies in this section identify additional things that [API Clients](#defi
 You and your [API Clients](#definition-api-client) must not, and must not encourage, enable, or require others to:
 
 1.  use [YouTube API Services](#definition-youtube-api-services) to create, offer, or act as a substitute for, or substantially similar service to, any [YouTube Applications](#definition-youtube-applications). [API Clients](#definition-api-client) must not mimic or replicate YouTube's core user experiences by recreating features or process flows unless they add significant independent value or functionality that improves users' interactions with YouTube. For example, an [API Client](#definition-api-client) must not recreate the browse experience from any YouTube Application without adding significant independent value to that flow.
-    
 2.  misuse [YouTube API Services](#definition-youtube-api-services) or engage in abusive behaviors related to those Services. For example, you must not automate or trigger views, uploads, comments, likes, dislikes, or other actions without the user's prior specific and express consent;
-    
 3.  interfere, or attempt to interfere, in any way with the proper workings of any aspect of [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), or [Google Applications](#definition-google-applications), including interference or disruption of the servers or networks that provide those Services or Applications;
-    
 4.  modify, interfere with, replace, or otherwise disable any functionality, data, or content made available as part of, or in connection with, [YouTube API Services](#definition-youtube-api-services). For example, you must not remove, obscure, alter, or disable any links that appear in YouTube players or in [API Data](#definition-api-data).
-    
 5.  modify, interfere with, replace, or block advertisements placed or served by YouTube or by [YouTube API Services](#definition-youtube-api-services) including in [API Data](#definition-api-data), YouTube audiovisual content, or YouTube players;
-    
 6.  modify, build upon, or block any portion or functionality of a YouTube player;
-    
 7.  separate, isolate, or modify the audio or video components of any YouTube audiovisual content made available as part of, or in connection with, [YouTube API Services](#definition-youtube-api-services). For example, you must not apply alternate audio tracks to videos;
-    
 8.  promote separately the audio or video components of any YouTube audiovisual content made available as part of, or in connection with, the [YouTube API Services](#definition-youtube-api-services);
-    
 9.  create, include, or promote features that play content, including audio or video components, from a background player, meaning a player that is not displayed in the page, tab, or screen that the user is viewing;
-    
 10.  adversely affect the functionality or performance of any aspect of [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), or [Google Applications](#definition-google-applications), including actions that interfere with or disrupt [YouTube API Services](#definition-youtube-api-services) or the servers or networks that provide those Services;
-     
 11.  confuse, deceive, defraud, mislead, misrepresent, defame, abuse, stalk, threaten, spam, surprise, or harass anyone;
-     
 12.  introduce, or attempt to introduce, any viruses, worms, defects, Trojan horses, malware, spyware, adware, or other items of a destructive nature to [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), [Google Applications](#definition-google-applications), or YouTube users and the devices they use to access those services and properties;
-     
 13.  circumvent, interfere with, or render ineffective, any geographical restrictions, including IP address-based restrictions imposed by YouTube or [YouTube API Services](#definition-youtube-api-services);
-     
 14.  use any technology other than [YouTube API Services](#definition-youtube-api-services) to access or retrieve [API Data](#definition-api-data), including to access any portion of any YouTube audiovisual content;
-     
 15.  offer an API service that allows users to access any data or functionality directly or indirectly provided by the [YouTube API Services](#definition-youtube-api-services);
-     
 16.  modify, translate, create derivative works of, reverse engineer or otherwise attempt to extract the underlying source code from any [YouTube API Services](#definition-youtube-api-services) or from any software related to those Services;
-     
 17.  use [YouTube API Services](#definition-youtube-api-services) for any purpose or activity where the use or failure of those Services could lead to death, personal injury, or environmental damage, such as in the operation of nuclear facilities, air traffic control systems, or life support systems;
-     
 18.  infringe copyrights or exploit copyright-infringing materials;
-     
 19.  engage in, promote or facilitate unlawful online gambling;
-     
 20.  create, display, promote or facilitate disruptive commercial messages or advertisements; or
-     
 21.  situate the YouTube player in a nested or hierarchical iframe lineage to circumvent YouTube policies or otherwise obfuscate the source of use.
-     
 
 ### J. Child-Directed API Clients
 
@@ -486,28 +461,28 @@ If you are aware of anyone accessing or using [YouTube API Services](#definition
 
 ### L. Additional policies on derived metrics and data storage
 
-These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics and/or store statistical data through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
+These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics, store statistical data, or both, through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
 
 IV. Definitions
 ---------------
 
-"**Agreement**" means the legal documents defined and referenced in Section 2 (The Agreement) of the YouTube API Services [Terms of Service](#definition-terms-of-service) currently located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
+"**Agreement**" means the legal documents defined and referenced in Section 2 (The Agreement) of the YouTube API Services [Terms of Service](#definition-terms-of-service) located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
 
 "**API Client**" means a website or software application (including a mobile application) developed by you that accesses or uses the [YouTube API Services](#definition-youtube-api-services).
 
-"**API Credentials**" means the credentials assigned by YouTube or Google via the Google Developer Console that each [API Project](#definition-api-project) authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
+"**API Credentials**" means the credentials assigned by YouTube or Google through the Google Developer Console that each [API Project](#definition-api-project) authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
 
 "**API Data**" is defined within the definition of "[YouTube API Services](#definition-youtube-api-services)" later in this Definitions section.
 
 "**API Project**" means the project created in the Google Developer Console that is required for API Client(s) to access and use the [YouTube API Services](#definition-youtube-api-services).
 
-"**Authorized Data**" means [API Data](#definition-api-data) that an active user expressly authorizes an [API Client](#definition-api-client) to access or otherwise use via [User Credentials](#definition-user-credentials).
+"**Authorized Data**" means [API Data](#definition-api-data) that an active user expressly authorizes an [API Client](#definition-api-client) to access or otherwise use through [User Credentials](#definition-user-credentials).
 
 "**Google Applications**" means Google websites, applications, services, products, pages, and other properties.
 
 "**Non-Authorized Data**" means [API Data](#definition-api-data) accessible by an [API Client](#definition-api-client) without [User Credentials](#definition-user-credentials).
 
-"**Terms of Service**" means the YouTube API Services Terms of Service currently located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
+"**Terms of Service**" means the YouTube API Services Terms of Service located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
 
 "**User Credentials**" means the credentials issued to users that users can authenticate with to permit API Client(s) to perform operations on their behalf that require authorization.
 
