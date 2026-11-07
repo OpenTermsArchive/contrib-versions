@@ -1,7 +1,7 @@
-![](https://www.vr.fi/_next/static/media/header-background.0ewmgxao9-3nt.svg?dpl=9a8fb04)
-
 Terms and conditions
 ====================
+
+![](https://images.ctfassets.net/gshi3wijcp49/header-background-pattern/c6c5633a5a0c9d9e898efb537562c3b3/header-background.svg?w=1920)
 
 ### VR’s terms and conditions
 
@@ -34,6 +34,8 @@ These Terms and Conditions determine the rights and obligations of VR and its cu
 For additional information on Helsinki Region Transport (HSL) tickets, contact HSL or go to HSL’s website. Travelling with Interrail and Eurail Passes and various trip chain cooperation arrangements are subject to separate terms and conditions, which can be found on VR’s website.
 
 The terms and conditions enter into force on July 25 2024 and are valid until further notice. They will replace VR’s Conditions of Carriage that entered into force on April 19 2024. Rules related to car transport can be checked from the [car transport terms and conditions](https://www.vr.fi/en/terms-and-conditions#car-transport).
+
+![](https://images.ctfassets.net/gshi3wijcp49/584RhxeVsyViLuIL4UilnK/9b2d3e0450c7383cf4e927b1107a513e/icon-ticket-single-mobile.png?fm=webp&w=1920&q=75)
 
 1 Ticket
 --------
@@ -108,7 +110,7 @@ Lutakonaukio 7
 
 [www.paytrail.com﻿, Opens in a new tab](https://www.paytrail.com/en/)
 
-![](https://images.ctfassets.net/gshi3wijcp49/584RhxeVsyViLuIL4UilnK/9b2d3e0450c7383cf4e927b1107a513e/icon-ticket-single-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/q4ATeTIW3PuzkjJmM6Kuf/d0bf783c45f677fb394086c48b2a8851/icon-luggage-mobile.png?fm=webp&w=1920&q=75)
 
 2 Luggage, pets and children travelling alone
 ---------------------------------------------
@@ -145,7 +147,7 @@ Passenger shall take care of his or her pet during the entire journey. Pets cann
 
 Children travelling alone by train are under the responsibility of their parents. The conductor does not have an obligation to look after children during the journey.
 
-![](https://images.ctfassets.net/gshi3wijcp49/q4ATeTIW3PuzkjJmM6Kuf/d0bf783c45f677fb394086c48b2a8851/icon-luggage-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/5d5yVPjGCwgFx3z1JetcMm/3c2c8dd4cdf53e57e4e23c3210647e70/icon-disabled-services-mobile.png?fm=webp&w=1920&q=75)
 
 3 Disabled passengers
 ---------------------
@@ -156,7 +158,7 @@ An assistant of a disabled passenger may travel free of charge with the disabled
 
 For passengers travelling with a guide, assistant or hearing dog, VR recommends service carriages for travelling in long-distance trains. In VR’s commuter traffic, guide, assistant or hearing dogs can be taken in any passenger cabin. On night trains, this is possible only in pet cabins booked entirely for the passenger’s use and accessible sleeping cabins. A separate charge is not collected for guide, assistance or hearing dogs. 
 
-![](https://images.ctfassets.net/gshi3wijcp49/5d5yVPjGCwgFx3z1JetcMm/3c2c8dd4cdf53e57e4e23c3210647e70/icon-disabled-services-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/5JiPaLjCiVwZXksbGxcgNP/46611984ce55b0e6c750fff5fbbd86a1/icon-alert-lines-mobile.png?fm=webp&w=1920&q=75)
 
 4 Delays
 --------
@@ -215,7 +217,7 @@ VR is liable to compensate passenger for damage caused by a train’s delay, can
 
 To be relieved from liability to compensate, VR is required to prove that it has taken all reasonable measures to prevent the damage.
 
-![](https://images.ctfassets.net/gshi3wijcp49/5JiPaLjCiVwZXksbGxcgNP/46611984ce55b0e6c750fff5fbbd86a1/icon-alert-lines-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/5okBG7CBaAl3kOnQO9ewDn/038cf6f19549ef07b20cd33cd9e3424a/icon-info-lines-mobile.png?fm=webp&w=1920&q=75)
 
 5 General rules related to compen­sation, injuries and damage
 -------------------------------------------------------------
@@ -250,7 +252,7 @@ Applications are processed as quickly as possible, as a rule at the latest withi
 
 VR pays compensation to a bank account or as vouchers. Vouchers may be used to purchase services sold by VR.
 
-![](https://images.ctfassets.net/gshi3wijcp49/5okBG7CBaAl3kOnQO9ewDn/038cf6f19549ef07b20cd33cd9e3424a/icon-info-lines-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/5Iro66YINAIOxkVAtUqorK/415b260054a01c41fc1b07db17bd58d9/icon-scales-mobile.png?fm=webp&w=1920&q=75)
 
 6 Applicable legislation
 ------------------------
@@ -280,7 +282,7 @@ c. national legislation, when it can be applied or its application has been agre
 
 A consumer has the right to have a dispute concerning rail travel resolved by the Consumer Disputes Board. For further information, see [kuluttajariita.fi﻿, Opens in a new tab](https://www.kuluttajariita.fi/en/).
 
-![](https://images.ctfassets.net/gshi3wijcp49/5Iro66YINAIOxkVAtUqorK/415b260054a01c41fc1b07db17bd58d9/icon-scales-mobile.png?fm=webp&w=1920&q=75)
+![](https://images.ctfassets.net/gshi3wijcp49/3rgWnYB7XYfxqPgCVnUncE/77e507d27dac538a3cdb5df878450250/icon-car-mobile.png?fm=webp&w=1920&q=75)
 
 VR Car transport terms and conditions
 -------------------------------------
@@ -477,8 +479,6 @@ Responsibilities of the driver of the vehicle
     
 *   If the car is loaded in the outdoor area of the car-carrier wagon during the winter, the customer must check that there is no snow or ice in the engine compartment before starting the engine. If the customer fails to act in accordance with the above, VR will not cover any damage caused by snow or ice to the vehicle's engine at start-up.  
     
-
-![](https://images.ctfassets.net/gshi3wijcp49/3rgWnYB7XYfxqPgCVnUncE/77e507d27dac538a3cdb5df878450250/icon-car-mobile.png?fm=webp&w=1920&q=75)
 
 Terms and Conditions of Corporate Contracts
 -------------------------------------------
