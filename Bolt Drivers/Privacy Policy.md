@@ -7,7 +7,7 @@
 Global Privacy Notice for Drivers
 =================================
 
-[](https://bolt.eu/api/public-documents/download/1flb3XwDBOShQREHX-qj9Yrgl9D2qJbUvRNhCb7rrEyY/?sig=MjAyNi0wNi0yNVQxNDo0NDoyOC40NTda.792831d9f15ec4f3)
+[](https://bolt.eu/api/public-documents/download/1flb3XwDBOShQREHX-qj9Yrgl9D2qJbUvRNhCb7rrEyY/?sig=MjAyNi0wOC0xMFQwOTozODo1My45OTNa.6382bdc46b06ae91)
 
 Global Privacy Notice for Drivers
 
