@@ -63,7 +63,7 @@ Other languages:
 *   [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (39% translated)")
 *   [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (11% translated)")
 *   [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Kebijakan:Ketentuan Penggunaan (100% translated)")
-*   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Melayu Kedah (3% translated)")
+*   [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Melayu Sarawak (3% translated)")
 *   [Bân-lâm-gí (Tâi-lô)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan-latn-tailo "Tsìng-tshik:Sú-iōng tiâu-khuán (1% translated)")
 *   [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (3% translated)")
 *   [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Condicions d'ús (86% translated)")
