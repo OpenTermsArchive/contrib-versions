@@ -1,6 +1,6 @@
 #### [](#q-who-are-the-people-behind-telegram)Q: Who are the people behind Telegram?
 
-Telegram is supported by [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov) and his brother Nikolai. Pavel supports Telegram financially and ideologically while Nikolai's input is technological. To make Telegram possible, Nikolai developed a unique custom data protocol, which is open, secure and optimized for work with multiple data-centers. As a result, Telegram combines security, reliability and speed on any network.
+Telegram is supported by [Pavel Durov](https://en.wikipedia.org/wiki/Pavel_Durov) and his brother Nikolai. Pavel supports Telegram financially and ideologically while Nikolai developed MTProto, the unique custom data protocol used by Telegram, which is open, secure and optimized for work with multiple data-centers. As a result, Telegram combines security, reliability and speed on any network.
 
 > See also: [articles about Telegram](https://telegram.org/press)
 
