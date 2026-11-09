@@ -11,8 +11,6 @@ On this page, you will find information about the cookies used on the vr.fi webs
 
 [Read more about the settings](https://www.vr.fi/en/app-privacy-settings)
 
-![](https://images.ctfassets.net/gshi3wijcp49/1pR2RMZFUGpZ8llTIMpqNH/0a5ba8b4440984f7e112c93ff45c7d8f/icon-emotion-happy-mobile.png?fm=webp&w=1920&q=75)
-
 VR and cookie practices
 -----------------------
 
