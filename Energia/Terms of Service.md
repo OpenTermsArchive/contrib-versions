@@ -1,7 +1,3 @@
-Notice
-
-Our website and online account services will be unavailable from Saturday 7 November to Sunday 8 November while we carry out essential maintenance. We apologise for any inconvenience.
-
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Terms & Conditions
