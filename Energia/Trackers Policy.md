@@ -1,7 +1,3 @@
-Notice
-
-Our website and online account services will be unavailable from Saturday 7 November to Sunday 8 November while we carry out essential maintenance. We apologise for any inconvenience.
-
    
 
 Energia Cookie Policy
