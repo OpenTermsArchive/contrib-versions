@@ -128,7 +128,7 @@ Provided that the required conditions for Member status are met, HAPPN shall ass
 
 A Member may only have one Account.
 
-As part of the fight against fraud and to ensure the security of Members, HAPPN reserves the right, with your consent, to capture a facial image or to verify an identity document at the stage of Member registration or during the use of the Service. This verification is carried out באמצעות facial captures from which biometric data will be generated, or by means of an identity document.
+As part of the fight against fraud and to ensure the security of Members, HAPPN reserves the right, with your consent, to capture a facial image or to verify an identity document at the stage of Member registration or during the use of the Service. This verification is carried out by means of facial captures from which biometric data will be generated, or by means of an identity document.
 
 Furthermore, in certain countries where required by law, HAPPN carries out age verification using an identity document or another legally accepted proof of majority.
 
