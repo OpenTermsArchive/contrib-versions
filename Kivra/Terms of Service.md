@@ -3,10 +3,9 @@ General Terms and Conditions for the Service
 
 ================================================
 
-**Effective from 2026-04-11 and until further notice.**  
-  
+**These general terms and conditions apply from 2026-12-10.**
 
-_Kivra updates the terms and conditions and removes shared folder functionality._
+_– Kivra is updating its terms and conditions, adding a section on bank connections (see section 2.16 below), and making minor editorial updates for greater clarity._
 
 1\. General
 -----------
@@ -22,7 +21,7 @@ By choosing to register to use the Service, you also agree to follow these gener
 
 You register for the Service by applying for an account with Kivra through any of the registration options that Kivra offers from time to time.
 
-All individuals with a Swedish personal identification number and e-identification supported by Kivra can apply for an account registration with Kivra. Your application for account registration will be approved by Kivra provided that you are at least 18 years old or if your registration can be done in a manner approved by your parent/guardian.
+All individuals with a Swedish personal identification number and e-identification supported by Kivra can apply for an account registration with Kivra. Your application for account registration will be approved by Kivra provided that you are at least 18 years old or if your registration can be done in a manner approved by your caregiver.
 
 If you have a sole proprietorship, you will also receive electronic correspondences (see definition under section 2.3 below) to your sole proprietorship in your digital mailbox. The reason is that the organization number in these cases is the same as your personal identification number.
 
@@ -36,9 +35,11 @@ Access to the Service is provided through any of the access options that Kivra i
 
 The Service means that Kivra, after approved registration of your account, among other things, receives digital messages and dispatches including invoices and digital receipts ("Electronic Correspondences") to your digital mailbox from companies, organizations, authorities, municipalities, and others who have chosen to join Kivra ("Senders").
 
-To be able to receive Electronic Correspondences from authorities and municipalities, you must also register as a user of the service Mina Meddelanden, see the description of the terms at \[digg.se\](https://www.digg.se/). By being connected to Mina Meddelanden, you agree to receive Electronic Correspondences from authorities and municipalities that are connected to or will connect to Mina Meddelanden.
+To be able to receive Electronic Correspondences from authorities and municipalities, you must also register as a user of the service Mina Meddelanden, see the description of the terms at [digg.se](https://www.digg.se/). By being connected to Mina Meddelanden, you agree to receive Electronic Correspondences from authorities and municipalities that are connected to or will connect to Mina Meddelanden.
 
-Kivra continuously informs Senders that you wish to receive Electronic Correspondences in your digital mailbox. You can at any time choose not to receive Electronic Correspondences from one or more Senders via settings in the Service. You can also choose not to receive digital receipts in your digital mailbox via settings in the Service. After such a notification, you may continue to receive Electronic Correspondences from the concerned Sender for up to ten (10) days and digital receipts for up to three (3) days.
+Kivra continuously informs Senders that you wish to receive Electronic Correspondences in your digital mailbox. You can at any time choose not to receive Electronic Correspondences from one or more Senders via settings in the Service. Once you have made such a choice, you may continue to receive e-shipments from the relevant sender for a maximum of ten (10) days. In certain cases, on behalf of a Sender and in connection with the Sender implementing a change to their customer communications, Kivra may deactivate the Sender within your digital mailbox for specific types of electronic communications.
+
+You can choose not to receive digital receipts in your digital mailbox via settings in the Service. Once you have made such a choice, you may continue to receive digital receipts from the relevant Sender for a maximum of three (3) days.
 
 2.4 Registered Letters
 
@@ -76,7 +77,7 @@ In the Service, you may choose to translate Content into different languages. Yo
 
 2.11 AI Features
 
-In the Service, You may choose to process Content using AI, for example by summarizing or extracting information from the Content (“AI Features”). You are responsible for ensuring that Content that You choose to process using the AI ​​Feature may be processed in this manner and that it does not violate any law or infringe upon the rights of third parties. Kivra is not responsible for the accuracy or completeness of the results produced by the AI ​​Feature. AI Features are only available to Users who are 18 years of age or older.
+In the Service, You may choose to process Content using AI, for example by summarizing or extracting information from the Content (“AI Features”). You are responsible for ensuring that Content that You choose to process using the AI ​​Features may be processed in this manner and that it does not violate any law or infringe upon the rights of third parties. Kivra is not responsible for the accuracy or completeness of the results produced by the AI ​​Features. AI Features are only available to Users who are 18 years of age or older.
 
 2.12 Authorization
 
@@ -84,7 +85,7 @@ Within the framework of the Service, you can choose to share your digital mailbo
 
 Digital receipts are not covered by the possibility to share your digital mailbox. However, you can manage your digital receipts according to the functionality that is offered in the Service from time to time. Among other things, you can choose to forward digital receipts to one or more systems, for example, for expense management.
 
-Folders are also not covered by the possibility to share your digital mailbox. Instead, you can give other users access to Content by creating shared folders.
+Folders are also not covered by the possibility to share your digital mailbox.
 
 2.13 Kivra's communication with you
 
@@ -104,7 +105,15 @@ Content and your account history are stored for as long as you have an approved 
 
 During this time, you are responsible for which Content you choose to delete. Digital receipts, however, are automatically deleted after eight (8) years unless you choose an extended storage period. The Content that is deleted will no longer be available to you.
 
-Upon suspension or termination of the Service according to section 11 below, all Content, as well as your account history stored within the framework of the Service, will be deleted after twenty (20) days.
+Upon suspension or termination of the Service according to section 11 below, all Content, as well as your account history stored within the framework of the Service, will be deleted after twenty (20) days with the exception of invoices stored on behalf of the bank in accordance with section 2.16.
+
+2.16 Bank Connections
+
+Within the Service, you may choose to connect your digital mailbox to your bank (“**Bank Connection**”). New invoices that you receive in the Service are then automatically shared with the bank, allowing you to pay them there. The Service indicates which invoices are shared.
+
+The bank determines whether you are eligible to use a Bank Connection. The bank is responsible for how invoices are handled after they have been shared and for ensuring that payments are executed in accordance with the bank’s terms and conditions. Kivra stores shared invoices on behalf of the bank for up to eighteen (18) months, even if you close your account with Kivra.
+
+You may disable a Bank Connection within the Service at any time. Invoices that have already been shared will remain with the bank.
 
 3\. Additional Services
 -----------------------
@@ -128,17 +137,17 @@ Beta Services may contain errors, deficiencies or incompleteness, and functional
 
 Kivra may terminate a Beta Service at any time by launching it as a regular service, or by completely withdrawing the Beta Service.
 
-You may terminate Your use of a Beta Service at any time by exiting the beta program on the platform (Google Play or Apple TestFlight) that You use. This does not affect Your use of regular Services under the Agreement.
+You may terminate Your use of a Beta Service at any time by exiting the beta program on the platform (Google Play or Apple TestFlight) that You use. This does not affect your use of the Service in other respects under the Agreement.
 
 5\. Changes in the Service
 --------------------------
 
-Kivra has the right to make changes to the Service and the functions that can be used via the Service at any time. The scope and design of the functions available through the Service may vary over time. Kivra reserves the right to continuously develop, expand, limit, or otherwise change the design, technical features, systems, technical conditions for access to the Service, and other components, as well as the conditions for these.
+Kivra has the right to make changes to the Service at any time. The features available through the Service may vary in scope and design over time. Kivra reserves the right to continuously develop, expand, limit, or otherwise modify the design, technical features, systems, and technical requirements for accessing the Service—as well as other components of the Service and the terms and conditions applicable to them.
 
 6\. Access to the Service
 -------------------------
 
-The Service is normally available 24 hours a day, seven (7) days a week, year-round. However, Kivra does not guarantee and is not responsible for the Service being free from errors, delays, and/or interruptions. Kivra reserves the right to temporarily interrupt the provision of the Service for service purposes, e.g., bug fixes, maintenance, and upgrades.
+The Service is normally available twenty four (24) hours a day, seven (7) days a week, year-round. However, Kivra does not guarantee and is not responsible for the Service being free from errors, delays, and/or interruptions. Kivra reserves the right to temporarily interrupt the provision of the Service for service purposes, e.g., bug fixes, maintenance, and upgrades.
 
 7\. Your responsibility for access to the Service, etc.
 -------------------------------------------------------
@@ -150,7 +159,7 @@ that can be used for access to the Service are stored in a secure manner and are
 8\. Your responsibility for using the Service
 ---------------------------------------------
 
-You are responsible for activities conducted by you and any other users to whom you have given read and/or management rights. You are thus responsible, among other things, for any transfer of information and Content conducted by you within the framework of the Service.
+You are responsible for activities conducted by you and any other users to whom you have given read and management rights. You are thus responsible, among other things, for any transfer of information and Content conducted by you within the framework of the Service.
 
 You are responsible for ensuring that the Content you save in the Service does not violate applicable legislation.
 
@@ -161,7 +170,7 @@ If Kivra suspects that you are using the Service in violation of this section, K
 9\. Processing of personal data
 -------------------------------
 
-You are the data controller for all storage and any other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/en/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
+You are the data controller for all storage and other processing of personal data in the Service. Kivra is your data processor for these processing activities, and the relationship is regulated in the [data processing agreement](https://kivra.se/en/about-kivra/terms/dpa) ("Data Processing Agreement") which is part of the Agreement.
 
 Kivra also processes your personal data in the role of data controller. If you want to know how Kivra processes your personal data when you use the Service, read more about this in our [Privace Notice](https://kivra.se/en/private/privacy-notice/).
 
@@ -195,11 +204,11 @@ Kivra is exempt from liability for damages or other responsibilities if damage o
 
 13.1 Your rights
 
-You have the right to terminate the Agreement or an Additional Service at any time by notifying Kivra that you wish to deregister your account or terminate the Additional Service.
+You have the right to terminate the Agreement or an Additional Service. You can do this yourself when logged in, or by contacting Kivra.
 
 The notice period is twenty (20) days. During the notice period, you can continue to use the Service, and Senders can continue to send Electronic Correspondences to you during the first ten (10) days. You also have the opportunity to reactivate the Service during the notice period.
 
-After the notice period, the Service is terminated, and your account is deleted in accordance with section 2.11.
+After the notice period, the Service is terminated, and your account is deleted in accordance with section 2.15.
 
 You may also choose to pause your account by contacting Kivra. While the account is paused, any mailings from Senders will be sent as physical items. However, after the account is paused, you may continue to receive Emails for a maximum of ten (10) days. It is not possible to pause incoming Emails sent through My Messages. You reactivate your account by logging into the Service or by contacting Kivra.
 
@@ -207,11 +216,9 @@ You may also choose to pause your account by contacting Kivra. While the account
 
 Kivra has the right, through written notification to you, to fully or partially terminate the Service for you and terminate the Agreement with immediate effect if you breach your obligations under the Agreement or against legislation, governmental decisions, or provided instructions.
 
-Kivra also has the right, through written notification to you, to fully or partially
+Kivra also has the right, through written notification to you, to fully or partially terminate the Service for you and terminate the Agreement with a three (3) month notice period.
 
-terminate the Service for you and terminate the Agreement with a three (3) month notice period.
-
-Kivra also has the right to fully or partially terminate the Service for you and terminate the Agreement without observing the notice period if you have not used the Service for a period of one (1) year or if the registration of an account has not been completed within two (2) weeks.
+Kivra also has the right to fully or partially terminate the Service for you and terminate the Agreement without observing the notice period if you have not used the Service for a period of one (1) year. Kivra also has the right to cancel an account registration process that has not been completed within two (2) weeks.
 
 13.3 Death
 
@@ -227,21 +234,32 @@ Kivra shall observe confidentiality regarding Content handled via the Service an
 
 All rights, including but not limited to all intellectual property rights, to the Service including the technical solution and any content therein provided by Kivra, belong to Kivra or its right holders and are protected by law.
 
-16\. Changes to terms
+16\. Software in the Kivra app
+------------------------------
+
+The Kivra app contains software that Kivra has licensed from other companies. This software belongs to those companies and does not become yours when you use the Service.
+
+You may use the app and the software contained within it for your own personal use.
+
+You may not copy, modify, distribute, sell, rent out, or lend the app or the software contained within it. Furthermore, you may not attempt to discover the structure of the software—for example, by disassembling, deriving, or reconstructing the code—nor may you remove or conceal information regarding the ownership of the rights. This applies except to the extent otherwise provided by mandatory law.
+
+Your agreement is with Kivra. If something goes wrong with the Service, you should contact Kivra. Provisions regarding liability and limitations of liability are set out in section 11 above.
+
+17\. Changes to terms
 ---------------------
 
 Kivra reserves the right to change and/or add to these general terms and conditions and/or the specific conditions for Additional Services at any time. Changes to the terms will be communicated to you in the manner decided by Kivra at least thirty (30) days before the change takes effect. However, Kivra always has the right to immediately make such changes and additions that are necessitated by law, regulation, or governmental decision. If you do not accept changes and additions, you always have the right to terminate the Agreement according to section 11 above.
 
-17\. Assignment and subcontractors
+18\. Assignment and subcontractors
 ----------------------------------
 
 You may not assign this Agreement, or your rights and obligations under this Agreement, without prior written consent from Kivra.
 
 Kivra has the right to assign this Agreement, or its rights and obligations under this Agreement, to a company within the same group as Kivra without your consent.
 
-Kivra has the right to engage subcontractors for the fulfillment of its obligations under the Agreement. Kivra is in such cases fully responsible for the subcontractor's fulfillment of its obligations.
+Kivra has the right to engage subcontractors for the fulfillment of its obligations under the Agreement. Kivra is in such cases fully responsible that subcontractors fulfill their obligations.
 
-18\. Choice of law and dispute resolution
+19\. Choice of law and dispute resolution
 -----------------------------------------
 
 The Agreement is governed by Swedish law. In the event of a dispute regarding the interpretation or application of the Agreement, you and Kivra shall primarily attempt to reach an agreement.
@@ -265,11 +283,12 @@ Otherwise, the dispute shall be settled by a general court.
 *   [13\. Suspension and termination of the Service](#12)
 *   [14\. Confidentiality](#13)
 *   [15\. Intellectual property rights](#14)
-*   [16\. Changes to terms](#15)
-*   [17\. Assignment and subcontractors](#16)
-*   [18\. Choice of law and dispute resolution](#17)
+*   [16\. Software in the Kivra app](#15)
+*   [17\. Changes to terms](#16)
+*   [18\. Assignment and subcontractors](#17)
+*   [19\. Choice of law and dispute resolution](#18)
 
-1\. General2\. The Service3\. Additional Services4\. Beta Services5\. Changes in the Service6\. Access to the Service7\. Your responsibility for access to the Service, etc.8\. Your responsibility for using the Service9\. Processing of personal data10\. Accessibility11\. Liability and limitations of liability12\. Force majeure13\. Suspension and termination of the Service14\. Confidentiality15\. Intellectual property rights16\. Changes to terms17\. Assignment and subcontractors18\. Choice of law and dispute resolution
+1\. General2\. The Service3\. Additional Services4\. Beta Services5\. Changes in the Service6\. Access to the Service7\. Your responsibility for access to the Service, etc.8\. Your responsibility for using the Service9\. Processing of personal data10\. Accessibility11\. Liability and limitations of liability12\. Force majeure13\. Suspension and termination of the Service14\. Confidentiality15\. Intellectual property rights16\. Software in the Kivra app17\. Changes to terms18\. Assignment and subcontractors19\. Choice of law and dispute resolution
 
 [](#nav)
 
@@ -278,7 +297,7 @@ Older versions
 
 ------------------
 
-*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/2FwU5zGHkg85x0f5j7w0F8/db69a8f0ee3e687158bbadee62d961ce/307faf0d-df9c-4a70-b810-316486b80ec7.pdf) Gällde fr.o.m 2026-04-11 t.om. 2026-09-28
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/751k78QJwDUHALFRY8tEqb/8ea9842ef14ebda950cd0fecc629cd51/2026-04-11_-_2026-09-27_.pdf) Gällde fr.o.m 2026-04-11 t.om. 2026-09-28
     
 *   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/55NmkXUmGLITjmFnnxAP5l/44474346f23054beb699ca0c687034ee/2026-01-16_-_2026-04-10.pdf) Gällde fr.o.m 2025-01-16 t.om. 2026-04-10
     
