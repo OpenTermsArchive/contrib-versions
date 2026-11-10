@@ -751,7 +751,9 @@ Newsletter competition terms and conditions
   
 [View the Future Homes Competition Terms & Conditions](https://www.energia.ie/getmedia/41dbba6d-33ed-44ae-a97a-88a0ee13e666/Future-Homes-Competition-Terms-and-Conditions-final.pdf)  
   
-[View the Energia Ireland v Fiji Mascot Competition Terms and Conditions](https://www.energia.ie/getmedia/e8d99767-baa0-40f7-9766-beadedb046ec/Ireland-vs-Fiji-Mascot-Comp-Terms-and-Conditions-2026.pdf)
+[View the Energia Ireland v Fiji Mascot Competition Terms and Conditions](https://www.energia.ie/getmedia/e8d99767-baa0-40f7-9766-beadedb046ec/Ireland-vs-Fiji-Mascot-Comp-Terms-and-Conditions-2026.pdf)  
+  
+[View the Energia Win a Signed Jersey Competition Terms and Conditions](https://www.energia.ie/getmedia/5f12bfc8-5a3b-4985-9cbb-fd2525e6c0f8/Nov-2026-Energia-Rugby-Win-a-signed-Jersey-competition.pdf)
 
 ### 
 
