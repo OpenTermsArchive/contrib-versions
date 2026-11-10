@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Updated on: **11/05/2026**
+Updated on: **09/11/2026**
 
 **Definitions**
 ---------------
@@ -51,6 +51,8 @@ If the photo of the Member’s face is not placed in first position, it will be 
 **Subscriber Member**: member who has subscribed to HAPPN Premium or HAPPN Supreme.
 
 **Account**: The Member’s dedicated personal area within the Application, which he or she accesses when he or she registers and connects to the Application. It enables the Member to access the Services. A Member may only have one Account.
+
+**Restoration**: a feature available through the Application that enables a Member, under the conditions set out in these TOS, to link a valid HAPPN subscription, taken out using the same App Store or Play Store account, to an Account.
 
 **CrushTime**: An optional game, offered by HAPPN via a notification to the Member. For each hand, guess which person Liked you from a board of four profiles by sending him or her a Like in return.
 
@@ -113,7 +115,7 @@ Any challenge or dispute related to the formation, interpretation, performance o
 **4.1 Application Download Options**
 ------------------------------------
 
-The Application is available on the Apple and Google official download platforms and via la HAPPN Webapp, which is free to access at this address: [https://app.happn.com](https://app.happn.com/) . It can be downloaded free-of-charge from the Apple App Store and the Google Play Store, on iPhones running version iOS 10 or higher, and Android Smartphones running version 5 or higher.
+The Application is available on the Apple and Google official download platforms and via la HAPPN Webapp, which is free to access at this address: [https://app.happn.com](https://app.happn.com/) . It can be downloaded free-of-charge from the Apple App Store and the Google Play Store, on iPhones running version iOS 17.5 or higher, and Android Smartphones running version 8 (sdk26) or higher.
 
 **4.2 Member’s Rights when Registering**
 ----------------------------------------
@@ -513,6 +515,39 @@ In the event of breach of the TOS or a legal provision by the Member, HAPPN has 
 
 In all cases, no reimbursement will be made if the Member is a HAPPN subscriber or has purchased Packs (of SuperCrushs and/or Boosts).
 
+**9.8 Restoration of Subscriptions**
+------------------------------------
+
+A HAPPN subscription is linked to the Account through which it was taken out (the “Original Account”). In accordance with Articles 4.2 and 8.1 of these TOS, a Member may only have one Account.
+
+Restoration enables a Member who has deleted his or her Original Account in accordance with Article 14.3 of these TOS to continue to benefit, on a new Account, from the subscription he or she has paid for, for the remainder of its term, excluding any benefits associated with taking out the subscription that have already been received or used.
+
+Restoration of a subscription to a new Account is only possible if all of the following conditions are met:
+
+• the subscription is valid on the date of Restoration;
+
+• the Original Account has been deleted by the Member in accordance with Article 14.3 of these TOS;
+
+• the Original Account has not been terminated by HAPPN pursuant to Article 14.4 of these TOS;
+
+• the same subscription has not already been subject to Restoration within the preceding twenty-four (24) hours.
+
+Consequently, Restoration will be refused in the following cases:
+
+• if the above conditions are not met;
+
+• if the Original Account still exists and provides access to the relevant subscription; the Member must therefore continue to use his or her Original Account;
+
+• if the Original Account still exists but no longer provides access to the relevant subscription; a Member wishing to use that subscription on a new Account must first delete his or her Original Account in accordance with Article 14.3 of these TOS;
+
+For the purposes of this Article, the Original Account is deemed to still exist if it is active, deactivated under Article 14.1, or suspended under Article 14.4 of these TOS.
+
+Restoration enables the Member to benefit from the Services associated with the subscription taken out through the Original Account on his or her new Account for the remainder of the subscription term. Restoration does not extend the subscription term. It does not result in any new allocation of benefits associated with taking out the subscription. SuperCrushs and Boosts credited to the Original Account are not covered by Restoration and are therefore permanently lost.
+
+If Restoration is refused, HAPPN will inform the Member through the Application.
+
+If HAPPN detects any circumvention or attempted circumvention of the Restoration rules, HAPPN may apply Article 14.4 of these TOS.
+
 **Article 10: Scope of the Offer**
 ==================================
 
@@ -651,7 +686,9 @@ Once the Account has been deleted:
 
 • The remaining SuperCrushs or Boosts in the Member’s Account on the day the Account is deleted shall be definitively lost without the possibility to claim any reimbursement.
 
-The Member cannot reactivate his or her old Account.
+• The Member cannot reactivate his or her old Account.
+
+• A Member who has deleted his or her Account while one or more subscriptions remain active may restore those subscriptions to a new Account in accordance with Article 9.8 of these TOS.
 
 **14.4 Suspension/Termination of the Account by HAPPN in case of breach of TOS**
 --------------------------------------------------------------------------------
@@ -679,6 +716,10 @@ Upon Termination of the Account:
 • The Member’s profile will be made invisible to other Members;
 
 • The remaining SuperCrushs or Boosts, in the Member’s Account on the day the Account is terminated shall be definitively deleted without the possibility to claim any reimbursement.
+
+• The Member will not be able to create another account for a maximum 2-years period from the notification of the Account termination.
+
+• Any subscription associated with the terminated Account cannot be restored to a new Account, in accordance with Article 9.8 of these TOS.
 
 **14.5 Termination of Inactive Accounts by HAPPN**
 --------------------------------------------------
