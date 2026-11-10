@@ -1,7 +1,7 @@
 Alexa Terms of Use
 ==================
 
-**Last Updated:  December 17, 2025**
+##### Last Updated: October 28th, 2026
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, “Amazon,” “we,” “us,” or “our”). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), the [Alexa and Amazon Devices Acceptable Use Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=TTFAPMmEqemeDWZaWf), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this “Agreement”). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
@@ -11,7 +11,9 @@ For the purpose of these Alexa Terms of Use:
 
 “Alexa App” means the app or website provided by Amazon that provides access to Alexa, Alexa’s settings, Alexa-related content, and other information.
 
-“Alexa Enabled Product” means any product or application that enables access to Alexa, such as Amazon Echo devices and the Alexa App.
+“Alexa Enabled Product” means any product or application that enables access to Alexa, such as Amazon Echo devices, the Alexa App, and the Alexa Home Map App.
+
+"Alexa Home Map App” means the app provided by Amazon that provides access to the Alexa Home Map.
 
 “Alexa Interactions” means all information related to your use of Alexa and Alexa Enabled Products, including your voice and other inputs, responses provided to you through Alexa, sensory data from your Alexa Enabled Products, information we receive in connection with Third-Party Services and Auxiliary Products you use, and information and content you provide or receive through the Alexa App.
 
@@ -101,10 +103,14 @@ You will need a current, valid payment method to sign up and pay for an Alexa Su
 
 If all payment methods we have on record for you are declined for the payment of the applicable subscription fees, your Alexa Subscription will be canceled unless you provide us with a new payment method. If you provide us with a new payment method and are successfully charged before your Alexa Subscription is canceled, your new subscription period will be based on the original renewal date and not the date of the successful charge.
 
+If you signed up for your Alexa Subscription through a third party and are not billed directly by us, then the billing terms provided by the third party will apply to your Alexa Subscription.
+
 **S-2.2 Free Trials.** We may offer a free trial to certain Alexa Subscriptions to eligible customers from time to time. We may consider your subscription history when determining whether you’re eligible for a free trial for an Alexa Subscription. At the end of your free trial period, your subscription will be automatically converted to the applicable paid subscription plan. If you don’t want to convert to a paid recurring subscription, you must cancel or turn off auto-renewal for that Alexa Subscription during the free trial period.
 
 **S-2.3 Subscription Cancellation.** You may cancel an Alexa Subscription by calling Amazon Customer Service at any time. You can also manage or cancel Alexa Subscriptions from within [Your Memberships and Subscriptions](https://www.amazon.com/yms). You must individually manage or cancel each Alexa Subscription. Unless we indicate otherwise, any cancellation will be effective as of the end of your then current subscription period and you will not receive a refund of any fees already paid.
 
-**S-2.4 Termination.** We (and, for any Alexa Subscription to a Third-Party Service, the operator of that service) may terminate any Alexa Subscriptions at our discretion without notice. If we do so, we will give you a prorated refund based on the number days remaining in your subscription. However, we will not give any refund for termination related to conduct that we determine, in our discretion, violates this Agreement or any applicable law, involves fraud or misuse of the subscription, or is harmful to our interests or another user. Our failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of our rights.
+If you signed up for an Alexa Subscription through a third party, you may need to contact the third party to cancel your Alexa Subscription or receive any refund under its applicable policies.
+
+**S-2.4 Termination.** We (and, for any Alexa Subscription to a Third-Party Service, the operator of that service) may terminate any Alexa Subscriptions at our discretion without notice. If we do so, we will give you a prorated refund based on the number of days remaining in your subscription. However, we will not give any refund for termination related to conduct that we determine, in our discretion, violates this Agreement or any applicable law, involves fraud or misuse of the subscription, or is harmful to our interests or another user. Our failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of our rights.
 
 **S-2.5 Additional Terms.** For any Alexa Subscription to another Amazon service (such as Amazon Music Unlimited), please see the terms of use for that service for additional terms that apply to your subscription. In the event of a conflict between this Agreement and the terms of use for another Amazon service, the terms of use for the other service will control with respect to that service.
