@@ -49,7 +49,7 @@ Terms provided in the Addenda shall supersede these General Terms and Conditions
 **Changes to the Terms of Service**
 -----------------------------------
 
-We may update these Terms of Service from time to time. When we do this, we will post the updated Terms of Service on this page, add the date of the last update on the top of this page, and record the change in our Trust Center at [https://trust.dune.com](https://trust.dune.com/). You understand and agree that your continued use of any Service after we have made any such changes constitutes your acceptance of the new Terms of Service.
+We may update these Terms of Service from time to time. When we do this, we will post the updated Terms of Service on this page, add the date of the last update on the top of this page, and record the change in our Trust Center at [Trust center](https://trust.dune.com/). You understand and agree that your continued use of any Service after we have made any such changes constitutes your acceptance of the new Terms of Service.
 
 **License to use Dune and the Services**
 ----------------------------------------
