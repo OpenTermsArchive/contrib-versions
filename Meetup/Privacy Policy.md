@@ -1,19 +1,19 @@
 Privacy Policy
 ==============
 
-We’ve written this privacy policy (“**Privacy Policy**”) to meet Regulation (EU) 2016/679 – General Data Protection Regulation (“**GDPR**”), the Italian Legislative Decree 196/2003, and other applicable local laws, as amended or replaced (collectively, “**Applicable Privacy Laws”).** This Privacy Policy regulates the use of **Meetup** ([https://meetup.com/](https://meetup.com/)), including its website, app and related services (collectively, the “**Platform**”). 
+We’ve written this privacy policy (“**Privacy Policy**”) to meet Regulation (EU) 2016/679 – General Data Protection Regulation (“**GDPR**”), the Italian Legislative Decree 196/2003, the UK General Data Protection Regulation (“UK GDPR”), the UK Data Protection Act 2018, the UK Privacy and Electronic Communications Regulations 2003 (“PECR”), and other applicable local laws, as amended or replaced (collectively, “**Applicable Privacy Laws”).** This Privacy Policy regulates the use of **Meetup** ([https://meetup.com/](https://meetup.com/)), including its website, app and related services (collectively, the “**Platform**”). 
 
 This Privacy Policy applies to personal data that we collect from or about you, including when you use the Platform. It does not apply to personal data that you provide directly to, or that is otherwise independently processed by, third parties, including event organizers or other members or event attendees, where those third parties determine the purposes and means of the relevant processing. Any such processing is subject to the relevant third party’s own privacy notice.
 
-If you are a US resident, please see Section 11 ([Additional Information for US Residents](#h_01M3VK1A9ZK0MT6ZF2F6PHHYPE)) below.
+If you are a US resident, please see Section 10 (Additional Information for US Residents) below.
 
-### **1\. Data Controller and Data Protection Officer**
+**1\. Data Controller and Data Protection Officer**
 
 The Data Controller is Bending Spoons US Inc., based at 169 Madison Ave, Suite 11218, New York, NY 10016. 
 
 For any requests regarding how we process your personal data, you can email us at privacy@meetup.com or contact our Data Protection Officer (DPO) at dpo@bendingspoons.com.
 
-### **2\. Ty****pes of data, how data is used, and retention**
+**2\. Ty****pes of data, how data is used, and retention**
 
 Below, we list the personal data we process, what we use it for, and the legal basis for doing so, and how long we retain it. Be aware that not everything listed necessarily counts as "personal data" where you live, as this depends on local law.
 
@@ -36,7 +36,7 @@ We process your personal data to run the Platform, provide the services and feat
     
 *   Allow you to confirm your attendance at an event via SMS or WhatsApp and share your response with the event organizer, so they can manage the event and its attendees
     
-*   Create and operate event chats, automatically add confirmed attendees to the relevant event chat and allow participants to exchange messages and other content 
+*   Create and operate event chats, automatically add confirmed attendees to the relevant event chat and allow participants to exchange messages and other content
     
 
 **What data do we use?** The following data may be processed:
@@ -62,7 +62,10 @@ We process your personal data to run the Platform, provide the services and feat
 *   **Event participation and interaction information**, such as your RSVPs, attendance confirmations, participation in event chats and interactions with other event-related features
     
 
-In limited circumstances, the information you choose to make public through your profile, or your content (as identified in the list above) may reveal to others on the Platform information about you, including sensitive personal data, such as information concerning your health, religious or philosophical beliefs, political opinions or sexual orientation. You can make changes to what other users can see in your public profile by accessing the settings in [your account](https://www.meetup.com/account/).
+  
+ 
+
+In limited circumstances, the information you choose to make public through your profile, or your content (as identified in the list above) may reveal to others on the Platform information about you, including sensitive personal data, such as information concerning your health, religious or philosophical beliefs, political opinions or sexual orientation. Except where you have deliberately made such information public through your profile, we do not intentionally infer or use special-category data (such as data revealing health, religion, political opinions or sexual orientation) for personalization or advertising purposes. You can make changes to what other users can see in your public profile by accessing the settings in [your account](https://www.meetup.com/account/).
 
 **Why can we do this?** These activities are based on the **contract** we have with you (Article 6.1.b GDPR). Where you choose to make sensitive personal data manifestly public through your public profile or public content, we process that information in accordance with Article 9(2)(e) GDPR.
 
@@ -81,7 +84,7 @@ For example, we may:
     
 *   Collect and analyze feedback about your experience with the Platform
     
-*   Making our user acquisition campaigns more efficient
+*   Make our user acquisition campaigns more efficient
     
 
 **What data do we use?** The following categories of personal data may be processed:
@@ -99,9 +102,12 @@ For example, we may:
 *   **Inferences and insights**, such as preferences, interests and other information we derive from your profile, your use of the Platform and your interactions with its features
     
 
-**Why can we do this?** We process this data on the basis of our legitimate interest in understanding how members use the Platform and improving our products and services (Article 6(1)(f) GDPR). Some of these activities may involve profiling based on your use of and interactions with the Platform. You may object to this processing as explained in Section 8 (_Your Rights_).
+**Why can we do this?** We process this data on the basis of our legitimate interest in understanding how members use the Platform and improving our products and services (Article 6(1)(f) GDPR). Some of these activities may involve profiling based on your use of and interactions with the Platform. You may object to this processing as explained in Section 7 (_Your Rights_).
 
 **How long do we keep your data?**  We retain personal data processed for this purpose for a maximum of **three (3) years** from your most recent interaction with the Platform, or from the expiration of your subscription. If you access the Platform after your subscription has expired, the retention period starts from this most recent interaction. Upon the expiry of the retention period, unless any legal obligations require that the data is retained for longer, the data is either deleted or anonymized.
+
+  
+ 
 
 **c) Troubleshooting**
 
@@ -173,7 +179,7 @@ For example, we may:
 
 **Why can we do this?** These activities are based on our **legitimate interest** to improve and customize our services (Article 6.1.f GDPR).
 
-The activities carried out for Customize Experience involve the creation of profiles. You have the right to object to such profiling activities, as further described in Section 8 (_Your Rights_).
+The activities carried out for Customize Experience involve the creation of profiles. You have the right to object to such profiling activities, as further described in Section 7 (_Your Rights_).
 
 This processing activity may also be carried out through cookies and similar tracking technologies. As further described in Section 12 (_Cookies_), we will only use cookies and similar technologies in respect of applicable legal requirements.
 
@@ -196,9 +202,9 @@ We’ll send you push notifications only if you grant the relevant permission by
 *   **Inferences** we generate about your use of and experience with the Platform
     
 
-**Why can we do this?** These activities are based on your **consent** (Article 6.1.a GDPR). Without your explicit consent, we don't perform these activities. You can check and update the permissions you've granted any moment in the app’s privacy settings. When we use your email to send you information about products and services related to or similar to the app (“soft opt-in”), the legal basis is our **legitimate interest** (Article 6.1.f GDPR).
+**Why can we do this?** These activities are based on your **consent** (Article 6.1.a GDPR), except where the applicable rules allow us to send such communications without consent. Where the requirements of the applicable “soft opt-in” rules are met, we may use your email address to send you marketing communications about our own products or services that are similar to those you have purchased or discussed purchasing from us. In these circumstances, we rely on our **legitimate interest** in promoting our products and services (Article 6(1)(f) GDPR). You can opt out when we collect your email address and in every subsequent marketing email. You can withdraw your consent or object to direct marketing at any time, including through the unsubscribe link in our marketing emails or by contacting us at privacy@meetup.com.
 
-Some marketing activities involve profiling. For example, we may personalize the communications you receive based on your interests and how you use the Platform. You have the right to object to profiling for marketing purposes at any time. For more information, see Section 8 (_Your Rights_).
+Some marketing activities involve profiling. For example, we may personalize the communications you receive based on your interests and how you use the Platform. You have the right to object to profiling for marketing purposes at any time. For more information, see Section 7 (_Your Rights_).
 
 **How long do we keep your data?** We retain personal data used for this purpose for a maximum of **two (2) years** from your most recent interaction with the Platform, or from the expiration of your subscription. If you access the Platform after your subscription has expired, the retention period starts from this most recent interaction. Upon the expiry of the retention period, unless any legal obligations require that the data is retained for longer, the data is either deleted or anonymized.
 
@@ -221,9 +227,18 @@ We and our advertising partners may use cookies, SDKs, and similar technologies 
 *   Your **ad tracking choices** and consent to receive personalized ads (if granted)
     
 
-**Why can we do this?** Where required by applicable law, we rely on your consent to collect and use personal data through third-party tracking technologies for targeted advertising. In jurisdictions where consent is not required, we process such data as permitted by law and, where applicable, provide you with the right to opt out of this processing. For more information about the tracking technologies used on our Platform and the privacy choices available to you, please visit the _Your Privacy Choices_ link on our Platform. The available controls, including consent, opt-out and withdrawal mechanisms, may vary depending on your jurisdiction. For users residing in the U.S., please refer to the [Additional information for users residing in certain U.S. States for more information.](#h_01M3VK1A9ZK0MT6ZF2F6PHHYPE) 
+**Why can we do this?**
 
-**What is the applicable data retention policy?** For users in the EEA, the UK, and other jurisdictions where applicable, more information about the retention periods applicable to the tracking technologies used for this purpose is available through the _Your Privacy Choices_ link on our Platform. 
+*   **If you are located in the EEA or the UK**, we rely on your consent (Article 6(1)(a) GDPR / UK GDPR, and Article 5(3) ePrivacy Directive / regulation 6 PECR) to collect and use personal data through cookies, SDKs and similar technologies for targeted advertising, and to disclose your data to advertising partners for that purpose. You may withdraw your consent at any time through our cookie banner or the _Your Privacy Choices_ link on our Platform; withdrawal does not affect the lawfulness of processing carried out before withdrawal.
+    
+*   **If you are located in the United States, Mexico** or another jurisdiction where prior consent is not required, we process personal data for targeted advertising as permitted by applicable law and provide opt-out mechanisms (including recognized opt-out signals such as the Global Privacy Control) where required**.** The available controls, including consent, opt-out and withdrawal mechanisms, may vary depending on your jurisdiction. For users residing in the U.S., please refer to the Additional information for users residing in certain U.S. States for more information.
+    
+*   **Where consent is our legal basis, the resulting profiling is carried out under that same consent.**  
+    
+
+**Who do we share this data with?** For targeted advertising, your data may be disclosed to the following categories of recipients: advertising networks, demand-side platforms, measurement and attribution partners, and social media platforms for ad targeting. These partners act as **independent controllers** of the personal data they receive for their own purposes, and their processing is governed by their own privacy notices. 
+
+**What is the applicable data retention policy?** We retain advertising-related personal data for no longer than necessary for the purposes described in this section. Individual tracking technologies may have shorter maximum retention periods. For users in the EEA, the UK, and other jurisdictions where applicable, more information about the retention periods applicable to the tracking technologies used for this purpose is available through the _Your Privacy Choices_ link on our Platform. On expiry, data is deleted or anonymized unless we must retain it to comply with a legal obligation.  
 
 **h) Customer support**
 
@@ -273,7 +288,7 @@ Your personal data may be used to establish, exercise, or defend our rights and 
 
 **How long do we keep your data?** We retain personal data used for this purpose for a maximum of **ten (10) years** from your most recent interaction with the Platform, or from the expiration of your subscription. If you access the Platform after your subscription has expired, the retention period starts from this most recent interaction. Specific legal obligations might require different retention periods and, in such cases, those different periods will apply. Upon the expiry of the retention period, the data is either deleted or anonymized.
 
-### **4\. Your Choices With Regard to the Use of Your Personal Data**
+**3\. Your Choices With Regard to the Use of Your Personal Data**
 
 Where the provision of your personal data is necessary to enter into or perform our contract with you, the relevant data is required. If you do not provide it, we may be unable to create or manage your account or provide the relevant features of the Platform.
 
@@ -285,7 +300,7 @@ Where we rely on our legitimate interests, you have the right to object to the r
 
 You may freely decide whether to accept cookies and other tracking technologies that are not strictly necessary for the operation of the Platform, as explained in the “Cookies” section below.
 
-**4.1 Your Choices: Location** 
+**3.1 Your Choices: Location** 
 
 To help you discover groups and events near you, we may ask for permission to access your precise location when you use a feature that requires it.
 
@@ -295,29 +310,29 @@ If you disable access to your precise location, we may still estimate your appro
 
 For more information about managing location permissions, please refer to your device, operating system or browser settings.
 
-**4.2 Your Choices: Promotional Communications**
+**3.2 Your Choices: Promotional Communications**
 
 You can opt out of promotional communications at any time by updating your communication preferences in your account settings, using the unsubscribe link included in our marketing emails or, where applicable, adjusting your device notification settings.
 
-For more information about how we use your personal data for marketing purposes, please see Section f) above.
+For more information about how we use your personal data for marketing purposes, please see Section 2.f) above.
 
-**4.3 Your Choices: Communications With Other Members**
+**3.3 Your Choices: Communications With Other Members**
 
 You can block individual members from contacting you through the Platform’s messaging features by using the controls available in your account or within the relevant conversation.
 
-**4.4 Your Choices: SMS and WhatsApp Event Reminders**
+**3.4 Your Choices: SMS and WhatsApp Event Reminders**
 
 If you choose to activate event reminders through SMS or WhatsApp, you can disable them at any time through your Platform settings. If you reply to a reminder with a message other than an attendance confirmation, we may send you instructions explaining how to disable these reminders.
 
 Disabling SMS or WhatsApp reminders will not affect your ability to use the core features of the Platform. However, you will no longer receive event reminders or be able to confirm your attendance through the relevant communication channel.
 
-**4.5 Your Choices: Your Profile Settings**
+**3.5 Your Choices: Your Profile Settings**
 
 You may disclose personal data via your public profile as described in this Privacy Policy, including the groups you belong to, your list of interests, your relationship status, and your work industry. To restrict the personal data that is available to others in your profile, please access your [account settings](https://www.meetup.com/account/).
 
-### **5\. Recipients of Your Personal Data**
+**4\. Recipients of Your Personal Data**
 
-Your personal data may be shared to trusted and reliable third parties. This happens only when there are lawful grounds for the transmission. 
+Your personal data may be shared with trusted and reliable third parties. This happens only when there are lawful grounds for the transmission. 
 
 In particular, your personal data may be shared:
 
@@ -342,22 +357,22 @@ For more information about the information available to Meetup Pro network admin
 
 We may also share information that has been aggregated or anonymized so that it can no longer reasonably be used to identify you. Such information is not personal data and is not subject to this Privacy Policy.
 
-### **6\. International Transfers** 
+**5\. International Transfers** 
 
-You submit your data directly to us, a US-based data controller. So even if you live outside the US, this does not amount to an international data transfer.
+You submit your data directly to us, a US-based data controller. We operate globally, so your personal data may be transferred to, stored in, or accessed from countries other than your own. 
 
-When we store your personal data outside your country of residence, we follow Applicable Privacy Laws to make sure that data still gets an adequate level of protection.
+When we store your personal data outside your country of residence, we follow Applicable Privacy Laws to make sure that data still gets an adequate level of protection. 
 
-When we use a provider based outside the EEA or the UK, we make sure EEA and UK users still get the same level of protection they'd have within those regions, using at least one of these safeguards:
+Where your personal data is transferred to, or made accessible from, a country outside the EEA or the UK, we make sure EEA and UK users still get the same level of protection they'd have within those regions, using at least one of these safeguards:
 
 *   Sending your data only to countries that the European Commission or the UK Information Commissioner's Office has recognized as providing an adequate level of data protection.
     
-*   Requiring our providers to sign a Data Processing Agreement that includes the relevant Standard Contractual Clauses, or another legally valid data transfer mechanism, committing them to protect EEA/UK data to the standard expected in the EEA/UK.
+*   Requiring our providers to sign a Data Processing Agreement that includes the relevant EU Standard Contractual Clauses (SCCs) or the UK Addendum to the SCCs, or another legally valid data transfer mechanism, committing them to protect EEA/UK data to the standard expected in the EEA/UK.
     
 
 For more information about the safeguards applicable to international transfers of your personal data, you can contact us at privacy@meetup.com.
 
-### **7\. When this Privacy Policy does not apply**
+**6\. When this Privacy Policy does not apply**
 
 This Privacy Policy describes the processing of personal data carried out by us, including where information is shared through the Platform with other members, group organizers or network administrators. However, it does not govern any subsequent processing that those recipients carry out independently for their own purposes.
 
@@ -365,9 +380,9 @@ In particular, group organizers and network administrators may process personal 
 
 The Platform may contain links to websites, applications or services operated by third parties, including social media platforms. If you access or use those third-party services, the relevant third party may process your personal data in accordance with its own privacy policy. We encourage you to review the applicable third-party privacy policy before using those services.
 
-### **8\.** **Your Rights**
+**7\.** **Your Rights**
 
-If you reside in certain U.S. states, you can read more about your rights in relation to your personal data in the [_Additional information for users residing in certain U.S. States_](#h_01M3VK1A9ZK0MT6ZF2F6PHHYPE) section below_._
+If you reside in certain U.S. states, you can read more about your rights in relation to your personal data in the _Additional information for users residing in certain U.S. States_ section below_._
 
 If you reside elsewhere, depending on your location, you may have certain rights in relation to your data that you can exercise at any time and without charge, in accordance with the limitations and exceptions stated by the Applicable Privacy Laws. These rights may include the following:
 
@@ -381,66 +396,72 @@ If you reside elsewhere, depending on your location, you may have certain rights
     
 *   **Right to data portability.** Where the applicable legal requirements are met, you may receive personal data that you provided to us in a structured, commonly used and machine-readable format and request that it be transmitted to another controller.
     
-*   **Right to object.** Where we rely on our legitimate interests, you may object to the processing on grounds relating to your particular situation. You may object at any time to the processing of your personal data for direct marketing purposes, including related profiling.
-    
 *   **Right to withdraw consent.** Where we rely on your consent, you may withdraw it at any time. Withdrawal will not affect the lawfulness of processing carried out before your consent was withdrawn.
     
 *   **Right to lodge a complaint.** You may lodge a complaint with the data protection authority responsible for your place of residence, place of work or the location of the alleged infringement.
     
 
+Where we rely on legitimate interests, you have the **right to object** to the processing of your personal data on grounds relating to your particular situation.
+
+**You may object at any time to the processing of your personal data for direct marketing purposes, including related profiling. If you object, we will stop processing your personal data for those purposes.**
+
+To exercise your right to object, email privacy@meetup.com. You can also opt out of marketing emails through the unsubscribe link in each email.
+
 To exercise your rights, please contact us at privacy@meetup.com. We may request information reasonably necessary to verify your identity and process your request.
 
-If you are located in the EEA, you may lodge a complaint with the competent data protection authority in your country of residence or work or where the alleged infringement occurred. If you are located in the UK, you may lodge a complaint with the Information Commissioner’s Office. We would nevertheless appreciate the opportunity to address your concerns directly.
+If you are located in the EEA, you may lodge a complaint with the competent data protection authority in your country of residence or work or where the alleged infringement occurred. If you are located in the UK, you have the right to make a data protection complaint directly to us by emailing privacy@meetup.com. You also have the right to lodge a complaint with the Information Commissioner’s Office. We would nevertheless appreciate the opportunity to address your concerns directly.
 
 You may also request the permanent deletion of your account and personal data through our self-service Privacy and Data Management Form. On the Meetup website, log in to your account and select **Profile > Settings > Account Management > Submit GDPR Request**, then select **“I want to delete my data.”**
 
-Before submitting a deletion request, you may need to cancel any active subscription, ensure that you are not RSVPed to any upcoming events, and, if you are an organizer, step down as organizer, transfer your groups to another member or permanently close them. For additional information, please see our Help Center article “[Delete your account and request permanent data erasure.](https://help.meetup.com/hc/en-us/articles/15702706691341-Delete-your-account-and-request-permanent-data-erasure?utm_source=chatgpt.com)”
+You do not need to cancel your subscription, withdraw your RSVPs, step down as organizer, transfer or close your groups, or use our self-service form before submitting a deletion request or having it assessed. You can submit your request directly by emailing privacy@meetup.com.
+
+Deleting your account may affect your subscriptions, upcoming event participation and any groups you organize. Depending on your circumstances, we may contact you to explain these consequences and discuss any arrangements needed to complete the deletion. For additional information, please see our Help Center article “[Delete your account and request permanent data erasure.](https://help.meetup.com/hc/en-us/articles/15702706691341-Delete-your-account-and-request-permanent-data-erasure)”
 
 If you are located or reside in the EEA, you may also contact our EU Representative appointed under Article 27 GDPR, Bending Spoons S.p.A., with registered office at Via Nino Bonnet 10, 20154 Milan, Italy, at eurepresentative.meetup@bendingspoons.com, on all matters relating to the processing of your personal data, including the exercise of your rights under the GDPR.
 
 If you are located in the United Kingdom, our UK GDPR representative is VeraSafe United Kingdom Ltd. You can contact our UK representative through VeraSafe’s [contact form](https://verasafe.com/public-resources/contact-data-protection-representative).
 
-### **9.  Children’s Personal Data**
+**8.**  **Children’s Personal Data**
 
 The Platform is not directed to individuals under the age of 18, and individuals under the age of 18 are not permitted to create an account or use the Platform. We do not knowingly collect personal data directly from individuals under the age of 18.
 
 If you believe that an individual under the age of 18 has provided us with personal data or created an account, please contact us at privacy@meetup.com. If we become aware that we have collected personal data directly from an individual under the age of 18, we will take appropriate steps to delete the data and close the relevant account.
 
-### **10\. Information We Receive From Third-Party Services and Other Sources**
+**9\. Information We Receive From Third-Party Services and Other Sources**
 
 If you create or access your Meetup account using a third-party authentication service, or connect your Meetup account to a third-party service, we may receive certain information from that service. Depending on the service and the permissions you provide, this may include your name, email address, profile information, account identifier and other information associated with your third-party account.
 
 We use this information to create or authenticate your account, enable the relevant connection or feature and, where applicable, personalize your experience and recommendations. You may be able to disconnect certain third-party services through your Platform or third-party account settings. For more information about connecting or disconnecting Facebook, please see our Help Center article on connecting a Facebook account.
 
-We may also receive information about you from publicly available sources, advertising and marketing partners, and other service providers, where permitted by applicable law. We may use this information for the purposes described in this Privacy Policy, including improving the Platform, personalizing your experience and measuring or providing advertising.
+We may also obtain personal data about you from other sources, including: (i) **other Meetup users** (e.g., event organizers or members who import contacts or share information); (ii) **advertising and measurement partners** (e.g., data enabling ad conversion measurement); and (iii) **publicly accessible sources**. Where we obtain data from these sources, we use it for the purposes described in Section 2 and, where we are required to provide privacy information under Article 14 GDPR/UK GDPR, we do so through this Privacy Policy or a separate notice.
 
 Your use of third-party services is subject to the relevant third party’s terms and privacy policy. This Privacy Policy applies to the personal data that we receive and process for our own purposes.
 
-### **11\. Additional information for users residing in certain U.S. States**
+**10\. Additional information for users residing in certain U.S. States**
 
 Certain U.S. states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“State Privacy Laws”). If you reside in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Louisiana, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oklahoma, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, this section applies to you. This section also serves as our California notice at collection.
 
-For details about the personal information we collect, please see Section 2 ([_Types of data, how data is used, and retention_](#h_01M3VJYS4MVY8505KP9SNJVVTK)). We collect personal data from various sources, including directly from you, directly from other Meetup users, automatically when you access or use our services, and from other sources (e.g., mobile measurement partners).  We may combine the personal information that we collect from and about you and use or disclose the combined personal information consistent with the representations in this Privacy Policy. As required by certain State Privacy Laws, we use the tables below to explain this same information. 
+For details about the personal information we collect, please see Section 2 (_Types of data, how data is used, and retention_). We collect personal data from various sources, including directly from you, directly from other Meetup users, automatically when you access or use our services, and from other sources (e.g., mobile measurement partners).  We may combine the personal information that we collect from and about you and use or disclose the combined personal information consistent with the representations in this Privacy Policy. As required by certain State Privacy Laws, we use the tables below to explain this same information. 
 
 _**Use and Disclosure of Personal Information for Business Purposes**_
 
 |     |     |     |
-| --- | --- | --- |  
+| --- | --- | --- |
 | **Category of Personal Data** | **Categories of Recipients** | **Use of Personal Data** |
-| *   Identifiers/biographical information (such as your name, email address, IP address, online or device identifiers, or relationship status)<br>*   Internet or other electronic network activity information (such as information about your activity on our app, and device information, such as device model, type, and version)<br>*   Characteristics of protected classifications under California or US federal law (such as gender if you submit that answer in a survey or age)<br>*   Commercial and subscription information (such as in-app purchases, subscription details, event participation and interaction information, or other content)<br>*   Approximate geolocation information (such as the country you’re in)<br>*   Professional or employment information (such as your professional information)<br>*   Visual information (profile photo)<br>*   Communications with us <br>*   Inferences and other information that relate to or are reasonably capable of being associated with you | We disclose personal information to the following categories of recipients for a business purpose as disclosed in Section 5:<br><br>*   Other members and through public areas of the Platform<br>*   Event organizers, Meetup Pro network administrators, and Meetup pro customers<br>*   Vendors and service providers<br>*   Professional advisers and parties involved in corporate transactions<br>*   Public, judicial, regulatory, or law-enforcement authorities<br>*   Other parties<br>*   Vendors and service providers | *   Provide our services and enable use of the app<br>*   Provide customer support <br>*   Improve and develop our products and services, including improving certain app features<br>*   Ensure quality and proper functioning of our app and prevent misuse of the app<br>*   Customize and personalize user experience, including creating your user profile and serving personalized ads<br>*   Conduct marketing activities and communications<br>*   Comply with our legal obligations<br>*   Establish, exercise, or defend our rights and those of our employees<br>*   Carry out corporate transactions and operations |
+| *   Identifiers/biographical information (such as your name, email address, IP address, online or device identifiers, or relationship status)<br>*   Internet or other electronic network activity information (such as information about your activity on our app, and device information, such as device model, type, and version)<br>*   Characteristics of protected classifications under California or US federal law (such as gender if you submit that answer in a survey or age)<br>*   Commercial and subscription information (such as in-app purchases, subscription details, event participation and interaction information, or other content)<br>*   Approximate geolocation information (such as the country you’re in)<br>*   Professional or employment information (such as your professional information)<br>*   Visual information (profile photo)<br>*   Communications with us <br>*   Inferences and other information that relate to or are reasonably capable of being associated with you | We disclose personal information to the following categories of recipients for a business purpose as disclosed in Section 4:<br><br>*   Other members and through public areas of the Platform<br>*   Event organizers, Meetup Pro network administrators, and Meetup pro customers<br>*   Vendors and service providers<br>*   Professional advisers and parties involved in corporate transactions<br>*   Public, judicial, regulatory, or law-enforcement authorities<br>*   Other parties<br>*   Vendors and service providers | *   Provide our services and enable use of the app<br>*   Provide customer support <br>*   Improve and develop our products and services, including improving certain app features<br>*   Ensure quality and proper functioning of our app and prevent misuse of the app<br>*   Customize and personalize user experience, including creating your user profile and serving personalized ads<br>*   Conduct marketing activities and communications<br>*   Comply with our legal obligations<br>*   Establish, exercise, or defend our rights and those of our employees<br>*   Carry out corporate transactions and operations |
 
 We may collect other categories of personal information from or about you as disclosed in advance to you or with your consent.
 
-**Sensitive personal information:**  We may collect precise geolocation information that you choose to share when you register for Meetup (to apply location settings to your account) and use the Platform (to facilitate discovery or recommendation of events or groups in your area, group creation, event attendance check-in, to populate or recenter maps in the Platform, or location sharing in user messages). We do not use or disclose this information for the purpose of inferring characteristics about you or other than as described here. To revoke your consent to our collection and processing of precise geolocation information, please follow the instructions provided in [_4.1 Your Choices: Location_](#h_01M3VK0585T7HSCJVVVCKSXRV5).  
+**Sensitive personal information:**  We may collect precise geolocation information that you choose to share when you register for Meetup (to apply location settings to your account) and use the Platform (to facilitate discovery or recommendation of events or groups in your area, group creation, event attendance check-in, to populate or recenter maps in the Platform, or location sharing in user messages). We do not use or disclose this information for the purpose of inferring characteristics about you or other than as described here. To revoke your consent to our collection and processing of precise geolocation information, please follow the instructions provided in _3.1 Your Choices: Location_.  
 
-We retain personal information as described above in the [_Types of data, how data is used, and retention_](#h_01M3VJYS4MVY8505KP9SNJVVTK) section, for as long as necessary to carry out the purposes for which we originally collected it and for other purposes described in this Privacy policy.
+We retain personal information as described above in the _Types of data, how data is used, and retention_ section, for as long as necessary to carry out the purposes for which we originally collected it and for other purposes described in this Privacy policy.
 
 _**Sale, Sharing, and Targeted Advertising Activities and your Opt-Out Rights**_
 
 We engage in activities that may be considered “targeted advertising,” “sales,” or “sharing” under State Privacy Laws. Specifically, we may disclose personal data to third-party advertising partners, advertising networks, and social media networks to display advertising that is relevant to your interests on our app and across the web. The table below describes the categories of personal data we disclose for these purposes and the categories of third parties that receive it. 
 
 |     |     |
-| --- | --- | 
+| --- | --- |
 | **Categories of Personal Data “Shared,” “Sold,” or Used for Targeted Advertising** | **Categories of Third Parties** |
 | Identifiers | Advertising and marketing partners |
 | Internet and electronic network activity information | Advertising and marketing partners |
@@ -452,20 +473,20 @@ We do not engage in sales, sharing, or targeted advertising using personal data 
 
 _**Your Other Rights under State Privacy Laws**_ 
 
-*   **Right to access, correction, and deletion**: You have the right to request to know more about and access your personal information, including in a portable format, including the categories of personal information collected, the sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, the categories of personal information disclosed to third parties, and the specific pieces of personal information we have collected about you.  You also have the right to request deletion of your personal information or correction of inaccurate personal information. Residents of Connecticut, Delaware, Minnesota, Oregon, and Rhode Island, may also request a list of third parties to whom we have disclosed personal data. For instructions on how to exercise your rights, please see the Section 8 ([_Your rights_](#h_01M3VK0STNK6YMG2KA2EA3AQBW)).     
+*   **Right to access, correction, and deletion**: You have the right to request to know more about and access your personal information, including in a portable format, including the categories of personal information collected, the sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, the categories of personal information disclosed to third parties, and the specific pieces of personal information we have collected about you.  You also have the right to request deletion of your personal information or correction of inaccurate personal information. Residents of Connecticut, Delaware, Minnesota, Oregon, and Rhode Island, may also request a list of third parties to whom we have disclosed personal data. For instructions on how to exercise your rights, please see the Section 7 (_Your rights_).     
     
 *   **Right to nondiscrimination**: We will not discriminate or retaliate against you for exercising your privacy rights.
     
 *   **Right to appeal**: If we deny your request, you may appeal our decision by contacting us. If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
     
-*   **Authorized agents**: Where available under applicable law, you may also designate an authorized agent to submit a privacy rights request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent, please follow the instructions provided in Section 8 ([_Your rights_](#h_01M3VK0STNK6YMG2KA2EA3AQBW)).
+*   **Authorized agents**: Where available under applicable law, you may also designate an authorized agent to submit a privacy rights request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent, please follow the instructions provided in Section 7 (_Your rights_).
     
 
-### **12\. Additional information for** **Korean Residents**
+**11\. Additional information for** **Korean Residents**
 
 If you are a resident in the Republic of Korea, you can find specific information on how we use your personal information [_here_](https://help.meetup.com/hc/en-us/articles/11108093175693-Korean-Annex).
 
-### **13\. Cookies**
+**12\. Cookies**
 
 We and our partners use cookies and similar tracking technologies, including software development kits (“SDKs”), pixels, local storage and device identifiers, to operate and secure the Platform, remember your preferences, understand how the Platform is used and, where permitted, provide and measure personalized advertising.
 
@@ -481,8 +502,11 @@ You may also manage cookies, device identifiers and similar technologies through
 
 For users in the EEA, the UK and other jurisdictions where applicable, more information about the tracking technologies used through the Platform, including their purposes, providers and duration, and to manage your choices, please access the privacy preference center through the “Your Privacy Choices” link within the Platform.
 
-### **14\. Changes to this Privacy Policy**
+**13\. Changes to this Privacy Policy**
 
 We may modify, integrate or update, in whole or in part, this Privacy Policy, and we will notify users of any modification, integration or update in accordance with Applicable Privacy Laws. If we make modifications, we will notify you by revising the date at the bottom of this Privacy Policy and, under certain circumstances, we may also notify you by additional means such as showing a pop-up within our Platform or sending you an email.
 
-**Last updated**: October 1, 2026
+  
+ 
+
+**Last updated**: November 9, 2026
