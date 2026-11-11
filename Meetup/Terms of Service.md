@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-(view previous versions: [1/1/26](https://help.meetup.com/hc/en-us/articles/49237910563341/live_preview/01M4X8NYVBZK183RA3ZHE71R6J); [6/1/19](https://help.meetup.com/hc/en-us/articles/42191077275789); [3/28/17](https://help.meetup.com/hc/en-us/articles/360027578772))
+(view previous versions: [1/1/26](https://help.meetup.com/hc/en-us/articles/49237910563341); [6/1/19](https://help.meetup.com/hc/en-us/articles/42191077275789); [3/28/17](https://help.meetup.com/hc/en-us/articles/360027578772))
 
 **If your usual residence is in the European Economic Area, the United Kingdom, or Switzerland, scroll down to find the terms that apply to you.**
 
