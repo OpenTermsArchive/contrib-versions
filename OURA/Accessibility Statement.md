@@ -18,18 +18,11 @@ The service partially complies with the accessibility requirements.
 Non-accessible content
 ----------------------
 
-The following content and functions do not yet meet the requirements of WCAG levels A and AA. We aim to address the key issues by October 31, 2026.
+The following content and functions do not yet meet the requirements of WCAG levels A and AA. We aim to address the key issues by January 31, 2027.
 
 ### Header
 
 *   There are minor issues in the implementation of the shopping cart element. The visible label and accessible name do not match. The element's role is not descriptive. (2.5.3), (4.1.2)
-
-### Footer
-
-*   The error and success messages for the email subscription are not conveyed programmatically. (4.1.3)
-*   The image with a link does not receive a visible focus. (2.4.7)
-*   Footer headings are not marked as headings. (1.3.1)
-*   Information about external links is not conveyed programmatically. (1.3.1)
 
 ### Payment method section
 
