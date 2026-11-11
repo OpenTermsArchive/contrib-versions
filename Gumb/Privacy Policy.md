@@ -1,4 +1,4 @@
-*   Last Updated: November 5, 2026
+*   Last Updated: November 10, 2026
 *   25 min read
 
 Contents
@@ -343,13 +343,7 @@ For technical error monitoring, we use Sentry.io (Functional Software, Inc., USA
 
 Further information: [Sentry privacy policy](https://sentry.io/privacy/)
 
-### 11.5 Prismic
-
-For our help section (support pages), we use Prismic.io (Prismic, Inc., USA), a content management system. Prismic hosts texts and media content to deliver help articles quickly and reliably. The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in an efficient help system). The transfer to the USA takes place on the basis of EU Standard Contractual Clauses.
-
-Further information: [Prismic privacy policy](https://prismic.io/legal/privacy)
-
-### 11.6 Google Tag Manager and Server-Side Tagging (stape.io)
+### 11.5 Google Tag Manager and Server-Side Tagging (stape.io)
 
 We use Google Tag Manager, provided by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland). It lets us manage and load the analytics and marketing services on our website, e.g., Google Analytics, Google Ads, Meta Pixel, and Contentsquare. Tag Manager itself does not set cookies or analyze data. The services it loads only start once you have given your consent in the cookie banner (see Section 10.3). The legal basis is Art. 6 para. 1 lit. f GDPR (legitimate interest in managing these services efficiently).
 
@@ -486,7 +480,7 @@ Email: [privacy@gumb.app](mailto:privacy@gumb.app)
 
 Date of Entry into Force: September 20, 2020
 
-_Last Updated: November 5, 2026_
+_Last Updated: November 10, 2026_
 
 Questions about data protection?
 --------------------------------
