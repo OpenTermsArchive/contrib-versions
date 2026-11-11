@@ -89,8 +89,8 @@ O'Reilly's Copyright Agent for notice of claims of copyright infringement can be
 
 **By mail**:  
 O’Reilly Media, Inc.  
-1005 Gravenstein Highway North  
-Sebastopol, CA 95472  
+141 Stony Circle, Suite 195  
+Santa Rosa, CA 95401  
 Attn: Legal Services Dept.
 
 **By email**:
