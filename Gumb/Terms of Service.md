@@ -95,7 +95,7 @@ Part A - Terms of Use (All Users)
     
 5.  2.5
     
-    **Scope of use.** The scope of use (in particular the number of Communities and Members) depends on the subscription as shown on the pricing page at [gumb.app/pricing](https://gumb.app/pricing). Individual functions may vary by device and region.
+    **Scope of use.** The scope of use (in particular the number of Communities and Members) depends on the subscription as shown on the pricing page at [gumb.app/en/pricing](https://gumb.app/en/pricing). Individual functions may vary by device and region.
     
 6.  2.6
     
@@ -389,7 +389,7 @@ Part B - Subscription (Owners Only)
 
 1.  12.1
     
-    **Purchase.** The Owner selects a plan and term in the checkout. The contract is formed when Gumb confirms the order or activates the subscription. The scope and limits are as shown on the pricing page at [gumb.app/pricing](https://gumb.app/pricing) at the time of purchase.
+    **Purchase.** The Owner selects a plan and term in the checkout. The contract is formed when Gumb confirms the order or activates the subscription. The scope and limits are as shown on the pricing page at [gumb.app/en/pricing](https://gumb.app/en/pricing) at the time of purchase.
     
 2.  12.2
     
