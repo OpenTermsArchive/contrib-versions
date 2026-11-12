@@ -1,12 +1,12 @@
 Privacy Policy 
 ---------------
 
-_Update to privacy policy, November 2026:  
+Update to privacy policy, November 2026:  
   
 **People (face grouping)**  
-People is an optional feature that is off by default. If you turn it on, we compare the faces in your photos and group photos of the same person, so you can find them in your account. To do this, we create a numeric description of each face (an embedding)._ 
+People is an optional feature that is off by default. If you turn it on, we compare the faces in your photos and group photos of the same person, so you can find them in your account. To do this, we create a numeric description of each face (an embedding). 
 
-_Face data stays in your account, is processed on our own servers in Norway, and is not used to train AI models. If you turn People off, all face data is deleted within 24 hours. We rely on legitimate interests (GDPR Art. 6(1)(f)) for this processing.[Read more about how People works, what is stored, your rights and what to do if you appear in someone else’s photos.](https://docs.jottacloud.com/en/articles/16235637-people-how-face-grouping-works)_
+Face data stays in your account, is processed on our own servers in Norway, and is not used to train AI models. If you turn People off, all face data is deleted within 24 hours. We rely on legitimate interests (GDPR Art. 6(1)(f)) for this processing.[Read more about how People works, what is stored, your rights and what to do if you appear in someone else’s photos.](https://docs.jottacloud.com/en/articles/16235637-people-how-face-grouping-works)
 
 \---
 
