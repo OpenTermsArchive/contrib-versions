@@ -33,8 +33,6 @@ Table of Contents
 
 [13\. General terms](https://policy.pinterest.com/en/terms-of-service#section-13-general-terms)
 
-_We're updating our Terms of Service, effective November 12, 2026. You can preview the updated Terms of Service [here](https://policy.pinterest.com/terms-of-service-preview)._
-
 Thank you for using Pinterest!
 ==============================
 
@@ -44,10 +42,13 @@ You may not use the Service to do or share anything that is contrary to these Te
 
 *   Our [Community Guidelines](https://policy.pinterest.com/community-guidelines), which explain what is and isn’t allowed on Pinterest;
 *   Our [Advertising Guidelines](https://policy.pinterest.com/advertising-guidelines) and [Merchant Guidelines](https://policy.pinterest.com/merchant-guidelines), which explain additional policies that apply to ads and merchants on Pinterest;
-*   Our [Commercial and Branded Content Guidelines](https://policy.pinterest.com/commercial-and-branded-content-guidelines), which explain additional policies that apply to sponsored, branded or otherwise commercial content; and
-*   Our [Enforcement](https://policy.pinterest.com/enforcement) practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.
+*   Our [Commercial and Branded Content Guidelines](https://policy.pinterest.com/commercial-and-branded-content-guidelines), which explain additional policies that apply to sponsored, branded or otherwise commercial content;
+*   Our [Enforcement](https://policy.pinterest.com/enforcement) practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest; and
+*   Our [GenAI Acceptable Use Guidelines](https://policy.pinterest.com/genai-acceptable-use-guidelines), which explain how you may and may not use Pinterest’s generative AI tools.
 
 By accessing or using Pinterest, you agree to comply with and be bound by these Terms and you will not attempt to circumvent them. If you do not agree to our Terms, you must not access or use Pinterest.
+
+If you reside outside of the EEA, Switzerland and the United Kingdom, your acceptance of these Terms constitutes your consent to the processing activities described in our [Privacy Policy](https://policy.pinterest.com/privacy-policy) under the laws of your jurisdiction.
 
 More simply put
 
@@ -91,6 +92,9 @@ If you want to use Pinterest for commercial purposes, you must create a business
 
 If you post content on Pinterest that is sponsored or branded – like when a business partner pays or incentivizes you to post it – or is in any way commercial in nature, you are subject to our [Commercial and Branded Content Guidelines](https://policy.pinterest.com/commercial-and-branded-content-guidelines).
 
+  
+  
+
 More simply put
 
 These Terms are an agreement between you and us. You cannot use Pinterest if you're under 13 (or older in some countries). If you use Pinterest for commercial purposes, you need to set up a business account. If you post commercial, sponsored or branded content, you need to comply with our Commercial and Branded Content Guidelines. We grant you a revocable license to use Pinterest, which is subject to our Terms and policies as outlined immediately above. Unless we have agreed otherwise, if your account has been suspended you can’t return to Pinterest.
@@ -122,7 +126,8 @@ If you post your User Content on Pinterest, we can show it to people and others 
 
 ### c. How long we keep your User Content
 
-Following termination or deactivation of your account, or User Content removal from Pinterest, we may keep your User Content for a reasonable period of time for backup, archival, or audit purposes. We and our users may retain and continue to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute any of your User Content that you or other users have stored or shared on Pinterest.
+Following termination or deactivation of your account, or User Content removal from Pinterest, we may keep your User Content for a reasonable period of time for backup, archival, or audit purposes. We and our users may retain and continue to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute any of your User Content that you or other users have stored or shared on Pinterest.  
+  
 
 More simply put
 
@@ -169,11 +174,14 @@ You can help us keep your account and Pinterest secure by keeping [these securit
 6\. Third party links, sites, and services
 ==========================================
 
-Pinterest may contain links to third party websites, advertisers, services, software components, special offers or other events or activities that are not owned or controlled by us. We don’t endorse or assume any responsibility for any such third party websites, information, materials, products or services. If you access any third party website, service or content, etc. from Pinterest, you do so at your own risk and you agree that we have no liability arising from your use of, purchase from or access to any third party website, service, or content, etc.
+Pinterest may contain links to third party websites, advertisers, services, software components, special offers or other events or activities that are not owned or controlled by us. We don’t endorse or assume any responsibility for any such third party websites, information, materials, products or services. If you access any third party website, service or content, etc. from Pinterest, you do so at your own risk and you agree that we have no liability arising from your use of, purchase from or access to any third party website, service, or content, etc. By accessing YouTube content on Pinterest, you also agree to be bound by YouTube’s [Terms of Service](https://www.youtube.com/t/terms).
+
+  
+  
 
 More simply put
 
-We allow users to include links to content outside of Pinterest. We're not responsible for any content you view on, or your use of, third party websites or services.
+We allow users to include links to content outside of Pinterest. We're not responsible for any content you view on, or your use of, third party websites or services, and you may be bound to a third-party site’s Terms of Service for engaging with their content.
 
 7\. Termination
 ===============
@@ -184,6 +192,9 @@ You may also terminate or delete your account at any time. You can learn [how to
 
 Upon termination, Sections 3, 8, 9, 10, 11, 12, and 13 of these Terms will continue to be operative.
 
+  
+  
+
 More simply put
 
 We reserve the right to refuse service to anyone and will provide notice of termination where appropriate.
@@ -192,6 +203,9 @@ We reserve the right to refuse service to anyone and will provide notice of term
 =============
 
 If you use Pinterest for commercial purposes without agreeing to our [Business Terms](https://business.pinterest.com/business-terms-of-service) as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest, Inc., Pinterest Europe Ltd., and their affiliates from any claims (including reasonable attorney’s fees) relating to your use of our Service. Pinterest reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification, in which event you will fully cooperate with Pinterest.
+
+  
+  
 
 More simply put
 
@@ -227,32 +241,42 @@ If we cause damage to you and you're a consumer in the EEA or UK, the above does
 
 More simply put
 
-We are building the best Service we can, but it won't always be perfect. We're not liable for various losses or damages.
+We are building the best Service we can, but it won't always be perfect. We're not liable for various losses or damages.  
 
 11\. Arbitration
 ================
 
-If you are a consumer in the EEA, Switzerland, or the United Kingdom (UK), Section 11 doesn't apply to you.
+If you are a consumer in the EEA, Switzerland, or the United Kingdom (UK), Section 11 does not apply to you.
 
-For any dispute you have with us, you agree to first contact us and try to resolve the dispute informally. To the extent permitted by law, neither party may initiate any legal proceeding—whether in court, arbitration, or any other forum—until the Notice of Dispute and Informal Dispute Resolution processes described below are completed. Nothing in this Section, however, will prevent either you or us from seeking temporary injunctive relief in court (or in arbitration) to preserve the status quo or to help enforce this arbitration clause at the outset of any dispute.
+**a. Mandatory Informal Resolution**
 
-A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to [litigation@pinterest.com](mailto:litigation@pinterest.com). The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration.
+Before starting arbitration or filing any claim, you and Pinterest must each send the other written notice of the claim, a description of the claim, and the relief sought (an individual claimant’s notice must be personally signed). Your notice to Pinterest must be sent to [litigation@pinterest.com](mailto:litigation@pinterest.com) and cover only one claimant. You and Pinterest agree to work together in good faith to resolve it for 60 days. This dispute resolution process is a mandatory requirement and a condition precedent. Neither party may file arbitration, or a court action, before completing this step. Notwithstanding the foregoing, either party may bring an action to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of a party’s intellectual property rights.
 
-**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court. The arbitrator will have authority to issue any remedies authorized by law.
+**b. Arbitration Agreement**
 
-Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement, including any dispute regarding arbitrability.
+If that doesn’t resolve the dispute, you and we agree that any claim, dispute, or controversy arising out of or relating to these Terms or the Service (“Claim”) will be resolved through binding, individual arbitration administered by JAMS under its Comprehensive Arbitration Rules & Procedures ("JAMS Rules"), as modified by this Section 11, or in small claims court for qualifying claims. The Federal Arbitration Act applies to and governs this Arbitration Agreement and pre-empts all state laws to the fullest extent possible. This Arbitration Agreement applies to any Claim you have not filed in court or in arbitration before the date you agreed to these Terms, and supersedes and amends any prior arbitration agreement between you and Pinterest, including as to Claims that arose before this or any prior arbitration agreement.
 
-Any arbitration will be administered by the American Arbitration Association ("AAA") under the applicable rules then in effect for the AAA. If the AAA rules conflict in any way with these Terms, the Terms will govern. You can find AAA’s forms at [www.adr.org](http://www.adr.org/). The arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based. A judgment on the arbitrator’s award may be entered in any court of competent jurisdiction. Where the AAA’s Consumer Arbitration Rules apply, if the arbitrator determines that a party’s claim was frivolous or brought for an improper purpose, the arbitrator must assign all fees and costs associated with the arbitration to that party.
+You and Pinterest each waive the right to a jury trial. Except as set out in subsection (c) for Mass Filings, to the fullest extent permitted by law, you and Pinterest agree that each party can only bring Claims in an individual capacity and not as a plaintiff or class member in any class, consolidated, private attorney general, or representative proceeding. This waiver survives even if the rest of this Section 11 is found unenforceable or invalid. Except as set out in subsection (c) for Mass Filings, the arbitrator may not consolidate more than one person’s Claims and may not otherwise preside over any class, collective, consolidated, or representative proceeding.
 
-All disputes must be brought in the party's individual capacity, and not as a member in any class or representative proceeding. You agree that, by entering into these Terms, you are waiving the right to a trial by jury or to participate in a class action.
+A court, not the arbitrator, decides whether a valid arbitration agreement exists but the arbitrator decides all issues relating to the interpretation, applicability, or enforceability of this arbitration agreement, including any dispute regarding arbitrability. A request for public injunctive relief will not be decided by or awarded by the arbitrator and must be decided by a court after the rest of the Claim is arbitrated. A single, confidential arbitration will be held before one arbitrator, whose decision binds only the parties involved. This Section 11 doesn’t prevent either party from seeking relief from a government agency or provisional court relief (like a temporary injunction) and doing so will not waive the right to arbitrate. Claims that aren’t arbitrable will be resolved under Section 12 (Governing Law). Payment of arbitration fees is governed by the JAMS Rules, except that the arbitrator may impose sanctions available under the JAMS Rules, Federal Rule of Civil Procedure 11, or any applicable law against any party or counsel who violates them, including assigning fees and costs to a party found to have brought a frivolous or improperly motivated claim or defense. Any party to the arbitration, more than ten (10) days before the arbitration hearing, may serve a written offer of compromise on the other party which will be interpreted and enforced in accordance with California Code of Civil Procedure section 998.
 
-Nothing in these Terms shall affect any non-waivable statutory rights that apply to you. To the extent any dispute isn’t arbitrable under applicable laws or otherwise, you agree that the dispute will be resolved exclusively in accordance with Section 12 of these Terms.
+This Section 11 will survive the termination of your relationship with Pinterest. Except as set forth any part of this Section 11 is found unenforceable, unconscionable, or unlawful the rest remains in effect and Pinterest and you may still compel individual arbitration of the remaining Claims.
 
-**Batched Arbitration**: To provide a more efficient arbitration process, you and we each agree that if 25 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us.
+**c. Mass Filing**
+
+If 25 or more claimants file similar Claims against Pinterest either within 90 days, or are represented by, assisted by, or otherwise coordinated with the same law firm, group of law firms, or other coordinated counsel or entities (a “Mass Filing”), all of those Claims will be consolidated into one arbitration before one arbitrator with a single set of filing and administrative fees rather than separate fees per claimant or Claim. The JAMS Mass Arbitration Procedures and Guidelines and JAMS Mass Arbitration Fee Schedule will apply to your Claim and the claims of all other claimants that are part of the Mass Filing, as modified by this Section 11(c). Claims are similar if they arise from or are related to similar facts or circumstances and raise similar legal issues or causes of action. A Process Arbitrator will decide any dispute over similarity of Claims. If any of claimant’s lawyers, law firms, group of law firms or their business partners or funders (“funder”) is advancing that claimant’s fees or costs, the Process Arbitrator may also divide all fees and costs (including all arbitrator’s fees) between that funder and Pinterest as the Process Arbitrator deems fair. In the final decision, the arbitrator can reevaluate and divide the arbitration fees and costs among Pinterest, the claimants, and the claimants’ lawyers, law firms, and group of law firms in amounts they see fit to ensure a fair division among the parties.
+
+Pinterest and each claimant shall have the right to opt-out of arbitration if JAMS declines to enforce this subsection 11(c) of the arbitration agreement, refuses to administer any portion of a Mass Filing in accordance with this subsection 11(c), refuses to consolidate Claims into one arbitration before one arbitrator with a single set of filing and administrative fees as set forth in this subsection 11(c), or otherwise finds these any portion of this subsection 11(c) is unconscionable, unenforceable, or unlawful. If either party elects to opt-out of arbitration, then you and we agree that you may pursue your Claim in court subject to section 12.
+
+Any applicable limitations period (including statutes of limitation) and any filing-fee deadlines shall be tolled beginning when the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures are initiated, so long as the Mandatory Pre-Arbitration Notice complies with the requirements in this Section 11, until a party’s Claim or demand for arbitration claim is consolidated or a party opts-out of arbitration.
+
+**d. Right to Opt Out**
+
+You may opt out of this Section 11 within 30 days of first becoming subject to it by emailing [litigation@pinterest.com](mailto:litigation@pinterest.com) with your name, account email, and a statement that you’re opting out; otherwise you agree to be bound by it.
 
 More simply put
 
-You agree to notify us of any dispute and try to resolve it amicably. If that doesn’t work, the dispute will be efficiently decided through arbitration, not in court.
+Most disputes must be raised informally first, then resolved through individual arbitration rather than a lawsuit or class action — except for large groups of similar claims filed together, which are consolidated into a single arbitration under different rules.
 
 12\. Governing law and jurisdiction
 ===================================
@@ -260,6 +284,9 @@ You agree to notify us of any dispute and try to resolve it amicably. If that do
 If you are a consumer in the EEA, Switzerland, or the UK, these Terms and your use of the Service shall be governed by the law of the country where you live, and any claim, dispute, or controversy arising from or in connection with or relating to these Terms, Pinterest, or the Service shall be resolved in the courts of the country where you live.
 
 In all other cases, these Terms and your use of the Service shall be governed by the laws of the State of California, without respect to its conflict of laws principles. For any actions not subject to Section 11 (Arbitration), the exclusive place of jurisdiction for any claim, dispute, or controversy arising from or in connection with these Terms or the Service is San Francisco County, California, or the United States District Court for the Northern District of California, and such disputes will be determined under California law.
+
+  
+  
 
 More simply put
 
@@ -292,13 +319,14 @@ No waiver of any provision of these Terms shall be deemed a further or continuin
 
 ### e. Parties
 
-If you live in the United States, these Terms are a contract between you and Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. If you live outside the United States, these Terms are a contract between you and Pinterest Europe Ltd., an Irish company with its registered office at Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Ireland. As Pinterest is a worldwide service, you agree that any rights and licenses granted hereunder benefit Pinterest, Inc. and all of its worldwide subsidiaries and affiliates.
+If you live in the United States, these Terms are a contract between you and Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. If you live outside the United States, these Terms are a contract between you and Pinterest Europe Ltd., an Irish company with its registered office at Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Ireland. As Pinterest is a worldwide service, you agree that any rights and licenses granted hereunder benefit Pinterest, Inc. and all of its worldwide subsidiaries and affiliates.  
+  
 
 More simply put
 
 Who you deal with depends on where you live.
 
-Effective date: April 30, 2025
+Effective date: November 12, 2026
 
 Table of Contents
 -----------------
