@@ -83,10 +83,13 @@ Our Privacy Policy explains what information we process when you use our product
 | 日本語 (にほんご) \| Japanese | [消費者プライバシーポリシー](https://www.wbdprivacy.com/policycenter/b2c/ja) | [広告の選択](https://www.wbdprivacy.com/policycenter/b2c/ja#adchoices) | [法的根拠一覧表](https://www.wbdprivacy.com/policycenter/legalbases/ja) |
 | Bahasa Melayu \| Malaysian | [Dasar Privasi Pengguna](https://www.wbdprivacy.com/policycenter/b2c/ms) | [Pilihan iklan](https://www.wbdprivacy.com/policycenter/b2c/ms#adchoices) | [Carta asas undang-undang](https://www.wbdprivacy.com/policycenter/legalbases/ms) |
 | ไทย \| Thai | [นโยบายความเป็นส่วนตัวของผู้บริโภค](https://www.wbdprivacy.com/policycenter/b2c/th) | [ตัวเลือกโฆษณา](https://www.wbdprivacy.com/policycenter/b2c/th#adchoices) | [ตารางฐานในการประมวลผลข้อมูลส่วนบุคคล](https://www.wbdprivacy.com/policycenter/legalbases/th) |
-| 简体字 (Simplified Chinese) | [消费者隐私政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hans) | [广告选择](https://www.wbdprivacy.com/policycenter/b2c/zh-hans#adchoices) | [法律依据表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hans) |
-| 繁體字 (Traditional Chinese - Hong Kong) | [私隱政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hk) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-hk#adchoices) | [法律基礎圖表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hk) |
-| 繁體字 (Traditional Chinese - Taiwan) | [隱私權政策](https://www.wbdprivacy.com/policycenter/b2c/zh-tw) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-tw#adchoices) | [法律依據表](https://www.wbdprivacy.com/policycenter/legalbases/zh-tw) |
+| 简体字  \| Simplified Chinese | [消费者隐私政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hans) | [广告选择](https://www.wbdprivacy.com/policycenter/b2c/zh-hans#adchoices) | [法律依据表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hans) |
+| 繁體字  \| Traditional Chinese - Hong Kong | [私隱政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hk) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-hk#adchoices) | [法律基礎圖表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hk) |
+| 繁體字  \| Traditional Chinese - Taiwan | [隱私權政策](https://www.wbdprivacy.com/policycenter/b2c/zh-tw) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-tw#adchoices) | [法律依據表](https://www.wbdprivacy.com/policycenter/legalbases/zh-tw) |
 | Tiếng Việt \| Vietnamese | [Chính sách quyền riêng tư của người tiêu dùng](https://www.wbdprivacy.com/policycenter/b2c/vi/) | [Lựa chọn quảng cáo](https://www.wbdprivacy.com/policycenter/b2c/vi/#adchoices) | [Bảng cơ sở pháp lý](https://www.wbdprivacy.com/policycenter/legalbases/vi/) |
+| Português | [Política de Privacidade](https://www.wbdprivacy.com/policycenter/b2c/pt-emea) | [Opções de publicidade](https://www.wbdprivacy.com/opt-out/?lang=pt-pt) | [Quadro de fundamentos jurídicos](https://www.wbdprivacy.com/policycenter/legalbases/pt-emea) |
+| ພາສາລາວ \| Lao | [ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ](https://www.wbdprivacy.com/policycenter/b2c/lo/) | [ທາງເລືອກກ່ຽວກັບໂຄສະນາ](https://www.wbdprivacy.com/opt-out/) | [ຕາຕະລາງພື້ນຖານທາງກົດໝາຍ](https://www.wbdprivacy.com/policycenter/legalbases/lo/) |
+| ខ្មែរ \| Khmer | [គោលការណ៍ការពារសិទ្ធិឯកជនភាព](https://www.wbdprivacy.com/policycenter/b2c/km/) | [ជម្រើសពាណិជ្ជកម្ម](https://www.wbdprivacy.com/opt-out/) | [គំនូសតាងមូលដ្ឋានគតិ យុត្ត](https://www.wbdprivacy.com/policycenter/legalbases/km/) |
 
   
 
@@ -123,6 +126,9 @@ Our Privacy Policy explains what information we process when you use our product
 | Español (Spain) | [Política de Privacidad](https://www.wbdprivacy.com/policycenter/b2c/es-emea) | [Elecciones de anuncios](https://www.wbdprivacy.com/opt-out/?lang=es) | [Tabla de bases de legitimación](https://www.wbdprivacy.com/policycenter/legalbases/es-emea) |
 | Svenska \| Swedish | [Integritetspolicy](https://www.wbdprivacy.com/policycenter/b2c/sv) | [Annonsalternativ](https://www.wbdprivacy.com/opt-out/?lang=sv) | [Översikt över rättsliga grunder](https://www.wbdprivacy.com/policycenter/legalbases/sv) |
 | Türkçe \| Turkish | [GİZLİLİK POLİTİKASI](https://www.wbdprivacy.com/policycenter/b2c/tr) | [Pazarlama İletişimleri](https://www.wbdprivacy.com/opt-out/?lang=tr) | [Yasal dayanaklar tablosu](https://www.wbdprivacy.com/policycenter/legalbases/tr) |
+| Ελληνικά \| Greek | [Πολιτική απορρήτου της](https://www.wbdprivacy.com/policycenter/b2c/el/) | [Επιλογές διαφημίσεων](https://www.wbdprivacy.com/opt-out/?lang=el) | [Πίνακας νομικών βάσεων](https://www.wbdprivacy.com/policycenter/legalbases/el/) |
+| עִבְרִית \| Hebrew | [מדיניות הפרטיות של](https://www.wbdprivacy.com/policycenter/b2c/he/) | [בחירות פרסומת](https://www.wbdprivacy.com/opt-out/?lang=he) | [טבלת בסיסים חוקיים לעיבוד מידע](https://www.wbdprivacy.com/policycenter/legalbases/he/) |
+| українська мова \| Ukrainian | [Політика захисту даних](https://www.wbdprivacy.com/policycenter/b2c/uk-ua/) | [Налаштування реклами](https://www.wbdprivacy.com/opt-out/?lang=uk) | [Таблиця правових підстав](https://www.wbdprivacy.com/policycenter/legalbases/uk-ua/) |
 
   
 
