@@ -1,7 +1,3 @@
-Notice
-
-Due to the ongoing global Microsoft outage, our email customer service channel is unavailable right now. Don't worry, for urgent enquiries you can still contact us on our Customer Helpline (lines open Mon to Fri, 9am to 5pm) or by sending us a direct message on social media. Thanks for your understanding.
-
    
 
 Energia Cookie Policy
