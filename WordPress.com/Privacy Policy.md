@@ -251,7 +251,7 @@ The personal information we share includes online identifiers; internet or other
 
 ### Contacting Us About These Rights
 
-You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “[How to Reach Us](https://automattic.com/privacy/#how-to-reach-us)” to, well, find out how to reach us.
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “[How to Reach Us](https://automattic.com/privacy/#toc-header-26)” to, well, find out how to reach us.
 
 When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
 
@@ -291,7 +291,7 @@ _Woo services include WooCommerce, WooPayments, WooCommerce Shipping, WooCommerc
 11\. How to Reach Us
 --------------------
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the [Your Rights section](https://automattic.com/privacy/#your-rights) above, please contact us through our [web form](https://wordpress.com/help/contact) or via [email](mailto:privacypolicyupdates@automattic.com). These are the fastest ways to get a response to your inquiry, but you can also contact us by telephone at 1-877-273-3049.
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the [Your Rights section](https://automattic.com/privacy/#your-rights) above, please contact us through our [web form](https://wordpress.com/support/contact/) or via [email](mailto:privacypolicyupdates@automattic.com). These are the fastest ways to get a response to your inquiry, but you can also contact us by telephone at 1-877-273-3049.
 
 12\. Other Things You Should Know (Keep Reading!)
 -------------------------------------------------
