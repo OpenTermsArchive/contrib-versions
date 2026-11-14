@@ -1,8 +1,8 @@
-Privacy
-=======
-
 *   [Home](https://www.vodafone.ie/)
 *   Privacy
+
+Privacy
+=======
 
 #### Get full control to manage your privacy
 
