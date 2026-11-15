@@ -126,7 +126,7 @@ Other languages:
 *   [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "Policy:လွတ်လပ်ခွင့်ဆိုင်ရာမူဝါဒ (32% translated)")
 *   [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (23% translated)")
 *   [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sat "ᱟᱹᱨᱤ: ᱩᱱᱩᱠᱩ ᱟᱹᱱᱟᱹᱨᱤ (12% translated)")
-*   [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "개인 정보 정책 (91% translated)")
+*   [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "정책:개인 정보 정책 (93% translated)")
 *   [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私政策 (100% translated)")
 *   [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (99% translated)")
 *   [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (23% translated)")
