@@ -63,8 +63,8 @@ About Us
 
 | **Service Provider** | **Spark Mail Limited** |
 | --- | --- |
-| **Registration number** | 630281 |
-| **VAT** | IE 3560869EH |
+| **Registration number** | 630862 |
+| **VAT** | IE3560874UH |
 | **Address** | Glandore Business Centres, 26-27 Fitzwilliam Place, Fitzwilliam Hall, Dublin 2, D02T292, Ireland |
 | **Email** | [dpo@sparkmailapp.com](mailto:dpo@sparkmailapp.com) — for privacy inquiries |
 | [support@sparkmailapp.com](mailto:support@sparkmailapp.com) — for other inquiries |
