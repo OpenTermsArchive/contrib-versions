@@ -10,6 +10,7 @@ Please note that we only collect and use the bare minimum of information needed.
 Unless explained here, any capitalized terms have the same meaning as in our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
 
 1.  Introduction
+    ------------
     
     Please read this Privacy Policy carefully to understand our policies and practices regarding your personal data. By using our Services and/or visiting our Websites, you confirm that you have read this Privacy Policy and agree to be bound by it. If you do not agree with any part of this Privacy Policy, please refrain from accessing/using our Services and Websites.
     
@@ -18,6 +19,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     **PLEASE NOTE:** To help you understand this Privacy Policy, we've included a short summary at the beginning of each section. While these summaries are not legally binding, they highlight the key points of the text using clear everyday language. For the full details, be sure to read the actual text of the Privacy Policy.
     
 2.  Service-specific privacy notices
+    --------------------------------
     
     Summary:
     
@@ -37,6 +39,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     Contractual terms, supplemental privacy statements, or notices may also provide more information on your personal data.
     
 3.  Personal data we process
+    ------------------------
     
     Summary:
     
@@ -87,6 +90,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     3.9. When we maintain security of your Account and our Services
     
 4.  Sharing your personal data
+    --------------------------
     
     Summary:
     
@@ -121,7 +125,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     **With your consent.** In addition to the reasons identified above, we may request your permission to share your personal information for specific purposes. In these cases, we will notify you of the fact in advance and ask for your consent before you provide the personal data (or before the personal data you have already provided is shared). You may revoke your consent at any time by contacting us via email at [privacy@nordaccount.com](mailto:privacy@nordaccount.com) (but keep in mind that this will only affect future operations, not any data processing that has already been carried out).
     
-    Cross-border transfers
+    ### Cross-border transfers
     
     As a global company, we may process your personal data outside of your country of residence to deliver our Services and operate our Websites effectively. For example, your personal data may be transferred internationally, including to countries where Nord operates or where our trusted third-party service providers are located (such as the United States). Some of these countries may not offer the same level of data protection as your home country, but in all cases, we have implemented appropriate safeguards to ensure that your personal data remains protected in accordance with this Privacy Policy and all applicable data protection laws. These safeguards may include:
     
@@ -131,6 +135,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     These measures help ensure that your personal data receives an adequate level of protection regardless of where it is processed.
     
 5.  Your privacy rights
+    -------------------
     
     Summary:
     
@@ -148,19 +153,20 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     *   **Right to withdraw consent.** Even if you had previously given your consent to the processing of your data for a specific purpose, you have the right to withdraw that consent.
     *   **Right to lodge a complaint**. You can always exercise your rights by contacting us directly or, if all else fails, by lodging a complaint with a supervisory authority.
     
-    Rights requests
+    ### Rights requests
     
     To exercise your rights, ask questions, or submit complaints regarding our privacy practices, or to appeal our decisions on your privacy rights requests, please contact us using the details provided in the "Contact us" section.
     
     **PLEASE NOTE:** You will be required to complete the Account verification process at a level appropriate to the request to verify you are the rightful owner of the Account in question. Only you (or an individual authorized by you) may make a request regarding your personal data. If you are an authorized representative acting on someone else's behalf, you may be asked to provide proof that the individual gave you signed permission to submit the request on their behalf.
     
-    Account deletion
+    ### Account deletion
     
     You can delete your Account at any time. Log in to your [Nord Account(opens in a new tab)](https://nordaccount.com/login/password?challenge=4%7C9bc9008c507f43648e747b6b3ae51b96), navigate to "Account settings," go to the "Account deletion" section, and click the "Delete account" button. You will have to verify this request via email. Alternatively, you can delete your Account using our applications by following the instructions provided in corresponding [support guides(opens in a new tab)](https://support.nordvpn.com/hc/en-us/articles/19477434542865-How-to-delete-my-NordVPN-account).
     
     Deleting your Account permanently removes your access to all Nord products and Services linked to that Account, including NordVPN, NordPass, and NordLocker. If you wish to delete your personal data associated only with a specific Nord product (such as NordVPN, NordPass or NordLocker), you will have to initiate the deletion separately. If you are unable to delete your Account using the means outlined above, please contact us using the details provided in the "Contact us" section.
     
 6.  Your marketing choices
+    ----------------------
     
     Summary:
     
@@ -180,6 +186,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
         *   **Websites:** You can manage your privacy preferences at any time using the "Cookie Preferences" link (or, depending on your location, the "Your privacy choices" link) in the footer of our Websites.
         *   **Applications:** You have full control and can disable analytics and advertising at first use of applications and any time later in your "Privacy Preferences" settings, located in the application settings.
 7.  Data security
+    -------------
     
     Summary:
     
@@ -196,6 +203,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     **PLEASE NOTE:** No company can guarantee the total security of your internet communications because no technology is infallible. By using our Services/Websites, you expressly acknowledge that we cannot guarantee 100% security for any personal data provided to or received by us through the Services/Websites, and that any information received from you through the Services/Websites is provided at your own responsibility. If you have any reason to believe that your interactions with us are no longer secure, please notify us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
     
 8.  Data retention and deletion
+    ---------------------------
     
     Summary:
     
@@ -203,11 +211,11 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     Nord will only keep your personal data for as long as it is necessary to provide you with our Services, or for as long as we have other legitimate grounds to do so (but not longer than permitted or required by law).
     
-    Information retained until your Account is deleted
+    ### Information retained until your Account is deleted
     
     We retain some of your data while your Account exists, including account details such as your email address, notification preferences, and certain usage information. This helps us improve our Services, understand how users interact with our features, and personalize your experience. You can delete your Account at any time.
     
-    Retention for specific purposes
+    ### Retention for specific purposes
     
     We may need to retain certain information for a set amount of time (which may extend beyond the deletion of your Account) to meet business or legal requirements:
     
@@ -217,19 +225,20 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     Please note that some of our Services may be subject to their own privacy notices or policies (as listed in the "Service-specific privacy notices" section), which may specify different lengths of time for data retention depending on the nature of the Service or applicable legal requirements.
     
-    Secure disposal
+    ### Secure disposal
     
     When we no longer have a valid reason to retain your personal data, it will either be:
     
     *   Permanently and securely deleted using industry-standard data destruction methods, or
     *   Irreversibly anonymized so it can no longer be linked to you.
 9.  Country-specific provisions
+    ---------------------------
     
     Summary:
     
     While some of your rights are rooted in this Privacy Policy, you may have additional rights available to you depending on your country. If you want to exercise them (or if you want to know more), simply contact us.
     
-    For users in the United States
+    ### For users in the United States
     
     Sharing in the last twelve (12) months
     
@@ -243,7 +252,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     For details on the use of cookies and tracking technologies on our Websites (including how we respond to "Do not track" signals), please see our [Cookie Policy](https://my.nordaccount.com/legal/cookie-policy/).
     
-    Additional rights for California residents
+    ### Additional rights for California residents
     
     In addition to the rights described in the "Your privacy rights" section, California residents may also have the following rights under the provisions of the CCPA applying to the processing of personal information:
     
@@ -251,11 +260,12 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     *   **Right to non-discrimination.** You have the right to not receive discriminatory treatment if and when you exercise your privacy rights under the CCPA.
     *   **Right to limit the use of sensitive personal information.** In general, you have the right to limit the use of your sensitive personal information (as described in the CCPA) when such use goes beyond that which is necessary for providing the Service (or for certain other permissible purposes, like fraud prevention, customer service, or quality control). However, Nord does not process sensitive information in a manner which might give rise to this right.
     
-    For users in the Republic of Korea
+    ### For users in the Republic of Korea
     
     As set out in this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties (along with additional Korea-specific terms) is provided in the Korean-specific Privacy Policy [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
     
 10.  Children's data
+     ---------------
      
      Summary:
      
@@ -264,30 +274,32 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
      We do not offer our Services to children and, therefore, do not knowingly collect or solicit personal data from anyone under the age of eighteen (18). If you are such an individual, please do not attempt to submit any personal data about yourself to Nord.
      
 11.  Other terms
+     -----------
      
      Summary:
      
      We will do our best to keep your personal data safe, but you are ultimately responsible for your actions online while using our Services and Websites. In addition, this Privacy Policy does not apply to other websites, even if you got to them by following a link on our page. Finally, this document is not set in stone — but if we do change it in a way that significantly concerns you, we'll let you know.
      
-     Limitation of liability
+     ### Limitation of liability
      
      It is important that you use our Services and Websites carefully and responsibly — if your actions violate someone else's privacy, rights, or any applicable laws, the responsibility lies with you and you alone. Nord is not liable for any consequences resulting from your unlawful, intentional, or careless actions, or for events that go beyond what Nord could reasonably control or foresee. For more details, please refer to our [General Terms](https://my.nordaccount.com/legal/terms-of-service/).
      
-     Links to other websites
+     ### Links to other websites
      
      Our apps or Websites may contain links to third-party websites (such as social media platforms), which are not operated by us. If you follow a link to one of these websites and share your personal data with them, that data will be handled according to their own privacy policies, which may differ from ours. We strongly encourage you to review them before providing any personal information.
      
-     Prevailing language
+     ### Prevailing language
      
      For all intents and purposes, the English language version of this Privacy Policy shall be the original, governing instrument and understanding between you and us. In the event of any conflict between this English language version of the Privacy Policy and any subsequent translation of it into any other language, the English language version shall prevail.
      
-     Updates to this Privacy Policy
+     ### Updates to this Privacy Policy
      
      We're continuously developing and improving our Services and Websites, which may require us to update this Privacy Policy from time to time. When the changes are significant and materially impact how we process your personal data, we will inform you in advance using reasonable means (such as in-app notifications, messages on our Websites, or by email).
      
      We always include the "last updated" date at the top of this Privacy Policy so that you know when changes were made. Unless stated otherwise, any updated version becomes effective as soon as it is published on the Website. We encourage you to review this Privacy Policy regularly to stay informed about how we protect your personal data. By continuing to use our Services and Websites after the changes are published, you agree to the updated terms.
      
 12.  Contact us
+     ----------
      
      Summary:
      
