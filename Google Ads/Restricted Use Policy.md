@@ -122,7 +122,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 > 
-> > Ads should respect user preferences and comply with legal regulations. Google Ads restricts certain kinds of sexual content in ads and destinations, which will only show in limited scenarios based on user search queries, user age and local laws where the ad is being served. Ads must not target minors.
+> > Google Ads restricts certain kinds of sexual content in ads and destinations. These kinds of ads will show in limited scenarios based on the user’s preferences, search queries, and age, as well as local laws where the ad is being served. Ads must not target minors.
 > > 
 > > **Examples of restricted sexual content (non-exhaustive)**: Visible genitalia and female breasts, sex toys, strip clubs, sexually suggestive live chat, models in sexualized poses
 > 
