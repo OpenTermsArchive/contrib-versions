@@ -52,7 +52,7 @@ Except as expressly authorised by the Guardian, you are not allowed to create a 
 
 [Our robots.txt](https://www.theguardian.com/robots.txt) notice does not, and shall not, constitute the Guardian’s permission or approval for the purposes of these terms and conditions. These terms and conditions shall prevail in all respects over our robots.txt notice.
 
-If you wish to use our content other than as permitted by these terms and conditions, or as otherwise set out in the [Guardian’s Open Licence Terms](https://www.theguardian.com/info/2022/nov/01/open-licence-terms), please contact us at [licensing@theguardian.com](mailto:licensing@theguardian.com) or visit our [Licensing website](https://licensing.theguardian.com/)
+If you wish to use our content other than as permitted by these terms and conditions, or as otherwise set out in the [Guardian’s Open Licence Terms](https://www.theguardian.com/info/2022/nov/01/open-licence-terms), please contact us at licensing@theguardian.com or visit our [Licensing website](https://licensing.theguardian.com/).
 
 If you operate a media monitoring service , then you are obliged to contact [NLA Media Access Ltd](http://www.nla.co.uk/) directly to discuss your licensing requirements.
 
@@ -97,7 +97,7 @@ You understand that the technical processing and transmission of the Guardian Si
 
 If you are under 16, you confirm that you have permission of your parent or guardian to submit content.
 
-Any queries regarding copyright and your content should be directed in the first instance to [rights@theguardian.com](mailto:rights@theguardian.com).
+Any queries regarding copyright and your content should be directed in the first instance to rights@theguardian.com.
 
 Readers of our print products submitting content to Guardian News & Media should [read our terms here](https://www.theguardian.com/info/2011/oct/06/submitting-content-to-print-publications).
 
@@ -133,10 +133,10 @@ To find out what personal data we collect and how we use it, please visit our pr
 
 Please note that we may change these terms and conditions from time to time at our sole discretion and we reserve the right to do so without your consent. Any revised terms and conditions will be applicable at the time of posting on the Guardian Site. Please ensure that you review these terms and conditions regularly as you will be deemed to have accepted a variation if you continue to use the Guardian Site after it has been posted.
 
-**11\. Governing law & jurisdiction (except for US users)**
------------------------------------------------------------
+**11\. Governing law & jurisdiction**
+-------------------------------------
 
-These terms and conditions are governed by English law and the parties agree to submit to the exclusive jurisdiction of the English courts, provided that use of the Guardian Site in the United States is governed by the Section below entitled _Governing law & jurisdiction (for US users)._
+These terms and conditions are governed by English law and the parties agree to submit to the exclusive jurisdiction of the English courts. _._
 
 **12\. Indemnification**
 ------------------------
@@ -168,14 +168,9 @@ If you are a US copyright owner or an agent of a US copyright owner and believe 
 (v) a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorised to act on behalf of the owner of an exclusive right that is allegedly infringed; and  
 (vi) your physical or electronic signature;
 
-Guardian’s designated copyright agent to receive notifications of claimed infringement is: [dmca@theguardian.com](mailto:dmca@theguardian.com). Only DMCA notices should go to the designated copyright agent. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
+Guardian’s designated copyright agent to receive notifications of claimed infringement is: dmca@theguardian.com. Only DMCA notices should go to the designated copyright agent. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
 
-**16\. Governing law & jurisdiction (for US users)**
-----------------------------------------------------
-
-If you have accessed the Guardian Site from the US, these terms and conditions are governed by the laws of the United States of America and the laws of the State of New York. You agree that exclusive jurisdiction for any claim or dispute with Guardian or relating in any way to your use of the Guardian Site resides in the courts of the County of New York, State of New York, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the County of New York, State of New York, in connection with any such dispute and including any claim involving Guardian News & Media LLC or its affiliates, subsidiaries, employees, contractors, officers, directors, telecommunication providers and content providers. You agree that any cause of action or claim that you may have with respect to your use of the Guardian Site must be commenced within one year after the act or omission giving rise to the claim or cause of action arose.
-
-**17\. Additional disclaimers (for US and Australian users)**
+**16\. Additional disclaimers (for US and Australian users)**
 -------------------------------------------------------------
 
 Visitors to the Guardian Site agree that their use of the Guardian Site is at their own sole risk. The Guardian Site is provided “as is” and “as available,” without warranty of any kind, either express or implied including but not limited to: (i) any warranties concerning the availability, accuracy, appropriateness, reliability, timeliness, or usefulness of the content of the Guardian Site; and (ii) any warranties of title, warranty of non-infringement, or warranties of merchantability or fitness for a particular purpose. Guardian also makes no representations and warranties as to any linked sites and Guardian has no liability or responsibility with respect to your use of such sites. In some instances, content made available on the Guardian Site may represent the opinions and judgments of providers or users, such as user content. Guardian and its affiliates do not endorse nor shall they be responsible or liable for the accuracy or reliability of any statement made on the Guardian Site by anyone other than authorised Guardian employees acting in such capacity.
@@ -184,12 +179,17 @@ This disclaimer of liability applies to any damages or injuries caused by the Gu
 
 Applicable law may not allow the exclusion of implied warranties, so the above exclusion may not apply to you.
 
-**18\. Limitation of liability (for US and Australian users)**
+**17\. Limitation of liability (for US and Australian users)**
 --------------------------------------------------------------
 
 YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, IN NO EVENT WILL GUARDIAN OR ITS AFFILIATES, INCLUDING, WITHOUT LIMITATION, THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS, BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT OR INDIRECT LOSS, DAMAGE, COST, EXPENSE OR LIABILITY OF ANY KIND (“LOSS”) ARISING IN ANY WAY OUT OF OR IN CONNECTION WITH THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE GUARDIAN SITE, INCLUDING (WITHOUT LIMITATION): (i) DAMAGES FOR BUSINESS INTERRUPTION, LOSS OF BUSINESS AND OTHER PROFITS, LOSS OF PROGRAMS, COST OF REPLACING EQUIPMENT OR SOFTWARE OR LOSS OF RECORDS, INFORMATION OR DATA, LOSS OF USE OF DATA, LOSS OF REVENUE, LOSS OF GOODWILL, LOSS OF CUSTOMERS, LOSS OF OR DAMAGE TO REPUTATION, LOSS OF CAPITAL, DOWNTIME COSTS, LOSS UNDER OR IN RELATION TO ANY OTHER CONTRACT, OR LOSS OF ANTICIPATED SAVINGS OR BENEFITS; (ii) ANY INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL LOSS; OR (iii) ANY LOSS ATTRIBUTABLE TO ERRORS, OMISSIONS, OR OTHER INACCURACIES IN THE GUARDIAN SITE. THE EXCLUSION OF LIABILITY IN THIS SECTION 17 APPLIES EVEN IF GUARDIAN SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS.
 
 BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR PARTICULAR KINDS OF LOSS, IN SUCH STATES OR JURISDICTIONS, GUARDIAN’S LIABILITY SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW (THEREBY MINIMIZING GUARDIAN’S LIABILITY TO YOU TO THE LOWEST AMOUNT THAT APPLICABLE LAW PERMITS).
+
+**18\. Waiver (for US users)**
+------------------------------
+
+IN ADDITION TO THE OTHER LIMITATIONS AND EXCLUSIONS IN THESE TERMS AND CONDITIONS, FOR USERS IN THE UNITED STATES OF AMERICA ONLY, THE PARTIES (WE AND YOU) WAIVE THE RIGHT TO A JURY TRIAL AND TO PARTICIPATE IN A CLASS ACTION, OR ANY OTHER FORM OF REPRESENTATIVE ACTION, WHETHER IN COURT OR IN ARBITRATION. EACH PARTY MAY PROCEED IN ANY DISPUTE ONLY IN THAT PARTY’S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS ACTION OR CLASS ARBITRATION.YOU ALSO AGREE THAT ANY CAUSE OF ACTION OR CLAIM THAT YOU MAY HAVE WITH RESPECT TO YOUR USE OF THE GUARDIAN SITE MUST BE COMMENCED WITHIN ONE YEAR AFTER THE ACT OR OMISSION GIVING RISE TO THE CLAIM OR CAUSE OF ACTION.
 
 **19\. Exclusion of warranties (for Australian users)**
 -------------------------------------------------------
@@ -263,5 +263,7 @@ New paragraph 8 to Section 3 beginning “_Our robots.txt notice does not, and s
 6 March 2025: Reference to Guardian Ad-Lite added in section 5.
 
 18 November 2025: Reference to “_parent companies_” and “_affiliates_” in the first paragraph deleted.
+
+16 November 2026: Added clause 18 waiver for US users. Amended governing law and jurisdiction so English law and jurisdiction applies to US users.
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
