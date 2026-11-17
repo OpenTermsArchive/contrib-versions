@@ -297,6 +297,8 @@ Older versions
 
 ------------------
 
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/37F6xU8EcaPAG8vCBvh9kw/375fb2df090fce3d9cee657efdf2e86a/2026-09-28_-_2026-12-09.pdf) Gällde fr.o.m 2026-09-28 t.om. 2026-12-09
+    
 *   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/751k78QJwDUHALFRY8tEqb/8ea9842ef14ebda950cd0fecc629cd51/2026-04-11_-_2026-09-27_.pdf) Gällde fr.o.m 2026-04-11 t.om. 2026-09-28
     
 *   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/55NmkXUmGLITjmFnnxAP5l/44474346f23054beb699ca0c687034ee/2026-01-16_-_2026-04-10.pdf) Gällde fr.o.m 2025-01-16 t.om. 2026-04-10
