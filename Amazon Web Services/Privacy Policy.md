@@ -1,45 +1,47 @@
 Privacy Notice
 --------------
 
-Last Updated: May 18, 2026
+Last Updated: Nov 17, 2026
 
-View the [prior version](https://aws.amazon.com/privacy/aws-privacy-prior-20251016/) of this Privacy Notice.   
+View the [prior version](https://aws.amazon.com/privacy/aws-privacy-prior-20260518/) of this Privacy Notice.   
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
 This Privacy Notice does not apply to the “content” processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the [AWS Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/) for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.
 
-*   [Personal Information We Collect](#Personal_Information_We_Collect)
-*   [How We Use Personal Information](#How_We_Use_Personal_Information)
-*   [Cookies](#Cookies)
-*   [How We Share Personal Information](#How_We_Share_Personal_Information)
-*   [Location of Personal Information](#Location_of_Personal_Information)
-*   [How We Secure Information](#How_We_Secure_Information)
-*   [Advertising](#Advertising)
-*   [Access and Choice](#Access_and_Choice)
-*   [Children’s Personal Information](#Children.E2.80.99s_Personal_Information)
-*   [Third Party Sites and Services](#Third_Party_Sites_and_Services)  
+*   [Personal Information We Collect](#personal-information-we-collect)
+*   [How We Use Personal Information](#how-we-use-personal-information)
+*   [Cookies](#cookies)
+*   [How We Share Personal Information](#how-we-share-personal-information)
+*   [Location of Personal Information](#location-of-personal-information)
+*   [How We Secure Information](#how-we-secure-information)
+*   [Advertising](#advertising)
+*   [Access and Choice](#access-and-choice)
+*   [Children’s Personal Information](#childrens-personal-information)
+*   [Third Party Sites and Services](#third-party-sites-and-services)  
     
-*   [Retention of Personal Information](#Retention_of_Personal_Information)
-*   [Contacts, Notices, and Revisions](#Contacts.2C_Notices.2C_and_Revisions)
-*   [EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework](#EU-US_Data_Privacy_Framework.2C_UK_Extension.2C_and_Swiss-US_Data_Privacy_Framework)  
+*   [Retention of Personal Information](#retention-of-personal-information)
+*   [Contacts, Notices, and Revisions](#contacts-notices-and-revisions)
+*   [EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework](#eu-us-data-privacy-framework-uk-extension-and-swiss-us-data-privacy-framework)  
     
-*   [Additional Information for Certain Jurisdictions](#Additional_Information_for_Certain_Jurisdictions)
+*   [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
 *   [Examples of Information Collected](#Examples_of_Information_Collected)
 
-### Personal Information We Collect
+Personal Information We Collect
+-------------------------------
 
 We collect your personal information in the course of providing AWS Offerings to you.
 
 Here are the types of information we gather:
 
-*   **Information You Give Us:** We collect any information you provide in relation to AWS Offerings. Click [here](https://aws.amazon.com/privacy/#Information_You_Give_Us) to see examples of information you give us.
-*   **Automatic Information:** We automatically collect certain types of information when you interact with AWS Offerings. Click [here](https://aws.amazon.com/privacy/#Automatic_Information) to see examples of information we collect automatically.
-*   **Information from Other Sources:** We might collect information about you from other sources, including service providers, partners, and publicly available sources. Click [here](https://aws.amazon.com/privacy/#Information_from_Other_Sources) to see examples of information we collect from other sources.
+*   **Information You Give Us:** We collect any information you provide in relation to AWS Offerings. Click [here](#Information_You_Give_Us) to see examples of information you give us.
+*   **Automatic Information:** We automatically collect certain types of information when you interact with AWS Offerings. Click [here](#Automatic_Information) to see examples of information we collect automatically.
+*   **Information from Other Sources:** We might collect information about you from other sources, including service providers, partners, and publicly available sources. Click [here](#Information_from_Other_Sources) to see examples of information we collect from other sources.
 
-See [examples of information we collect or receive](https://aws.amazon.com/privacy/#Information_You_Give_Us).
+See [examples of information we collect or receive](#Examples_of_Information_Collected).
 
-### How We Use Personal Information
+How We Use Personal Information
+-------------------------------
 
 We use your personal information to operate, provide, and improve AWS Offerings. Our purposes for using personal information include:
 
@@ -52,11 +54,13 @@ We use your personal information to operate, provide, and improve AWS Offerings.
 *   **Fraud and Abuse Prevention and Credit Risks:** We use your personal information to prevent and detect fraud and abuse in order to protect the security of our customers, AWS, and others. We may also use scoring methods to assess and manage credit risks.
 *   **Purposes for Which We Seek Your Consent:** We may also ask for your consent to use your personal information for a specific purpose that we communicate to you.
 
-### Cookies
+Cookies
+-------
 
 To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our  [Cookie Notice](https://aws.amazon.com/legal/cookies/).
 
-### How We Share Personal Information
+How We Share Personal Information
+---------------------------------
 
 Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
@@ -66,27 +70,30 @@ Information about our customers is an important part of our business and we are 
 *   **Protection of Us and Others:** We release account and other personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and other agreements, or protect the rights, property, or security of AWS, our customers, or others. This includes exchanging information with other companies and organizations for fraud prevention and detection and credit risk reduction.
 *   **At Your Option:** Other than as set out above, you will receive notice when personal information about you might be shared with third parties, and you will have an opportunity to choose not to share the information.
 
-### Location of Personal Information
+Location of Personal Information
+--------------------------------
 
 Amazon Web Services, Inc. is located in the United States, and our affiliated companies are located throughout the world. Depending on the scope of your interactions with AWS Offerings, your personal information may be stored in or accessed from multiple countries, including the United States. Whenever we transfer personal information to other jurisdictions, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by applicable data protection laws.
 
-### How We Secure Information
+How We Secure Information
+-------------------------
 
-#### At AWS, security is our highest priority. We design our systems with your security and privacy in mind.
+**At AWS, security is our highest priority. We design our systems with your security and privacy in mind.**
 
 *   We maintain a wide variety of compliance programs that validate our security controls. Learn more about our [compliance programs at AWS Cloud Security](https://aws.amazon.com/compliance/programs/).
 *   We protect the security of your information during transmission to or from AWS websites, applications, products, or services by using encryption protocols and software.
 *   We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
-*   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information. Our security procedures mean that we may request proof of identity before we disclose personal information to you.  
-    
+*   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information. Our security procedures mean that we may request proof of identity before we disclose personal information to you.
 
-### Advertising
+Advertising
+-----------
 
 To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Instead, we use an identifier like a cookie or a unique code derived from your contact information (such as a hashed email address). If you want to adjust your personalized advertising preferences, refer to the “Access and Choice” section below.
 
-### Access and Choice
+Access and Choice
+-----------------
 
-You can view, update, and delete certain information about your account and your interactions with AWS Offerings. [See examples of information that you can access](https://aws.amazon.com/privacy/#Information_You_Can_Access). If you cannot access or update your information yourself, you can always contact us for assistance.
+You can view, update, and delete certain information about your account and your interactions with AWS Offerings. [See examples of information that you can access](#Information_You_Can_Access). If you cannot access or update your information yourself, you can always contact us for assistance.
 
 You have choices about the collection and use of your personal information. Many AWS Offerings include settings that provide you with options as to how your information is being used. You can choose not to provide certain information, but then you might not be able to take advantage of certain AWS Offerings.
 
@@ -94,22 +101,25 @@ You have choices about the collection and use of your personal information. Many
 *   **Communications:** If you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/preferences) or the [AWS Email Preference Center](https://pages.awscloud.com/communication-preferences.html). If you do not want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
 *   **Advertising:** If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the “Your Privacy Choices” link in the footer of the AWS site you’re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the [Your Privacy Choices](https://pulse.aws/application/ZRPLWLL6?p=0) [](https://aws.amazon.com/privacy/#_msocom_1)and by following the Cookie Preferences instructions below.
 *   **Cookies Preferences:** You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The "Help" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
-*   **Sellers and Amazon Partners:** Sellers and Amazon Partner Network members can add, update, or delete information in the [AWS Marketplace](https://aws.amazon.com/marketplace/account-management) and [APN Partner Central](https://partnercentral.awspartner.com/SiteLogin), respectively.  
-    
+*   **Sellers and Amazon Partners:** Sellers and Amazon Partner Network members can add, update, or delete information in the [AWS Marketplace](https://aws.amazon.com/marketplace/account-management) and [APN Partner Central](https://partnercentral.awspartner.com/SiteLogin), respectively.
 
-### Children’s Personal Information
+Children’s Personal Information
+-------------------------------
 
 We don’t provide AWS Offerings for purchase by children. If you’re under 18, you may use AWS Offerings only with the involvement of a parent or guardian.
 
-### Third Party Sites and Services
+Third Party Sites and Services
+------------------------------
 
 AWS Offerings may embed content provided by others or include links to other websites and applications. These companies may collect information about you when you interact with their content or services. We are not responsible for the practices of these companies. Please consult their privacy policies to learn about their data practices.
 
-### Retention of Personal Information
+Retention of Personal Information
+---------------------------------
 
 We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.
 
-### Contacts, Notices, and Revisions
+Contacts, Notices, and Revisions
+--------------------------------
 
 If you have any concerns about privacy at AWS, please  [contact us](https://console.aws.amazon.com/support/home) with a thorough description, and we will try to resolve the issue for you. 
 
@@ -121,11 +131,13 @@ If you interact with AWS Offerings on behalf of or through your organization, th
 
 Our business changes constantly, and our Privacy Notice may also change. You should check our website frequently to see recent changes. You can see the date on which the latest version of this Privacy Notice was posted. Unless stated otherwise, our current Privacy Notice applies to all personal information we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice.
 
-### EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
+EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
+-------------------------------------------------------------------------------
 
 Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Learn more about the [EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380).
 
-### Additional Information for Certain Jurisdictions
+Additional Information for Certain Jurisdictions
+------------------------------------------------
 
 We provide additional information about our controllers and data protection officers (as applicable), the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.
 
@@ -333,7 +345,7 @@ We provide additional information about our controllers and data protection offi
     
     The details of delegation for event management can be found on the relevant event page.
     
-    AWS may share your personal information with the following third-party service provider(s) (delegatees) outside of Korea as described below:
+    AWS may share your personal information with the following third-party service provider(s) (delegatees) outside of Korea as described below, as necessary to enter into or perform our contract with you under Article 28-8(1)3 of the Personal Information Protection Act: 
     
     | Name of Party (Contact Information) | Country | Transferred Items | Purpose of Transfer | Date and Method of Transfer | Period of Retention |
     | --- | --- | --- | --- | --- | --- |
