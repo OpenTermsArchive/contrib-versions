@@ -1,17 +1,17 @@
-Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-03-20T14:18:35+01:00
+Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-11-17T12:11:28+01:00
 
 Privacy Policy
 ==============
 
 ### 1\. General
 
-**1.1** This privacy policy (**“Privacy Policy”**) applies when Freja eID Group AB, Corp. ID. No. 556587-4376, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (**“Freja eID Group”**) provides an electronic identification service via the Freja eID mobile application (**“Service”**).
+**1.1** This privacy policy (**“Privacy Policy”**) applies when Freja eID Sweden AB, Corp. ID. No. 556587-4376, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (**“Freja eID”**) provides an electronic identification service via the Freja eID mobile application (**“Service”**).
 
 **1.2** You have registered as a user of the Service according to the Terms of Use for the Service. This Privacy Policy constitutes an integral part of the Terms of Use.
 
 **1.3** You should always feel secure when providing personal data to us. This Privacy Policy is designed to show you how your personal data is processed securely in accordance with applicable legislation.
 
-**1.4** When the Service is used, several parties can be involved. This Privacy Policy only applies in relation to the processing performed by Freja eID Group in its capacity as data controller. Therefore, Freja eID Group recommends that you also read the privacy policies of the other parties who may be involved in the use of the Service, for example, the parties who provide the services on which you can use your Freja eID.
+**1.4** When the Service is used, several parties can be involved. This Privacy Policy only applies in relation to the processing performed by Freja eID in its capacity as data controller. Therefore, Freja eID recommends that you also read the privacy policies of the other parties who may be involved in the use of the Service, for example, the parties who provide the services on which you can use your Freja eID.
 
 **1.5** In addition to the requirements set forth in the Terms of Use, you must also accept this Privacy Policy in order to use the Service. When we process your data based on your consent, you always have the right to withdraw your consent without this affecting your options to use the Service in other ways.
 
@@ -19,15 +19,15 @@ Privacy Policy
 
 **2.1** A data controller is the entity that determines the purpose and means of the processing of personal data. A data processor is an entity that processes personal data of behalf of the data controller and in accordance with its instructions.
 
-**2.2** Freja eID Group is the data controller for the processing of your personal data within the Freja eID service and is responsible for ensuring that such processing is carried out in accordance with applicable legislation.
+**2.2** Freja eID is the data controller for the processing of your personal data within the Freja eID service and is responsible for ensuring that such processing is carried out in accordance with applicable legislation.
 
-**2.3** To the extent that the Service is used in connection with an organisation eID, a valid Freja eID issued to you as a private individual is required. The organisation (for example your employer) acts as a data controller for the data it process in relation to your role within the organisation (for example employment role or memberID). In such cases, Freja eID Group processes personal data on behalf of the organisation and therefore acts as a data processor.
+**2.3** To the extent that the Service is used in connection with an organisation eID, a valid Freja eID issued to you as a private individual is required. The organisation (for example your employer) acts as a data controller for the data it process in relation to your role within the organisation (for example employment role or memberID). In such cases, Freja eID processes personal data on behalf of the organisation and therefore acts as a data processor.
 
-Freja eID Group remains the data controller for the personal data processed in relation to your private Freja eID.
+Freja eID remains the data controller for the personal data processed in relation to your private Freja eID.
 
 This means that different parties may act as data controllers for different parts of the processing of your personal data.
 
-**2.4** Freja eID Group has appointed Mrs. Mikaela Moen as the Data Privacy Officer (“Data Privacy Officer”). The Data Privacy Officer’s duty is also to monitor that Freja eID Group processes personal data in accordance with applicable legislation.
+**2.4** Freja eID has appointed Mrs. Mikaela Moen as the Data Privacy Officer (“Data Privacy Officer”). The Data Privacy Officer’s duty is also to monitor that Freja eID processes personal data in accordance with applicable legislation.
 
 The Data Protection Officer’s contact information is:
 
@@ -36,11 +36,11 @@ The Data Protection Officer’s contact information is:
 
 ### 3\. How We Process Your Personal Data
 
-**3.1** Freja eID Group will process your personal data for the following purposes and for the following legal reasons.
+**3.1** Freja eID will process your personal data for the following purposes and for the following legal reasons.
 
-**3.2** You can withdraw your consent regarding Freja at any time, in accordance with point 1.5, by notifying Freja eID Group in written form.
+**3.2** You can withdraw your consent regarding Freja at any time, in accordance with point 1.5, by notifying Freja eID in written form.
 
-**3.3** Freja eID Group shall not process your personal information for automated decision-making or profiling.
+**3.3** Freja eID shall not process your personal information for automated decision-making or profiling.
 
 **3.4** In addition to accepting the Terms of Use and this Privacy Policy, you can choose to give consent for certain personal data processing as described below. The legal basis for us to process this data will be your explicit consent.
 
@@ -248,7 +248,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 **Legal basis**:
 
 *   Employment contract between you and your employer
-*   Freja eID Group agreement with your employer on providing Organisation eID for processing employee data
+*   Freja eID agreement with your employer on providing Organisation eID for processing employee data
 
 **Data used for users with an added ID document and Freja+:**
 
@@ -264,7 +264,7 @@ In addition to the information processed for Freja Basic, the sections “Freja 
 
 ### For Information and Marketing
 
-**Purpose:** Enable targeted marketing to you as a user of the Service and Freja eID Group’s similar services via regular mail, email, SMS or the application (including market and customer analyses and market research)  
+**Purpose:** Enable targeted marketing to you as a user of the Service and Freja eID’s similar services via regular mail, email, SMS or the application (including market and customer analyses and market research)  
 **Legal basis:** Consent from you as a user.
 
 **Data used for Basic Users:**
@@ -308,11 +308,11 @@ For users obtaining Freja Plus with a driver’s license or an ID card issued by
 
 **4.1** Your personal data is stored as long as is needed to fulfil the objectives that require the data to be collected in accordance with this Privacy Policy and to comply with laws and regulatory requirements. Normally your personal data is stored for ten years in order for us to comply with the regulations. For information about how we store your health data related to the Covid Certificate, please see section 3.8.
 
-**4.2** At any time, you may cancel use of the Service by selecting “Deregister account” or a similar function in the Service and block the Service according to the instructions provided by Freja eID Group. Freja eID Group does not retain your personal data after you have cancelled use of the Service according to this section 4.2, unless it is required by law or to protect Freja eID Group’s legitimate interests, for example, in case of a legal proceeding.
+**4.2** At any time, you may cancel use of the Service by selecting “Deregister account” or a similar function in the Service and block the Service according to the instructions provided by Freja eID. Freja eID does not retain your personal data after you have cancelled use of the Service according to this section 4.2, unless it is required by law or to protect Freja eID’s legitimate interests, for example, in case of a legal proceeding.
 
 ### 5\. Who Your Personal Data Is Shared With
 
-**5.1** Freja eID Group will share your personal data with the parties you consent to sharing with, when identifying yourself with Freja eID. These are defined as third parties or specifically for Freja eID, Relying Parties as stated in the Terms of Use. If you do not consent to sharing your data, nothing will be shared.
+**5.1** Freja eID will share your personal data with the parties you consent to sharing with, when identifying yourself with Freja eID. These are defined as third parties or specifically for Freja eID, Relying Parties as stated in the Terms of Use. If you do not consent to sharing your data, nothing will be shared.
 
 Your data can also be shared via the digital ID-card to individuals or representatives of relying parties, stores or other establishments where you choose to physiclaly idenify yourself with the ID-card. Your data can also be shared via the Share your data feature from the home screen.
 
@@ -324,25 +324,25 @@ To 46elks AB, we provide the civil registration number, driving licence number a
 
 ### 6\. Transfer of Personal Data to Third Countries
 
-Freja eID Group will not transfer your personal data to any country outside the EU/EEA.
+Freja eID will not transfer your personal data to any country outside the EU/EEA.
 
 ### 7\. Your Rights
 
-**7.1** Freja eID Group, in its capacity as the data controller, is responsible for ensuring that your personal data is processed in accordance with applicable law.
+**7.1** Freja eID, in its capacity as the data controller, is responsible for ensuring that your personal data is processed in accordance with applicable law.
 
-**7.2** Freja eID Group shall, at your request or on its own initiative, correct, de-identify, delete or complete information that is determined to be incorrect, incomplete or misleading.
+**7.2** Freja eID shall, at your request or on its own initiative, correct, de-identify, delete or complete information that is determined to be incorrect, incomplete or misleading.
 
-**7.3** You have the right to require from Freja eID Group access, correction or deletion of your personal data (for example, if deletion is required according to applicable legislation), request restrictions on the continued processing of your personal data as well as the right to object to data processing (for example, if you question whether the personal data is correct or if the processing is legal). Freja eID Group shall notify each recipient regarding which personal data has been removed according to item 5 above if any corrections or deletions of the information as well as restrictions on further processing of the information occur according to item 7.
+**7.3** You have the right to require from Freja eID access, correction or deletion of your personal data (for example, if deletion is required according to applicable legislation), request restrictions on the continued processing of your personal data as well as the right to object to data processing (for example, if you question whether the personal data is correct or if the processing is legal). Freja eID shall notify each recipient regarding which personal data has been removed according to item 5 above if any corrections or deletions of the information as well as restrictions on further processing of the information occur according to item 7.
 
 **7.4** You are entitled to data portability, in other words, the right under certain circumstances to receive and transfer your personal data to another data controller in a structured, generally usable and machine-readable format.
 
-**7.5** Freja eID Group may process your personal data for direct marketing to you if you have consented to this. If you do not want Freja eID Group to use your personal data for direct marketing, you have the right to provide written notification of this to Freja eID Group at any time. Once Freja eID Group has received your notification, Freja eID Group shall cease processing your personal data for marketing purposes.
+**7.5** Freja eID may process your personal data for direct marketing to you if you have consented to this. If you do not want Freja eID to use your personal data for direct marketing, you have the right to provide written notification of this to Freja eID at any time. Once Freja eID has received your notification, Freja eID shall cease processing your personal data for marketing purposes.
 
-**7.6** Once per calendar year, you are entitled to obtain an extract from the registry of Freja eID Group, free of charge with a signed, written request, indicating which personal data about you has been recorded, the purposes of processing the data and the recipients who have received the data or will receive the data. You are also entitled to receive information in the extract from the registry regarding where the data was collected, if the personal data was not collected from you directly, the occurrence of automated decision-making (including profiling) as well as the anticipated period during which the data will be stored or the criteria that are used to determine this period. Furthermore, you are also entitled, with the abstract from the registry, to receive information about your other rights as specified in section 7.
+**7.6** Once per calendar year, you are entitled to obtain an extract from the registry of Freja eID, free of charge with a signed, written request, indicating which personal data about you has been recorded, the purposes of processing the data and the recipients who have received the data or will receive the data. You are also entitled to receive information in the extract from the registry regarding where the data was collected, if the personal data was not collected from you directly, the occurrence of automated decision-making (including profiling) as well as the anticipated period during which the data will be stored or the criteria that are used to determine this period. Furthermore, you are also entitled, with the abstract from the registry, to receive information about your other rights as specified in section 7.
 
-**7.7** You are entitled to submit complaints regarding Freja eID Group’s processing of your personal data to your national data protection authority.
+**7.7** You are entitled to submit complaints regarding Freja eID’s processing of your personal data to your national data protection authority.
 
-**7.8** Freja eID Group AB is a company registered in Sweden, and the Swedish data protection authority is IMY – the Swedish Authority for Privacy Protection.
+**7.8** Freja eID Sweden AB is a company registered in Sweden, and the Swedish data protection authority is IMY – the Swedish Authority for Privacy Protection.
 
 ### 8\. Personal Data of Children
 
@@ -356,22 +356,22 @@ For children under the age of five, parents can, in certain cases, use Freja to 
 
 ### 9\. Protection of Your Personal Data
 
-You should always feel secure when providing personal data to us. Therefore, Freja eID Group has taken the necessary safety precautions to protect your personal data from unauthorised access, modification and deletion.
+You should always feel secure when providing personal data to us. Therefore, Freja eID has taken the necessary safety precautions to protect your personal data from unauthorised access, modification and deletion.
 
 For security purposes, we perform register maintenance, which means that we block and establish a blocking list of deceased users who can no longer use the services, and to prevent others from using the Services in the name of such users.
 
 ### 10\. Cookies
 
-Freja eID Group uses techniques similar to cookies to provide certain functions in the app. The information is stored in the form of a file containing the users encrypted session status (during an ongoing session) as well as the user settings that improve the user experience before a user is authenticated for the app (which are saved between sessions). For example, the information is used to remember the selected language for the app. This information is not provided to third parties. If you no longer want Freja eID Group to store or collect the information, you must cancel your use of the Service according to section 4.2 above.
+Freja eID uses techniques similar to cookies to provide certain functions in the app. The information is stored in the form of a file containing the users encrypted session status (during an ongoing session) as well as the user settings that improve the user experience before a user is authenticated for the app (which are saved between sessions). For example, the information is used to remember the selected language for the app. This information is not provided to third parties. If you no longer want Freja eID to store or collect the information, you must cancel your use of the Service according to section 4.2 above.
 
 ### 11\. Changes to this Privacy Policy
 
-Freja eID Group has the right to change this Privacy Policy at any time. The latest and current version is published on the Freja eID Group website, [www.frejaeid.com](https://frejaeid.com/en/home/). In the event of significant changes in this policy, Freja eID Group will inform you in an appropriate manner, for example through information in the Freja eID mobile application, My pages, via email or via a notification in Freja eID.
+Freja eID has the right to change this Privacy Policy at any time. The latest and current version is published on the Freja eID website, [www.frejaeid.com](https://frejaeid.com/en/home/). In the event of significant changes in this policy, Freja eID will inform you in an appropriate manner, for example through information in the Freja eID mobile application, My pages, via email or via a notification in Freja eID.
 
 We recommend you to check our website regularly for product updates and updates in the privacy policy.
 
-If you do not accept the changed terms, you have the right to terminate the agreement with Freja eID Group before the changes take effect. You terminate the agreement by following the instructions in section 4.2 above.
+If you do not accept the changed terms, you have the right to terminate the agreement with Freja eID before the changes take effect. You terminate the agreement by following the instructions in section 4.2 above.
 
 ### 12\. Contact Information
 
-Please do not hesitate to contact Freja eID Group if you have any questions about this Privacy Policy, the processing of your personal information or if you would like an extract from the registry. Freja eID Group’s contact information can be found under section 1 above.
+Please do not hesitate to contact Freja eID if you have any questions about this Privacy Policy, the processing of your personal information or if you would like an extract from the registry. Freja eID’s contact information can be found under section 1 above.
