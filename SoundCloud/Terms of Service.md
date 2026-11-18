@@ -148,7 +148,9 @@ The above licenses are conditional upon your strict compliance with these Terms 
 
 (xvii) You must not create any accounts or upload any Content with the purpose to impersonate a person or create the impression that the account or Content originates from anyone other than the user associated with the account, including using the output of generative artificial intelligence to impersonate a person (including a person’s voice and likeness) without authorization.
 
-(xviii) You must not create an account with the sole purpose of commercializing any actions taken with that account (including but not limited to plays, likes, followers)
+(xviii) You must not create an account with the sole purpose of commercializing any actions taken with that account (including but not limited to plays, likes, followers).
+
+(xix) You must not use AI to deceive, whether to game our systems, manipulate monetization, earnings, platform features, or users' perception of authenticity ("AI Abuse"). We may withhold, reverse, or recover payouts and take any other action described in these Terms of Use, the Community Guidelines and our Moderation and Enforcement Policy in respect of such activity.
 
 You agree to comply with the above conditions at any and all times during your use of the Platform, and acknowledge and agree that SoundCloud has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. This may include taking court action and/or reporting offending users to the relevant authorities.
 
@@ -454,13 +456,14 @@ We are required to have a single point of contact for authorities and our users.
 *   The European Commission, EU Member States’ authorities, and the European Board for Digital Services may contact us at legal@soundcloud.com. Communications with us and requests can be in the German or English language.
 *   Users may contact us at legal@soundcloud.com or visit our Help Center.
 
-**Last Amended:** August 17, 2026
+**Last Amended:** December 1, 2026
 
 **Link to prior versions**
 --------------------------
 
 You will find a link to prior versions of our Terms of Use below.
 
+*   [August 2026](https://soundcloud.com/terms-of-use/08-2026)
 *   [January 2026](https://soundcloud.com/terms-of-use/01-2026)
 *   [September 2025](https://soundcloud.com/terms-of-use/09-2025)
 *   [May 2025](https://soundcloud.com/terms-of-use/05-2025)
