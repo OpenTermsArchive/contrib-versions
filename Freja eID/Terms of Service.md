@@ -1,11 +1,11 @@
-Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-11-17T12:15:05+01:00
+Terms and conditions[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-11-17T17:22:21+01:00
 
 Terms and Conditions
 ====================
 
 ### 1\. General Terms and Conditions
 
-**1.1** These terms of use (”**Terms**”) apply when Freja eID Sweden AB, Corp. ID. No. 556587-4376, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (”**Freja eID**”) provides an electronic identification service via the app Freja eID (”**Service**”). Freja eID is the electronic equivalent to a regular, physical proof of identity. The purpose of the Service is for the User of the Service (”**User**”) to be able to provide proof of identity and electronic signatures.
+**1.1** These terms of use (”**Terms**”) apply when Freja eID Sweden AB, Corp. ID. No. 559110-4806, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (”**Freja eID**”) provides an electronic identification service via the app Freja eID (”**Service**”). Freja eID is the electronic equivalent to a regular, physical proof of identity. The purpose of the Service is for the User of the Service (”**User**”) to be able to provide proof of identity and electronic signatures.
 
 **1.2** The Terms only govern the relationship between Freja eID and the User. The dealings between the User and the party who is relying on electronic identification via Freja, in other words the party whose service the User obtains using Freja, (**“Relying Party“**) are not governed by these Terms. Each Relying Party decides for themselves to what extent Freja can be used with their service.
 
