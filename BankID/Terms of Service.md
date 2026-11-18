@@ -118,7 +118,13 @@ Disputes arising from the Terms of Use shall be exclusively settled by the court
 
 [Subscribe](https://www.bankid.com/en/business/newsletter-for-businesses#subscribe)
 
-[![](/assets/stock/1400x930/kontor_1400x930.jpg)
+[![](/assets/stock/1400x930/himmel_1400x930.jpg)
+
+#### Safe today. Quantum-safe tomorrow.
+
+2026-11-17
+
+Tomorrow’s security is being built today. We are already working intensively to make digital identification and signing quantum-safe.](https://www.bankid.com/en/about-us/news/safe-today-quantum-safe-tomorrow)[![](/assets/stock/1400x930/kontor_1400x930.jpg)
 
 #### Fraud: A growing business risk
 
@@ -130,10 +136,4 @@ Fraud targeting businesses no longer rely solely on technical breaches. Instead,
 
 2026-10-21
 
-Preventing fraud is not about a single control or feature. It requires a coordinated security approach across multiple layers.](https://www.bankid.com/en/about-us/news/how-we-prevent-fraud)[![](/assets/stock/news/roccs-2026.jpg)
-
-#### First place in the Riksbank’s Cybersecurity Competition
-
-2026-10-16
-
-For the third consecutive year, BankID has won the Riksbank’s cybersecurity competition, ROCCS.](https://www.bankid.com/en/about-us/news/vinst-i-riksbankens-cybersakerhetstavling)
+Preventing fraud is not about a single control or feature. It requires a coordinated security approach across multiple layers.](https://www.bankid.com/en/about-us/news/how-we-prevent-fraud)
