@@ -130,7 +130,6 @@ See how the Pascua Yaqui Tribe used HighQ to transform legal matter management.
 [Read case study](https://legal.thomsonreuters.com/en/insights/case-studies/pascua-yaqui-tribe-transforms-legal-matter-management-with-highq)
 
 *   [About our Partnership program](https://www.thomsonreuters.com/en/partners)
-*   [Become a partner](https://www.thomsonreuters.com/en/partners/become-a-partner)
 *   [Find a partner](https://www.thomsonreuters.com/en/partners/find-a-partner)
 
 ![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/dcl_waypoint_graphics_1.svg)
@@ -201,7 +200,7 @@ Featured
 CoCounsel Tax
 -------------
 
-Manage export compliance, screening, clearance, and documents in one workflow.
+Move from tax research to client deliverables faster with AI built on trusted sources and firm data.
 
 [Learn more](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
 
@@ -332,7 +331,7 @@ Featured
 CoCounsel Tax
 -------------
 
-Manage export compliance, screening, clearance, and documents in one workflow.
+Move from tax research to client deliverables faster with AI built on trusted sources and firm data.
 
 [Learn more](https://tax.thomsonreuters.com/en/products/cocounsel-tax)
 
@@ -428,7 +427,7 @@ Explore the latest CoCounsel Legal enhancements — smarter AI, deeper research,
 
 *   [Developer portal Access comprehensive APIs and developer tools that enable seamless integration with Thomson Reuters platforms.](https://developers.thomsonreuters.com/pages/home)
 *   [API catalog Explore a comprehensive API catalog with detailed documentation to integrate Thomson Reuters data and services.](https://developers.thomsonreuters.com/pages/api-catalog?tab=messages&numberOfResults=10)
-*   [Use case library Explore a comprehensive API catalog with detailed documentation to integrate Thomson Reuters data and services.](https://developers.thomsonreuters.com/pages/use-case-library?tab=messages&numberOfResults=10)
+*   [Use case library Explore tested use cases that guide successful API integration and accelerate your development timeline.](https://developers.thomsonreuters.com/pages/use-case-library?tab=messages&numberOfResults=10)
 *   [Developer community Collaborate with developer peers to troubleshoot issues, share best practices, and accelerate project success.](https://community.thomsonreuters.com/developers/)
 
 *   Help with account management
