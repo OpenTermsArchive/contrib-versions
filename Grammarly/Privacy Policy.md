@@ -7,7 +7,7 @@ Privacy Policy
 
 Welcome to Superhuman. A little bit about us: We’re the productivity platform that brings AI to you everywhere you work, however you work. When you use Superhuman products, you’re trusting us to handle your personal data with care. We take that trust seriously. We make money when users purchase our paid products and not by selling or monetizing user content. We offer a free product and hope you’ll purchase one of our paid products. 
 
-This Privacy Policy describes how Superhuman Platform Inc. (formerly Grammarly) and our subsidiaries (such as Grammarly Inc., Coda Project LLC, Superhuman Labs LLC, and GPTZero Inc.) and affiliated companies (collectively, “Superhuman”, “we,” or “us”), collect, use, and disclose information about you, as well as privacy choices available to you. We offer lots of tools to different people and organizations, so we need to explain when this Privacy Policy applies:
+This Privacy Policy describes how Superhuman Platform Inc. (formerly Grammarly) and our subsidiaries (such as Grammarly Inc., Coda Project LLC, Superhuman Labs LLC, and GPTZero, LLC) and affiliated companies (collectively, “Superhuman”, “we,” or “us”), collect, use, and disclose information about you, as well as privacy choices available to you. We offer lots of tools to different people and organizations, so we need to explain when this Privacy Policy applies:
 
 *   This Privacy Policy applies when you interact with us as an individual, such as when you create an account, receive our products directly from us, or browse our websites. 
     
