@@ -659,6 +659,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Otevřená data MMPr. - [https://open-data-prerov.hub.arcgis.com/datasets/c18ef7eaa5aa493298294eb7c5395e94/about](https://open-data-prerov.hub.arcgis.com/datasets/c18ef7eaa5aa493298294eb7c5395e94/about), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Czech Data Portal - CZ - [https://data.gov.cz/datov%C3%A1-sada?iri=​https%3A%2F%2Fdata.gov.cz%2Fzdroj%2F​datov%C3%A9-sady%2F00025593%2F​803b15e541697774829c569ad3182107](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2F803b15e541697774829c569ad3182107), License: [https://creativecommons.org/licenses/by/4.0/deed.cs](https://creativecommons.org/licenses/by/4.0/deed.cs)
+             
     14.  **Denmark**
          *   © COWI A/S
              
@@ -1204,6 +1206,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Data Gouv France: [https://www.data.gouv.fr/datasets/trace-des-voies-lyonnaises/](https://www.data.gouv.fr/datasets/trace-des-voies-lyonnaises/)
              
          *   Toulouse Metropole: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+             
+         *   Opendata Tours Métropole Val de Loire - FR - License: [https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
              
     20.  **Gambia**
          *   Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -1932,6 +1936,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   GRID3 NGA - Operational State Boundaries ([https://data.grid3.org/datasets/c41532b720504f4799fe20438b7e3b7f\_0/explore?location=9.0779592C8.6852902C6](https://data.grid3.org/datasets/c41532b720504f4799fe20438b7e3b7f_0/explore?location=9.0779592C8.6852902C6) ) - NG - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Grid3 NGA - Operational Wards ( [https://data.grid3.org/datasets/74cf76766bec4481aa03523e0e1fdddc\_0/explore?location=9.077872%2C8.671232%2C6](https://data.grid3.org/datasets/74cf76766bec4481aa03523e0e1fdddc_0/explore?location=9.077872%2C8.671232%2C6) ) License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+             
     51.  **Northern Ireland**
          *   © Ordnance Survey of Northern Ireland
              
@@ -1990,7 +1996,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   Geoportal infrastruktury Informacji Przestrzennej (PL): [https://www.geoportal.gov.pl/](https://www.geoportal.gov.pl/)
              
-         *   Otwarte Dane - Dane.gov.pl: [https://creativecommons.org/licenses/by/4.0/deed](https://creativecommons.org/licenses/by/4.0/deed)
+         *   Otwarte Dane - Dane.gov.pl - Licensing: [https://creativecommons.org/licenses/by/4.0/deed](https://creativecommons.org/licenses/by/4.0/deed) - Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
              
          *   Geoportal of Poland - Gugik: [https://www.geoportal.gov.pl/pl/o-geoportalu/regulamin/](https://www.geoportal.gov.pl/pl/o-geoportalu/regulamin/)
              
@@ -2478,6 +2484,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   Traffic Scotland Data Hub. Datex II. [https://www.traffic.gov.scot/terms-and-conditions](https://www.traffic.gov.scot/terms-and-conditions), [https://www.traffic.gov.scot/traffic-scotland-developer-hub.](https://www.traffic.gov.scot/traffic-scotland-developer-hub)
              
          *   Gov.uk, Department for Transport (DfT). Road traffic statistics. UK, 2024. Contains public sector information licensed under the Open Government Licence v3.0. [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+             
+         *   Gov.UK - ( Nov 2026) - UK - This information is licensed under the Open Government Licence v3.0. To view this licence, visit [https://www.nationalarchives.gov.uk/doc/open-government-licence/](https://www.nationalarchives.gov.uk/doc/open-government-licence/)
              
     72.  **Ukraine**
          
@@ -3214,7 +3222,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   AB Via Lietuva - [https://creativecommons.org/licenses/by/4.0/deed.lt](https://creativecommons.org/licenses/by/4.0/deed.lt)
              
     91.  **Slovenia**
-         *   Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://www.e-prostor.gov.si/fileadmin/struktura/Preberi\_me.docx](https://www.e-prostor.gov.si/fileadmin/struktura/Preberi_me.docx)
+         *   Javni Geodetski Podatki - Public Geodetic Data Slovenia - SL - Licensing: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode) - Surveying and Mapping Authority of the Republic of Slovenia, the type of data and the time to which the data refer and/or the date of the database.
              
          *   Republika Slovenija - [https://ipi.eprostor.gov.si/jgp/data](https://ipi.eprostor.gov.si/jgp/data)
              
@@ -3372,6 +3380,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
               
     126.  **Vietnam**
           *   Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+              
+    127.  **Bulgaria**
+          *   Urban Data Sofia - BG - Licence: [https://urbandata.sofia.bg/dataset/cycling-network](https://urbandata.sofia.bg/dataset/cycling-network)
               
 4.  **Business Listings Data.**
     
