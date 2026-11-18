@@ -1,11 +1,11 @@
-Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-11-17T12:11:28+01:00
+Privacy Policy[Kristofer Beetzen](https://frejaeid.com/en/author/vekrbee/)2026-11-17T17:22:49+01:00
 
 Privacy Policy
 ==============
 
 ### 1\. General
 
-**1.1** This privacy policy (**“Privacy Policy”**) applies when Freja eID Sweden AB, Corp. ID. No. 556587-4376, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (**“Freja eID”**) provides an electronic identification service via the Freja eID mobile application (**“Service”**).
+**1.1** This privacy policy (**“Privacy Policy”**) applies when Freja eID Sweden AB, Corp. ID. No. 559110-4806, Box 456, 194 04 UPPLANDS VÄSBY, Sweden (**“Freja eID”**) provides an electronic identification service via the Freja eID mobile application (**“Service”**).
 
 **1.2** You have registered as a user of the Service according to the Terms of Use for the Service. This Privacy Policy constitutes an integral part of the Terms of Use.
 
