@@ -1,4 +1,4 @@
-*   Last Updated: November 10, 2026
+*   Last Updated: November 19, 2026
 *   25 min read
 
 Contents
@@ -361,6 +361,7 @@ Further information: [Google privacy policy](https://policies.google.com/privacy
 We use Google Ads to draw attention to our services. In doing so, we use:
 
 *   Conversion Tracking: If you click on a Google ad, a cookie is set that informs us (and Google) whether you have performed a specific action (e.g., registration).
+*   Click IDs: With your consent, we store the click ID from an ad (e.g., gclid, fbclid) with your account for up to 90 days to attribute a later purchase to that ad in Google Ads or Meta.
 *   Remarketing Lists: Visitors to our site can later be addressed with personalized advertising on other websites in the Google advertising network.
 
 Regarding the collection and transmission of the data to Google, there is joint controllership pursuant to Art. 26 GDPR. The further processing of the data by Google takes place under its own responsibility. Further information can be found in the privacy policies of Google.
@@ -480,7 +481,7 @@ Email: [privacy@gumb.app](mailto:privacy@gumb.app)
 
 Date of Entry into Force: September 20, 2020
 
-_Last Updated: November 10, 2026_
+_Last Updated: November 19, 2026_
 
 Questions about data protection?
 --------------------------------
