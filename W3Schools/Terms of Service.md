@@ -15,7 +15,7 @@ Please read the Terms carefully before using the Website or the Services. By acc
 Overview
 --------
 
-The Website is operated and managed by Refsnes Data AS ("Refsnes") and W3Schools Network AS ("Network"), collectively referred to as "W3Schools". Refsnes provides the Website including all content, information, and related tools. Network operates certain solutions (such as Spaces, Campus (previously Academy), Courses, Challenges, and My Learning) and a billing system. The two entities Refsnes and Network are separately responsible for the Services they provide, manage and operate.
+The Website is operated and managed by W3Schools AS ("W3Schools") and W3Schools Network AS ("Network"). W3Schools provides the Website including all content, information, and related tools. Network operates certain solutions (such as Spaces, Campus (previously Academy), Courses, Challenges, and My Learning) and a billing system. The two entities W3Schools and Network are separately responsible for the Services they provide, manage and operate.
 
 Any new features or tools added to the Website shall be subject to the Terms. You can review the most current version of the Terms at any time on this page. We reserve the right to update, change, or replace parts of the Terms by posting updates or changes at the Website. Please check this page periodically for changes. Your continued use of or access to the Website after posting any changes constitutes acceptance of such changes.
 
@@ -156,13 +156,13 @@ We provide a domain purchasing service that seamlessly integrates with the W3Sch
 
 When you buy a domain, you become its sole owner and must follow all related terms and conditions.
 
-W3Schools works with third-party providers, such as Amazon and its Route 53 services, for domain registration and distribution. You can review their terms here:
+Network works with third-party providers, such as Amazon and its Route 53 services, for domain registration and distribution. You can review their terms here:
 
 *   [Amazon Route 53 Domain Registration Agreement](https://aws.amazon.com/route53/domain-registration-agreement/)
 *   [Amazon Registrar Policy Page](https://aws.amazon.com/route53/amazon-registrar-policies/)
 *   [Gandi Contract Page](https://www.gandi.net/en/contracts/terms-of-service)
 
-As the distributor, W3Schools handles purchasing and billing. If you have any complaints, claims, or concerns about these third-party products, please contact us at [support@w3schools.com](mailto:support@w3schools.com).
+As the distributor, Network handles purchasing and billing. If you have any complaints, claims, or concerns about these third-party products, please contact us at [support@w3schools.com](mailto:support@w3schools.com).
 
 The mutual agreement for a domain renews automatically each year. If you don't want to continue with a domain purchase from us, you must cancel the renewal before the end of the current agreement. See the [Billing and Account Information](#billing_and_account_information) section for more billing information.
 
