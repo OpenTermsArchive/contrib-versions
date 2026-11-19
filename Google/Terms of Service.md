@@ -434,7 +434,7 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | France | 0 805 98 03 38 |
 | French Guiana | 0805 98 03 38 |
 | French Polynesia | +33 1 85 14 96 65 |
-| French Southern Territories | +33 1 85 14 96 65 |
+| French Southern and Antarctic Lands | +33 1 85 14 96 65 |
 | Germany | 0800 6270502 |
 | Greece | 21 1180 9433 |
 | Guadeloupe | 0805 98 03 38 |
