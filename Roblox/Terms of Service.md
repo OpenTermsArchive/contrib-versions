@@ -49,12 +49,6 @@ Roblox Terms of Use
 
 Effective Date: November 1, 2026
 
-We are updating our [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846) to make them clearer and to better explain how Roblox works. Here’s a high-level summary of the changes:
-
-*   We have tried to simplify the language and reorganize sections of the Terms of Use, including the User Terms and Creator Terms.
-*   We are clarifying Roblox’s role on how user generated content (UGC) is provided to you on the platform. In general, Roblox acts as the principal distributor and merchant of record for purchases made through Roblox. This means that when you access or purchase any content on the Roblox Platform, you are obtaining the content from Roblox. Users and Creators do not enter into a direct transaction with each other for those purchases. We are also clarifying related sections on Robux, payments, tax, and Creator payment.
-*   For Users in the EEA only, we added the right of withdrawal for consumers.
-
 [USER TERMS](#user-terms)  
 [CREATOR TERMS](#creator-terms)  
 [Appendix A (Japan)](#appendix-a-japan)  
