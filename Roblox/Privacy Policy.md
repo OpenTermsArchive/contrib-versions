@@ -1,15 +1,5 @@
 Effective Date: November 1, 2026
 
-[Summary of Recent Changes](#change-summary)
-
-We are updating our [Roblox Privacy and Cookie Policy](https://www.roblox.com/info/privacy), effective November 1, 2026, to reflect certain changes we are making on Roblox.
-
-Here’s a high-level summary of the changes we are making:
-
-*   We added language describing regional variation for access to certain features.
-*   We added information about data collection from researchers.
-*   We added language describing our practices for sharing information with authorities.
-
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
 1.  Welcome to the Roblox Privacy Policy
@@ -859,12 +849,6 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [dpo.roblox@leonardi.adv.br](mailto:dpo.roblox@leonardi.adv.br), or otherwise reaching out to us as described in Section 1.
     
-
-Summary of Recent Changes
-
-*   We added language describing regional variation for access to certain features.
-*   We added information about data collection from researchers.
-*   We added language describing our practices for sharing information with authorities.
 
 Effective Date: November 1, 2026  
 Last Updated: November 1, 2026
