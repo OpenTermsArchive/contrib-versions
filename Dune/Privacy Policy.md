@@ -1,7 +1,7 @@
 Privacy and Cookie Policy
 =========================
 
-Valid from 7th of May 2020, updated July 13th, 2026.
+Valid from 7th of May 2020, updated November 18th, 2026.
 
 **1\. Introduction**
 --------------------
@@ -118,6 +118,10 @@ See our [Trust Center](https://trust.dune.com/) for the full list of sub-process
 ### **2.7. Use of AI tools**
 
 We process limited Personal Data (such as your name, username, and account/usage metadata), using approved third-party AI tools to operate, debug, troubleshoot, and analyse usage of the Dune Product. We only use AI providers operating under no-training and zero-retention terms (inputs are not used to train their models and are not retained). We do not process your private query content, uploaded data, or payment data in these tools. The AI providers we use are listed as sub-processors on our Trust Center. _Legal basis: legitimate interest, art. 6(1)(f)._
+
+### **2.8. Dune MCP and AI assistants**
+
+When you connect an AI assistant, such as Claude or ChatGPT, to Dune through the Dune MCP server, the assistant sends Dune the inputs of each tool call, such as search terms, SQL, and the names of queries and dashboards, and Dune returns the results. Dune uses these inputs only to provide the Dune Product. Queries, visualizations, dashboards, and other content that you ask the assistant to create are stored in your Dune account like content you create on dune.com. For each tool call, Dune records usage metadata, such as the tool name, time, duration, result status, the names of the tool inputs and their sizes (not their values), and the assistant's conversation ID when the assistant sends one, linked to your account, for product analysis, troubleshooting, and security. If you rate a tool result as helpful or not helpful, Dune records that rating with the same metadata. Dune shares usage metadata and ratings with its product analytics provider (Amplitude) and keeps them until you delete your Dune account. Tool inputs are kept in Dune's service logs for troubleshooting and security for up to 13 months, including after you delete your account, and are then deleted automatically. Content you save stays in your account until you delete it. Dune does not receive your conversation with the assistant, other than these tool inputs. The assistant provider's privacy policy covers that conversation. You can disconnect Dune in the assistant's settings at any time, and signing out of Dune ends the assistant's access when its current access token expires. _Legal basis: To fulfill an agreement with you, see article 6(1)(b) GDPR, and legitimate interest, article 6(1)(f), for product analysis._
 
 **3\. Retention period**
 ------------------------
