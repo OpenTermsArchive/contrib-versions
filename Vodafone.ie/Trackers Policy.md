@@ -32,6 +32,7 @@ We have revised our privacy notice as we are introducing some new features and w
 | 2.1 | Profiling, Fraud Management and Security | Updated What data is used? in Fraud Prevention & Security to include 'Credential information' | 4 February 2025 |
 | 2.2 | How we use your personal information and our lawful basis to do so | Referenced use of automated tools | 4 July 2025 |
 | 2.3 | To comply with mandatory legal obligation | Nuisance Communications purposes | 13 Jan 2026 |
+| 2.4 | Personal information we collect about you | Added business contact and company information and its combination with existing data | 18 Nov 2026 |
 
 Last updated: 13 Jan 2026
 
@@ -91,7 +92,7 @@ From third parties
 
 Information collected not directly from you:
 
-*   Information we obtain from other sources, such as credit agencies, fraud-prevention agencies, and from other data providers. This includes demographic data, interest-based data, and internet browsing behaviour.
+*   Information we obtain from other sources, such as credit agencies, fraud-prevention agencies, and from other data providers. This includes demographic data, interest-based data, and internet browsing behaviour, business contact and company information. We may combine information obtained from third-party data providers with information we already hold for the purposes described in this notice.
     
 
 The types of information we may have, where applicable:
