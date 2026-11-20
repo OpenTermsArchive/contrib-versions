@@ -262,7 +262,7 @@ Unless explained here, any capitalized terms have the same meaning as in our [Ge
     
     ### For users in the Republic of Korea
     
-    As set out in this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties (along with additional Korea-specific terms) is provided in the Korean-specific Privacy Policy [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
+    As set out in this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties (along with additional Korea-specific terms) is provided in the Korean-specific Privacy Policy [available here(opens in a new tab)](https://my.nordaccount.com/ko/legal/privacy-policy/).
     
 10.  Children's data
      ---------------
