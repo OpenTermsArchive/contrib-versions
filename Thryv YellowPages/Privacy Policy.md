@@ -255,6 +255,8 @@ Managing Your Marketing Preferences
 
 Once you have opted in to receive our marketing emails, you can opt out of receiving marketing e-mails from us by following the Unsubscribe link provided at the bottom of all marketing e-mails you receive from us. You are able to opt out of receiving marketing e-mails from us, however, if you continue to use our services we will still need to email you from time to time about your account.
 
+If you provide your mobile number and opt in to receive text messages from Thryv, we will not share your mobile number or your SMS opt-in consent with third parties for their marketing or promotional purposes. You may reply STOP at any time to opt out of text messages, or HELP for assistance. Message and data rates may apply.
+
 Managing Your Profile Information
 
 If you register with us and create a profile, you can review and request changes to the Personal Information in your profile at any time. You can do this by signing into your profile and, depending on the site or Service, either editing or asking us to delete it for you.
