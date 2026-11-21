@@ -1,3 +1,7 @@
+Notice
+
+Our systems are undergoing planned maintenance from Saturday 21 to Sunday 22 November. During this time you may be unable to access your online account. We apologise for any inconvenience.
+
    ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Privacy Statement
