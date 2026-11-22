@@ -1,5 +1,7 @@
 Trusted AI built on 175 years of Thomson Reuters knowledge. [Meet The CoCo](https://www.thomsonreuters.com/coco)
 
+Close announcement
+
  [Skip to main content](#mainContent)
 
 [Thomson Reuters](https://www.thomsonreuters.com/en)
