@@ -68,7 +68,7 @@ Other languages:
 *   [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Uslovi korištenja (3% translated)")
 *   [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Condicions d'ús (86% translated)")
 *   [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Podmínky užití (100% translated)")
-*   [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (5% translated)")
+*   [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Telerau defnydd (6% translated)")
 *   [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Brugsbetingelser (100% translated)")
 *   [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Nutzungsbedingungen (100% translated)")
 *   [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Nutzungsbedingungen (100% translated)")
