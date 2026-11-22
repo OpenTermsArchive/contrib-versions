@@ -50,7 +50,7 @@ Other languages:
 *   [occitan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
 *   [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Maxfiylik siyosati (23% translated)")
 *   [Oromoo](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/om "Imaammata Mateenyaa (8% translated)")
-*   [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Polityka prywatności (100% translated)")
+*   [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Polityka prywatności Wikimedia Foundation (100% translated)")
 *   [português](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt "Política de Privacidade (52% translated)")
 *   [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt-br "Política:Política de Privacidade (100% translated)")
 *   [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kaa "Konfidenciallıq siyasatı (1% translated)")
