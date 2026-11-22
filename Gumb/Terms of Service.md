@@ -297,7 +297,7 @@ Part A - Terms of Use (All Users)
     
 2.  9.2
     
-    **Support.** It is provided through [support@gumb.app](mailto:support@gumb.app) and the Help Center at [gumb.app/support](https://gumb.app/support). Response times are not guaranteed. Individual agreements (for example, Enterprise) remain reserved.
+    **Support.** It is provided through [support@gumb.app](mailto:support@gumb.app) and the Help Center at [gumb.app/en/support](https://gumb.app/en/support). Response times are not guaranteed. Individual agreements (for example, Enterprise) remain reserved.
     
 3.  9.3
     
