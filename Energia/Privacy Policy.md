@@ -1,8 +1,8 @@
-Notice
+![Background-lava-lamp](/getContentAsset/3e3de920-a914-4386-94b1-6408a58a9148/7bb26847-c361-42bb-98b0-48e612da32bf/HeroBanner-MobilePortrait_750_900/lava-lamp_HeroBanner-MobilePortrait_750_900.png?language=en-ie&assetVersion=639262840384170633)
 
-Our systems are undergoing planned maintenance from Saturday 21 to Sunday 22 November. During this time you may be unable to access your online account. We apologise for any inconvenience.
+1.  [Home](https://www.energia.ie/)
 
-   ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
+3.  Privacy Statement
 
 Energia Privacy Statement
 =========================
@@ -117,7 +117,7 @@ In order to meet our Regulatory and Licence requirements, Energia is required to
 
 **3.9 Website & Mobile App Statistics**
 
-We gather statistical and other analytical information of all visitors to our website/mobile apps including cookies and click trails. We use the data gathered to get a better understanding of where our visitors come from and to help us better design and organise our website/mobile apps and for the purposes set out under Marketing. You can find our Cookie Policy at [**www.energia.ie/home/cookie-policy**](https://www.energia.ie/home/cookie-policy)**.** 
+We gather statistical and other analytical information of all visitors to our website/mobile apps including cookies and click trails. We use the data gathered to get a better understanding of where our visitors come from and to help us better design and organise our website/mobile apps and for the purposes set out under Marketing. You can find our Cookie Policy at [**www.energia.ie/home/cookie-policy**](https://www.energia.ie/cookie-policy)**.** 
 
 **Legal Basis**: The processing is necessary for our legitimate interests or those of a third party. It is within Energia’s legitimate interest to provide you with the best customer website/mobile app experience by ensuring that we continually improve our processes and website/mobile app.
 
@@ -320,5 +320,4 @@ This Statement will be regularly reviewed to ensure we continue to meet our obli
 
 ### **Download Privacy Statement:**
 
-**[**You can download the full Privacy Statement here**](https://www.energia.ie/getmedia/65b4c88b-b2fd-47bb-94dc-16050829eb52/Energia-Privacy-Policy.pdf)**.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[**You can download the full Privacy Statement here**](https://www.energia.ie/getContentAsset/088a3576-bb76-4edf-916b-0dfeb004adfe/7bb26847-c361-42bb-98b0-48e612da32bf/Energia-Privacy-Policy.pdf?language=en-ie)**.
