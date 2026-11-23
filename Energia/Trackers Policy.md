@@ -1,8 +1,8 @@
-Notice
+![Abstract gradient background with flowing shapes in purple and pink tones](/dist/images/energia-default-bg.jpg)
 
-Our systems are undergoing planned maintenance from Saturday 21 to Sunday 22 November. During this time you may be unable to access your online account. We apologise for any inconvenience.
+1.  [Home](https://www.energia.ie/)
 
-   
+3.  Cookie Policy
 
 Energia Cookie Policy
 =====================
@@ -51,29 +51,18 @@ Please note that blocking some types of cookies may impact your experience of th
 
 The tables below provide further information about the cookies and similar technologies used on our website:
 
-### Cookie List
+###   
 
-   
-
-A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
-
-   
+  
 
 #### Strictly Necessary Cookies
 
-       
-
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
-                                                
-
-|     |     |     |
-| --- | --- | --- |Strictly Necessary Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
 | [.AspNetCore.Antiforgery](https://cookiepedia.co.uk/cookies/.AspNetCore.Antiforgery) | switchto.energia.ie | First Party |
 | [.AspNetCore.Antiforgery](https://cookiepedia.co.uk/cookies/.AspNetCore.Antiforgery) | www.energia.ie | First Party |
-| [OptanonConsent](https://cookiepedia.co.uk/cookies/OptanonConsent) | www.energia.ie | First Party |
 | [refreshToken](https://cookiepedia.co.uk/cookies/refreshToken) | prodinsightseliq.energia.ie | First Party |
 | [LANG\_PREF](https://cookiepedia.co.uk/cookies/LANG_PREF) | prodinsightseliq.energia.ie | First Party |
 | [userId](https://cookiepedia.co.uk/cookies/userId) | prodinsightseliq.energia.ie | First Party |
@@ -88,18 +77,13 @@ These cookies are necessary for the website to function and cannot be switched o
 | [.Nop.Culture](https://cookiepedia.co.uk/cookies/.Nop.Culture) | smarthomestore.energia.ie | First Party |
 | [.Nop.Customer](https://cookiepedia.co.uk/cookies/.Nop.Customer) | smarthomestore.energia.ie | First Party |
 | [OptanonConsent](https://cookiepedia.co.uk/cookies/OptanonConsent) | energia.ie | First Party |
+| [\_wt.user-xxxxxxx](https://cookiepedia.co.uk/cookies/_wt.user-xxxxxxx) | energia.ie | First Party |
 | [OptanonAlertBoxClosed](https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed) | energia.ie | First Party |
 
 #### Performance Cookies
 
-       
-
 These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
 
-                                                
-
-|     |     |     |
-| --- | --- | --- |Performance Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
 | [CurrentContact](https://cookiepedia.co.uk/cookies/CurrentContact) | www.energia.ie | First Party |
@@ -109,6 +93,7 @@ These cookies allow us to count visits and traffic sources so we can measure and
 | [ai\_session](https://cookiepedia.co.uk/cookies/ai_session) | switchto.energia.ie | First Party |
 | [s\_cc](https://cookiepedia.co.uk/cookies/s_cc) | energia.ie | First Party |
 | [\_clck](https://cookiepedia.co.uk/cookies/_clck) | energia.ie | First Party |
+| [\_wt.mode-xxxxxxx](https://cookiepedia.co.uk/cookies/_wt.mode-xxxxxxx) | energia.ie | First Party |
 | [s\_ac](https://cookiepedia.co.uk/cookies/s_ac) | energia.ie | First Party |
 | [\_gid](https://cookiepedia.co.uk/cookies/_gid) | energia.ie | First Party |
 | [\_clsk](https://cookiepedia.co.uk/cookies/_clsk) | energia.ie | First Party |
@@ -118,28 +103,20 @@ These cookies allow us to count visits and traffic sources so we can measure and
 
 #### Functional Cookies
 
-       
-
 These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
 
-                                                
-
-|     |     |     |
-| --- | --- | --- |Functional Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
 | [OT - Web Cookie - Functional](https://cookiepedia.co.uk/cookies/OT%20-%20Web%20Cookie%20-%20Functional) | energia.ie | First Party |
+| MUID | [clarity.ms](https://cookiepedia.co.uk/host/clarity.ms) | Third Party |
+| SM  | [c.clarity.ms](https://cookiepedia.co.uk/host/c.clarity.ms) | Third Party |
+| ANONCHK | [c.clarity.ms](https://cookiepedia.co.uk/host/c.clarity.ms) | Third Party |
+| MR  | [c.clarity.ms](https://cookiepedia.co.uk/host/c.clarity.ms) | Third Party |
 
 #### Targeting Cookies
 
-       
-
 These cookies may be set through our site by us and our advertising partners. They may be used by us and those companies, by tracking browsing activity, to build a profile of your interests and to show you relevant tailored adverts on our and other sites. These cookies may collect personal data based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising and offers.
 
-                                                
-
-|     |     |     |
-| --- | --- | --- |Targeting Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
 | [energyonline\_energia](https://cookiepedia.co.uk/cookies/energyonline_energia) | energyonline.energia.ie | First Party |
@@ -161,6 +138,7 @@ These cookies may be set through our site by us and our advertising partners. Th
 | flashtalkingad1 | [flashtalking.com](https://cookiepedia.co.uk/host/flashtalking.com) | Third Party |
 | \_\_cf\_bm | [twitter.com](https://cookiepedia.co.uk/host/twitter.com) | Third Party |
 | personalization\_id | [twitter.com](https://cookiepedia.co.uk/host/twitter.com) | Third Party |
+| MUID | [bing.com](https://cookiepedia.co.uk/host/bing.com) | Third Party |
 | bcookie | [www.linkedin.com](https://cookiepedia.co.uk/host/linkedin.com) | Third Party |
 | li\_gc | [www.linkedin.com](https://cookiepedia.co.uk/host/linkedin.com) | Third Party |
 | \_\_cf\_bm | [www.linkedin.com](https://cookiepedia.co.uk/host/linkedin.com) | Third Party |
@@ -168,6 +146,8 @@ These cookies may be set through our site by us and our advertising partners. Th
 | everest\_g\_v2 | [everesttech.net](https://cookiepedia.co.uk/host/everesttech.net) | Third Party |
 | everest\_session\_v2 | [everesttech.net](https://cookiepedia.co.uk/host/everesttech.net) | Third Party |
 | demdex | [demdex.net](https://cookiepedia.co.uk/host/demdex.net) | Third Party |
+| MR  | [c.bing.com](https://cookiepedia.co.uk/host/c.bing.com) | Third Party |
+| SRM\_B | [c.bing.com](https://cookiepedia.co.uk/host/c.bing.com) | Third Party |
 | IDE | [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | Third Party |
 | test\_cookie | [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | Third Party |
 | muc\_ads | [t.co](https://cookiepedia.co.uk/host/t.co) | Third Party |
@@ -175,14 +155,8 @@ These cookies may be set through our site by us and our advertising partners. Th
 
 #### Social Media Cookies
 
-       
-
 These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
 
-                                                
-
-|     |     |     |
-| --- | --- | --- |Social Media Cookies
 | Cookies | Cookie Subgroup | Cookies used |
 | --- | --- | --- |
 | [OT - Web Cookie - Social Media](https://cookiepedia.co.uk/cookies/OT%20-%20Web%20Cookie%20-%20Social%20Media) | energia.ie | First Party |
