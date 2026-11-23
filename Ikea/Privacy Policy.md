@@ -1,6 +1,8 @@
 1.  [Customer services](https://www.ikea.com/ie/en/customer-service/)
 2.  Privacy policy
 
+[Black Friday IKEA Family offers start 27th November](https://www.ikea.com/ie/en/cat/black-friday-700888/)
+
 Privacy policy
 ==============
 
