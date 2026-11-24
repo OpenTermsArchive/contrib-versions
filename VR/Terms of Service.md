@@ -25,13 +25,13 @@ Changes to your plans? Read more about making changes and cancelling your ticket
 Travel terms and conditions
 ---------------------------
 
-10 August 2026
+24 November 2026
 
 These Travel Terms and Conditions of VR-Group Plc’s (hereinafter “VR”) Passenger Services apply to all train journeys and services organised by the Passenger Services in Finland.
 
 These Terms and Conditions determine the rights and obligations of VR and its customers.
 
-For additional information on Helsinki Region Transport (HSL) tickets, contact HSL or go to HSL’s website. Travelling with Interrail and Eurail Passes and various trip chain cooperation arrangements are subject to separate terms and conditions, which can be found on VR’s website.
+For additional information on Helsinki Region Transport (HSL) tickets, contact HSL or go to HSL’s website. Travelling with Interrail Passes and various trip chain cooperation arrangements are subject to separate terms and conditions, which can be found on VR’s website.
 
 The terms and conditions enter into force on July 25 2024 and are valid until further notice. They will replace VR’s Conditions of Carriage that entered into force on April 19 2024. Rules related to car transport can be checked from the [car transport terms and conditions](https://www.vr.fi/en/terms-and-conditions#car-transport).
 
@@ -108,10 +108,18 @@ Lutakonaukio 7
 
 [www.paytrail.com﻿, Opens in a new tab](https://www.paytrail.com/en/)
 
-2 Luggage, pets and children travelling alone
----------------------------------------------
+2 Travel safety
+---------------
 
-### 2.1 Luggage
+### 2.1 Disabled passengers
+
+Before the journey, customers shall ensure the availability of the services for disabled passengers. VR offers assistance service on stations that have an assistance point. Information about these stations is available [on accessible train travel webpage](https://www.vr.fi/en/facilities-and-services/accessible-train-travel), in VR’s customer service and in station ticket offices. The assistance service shall be ordered no later than 24 hours before the train’s departure time indicated on the timetable. Assistance devices used by disabled passengers are transported free of charge onboard trains.
+
+An assistant of a disabled passenger may travel free of charge with the disabled person. The assistant shall be capable of assisting the disabled passenger throughout the journey. The assistant shall be over 18 years old. Passenger in a wheelchair does not need any separate certificate for assistants. In other cases, the passenger shall be able to prove the right to an assistant travelling free of charge. In VR’s long-distance traffic, the tickets for the disabled passenger and the assistant shall be purchased at the same time. In VR’s commuter traffic, the person being assisted shall have a valid ticket for the journey.
+
+For passengers travelling with a guide, assistant or hearing dog, VR recommends service carriages for travelling in long-distance trains. In VR’s commuter traffic, guide, assistant or hearing dogs can be taken in any passenger cabin. On night trains, this is possible only in pet cabins booked entirely for the passenger’s use and accessible sleeping cabins. A separate charge is not collected for guide, assistance or hearing dogs.
+
+### 2.2 Luggage
 
 The passenger may carry two pieces of luggage and a handbag, a backpack or a comparable piece of luggage. The passenger shall look after his or her hand luggage and is responsible for it. VR delivers lost property to the lost property office.
 
@@ -131,7 +139,7 @@ Bikes may be transported in designated spaces onboard trains with a luggage car 
 
 Goods that require a lot of space can be transported as luggage in a separate luggage space on night trains. In this case, a luggage charge is collected. Bike trailers are transported empty and a bicycle fee is charged. Before the journey, customers shall make sure that the transport is possible. Passenger is responsible for the loading of the luggage into the train, its transfer when changing trains and its pick-up at the destination station. With regard to its size, weight and other properties, the luggage shall be of such type that it may be transported without causing danger, damage or unnecessary inconvenience.
 
-### 2.2 Pets
+### 2.3 Pets
 
 Pets are allowed in designated seats or spaces. If a pet is transported in other than designated seat, the passenger shall protect the seat with a cover. Passenger may travel with pets (and guide, assistance and hearing dogs) in sleeping cabins only in a pet cabin booked entirely for the group. Pets other than dogs shall be transported in pet carriers.
 
@@ -139,20 +147,21 @@ On commuter trains, pets may be transported free of charge in pet cabins. In lon
 
 Passenger shall take care of his or her pet during the entire journey. Pets cannot travel alone. 
 
-### 2.3 Children travelling alone
+### 2.4 Children travelling alone
 
 Children travelling alone by train are under the responsibility of their parents. The conductor does not have an obligation to look after children during the journey.
 
-3 Disabled passengers
----------------------
+### 2.5 Filming on trains and at stations
 
-Before the journey, customers shall ensure the availability of the services for disabled passengers. VR offers assistance service on stations that have an assistance point. Information about these stations is available [on accessible train travel webpage](https://www.vr.fi/en/facilities-and-services/accessible-train-travel), in VR’s customer service and in station ticket offices. The assistance service shall be ordered no later than 24 hours before the train’s departure time indicated on the timetable. Assistance devices used by disabled passengers are transported free of charge onboard trains.
+Public transport is a public space where filming is generally permitted. However, anyone filming must comply with applicable legislation and is responsible for obtaining any necessary consents and securing any other required rights if the images or videos are used or published.
 
-An assistant of a disabled passenger may travel free of charge with the disabled person. The assistant shall be capable of assisting the disabled passenger throughout the journey. The assistant shall be over 18 years old. Passenger in a wheelchair does not need any separate certificate for assistants. In other cases, the passenger shall be able to prove the right to an assistant travelling free of charge. In VR’s long-distance traffic, the tickets for the disabled passenger and the assistant shall be purchased at the same time. In VR’s commuter traffic, the person being assisted shall have a valid ticket for the journey. 
+Filming other passengers must not infringe their privacy or take place in a manner that disrupts their journey or compromises their safety.
 
-For passengers travelling with a guide, assistant or hearing dog, VR recommends service carriages for travelling in long-distance trains. In VR’s commuter traffic, guide, assistant or hearing dogs can be taken in any passenger cabin. On night trains, this is possible only in pet cabins booked entirely for the passenger’s use and accessible sleeping cabins. A separate charge is not collected for guide, assistance or hearing dogs. 
+VR staff must not be filmed in a manner that interferes with the performance of their duties or compromises safety. VR staff have the right to ask passengers to stop such filming.
 
-4 Delays
+If a passenger fails to stop disruptive behaviour despite being asked to do so by VR staff, their journey may be terminated in accordance with the Conditions of Carriage.
+
+3 Delays
 --------
 
 VR’s live train updates are recorded into a system maintained by the Finnish Transport Infrastructure Agency and compensations are based on information received from the system. 
@@ -161,9 +170,9 @@ When a train is delayed, compensation may be requested from VR. Rules related to
 
 In addition, compensation for damage caused by delays not exceeding EUR 5,000 may be requested from VR under the Railway Transport Act.
 
-### 4.1 VR’s long-distance traffic
+### 3.1 VR’s long-distance traffic
 
-#### 4.1.1 Compensation or re-routing 
+#### 3.1.1 Compensation or re-routing 
 
 If a train service is cancelled or it is anticipated that arrival at the destination station indicated in the ticket will be over 60 minutes late, the passenger may
 
@@ -181,7 +190,7 @@ If the journey cannot be expected to continue during the same day, VR provides r
 
 VR may also offer alternative transport (bus, taxi, etc.).
 
-#### 4.1.2 Compensation amount
+#### 3.1.2 Compensation amount
 
 If the passenger arrives at the destination indicated on the train ticket with a delay of 60 minutes or more, the passenger is entitled to receive 25% of the ticket price as compensation from VR. For delays of 120 minutes or more, the passenger is entitled to receive 50% of the ticket price as compensation. The compensation amount does not include fees related to additional services (e.g. surcharges related to seats, pets or bikes).
 
@@ -189,11 +198,11 @@ Possible delays in vehicle loading/unloading are not compensated.
 
 Amounts under EUR 4 will not be paid. 
 
-#### 4.1.3 Delay certificate
+#### 3.1.3 Delay certificate
 
 Upon request, the onboard personnel of a delayed train will give the passenger a certificate regarding the delay to be attached to the compensation application. 
 
-### 4.2 Compensation to season ticket holders in case of delays in VR’s commuter traffic 
+### 3.2 Compensation to season ticket holders in case of delays in VR’s commuter traffic 
 
 VR’s commuter traffic’s punctuality and operations are monitored by calendar month.  
 
@@ -203,16 +212,16 @@ If VR’s commuter train services are cancelled or delayed by more than 10 minut
 
 2\. 31–365-day tickets: if even one day of the season ticket’s validity falls on the calendar month in which more than 10% of the month’s entire service offering is cancelled or delayed by more than 10 minutes, passenger is entitled to a 20% compensation of the 30-day ticket price (delays during one calendar month, i.e. compensation is not paid for longer periods and compensation for delays during a calendar month are compensated only once).
 
-#### 4.3 Compensation for damage caused by delays
+#### 3.3 Compensation for damage caused by delays
 
 VR is liable to compensate passenger for damage caused by a train’s delay, cancellation or not stopping at a traffic point stated in the timetable, at the maximum EUR 5,000 per passenger. However, there is no liability to compensate for a delay that the passenger can reasonably be expected to have anticipated because of the nature of the transport, weather conditions, the time required for transferring to another transport mode or other conditions related to the transport.
 
 To be relieved from liability to compensate, VR is required to prove that it has taken all reasonable measures to prevent the damage.
 
-5 General rules related to compen­sation, injuries and damage
+4 General rules related to compen­sation, injuries and damage
 -------------------------------------------------------------
 
-### 5.1 Personal injuries
+### 4.1 Personal injuries
 
 In personal injuries, VR makes statutory advance payments to passengers or their dependants to cover immediate economic needs. The advance payments shall be proportional to the damage caused. VR is liable to the full amount of personal injury.
 
@@ -224,7 +233,7 @@ Upon request, VR shall provide reasonable support for pursuing claims for injury
 
 Compensation for personal injuries shall be requested from VR within three years of the moment when the injured party became or should have become aware of the injury. However, compensation shall be requested at the latest within ten years of the injury.
 
-### 5.2 Loss and damage to property
+### 4.2 Loss and damage to property
 
 Under the Rail Traffic Liability Act, VR is liable to the full amount for passenger’s clothes, luggage carried and animals that are damaged. 
 
@@ -234,7 +243,7 @@ The right to compensation is lost if the claim for damages is not submitted in w
 
 Within a month, VR shall provide a response or inform the passenger of the date by which the response can be expected.
 
-### 5.3 Compensation applications and the processing time
+### 4.3 Compensation applications and the processing time
 
 A compensation application form can be found at the [vr.fi website](https://www.vr.fi/en/compensation). A compensation request can also be submitted at a ticket office or by calling our [customer service number](https://www.vr.fi/en/customer-service), after which the customer will be sent a printed compensation application form. 
 
@@ -242,7 +251,7 @@ Applications are processed as quickly as possible, as a rule at the latest withi
 
 VR pays compensation to a bank account or as vouchers. Vouchers may be used to purchase services sold by VR.
 
-6 Applicable legislation
+5 Applicable legislation
 ------------------------
 
 Rail passenger traffic is governed by the following legislation and regulations:
