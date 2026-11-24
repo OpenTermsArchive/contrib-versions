@@ -168,7 +168,7 @@ The Services and our business may change from time to time. As a result, we may 
 
 ### **12\. QUESTIONS ABOUT THE PRIVACY POLICY**
 
-If you have any questions about our Privacy Policy or information practices or need to access this Privacy Policy in a different format, please feel free to contact us at [privacy@ycombinator.com](mailto:privacy@ycombinator.com).  For a downloadable copy of our Privacy Policy, please [click here](https://s3.us-west-2.amazonaws.com/static.ycombinator.com/yc-privacy-policy.pdf).
+If you have any questions about our Privacy Policy or information practices or need to access this Privacy Policy in a different format, please feel free to contact us at [privacy@ycombinator.com](mailto:privacy@ycombinator.com).  For a downloadable copy of our Privacy Policy, please [click here](https://bookface-static.ycombinator.com/assets/yc-privacy-policy-a7674dd5a1c83e206c99742c385abb0f1b6585cc54694a12bd0a3dc734d15ec1.pdf).
 
 ### **13\. NOTICE AT COLLECTION**
 
