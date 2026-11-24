@@ -183,7 +183,7 @@ You can manage your accounts with FedEx through the following. 
 
 Questions or complaints regarding the processing of your Personal Data can be directed to FedEx by using the contact information as provided at the top of this Privacy Notice.
 
-You also have the right to lodge a complaint with the competent (local) data protection authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. As a rule, the lead supervisory authority for FedEx in the European Economic Area is the Dutch Data Protection Authority (Dutch DPA), unless the alleged infringement is purely a local matter. A listing of the European Data Protection Authorities can be found [here](https://edpb.europa.eu/about-edpb/board/members_en).  
+You also have the right to lodge a complaint with the competent (local) data protection authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. As a rule, the lead supervisory authority for FedEx in the European Economic Area is the Dutch Data Protection Authority (Dutch DPA), unless the alleged infringement is purely a local matter. A listing of the European Data Protection Authorities can be found [here](https://www.edpb.europa.eu/about-edpb/our-members).  
 
 * * *
 
