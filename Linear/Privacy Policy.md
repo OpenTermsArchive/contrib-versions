@@ -7,7 +7,7 @@ At Linear Orbit (**“Linear”**), we take your privacy seriously. Please read 
 
 Remember that your use of Linear’s Services is at all times subject to our [Terms of Service](https://linear.app/terms). Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](https://linear.app/terms).
 
-If you have a disability, you may access this Privacy Policy in an alternative format by contacting hello@linear.app.
+If you have a disability, you may access this Privacy Policy in an alternative format by contacting privacy@linear.app.
 
 1.  [What this Privacy Policy Covers](#What-this-Privacy-Policy-Covers)
 2.  [Personal Data](#Personal-Data)
@@ -213,7 +213,7 @@ We retain Personal Data about you for as long as you have an open account with u
 Personal Data of Children
 -------------------------
 
-As noted in the [Terms of Use](https://linear.app/terms), we do not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at hello@linear.app.
+As noted in the [Terms of Use](https://linear.app/terms), we do not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at privacy@linear.app.
 
 * * *
 
@@ -222,11 +222,11 @@ State Law Privacy Rights
 
 #### _California Resident Rights_[⁠](#california-resident-rights)
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at hello@linear.app.
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at privacy@linear.app.
 
 #### _Nevada Resident Rights_[⁠](#nevada-resident-rights)
 
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at hello@linear.app with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account.
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at privacy@linear.app with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account.
 
 * * *
 
@@ -239,7 +239,7 @@ If you are a resident of the European Union (“EU”), United Kingdom, Lichtens
 
 For this section, we use the terms “Personal Data” and “processing” as they are defined in the GDPR, but “Personal Data” generally means information that can be used to individually identify a person, and “processing” generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Linear will be the controller of your Personal Data processed in connection with the Services.
 
-If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at hello@linear.app. Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of certain services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
+If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at privacy@linear.app. Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of certain services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
 #### _Personal Data We Collect_[⁠](#personal-data-we-collect)
 
@@ -273,7 +273,7 @@ The “How We Share Your Personal Data” section above details how we share you
 
 #### _EU Data Subject Rights_[⁠](#eu-data-subject-rights)
 
-You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at hello@linear.app.
+You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at privacy@linear.app.
 
 Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
 
@@ -304,7 +304,7 @@ Contact Information
 
 If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Data or your choices and rights regarding such collection and use, please do not hesitate to contact us at:
 
-**Email:** hello@linear.app  
+**Email:** privacy@linear.app  
 **Address**: 2261 Market St STE 10632 San Francisco, CA 94114
 
 * * *
