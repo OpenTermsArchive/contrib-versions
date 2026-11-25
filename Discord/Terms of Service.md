@@ -192,7 +192,7 @@ If the Dispute is not resolved within 60 days after receipt of the form, you and
 
 This Informal Dispute Resolution process, including your personal participation in the meet and confer is a prerequisite and condition precedent to commencing any formal dispute resolution proceeding. You and Discord (the “Parties”) agree that any applicable statute of limitations period and filing fees or other deadlines will be tolled while the Parties engage in this Informal Dispute Resolution process. The Parties further agree that whether a complaining Party has satisfied the requirements of this Informal Dispute Resolution process, including whether a form was properly submitted or contained all required information, is an issue that can be decided by a court as a prerequisite to arbitration.
 
-If you reside in the European Union, you may also be entitled to submit your complaint to the Out-of-Court Dispute Settlement (“OCDS”) mechanism under DSA Article 21. Note that a submission via the OCDS mechanism alone, without submitting Discord's Dispute Resolution Form available at \[URL\] completely and accurately, will not toll the applicable statutes of limitations or other deadlines.
+If you reside in the European Union, you may also be entitled to submit your complaint to the Out-of-Court Dispute Settlement (“OCDS”) mechanism under DSA Article 21. Note that a submission via the OCDS mechanism alone, without submitting Discord's Dispute Resolution Form available at [dis.gd/disputes](http://dis.gd/disputes) completely and accurately, will not toll the applicable statutes of limitations or other deadlines.
 
 **Governing Law, Jurisdiction, Class Action Waiver and Time Limitation.**
 
