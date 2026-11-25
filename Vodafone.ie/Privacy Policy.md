@@ -33,6 +33,7 @@ We have revised our privacy notice as we are introducing some new features and w
 | 2.2 | How we use your personal information and our lawful basis to do so | Referenced use of automated tools | 4 July 2025 |
 | 2.3 | To comply with mandatory legal obligation | Nuisance Communications purposes | 13 Jan 2026 |
 | 2.4 | Personal information we collect about you | Added business contact and company information and its combination with existing data | 18 Nov 2026 |
+| 2.5 | Profiling, Fraud Management and Security | Added identity documents to Credit checks and ID<br><br>Added Identity Verification | 25 Nov 2026 |
 
 Last updated: 13 Jan 2026
 
@@ -217,10 +218,11 @@ Profiling consists of the use of personal data in an automated form in order to 
 
 | How is your information used? | What data is used? | Lawful basis |
 | --- | --- | --- |
-| Credit checks and ID<br><br>• We may carry out a credit check when you apply for a contract for any products or services with us.<br><br>• We will also use your personal information for identity verification purposes, for access to your account and for general account management. We sometimes supplement the information we collect about you with information from other sources to assess the accuracy of the information that we hold. | Financial details<br><br>Account information<br><br>Credential information | Performance of your contract |
+| Credit checks and ID<br><br>• We may carry out a credit check when you apply for a contract for any products or services with us.<br><br>• We will also use your personal information for identity verification purposes, for access to your account and for general account management. We sometimes supplement the information we collect about you with information from other sources to assess the accuracy of the information that we hold. | Financial details<br><br>Account information<br><br>Credential information<br><br>Identity documents | Performance of your contract |
 | Fraud Prevention & Security<br><br>• We will process your data and data received from third parties to protect and detect misuse or damage to our networks and to protect against and detect fraud across our products and services<br><br>Fraud management and law enforcement<br><br>• We may be obligated to release information, including information from third parties if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect our legitimate interests or the interests of our customers. | Traffic data<br><br>Credential information<br><br>Account information<br><br>Financial details<br><br>Third Party Data<br><br>Information about your device or connectivity<br><br>Cookies | Legitimate interest |
 | Network Security<br><br>• We will process your traffic data in order to protect and detect misuse or damage to our networks or to detect and resolve fraudulent use of our networks (and our partner roaming networks) and to solve technical issues you are experiencing. | Anonymous and aggregated contact details or credential related information<br><br>Traffic data | Legitimate interest |
 | Physical Security<br><br>• We may use CCTV footage to safeguard our stores and sites. | Images<br><br>Video footage | Legitimate interest |
+| Identity Verification<br><br>To verify your identity when you request certain products, services or account changes that require proof of identity. This includes validating the authenticity of identity documents, confirming that the person presenting the document is physically present that the identity documents presented are those of the person requesting the service. This is to prevent fraud and protect the security of our products and services. The results of these checks may be used to help determine whether a transaction or request should proceed. | Identity documents<br><br>Facial images,<br><br>Biometric data (liveness test) | Legitimate Interest<br><br>Consent |
 
 ### To comply with mandatory legal obligation
 
