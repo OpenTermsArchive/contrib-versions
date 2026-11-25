@@ -3,12 +3,9 @@ Online Access Agreement
 
   
 
-Version Effective May 21, 2026
-------------------------------
+Version Effective November 24, 2026
+-----------------------------------
 
-(Effective November 24, 2026: Upcoming [Online Access Agreement](https://www.wellsfargo.com/online-banking/online-access-agreement/upcoming/))  
-
-  
 This Online Access Agreement ("Agreement") governs your use of:  
   
 
@@ -27,6 +24,7 @@ This Agreement covers, among other things:**
 *   **Your obligations as a user of the Service.**
 *   **Waiver of "two or more signature" requirements on accounts.**
 *   **How we send you notices and disclosures.**
+*   **Your responsibilities for artificial intelligence agents, if and when we permit the use of such agents.**
 *   **Your agreement with us to use binding arbitration for most disputes arising under this Agreement or about the Service and to waive the right to a trial by jury. In arbitration, there may be less discovery and appellate review than in court.**
 *   **Your waiver of class action rights.**
 *   **Limitations on our liability to you.**
@@ -82,7 +80,7 @@ Management tools we provide that help you manage the authority and access for so
 
 Each Wells Fargo product that you own or have applied for that is accessible through the Website.
 
-Eligible Accounts include deposit accounts, loans, credit cards, lines of credit, investment products, securities accounts, brokerage accounts, advisory accounts, rewards accounts, and other products or accounts you have with us. Eligible Accounts also include brokerage accounts carried or custodied by WFCS in its capacity as a clearing broker- dealer for unaffiliated broker-dealers that have introduced the brokerage accounts to WFCS ("WFCS Custodied" brokerage accounts).
+Eligible Accounts include deposit accounts, loans, credit cards, lines of credit, investment products, securities accounts, brokerage accounts, advisory accounts, rewards accounts, and other products or accounts you have with us. Eligible Accounts also include brokerage accounts carried or custodied by WFCS in its capacity as a clearing broker- dealer for unaffiliated broker-dealers that have introduced the brokerage accounts to WFCS and for unaffiliated registered investment advisors ("WFCS Custodied" brokerage accounts).
 
 Some Online Financial Services are available for only certain types of Eligible Accounts.
 
@@ -210,7 +208,7 @@ If you make someone who is enrolled in the Service an authorized signer on an El
 
 You agree that you may only appoint Delegates in accordance with the requirements we provide to you. This provision takes precedence over any conflicting provision in any other agreement you have with us. We may discontinue offering Delegate options or permitting Delegates to access your Eligible Account or Online Financial Services at any time, without prior notice.
 
-An Authorized Representative or Delegate's transactions are considered authorized, unless (1) you tell us that they are no longer authorized as an Authorized Representative or Delegate, and (2) we have had reasonable opportunity to act on your notification (unless otherwise provided by law or regulation).
+Unless otherwise provided by law or regulation, an Authorized Representative or Delegate's transactions (including the transactions of their AI Agents) are considered authorized, unless (1) you tell us that they are no longer authorized as an Authorized Representative or Delegate, and (2) we have had reasonable opportunity to act on your notification.
 
 For more details, please see the agreements for your Eligible Accounts and Online Financial Services.
 
@@ -234,9 +232,9 @@ This provision controls and takes precedence over any conflicting provision in a
 You agree that:
 
 *   Each of your Authorized Representatives and Delegates will be acting as your agent and will be bound by this Agreement and any separate agreement governing the Eligible Account or Online Financial Service.
-*   We may rely and act on the instructions of any Authorized Representative or Delegate.
-*   All transactions that an Authorized Representative or Delegate performs on an Eligible Account or Online Financial Service, including those you did not want or intend, are transactions authorized by you. Unless prohibited by applicable law, you are solely responsible for those transactions.
-*   You are solely responsible for supervising all of your Authorized Representatives and Delegates, and monitoring the actions they take on your behalf, whether or not we provide Delegate Tools for managing their authority.
+*   We may rely and act on the instructions of any Authorized Representative or Delegate (including any instructions from their AI Agents).
+*   All transactions that an Authorized Representative or Delegate (including the transactions of their AI Agents) performs on an Eligible Account or Online Financial Service, including those you did not want or intend, are transactions authorized by you. Unless prohibited by applicable law, you are solely responsible for those transactions.
+*   You are solely responsible for supervising all of your Authorized Representatives and Delegates (including their AI Agents), and monitoring the actions they take on your behalf, whether or not we provide Delegate Tools for managing their authority.
 *   You will be responsible for ensuring each Authorized Representative or Delegate maintains the confidentiality of that person's username, password, or other login identification.
 *   Each Delegate will access and use each Eligible Account and Online Financial Service, in accordance with the authority given to the Delegate by the delegating owner or Authorized Representative.
 *   Each time the Delegate accesses, views, or transacts on an Eligible Account or Online Financial Service, you represent and warrant to us that the delegating owner authorizes the Delegate's action.
@@ -460,13 +458,13 @@ You can arrange, at your option, for the payment of your current, future, and au
  
 | ### Account Type | ### Payment Limit |
 | --- | --- |
-| Wells Fargo checking accounts | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth experience) |
-| Wells Fargo Money Market Checking accounts | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth experience) |
+| Wells Fargo checking accounts | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth offering) |
+| Wells Fargo Money Market Checking accounts | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth offering) |
 | Wells Fargo business credit card accounts | $10,000 per payment and per day |
 | Wells Fargo business lines of credit accounts | $25,000 per payment and per day |
 | Certain Wells Fargo home equity lines of credit accounts | $10,000 per payment and per day |
 | Certain Wells Fargo personal lines of credit | $5,000 per payment and per day |
-| Brokerage Cash Services account<br><br>Priority Credit Line<br><br>Wells Fargo Bank Priority Credit Line | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth experience) |
+| Brokerage Cash Services account<br><br>Priority Credit Line<br><br>Wells Fargo Bank Priority Credit Line | $50,000 per payment ($100,000 per payment from accounts owned by a customer with the Private Wealth offering) |
 
 Bill Pay payments made with an eligible credit account cannot be used to make payments on other Wells Fargo credit products. A Bill Pay Funding Eligible Account may not be used to pay any part of the balance you owe on that Bill Pay Funding Eligible Account. Eligible Accounts that require two or more signatures or authorizations to withdraw or transfer funds may not be used as a Bill Pay Funding Eligible Account. A Bill Pay Funding Eligible Account must remain linked to the Service in order to use the Bill Pay Funding Eligible Account for current, future, and automatic (recurring) Bill Pay payments.
 
@@ -493,7 +491,7 @@ If we receive a bill payment drawn against your checking account, money market, 
 
 Any negative balance on your Funding Account will be governed by your applicable account agreements with us and fees may apply.   
 
-If a Bill Pay Funding Eligible Account is an eligible line of credit or business credit card account, we don't have to make a payment unless that account has sufficient available credit to pay the bill on the Payment Send On Date. Your account's terms and conditions describe "over limit fees" that may apply to you if any bill payments, associated fees, or finance charges cause your credit account balance to exceed the credit limit. 
+If a Bill Pay Funding Eligible Account is an eligible line of credit or business credit card account, we may decline to make the payment unless that account has sufficient available credit to pay the bill on the Payment Send On Date. Your account's terms and conditions describe "over limit fees" that may apply to you if any bill payments, associated fees, or finance charges cause your credit account balance to exceed the credit limit. 
 
 The dollar amount of bill payments through your credit account (whether we make these payments electronically or by check) will be charged to that credit account on the Payment Send On Date.
 
@@ -501,7 +499,7 @@ Finance charges (such as interest and transaction fees) may apply to bill paymen
 
 If your Bill Pay Funding Eligible Account closes or is restricted for any reason, we'll cancel all pending payments associated with the account. It will be your sole responsibility to make all pending and future payments.
 
-Wells Fargo offers a [Bill Pay Payment Guarantee](https://www.wellsfargo.com/online-banking/payment-guarantee) that applies to the use of Bill Pay in certain circumstances.
+Wells Fargo offers a [Bill Pay Payment Guarantee](https://www.wellsfargo.com/mobile-online-banking/payment-guarantee/) that applies to the use of Bill Pay in certain circumstances.
 
 If Section 6 conflicts with any other provisions of this Agreement, Section 6 governs with respect to Bill Pay.
 
@@ -511,7 +509,7 @@ There are no monthly service fees for Bill Pay. Account fees (e.g. monthly servi
 
 ### 6(c). Stop/Change Payment
 
-You have the right to stop or change any scheduled bill payment, if you: (1) do so within the Bill Pay secure online session or by calling Wells Fargo Online Customer Service at **1-800-956-4442**, and (2) have submitted your request in time to provide us a reasonable opportunity to act on it before we pay, cash, or otherwise become obligated to pay your bill. See [Bill Pay Payment Guarantee](https://www.wellsfargo.com/online-banking/payment-guarantee/) for further information.
+You have the right to stop or change any scheduled bill payment, if you: (1) do so within the Bill Pay secure online session or by calling Wells Fargo Online Customer Service at **1-800-956-4442**, and (2) have submitted your request in time to provide us a reasonable opportunity to act on it before we pay, cash, or otherwise become obligated to pay your bill. See [Bill Pay Payment Guarantee](https://www.wellsfargo.com/mobile-online-banking/payment-guarantee/) for further information.
 
 Stop payment requests aren't guaranteed: for example, payees can present paper check payments to their bank before the stop payment has been properly processed, and once a paper check has been cashed by the payee or credited to the payee’s account it cannot be stopped. If we successfully stop the payment of a paper check, it may take up to seven Business Days for the funds to be credited back to your account.
 
@@ -529,7 +527,7 @@ To avoid sending duplicate Bill Pay payments, if you schedule more than one paym
 
 ### 6(e). Errors and Liability
 
-In addition to the provisions in Section 5 above and in Section 16(c) below, please refer to our [Bill Pay Payment Guarantee](https://www.wellsfargo.com/online-banking/payment-guarantee/), which provides additional benefits in certain circumstances.
+In addition to the provisions in Section 5 above and in Section 17(c) below, please refer to our [Bill Pay Payment Guarantee](https://www.wellsfargo.com/mobile-online-banking/payment-guarantee/), which provides additional benefits in certain circumstances.
 
 ### 6(f). Termination 
 
@@ -683,7 +681,7 @@ To complete your fund transfer, we may utilize ACH transfers or another third pa
 
 ### 7(f). Fees
 
-Depending on the type of transfer or the type of Wells Fargo Account, we may charge fees for the use of the Transfer & Payments Service, and for any additional services or features that we may introduce. We will notify you of such charge in advance of the transaction. If you choose to proceed with the transaction, you authorize us to debit your Account in the amount indicated. You agree to pay all fees associated with the use of the Transfer & Payments Service. See online [Fee Information](https://www.wellsfargo.com/online-banking/schedule/) for more information about potential fees. Note that your mobile carrier’s message and data rates may apply.
+Depending on the type of transfer or the type of Wells Fargo Account, we may charge fees for the use of the Transfer & Payments Service, and for any additional services or features that we may introduce. We will notify you of such charge in advance of the transaction. If you choose to proceed with the transaction, you authorize us to debit your Account in the amount indicated. You agree to pay all fees associated with the use of the Transfer & Payments Service. See online [Fee Information](https://www.wellsfargo.com/mobile-online-banking/schedule/) for more information about potential fees. Note that your mobile carrier’s message and data rates may apply.
 
 ### 7(g). Suspension, Reinstatement, and Termination
 
@@ -728,7 +726,7 @@ We are not liable for any costs, fees, losses or indirect, special, or consequen
 
 **Security Procedures.** The financial institution at which your Account is maintained may contact us to verify the content and authority of fund transfer instructions and any changes to those instructions. In connection with the Transfer & Payments Service, we may provide to that financial institution such information as may be required to verify the instructions and the verification may constitute a valid security procedure under the rules governing that Account.
 
-**Deviating from Security Procedures.** You permit us to authorize your non-Wells Fargo financial institution to accept funds and transfer instructions in accordance with any authorization procedures you and such financial institution have agreed upon, or that we, on your behalf, and such financial institution have agreed upon, without verifying the instructions under the established security procedures (including Section 16(c) below, if applicable), regardless of whether you agreed to the security procedures or we agreed on your behalf. In addition, we may authorize such financial institutions to charge and debit your Accounts based solely on these communications.
+**Deviating from Security Procedures.** You permit us to authorize your non-Wells Fargo financial institution to accept funds and transfer instructions in accordance with any authorization procedures you and such financial institution have agreed upon, or that we, on your behalf, and such financial institution have agreed upon, without verifying the instructions under the established security procedures (including Section 17(c) below, if applicable), regardless of whether you agreed to the security procedures or we agreed on your behalf. In addition, we may authorize such financial institutions to charge and debit your Accounts based solely on these communications.
 
  
 
@@ -771,11 +769,9 @@ You understand and agree that the provisions of Section 2(b) will apply to Wire 
 
 ### 8(b). Security Procedure
 
-You agree that we will use the security procedure described in this section (“Security Procedure”) to verify the authenticity of an Order initiated on the Website from your Wires Funding Eligible Account. The Security Procedure consists of verifying your username and a password, and/or such other additional security and authentication methods as we may require from time to time. We may also require you to answer security questions, use random number generators, or one-time passcodes to further verify an Order initiated on the Website from your Wires Funding Eligible Account. Wells Fargo leverages and employs the username and password standards set forth in Section 16(b), and you agree to protect your username and password pursuant to Section 16(d).
+You agree that we will use the security procedure described in this section (“Security Procedure”) to verify the authenticity of an Order initiated on the Website from your Wires Funding Eligible Account. The Security Procedure consists of verifying your username and password, together with such other additional security and authentication methods as we may require from time to time, which may include device-based authentication (such as verification of a trusted device), application-based authentication (such as approval through the Wells Fargo mobile application), biometric authentication (such as facial recognition or other biometric identifiers), and code- or token-based authentication methods (such as one-time passcodes or random number generators). You agree that the Security Procedure is commercially reasonable. Wells Fargo employs the username and password standards set forth in Section 17(b), and you agree to protect your username and password pursuant to Section 17(d). Under Uniform Commercial Code Article 4A-202(b), the purpose of the Security Procedure is to verify the authenticity of an Order delivered to us in your name and not to detect errors in the transmission or content of an Order. An Order accepted by us in compliance with the Security Procedure will be effective as your Order for purposes of Article 4A of the Uniform Commercial Code. If you permit an AI Agent or other third party access to the Service, you acknowledge that doing so may adversely impact the commercially reasonable security procedures that you've otherwise agreed to, and you accept the risk of such access.
 
-Pursuant to Uniform Commercial Code Article 4A-202(b), the purpose of the Security Procedure is to verify the authenticity of an Order delivered to us in your name and not to detect errors in the transmission or content of an Order. You agree the Security Procedure is commercially reasonable and is a satisfactory method of verifying the authenticity of Orders initiated on the Website from your Wires Funding Eligible Account.
-
-**You agree to be bound by any Order that Wells Fargo receives and verifies following the Security Procedure, even if the Order was not authorized by you.** You agree that we may be liable only for the minimum damages required to be paid under Uniform Commercial Code Article 4A. In no event will we be liable for any exemplary, special, indirect, or consequential loss, damage, costs, or expense of any nature, including lost profits, even if we have been informed of the possibility of such damages, except as may be required by law or regulation. In no event will Wells Fargo be liable for attorney’s fees. This Section 8(b) will control as the Security Procedure with respect to Orders for Wire Transfers instead of Section 16(c) below.   
+**You agree to be bound by any Order that Wells Fargo receives and verifies following the Security Procedure, even if the Order was not authorized by you.** You agree that we may be liable only for the minimum damages required to be paid under Uniform Commercial Code Article 4A. In no event will we be liable for any exemplary, special, indirect, or consequential loss, damage, costs, or expense of any nature, including lost profits, even if we have been informed of the possibility of such damages, except as may be required by law or regulation. In no event will Wells Fargo be liable for attorney’s fees. This Section 8(b) will control as the Security Procedure with respect to Orders for Wire Transfers instead of Section 17(c) below.   
 
 ### 8(c). Reliance on Information Provided; Inconsistency of Name and Number; Complete and Accurate Information
 
@@ -813,9 +809,9 @@ You may schedule Orders (“Preauthorized Orders”) for recurring or future-dat
 
 ### 8(i). Cancellation and Amendment
 
-Except for the 30-minute cancellation window for Outgoing Consumer International wires set forth below and the cancellation window for Preauthorized Wire Transfers described below, **an Order is final and cannot be canceled or changed by** **you.** However, at your request, Wells Fargo can attempt to cancel or change an Order, but we will not be liable if we are unable to do so. You authorize Wells Fargo to cancel or reject an Order, in our sole discretion, without liability to you. You understand and agree that Wells Fargo’s decision to cancel or reject an Order may be based on confidential information that we may not be able to share with you. Nothing herein creates a duty for Wells Fargo to monitor or review wires beyond that which is required under applicable law. **For additional terms governing Outgoing Consumer International Wires, please see Section 8(l) below.** 
+Except for the 30-minute cancellation window for Outgoing Consumer International wires set forth below and the cancellation window for Preauthorized Wire Transfers described below, **an Order is final and cannot be canceled or changed by you**. However, at your request, Wells Fargo can attempt to cancel or change an Order, but we will not be liable if we are unable to do so. You authorize Wells Fargo to cancel or reject an Order, in our sole discretion, without liability to you, including, but not limited to, lost interest. You understand and agree that Wells Fargo’s decision to cancel or reject an Order may be based on confidential information that we may not be able to share with you. Nothing herein creates a duty for Wells Fargo to monitor or review wires beyond that which is required under applicable law. **For additional terms governing Outgoing Consumer International Wires, please see Section 8(l) below.**  
 
-Preauthorized Wire Transfers that are in pending status cannot be canceled or stopped. You may cancel Preauthorized Wire Transfers as long as we receive the request before the process date or other applicable cut-off time of the one-time Preauthorized Wire Transfer or the next scheduled recurring Preauthorized Wire Transfer. For recurring Preauthorized Wire Transfers associated with a Preauthorized Order, you may cancel only the next scheduled Preauthorized Wire Transfer or the entire recurring Preauthorized Wire Transfer schedule for that Preauthorized Order. After the Preauthorized Wire Transfer schedule for a Preauthorized Order is canceled, all future Preauthorized Wire Transfers associated with that Preauthorized Order will be canceled and you must schedule a new Preauthorized Order if you want Preauthorized Wire Transfers to be made in the future. You may cancel Preauthorized Wire Transfers by logging on to the Website or by contacting us at Wells Fargo Online Customer Service at **1-800-956-4442**.  
+Preauthorized Wire Transfers that are in pending or processing status cannot be canceled or stopped. You may cancel Preauthorized Wire Transfers as long as we receive the request before the process date or other applicable cut-off time of the one-time Preauthorized Wire Transfer or the next scheduled recurring Preauthorized Wire Transfer. For recurring Preauthorized Wire Transfers associated with a Preauthorized Order, you may cancel only the next scheduled Preauthorized Wire Transfer or the entire recurring Preauthorized Wire Transfer schedule for that Preauthorized Order. After the Preauthorized Wire Transfer schedule for a Preauthorized Order is canceled, all future Preauthorized Wire Transfers associated with that Preauthorized Order will be canceled and you must schedule a new Preauthorized Order if you want Preauthorized Wire Transfers to be made in the future. You may cancel Preauthorized Wire Transfers by logging on to the Website or by contacting us at Wells Fargo Online Customer Service at **1-800-956-4442**.  
 
 ### 8(j). Fees and Taxes
 
@@ -827,7 +823,7 @@ Note that your mobile carrier's message and data rates may apply.
 
 An Order expressed in U.S. Dollars will be sent in U.S. Dollars. You may request that prior to executing an Order, Wells Fargo convert the amount to be transferred from U.S. Dollars to the currency of a designated foreign government or intergovernmental organization ("Foreign Currency"). Prior to initiating a wire, you should confirm that your beneficiary can receive the currency you select in your Order. If you do not do so, your Order may be rejected or additional fees and currency conversion charges may apply, if the beneficiary's account is in a different currency.
 
-In addition to any applicable fees, Wells Fargo makes money when we convert one currency to another currency for you. The exchange rate used when Wells Fargo converts one currency to another is set at our sole discretion, and it includes a markup. The markup is designed to compensate us for several considerations including, without limitation, costs incurred, market risks, and our desired return. The applicable exchange rate does not include, and is separate from, any applicable fees. The exchange rate Wells Fargo provides to you may be different from exchange rates you see elsewhere. Different customers may receive different rates for transactions that are the same or similar. The applicable exchange rate may vary based on such factors including, but not limited to, currency pair, transaction size, payment channel, and product type, such as foreign currency cash, checks, remittances, and wire transfers. Foreign exchange markets are dynamic, and rates fluctuate over time based on market conditions, liquidity, and risks. Wells Fargo is your arms-length counterparty on foreign exchange transactions. We may refuse to process any request for a foreign exchange transaction.
+In addition to any applicable fees, Wells Fargo makes money when we convert one currency to another currency for you. The exchange rate used when Wells Fargo converts one currency to another is set at our sole discretion, and it includes a markup. The markup is designed to compensate us for several considerations including, without limitation, costs incurred, market risks, and our desired return. The applicable exchange rate does not include, and is separate from, any applicable fees. The exchange rate Wells Fargo provides to you may be different from exchange rates you see elsewhere. Different customers may receive different rates for transactions that are the same or similar. The applicable exchange rate may vary based on such factors including, but not limited to, currency pair, transaction size, payment channel, and product type, such as foreign currency cash, checks, remittances, and wire transfers. Foreign exchange markets are dynamic, and rates fluctuate over time based on market conditions, liquidity, and risks. Outside of regular market hours and during weekends, additional markups are added to the exchange rate to account for any exchange rate fluctuations. Wells Fargo is your arms-length counterparty on foreign exchange transactions. We may refuse to process any request for a foreign exchange transaction.
 
 Incoming wire transfers received in a foreign currency for payment into your account will be converted into U.S. dollars using the applicable exchange rate without prior notice to you.
 
@@ -923,8 +919,8 @@ We may periodically audit and verify your compliance with this Section or for an
 
  
 
-[10\. PazeSM](#Expand)
-----------------------
+[10\. Paze®](#Expand)
+---------------------
 
 [(a). Description](#paze-description)
 
@@ -962,7 +958,7 @@ We have the right and sole discretion to modify or terminate the eligibility req
 
 You agree that we may share with Paze and Early Warning your eligible credit and debit card numbers and expiration dates, and related personal information such as your name, social security number or tax identification number, date of birth, email address, mobile phone number, statement address, and other personal information needed to enable the Paze service. A network token service provider will tokenize your eligible credit and debit card numbers for security purposes. Paze and Early Warning will use your information to provide the service to you, including to help verify your identity. 
 
-When you select your eligible credit or debit card to pay a participating merchant online, you agree that Paze and Early Warning may share your name, statement address, phone number, email address, tokenized payment card information and other necessary personal information ("Card Details") with the merchant. Paze will transmit the Card Details to the merchant or a third party the merchant engages, to enable processing of the transaction or to set up an online account with the merchant. You agree that the merchant or other applicable third party can transmit information about the transaction to the applicable card network for your credit or debit card and that your transaction will be completed using the credit or debit card you have selected to enable a transaction. You understand that once you authorize the payment with the merchant, Paze is not involved in processing the transactions. The transactions will be reflected on your account for the eligible Wells Fargo credit or debit card you selected to make the payment.    
+When you select your eligible credit or debit card to pay a participating merchant online, you agree that Paze and Early Warning may share your name, statement address, phone number, email address, tokenized payment card information and other necessary personal information ("Card Details") with the merchant. Paze will transmit the Card Details to the merchant or a third party the merchant engages, to enable processing of the transaction or to set up an online account with the merchant. You agree that the merchant or other applicable third party can transmit information about the transaction to the applicable card network for your credit or debit card and that your transaction will be completed using the credit or debit card you have selected to enable a transaction. You understand that Paze and the applicable card network may access and monitor information about your Paze wallet transaction, including your Card Details, to provide certain incentives for Paze, if available, subject to Paze’s terms, conditions, and eligibility criteria, and that we or the applicable card network may credit your applicable Eligible Account for satisfying any such incentives. You also understand that once you authorize the payment with the merchant, Paze is not involved in processing the transactions. The transactions will be reflected on your account for the eligible Wells Fargo credit or debit card you selected to make the payment.    
 
 Paze and Early Warning may capture information about the transaction itself, such as a unique transaction identifier, so there is a record of the transaction. Early Warning may also capture certain information from your mobile device or internet browser used to access the Paze service, including Internet Protocol (IP) address. Early Warning may use such information to operate and maintain the Paze service, including to: prevent, detect and protect against security incidents, fraud, and prohibited or illegal activities related to the Paze service; conduct internal research to improve the Paze service; prepare anonymized reports about the use of the Paze service; or for legal or compliance purposes.   
 
@@ -1048,7 +1044,7 @@ Many account documents — including statements, tax documents, and legal notice
 
 Any legal notices or disclosures about your Eligible Account or Online Financial Service that would normally accompany your paper account statement, or that we would mail to you, may be delivered to you electronically. In some cases, we must continue to mail paper statements, legal notices, and disclosures even if you elect to receive them electronically. Wells Fargo is not responsible for statement non-delivery if you do not maintain a valid email address as described in Section 12(c).
 
-We'll email you to notify you that a statement, tax document, or other document is available online and you can view, print, and/or save at your convenience. By requesting that bills, statements, or other communications from us be sent to you electronically, you warrant that you have the right, power, and authority to receive them electronically.
+We may email you to notify you that a statement, tax document, or other document is available online and you can view, print, and/or save at your convenience. By requesting that bills, statements, or other communications from us be sent to you electronically, you warrant that you have the right, power, and authority to receive them electronically.
 
 We may offer you additional options/preferences for delivery of various communications related to your Eligible Accounts or Online Financial Services. We may add to, modify, or delete any feature of online statements and documents at our sole discretion.
 
@@ -1165,7 +1161,7 @@ You understand and agree that, with regard to your use of Financial Management S
     5.  Court-ordered payments (such as child support payments or traffic tickets).
 *   All research and resolution for any misapplied, misposted, or misdirected payments will be your sole responsibility, except as otherwise provided by law or regulation (including, to the extent applicable, the protections described in Section 5 relating to EFTs for Consumer accounts).
 *   We have no duty to monitor the online transfers or payments that you make. You assume the entire risk of using the Service properly to ensure that funds are transferred and bills are paid properly and timely. We won't be responsible for any charges imposed or any other action taken by a payee/merchant resulting from a bill payment that you have not scheduled properly, including any applicable finance charges and late fees. In addition, we won't be liable if any third party through whom any bill payment is made fails to transmit the payment or the payment instruction properly to the intended payee/merchant, or if the merchant/payee or its bank fails to transmit a payment instruction or record a bill payment properly.
-*   In using the Financial Management Software, payees and/or the U.S. Postal Service may return payments for various reasons including, payee's forwarding address expired; payee's account number is not valid; payee is not available to locate account; or payee's account is paid in full. We will use reasonable efforts to research and correct the returned payment and return it to your payee, or void the payment and credit your account.
+*   In using the Financial Management Software, payees and/or the U.S. Postal Service may return payments for various reasons including, payee's forwarding address expired; payee's account number is not valid; payee is not able to locate account; or payee's account is paid in full. We will use reasonable efforts to research and correct the returned payment and return it to your payee, or void the payment and credit your account.
 *   Your Financial Management Software may provide the option of disabling selected features of the Service. To disable any feature of the Service, you MUST contact us by calling **1-800-956-4442** with your notification.
 *   Some states do not allow limitations on how long an implied warranty lasts, so that the above limitations may not apply to you, and that you may also have other rights, which vary from state to state.
 
@@ -1236,20 +1232,92 @@ Some states do not allow limitations on how long an implied warranty lasts, so t
 
  
 
-[15.  Fees](#Expand)
+[15.  Third-Party Artificial Intelligence Agents or Agentic AI](#Expand)
+------------------------------------------------------------------------
+
+[(a). Scope and Applicability](#third-ai-scope)
+
+[(b). Your Third-Party Relationship](#third-ai-relationship)
+
+[(c). Your Consent to Disclosure of Information](#third-ai-consent)
+
+[(d). Your Authorization and Our Reliance on AI Agent Instructions](#third-ai-authorization)
+
+[(e). Your Responsibilities](#third-ai-responsibilities)
+
+[(f). Revocation of Authorization](#third-ai-revocation)
+
+[(g). Security and Access Controls](#third-ai-security)
+
+[(h). Eligibility Restrictions](#third-ai-eligibility)
+
+### 15(a). Scope and Applicability
+
+The provisions in this Section apply if you use, allow, enable, or authorize the deployment or use of any artificial intelligence agent or agentic artificial intelligence (each, an "AI Agent") to access, use, or interact with any Service or any Eligible Account. "AI Agent" means any software, application, program, or other technology that takes autonomous, semi-autonomous, or non-autonomous action on behalf of any person or entity.
+
+### 15(b). Your Third-Party Relationship
+
+Your use of any AI Agent is governed by the terms and conditions of the applicable third party providing such AI Agent and any agreement between you and that third party. We do not provide, control, or endorse any AI Agent, and we are not responsible for AI Agents or their activities.
+
+We do not monitor, review, audit, or certify the security, privacy policies, or data handling practices of any AI Agent or the third party providing such AI Agent. You acknowledge that our privacy and security policies do not apply to any AI Agent, and we have no responsibility for, and no control over, how any third party or AI Agent collects, uses, reuses, stores, shares, or protects your data.
+
+### 15(c). Your Consent to Disclosure of Information
+
+If you use an AI Agent to access or use the Service or any Eligible Account, you acknowledge and expressly consent to the sharing of your financial, account, and personal information with such AI Agent. You understand that such information may be accessed, used, reused, stored, or shared by the AI Agent or the third party providing it, and that such activities are outside of our control.
+
+### 15(d). Your Authorization and Our Reliance on AI Agent Instructions
+
+Unless otherwise provided by law or regulation, if you provide an AI Agent with access to the Service or any Eligible Account using your login credentials, or otherwise authorize an AI Agent to act on your behalf, you agree that:
+
+*   Any instructions, actions, or transactions initiated by the AI Agent are deemed to have been initiated and authorized directly by you, without further verification, and we have no obligation to investigate the validity or scope of such authority;
+*   We may rely on any such instructions, actions, or transactions as valid and binding and as evidence of your authorization; and
+*   We have no obligation to investigate, verify, or confirm the authority, authenticity, or validity of any instruction or action taken by an AI Agent.
+
+### 15(e). Your Responsibilities
+
+Your use of any AI Agent is AT YOUR OWN RISK. You are solely responsible for:
+
+*   Monitoring the activities of any AI Agent acting on your behalf and maintaining appropriate safeguards;
+*   Ensuring that any AI Agent operates within the scope of authority you have granted to it or in your best interest;
+*   Ensuring the accuracy, completeness, and appropriateness of any instructions provided to an AI Agent; and
+*   (Unless otherwise provided by law or regulation) any actions, errors, or results arising from the AI Agent’s interpretation or implementation of your instructions, unintended actions performed by the AI Agent, actions resulting from incomplete, inaccurate, or manipulated inputs, or the AI Agent exceeding the authority granted by you.
+
+You acknowledge that we do not monitor, screen, or review AI Agent activities, including any transactions initiated by an AI Agent. 
+
+### 15(f). Revocation of Authorization
+
+You are responsible for properly and timely revoking any authorization provided to an AI Agent and taking any necessary further action to cease the AI Agent’s activities. You should retain evidence of such revocation and provide such evidence to us, at our request. Until you notify us of such revocation pursuant to Section 17(d), you remain responsible for all the AI Agent’s activities, to the extent permitted by law or regulation.
+
+### 15(g). Security and Access Controls
+
+We reserve the right, at any time to:
+
+*   Modify or update our security procedures, protocols, accessibility, or requirements related to AI Agents, including requiring that you register your AI Agents with us;
+*   Change, limit, restrict, or discontinue any application programming interface (API) or other access method for AI Agents; and
+*   Limit, prohibit, prevent, suspend, or terminate access by any AI Agent to the Service or any Eligible Account, including by restricting certain actions by AI Agents.
+
+You acknowledge that such actions may prevent an AI Agent from functioning or accessing the Service, and we are not responsible for any resulting impact.
+
+### 15(h). Eligibility Restrictions
+
+You agree that you will not permit any AI Agent to access or use the Service or any Eligible Account on your behalf if you are under 18 years of age or are otherwise prohibited from doing so under applicable law. 
+
+ 
+
+[16.  Fees](#Expand)
 --------------------
 
 [(a). Fees for Eligible Accounts and Online Financial Services](#fees-fees)
 
 [(b). Payment](#fees-payment)
 
-### 15(a). Fees for Eligible Accounts and Online Financial Services
+### 16(a). Fees for Eligible Accounts and Online Financial Services
 
-Certain fees in connection with an Eligible Account or Online Financial Service may apply when using the Service, and are separately disclosed in the specific agreements for an Eligible Account and/or on our Website under [Fee Information](https://www.wellsfargo.com/online-banking/schedule/), unless otherwise described in this Agreement.
+Certain fees in connection with an Eligible Account or Online Financial Service may apply when using the Service, and are separately disclosed in the specific agreements for an Eligible Account and/or on our Website under [Fee Information](https://www.wellsfargo.com/mobile-online-banking/schedule/), unless otherwise described in this Agreement.
 
 Your internet, telephone, and/or mobile device service provider may assess other fees and bill them separately to you.
 
-### 15(b). Payment
+### 16(b). Payment
 
 Unless otherwise agreed, you must designate an account at Wells Fargo to pay fees for Eligible Accounts and Online Financial Services (your "Payment Account"). You authorize us to charge your Payment Account for the fees.
 
@@ -1257,7 +1325,7 @@ If you close your current Payment Account, you must notify us to designate a new
 
  
 
-[16.  Security](#Expand)
+[17.  Security](#Expand)
 ------------------------
 
 [(a). Description](#security-description)
@@ -1268,7 +1336,7 @@ If you close your current Payment Account, you must notify us to designate a new
 
 [(d). Protecting Your Security](#security-protecting)
 
-### 16(a). Description
+### 17(a). Description
 
 You need a username and password, or other Wells Fargo approved security and authentication controls, to access your Eligible Accounts and Online Financial Services through the Service. We may set standards for your username and password, and other security and authentication controls. We recommend that you change your password regularly, and select a unique username and password combination for use only with the Service.
 
@@ -1278,21 +1346,21 @@ We may also require the use or activation of specific applications, internet bro
 
 To enable and enhance secure access to the Service, we may also access detailed information about the computers and Mobile Devices you use to access the Service. This could include telephone numbers and unique internal and network identifiers for your computers and Mobile Devices. We also use cookies and other technology for information security and other purposes, as described in our [Digital Privacy and Cookies Policy](https://www.wellsfargo.com/privacy-security/online/).
 
-### 16(b). Usernames and Passwords
+### 17(b). Usernames and Passwords
 
 Usernames and passwords must meet the standards we establish. These standards will be available for your reference whenever you create or change a username and/or password. We may require you to change or update your username and/or password at any time, including to meet any new standards we may establish. You are responsible for keeping your password confidential. We recommend you select a unique username and password combination for use only with the Service, and memorize it rather than writing it down.
 
 You can change your username and/or password within the Service or by calling **1-800-956-4442** (**1-877-879-2495** for Wells Fargo Advisors accounts, or **1-866-552-3312** (WFCS Custodied brokerage accounts)).
 
-### 16(c). Transfers Security Procedures (Excluding Digital Wires)
+### 17(c). Transfers Security Procedures (Excluding Digital Wires)
 
-The provisions in this Section 16(c) only apply to transactions which may be subject to Article 4A of the Uniform Commercial Code ("UCC 4A"), including online transactions from business accounts, and ExpressSend (or any successor product(s) we may offer from time to time) transfers. This Section 16(c) does not apply to Wire Transfers – please see Section 8(b) above for the security procedure for Wire Transfers.
+The provisions in this Section 17(c) only apply to transactions which may be subject to Article 4A of the Uniform Commercial Code ("UCC 4A"), including online transactions from business accounts, and ExpressSend (or any successor product(s) we may offer from time to time) transfers. This Section 17(c) does not apply to Wire Transfers – please see Section 8(b) above for the security procedure for Wire Transfers.
 
-The security procedure consists of verifying your username and a password, and/or such other additional security and authentication methods as we may require from time to time. We may also require you to answer security questions, use random number generators, or one-time passcodes to further verify a transfer governed by UCC 4A. Wells Fargo leverages and employs the username and password standards set forth in Section 16(b), and you agree to protect your username and password pursuant to Section 16(d). We may require that you provide to us a permanent, text message-enabled U.S. mobile phone number that you intend to use for an extended period of time (i.e., no "burner" numbers), before you use any Service subject to this Section 16(c). The purpose of the security procedure is to verify the authenticity of a transfer request delivered to us in your name and not to detect errors in the transfer. You agree the security procedure required by us in this Agreement is commercially reasonable, and meets your needs with regard to the size, type, and frequency of your transfers governed by UCC 4A.
+The security procedure consists of verifying your username and a password, and/or such other additional security and authentication methods as we may require from time to time. We may also require you to answer security questions, use random number generators, or one-time passcodes to further verify a transfer governed by UCC 4A. Wells Fargo leverages and employs the username and password standards set forth in Section 17(b), and you agree to protect your username and password pursuant to Section 17(d). We may require that you provide to us a permanent, text message-enabled U.S. mobile phone number that you intend to use for an extended period of time (i.e., no "burner" numbers), before you use any Service subject to this Section 17(c). The purpose of the security procedure is to verify the authenticity of a transfer request delivered to us in your name and not to detect errors in the transfer. You agree the security procedure required by us in this Agreement is commercially reasonable, and meets your needs with regard to the size, type, and frequency of your transfers governed by UCC 4A. If you permit an AI Agent or other third party access to the Service, you acknowledge that doing so may adversely impact the commercially reasonable security procedures that you've otherwise agreed to, and you accept the risk of such access.
 
 **You agree to be bound by any transfer request that Wells Fargo receives and verifies following our security procedure, even if the transfer request was not authorized by you.** You agree that we may be liable only for damages required to be paid under UCC 4A. In no event will we be liable for any exemplary, special, indirect, or consequential loss, damage, costs, or expense of any nature, including lost profits, even if we have been informed of the possibility of such damages, except as may be required by law or regulation.
 
-### 16(d). Protecting Your Security
+### 17(d). Protecting Your Security
 
 Even though information exchanged through the Service is protected by advanced encryption techniques while being transmitted, you still need to protect your username and password for the Service.
 
@@ -1311,33 +1379,33 @@ In the event of unauthorized use of your username and password, or any other sec
 
  
 
-[17.  Privacy and Use of Information](#Expand)
+[18.  Privacy and Use of Information](#Expand)
 ----------------------------------------------
 
 [(a). Description](#privacy-description)
 
 [(b). Acknowledgements and Agreements](#privacy-acknowledgements)
 
-### 17(a). Description
+### 18(a). Description
 
 We treat your information in accordance with Wells Fargo's [Privacy Notices](https://www.wellsfargo.com/privacy-security/) applicable to you and your accounts and any notice provided to you at the point of collection.
 
-Your use of the Service is subject to the [Wells Fargo Digital Privacy and Cookies Policy](https://www.wellsfargo.com/privacy-security/online/). By accessing or using the Service, you understand and agree that Wells Fargo may collect and retain information about you, your internet browser, or the device you use to access the Service, including Internet Protocol (IP) address, device identifier, and geolocation (if enabled on your device).
+Your use of the Service is subject to the [Wells Fargo Digital Privacy and Cookies Policy](https://www.wellsfargo.com/privacy-security/online/). By accessing or using the Service, you understand and agree that Wells Fargo may collect and retain information about you. This includes information such as the device you use to access the Service, browser information and web page referrers, mobile network, connection information, mobile operator or internet service provider (ISP), time zone setting. Internet Protocol (IP) address, identifiers (including device or advertising identifiers and other unique online identifiers), and geolocation (if enabled on your device).
 
 We use analytics and monitoring tools to collect information about your interaction with our Services. These interactions are collected using tracking technologies like cookies and pixels, and technical log files. Along with our service providers, we use the data for purposes that include interaction monitoring and visual replay for fraud, customer service, product improvement, marketing, and other purposes allowed by law or specified in our privacy notices.
 
 You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Wells Fargo, its Affiliates, or our service providers for the duration of your business relationship, to help them identify you or your wireless device and to prevent fraud. See our [Privacy Notices](https://www.wellsfargo.com/privacy-security/) for how we treat your information.
 
-### 17(b). Acknowledgements and Agreements
+### 18(b). Acknowledgements and Agreements
 
 You acknowledge and agree that:
 
-*   We may collect and retain certain information and use that information to market our products and services to you, unless you are a minor under the age of 18. You can change your [privacy preferences online](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call **1-888-528-8460**.
+*   We may collect and retain your information and use that information to market our products and services to you in accordance with your privacy preferences, unless you are a minor under the age of 18. You can change your [privacy preferences online](https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&loginMode=jukePassword&serviceType=changePrivacyPreference&LOB=CONS) or call **1-888-528-8460**.
 *   If you access the Service, or use an Online Financial Service, we may track and record your precise geographic location (if enabled on your device) and your interaction with our Website.
 *   We may use automated processes to detect any use of the Service that violates the terms of this Agreement or any applicable law or regulation.
 *   You will receive your annual privacy notices on our Website and the availability of the privacy notices on the Website constitutes actual notice of the contents of the privacy notices.
 *   Any communications with us through use of chat, virtual AI assistant, telephone, human-simulated conversation, or a similar technology may be monitored, recorded, analyzed, and retained, by both Wells Fargo and our service providers, without any further notice to you. Other communications between you and us (or our service providers) may also be monitored, recorded, retained, and processed by service providers, potentially using automated processes. We will provide any additional notice of monitoring, recording, and retention as required by law or regulation. If you invite another party to join a communication between you and Wells Fargo, you are responsible for providing that party with notice of recording, monitoring and analysis done by Wells Fargo and its services providers. Communications may be shared with our service providers and other third parties in accordance with our privacy policy and applicable law.
-*   We use cookies, pixels, and related technology which may capture web browsing history and similar information. We may share the information collected via that technology with our service providers and other third parties in accordance with our privacy notices and applicable law, without any further notice to you.
+*   We use cookies, pixels, and similar technologies to collect information about your use of the Services and Website browsing history and similar information. We may share the information collected via that technology with our service providers and other third parties in accordance with our privacy notices and applicable law, without any further notice to you.
 *   If you provide either information about a minor or permission to collect a minor’s personal information, you agree that you are authorized to do so and that Wells Fargo may use that personal information for the purposes for which it was collected. You further agree that Wells Fargo's use of that information about a minor is strictly necessary to provide a requested product or service, including improving the services covered by this Agreement.
 *   If you are a minor, we may collect and retain certain personal information that you provide to Wells Fargo. For more information about the types of personal information Wells Fargo collects and the reasons why Wells Fargo collects the information, including any potential protections under US federal and state privacy laws, please see the [Minor Privacy Notice](https://www.wellsfargo.com/assets/pdf/personal/privacy-security/minor-privacy-notice.pdf).
 *   If you provide any information that is reasonably linkable to an individual’s physical or mental health, you further agree that Wells Fargo's use of that information is strictly necessary to provide a requested product or service, including improving the services covered by this Agreement.
@@ -1346,7 +1414,7 @@ You acknowledge and agree that:
 
  
 
-[18.  Your Additional Responsibilities](#Expand)
+[19.  Your Additional Responsibilities](#Expand)
 ------------------------------------------------
 
 You agree that:
@@ -1375,7 +1443,7 @@ You agree that:
 
  
 
-[19\. Disclaimers](#Expand)
+[20\. Disclaimers](#Expand)
 ---------------------------
 
 [(a). Disclaimer of Warranties](#disclaimers-disclaimer)
@@ -1384,13 +1452,13 @@ You agree that:
 
 [(c). Indemnification](#disclaimers-indemnification)
 
-### 19(a). Disclaimer of Warranties
+### 20(a). Disclaimer of Warranties
 
 To the fullest extent permitted by law or regulation, we make no warranties of any kind for the Service, either express or implied, including, implied warranties of merchantability or fitness for a particular purpose.
 
 We do not warrant that the Service will be uninterrupted or error free, that defects will be corrected, or that our Website that makes the Service available is free of viruses or other harmful components.
 
-### 19(b). Limits on Liability and Obligation
+### 20(b). Limits on Liability and Obligation
 
 Wells Fargo and its officers, directors, shareholders, parents, subsidiaries, affiliates, agents, licensors, or third- party service providers are not liable for any:
 
@@ -1430,7 +1498,7 @@ We won't be obligated to honor, in whole or in part, any transaction or instruct
 *   Is not in accordance with any other requirement of our policies, procedures, or practices.
 *   We have other reasonable cause not to honor for our or your protection.
 
-### 19(c). Indemnification
+### 20(c). Indemnification
 
 Except where we're liable under the terms of this Agreement or another agreement governing the applicable Eligible Account or Online Financial Service, you agree to indemnify, defend, and hold us, our affiliates, officers, directors, employees, consultants, agents, service providers, and licensors, harmless from any and all third-party claims, liability, damages, obligations, demands, charges, expenses, and/or costs (including reasonable attorney's fees) arising from:
 
@@ -1444,11 +1512,11 @@ Except where we're liable under the terms of this Agreement or another agreement
 
 We reserve the right to defend/control (at our own expense) any matter otherwise subject to indemnification by you. In such a case, you will cooperate with us in asserting any available defenses. You won't settle any action or claims on our behalf without our prior written consent.
 
-You are providing this indemnification without regard to whether our claim for indemnification is due to the use of the Service by you, your Authorized Representative, or your Delegate.
+You are providing this indemnification without regard to whether our claim for indemnification is due to the use of the Service by you, your Authorized Representative, or your Delegate (or by any of the AI Agents of such persons).
 
  
 
-[20.  Dispute Resolution Program: Waiver of Class Action Rights and Arbitration Provision](#Expand)
+[21.  Dispute Resolution Program: Waiver of Class Action Rights and Arbitration Provision](#Expand)
 ---------------------------------------------------------------------------------------------------
 
 [(a). Description](#dispute-description)
@@ -1467,7 +1535,7 @@ You are providing this indemnification without regard to whether our claim for i
 
 [(h). Small Claims Court](#dispute-small)
 
-### 20(a). Description
+### 21(a). Description
 
 This Section constitutes the arbitration agreement between you and us ("Arbitration Provision"), and includes a mutual waiver of class action rights. It governs disputes about the following, which are known as "Covered Disputes":
 
@@ -1478,10 +1546,10 @@ This Section constitutes the arbitration agreement between you and us ("Arbitrat
 
 This Section does not cover the following disputes:
 
-*   Disputes about Eligible Accounts that are brokerage accounts. These are governed by the Pre-Dispute Arbitration Agreement and governing law provisions contained in the brokerage account agreement document, which takes precedence over this Section.
+*   Disputes about Eligible Accounts that are brokerage accounts. Brokerage accounts are governed by the Pre-Dispute Arbitration Agreement and governing law provisions contained in the brokerage account agreement document, which takes precedence over this Section.
 *   Disputes arising under any separate agreement governing your other Eligible Accounts. These are governed by the dispute resolution and governing law provisions of that agreement, which also take precedence over this Section.
 
-### 20(b). Non-judicial Dispute Resolution
+### 21(b). Non-judicial Dispute Resolution
 
 You and we agree that any Covered Disputes between or among you and us, regardless of when it arose, will, upon demand by either you or us, be resolved by the arbitration process described in Section (d) below. **You understand and agree that you and we are each waiving the right to a jury trial or a trial before a judge in a public court.**
 
@@ -1489,7 +1557,7 @@ As an exception to this Arbitration Provision, we both retain the right to pursu
 
 If the Arbitration Agreement is ever deemed unenforceable or void, or a dispute between the parties is not subject to arbitration, or for any actions to enforce the Arbitration Agreement or seek entry of judgment on any arbitration award, then, except for disputes brought in small claims court, the parties irrevocably consent to the exclusive jurisdiction of the state or federal courts in the state whose laws govern your account, without regard to conflict of laws principles.
 
-### 20(c). Definition of Disputes
+### 21(c). Definition of Disputes
 
 A dispute is any unresolved disagreement between or among you and us. Disputes include:
 
@@ -1498,7 +1566,7 @@ A dispute is any unresolved disagreement between or among you and us. Disputes i
 *   Statutory, common law, and equitable claims.
 *   Any disagreement about the meaning of this Arbitration Provision.
 
-### 20(d). Binding Arbitration and Waiver of Class Action Rights
+### 21(d). Binding Arbitration and Waiver of Class Action Rights
 
 Binding arbitration lets an independent third party resolve a Covered Dispute without using the court system, judges, or juries. Either you or we may require the submission of a Covered Dispute to binding arbitration at any reasonable time, even if a lawsuit or other proceeding has begun. If either you or we don't submit to binding arbitration following a lawful demand, the one who fails to so submit bears all costs and expenses (including attorney's fees and expenses) incurred by the other in compelling arbitration.
 
@@ -1518,13 +1586,13 @@ You and we each agree that in this relationship:
 *   All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of this Arbitration Provision or whether a dispute can or must be brought in arbitration are for a court of competent jurisdiction to decide.
 *   Each arbitration is governed by the provisions of the Federal Arbitration Act (Title 9 of the United States Code) and, to the extent any provision of that Act is inapplicable, unenforceable, or invalid, the laws governing the relationship between you and us about which the Covered Dispute arose.
 
-The party initiating arbitration must include in the arbitration demand all of the following information:  (i) the claimant’s name, address, telephone number, and email address; (ii) the applicable account holder’s name (if different from the claimant) and account number; (iii) information sufficient to identify any transaction at issue including the date and location of any such transaction, if applicable; (iv) a detailed description of the nature and basis of the claims asserted; and (v) a detailed description of the nature and basis of the relief sought, including a calculation for it. The demand must be personally signed by the party initiating arbitration (and by counsel if the claimant is represented). By submitting an arbitration demand, the claimant (and, counsel, if the claimant is represented) represent that, as in court, they are complying with the requirements of Federal Rule of Civil Procedure 11(b). The arbitrator is authorized to impose any sanctions available under Federal Rule of Civil Procedure 11 on represented parties and their counsel. If the arbitrator finds that either the substance of your or our claim or the relief sought was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then we or you may also seek applicable fee-shifting. Either we or you may request to have the arbitration conducted by a video or in-person hearing, or through written submissions, except any dispute seeking $10,000 or more, or injunctive relief, shall have a video or in-person hearing unless the parties agree otherwise. You and our representative will personally appear at any hearing (with counsel, if represented).
+The party initiating arbitration must include in the arbitration demand all of the following information: (i) the claimant’s name, address, telephone number, and email address; (ii) the applicable account holder’s name (if different from the claimant) and account number; (iii) information sufficient to identify any transaction at issue including the date and location of any such transaction, if applicable; (iv) a detailed description of the nature and basis of the claims asserted; and (v) a detailed description of the nature and basis of the relief sought, including a calculation for it. The demand must be personally signed by the party initiating arbitration (and by counsel if the claimant is represented). By submitting an arbitration demand, the claimant (and counsel, if the claimant is represented) represent that, as in court, they are complying with the requirements of Federal Rule of Civil Procedure 11(b). The arbitrator is authorized to impose any sanctions available under Federal Rule of Civil Procedure 11 on represented parties and their counsel. If the arbitrator finds that either the substance of your or our claim or the relief sought was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then we or you may also seek applicable fee-shifting. Either we or you may request to have the arbitration conducted by a video or in-person hearing, or through written submissions, except any dispute seeking $10,000 or more, or injunctive relief, shall have a video or in-person hearing unless the parties agree otherwise. You and our representative will personally appear at any hearing (with counsel, if represented).
 
 To find out how to initiate arbitration, please call any office of the AAA or visit the AAA Website at www.adr.org. If any of the provisions of this Arbitration Provision dealing with class action, class arbitration, private attorney general action, other representative action, joinder, or consolidation is found to be unlawful or unenforceable, that invalid provision shall not be severable and this entire arbitration agreement shall be unenforceable.
 
 Notwithstanding the foregoing, the parties retain the right to participate in a class-wide settlement.  
 
-### 20(e). Rights Preserved
+### 21(e). Rights Preserved
 
 This Arbitration Provision and the exercise of any of the rights you and we have under this Arbitration Provision do not stop either of us from exercising any lawful rights to use other remedies available to:
 
@@ -1533,7 +1601,7 @@ This Arbitration Provision and the exercise of any of the rights you and we have
 *   Obtain provisional or ancillary remedies such as injunctive relief, attachment, garnishment, or court appointment of a receiver by a court having jurisdiction.
 *   Enforce your rights under section 502 of the Employee Retirement Income Security Act of 1974.
 
-### 20(f). Miscellaneous
+### 21(f). Miscellaneous
 
 You and we each agree to take all steps and execute all documents necessary for the implementation of arbitration proceedings. The arbitrator may hear and rule on appropriate dispositive motions as part of the arbitration proceeding, such as motions for judgments on the pleadings, summary judgment, or partial summary judgment.
 
@@ -1545,17 +1613,17 @@ The provisions of this Arbitration Provision will survive termination, amendment
 
 This Arbitration Provision constitutes the entire agreement between you and us and supersedes all prior arrangements and other communications about dispute resolution. If more than one arbitration agreement mutually entered into by you and us potentially applies to a Covered Dispute, the one most directly related to the Eligible Account or transaction that is the subject of the dispute will control.
 
-### 20(g). Fees and Expenses
+### 21(g). Fees and Expenses
 
 Arbitration fees shall be determined by the rules or procedures of the Arbitration Administrator, unless limited by applicable law. Please check with the Arbitration Administrator to determine the fees that apply to any arbitration you may file. If the law that applies to this Agreement limits the amount of fees and expenses you have to pay, then no allocation of fees and expenses to you shall exceed this limitation. We will pay any costs that are required to be paid by us under the arbitration administrator's rules and procedures, and subject to applicable law. If the arbitrator rules in your favor on any claim presented, we will reimburse you for arbitration filing fees you have paid up to $700.00. Unless applicable law states otherwise, each party will pay their own attorney, expert, and witness fees. This rule applies no matter which party wins arbitration.
 
-### 20(h). Small Claims Court
+### 21(h). Small Claims Court
 
 Notwithstanding anything in the Agreement to the contrary, each party retains the right to pursue in Small Claims Court any dispute in which the remedy sought is entirely within that court's jurisdiction. Further, this arbitration agreement will apply only to disputes in which either party seeks to recover an amount of money (excluding attorneys’ fees and costs) that exceeds the jurisdictional limit of the small claims court. Any disagreement over whether a dispute qualifies for small claims court will be resolved by the small claims court in the first instance and otherwise by a court of competent jurisdiction and any arbitration shall be stayed pending such resolution.
 
  
 
-[21.  Notices and Communications With Us](#Expand)
+[22.  Notices and Communications With Us](#Expand)
 --------------------------------------------------
 
 [(a). Description](#notices-description)
@@ -1572,7 +1640,7 @@ Notwithstanding anything in the Agreement to the contrary, each party retains th
 
 [(g). Complaints, Feedback, and Questions](#notices-complaints)
 
-### 21(a). Description
+### 22(a). Description
 
 We'll provide notices and other information regarding your Eligible Account, Online Financial Service, or the Service (collectively "Account-Related Information") electronically, by phone, through the mail (U.S. Postal Service or overnight courier), or by other means, except as expressly provided otherwise in this Agreement.
 
@@ -1584,7 +1652,7 @@ If your Eligible Account has multiple owners, we may send Account-Related Inform
 
 Any notice you send to us won't be effective until we actually receive it and have a reasonable opportunity to act on it.
 
-### 21(b). Electronic Delivery
+### 22(b). Electronic Delivery
 
 Unless applicable law or regulation states otherwise or pursuant to the ESIGN Consent to Use Electronic Records and Signatures, when we need to provide you with information in writing, we can send it electronically:
 
@@ -1594,17 +1662,17 @@ Unless applicable law or regulation states otherwise or pursuant to the ESIGN Co
 
 E-Addresses include email addresses, other internet addresses, text messaging numbers, or other electronic access addresses provided to us in accordance with this Agreement.
 
-### 21(c). Phone Calls and Text Messages
+### 22(c). Phone Calls and Text Messages
 
 When you provide a phone number to us, you are authorized to provide this phone number(s) and agree to receive calls and text messages from Wells Fargo at this number(s) for all your current and future Wells Fargo products and services. Message and data rates may apply. Message frequency varies. Automated systems, including prerecorded or artificial voice may be used. To help protect your account security, Wells Fargo does not support SMS or MMS functionality for recognized VoIP, prepaid, or landline phone numbers. In order to receive text messages from Wells Fargo, such as one-time passcodes or suspicious activity alerts, an eligible phone number and Mobile Device are required.
 
 You agree that we may call you and text you to service your accounts, collect any amount you may owe, or discuss our relationship, products, and services with you, as described in this Section.
 
-### 21(d). Communications Sent At Your Request/On Your Behalf
+### 22(d). Communications Sent At Your Request/On Your Behalf
 
 You authorize us to send emails and text messages to others on your behalf, if needed to carry out your instructions regarding an Eligible Account or Online Financial Service. You confirm and agree that you have obtained consent from the person who owns or is the current subscriber of the email address or phone number to receive the communication. These communications may identify you by name and may state that we're sending them on your behalf and according to your instructions.
 
-### 21(e). Returned and Unclaimed Notices to You
+### 22(e). Returned and Unclaimed Notices to You
 
 Unless otherwise prohibited by the laws or regulations governing your Eligible Account or Online Financial Service, this section applies if Account-Related Information documents are returned or electronic notifications are returned as undeliverable.
 
@@ -1619,7 +1687,7 @@ We may also:
 
 If we hold Account-Related Information for you to pick up and it remains unclaimed for a period of time, we may send the Account-Related Information to the address reflected in our records for your Eligible Account or destroy it.
 
-### 21(f). Contact Information Changes
+### 22(f). Contact Information Changes
 
 You agree to notify us immediately if you no longer own or you are no longer authorized to use or share your address, E-Address, or phone number you previously provided to us. Address changes may be initiated:
 
@@ -1631,7 +1699,7 @@ We may act on instructions purportedly made on your behalf within a reasonable t
 
 Unless you instruct us otherwise, we may change the U.S. Postal Service address or E-Address only for the account(s) you specify, or for all or some of your other account(s) with us.
 
-### 21(g). Complaints, Feedback, and Questions
+### 22(g). Complaints, Feedback, and Questions
 
 Your feedback and questions matter. Share your feedback and complaints so we can better serve you, and contact us with questions:
 
@@ -1648,7 +1716,7 @@ The Service also lets you securely communicate sensitive or confidential informa
 
  
 
-[22.  Sanctions, Export Controls, Bribery and Corruption, and International Use](#Expand)
+[23.  Sanctions, Export Controls, Bribery and Corruption, and International Use](#Expand)
 -----------------------------------------------------------------------------------------
 
 You acknowledge that your download, access, and use of this Service are subject to U.S. export control and sanctions laws (including those administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control) that prohibit the export, re-export, or transfer (in-country) of certain products, software, and technology (“Controlled Items”), which may include the Service, to certain territories or persons. You agree not to violate and not to cause Wells Fargo to violate U.S. export control and sanctions laws. By using the Service, you represent that:
@@ -1662,7 +1730,7 @@ Wells Fargo reserves the right to immediately block or reject transactions, and 
 
  
 
-[23.  General Provisions](#Expand)
+[24.  General Provisions](#Expand)
 ----------------------------------
 
 [(a). Changes to Agreement](#general-changes)
@@ -1681,35 +1749,35 @@ Wells Fargo reserves the right to immediately block or reject transactions, and 
 
 [(h). Headings](#general-headings)
 
-### 23(a). Changes to Agreement
+### 24(a). Changes to Agreement
 
 **Except as otherwise required by law, we may in our sole discretion add, delete, or change the terms of this Agreement at any time.**
 
-We'll inform you of changes to the Agreement when legally required to do so, and we'll try to notify you of material changes as soon as possible even when we are not legally required to do so. We will communicate such changes by updating this Agreement on our Website, and may also communicate such changes by email, mail, and/or providing notice of change on our Website.
+We'll inform you by providing written advance notice of any adverse changes. We’ll try to notify you of material non-adverse changes as soon as possible.
 
 You or your Authorized Representative's continued use of the Service after the effective date of any updated terms of the Agreement that are posted on our Website is an agreement by you to any such change to the Agreement. Except as otherwise required by law, any change to this Agreement applies only to transactions that occur, or claims that arise, after the change becomes effective.
 
 Changes to fees or specific terms for Eligible Accounts are governed by the corresponding specific agreement governing that Eligible Account.
 
-### 23(b). Governing Law
+### 24(b). Governing Law
 
 Each of your Eligible Accounts and Online Financial Services will continue to be read and interpreted according to the laws described in the agreements that you have with us regarding those Eligible Accounts or Online Financial Services (for example, your deposit account agreement or your credit card agreement with us).
 
 This Agreement will be read and interpreted according to the laws of the State of South Dakota (unless otherwise specified in this Agreement), without regard to conflict-of-law rules.
 
-### 23(c). Assignment
+### 24(c). Assignment
 
 We may assign our interest in this Agreement to Wells Fargo & Company, its successors, or to any now-existing or future direct or indirect subsidiary of Wells Fargo & Company. However, you may not assign or transfer this Agreement.
 
 We may also assign or delegate certain of our rights and responsibilities under this Agreement to independent contractors or other third parties.
 
-### 23(d). Intellectual Property and Other Proprietary Rights
+### 24(d). Intellectual Property and Other Proprietary Rights
 
 Other than your personal account information, all content included or available on the Service, such as advertisements, text graphics, button icons, images, audio clips, and software, including the collection, arrangement, and assembly thereof, is the property of Wells Fargo and/or third parties, and is protected by the Copyright Act and international treaties in addition to other state and federal intellectual property laws (collectively, the "Site Materials").
 
 The trademarks, logos, and service marks displayed on the Service (collectively, the "Trademarks") are the registered and unregistered trademarks of Wells Fargo, or third parties. You may not use, copy, alter, modify, or change these Trademarks or copy, display, distribute, transfer, link to, reproduce, license, frame, alter, create derivative works of, or republish all or any portion of the Site Materials for any commercial or public purpose. The Service does not grant (by implication or otherwise) any license or right to use any Trademarks or Site Materials without the express written permission of Wells Fargo, or the third party that has rights to such Trademarks or Site Materials.
 
-### 23(e). Entire Agreement
+### 24(e). Entire Agreement
 
 In combination with other applicable Wells Fargo agreements as described in Section 1(b) of this Agreement, this Agreement represents the agreement between you and Wells Fargo regarding the Service. It merges and supersedes all previous and contemporaneous written or oral agreements and understandings regarding the subject of online access.
 
@@ -1717,21 +1785,21 @@ Each of the rules, terms, and conditions set forth in this Agreement stands alon
 
 Unless stated otherwise, if any provision of this Agreement is held to be invalid or otherwise unenforceable, the remainder of the provisions will remain in full force and effect, and will in no way be invalidated or otherwise affected.
 
-### 23(f). Waiver
+### 24(f). Waiver
 
 We may agree in writing (or otherwise) to waive a provision of this Agreement, including a fee (a "Waiver"). We may revoke any Waiver.
 
-### 23(g). Failure to Act
+### 24(g). Failure to Act
 
 Our failure to act with respect to a breach of the Agreement by you or others doesn't waive our right to act with respect to subsequent or similar breaches.
 
-### 23(h). Headings
+### 24(h). Headings
 
 Headings are for reference only and don't define, limit, construe, or describe the scope or extent of a Section.
 
  
 
-[24.  Additional Services and Addenda Agreements](#Expand)
+[25.  Additional Services and Addenda Agreements](#Expand)
 ----------------------------------------------------------
 
 The following addenda agreements apply if enrolled in these additional services.
@@ -1740,7 +1808,5 @@ The following addenda agreements apply if enrolled in these additional services.
 *   [Direct Pay](https://www.wellsfargo.com//biz/online-banking/direct-pay/agreement)
 *   [ExpressSend® Transfers](https://www.wellsfargo.com//international-remittances/senders-rights)
 *   [Credit Close-Up® (FICO)](https://www.wellsfargo.com/privacy-security/fico-agreement/)
-
- 
-
-On or after March 24, 2026, [ExpressSend Mobile](https://www.wellsfargo.com/expresssend/mobile-terms-and-conditions/) will be available in the Wells Fargo Mobile app. The ExpressSend Mobile addendum applies to that service and is considered a part of this Agreement.
+*   [ExpressSend Mobile](https://www.wellsfargo.com/international-remittances/mobile-terms-and-conditions/)
+*   [Smart Start Banking](https://www.wellsfargo.com/mobile-online-banking/smart-start-terms)
