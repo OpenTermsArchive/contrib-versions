@@ -163,16 +163,16 @@ Learn how Oracle users consolidate compliance into one platform that reduces com
 *   [Westlaw Advantage Move from research to strategy faster with agentic AI and comprehensive, verified Westlaw content.](https://legal.thomsonreuters.com/en/products/westlaw-advantage)
 *   [Westlaw Edge Expedite complex legal research with AI tools that deliver precise, verified answers and strategic insights.](https://legal.thomsonreuters.com/en/products/westlaw-edge)
 
-![Waypoint graphic](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
+![](/content/dam/ue/en-us/images/navigation-waypoints/group_150.svg)
 
 Featured
 
-CoCounsel Legal
----------------
+Meet Thomson
+------------
 
-Complete legal work faster with AI that unites research, analysis, and drafting in one seamless experience.
+Meet our proprietary large language model (LLM), built for legal, tax, and regulatory work where accuracy and auditability matter.
 
-[Learn more](https://legal.thomsonreuters.com/en/products/cocounsel-legal)
+[Learn more](https://www.thomsonreuters.com/en/thomson-llm)
 
 *   Tax, audit & accounting Increase efficiency, mitigate risk, and provide premium client services with enhanced AI capabilities and expert insights.
 *   Corporate tax Process high-volume transactions accurately with scalable tax software built for multi-entity corporate environments.
