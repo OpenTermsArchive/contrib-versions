@@ -183,6 +183,10 @@ We may require users to verify their identity in order to register an Account, o
 
 We may also suspend or close your Account where you have multiple Accounts.
 
+Bumble may have to contact users' Mobile Network Operator in order to validate telephone numbers, verify identity and carry out checks for the prevention and detection of crime including fraud and/or money laundering.
+
+You authorise your wireless carrier to use or disclose information about your account and your wireless device, if available, to Bumble or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. See our Privacy Policy for how we treat your data.
+
 When a member may be suspended or blocked
 -----------------------------------------
 
@@ -303,7 +307,7 @@ ALL PURCHASES AND REDEMPTIONS OF VIRTUAL ITEMS MADE THROUGH OUR SERVICES ARE FIN
 8\. PUSH NOTIFICATIONS; LOCATION-BASED FEATURES
 -----------------------------------------------
 
-We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the Bumble services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at [feedback@team.bumble.com](mailto:feedback@team.bumble.com).
+We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the Bumble services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or going to our [Help Centre](https://support.bumble.com/hc/en-us) and following instructions for managing notifications.
 
 The App may allow access to or make available opportunities for you to view certain content, specific features and to receive other products, services and/or other materials based on your location. To make these opportunities available to you, the App will determine your location using one or more reference points, such as GPS, Bluetooth and/or software within your mobile device. If you have set your mobile device to disable GPS, Bluetooth or other location determining software or do not authorize the App to access your location data, you can still use the App but you will not be able to access certain location-specific content, products, services and materials that can only be shown based on your location. For more about how the App uses and retains your information, please read the [Privacy Policy](https://bumble.com/en/privacy).
 
@@ -507,7 +511,7 @@ These Terms, and any rights and licences granted hereunder, may not be transferr
 
 In the event there is a discrepancy between this English language version and any translated copies of the Terms, the English version shall prevail.
 
-If you have any questions, complaints or claims with respect to the App, please contact us at [feedback@team.bumble.com](https://bumble.com/en/feedback@team.bumble.com).
+If you have any questions, complaints or claims with respect to the App, please visit our [Help Centre](https://support.bumble.com/hc/en-us) to ask questions or to leave feedback.
 
 18\. GOVERNING LAW AND FORUM
 ----------------------------
@@ -521,4 +525,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 17 June 2026
+The Terms were last updated on: 24 November 2026
