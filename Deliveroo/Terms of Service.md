@@ -730,4 +730,16 @@ Reviews are available to the public so we strongly discourage users sharing any 
 
 **Removal and editing of Reviews** 
 
-We reserve the right to, but have no obligation to (unless required by law), remove or edit any Review at any time if we determine, in our sole discretion, that it does not meet the standards set out in these Guidelines, including where there is a risk that the Review may expose us, our Partner Restaurants or any other third party to harm or liability.
+We reserve the right to, but have no obligation to (unless required by law), remove or edit any Review at any time if we determine, in our sole discretion, that it does not meet the standards set out in these Guidelines, including where there is a risk that the Review may expose us, our Partner Restaurants or any other third party to harm or liability. 
+
+Digital Services Act
+--------------------
+
+**Content moderation on Deliveroo**  
+In accordance with our obligations under Articles 15 and 24 of the Digital Services Act (Regulation (EU) 2022/2065), the Deliveroo Content Moderation Transparency Report and information on our Monthly Active Recipients can be found at https://ir.doordash.com/overview/default.aspx.  
+  
+We take our obligations under legislation and regulation, including the Digital Services Act, very seriously. We ensure that content such as our partner menu items (including images) and consumer content such as reviews left on partner sites, are moderated and removed where necessary (in the event they do not comply with our terms and/or are illegal) to ensure our platform is a safe space for consumers.  
+**Customer reviews**: Details of how we moderate and remove customer reviews can be found at paragraphs 5 and 6 of the Deliveroo Terms of Use for Website and Applications, and the Deliveroo Review and User Contribution Terms [here](https://deliveroo.ie/legal), including the types of reviews we do not permit, and our suspensions process.  
+**Menu items:** We also take significant steps to ensure that menu items listed (as well as associated imagery, text and promotions) comply with applicable laws and regulations and our partners must comply with our Restricted Items Policy. This sets out items we do not permit to be sold, as well as actions we take to review and remove content, and our suspension policy.  
+**Use of webform as a point of contact:** As well as undertaking our own proactive measures to review and moderate content on our platform, we also enable users and authorities to contact us to report any content that is illegal via an easily accessible webform which can be reached via the “Contact Us” section in the footer of our landing page. Simply select from the “Digital Services Act” drop-down options and provide the information. An agent will review your complaint, take action where appropriate and inform you of the outcome. We will also let you know how you can appeal or complain about our decision, and provide details of any out-of-court settlement options available.  
+**Use of email as a point of contact:** You can also contact us via our email address [customersupport@deliveroo.ie](mailto:customersupport@deliveroo.ie).
