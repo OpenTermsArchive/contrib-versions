@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-#### View the Terms of Service in other languages: [Français (Canada)](https://www.youtube.com/t/terms?hl=fr-ca&override_hl=1) and [English](https://www.youtube.com/t/terms?hl=en&override_hl=1)
+#### View the Terms of Service in other languages: [French (Canada)](https://www.youtube.com/t/terms?hl=fr-ca&override_hl=1) and [İngilizce](https://www.youtube.com/t/terms?hl=en&override_hl=1)
 
 **What’s in these terms?**
 ==========================
@@ -262,4 +262,4 @@ In these terms, “include” or “including” means “including but not limi
 **Governing Law  
 **All claims arising out of or relating to these terms or the Service will be governed by California law, except California’s conflict of laws rules, and will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA. You and YouTube consent to personal jurisdiction in those courts.
 
-#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
+#### January 5, 2022 tarihinden itibaren geçerli ([önceki sürümü görüntüle](https://www.youtube.com/t/terms?archive=20210601))
