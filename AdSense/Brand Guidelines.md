@@ -1,38 +1,46 @@
-Branding Guidelines: WebSearch and AdSense for Search
-=====================================================
+Branding Guidelines for Google WebSearch and AdSense for Search
+===============================================================
 
-**Revised:** August 3, 2026
+**Revised:** November 27, 2026
+
+*   [Introduction](#introduction)
+*   [Display of search box](#display_of_search_box)
+*   [Display of search results\*](#display_of_search_results)
+*   [Display of sponsored listings](#display_of_sponsored_listings)
+*   [Use of Google brand features](#use_of_google_brand_features)
 
 Introduction
 ------------
 
-These guidelines apply to the use of Google's WebSearch (WS) and AdSense for Search (AFS).
+These Guidelines apply to the use of Google's WebSearch (WS) and AdSense for Search (AFS).
 
-For clarity, for the purposes of these guidelines:
+For the purposes of these Guidelines:
 
-*   "ads" means advertisements provided by Google. It does not mean any advertisements (or other advertising products or services) that are not provided by Google;
-*   "content" means everything presented to users by you, including publisher-generated content, syndicated content, user-generated content, organic search results, advertisements (whether provided by Google or a third party), and links to other sites or apps; and
-*   where it has been indicated that Google’s approval is required, such requirement only applies to the use of Google services, including ads provided by Google.
+*   "AFS ads" means AdSense for Search ads provided by Google;
+*   "content" means everything presented to users by you, including publisher-generated content, syndicated content, user-generated content, organic search results, ads (whether provided by Google or a third party), and links to other sites or apps; and
+*   where it has been indicated that Google’s approval is required, such requirement only applies to the use of Google services, including AFS ads.
 
-You must ensure that your use of Google services, including any content on properties where Google services are implemented, is in compliance with these guidelines. Google may take corrective action(s) for any non-compliance, including but not limited to the following: (1) suspending provision of any Google services, (2) requiring you to cease or modify the use or implementation of any Google services, or (3) exercising any of its rights under the applicable Google Services Agreement, or any other relevant agreement between you and Google.
+You must ensure that your use of Google services, including any content on properties where Google services are implemented, is in compliance with these Guidelines. Google may take corrective action(s) for any non-compliance, including but not limited to the following: (1) suspending provision of any Google services, (2) requiring you to cease or modify the use or implementation of any Google services, or (3) exercising any of its rights under the applicable Google Services Agreement, or any other relevant agreement between you and Google.
+
+For clarity, nothing in these Guidelines is intended to restrict your ability to source, implement, format, position, display, or modify any ads not provided by Google.
 
 Display of search box
 ---------------------
 
 The Google search box may appear virtually anywhere on your site. However, there are some specific policies governing its appearance, placement, and use.
 
-*   Any use of Google branding in association with the search box must be in accordance with the requirements of the [Use of Google brand features](#use_of_google_brand_features) section.
+*   Any use of Google branding in association with the search box must be in accordance with the requirements of the [Use of Google brand features](https://support.google.com/adsense/answer/6370057#use_of_google_brand_features) section.
 *   The search box may not be pre-populated with a search term.
-*   You may not include more than two Google search boxes on any web page.
+*   You may not include more than two Google search boxes on any page.
 
 Display of search results\*
 ---------------------------
 
-To ensure the highest quality product, the content and ordering of Google search results may not be altered.
+To ensure the highest quality product, the content and ordering of Google search results may not be altered. Google search results may be reordered only with written permission from Google.
 
 Any special formatting (e.g., bolding of query terms) received in the feed from Google must be preserved.
 
-\*Unless otherwise indicated, “search results” refer both to web search results (results from across the Web) as well as site search results (internal results from your site).
+\*Unless otherwise indicated, "search results" refer both to web search results (results from across the Web) as well as site search results (internal results from your site).
 
 ### Mandatory and optional elements
 
@@ -51,41 +59,36 @@ Even if there is no other content or sponsored listings on the page, the header 
 
 ### Distinguish from other content
 
-If you are permitted to use Google branding with search results and a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non-Google provided content.
+If you are permitted to use Google branding with search results and a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non Google-provided content.
 
-This policy applies regardless of whether the other content is comprised of ads delivered via AdSense for Search, or non-Google provided sponsored listings or non-Google provided search results.
+This policy applies regardless of whether the other content is comprised of ads provided by Google, or non Google-provided sponsored listings or non Google-provided search results.
 
 Display of sponsored listings
 -----------------------------
 
 ### General principles
 
-*   Sponsored listings (AFS ads or non-Google provided sponsored listings) must always be clearly identified as separate from Google-provided search results.
-*   Sponsored listings (AFS ads or non-Google provided sponsored listings) may not be intermingled with Google-provided search results.
-*   Ads may not be intermingled with non-Google provided search results, unless approved by Google in writing.
-*   You must include all elements of ads and the full text of the listings.
-*   You must preserve the ordering of ads and must not implement ads in a way that could lead to confusion regarding ads position ranking.
-*   You may not alter the content or format received in ad response in any way, other than via standard service functionality.
-*   Each ad must be shown only once, unless otherwise approved by Google in writing.
+*   Sponsored listings (AFS ads or non Google-provided sponsored listings) must always be clearly labeled and identified as separate from Google-provided search results.
+*   You must include all elements of AFS ads and the full text of the listings, unless approved by Google in writing.
+*   You must preserve the ordering of AFS ads and must not implement AFS ads in a way that could lead to confusion regarding ads position ranking, unless approved by Google in writing.
+*   You may not alter the content or format received in an AFS ad response in any way, other than via standard service functionality, unless approved by Google in writing.
+*   Each AFS ad must be shown only once, unless approved by Google in writing.
 
 ### Labeling of AFS ads
 
-By default, Google will provide the appropriate label within the AFS ad frame. Where you have been approved to manage your own labeling, these guidelines must be followed to properly identify the ads:
+By default, Google will provide the appropriate label within the AFS ad frame. You must not modify the label in any manner, unless approved by Google in writing.
 
-*   _Labeling_: AFS ads must be clearly labeled as, “Ads by Google,” “Ads,” "Sponsored Links," "Sponsored Listings" or "Paid Listings." Wording other than these is subject to approval by Google.
-*   _Location_: Unless otherwise approved by Google, AFS ad attribution must be displayed in the upper left-hand corner of the ad unit on desktop implementations (for right-to-left languages, upper right-hand corner), and in the upper right-hand or upper left-hand corner of the ad unit on mobile implementations.
+### Labeling of non Google-provided sponsored listings
 
-### Labeling of non-Google sponsored listings
+In order to distinguish non Google-provided sponsored listings from Google-provided search results, such listings must be labeled in a way that clearly identifies their sponsored nature. Examples of acceptable labeling include "Ads" or "Sponsored Links".
 
-In order to distinguish non-Google sponsored listings from Google-provided search results, such listings must be labeled in a way that clearly identifies their sponsored nature. Examples of acceptable labeling include "Ads" or "Sponsored Links".
+### Differentiation between AFS ads and results
 
-### Differentiation between ads and results
+AFS ads must always be clearly differentiated from any search results on the page. In addition to clearly and prominently labeling AFS ads, here are some techniques that you can use to differentiate AFS ads from search results:
 
-Ads must always be clearly differentiated from any search results on the page. In addition to clearly and prominently labeling ads, here are some techniques that you can use to differentiate ads from search results:
-
-*   Shading the ad unit background a color that clearly contrasts with the page background color
-*   Placing a border around the ad unit
-*   Using a strong line between the ad unit and the search results
+*   Shading the AFS ad unit background a color that clearly contrasts with the page background color
+*   Placing a border around the AFS ad unit
+*   Using a strong line between the AFS ad unit and the search results
 
 Use of Google brand features
 ----------------------------
@@ -94,15 +97,15 @@ Use of Google brand features is only permitted in accordance with the requiremen
 
 ### "enhanced by Google"
 
-Where you meet the requirements of this section, you may add an approved “enhanced by Google” logo to your search boxes and search result pages.
+Where you meet the requirements of this section, you may add an approved "enhanced by Google" logo to your search boxes and search result pages.
 
-The “enhanced by Google” logo constitutes the only approved use of the Google brand.\*
+The "enhanced by Google" logo constitutes the only approved use of the Google brand.\*
 
 \*Google can provide this logo in other languages upon request.
 
 ### Search results above the fold
 
-On desktop, Google branding may only be used on a site where at least one Google search result is fully visible above the fold (as defined by the visible area of a browser set to a standard font size with a screen resolution of 1366x768) on the search results page.
+On desktop, Google branding may only be used on a site where at least one Google search result is fully visible above the fold (as defined by the visible area on a standard browser screen resolution) on the search results page.
 
 This requirement applies to the use of Google branding in association with both search boxes and search results pages.
 
@@ -118,9 +121,9 @@ Subject to the requirements above, a site may display Google branding next to th
 
 The "enhanced by Google" logo must be directly associated with - and only with - the search results provided by Google.
 
-On search result pages that do not contain any publisher or third-party content, display of the “enhanced by Google” logo at the top of the search results page may be appropriate.
+On search result pages that do not contain any publisher or third-party content, display of the "enhanced by Google" logo at the top of the search results page may be appropriate.
 
-On search result pages that contain search results (or other content) that are not provided by Google, the “enhanced by Google” logo must not be used in such a way that users may associate Google’s brand with non-Google provided content. Typically, this will require displaying the logo directly adjacent to the Google-provided search results.
+On search result pages that contain search results (or other content) that are not provided by Google, the "enhanced by Google" logo must not be used in such a way that users may associate Google’s brand with non-Google provided content. Typically, this will require displaying the logo directly adjacent to the Google-provided search results.
 
 ### Limitations on use of Google logo
 
