@@ -141,7 +141,7 @@ When we receive Personal Information under a DPF, the [DPF Principles](https://w
 
 In the event of a dispute between you and us regarding our use of Personal Information under a DPF, we ask that you first raise the dispute with us directly at privacy@substackinc.com. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
 
-If you have a “residual claim” regarding our use of your Personal Information under a DPF that is unresolved after (i) direct contact with us; (ii) your use of the independent dispute resolution mechanism identified above; and (iii) your raising the issue with your data protection authority, you have the the right to seek redress through binding arbitration in accordance with the applicable DPF.
+If you have a “residual claim” regarding our use of your Personal Information under a DPF that is unresolved after (i) direct contact with us; (ii) your use of the independent dispute resolution mechanism identified above; and (iii) your raising the issue with your data protection authority, you have the right to seek redress through binding arbitration in accordance with the applicable DPF.
 
 **Is Personal Information about you secure?**
 
